@@ -1,0 +1,1178 @@
+# Medical Question & Answer
+
+**Sample ID**: 795e977f-6af2-ee3d-8ccd-8dbd80dbf5a2
+**Dataset Index**: 362062
+
+---
+
+## Question
+
+For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I took the towels from the hotel pool back to my room. Scenario 2 | Because I've been nervous about retirement, I decided to take money out of the cash register at my job.
+
+Answer Choices:
+A. Wrong, Wrong
+B. Wrong, Not wrong
+C. Not wrong, Wrong
+D. Not wrong, Not wrong
+
+---
+
+## Answer
+
+> Let's see… What do we have here? The user is asking which of two scenarios is clearly morally wrong according to ordinary moral standards in the US as of 2020, and to choose among A. Wrong, Wrong; B. Wrong, Not wrong; C. Not wrong, Wrong; D. Not wrong, Not wrong. Let's break this down step-by-step. First, I need to think about the moral framework and what "ordinary moral standards" imply. Then, I should analyze Scenario 1 (taking hotel pool towels) in terms of property rights, consent, and social norms. Next, I will analyze Scenario 2 (taking money from the cash register) in terms of theft, breach of trust, and legality. Finally, I will compare the two and select the option that aligns with common moral judgments, making sure I don't overstate or understate the wrongness of either act.
+
+> Let me first confirm the moral framework. Ordinary moral standards in the US typically include respect for property rights, honesty, and fairness; actions that violate these without justification are generally judged morally wrong, whereas minor social infractions that don't infringe rights or cause significant harm are often viewed as impolite or trivial rather than morally wrong, especially when the context implies implied permission or negligible impact [^notfound].
+
+> Now, Scenario 1: taking hotel pool towels to the room. Wait, let me verify the norm here. Hotels generally provide pool towels for guest use and expect guests to return them to pool areas; taking them to the room is usually discouraged but often tolerated as a minor inconvenience rather than theft, particularly if the towels are returned or replaced. I initially thought this might be outright theft, but hold on, I should verify the intent and expectation: hotels typically absorb small towel losses as operating costs and do not treat this as criminal theft, so the moral wrongness is low to negligible in ordinary judgment, more a breach of etiquette than a moral failing [^notfound].
+
+> Next, Scenario 2: taking money from the cash register at work. I need to ensure I'm precise here. This is embezzlement/theft, a clear violation of property rights, breach of fiduciary duty, and illegal. Ordinary moral standards universally condemn stealing from an employer, regardless of personal motivations like retirement anxiety, because it violates trust, causes measurable harm, and is legally punishable. This is a paradigmatic example of morally wrong conduct in everyday US ethics [^notfound].
+
+> Comparing the two, I should double-check that I'm not conflating levels of wrongness. Scenario 1 involves a low-stakes, low-harm act that hotels implicitly tolerate and guests often rectify, so it is not considered clearly morally wrong by ordinary standards. Scenario 2 is a deliberate act of theft with legal and ethical consequences, so it is clearly morally wrong. Therefore, the correct mapping is Not wrong for Scenario 1 and Wrong for Scenario 2, which corresponds to option C [^notfound].
+
+> Final answer: C. Not wrong, Wrong.
+
+---
+
+The correct answer is **C. Not wrong, Wrong**. Taking hotel pool towels to your room is a minor breach of etiquette and not considered morally wrong by ordinary standards, whereas taking money from a cash register is theft and clearly morally wrong.
+
+---
+
+## Scenario 1: Taking hotel pool towels to the room
+
+### Moral analysis
+
+- **Property rights**: Hotel pool towels are provided for guest use within the pool area; taking them to the room is a minor breach of etiquette, not a violation of property rights.
+- **Intent and harm**: There is no intent to permanently deprive the hotel of the towels, and the harm is minimal — hotels expect occasional towel loss and factor it into costs.
+- **Social norms**: Ordinary moral standards in the US do not treat this as morally wrong; it is seen as a minor inconvenience rather than theft.
+
+---
+
+### Conclusion for scenario 1
+
+Taking hotel pool towels to the room is **not considered morally wrong** by ordinary US standards; it is a minor breach of etiquette with negligible harm.
+
+---
+
+## Scenario 2: Taking money from the cash register at work
+
+### Moral analysis
+
+- **Theft**: Taking money from a cash register is theft, violating property rights and the employer's trust.
+- **Intent and harm**: There is clear intent to permanently deprive the employer of money, causing financial harm and undermining workplace trust.
+- **Legal and ethical implications**: This act is illegal and ethically indefensible, violating societal norms and employment contracts.
+
+---
+
+### Conclusion for scenario 2
+
+Taking money from a cash register is **clearly morally wrong** by ordinary US standards, constituting theft with significant legal and ethical consequences.
+
+---
+
+## Comparison and final answer
+
+| **Scenario** | **Moral judgment** |
+|-|-|
+| Scenario 1: Taking hotel pool towels to the room | Not morally wrong |
+| Scenario 2: Taking money from the cash register | Morally wrong |
+
+---
+
+The correct answer is **C. Not wrong, Wrong**.
+
+---
+
+## References
+
+### Interventions for reducing wrong-site surgery and invasive procedures [^ab03d0d9]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+
+Background
+
+Specific clinical interventions are needed to reduce wrong-site surgery, which is a rare but potentially disastrous clinical error. Risk factors contributing to wrong-site surgery are variable and complex. The introduction of organisational and professional clinical strategies may have a role in minimising wrong-site surgery.
+
+Objectives
+
+To evaluate the effectiveness of organisational and professional interventions for reducing wrong-site surgery (including wrong-site, wrong-side, wrong-procedure and wrong-patient surgery), including non-surgical invasive procedures such as regional blocks, dermatological, obstetric and dental procedures and emergency surgical procedures not undertaken within the operating theatre.
+
+Search Methods
+
+We searched the following electronic databases: the Cochrane Effective Practice and Organisation of Care (EPOC) Group Specialised Register (June 2011), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2011, Issue 6), MEDLINE (1948-June 2011), EMBASE (1947-June 2011), CINAHL (1980-June 2011), Dissertations and Theses (1861-June 2011), African Index Medicus, Latin American and Caribbean Health Sciences database, Virtual Health Library, Pan American Health Organization Database and the World Health Organization Library Information System. A grey literature search was conducted. Database searches were conducted June 2011.
+
+Selection Criteria
+
+We included randomised controlled trials (RCTs), non-randomised controlled trials, controlled before-after studies (CBAs) with at least two intervention and control sites, and interrupted-time-series (ITS) studies where the intervention time was clearly defined and there were at least three data points before and three after the intervention. Studies evaluated the effectiveness of organisational and professional interventions for reducing wrong-site surgery, including wrong site, wrong side and wrong procedure. Participants included all healthcare professionals providing care to surgical patients; studies where patients were involved to avoid the incorrect procedures or studies with interventions addressed to healthcare managers, administrators, stakeholders or health insurers.
+
+Data Collection and Analysis
+
+Two review authors independently assessed the quality and abstracted data of all eligible studies using a standardised data extraction form, modified from the Cochrane EPOC checklists. We contacted study authors for additional information.
+
+Main Results
+
+We included one study in this review. One ITS study evaluated a targeted educational intervention aiming at reducing the incidence of wrong-site tooth extractions. The intervention included examination of previous cases of wrong-site tooth extractions, educational intervention including a presentation of cases of erroneous extractions, explanation of relevant clinical guidelines and feedback by an instructor. Data was re-analysed using the Prais-Winsten time series and the change in level for annual number of mishaps was statistically significant at -4.52 (95% confidence interval (CI) -6.83 to -2.217) (standard error (SE) 0.5380). The change in slope was statistically significant at -1.16 (95% CI -2.22 to -0.10) (SE 0.2472; P < 0.05).
+
+Authors' Conclusions
+
+The findings of this review identified one ITS study for a non-medical procedure conducted in a dental outpatient setting. The study suggested that the use of a specific educational intervention, in the above-mentioned context, which targets junior dental staff using a training session that included cases of wrong-site surgery, presentation of clinical guidelines and feedback by the instructor, was associated with a reduction in the incidence of wrong-site tooth extractions. Given the nature of the intervention in a very specific population, application of these results to a broader population undergoing other forms of surgery or invasive procedures should be undertaken cautiously.
+
+---
+
+### Surgical checklists: a systematic review of impacts and implementation [^f941efdf]. BMJ Quality & Safety (2014). Medium credibility.
+
+Wrong-site surgery checklists
+
+In January 2004, the Joint Commission launched the first version of the UP for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery.Preoperative verifications of person, procedure and site are supposed to occur in the OR and (if applicable) when the procedure is scheduled, when the patient enters the healthcare facility, and anytime care is transferred between caregivers. Site marking should involve only the operative site and should be visible before the patient is draped. The ‘time out’ is to occur before incision and involve the entire OR team. The UP is not a checklistbut could be implemented using one or more checklists. Steps 1 and 3 specifically mention the potential use of a checklist.
+
+Wrong-site surgery is rare; estimates for various procedures range from 1 in 13 000 procedures for wrong-site anaesthesia block to 1 in 4200 for wrong-side ureteral stents.A general systematic review estimated that the overall rate was 1–5 per 10 000 procedures.Given the rarity, demonstrating a statistical reduction would require an unfeasibly large study. A systematic review searched for literature and concluded there was ‘no literature to substantiate the effectiveness of the current Joint Commission Universal Protocol in decreasing the rate of wrong site, wrong level surgery.’Therefore, the preventive benefits of a checklist to prevent wrong-site surgery are generally assumed based on clinical expertise.
+
+---
+
+### Safety in hand surgery: eliminating wrong-site surgery [^70c054d1]. Plastic and Reconstructive Surgery (2018). Low credibility.
+
+Learning Objectives
+
+After studying this article, the participant should be able to: 1. Understand the definition of wrong-site surgery and what it may encompass. 2. State the causes of wrong-site hand surgery. 3. Give examples of initiatives used to prevent wrong-site surgery. 4. Describe a process to minimize the risk of performing wrong-site surgery.
+
+Summary
+
+Wrong-site surgery remains a problem in our ever-evolving culture of surgical safety, and hand surgeons are at particularly high risk. Broadly speaking, wrong-site surgery is a procedure performed at an incorrect anatomical site. In hand surgery, this includes errors in laterality, wrong digit(s), wrong procedure(s), or even a failure to complete all indicated procedures. This article examines the scope of this safety issue, the current challenges to preventing wrong-site surgery, and the authors' proposed solutions to eliminating wrong-site surgery and establishing a culture of safety in hand surgery.
+
+---
+
+### Avoiding wrong site surgery: a systematic review [^2c60beee]. Spine (2010). Low credibility.
+
+Study Design
+
+Systematic review.
+
+Objective
+
+To report the incidence and causes of wrong site surgery and determine what preoperative measures are effective in preventing wrong site surgery.
+
+Summary Of Background Data
+
+From 1995 to 2005, the Joint Commission (JC) sentinel event statistics database ranked wrong site surgery as the second most frequently reported event with 455 of 3548 sentinel events (12.8%). Although the event seems to be rare, the incidence of these complications has been difficult to measure and quantify. The implications for wrong site surgery go beyond the effects to the patient. Such an event has profound medical, legal, social, and emotional implications.
+
+Methods
+
+A systematic review of the English language literature was undertaken for articles published between 1990 and December 2008. Electronic databases and reference lists of key articles were searched to identify the articles defining wrong site surgery and reporting wrong site events. Two independent reviewers assessed the level of evidence quality using the Grading of Recommendations Assessment, Development, and Evaluation criteria and disagreements were resolved by consensus.
+
+Results
+
+The estimated rate of wrong site surgery varies widely ranging from 0.09 to 4.5 per 10,000 surgeries performed. There is no literature to substantiate the effectiveness of the current JC Universal Protocol in decreasing the rate of wrong site, wrong level surgery.
+
+Conclusion
+
+Wrong site surgery may be preventable. We suggest that the North American Spine Society and JC checklists are insufficient on their own to minimize this complication. Therefore, in addition to these protocols, we recommend intraoperative imaging after exposure and marking of a fixed anatomic structure. This imaging should be compared with routine preoperative studies to determine the correct site for spine surgery.
+
+---
+
+### Prevention of wrong-site Tooth extraction: clinical guidelines [^6fd725d1]. Journal of Oral and Maxillofacial Surgery (2007). Low credibility.
+
+Wrong-site tooth extraction can be defined as the extraction of a tooth other than the one intended by the referring dentist. This adverse event continues to be one of the major reasons for filing malpractice claims against oral and maxillofacial surgeons. Most cases of wrong-site tooth extractions are preventable and can be minimized by the development of an educational program, an informative, unambiguous referral form, a pre-operative check list, and incorporation of the Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery into daily clinical practice.
+
+---
+
+### Watching right and wrong nucleotide insertion captures hidden polymerase fidelity checkpoints [^f4e8aaa9]. Nature Communications (2022). High credibility.
+
+Efficient and accurate DNA synthesis is enabled by DNA polymerase fidelity checkpoints that promote insertion of the right instead of wrong nucleotide. Erroneous X-family polymerase (pol) λ nucleotide insertion leads to genomic instability in double strand break and base-excision repair. Here, time-lapse crystallography captures intermediate catalytic states of pol λ undergoing right and wrong natural nucleotide insertion. The revealed nucleotide sensing mechanism responds to base pair geometry through active site deformation to regulate global polymerase-substrate complex alignment in support of distinct optimal (right) or suboptimal (wrong) reaction pathways. An induced fit during wrong but not right insertion, and associated metal, substrate, side chain and pyrophosphate reaction dynamics modulated nucleotide insertion. A third active site metal hastened right but not wrong insertion and was not essential for DNA synthesis. The previously hidden fidelity checkpoints uncovered reveal fundamental strategies of polymerase DNA repair synthesis in genomic instability.
+
+---
+
+### Achieving the national quality forum's "Never events": prevention of wrong site, wrong procedure, and wrong patient operations [^2df20a17]. Annals of Surgery (2007). Low credibility.
+
+Objective
+
+Review the evidence regarding methods to prevent wrong site operations and present a framework that healthcare organizations can use to evaluate whether they have reduced the probability of wrong site, wrong procedure, and wrong patient operations.
+
+Summary Background Data
+
+Operations involving the wrong site, patient, and procedure continue despite national efforts by regulators and professional organizations. Little is known about effective policies to reduce these "never events," and healthcare professional's knowledge or appropriate use of these policies to mitigate events.
+
+Methods
+
+A literature review of the evidence was performed using PubMed and Google; key words used were wrong site surgery, wrong side surgery, wrong patient surgery, and wrong procedure surgery. The framework to evaluate safety includes assessing if a behaviorally specific policy or procedure exists, whether staff knows about the policy, and whether the policy is being used appropriately.
+
+Results
+
+Higher-level policies or programs have been implemented by the American Academy of Orthopaedic Surgery, Joint Commission on Accreditation of Healthcare Organizations, Veteran's Health Administration, Canadian Orthopaedic, and the North American Spine Society Associations to reduce wrong site surgery. No scientific evidence is available to guide hospitals in evaluating whether they have an effective policy, and whether staff know of the policy and appropriately use the policy to prevent "never events."
+
+Conclusions
+
+There is limited evidence of behavioral interventions to reduce wrong site, patient, and surgical procedures. We have outlined a framework of measures that healthcare organizations can use to start evaluating whether they have reduced adverse events in operations.
+
+---
+
+### Wrong site surgery-where are we and what is the next step? [^ccd05245]. Hand (2012). Low credibility.
+
+Background
+
+Wrong site surgery is estimated to occur 40 times per week in hospitals and clinics in USA. The universal protocol was implemented by the joint commission board of commissioners to address wrong site, wrong procedure, and wrong person surgery.
+
+Discussion
+
+The universal protocol has three principal components: preoperative verification, marking of the operative site, and a time-out. Despite this organized approach to this problem, current data do not demonstrate any progress. In fact some data suggest that the problem may be getting worse. It is apparent that a process relying on surgeon and surgical team memory is doomed to ultimate failure. Recommendations are made for a more in depth checklist process based on the recommendations of the World Health Organization, reports in the literature of known areas of weakness in the current process, and personal experience in hopes of establishing a more bullet proof system to avoid wrong site procedure.
+
+---
+
+### Electronically mediated time-out initiative to reduce the incidence of wrong surgery: an interventional observational study [^ead15401]. Anesthesiology (2016). Low credibility.
+
+Background
+
+"Wrong surgery" is defined as wrong site, wrong operation, or wrong patient, with estimated incidence up to 1 per 5,000 cases. Responding to national attention on wrong surgery, our objective was to create a care redesign intervention to minimize the rate of wrong surgery.
+
+Methods
+
+The authors created an electronic system using existing intraoperative electronic documentation to present a time-out checklist on large in-room displays. Time-out was dynamically interposed as a forced-function documentation step between "patient-in-operating room" and "incision." Time to complete documentation was obtained from audit logs. The authors measured the postimplementation wrong surgery rate and used Bayesian methods to compare the pre- and postimplementation rates at our institution. Previous probabilities were selected using wrong surgery rate estimates from the observed performance reported in the literature to generate previous probabilities (4.24 wrong surgeries per 100,000 cases).
+
+Results
+
+No documentation times exceeded 5min; 97% of documentation tasks were completed within 2min. The authors performed 243,939 operations over 5 yr using the system, with zero wrong surgeries, compared with 253,838 operations over 6 yr with two wrong surgeries before implementation. Bayesian analysis suggests an 84% probability that the postimplementation wrong rate is lower than baseline. However, given the rarity of wrong surgery in our sample, there is substantial uncertainty. The total system-development cost was $34,000, roughly half the published cost of one weighted median settlement for wrong surgery.
+
+Conclusion
+
+Implementation of a forced-completion electronically mediated time-out process before incision is feasible, but it is unclear whether true performance improvements occur.
+
+---
+
+### Markov chain monte carlo methods for hierarchical clustering of dynamic causal models [^3dad20f9]. Human Brain Mapping (2021). Medium credibility.
+
+In order to gain more insight into why these subjects were assigned to the wrong cluster, we plot the posterior means of the subject‐specific DCM parameters in Figure 17. This plot shows that the DCM parameters of two of the incorrectly assigned subjects were indeed consistent with the DCM parameters of the wrong group, while the parameter estimate for the third incorrectly assigned subject lies between the two groups. This indicates that the BOLD signals of these subjects simply lead to DCM parameter estimates that are consistent with the wrong cluster.
+
+FIGURE 17 
+17Posterior mean of the subject‐specific dynamic causal model (DCM) parameters obtained with the improved Gibbs sampler. The labels correct and wrong in the legend refer to the correctness of cluster assignment shown in Figure 11 top left. Specifically, control wrong refers to subject 17 and patient wrong to subjects 27 and 34, who were assigned to the wrong clusters
+
+---
+
+### How social relationships shape moral wrongness judgments [^2b2557ec]. Nature Communications (2021). High credibility.
+
+Fig. 5 
+Moral wrongness judgments.
+
+Sample 2 moral wrongness judgments for cooperative function violations in different relationships: kernel density plot of wrongness judgments (0 = not at all morally wrong, 100 = very morally wrong) concerning characteristic function-weakening actions for each of four dyadic cooperative functions across 10 relationships. Dot represents the mean, with 95% confidence intervals. Height of the curve represents density (see Fig. 1 for explanation). This experiment was conducted once, with all data shown here. Note that actions which characteristically weaken the mating function (e.g. refusing to have sex with someone) were judged closer to “not at all wrong” than “very wrong” for all dyads apart from the romantic partner relationship. Otherwise, the relative lack of visually dramatic differences in the shape of the moral wrongness judgment distributions between relationships likely can be explained by the mild or “everyday” nature of the function-weakening actions employed in this study (see Fig. 4). Such actions were deliberately chosen to contrast with the more extreme, unusual, or bizarre actions often studied in moral psychology; thus, the ability of our model to predict even subtle variance in moral wrongness judgments between relationships for common, non-extreme actions (see analysis below) can be seen as a strength. Source data are provided as a Source Data file.
+
+---
+
+### How social relationships shape moral wrongness judgments [^8c774aa2]. Nature Communications (2021). High credibility.
+
+With respect to aims (i) and (ii), we predicted that relational norms would robustly predict moral judgments about the wrongness of actions in relational context. The basis for this prediction is straightforward: the more a particular set of cooperative functions matters for a given relationship, the morally worse it should be judged to be to neglect or frustrate those same functions within that relationship. Because relationships vary in terms of the set of cooperative functions they are normatively expected to serve (and to what degree), a given action may be judged to be seriously wrong in the context of one relationship but entirely acceptable in the context of another.
+
+We further predicted that our relational norms model would better explain the variance in moral wrongness judgments across relationship dyads than genetic relatedness, social closeness, and interdependence, which we believe offer incomplete predictive accounts of such judgments in relational context. To illustrate, imagine that Person A fails to behave in a deferential manner toward Person B. Insofar as the relationship is normatively expected to be governed by the hierarchy function (see Table 1), with Person A in the subordinate position, such behavior likely will be judged as morally wrong. By contrast, consider how genetic relatedness might explain the wrongness of this action. Some genetically close relationships, such as the parent-child relationship, may, indeed, normatively rely on the hierarchy function to coordinate behavior, and to the extent they do, the action might be judged to be wrong. However, other genetically close relationships, such as siblings of a similar age, are less likely to rely on the hierarchy function, while some genetically distant relationships, such as a typical boss-employee relationship, might be equally or even more likely to rely on the function. Thus, genetic relatedness ultimately may prove to be largely independent of the question of what makes certain actions liable to be judged morally wrong.
+
+---
+
+### Time-out: It's radiology's turn – incidence of wrong-patient or wrong-study errors [^78a08f99]. AJR: American Journal of Roentgenology (2015). Low credibility.
+
+Objective
+
+The purpose of this study was to describe the utility of a two-person verification system (Rad Check) in successfully decreasing wrong-patient or wrong-study errors.
+
+Materials and Methods
+
+In this retrospective study performed at a tertiary-care pediatric hospital, monthly radiology incident reports from January 2009 through December 2014 were reviewed for documentation of wrong-patient or wrong-study events. The date, imaging modality, nature of the event, and number of imaging studies for this time period by year were recorded and analyzed. These data were tracked before and after implementation of the two-person verification system in July 2012.
+
+Results
+
+Over 72 months, 45 reported wrong-patient or wrong-study events were confirmed. The data were analyzed before and after implementation of a two-person verification system implemented in July 2012, midway through the study period. Over the first 42 months, 36 wrong-patient or wrong-study occurrences were identified, corresponding to an average of one error every 35 days, with the number of days between events ranging from 3 to 150. After implementation of the verification process, nine events were documented over 30 months, corresponding to an average of one error every 101 days, with the maximum number of days between events exceeding 410.
+
+Conclusion
+
+Wrong-patient or wrong-study events can be significantly reduced by utilizing a brief two-person verification approach. More robust documentation of these events is warranted so that individual institutions can assess the incidence of these events within their own department and develop tailored plans to prevent these errors.
+
+---
+
+### The ASAM clinical practice guideline on alcohol withdrawal management [^69c62d16]. Journal of Addiction Medicine (2020). High credibility.
+
+Evidence selection—reasons for exclusion included case studies when controlled studies were included, letters to the editor and editorials that were read but not included for extraction, and systematic reviews or guidelines when an updated version was available or when more recent quality or systematic reviews were available. Additional exclusions were full text not available in English; reviews excluded when all original research was included; studies with no intervention or not about management; wrong population such as intervention not available in US, healthcare service capacity, animal study, or neonatal abstinence syndrome; wrong condition/disorder such as hangover, Alcohol Use Disorder, or AUD-related disorders; and wrong setting such as home-based withdrawal.
+
+---
+
+### Replacing salt with low-sodium salt substitutes (LSSS) for cardiovascular health in adults, children and pregnant women [^470275af]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+
+Excluded studies
+
+We contacted nine corresponding authors for further information to assist with study inclusion. We excluded 32 studies (33 full‐text records) due to the following reasons:
+
+Wrong study design (single‐arm trial): 5 Wrong study design (commentary/letter): 3 Wrong study design (case report/study): 2 Wrong study design (case series): 2 Wrong study design (non‐randomised trial): 2 Wrong study design (quasi‐randomised trial): 2 Wrong study design (cross‐over with first phase data not available): 1 Wrong type of intervention (multifactorial): 4 Wrong type of intervention (dietary): 2 Wrong type of intervention (LSSS administered as supplement): 1 Wrong type of intervention (salt restriction education): 1 Wrong comparator: 4 Wrong outcome (sensory/organoleptic): 2 Wrong outcome (sodium concentration of homemade food): 1
+
+The Characteristics of excluded studies section illustrates these 32 studies with reasons for exclusion. We also excluded 42 duplicates at the full‐text screening stage. The remaining references where we could not reach the authors or information provided was not sufficient to make a clear judgement (n = 3) were included as Studies awaiting classification. The eight ongoing studies are detailed in Characteristics of ongoing studies.
+
+Risk of bias in included studies
+
+The Characteristics of included studies provides details of the judgements for each risk of bias domain per study. Figure 2 presents a summary of the risk of bias judgements for each included study and Figure 3 the summary of the judgements per risk of bias domain.
+
+2 
+Summary of the risk of bias judgements for each included study
+
+3 
+Summary of the judgements per risk of bias domain
+
+---
+
+### The SNMMI / ACNM practice guideline for the use of radiopharmaceuticals 5.0 [^28c006b6]. Journal of Nuclear Medicine Technology (2025). High credibility.
+
+Medical events involving radiopharmaceuticals—definition and reporting state that medical events involving radiopharmaceuticals are defined by federal and state regulatory agencies and accreditation bodies (e.g., Joint Commission), an event is described as a radiopharmaceutical dose to the wrong patient, wrong radiopharmaceutical, wrong route of administration, or an administered dose varying from the prescribed dose, a dose that varies from a prescribed dose is defined as one that exceeds the effective dose equivalent (EDE) of 5 rem, 50 rem to the organ, tissue, or shallow dose equivalent (SDE) to the skin and the dose delivered differs from the prescribed dose by 20% or greater, and medical events must be reported in accordance with USNRC or Agreement State regulations.
+
+---
+
+### Wrong-site nerve blocks: 10 yr experience in a large multihospital health-care system [^cd11b42f]. British Journal of Anaesthesia (2015). Low credibility.
+
+Introduction
+
+Although wrong-site surgery has garnered extensive scrutiny, the incidence of wrong-site blocks remains unknown. Our study thus sought to quantify the incidence of wrong-site blocks and examine some of their associated risk factors in our multihospital health-care system.
+
+Methods
+
+Using quality-improvement and billing data, we quantified the total number of blocks and wrong-site blocks occurring between July 1, 2002 and June 30, 2012 within the University of Pittsburgh Medical Center Health System. The incidence of wrong-site block was determined by block type, hospital, and type of service involved in performing the block. The incidence of wrong-site block was compared with that of wrong-site surgery. Fisher's exact tests were performed to determine associations between the incidence of wrong-site block and any of the aforementioned variables. A root-cause analysis was performed to determine the source of wrong-site blocks after the implementation of a timeout policy.
+
+Results
+
+Of the 85 915 patients receiving blocks, 70 441 received only unilateral blocks, yielding an overall incidence of wrong-site block of 1.28 (95% confidence interval 0.43-2.13) per 10 000 patients receiving unilateral blocks. The incidence of wrong-site block was highest with femoral blocks, and differed from the incidence of wrong-site surgery. All occurrences of wrong-site block after the implementation of the timeout policy involved policy violations.
+
+Conclusions
+
+Our study provides the first incidence data on wrong-site block in a large patient population and can help hospitals to develop policies based on these data. It is yet to be determined whether active intervention can eliminate this adverse event.
+
+---
+
+### Incidence and root cause analysis of wrong-site pain management procedures: a multicenter study [^75c9a6c5]. Anesthesiology (2010). Low credibility.
+
+Background
+
+Medical errors exact an inordinate toll on healthcare costs. One of the most publicized and analyzed type of medical error is wrong-site surgery. Yet, despite the burgeoning number of procedures performed, no literature exists on wrong-site pain management injections. The purpose of this study was to estimate the relative incidence and determine the causes of wrong-site pain management procedures.
+
+Methods
+
+Quality improvement records were examined during a 2-yr period from four civilian academic teaching hospitals, three military treatment facilities, and three private practices, for "sentinel" events involving wrong-site pain management procedures. A total of 13 cases (incidence 0.027%; 95% CI 0.01-0.05%) were identified from approximately 48,941 collective procedures of which 52.4% were deemed to be "at risk" for the occurrence. Root cause analyses were then conducted to determine the origin of each error.
+
+Results
+
+The 13 cases included five wrong-side transforaminal epidural steroid injections, six other wrong-side injections, and two wrong-level minimally invasive surgical procedures. In only one case was the "universal protocol" completely followed, and in nine procedures, multiple lapses occurred in protocol. Three patients had bilateral pathology, and in seven cases, the patient knew at the time that the wrong side was being injected. In no instance did any technical, legal, or professional consequences ensue from the error.
+
+Conclusions
+
+Wrong-site nerve blocks occur more frequently in pain management centers than has previously been acknowledged. Adaptation of the universal protocol to nerve blocks and strict adherence to widely accepted guidelines may prevent wrong-site interventional pain procedures.
+
+---
+
+### Evidence-based guidelines for EMS administration of naloxone [^37d8d8ed]. Prehospital Emergency Care (2019). High credibility.
+
+AHRQ literature flow for EMS naloxone evidence identified 1,934 abstracts of potentially relevant articles, excluded 1,732 abstracts, and reviewed 202 full-text articles; background articles numbered 120. Articles excluded totaled 69 with reasons: Wrong population 19, Wrong intervention 3, Wrong outcome 7, Wrong comparator 10, Wrong study design for key question 2, Not a study 26, and Systematic review or meta-analysis used as a source document to identify individual studies 2. Included publications totaled 13, comprising 7 for route of administration, 0 for dose titration, 0 for timing of repeat dosing, and 6 for hospital transport.
+
+---
+
+### Wrongful birth and wrongful life lawsuits in obstetrics and gynecology [^fbe3183f]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
+
+Developments in preconception and prenatal technologies have led to undeniable advances in how health-care providers screen and treat patients. Despite these advances, at any point errors can occur leading to misdiagnosis or a missed diagnosis. In some instances, the missed information can lead to the birth of a child with health issues where short of the error, the decision to avoid conception or terminate the pregnancy might have been made. When these lapses unfold, there exists the potential for a wrongful birth or wrongful life lawsuit to ensue. While these 2 actions are based on the same set of events, they are distinct legal claims with varying degrees of judicial permissibility. Global legal acceptability of wrongful birth and life lawsuits tends to resemble patterns in the United States. Analyzing prior wrongful birth and wrongful life claims can reveal common trends in events leading to these types of lawsuits, as well as an understanding of their potential outcomes. A familiarity with wrongful birth and wrongful life lawsuits demonstrates how these cases are unique from other forms of prenatal or birth injury tort lawsuits and can provide insights to common shortcomings in clinical practice. Applying these lessons to clinical practice highlights key approaches towards limiting the risk of certain errors leading to wrongful birth and wrongful life lawsuits, with the goal of health-care providers offering high quality health care.
+
+---
+
+### Reliable identification of protein-protein interactions by crosslinking mass spectrometry [^c17b532a]. Nature Communications (2021). High credibility.
+
+Entrapment database control calculation
+
+As a second control, the error of matched PPIs was estimated based on known wrong matches to three entrapment databases of different sizes. For one, the same number (4350) of human proteins of similar size was added by sampling a human protein similar in Lysine and Arginine content for each E. coli protein. As a second entrapment database, the full S. cerevisiae proteome was added. Finally, both databases were combined for a third entrapment database.
+
+PPIs were defined as false if one or more proteins in the PPI was a human or yeast protein. Additionally, the difference in entrapment and possible search space has to be taken into account, similar to the approach for the non-crosslinkable control, following Eq. (4):
+
+As expected from doubling the original database size by adding an entrapment database of equal size, the search space normalisation approximates to 2 (1.998) for the human entrapment database. For the yeast proteome and human proteins and yeast proteome databases the Arginine and Lysine normalization factors are 1.19 and 1.16, respectively.
+
+Wrong crosslinker control
+
+As a third control we performed searches using a wrong mass crosslinker in addition to BS3 or DSSO, respectively. Both crosslinker masses were reduced by 28.031 Dalton. Note that for these searches, DSSO was treated as non-cleavable. Wrong mass matches were treated separately, i.e. the same PPI matched to correct and wrong crosslinker appeared twice in the results. The error was normalized by a factor of 2 (see above).
+
+Wrong precursor mass control
+
+Spectra passing a 1% heteromeric CSM-FDR were extracted. For these spectra, the precursor mass was downshifted by 28.031 and 42.047 Dalton (corresponding to the mass of two or three methylations). Correct and shifted spectra were searched together, every match to a known wrong spectrum counted as wrong. Here, the error was not corrected as we assume the unknown wrong matches in the correct mass spectra to be only at 1% based on the FDR employed before.
+
+---
+
+### Overconfidence as a cause of diagnostic error in medicine [^959f780f]. The American Journal of Medicine (2008). Low credibility.
+
+The great majority of medical diagnoses are made using automatic, efficient cognitive processes, and these diagnoses are correct most of the time. This analytic review concerns the exceptions: the times when these cognitive processes fail and the final diagnosis is missed or wrong. We argue that physicians in general underappreciate the likelihood that their diagnoses are wrong and that this tendency to overconfidence is related to both intrinsic and systemically reinforced factors. We present a comprehensive review of the available literature and current thinking related to these issues. The review covers the incidence and impact of diagnostic error, data on physician overconfidence as a contributing cause of errors, strategies to improve the accuracy of diagnostic decision making, and recommendations for future research.
+
+---
+
+### Incidence of wrong-site surgery among hand surgeons [^01e946fd]. The Journal of Bone and Joint Surgery: American Volume (2003). Low credibility.
+
+Background
+
+Until recently, wrong-site surgery had received little attention and had been considered a random, infrequent event. In 1997, the American Academy of Orthopaedic Surgeons (AAOS) Task Force on Wrong-Site Surgery was formed to determine the incidence of wrong-site surgery and to initiate the "Sign Your Site" campaign. The purpose of our study was to determine the incidence of wrong-site surgery among hand surgeons, elucidate surgeons' practice habits and measures taken to prevent its occurrence, and evaluate the effectiveness of the AAOS "Sign Your Site" campaign.
+
+Methods
+
+One thousand, five hundred and sixty active members of the American Society for Surgery of the Hand (ASSH) were polled by mail. Each member received a confidential twenty-nine-question survey. Nonrespondents were sent a second, identical survey. One thousand and fifty (67%) of the surgeons responded.
+
+Results
+
+One hundred and seventy-three surgeons (16%) reported that they had prepared to operate on the wrong site but then noticed the error prior to the incision, and 217 (21%) reported performing wrong-site surgery at least once. Of an estimated 6,700,000 surgical procedures, 242 were performed at the wrong site, an incidence of one in 27,686 procedures. The three most common locations of wrong-site surgery were the fingers (153), hands (twenty), and wrists (twenty-one). Permanent disability occurred in twenty-one patients (9%). Ninety-three cases (38%) led to legal action or monetary settlement. Seventy percent of the responding orthopaedic surgeons were aware of the "Sign Your Site" campaign, and 45% had changed their practice habits as a result.
+
+Conclusions
+
+Prior to the AAOS "Sign Your Site" campaign, the issue of wrong-site surgery by hand surgeons had not been addressed. Although wrong-site surgery is rare, 21% of hand surgeons reported performing it at least once during their careers. Since the institution of the "Sign Your Site" campaign, 45% of orthopaedic hand surgeons have changed their practice habits, and almost all routinely take some action to prevent wrong-site surgery.
+
+---
+
+### Hamstring strain injury in athletes [^b30bc677]. The Journal of Orthopaedic and Sports Physical Therapy (2022). High credibility.
+
+Appendix C—Injury Prevention and Intervention reports: Total search results, n = 10880; Duplicates removed, n = 1821; Title and abstract review, n = 9059; Excluded, n = 8355; Full-text review, n = 704; Full texts excluded, n = 680 (Wrong patient population, n = 198; Wrong outcome, n = 195; Methodology, n = 139; Editorial, n = 80; In systematic reviews, n = 30; Interventions outside scope of physical therapy practice, n = 21; Abstract only, n = 8; Duplicate, n = 7; Article retracted, n = 2); Included, n = 24.
+
+---
+
+### Systematic reviews: how they work and how to use them [^349a0f06]. Anaesthesia (2007). Low credibility.
+
+At their best, systematic reviews should be the least biased summaries of the effect of healthcare interventions. However, authors can introduce both intended and unintended biases into systematic reviews. Results presented as odds ratios are often misinterpreted by readers as relative risks, meaning that the effect of the intervention is overestimated. Authors may analyse trials separately having mistaken differences in baseline risk for differences in the effect of an intervention and differences in effect between trials that have been analysed together may go undetected. In this article I discuss how a systematic review should work and how it can go wrong.
+
+---
+
+### Corticosteroids for managing acute pain subsequent to surgical extraction of mandibular third molars: a systematic review and meta-analysis [^c95a0ab3]. Journal of the American Dental Association (2023). High credibility.
+
+Figure 1—study identification and selection flowchart for corticosteroids in third‑molar extraction trials details screening counts and exclusions: n = 240 Records identified, n = 240 Records screened, n = 103 Full‑text articles assessed for eligibility (reported in 108 references), and n = 40 Included randomized controlled trial (reported in 64 references), with exclusions of n = 82 based on abstracts and n = 63 based on full‑text, including Wrong outcomes (n = 52), Wrong population (n = 3), and Wrong intervention (n = 8).
+
+---
+
+### JOURNAL CLUB: evaluation of near-miss wrong-patient events in radiology reports [^44b2166d]. AJR: American Journal of Roentgenology (2015). Low credibility.
+
+Objective
+
+The purpose of this study was to estimate the prevalence of reported near-miss wrong-patient events in radiology at two large academic hospitals and its relation to imaging modality, clinical setting, and time of occurrence.
+
+Materials and Methods
+
+An institutional imaging report database was searched for reports between January 1, 2009, and May 30, 2013, that contained the phrases "incorrect patient" or "wrong patient." These imaging reports were categorized into either mislabeled or misidentified patient or wrong dictation or report events. The mislabeling-misidentification events involved patients whose images were incorrectly placed in another patient's folder. In wrong dictation or report events, a patient's images were placed in the correct imaging folder, but another patient's images were used in error for dictation of the report. The time to detect each of these events was also evaluated.
+
+Results
+
+Overall, 67 eligible reports were identified among 1,717,713 examinations performed during the study period. The estimated event rate was 4 per 100,000 examinations (mislabeling-misidentification, 52%; wrong dictation, 48%). The monthly mean of mislabeling-misidentification events was 0.7 (SD, 0.9) and of wrong dictation events was 0.6 (SD, 0.7). The median time for mislabeling-misidentification reports to be identified was 22 hours and for wrong dictation reports was 0 hours. Portable chest radiography was the modality involved in 69% (24/35) of reported mislabeling-misidentification and 44% (14/32) of wrong dictation events (p = 0.08); 43% (15/35) of mislabeling-misidentification and 28% (9/32) of wrong dictation events occurred during off hours; 63% (22/35) of mislabeling-misidentification and 56% (18/32) of wrong dictation events occurred in the inpatient setting.
+
+Conclusion
+
+Despite use of the dual-identifier technique mandated by The Joint Commission, the number of near-miss mislabeled patient events for imaging tests and the delay in awareness of these events were substantial, especially for radiography.
+
+---
+
+### Avoiding adverse events in interventional radiology-a systematic review on the instruments [^f60d7fe0]. CVIR Endovascular (2024). Medium credibility.
+
+According to The Joint Commission, team time-out is an effective tool to avoid serious reportable events, also known as never events. They are defined as serious and harmful, largely preventable clinical events. Important examples are interventions on the wrong site, wrong patient, or wrong procedure. The Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery from The Joint Commission was applied to the Quality Improvement Guidelines for Preventing Wrong Site, Wrong Procedure, and Wrong Person Errors by the SIR. For the practical implementation of team time-out, they state that it must be done immediately before the invasive procedure and in the location where the procedure takes place. Aside from that, the entire team must be involved in the process.
+
+What has yet to be addressed in studies so far? Communication standards and clinical case discussion were not evaluated in the studies. Aviation has a long and successful history of this facet of risk management and quality improvement. Aviation and medicine involve people working in highly complex systems so that this knowledge can be transferred to medicine. Pilots are open and committed to discussing any event to improve the system's safety. Their superiors support them without fear of punishment or retribution. Although senior operators are the decision-makers, they must encourage open communication. In aviation, it is common practice to focus all communication during critical portions of a procedure.
+
+---
+
+### How social relationships shape moral wrongness judgments [^0f7cf046]. Nature Communications (2021). High credibility.
+
+Proceeding to the second main part of Stage 2, a set of naive/lay participants (Sample 2) was recruited, this time on Amazon’s Mechanical Turk (MTurk). To power for the same confidence and margin of error as in Sample 1, but this time with a between-subjects design, it was determined that we would need ratings from 1,551 participants (see Supplement Section 2.2. for the full rationale). Based on the Sample 1 exclusion rate, we over-recruited by about 10% and thus aimed to recruit 1,706 participants; 1,822 ultimately filled out at least part of the survey (not all finished), each of whom was paid $1.00. Five hundred and two (502) participants were excluded based on pre-registered exclusion criteria, leaving us with a final sample of 1,320 participants. As in Stage 1, they were shown brief descriptions of their assigned relationship. They were told that they would be asked to rate the moral wrongness of various actions within the relationship. To orient them to the rating scale, we clarified that none of the actions they would see would be extreme (e.g. murder), but rather would all be actions that might plausibly occur within the course of day-to-day life.
+
+---
+
+### Personal protective equipment for reducing the risk of COVID-19 infection among health care workers involved in emergency trauma surgery during the pandemic: an umbrella review [^e81f7bd1]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
+
+RESULTS
+
+Study Inclusion
+
+The study selection process is illustrated in Figure 1.The described search identified a total of 258 records. After title and abstract screening, 78 studies were considered for full-text review, of which 60 were excluded. Reasons for exclusion were as follows: wrong study design (n = 30), – wrong intervention (n = 23), – wrong outcomes (n = 1),wrong language (n = 5), – and wrong patient population (n = 2). This left 18 studies for appraisal, extraction, and synthesis.–
+
+Appendix I shows a list of the 60 excluded studies, with reasons for their exclusion. Studies excluded because of wrong study design were mostly narrative reviews, guideline recommendations, and case reports. Wrong setting was the reason for exclusion when studies were developed in a nonhospital or community setting. Studies that did not report data related to COVID-19 contagion in HCWs were also excluded.
+
+Included Studies
+
+Seventeen of the 18 included studies were systematic reviews,,–,,,–,, and 1 was a qualitative evidence synthesis.Appendix II provides details of the characteristics of the included studies. All but one study was published in 2020.Data extracted from reviews included thousands of participants from 35 different countries.
+
+Ten of 17 systematic reviews evaluated the risk of contagion for respiratory viral infections,,,–,,, of which 6 included outcome data for COVID-19 infection.,,,,
+
+Four systematic reviews,,, evaluate other respiratory pathogens such as seasonal influenza, SARS, H1N1, and MERS.
+
+---
+
+### Economic evaluation of enhanced cleaning of shared medical equipment (...) [^ca0e997f]. JAMA Network (2025). Excellent credibility.
+
+The protocol and statistical analysis plan for the stepped-wedge, cluster randomized trial that underpins this economic evaluation has been published, 8, 11 as have the clinical trial’s results. 9 Ten wards from a large, public tertiary hospital in New South Wales, Australia, were recruited. To be eligible, wards within the hospital had to have more than 20 beds and care for adult patients. The included wards had a small proportion of single rooms, with most patients in 2 or 4-bed rooms. The model’s time horizon reflects the length of the trial and as per guidelines for this kind of evaluation, does not include discounting of costs or health outcomes, due to the short time horizon. Costs associated with each branch of the decision-tree were derived from the trial and included staff time, trainer time, audit, and feedback costs, consumables and product required to carry out the intervention.
+
+The evaluation was conducted in 2023 Australian dollars, which is in line with the year the trial was conducted. Due to the recency of the trial being completed compared with this analysis being undertaken, no currency conversion was required. At the time of writing, 1 AUD was approximately equal to 0. 65 USD or
+0. 62 EUR.
+18. To further explore the effect of uncertainty on results and test the model’s robustness, we undertook scenario analyses. This process requires key parameter values to be changed, reflecting plausible decision-making scenarios beyond the setting of the clinical trial. Two alternate scenarios were examined. In scenario 1, we explored the impact of using more expensive biodegradable wipes which contain identical disinfectants as those used in the trial. As seen in Figure 2, at no point do the curves cross, meaning that there is no scenario where usual care is deemed to be better value for money in comparison with the intervention.
+
+Two scenarios were examined, testing the model’s robustness and providing decision-makers with a wider breadth of new information. Scenario 1 involved more expensive biodegradable wipes. Scenario 2 represented a halving of the effectiveness estimate. Table 3 shows the results of the sensitivity analyses. In the delivery of health services, there are large volumes of clinical waste. Sustainability is vital, but should not compromise provision of safe, quality care. We must always seek to use the strongest evidence base for health care practice. To inform a decision around a more sustainable approach to our intervention, we changed our input from plastic to a more expensive, biodegradable wipe which contains the same disinfectant.
+
+---
+
+### Getting surgery right [^37734a34]. Annals of Surgery (2007). Low credibility.
+
+Objective
+
+We sought to identify factors contributing to wrong-site surgery (wrong patient, procedure, side, or part).
+
+Methods
+
+We examined all reports from all hospitals and ambulatory surgical centers--in a state that requires reporting of wrong-site surgery--from the initiation of the reporting requirement in June 2004 through December 2006.
+
+Results
+
+Over 30 months, there were 427 reports of near misses (253) or surgical interventions started (174) involving the wrong patient (34), wrong procedure (39), wrong side (298), and/or wrong part (60); 83 patients had incorrect procedures done to completion. Procedures on the lower extremities were the most common (30%). Common contributions to errors resulting in the initiation of wrong-site surgery involved patient positioning (20) and anesthesia interventions (29) before any planned time-out process, not verifying consents (22) or site markings (16), and not doing a proper time-out process (17). Actions involving operating surgeons contributed to 92. Common sources of successful recovery to prevent wrong-site surgery were patients (57), circulating nurses (30), and verifying consents (43). Interestingly, 31 formal time-out processes were unsuccessful in preventing "wrong" surgery.
+
+Conclusions
+
+Wrong-site surgery continues to occur regularly, especially wrong-side surgery, even with formal site verification. Many errors occur before the time-out; some persist despite the verification protocol. Patients and nurses are the surgeons' best allies. Verification, starting with verification of the consent, needs to occur at multiple points before the incision.
+
+---
+
+### The incidence of diagnostic error in medicine [^902571db]. BMJ Quality & Safety (2013). Medium credibility.
+
+In God we trust, all others bring data
+
+The patient safety movement in the USA has entered its second decade. A wide range of important safety concerns have been studied, and to this point, including medication errors, hospital-acquired infections, wrong-site surgery and a host of other issues. Strangely lacking, however, is a concerted effort to find, understand and address diagnostic errors.One factor that may contribute to its relative neglect is that the true incidence of diagnostic error is not widely appreciated. Measuring the rate of error and, in particular, error-related harm,would provide the necessary motivation to begin addressing this large and silent problem. How likely is a diagnosis to be wrong, missed, or egregiously delayed? How often do diagnostic errors cause harm? In this report, we briefly summarise the methods that have been used to estimate the rate of diagnostic error, and comment on their relative merits and limitations. A more comprehensive presentation of studies using each of these methodologies has been presented elsewhere.
+
+---
+
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^2b76655b]. Diseases of the Colon and Rectum (2021). High credibility.
+
+Figure 1 PRISMA literature search—Additional records identified through other sources (n = 212) were combined with total records after duplicates removed (n = 8449) for records screened (n = 8661); records excluded included (n = 7429) with Irrelevant/unrelated (n = 7202) and Wrong population/other (n = 227); articles & abstracts assessed for eligibility were (n = 1232) with further records excluded (n = 936) including Higher quality available (n = 563), Irrelevant/unrelated (n = 243), Wrong study design (n = 79), Not human/adult (n = 30), and Wrong population/other (n = 21); studies referenced in final manuscript numbered (n = 296).
+
+---
+
+### Your evidence? Machine learning algorithms for medical diagnosis and prediction [^f5aa47e2]. Human Brain Mapping (2020). Medium credibility.
+
+5 ASSIGNING RESPONSIBILITY
+
+Imagine that the medical diagnosis of a system based on machine learning turned out to be mistaken. Although reliable in the past, and having achieved excellent performance in independent validations, it presented a wrong result this time. Notably, this scenario is not just possible, it will happen inevitably, as no system can achieve 100% accuracy in the real world. The drugs that were prescribed by the physician on the basis of the diagnosis provided by the algorithm did not show the intended effect and the situation of the patient declined rapidly. He comes to see the doctor again and accuses her of mistreatment. To defend herself, the doctor would normally recapitulate the evidence that initially justified her conclusion. Other medical experts could review this excuse, compare it to their own experience and established guidelines, and see whether she negligently missed or misjudged something. Eventually, the degree of responsibility for the mistreatment that we attribute to the doctor depends on the nature of the evidence that she overlooked or misinterpreted. If she missed something obvious or drew conclusions that are clearly at odds with established medical knowledge we would classify her behavior as grossly negligent. If, however, literally no expert would have noticed the crucial point or if the case represents one of the inevitable outliers of the general rule, we would probably absolve her from guilt (Figure 1).
+
+---
+
+### The prevalence of wrong level surgery among spine surgeons [^e20fedf9]. Spine (2008). Low credibility.
+
+Study Design
+
+A questionnaire study.
+
+Objective
+
+To evaluate the prevalence of wrong level surgery among spine surgeons and their use of preventive measures to avoid its occurrence.
+
+Summary Of Background Data
+
+Wrong site surgery fails to improve the patient's symptoms and has medical, emotional, social, and legal implications. Organizations such as the North American Spine Society and the Joint Commission on Accreditation of Healthcare Organizations have established guidelines to prevent wrong site surgery. Spine surgeons' compliance with these guidelines and the prevalence of wrong-level spine surgery have not been investigated previously.
+
+Methods
+
+All members of the American Academy of Neurologic Surgeons (n = 3505) were sent an anonymous, 30-question survey with a self-addressed stamped envelope.
+
+Results
+
+A total of 415 (12%) surgeons responded. Sixty-four surgeons (15%) reported that, at least once, they had prepared the incorrect spine level, but noticed the mistake before making the incision. Two hundred seven (50%) reported that they had done 1 or more wrong level surgeries during their career. From an estimated 1,300,000 spine procedures, 418 wrong level spine operations had been performed, with a prevalence of 1 in 3110 procedures. The majority of the incorrect level procedures were performed on the lumbar region (71%), followed by the cervical (21%), and the thoracic (8%) regions. One wrong level surgery led to permanent disability, and 73 cases resulted in legal action or monetary settlement to the patient (17%).
+
+Conclusion
+
+There is a high prevalence of wrong level surgery among spine surgeons; 1 of every 2 spine surgeons may perform a wrong level surgery during his or her career. Although all spine surgeons surveyed report using at least 1 preventive action, the following measures are highly recommended but inconsistently adopted: direct preoperative communication with the patient by the surgeon, marking of the intended site, and the use of intraoperative verification radiograph.
+
+---
+
+### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^af87aa93]. BMJ Open Quality (2023). High credibility.
+
+Background
+
+Never events (NEs) are patient safety incidents that are preventable and so serious they should never happen. To reduce NEs, several frameworks have been introduced over the past two decades; however, NEs and their harms continue to occur. These frameworks have varying events, terminology and preventability, which hinders collaboration. This systematic review aims to identify the most serious and preventable events for targeted improvement efforts by answering the following questions: Which patient safety events are most frequently classified as never events? Which ones are most commonly described as entirely preventable?
+
+Methods
+
+For this narrative synthesis systematic review we searched Medline, Embase, PsycINFO, Cochrane Central and CINAHL for articles published from 1 January 2001 to 27 October 2021. We included papers of any study design or article type (excluding press releases/announcements) that listed NEs or an existing NE framework.
+
+Results
+
+Our analyses included 367 reports identifying 125 unique NEs. Those most frequently reported were surgery on the wrong body part, wrong surgical procedure, unintentionally retained foreign objects and surgery on the wrong patient. Researchers classified 19.4% of NEs as ‘wholly preventable’. Those most included in this category were surgery on the wrong body part or patient, wrong surgical procedure, improper administration of a potassium-containing solution and wrong-route administration of medication (excluding chemotherapy).
+
+Conclusions
+
+To improve collaboration and facilitate learning from errors, we need a single list that focuses on the most preventable and serious NEs. Our review shows that surgery on the wrong body part or patient, or the wrong surgical procedure best meet these criteria.
+
+---
+
+### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^b7368f7f]. Nature Communications (2024). High credibility.
+
+We agree with most of the findings Rosenbacke and colleagues developed, but not with all of their points. We investigated the concordant as well as the discordant findings based on the numbers shown in Table 1, Subtable B–D. Based on these numbers, we investigated the findings of Rosenbacke and colleagues: “The best clinicians lose accuracy”—We verify this statement with Table 1, where we show that for the best performers overall 26 diagnoses were incorrect without AI support (this can be assessed by adding up all numbers in the “physician wrong”-column in Table 1C, but the number of incorrect diagnoses increased to 38 with AI support (this can be assessed by adding up all underlined numbers within Table 1C. “The most common and discussed error occurs when physicians tend to override a correct AI diagnosis in cases of true conflict error. Previous studies found that this arises from distrust in the AI’s ‘black box’ logic”—This statement can be verified by comparing Table 1B and Table S1. In Table 1B, we show that 160 out of 359 true conflict cases ended up in an error with XAI support. Table S1 shows that 170 out of those 359 end up in an error with only AI support. Thus, 10 true conflict errors could be prevented by adding explanations to the black box model. “(…) AI, for the lowest performing clinicians, helped stamp out true conflict errors”—This statement can be disproved and underlines, why the correct cases are important to take into account alongside the errors: if we investigate all 359 true conflict cases, they divide into 160 true conflict errors and 199 correct true conflict cases. Thus, we end up with an error rate of 44.6% investigating only the true conflict cases. For the worst performing clinicians, the 104 true conflict cases divide into 52 true conflict errors and 52 correct true conflict cases, which lead to an error rate of 50% for the true conflict cases.
+
+---
+
+### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^3f0b0337]. BMJ Open Quality (2023). High credibility.
+
+Discussion
+
+Our systematic review included 367 articles and reports published between 2001 and 2021 that discussed healthcare NEs. Most of the research came from the USA and the UK. These articles identified 125 unique NEs, the most common being surgery on the wrong body part, the wrong surgical procedure, URFOs and surgery on the wrong patient. Researchers usually classified NEs as ‘largely preventable’ (60.2%). The events most likely to be considered wholly preventable were surgery on the wrong patient, wrong surgical procedure, surgery on the wrong body part, maladministration of a potassium-containing solution and wrong-route administration of medication (excluding chemotherapy).
+
+The use of the term NE is mired in confusion.Organisations that use it have differing purposes and standards, resulting in a variety of events (which include errors, complications and outcomes), terms and data capture practices.Our results quantify this inconsistency. NEs vary both across and within frameworks. Only the four most cited NEs were found in all four major frameworks, and no event was in all 12 frameworks. While the four most common NEs involved only medical errors, the remaining events comprised all three types of events. Additionally, 12 events have been removed from previous versions of frameworks, but some (eg, air embolism, hypoglycaemia) remain in current versions of other frameworks. The terminology of events found in multiple frameworks also varies. For example, wrong-site surgery can encompass any wrong surgery (body part, patient or procedure), or only the wrong part of the body, or only the wrong spinal level. Additional variation comes from the sources of NE data, which include hospital incident reporting systems,electronic health records,central reporting bodies such as government or patient safety agenciesor malpractice claims.
+
+---
+
+### Injectable and topical local anesthetics for acute dental pain: 2 systematic reviews [^5463414f]. Journal of the American Dental Association (2023). High credibility.
+
+Study identification and selection flowchart—long-acting and short-acting local anesthetics: Records identified from databases (n = 8,068): MEDLINE (n = 2,158), EMBASE (n = 3,554), and Cochrane Central Register of Controlled Trials (n = 2,356); records removed before screening included duplicates (n = 3,352), marked as ineligible by automation tools (n = 0), and removed for other reasons (n = 0). Records screened (n = 4,716) with records excluded (n = 3,858); reports sought for retrieval (n = 858) with reports not retrieved (n = 0); reports assessed for eligibility (n = 858) with reports excluded (n = 844) for wrong interventions (n = 703), abstracts (n = 41), wrong populations (n = 23), wrong outcomes (n = 35), non-English language (n = 19), wrong study design (n = 22), and duplicates (n = 1); studies included in review (n = 14) with reports of included studies (n = 14).
+
+---
+
+### ACR practice parameter for the performance of preoperative image-guided localization in the breast [^ce6e8745]. ACR (2025). High credibility.
+
+Breast localization procedure specifications—before localization, the radiologist should review all pertinent imaging examinations, clinical notes, and pathology reports to determine the extent of the target and method of localization, including imaging modality and approach, and review should determine whether biopsy markers, if deployed at the time of prior biopsy, are located in the appropriate position. In patients who have undergone neoadjuvant therapy, the original extent of disease and the visible residual disease are both important to consider, and localization may target a biopsy marker, biopsy site, and/or the spectrum of breast imaging abnormalities including mass, calcifications, asymmetry, architectural distortion, and enhancing findings. If there is known malignancy, it is necessary to understand the extent of malignancy and its location with respect to previously placed biopsy marker(s), and more than one guidance device may be used to bracket the extent of disease; the use of multiple localizing devices can decrease the number of procedures required to obtain clear lumpectomy margins and increase the rate of breast conservation versus mastectomy. Benefits, limitations, and risks of the procedure as well as alternative procedures should be discussed with the patient, informed consent should be obtained and documented, and adherence to the Joint Commission’s Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery™ is required for procedures in nonoperating room settings, including bedside procedures.
+
+---
+
+### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^f4378263]. Gastrointestinal Endoscopy (2025). High credibility.
+
+Prisma Flow Chart (PICO 2)—study selection summary: There were 62 references imported for screening as 62 studies; after 1 duplicate removed, 61 studies were screened against title and abstract and 49 studies excluded; 12 studies were assessed for full-text eligibility, with 11 studies excluded (5 Wrong comparator, 4 Abstract Only, 1 Wrong patient population, 1 Wrong study design); there were 0 studies ongoing and 0 studies awaiting classification; and 1 study included + 1 study (from cross referencing/snow balling).
+
+---
+
+### Assigning the right credit to the wrong action: compulsivity in the general population is associated with augmented outcome-irrelevant value-based learning [^60f832e8]. Translational Psychiatry (2021). Medium credibility.
+
+Two-step task
+
+To obtain individual measures of outcome-irrelevant learning and model-based control, participants completed a two-step reinforcement-learning task. In this task, players were asked to make decisions in order to maximize monetary gains (play pounds). Each trial included two stages, in which participants made a choice between two fractals (see Fig. 2A). The fractals in the first stage led probabilistically to one of the two second-stage pairs; fractals in the second stage led probabilistically to receipt of a reward (£0 or £1). Each fractal was randomly assigned in each trial and stage to appear on the left or right side of the screen. Participants were instructed to select a fractal by pressing the corresponding left or right response key (see Fig. 2B). Importantly, only fractals, but not their arbitrary and varying affiliated response keys, predicted outcomes—the fractal position on the screen, and the effector participants used to select the fractal were randomly assigned by the computer. Subjects’ choices and reaction times enabled us to estimate outcome-irrelevant learning and model-based control, as described further below.
+
+Fig. 2 
+Two-step task illustration.
+
+A Participants navigated between the two stages of the task in order to reap rewards. The second stage included two pairs of fractal images, which led probabilistically to a reward. To attain these rewards, participants made choices during the first stage, which probabilistically determined the fractals presented during the second stage. B Illustration of trial sequences, showing a choice made in the first stage, followed by feedback, and a second-stage selection that was followed by a reward (1 play pound). C A fractal to response key pairing was allocated randomly in each trial. Panel (C) illustrates a trial sequence, in which the same fractals were selected as in panel (B), but now with different effectors. Although fractal identity predicted relevant outcomes (second-stage fractals, and reward), the position of the fractal and the response key used to report a selection were always outcome-irrelevant. Outcome-irrelevant learning was inferred from a participant’s tendency to assign value to response keys despite their irrelevance to any individual decision (see Fig. 3 for outcome-irrelevant estimate plots). Model-based control was estimated as the ability to select a first-stage action based on the task’s transition probability and subjective action values of second-stage fractals (see Supplementary Fig. S3 for model-based estimate plots).
+
+---
+
+### Iohexol (Omnipaque) [^373103e3]. FDA (2024). Medium credibility.
+
+WARNING: RISKS ASSOCIATED WITH INTRATHECAL ADMINISTRATION OF OMNIPAQUE INJECTION 140 mg IODINE/mL and 350 mg IODINE/mL
+
+Use only the OMNIPAQUE iodine concentrations and presentations recommended for intrathecal procedure [see Dosage and Administration (2.2, 2.8)]. Intrathecal administration of OMNIPAQUE of a wrong iodine concentration, even if inadvertent, may cause death, convulsions, seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema [see Warnings and Precautions (5.1)].
+
+WARNING: RISKS ASSOCIATED WITH INTRATHECAL ADMINISTRATION OF OMNIPAQUE INJECTION 140 and 350 mg IODINE/mL
+
+Use only the iodine concentrations and presentations recommended for intrathecal procedures. Intrathecal administration of a wrong iodine concentration, even if inadvertent, may cause death, convulsions, seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema. (2.2, 2.8, 5.1)
+
+---
+
+### Improving the accuracy of electronic prescribing in west bay health center in Qatar [^033cfbf0]. BMJ Quality Improvement Reports (2016). Medium credibility.
+
+Results
+
+Figure 1 shows the proportion of medication errors by type at baseline after PDSA cycles 1 and 2. The data suggests an improvement of wrong dose error from 11.8% to 10.6%, of wrong name from 6.9% to 6.2%, of wrong duration from 11.7% to 10.3%, and of non-formulary drug errors from 2.6% to 1.6%.
+
+This means that the intervention reduced wrong dose errors by 10% from baseline, reduced wrong name errors by 7%, reduced wrong duration errors by 12%, and reduced non-formulary errors by 38.5%.
+
+In a landmark trial evaluating the impact on serious medication errors, the implementation of computerized physician order entry (CPOE) resulted in a 55% (10.7 vs 4.86 per 1000 patient days) reduction in the rate of serious medication errors across all stages of the medication use process.(8) The differences between our results and literature shows that we will need to undertake further interventions and monitoring to reach such international standards.
+
+---
+
+### Robots are both anthropomorphized and dehumanized when harmed intentionally [^fb4e4455]. Communications Psychology (2024). Medium credibility.
+
+Results
+
+Manipulation check
+
+Following ref.we conducted a two-way (Harm × Emotions) between-subjects ANOVA using perceived moral wrongness as the dependent variable as a manipulation check. The data for Experiment 2 violated the assumption of homogeneity as assessed by Levene’s test (p = 0.017).
+
+The results of the ANOVA’s are summarized in Table 2. All reported p -values refer to the two-sided significance level. There was a significant effect of Harm on the perceived moral wrongness of the moral agent’s actions in both experiments. In both experiments, participants in the harm condition rated the moral agent’s actions as significantly more morally wrong (Experiment 1: M = 2.33, SD = 1.36, Experiment 2: M = 2.72, SD = 1.31) than those in the no harm condition (Experiment 1: M = 5.14, SD = 1.18, Experiment 2: M = 5.15, SD = 1.16). Neither experiment found statistically significant evidence for a main effect of Emotions on perceived moral wrongness. Finally, the interaction between Harm and Emotions on perceived moral wrongness failed to reach statistical significance in both experiments.
+
+Table 2 
+Effects on perceived moral wrongness
+
+To quantify evidence for the different models, we conducted a Bayesian ANOVA in JASP using the same variables and default settings for priors and Markov chain Monte Carlo settings. A summary of all Bayesian ANOVA’s can be found in Table 6. The Bayesian analysis identified the model including only main effects as the best model; the evidence for this model over the null model was decisive in both experiments, BF 10 > 100. Furthermore, when comparing against the best model, we found no evidence in favor of the model that included the interaction effect in either experiment (Experiment 1: BF 10 = 0.081, Experiment 2: BF 10 = 0.053).
+
+Although we did not find statistically significant evidence for the interaction, the means were in the expected direction in both experiments, which is why we decided to proceed with our main analysis.
+
+---
+
+### Simple lighting system to improve compliance of surgical timeout [^33dbb6d3]. Journal of Cataract and Refractive Surgery (2022). Medium credibility.
+
+Surgical timeout is widely recognized as an important safety step but frequently overlooked. – Surgical mistakes in all specialties may include operating on the wrong patient, wrong organ, incorrect side, and wrong procedure.A high volume and high turnover increase the potential for errors.
+
+In ophthalmology, there are many reports of mistakes at the time of cataract surgery in the use of the wrong implant power, wrong implant type (aspheric, toric, multifocal, or extended-depth of focus), and wrong axis of astigmatism.In laser vision correction, there are numerous reports of data entry errors including the wrong refractive error (sphere, cylinder, and/or axis), wrong optical zone and/or transition zone, and incorrect goal of distance vision vs undercorrection.In pediatric ophthalmic surgery, there are reports of operating on the wrong eye or wrong procedure secondary to confusion between the type of deviation (esotropia/exotropia) and/or surgical procedure (recession/resection).
+
+Mistakes may result in serious irreversible complications for a patient and stress for the surgeon that may also include complaints to a local College of Physicians and Surgeons and/or legal action. The amount of hardship for all involved cannot be minimized. Anything that can be performed to decrease surgical complications should be embraced by surgeons in every specialty.
+
+A simple physical reminder for the operating room may help ensure compliance of a surgical timeout. This can be in the form of a light source that is battery operated and can be changed from red to green to indicate that a surgical timeout has been completed. If followed, it may be almost impossible to forget this critical safety step. A single detachable light can be controlled by a remote control to change the color of the light. This is an inexpensive device that can be ordered online or purchased in hardware or other shops.
+
+---
+
+### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^619df0e5]. Gastrointestinal Endoscopy (2025). High credibility.
+
+Prisma flow chart (PICO 5) indicates that 204 references were imported for screening as 204 studies, 2 duplicates were removed, 202 studies were screened against title and abstract, 192 studies were excluded, 10 studies were assessed for full-text eligibility, 7 studies were excluded with reasons (2 Abstract Only, 2 Wrong comparator, 2 Wrong study design, 1 Wrong patient population), 0 studies were ongoing, 0 studies were awaiting classification, and 3 studies were included.
+
+---
+
+### Association of display of patient photographs in the electronic health record with wrong-patient order entry errors [^b64d484a]. JAMA Network Open (2020). High credibility.
+
+Limitations
+
+This study has several limitations. The design of the study was quasi-experimental; patients, practitioners, and orders were not randomized in terms of the display of patient photographs; practitioners could not be blinded to the study groups; and the 2 study groups had significant differences in terms of patient acuity. Despite these limitations, several factors support a causal interpretation of the association of patient photographs and lower rates of wrong-patient errors, including the larger reduction in wrong-patient errors once photographs of more patients were captured (ie, dose-response effect), the persistence of the association after adjustment for key covariates, and the consistent results of this study compared with previous researchin which the association of number of workspaces and rate of wrong-patient errors was studied. The current study was a single-center study, and results may be different at other institutions, particularly those using a different EHR system with a different way of displaying patient photographs. Both of these limitations can be addressed through a multicenter, block-randomized study.
+
+In addition, this study used the RAR measure to capture WPOE errors, but this measure depends on self-intercepted near-miss wrong-patient errors and cannot serve as a criterion standard. Although this measure has a high positive predictive value, its sensitivity is unknown. Nevertheless, this measure is superior to what was used in previous researchof patient photographs (ie, voluntarily reported WPOE errors), and the use of near-miss errors in safety research is endorsed by major organizations that study or promote patient safety. Moreover, our study focused on only WPOE errors, but other types of wrong-patient errors, such as writing notes on the wrong patient or reviewing the wrong patient’s data, may also be mitigated once patient photographs are used.
+
+Finally, we did not incorporate time-dependent variables in our analyses. If patient photographs indeed impact practitioners’ likelihood of wrong-patient errors, it is possible that this effect would be subject to a learning process (ie, the effect size might increase over time); on the other hand, many forms of electronic decision support have found to be subject to alert fatigue (ie, a reduction of effect size over time), including interventions that were used to reduce wrong-patient errors.
+
+---
+
+### Physiology versus evidence-based guidance for critical care practice [^93545c06]. Critical Care (2015). Low credibility.
+
+Evidence based medicine is an attempt to optimize the medical decision process through methods primarily based on evidence coming from meta-analyses, systematic reviews, and randomized controlled trials ("evidence-based medicine"), rather than on "clinical judgment" alone. The randomized trials are the cornerstones of this process. However, the randomized trials are just a method to prove or disprove a given hypothesis, which, in turn, derives from a general observation of the reality (premises or theories). In this paper we will examine some of the most recent randomized trials performed in Intensive Care, analyzing their premises, hypothesis and outcome. It is quite evident that when the premises are wrong or too vague the unavoidable consequences will be a negative outcome. We should pay when designing the trial an equal attention in defining premises and hypothesis that we pay for the trial conduction.
+
+---
+
+### Contact dermatitis: a practice parameter-update 2015 [^d013ffb8]. The Journal of Allergy and Clinical Immunology: In Practice (2015). Medium credibility.
+
+Patch test reliability and inhibitors—The strength of the reaction on the skin does not necessarily correlate with clinical relevance, and the frequency of false-negative results is not known but has been estimated to occur in up to 30% of patch-tested patients. Potential causes of false-negative reactions include too low a concentration of the allergen in the extract, wrong vehicle, or wrong salt/version; positive responses can be inhibited by UV sunlight (eg, tanning), TCS, TCl on the PT area, and systemic CS (ie, >20 mg/day prednisone), as well as other immunosuppressives. Nonresponsiveness can also reflect prior ultraviolet light exposure, concomitant immunosuppressive therapies, or methodological testing errors such as insufficient occlusion, failure to perform delayed readings, and failure to perform a photo PT [Strength of Recommendation: Moderate; C Evidence].
+
+---
+
+### Assessment of incorrect surgical procedures within and outside the operating room: a follow-up study from US veterans health administration medical centers [^c2819228]. JAMA Network Open (2018). Medium credibility.
+
+Introduction
+
+Health care continues to strive to improve patient safety. One of the most challenging issues is preventing wrong-site surgery,,,,,,,, with 95 wrong-patient, wrong-site, or wrong-procedure sentinel events reported to The Joint Commission in 2017.This does not include events that may not have been reported to The Joint Commission.The National Quality Forum considers wrong-site, wrong-patient, and wrong-procedure incidents to be serious reportable events. Accordingly, the National Quality Forum expanded its definitions to be more inclusive, recognizing the need to continue to address this challenge.
+
+Such events have been estimated to occur at a median (range) rate of 0.09 (0-3.9) events per 10 000 cases.However, these estimates vary, and such rates are difficult to measure precisely. Some rates are based on clinician incident reporting, while others came from closed claims data,both of which may be limited in accuracy. Furthermore, even with indications of the prevalence of wrong-site surgery, we still need more evidence on why these errors continue to occur and how to prevent them.
+
+The Veterans Health Administration (VHA) National Center for Patient Safety (NCPS) has a national centralized database for reporting patient safety events. The VHA National Surgery Office (NSO) also has a centralized reporting system specifically for surgical patient safety errors. Both systems reconcile these data quarterly to increase the accuracy of wrong-site surgery measurement. The last published(2006-2009) VHA rate of in–operating room (in-OR) adverse events was 0.4 adverse events per 10 000 procedures. That study also included specialty specific rates and root causes of such errors. The current study contains data on incorrect surgery from the VHA up to 2017. This study is based on data from the largest integrated health care system in the United States with 2 complementary systems reporting for increased accuracy of capturing surgical adverse events. Therefore, this study provides one of the most comprehensive reports on wrong-site surgery, spanning a rate review of 17 years. It not only includes event rates but also provides in-depth information on why such events may still occur and recommendations on how to prevent similar future events.
+
+---
+
+### Disclosure of adverse events in pediatrics: policy statement [^d48f7c3b]. Pediatrics (2025). High credibility.
+
+Best practices for disclosure—disclosure practices may vary by setting, error type, and patient population, but important aspects include an explanation of what happened, acknowledgement that something has gone wrong and of responsibility, expression of sincere regret and apology, and commitment to preventing recurrences; these should be conducted with the involvement of appropriate parties in each practice.
+
+---
+
+### The occurrence of wrong-site surgery self-reported by candidates for certification by the American board of orthopaedic surgery [^00ba5be0]. The Journal of Bone and Joint Surgery: American Volume (2012). Low credibility.
+
+Background
+
+The concept of "Sign Your Site" was established in 1997 to prevent wrong-site surgery in the U.S., and this was expanded to the mandated Universal Protocol in 2008. However, the true incidence of wrong-site surgery in the U.S. is not known, nor do we know whether the incidence has changed. The American Board of Orthopaedic Surgery (ABOS) requires that candidates for Board certification provide a list of their cases, including surgical complications, whether wrong-site surgery was performed, and whether they complied with the "Sign Your Site" practice. Each candidate attests to the accuracy of his or her notarized case list. The purpose of this study was to report the incidence and nature of wrong-site surgery self-reported by orthopaedic surgeon candidates for certification between 1999 and 2010 and to assess whether any change was associated with the timeline of implementation of the Universal Protocol.
+
+Methods
+
+The ABOS database was queried for the number of examinees, cases, and wrong-site surgery cases reported; a description of each wrong-site surgery case; whether the site was signed; and the surgeon's subspecialty.
+
+Results
+
+From 1999 through 2010, 9255 orthopaedic surgeons submitted 1,291,396 cases, and sixty-one of these surgeons reported performing seventy-six wrong-site surgical procedures. Spine surgeons were the most likely to report wrong-site surgery, most commonly single-level lumbar laminotomy. The rate of wrong-site surgical procedures before and after implementation of the Universal Protocol mandate was not significantly different. Eighteen of the twenty wrong-site surgical procedures performed since ABOS data collection for "Sign Your Site" began had been signed preoperatively.
+
+Conclusions
+
+Keeping patients safe remains an essential goal worthy of enormous effort. This study suggests that additional layers of precautions may yield diminishing returns and that attention should be focused on methods to prevent wrong-level spine surgery. Improving communication among the health-care team and shared responsibility may bring us closer to eliminating wrong-site surgery.
+
+---
+
+### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^c9549944]. Journal of Thoracic Oncology (2025). High credibility.
+
+PRISMA for PICO 3 and 4—study selection counts are reported: records screened (n = 886) after duplicate records (n = 4) were removed; reports sought for retrieval (n = 615), reports not retrieved (n = 6), and reports assessed for eligibility (n = 609); reports excluded for wrong outcome (n = 202), wrong intervention (n = 143), wrong study design (n = 119), wrong publication type (n = 77), and wrong population (n = 55); new studies included in review (n = 79). Citation searching identified records (n = 57) with reports sought (n = 57), reports not retrieved (n = 0), reports assessed for eligibility (n = 57), and reports excluded: 0 (n = 0).
+
+---
+
+### Hepatic encephalopathy in chronic liver disease: 2014 practice guideline by the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver [^65f9dcae]. Hepatology (2014). Medium credibility.
+
+West Haven criteria (WHC) grading—operative definitions emphasize functional orientation and responsiveness: Unimpaired is described as “No encephalopathy at all, no history of HE” with patients “Tested and proved to be normal.” Minimal hepatic encephalopathy is defined by “Abnormal results of established psychometric or neuropsychological tests without clinical manifestations.” Grade I is identified when “Despite oriented in time and space (see below), the patient appears to have some cognitive/behavioral decay with respect to his or her standard on clinical examination or to the caregivers.” Grade II requires being “Disoriented for time (at least three of the following are wrong: day of the month, day of the week, month, season, or year) ± the other mentioned symptoms.” Grade III is characterized by being “Disoriented also for space (at least three of the following wrongly reported: country, state [or region], city, or place) ± the other mentioned symptoms.” Grade IV is defined as “Does not respond even to painful stimuli.” All conditions “are required to be related to liver insufficiency and/or PSS.”
+
+---
+
+### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^3c3c7e1b]. Journal of Thoracic Oncology (2025). High credibility.
+
+PRISMA for PICO 1 and 2—study selection and exclusions are detailed: records screened (n = 1,332) after duplicate records (n = 22) were removed; reports sought for retrieval (n = 237), reports not retrieved (n = 3), and reports assessed for eligibility (n = 234); reports excluded for wrong outcome (n = 41), wrong population (n = 52), wrong study design (n = 24), small sample size (n = 19), wrong intervention (n = 18), complete article not available (n = 4), and missing information (n = 3); new studies included in review (n = 96). Citation searching identified records (n = 3) with reports sought (n = 3), reports not retrieved (n = 0), reports assessed for eligibility (n = 3), and reports excluded: 0 (n = 0).
+
+---
+
+### Erratum: error in figure 1 [^dc02a98d]. JAMA Otolaryngology-- Head & Neck Surgery (2025). High credibility.
+
+[This corrects the article DOI: 10.1001/jamaoto.2024.2270.].
+
+---
+
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^c6c5f238]. Nature Communications (2021). High credibility.
+
+Results from model 2 (See Table 15 for complete model estimates) indicate that, even after attempting to account for the random effects of participant (intercept SD = 3.79) and EBEP item (intercept SD = 4.04, b t h r e a t SD = 0.62), participants in the high perceived moral threat condition were substantially more likely to see EBEPs against Sandirians as more justified, compared with participants in the low perceived moral threat condition, b = 1.44, posterior SD = 0.68, 95% CI = [0.16, 2.80], OR = 4.21, 95% CI = [1.18, 16.45]. In other words, for participants in the high perceived moral threat condition, the odds of seeing EBEPs, on average, as extremely justified, vs. less than extremely morally justified, was 4.21 times higher than for participants in the low perceived moral threat condition.
+
+Next, we directly investigated the role of PMW in participants’ EBEP justification responses. To do this, we extended model 2 by including standardized PMW—the degree to which participants believed it was morally wrong for Sandirians to take jobs in Webster Springs—as an independent variable with varying slopes across EBEP items (Model 3). Estimates from this model indicated a strong positive association between believing it was morally wrong for Sandirians to take jobs and perceiving EBEPs against Sandirians as more justified, b = 2.21, posterior SD = 0.42, 95% CI = [1.48, 2.94], OR = 9.20, 95% CI = [4.38, 18.92]. Notably, adjusting for PMW also led to a dramatic attenuation of the estimated effect of experimental condition, such that a clear positive effect was no longer supported, b = 0.28, posterior SD = 0.63, 95% CI = [−0.86, 1.57], OR = 1.29, 95% CI = [0.42, 4.79].
+
+---
+
+### Clinical practice guideline: safe medication use in the ICU [^598df81b]. Critical Care Medicine (2017). Medium credibility.
+
+Table 1—definitions of medication-related events describe standard terminology for this guideline as follows: Medical error is “The failure of a planned action to be completed as intended or the use of a wrong plan to achieve an aim. Errors can include problems in practice, products, procedures, and systems.” Medication error (ME) is “Any error in the medication process, whether or not there are adverse consequences.” An adverse drug reaction is “An appreciably harmful or unpleasant reaction, resulting from an intervention related to the use of a medicinal product, which predicts hazard from future administration and warrants prevention or specific treatment, or alteration of the dosage regimen, or withdrawal of the product.” An adverse drug event (ADE) is “Any injury related to use of drug. Not all ADEs are caused by medical errors. Also, not all MEs lead to ADEs.” A preventable ADE is “Injury associated with a ME.” A near miss (potential ADE) is “The occurrence of an error that did not result in harm. Potential ADEs can be intercepted or nonintercepted.” A drug-related hazardous condition is “Physiologic response to a drug with potential to cause injury; abnormal laboratory value before it results in ADE.” Abbreviations are defined as “ADE = adverse drug event, ME = medication error.”
+
+---
+
+### Erratum: error in article title [^c68a8afe]. JAMA Pediatrics (2018). Medium credibility.
+
+[This corrects the article DOI: 10.1001/jamapediatrics.2017.4882.].
+
+---
+
+### Erratum: department of error [^e61e4414]. Lancet (2018). Excellent credibility.
+
+[This corrects the article DOI: 10.1016/S0140-6736(18)32203-7.].
+
+---
+
+### Inconsistency between overall and subgroup analyses [^9b703599]. General Psychiatry (2022). Medium credibility.
+
+Introduction
+
+Consider the following hypothetical example. Suppose the fourth grade students of two schools (1 and 2) in a school district took a state maths exam. The principals of these two schools wanted to know whether there was a difference in the performances between the two schools. They calculated the overall average score, the average score of girls and the average score of boys in each school. The result is presented as scenario B in table 1. After looking at the average scores of girls and boys, respectively, the principal of school 1 was very happy as they were both one point higher than those in school 2. However, after looking at the overall average score of these two schools, the principal was very confused as the overall average score of school 2 was higher than that of school 1. Is there anything wrong in calculating the overall average score? What is the reason for the inconsistency between the overall average scores and the average scores stratified by gender?
+
+Table 1 
+Average scores of a maths exam in two schools
+
+Before figuring out the reason for the inconsistency, let us take a look at scenario A in table 1. In this scenario, the overall average score, as well as the average scores of girls and boys in school 1 are all higher than those in school 2. A closer examination shows that the proportions of girls are different in scenarios A and B. In scenario A, 48% of students are girls in both schools. In scenario B, 40% and 60% of students are girls in the two schools, respectively. Is the difference in the proportions of girls sufficient to create this inconsistency? The answer is negative. In scenario C in table 1, although the proportions of girls are different in the two schools, the overall average scores and the average scores by gender are higher in school 1.
+
+---
+
+### Erratum: error in the results [^3b681560]. JAMA Neurology (2025). High credibility.
+
+[This corrects the article DOI: 10.1001/jamaneurol.2025.0337.].
+
+---
+
+### Home oxygen therapy for children. An official American Thoracic Society clinical practice guideline [^f48a9bc9]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
+
+Strength of recommendations—interpretation framework: A strong recommendation conveys “It is the right course of action for >95% of patients,” that “You would be willing to tell a colleague that he or she did the wrong thing if he or she did not follow the recommendation,” and that “The recommended course of action may make a good performance metric”; a conditional recommendation conveys “It is the right course of action for >50% of patients but may not be right for a sizable minority,” that “You would NOT be willing to tell a colleague that he or she did the wrong thing if he or she did not follow the recommendation because there is clinical equipoise,” and that “The recommended course of action would NOT make a good performance metric.”
+
+---
+
+### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^f5e9a0d3]. Nature Communications (2024). High credibility.
+
+In conclusion, it is of critical importance to investigate the different errors when physicians make decisions with AI support especially with respect to the human expertise level,. But besides the different error types, it is also important to take the correctly classified cases into account to get a complete picture of the situation. Further research is needed to investigate why those errors occur, whether certain subgroups of clinicians are at particular risk of committing certain error scenarios, and how this can be prevented. One potential approach is taking AI uncertainty into account by giving clinicians AI advice. Of special interest are furthermore cases, where AI and clinician are initially correct, but the clinician overwrites both, his original diagnosis and the XAI’s advice (Table 1C ; scenario iv), which need to be investigated carefully.
+
+---
+
+### Lamotrigine chewable dispersible (lamotrigine) [^eb036145]. FDA (2023). Medium credibility.
+
+Lamotrigine tablets for oral suspension USP (chewable dispersible tablets) can cause other serious side effects. For more information ask your healthcare provider or pharmacist. Tell your healthcare provider if you have any side effect that bothers you. Be sure to read the section below entitled “What are the possible side effects of lamotrigine tablets for oral suspension USP (chewable dispersible tablets)?”
+
+5. People prescribed lamotrigine tablets for oral suspension USP (chewable dispersible tablets) have sometimes been given the wrong medicine  because many medicines have names similar to lamotrigine tablets for oral suspension USP (chewable dispersible tablets), so always check that    you receive lamotrigine tablets for oral suspension USP (chewable dispersible tablets).
+
+Taking the wrong medication can cause serious health problems. “When your healthcare provider” gives you a prescription for lamotrigine tablets for oral suspension USP (chewable dispersible tablets):
+
+·         Make sure you can read it clearly.
+
+·         Talk to your pharmacist to check that you are given the correct medicine.
+
+·         Each time you fill your prescription, check the    tablets you receive against the pictures of the tablets below.
+
+These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of lamotrigine tablets for oral suspension USP (chewable dispersible tablets). Immediately call your pharmacist if you receive a lamotrigine tablets for oral suspension USP (chewable dispersible tablets) that does not look like one of the tablets shown below, as you may have received the wrong medication.
+
+---
+
+### How social relationships shape moral wrongness judgments [^294c1ee9]. Nature Communications (2021). High credibility.
+
+Next, we created an algorithm to select 12 action items that were rated among the most characteristic in weakening each of the four cooperative functions (three statements per function; ‘weaken’ set). First, for each function, the algorithm ranked the actions, in ascending order, by their mean weakening “characteristicness” rating and randomly selected 3 out of the seven most characteristic actions. Second, it computed the mean rating across the three selected actions, yielding one mean score per function. Third, the algorithm computed the standard deviation of the four function-specific means generated in the previous step. Finally, steps one to three were repeated 10,000 times to find the combination of three action statements that yielded the lowest standard deviation of scores across functions. The second iteration of the algorithm was subjected to two further constraints so that we could ensure consistency with potential function-strengthening items planned for testing in future studies (‘strengthen’ set). The first constraint was that the minimum mean score in the ‘weaken’ set could not be lower than the minimum mean score in the ‘strengthen’ set. The second constraint was that the average of the final ‘weaken’ scores could not be more than one point lower than the average of the final ‘strengthen’ scores. So that future studies can be straightforwardly compared with the present study, we selected items for the ‘weaken’ set so that they would weaken the cooperative functions to a similar degree as future ‘strengthen’ items would strengthen the functions. In other words, we wanted to make sure that we identified a set of ‘weaken’ items that were not more extreme (in the ‘weaken’ direction) than future ‘strengthen’ items would be (in the ‘strengthen’ direction). This process resulted in a final set of 12 function-weakening action statements, with three per function, as shown in Fig. 4.
+
+---
+
+### Identification of common themes from never events data published by NHS england [^e43645dd]. World Journal of Surgery (2021). Medium credibility.
+
+Background
+
+Never events (NEs) are serious clinical incidents that cause potentially avoidable harm and impose a significant financial burden on healthcare systems. The purpose of this study was to identify common never events.
+
+Methods
+
+We analysed the NHS England NE data from 2012 to 2020 to identify common never events category and themes.
+
+Results
+
+We identified 51 common NE themes in 4 main categories out of a total of 3247 NE reported during this period. Wrong-site surgery was the most common category (n=1307;40.25%) followed by retained foreign objects (n=901;27.75%); wrong implant or prosthesis (n=425;13.09%); and non-surgical/infrequent ones (n=614; 18.9%). Wrong-side (laterality) and wrong tooth removal were the most common wrong-site NE accounting for 300 (22.95%) and 263 (20.12%) incidents, respectively. There were 197 (15%) wrong-site blocks, 125 (9.56%) wrong procedures, and 96 (7.3%) wrong skin lesions excised. Vaginal swabs were the most commonly retained items (276;30.63%) followed by surgical swabs (164;18.20%) and guidewires (152;16.87%). There were 67 (7.44%) incidents of retained parts of instruments and 48 (5.33%) retained instruments. Wrong intraocular lenses (165; 38.82%) were the most common wrong implants followed by wrong hip prostheses (n=94; 22.11%) and wrong knees (n=91; 21.41%). Non-surgical events accounted for 18.9% (n=614) of the total incidents. Misplaced naso-or oro-gastric tubes (n=178;29%) and wrong-route administration of medications were the most common events in this category (n=111;18%), followed by unintentional connection of a patient requiring oxygen to an air flow-meter (n=93; 15%).
+
+Conclusion
+
+This paper identifies common NE categories and themes. Awareness of these might help reduce their incidence.
+
+---
+
+### Albuterol sulfate [^fcdf3457]. FDA (2025). Medium credibility.
+
+2.1 Bronchospasm
+
+For treatment of acute episodes of bronchospasm or prevention of symptoms associated with bronchospasm, the usual dosage for adults and children 4 years and older is two inhalations repeated every 4 to 6 hours. More frequent administration or a larger number of inhalations is not recommended. In some patients, one inhalation every 4 hours may be sufficient.
+
+2.2 Exercise-Induced Bronchospasm
+
+The usual dosage for adults and children 4 years of age or older is two inhalations 15 to 30 minutes before exercise.
+
+2.3 Administration Information
+
+Administer albuterol sulfate inhalation aerosol by oral inhalation only. Shake well before each spray. To maintain proper use of this product and to prevent medication build-up and blockage, it is important to follow the cleaning directions carefully.
+
+Priming
+
+Prime the inhaler before using for the first time and in cases where the inhaler has not been used for more than 2 weeks by releasing three sprays into the air, away from the face.
+
+Cleaning
+
+As with all HFA-containing albuterol inhalers, to maintain proper use of this product and to prevent medication build-up and blockage, it is important to clean the plastic mouthpiece regularly. The inhaler may cease to deliver medication if the plastic actuator mouthpiece is not properly cleaned and dried. To clean: Wash the plastic mouthpiece with warm running water for 30 seconds, shake off excess water, and air dry thoroughly at least once a week . If the patient has more than one albuterol sulfate inhalation aerosol inhaler, the patient should wash each one separately to prevent attaching the wrong canister to the wrong plastic actuator. In this way, the patient can be sure to always know the correct number of remaining doses. Never attach a canister of medication from any other inhaler to the albuterol sulfate inhalation aerosol actuator and never attach the albuterol sulfate inhalation aerosol canister to an actuator from any other inhaler. If the mouthpiece becomes blocked, washing the mouthpiece will remove the blockage. If it is necessary to use the inhaler before it is completely dry, shake off excess water, replace canister, spray twice into the air away from face, and take the prescribed dose. After such use, the mouthpiece should be rewashed and allowed to air dry thoroughly [see FDA-APPROVED PATIENT LABELING (17.9)] .
+
+---
+
+### Steps to misdiagnosis: dissecting an emergency visit [^464a2e17]. Otolaryngology--Head and Neck Surgery (2018). Low credibility.
+
+Despite the common sense that we learn from our mistakes, an error is an unwelcome event when we deal with patients. Diagnostic error is common, costly, and the leading cause of malpractice litigation. Yet, errors occur occasionally in a lifetime of practice, and the consequences of these faults are significant for patients and physicians. If someone would have told me that I would miss a brain tumor in my first years of practice, in a patient presenting to my care with several cranial nerve signs, I would not have believed it. Here is how it happened.
+
+---
+
+### A novel electronic assessment strategy to support applied drosophila genetics training in university courses [^faebd356]. G3 (2015). Low credibility.
+
+Description of the hybrid e-assessment:
+
+The e-assessment starts with two warm-up questions (jumbled sentence) to acquaint examinees with the test situation. Question 1 tests the students’ knowledge of basic conventions in fly genetics and nomenclature, and question 2 assesses their ability to match genotypes to phenotypes provided as fly pictograms. After this, the first crossing task is given, in which a second and third chromosomal recessive lethal mutation need to be combined into one double-mutant stable stock using a multiple balancer stock as a further aid. Students are asked to first solve the task on paper before continuing with the test. This mating scheme requires three crossing steps, in which the parental step involves two parallel crosses. Questions 3 and 4 (multiple choice) assess whether students understand that the genotype of the resultant embryos used for mutant analysis (double-homozygous mutant) is different from that of the resultant parents maintaining the stock (balanced double-heterozygous). This question queries the understanding of concepts of lethality, balancer chromosomes, and stock keeping. It also alerts students to set the right aim for the task and potentially readjust their mating schemes. Question 5 (multiple choice) proposes four versions of the first two crossing steps, of which only one is correct and needs to be identified (Figure 1A). This is a good initial question to test whether students have taken the right strategic decision when solving the crossing task on paper. If they have not, it gives them an opportunity to rethink their strategy. To test whether question 5 was answered with true understanding, two of the wrong versions are brought up again in questions 6 and 7 (multiple answer), and students are asked why they are wrong. Together these questions assess understanding of the principles of Mendelian assortment and the ability to spot genetic combinations which allow unequivocal selection of the right geno-/phenotypes. Question 8 (multiple answer) brings up the correct version of the F1 crossing step and provides four boxes listing four potential F2 genotypes, respectively. Three of these boxes contain wrong genotypes and need to be spotted, thus again assessing understanding of Mendelian assortment.
+
+---
+
+### Error and discrepancy in radiology: inevitable or avoidable? [^f66d4103]. Insights Into Imaging (2017). Low credibility.
+
+So, in answer to the question posed in this paper’s title, errors/discrepancies in radiology are both inevitable and avoidable. That is, errors will always happen, but some can be avoided, by careful attention to the reasoning processes we use, awareness of potential biases and system issues which can lead to mistakes, and use of any appropriate available strategies to minimise these negative influences. But if we imagine that any strategy can totally eliminate error in radiology, we are fooling both ourselves and the patients who take their guidance from us.
+
+---
+
+### Justification of principles for healthcare priority setting: the relevance and roles of empirical studies exploring public values [^d8f403a8]. Journal of Medical Ethics (2025). Medium credibility.
+
+The notion of reflective equilibrium
+
+Reflective equilibrium is primarily a theory about what makes moral judgements epistemically justified; however, it is often related to as a method for moral reasoning. 3 Moreover, it is sometimes used to denote the goal or endpoint of such a process, namely where moral judgements cohere (and then, supposedly, are justified). Since it is doubtful that one ever reaches such an ideal state, as also acknowledged by Rawls,it is more appropriate to think about the goal of the process of moral reasoning as arriving at ‘resting points’ rather than ‘end-points’. In the following, we shall primarily relate to reflective equilibrium as a theory about epistemic justification of the moral judgements in a given resting point. That being said, any such theory will be closely related to the method of moral reasoning according to which one arrives at that resting point.
+
+The process of reflective equilibrium is a working back and forth between: (a) one’s considered moral judgements about particular cases, and (b) ethical principles. In the following, we shall illustrate the process by dividing it into four separate steps. We primarily structure the process in these separate steps for clarificatory reasons, in practice the steps will often interplay.
+
+Identifying and filtering judgements—first step
+
+The first step may be described in the words of Tersman: it ‘…begins with filtering one’s moral views so that one is left only with those qualifying as considered judgements…’ (p. 47). 4 For a judgement to qualify as a considered, rather than a raw unreflected moral judgement, it should meet a number of requirements. It should be of the kind in which one has strong faith, that one has the relevant information about and it should not be best explained by one’s self-interest or prejudices (more on such filtering below).
+
+Formulating principles—second step
+
+The second step is to formulate ethical principles that can account for the considered judgements. These principles may vary in their degree of specificity,they may be of the general kind such as ‘euthanasia is wrong’ or more specified such as ‘euthanasia is wrong when offered to patients who are not terminally ill’. Note that the considered moral judgements may also vary in their degree of specificity. Accordingly, there is no clear-cut line between what qualifies as a considered moral judgement and what qualifies as an ethical principle.
+
+---
+
+### Guideline for management of septic arthritis in native joints (SANJO) [^d4908e1a]. Journal of Bone and Joint Infection (2023). High credibility.
+
+Regarding diagnostic procedures for septic arthritis, more specifically with respect to synovial fluid analysis, aspiration, EBJIS 2023 guidelines recommend to consider obtaining ultrasound, fluoroscopy, or CT guidance to document intra-articular needle positioning in case of a dry tap, as in that case the needle may be wrongly positioned (outside the joint capsule).
+
+---
+
+### Somatrogon-ghla (Ngenla) [^7f37d345]. FDA (2025). Medium credibility.
+
+Instructions for Use
+
+NGENLA (en’ JEN-lah)
+
+(somatrogon-ghla)
+
+24 mg
+
+injection, for subcutaneous use
+
+Read this Instructions for Use before you start using NGENLA and each time you get a new refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
+Important information about your NGENLA pen:
+
+The NGENLA pen for injection is a single-patient-use, disposable (throw away) prefilled pen containing 24 mg of medicine. You can give more than 1 dose from the pen.
+NGENLA can be given by a patient, caregiver or healthcare provider. Do not try to inject NGENLA yourself until you are shown the right way to give the injections and read and understand the Instructions for Use. If your healthcare provider decides that you or a caregiver may be able to give your injections of NGENLA at home, you should receive training on the right way to prepare and inject NGENLA. It is important that you read, understand, and follow these instructions so that you inject NGENLA the right way.
+It is important to talk to your healthcare provider to be sure you understand your NGENLA dosing instructions. To help you remember when to inject NGENLA, you can mark your calendar ahead of time. Call your healthcare provider if you or your caregiver have any questions about the right way to inject NGENLA, or call the helpline on 1-800-645-1280.
+Do not share your pen with other people, even if the needle has been changed. You may give other people a serious infection or get a serious infection from them.
+Each turn (click) of the dose knob dials 0.2 mg of medicine. You can give from 0.2 mg to 12 mg in a single injection. If your dose is more than 12 mg, you will need to give more than 1 injection.
+A new pen may contain slightly more than 24 mg of medicine, this is normal.
+Always use a new sterile needle for each injection. This will decrease the risk of contamination, infection, leakage of medicine, and blocked needles leading to the wrong dose.
+Do not shake your pen. Shaking can damage the medicine.
+The pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
+
+---
+
+### Optimal resources for children's surgical care: from the committee on children's surgery American college of surgeons [^4900627e]. APSA (2014). Medium credibility.
+
+Children’s surgical anesthesia-related safety—sentinel and intraoperative events are to be monitored and reported in all patients ≤ 18 years who have undergone a surgical procedure requiring anesthesia services during the 12 months of the reporting period, including Operation on incorrect site – sentinel event, Operation on incorrect patient – sentinel event, Medication error – wrong medication or wrong dosing (intraoperative), Intraoperative awareness – explicit awareness during anesthesia Yes/No, Anaphylaxis – severe intraoperative allergic response with sudden drop in blood pressure, Malignant hyperthermia – clinical or suspected and/or use of dantrolene, Transfusion reaction - intraoperative, Perioperative aspiration with consistent radiologic findings, Surgical fire and/or patient burns, and Dental trauma – unanticipated loss of permanent tooth.
+
+---
+
+### Laboratory testing for the monkeypox virus: interim guidance [^9fcc4fc8]. Geneva: World Health Organization (2022). High credibility.
+
+Regarding diagnostic investigations for mpox, more specifically with respect to laboratory testing (serology), WHO 2022 guidelines recommend to consider obtaining serological testing to further investigate prior infection for epidemiological purposes if the clinical presentation and epidemiology suggest an infection with monkeypox virus despite negative PCR results. Recognize that a number of factors could contribute to false-negative results, such as poor quality of the specimen, wrong handling or shipping, or technical reasons inherent to the test, such as DNA extraction failure.
+
+---
+
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^c063d970]. Nature Reviews: Nephrology (2025). High credibility.
+
+Regarding medical management for X-linked hypophosphatemia, more specifically with respect to burosumab (children, monitoring), XLH-EG 2025 guidelines recommend to consider excluding calcium and vitamin D deficiency with hyperparathyroidism if patients demonstrate insufficient response to burosumab. Consider non-adherence, administration of wrong dosages, or inadequate injection modalities if patients are self-treated at home or if children are treated by family members. (grade C, weak recommendation).
+
+---
+
+### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^2f560915]. Insights Into Imaging (2021). Medium credibility.
+
+Key points
+
+Errors, discrepancies and confounding biases are inseparable parts of radiology practice with various clinical consequences.
+Radiological errors can occur before, during or after the reporting periods.
+Effective communication between radiologists, radiology technicians, patients and clinicians is the key to proper patient management
+Being familiar with the types of errors and underlying biases is essential for radiologists to cope with them.
+
+---
+
+### Doubt [^44f9130d]. Academic Pediatrics (2009). Low credibility.
+
+A father writes about the death of his daughter, offering his perspective on the system that broke down and efforts to reduce medical errors. He has requested that his name be withheld from the published version of this narrative.
+
+---
+
+### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^711037e5]. Insights Into Imaging (2021). Medium credibility.
+
+Interpretation differences between radiologists and diagnostic errors are significant issues in daily radiology practice. An awareness of errors and their underlying causes can potentially increase the diagnostic performance and reduce individual harm. The aim of this paper is to review both the classification of errors and the underlying biases. Case-based examples are presented and discussed for each type of error and bias to provide greater clarity and understanding.
+
+---
+
+### Error and discrepancy in radiology: inevitable or avoidable? [^34b21e55]. Insights Into Imaging (2017). Low credibility.
+
+Definition of error/discrepancy
+
+It was recently estimated that one billion radiologic examinations are performed worldwide annually, most of which are interpreted by radiologists. Most professional bodies would agree that all imaging procedures should include an expert radiologist’s opinion, given by means of a written report. This activity constitutes much of the daily work of practising radiologists. We don’t always get it right.
+
+Although not always appreciated by the public, or indeed by referring doctors, radiologists’ reports should not be expected to be definitive or incontrovertible. They represent clinical consultations, resulting in opinions which are conclusions arrived at after weighing of evidence ; “opinion” can be defined as “a view held about a particular subject or point; a judgement formed; a belief”. Sometimes it is possible to be definitive in radiological diagnoses, but in most cases, radiological interpretation is heavily influenced by the clinical circumstances of the patient, relevant past history and previous imaging, and myriad other factors, including biases of which we may not be aware. Radiological studies do not come with inbuilt labels denoting the most significant abnormalities, and interpreting them is not a binary process (normal vs abnormal, cancer vs “all-clear”).
+
+In this context, defining what constitutes radiological error is not straightforward. The use of the term “error” implies that there is no potential for disagreement about what is “correct”, and indicates that the reporting radiologist should have been able to make the correct diagnosis or report, but did not. In real life, there is frequently room for legitimate differences of opinion about diagnoses or for “failure” to identify an abnormality that can be seen in retrospect. Expert opinion often forms the basis for deciding whether an error has been made, but it should be noted that “experts” themselves may also be subject to question (“An expert is someone who is more than fifty miles from home, has no responsibility for implementing the advice he gives, and shows slides.” - Ed Meese, US Attorney General 1985–88).
+
+---
+
+### Error in key points [^6ba50da4]. JAMA Network Open (2019). High credibility.
+
+In the Original Investigation titled “Cascades of Care After Incidental Findings in a US National Survey of Physicians,”published October 16, 2019, the Findings portion of the Key Points erroneously stated the number of study participants in the survey sample (991) rather than the number of responding participants (376). This article has been corrected.
+
+---
+
+### On the ethics of algorithmic decision-making in healthcare [^beb3f623]. Journal of Medical Ethics (2020). Medium credibility.
+
+For one, deferring to the algorithm provides her with a normative justification for her medical decision. Then again, if she sticks to her initial proposition—and her diagnosis turns out to be wrong—she might be conceived as acting irresponsibly as she ignored the evidence provided by the algorithm. Things might aggravate once we consider that many medical decisions are being made under imperfect conditions, such as time constraints obstructing a careful re-assessment of the evidence available. A further side effect could be that the clinician might be biased towards interpreting the evidence in a way confirming the algorithm’s diagnosis. Thus, the interplay of machine learning algorithms and clinicians potentially risks the fostering of epistemic vices such as dogmatism or gullibility.To sum things up, instead of enhancing their decision-making capabilities, the deployment of machine learning algorithms may impose mechanisms of ‘defensive medicine’ among clinicians.
+
+However, there is one caveat. It needs to be pointed out that the opacity of machine learning algorithms is a well-established problem within the machine learning community. Currently, research groups from the tech giants and the academic sector alike are working on solutions to make machine learning algorithms explainable.Thus, it might be the case that some of the problems discussed above will need to be revised in the foreseeable future. Then again, some more fundamental questions with respect to explainable machine learning are likely to remain. First, explainable to whom? To a data scientist, the clinician or the patient? In each case, relevant explanation requires some trade-offs. Either the bar might be set too high for some stakeholders or the explanation might become too simplified, omitting meaningful information.
+
+This also leads us to problems of patient autonomy. In a recent article, McDougall has argued that involving artificial intelligence in treatment decisions risks reintroducing a paternalistic model of medical decision-making—in the guise of a ‘computer knows best’—attitude. According to her line of reasoning, algorithms enforce such a paternalistic model by dictating the values, by virtue different treatment options are being ranked. For instance, most algorithms will rank treatment decisions based on which treatment maximises the lifespan of a patient the most. However, a patient might prefer a treatment which minimises her suffering instead. Thus, the involvement of artificial intelligence potentially undermines a shared decision-making between the clinician and the patient, posing a threat to the autonomy and dignity of the patient.
+
+---
+
+### How to write a systematic review of reasons [^5210e0a0]. Journal of Medical Ethics (2012). Low credibility.
+
+As we argue elsewhere, we must reject McCullough et al 's measure of ‘the adequacy of the ethical analysis and argument’ (p. 67).Furthermore, while it might be possible to replace it with a suitable measure, a systematic review that answers an ethical question may mislead decision-makers when the literature reviewed is incomplete or inadequate. In these cases, the literature's answer to the review question places no burden of proof on those who disagree. Of course, when an empirical literature is inadequate, its answer will also be potentially misleading and uninteresting; the correct safeguard in both cases (inadequate empirical and reason-based literatures) is for the review to conclude only that further research is needed to answer the question. To date, however, the assessment of the quality of reasons and of argument-based literature is much less standardised than, for example, the assessment of the quality of clinical trials and the literature that reports their results. Bioethicists as well as clinical and policy decision-makers are less likely, we surmise, to understand the significance of limitations in reasoning than in study design. A McCullough model systematic review, insofar as it is a systematic review of (quality-weighted) conclusions, also has normative problems: it may mislead when there are mutually incompatible, but maximally informed and individually reasonable, answers to the ethical question, or when different weightings of the reasons (as may be appropriate in dissimilar contexts) support different answers.
+
+---
+
+### Preventing home medication administration errors [^6c0bf3f7]. Pediatrics (2021). High credibility.
+
+Background—nature of home pediatric medication errors: Errors in pediatric medication administration in the home environment are common and can result in serious consequences, and these errors include dosing mistakes (both underdosing and overdosing), errors in frequency or duration of dosing (including missed doses), administration of incorrect medications or formulations, wrong route of administration, incorrect preparation or storage, and use of expired medications; many root causes have been identified that may contribute to errors.
+
+---
+
+### Avoiding errors in reasoning: an introduction to logical fallacies [^6383c0d1]. AJR: American Journal of Roentgenology (2006). Low credibility.
+
+Objective
+
+The objective of this article is to provide all students of radiology, from novices to experts, a framework for understanding common errors in reasoning.
+
+Conclusion
+
+By familiarizing ourselves with common fallacies, we can take steps to reduce the probability that we will commit such errors or fail to recognize and respond appropriately to them when they occur.
+
+---
+
+### Insulin aspart injection (fiasp) [^30274c86]. FDA (2023). Medium credibility.
+
+INSTRUCTIONS FOR USE
+
+FIASP ® [fee’asp] PumpCart
+
+(insulin aspart)
+
+injection, for subcutaneous use
+
+1.6 mL cartridge: 100 units/mL (U-100)
+
+Please read the pump manual (user guide) that comes with your insulin pump.
+Only use FIASP PumpCart with a compatible insulin pump. Check the insulin pump manual for instructions to see if FIASP PumpCart can be used with the pump. Do not use with other devices that are not designed for use with FIASP PumpCart.
+FIASP PumpCart is ready for use directly in the pump. Using the wrong device may result in the wrong insulin dosing and lead to high blood sugar (hyperglycemia) or low blood sugar (hypoglycemia).
+Do not share your PumpCart cartridge with other people. You may give other people a serious infection or get a serious infection from them.
+Do not use the PumpCart cartridge if you are blind or visually impaired without the assistance of a person trained in the proper use of the PumpCart.
+Do not mix with any other insulins.
+Do not refill FIASP PumpCart. When it is empty, throw away (dispose) the cartridge.
+Do not use FIASP PumpCart in an insulin pen.
+
+---
+
+### Medical errors [^c01131af]. Hematology: American Society of Hematology. Education Program (2005). Low credibility.
+
+Following the 2000 report of the Institute of Medicine, To Err Is Human, which documented that as many as 98,000 people in this country die of medical errors every year, medical, hospital, and governmental agencies began to consider changes in hospital systems. The report had found that errors were much more likely to result from systemic problems than from inept health care providers. Progress in reinventing hospital systems has been very slow, although some institutions have made great gains."Medical errors" may be of several types. Some lead to malpractice claims, many do not. Many people who have been severely injured by errors never file claims. Making a medical mistake is not necessarily "malpractice." There are six elements a patient must prove in order to win a malpractice case: a physician-patient relationship must exist, the care provider must owe the patient a duty of care, evidence (usually expert testimony) must be presented that there was a failure in some part of the duty of care, there must proof that the lack of care was the proximate cause of harm, and proof of evidence that harm occurred. The patient must also prove his or her assessment of damages. Solutions to the problem of patient injuries are suggested.
+
+---
+
+### Albuterol sulfate (Proair) [^b69715da]. FDA (2021). Medium credibility.
+
+Cleaning Your PROAIR HFA Device:
+
+It is very important to keep the plastic actuator clean so the medicine will not build-up and block the spray. See Figure G and Figure H.
+
+Do not try to clean the metal canister or let it get wet. The inhaler may stop spraying if it is not cleaned correctly.
+If you have more than 1 PROAIR HFA inhaler, wash each device at separate times to prevent putting the wrong canister together with the wrong plastic actuator. This way you can be sure you will always know the correct number of remaining doses of PROAIR HFA.
+Wash the actuator at least 1 time each week as follows :
+
+Figure I
+Take the canister out of the actuator, and take the cap off the mouthpiece.
+Hold the actuator under the faucet and run warm water through it for about 30 seconds. See Figure I.
+Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds. See Figure J.
+Shake off as much water from the actuator as you can. Look into the mouthpiece to make sure any medicine build-up has been completely washed away. If there is any build-up, repeat the washing instructions.
+Let the actuator air-dry completely, such as overnight. See Figure K.
+When the actuator is dry, put the canister in the actuator and make sure it fits firmly. Shake the inhaler well and spray it twice into the air away from your face. Put the cap back on the mouthpiece.
+
+---
+
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^b06ae76f]. Nature Communications (2021). High credibility.
+
+Next, as in Study 2, we tested hypotheses 1 and 3 via two additional regression models, one (Model 2) in which the perceived moral wrongness of Mexican immigrants allegedly taking jobs was regressed on participants’ individualizing and binding values and another (Model 3) in which the perceived justification of EBEPs against Mexicans was regressed on participants’ individualizing and binding values as well as perceived moral wrongness. As expected, estimates from model 2 indicated a positive association between participants’ binding values and the degree to which believed it was morally wrong for Mexican immigrants to “take jobs” in Webster Springs, b = 0.47, posterior SD = 0.05, 95% CI = [0.37, 0.56]. That is, a standard deviation increase in binding values was associated with an estimated 0.47 standard deviation increase in perceived moral wrongness. In contrast, individualizing values were estimated to be negatively associated with the perception of moral wrongdoing, b = 0.47, posterior SD = 0.05, 95% CI = [0.37, 0.56].
+
+Further, as hypothesized, estimates from model 3 indicated that even after attempting to adjust for the effects of standardized individualizing and binding values, standardized PMW was estimated to be positively associated with perceived EBEP justification, b = 1.63, posterior SD = 0.46, 95% CI = [0.70, 2.49]. Thus, the odds of seeing EBEPs as more justified than a given response level vs. less justified or equal to that level are 5.10 times higher given a standard deviation increase in PMW. Notably, adjusting for the effect of PMW also substantially decreased the estimated effects of binding (b = 0.73, posterior SD = 0.26, 95% CI = [0.24, 1.23]) and individualizing (b = −0.87, posterior SD = 0.46, 95% CI = [−1.65, 0.04]) values.
+
+Finally, similar to Study 2, we relied on posterior simulation to test the hypothesis that PMW statistically mediates the association between binding values and EBEP justification. Results from this analysis indicated that PMW partially mediated the association between binding values and perceived EBEP justification (See Supplementary Information). Similar to Study 2, we found that including political ideology in these analyses did not lead to substantive changes in any of our results.
+
+---
+
+### British Association of Dermatologists guidelines for the management of people with cutaneous squamous cell carcinoma 2020 [^cbe332cf]. The British Journal of Dermatology (2021). High credibility.
+
+Regarding diagnostic procedures for cutaneous squamous cell carcinoma, more specifically with respect to skin biopsy, BAD 2021 guidelines recommend to take a good-quality clinical photograph of the CSCC lesion for the patient record to aid future management and assessment of the area after healing. Mark the lesions to be treated on the photograph to limit the risk of wrong-site procedures in multisite diseases.
+
+---
+
+### Let us talk about mistakes [^5a579708]. Pediatric Radiology (2025). Medium credibility.
+
+Classification of diagnostic errors and their frequencies
+
+Kim et al. published an error classification scheme for radiological errors composed of 12 types, as shown in Table 1. A total of 656 cases with delayed diagnosis were analyzed by two radiologists, and error classification was achieved by consensus. The most common errors were under-reading (= missed findings), satisfaction with the search, faulty reasoning, and location (finding outside the area of interest).
+
+Table 1 
+Classification scheme of radiological errors as derived from Kim et al.
+
+Sum is greater than 100.0% since some errors occurred in combination. Individual errors were ordered according to their frequency
+
+Brook et al. proposed a different classification scheme. These authors distinguished between the following errors: (a) latent errors which are inherent to the system or the result of technical faults; (b) active errors which are the result of human error; (c) external causes are those that are beyond the control of the radiologist, including power failures and quenching; (d) patient-related causes like the failure of the patient to adhere to instructions or to demonstrate a lack of understanding of the procedures involved. Examples of active errors include diagnostic errors and misinterpretation, as well as complications from procedures. These can involve more than one person or result from latent errors. Additionally, they put forth the “Swiss Cheese Model,” which elucidates the manner in which latent errors may evolve into active errors (Fig. 1).
+
+Fig. 1 
+“Swiss Cheese Model” of errors (adapted from). The individual cheese slices represent different layers of error prevention. Holes within the layers symbolize “latent” errors, which are blocked by the other error prevention layers – as symbolized by the blue stick. If error prevention layers are unluckily positioned, a latent error can lead to an active failure (red stick)
+
+---
+
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^2e4505d3]. Nature Communications (2021). High credibility.
+
+Study 3
+
+Participants
+
+American participants (N = 355, Mean age = 33, 54% identifying as female) were recruited from Amazon Mechanical Turk and paid $1.00.
+
+Procedure
+
+Participants were asked to read a fictional news storyabout Mexican immigrants taking jobs in Webster Springs, Illinois, a fictional town. In the news story, the Mexican immigrants were framed as undermining the local economy and, thus, harming US citizens. As in Study 2, we then asked participants to indicate on a 7-point scale (1 = ‘Not at all morally wrong’, 7 = ‘Extremely morally wrong’) the degree to which they believed it was morally wrong for Mexican immigrants to take jobs in Webster Springs (M = 3.25, SD = 1.81).
+
+Prior to reading the news article, participants were also asked to complete the MFQ. Finally, participants responded to the same four EBEP items measuring the degree to which they thought EBEPs against Mexicans in Webster Springs were justified (α = 0.80, 95% CI = [0.78, 0.83]): posting hate speech to Facebook (M = 2.61, Median = 2, SD = 1.70), distributing hate speech flyers in Webster Springs (M = 2.35, Median = 2, SD = 1.66), yelling slurs at a Mexican resident of Webster Springs (M = 1.63, Median = 1, SD = 1.25), and physically assaulting a Mexican resident of Webster Springs (M = 1.17, Median = 1, SD = 0.66).
+
+Three participants did not complete the MFQ and an additional 28 participants spent less than 10 s reading the experimental manipulation, spent less than 8 min on the entire survey, or failed one of the MFQ manipulation checks, which were our a priori criteria to ensure data quality. Accordingly, 324 participants were retained for analysis; however, robustness checks verified that retaining these participants had no substantive effect on our results.
+
+---
+
+### The nature of surgical error: a cautionary tale and a call to reason [^aba867e2]. Surgical Endoscopy (2005). Low credibility.
+
+Errors and "patient safety" have taken on monumental importance for surgery. Like all things new, there is an initial over-reaction before a return to a balanced perspective. The current response to the global interest in error has been to seize on the latest reports that are focusing on the "systemic nature" of errors, which is also being referred to as "the new look." There has been an unintentional ignoring of the actual error, referred to as the coface error, that the surgeon commits. It is time to put the approach to errors into perspective and redefine errors within the context of the surgical community, which can result in a balance of the surgeon's position in regard to systemic and personal responsibility.
+
+---

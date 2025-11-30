@@ -1,0 +1,888 @@
+# Medical Question & Answer
+
+**Sample ID**: e9fc1c4f-a05f-a7ea-d6ad-8b174ca29c29
+**Dataset Index**: 88984
+
+---
+
+## Question
+
+Scenario:
+ A 56-year-old male presented to the internist complaining of headache and fatigue.
+ He smokes 1 packet of cigarette daily for the last 40 years.
+ Examination revealed an arterial blood pressure of 180/100 mmHg, lower limbs oedema 
+and bilateral fine basal crepitations over the lung bases.
+ Bedside ECG showed manifestations of old anterior myocardial infarction.
+ The internist suspected pulmonary edema. But another list of DD is present. He 
+wondered which to use; chest X-ray or echocardiography to confirm the diagnosis.
+ The patient asked whether cessation of smoking would help hem control his symptoms. Please attach evidence (paper, guidelines ….) you selected to answer PICO 
+question.
+
+---
+
+## Answer
+
+> Let's see… What do we have here? The user is asking which imaging test to use to confirm suspected pulmonary edema in a 56-year-old man with hypertension, edema, and basal crackles, and whether smoking cessation will help his symptoms. Let's break this down step-by-step. First, I need to think about the clinical syndrome and pretest probability. Then, I should verify the diagnostic performance of chest radiography versus lung ultrasound and echocardiography. Next, I will align the choice with contemporary guidelines and the patient's hemodynamic context. After that, I should consider the differential diagnosis and how imaging shifts it. Finally, I will address the smoking cessation question with evidence and counseling points, and close with a practical, prioritized recommendation.
+
+> Let me first confirm the clinical syndrome and pretest probability. The combination of severe hypertension, peripheral edema, and bibasilar crackles in a patient with prior MI makes acute decompensated heart failure with pulmonary congestion highly likely, so I should not jump to conclusions but I should proceed with a high-suspicion workup that includes imaging and biomarkers rather than relying on exam alone [^0d75641a] [^126485cc].
+
+> Wait, let me verify the diagnostic performance of chest radiography. Chest X-ray can show cardiomegaly, vascular redistribution, interstitial edema, pleural effusions, and alveolar edema, but its sensitivity for pulmonary edema is limited, with pooled estimates around 0.73 and frequent false negatives early in decompensation or in obese patients, so a normal CXR does not exclude cardiogenic pulmonary edema and should not be used as the sole determinant of HF presence or cause [^3956e55e] [^11d407fc] [^e0d3dba0].
+
+> I will now examine lung ultrasound performance. Point-of-care lung ultrasound detects bilateral B-lines, which correlate with extravascular lung water; pooled sensitivity is about 0.88 with specificity around 0.90, and LUS consistently outperforms CXR for sensitivity while maintaining comparable specificity, making it a superior adjunct at the bedside when diagnostic uncertainty exists or when CXR is nondiagnostic [^3956e55e] [^2c5287fc] [^4cf461a1].
+
+> Hold on, I should verify the role of transthoracic echocardiography. TTE is the diagnostic standard to confirm heart failure by assessing ventricular function, wall motion, valves, and hemodynamics; it clarifies whether the edema is cardiogenic and guides etiology and therapy, and guidelines recommend TTE during initial evaluation of suspected new-onset or decompensated HF, particularly when the patient is unstable or when the cause is unclear [^0d75641a] [^b17afe9c] [^2d9b50c6].
+
+> Let me consider the clinical context and timing. In acute presentations with suspected pulmonary edema, I should prioritize tests that are rapid, repeatable at the bedside, and informative for both lungs and heart; LUS can be performed in minutes and serially tracked, while TTE addresses cardiac structure and function and should be obtained early in the evaluation, ideally after initial stabilization, to define the cardiac substrate and guide therapy [^4cf461a1] [^0d75641a] [^2d9b50c6].
+
+> But wait, what if the edema is noncardiogenic or mixed. I need to ensure I keep ARDS and other causes in mind; in undifferentiated hypoxemia with bilateral opacities, LUS helps distinguish effusion and consolidation patterns, and echocardiography helps exclude hydrostatic edema, so integrating LUS and TTE with clinical assessment and natriuretic peptides improves diagnostic confidence and management decisions in the ED or ICU setting [^c085b53b] [^6dc7fa69] [^04f44eb3].
+
+> I should double-check guideline synthesis before concluding. Contemporary guidelines advise obtaining a chest X-ray in suspected HF because it is quick, widely available, and can reveal alternative diagnoses, but they also emphasize that TTE is essential to confirm HF, quantify function, and identify etiology, and they increasingly recognize LUS as a valuable adjunct when available, particularly when CXR is equivocal or delayed [^0d75641a] [^11d407fc] [^4cf461a1].
+
+> Let me think about a practical, stepwise approach. Given this patient's high pretest probability and instability signals, I would obtain both LUS and TTE as soon as feasible, using LUS to rapidly confirm extravascular lung water and TTE to define cardiac function and the cause of edema; if only one can be done immediately, I would choose LUS for speed and sensitivity and follow with TTE as soon as possible to complete the evaluation and guide therapy [^3956e55e] [^0d75641a] [^4cf461a1].
+
+> Now, regarding smoking cessation, I should confirm the magnitude of benefit. Smoking cessation reduces cardiovascular events and mortality in patients with coronary disease and heart failure, and in high-risk populations such as those with kidney disease, quitting reduces graft failure and cardiovascular complications; while exact HF-specific mortality figures vary, the direction of benefit is consistent and clinically meaningful, and counseling plus pharmacotherapy should be offered promptly [^notfound].
+
+> Hold on, I should verify counseling points and resources. Combining behavioral support with pharmacologic therapy such as varenicline, bupropion, or nicotine replacement increases quit rates, and even brief clinician advice improves outcomes; given this patient's 40 pack-year history, I would also consider lung cancer screening eligibility once he is stabilized, aligning with preventive care recommendations in appropriate risk groups [^notfound].
+
+> In summary, I need to ensure the recommendation is clear and evidence-based. Do not rely on chest X-ray alone to confirm pulmonary edema because of limited sensitivity; use lung ultrasound at the bedside to rapidly detect extravascular lung water and proceed to transthoracic echocardiography to confirm heart failure, define etiology, and guide therapy, while initiating smoking cessation counseling with structured support to improve cardiovascular outcomes [^3956e55e] [^0d75641a] [^4cf461a1].
+
+---
+
+For suspected pulmonary edema in a 56-year-old male with hypertension, edema, and crackles, **chest X-ray is the first-line test** to rapidly confirm pulmonary edema and guide initial management [^0d75641a] [^e7191ecd]. Echocardiography is essential within 48 hours to define cardiac function, valve disease, and ischemia, and to direct long-term therapy [^0d75641a] [^b17afe9c]. If bedside ultrasound is available, **lung ultrasound can detect B-lines** and pleural effusions earlier than CXR, aiding early diagnosis and monitoring [^3956e55e] [^4cf461a1]. Smoking cessation is critical and reduces dyspnea, hospitalizations, and mortality in heart failure and COPD [^notfound].
+
+---
+
+## Diagnostic utility of chest X-ray
+
+Chest radiography is recommended as the **initial imaging test** in suspected heart failure or pulmonary edema to assess heart size, pulmonary congestion, and alternative diagnoses [^0d75641a] [^e7191ecd]. Typical findings include cardiomegaly, pulmonary vascular redistribution, interstitial edema (Kerley B lines), alveolar edema (bat-wing opacities), pleural effusions, and a widened vascular pedicle [^e0d3dba0] [^bb00ac46]. However, CXR has limited sensitivity early in decompensation or in obese patients, and a normal film does not exclude pulmonary edema [^11d407fc] [^e0d3dba0].
+
+---
+
+## Diagnostic utility of echocardiography
+
+Transthoracic echocardiography (TTE) is the **gold standard** for evaluating cardiac structure and function in suspected heart failure or pulmonary edema [^b17afe9c]. TTE provides critical information on:
+
+- **Left ventricular ejection fraction (LVEF)**: distinguishes HFrEF from HFpEF [^b17afe9c].
+- **Wall motion abnormalities**: suggests ischemia or prior MI [^2d9b50c6].
+- **Valvular disease**: identifies regurgitation or stenosis contributing to edema [^2d9b50c6].
+- **Diastolic function**: assesses elevated filling pressures and pulmonary hypertension [^ebe52b74].
+
+Guidelines recommend TTE during initial evaluation of suspected or new-onset heart failure, or when there is a significant change in clinical status [^0d75641a] [^b17afe9c].
+
+---
+
+## Comparative diagnostic accuracy
+
+| **Attribute** | **Chest x-ray** | **Echocardiography** |
+|-|-|-|
+| Sensitivity for pulmonary edema | Moderate (≈70–80%) | High for cardiac causes (> 90%) |
+| Specificity for pulmonary edema | High (≈90%) | High for cardiac causes (> 90%) |
+| Limitations | - Early or mild edema may be missed <br/> - Obesity reduces sensitivity [^e0d3dba0] | - Operator-dependent <br/> - May be limited by body habitus or lung disease [^2d9b50c6] |
+| Clinical utility | - Rapid <br/> - Widely available <br/> - Guides initial management [^0d75641a] | - Defines cardiac function <br/> - Identifies ischemia/valve disease <br/> - Guides long-term therapy [^0d75641a] |
+
+---
+
+## Role of lung ultrasound
+
+Lung ultrasound (LUS) is an emerging bedside tool that detects **B-lines** (comet-tail artifacts) indicative of interstitial edema, with sensitivity and specificity around 88–94% for cardiogenic pulmonary edema [^3956e55e] [^936f88b3]. LUS can identify edema earlier than CXR, is portable, and allows serial monitoring, but it does not assess cardiac function or etiology [^3956e55e] [^5e23eba8].
+
+---
+
+## Clinical guidelines and expert consensus
+
+Current guidelines recommend a **stepwise approach**: obtain a chest X-ray first to confirm pulmonary edema and exclude alternative diagnoses, then perform echocardiography within 48 hours to define cardiac function and guide therapy [^0d75641a] [^e7191ecd]. LUS is a useful adjunct when available, particularly in acute settings or when CXR is inconclusive [^3956e55e] [^4cf461a1].
+
+---
+
+## Impact of smoking cessation on symptoms and outcomes
+
+Smoking cessation is strongly recommended for patients with heart failure, COPD, and cardiovascular disease because it:
+
+- **Improves dyspnea and exercise tolerance**: Reduces airway inflammation and improves lung function [^notfound].
+- **Reduces hospitalizations**: Lowers risk of acute decompensation and respiratory infections [^notfound].
+- **Improves survival**: Reduces cardiovascular mortality and HF progression [^notfound].
+
+---
+
+## Conclusion and recommendations
+
+- **Chest X-ray**: First-line to rapidly confirm pulmonary edema and guide initial management [^0d75641a] [^e7191ecd].
+- **Echocardiography**: Essential within 48 hours to define cardiac function, ischemia, and valve disease, and to guide long-term therapy [^0d75641a] [^b17afe9c].
+- **Lung ultrasound**: Useful adjunct for early detection and monitoring, especially when CXR is inconclusive [^3956e55e] [^4cf461a1].
+- **Smoking cessation**: Strongly recommended to improve symptoms, reduce hospitalizations, and improve survival [^notfound].
+
+---
+
+This approach balances speed, availability, and diagnostic yield: CXR for rapid confirmation, LUS for early detection, and echocardiography for definitive cardiac assessment and therapy guidance.
+
+---
+
+## References
+
+### 2022 AHA / ACC / HFSA guideline for the management of heart failure: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^11d407fc]. Circulation (2022). High credibility.
+
+2022 AHA/ACC/HFSA heart failure guideline—chest x-ray in suspected heart failure: The chest x-ray is a useful initial diagnostic test for the evaluation of patients presenting with signs and symptoms of HF, but cardiomegaly may be absent in acute HF and findings such as cephalization, interstitial edema, and alveolar edema are relatively insensitive; considering the limited sensitivity and specificity, the chest x-ray should not be used as the only determinant of the specific cause or presence of HF.
+
+---
+
+### Diagnosis and evaluation of heart failure [^b17afe9c]. American Family Physician (2012). Low credibility.
+
+Heart failure is a common clinical syndrome characterized by dyspnea, fatigue, and signs of volume overload, which may include peripheral edema and pulmonary rales. Heart failure has high morbidity and mortality rates, especially in older persons. Many conditions, such as coronary artery disease, hypertension, valvular heart disease, and diabetes mellitus, can cause or lead to decompensation of chronic heart failure. Up to 40 to 50 percent of patients with heart failure have diastolic heart failure with preserved left ventricular function, and the overall mortality is similar to that of systolic heart failure. The initial evaluation includes a history and physical examination, chest radiography, electrocardiography, and laboratory assessment to identify causes or precipitating factors. A displaced cardiac apex, a third heart sound, and chest radiography findings of venous congestion or interstitial edema are useful in identifying heart failure. Systolic heart failure is unlikely when the Framingham criteria are not met or when B-type natriuretic peptide level is normal. Echocardiography is the diagnostic standard to confirm systolic or diastolic heart failure through assessment of left ventricular ejection fraction. Evaluation for ischemic heart disease is warranted in patients with heart failure, especially if angina is present, given that coronary artery disease is the most common cause of heart failure.
+
+---
+
+### Diagnostic accuracy of point-of-care lung ultrasonography and chest radiography in adults with symptoms suggestive of acute decompensated heart failure: a systematic review and meta-analysis [^f55b1e08]. JAMA Network Open (2019). High credibility.
+
+Key Points
+
+Question
+
+How does the accuracy of lung ultrasound compare with chest radiography for diagnosing cardiogenic pulmonary edema in patients presenting to any clinical setting with dyspnea?
+
+Findings
+
+In this systematic review with meta-analysis of 6 prospective cohort studies representing 1827 patients, lung ultrasonography was found to be more sensitive than chest radiography for the detection of cardiogenic pulmonary edema and had comparable specificity.
+
+Meaning
+
+Lung ultrasonography appeared to be useful as an adjunct imaging study in patients presenting with dyspnea at risk for heart failure.
+
+---
+
+### Heart failure (HF) guideline (2017) [^e7191ecd]. AND (2017). Medium credibility.
+
+Non-invasive cardiac imaging—Class I: Patients with suspected or new-onset HF or those presenting with acute decompensated HF should undergo a chest X-ray to assess heart size and pulmonary congestion and to detect alternative cardiac, pulmonary and other diseases that may cause or contribute to the patient's symptoms (Level of Evidence: C).
+
+---
+
+### ACR appropriateness criteria® suspected and known heart failure: 2024 update [^28e28090]. Journal of the American College of Radiology (2025). Medium credibility.
+
+Heart failure (HF) is a prevalent and complex clinical syndrome with no single reference standard diagnostic test. Imaging has a supportive role in patients with suspected and known HF, including initial imaging assessment of an adult with suspected HF, but without history of HF, including evaluation of pulmonary edema and detection of left ventricular dysfunction (Variant 1). In adults with established diagnosis of HF but unknown etiology, imaging also has an important role in the assessment of the underlying disease process, including ischemic and nonischemic etiologies (Variant 2). In the course of continuing care for adult patients with an established diagnosis of HF without new symptoms, follow-up imaging is performed to assess for longitudinal changes in ventricular function, response to therapy and prognostication (Variant 3). The American College of Radiology Appropriateness Criteria are evidence-based guidelines for specific clinical conditions that are reviewed annually by a multidisciplinary expert panel. The guideline development and revision process support the systematic analysis of the medical literature from peer reviewed journals. Established methodology principles such as Grading of Recommendations Assessment, Development, and Evaluation or GRADE are adapted to evaluate the evidence. The RAND/UCLA Appropriateness Method User Manual provides the methodology to determine the appropriateness of imaging and treatment procedures for specific clinical scenarios. In those instances where peer reviewed literature is lacking or equivocal, experts may be the primary evidentiary source available to formulate a recommendation.
+
+---
+
+### Diagnostic accuracy of point-of-care lung ultrasonography and chest radiography in adults with symptoms suggestive of acute decompensated heart failure: a systematic review and meta-analysis [^3956e55e]. JAMA Network Open (2019). High credibility.
+
+Importance
+
+Standard tools used to diagnose pulmonary edema in acute decompensated heart failure (ADHF), including chest radiography (CXR), lack adequate sensitivity, which may delay appropriate diagnosis and treatment. Point-of-care lung ultrasonography (LUS) may be more accurate than CXR, but no meta-analysis of studies directly comparing the 2 tools was previously available.
+
+Objective
+
+To compare the accuracy of LUS with the accuracy of CXR in the diagnosis of cardiogenic pulmonary edema in adult patients presenting with dyspnea.
+
+Data Sources
+
+A comprehensive search of MEDLINE, Embase, and Cochrane Library databases and the gray literature was performed in May 2018. No language or year limits were applied.
+
+Study Selection
+
+Study inclusion criteria were a prospective adult cohort of patients presenting to any clinical setting with dyspnea who underwent both LUS and CXR on initial assessment with imaging results compared with a reference standard ADHF diagnosis by a clinical expert after either a medical record review or a combination of echocardiography findings and brain-type natriuretic peptide criteria. Two reviewers independently assessed the studies for inclusion criteria, and disagreements were resolved with discussion.
+
+Data Extraction and Synthesis
+
+Reporting adhered to the Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy and the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. Two authors independently extracted data and assessed the risk of bias using a customized QUADAS-2 tool. The pooled sensitivity and specificity of LUS and CXR were determined using a hierarchical summary receiver operating characteristic approach.
+
+Main Outcomes and Measures
+
+The comparative accuracy of LUS and CXR in diagnosing ADHF as measured by the differences between the 2 modalities in pooled sensitivity and specificity.
+
+Results
+
+The literature search yielded 1377 nonduplicate titles that were screened, of which 43 articles (3.1%) underwent full-text review. Six studies met the inclusion criteria, representing a total of 1827 patients. Pooled estimates for LUS were 0.88 (95% Cl, 0.75-0.95) for sensitivity and 0.90 (95% Cl, 0.88-0.92) for specificity. Pooled estimates for CXR were 0.73 (95% CI, 0.70-0.76) for sensitivity and 0.90 (95% CI, 0.75-0.97) for specificity. The relative sensitivity ratio of LUS, compared with CXR, was 1.2 (95% CI, 1.08-1.34; P<.001), but no difference was found in specificity between tests (relative specificity ratio, 1.0; 95% CI, 0.90-1.11; P=.96).
+
+Conclusions and Relevance
+
+The findings suggest that LUS is more sensitive than CXR in detecting pulmonary edema in ADHF; LUS should be considered as an adjunct imaging modality in the evaluation of patients with dyspnea at risk of ADHF.
+
+---
+
+### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^4fb4e8df]. Circulation (2005). Medium credibility.
+
+Chronic heart failure (HF) clinical syndrome and etiologies—The cardinal manifestations are dyspnea and fatigue that may limit exercise tolerance and fluid retention leading to pulmonary congestion and peripheral edema, and the term heart failure is preferred over congestive heart failure because not all patients have volume overload at evaluation. The syndrome may result from pericardial, myocardial, endocardial, or great vessel disorders, with most symptoms due to impairment of left ventricular (LV) myocardial function, and HF may range from normal LV size with preserved ejection fraction (EF) to severe dilatation and/or markedly reduced EF. Coronary artery disease, hypertension, dilated cardiomyopathy, and valvular heart disease are substantial causes, and as many as 30% of patients with dilated cardiomyopathy may have a genetic cause. HF is not equivalent to cardiomyopathy or LV dysfunction; it is defined as a clinical syndrome with specific symptoms and signs, and there is no single diagnostic test because diagnosis is based on careful history and physical examination.
+
+---
+
+### 2025 ACC / AHA clinical practice guidelines core principles and development process: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a761d8a2]. Circulation (2025). High credibility.
+
+Point-of-care ultrasound—applications include assessment of cardiac chamber size, ventricular function, pericardial effusion, volume status via inferior vena cava evaluation, lung fields evaluation for pulmonary edema, and it may provide supplementation to comprehensive imaging studies.
+
+---
+
+### 2021 ACC / AHA key data elements and definitions for heart failure: a report of the American college of cardiology / American Heart Association task force on clinical data standards (writing committee to develop clinical data standards for heart failure) [^126485cc]. Circulation: Cardiovascular Quality and Outcomes (2021). High credibility.
+
+ACC/AHA heart failure data standards—cardiovascular history (heart failure) define HF as a complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood, with cardinal manifestations of dyspnea and fatigue that may limit exercise tolerance and cause or lead to fluid retention with pulmonary and/or splanchnic congestion and/or peripheral edema; some patients have exercise intolerance but little evidence of fluid retention, whereas others complain primarily of edema, dyspnea, or fatigue; because some patients present without signs or symptoms of volume overload, the term HF is preferred over congestive HF; provider documentation or report of a former diagnosis of HF before a care encounter, or a previous hospital admission with a diagnosis of HF, is considered evidence of HF history. Permissible values for HF history are Yes, No, or Unknown. Additional notes specify there is no single diagnostic test for HF because it is largely a clinical diagnosis based on a careful history and physical examination, that a low EF alone, without clinical evidence of HF does not qualify as HF, and that HF subtypes are specified in Appendix 6.
+
+---
+
+### Development of a depressed left ventricular ejection fraction in patients with left ventricular hypertrophy and a normal ejection fraction [^e9e7859f]. The American Journal of Cardiology (2004). Low credibility.
+
+The progression from concentric left ventricular (LV) hypertrophy to heart failure has not been well defined. Of 159 predominantly hypertensive African-American patients with LV hypertrophy and a normal ejection fraction (EF), 28 (18%) developed a reduced EF after a median follow-up of approximately 4 years. Risk factors for this outcome included a history of coronary artery disease, pulmonary edema seen on a chest x-ray, or a subsequent myocardial infarction.
+
+---
+
+### Diagnostic accuracy of point-of-care lung ultrasonography and chest radiography in adults with symptoms suggestive of acute decompensated heart failure: a systematic review and meta-analysis [^2c5287fc]. JAMA Network Open (2019). High credibility.
+
+Conclusions
+
+The findings suggest that LUS is as specific and more sensitive than CXR in the identification of cardiogenic pulmonary edema. Given the potential advantages of its use, LUS should be considered as an adjunct imaging modality in the evaluation of patients with dyspnea at risk of ADHF.
+
+---
+
+### What is the utility of point-of-care ultrasound for diagnosing pulmonary edema? [^dd8ebce3]. The Journal of Emergency Medicine (2025). Medium credibility.
+
+Background
+
+Dyspnea is a common symptom managed in the emergency department, which has a wide differential. Point-of-care ultrasound (POCUS) may assist in diagnosing several conditions, including pulmonary edema.
+
+Clinical Question
+
+What is the utility of POCUS for diagnosing pulmonary edema?
+
+Evidence Review
+
+Studies retrieved included seven systematic reviews and meta-analyses evaluating the use of POCUS for diagnosing pulmonary edema. These studies provide estimates of the potential utility of POCUS, with sensitivity ranging between 83% and 97%, specificity 84-98%, positive likelihood ratio 4.8-12.4, and negative likelihood ratio 0.06-0.189.
+
+Conclusion
+
+Based upon the available literature, POCUS can reliably diagnose pulmonary edema.
+
+---
+
+### Recommendations for the evaluation of left ventricular diastolic function by echocardiography and for heart failure with preserved ejection fraction diagnosis: an update from the American Society of Echocardiography [^ebe52b74]. Journal of the American Society of Echocardiography (2025). High credibility.
+
+Clinical assessment for suspected HFpEF—Physical examination “may demonstrate signs of congestion, including elevated jugular venous pressure, presence of an S3 gallop, pulmonary crackles or rales, hepatomegaly, ascites, or lower extremity edema.” “Electrocardiography should be performed in all patients with suspected HFpEF,” and electrocardiographic evaluation “can screen for atrial fibrillation, which may be occult in HFpEF and is prevalent in 15% to 41% of patients.” “Chest radiography should be performed in the evaluation of HFpEF, particularly in patients presenting with dyspnea,” as it “may show signs of volume overload (Kerley B-lines, pleural effusion, pulmonary congestion) or reveal other noncardiac causes of dyspnea,” though “Radiographic findings appear to have low sensitivity in detecting patients with HFpEF compared with PCWP measurements by cardiac catheterization.”
+
+---
+
+### 2021 ACC / AHA key data elements and definitions for heart failure: a report of the American college of cardiology / American Heart Association task force on clinical data standards (writing committee to develop clinical data standards for heart failure) [^85d66de4]. Circulation: Cardiovascular Quality and Outcomes (2021). High credibility.
+
+ACC/AHA heart failure data standards—pulmonary congestion data element describes progressive symptoms of dyspnea on exertion, orthopnea, paroxysmal nocturnal dyspnea, peripheral edema, or other HF (heart failure) symptoms, usually but not always accompanied by weight gain; rales may be heard on examination, and there may be mild to moderate pulmonary congestion/edema on chest x-ray; it specifies that this category should not include patients with fulminant acute pulmonary edema/significant hypoxemia potentially requiring intubation; permissible values are Yes, No, and Unknown.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^76b1bdbe]. European Heart Journal (2022). High credibility.
+
+Chest radiography—abnormal findings are present in most patients with pulmonary hypertension, yet a normal chest X-ray does not exclude the diagnosis; characteristic signs include a configuration of the cardiac silhouette due to right heart (right atrium [RA]/RV) and pulmonary artery enlargement with pruning of peripheral vessels, and additional signs may indicate the underlying cause such as left heart disease or lung disease.
+
+---
+
+### 2022 AHA / ACC key data elements and definitions for cardiovascular and noncardiovascular complications of COVID-19: a report of the American college of cardiology / American Heart Association task force on clinical data standards [^ef63886f]. Journal of the American College of Cardiology (2022). High credibility.
+
+Chest radiography—documented findings from the radiological examination of the chest (chest x-ray)—includes permissible values such as pulmonary infiltrates, pulmonary vascular redistribution, pulmonary congestion, pulmonary edema, cardiomegaly/chamber enlargement, pleural effusion(s), and no abnormalities related to cardiovascular diseases, and pulmonary infiltrates are defined as increased soft tissue density indicating the filling of airspaces with fluid, inflammatory exudate, or cells.
+
+---
+
+### American Society of Echocardiography COVID-19 statement update: lessons learned and preparation for future pandemics [^7b364fb9]. Journal of the American Society of Echocardiography (2023). High credibility.
+
+Lung imaging in COVID-19—ultrasound, chest x-ray, and computed tomography findings and limitations: Lung ultrasound has emerged as a rapid, reliable, point-of-care imaging modality for the diagnosis of pulmonary pathology in patients with COVID-19 infection, particularly in the setting of significant limitations in current radiographic imaging technologies. Ground-glass opacification, linear opacities, and consolidation are the major chest x-ray (CXR) findings in patients with COVID-19; however, these findings are not specific, and a large proportion of patients with polymerase chain reaction–confirmed disease will have a normal CXR, particularly in the early stages of disease. Chest computed tomography (CT) has also played a central role in the early diagnosis and management of patients with COVID-19, with initial findings that include bilateral multilobe ground-glass opacification with a peripheral or posterior distribution, but because the CT findings in COVID-19 infection can overlap with other diseases including influenza, organizing pneumonia, and pulmonary edema, it is not recommended as a sole diagnostic technique. Normal ultrasound evaluation of the lungs demonstrates smooth, regular, contiguous pleural lines, the presence of lung sliding, and A-line artifacts that occur at multiples of the distance between the transducer and the pleural line.
+
+---
+
+### Diagnostic and prognostic usefulness of natriuretic peptides in emergency department patients with dyspnea [^3a177666]. Annals of Emergency Medicine (2003). Low credibility.
+
+More than 4.5 million Americans have congestive heart failure (CHF), close to 550,000 new cases are diagnosed each year, and one third of known patients with CHF are annually admitted to the hospital. Emergency department diagnosis of CHF is often based on history and physical examination findings along with results of ancillary tests, such as chest radiography and ECG. Although signs and symptoms of fluid overload, such as lower extremity edema and dyspnea, raise the suspicion of CHF, their lack of sensitivity makes them poor screening tools. The natriuretic peptides are promising markers of myocardial dysfunction and heart failure. Because of their relationship to myocardial pressure and stretching, natriuretic peptides have been investigated over the past 5 decades as both diagnostic and prognostic markers in acute coronary syndromes and CHF. This article discusses each of the natriuretic peptides and attempts to delineate their potential diagnostic and prognostic roles in the ED.
+
+---
+
+### Modern management of cardiogenic pulmonary edema [^10627c08]. Emergency Medicine Clinics of North America (2005). Low credibility.
+
+Cardiogenic pulmonary edema (CPE) is a life-threatening condition that is frequently encountered in standard emergency medicine practice. Traditionally, diagnosis was based on physical assessment and chest radiography and treatment focused on the use of morphine sulfate and diuretics. Numerous advances in diagnosis and treatment have been made, however. Serum testing for B-type natriuretic peptide (BNP) has improved the accuracy of diagnoses in these patients. Treatment should focus on fluid redistribution with aggressive preload and afterload reduction rather than simply on diuresis. Some specific medications and noninvasive positive pressure ventilation have been shown to be safe and rapidly effective in improving patients' symptoms and improve outcomes.
+
+---
+
+### An 84-year-old man with progressive dyspnea and an abnormal chest CT scan [^75625c76]. Chest (2017). Low credibility.
+
+Case Presentation
+
+An 84-year-old man without a history of smoking presented with progressive dyspnea of 6 months' duration accompanied by fatigue and unintentional weight loss. He denied fever, chills, chest pain, hemoptysis, rash, joint pains, or muscle aches. He had multiple hospitalizations for similar presentations that were diagnosed as pneumonia. History was significant for diastolic heart failure, hypertension, and type 2 diabetes mellitus.
+
+---
+
+### Noninvasive imaging methods for Quantification of pulmonary edema and congestion: a systematic review [^8aed3413]. JACC: Cardiovascular Imaging (2023). Medium credibility.
+
+Quantification of pulmonary edema and congestion is important to guide diagnosis and risk stratification, and to objectively evaluate new therapies in heart failure. Herein, we review the validation, diagnostic performance, and clinical utility of noninvasive imaging modalities in this setting, including chest x-ray, lung ultrasound (LUS), computed tomography (CT), nuclear medicine imaging methods (positron emission tomography [PET], single photon emission CT), and magnetic resonance imaging (MRI). LUS is a clinically useful bedside modality, and fully quantitative methods (CT, MRI, PET) are likely to be important contributors to a more accurate and precise evaluation of new heart failure therapies and for clinical use in conjunction with cardiac imaging. There are only a limited number of studies evaluating pulmonary congestion during stress. Taken together, noninvasive imaging of pulmonary congestion provides utility for both clinical and research assessment, and continued refinement of methodologic accuracy, validation, and workflow has the potential to increase broader clinical adoption.
+
+---
+
+### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^b074b323]. Circulation (2005). Medium credibility.
+
+Heart failure—Initial evaluation, identification of patients notes that in general, patients with LV dysfunction or HF present to the healthcare provider in 1 of 3 ways: (1) with a syndrome of decreased exercise tolerance, with most patients seeking medical attention due to reduced effort tolerance from dyspnea and/or fatigue; (2) with a syndrome of fluid retention, often leg or abdominal swelling as the primary symptom; or (3) with no symptoms or symptoms of another cardiac or noncardiac disorder, where evaluation for another problem reveals evidence of cardiac enlargement or dysfunction.
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^89e6e595]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+AHF: a diagnostic and management challenge
+
+AHF is a syndrome rather than a diagnosis per se, caused by a wide array of pathologies that result in a spectrum of disease severity ranging from breathlessness to cardiogenic shock or cardiac arrest. AHF is a highly lethal condition, and studies have shown that minimizing the ‘time to appropriate therapy’ — the initiation of treatment as soon as possible, including in the prehospital setting — is potentially beneficial in improving outcomes,. AHF is variably defined as the rapid onset or acute worsening of symptoms and signs of heart failure that is associated with elevated plasma levels of natriuretic peptides,. However, substantial diagnostic uncertainty is inevitable when relying only on traditional clinical findings, and currently a lack of specificity exists in routine investigations for this condition. Indeed, although patients often present with a suggestive history, clinical features (such as shock, and pulmonary or peripheral congestion), and/or symptoms related to the underlying potential cause, these traditional clinical features are frequently absent; over-reliance on these factors might delay diagnosis and implementation of appropriate therapy, or contribute to a missed diagnosis in up to 20% of patients,. Furthermore, patients’ clinical features might vary according to the site of initial medical contact and the management strategies employed,.
+
+The majority of patients with AHF present to emergency departments; however, many patient are also assessed and managed in other acute care settings such as in intensive care and inpatient cardiology units. Patients with AHF usually present with symptoms of congestion and breathlessness rather than cardiac arrest or shock. Symptoms of breathlessness account for 3–5% of emergency department attendances in Europe and the USA, and the major causes of breathlessness and their prevalence include AHF (50%), pneumonia or bronchitis (20%), exacerbation of chronic obstructive pulmonary disease or asthma (20%), and pulmonary embolism (5–10%),. Current guidelines recommend that clinical examination and investigations should be integrated to form the diagnosis, including the use of electrocardiogram (ECG), chest radiograph, and biomarkers such as natriuretic peptides, troponin, and D-dimer as indicated,,. Unfortunately, these data can be challenging to interpret, in particular in the 10–15% of patients in whom two concomitant diagnoses exist,,. Specifically, although included in the current definition of AHF, levels of natriuretic peptides can be elevated in respiratory disease and other acute conditions such as pulmonary embolism, sepsis, and anaemia –.
+
+---
+
+### Canadian Cardiovascular Society / Canadian Thoracic Society position statement on pulmonary hypertension [^36eee53c]. The Canadian Journal of Cardiology (2020). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, CCS/CTS 2020 guidelines recommend to obtain transthoracic echocardiography for the initial assessment in all patients with clinically suspected PH or unexplained dyspnea.
+
+---
+
+### Edema: diagnosis and management [^27c14086]. American Family Physician (2013). Medium credibility.
+
+Regarding screening and diagnosis for pulmonary hypertension, more specifically with respect to indications for testing, AAFP 2013 guidelines recommend to obtain echocardiography in patients with obesity, obstructive sleep apnea, and edema to evaluate pulmonary arterial pressures.
+
+---
+
+### 2022 AHA / ACC key data elements and definitions for cardiovascular and noncardiovascular complications of COVID-19: a report of the American college of cardiology / American Heart Association task force on clinical data standards [^ff78141c]. Journal of the American College of Cardiology (2022). High credibility.
+
+Appendix 4—PASC HF (physical examination) defines new-onset heart failure (HF) as a clinical syndrome of dyspnea, fatigue, and fluid retention/peripheral edema that started during probable or confirmed acute COVID-19 and persisted beyond 4 wk after the initial diagnosis of COVID-19; preexisting cardiovascular conditions, or those that did not develop until after COVID-19 had resolved, should not be listed here. HF can be subclassified according to left ventricular ejection fraction (LVEF) as HF with preserved EF (LVEF ≥50), HF with reduced EF (LVEF <40), HF with mildly reduced EF (LVEF 41%–49%), or HF with improved EF (HF with a baseline LVEF ≤40%, a ≥10-point increase from baseline LVEF, and a second measurement of LVEF ≥40%).
+
+---
+
+### Considerations for initial therapy in the treatment of acute heart failure [^563f96b4]. Critical Care (2015). Low credibility.
+
+Tools to aid early diagnosis of AHF
+
+A thorough medical history complemented by vital sign readings and a physical examination can assist in determining whether a patient has AHF. However, consideration of other clinical factors can improve prognostic assessments. Laboratory tests, including complete blood count, urinalysis, serum electrolytes, blood urea nitrogen (BUN), creatinine, glucose, and natriuretic peptide and cardiac troponin levels, should be conducted. Electrocardiogram findings can narrow the differential diagnosis and detect precipitants of decompensation, such as ischemia, arrhythmias, hyperkalemia, and junctional bradycardia caused by digoxin toxicity. Comparisons with prior electrocardiograms are useful, and a truly normal reading suggests an alternative diagnosis. Bedside ultrasound can help reach an accurate diagnosis. A systematic review of seven studies found that the sensitivity of ultrasound using bilateral B-lines to diagnose acute cardiogenic pulmonary edema is 94.1 % (95 % confidence interval (CI): 81.3–98.3 %) and specificity is 92.4 % (95 % CI: 84.2–96.4 %). Bedside chest X-ray scans can also provide prognostic value (Table 1). However, while pulmonary venous congestion, interstitial edema, alveolar edema, and cardiomegaly increase the likelihood of AHF, their absence does not exclude AHF diagnosis. Data from the ADHERE registry revealed that nearly 19 % of hospitalized patients with AHF had no signs of pulmonary congestion on chest radiography.
+
+Table 1 
+Incidence of various radiologic findings in patients with AHF
+
+AHF acute heart failure
+
+---
+
+### Case 2-2016. An 84-year-old woman with chest pain, dyspnea, and a rash [^de21c91b]. The New England Journal of Medicine (2016). Excellent credibility.
+
+An 84-year-old woman was admitted to the hospital because of chest pain, respiratory distress, and a purpuric rash. Initial chest imaging showed bilateral patchy and confluent opacities, a finding consistent with pulmonary edema. A diagnostic procedure was performed.
+
+---
+
+### ACR appropriateness criteria® suspected pulmonary hypertension: 2022 update [^4be80b47]. Journal of the American College of Radiology (2022). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, ACR 2022 guidelines recommend to obtain a resting TTE as initial imaging in patients with suspected PH.
+
+---
+
+### American Society of Echocardiography clinical recommendations for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography [^3782c015]. Journal of the American Society of Echocardiography (2013). Medium credibility.
+
+General indications for imaging—cardiac imaging “should be performed whenever a PEff is suspected, because a physical examination or chest x-ray cannot make a definitive diagnosis,” and is “recommended in all patients with chest pain consistent with pericarditis or aortic dissection, a chest x-ray that shows an enlarged cardiac silhouette (classically ‘flask shaped’), and systemic diseases associated with PEff and jugular venous distension,” with additional recommendation after myocardial infarctions or invasive procedures that develop hypotension or hemodynamic instability. Echocardiography—“the initial procedure of choice” for detecting PEff—“has an accuracy of nearly 100%,” and a separation present “in both systole and diastole is associated with effusions of >50 mL (small PEff).”
+
+---
+
+### Fluid overload in the ICU: evaluation and management [^e0d3dba0]. BMC Nephrology (2016). Low credibility.
+
+Fluid status assessment
+
+Accurate volume status evaluation is essential for appropriate therapy as inadequate assessment of volume status can result in not providing necessary treatment or in the administration of unneeded therapy, both associated with increased mortality. There are several methods to evaluate fluid status; however, most of the tests currently used are fairly inaccurate. We will describe some of these methods.
+History and physical examination: The usefulness of medical history, symptoms, and signs along with routine diagnostic studies (chest radiograph, electrocardiogram, and serum B-type natriuretic peptide (BNP)) that differentiate heart failure from other causes of dyspnea in the emergency department were evaluated in a meta-analysis. Many features increased the probability of heart failure, with the best feature for each category being the presence of past history of heart failure (positive LR = 5.8; 95 % CI, 4.1–8.0); paroxysmal nocturnal dyspnea (positive LR = 2.6; 95 % CI, 1.5–4.5); third heart sound gallop (positive LR = 11; 95 % CI, 4.9–25.0); chest radiograph showing pulmonary venous congestion (positive LR = 12.0; 95 % CI, 6.8–21.0); and electrocardiogram showing atrial fibrillation (positive LR = 3.8; 95 % CI, 1.7–8.8). A low serum BNP proved to be the most useful test (serum BNP <100 pg/mL; negative LR = 0.11; 95 % CI, 0.07–0.16). Importantly, signs like pulmonary rales, lower extremity edema, and jugular venous distention have significant limits for assessing fluid overload. There are some studies that have correlated these sings during physical examination and invasive measures (e.g. pulmonary catheter wedge pressure (PCWP)). Butman et al. found that the presence of jugular venous distension, at rest or inducible, had a sensitivity (81 %), and a specificity (80 %) for elevation of the pulmonary capillary wedge pressure (≥18 mmHg). Using hepato-jugular reflux and Valsalva maneuvers, Marantz et al. showed that these maneuvers were valid in the diagnosis of congestive heart failure in acutely dyspneic patients, with low a sensitivity (24 %) and a high specificity (94 %). On the other hand, in a prospective study, physical signs of fluid overload were compared with hemodynamic measurements in 50 patients with known chronic heart failure. Sings like rales, edema, and elevated mean jugular venous pressures were absent in 18 of 43 patients with pulmonary capillary wedge pressures ≥22 mmHg. The combination of these signs had a sensitivity of 58 % and specificity of 100 %.
+Chest radiography Chest x-ray has been one of the most used tests to evaluate for hypervolemia. Radiographic sings of volume overload include dilated upper lobe vessels, cardiomegaly, interstitial edema, enlarged pulmonary artery, pleural effusion, alveolar edema, prominent superior vena cava, and Kerley lines. However, up to 20 % of patients diagnosed with heart failure had negative chest radiographs at initial emergency department evaluation. Additionally, these radiographic sings can be minimal in patients with late-stage heart failure. In patients with congestive heart failure, radiographic signs had poor predictive value for identifying patients with PCWP values ≥30 mmHg where radiographic pulmonary congestion was absent in 39 % of patients. The X-ray technique and the clinical status of patient impact radiographic performance for detecting volume overload. Portably chest X-ray, reduce the sensitivity of findings of volume overload, and pleural effusions can be missed if the film is performed supine. With intubated patients and patients with pleural effusions, the sensitivity, specificity, and accuracy of supine chest X-ray was reported to be as low as 60 %, 70 %, and 67 % respectively. Conversely, the frequency of volume overload findings in the chest X-ray increased with the severity of fluid overload such as severe heart failure.
+Natriuretic peptides High levels of BNP can be found with volume overload; however, some conditions like myocardial infraction and pulmonary embolism can cause elevated levels of BNP. Other conditions that have to be taken into account when evaluating BNP levels are obesity, associated with lower BNP levels and renal failure, associated with high BNP levels. Patients with heart failure who have elevated base-line levels of BNP. The greatest utility of BNP levels is in the absence of elevation, since low BNP levels have a high negative predictive value for excluding heart failure diagnosis. On the other hand, high BNP levels can be non-specific for volume overload.
+Bioimpedance vector analysis Bioelectrical impedance analysis is a commonly used method for estimating body composition, specifically detecting soft tissue hydration with a 2–3 % measurement error. It is a noninvasive, inexpensive and highly versatile test that transforms electrical properties of tissues into clinical information. Bioimpedance vector analysis (BIVA) measures whole body fluid volume and is based on patterns of the resistance-reactance graph, relating body impedance to body hydration. Clinical information on hydration is obtained through patterns of vector distribution with respect to the healthy population of the same race, sex, class of body mass index, and age. Changes in tissue hydration status below 500 ml are detected and ranked. BIVA was examined as an indicator of fluid status compared to central venous pressure (CVP) in 121 critically ill patients. In this study patients were classified in three groups according to their CVP value: low (0 to 3 mmHg); medium (4 to 12 mmHg); and high (13 to 20 mmHg). The agreement between BIVA and central venous pressure indications was good in the high CVP group, moderate in the medium CVP group, and poor in low CVP group. The combined evaluation of peripheral tissue hydration (BIVA) and central filling pressure (CVP) could provide a useful clinical assessment instrument in the planning of fluid therapy in critically ill patients, particularly in those with low CVP.
+Thoracic ultrasound Sonographic artifacts known as B-lines that suggest thickened interstitial or fluid-filled alveoli can be detected using thoracic ultrasound (Fig. 1). PCWP and fluid accumulation in lungs have been correlated with the presence of B-lines ("comet-tail images") in patients with congestive heart failure. Agricola et al. used thoracic ultrasound to detect “comet-tail images” and obtained an individual patient comet-tail image score by summing the number of B-lines in each of the scanned spaces assessed (right and left hemi thorax, from second to fourth intercostals’ space, from para-sternal to mid-axillary line); authors found significant positive linear correlations between comet-tail images score and extra-vascular lung water determined by the PiCCO System, between comet score and PCWP, and between comet-tail images score and radiologic sings of fluid overload in the lungs. Fig. 1 Lung comet tail image. ‘B lines’ also known as comet-tail images are a marker of pulmonary edema. In the presence of extravascular lung water the reflection of the ultrasound beam on the sub-pleural interlobular septa thickened by edema creates comet-tail reverberation artifacts. The ultrasound appearance is of a vertical, discrete, hyperechogenic image that arises from the pleural line and extends to the bottom of the screen moving synchronously with the respiration (white arrows)
+Vena cava diameter ultrasound The measurement of the inferior vena cava (IVC) diameter can also be use to assess volume status. Normal diameter of IVC is 1.5 to 2.5 cm (measured 3 cm from the right atrium); volume depletion is considered with an IVC diameter <1.5 cm while an IVC diameter >2.5 cm suggests volume overload. In an observational study on blood donors, Lyon et al. evaluated the inferior vena cava diameter (IVCd) during inspiration (IVCd i) and during expiration (IVCd e), before and after blood donation of 450 mL. Significant differences were found between the IVCd e before and after blood donation and between IVCd i before and after donation (5.5 mm and 5.16 mm, respectively). In patients treated for hypovolemia, Zengin et al. evaluated the IVC and right ventricle (RVd) diameters and diameter changes with the diameters and diameter changes of healthy volunteers. The IVCd was measured ultrasonographically by M-mode in the subxiphoid area and the RVd was measured in the third and fourth intercostals spaces before and after fluid resuscitation. As compare with healthy volunteers average diameters in hypovolemic patients of the IVC during inspiration and expiration, and right ventricule diameter were significantly lower. After fluid resuscitation, there was a significant increase in mean IVC diameters during inspiration and expiration as well as in the right ventricule diameter. Bedside inferior vena cava diameter and right ventricule diameter evaluation could be a practical noninvasive instrument for fluid status estimation and for evaluating the response to fluid therapy in critically ill patients.
+
+---
+
+### Pulmonary hypertension [^7bedece8]. American Family Physician (2024). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, AAFP 2024 guidelines recommend to obtain echocardiography as the initial investigation in patients with suspected PH.
+
+---
+
+### 2022 AHA / ACC key data elements and definitions for cardiovascular and noncardiovascular complications of COVID-19: a report of the American college of cardiology / American Heart Association task force on clinical data standards [^941319e9]. Journal of the American College of Cardiology (2022). High credibility.
+
+COVID-19 cardiovascular diagnostic procedures—laboratory, electrocardiographic, echocardiographic, and imaging approaches are outlined. COVID-19 may result in a number of cardiovascular complications, and evaluation can involve standard diagnostic procedures. Laboratory testing, including cardiac troponin, natriuretic peptide levels, complete metabolic profile, blood cell counts, coagulation parameters, and inflammatory biomarkers, can be helpful. Electrocardiography is used to identify rhythm and conduction abnormalities. Echocardiography is the most common means of assessing left ventricular ejection fraction, right ventricular function, wall motion abnormalities, and pulmonary artery systolic pressure. MRI may be used to assess myocarditis, myocardial wall edema, fibrosis and scar, and other structural abnormalities and ventricular function. Computed tomography (CT), nuclear, and coronary angiography may be used to evaluate for obstructive coronary disease; coronary angiography can be used to evaluate for ACS. Chest x-ray is first line for evaluating acute lung processes, chest CT angiography may be used to evaluate for pulmonary embolus, right heart catheterization may be used to diagnose cardiogenic shock and evaluate filling and pulmonary pressures, and venous or arterial thromboses can often be identified by ultrasonography, vascular, or nuclear angiography.
+
+---
+
+### Critical care ultrasonography in acute respiratory failure [^6acced03]. Critical Care (2016). Low credibility.
+
+Cardiogenic pulmonary edema
+
+Cardiogenic pulmonary edema (CPE) is a frequent cause of ARF. Although congestive heart failure remains commonly encountered in this clinical setting, CPE is increasingly attributed to heart failure with a preserved ejection fraction (EF). Since CPE develops secondary to pulmonary venous congestion, its diagnosis relies on the identification of elevated left ventricular (LV) filling pressures, irrespective of systolic function. Accordingly, patients with LV diastolic dysfunction are at risk of developing CPE. CCE is ideally suited to identify a causative cardiomyopathy while chest ultrasonography depicts lung and pleural consequences of fluid overload.
+
+---
+
+### American Society of Echocardiography COVID-19 statement update: lessons learned and preparation for future pandemics [^81e6df6b]. Journal of the American Society of Echocardiography (2023). High credibility.
+
+Lung ultrasound in COVID-19 pneumonia—diagnostic patterns and impact include that a bilateral pattern has a high negative predictive value for pneumonia and may be useful in excluding COVID-19 pneumonia, and a systematic review showed that lung ultrasound changed the diagnosis in approximately 30% of patients and altered management in approximately 45% of patients; in addition, the number and distribution of B lines—hyperechoic vertical artifacts from the pleural line—are sensitive for pulmonary edema and suggest a thickened pulmonary interstitium.
+
+---
+
+### Approach to acute heart failure in the emergency department [^95ca7e17]. Progress in Cardiovascular Diseases (2017). Low credibility.
+
+Acute heart failure (AHF) patients rarely present complaining of 'acute heart failure.' Rather, they initially present to the emergency department (ED) with a myriad of chief complaints, symptoms, and physical exam findings. Such heterogeneity prompts an initially broad differential diagnosis; securing the correct diagnosis can be challenging. Although AHF may be the ultimate diagnosis, the precipitant of decompensation must also be sought and addressed. For those AHF patients who present in respiratory or circulatory failure requiring immediate stabilization, treatment begins even while the diagnosis is uncertain. The initial diagnostic workup consists of a thorough history and exam (with a particular focus on the cause of decompensation), an EKG, chest X-ray, laboratory testing, and point-of-care ultrasonography performed by a qualified clinician or technologist. We recommend initial treatment be guided by presenting phenotype. Hypertensive patients, particularly those in severe distress and markedly elevated blood pressure, should be treated aggressively with vasodilators, most commonly nitroglycerin. Normotensive patients generally require significant diuresis with intravenous loop diuretics. A small minority of patients present with hypotension or circulatory collapse. These patients are the most difficult to manage and require careful assessment of intra- and extra-vascular volume status. After stabilization, diagnosis, and management, most ED patients with AHF in the United States (US) are admitted. While this is understandable, it may be unnecessary. Ongoing research to improve diagnosis, initial treatment, risk stratification, and disposition may help ease the tremendous public health burden of AHF.
+
+---
+
+### VA / DoD clinical practice guideline for the primary care management of asthma [^5f07f525]. DoD/VA (2025). High credibility.
+
+Asthma differential—congestive heart failure/coronary artery disease: Presentation can include fatigue, orthopnea, paroxysmal nocturnal dyspnea, dyspnea on exertion, edema, and weight gain. Test results note echocardiogram findings of low left ventricular ejection fraction and/or diastolic dysfunction and B-type natriuretic peptide elevated. Radiographic findings include cardiomegaly, pulmonary congestion, and pleural effusions. Pulmonary function tests are described as variable, though reversible obstruction is uncommon.
+
+---
+
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^5551f685]. Kidney International (2025). High credibility.
+
+Pulmonary disease—rationale and supporting evidence for imaging and smoking risk in kidney transplant candidates indicates that in kidney transplant recipients, a smoking history of more than 25 pack-years was associated with a 30% higher risk of graft failure (RR 1.30, 95% CI: 1.04-1.63; P = 0.021), and for patients who quit smoking > 5 years before transplantation, the RR for graft failure was reduced by 34% (RR 0.66, 95% CI: 0.52-0.85; P < 0.001). The American Cancer Society recommends that patients who have at least a 30 pack-year smoking history and who currently smoke or have quit within the past 15 years undergo lung cancer screening with a chest CT, and it seems reasonable to apply these recommendations to transplant candidates as well. Preoperative chest radiographs have not been shown to be of benefit in routine non-pulmonary surgery; however, in kidney transplant candidates a routine chest x-ray might demonstrate localized fluid collections or volume overload. Pulmonary function tests are not needed in most transplant candidates without significant pulmonary disease or symptoms, although preoperative pulmonary function tests may offer benefit in patients with impaired functional capacity, known pulmonary disease, or unexplained dyspnea.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^246c23f9]. European Heart Journal (2022). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, ERS/ESC 2022 guidelines recommend to obtain echocardiography as first-line, noninvasive diagnostic investigation in patients with suspected PH.
+
+---
+
+### Progression of coronary artery calcium and incident heart failure: the multi-ethnic study of atherosclerosis [^e3840462]. Journal of the American Heart Association (2017). Low credibility.
+
+Every 9 to 12 months, a telephone interviewer called each participant to find about any interim hospital admissions, cardiovascular outpatient diagnoses, and deaths. Inpatient and outpatient medical records and information were received successfully in ≈98% and 95%, respectively. CHD was assessed as any of myocardial infarction, resuscitated cardiac arrest, definite angina, probable angina (if followed by revascularization), and CHD death. The end point for our study was a combination of probable and definite HF. Both types required clinical symptoms and signs of HF, such as shortness of breath or edema. HF was considered probable if a physician made the diagnosis and the patient was receiving medical treatment for HF. Definite HF required to meet at least 1 of the following criteria: (1) pulmonary edema/congestion in chest x‐ray; (2) dilated or dysfunctional LV by echocardiography or any ventriculography; or (3) any evidence of LV diastolic dysfunction.
+
+---
+
+### Advances in point-of-care thoracic ultrasound [^6bb79363]. Emergency Medicine Clinics of North America (2016). Low credibility.
+
+Pulmonary ultrasound continues to develop and is ideally suited for the evaluation and treatment of respiratory emergencies. It is portable, can be performed rapidly, has no ionizing radiation, and is highly sensitive and specific for the diagnosis of pneumothorax, pneumonia, pulmonary edema, and free fluid in the chest.
+
+---
+
+### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^4cf461a1]. Annals of Emergency Medicine (2022). High credibility.
+
+Regarding diagnostic investigations for heart failure, more specifically with respect to lung ultrasound, ACEP 2022 guidelines recommend to obtain point-of-care lung ultrasound as an imaging modality in conjunction with medical history and physical examination to diagnose acute HF syndrome when diagnostic uncertainty exists.
+
+---
+
+### Phenotypic characterization of acute headache attributed to SARS-CoV-2: an ICHD-3 validation study on 106 hospitalized patients [^034302de]. Cephalalgia (2020). Medium credibility.
+
+Variables
+
+We analysed demographic variables, including age, sex and baseline performance assessed using the modified Rankin Scale (mRS). Prior medical history of patients was assessed, including presence of hypertension, diabetes, a smoking habit, a prior history of cardiac, pulmonary, or neurologic disorders, and a history of cancer or immunocompromised conditions (definitions are available in supplementary materials). Prior history of headache disorders was assessed and classified according to the ICHD-3 (4) criteria by the researchers after interviewing the patients. We inquired whether the prior headache had been diagnosed by the general practitioner (GP), a neurologist, or a headache specialist. We also asked patients about prior episodes of headache developed in temporal relation to other systemic infections.
+
+We assessed whether the diagnosis was based on RT-PCR or serological tests or both. We described the results of chest imaging by either x-ray or computerized tomography. The course of COVID-19 was analysed, categorizing severity into mild disease, pneumonia, severe pneumonia or acute respiratory distress syndrome (ARDS) according to the American Thoracic Society guidelines for community acquired pneumonia (Supplemental Table 1). We analysed the initial presenting symptoms of COVID-19 and the most bothersome symptoms.
+
+---
+
+### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure: executive summary. [ corrected ] [^ac83cbcb]. The Journal of Heart and Lung Transplantation (2014). Medium credibility.
+
+Acute heart failure (HF) initial assessment: Class I states the diagnosis of acute HF should be based on signs and symptoms of HF combined with supportive evidence from chest X-ray imaging, ECG, echocardiography, and laboratory evaluations, including BNP (Level of Evidence B).
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^4143c1d0]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+Lung ultrasonography
+
+Based on the interpretation of a number of artefacts, specific ultrasonography appearances, and their distribution (FIG. 1), LUS allows for a rapid point-of-care evaluation of a number of conditions, including pulmonary oedema, lung consolidation, pleural effusion, and pneumothorax. High intra-rater and inter-rater reproducibility, ease of learning, short exam duration (<5 min), and the noninvasive nature of this technique makes it an advantageous point-of-care tool –. LUS is increasingly used in the acute care setting, and has improved diagnostic accuracy compared with clinical assessment and chest radiography for the identification of a cardiac aetiology in patients presenting to the emergency department with undifferentiated dyspnoea.
+
+---
+
+### 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the task force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC) [^6a709771]. The European Respiratory Journal (2019). High credibility.
+
+Regarding diagnostic investigations for pulmonary embolism, more specifically with respect to diagnostic imaging, ESC 2019 guidelines recommend to confirm the diagnosis of PE if CTPA shows a segmental or more proximal filling defect in a patient with intermediate or high clinical probability.
+
+---
+
+### Identification of volume overload hospitalizations among hemodialysis patients using administrative claims: a validation study [^f18fcbd6]. BMC Nephrology (2016). Low credibility.
+
+Clinical adjudication of volume overload hospital admissions
+
+For each sampled hospitalization, we conducted detailed clinical chart reviews to adjudicate the presence or absence of volume overload at the time of admission. We sought to identify hospitalizations of patients admitted with volume overload. Unlike other cardiovascular conditions, such as myocardial infarction, there is no established, objective definition for the clinical diagnosis of volume overload. Volume overloaded hemodialysis patients often present with a constellation of signs and symptoms indicative of fluid retention (e.g. shortness of breath, rales on lung auscultation, pulmonary edema on chest imaging, etc.) that may vary from individual to individual. Thus, an in-depth review of the medical record was necessary to capture all volume-related clinical findings associated with each sampled hospitalization. Medical chart notes (e.g. emergency department, admitting team and consult notes), chest and abdominal imaging reports, and cardiac procedure reports occurring within 24 h of admission were evaluated. Abstractors utilized a standardized data collection form (Additional file 1) to record symptoms, physical exam findings, imaging results, and clinical impressions. Each medical record was independently abstracted by two clinical reviewers who were blinded to the hospitalization’s billed diagnosis and procedure codes and to the abstraction results of the other reviewer. Inter-abstractor discrepancies in individual data elements were resolved by a board-certified nephrologist (J.E.F) Initial agreement between abstractors was high across all data elements, ranging 98.1 % (κ = 0.91) for subjective dyspnea to 100 % (κ = 1.00) for central venous pressure. After review and error resolution, consensus was reached on all abstracted charts.
+
+---
+
+### Pleuritic chest pain: sorting through the differential diagnosis [^44abdf71]. American Family Physician (2017). Medium credibility.
+
+Regarding diagnostic investigations for pulmonary embolism, more specifically with respect to history and physical examination, AAFP 2017 guidelines recommend to suspect PE in all patients with pleuritic chest pain, as it is the most common life-threatening cause of this symptom. Use a validated clinical decision rule to guide the use of additional tests, including D-dimer and imaging.
+
+---
+
+### Management of cardiogenic shock complicating acute myocardial infarction: a review [^a1590ec6]. Clinical Cardiology (2019). Medium credibility.
+
+4 INITIAL ASSESSMENT
+
+CS is a medical emergency; a high index of suspicion, rapid diagnosis, and immediate commencement of treatment, including transferring patients to a tertiary cardiac center may influence clinical outcomes. 24 Moreover, CS can develop at any time throughout the patient's illness, mainly following arrival to the hospital. 25 History of chest pain and electrocardiographic changes of AMI with signs of CS will confirm the diagnosis. In addition, major non‐cardiogenic categories of shock, such as distributive shock (septic, neurogenic), hypovolemic shock (hemorrhage, dehydration), or obstructive shock (pulmonary embolism, pericardial tamponade, aortic dissection) should also be excluded, if clinically indicated. Physical examination is important in recognizing the features of hypoperfusion, as well as detecting mechanical complications. A chest X‐ray may be helpful in confirming the diagnosis of pulmonary edema. However, absence of pulmonary edema does not rule out CS. Mortality rates are similar in patients presenting with CS, irrespective of pulmonary edema. 26 A bedside echocardiogram may provide highly valuable information, especially LV ejection fraction and severity of mitral regurgitation, as they are independent predictors of mortality in patients with CS. 6 General measures, such as arterial oxygenation and near‐normal pH should be maintained. Some patients may require endotracheal intubation and mechanical ventilation.
+
+Patients presenting with CS due to predominant RV failure are generally treated with aggressive fluid resuscitation with an intention to increase RV filling pressure. Such a practice may have limited role, as volume‐loading augments pulmonary capillary wedge pressure without improving cardiac index, aortic pressure or right/left ventricular stroke work index. 27 In addition, the majority of these patients have elevated RV EDP, and any further increase may have detrimental effects. 4 Although the routine use of right heart catheterization in managing critically ill patients in intensive care has declined, as their use was reported to be associated with higher mortality, and excess resource utilization. 28 However, the Swan‐Ganz catheter may play a role in managing patients with predominant RV failure, as the cardiac output is higher (with/without inotropic support), when the RV EDP is between 10 and 15 mm Hg. 29 Alternatively, non‐invasively assessed mitral deceleration time of less than 140 ms is predictive of pulmonary capillary wedge pressure of >20 mm Hg. 11 Previously published articles have described in‐depth assessment of patients presenting with AMI‐CS. 3, 30
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^2d9b50c6]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+Echocardiography in AHF
+
+Driven by progressive advances in ultrasonography technology and an expanding evidence base, the use of echocardiography has extended beyond the traditional application in stable patients to become widespread in the acute and emergency settings,. Mirroring the concept of critical care, echocardiography is increasingly used as a tool to guide management of the most acutely unwell patients wherever they present along the management pathway. Pocket-sized devices have been recommended in the emergency department, intensive care unit, and coronary units for fast initial qualitative screening of ventricular and valvular function, pericardial and pleural effusion, or extravascular lung water. However, owing to the known limitations of this technique, they are not intended as a substitution for comprehensive echocardiography,. Remote expert review of images is now a possibility, and in the future, telemedicine will probably have an important role in guiding the assessment and management of these acutely unwell patients.
+
+Echocardiography is used in AHF to help to confirm diagnosis, delineate potential underlying causes, identify associated pathophysiology, and monitor the response to therapy,. Echocardiography can also be used to guide specialist interventions in the catheter laboratory or operating room –. Furthermore, echocardiography can address several major questions, including whether a patient has a cardiac cause for their symptoms and signs, the severity of the cardiac impairment and its physiological effect, whether there is an underlying reversible cause, what the most appropriate initial treatment is, and how the patient responds to treatment.
+
+Guidelines recommend immediate echocardiographic assessment for patients with suspected AHF with haemodynamic instability, ; however, interpretation of echocardiographic data in these acutely unwell patients can be extremely complex (TABLE 1). First, the finding of a structurally or functionally abnormal heart does not necessarily mean the cause of dyspnoea is cardiac-related. Second, patients might be misdiagnosed as having primary respiratory disease, even in the presence of very severe cardiac pathology,. Third, substantial cardiac and respiratory disease might coexist, and determining the degree of cardiac contribution is frequently challenging in this setting. These considerations are further compounded by the relative paucity of high-quality evidence to support the use of echocardiography techniques in the acute arena, as they have been predominantly validated in the outpatient clinic.
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^936f88b3]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+Interstitial fluid and pulmonary oedema
+
+Quantification of B-lines (vertical artefacts that result from an increase in interstitial density; FIG. 1b) has been shown to be useful for the diagnosis, monitoring, and risk assessment of patients with known or suspected AHF –. Either curvilinear or phased array transducers can be used, typically at an imaging depth of 18 cm. Although the assessment of eight or more anterior and lateral thoracic zones (four on each hemithorax) has been recommended in a consensus statement, a subsequent study demonstrated high diagnostic accuracy with examination of only six thoracic regions. The visualization of three or more B-lines in two or more intercostal spaces bilaterally should be considered diagnostic for pulmonary oedema, with sensitivity of 94% (95% CI 81–98%) and specificity of 92% (95% CI 84–96%),. By contrast, physical examination and chest radiography have a sensitivity of only 62% (95% CI 61–64%) and 57% (95% CI 55–59%), and a specificity of 68% (95% CI 67–69%) and 89% (95% CI 88–90%) for a diagnosis of pulmonary oedema, respectively. The presence of multiple bilateral B-lines in AHF has been well-correlated with natriuretic peptide levels, and only variably correlated with pulmonary capillary wedge pressure and measures of extravascular lung water,,,–. Given that studies to assess the incremental diagnostic value of LUS compared with natriuretic peptides for the identification of AHF in patients with dyspnoea reported variable results in different cohorts, this topic warrants further investigation,,. The number of B-lines is thought to decrease with treatment for AHF and, therefore, this technique is potentially useful in the monitoring of pulmonary oedema in response to therapy,. For serial assessments, patient positioning (sitting versus supine) should be kept consistent. Importantly, a higher number of B-lines on LUS at the time of discharge from hospital might help to identify patients with heart failure who have a worse prognosis.
+
+Pleural effusion
+
+Similarly to B-lines, the presence of pleural effusions can be assessed using curvilinear or phased array transducers in the posterior–axillary line(FIG. 1d). Current data regarding the diagnostic utility of pleural effusions identified on ultrasonography in patients with AHF are less robust, but have been reported with sensitivities of 79–84% and specificities of 83–98% in small studies of patients with dyspnoea,.
+
+---
+
+### A 55-year-old man with a small right lung and a right-sided heart [^5f831771]. Chest (2015). Low credibility.
+
+A healthy 55-year-old man without known medical problems presented for a routine physical examination and was found to have an abnormal ECG. He denied chest pain, dyspnea, palpitations, dizziness, or syncopal episodes. He also denied orthopnea, paroxysmal nocturnal dyspnea, and lower-extremity edema. His exercise capacity had been excellent. He was a lifelong nonsmoker and never had lung problems.
+
+---
+
+### 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the task force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC) [^1db355ef]. The European Respiratory Journal (2019). High credibility.
+
+Regarding diagnostic investigations for pulmonary embolism, more specifically with respect to diagnostic imaging, ESC 2019 guidelines recommend to obtain bedside echocardiography or emergency CTPA (depending on availability and clinical circumstances) for the diagnosis of patients with suspected high-risk PE.
+
+---
+
+### Prognostic cardiac magnetic resonance markers of left ventricular involvement in arrhythmogenic cardiomyopathy for predicting heart failure outcomes [^d40834ca]. Journal of the American Heart Association (2022). Medium credibility.
+
+Definitions of Clinical Manifestations and Events During Follow‐Up
+
+Patients with a final diagnosis of ACM underwent follow‐up for HF‐related events (a composite of HF hospitalization, heart transplantation, and cardiac death due to pump failure), and ventricular tachycardia (VT) events.
+
+HF, which is one of the initial manifestation types, was defined as the presence of symptoms or signs (dyspnea, fatigue, peripheral edema, or pulmonary edema on chest x‐ray) suggestive of volume overload with identified structural/functional cardiac abnormalities, as the ACC/AHA guideline suggested.HF hospitalization event was defined as an unexpected admission for worsening symptoms or signs of HF which needed treatment with intravenous diuretics, vasodilators, or inotropic agents after diagnosis of ACM. Heart transplantation was regarded as a HF‐related event if the transplantation was performed because of the patient’s end‐stage HF status. Cardiac death due to pump failure was defined as death occurring with worsening symptoms of HF lasting at least 24 hours without other evidence of identified life‐threatening arrhythmia or acute myocardial infarction.
+
+VT event during follow‐up is a composite of documented sustained VT and VT requiring appropriate therapy from an implantable cardioverter‐defibrillator (ICD). Sustained VT was defined as sustained ventricular beats with >100 bpm for >30 seconds documented by holter monitoring, unexpected hospital visit, or regular ICD interrogation data. Appropriate ICD therapy (anti‐tachycardia pacing or shock) was also regarded as VT event during follow‐up and was identified from ICD interrogation data. Sudden cardiac death, one of the initial manifestations, was defined as resuscitated unexpected cardiac arrest with witnessed prodromal symptoms lasting <24 hours.
+
+Endomyocardial Biopsy and Genetic Analysis
+
+Among the study population, we performed endomyocardial biopsies in 23 (38%) subjects. In addition, the study population was tested using a next‐generation sequencing panel from 12 (20%) subjects to determine whether they had genetic mutations related to ACM. The determination of pathogenicity (pathogenic or likely‐pathogenic) for the variants was based on the American College of Medical Genetics and Genomics guideline.
+
+---
+
+### Diagnostic accuracy of point-of-care lung ultrasonography and chest radiography in adults with symptoms suggestive of acute decompensated heart failure: a systematic review and meta-analysis [^199a3b35]. JAMA Network Open (2019). High credibility.
+
+Results
+
+Search
+
+Figure 1 is a study flow diagram detailing search results and study inclusion. The search identified 1377 nonduplicate titles that underwent screening, of which 43 articles (3.1%) underwent full-text review. After application of the exclusion criteria, we identified 6 studies eligible for data extraction, representing a total of 1827 patients.,,, Figure 1 provides reasons for exclusion and the number of studies excluded under each reason.
+
+Figure 1. 
+Flow Diagram Outlining Search Through Inclusion Process
+
+CXR indicates chest radiography.
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^57933209]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+LV ejection fraction has been the main parameter used for the diagnosis, treatment, and stratification of patients with heart failure. However, this parameter has several limitations that are particularly relevant in the acute setting, such as load-dependency and inotropydependency,. Even in the absence of high-quality 2D images, Doppler abnormalities in transmitral filling might provide an early indicator of important pathology,–.
+
+Unlike LUS, echocardiography might be challenging to perform well and interpret accurately, as a number of considerations add to the complexity of its application in the acute setting. First, in all parameters described for LAP estimation, the confounding factors imposed by critical illness (changes in heart rate, cardiac output, LV compliance, and volume and ventilatory status) have not been fully evaluated. Second, not only might patients with a relatively normal LAP have radiographic and sonographic evidence of pulmonary oedema, but conversely, patients with chronically elevated LAP might have no evidence of pulmonary oedema. Similarly to LUS, however, the echocardiographic findings should be integrated with those from clinical examination, laboratory investigations, and lung imaging data (radiographic and/or sonographic), and be assessed within the clinical context. The main value of echocardiography in this setting is to diagnose or exclude an underlying cardiac cause for dyspnoea and guide subsequent interventions.
+
+---
+
+### Assessment of pulmonary edema: principles and practice [^faac91a7]. Journal of Cardiothoracic and Vascular Anesthesia (2018). Low credibility.
+
+Pulmonary edema increasingly is recognized as a perioperative complication affecting outcome. Several risk factors have been identified, including those of cardiogenic origin, such as heart failure or excessive fluid administration, and those related to increased pulmonary capillary permeability secondary to inflammatory mediators. Effective treatment requires prompt diagnosis and early intervention. Consequently, over the past 2 centuries a concentrated effort to develop clinical tools to rapidly diagnose pulmonary edema and track response to treatment has occurred. The ideal properties of such a tool would include high sensitivity and specificity, easy availability, and the ability to diagnose early accumulation of lung water before the development of the full clinical presentation. In addition, clinicians highly value the ability to precisely quantify extravascular lung water accumulation and differentiate hydrostatic from high permeability etiologies of pulmonary edema. In this review, advances in understanding the physiology of extravascular lung water accumulation in health and in disease and the various mechanisms that protect against the development of pulmonary edema under physiologic conditions are discussed. In addition, the various bedside modalities available to diagnose early accumulation of extravascular lung water and pulmonary edema, including chest auscultation, chest roentgenography, lung ultrasonography, and transpulmonary thermodilution, are examined. Furthermore, advantages and limitations of these methods for the operating room and intensive care unit that are critical for proper modality selection in each individual case are explored.
+
+---
+
+### A structured diagnostic algorithm for patients with ARDS [^6dc7fa69]. Critical Care (2023). Medium credibility.
+
+Diagnosis of ARDS
+
+The diagnosis of ARDS is largely based on hypoxic respiratory failure and the detection of pulmonary edema, from which hydrostatic cardiogenic pulmonary edema must be excluded. It is therefore essential that false positive results are excluded as much as possible by means of non-invasive imaging. Ultrasound of the lungs is superior to chest X-ray for detecting and ruling out pleural effusion. The chest X-ray can give the illusion that the lung is consolidated when there is a large effusion and this can result in a false positive diagnosis, but the treatment differs. Transthoracic ultrasound of the heart can facilitate the diagnosis of acute heart failure. In general, acute heart failure is sufficient explanation for pulmonary edema and treatment should be focused on decongestion. However, a complicating factor is that cardiomyopathy due to a hyperinflammatory state can be associated with ARDS (and thus non-cardiogenic pulmonary edema). Usually, these are patients with sepsis, with a high a priori risk of ARDS who should also be diagnosed with ARDS.
+
+Practical steps
+
+Determine that the patient meets the ARDS criteria according to the ‘Berlin definition’ and report the diagnosis of ARDS in the status (Table 1), both when the cause is evident and when the cause is unclear, as ARDS is a descriptive—and not causal—diagnosis. The presence of ARDS should trigger both a standardized set of evidence-based interventions (e.g. lung protective ventilation, restrictive fluid therapy) and, importantly, an investigation into the cause of the pulmonary injury.
+Perform ultrasound of the lungs to rule out pulmonary effusion as the cause for the bilateral consolidations. Finding pleural abnormalities with lung ultrasound strongly suggests an inflammatory cause of the pulmonary edema.
+Perform transthoracic cardiac ultrasound to exclude acute heart failure as a cause of pulmonary edema. Ultrasound evidence of cardiomyopathy does not exclude ARDS in an underlying condition with a high pre-probability of ARDS (such as sepsis) and in this case ARDS should be diagnosed despite the contribution of acute heart failure to the onset of pulmonary edema.
+
+---
+
+### Society of Cardiovascular Computed Tomography guidance for use of cardiac computed tomography amidst the COVID-19 pandemic endorsed by the American college of cardiology [^de821435]. Journal of Cardiovascular Computed Tomography (2020). High credibility.
+
+Incidental pulmonary findings in patients at risk of COVID-19 exposure highlight that COVID-19 is a viral pneumonia, with a spectrum of findings ranging from normal lungs to acute respiratory distress syndrome; if typical or atypical pulmonary findings are encountered, consultation with a thoracic radiologist should be considered, and appropriate follow-up arranged with referring clinicians, and if urgent action is needed, these findings should be communicated by phone with the referring clinician, while radiologic follow-up of suspected COVID-19 should be consistent with published guidelines.
+
+---
+
+### Salicylate-induced pulmonary edema – a near-miss diagnosis [^c9751879]. The American Journal of Emergency Medicine (2014). Low credibility.
+
+A 43-year-old white woman presented to the emergency department with confusion, agitation, and progressive dyspnea. Chest x-ray revealed pulmonary edema. Initial diagnostic considerations were pneumonia, pulmonary embolism, sepsis, central nervous system infection, substance toxicity, and heart failure. Her salicylate level was 92.6 mg/dL, and an arterial blood gas revealed a respiratory alkalosis and nonanion gap metabolic acidosis, consistent with salicylate poisoning. Noncardiogenic pulmonary edema is an atypical presentation of salicylate toxicity, and this case highlights the importance of an early toxicology screen to make a time-critical diagnosis and provide specific treatment.
+
+---
+
+### Cardio-respiratory failure secondary to ectopic Cushing's syndrome as the index presentation of small-cell lung cancer [^8d959d19]. BMJ Case Reports (2013). Medium credibility.
+
+A 79-year-old woman, a smoker, presented to the emergency department with a 2-week history of progressive dyspnoea and peripheral oedema, preceded by flu-like symptoms that had failed to improve despite antibiotics. Examination identified severe hypertension and signs consistent with severe fluid overload. Baseline chest X ray showed a right-sided abnormality. In the context of an extensive smoking history CT thorax was indicated which demonstrated a right-sided hilar mass and lymphadenopathy. Blood tests showed an unexplained metabolic alkalosis with partial respiratory compensation and hypokalaemia prompting endocrinological tests investigating Cushing's syndrome. Urinary cortisol was measured at 3174 nmol/L/24 h (normal<560), serum adrenocorticotropic hormone (ACTH) of 215 ng/L (normal<46). Pleural fluid cytology confirmed a diagnosis of small-cell lung cancer (SCLC). The patient's condition deteriorated despite intravenous diuretics and nitrates, metyrapone and non-invasive ventilation. Treatment was withdrawn 1 week after admission. The clinical course in the presence of biochemical derangement and SCLC is highly suggestive of paraneoplastic ectopic ACTH secretion.
+
+---
+
+### 2022 AHA / ACC / HFSA guideline for the management of heart failure: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^0d75641a]. Circulation (2022). High credibility.
+
+AHA/ACC/HFSA 2022 heart failure guideline—evaluation with cardiac imaging states that in patients with suspected or new-onset heart failure (HF) or acute decompensated HF, a chest x-ray should be performed to assess heart size, pulmonary congestion, and alternative causes, and in patients with suspected or newly diagnosed HF, transthoracic echocardiography (TTE) should be performed during initial evaluation to assess cardiac structure and function. In patients with HF who have had a significant clinical change or who have received guideline-directed medical therapy and are being considered for invasive procedures or device therapy, repeat measurement of ejection fraction (EF), degree of structural remodeling, and valvular function are useful to inform therapeutic interventions. If echocardiography is inadequate, alternative imaging such as cardiac magnetic resonance (CMR), cardiac computed tomography (CT), or radionuclide imaging is recommended for assessment of left ventricular ejection fraction (LVEF). In patients with HF or cardiomyopathy, CMR can be useful for diagnosis or management, and in patients with HF, an evaluation for possible ischemic heart disease can be useful to identify the cause and guide management. In patients with HF and coronary artery disease who are candidates for coronary revascularization, noninvasive stress imaging (stress echocardiography, single-photon emission CT [SPECT], CMR, or positron emission tomography [PET]) may be considered for detection of myocardial ischemia to help guide coronary revascularization. In patients with HF without clinical status change, treatment interventions likely to affect cardiac function, or candidacy for invasive procedures or device therapy, routine repeat assessment of left ventricular (LV) function is not indicated.
+
+---
+
+### Association bulletin # 15-02: transfusion-associated circulatory overload (TACO) [^0d91747a]. AABB (2023). High credibility.
+
+Association Bulletin #15-02—differentiating TACO from transfusion-related acute lung injury (TRALI): TACO must be distinguished from pulmonary syndromes after transfusion, with TRALI the most important alternate diagnosis and occasional co-occurrence. On chest radiograph, diffuse bilateral infiltrates are seen in both, but the critical distinction is cardiogenic (TACO) versus noncardiogenic (TRALI) pulmonary edema. Swan-Ganz catheterization is rarely performed; in severe respiratory decompensation, echocardiography may assess whether left ventricular function is normal (uncomplicated TRALI) or abnormal (TACO). Brain natriuretic peptide (BNP) and N-terminal proBNP are established markers shown to be elevated in TACO, although available literature indicates these tests may have limited predictive value in distinguishing TRALI from TACO. Diagnosis of TACO is typically clinical, including response to diuretic challenge; diuretics are ineffective in treating TRALI but often produce rapid improvement in oxygenation in TACO. Hypertension is characteristically seen in TACO, whereas TRALI can present with hypertension or hypotension, with hypotension more common. A transient precipitous decline in total peripheral leukocyte count is sometimes observed in TRALI and would not be expected in TACO.
+
+---
+
+### 2019 updated consensus statement on the diagnosis and treatment of pediatric pulmonary hypertension: the European pediatric pulmonary vascular disease network (EPPVDN), endorsed by AEPC, ESPR and ISHLT [^112b14c0]. The Journal of Heart and Lung Transplantation (2019). High credibility.
+
+Recommendations—initial evaluation and baseline imaging in children with pulmonary hypertension (PH) state that “Children with suspected or confirmed PH should be evaluated and treated in specialized pediatric centers.” The initial evaluation “should include a comprehensive medical history, physical examination, assignment to a functional class, and assessment of cardiac function (ECG and echocardiography). This should be followed by further diagnostic testing to delineate the PH etiology—ideally before the initiation of therapy.” A CXR (chest X-ray) “is recommended at baseline with acceptable risk/radiation exposure,” while “Regular CXR at follow up visits are not indicated, unless there is a clinical reason.”
+
+---
+
+### Expert consensus document: echocardiography and lung ultrasonography for the assessment and management of acute heart failure [^6b5a5764]. Nature Reviews: Cardiology (2017). Medium credibility.
+
+Conclusions
+
+Echocardiography and LUS can assist in the rapid assessment of patients with acute dyspnoea and hypotension, and have the potential to transform the way in which clinicians assess and manage critically ill patients with AHF and cardiogenic shock (TABLE 3). The current AHF guidelines are cautious in recommendations for the widespread use of advanced echocardiography techniques in the acute care setting because robust applicability data are lacking, interpretation of findings requires highly specialized, in-depth knowledge of cardiac pathophysiology, and there is potential for harm by injudicious application in this patient population. The opportunities to improve diagnostic accuracy, reduce delays in treatment, and improve outcomes through the use of advanced echocardiography need to be further explored.
+
+---
+
+### 2021 ACC / AHA key data elements and definitions for heart failure: a report of the American college of cardiology / American Heart Association task force on clinical data standards (writing committee to develop clinical data standards for heart failure) [^bb00ac46]. Circulation: Cardiovascular Quality and Outcomes (2021). High credibility.
+
+ACC/AHA heart failure data elements—chest radiography defines the data element as “Documented findings from the radiological examination of the chest,” with permissible values including “Pulmonary vascular redistribution, pulmonary congestion, or pulmonary edema,” “Cardiomegaly, chamber enlargement,” “Pleural effusion(s),” and “No abnormalities related to HF.” Pulmonary edema is defined as “Accumulation of fluid in the lung tissues causing disturbance of the gas exchange that may lead to respiratory failure. It is caused by direct injury to the lung parenchyma or congestive HF.” Cardiomegaly/chamber enlargement is “Abnormal enlargement of the heart,” and pleural effusion(s) are described as “Increased amounts of fluid within the pleural cavity. Symptoms include shortness of breath, cough, and chest pain. It is usually caused by lung infections, congestive HF; pleural and lung tumors, connective tissue disorders, and trauma.”
+
+---
+
+### Using natriuretic peptides for selection of patients in acute heart failure clinical trials [^e4a2c564]. The American Journal of Cardiology (2015). Low credibility.
+
+Acute heart failure (AHF) is a complex syndrome with presentations ranging from hypotensive cardiogenic shock to hypertensive emergency with pulmonary edema. Most patients with AHF present with worsening of chronic HF signs and symptoms over days to weeks, and significant heterogeneity exists. It can, therefore, be challenging to characterize the overall population. The complexity of defining the AHF phenotype has been cited as a contributing cause for neutral results in most pharmacologic trials in patients with AHF. Dyspnea has been a routine inclusion criterion for AHF for over a decade, but the utility of current instruments for dyspnea assessment has been called into question. Furthermore, the threshold of clinical severity that prompts patient admission of an HF clinic visit may vary substantially across regions in global trials. Therefore, the inclusion of cardiac-specific biomarkers has been incorporated into AHF trials as 1 strategy to support inclusion of the target patient population and potentially enrich the population with patients at risk for clinical outcomes. In conclusion, we discuss strategies to support appropriate patient selection in AHF trials with an emphasis on using biomarker criteria that may improve the likelihood of success with future AHF clinical trials.
+
+---
+
+### Prognostic implications of left ventricular dyssynchrony for major adverse cardiovascular events in asymptomatic women and men: the multi-ethnic study of atherosclerosis [^00eb4831]. Journal of the American Heart Association (2014). Low credibility.
+
+Adjudication of Events
+
+Reviewers classified myocardial infarction as definite, probable, or absent based primarily on combinations of symptoms (eg, chest pain), ECG abnormalities, and cardiac biomarker levels. Coronary heart disease death was classified as present or absent based on hospital records and interviews with families. Definite fatal coronary heart disease required myocardial infarction within 28 days of death, chest pain within the 72 hours before death, or a history of coronary heart disease and the absence of a known nonatherosclerotic or noncardiac cause of death. Adjudicators graded angina, based on their clinical judgment, as definite, probable, or absent. Definite and probable angina required clear documentation of chest pain or anginal equivalent. Definite angina also required objective evidence of reversible myocardial ischemia or obstructive coronary artery disease (eg, positive stress test or ≥70% coronary artery obstruction). Stroke was defined as documented focal neurologic deficit lasting 24 hours or until death. When neurological deficits persisted for <24 hours, clinically relevant lesion documentation on brain imaging was required. Patients with focal neurological deficits secondary to brain trauma, tumor, infection, or other nonvascular cause were excluded. Reviewers classified congestive heart failure (CHF) as definite or probable based on CHF symptoms such as shortness of breath or edema. In addition to symptoms, probable CHF required CHF diagnosed by a physician and patient receiving medical treatment for CHF. Definite CHF required 1 objective criterion or more, such as pulmonary edema or congestion by chest x‐ray, dilated ventricle or poor LV systolic function by echocardiography or ventriculography, or evidence of LV diastolic dysfunction denoting increased LV filling pressure. The documented LVEF at the diagnosis of CHF was obtained from medical records. Participants not meeting any criteria, including only a physician's diagnosis of CHF without any other evidence, were considered as having no CHF.
+
+---
+
+### Is the mechanism of re-expansion pulmonary oedema in a heart-lung interaction? [^65ce8d55]. BMJ Case Reports (2017). Medium credibility.
+
+Differential diagnosis
+
+Congestive heart failure—echocardiography confirmed the diagnosis, enabled to estimate elevated heart filling pressures with further impact on therapy. The ultrasound examination also helped diagnose and quantify a large fluidothorax with an implication for a safe drainage.
+Acute myocardial infarction—excluded by repeatedly negative cardiac biochemistry (troponin I and CK-MB mass) taken in a patient with a non-diagnostic 12-lead ECG due to VVI pacing and not changing regional wall motion abnormalities seen on echocardiography.
+Pulmonary embolism—the patient showed a dilated RV with preserved contractility throughout this episode, without any signs of acute cor pulmonale or changes in the elimination of CO 2. After the drainage of pleural fluid which was performed on systemic anticoagulation, the mild increase of pulmonary artery pressure could be ascribed to the parallel increase of LAP, that is, presence of postcapillary pulmonary hypertension in heart failure. This deterioration after drainage was reversed swiftly with improvement of the LV function on dobutamine. All of this renders a possible diagnosis of a significant pulmonary embolism very unlikely as a cause of his transient deterioration.
+Respiratory insufficiency due to tracheobronchitis or pneumonia—diagnosed with the help of positive inflammatory markers and clinical signs of increased bronchial secretions. Fibreoptic bronchoscopy confirmed the diagnosis of tracheobronchitis and excluded atelectasis.
+Pneumothorax—excluded predrainage and postdrainage by the presence of pleural sliding, B lines and a lung pulse. A large pneumothorax was also excluded by the chest X-ray taken after admission to the ICU and again after pleural drainage.
+
+---
+
+### Acute respiratory distress syndrome in adults: diagnosis, outcomes, long-term sequelae, and management [^c085b53b]. Lancet (2022). Excellent credibility.
+
+Acute respiratory distress syndrome (ARDS) is characterised by acute hypoxaemic respiratory failure with bilateral infiltrates on chest imaging, which is not fully explained by cardiac failure or fluid overload. ARDS is defined by the Berlin criteria. In this Series paper the diagnosis, management, outcomes, and long-term sequelae of ARDS are reviewed. Potential limitations of the ARDS definition and evidence that could inform future revisions are considered. Guideline recommendations, evidence, and uncertainties in relation to ARDS management are discussed. The future of ARDS strives towards a precision medicine approach, and the framework of treatable traits in ARDS diagnosis and management is explored.
+
+---
+
+### Decision support tool for differential diagnosis of acute respiratory distress syndrome (ARDS) vs cardiogenic pulmonary edema (CPE): a prospective validation and meta-analysis [^df55e738]. Critical Care (2014). Low credibility.
+
+If patients were found potentially eligible, research staff (AA and CS) directly abstracted most of the data necessary for calculation of the prediction score from the EMR into a predesigned access® form (some data at low risk of differential measurement bias such as age were retrieved retrospectively from a validated ICU database; details in Additional file 1).
+
+Post-hoc expert review served as the gold standard: after patients’ discharge or death a board-certified critical care physician (SP) and a clinical critical care fellow (MA) - blinded to each other as well as to the details and results of the prediction score - reviewed all included patients after discharge or death, taking into account all available information in the EMR including the course of illness and response to therapeutic intervention using the following definitions (with disagreements resolved via super-review by an experienced investigator [RK]) : ALI was defined according to the American-European Consensus Conference (AECC) statement as acute (<24 h) hypoxemia (PaO 2 /FiO 2 ratio <300) with bilateral lung infiltrates consistent with pulmonary edema on frontal chest radiograph without any evidence of left atrial hypertension. Left atrial hypertension was excluded by echocardiographic findings (E/E’ <15), brain natriuretic peptide (BNP) levels (BNP <250 pg/mL in the absence of renal failure), and venous filling pressures (pulmonary wedge pressure ≤18 or central venous pressure ≤12 mmHg in the absence of pulmonary hypertension).
+
+CPE was defined by a combination of clinical signs (jugular venous distension, systolic hypertension); radiographic (cardiothoracic ratio >0.53 and vascular pedicle width >0.65 mm), electrocardiogram (new ST-segment and T-wave changes), laboratory (elevated troponin T level >0.1 ng/mL), and hemodynamic findings (pulmonary wedge pressure >18 mmHg, central venous pressure >12 mmHg, decreased ejection fraction <45%, E/E’ >15, presence of severe left-sided valvular heart disease (aortic or mitral stenosis or regurgitation)); and a brisk response (hours) to appropriate therapy (preload/afterload reduction, treatment of ischemia or inotropic agents). Patients meeting both criteria were classified as ALI + CPE; those meeting neither definition where classified as other and excluded from the main analysis.
+
+---
+
+### 2021 ACC / AHA key data elements and definitions for heart failure: a report of the American college of cardiology / American Heart Association task force on clinical data standards (writing committee to develop clinical data standards for heart failure) [^2b39745a]. Circulation: Cardiovascular Quality and Outcomes (2021). High credibility.
+
+ACC/AHA heart failure data standards—acute pulmonary edema data element defines rapid progression or acute onset of pulmonary edema causing significant hypoxemia and/or need for mechanical ventilation, with permissible values Yes, No, and Unknown.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^0f47c60b]. European Heart Journal (2022). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, ERS/ESC 2022 guidelines recommend to consider obtaining further testing in the clinical context (symptoms and risk factors or associated conditions for PAH/CTEPH) based on the probability of PH by echocardiography.
+
+---
+
+### Multimodality imaging in evaluation of cardiovascular complications in patients with COVID-19: JACC scientific expert panel [^4bcd4c72]. Journal of the American College of Cardiology (2020). Medium credibility.
+
+Standard evaluation and management of the patient with suspected or proven cardiovascular complications of coronavirus disease-2019 (COVID-19), the disease caused by severe acute respiratory syndrome related-coronavirus-2 (SARS-CoV-2), is challenging. Routine history, physical examination, laboratory testing, electrocardiography, and plain x-ray imaging may often suffice for such patients, but given overlap between COVID-19 and typical cardiovascular diagnoses such as heart failure and acute myocardial infarction, need frequently arises for advanced imaging techniques to assist in differential diagnosis and management. This document provides guidance in several common scenarios among patients with confirmed or suspected COVID-19 infection and possible cardiovascular involvement, including chest discomfort with electrocardiographic changes, acute hemodynamic instability, newly recognized left ventricular dysfunction, as well as imaging during the subacute/chronic phase of COVID-19. For each, the authors consider the role of biomarker testing to guide imaging decision-making, provide differential diagnostic considerations, and offer general suggestions regarding application of various advanced imaging techniques.
+
+---
+
+### Lung ultrasound diagnosis of pulmonary edema resulting from excessive fluid absorption during hysteroscopic myomectomy: a case report [^84a4f5eb]. BMC Anesthesiology (2024). Medium credibility.
+
+Fig. 2 
+The chest X-ray results of the patient. (a) : preoperative. (b) : the second day after operation. (c) : before discharge. There were no image abnormal in both Fig. 2. (a) and Fig. 2. (c). Figure 2. (b) showed multiple spots and hyperemia shadows in the right lung. Regretfully, since the high blood pressure of the patient after surgery, we failed to transfer the patient for chest X-ray examination in time and the patient’s lungs did not show typical signs of pulmonary edema
+
+---
+
+### Acute respiratory distress syndrome: diagnosis and management [^133b7a16]. American Family Physician (2020). Medium credibility.
+
+Acute respiratory distress syndrome (ARDS) is noncardiogenic pulmonary edema that manifests as rapidly progressive dyspnea, tachypnea, and hypoxemia. Diagnostic criteria include onset within one week of a known insult or new or worsening respiratory symptoms, profound hypoxemia, bilateral pulmonary opacities on radiography, and inability to explain respiratory failure by cardiac failure or fluid overload. ARDS is thought to occur when a pulmonary or extrapulmonary insult causes the release of inflammatory mediators, promoting inflammatory cell accumulation in the alveoli and microcirculation of the lung. Inflammatory cells damage the vascular endothelium and alveolar epithelium, leading to pulmonary edema, hyaline membrane formation, decreased lung compliance, and decreased gas exchange. Most cases are associated with pneumonia or sepsis. ARDS is responsible for one in 10 admissions to intensive care units and one in four mechanical ventilations. In-hospital mortality for patients with severe ARDS ranges from 46% to 60%. ARDS often must be differentiated from pneumonia and congestive heart failure, which typically has signs of fluid overload. Treatment of ARDS is supportive and includes mechanical ventilation, prophylaxis for stress ulcers and venous thromboembolism, nutritional support, and treatment of the underlying injury. Low tidal volume and high positive end-expiratory pressure improve outcomes. Prone positioning is recommended for some moderate and all severe cases. As patients with ARDS improve and the underlying illness resolves, a spontaneous breathing trial is indicated to assess eligibility for ventilator weaning. Patients who survive ARDS are at risk of diminished functional capacity, mental illness, and decreased quality of life; ongoing care by a primary care physician is beneficial for these patients.
+
+---
+
+### Critical care ultrasonography in acute respiratory failure [^04f44eb3]. Critical Care (2016). Low credibility.
+
+How to apply a pragmatic critical care ultrasonographic strategy in patients presenting with cardiogenic pulmonary edema
+
+CCE should be performed as a first-line diagnostic test in patients presenting with suspected CPE. First, it allows semi-quantitative assessment of LV filling pressures to differentiate CPE from acute respiratory distress syndrome (ARDS). Second, CCE helps the front-line intensivist to identify the underlying cardiopathy or the mechanism of CPE. Interpretation of CCE examination should ascertain that observed findings fully account for the clinical presentation. Third, CCE may be used to guide and to monitor both the efficacy and tolerance of treatment in patients with CPE. For example, CCE may depict the beneficial effects of positive pressure ventilation on central hemodynamics, or the decrease of LV filling pressure resulting from a negative fluid balance. Hypervolemia requires diuretics or ultrafiltration while titrated intravenous vasodilators may reduce LV afterload, and hence the pressure gradient between the LV and the LA, and ultimately the volume of the associated MR. Finally, CCE may depict the partial or full recovery of a transiently depressed LV systolic function, as in CPE secondary to an ischemic myocardial event or induced by a stress cardiomyopathy.
+
+---
+
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^e336245d]. Journal of the American College of Cardiology (2025). High credibility.
+
+2025 High Blood Pressure Guideline—secondary hypertension: renovascular hypertension may present with “Resistant hypertension; hypertension of abrupt onset or worsening or increasingly difficult to control; flash pulmonary edema (atherosclerotic); early-onset hypertension, especially in women (fibromuscular hyperplasia),” with exam findings “Abdominal systolic-diastolic bruit; bruits over other arteries (carotid, femoral),” screening tests “Electrolytes, including sodium, potassium, chloride, and bicarbonate, renal duplex Doppler ultrasound; magnetic resonance angiography; abdominal CT arteriography,” and confirmation by “Bilateral selective renal intraarterial angiography.”
+
+---
+
+### Thoracic ultrasound [^b626a01d]. Emergency Medicine Clinics of North America (2012). Low credibility.
+
+Dyspnea and hypotension often present a diagnostic challenge to the emergency physician. With limitations on traditional methods of evaluating these patients, lung ultrasound has become an essential assessment tool. With the sensitivity of lung ultrasound approaching that of CT scan for many indications, it is quickly becoming a fundamental technique in assessing patients with thoracic emergencies. This article reviews the principles of thoracic ultrasound; describes the important evidence-based sonographic features found in pneumothorax, pleural effusion, pneumonia, and pulmonary edema; and provides a framework of how to use thoracic ultrasound to aid in assessing a patient with severe dyspnea.
+
+---
+
+### Diagnostic utility of C-reactive protein combined with brain natriuretic peptide in acute pulmonary edema: a cross sectional study [^196c3a3a]. Respiratory Research (2011). Low credibility.
+
+Introduction
+
+Acute hypoxic respiratory failure due to pulmonary edema is a common reason for visiting the emergency department. The distinction between cardiogenic pulmonary edema (CPE) and acute lung injury (ALI) or acute respiratory distress syndrome (ARDS) is clinically important because the management and the prognosis are different. Hence, possible biomarkers for the differential diagnosis have been investigated using various strategies [-]. The most widely used clinical definition of ALI/ARDS is based on the acute onset of respiratory failure, bilateral infiltration on chest radiography, a pulmonary capillary wedge pressure (PCWP) < 18 mmHg, or absence of clinical evidence of elevated left atrial pressure. However, clinical estimation of PCWP is notoriously inaccurate, relatively invasive and costly, has no clear evidence of benefits, and may result in potentially adverse clinical outcomes. Moreover, ALI/ARDS with concomitant heart failure complicates the differential diagnosis. If the respiratory status rapidly improves after the administration of diuretics alone, CPE should be considered, whereas patients who have poor responses to sufficient diuresis should be considered to have non-cardiogenic pulmonary edema. In patients with CPE that was triggered by an airway infection, the respiratory status might not completely improve in response to diuretic treatment, if airway an infection itself influences this status to some degree. Therefore, these patients who cannot undergo invasive examinations, such as bronchoscopy because of poor respiratory conditions, tend to only be diagnosed after the start of treatment [-]. However, making an accurate initial diagnosis is still important in the emergency department, and the alternative tools for use in maing a differential diagnosis have been explored using various strategies, including the measurement of the alveolar protein concentration, as well as the use of chest radiographs and echocardiography.
+
+Brain natriuretic peptide (BNP) is released from the cardiac ventricles in response to increased cardiac wall tension. Rapid measurement of BNP has been shown to be a sensitive marker of dyspnea due to cardiac causes in the emergency room and intensive care unit settings [-]. In critically ill patients with hypoxic respiratory failure due to CPE versus ALI/ARDS, the diagnostic utility of BNP has been extensively investigated, however, the accuracy of discriminating these two disorders by the BNP level alone is still a matter of debate. Several investigators have reported that BNP levels do not accurately discriminate CPE from sepsis [-]. Severe sepsis, known as one cause of ALI/ARDS, can increase BNP levels in spite of a normal cardiac function. Therefore, false-positive findings of plasma BNP levels may be found in sepsis-associated ALI/ARDS patients.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^ce9ec1c0]. European Heart Journal (2022). High credibility.
+
+Diagnostic algorithm for unexplained exertional dyspnoea and/or suspected pulmonary hypertension—initial evaluation by a general practitioner includes medical history, physical exam, ECG, BNP/NT-proBNP, and O2 saturation, followed by targeted testing. Lung assessment includes PFT, ABG, chest X-ray, chest CT, and CPET, while heart assessment includes echocardiography and CPET. Fast-track referral at any time in case of warning sign(s), or when PAH or CTEPH are suspected. The algorithm stratifies PH probability, where Low proceeds to further diagnostic work-up, and Intermediate/High with risk factors for PAH or CTEPH leads to Refer to PH centre (Class I) for comprehensive PH work-up and invasive assessment as needed. If causes other than PH are identified, manage accordingly.
+
+---
+
+### The Berlin definition of ARDS: an expanded rationale, justification, and supplementary material [^e5f5ea1d]. Intensive Care Medicine (2012). Low credibility.
+
+Purpose
+
+Our objective was to revise the definition of acute respiratory distress syndrome (ARDS) using a conceptual model incorporating reliability and validity, and a novel iterative approach with formal evaluation of the definition.
+
+Methods
+
+The European Society of Intensive Care Medicine identified three chairs with broad expertise in ARDS who selected the participants and created the agenda. After 2 days of consensus discussions a draft definition was developed, which then underwent empiric evaluation followed by consensus revision.
+
+Results
+
+The Berlin Definition of ARDS maintains a link to prior definitions with diagnostic criteria of timing, chest imaging, origin of edema, and hypoxemia. Patients may have ARDS if the onset is within 1 week of a known clinical insult or new/worsening respiratory symptoms. For the bilateral opacities on chest radiograph criterion, a reference set of chest radiographs has been developed to enhance inter-observer reliability. The pulmonary artery wedge pressure criterion for hydrostatic edema was removed, and illustrative vignettes were created to guide judgments about the primary cause of respiratory failure. If no risk factor for ARDS is apparent, however, objective evaluation (e.g., echocardiography) is required to help rule out hydrostatic edema. A minimum level of positive end-expiratory pressure and mutually exclusive PaO(2)/FiO(2) thresholds were chosen for the different levels of ARDS severity (mild, moderate, severe) to better categorize patients with different outcomes and potential responses to therapy.
+
+Conclusions
+
+This panel addressed some of the limitations of the prior ARDS definition by incorporating current data, physiologic concepts, and clinical trials results to develop the Berlin definition, which should facilitate case recognition and better match treatment options to severity in both research trials and clinical practice.
+
+---
+
+### 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the task force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC) [^6734fe8a]. The European Respiratory Journal (2019). High credibility.
+
+Regarding screening and diagnosis for pulmonary embolism, more specifically with respect to diagnostic criteria, ESC 2019 guidelines recommend to use validated diagnostic criteria in patients with suspected PE without hemodynamic instability.
+
+---
+
+### Acute lung injury in aortic dissection: new insights in anesthetic management strategies [^7679f0bd]. Journal of Cardiothoracic Surgery (2023). Medium credibility.
+
+Diagnose
+
+It is crucial for AAD patients to quickly confirm the diagnosis, clarify the classification, and locate the intimal injury site. ATAAD can be misdiagnosed as myocardial infarction, acute coronary syndrome, or cardiac arrest of unknown reasons in emergency department. It is essential to separate the diagnosis of acute aortic dissection from other diseases since treatment differences might lead to disastrous consequences. Among misdiagnosed patients, 81% were determined to have type A aortic dissection. Those walking into the hospital or providing an obscure history might meet increased risks of misdiagnosis. Up to 80% of patients who diagnosed with AAD had received an emergency diagnosis previously. According to a retrospective study, the initial misdiagnosis of AAD was 31% in emergency department. The primary diagnostic imaging method currently used is contrast-enhanced CT angiography. Magnetic resonance imaging (MRI) is well-suited for diagnosing aortic diseases. However, it is limited due to longer acquisition times than CT and the difficulty in long-term monitoring for patients with unstable circulation. In patients with ATAAD complicated ALI, comprehensive evaluation and early diagnosis of ALI have predictive value. According to Berlin’s gold standard definition, the clinical definition of acute respiratory distress syndrome (ARDS) mainly relies on the acute onset, chest imaging of bilateral opacities, and PaO 2 /FiO 2 ≤ 200 mmHg with positive end-expiratory pressure or continuous positive airway pressure ≥ 5 cmH 2 O; ALI was introduced using the same criteria but with less-severe hypoxemia (i.e. PaO 2 /FiO 2 ≤ 300 mmHg). Additionally, to diagnose AAD complicated with ALI, we should exclude pulmonary edema caused by cardiac failure, fluid overload, or other extrapulmonary factors. The degree of bilateral lung opacities is used in the radiographic assessment of lung edema (RALE) score. The score is obtained by summing the chest X-ray analysis score according to density and consolidation. When the RALE score is ≥ 16, 36.3% of patients develop dyspnea and hypoxemia, defined as ALI. In recent years, lung ultrasound has gained popularity for its portability and real-time and noninvasive characteristics. A lung ultrasound score (LUS) has been gradually applied in predicting the severity and prognosis of AAD-complicated ALI. Lung ultrasound is used to evaluate the lung areas, including bilateral, lateral, upper, and lower posterior chest walls, to provide a point score based on the severity of lung tissues: lung consolidation = 3 points, severely reduced lung ventilation area = 2 points; moderately reduced lung ventilation area = 1 point; normal ventilation area = 0 points. The cutoff values for the LUS score in ALI patients are 18.6 points. As PaO2/FiO2 changes occur after the lung ventilation area change, the LUS can well reflect lung changes and evaluate ALI severity.
+
+---
+
+### Diagnosis of acute heart failure in CT pulmonary angiography: feasibility and accuracy [^291367bd]. European Radiology (2022). Medium credibility.
+
+Introduction
+
+Acute heart failure (HF) is a complex and heterogeneous syndrome being associated with high rates of morbidity and mortality, with reported 1-year mortality rates reaching 10 to 30 %. HF is characterized by typical symptoms and signs including dyspnea, fatigue, and peripheral edema caused by a structural and/or functional cardiac abnormality reducing cardiac output and/or increasing intracardiac pressures. Acute HF is defined as new or worsening of symptoms and signs of HF representing the most frequent cause of unplanned hospital admission in patients over 65 years of age.
+
+Pulmonary embolism is another life-threatening condition and the third leading cause of cardiovascular-related death with an all-cause 30-day mortality rate of 5% in treated patients. The diagnosis of pulmonary embolism remains challenging due to often non-specific clinical signs and symptoms, of which the most common is dyspnea. Some authors therefore suggested that pulmonary embolism should be suspected in all patients presenting to the emergency department with progressive dyspnea, chest pain, or sustained hypotension and no obvious alternate cause. Because of the overlap of the main symptoms of HF and pulmonary embolism, the distinction of these two entities may be hampered in the emergency setting.
+
+Computed tomography pulmonary angiography (CTPA), owing to its high sensitivity and specificity as well as wide availability, represents the imaging modality of choice for the diagnosis or exclusion of pulmonary embolism. The scan initiation of CTPA is usually performed with the bolus tracking technique which enables an individualized optimization of the scan start in relation to the contrast arrival in the pulmonary artery circulation. Still, there are numerous factors affecting the timing of contrast enhancement in CTPA which are not being taken into account entirely with bolus tracking. One of the most relevant patient-related factors is the cardiac output which determines the time of contrast arrival and the time to peak attenuation of the contrast bolus. For example, in patients with reduced cardiac output, the time to reach the attenuation threshold for starting the scan is delayed, similar to the time to peak attenuation which may not be covered optimally with a fixed post-trigger delay as it is standard for bolus tracking.
+
+The purpose of our study was to evaluate the feasibility and accuracy of diagnosing HF using attenuation measurements in the right and left ventricles (RV and LV) in patients with negative CTPA for pulmonary embolism. Our hypothesis was that a high contrast attenuation in the right heart on CTPA examinations may indicate acute HF owing to the reduced cardiac function.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^0476f8a5]. European Heart Journal (2022). High credibility.
+
+Regarding diagnostic investigations for pulmonary hypertension, more specifically with respect to echocardiography, ERS/ESC 2022 guidelines recommend to consider obtaining cardiopulmonary exercise testing to further determine the likelihood of PH in symptomatic patients with an intermediate echocardiographic probability of PH.
+
+---
+
+### Impact of walking and respiratory training on cardiopulmonary function and activity endurance in patients with chronic heart failure [^53a67761]. Clinical Cardiology (2025). Medium credibility.
+
+2 Data and Methods
+
+2.1 General Data
+
+Patients with CHF who were treated at the Affiliated Taizhou People's Hospital of Nanjing Medical University from January 2024 to June 2024 were selected as research participants. The sample size was calculated using the formula: N = P (1− P)/[α 2 / Z 2 + P (1− P)/ E] (p = 0.5, α = 0.05, Z = 1.109, E = 104) resulting in a total of 80 patients. The 80 eligible patients were assigned numeric identifiers from 1 to 80, and random non‐repeated group sampling was conducted using an electronic computer, with a sampling ratio of 1:1. Inclusion criteria were as follows: (1) Patients met the diagnostic criteria for CHF as outlined in the Chinese Guidelines for the Diagnosis and Treatment of Heart Failure 2024, confirmed by echocardiography, cardiac function measurements, myocardial biopsy, and other examinations. Specifically, the diagnosis of CHF was made based on medical history, clinical presentation, and auxiliary tests. The major manifestations include shortness of breath, palpitations, fatigue, ankle swelling, elevated jugular venous pressure, a displaced apical impulse, peripheral edema, and orthopnea. Electrocardiogram results reveal abnormalities such as atrial fibrillation, Q waves, or left ventricular hypertrophy. Chest X‐ray scans indicate pulmonary congestion or edema. Elevated natriuretic peptide levels and echocardiography, which assesses left ventricular ejection fraction (LVEF), confirm the diagnosis of CHF. (2) Age > 18 years; (3) Patients classified as New York Heart Association Functional Classification (NYHA) grade II to III ; (4) Patients with stable vital signs; (5) Patients who voluntarily consented to participate in the study. Exclusion criteria were: (1) Individuals unable to participate in rehabilitation activities; (2) Individuals with impaired functions of other organs; (3) Individuals with a history of psychiatric disorders; (4) Individuals with limb dysfunction; (5) Patients experiencing unstable angina pectoris or myocardial infarction within the past month. No significant differences were observed in general data between the two groups (p > 0.05) (Table 1). Informed consent was obtained from all patients, and the study was approved by the Ethics Committee of the Affiliated Taizhou People's Hospital of Nanjing Medical University.
+
+Table 1 
+General data regarding the two groups of patients [n (%)/].
+
+2.2 Research Methods
+
+---
+
+### Rituximab induced lung injury [^aaabb593]. BMC Pulmonary Medicine (2025). Medium credibility.
+
+Case presentation
+
+A 73-year-old woman with a recent diagnosis of DLBCL presented to the emergency department with a four-day history of worsening shortness of breath and hypoxemia 88% on room air requiring 2–3 L supplemental oxygen. Her social history includes a 25-pack year of tobacco smoking which she quit 33 years before her diagnosis. Pertinent family history includes breast cancer in her mother and sister. The patient has received both sars-cov-2 and influenza vaccination for the year.
+
+Two weeks prior to her current presentation, patient had received the first cycle of rituximab, cyclophosphamide, doxorubicin, vincristine and prednisolone (R-CHOP). Her initial infusion was complicated by an episode of lacy, erythematous rash that was attributed to potential hypersensitivity reaction. A week after administration, she was noted to have persistent dyspnea associated with small pleural effusion and lower extremity edema. She was started on a diuretic for concern for possible volume overload with a close follow up in a week. No thoracentesis was done given small size and no safe window.
+
+Upon presentation to the emergency department, she was visibly dyspneic at rest and with minimal exertion. Initial vitals showed a normal temperature of 36.9 °C, blood pressure, 124/75 and heart rate at 100 beats per minute. On physical examination, her pulmonary auscultation revealed diffuse rhonchi with decreased breath sounds at the left lower lung base and 1 + putting edema in the lower extremity.
+
+Initial work up in the emergency room included complete blood count (CBC), comprehensive metabolic panel (CMP), Troponin, prothrombin (PT) and international normalized ration (INR), Urinalysis, thyroid stimulating hormone (TSH), electrocardiogram (EKG), chest radiography (chest x-ray), and computed tomography angiography (CTA) of the chest. EKG showed premature atrial complexes, inferior infarct, and a shortened QT interval. Chest x-ray revealed a left perihilar opacity and a small left pleural effusion. Chest tomography angiogram of the chest revealed no pulmonary embolism, multifocal ground glass opacities (GGO) present in all five lobes, emphysema, and trace left pleural effusion with atelectasis (Fig. 1). Labs demonstrated mildly elevated white blood cell (WBC) count.
+
+---
+
+### Lung ultrasound imaging: a primer for echocardiographers [^5e23eba8]. Journal of the American Society of Echocardiography (2021). Medium credibility.
+
+Lung ultrasound (LUS) has gained considerable acceptance in emergency and critical care medicine but is yet to be fully implemented in cardiology. Standard imaging protocols for LUS in acute care settings have allowed the rapid and accurate diagnosis of dyspnea, respiratory failure, and shock. LUS is greatly additive to echocardiography and is superior to auscultation and chest radiography, particularly when the diagnosis of acute decompensated heart failure is in question. In this review, the authors describe LUS techniques, interpretation, and clinical applications, with the goal of informing cardiologists on the imaging modality. Additionally, the authors review LUS findings associated with various disease states most relevant to cardiac care. Although there is extensive literature on LUS in the acute care setting, there is a dearth of reviews directly focused for practicing cardiologists. Current evidence demonstrates that this modality is an important adjunct to echocardiography, providing valuable clinical information at the bedside.
+
+---
+
+### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^948a599d]. Annals of Emergency Medicine (2022). High credibility.
+
+Emergency department acute dyspnea in elderly patients—BNP diagnostic accuracy: In a 2004 prospective, single-center, observational substudy (N=380), final diagnoses were cardiogenic pulmonary edema 141 and no cardiogenic pulmonary edema 167; diagnostic performance was reported as follows—Cut point 100 pg/mL sensitivity 0.90 specificity 0.59; Cut point 150 pg/mL sensitivity 0.85 specificity 0.71; Cut point 200 pg/mL sensitivity 0.82 specificity 0.84; Cut point 250 pg/mL sensitivity 0.78 specificity 0.90; AUC=0.87.
+
+---
+
+### 2022 ESC / ERS guidelines for the diagnosis and treatment of pulmonary hypertension [^b27f0a9d]. European Heart Journal (2022). High credibility.
+
+Regarding specific circumstances for pulmonary hypertension, more specifically with respect to patients with lung disease-associated PH, evaluation, ERS/ESC 2022 guidelines recommend to obtain echocardiography when PH is suspected in patients with lung disease, and interpret results in conjunction with arterial blood gas analysis, pulmonary function tests (including lung diffusion capacity for CO), and CT.
+
+---
+
+### Acute heart failure is a malignant process: but we can induce remission [^336a4ef6]. Journal of the American Heart Association (2023). Medium credibility.
+
+DEFINITION
+
+In part the lack of progress in AHF research over the past decades can be attributed to its subjective definition. Most authors,,define it as a sudden worsening of symptoms and signs of congestion associated with some cardiac abnormality requiring emergency treatment. Some add to the definition the need for admission, whereas others add requirements for intravenous therapy. However, compared with other acute cardiovascular conditions, such as myocardial infarction, aortic dissection, or pulmonary embolism, where electrocardiographic data, imaging data, and biomarkers can confirm or refute the diagnosis with high certainty, no such imaging or blood test exists for the diagnosis of AHF. Although elevated natriuretic peptides are important in diagnosing AHF and a lack of increase in natriuretic peptides can rule out AHF with high certaintyincreased natriuretic peptides can also be caused by other disease states, most notably chronic stable heart failure (HF). Hence, natriuretic peptides by themselves are not specific for AHF. Chest x‐ray signs of congestion, on the other hand, are highly specific but lack sensitivity.Therefore, despite years of research, no single biomarker or imaging technique has been found to be both specific and sensitive to the diagnosis of AHF; and its diagnosis remains subjective and based mostly on symptoms, clinical assessments, and ruling out of other reasons for acute congestion, such an acute coronary syndrome, arrhythmia, or infection.
+
+---
+
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a7d9d51c]. Journal of the American College of Cardiology (2025). High credibility.
+
+Table 24—Diagnostic criteria for preeclampsia require blood pressure (BP) elevation plus either proteinuria or specific end-organ features. Systolic blood pressure (SBP) ≥140 mm Hg or diastolic blood pressure (DBP) ≥90 mm Hg on 2 occasions at least 4 h apart after 20 wk of gestation in a woman with previously normal BP, or SBP ≥160 mm Hg or DBP ≥110 mm Hg, must be accompanied by proteinuria ≥300 mg per 24 h, protein/creatinine ratio ≥0.3, or dipstick 2+; alternatively, in the absence of proteinuria, new-onset hypertension with any of the following meets criteria: platelet count <100 × 10^9/L, serum creatinine concentrations >1.1 mg/dL or a doubling of serum creatinine, elevated liver transaminases to twice normal concentration, pulmonary edema, or new-onset headache unresponsive to medication and not accounted for by alternative diagnoses or visual symptoms.
+
+---
+
+### Evaluation and management of right-sided heart failure: a scientific statement from the American Heart Association [^6ea69793]. Circulation (2018). Medium credibility.
+
+Acute right-sided heart failure (ARHF)—clinical features are characterized by acute RV dilatation with ventricular interdependence limiting LV filling, reduced RV forward flow, and elevated systemic venous pressure; patients typically show signs of hypoperfusion and hypotension (diaphoresis, listlessness, cyanosis, cool extremities, hypoperfusion, and tachycardia), and pulmonary edema is not consistent with isolated ARHF but suggests ARHF combined with or secondary to left-sided heart failure (LHF).
+
+---
+
+### 10 issues for the clinician in tricuspid regurgitation evaluation and management: 2025 ACC expert consensus decision pathway: a report of the American college of cardiology solution set oversight committee [^ee717c71]. Journal of the American College of Cardiology (2025). High credibility.
+
+Figure 14—Use of clinical and laboratory evaluations in determining euvolemia at discharge—categorizes congestion severity across none, mild, moderate, and severe/worst using clinical findings and technical tests with explicit thresholds. Jugular venous pulsation (JVP) and hepatojugular reflux (HJR) are graded as “<8 and no HJR,” “<8,” “8-10 or HJR+,” “11-15,” and “>16.” Hepato megaly is categorized as “Absent,” “Liver edge,” “Moderate pulsatile enlargement,” and “Massive enlargement and tender,” and edema as “None,” “+1,” “+2,” and “+3/+4.” Functional capacity by six-minute walk test (6 MWT) spans “>400 m,” “300-400 m,” “200-300 m,” “100-200 m,” and “<100 m.” Chest X-ray ranges from “clear” or “cardiomegaly” to signs including “- pulmonary venous congestion*,” “- small pleural effusions*,” and “- Interstitial or alveolar edema,” with the note that “Chest X-ray can be clear, but presence of abnormalities suggests higher degree of congestion.” Technical congestion metrics include vena cava imaging categorized as “None of two,” “One of two,” or “Both,” where the findings are “- Max diameter >2.2 cm” and “- collapsibility <50%,” and lung ultrasound thresholds of “<15 B-lines when scanning 28-sites,” “15-30 B-lines when scanning 28-sites,” and “>30 B-lines when scanning 28-sites.”
+
+---
