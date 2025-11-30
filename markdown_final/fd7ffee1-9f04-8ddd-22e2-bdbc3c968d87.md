@@ -115,20 +115,20 @@ When penicillin is ineffective or contraindicated for actinomycosis, **doxycycli
 ### Doxycycline monohydrate PO dosing for actinomycosis [^d3e57e99]. FDA (2025). Medium credibility.
 
 Treatment of actinomycosis in adults, if penicillins are ineffective or contraindicated
-• Start at: 200 mg PO daily, in 2-4 divided doses, on day 1
-• Maintenance: 100 mg PO daily, in 1-2 divided doses
+- Start at: 200 mg PO daily, in 2–4 divided doses, on day 1
+- Maintenance: 100 mg PO daily, in 1–2 divided doses
 
 ---
 
 ### Amoxicillin [^70c68598]. FDA (2024). Medium credibility.
 
-The dosage of amoxicillin PO for treatment of actinomycosis in adults, if penicillins are ineffective or contraindicated is 250 mg PO q6-8h for 6-12 months
+The dosage of amoxicillin PO for treatment of actinomycosis in adults, if penicillins are ineffective or contraindicated is 250 mg PO q6-8h for 6–12 months
 
 ---
 
 ### Short-term treatment of actinomycosis: two cases and a review [^d9416a29]. Clinical Infectious Diseases (2004). Low credibility.
 
-Recommendations for prolonged penicillin treatment of actinomycosis date from the early antibiotic era, when patients often presented with neglected, advanced disease and received interrupted therapy at suboptimal dosages. This report describes cases of esophageal and of cervicofacial actinomycosis treated successfully with short-term antibiotic therapy and reviews the literature. Many patients are cured with <6 months of antibiotic therapy. If short-term antibiotic treatment is attempted, the clinical and radiological response should be closely monitored. Cervicofacial actinomycosis is especially responsive to brief courses of antibiotic treatment.
+Recommendations for prolonged penicillin treatment of actinomycosis date from the early antibiotic era, when patients often presented with neglected, advanced disease and received interrupted therapy at suboptimal dosages. This report describes cases of esophageal and of cervicofacial actinomycosis treated successfully with short-term antibiotic therapy and reviews the literature. Many patients are cured with < 6 months of antibiotic therapy. If short-term antibiotic treatment is attempted, the clinical and radiological response should be closely monitored. Cervicofacial actinomycosis is especially responsive to brief courses of antibiotic treatment.
 
 ---
 
@@ -141,31 +141,34 @@ The dosage of tetracycline hydrochloride PO for treatment of actinomycosis in ad
 ### Doxycycline (Monodox) [^432d2f41]. FDA (2017). Low credibility.
 
 The dosage of doxycycline monohydrate PO for treatment of actinomycosis in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg PO daily, in 2-4 divided doses, on day 1
-- Maintenance: 100 mg PO daily, in 1-2 divided doses
+
+- **Start at**: 200 mg PO daily, in 2–4 divided doses, on day 1
+- **Maintenance**: 100 mg PO daily, in 1–2 divided doses
 
 ---
 
 ### Minocycline hydrochloride [^66b1ced1]. FDA. Low credibility.
 
 The dosage of minocycline hydrochloride PO for treatment of actinomycosis in adults (caused by Actinomyces israelii), if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg PO once
-- Maintenance: 100 mg PO BID
+
+- **Start at**: 200 mg PO once
+- **Maintenance**: 100 mg PO BID
 
 ---
 
 ### Minocycline hydrochloride (Minocin) [^d3270a17]. FDA (2025). Medium credibility.
 
 The dosage of minocycline hydrochloride IV for treatment of actinomycosis in adults (caused by Actinomyces israelii), if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg IV once
-- Maintenance: 100 mg IV q12h
-- Maximum: 400 mg per day
+
+- **Start at**: 200 mg IV once
+- **Maintenance**: 100 mg IV q12h
+- **Maximum**: 400 mg per day
 
 ---
 
 ### Penicillin G procaine [^382adc31]. FDA. Low credibility.
 
-The dosage of penicillin G procaine IM for treatment of Vincent's infection in adults, if penicillins are ineffective or contraindicated is 600,000-1,000,000 unit(s) IM daily
+The dosage of penicillin G procaine IM for treatment of Vincent's infection in adults, if penicillins are ineffective or contraindicated is 600,000–1,000,000 unit(s) IM daily
 
 ---
 
@@ -179,18 +182,18 @@ A history of allergic reaction to any of the penicillins is a contraindication.
 
 ### Ulcerated yellow-brown nodules on the chest [^e6f7148c]. JAAD Case Reports (2021). Medium credibility.
 
-Question 3: What is the most effective medical treatment for this disease? 
+Question 3: What is the most effective medical treatment for this disease?
 A. Initial high dose parenteral penicillin G, followed by high dose oral penicillin V
 B. Metronidazole
 C. Liposomal amphotericin B
 D. Long-term oral fluoroquinolone therapy
 E. Rifampicin, isoniazid, pyrazinamide, and ethambutol
 
-Answers: 
-A. Initial high dose parenteral penicillin G, followed by high dose oral penicillin V – Correct. Actinomyces are non–spore-forming, anaerobic Gram positive bacteria. Long-term intensive antibiotic therapy is the mainstay of treatment for actinomycosis. Actinomyces species have traditionally shown exquisite sensitivity to penicillin; however, prolonged treatment is necessary due to poor antibiotic penetration of the thick-walled masses and sulfur granules. This typically entails 2 to 6 weeks of initial parenteral antibiotics followed by oral antibiotics for 6 to 12 months.Severe disease may require surgical management.
+Answers:
+A. Initial high dose parenteral penicillin G, followed by high dose oral penicillin V – Correct. Actinomyces are non–spore-forming, anaerobic Gram positive bacteria. Long-term intensive antibiotic therapy is the mainstay of treatment for actinomycosis. Actinomyces species have traditionally shown exquisite sensitivity to penicillin; however, prolonged treatment is necessary due to poor antibiotic penetration of the thick-walled masses and sulfur granules. This typically entails 2 to 6 weeks of initial parenteral antibiotics followed by oral antibiotics for 6 to 12 months. Severe disease may require surgical management.
 B. Metronidazole – Incorrect. Metronidazole should not be used to treat actinomycotic infections without added antimicrobial agents as it is not active against pathogenic actinomycetes.
 C. Liposomal amphotericin B – Incorrect. Although it may sound like one, actinomycosis is not a fungal infection. Liposomal amphotericin B is the treatment of choice for mucormycosis.
-D. Long-term oral fluoroquinolone therapy – Incorrect. In vitro data suggest that fluoroquinolones should be avoided in actinomycosis. Other antibiotics that should be avoided include oxacillin, dicloxacillin, cephalexin, metronidazole, and aminoglycosides.
+D. Long-term oral fluoroquinolone therapy – Incorrect. In vitro data suggest that fluoroquinolones should be avoided in actinomycosis. Other antibiotics that should be avoided include oxacillin, dicloxacillin, cephalexin, metronidazole, and aminoglycosides.
 E. Rifampicin, isoniazid, pyrazinamide, and ethambutol – Incorrect. This combination of antibiotics is the treatment of choice for tuberculosis.
 
 ---
@@ -207,17 +210,17 @@ A history of a previous hypersensitivity reaction to any of the penicillins is a
 
 1.6 Anthrax Including Inhalational Anthrax (Post-Exposure)
 
-ACTICLATE and ACTICLATE CAP are indicated for the treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure); to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+ACTICLATE and ACTICLATE CAP are indicated for the treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure); to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 1.7 Alternative Treatment for Selected Infections when Penicillin is Contraindicated
 
 ACTICLATE and ACTICLATE CAP are indicted as an alternative treatment for the following selected infections when penicillin is contraindicated:
 
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenue .
-Listeriosis due to Listeria monocytogenes .
-Vincent’s infection caused by Fusobacterium fusiforme .
-Actinomycosis caused by Actinomyces israelii .
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenue.
+Listeriosis due to Listeria monocytogenes.
+Vincent's infection caused by Fusobacterium fusiforme.
+Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
 1.8 Adjunctive Therapy for Acute Intestinal Amebiasis and Severe Acne
@@ -228,7 +231,7 @@ In severe acne, ACTICLATE and ACTICLATE CAP may be useful adjunctive therapy.
 
 1.9 Prophylaxis of Malaria
 
-ACTICLATE and ACTICLATE CAP are indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.4) and Patient Counseling Information (17)] .
+ACTICLATE and ACTICLATE CAP are indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.4) and Patient Counseling Information (17)].
 
 1.10 Usage
 
@@ -238,7 +241,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^f2297314]. Clinical Infectious Diseases (2014). Medium credibility.
 
-Erysipeloid—Beta-lactam therapy is recommended with specified dosing and duration. Penicillin (500 mg qid) or amoxicillin (500 mg 3 times daily [tid]) for 7–10 days is recommended for treatment of erysipeloid (strong, high).
+Erysipeloid — Beta-lactam therapy is recommended with specified dosing and duration. Penicillin (500 mg qid) or amoxicillin (500 mg 3 times daily [tid]) for 7–10 days is recommended for treatment of erysipeloid (strong, high).
 
 ---
 
@@ -246,17 +249,17 @@ Erysipeloid—Beta-lactam therapy is recommended with specified dosing and durat
 
 1.6	Anthrax Including Inhalational Anthrax (Post-Exposure)
 
-DORYX MPC is indicated for treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+DORYX MPC is indicated for treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 1.7	Alternative Treatment for Selected Infections when Penicillin is Contraindicated
 
 DORYX MPC is indicated as an alternative treatment for the following selected infections when penicillin is contraindicated:
 
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenue .
-Listeriosis due to Listeria monocytogenes .
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenue.
+Listeriosis due to Listeria monocytogenes.
 Vincent's infection caused by Fusobacterium fusiforme.
-Actinomycosis caused by Actinomyces israelii .
+Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
 1.8	Adjunctive Therapy for Acute Intestinal Amebiasis and Severe Acne
@@ -281,26 +284,26 @@ Because many strains of the following groups of microorganisms have been shown t
 
 Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
 
-Escherichia coli .
-Enterobacter aerogenes .
+Escherichia coli.
+Enterobacter aerogenes.
 Shigella species.
 Acinetobacter species.
-Respiratory tract infections caused by Haemophilus influenzae .
+Respiratory tract infections caused by Haemophilus influenzae.
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory infections caused by Streptococcus pneumoniae.
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
-Uncomplicated gonorrhea caused by Neisseria gonorrhoeae .
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenue .
-Listeriosis due to Listeria monocytogenes .
-Vincent’s infection caused by Fusobacterium fusiforme .
-Actinomycosis caused by Actinomyces israelii .
+Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenue.
+Listeriosis due to Listeria monocytogenes.
+Vincent's infection caused by Fusobacterium fusiforme.
+Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
 In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides.
@@ -309,7 +312,7 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 Prophylaxis
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
 
 ---
 
@@ -317,28 +320,28 @@ Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falcip
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Escherichia coli.
-Enterobacter aerogenes .
+Enterobacter aerogenes.
 Shigella species.
 Acinetobacter species.
-Respiratory tract infections caused by Haemophil us influenzae .
+Respiratory tract infections caused by Haemophil us influenzae.
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
-Upper respiratory infections caused by Streptococcus pneumoniae .
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Upper respiratory infections caused by Streptococcus pneumoniae.
+Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
+When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
-Uncomplicated gonorrhea caused by Neisseria gonorrhoeae .
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenue .
-Listeriosis due to Listeria mo n ocytogenes .
-Vincent’s infection caused by Fusobacterium fusiforme .
-Actinomycosis caused by Actinomyces israe l i i .
+Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenue.
+Listeriosis due to Listeria mo n ocytogenes.
+Vincent's infection caused by Fusobacterium fusiforme.
+Actinomycosis caused by Actinomyces israe l i i.
 Infections caused by Clostridium species.
 
 In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides.
@@ -347,7 +350,7 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 Prophylaxis
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
 
 ---
 
@@ -367,7 +370,7 @@ Respiratory tract and urinary tract infections caused by Klebsiella species
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory infections caused by Streptococcus pneumoniae.
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
@@ -375,7 +378,7 @@ Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
 Syphilis caused by Treponema pallidum.
 Yaws caused by Treponema pallidum subspecies pertenue.
 Listeriosis due to Listeria monocytogenes.
-Vincent’s infection caused by Fusobacterium fusiforme.
+Vincent's infection caused by Fusobacterium fusiforme.
 Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
@@ -385,7 +388,7 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 Prophylaxis:
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains. (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section .)
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains. (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section .)
 
 ---
 
@@ -406,7 +409,7 @@ Doxycycline is indicated for treatment of infections caused by the following gra
 
 Upper respiratory infections caused by Streptococcus pneumoniae (formerly Diplococcus pneumonia)
 
-Anthrax due to Bacillus anthracis, including inhalation anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Anthrax due to Bacillus anthracis, including inhalation anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of infections due to:
 
@@ -414,7 +417,7 @@ Uncomplicated gonorrhea caused by Neisseria gonorrhoeae
 Syphillis caused by Treponema pallidum
 Yaws caused by Treponema pertenue
 Listeriosis due to Listeria monocytogenes
-Vincent’s infection caused by Fusobacterium fusiforme
+Vincent's infection caused by Fusobacterium fusiforme
 Actinomycosis caused by Actinomyces israelli
 Infections caused by Clostridium species
 
@@ -424,7 +427,7 @@ In severe acne doxycycline may be useful adjunctive therapy.
 
 Prophylaxis:
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains. See DOSAGE AND ADMINISTRATION section and Information for Patients subsections of the PRECAUTIONS section.
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains. See DOSAGE AND ADMINISTRATION section and Information for Patients subsections of the PRECAUTIONS section.
 
 ---
 
@@ -432,17 +435,17 @@ Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falcip
 
 1.6 Anthrax Including Inhalational Anthrax (Post-Exposure)
 
-Doxycycline hyclate tablets are indicated for the treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure); to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Doxycycline hyclate tablets are indicated for the treatment of Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure); to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 1.7 Alternative Treatment for Selected Infections when Penicillin is Contraindicated
 
 Doxycycline hyclate tablets are indicated as an alternative treatment for the following selected infections when penicillin is contraindicated:
 
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenue .
-Listeriosis due to Listeria monocytogenes .
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenue.
+Listeriosis due to Listeria monocytogenes.
 Vincent's infection caused by Fusobacterium fusiforme.
-Actinomycosis caused by Actinomyces israelii .
+Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
 1.8 Adjunctive Therapy for Acute Intestinal Amebiasis and Severe Acne
@@ -461,15 +464,15 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ### Slowly growing plantar mass in a 40-year-old immigrant [^9d4617ce]. JAAD Case Reports (2020). Medium credibility.
 
-Question 3: Which of the following would be an appropriate treatment option for this patient? 
+Question 3: Which of the following would be an appropriate treatment option for this patient?
 A. Sulfamethoxazole/trimethoprim and amikacin
 B. Itraconazole
 C. Penicillin G
 D. Ketoconazole
 E. Amphotericin B
 
-Answers: 
-A. Sulfamethoxazole/trimethoprim and amikacin – Correct. Sulfamethoxazole/trimethoprim and dapsone for 2 to 3 years comprise the first-line therapeutic regimen for the 4 most common pathogens underlying actinomycotic mycetoma.
+Answers:
+A. Sulfamethoxazole/trimethoprim and amikacin – Correct. Sulfamethoxazole/trimethoprim and dapsone for 2 to 3 years comprise the first-line therapeutic regimen for the 4 most common pathogens underlying actinomycotic mycetoma.
 B. Itraconazole – Incorrect. Itraconazole is the first-line medical treatment for eumycetoma. This therapy is not curative but reduces disease burden in preparation for surgery.
 C. Penicillin G – Incorrect. Penicillin G plays no role in the major treatment regimens of actinomycetoma. Penicillin G is indicated in the treatment of Actinomyces rather than Actinomadura.
 D. Ketoconazole – Incorrect. Ketoconazole has been used in the treatment of eumycetoma but is no longer recommended because of hepatotoxicity associated with systemic administration.
@@ -485,52 +488,52 @@ The dosage of clotrimazole OTIC for treatment of otomycosis in adults is 1 vial 
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^0c755d87]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Introduction—approximate annual burden and trends in the United States: of the estimated 150 000 infections that occur annually, 50 000 likely produce an illness warranting medical attention, 10 000–20 000 are diagnosed and reported, 2000–3000 produce pulmonary sequelae, 600–1000 disseminate hematogenously, and 160 result in death; from 1998 to 2011, cases reported from endemic states have risen 10-fold; in patients with specific gene mutations that alter immunologic responses, the risk of disseminated infection can be as high as 75%, a striking increase from what would ordinarily be approximately a 1% risk.
+Introduction — approximate annual burden and trends in the United States: of the estimated 150 000 infections that occur annually, 50 000 likely produce an illness warranting medical attention, 10 000–20 000 are diagnosed and reported, 2000–3000 produce pulmonary sequelae, 600–1000 disseminate hematogenously, and 160 result in death; from 1998 to 2011, cases reported from endemic states have risen 10-fold; in patients with specific gene mutations that alter immunologic responses, the risk of disseminated infection can be as high as 75%, a striking increase from what would ordinarily be approximately a 1% risk.
 
 ---
 
 ### Doxycycline (doxycycline hyclate) [^0bb9c80d]. FDA (2025). Medium credibility.
 
-Chancroid caused by Haemophilus ducreyi .
-Plague due to Yersinia pestis .
-Tularemia due to Francisella tularensis .
-Cholera caused by Vibrio cholerae .
-Campylobacter fetus infections caused by Campylobacter fetus .
+Chancroid caused by Haemophilus ducreyi.
+Plague due to Yersinia pestis.
+Tularemia due to Francisella tularensis.
+Cholera caused by Vibrio cholerae.
+Campylobacter fetus infections caused by Campylobacter fetus.
 Brucellosis due to Brucella species (in conjunction with streptomycin).
-Bartonellosis due to Bartonella bacilliformis .
-Granuloma inguinale caused by Klebsiella granulomatis .
+Bartonellosis due to Bartonella bacilliformis.
+Granuloma inguinale caused by Klebsiella granulomatis.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
 Doxycycline is indicated for treatment of infections caused by the following gram-negative bacteria, when bacteriologic testing indicates appropriate susceptibility to the drug:
 
-Escherichia coli .
-Enterobacter aerogenes .
+Escherichia coli.
+Enterobacter aerogenes.
 Shigella species.
 Acinetobacter species.
-Respiratory tract infections caused by Haemophilus influenzae .
+Respiratory tract infections caused by Haemophilus influenzae.
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
-Upper respiratory infections caused by Streptococcus pneumoniae .
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Upper respiratory infections caused by Streptococcus pneumoniae.
+Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
-Uncomplicated gonorrhea caused by Neisseria gonorrhoeae .
-Syphilis caused by Treponema pallidum .
-Yaws caused by Treponema pallidum subspecies pertenu e .
-Listeriosis due to Listeria monocytogenes .
-Vincent’s infection caused by Fusobacterium fusiforme .
-Actinomycosis caused by Actinomyces israelii .
+Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
+Syphilis caused by Treponema pallidum.
+Yaws caused by Treponema pallidum subspecies pertenu e.
+Listeriosis due to Listeria monocytogenes.
+Vincent's infection caused by Fusobacterium fusiforme.
+Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
 In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides.
 
 In severe acne, doxycycline may be useful adjunctive therapy.
 
-Prophylaxis: Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (see DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
+Prophylaxis: Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains (see DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section).
 
 ---
 
@@ -543,16 +546,18 @@ It is widely accepted that there is a finite failure rate when treating onychomy
 ### Minocycline hydrochloride [^38ee0314]. FDA. Low credibility.
 
 The dosage of minocycline hydrochloride PO for treatment of listeriosis in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg PO once
-- Maintenance: 100 mg PO BID
+
+- **Start at**: 200 mg PO once
+- **Maintenance**: 100 mg PO BID
 
 ---
 
 ### Minocycline hydrochloride [^1d5c8cfb]. FDA. Low credibility.
 
 The dosage of minocycline hydrochloride PO for treatment of anthrax in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg PO once
-- Maintenance: 100 mg PO BID
+
+- **Start at**: 200 mg PO once
+- **Maintenance**: 100 mg PO BID
 
 ---
 
@@ -562,17 +567,17 @@ Actinomycosis is a subacute-to-chronic bacterial infection caused by gram-positi
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^e674ee33]. Otolaryngology--Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^e674ee33]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
-Acute bacterial rhinosinusitis (ABRS) in most adults—initial antibiotic and duration: If a decision is made to treat ABRS with an antibiotic agent, the clinician should prescribe amoxicillin with or without clavulanate as first-line therapy for 5–7 days for most adults. This is a Recommendation based on randomized controlled trials with heterogeneity and noninferiority design, with Aggregate evidence quality: Grade A and Level of Confidence in Evidence: Moderate. Benefits-harms assessment indicates a preponderance of benefit over harm, while risks include potential increased gastrointestinal adverse effects with amoxicillin-clavulanate and adverse effects from penicillin allergy. Exceptions include patients with penicillin allergy for whom amoxicillin is contraindicated. Intentional vagueness states that whether to prescribe amoxicillin or amoxicillin-clavulanate is at the clinician’s discretion and that “most” adults are recommended 5 days of therapy, although a longer course may be appropriate for more severe illness or persistent symptoms beyond the initial 5 days. Role of patient preferences is moderate for shared decision making and large for determining duration since adverse events are reduced with shorter duration of therapy.
+Acute bacterial rhinosinusitis (ABRS) in most adults — initial antibiotic and duration: If a decision is made to treat ABRS with an antibiotic agent, the clinician should prescribe amoxicillin with or without clavulanate as first-line therapy for 5–7 days for most adults. This is a Recommendation based on randomized controlled trials with heterogeneity and noninferiority design, with Aggregate evidence quality: Grade A and Level of Confidence in Evidence: Moderate. Benefits-harms assessment indicates a preponderance of benefit over harm, while risks include potential increased gastrointestinal adverse effects with amoxicillin-clavulanate and adverse effects from penicillin allergy. Exceptions include patients with penicillin allergy for whom amoxicillin is contraindicated. Intentional vagueness states that whether to prescribe amoxicillin or amoxicillin-clavulanate is at the clinician's discretion and that "most" adults are recommended 5 days of therapy, although a longer course may be appropriate for more severe illness or persistent symptoms beyond the initial 5 days. Role of patient preferences is moderate for shared decision making and large for determining duration since adverse events are reduced with shorter duration of therapy.
 
 ---
 
 ### Chronic madura foot: mycetoma and / orspp or actinomycosis [^66e71dd2]. BMJ Case Reports (2018). Medium credibility.
 
-Due to its often-slow progression, many cases present as chronic pathologies as they initially cause no impairment to function. However, as the mycetoma infection progresses, invasion into deeper structures accompanied by increasing visual or functional impairment often initiates patients to seek medical advice. Since phenotypic identification of the causative bacteria/fungi is often difficult using conventional microbiology, tissue or bone biopsies are better evaluated using either MALDI-TOF or molecular (DNA sequencing) methods if accessible. In addition, histopathology may augment these techniques.Imaging modalities such as MRI or CT often augment both the clinical picture and microbiology work-ups. Importantly, they may help to ascertain the extent of invasion, involvement with other tissue, nervous and vasculature structures in readiness for preoperative planning. Full excision of any infected tissues may not be possible as demonstrated in this case study, yet even in the absence of surgery, anti-infective regimens are often prolonged because of the tendency of Actinomyces spp or eumycetoma to recur.
+Due to its often-slow progression, many cases present as chronic pathologies as they initially cause no impairment to function. However, as the mycetoma infection progresses, invasion into deeper structures accompanied by increasing visual or functional impairment often initiates patients to seek medical advice. Since phenotypic identification of the causative bacteria/fungi is often difficult using conventional microbiology, tissue or bone biopsies are better evaluated using either MALDI-TOF or molecular (DNA sequencing) methods if accessible. In addition, histopathology may augment these techniques. Imaging modalities such as MRI or CT often augment both the clinical picture and microbiology work-ups. Importantly, they may help to ascertain the extent of invasion, involvement with other tissue, nervous and vasculature structures in readiness for preoperative planning. Full excision of any infected tissues may not be possible as demonstrated in this case study, yet even in the absence of surgery, anti-infective regimens are often prolonged because of the tendency of Actinomyces spp or eumycetoma to recur.
 
-A treatment algorithm for actinomycosis has been described by Schneider and Moos.For extensive lesions/soft tissue mass/abscess, surgical excision is required. Eradication or debulking will assist in the reduced requirement for prolonged anti-infective treatments. The first-line agents of choice for Actinomyces are penicillin or amoxicillin. Primary options include benzylpenicillin 6–12 g/day intravenously given in divided doses every 4–6 hours for 4–6 weeks, followed by phenoxymethylpenicillin 2–4 g/day orally given in 4–6 divided doses for 3–6 months after cessation of intravenous therapy. Alternatively, ampicillin 50 mg/kg/day intravenously given in divided doses every 8 hours for 4–6 weeks, followed by amoxicillin 500 mg orally three times daily for 3–6 months. Where penicillin allergies exist, ceftriaxone, clindamycin, erythromycin or doxycycline can be used.Eumycetoma (fungal) infections require similar long-duration regimens with antifungal therapies that include itraconazole, voriconazole or posaconazole.Regardless of the anti-infective, practices should be in keeping with good antimicrobial stewardship, hence infectious disease physicians form an integral team member.
+A treatment algorithm for actinomycosis has been described by Schneider and Moos. For extensive lesions/soft tissue mass/abscess, surgical excision is required. Eradication or debulking will assist in the reduced requirement for prolonged anti-infective treatments. The first-line agents of choice for Actinomyces are penicillin or amoxicillin. Primary options include benzylpenicillin 6–12 g/day intravenously given in divided doses every 4–6 hours for 4–6 weeks, followed by phenoxymethylpenicillin 2–4 g/day orally given in 4–6 divided doses for 3–6 months after cessation of intravenous therapy. Alternatively, ampicillin 50 mg/kg/day intravenously given in divided doses every 8 hours for 4–6 weeks, followed by amoxicillin 500 mg orally three times daily for 3–6 months. Where penicillin allergies exist, ceftriaxone, clindamycin, erythromycin or doxycycline can be used. Eumycetoma (fungal) infections require similar long-duration regimens with antifungal therapies that include itraconazole, voriconazole or posaconazole. Regardless of the anti-infective, practices should be in keeping with good antimicrobial stewardship, hence infectious disease physicians form an integral team member.
 
 ---
 
@@ -594,13 +599,14 @@ Correct diagnosis is difficult and can be achieved preoperatively in only 10% of
 
 ### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^642026d5]. Clinical Infectious Diseases (2014). Medium credibility.
 
-Treatment of necrotizing infections—Aeromonas hydrophila: The table lists doxycycline plus ciprofloxacin or ceftazidime with adult dosages 100 mg every 12 h IV and 500 mg every 12 h IV; pediatric use is noted as not recommended for children but may need to use in life-threatening situations, and the severe penicillin hypersensitivity column shows N/A.
+Treatment of necrotizing infections — Aeromonas hydrophila: The table lists doxycycline plus ciprofloxacin or ceftazidime with adult dosages 100 mg every 12 h IV and 500 mg every 12 h IV; pediatric use is noted as not recommended for children but may need to use in life-threatening situations, and the severe penicillin hypersensitivity column shows N/A.
 
 ---
 
 ### Penicillin G procaine [^3b46f827]. FDA. Low credibility.
 
 Labeled indications for Penicillin G procaine include:
+
 - Treatment of syphilis in adults
 - Treatment of anthrax in adults
 - Treatment of Vincent's infection in adults, if penicillins are ineffective or contraindicated
@@ -613,64 +619,67 @@ Labeled indications for Penicillin G procaine include:
 ### Minocycline hydrochloride (Minocin) [^21cfb411]. FDA (2025). Medium credibility.
 
 The dosage of minocycline hydrochloride IV for treatment of listeriosis in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg IV once
-- Maintenance: 100 mg IV q12h
-- Maximum: 400 mg per day
+
+- **Start at**: 200 mg IV once
+- **Maintenance**: 100 mg IV q12h
+- **Maximum**: 400 mg per day
 
 ---
 
 ### Guidelines of care for the management of actinic keratosis [^a1f7182d]. Journal of the American Academy of Dermatology (2021). High credibility.
 
-Table V—Clinical questions (CQ1) on topically applied agents for actinic keratosis defines the population as Adults (≥18 years of age) with a clinical or histopathologic diagnosis of AK, the intervention as Any topical therapy available, approved, and used in clinical practice in the US, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
+Table V — Clinical questions (CQ1) on topically applied agents for actinic keratosis defines the population as Adults (≥ 18 years of age) with a clinical or histopathologic diagnosis of AK, the intervention as Any topical therapy available, approved, and used in clinical practice in the US, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
 
 ---
 
 ### Doxycycline hyclate (Doryx mpc) [^f0bf28f9]. FDA (2025). Medium credibility.
 
 The dosage of doxycycline hyclate DR PO for treatment of listeriosis in adults, if penicillins are ineffective or contraindicated is:
-- Loading: 120 mg PO BID on day one
-- Maintenance: 120 mg PO daily
+
+- **Loading**: 120 mg PO BID on day one
+- **Maintenance**: 120 mg PO daily
 
 ---
 
 ### Minocycline hydrochloride (Minocin) [^a13a86eb]. FDA (2025). Medium credibility.
 
 The dosage of minocycline hydrochloride IV for treatment of anthrax in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg IV once
-- Maintenance: 100 mg IV q12h
-- Maximum: 400 mg per day
+
+- **Start at**: 200 mg IV once
+- **Maintenance**: 100 mg IV q12h
+- **Maximum**: 400 mg per day
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^39ec37ce]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Antifungal treatment options—uncomplicated coccidioidal pneumonia: For early uncomplicated coccidioidal infection, the usual adult fluconazole dose is 400 mg daily, and some experts would recommend 800 mg daily. Many experts would recommend a treatment duration ranging from 3 to 6 months or longer, and treatment can be discontinued when signs, symptoms, and inflammatory markers have resolved and serologies and radiographs have stabilized; complete serological resolution is not necessary to discontinue medications. Whether or not antifungal therapy is initiated, all patients will benefit from other elements of a management plan, and no clinical studies exist to guide the optimal dose or duration for primary pulmonary coccidioidomycosis.
+Antifungal treatment options — uncomplicated coccidioidal pneumonia: For early uncomplicated coccidioidal infection, the usual adult fluconazole dose is 400 mg daily, and some experts would recommend 800 mg daily. Many experts would recommend a treatment duration ranging from 3 to 6 months or longer, and treatment can be discontinued when signs, symptoms, and inflammatory markers have resolved and serologies and radiographs have stabilized; complete serological resolution is not necessary to discontinue medications. Whether or not antifungal therapy is initiated, all patients will benefit from other elements of a management plan, and no clinical studies exist to guide the optimal dose or duration for primary pulmonary coccidioidomycosis.
 
 ---
 
 ### Guidelines of care for the management of actinic keratosis [^b1b262a6]. Journal of the American Academy of Dermatology (2021). High credibility.
 
-Table V—Clinical questions (CQ4) on combination therapy for actinic keratosis defines the population as Adults (≥18 years of age) with a clinical or histopathologic diagnosis of AK, the intervention as Therapy that includes the combined use of more than 1 treatment, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
+Table V — Clinical questions (CQ4) on combination therapy for actinic keratosis defines the population as Adults (≥ 18 years of age) with a clinical or histopathologic diagnosis of AK, the intervention as Therapy that includes the combined use of more than 1 treatment, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^84eccb37]. Clinical Infectious Diseases (2016). Medium credibility.
 
-IDSA coccidioidomycosis guideline—scope and organization outlines sections covering selection for testing and evaluation, routine management without overt immunosuppression, management in special‑risk populations, and preemptive strategies, and it notes limited sections without actionable directives. It specifies “There are no explicit recommendations in this section” for the testing/evaluation section and that the preemptive strategies section “contains no explicit recommendations other than the text itself.”
+IDSA coccidioidomycosis guideline — scope and organization outlines sections covering selection for testing and evaluation, routine management without overt immunosuppression, management in special‑risk populations, and preemptive strategies, and it notes limited sections without actionable directives. It specifies "There are no explicit recommendations in this section" for the testing/evaluation section and that the preemptive strategies section "contains no explicit recommendations other than the text itself."
 
 ---
 
 ### Guidelines of care for the management of actinic keratosis [^bd4b25d0]. Journal of the American Academy of Dermatology (2021). High credibility.
 
-Table V—Clinical questions (CQ5) on treating actinic keratosis in immunocompromised individuals defines the population as Immunosuppressed patients or organ transplant recipients with a clinical or histopathologic diagnosis of AK, the intervention as Any therapy available and approved for use in clinical practice in the US, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
+Table V — Clinical questions (CQ5) on treating actinic keratosis in immunocompromised individuals defines the population as Immunosuppressed patients or organ transplant recipients with a clinical or histopathologic diagnosis of AK, the intervention as Any therapy available and approved for use in clinical practice in the US, and the comparator as Placebo, observation, other monotherapy, or combined therapy of other interventions; exclusion criteria specify Individuals with actinic cheilitis and Treatments not available, approved, or regularly used in clinical practice in the US.
 
 ---
 
 ### An overview of thoracic actinomycosis: CT features [^f0c81b72]. Insights Into Imaging (2013). Low credibility.
 
-Detection of ‘sulphur’ granules by gram or histologic staining is the principal method of direct detection of Actinomyces. Histopathology reveals an acute inflammation surrounded by fibrosing granulation tissue. This material contains sulphur granules, colonies of organisms forming an amorphous centre surrounded by a rosette of clubbed filaments. Direct bacterial confirmation by culture is difficult because of inadequate anaerobic culture, prior antibiotic therapy or overgrowth of concomitant organisms. Thus, culture of expectorated sputum or bronchoscopy aspirates are usually not successful, while fine-needle aspiration, transbronchial biopsy and computed tomography or ultrasound-guided biopsies lead to accurate diagnoses.
+Detection of 'sulphur' granules by gram or histologic staining is the principal method of direct detection of Actinomyces. Histopathology reveals an acute inflammation surrounded by fibrosing granulation tissue. This material contains sulphur granules, colonies of organisms forming an amorphous centre surrounded by a rosette of clubbed filaments. Direct bacterial confirmation by culture is difficult because of inadequate anaerobic culture, prior antibiotic therapy or overgrowth of concomitant organisms. Thus, culture of expectorated sputum or bronchoscopy aspirates are usually not successful, while fine-needle aspiration, transbronchial biopsy and computed tomography or ultrasound-guided biopsies lead to accurate diagnoses.
 
-The clinical manifestation of the disease has changed to a less aggressive form compared to the pre-antibiotic era. The usual presentation is now an indolent, slowly progressive pneumonia with fever, weight loss, cough, sputum and chest pain. The symptoms and clinical and radiologic signs mimic malignancy or tuberculosis. If the disease progresses to the proximal airway and vessels, life-threatening complications such as massive haemoptysis or bronchoesophageal fistula may occur. The course of the disease depends largely on adequate and early antibiotic therapy. The principal treatment of actinomycosis is long-term use of high-dose intravenous penicillin. However, many recent studies have reported that the short-term treatment is successful and that the traditional intensive, long-term regimen is not necessary. In the setting of abscess, percutaneous drainage in combination with medical therapy may be an option. Surgical resection may be a valid option for patients who do not respond to antibiotics for up to 12 weeks according to a recent study.
+The clinical manifestation of the disease has changed to a less aggressive form compared to the pre-antibiotic era. The usual presentation is now an indolent, slowly progressive pneumonia with fever, weight loss, cough, sputum and chest pain. The symptoms and clinical and radiologic signs mimic malignancy or tuberculosis. If the disease progresses to the proximal airway and vessels, life-threatening complications such as massive haemoptysis or bronchoesophageal fistula may occur. The course of the disease depends largely on adequate and early antibiotic therapy. The principal treatment of actinomycosis is long-term use of high-dose intravenous penicillin. However, many recent studies have reported that the short-term treatment is successful and that the traditional intensive, long-term regimen is not necessary. In the setting of abscess, percutaneous drainage in combination with medical therapy may be an option. Surgical resection may be a valid option for patients who do not respond to antibiotics for up to 12 weeks according to a recent study.
 
 An awareness of the typical imaging findings of thoracic actinomycosis helps in making an early diagnosis, preventing fatal complications and unwarranted surgery. This pictorial essay reviews the radiological type of thoracic actinomycosis.
 
@@ -704,25 +713,25 @@ Esophageal stenosis can cause vomiting or dysphagia in children and is commonly 
 
 ### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^0f9a9a98]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
-Antimicrobial agents—penicillins general epidemiology reports that penicillins are commonly used to treat infections caused by both gram-negative and gram-positive organisms. Penicillin allergy is one of the most commonly reported drug allergies, with a prevalence of 5% to 10%, and the reported prevalence is higher among hospitalized patients, at 11% to 15%. Individuals with a history of penicillin hypersensitivity are more likely to receive alternative antibiotic therapy, which can lead to added expense.
+Antimicrobial agents — penicillins general epidemiology reports that penicillins are commonly used to treat infections caused by both gram-negative and gram-positive organisms. Penicillin allergy is one of the most commonly reported drug allergies, with a prevalence of 5% to 10%, and the reported prevalence is higher among hospitalized patients, at 11% to 15%. Individuals with a history of penicillin hypersensitivity are more likely to receive alternative antibiotic therapy, which can lead to added expense.
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^050ce4d0]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Skin and soft tissue coccidioidomycosis—oral azole outcomes and dosing: prospective trials report response rates ranging from 25% to 91%, with relapse rates ranging from 60% after 45 days of therapy, to 11% after 12 months; due to high relapse rates, at least 6–12 months of therapy is recommended regardless of the treatment chosen, with recommended doses of fluconazole 400 mg daily (some panel members would use up to 800 mg daily) and itraconazole 200 mg twice daily.
+Skin and soft tissue coccidioidomycosis — oral azole outcomes and dosing: prospective trials report response rates ranging from 25% to 91%, with relapse rates ranging from 60% after 45 days of therapy, to 11% after 12 months; due to high relapse rates, at least 6–12 months of therapy is recommended regardless of the treatment chosen, with recommended doses of fluconazole 400 mg daily (some panel members would use up to 800 mg daily) and itraconazole 200 mg twice daily.
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^a56e8c03]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Antifungal therapy—azole dosing and duration—is specified as follows: most patients are then treated with an azole for a protracted period of 3 years to lifetime depending on the severity of disease and the immunocompetence of the host, and the recommended minimum dose of fluconazole is 800 mg daily; the recommended dose of itraconazole is 200 mg twice daily.
+Antifungal therapy — azole dosing and duration — is specified as follows: most patients are then treated with an azole for a protracted period of 3 years to lifetime depending on the severity of disease and the immunocompetence of the host, and the recommended minimum dose of fluconazole is 800 mg daily; the recommended dose of itraconazole is 200 mg twice daily.
 
 ---
 
 ### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^8529b7d5]. Clinical Infectious Diseases (2014). Medium credibility.
 
-Tularemia—diagnosis and treatment recommendations state that serologic tests are the preferred method of diagnosing tularemia (weak, low). For severe cases, streptomycin (15 mg/kg every 12 hours IM) or gentamicin (1.5 mg/kg every 8 hours IV) is recommended (strong, low). For mild cases, tetracycline (500 mg qid) or doxycycline (100 mg bid given by mouth) is recommended (strong, low). Notify the microbiology laboratory if tularemia is suspected (strong, high). Routine cultures are often negative unless cysteine-supplemented media are utilized, the laboratory should be notified because of health risks to personnel, and unsuspected growth of F. tularensis can cause laboratory-acquired disease. No prospective controlled or randomized trials of therapy have been performed and the optimal duration is not established; Francisella is resistant to most β-lactam antibiotics, which should be avoided. When static drugs such as tetracyclines or chloramphenicol are used, relapses may be more common, often after brief therapy (ie, <7–10 days). For adults, streptomycin dosing can be 30 mg/kg/day in 2 divided doses (no more than 2 g daily) or gentamicin 1.5 mg/kg every 8 hours.
+Tularemia — diagnosis and treatment recommendations state that serologic tests are the preferred method of diagnosing tularemia (weak, low). For severe cases, streptomycin (15 mg/kg every 12 hours IM) or gentamicin (1.5 mg/kg every 8 hours IV) is recommended (strong, low). For mild cases, tetracycline (500 mg qid) or doxycycline (100 mg bid given by mouth) is recommended (strong, low). Notify the microbiology laboratory if tularemia is suspected (strong, high). Routine cultures are often negative unless cysteine-supplemented media are utilized, the laboratory should be notified because of health risks to personnel, and unsuspected growth of F. tularensis can cause laboratory-acquired disease. No prospective controlled or randomized trials of therapy have been performed and the optimal duration is not established; Francisella is resistant to most β-lactam antibiotics, which should be avoided. When static drugs such as tetracyclines or chloramphenicol are used, relapses may be more common, often after brief therapy (ie, < 7–10 days). For adults, streptomycin dosing can be 30 mg/kg/day in 2 divided doses (no more than 2 g daily) or gentamicin 1.5 mg/kg every 8 hours.
 
 ---
 
@@ -763,8 +772,9 @@ Regarding medical management for coccidioidomycosis, more specifically with resp
 ### Azithromycin (Zithromax) [^ccd977c6]. FDA (2020). Medium credibility.
 
 The dosage of azithromycin monohydrate PO for treatment of group A streptococcal pharyngitis in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 500 mg PO daily on day 1
-- Maintenance: 250 mg PO daily on days 2 to 5
+
+- **Start at**: 500 mg PO daily on day 1
+- **Maintenance**: 250 mg PO daily on days 2 to 5
 
 ---
 
@@ -794,13 +804,13 @@ These guidelines for management of onychomycosis have been prepared for dermatol
 
 ### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^2ffb2923]. HIV.gov (2025). High credibility.
 
-Drug supply note—benzathine penicillin is currently on the FDA drug shortage webpage due to limited supply, and updates on the expected duration for the shortage are available on the FDA Drug Shortage webpage.
+Drug supply note — benzathine penicillin is currently on the FDA drug shortage webpage due to limited supply, and updates on the expected duration for the shortage are available on the FDA Drug Shortage webpage.
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^08581760]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Coccidioidomycosis laboratory exposure—follow‑up guidance indicates that exposed individuals should be followed for a minimum of 6 weeks, which includes the incubation period for coccidioidal infection of 1–4 weeks, with consideration of extended follow‑up for several months depending on clinical circumstances. Symptomatic individuals should be evaluated by a clinician who is informed of the possible exposure to ensure appropriate diagnostic testing.
+Coccidioidomycosis laboratory exposure — follow‑up guidance indicates that exposed individuals should be followed for a minimum of 6 weeks, which includes the incubation period for coccidioidal infection of 1–4 weeks, with consideration of extended follow‑up for several months depending on clinical circumstances. Symptomatic individuals should be evaluated by a clinician who is informed of the possible exposure to ensure appropriate diagnostic testing.
 
 ---
 
@@ -826,9 +836,9 @@ Duration of treatment for localized or uncomplicated cutaneous disease depends o
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the Hiv Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^f7feebdc]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^f7feebdc]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
-Acquired syphilis—children and adolescents is treated with a single dose of benzathine penicillin G 50,000 units/kg body weight IM (up to the adult dose of 2.4 million units) for early-stage disease (i.e., primary, secondary, and early latent disease) (AII). For late latent disease, three doses of benzathine penicillin G 50,000 units/kg body weight (up to the adult dose of 2.4 million units) should be administered IM once weekly for 3 doses (total 150,000 units/kg body weight, up to the adult total dose of 7.2 million units) (AIII). Alternative therapies (e.g., ceftriaxone, azithromycin) should be administered to HIV-infected patients only when treatment with penicillin is not feasible, and with close clinical and serologic monitoring because data on their use are limited (BII). Neurosyphilis should be treated with aqueous penicillin G 200,000 to 300,000 units/kg body weight per dose IV every 4 to 6 hours (maximum dosage: 18–24 million units/day) for 10 to 14 days (AII).
+Acquired syphilis — children and adolescents is treated with a single dose of benzathine penicillin G 50,000 units/kg body weight IM (up to the adult dose of 2.4 million units) for early-stage disease (i.e., primary, secondary, and early latent disease) (AII). For late latent disease, three doses of benzathine penicillin G 50,000 units/kg body weight (up to the adult dose of 2.4 million units) should be administered IM once weekly for 3 doses (total 150,000 units/kg body weight, up to the adult total dose of 7.2 million units) (AIII). Alternative therapies (e.g., ceftriaxone, azithromycin) should be administered to HIV-infected patients only when treatment with penicillin is not feasible, and with close clinical and serologic monitoring because data on their use are limited (BII). Neurosyphilis should be treated with aqueous penicillin G 200,000 to 300,000 units/kg body weight per dose IV every 4 to 6 hours (maximum dosage: 18–24 million units/day) for 10 to 14 days (AII).
 
 ---
 
@@ -846,7 +856,7 @@ Regarding specific circumstances for coccidioidomycosis, more specifically with 
 
 ### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^778000ac]. Clinical Infectious Diseases (2014). Medium credibility.
 
-Bacillary angiomatosis and cat scratch disease—antibiotic therapy and dosing are specified as follows: Azithromycin is recommended for cat scratch disease according to the following dosing protocol, with patients >45 kg receiving 500 mg on day 1 followed by 250 mg for 4 additional days and patients <45 kg receiving 10 mg/kg on day 1 and 5 mg/kg for 4 more days (strong, moderate). For bacillary angiomatosis, erythromycin 500 mg qid or doxycycline 100 mg bid for 2 weeks to 2 months is recommended (strong, moderate), with evidence noting that cutaneous bacillary angiomatosis therapy has not been systematically examined, either erythromycin (500 mg qid) or doxycycline (100 mg bid) appears effective, the duration of initial therapy should be for 2 weeks to 2 months, relapse may warrant prolonged therapy (months) until immunocompetence returns, and HIV-infected patients may require lifelong treatment; trial data report a single, double-blind placebo-controlled study of 29 patients, 14 of whom received azithromycin, in which lymph node size regressed by 80% at 30 days more commonly in the azithromycin-treated patients (P = .02).
+Bacillary angiomatosis and cat scratch disease — antibiotic therapy and dosing are specified as follows: Azithromycin is recommended for cat scratch disease according to the following dosing protocol, with patients > 45 kg receiving 500 mg on day 1 followed by 250 mg for 4 additional days and patients < 45 kg receiving 10 mg/kg on day 1 and 5 mg/kg for 4 more days (strong, moderate). For bacillary angiomatosis, erythromycin 500 mg qid or doxycycline 100 mg bid for 2 weeks to 2 months is recommended (strong, moderate), with evidence noting that cutaneous bacillary angiomatosis therapy has not been systematically examined, either erythromycin (500 mg qid) or doxycycline (100 mg bid) appears effective, the duration of initial therapy should be for 2 weeks to 2 months, relapse may warrant prolonged therapy (months) until immunocompetence returns, and HIV-infected patients may require lifelong treatment; trial data report a single, double-blind placebo-controlled study of 29 patients, 14 of whom received azithromycin, in which lymph node size regressed by 80% at 30 days more commonly in the azithromycin-treated patients (P = 0.02).
 
 ---
 
@@ -884,13 +894,13 @@ Two 11-year-old boys had similar clinical courses of abdominal actinomycosis com
 
 ### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^98ce2844]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
-Penicillin and β-lactam skin testing—nonirritating concentrations are listed as follows: Penicillin G 10,000 units/mL; amoxicillin 3-25 mg/mL; ampicillin 2.5-25 mg/mL; nafcillin 25 μg/mL; ticarcillin 20 mg/mL; piperacillin 20 mg/mL; meropenem 1 mg/mL; imipenem 0.5-1 mg/mL; ertapenem 1 mg/mL; and aztreonam 2 mg/mL.
+Penicillin and β-lactam skin testing — nonirritating concentrations are listed as follows: Penicillin G 10,000 units/mL; amoxicillin 3–25 mg/mL; ampicillin 2.5–25 mg/mL; nafcillin 25 μg/mL; ticarcillin 20 mg/mL; piperacillin 20 mg/mL; meropenem 1 mg/mL; imipenem 0.5–1 mg/mL; ertapenem 1 mg/mL; and aztreonam 2 mg/mL.
 
 ---
 
 ### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^8c91321f]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
-Drug challenge for nonimmediate reactions—protocol options and caution: A drug challenge test may be considered for some nonimmediate reactions, with protocols allowing a full therapeutic dose on day 1 or incremental dosing over days to weeks. Some studies suggest giving an additional treatment course for 7 to 10 days after the full therapeutic dose to sufficiently exclude a nonimmediate reaction, though this approach may expose patients with a history of benign reactions to an unnecessary therapeutic course of penicillin.
+Drug challenge for nonimmediate reactions — protocol options and caution: A drug challenge test may be considered for some nonimmediate reactions, with protocols allowing a full therapeutic dose on day 1 or incremental dosing over days to weeks. Some studies suggest giving an additional treatment course for 7 to 10 days after the full therapeutic dose to sufficiently exclude a nonimmediate reaction, though this approach may expose patients with a history of benign reactions to an unnecessary therapeutic course of penicillin.
 
 ---
 
@@ -908,53 +918,53 @@ We present a patient with advanced Hodgkin's disease treated with escalated BEAC
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^7b991a91]. Clinical Infectious Diseases (2016). Medium credibility.
 
-HSCT or solid organ transplant recipients after initial treatment of active coccidioidomycosis—Following initial treatment, we recommend that suppressive treatment be continued to prevent relapsed infection (strong, very low).
+HSCT or solid organ transplant recipients after initial treatment of active coccidioidomycosis — Following initial treatment, we recommend that suppressive treatment be continued to prevent relapsed infection (strong, very low).
 
 ---
 
 ### 2015 Infectious Diseases Society of America (IDSA) clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults [^7e371e61]. Clinical Infectious Diseases (2015). Medium credibility.
 
-IDSA grading of recommendations and evidence—overview of categories: Table 1 outlines a matrix with column headers including “Clarity of Balance Between Desirable and Undesirable Effects” and “Methodological Quality of Supporting Evidence (Examples),” with examples such as “Consistent evidence from well-performed RCTs or exceptionally strong evidence from unbiased observational studies.” Listed categories are “Strong recommendation, high-quality evidence,” “Strong recommendation, moderate-quality evidence,” “Strong recommendation, low-quality evidence,” “Strong recommendation, very-low-quality evidence (very rarely applicable),” “Weak recommendation, high-quality evidence,” “Weak recommendation, moderate-quality evidence,” “Weak recommendation, low-quality evidence,” and “Weak recommendation, very low-quality evidence.”
+IDSA grading of recommendations and evidence — overview of categories: Table 1 outlines a matrix with column headers including "Clarity of Balance Between Desirable and Undesirable Effects" and "Methodological Quality of Supporting Evidence (Examples)," with examples such as "Consistent evidence from well-performed RCTs or exceptionally strong evidence from unbiased observational studies." Listed categories are "Strong recommendation, high-quality evidence," "Strong recommendation, moderate-quality evidence," "Strong recommendation, low-quality evidence," "Strong recommendation, very-low-quality evidence (very rarely applicable)," "Weak recommendation, high-quality evidence," "Weak recommendation, moderate-quality evidence," "Weak recommendation, low-quality evidence," and "Weak recommendation, very low-quality evidence."
 
 ---
 
 ### Minocycline hydrochloride (Minocin) [^8dfa8cca]. FDA (2025). Medium credibility.
 
-Escherichia coli .
+Escherichia coli.
 
- Enterobacter aerogenes .
+ Enterobacter aerogenes.
 
- Shigella species .
+ Shigella species.
 
- Acinetobacter species .
+ Acinetobacter species.
 
-Respiratory tract infections caused by Haemophilus influenzae .
+Respiratory tract infections caused by Haemophilus influenzae.
 
-Respiratory tract and urinary tract infections caused by Klebsiella species .
+Respiratory tract and urinary tract infections caused by Klebsiella species.
 
 MINOCIN®Intravenous is indicated for the treatment of infections caused by the following Gram-positive bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
 
-Upper respiratory tract infections caused by Streptococcus pneumoniae. 
+Upper respiratory tract infections caused by Streptococcus pneumoniae.
 
 Skin and skin structure infections caused by Staphylococcus aureus (Note: Minocycline is not the drug of choice in the treatment of any type of staphylococcal infection.)
 
 When penicillin is contraindicated, minocycline is an alternative drug in the treatment of the following infections:
 
-Meningitis due to Neisseria meningitidis .
+Meningitis due to Neisseria meningitidis.
 
-Syphilis caused by Treponema pallidum subspecies pallidum .
+Syphilis caused by Treponema pallidum subspecies pallidum.
 
-Yaws caused by Treponema pallidum subspecies pertenue .
+Yaws caused by Treponema pallidum subspecies pertenue.
 
-Listeriosis due to Listeria monocytogenes .
+Listeriosis due to Listeria monocytogenes.
 
-Anthrax due to Bacillus anthracis .
+Anthrax due to Bacillus anthracis.
 
-Vincent's infection caused by Fusobacterium fusiforme. 
+Vincent's infection caused by Fusobacterium fusiforme.
 
-Actinomycosis caused by Actinomyces israelii .
+Actinomycosis caused by Actinomyces israelii.
 
-Infections caused by Clostridium species .
+Infections caused by Clostridium species.
 
 In acute intestinal amebiasis, minocycline may be a useful adjunct to amebicides.
 
@@ -976,7 +986,7 @@ Respiratory tract and urinary tract infections caused by Klebsiella species
 Minocycline hydrochloride capsules are indicated for the treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory tract infections caused by Streptococcus pneumoniae
-Skin and skin structure infections caused by Straphylococcus aureus .
+Skin and skin structure infections caused by Straphylococcus aureus.
 
 (Note: Minocycline is not the drug of choice in the treatment of any type of staphylococcal infection.)
 
@@ -1020,13 +1030,13 @@ Actinomycosis is a common treatable disease caused by Actinomyces, and generally
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^70b10a0e]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Background information about coccidioidomycosis—organism biology and early pulmonary infection are summarized as follows: Coccidioides species are dimorphic fungi that cause coccidioidomycosis, growing in the environment as mycelia that produce single-cell arthroconidia and, after mammalian infection, transforming into spherules that revert back to mycelial growth if cultured. Virtually all coccidioidal infections are initiated by inhalation of an arthroconidium, and the most common initial syndrome is that of a respiratory illness.
+Background information about coccidioidomycosis — organism biology and early pulmonary infection are summarized as follows: Coccidioides species are dimorphic fungi that cause coccidioidomycosis, growing in the environment as mycelia that produce single-cell arthroconidia and, after mammalian infection, transforming into spherules that revert back to mycelial growth if cultured. Virtually all coccidioidal infections are initiated by inhalation of an arthroconidium, and the most common initial syndrome is that of a respiratory illness.
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^fb6d2c8e]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Recipients of biological response modifiers with active coccidioidomycosis—We recommend oral azole therapy for these patients unless their coccidioidomycosis is severe enough that intravenous AmB would otherwise be recommended (strong, low).
+Recipients of biological response modifiers with active coccidioidomycosis — We recommend oral azole therapy for these patients unless their coccidioidomycosis is severe enough that intravenous AmB would otherwise be recommended (strong, low).
 
 ---
 
@@ -1038,7 +1048,7 @@ Actinomycosis is a rare bacterial infection. It has a pseudotumoral appearance w
 
 ### A de-escalated treatment strategy in the management of paediatric cervicofacial actinomycosis [^0c393b5b]. BMJ Case Reports (2021). High credibility.
 
-Actinomycosis is a rare invasive bacterial disease that is characterised by granulomatous inflammation often mistaken as malignancy. Traditionally, this has been managed with prolonged courses of antibiotics with durations up to 6-12 months. Surgical intervention as an adjuvant treatment has been shown to reduce the length of antibiotic treatment significantly to 4 weeks. We report a case of cervicofacial actinomycosis in a 12-year-old girl who was adequately treated with an 11-day course of antibiotics without surgical intervention and shows no signs of recurrence at 6 months post-treatment.
+Actinomycosis is a rare invasive bacterial disease that is characterised by granulomatous inflammation often mistaken as malignancy. Traditionally, this has been managed with prolonged courses of antibiotics with durations up to 6–12 months. Surgical intervention as an adjuvant treatment has been shown to reduce the length of antibiotic treatment significantly to 4 weeks. We report a case of cervicofacial actinomycosis in a 12-year-old girl who was adequately treated with an 11-day course of antibiotics without surgical intervention and shows no signs of recurrence at 6 months post-treatment.
 
 ---
 
@@ -1076,13 +1086,13 @@ Regarding medical management for coccidioidomycosis, more specifically with resp
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^d0d61bae]. Clinical Infectious Diseases (2016). Medium credibility.
 
-IDSA coccidioidomycosis—asymptomatic cavity: We recommend against the use of antifungal therapy for patients with an asymptomatic cavity (strong, low).
+IDSA coccidioidomycosis — asymptomatic cavity: We recommend against the use of antifungal therapy for patients with an asymptomatic cavity (strong, low).
 
 ---
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^b33b789e]. Clinical Infectious Diseases (2016). Medium credibility.
 
-Coccidioidomycosis laboratory exposure—risk assessment notes that exposures to Coccidioides range over a continuum of risk; risk from a specific exposure can be estimated by examining the culture near the time of exposure; large numbers of mature arthroconidia usually develop by 7–10 days of culture; and cultures incubated for >7–10 days present the highest risk to laboratory workers after exposure.
+Coccidioidomycosis laboratory exposure — risk assessment notes that exposures to Coccidioides range over a continuum of risk; risk from a specific exposure can be estimated by examining the culture near the time of exposure; large numbers of mature arthroconidia usually develop by 7–10 days of culture; and cultures incubated for > 7–10 days present the highest risk to laboratory workers after exposure.
 
 ---
 
@@ -1101,26 +1111,27 @@ Regarding medical management for acute bacterial rhinosinusitis, more specifical
 ### Minocycline hydrochloride [^d2559f56]. FDA. Low credibility.
 
 The dosage of minocycline hydrochloride PO for treatment of gonococcal infections in adults, if penicillins are ineffective or contraindicated is:
-- Start at: 200 mg PO once
-- Maintenance: 100 mg PO BID for at least 4 days
+
+- **Start at**: 200 mg PO once
+- **Maintenance**: 100 mg PO BID for at least 4 days
 
 ---
 
 ### Amphotericin b (Ambisome) [^e84137f9]. FDA (2025). Medium credibility.
 
-The dosage of amphotericin B liposomal IV for treatment of coccidioidomycosis in adults with human immunodeficiency virus infection (severe, pulmonary or extrapulmonary, except meningitis) is 3-5 mg/kg IV q24h until clinical improvement, followed by triazole therapy
+The dosage of amphotericin B liposomal IV for treatment of coccidioidomycosis in adults with human immunodeficiency virus infection (severe, pulmonary or extrapulmonary, except meningitis) is 3–5 mg/kg IV q24h until clinical improvement, followed by triazole therapy
 
 ---
 
 ### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^7768b127]. HIV.gov (2025). High credibility.
 
-Syphilis—late latent (>1 year) or latent of unknown duration treatment lists recommended therapy as benzathine penicillin G 2.4 million units IM weekly for three doses (AII)a, with alternative therapy for penicillin-allergic patients of doxycycline 100 mg PO twice daily for 28 days (BIII). People with penicillin allergy whose compliance or follow-up cannot be ensured should be desensitized and treated with benzathine penicillin (AII).
+Syphilis — late latent (> 1 year) or latent of unknown duration treatment lists recommended therapy as benzathine penicillin G 2.4 million units IM weekly for three doses (AII)a, with alternative therapy for penicillin-allergic patients of doxycycline 100 mg PO twice daily for 28 days (BIII). People with penicillin allergy whose compliance or follow-up cannot be ensured should be desensitized and treated with benzathine penicillin (AII).
 
 ---
 
-### Guidelines for prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from CDC, the National Institutes of Health, and the Hiv Medicine Association of the Infectious Diseases Society of America [^c3cded57]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from CDC, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America [^c3cded57]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
-Syphilis—Late-latent (> 1 year) or latent of unknown duration treatment identifies preferred therapy as benzathine penicillin G 2.4 million U IM weekly for 3 doses (AII). For penicillin-allergic patients, an alternative is doxycycline 100 mg PO BID for 28 days (BIII), and persons with penicillin allergy whose compliance or follow-up can not be ensured should be desensitized and treated with benzathine penicillin.
+Syphilis — Late-latent (> 1 year) or latent of unknown duration treatment identifies preferred therapy as benzathine penicillin G 2.4 million U IM weekly for 3 doses (AII). For penicillin-allergic patients, an alternative is doxycycline 100 mg PO BID for 28 days (BIII), and persons with penicillin allergy whose compliance or follow-up can not be ensured should be desensitized and treated with benzathine penicillin.
 
 ---
 

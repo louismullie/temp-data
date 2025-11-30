@@ -165,7 +165,7 @@ Combined hormonal contraceptives (CHCs) — breakthrough bleeding during extende
 Warnings and precautions regarding the use of progesterone PO (also known as Prometrium, Crinone):
 
 - Stroke, clinically evident coronary heart disease, ovarian cancer, visual disorder, diplopia, migraine: maintain a high level of suspicion, as progesterone is associated with an increased risk of these adverse effects.
-- VTE: use extreme caution in patients with an increased risk of thromboembolism, or during periods of prolonged immobilization. Consider discontinuing the drug at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
+- **VTE**: use extreme caution in patients with an increased risk of thromboembolism, or during periods of prolonged immobilization. Consider discontinuing the drug at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
 ---
 
@@ -420,7 +420,7 @@ Progesterone supplementation is customary in FET with HRT cycles, although it ha
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12884–024–07059-w.
+The online version contains supplementary material available at 10.1186/s12884-024-07059-w.
 
 ---
 

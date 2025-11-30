@@ -356,8 +356,7 @@ Vitamin D 3 is produced in the skin from 7-dehydrocholesterol (7-DHC), while bot
 
 ### Clinical practice guidelines for the perioperative nutritional, metabolic, and nonsurgical support of the bariatric surgery patient – 2013 update: cosponsored by American Association of Clinical Endocrinologists, the obesity society, and American society for metabolic&bariatric surgery [^115eZPT9]. Endocrine Practice (2013). Medium credibility.
 
-Regarding specific circumstances for vitamin D deficiency, more specifically with respect to patients undergone bariatric surgery, AACE/OS 2013 guidelines recommend to initiate initial oral doses of vitamin D2 at 50,000 IU 1–3 times weekly or vitamin D3 at minimum of 3,000–6,000 IU/day in patients with severe vitamin D malabsorption.
-. Consider administering concurrent oral calcitriol in recalcitrant cases.
+Regarding specific circumstances for vitamin D deficiency, more specifically with respect to patients undergone bariatric surgery, AACE/OS 2013 guidelines recommend to initiate initial oral doses of vitamin D2 at 50,000 IU 1–3 times weekly or vitamin D3 at minimum of 3,000–6,000 IU/day in patients with severe vitamin D malabsorption. Consider administering concurrent oral calcitriol in recalcitrant cases.
 
 ---
 

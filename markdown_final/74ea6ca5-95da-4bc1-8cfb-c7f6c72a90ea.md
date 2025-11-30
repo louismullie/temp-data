@@ -139,7 +139,7 @@ We collected admission ECGs for all patients with an acutely occluded coronary a
 
 Results
 
-The study and control groups included 33 and 129 ECGs, respectively. The cut point selected for relative discordant ST-segment elevation was -0.25. Excessive absolute discordant ST-segment elevation of 5 mm was present in at least one lead in 30% of ECGs in patients with confirmed coronary occlusion versus 9% of the control group, whereas excessive relative discordant ST-segment elevation less than -0.25 was present in 79% vs. 9%. Sensitivity of the revised rule in which ST-segment elevation with an ST/S ratio less than or equal to -0.25 replaces ST-segment elevation greater than or equal to 5 mm was significantly greater than either the weighted (P < .001) or unweighted (P = .008) Sgarbossa rule: 91% (95% confidence interval [CI] 76% to 98%) versus 52% (95% CI 34% to 69%) versus 67% (95% CI 48% to 82%). Specificity of the revised rule was lower than that of the weighted rule (P = .002) and similar to that of the unweighted rule (P = 1.0): 90% (95% CI 83% to 95%) versus 98% (95% CI 93% to 100%) versus 90% (95% CI 83% to 95%). Positive and negative likelihood ratios for the revised rule were 9.0 (95% CI 8.0 to 10) and 0.1 (95% CI 0.03 to 0.3). The revised rule was significantly more accurate than both the weighted (16% difference; 95% CI 5% to 27%) and unweighted (12% difference; 95% CI 2% to 22%) Sgarbossa rules.
+The study and control groups included 33 and 129 ECGs, respectively. The cut point selected for relative discordant ST-segment elevation was -0.25. Excessive absolute discordant ST-segment elevation of 5 mm was present in at least one lead in 30% of ECGs in patients with confirmed coronary occlusion versus 9% of the control group, whereas excessive relative discordant ST-segment elevation less than -0.25 was present in 79% vs. 9%. Sensitivity of the revised rule in which ST-segment elevation with an ST/S ratio less than or equal to -0.25 replaces ST-segment elevation greater than or equal to 5 mm was significantly greater than either the weighted (P < .001) or unweighted (P = 0.008) Sgarbossa rule: 91% (95% confidence interval [CI] 76% to 98%) versus 52% (95% CI 34% to 69%) versus 67% (95% CI 48% to 82%). Specificity of the revised rule was lower than that of the weighted rule (P = 0.002) and similar to that of the unweighted rule (P = 1.0): 90% (95% CI 83% to 95%) versus 98% (95% CI 93% to 100%) versus 90% (95% CI 83% to 95%). Positive and negative likelihood ratios for the revised rule were 9.0 (95% CI 8.0 to 10) and 0.1 (95% CI 0.03 to 0.3). The revised rule was significantly more accurate than both the weighted (16% difference; 95% CI 5% to 27%) and unweighted (12% difference; 95% CI 2% to 22%) Sgarbossa rules.
 
 Conclusion
 
@@ -209,7 +209,7 @@ Here's how it works:
 
 3. **Excessively discordant ST deviation**:
 	- This feature is identified based on an ST/S ratio in any lead showing > 1 mm ST-segment elevation or depression.
-	- Scoring:
+	- **Scoring**:
 		- Answering "Yes" earns 1 point.
 		- Answering "No" earns 0 points.
 
@@ -260,7 +260,7 @@ Retrospective chart review of 337 clinical encounters presenting with suspected 
 
 Results
 
-The study population included 33% infants (age < 12 mo), 39% toddlers (age 12 mo to < 36 mo), and 29% children (age ≥ 36 mo). The NIAID/FAAN criteria captured 85% of all patient encounters in the study and the modified criteria captured 98% (P < .001). Compared with NIAID/FAAN criteria, modified criteria had 22.8% improved performance among infants (p < .001) and 10.3% improved performance among toddlers (P = .04).
+The study population included 33% infants (age < 12 mo), 39% toddlers (age 12 mo to < 36 mo), and 29% children (age ≥ 36 mo). The NIAID/FAAN criteria captured 85% of all patient encounters in the study and the modified criteria captured 98% (P < .001). Compared with NIAID/FAAN criteria, modified criteria had 22.8% improved performance among infants (p < .001) and 10.3% improved performance among toddlers (P = 0.04).
 
 Conclusions
 
@@ -1183,7 +1183,7 @@ This retrospective case-control study was performed by chart review in 2 tertiar
 
 Results
 
-Our consecutive cohort search identified 258 patients: 9 had ACO, and 249 were controls. Among the 3 sites, an additional 36 cases of ACO were identified, for a total of 45 ACO cases and 249 controls. The modified criteria were significantly more sensitive than the original weighted criteria (80% vs 49%, P < .001) and unweighted criteria (80% vs 56%, P < .001). Specificity of the modified criteria was not statistically different from the original weighted criteria (99% vs 100%, P = .5) but was significantly greater than the original unweighted criteria (99% vs 94%, P = .004).
+Our consecutive cohort search identified 258 patients: 9 had ACO, and 249 were controls. Among the 3 sites, an additional 36 cases of ACO were identified, for a total of 45 ACO cases and 249 controls. The modified criteria were significantly more sensitive than the original weighted criteria (80% vs 49%, P < .001) and unweighted criteria (80% vs 56%, P < .001). Specificity of the modified criteria was not statistically different from the original weighted criteria (99% vs 100%, P = 0.5) but was significantly greater than the original unweighted criteria (99% vs 94%, P = 0.004).
 
 Conclusions
 

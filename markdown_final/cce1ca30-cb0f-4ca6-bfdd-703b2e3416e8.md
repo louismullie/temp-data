@@ -651,7 +651,7 @@ The high burden associated with respiratory syncytial virus (RSV) has made the d
 - **Figure 5**: Geometric mean titer ratio for respiratory syncytial virus prefusion protein F3 (RSVPreF3) vaccine co-administered with FLU-D-QIV vaccine versus RSVPreF3 alone, regarding RSV-A neutralizing antibody titers (estimated dilution 60) at day 31 (per-protocol set).
 
 	- a: Pooled RSV represents pooled data for groups RSV1, RSV2, and RSV3 (i.e. for lots 1, 2, and 3 of the RSVPreF3 vaccine).
-	- b: RSV + Flu (pooled) group divided by pooled RSV group.
+	- **B**: RSV + Flu (pooled) group divided by pooled RSV group.
 
 Abbreviations: CI, confidence interval; ED 60, estimated dilution 60; Flu, FLU-D-QIV quadrivalent influenza vaccine; GMT, geometric mean titer; NAb, neutralizing antibody; PPS, per-protocol set; RSV, respiratory syncytial virus; RSV1, respiratory syncytial virus prefusion protein F3 (lot 1); RSV2, respiratory syncytial virus prefusion protein F3 (lot 2); RSV3, respiratory syncytial virus prefusion protein F3 (lot 3).
 

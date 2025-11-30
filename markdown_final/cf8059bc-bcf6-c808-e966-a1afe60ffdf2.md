@@ -141,7 +141,7 @@ This study was designed to determine if evidence exists to justify and support t
 
 Methods
 
-A Medline search was conducted using the key words "sitz bath" and "hot bath."
+A Medline search was conducted using the key words "sitz bath" and "hot bath".
 
 Results
 
@@ -167,7 +167,7 @@ Sitz bath is frequently recommended by physicians for a variety of anal disorder
 
 Materials and Methods
 
-Forty-six patients were randomly assigned to receive analgesics and fiber supplement alone (control patients) or a twice-daily sitz bath along with identical fiber and analgesics (sitz bath group). A 24-h pain score--post-defecation anal burning and symptom improvement--was evaluated on a visual analog scale (VAS).
+Forty-six patients were randomly assigned to receive analgesics and fiber supplement alone (control patients) or a twice-daily sitz bath along with identical fiber and analgesics (sitz bath group). A 24-h pain score — post-defecation anal burning and symptom improvement — was evaluated on a visual analog scale (VAS).
 
 Results
 
@@ -211,7 +211,7 @@ Primary outcomes were pain (visual analog scale) and swelling. Secondary outcome
 
 Results
 
-The ice packing group showed lower pain scores within 16 hours postsurgery ( p < 0.01), reduced swelling at 24 hours (76.8% vs 56.0% with no or mild swelling, p = 0.03), superior wound healing at 7 days (Redness, Edema, Ecchymosis, Discharge, Approximation score: 2.56 ± 1.89 vs 3.27 ± 2.12, p = 0.02), and lower 24-hour morphine consumption (4.58 ± 2.56 vs 6.39 ± 2.7mg, p < 0.01).
+The ice packing group showed lower pain scores within 16 hours postsurgery (p < 0.01), reduced swelling at 24 hours (76.8% vs 56.0% with no or mild swelling, p = 0.03), superior wound healing at 7 days (Redness, Edema, Ecchymosis, Discharge, Approximation score: 2.56 ± 1.89 vs 3.27 ± 2.12, p = 0.02), and lower 24-hour morphine consumption (4.58 ± 2.56 vs 6.39 ± 2.7mg, p < 0.01).
 
 Limitations
 
@@ -219,17 +219,17 @@ Single-center design, short follow-up period, lack of validated hemorrhoid-speci
 
 Conclusions
 
-Ice packing demonstrated superior efficacy in managing post-hemorrhoidectomy pain, reducing edema, and promoting wound healing, with a comparable safety profile and lower opioid requirements. See Video Abstract .
+Ice packing demonstrated superior efficacy in managing post-hemorrhoidectomy pain, reducing edema, and promoting wound healing, with a comparable safety profile and lower opioid requirements. See Video Abstract.
 
 Compresas De Hielo Frente A Baos De Asiento Tibios Para El Tratamiento Del Dolor Poshemorroidectoma Un Ensayo Controlado Aleatorizado
 
-ANTECEDENTES:El manejo del dolor posterior a una hemorroidectomía sigue siendo un desafío, y los baños de asiento tibios son una intervención común pero debatida.OBJETIVO:Comparar la eficacia de la aplicación de compresas de hielo frente a los baños de asiento tibios para el manejo del dolor posterior a una hemorroidectomía y la cicatrización de heridas.DISEÑO:Ensayo controlado aleatorizado.ESCENARIO:Estudio de un solo centro en el Hospital E-DA, Taiwán.PACIENTES:166 pacientes sometidos a una hemorroidectomía de Ferguson.INTERVENCIONES:Los pacientes fueron asignados aleatoriamente para recibir compresas de hielo (n = 82) o baños de asiento tibios (n = 84) para el cuidado posoperatorio inicial.PRINCIPALES MEDIDAS DE RESULTADOS:Los resultados primarios fueron el dolor (escala analógica visual) y la hinchazón. Los resultados secundarios incluyeron la cicatrización de heridas (escala REEDA), el consumo de analgésicos y los eventos adversos.RESULTADOS:El grupo que recibió compresas de hielo mostró puntuaciones de dolor más bajas dentro de las 16 horas posteriores a la cirugía (p < 0,01), una reducción de la hinchazón a las 24 horas (76,8 % frente a 56,0 % con hinchazón leve o nula, p = 0,03), una cicatrización superior de la herida a los 7 días (puntuación REEDA: 2,56 ± 1,89 frente a 3,27 ± 2,12, p = 0,02) y un menor consumo de morfina a las 24 horas (4,58 ± 2,56mg frente a 6,39 ± 2,7mg, p < 0,01).LIMITACIONES:El diseño de un solo centro, el corto período de seguimiento, la falta de herramientas validadas de evaluación de heridas específicas para hemorroides y la exclusión de pacientes ASA III limitaron la generalización.CONCLUSIONES:La compresa de hielo demostró una eficacia superior en el manejo del dolor posterior a la hemorroidectomía, la reducción del edema y la promoción de la cicatrización de la herida, con un perfil de seguridad comparable y menores necesidades de opioides. (Traducción-Dr. Felipe Bellolio ).
+ANTECEDENTES:El manejo del dolor posterior a una hemorroidectomía sigue siendo un desafío, y los baños de asiento tibios son una intervención común pero debatida.OBJETIVO:Comparar la eficacia de la aplicación de compresas de hielo frente a los baños de asiento tibios para el manejo del dolor posterior a una hemorroidectomía y la cicatrización de heridas.DISEÑO:Ensayo controlado aleatorizado.ESCENARIO:Estudio de un solo centro en el Hospital E-DA, Taiwán.PACIENTES:166 pacientes sometidos a una hemorroidectomía de Ferguson. INTERVENCIONES:Los pacientes fueron asignados aleatoriamente para recibir compresas de hielo (n = 82) o baños de asiento tibios (n = 84) para el cuidado posoperatorio inicial.PRINCIPALES MEDIDAS DE RESULTADOS:Los resultados primarios fueron el dolor (escala analógica visual) y la hinchazón. Los resultados secundarios incluyeron la cicatrización de heridas (escala REEDA), el consumo de analgésicos y los eventos adversos.RESULTADOS:El grupo que recibió compresas de hielo mostró puntuaciones de dolor más bajas dentro de las 16 horas posteriores a la cirugía (p < 0,01), una reducción de la hinchazón a las 24 horas (76,8% frente a 56,0% con hinchazón leve o nula, p = 0,03), una cicatrización superior de la herida a los 7 días (puntuación REEDA: 2,56 ± 1,89 frente a 3,27 ± 2,12, p = 0,02) y un menor consumo de morfina a las 24 horas (4,58 ± 2,56mg frente a 6,39 ± 2,7mg, p < 0,01).LIMITACIONES:El diseño de un solo centro, el corto período de seguimiento, la falta de herramientas validadas de evaluación de heridas específicas para hemorroides y la exclusión de pacientes ASA III limitaron la generalización.CONCLUSIONES:La compresa de hielo demostró una eficacia superior en el manejo del dolor posterior a la hemorroidectomía, la reducción del edema y la promoción de la cicatrización de la herida, con un perfil de seguridad comparable y menores necesidades de opioides. (Traducción-Dr. Felipe Bellolio).
 
 ---
 
 ### ACG clinical guidelines: management of benign anorectal disorders [^b352c010]. The American Journal of Gastroenterology (2021). High credibility.
 
-Acute anal fissure—initial management: Gastroenterologists and other providers should use non‑operative measures including sitz baths, psyllium fiber, and bulking agents as the first step in therapy, and almost half of patients heal with these supportive measures with symptomatic relief and minimal side effects.
+Acute anal fissure — initial management: Gastroenterologists and other providers should use non‑operative measures including sitz baths, psyllium fiber, and bulking agents as the first step in therapy, and almost half of patients heal with these supportive measures with symptomatic relief and minimal side effects.
 
 ---
 
@@ -251,7 +251,7 @@ Initial treatment of anal fissures is medical or non-operative. There are only f
 
 ### Guidance for the prevention and treatment of monkeypox (mpox) [^699026a3]. ACOEM (2022). High credibility.
 
-Monkeypox (mpox) symptom management—pain and rash care includes using Ibuprofen and Acetaminophen for pain, rinsing oral rash with salt water at least 4 times a day, and considering prescription mouthwashes or viscous lidocaine; chlorhexidine mouthwash can help keep the mouth clean. Patients are advised to avoid touching or scratching the rash to prevent spread and secondary infection; topical benzocaine/lidocaine gels can provide temporary relief, oral antihistamines and topical calamine or petroleum jelly may help itching, and warm baths may offer relief. For rash involving the anus, genitals, or perineum, sitz baths may help and clinicians may prescribe additives like povidone-iodine for the water.
+Monkeypox (mpox) symptom management — pain and rash care includes using Ibuprofen and Acetaminophen for pain, rinsing oral rash with salt water at least 4 times a day, and considering prescription mouthwashes or viscous lidocaine; chlorhexidine mouthwash can help keep the mouth clean. Patients are advised to avoid touching or scratching the rash to prevent spread and secondary infection; topical benzocaine/lidocaine gels can provide temporary relief, oral antihistamines and topical calamine or petroleum jelly may help itching, and warm baths may offer relief. For rash involving the anus, genitals, or perineum, sitz baths may help and clinicians may prescribe additives like povidone-iodine for the water.
 
 ---
 
@@ -279,7 +279,7 @@ In this systematic review we present information relating to the effectiveness a
 
 Introduction
 
-Constipation, heartburn, and haemorrhoids are common gastrointestinal complaints during pregnancy. Constipation occurs in 11-38% of pregnant women. Although the exact prevalence of haemorrhoids during pregnancy is unknown, the condition is common, and the prevalence of symptomatic haemorrhoids in pregnant women is higher than in non-pregnant women. The incidence of heartburn in pregnancy is reported to be 17-45%.
+Constipation, heartburn, and haemorrhoids are common gastrointestinal complaints during pregnancy. Constipation occurs in 11–38% of pregnant women. Although the exact prevalence of haemorrhoids during pregnancy is unknown, the condition is common, and the prevalence of symptomatic haemorrhoids in pregnant women is higher than in non-pregnant women. The incidence of heartburn in pregnancy is reported to be 17–45%.
 
 Methods and Outcomes
 
@@ -317,7 +317,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of anal fissures [^12b6a90d]. Diseases of the Colon and Rectum (2023). High credibility.
 
-Acute anal fissure—conservative therapy outcomes and tolerability: Nearly half of all patients who have an acute anal fissure will resolve their symptoms with nonoperative measures such as sitz baths and fiber or other bulking agents, with or without topical anesthetics or topical steroids, and these interventions are well tolerated with minimal to no side effects. In a prospective randomized trial of 103 patients, sitz baths plus fiber yielded greater pain relief than topical anesthetics or topical hydrocortisone (91% vs 60% vs 68%, respectively; p < 0.05). In a double-blind placebo-controlled study of 75 patients with healed acute fissures, maintenance fiber reduced fissure recurrence versus placebo (16% vs 60%; p < 0.01), and there are no data supporting one type of fiber over another. Healing rates with conservative treatment decline as symptom duration increases, with a prospective study of 60 patients observing a 100% healing rate for symptoms of <1-month duration compared with only a 33.3% healing rate for >6-month duration.
+Acute anal fissure — conservative therapy outcomes and tolerability: Nearly half of all patients who have an acute anal fissure will resolve their symptoms with nonoperative measures such as sitz baths and fiber or other bulking agents, with or without topical anesthetics or topical steroids, and these interventions are well tolerated with minimal to no side effects. In a prospective randomized trial of 103 patients, sitz baths plus fiber yielded greater pain relief than topical anesthetics or topical hydrocortisone (91% vs 60% vs 68%, respectively; p < 0.05). In a double-blind placebo-controlled study of 75 patients with healed acute fissures, maintenance fiber reduced fissure recurrence versus placebo (16% vs 60%; p < 0.01), and there are no data supporting one type of fiber over another. Healing rates with conservative treatment decline as symptom duration increases, with a prospective study of 60 patients observing a 100% healing rate for symptoms of < 1-month duration compared with only a 33.3% healing rate for > 6-month duration.
 
 ---
 
@@ -325,9 +325,9 @@ Acute anal fissure—conservative therapy outcomes and tolerability: Nearly half
 
 Introduction
 
-Hemorrhoids as one of the most common chronic anorectal diseases severely affect patients’ quality of life.–Hemorrhoidectomy is utilized to treat severe hemorrhoids (especially for III or IV degree hemorrhoids) or hemorrhoids failing to respond to conservative therapies.However, hemorrhoidectomy is always associated with significant postoperative pain, which may make the patient and the surgeon anxious. Moreover, poor wound healing may retard return to work or daily activities.During the early period after hemorrhoidectomy, patients usually need analgesics medication to relieve postoperative pain and discomfort.
+Hemorrhoids as one of the most common chronic anorectal diseases severely affect patients' quality of life.–Hemorrhoidectomy is utilized to treat severe hemorrhoids (especially for III or IV degree hemorrhoids) or hemorrhoids failing to respond to conservative therapies. However, hemorrhoidectomy is always associated with significant postoperative pain, which may make the patient and the surgeon anxious. Moreover, poor wound healing may retard return to work or daily activities. During the early period after hemorrhoidectomy, patients usually need analgesics medication to relieve postoperative pain and discomfort.
 
-Sitz bath with warm water was well accepted as a safe postoperative care after anal surgery and routinely utilized to relieve postoperative pain and promote wound healing during the posthemorrhoidectomy period.However, recent studies have revealed that warm sitz bath did not relieve pain, promote wound healing or reduce consumption of analgesics after anal surgery but offered only a significant relief in anal burning and a marginally higher satisfaction score.Traditional Chinese medicine (TCM) has been used to treat hemorrhoids for centuries in our country.Therefore, Chinese herbal decoction, Xiaozhi decoction (XZD), was added into sitz bath as posthemorrhoidectomy care in our clinical practice due to its positive effect on pain relief. The aim of the current prospective study was to clarify the efficacy of sitz bath with XZD as postoperative care for patients who underwent hemorrhoidectomy.
+Sitz bath with warm water was well accepted as a safe postoperative care after anal surgery and routinely utilized to relieve postoperative pain and promote wound healing during the posthemorrhoidectomy period. However, recent studies have revealed that warm sitz bath did not relieve pain, promote wound healing or reduce consumption of analgesics after anal surgery but offered only a significant relief in anal burning and a marginally higher satisfaction score. Traditional Chinese medicine (TCM) has been used to treat hemorrhoids for centuries in our country. Therefore, Chinese herbal decoction, Xiaozhi decoction (XZD), was added into sitz bath as posthemorrhoidectomy care in our clinical practice due to its positive effect on pain relief. The aim of the current prospective study was to clarify the efficacy of sitz bath with XZD as postoperative care for patients who underwent hemorrhoidectomy.
 
 ---
 
@@ -363,13 +363,13 @@ Outcome measures
 
 The primary end point was absolute change from baseline in patient-reported 24-hour average CAF pain intensity as measured using the 100-mm VAS over days 14 to 18 of treatment. The VAS has been shown to be a reliable measurement of acute pain and is a validated tool to measure clinically important changes in pain severity. The pain score was averaged over days 14 to 18 to minimize the effect of a bowel movement on pain scores on an individual day.
 
-Secondary end points were as follows: time to improvement in 24-hour average VAS (defined as a decrease of 10 mm and 50% from baseline); patients’ global assessment of treatment at day 21 (last assessed visit day); percentage of responders, defined as patients with a decrease in 24-hour average pain intensity VAS score of ≥10 mm and ≥50% from baseline for treatment days 14 to 18; and absolute change in 24-hour average VAS score at days 7, 14, and 21 (not reported).
+Secondary end points were as follows: time to improvement in 24-hour average VAS (defined as a decrease of 10 mm and 50% from baseline); patients' global assessment of treatment at day 21 (last assessed visit day); percentage of responders, defined as patients with a decrease in 24-hour average pain intensity VAS score of ≥ 10 mm and ≥ 50% from baseline for treatment days 14 to 18; and absolute change in 24-hour average VAS score at days 7, 14, and 21 (not reported).
 
 Five clinic visits were scheduled (screening and days 0 [randomization], 7, 14, and 21). Patient global assessment of 24-hour average pain intensity (VAS score) was obtained on day 0 and daily thereafter at bedtime until the evening before the day 21 assessment. Patients completed their final VAS and assessment of therapy on day 21 at the clinic. Patients who withdrew early from the study were asked to continue to record VAS scores until day 21.
 
 Safety assessments included physical examination findings, vital signs (blood pressure and heart rate), orthostatic hypotension assessment, laboratory tests (hematology, serum chemistry, and urinalysis), 12-lead electrocardiograms (ECGs), and AEs and serious AEs.
 
-Patients were instructed to complete daily diary cards to record time of administration of study medication (NTG ointment and acetaminophen), VAS assessments, number of sitz baths, and incidence and severity of headaches. For pain, patients were asked to record their response to the question “What has been your average pain today?”on a VAS at the end of each day.
+Patients were instructed to complete daily diary cards to record time of administration of study medication (NTG ointment and acetaminophen), VAS assessments, number of sitz baths, and incidence and severity of headaches. For pain, patients were asked to record their response to the question "What has been your average pain today?"on a VAS at the end of each day.
 
 Statistical analysis
 
@@ -383,7 +383,7 @@ Many Americans between 45 and 65 years of age experience hemorrhoids. Hemorrhoid
 
 ### Diagnosis and treatment of perianal Crohn disease: NASPGHAN clinical report and consensus statement [^f1905e81]. Journal of Pediatric Gastroenterology and Nutrition (2013). Medium credibility.
 
-Anal fissures in perianal Crohn disease (PCD)—prevalence and treatment approach: Fissures make up approximately 20% to 30% of anal lesions in PCD. Fissures suggest active CD and are therefore treated medically, and in the presence of acute inflammation it is futile and potentially dangerous to attempt to excise a fissure or close it with suture. Symptoms typically respond to effective medical therapy using nitrate-based ointments and sitz baths, and no controlled trials show any efficacy of oral antibiotics in the treatment of perianal fissures.
+Anal fissures in perianal Crohn disease (PCD) — prevalence and treatment approach: Fissures make up approximately 20% to 30% of anal lesions in PCD. Fissures suggest active CD and are therefore treated medically, and in the presence of acute inflammation it is futile and potentially dangerous to attempt to excise a fissure or close it with suture. Symptoms typically respond to effective medical therapy using nitrate-based ointments and sitz baths, and no controlled trials show any efficacy of oral antibiotics in the treatment of perianal fissures.
 
 ---
 
@@ -455,15 +455,15 @@ Postoperative treatment
 
 Wound cleansing and dressing change: Wound cleansing and gauze drainage are performed every day after surgery until the skin is closed. At the same time, regular dressing changes are needed to prevent pseudo-healing.
 
-Sitz bath and medication: Use potassium permanganate solution for a sitz bath after bowel movements to keep the perianal area clean and hygienic. Follow the doctor’s instructions for antimicrobial treatment to control the infection and promote healing.
+Sitz bath and medication: Use potassium permanganate solution for a sitz bath after bowel movements to keep the perianal area clean and hygienic. Follow the doctor's instructions for antimicrobial treatment to control the infection and promote healing.
 
 Diet and life adjustment: keep a light diet, avoid spicy, greasy, cold and other stimulating food. Eat more foods rich in vitamins and dietary fiber, such as apples, bananas, carrots, etc. as well as foods rich in protein, such as eggs and beef. At the same time, maintain good bowel habits and avoid prolonged bowel movements and excessive straining.
 
 Review and Follow-up: Regularly visit the General Surgery Department of the hospital for review and tightening of hanging wires to understand the wound healing. If there are any uncomfortable symptoms, you should seek medical treatment in time.
 
-Pollution prevention measures: Ensure that all sampling tools (such as disposable sterile syringes, scrapers, etc.) are sterile packaged and not contaminated before use. During the sampling process, the operator should wear sterile gloves to avoid direct contact with the patient’s skin or surgical area. When using a syringe to extract pus, ensure that the needle is fully inserted into the abscess cavity to avoid pus overflow or contamination of the surrounding skin. The collected specimenss should be immediately sent to the laboratory for bacterial culture, avoiding prolonged storage at room temperature to reduce the risk of bacterial proliferation and contamination. During transportation, sterile containers should be used to store specimenss and ensure the sealing of the containers. After arriving at the laboratory, the specimenss should be processed immediately to avoid prolonged exposure to the laboratory environment. When handling specimenss, the laboratory’s sterile operating procedures should be strictly followed.
+Pollution prevention measures: Ensure that all sampling tools (such as disposable sterile syringes, scrapers, etc.) are sterile packaged and not contaminated before use. During the sampling process, the operator should wear sterile gloves to avoid direct contact with the patient's skin or surgical area. When using a syringe to extract pus, ensure that the needle is fully inserted into the abscess cavity to avoid pus overflow or contamination of the surrounding skin. The collected specimenss should be immediately sent to the laboratory for bacterial culture, avoiding prolonged storage at room temperature to reduce the risk of bacterial proliferation and contamination. During transportation, sterile containers should be used to store specimenss and ensure the sealing of the containers. After arriving at the laboratory, the specimenss should be processed immediately to avoid prolonged exposure to the laboratory environment. When handling specimenss, the laboratory's sterile operating procedures should be strictly followed.
 
-All patients’ surgeries are performed by the same surgeon.
+All patients' surgeries are performed by the same surgeon.
 
 ---
 
@@ -503,7 +503,7 @@ From May 2013 to March 2015, 315 patients who underwent open hemorrhoidectomy in
 
 Results
 
-No significant difference was found in baseline characteristics between the two groups. Postoperative pain score of the XZD group was significantly lower on POD 2 (6.04±1.11 vs 6.33±1.14, P =0.0229), POD 7 (3.35±0.75 vs 4.22±0.87, P =0.0000) and POD 14 (2.87±0.64 vs 3.64±0.77, P =0.0000) than that of the control group. Similarly, patients in the XZD group experienced significantly less pain on defecation on POD 2 (5.02±1.34 vs 5.43±1.56, P =0.0130), POD 7 (3.08±1.17 vs 3.52±1.29, P =0.0017) and POD 14 (2.31±0.85 vs 2.68±0.99, P =0.0004). Patients in the XZD group consumed significantly less analgesic medication on POD 2 ( P =0.0136), POD 7 ( P =0.0074) and POD 14 ( P =0.0046) than the control group.
+No significant difference was found in baseline characteristics between the two groups. Postoperative pain score of the XZD group was significantly lower on POD 2 (6.04 ± 1.11 vs 6.33 ± 1.14, P = 0.0229), POD 7 (3.35 ± 0.75 vs 4.22 ± 0.87, P = 0.0000) and POD 14 (2.87 ± 0.64 vs 3.64 ± 0.77, P = 0.0000) than that of the control group. Similarly, patients in the XZD group experienced significantly less pain on defecation on POD 2 (5.02 ± 1.34 vs 5.43 ± 1.56, P = 0.0130), POD 7 (3.08 ± 1.17 vs 3.52 ± 1.29, P = 0.0017) and POD 14 (2.31 ± 0.85 vs 2.68 ± 0.99, P = 0.0004). Patients in the XZD group consumed significantly less analgesic medication on POD 2 (P = 0.0136), POD 7 (P = 0.0074) and POD 14 (P = 0.0046) than the control group.
 
 Conclusion
 
@@ -515,7 +515,7 @@ XZD could effectively relieve postoperative pain and reduce analgesic medication
 
 Medical treatment
 
-Treatment of anal fissures starts with conservative treatment including stool softeners, fiber supplementation, sitz baths, and topical lidocaine gel for pain control. Stool softeners and lidocaine gel together will heal 8-51% of fissures, with most studies showing healing rates of 16-31% in acute and chronic fissures. Almost half of acute fissures will heal with sitz baths and fiber, with or without lidocaine gel. The effect of topical steroids or lidocaine gel in healing fissures is equal to or worse than sitz baths and fiber. Lidocaine by itself does not appear to contribute to healing of fissures, but provides symptom relief.
+Treatment of anal fissures starts with conservative treatment including stool softeners, fiber supplementation, sitz baths, and topical lidocaine gel for pain control. Stool softeners and lidocaine gel together will heal 8–51% of fissures, with most studies showing healing rates of 16–31% in acute and chronic fissures. Almost half of acute fissures will heal with sitz baths and fiber, with or without lidocaine gel. The effect of topical steroids or lidocaine gel in healing fissures is equal to or worse than sitz baths and fiber. Lidocaine by itself does not appear to contribute to healing of fissures, but provides symptom relief.
 
 The goal of medical treatment of anal fissures is to decrease the internal sphincter tone and allow healing. Topical nitrate use leads to healing of chronic anal fissures in about 50% of patients, and demonstrates a 13.5% improvement in healing over placebo. Up to 50% of fissures healed with nitrates have recurrences. The topical nitrates commonly used are isosorbide dinitrate and glyceryl trinitrate. Since the advent of topical calcium channel blockers, nitrates are not usually used in the treatment of anal fissures, because of the common side-effect of headaches that occur in a dose-related manner. A double-blind multicenter randomized trial comparing nifedipine gel to topical hydrocortisone and lidocaine found that the nifedipine treatment healed fissures within 21 days in 95% of patients, compared to 50% in the control treatment group. Additionally, anal manometry confirmed that nifedipine decreased the resting anal pressure by 30%, whereas there was no change in the control group.
 
@@ -575,7 +575,7 @@ Surgical treatment of a tear by suturing and closure of the anatomical defect. (
 
 Discussion
 
-Hemorrhoidectomy is a standard treatment for extensive hemorrhoids and usually causes significant postoperative pain which would harm postoperative quality of life.Posthemorrhoidectomy pain is mainly caused by surgical incision per se and tissue inflammation related to bacterial infiltration of the wound.In the first few hours after hemorrhoidectomy, wound inflammation is the primary cause of pain, while during the days after hemorrhoidectomy bacterial infiltration mainly causes the posthemorrhoidectomy pain. Another factor of posthemorrhoidectomy pain could be spasm of the internal sphincter which is always aggravated by wound inflammation, swelling and infection during the PODs.
+Hemorrhoidectomy is a standard treatment for extensive hemorrhoids and usually causes significant postoperative pain which would harm postoperative quality of life. Posthemorrhoidectomy pain is mainly caused by surgical incision per se and tissue inflammation related to bacterial infiltration of the wound. In the first few hours after hemorrhoidectomy, wound inflammation is the primary cause of pain, while during the days after hemorrhoidectomy bacterial infiltration mainly causes the posthemorrhoidectomy pain. Another factor of posthemorrhoidectomy pain could be spasm of the internal sphincter which is always aggravated by wound inflammation, swelling and infection during the PODs.
 
 In our clinical practice, sitz bath with XZD was routinely performed after hemorrhoidectomy and was found effective for pain relief and wound healing. In its composition, Flos Chrysanthemi Indici primarily diminishes tissue swelling, complemented by Mirabilitum. Rhizoma Corydalis and Flos Carthami remove blood stasis and relief pain. Galla Chinensis and Herba Taraxaci help to clear wound infection. Olibanum and Myrrha promote wound healing. Radix Sophorae Flavescentis and Radix Glycyrrhizae have antiphlogistic effect. Radix et Rhizoma Rhei promotes defecation. Theoretically, the XZD could not only directly relieve postoperative pain but also diminish the major adverse factors such as wound inflammation, swelling and infection which cause postoperative pain after hemorrhoidectomy.
 
@@ -589,7 +589,7 @@ Synthesis of results
 
 There was significant variation in all aspects of key recommendations for each of the nine guidelines and these are summarized in Table 2. Particular areas are commented on below.
 
-TABLE 2 
+TABLE 2
 Summary of guideline variation for individual recommendations
 
 Note
@@ -620,7 +620,7 @@ In general, there was consensus that conservative management was recommended for
 
 Introduction
 
-Anal fissure (AF) is a tear in the skin of the anal canal that extends from the dentate line to the anal verge. It is the most common cause of anorectal pain on defecation. AFs are most commonly located in the posterior midline (73%) but can be found in the anterior midline in 13% of women and 8% of men, with 2.6% occurring both anteriorly and posteriorly simultaneously. The overall annual incidence of AF is 0.11% without sex differences, and it affects mainly young and middle-aged patients. The main symptom associated with AF is anal pain (present in 90,8% of patients) occurring during defecation and for several hours afterwards, that sometimes radiates to the buttocks, lower back, or upper posterior tights. Moreover, bleeding appears in 71.4% of patients, and anal pruritus can also emerge. The AF pathophysiology is not entirely clear, but trauma to the anal canal seems to be an important factor: constipation, diarrhea, vaginal delivery trauma, history of anal trauma or IAS hypertonia. Patients with chronic AF exhibit higher resting pressures of the IAS than normal controls. Relative ischemia of the posterior commissure of the anal canal is another possible explanation for AF. Lower blood flow was found in the posterior midline than in the rest of the anal canal, which may also account for the predominance of fissures in the posterior midline. There are also secondary AFs, caused by surgical anal procedures, infectious diseases, inflammatory diseases (Crohn’s disease), cancer, or sexually transmitted diseases. These secondary AFs are considered atypical due to their location usually off the midline position. Several therapeutic options are available for AFs. The conservative option is considered as the initial approach and it is based on the hypothesis of constipation as the one of the causes of AF. Sitz baths and fiber supplementation are the core of this treatment, and topical steroids or anesthetics can be added. These dietary and behavioral modifications are considered safe since they entail few adverse effects, and they might heal the AF and even prevent recurrence if maintained. When AFs persist, there are surgical (i.e. open and closed lateral internal sphincterotomy conventional or tailored, and anocutaneous advancement flap) and nonsurgical (pharmacological) options. The latter is based on achieving IAS transitional relaxation. It helps overcome hypertonia and favors vascularization of anal mucosa, allowing normal tone to be reached subsequently, and therefore avoiding incontinence. The American Society of Colon and Rectal Surgeons (ASCRS) strongly recommends topical nitrates (ASCRS grade 1B: strong recommendation, moderate-quality evidence), associated with healing of approximately 50% of chronic AFs. With a superior side effect profile than nitrates, calcium channel blockers (CCB) have a similar efficacy and are also recommended as first-line treatment (ASCRS grade 1B), with healing rates ranging 65–95%. Botulinum toxin type A (BT) local injection is considered when topical therapy fails (ASCRS grade 1B: strong recommendation, moderate-quality evidence). BT inhibits acetylcholine release at the neuromuscular junction, preventing neural transmission, and reducing anal sphincter tone at rest. Moreover, BT reduces pain by inhibiting the release of other non-cholinergic neurotransmitters. Local chemical denervation produced by BT begins 3 to 4 days after injection and fades gradually during the third or fourth month. The maximal benefit is detected 4–6 weeks post-injection. BT is comparable to topical treatments as a first-line therapy for chronic anal fissures and shows modest improvement in healing rates when used as a second-line therapy after unsuccessful topical treatments. BT showed similar healing rates at 8 weeks when compared to nitrates but presented the highest recurrence rate of all treatments. The main adverse effect of BT was temporary incontinence, while patients treated with both nitrates and CCB presented headaches that caused treatment cessation in some cases. However, the ideal site, number of injections and dosage of BT have not been established yet and most studies follow-up duration is short.
+Anal fissure (AF) is a tear in the skin of the anal canal that extends from the dentate line to the anal verge. It is the most common cause of anorectal pain on defecation. AFs are most commonly located in the posterior midline (73%) but can be found in the anterior midline in 13% of women and 8% of men, with 2.6% occurring both anteriorly and posteriorly simultaneously. The overall annual incidence of AF is 0.11% without sex differences, and it affects mainly young and middle-aged patients. The main symptom associated with AF is anal pain (present in 90,8% of patients) occurring during defecation and for several hours afterwards, that sometimes radiates to the buttocks, lower back, or upper posterior tights. Moreover, bleeding appears in 71.4% of patients, and anal pruritus can also emerge. The AF pathophysiology is not entirely clear, but trauma to the anal canal seems to be an important factor: constipation, diarrhea, vaginal delivery trauma, history of anal trauma or IAS hypertonia. Patients with chronic AF exhibit higher resting pressures of the IAS than normal controls. Relative ischemia of the posterior commissure of the anal canal is another possible explanation for AF. Lower blood flow was found in the posterior midline than in the rest of the anal canal, which may also account for the predominance of fissures in the posterior midline. There are also secondary AFs, caused by surgical anal procedures, infectious diseases, inflammatory diseases (Crohn's disease), cancer, or sexually transmitted diseases. These secondary AFs are considered atypical due to their location usually off the midline position. Several therapeutic options are available for AFs. The conservative option is considered as the initial approach and it is based on the hypothesis of constipation as the one of the causes of AF. Sitz baths and fiber supplementation are the core of this treatment, and topical steroids or anesthetics can be added. These dietary and behavioral modifications are considered safe since they entail few adverse effects, and they might heal the AF and even prevent recurrence if maintained. When AFs persist, there are surgical (i.e. open and closed lateral internal sphincterotomy conventional or tailored, and anocutaneous advancement flap) and nonsurgical (pharmacological) options. The latter is based on achieving IAS transitional relaxation. It helps overcome hypertonia and favors vascularization of anal mucosa, allowing normal tone to be reached subsequently, and therefore avoiding incontinence. The American Society of Colon and Rectal Surgeons (ASCRS) strongly recommends topical nitrates (ASCRS grade 1B: strong recommendation, moderate-quality evidence), associated with healing of approximately 50% of chronic AFs. With a superior side effect profile than nitrates, calcium channel blockers (CCB) have a similar efficacy and are also recommended as first-line treatment (ASCRS grade 1B), with healing rates ranging 65–95%. Botulinum toxin type A (BT) local injection is considered when topical therapy fails (ASCRS grade 1B: strong recommendation, moderate-quality evidence). BT inhibits acetylcholine release at the neuromuscular junction, preventing neural transmission, and reducing anal sphincter tone at rest. Moreover, BT reduces pain by inhibiting the release of other non-cholinergic neurotransmitters. Local chemical denervation produced by BT begins 3 to 4 days after injection and fades gradually during the third or fourth month. The maximal benefit is detected 4–6 weeks post-injection. BT is comparable to topical treatments as a first-line therapy for chronic anal fissures and shows modest improvement in healing rates when used as a second-line therapy after unsuccessful topical treatments. BT showed similar healing rates at 8 weeks when compared to nitrates but presented the highest recurrence rate of all treatments. The main adverse effect of BT was temporary incontinence, while patients treated with both nitrates and CCB presented headaches that caused treatment cessation in some cases. However, the ideal site, number of injections and dosage of BT have not been established yet and most studies follow-up duration is short.
 
 ---
 
@@ -634,11 +634,11 @@ Vulvovaginal itching is a common yet often under-recognized condition affecting 
 
 Pain Assessment
 
-Self-reported pain was assessed using the Visual Analog Scale, a widely used and validated tool for measuring pain intensity. Participants were asked to rate their pain on a scale from 0 (no pain) to 100 (worst pain imaginable) at regular intervals post-surgery (eg, 1 week, 2 weeks, 3 weeks, 4 weeks). The Visual Analog Scale scores were used to construct pain trajectories over the 4-week follow-up period. All patients received a multimodal analgesia management, involving nonsteroidal anti-inflammatory drugs (NSAIDs) and opioids as required, typically for less than 5 days. Antibiotics were routinely prescribed for 5–7 days to prevent secondary infections, consistent with surgical guidelines for perianal abscess management. Patients were also instructed to use adjunctive strategies, such as warm sitz baths, for additional symptom relief during recovery. In the follow-up period, pain management focused on a multimodal approach. Patients were regularly re-evaluated during outpatient visits to adjust the treatment plan based on their reported pain levels. NSAIDs remained the primary therapy, supplemented by opioids. Adjunctive therapies, such as warm sitz baths, were emphasized to promote local healing and alleviate discomfort. Education on medication adherence and lifestyle adjustments was also provided to optimize recovery outcomes.
+Self-reported pain was assessed using the Visual Analog Scale, a widely used and validated tool for measuring pain intensity. Participants were asked to rate their pain on a scale from 0 (no pain) to 100 (worst pain imaginable) at regular intervals post-surgery (eg, 1 week, 2 weeks, 3 weeks, 4 weeks). The Visual Analog Scale scores were used to construct pain trajectories over the 4-week follow-up period. All patients received a multimodal analgesia management, involving nonsteroidal anti-inflammatory drugs (NSAIDs) and opioids as required, typically for less than 5 days. Antibiotics were routinely prescribed for 5–7 days to prevent secondary infections, consistent with surgical guidelines for perianal abscess management. Patients were also instructed to use adjunctive strategies, such as warm sitz baths, for additional symptom relief during recovery. In the follow-up period, pain management focused on a multimodal approach. Patients were regularly re-evaluated during outpatient visits to adjust the treatment plan based on their reported pain levels. NSAIDs remained the primary therapy, supplemented by opioids. Adjunctive therapies, such as warm sitz baths, were emphasized to promote local healing and alleviate discomfort. Education on medication adherence and lifestyle adjustments was also provided to optimize recovery outcomes.
 
 Quality of Life Assessment
 
-QoL was assessed using the Short Form-36 health Survey (SF-36), a validated instrument that measures eight domains of health-related quality of life: physical functioning, role limitations due to physical health problems, bodily pain, general health perceptions, vitality, social functioning, role limitations due to emotional problems, and mental health. The SF-36 was administered for 4 weeks post-surgery.
+QoL was assessed using the Short Form-36 health Survey (SF-36), a validated instrument that measures eight domains of health-related quality of life: physical functioning, role limitations due to physical health problems, bodily pain, general health perceptions, vitality, social functioning, role limitations due to emotional problems, and mental health. The SF-36 was administered for 4 weeks post-surgery.
 
 ---
 
@@ -654,7 +654,7 @@ Adult patients with simple anal fistula who underwent anal fistulotomy were divi
 
 Results
 
-Sixty patients (50 of whom were men) with a mean age of 41.4 ± 12.5 years were included. Both groups had comparable pain scores at 1 week after surgery (1 ± 0.83 vs 0.86 ± 0.81; P = 0.51). The duration to complete wound healing was 41.2 ± 2.4 days in group I and 42 ± 2.5 days in group II (mean ± SD, P = 0.21). The time to return to work was 13.5 ± 2.8 days in group I and 14.1 ± 2.6 days in group II (mean ± SD, P = 0.39). No significant differences were noted between the two groups with regard to postoperative complications or impact on lifestyle.
+Sixty patients (50 of whom were men) with a mean age of 41.4 ± 12.5 years were included. Both groups had comparable pain scores at 1 week after surgery (1 ± 0.83 vs 0.86 ± 0.81; P = 0.51). The duration to complete wound healing was 41.2 ± 2.4 days in group I and 42 ± 2.5 days in group II (mean ± SD, P = 0.21). The time to return to work was 13.5 ± 2.8 days in group I and 14.1 ± 2.6 days in group II (mean ± SD, P = 0.39). No significant differences were noted between the two groups with regard to postoperative complications or impact on lifestyle.
 
 Conclusion
 
@@ -668,11 +668,11 @@ Methods
 
 Patients
 
-Between May 2013 and March 2015, 315 patients who underwent open hemorrhoidectomy in the First People’s Hospital affiliated to Huzhou Normal College were included in this prospective study. According to the computer-based sequential method, 160 patients were randomly assigned to accept sitz bath with warm water after hemorrhoidectomy (control group) and 155 patients were randomly assigned to accept sitz bath with XZD (XZD group) after hemorrhoidectomy.
+Between May 2013 and March 2015, 315 patients who underwent open hemorrhoidectomy in the First People's Hospital affiliated to Huzhou Normal College were included in this prospective study. According to the computer-based sequential method, 160 patients were randomly assigned to accept sitz bath with warm water after hemorrhoidectomy (control group) and 155 patients were randomly assigned to accept sitz bath with XZD (XZD group) after hemorrhoidectomy.
 
 Inclusion criteria were as follows: 1) age between 18 and 75 years and 2) indication for hemorrhoidectomy: symptomatic III and IV degree hemorrhoids. Patients who had associated fistula, anal fissure, inflammatory bowel disease, perineal skin inflammation, proctitis, pregnancy, previous anorectal surgery or allergy to the decoction were excluded from this study.
 
-This study was approved by the ethics committee for medical research of the First People’s Hospital affiliated to Huzhou Normal College and was performed on the basis of the Declaration of Helsinki and “Good Clinical Practice” guidelines. All participants signed the written informed consent.
+This study was approved by the ethics committee for medical research of the First People's Hospital affiliated to Huzhou Normal College and was performed on the basis of the Declaration of Helsinki and "Good Clinical Practice" guidelines. All participants signed the written informed consent.
 
 ---
 
@@ -690,17 +690,17 @@ In perceived barrier, the majority of the participants (65.2%) agreed and strong
 
 DISCUSSION
 
-Hemorrhoids are a common clinical entity; minor improvement in their treatment will benefit many people. Transanal suture mucopexy has addressed the core factors in the treatment of hemorrhoids by simple, repeatable suturing, and it avoids excision of engorged hemorrhoids, rectal mucosa‚ or anoderm. Pain is the major changing factor in the treatment of hemorrhoids. Transanal suture mucopexy was used in 5634 consecutive cases of hemorrhoids. Minimal pain of visual analog score 1 to 2 was noted in 5308 cases, and 126 (2.2%) patients reported a dull pain of visual analog score 2 to 3 on the second postoperative day. They were given paracetamol (500 mg) as an analgesic. Transanal suture mucopexy is a less painful procedure than conventional hemorrhoidectomy. As there is no perianal or anal wound, no painful dressings or sitz baths are required.
+Hemorrhoids are a common clinical entity; minor improvement in their treatment will benefit many people. Transanal suture mucopexy has addressed the core factors in the treatment of hemorrhoids by simple, repeatable suturing, and it avoids excision of engorged hemorrhoids, rectal mucosa‚ or anoderm. Pain is the major changing factor in the treatment of hemorrhoids. Transanal suture mucopexy was used in 5634 consecutive cases of hemorrhoids. Minimal pain of visual analog score 1 to 2 was noted in 5308 cases, and 126 (2.2%) patients reported a dull pain of visual analog score 2 to 3 on the second postoperative day. They were given paracetamol (500 mg) as an analgesic. Transanal suture mucopexy is a less painful procedure than conventional hemorrhoidectomy. As there is no perianal or anal wound, no painful dressings or sitz baths are required.
 
 We compare this new procedure primarily with the Milligan Morgan hemorrhoidectomy, stapled hemorrhoidopexy, and Doppler-guided hemorrhoid artery ligation procedures with respect to pain, safety, bleeding, hospital stay, recurrence, incontinence, cost, and early resumption of work.
 
-The Milligan-Morgan hemorrhoidectomy—the gold standard procedure—is painful and requires 2 to 3 days’ hospitalization in India. Sitz baths, dressings, and heavy analgesics or sedation are necessary.Stapled hemorrhoidopexy was described by Longoas a less painful procedure; however, postoperative pain has been observed in 25% and local discomfort in 38% of cases. Intervention for the removal of granuloma, infection‚ or staples is required in 3% to 11% of patients to reduce pain.In 1995, Morinaga reported a new technique to locate the terminal branches of the superior hemorrhoid artery by Doppler. These are identified and ligated using a figure 8 suture at the Doppler-located position, 4- to 6- cm proximal to the dentate line. It is a less painful procedure. The anorectal repair procedure, involving plication of the anal mucosa, is used for prolapsed grade III and IV hemorrhoids and is associated with a certain amount of pain.
+The Milligan-Morgan hemorrhoidectomy — the gold standard procedure — is painful and requires 2 to 3 days' hospitalization in India. Sitz baths, dressings, and heavy analgesics or sedation are necessary. Stapled hemorrhoidopexy was described by Longoas a less painful procedure; however, postoperative pain has been observed in 25% and local discomfort in 38% of cases. Intervention for the removal of granuloma, infection‚ or staples is required in 3% to 11% of patients to reduce pain. In 1995, Morinaga reported a new technique to locate the terminal branches of the superior hemorrhoid artery by Doppler. These are identified and ligated using a figure 8 suture at the Doppler-located position, 4- to 6- cm proximal to the dentate line. It is a less painful procedure. The anorectal repair procedure, involving plication of the anal mucosa, is used for prolapsed grade III and IV hemorrhoids and is associated with a certain amount of pain.
 
 ---
 
 ### A systematic review of the patient burden of Crohn's disease-related rectovaginal and anovaginal fistulas [^efd0b004]. BMC Gastroenterology (2022). Medium credibility.
 
-In addition to the surgical and procedural burden, this SLR indicated that patients with RVF/AVF report a heavy medication burden for both CD and fistula. For example, 94% of patients (48/51) who underwent treatment for RVF during 1998–2005 had received previous medication therapy, though it is unclear whether this was therapy for CD or fistula, specifically. Seven of the 12 studies reporting on treatment patterns provided details on prior use of medications to manage CD and/or fistula. In a hospital-based study of 65 women who underwent surgery to close a RVF, 40% (26/65) had taken immunomodulators and 30.8% (20/65) had taken steroids within 3 months prior to surgery. Reported medications include anti-TNF biologics, corticosteroids, azathioprine, methotrexate, 6 mercaptopurine, and antibiotics [,–,,,] (Table 3).
+In addition to the surgical and procedural burden, this SLR indicated that patients with RVF/AVF report a heavy medication burden for both CD and fistula. For example, 94% of patients (48/51) who underwent treatment for RVF during 1998–2005 had received previous medication therapy, though it is unclear whether this was therapy for CD or fistula, specifically. Seven of the 12 studies reporting on treatment patterns provided details on prior use of medications to manage CD and/or fistula. In a hospital-based study of 65 women who underwent surgery to close a RVF, 40% (26/65) had taken immunomodulators and 30.8% (20/65) had taken steroids within 3 months prior to surgery. Reported medications include anti-TNF biologics, corticosteroids, azathioprine, methotrexate, 6 mercaptopurine, and antibiotics (Table 3).
 
 In addition to these surgical and medical treatments, other treatments for CD and RVF/AVF may include conservative management techniques, such as local wound debridement, a low residue diet, and sitz baths, although the data for these approaches are not enumerated in the literature.
 
@@ -714,20 +714,20 @@ Bathing in thermal water has an impressive history and continuing popularity. In
 
 ### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^f6f57469]. Pediatrics (2022). High credibility.
 
-Delayed bathing—World Health Organization (WHO) recommendations and observed benefits: Delayed bathing is the practice of not performing the first bath for several hours after birth. The World Health Organization (WHO) recommends that bathing be delayed until after 24 hours after birth, and if cultural reasons prohibit this 24-hour delay, then the delay should be a minimum of 6 hours. Outside of a general recommendation for delayed bathing, no other organizations apart from the WHO have explicit recommendations on timing, and the optimal time for delaying bathing is not clear. The most-often cited benefit of delayed bathing is increased rates of breastfeeding, which has been observed in several retrospective studies.
+Delayed bathing — World Health Organization (WHO) recommendations and observed benefits: Delayed bathing is the practice of not performing the first bath for several hours after birth. The World Health Organization (WHO) recommends that bathing be delayed until after 24 hours after birth, and if cultural reasons prohibit this 24-hour delay, then the delay should be a minimum of 6 hours. Outside of a general recommendation for delayed bathing, no other organizations apart from the WHO have explicit recommendations on timing, and the optimal time for delaying bathing is not clear. The most-often cited benefit of delayed bathing is increased rates of breastfeeding, which has been observed in several retrospective studies.
 
 ---
 
 ### The epidemiology and treatment of anal fissures in a population-based cohort [^b402166c]. BMC Gastroenterology (2014). Low credibility.
 
-Table 4 
+Table 4
 Type of medication prescribed at time of initial diagnosis*
 
 *Results from 179 patients with medical record abstraction.
 
 Documentation of recommendations for non-prescription (over-the-counter) medications was recorded in the medical records of 65 patients (36.3%) either on the initial visit or during follow-up (Table 5). The majority (119 patients; 66.5%) of those abstracted also had non-medication recommendations such as sitz baths, dietary modifications, and adequate fluid intake.
 
-Table 5 
+Table 5
 Over-the-counter (OTC) medications and non-medication treatments recommended at any time during the study period*
 
 *Results from 179 patients with medical record abstraction.
@@ -738,23 +738,62 @@ Over-the-counter (OTC) medications and non-medication treatments recommended at 
 
 Living environment domain (mother-reported)
 
-• Member of household travelled outside city, province, or country in previous 12 months
-• Monthly household income (based on local area average) • Household income is lower than average • Household income is equal to or higher than average
-• Type of area • Rural • Urban
-• Semi-rural
-• Type of house • Apartment • Separate house • Shack • Other
-• Number of bedrooms in residence • 0 • 1–2 • 3 or more
-• Number of people residing in the house • 1–3 • 4–6 • 7 or more
-• Primary source of drinking water • Municipal network • Private well • Communal taps • Water vendor, sachet, or bottled water • Ground water
-• Is the water treated • Boiled • Filtered • Neither
-• Presence of stagnant or sewage water near home
-• Electricity supply in household (based on reported hours or days of availability) • No supply • Poor supply • Intermittent supply • Regular supply
-• Frequency of solid waste collection, if nearby • No solid waste pipe nearby, or other • We deal with it ourselves • Once a week or more • Less than once a week
-• Type of toilet • Pit latrine or no toilet • Sit or squat toilet with flush
-• Whether house is served by wastewater network
-• Access to soap (of mother) • Yes • No • Sometimes
-• Hand washing frequency (of mother) • Occasionally • Frequently
-• Bath or shower frequency (of mother) • Occasionally • Frequently
+- Member of household travelled outside city, province, or country in previous 12 months
+- Monthly household income (based on local area average)
+- Household income is lower than average
+- Household income is equal to or higher than average
+- Type of area
+- Rural
+- Urban
+- Semi-rural
+- Type of house
+- Apartment
+- Separate house
+- Shack
+- Other
+- Number of bedrooms in residence
+- 0
+- 1–2
+- 3 or more
+- Number of people residing in the house
+- 1–3
+- 4–6
+- 7 or more
+- Primary source of drinking water
+- Municipal network
+- Private well
+- Communal taps
+- Water vendor, sachet, or bottled water
+- Ground water
+- Is the water treated
+- Boiled
+- Filtered
+- Neither
+- Presence of stagnant or sewage water near home
+- Electricity supply in household (based on reported hours or days of availability)
+- No supply
+- Poor supply
+- Intermittent supply
+- Regular supply
+- Frequency of solid waste collection, if nearby
+- No solid waste pipe nearby, or other
+- We deal with it ourselves
+- Once a week or more
+- Less than once a week
+- Type of toilet
+- Pit latrine or no toilet
+- Sit or squat toilet with flush
+- Whether house is served by wastewater network
+- Access to soap (of mother)
+- Yes
+- No
+- Sometimes
+- Hand washing frequency (of mother)
+- Occasionally
+- Frequently
+- Bath or shower frequency (of mother)
+- Occasionally
+- Frequently
 
 Outcomes
 
@@ -775,37 +814,37 @@ Pain control (see question 7.D).
 
 Postpartum management
 
-Marked perineal swelling persisted postpartum. Ice packs and 50% magnesium sulfate dressings were continued for edema reduction (Fig. 2). Cefoperazone-sulbactam was administered for infection prophylaxis. On postpartum day 4, external stitches were removed, and the patient was discharged (Fig. 3). She continued potassium permanganate sitz baths twice daily, 20–30 min each.
+Marked perineal swelling persisted postpartum. Ice packs and 50% magnesium sulfate dressings were continued for edema reduction (Fig. 2). Cefoperazone-sulbactam was administered for infection prophylaxis. On postpartum day 4, external stitches were removed, and the patient was discharged (Fig. 3). She continued potassium permanganate sitz baths twice daily, 20–30 min each.
 
-Fig. 2 
+Fig. 2
 The first postpartum day
 
-Fig. 3 
+Fig. 3
 The fourth postpartum day
 
 On postpartum day 6, the episiotomy incision showed partial skin and subcutaneous dehiscence (Fig. 4) without apparent purulent discharge. Sitz baths continued. By day 15, the wound was healing, and the hematoma had diminished in size (Fig. 5). Sitz baths were maintained through one month postpartum.
 
-Fig. 4 
+Fig. 4
 The 6th postpartum day
 
-Fig. 5 
+Fig. 5
 The 15th postpartum day
 
 At 48 days postpartum, the wound had fully healed on the left, and its hematoma was absorbed; however, a firm, 2-cm nodule remained on the right, accompanied by a small adhesion band near the vaginal introitus (Fig. 6). It was excised using electrocautery.
 
-Fig. 6 
+Fig. 6
 Follow-up at 48 days postpartum
 
-At 4 months postpartum, a residual 1.5-cm nodule persisted in the right perineum. Ultrasound revealed a 17 × 16 × 11 mm hypoechoic area (Fig. 7). By 8 months postpartum, the right-sided hematoma had fully resolved.
+At 4 months postpartum, a residual 1.5-cm nodule persisted in the right perineum. Ultrasound revealed a 17 × 16 × 11 mm hypoechoic area (Fig. 7). By 8 months postpartum, the right-sided hematoma had fully resolved.
 
-Fig. 7 
+Fig. 7
 Ultrasound at 4 months postpartum showing right perineal nodule
 
 Second pregnancy and delivery
 
 Nine months postpartum, the patient conceived again. She attended antenatal clinics at our hospital, and the pregnancy proceeded uneventfully, without further perineal massage.
 
-At 40 + 5 weeks, she was admitted at 6:15 with “premature rupture of membranes.” Her height was 166 cm, weight 85 kg. Oxytocin infusion was started at 10:45. By 22:30, she felt a strong urge to defecate. Examination revealed 1.0 cm cervical length, soft, mid-position cervix, fetal station S-2, and intact membranes. Artificial rupture of membranes showed clear fluid, and oxytocin continued. At 2:10 the next morning, the cervix was fully dilated; at 2:21, under perineal support, she spontaneously delivered another healthy female infant, with no laceration or hematoma recurrence. She was discharged on postpartum day 3 without complications.
+At 40 + 5 weeks, she was admitted at 6:15 with "premature rupture of membranes." Her height was 166 cm, weight 85 kg. Oxytocin infusion was started at 10:45. By 22:30, she felt a strong urge to defecate. Examination revealed 1.0 cm cervical length, soft, mid-position cervix, fetal station S-2, and intact membranes. Artificial rupture of membranes showed clear fluid, and oxytocin continued. At 2:10 the next morning, the cervix was fully dilated; at 2:21, under perineal support, she spontaneously delivered another healthy female infant, with no laceration or hematoma recurrence. She was discharged on postpartum day 3 without complications.
 
 ---
 
@@ -813,7 +852,7 @@ At 40 + 5 weeks, she was admitted at 6:15 with “premature rupture of membr
 
 Treatment
 
-All patients underwent a standard Milligan–Morgan hemorrhoidectomy by the same surgeon under standard general anesthesia. After surgery, metronidazole tablets were administrated at a dose of 250 mg, twice a day for 1 week. Analgesic tablets containing a combination of tramadol hydrochloride 37.5 mg and paracetamol 325 mg (Ultracet; Xian Janssen Pharmaceutical Ltd. Xian, People’s Republic of China) were prescribed as needed but not more than four tablets each day.
+All patients underwent a standard Milligan–Morgan hemorrhoidectomy by the same surgeon under standard general anesthesia. After surgery, metronidazole tablets were administrated at a dose of 250 mg, twice a day for 1 week. Analgesic tablets containing a combination of tramadol hydrochloride 37.5 mg and paracetamol 325 mg (Ultracet; Xian Janssen Pharmaceutical Ltd. Xian, People's Republic of China) were prescribed as needed but not more than four tablets each day.
 
 Sitz bath was begun on postoperative day (POD) 1 and lasted for 7 days. Patients accepted sitz bath for 15 min each time, twice a day, once in the morning after defecation and another just before bedtime. Patients in the control group accepted sitz bath with warm water alone, while in the XZD group 100 mL of XZD was added into the warm water.
 
@@ -829,7 +868,7 @@ Patients were monitored and discharged within 72 hours after surgery. All patien
 
 Background
 
-Quality of life during pregnancy and immediately after delivery can be marred by anal symptoms, not rarely severe, related to hemorrhoidal disease (HD). The prevalence of HD in pregnancy is considered high with data from literature, mainly obtained by means of interview, ranging from 24 to 35%, up to an estimated peak about 85% particularly in the 2nd and 3rd trimester. However, data on the true prevalence are limited and variably reported. Symptoms commonly associated with HD are bright red blood at defecation, anal pain, pruritus ani, mucus discharge and prolapse. Hemorrhoids can be divided into external and internal. These last are usually classified in four degrees, according to Goligher’s grading of prolapse. External haemorrhoids may develop a painful thrombosis, a frequent cause of consultation during pregnancy and after childbirth. HD and in less extent anal fissures are certainly among the leading causes of rectal bleeding in pregnant women and a proctological examination can make a differential diagnosis. Different etiologic factors are deemed responsible for HD in pregnancy, such as increased pelvic pressure, obstruction to pelvic venous outflow, relaxing effect of progesterone on the venous wall, increased circulating blood volume and constipation, with age and parity hypothesized as predisposing factors. A history of HD and constipation has been associated to HD in pregnancy but no association was found with gestational hormonal changes. In a recent study by Bužinskiene et al. additional risk factors were identified, such as prolonged pregnancy (more than 40 weeks), prolonged labour or straining duration of more than 20 min, instrumental delivery and newborn weight of more than 3,800 g. Interestingly in spite of this, guidelines for HD prevention and treatment during pregnancy are the same as those recommended in the general population and thus mainly focused on bowel function suggesting dietary changes, fluid and bran intake, however with controversial results. Other treatments recommended consist of warm sitz baths or local ointment, whereas flavonoids use is not supported, lacking evidence of their safety profile in pregnancy [,–].
+Quality of life during pregnancy and immediately after delivery can be marred by anal symptoms, not rarely severe, related to hemorrhoidal disease (HD). The prevalence of HD in pregnancy is considered high with data from literature, mainly obtained by means of interview, ranging from 24 to 35%, up to an estimated peak about 85% particularly in the 2nd and 3rd trimester. However, data on the true prevalence are limited and variably reported. Symptoms commonly associated with HD are bright red blood at defecation, anal pain, pruritus ani, mucus discharge and prolapse. Hemorrhoids can be divided into external and internal. These last are usually classified in four degrees, according to Goligher's grading of prolapse. External haemorrhoids may develop a painful thrombosis, a frequent cause of consultation during pregnancy and after childbirth. HD and in less extent anal fissures are certainly among the leading causes of rectal bleeding in pregnant women and a proctological examination can make a differential diagnosis. Different etiologic factors are deemed responsible for HD in pregnancy, such as increased pelvic pressure, obstruction to pelvic venous outflow, relaxing effect of progesterone on the venous wall, increased circulating blood volume and constipation, with age and parity hypothesized as predisposing factors. A history of HD and constipation has been associated to HD in pregnancy but no association was found with gestational hormonal changes. In a recent study by Bužinskiene et al. additional risk factors were identified, such as prolonged pregnancy (more than 40 weeks), prolonged labour or straining duration of more than 20 min, instrumental delivery and newborn weight of more than 3,800 g. Interestingly in spite of this, guidelines for HD prevention and treatment during pregnancy are the same as those recommended in the general population and thus mainly focused on bowel function suggesting dietary changes, fluid and bran intake, however with controversial results. Other treatments recommended consist of warm sitz baths or local ointment, whereas flavonoids use is not supported, lacking evidence of their safety profile in pregnancy.
 
 ---
 
@@ -873,11 +912,11 @@ Vulvar edema is rare in prepubertal girls. In this case, the edema was secondary
 
 Methods
 
-Commercially available alginate dressings were selected to align with real-world clinical practices, ensuring the study’s findings could be readily implemented in routine medical settings. This choice allows for broader reproducibility across healthcare institutions. Both groups underwent conventional potassium permanganate solution sitz baths (1/1000 concentration, 20 min, twice daily), regular dressing changes, and observation of wound conditions. SG and CG groups were matched based on age, comorbidities, and the severity of the surgical condition using propensity score matching. This approach was chosen to minimize the impact of potential confounders and ensure comparability between the groups. The CG received conventional dressing post-sitz bath, using sterilized Vaseline gauze (Zhejiang Aoqi Medical Dressing Co. LTD.) applied to the surgical wound and secured with medical tape. The SG was given active wound dressing, self-adhesive alginate dressing [Kelu (Wuhan) Biotechnology Co. LTD. (80–300) mm× (80–300) mm], external wound dressing. In both groups, wound dressings were changed twice daily during the first 7 days postoperatively, followed by once daily until complete epithelialization was achieved.
+Commercially available alginate dressings were selected to align with real-world clinical practices, ensuring the study's findings could be readily implemented in routine medical settings. This choice allows for broader reproducibility across healthcare institutions. Both groups underwent conventional potassium permanganate solution sitz baths (1/1000 concentration, 20 min, twice daily), regular dressing changes, and observation of wound conditions. SG and CG groups were matched based on age, comorbidities, and the severity of the surgical condition using propensity score matching. This approach was chosen to minimize the impact of potential confounders and ensure comparability between the groups. The CG received conventional dressing post-sitz bath, using sterilized Vaseline gauze (Zhejiang Aoqi Medical Dressing Co. LTD.) applied to the surgical wound and secured with medical tape. The SG was given active wound dressing, self-adhesive alginate dressing [Kelu (Wuhan) Biotechnology Co. LTD. (80–300) mm× (80–300) mm], external wound dressing. In both groups, wound dressings were changed twice daily during the first 7 days postoperatively, followed by once daily until complete epithelialization was achieved.
 
 Surgical procedures
 
-All patients underwent standardized procedures: lateral internal sphincterotomy for anal fissures, fistulotomy/seton for anal fistulas, Milligan-Morgan hemorrhoidectomy for hemorrhoids, and Delorme’s or Altemeier procedure for rectal prolapse. All operations were performed under spinal anesthesia in the jackknife position.
+All patients underwent standardized procedures: lateral internal sphincterotomy for anal fissures, fistulotomy/seton for anal fistulas, Milligan-Morgan hemorrhoidectomy for hemorrhoids, and Delorme's or Altemeier procedure for rectal prolapse. All operations were performed under spinal anesthesia in the jackknife position.
 
 ---
 
@@ -891,13 +930,13 @@ Loperamide is one of the most commonly used medications for bowel control, toget
 
 5‐HT3 antagonists (Ramosetron, in particular) and bile acid sequestrants (colesevelam) have shown interesting preliminary results, but they still need further evaluation in patients with LARS [55].
 
-Unfortunately, in the absence of structured guidance and due to a wide variability of symptoms with different effects on patients’ lives, conservative measures often yield inconsistent results. Their impact on patient satisfaction and HRQoL is doubtful and still poorly supported by evidence [56].
+Unfortunately, in the absence of structured guidance and due to a wide variability of symptoms with different effects on patients' lives, conservative measures often yield inconsistent results. Their impact on patient satisfaction and HRQoL is doubtful and still poorly supported by evidence [56].
 
 Pelvic floor rehabilitation
 
 Although few studies have been published about rehabilitation in patients suffering from LARS, results are encouraging. The majority of studies reported improvement in stool frequency, incontinence episodes, severity of faecal incontinence and HRQoL after pelvic floor muscle training and biofeedback [57]. Moreover, irradiated patients show short‐ and long‐term results comparable to those of nonirradiated patients, despite the higher degree of incontinence at baseline [58]. Table 2 summarizes the potential benefits for patients with LARS of each component of pelvic floor rehabilitation.
 
-TABLE 2 
+TABLE 2
 Pelvic floor rehabilitation: possible benefits for patients with low anterior resection syndrome
 
 Despite this, the different protocols used regarding duration of training, method and application modality still do not allow firm conclusions, in particular with respect to patient selection.
@@ -912,14 +951,14 @@ Results
 
 The socio-demographic and pregnancy-related characteristics
 
-This correlational study included 112 participants who were convenient during data collection. The mean age of the participants was 25.04 years. Most participants completed their secondary education, which is about 50%. Most participants were Muslim 96.4% and lived in urban areas 67%. The mean family income was 22,879 Taka. About 49.1% of participants became pregnant more than 2 times and have more than two children alive. Among all the participants, 57.1% visited for antenatal check-ups at different facilities 5 to 9 times during their last pregnancy. They visited for this reason to physicians at medical colleges & other healthcare facilities, which is about 55.4%. Most of the participants delivered their child at MCH & other facilities 86.6% and delivered their child through caesarean Sect. 71.4%. During hospital admission, the participant’s amniotic membrane was intact, about 58.9%. The majority of participants suffered from labour complications 68.8%, and most of them suffered from premature rupture of membrane (PROM) 34.1%. The mean duration of labour was 5.20 h (Table 1).
+This correlational study included 112 participants who were convenient during data collection. The mean age of the participants was 25.04 years. Most participants completed their secondary education, which is about 50%. Most participants were Muslim 96.4% and lived in urban areas 67%. The mean family income was 22,879 Taka. About 49.1% of participants became pregnant more than 2 times and have more than two children alive. Among all the participants, 57.1% visited for antenatal check-ups at different facilities 5 to 9 times during their last pregnancy. They visited for this reason to physicians at medical colleges & other healthcare facilities, which is about 55.4%. Most of the participants delivered their child at MCH & other facilities 86.6% and delivered their child through caesarean Sect. 71.4%. During hospital admission, the participant's amniotic membrane was intact, about 58.9%. The majority of participants suffered from labour complications 68.8%, and most of them suffered from premature rupture of membrane (PROM) 34.1%. The mean duration of labour was 5.20 h (Table 1).
 
-Table 1 
-Distribution of socio-demographic and pregnancy-related characteristics of participants (N = 112)
+Table 1
+Distribution of socio-demographic and pregnancy-related characteristics of participants (N = 112)
 
 Perceived benefits, perceived barriers and social support of puerperal sepsis preventive behavior of postpartum mothers
 
-The result of perceived benefit showed that the average perceived benefits were 3.19 (SD = 0.46). More than half (55.4%) of the participants strongly agreed that using hygienic and comfortable sanitary napkin will help to prevent puerperal sepsis, 53.6% mentioned washing hand before and after perineal care can prevent puerperal sepsis, 61.6% stated identification and avoidance of source of infection is essential to prevent puerperal sepsis, 73.2% strongly opinionated postnatal exercise is vital to get back to pre-pregnant condition. Whereas only 12.5% of participants strongly mentioned checking the colour and odour of lochia for any change is required to identify puerperal infection, and 27.7% strongly agreed that practising perineal sitz bath helps prevent puerperal sepsis (Table 2).
+The result of perceived benefit showed that the average perceived benefits were 3.19 (SD = 0.46). More than half (55.4%) of the participants strongly agreed that using hygienic and comfortable sanitary napkin will help to prevent puerperal sepsis, 53.6% mentioned washing hand before and after perineal care can prevent puerperal sepsis, 61.6% stated identification and avoidance of source of infection is essential to prevent puerperal sepsis, 73.2% strongly opinionated postnatal exercise is vital to get back to pre-pregnant condition. Whereas only 12.5% of participants strongly mentioned checking the colour and odour of lochia for any change is required to identify puerperal infection, and 27.7% strongly agreed that practising perineal sitz bath helps prevent puerperal sepsis (Table 2).
 
 ---
 
@@ -937,7 +976,7 @@ To report a case of levator ani syndrome (LAS) that was successfully treated wit
 
 Case Summary
 
-A 26-year-old male presented with a 3-week history of severe, intermittent, aching anorectal pain that would last for 30-60 minutes per episode and occurred between 1 and 3 times per day. The pain was aggravated by squatting, with no alleviating factors. Physical examination revealed no prostate tenderness, lesions, hemorrhoids, or fissures and rectal tone was intact. The patient had moderate posterior rectal tenderness. After a standard workup, he was diagnosed with LAS and treated with oral cyclobenzaprine 5 mg 3 times daily for 7 days. The patient experienced resolution of his symptoms after 3 days of treatment and remained symptom-free 6 months after completion of therapy. The only reported adverse effect was mild drowsiness, which resolved after discontinuation of the cyclobenzaprine.
+A 26-year-old male presented with a 3-week history of severe, intermittent, aching anorectal pain that would last for 30–60 minutes per episode and occurred between 1 and 3 times per day. The pain was aggravated by squatting, with no alleviating factors. Physical examination revealed no prostate tenderness, lesions, hemorrhoids, or fissures and rectal tone was intact. The patient had moderate posterior rectal tenderness. After a standard workup, he was diagnosed with LAS and treated with oral cyclobenzaprine 5 mg 3 times daily for 7 days. The patient experienced resolution of his symptoms after 3 days of treatment and remained symptom-free 6 months after completion of therapy. The only reported adverse effect was mild drowsiness, which resolved after discontinuation of the cyclobenzaprine.
 
 Discussion
 
@@ -963,7 +1002,7 @@ Acute hemorrhoid crisis is rare, and will appear as beefy red, ulcerated or necr
 
 Participants
 
-Women and men aged 18 to 75 years were eligible to participate if they had a single, chronic posterior midline anal fissure accompanied by anal pain during the 6 weeks prior to screening and a 24-hour average pain score of ≥50 mm (on a 100-mm visual analog scale [VAS]) at baseline and on 2 of the 4 days before randomization, indicating moderate-to-severe pain. Evidence of at least one of the following criteria for chronic fissure also was required for study inclusion: sentinel skin tag, hypertrophied anal papillae, exposed internal anal sphincter, fibrotic fissure margins, or fibrotic anal sphincter. Patients had to be willing to discontinue or avoid nonprescription and prescription medicine (apart from conservative care fiber supplements, adequate fluid, and sitz baths) for the treatment of CAF for the duration of the study, including nonsteroidal anti-inflammatory drugs, acetylsalicylic acid (aspirin; except at low doses for cardiovascular prophylaxis [162 mg/day or ≤325 mg on alternate days]), acetaminophen (paracetamol), and any other analgesic for the treatment of headache or any other condition.
+Women and men aged 18 to 75 years were eligible to participate if they had a single, chronic posterior midline anal fissure accompanied by anal pain during the 6 weeks prior to screening and a 24-hour average pain score of ≥ 50 mm (on a 100-mm visual analog scale [VAS]) at baseline and on 2 of the 4 days before randomization, indicating moderate-to-severe pain. Evidence of at least one of the following criteria for chronic fissure also was required for study inclusion: sentinel skin tag, hypertrophied anal papillae, exposed internal anal sphincter, fibrotic fissure margins, or fibrotic anal sphincter. Patients had to be willing to discontinue or avoid nonprescription and prescription medicine (apart from conservative care fiber supplements, adequate fluid, and sitz baths) for the treatment of CAF for the duration of the study, including nonsteroidal anti-inflammatory drugs, acetylsalicylic acid (aspirin; except at low doses for cardiovascular prophylaxis [162 mg/day or ≤ 325 mg on alternate days]), acetaminophen (paracetamol), and any other analgesic for the treatment of headache or any other condition.
 
 Patients were ineligible if they had more than one anal fissure, fistula-in-ano or anal abscess, inflammatory bowel disease, fibrotic anal stenosis, anal fissure secondary to an underlying condition, or a history of anal surgery. Additional key exclusion criteria included a recent history of migraine or chronic headaches; hypotension or uncorrected hypovolemia; increased intracranial pressure or inadequate cerebral circulation; use of nitroglycerin or any other nitric oxide donors, potassium channel blockers, calcium channel blockers, phosphodiesterase type 5 inhibitors, or any medications that could cause a drop in blood pressure when given in combination with nitrates; and the presence of any chronic pain requiring treatment with prohibited medications.
 
@@ -1017,7 +1056,7 @@ The wounds were examined by a blinded independent observer at 2, 4, and 6 weeks 
 
 Results
 
-Of 80 participants (29 women, 51 men; median age, 23 (range, 17-49) years), 76 participants completed the trial (sucralfate, 39; placebo, 37). At 6-week follow-up, complete wound healing was achieved in 37 patients (95%) in the sucralfate group and 27 patients (73%) in the placebo group (P = .009). Mucosal coverage of the wound was significantly greater with sucralfate than with placebo at each measurement point (P = .01). No adverse events were observed. Postoperative pain scores were significantly lower for sucralfate than for placebo at 2 and 4 weeks after the start of treatment.
+Of 80 participants (29 women, 51 men; median age, 23 (range, 17–49) years), 76 participants completed the trial (sucralfate, 39; placebo, 37). At 6-week follow-up, complete wound healing was achieved in 37 patients (95%) in the sucralfate group and 27 patients (73%) in the placebo group (P = 0.009). Mucosal coverage of the wound was significantly greater with sucralfate than with placebo at each measurement point (P = 0.01). No adverse events were observed. Postoperative pain scores were significantly lower for sucralfate than for placebo at 2 and 4 weeks after the start of treatment.
 
 Limitations
 
@@ -1059,7 +1098,7 @@ Type 2.
 
 ### ETFAD / EADV eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children [^12c9fa72]. Journal of the European Academy of Dermatology and Venereology (2020). High credibility.
 
-Regarding nonpharmacologic interventions for atopic dermatitis, more specifically with respect to bathing, EADV/ETFAD 2020 guidelines recommend to advise regular bathing or showering in warm but not hot water about 2-7 times per week with very mild surfactant and emollient-based wash products in a 'soak-and-seal' approach.
+Regarding nonpharmacologic interventions for atopic dermatitis, more specifically with respect to bathing, EADV/ETFAD 2020 guidelines recommend to advise regular bathing or showering in warm but not hot water about 2–7 times per week with very mild surfactant and emollient-based wash products in a 'soak-and-seal' approach.
 
 ---
 
@@ -1071,7 +1110,7 @@ Regarding nonpharmacologic interventions for atopic dermatitis, more specificall
 
 ### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^f6eab1ff]. Wilderness & Environmental Medicine (2019). High credibility.
 
-Warm showers or baths—initial rewarming: A warm shower or bath should not be used for initial rewarming, even if a patient appears to be only mildly hypothermic (Evidence grade: 1C).
+Warm showers or baths — initial rewarming: A warm shower or bath should not be used for initial rewarming, even if a patient appears to be only mildly hypothermic (Evidence grade: 1C).
 
 ---
 
@@ -1083,7 +1122,7 @@ Regarding nonpharmacologic interventions for atopic dermatitis, more specificall
 
 ### Drinking water advisory communication toolbox. updated 2013 [^0174c44a]. CDC (2013). Medium credibility.
 
-Boil water advisory—ice and bathing guidance includes: "Do not use ice from ice trays, ice dispensers, or ice makers," "Throw out all ice made with tap water," and "Make new ice with boiled or bottled water." For hygiene, it advises, "Be careful not to swallow any water when bathing or showering," and "Use caution when bathing babies and young children. Consider giving them a sponge bath to reduce the chance of them swallowing water."
+Boil water advisory — ice and bathing guidance includes: "Do not use ice from ice trays, ice dispensers, or ice makers", "Throw out all ice made with tap water", and "Make new ice with boiled or bottled water". For hygiene, it advises, "Be careful not to swallow any water when bathing or showering", and "Use caution when bathing babies and young children. Consider giving them a sponge bath to reduce the chance of them swallowing water".
 
 ---
 
@@ -1097,7 +1136,7 @@ Atopic dermatitis is one of the most common complaints presenting to dermatologi
 
 Objective
 
-Pregnant women are advised to avoid heat stress (eg, excessive exercise and/or heat exposure) due to the risk of teratogenicity associated with maternal hyperthermia; defined as a core temperature (T core ) ≥39.0°C. However, guidelines are ambiguous in terms of critical combinations of climate and activity to avoid and may therefore unnecessarily discourage physical activity during pregnancy. Thus, the primary aim was to assess T core elevations with different characteristics defining exercise and passive heat stress (intensity, mode, ambient conditions, duration) during pregnancy relative to the critical maternal T core of ≥39.0°C.
+Pregnant women are advised to avoid heat stress (eg, excessive exercise and/or heat exposure) due to the risk of teratogenicity associated with maternal hyperthermia; defined as a core temperature (T core) ≥ 39.0°C. However, guidelines are ambiguous in terms of critical combinations of climate and activity to avoid and may therefore unnecessarily discourage physical activity during pregnancy. Thus, the primary aim was to assess T core elevations with different characteristics defining exercise and passive heat stress (intensity, mode, ambient conditions, duration) during pregnancy relative to the critical maternal T core of ≥ 39.0°C.
 
 Design
 
@@ -1113,11 +1152,11 @@ Studies reporting the T core response of pregnant women, at any period of gestat
 
 Results
 
-12 studies satisfied our inclusion criteria (n=347). No woman exceeded a T core of 39.0°C. The highest T core was 38.9°C, reported during land-based exercise. The highest mean end-trial T core was 38.3°C (95% CI 37.7°C to 38.9°C) for land-based exercise, 37.5°C (95% CI 37.3°C to 37.7°C) for water immersion exercise, 36.9°C (95% CI 36.8°C to 37.0°C) for hot water bathing and 37.6°C (95% CI 37.5°C to 37.7°C) for sauna exposure.
+12 studies satisfied our inclusion criteria (n = 347). No woman exceeded a T core of 39.0°C. The highest T core was 38.9°C, reported during land-based exercise. The highest mean end-trial T core was 38.3°C (95% CI 37.7°C to 38.9°C) for land-based exercise, 37.5°C (95% CI 37.3°C to 37.7°C) for water immersion exercise, 36.9°C (95% CI 36.8°C to 37.0°C) for hot water bathing and 37.6°C (95% CI 37.5°C to 37.7°C) for sauna exposure.
 
 Conclusion
 
-The highest individual core temperature reported was 38.9°C. Immediately after exercise (either land based or water immersion), the highest mean core temperature was 38.3°C; 0.7°C below the proposed teratogenic threshold. Pregnant women can safely engage in: (1) exercise for up to 35min at 80%-90% of their maximum heart rate in 25°C and 45% relative humidity (RH); (2) water immersion (≤33.4°C) exercise for up to 45min; and (3) sitting in hot baths (40°C) or hot/dry saunas (70°C; 15% RH) for up to 20min, irrespective of pregnancy stage, without reaching a core temperature exceeding the teratogenic threshold.
+The highest individual core temperature reported was 38.9°C. Immediately after exercise (either land based or water immersion), the highest mean core temperature was 38.3°C; 0.7°C below the proposed teratogenic threshold. Pregnant women can safely engage in: (1) exercise for up to 35min at 80%-90% of their maximum heart rate in 25°C and 45% relative humidity (RH); (2) water immersion (≤ 33.4°C) exercise for up to 45min; and (3) sitting in hot baths (40°C) or hot/dry saunas (70°C; 15% RH) for up to 20min, irrespective of pregnancy stage, without reaching a core temperature exceeding the teratogenic threshold.
 
 ---
 
@@ -1131,21 +1170,21 @@ The risk of cold was the main factor in determining the time of the bath. Women 
 
 ### Unavoidable risks: local perspectives on water contact behavior and implications for schistosomiasis control in an agricultural region of Northern Senegal [^850ca942]. The American Journal of Tropical Medicine and Hygiene (2019). Medium credibility.
 
-Children only know swimming. You know, they are happy when they bathe. It’s a kind of a pool. They like that. In this moment, if you go to the lake, you find children in the process of bathing. It’s this that… gives us bilharzia. (68-year-old female gardener, Lake Village W)
+Children only know swimming. You know, they are happy when they bathe. It's a kind of a pool. They like that. In this moment, if you go to the lake, you find children in the process of bathing. It's this that… gives us bilharzia. (68-year-old female gardener, Lake Village W)
 
 Adult participants in focus group discussions often emphasized the importance of protecting children from schistosomiasis. Some mentioned that they forbid their children from going to the water points at hot times of day. They also said that many parents do not enforce rules about water contact with their children. Following this thread, the same woman from Lake Village W continued:
 
 Nobody now controls their children. No one controls anything anymore. They [the children] are there [at the water access point]. Every child who pees, he pees blood. Because now we sit and let the children be. They will bathe. Nobody holds them back. If we had said, if they have given up bathing only, bilharzia would leave here. Because she [schistosomiasis] had left here. But she [schistosomiasis] came back. Because we let the children swim, swim, swim. (68-year-old female gardener, Lake Village W)
 
-Even so, for those parents who did make rules regulating their children’s contact with water, adult focus group participants described the difficulty of enforcing rules. With these hurdles to reducing exposure among kids along with the health-livelihood trade-offs that many adults face, it is understandable that the local sentiment of schistosomiasis being an unavoidable artifact of the disturbed landscape has become pervasive. A 60-year-old female gardener from Lake Village W articulated this sense of inescapability:
+Even so, for those parents who did make rules regulating their children's contact with water, adult focus group participants described the difficulty of enforcing rules. With these hurdles to reducing exposure among kids along with the health-livelihood trade-offs that many adults face, it is understandable that the local sentiment of schistosomiasis being an unavoidable artifact of the disturbed landscape has become pervasive. A 60-year-old female gardener from Lake Village W articulated this sense of inescapability:
 
-It [water contact]’s not good for you. It’s not good. But we have no choice… Because we, we are near the lake. If you say that I will not do it [go to the lake] … it is certainly not possible. It cannot happen like this. Fortunately, we pray for ourselves and he [Allah] gives us medicine [praziquantel]… But we cannot protect ourselves… we are not easy to protect. (60-year-old female gardener, Lake Village W)
+It [water contact]'s not good for you. It's not good. But we have no choice… Because we, we are near the lake. If you say that I will not do it [go to the lake]… it is certainly not possible. It cannot happen like this. Fortunately, we pray for ourselves and he [Allah] gives us medicine [praziquantel]… But we cannot protect ourselves… we are not easy to protect. (60-year-old female gardener, Lake Village W)
 
 ---
 
 ### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^f8f6b929]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
-Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%–100% failure) and >90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
+Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%–100% failure) and > 90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
 
 ---
 
@@ -1155,19 +1194,19 @@ HWI
 
 Passive heating, using hot water (40°C) immersion for 40 min, was selected based on its high practical value; baths are accessible to most, and the protocol will have minimal effect on training schedules. The water temperature of 40°C is below the thermal pain threshold, and pilot testing confirmed that the proposed protocol was challenging but tolerable. This seemed a good balance between providing a strong enough stimulus but still achievable for all to complete.
 
-Participants sat in a neutral room for 5–10 min while a 5-min baseline value of physiological and perceptual responses was collected. They then entered the bath (Lay-Z-Spa BW54113 Monaco 2018 Model, Shanghai, China), which was set at 40°C, for 40 min. Water temperature was recorded using a PT100 sensor (GMH3750-SET1; Greisinger electronic GmbH, Germany) every 5 min. Participants were required to keep their shoulders under the water; however, this protocol is challenging and the risk of syncope is high. Participants were allowed “relief” breaks for 2 min, every 10 min, whereby they could sit on a stool, with the lower body still submerged to provide some relief from the oppressive bath temperature. If T re rose >39°C, participants were required to sit on a stool with the water to their waist. While immersed, participants were free to drink water ad libitum, and the volume consumed was recorded. During immersion, T re and heart rate were monitored continuously, and thermal sensation and thermal comfort were reported every 5 min. Immersion ended after 40 min unless the participants withdrew themselves or T re exceeded 39.5°C. After immersion, participants lay supine for a minimum of 10 min and sat upright for a minimum of 5 min to ensure T re began to decline and blood pressure appeared well regulated.
+Participants sat in a neutral room for 5–10 min while a 5-min baseline value of physiological and perceptual responses was collected. They then entered the bath (Lay-Z-Spa BW54113 Monaco 2018 Model, Shanghai, China), which was set at 40°C, for 40 min. Water temperature was recorded using a PT100 sensor (GMH3750-SET1; Greisinger electronic GmbH, Germany) every 5 min. Participants were required to keep their shoulders under the water; however, this protocol is challenging and the risk of syncope is high. Participants were allowed "relief" breaks for 2 min, every 10 min, whereby they could sit on a stool, with the lower body still submerged to provide some relief from the oppressive bath temperature. If T re rose > 39°C, participants were required to sit on a stool with the water to their waist. While immersed, participants were free to drink water ad libitum, and the volume consumed was recorded. During immersion, T re and heart rate were monitored continuously, and thermal sensation and thermal comfort were reported every 5 min. Immersion ended after 40 min unless the participants withdrew themselves or T re exceeded 39.5°C. After immersion, participants lay supine for a minimum of 10 min and sat upright for a minimum of 5 min to ensure T re began to decline and blood pressure appeared well regulated.
 
 ---
 
 ### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^82d9f60c]. Pain Physician (2023). High credibility.
 
-Synthetic drugs and bath salts—availability, effects, and warnings are described: Some of these bath salts are found at gas stations and head shops, with common adverse effects including psychosis, combativeness, and aggressiveness; they are often labeled for non-human consumption and resemble Epsom salts. Flakka, Spice/K2, and U-4770 are characterized as emerging highly potent synthetic drugs, with Spice resembling THC and U-4770 a synthetic opioid. These substances are urged to be kept from young children and animals and are not recommended for humans at any level.
+Synthetic drugs and bath salts — availability, effects, and warnings are described: Some of these bath salts are found at gas stations and head shops, with common adverse effects including psychosis, combativeness, and aggressiveness; they are often labeled for non-human consumption and resemble Epsom salts. Flakka, Spice/K2, and U-4770 are characterized as emerging highly potent synthetic drugs, with Spice resembling THC and U-4770 a synthetic opioid. These substances are urged to be kept from young children and animals and are not recommended for humans at any level.
 
 ---
 
 ### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^fcf604a5]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
-Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%-100% failure) and >90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
+Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%-100% failure) and > 90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
 
 ---
 
@@ -1179,7 +1218,7 @@ Hemorrhoidectomy is a common surgical procedure. Despite the assumed simplicity 
 
 The mechanism of post-hemorrhoidectomy retention (PHUR) is multifactorial. The exact mechanism may include autonomic system imbalance or detrusor muscle dysfunction. The risk factors include the type of anesthesia, use of opioids, the surgical technique, female gender, and the volume of the intravenous fluids.
 
-Employed strategies to decrease the incidence of PHUR involved comparing different surgical techniques, fluid restriction, sitz bath, and alpha blocker medications [–,]. Postoperative pain was also associated with a higher incidence of urinary retention after anal surgeries, necessitating adequate analgesic plan.
+Employed strategies to decrease the incidence of PHUR involved comparing different surgical techniques, fluid restriction, sitz bath, and alpha blocker medications. Postoperative pain was also associated with a higher incidence of urinary retention after anal surgeries, necessitating adequate analgesic plan.
 
 Pudendal nerve block (PNB) was successfully used to alleviate pain and urinary symptoms after anal surgeries. PNB was associated with a significantly lower incidence of urinary symptoms and retention in different surgeries involving the perineal region. In our study, we applied the trans-perineal approach for ultrasound-guided pudendal nerve block in cases of hemorrhoidectomy under general anesthesia. The applied block was be performed in lithotomy position which is traditionally used for anal surgeries. Also, the ultrasound guidance allowed employing a small local anesthetic (LA) dose, minimizing the possible complications.
 
@@ -1189,17 +1228,17 @@ This study hypothesizes that US-guided trans-perineal approach is a safe and app
 
 ### Is sauna bathing protective of sudden cardiac death? A review of the evidence [^d6a62d95]. Progress in Cardiovascular Diseases (2019). Medium credibility.
 
-Sudden cardiac death (SCD) is a global public health burden accounting for 15-20% of all deaths. Though established atherosclerotic risk factors explain a large proportion of the risk of SCD, these factors are often absent in a large proportion of SCD victims and the pathogenesis of SCD is still not fully established. It therefore appears that additional factors may be involved. Sauna bathing is a traditional Finnish activity that is mainly used for the purposes of relaxation and pleasure. Beyond its use for these purposes, sauna bathing has been linked with several health benefits. Emerging evidence suggests that sauna bathing is associated with reduced risk of adverse cardiovascular (CV) disease (CVD) and non-CVD outcomes as well as mortality. A number of reports have linked sauna bathing with reduced or increased risk of SCD, but the evidence is uncertain. This review summarizes available studies linking sauna bathing with SCD, the postulated mechanistic pathways underlying these associations, outlines areas of outstanding uncertainty, and the implications for prevention. We employed a comprehensive search for observational studies, randomized controlled trials (RCTs), and non-RCTs from MEDLINE and Embase since their inception until March 2019. Observational data suggest that regular sauna bathing is associated with a substantial risk reduction in SCD. Furthermore, the data suggest that a combination of regular physical activity and sauna baths confers substantial risk reduction for SCD compared with either modality alone. Few reports have linked sauna baths with SCDs, but these single case incidents have been attributed to the effects of dehydration, hypotension, and cardiac arrhythmias due to a combination of sauna exposure and alcohol consumption. Sauna bathing is generally safe for most healthy people and even among patients with stable CVD, if used sensibly and with caution. Plausible pathways underlying the protective effect of sauna bathing on SCD may be linked to the impact on CV function via reduced arterial stiffness, decreases in inflammation and oxidative stress, stabilization of the autonomic nervous system, beneficial changes in circulating lipid profiles and other CVD risk markers, and lowering of systemic blood pressure. Sauna is a potential novel tool to promote SCD prevention in addition to other known means, being an enjoyable way to take care of general health and well-being.
+Sudden cardiac death (SCD) is a global public health burden accounting for 15–20% of all deaths. Though established atherosclerotic risk factors explain a large proportion of the risk of SCD, these factors are often absent in a large proportion of SCD victims and the pathogenesis of SCD is still not fully established. It therefore appears that additional factors may be involved. Sauna bathing is a traditional Finnish activity that is mainly used for the purposes of relaxation and pleasure. Beyond its use for these purposes, sauna bathing has been linked with several health benefits. Emerging evidence suggests that sauna bathing is associated with reduced risk of adverse cardiovascular (CV) disease (CVD) and non-CVD outcomes as well as mortality. A number of reports have linked sauna bathing with reduced or increased risk of SCD, but the evidence is uncertain. This review summarizes available studies linking sauna bathing with SCD, the postulated mechanistic pathways underlying these associations, outlines areas of outstanding uncertainty, and the implications for prevention. We employed a comprehensive search for observational studies, randomized controlled trials (RCTs), and non-RCTs from MEDLINE and Embase since their inception until March 2019. Observational data suggest that regular sauna bathing is associated with a substantial risk reduction in SCD. Furthermore, the data suggest that a combination of regular physical activity and sauna baths confers substantial risk reduction for SCD compared with either modality alone. Few reports have linked sauna baths with SCDs, but these single case incidents have been attributed to the effects of dehydration, hypotension, and cardiac arrhythmias due to a combination of sauna exposure and alcohol consumption. Sauna bathing is generally safe for most healthy people and even among patients with stable CVD, if used sensibly and with caution. Plausible pathways underlying the protective effect of sauna bathing on SCD may be linked to the impact on CV function via reduced arterial stiffness, decreases in inflammation and oxidative stress, stabilization of the autonomic nervous system, beneficial changes in circulating lipid profiles and other CVD risk markers, and lowering of systemic blood pressure. Sauna is a potential novel tool to promote SCD prevention in addition to other known means, being an enjoyable way to take care of general health and well-being.
 
 ---
 
 ### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^cd030876]. BMC Pediatrics (2015). Low credibility.
 
-‘I asked the traditional birth attendant ‘why not bath the baby today?’, she told me in the hospital they … don’t allow you to bath you have to wait up to tomorrow… the traditional birth attendant follows directions which she hears from the hospital’ [34 year old Tanzanian mother]
+'I asked the traditional birth attendant 'why not bath the baby today?', she told me in the hospital they… don't allow you to bath you have to wait up to tomorrow… the traditional birth attendant follows directions which she hears from the hospital' [34 year old Tanzanian mother]
 
-‘Since her baby did not have that white thing on his skin, he was bathed later’ [35 year old Ethiopian mother]
+'Since her baby did not have that white thing on his skin, he was bathed later' [35 year old Ethiopian mother]
 
-Findings from all respondent groups show that in Tanzania and Nigeria warm water was used for the first bath as the baby was perceived as delicate, could get cold, and because warm water gives strength and cold water could shock the baby and make it sick: ‘The baby’s body is very soft and delicate at this tender age and that is why in this community we normally bathe the baby with warm water’ [65 year old Borno grandmother]. In Ethiopia, water temperature varied with some mothers, particularly those in lowland areas, reporting that they used unheated water to get the baby used to cold water or to help the baby feel warm: ‘ If a baby is bathed with cold water, the cold will not get in to her body. She will not feel the cold and will not shiver. But if a baby is bathed with warm water, she will feel cold and shiver when she gets out of the warm water’ [46 year old Ethiopian grandmother]. Other Ethiopian mothers reported using warm water for similar reasons to those given in other sites.
+Findings from all respondent groups show that in Tanzania and Nigeria warm water was used for the first bath as the baby was perceived as delicate, could get cold, and because warm water gives strength and cold water could shock the baby and make it sick: 'The baby's body is very soft and delicate at this tender age and that is why in this community we normally bathe the baby with warm water' [65 year old Borno grandmother]. In Ethiopia, water temperature varied with some mothers, particularly those in lowland areas, reporting that they used unheated water to get the baby used to cold water or to help the baby feel warm: ' If a baby is bathed with cold water, the cold will not get in to her body. She will not feel the cold and will not shiver. But if a baby is bathed with warm water, she will feel cold and shiver when she gets out of the warm water' [46 year old Ethiopian grandmother]. Other Ethiopian mothers reported using warm water for similar reasons to those given in other sites.
 
 ---
 
@@ -1207,16 +1246,16 @@ Findings from all respondent groups show that in Tanzania and Nigeria warm water
 
 Haemorrhoids
 
-Conservative approach was initially adopted in all the patients; in absence of diarrhoea, it included high fibre diet, fibre supplements and oral fluids intake in order to produce soft, well-formed stools and regular bowel movements. Warm Sitz baths were also suggested. Oral diosmin was added to this first line therapy if symptoms persisted after 12 weeks or in case of thrombosis at the first outpatient visit. Moreover it represented the main treatment in CD patients with frequent diarrhoea (n = 5).
+Conservative approach was initially adopted in all the patients; in absence of diarrhoea, it included high fibre diet, fibre supplements and oral fluids intake in order to produce soft, well-formed stools and regular bowel movements. Warm Sitz baths were also suggested. Oral diosmin was added to this first line therapy if symptoms persisted after 12 weeks or in case of thrombosis at the first outpatient visit. Moreover it represented the main treatment in CD patients with frequent diarrhoea (n = 5).
 
-This conservative approach failed in 17 (37.8%) out 45 patients. Indication to surgical treatment in the nine patients with known CD at the time of evaluation was given only in case of stable intestinal disease, without need of steroid medications and with CDAI < 150.
+This conservative approach failed in 17 (37.8%) out 45 patients. Indication to surgical treatment in the nine patients with known CD at the time of evaluation was given only in case of stable intestinal disease, without need of steroid medications and with CDAI < 150.
 
 Table 3 resumes types of surgical approach and overall complications in this group of patients; moreover the statistical analysis between the two subgroups is reported.
 
-Table 3 
-Treatments and postoperative complications after failure of conservative management of haemorrhoids (n = 17)
+Table 3
+Treatments and postoperative complications after failure of conservative management of haemorrhoids (n = 17)
 
-Mean time to complete healing after surgery was 38 ± 8 days.
+Mean time to complete healing after surgery was 38 ± 8 days.
 
 The most common complication was postoperative bleeding, observed in 3 (17.6%) out 17 patients, during the first four days postoperatively. One bleeding was self-limiting, while the other two required Emergency Room visits, during which local compression with hemostatic gauze (Tabotamp, Johnson & Johnson) was effective.
 
@@ -1226,19 +1265,19 @@ During the follow up we observed two (11.8%) postoperative anal fissures, effect
 
 ### Atopic dermatitis: update on skin-directed management: clinical report [^23ffb9e6]. Pediatrics (2025). High credibility.
 
-Pediatric atopic dermatitis (AD)—general skin-directed management recommendations include: “Bathing should be frequent (daily to every other day) and short, with lukewarm water and gentle cleanser”; “Avoid products with added fragrance, dyes, or essential oils, as these are potential irritants and/or contact allergens”; “Topical anti-inflammatories (corticosteroids, calcineurin inhibitors, etc) should be applied once to twice daily to active eczema patches” and “Topical medications should not be mixed with topical emollients unless specifically instructed, as this dilutes the potency of the medication”; “Moisturizers should be applied liberally to the entire body skin surface at least daily in patients with atopic dermatitis, especially after a bath or shower”; and “Proactive” treatment with topical anti-inflammatories can reduce flares of recurrent AD.
+Pediatric atopic dermatitis (AD) — general skin-directed management recommendations include: "Bathing should be frequent (daily to every other day) and short, with lukewarm water and gentle cleanser"; "Avoid products with added fragrance, dyes, or essential oils, as these are potential irritants and/or contact allergens"; "Topical anti-inflammatories (corticosteroids, calcineurin inhibitors, etc) should be applied once to twice daily to active eczema patches" and "Topical medications should not be mixed with topical emollients unless specifically instructed, as this dilutes the potency of the medication"; "Moisturizers should be applied liberally to the entire body skin surface at least daily in patients with atopic dermatitis, especially after a bath or shower"; and "Proactive" treatment with topical anti-inflammatories can reduce flares of recurrent AD.
 
 ---
 
 ### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^52f82716]. Journal of the American Academy of Dermatology (2023). High credibility.
 
-Atopic dermatitis (AD) non-prescription therapies—For adults with AD, we recommend the use of moisturizers and the remark clarifies that “The use of a particular moisturizer or active ingredient in an emollient cannot be recommended based on the limited available evidence.” For bathing, “we conditionally recommend bathing for treatment and maintenance,” with the remark that “A standard for the frequency or duration of bathing appropriate for those with AD cannot be suggested based on the limited available evidence.” For flares, “For adults with moderate-to-severe AD experiencing a flare, we conditionally recommend the use of wet dressings.”
+Atopic dermatitis (AD) non-prescription therapies — For adults with AD, we recommend the use of moisturizers and the remark clarifies that "The use of a particular moisturizer or active ingredient in an emollient cannot be recommended based on the limited available evidence." For bathing, "we conditionally recommend bathing for treatment and maintenance," with the remark that "A standard for the frequency or duration of bathing appropriate for those with AD cannot be suggested based on the limited available evidence." For flares, "For adults with moderate-to-severe AD experiencing a flare, we conditionally recommend the use of wet dressings."
 
 ---
 
 ### Atopic dermatitis and food allergy: best practices and knowledge gaps – A work group report from the AAAAI allergic skin diseases committee and leadership institute project [^edeff26e]. The Journal of Allergy and Clinical Immunology: In Practice (2022). High credibility.
 
-Atopic dermatitis skin care (Table 1)—bathing, cleansing, moisturizing, and anti-inflammatory use are specified as follows: “Bath or shower for 5-10 minutes in lukewarm water, a comfortable temperature but not too hot,” and “Optimal bathing frequency is once daily.” If using topicals, “they should be applied first to inflamed skin within minutes of patting dry,” and “A fragrance-free cream or ointment moisturizer should be applied to all other skin subsequently.” For cleansing, “A gentle, fragrance-free cleanser should be used,” “Bubble baths should be avoided,” and “Dilute bleach baths may be recommended.” For anti-inflammatories, “Apply a thin layer of the appropriate strength anti-inflammatory medication to the affected area(s) until clear, and then 3-5 days after clearing, up to 14 consecutive days unless otherwise directed.” The table adds that “For those children who do not bathe every day, a moisturizer should still be applied twice daily,” and that “Infants may need little to no cleanser or shampoo; true soap should be avoided in all patients.”
+Atopic dermatitis skin care (Table 1) — bathing, cleansing, moisturizing, and anti-inflammatory use are specified as follows: "Bath or shower for 5–10 minutes in lukewarm water, a comfortable temperature but not too hot," and "Optimal bathing frequency is once daily." If using topicals, "they should be applied first to inflamed skin within minutes of patting dry," and "A fragrance-free cream or ointment moisturizer should be applied to all other skin subsequently." For cleansing, "A gentle, fragrance-free cleanser should be used," "Bubble baths should be avoided," and "Dilute bleach baths may be recommended." For anti-inflammatories, "Apply a thin layer of the appropriate strength anti-inflammatory medication to the affected area(s) until clear, and then 3–5 days after clearing, up to 14 consecutive days unless otherwise directed." The table adds that "For those children who do not bathe every day, a moisturizer should still be applied twice daily," and that "Infants may need little to no cleanser or shampoo; true soap should be avoided in all patients."
 
 ---
 
@@ -1246,17 +1285,17 @@ Atopic dermatitis skin care (Table 1)—bathing, cleansing, moisturizing, and an
 
 Postoperative treatment
 
-(1) Postoperative analgesia: Oral analgesics, either alone or in combination with intramuscular analgesic drugs, were routinely administered on the day following surgery. (2) Postoperative anti-infection therapy: Antibiotics were administered to patients with severe DPA accompanied by local perianal and perineal infections, or those with systemic infections, diabetes. Complete blood counts were reassessed on the first and third days post-surgery. Antibiotic treatment was discontinued once the blood count returned to normal, and antibiotics were adjusted, if necessary, based on the results of the pus culture. (3) Postoperative dressing change and fumigation: 24 h post-surgery, remove the gauze packing from the abscess cavity and irrigate the cavity with a compound Huangbai solution. From the second day onwards, herbal sitz baths were administered twice daily in warm water (40 °C) for 10 to 15 min after defecation. Specialized proctology dressing changes were performed twice daily, supplemented with bedside infrared and microwave physiotherapy, until the patient was discharged. (4) Removal of postoperative drainage tube: The drainage tube placed in the abscess cavity postoperatively was gradually withdrawn daily, starting one week after surgery, based on the drainage condition, until it was completely removed. For the annular drainage tube, it was replaced with a rubber band drainage one week later. The rubber band drainage was changed from double to single strands after one week, depending on the secretion condition, and was completely removed after a few days. The principles for removing the rubber bands were as follows: from top to bottom (removing the upper abscess cavity drainage bands first and the lower ones last), and from outside to inside (removing the outermost abscess cavity drainage bands first and the innermost ones last).
+(1) Postoperative analgesia: Oral analgesics, either alone or in combination with intramuscular analgesic drugs, were routinely administered on the day following surgery. (2) Postoperative anti-infection therapy: Antibiotics were administered to patients with severe DPA accompanied by local perianal and perineal infections, or those with systemic infections, diabetes. Complete blood counts were reassessed on the first and third days post-surgery. Antibiotic treatment was discontinued once the blood count returned to normal, and antibiotics were adjusted, if necessary, based on the results of the pus culture. (3) Postoperative dressing change and fumigation: 24 h post-surgery, remove the gauze packing from the abscess cavity and irrigate the cavity with a compound Huangbai solution. From the second day onwards, herbal sitz baths were administered twice daily in warm water (40 °C) for 10 to 15 min after defecation. Specialized proctology dressing changes were performed twice daily, supplemented with bedside infrared and microwave physiotherapy, until the patient was discharged. (4) Removal of postoperative drainage tube: The drainage tube placed in the abscess cavity postoperatively was gradually withdrawn daily, starting one week after surgery, based on the drainage condition, until it was completely removed. For the annular drainage tube, it was replaced with a rubber band drainage one week later. The rubber band drainage was changed from double to single strands after one week, depending on the secretion condition, and was completely removed after a few days. The principles for removing the rubber bands were as follows: from top to bottom (removing the upper abscess cavity drainage bands first and the lower ones last), and from outside to inside (removing the outermost abscess cavity drainage bands first and the innermost ones last).
 
 Follow‑up
 
-All patients underwent outpatient follow-up evaluations after discharge, during which the surgeon assessed wound healing, therapeutic efficacy, and anal function based on predefined primary and secondary outcome measures. During the first two months postoperatively, patients attended outpatient reviews twice a week. Follow-up assessments were conducted via telephone 6 months later and continued for a total of 12 months. Specialized examinations, such as transrectal ultrasound, perianal MRI, and anorectal manometry, were performed when necessary.
+All patients underwent outpatient follow-up evaluations after discharge, during which the surgeon assessed wound healing, therapeutic efficacy, and anal function based on predefined primary and secondary outcome measures. During the first two months postoperatively, patients attended outpatient reviews twice a week. Follow-up assessments were conducted via telephone 6 months later and continued for a total of 12 months. Specialized examinations, such as transrectal ultrasound, perianal MRI, and anorectal manometry, were performed when necessary.
 
 ---
 
 ### Atopic dermatitis (eczema) guidelines: 2023 American academy of allergy, asthma and immunology / American college of allergy, asthma and immunology joint task force on practice parameters GRADE-and institute of medicine-based recommendations [^736562b7]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
-Atopic dermatitis—Recommendation 12 (mild disease; dilute bleach baths): In patients with mild atopic dermatitis, the JTF panel suggests against adding dilute bleach baths to topical therapy (no dilute-bleach based) baths (conditional recommendation, low-certainty evidence). The estimated treatment effect of dilute bleach baths for milder AD (eg, EASI of 10) was, on average, small (−2.2 points in comparison to a minimally important difference of 6.6). The guideline panel inferred that most well-informed patients with mild AD are likely to place a high value on maintaining a simple treatment routine that is minimally disruptive, and most fully informed patients are likely to value avoidance of the burdens of bleach baths and their uncertain harms over likely a small, possibly unimportant, benefit in AD severity, while acknowledging substantial variability in values such that a number of patients might opt for adjunctive dilute bleach baths even if disease activity is mild.
+Atopic dermatitis — Recommendation 12 (mild disease; dilute bleach baths): In patients with mild atopic dermatitis, the JTF panel suggests against adding dilute bleach baths to topical therapy (no dilute-bleach based) baths (conditional recommendation, low-certainty evidence). The estimated treatment effect of dilute bleach baths for milder AD (eg, EASI of 10) was, on average, small (−2.2 points in comparison to a minimally important difference of 6.6). The guideline panel inferred that most well-informed patients with mild AD are likely to place a high value on maintaining a simple treatment routine that is minimally disruptive, and most fully informed patients are likely to value avoidance of the burdens of bleach baths and their uncertain harms over likely a small, possibly unimportant, benefit in AD severity, while acknowledging substantial variability in values such that a number of patients might opt for adjunctive dilute bleach baths even if disease activity is mild.
 
 ---
 
@@ -1264,9 +1303,9 @@ Atopic dermatitis—Recommendation 12 (mild disease; dilute bleach baths): In pa
 
 Postoperative management
 
-The definition of the five postoperative complications in this study included: (1) Anal stenosis: patients have postoperative anal stenosis and cannot undergo anal digital examination and have symptoms such as difficulty in defecation and pain. (2) Delayed bleeding: unexpected bleeding occurs 24 h after the operation, and patients required emergency room or outpatient treatment. (3) Fecal impaction: the difficulty of postoperative defecation and patients need to excavate the feces through an enema or digital anus examination. (4) Urine retention: The difficulty of postoperative urination and require catheterization. (5) Wound infection: the wound has persistent redness, swelling, heat, and pain after the operation.
+The definition of the five postoperative complications in this study included: (1) Anal stenosis: patients have postoperative anal stenosis and cannot undergo anal digital examination and have symptoms such as difficulty in defecation and pain. (2) Delayed bleeding: unexpected bleeding occurs 24 h after the operation, and patients required emergency room or outpatient treatment. (3) Fecal impaction: the difficulty of postoperative defecation and patients need to excavate the feces through an enema or digital anus examination. (4) Urine retention: The difficulty of postoperative urination and require catheterization. (5) Wound infection: the wound has persistent redness, swelling, heat, and pain after the operation.
 
-Postoperatively, all patients were prescribed oral metronidazole (250 mg four times daily) for 5 days and a bulk laxative (Normal 1 pk/day) for 2 weeks. Postoperatively, all patients were prescribed oral metronidazole (250 mg four times daily) for 5 days and a bulk laxative (Normal 1 pk/day) for 2 weeks. After the hemorrhoidectomy, oral metronidazole was used as it was previous revealed as a cheap, safe, and effective intervention for reducing postoperative pain referring. Oral diclofenac, 75 mg twice a day, was given for pain control. If patients could not tolerate the pain, morphine (5 mg IV per time) or ketoprofen (30 mg IM per time) was given as needed every 6 h. Patients were instructed to irrigate the anal wound with warm water or sitz baths three times a day, and after every bowel movement. The neomycin ointment was prescribed for topical uses. In the morning of each postoperative day during hospitalization, the patients were instructed to complete a subjective pain survey using a visual analogue scale (VAS) ranging from 0 (no pain) to 10 (the worst pain). Patients were not discharged from the hospital until their pain was considered tolerably with oral analgesics, and there were no postoperative complications. After discharge, patients returned to the outpatient clinic at 2-week intervals for at least 3 visits. All the patients received follow-up at OPD for at least 6 weeks. The digital examination was performed to detect any possible stenosis. Patients were instructed to return to the clinic if any problems occurred in the future.
+Postoperatively, all patients were prescribed oral metronidazole (250 mg four times daily) for 5 days and a bulk laxative (Normal 1 pk/day) for 2 weeks. Postoperatively, all patients were prescribed oral metronidazole (250 mg four times daily) for 5 days and a bulk laxative (Normal 1 pk/day) for 2 weeks. After the hemorrhoidectomy, oral metronidazole was used as it was previous revealed as a cheap, safe, and effective intervention for reducing postoperative pain referring. Oral diclofenac, 75 mg twice a day, was given for pain control. If patients could not tolerate the pain, morphine (5 mg IV per time) or ketoprofen (30 mg IM per time) was given as needed every 6 h. Patients were instructed to irrigate the anal wound with warm water or sitz baths three times a day, and after every bowel movement. The neomycin ointment was prescribed for topical uses. In the morning of each postoperative day during hospitalization, the patients were instructed to complete a subjective pain survey using a visual analogue scale (VAS) ranging from 0 (no pain) to 10 (the worst pain). Patients were not discharged from the hospital until their pain was considered tolerably with oral analgesics, and there were no postoperative complications. After discharge, patients returned to the outpatient clinic at 2-week intervals for at least 3 visits. All the patients received follow-up at OPD for at least 6 weeks. The digital examination was performed to detect any possible stenosis. Patients were instructed to return to the clinic if any problems occurred in the future.
 
 ---
 
@@ -1276,13 +1315,13 @@ Results
 
 Perception of warmth
 
-All respondent groups in all sites understood the need to keep newborns warm, especially if the weather was cold. This was linked to a belief that babies were used to the warmth in the womb and were fragile: ‘When a baby was yet to be born the womb where he was was very hot, that is why if a baby is delivered he wants to be keep warm at all time’ [42 year old Borno mother], and a belief that cold could cause illness ‘Cold can make them have chest pain, the air goes inside the chest of the baby and makes the baby fail to breath properly’ [35 year old Tanzanian mother]. Mothers and grandmothers described cold air entering the body rather than the baby losing body heat.
+All respondent groups in all sites understood the need to keep newborns warm, especially if the weather was cold. This was linked to a belief that babies were used to the warmth in the womb and were fragile: 'When a baby was yet to be born the womb where he was was very hot, that is why if a baby is delivered he wants to be keep warm at all time' [42 year old Borno mother], and a belief that cold could cause illness 'Cold can make them have chest pain, the air goes inside the chest of the baby and makes the baby fail to breath properly' [35 year old Tanzanian mother]. Mothers and grandmothers described cold air entering the body rather than the baby losing body heat.
 
 Respondents were asked how newborns were kept warm in their communities. Themes across the sites were dressing/wrapping the baby well and applying emollients to the skin. Other themes were: bathing the baby with warm water (all sites except Borno); putting the baby on the back (all sites except Ethiopia); delaying the first bath (Ethiopia and Tanzania only) and warming the house in general or during bathing (all sites except Tanzania):
 
-‘She puts heavy clothes, socks, hat and she warms oil …and rubs on the body of the baby …also she bathes the baby with warm water [28 year old Tanzanian mother]
+'She puts heavy clothes, socks, hat and she warms oil… and rubs on the body of the baby… also she bathes the baby with warm water [28 year old Tanzanian mother]
 
-‘We set a fire in order to warm the room and bathe the baby near the fire. A house with a newborn should always stay warm’ [25 year old Ethiopian mother]
+'We set a fire in order to warm the room and bathe the baby near the fire. A house with a newborn should always stay warm' [25 year old Ethiopian mother]
 
 During the bathing observations in Ethiopia, we observed that young babies were bathed inside very close to heavily smoking fires.
 
@@ -1290,7 +1329,7 @@ During the bathing observations in Ethiopia, we observed that young babies were 
 
 ### Committee opinion no. 676: health literacy to promote quality of care [^3ff543f0]. Obstetrics and Gynecology (2016). Medium credibility.
 
-Health literacy—developing written materials for patients—Develop written materials, keep the messages simple, and limit the number of messages (the general guideline is four main messages). Focus on action with specific recommendations based on behavior (eg, “Take a warm-water bath two times a day”). Use the active voice instead of the passive voice, use familiar language and avoid jargon, and use visual aids, such as drawings or models, for key points. Use at least a 12-point type size to make the messages easy to read and leave plenty of white space around margins and between sections.
+Health literacy — developing written materials for patients — Develop written materials, keep the messages simple, and limit the number of messages (the general guideline is four main messages). Focus on action with specific recommendations based on behavior (eg, "Take a warm-water bath two times a day"). Use the active voice instead of the passive voice, use familiar language and avoid jargon, and use visual aids, such as drawings or models, for key points. Use at least a 12-point type size to make the messages easy to read and leave plenty of white space around margins and between sections.
 
 ---
 
@@ -1306,9 +1345,9 @@ Discussion
 
 Many of the thermal care practices were suboptimal. Of particular note was the near universal early bathing of babies in both Nigerian sites, the length of time babies are left undressed during bathing in Ethiopia, and a common belief that bathing with warm water keeps the baby warm.
 
-The link between delayed bathing and body odour later in life has been found in other West African countries but not in East Africa [,–]. Encouragingly, interventions in Asia have successfully changed bathing practices, but results from African trials have been less impressive. Given the regional nature of this deep-rooted belief in the importance of early bathing, behaviour change may be slower in West African countries and programme planners and implementers should be realistic about the time required for behaviour change interventions to have an effect.
+The link between delayed bathing and body odour later in life has been found in other West African countries but not in East Africa. Encouragingly, interventions in Asia have successfully changed bathing practices, but results from African trials have been less impressive. Given the regional nature of this deep-rooted belief in the importance of early bathing, behaviour change may be slower in West African countries and programme planners and implementers should be realistic about the time required for behaviour change interventions to have an effect.
 
-Despite significant variation in contexts, we found similarities across sites in relation to understanding the importance of warmth, a lack of opportunities for skin to skin care, multiple baths in a day and negative views of the vernix. An understanding of the importance of newborn warmth has been found in other African studies [,,,–], and makes the adoption of appropriate thermal care practices more likely. Skin to skin care was not practised in any of the study sites, even in facilities, and in most cases the baby was physically away from the mother immediately after birth. In Nigeria and Tanzania, respondents mentioned putting the baby on the back to keep them warm, suggesting an understanding that the warmth of the mother can pass to the baby. This understanding may facilitate the adoption of skin to skin care. Only one African study has explored mothers’ actual experiences of skin-to-skin care and identified concerns around disease transmission, harm to the umbilicus, being dirty after birth, and the effect on maternal rest. Mothers liked having immediate access to the baby, feeling close and starting breastfeeding early. More research on the acceptability of skin to skin care is needed.
+Despite significant variation in contexts, we found similarities across sites in relation to understanding the importance of warmth, a lack of opportunities for skin to skin care, multiple baths in a day and negative views of the vernix. An understanding of the importance of newborn warmth has been found in other African studies, and makes the adoption of appropriate thermal care practices more likely. Skin to skin care was not practised in any of the study sites, even in facilities, and in most cases the baby was physically away from the mother immediately after birth. In Nigeria and Tanzania, respondents mentioned putting the baby on the back to keep them warm, suggesting an understanding that the warmth of the mother can pass to the baby. This understanding may facilitate the adoption of skin to skin care. Only one African study has explored mothers' actual experiences of skin-to-skin care and identified concerns around disease transmission, harm to the umbilicus, being dirty after birth, and the effect on maternal rest. Mothers liked having immediate access to the baby, feeling close and starting breastfeeding early. More research on the acceptability of skin to skin care is needed.
 
 ---
 
@@ -1322,9 +1361,9 @@ The current prospective study provides novel evidence that higher frequency and 
 
 ### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^bccae80c]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
-To evaluate whether complaints of being cold affected the quality of bathing, we stratified the likelihood of inadequate body site cleansing and inaccurate bathing procedures by whether the resident was cold (Table 1). Failing to clean specific body sites was not significantly different between the groups, with the exception that staff were less likely to wash the hair of residents who were cold (89.5% vs 64.3% not washed; P =.02). However, sufficiently warm water significantly improved adherence to bathing procedures (46.5% mean failure rate across procedural elements when water was warm versus 79.9% when water was cold). Nevertheless, errors in bathing procedures remained common even with adequate bathing temperatures.
+To evaluate whether complaints of being cold affected the quality of bathing, we stratified the likelihood of inadequate body site cleansing and inaccurate bathing procedures by whether the resident was cold (Table 1). Failing to clean specific body sites was not significantly different between the groups, with the exception that staff were less likely to wash the hair of residents who were cold (89.5% vs 64.3% not washed; P = 0.02). However, sufficiently warm water significantly improved adherence to bathing procedures (46.5% mean failure rate across procedural elements when water was warm versus 79.9% when water was cold). Nevertheless, errors in bathing procedures remained common even with adequate bathing temperatures.
 
-Table 1. 
+Table 1.
 Body Site and Procedural Failures for Bed Baths and Showers by Whether Residents Complained of Being Cold
 
 ---
@@ -1375,36 +1414,36 @@ We found silver level evidence (www.cochranemsk.org) concerning the beneficial e
 
 ### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^50e31172]. Pediatrics (2022). High credibility.
 
-Delayed bathing in newborns—benefits and infection risk guidance: Delayed bathing may preserve the initial neonatal skin microbiome, and parents contemplating breastfeeding should be counseled that delaying the first bath is beneficial for successful and sustained efforts, and delayed bathing may have benefit in promoting initiation and exclusivity of breastfeeding. At this time, the only explicit AAP recommendation regarding bathing related to infectious risks is for infants exposed to HIV, and for these infants, the Red Book recommends that the child be bathed and cleaned of secretions as soon as possible after birth. Bathing should be initiated as soon as possible after delivery in cases in which newborn infants are exposed to active HSV genital lesions or when there is a known history of bloodborne pathogens (HIV, HBV, or hepatitis C virus), and delayed bathing in neonates exposed to active HSV genital lesions or with known history of HIV infection in the birth parent should be discouraged. Clinical assessment and management of an ill-appearing neonate does not change with regard to a history of delayed bathing.
+Delayed bathing in newborns — benefits and infection risk guidance: Delayed bathing may preserve the initial neonatal skin microbiome, and parents contemplating breastfeeding should be counseled that delaying the first bath is beneficial for successful and sustained efforts, and delayed bathing may have benefit in promoting initiation and exclusivity of breastfeeding. At this time, the only explicit AAP recommendation regarding bathing related to infectious risks is for infants exposed to HIV, and for these infants, the Red Book recommends that the child be bathed and cleaned of secretions as soon as possible after birth. Bathing should be initiated as soon as possible after delivery in cases in which newborn infants are exposed to active HSV genital lesions or when there is a known history of bloodborne pathogens (HIV, HBV, or hepatitis C virus), and delayed bathing in neonates exposed to active HSV genital lesions or with known history of HIV infection in the birth parent should be discouraged. Clinical assessment and management of an ill-appearing neonate does not change with regard to a history of delayed bathing.
 
 ---
 
 ### Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy [^b6f6a0f7]. Journal of the American Academy of Dermatology (2019). High credibility.
 
-Bath PUVA—dosing, comparative effectiveness, patient preference, and risks: Bath PUVA involves mixing a psoralen with the bathwater and soaking affected areas before treatment with UVA light. Bath PUVA is commonly administered as 0.5 to 1 mg/L of 8-MOP in water or 0.33 mg/L of TMP in water. Bath PUVA is as effective as oral PUVA in the treatment of psoriasis, although a recent systematic review concluded that bath PUVA is less effective than oral PUVA, with only 47% of patients obtaining PASI 75 compared with 73% of patients receiving oral PUVA. Bath PUVA tends to cause fewer adverse effects, such as erythema and nausea, there are fewer drug interactions, and it offers the added benefit of requiring a lower cumulative dose of UVA than oral PUVA to obtain clearance. In 1 survey of 99 patients, 55% of patients chose bath PUVA over oral PUVA. TMP, which is frequently used for bath PUVA in Europe, is not approved by the US Food and Drug Administration and thus cannot be utilized in the United States. No long-term studies on risk of photocarcinogenesis with bath PUVA have been reported; systemic psoralen absorption is minimal; and phototoxicity can occur, with the same restrictions as with oral PUVA regarding patients in whom treatment should be avoided or used with caution.
+Bath PUVA — dosing, comparative effectiveness, patient preference, and risks: Bath PUVA involves mixing a psoralen with the bathwater and soaking affected areas before treatment with UVA light. Bath PUVA is commonly administered as 0.5 to 1 mg/L of 8-MOP in water or 0.33 mg/L of TMP in water. Bath PUVA is as effective as oral PUVA in the treatment of psoriasis, although a recent systematic review concluded that bath PUVA is less effective than oral PUVA, with only 47% of patients obtaining PASI 75 compared with 73% of patients receiving oral PUVA. Bath PUVA tends to cause fewer adverse effects, such as erythema and nausea, there are fewer drug interactions, and it offers the added benefit of requiring a lower cumulative dose of UVA than oral PUVA to obtain clearance. In 1 survey of 99 patients, 55% of patients chose bath PUVA over oral PUVA. TMP, which is frequently used for bath PUVA in Europe, is not approved by the US Food and Drug Administration and thus cannot be utilized in the United States. No long-term studies on risk of photocarcinogenesis with bath PUVA have been reported; systemic psoralen absorption is minimal; and phototoxicity can occur, with the same restrictions as with oral PUVA regarding patients in whom treatment should be avoided or used with caution.
 
 ---
 
 ### Atopic dermatitis: update on skin-directed management: clinical report [^8443b79b]. Pediatrics (2025). High credibility.
 
-Atopic dermatitis sample action plan—patient instructions include bathing, topical therapy, wet wraps, and proactive care with key quantitative parameters: Bath daily in lukewarm water for up to 10-15 minutes using a gentle, fragrance-free soap or non-soap cleanser to soiled areas only, and clinicians may recommend bleach baths with dilution guidance of 1/2 cup of household bleach for every half bathtub full of water and frequency wording of “Please do bleach baths ___ times per week.” After patting skin dry, apply prescription medications to active dermatitis followed by a cream or ointment-based moisturizer over the entire body, with site-specific medication lines for face/neck/armpits/groin and for the body. For severe flares, apply wet wraps after medications and moisturizer, soaking cotton pajamas (as close to 100% cotton as possible) in warm tap water, wringing out until damp, keeping warm during treatment, then removing after the recommended time and rubbing in residual topicals; vinegar dilution for dampening may be used at 1/8 cup vinegar to every 2 cups tap water. Repeat medications and moisturizer, with or without wet wraps, a second time during the day. For maintenance, continue daily baths and moisturization even when dermatitis is not active, and proactive treatment may include applying prescribed therapy on typical problem areas 2-3x per week before bed/after bathing even when skin is clear; restart prescription medications when eczema flares.
+Atopic dermatitis sample action plan — patient instructions include bathing, topical therapy, wet wraps, and proactive care with key quantitative parameters: Bath daily in lukewarm water for up to 10–15 minutes using a gentle, fragrance-free soap or non-soap cleanser to soiled areas only, and clinicians may recommend bleach baths with dilution guidance of 1/2 cup of household bleach for every half bathtub full of water and frequency wording of "Please do bleach baths ___ times per week." After patting skin dry, apply prescription medications to active dermatitis followed by a cream or ointment-based moisturizer over the entire body, with site-specific medication lines for face/neck/armpits/groin and for the body. For severe flares, apply wet wraps after medications and moisturizer, soaking cotton pajamas (as close to 100% cotton as possible) in warm tap water, wringing out until damp, keeping warm during treatment, then removing after the recommended time and rubbing in residual topicals; vinegar dilution for dampening may be used at 1/8 cup vinegar to every 2 cups tap water. Repeat medications and moisturizer, with or without wet wraps, a second time during the day. For maintenance, continue daily baths and moisturization even when dermatitis is not active, and proactive treatment may include applying prescribed therapy on typical problem areas 2-3x per week before bed/after bathing even when skin is clear; restart prescription medications when eczema flares.
 
 ---
 
 ### 2024 American Heart Association and American red cross guidelines for first aid [^8b390fdf]. Circulation (2024). High credibility.
 
-Hypothermia first aid—showers and warm water immersion: People with simple cold stress were generally able to safely rewarm in a warm shower or warm water immersion, but in a single-patient experimental study of mild hypothermia with core temperature ≈36° C, warm bath rewarming was associated with transient core temperature drop, decreases in mean arterial pressure, and increases in heart rate and cardiac output; these effects can decrease perfusion and, in severe cases, cause arrhythmia, and attempting to manage a confused or less alert person with hypothermia in a shower or bathtub is potentially dangerous.
+Hypothermia first aid — showers and warm water immersion: People with simple cold stress were generally able to safely rewarm in a warm shower or warm water immersion, but in a single-patient experimental study of mild hypothermia with core temperature ≈36° C, warm bath rewarming was associated with transient core temperature drop, decreases in mean arterial pressure, and increases in heart rate and cardiac output; these effects can decrease perfusion and, in severe cases, cause arrhythmia, and attempting to manage a confused or less alert person with hypothermia in a shower or bathtub is potentially dangerous.
 
 ---
 
 ### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^03b876e4]. Journal of the American Academy of Dermatology (2023). High credibility.
 
-Atopic dermatitis—bathing and bleach baths: Data on bathing for adults with AD is minimal. A study comparing magnesium chloride (“dead sea salt”) to tap water suggested that the additive may help reduce skin redness but patients did not have active dermatitis, thus limiting conclusions. Bleach baths may be helpful in infection prevention and bacterial colonization in AD but most studies are in children. In adults, one study of 10 patients with AD compared to 10 controls found bleach baths are well tolerated and safe without negative impact on stratum corneum hydration, transepidermal water loss, or pH after one 10-minute exposure. Another study comparing 18 patients receiving bleach baths twice weekly to 18 patients receiving distilled water baths twice weekly for 8 weeks reported a clinically significant within-group EASI reduction at 1 month (mean difference [MD]: 9.30 lower, P = .017) and a significant, but possibly not clinically meaningful, improvement versus placebo at 2 months (MD: 12.70 lower, 95% CI: 20.06 lower to 5.34 lower).
+Atopic dermatitis — bathing and bleach baths: Data on bathing for adults with AD is minimal. A study comparing magnesium chloride ("dead sea salt") to tap water suggested that the additive may help reduce skin redness but patients did not have active dermatitis, thus limiting conclusions. Bleach baths may be helpful in infection prevention and bacterial colonization in AD but most studies are in children. In adults, one study of 10 patients with AD compared to 10 controls found bleach baths are well tolerated and safe without negative impact on stratum corneum hydration, transepidermal water loss, or pH after one 10-minute exposure. Another study comparing 18 patients receiving bleach baths twice weekly to 18 patients receiving distilled water baths twice weekly for 8 weeks reported a clinically significant within-group EASI reduction at 1 month (mean difference [MD]: 9.30 lower, P = 0.017) and a significant, but possibly not clinically meaningful, improvement versus placebo at 2 months (MD: 12.70 lower, 95% CI: 20.06 lower to 5.34 lower).
 
 ---
 
 ### ACOG practice bulletin no. 195: prevention of infection after gynecologic procedures [^76c13be3]. Obstetrics and Gynecology (2018). Medium credibility.
 
-Preoperative bathing before abdominal surgery—Advise patients to shower or bathe (full body) with soap (antimicrobial or nonantimicrobial) or an antiseptic agent on at least the night before abdominal surgery. The 2017 CDC guidelines recommend a preoperative bath or shower and do not specify any particular soap or antiseptic and, citing a 2015 Cochrane review including seven randomized controlled trials, found no difference between agents (most frequently 4% chlorhexidine gluconate) and soap or placebo; a second meta-analysis showed no benefit of whole-body bathing with soap compared with placebo or no bathing. The CDC did not make recommendations regarding use of chlorhexidine, optimal timing of washing, or number of applications. Although the CDC guidelines and other major guidelines do not specifically recommend chlorhexidine, it is a reasonable choice based on limited evidence that suggests increased efficacy compared with soap or placebo, and one large study reported benefit with chlorhexidine (relative risk [RR], 0.36; 95% CI, 0.17–0.79) over no washing; in a 10-year prospective surveillance study, the surgical site infection rate was lower with preoperative hexachlorophene bathing than with no showering or a nonmedicated soap.
+Preoperative bathing before abdominal surgery — Advise patients to shower or bathe (full body) with soap (antimicrobial or nonantimicrobial) or an antiseptic agent on at least the night before abdominal surgery. The 2017 CDC guidelines recommend a preoperative bath or shower and do not specify any particular soap or antiseptic and, citing a 2015 Cochrane review including seven randomized controlled trials, found no difference between agents (most frequently 4% chlorhexidine gluconate) and soap or placebo; a second meta-analysis showed no benefit of whole-body bathing with soap compared with placebo or no bathing. The CDC did not make recommendations regarding use of chlorhexidine, optimal timing of washing, or number of applications. Although the CDC guidelines and other major guidelines do not specifically recommend chlorhexidine, it is a reasonable choice based on limited evidence that suggests increased efficacy compared with soap or placebo, and one large study reported benefit with chlorhexidine (relative risk [RR], 0.36; 95% CI, 0.17–0.79) over no washing; in a 10-year prospective surveillance study, the surgical site infection rate was lower with preoperative hexachlorophene bathing than with no showering or a nonmedicated soap.
 
 ---

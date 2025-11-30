@@ -376,10 +376,10 @@ Long-standing cognitive theories of ADHD postulate a deficiency in top–down co
 
 The following constitutes key background information on attention deficit hyperactivity disorder:
 
-- Definition: Attention deficit and hyperactivity disorder is a common psychiatric disorder characterized by pervasive and impairing symptoms of inattention, hyperactivity, and impulsivity according to DSM-V.
-- Pathophysiology: Attention deficit and hyperactivity disorder is caused by biological (genetics, brain structure and their influence on neuropsychology) and environmental (pregnancy or birth complications, exposure to environmental toxins, chaotic parenting, and diet) factors.
-- Disease course: The interplay of environmental, genetic factors, and dysfunction in the frontal cortex, basal ganglia, corpus callosum, and cerebellum results in attention deficit and hyperactivity disorder, which results in clinical manifestations of inattention, hyperactivity, and impulsivity. ADHD is associated with poor motor coordination, impaired academic functioning, unintentional physical injury, sleep disturbances, and poor QoL.
-- Prognosis and risk of recurrence: Attention deficit and hyperactivity disorder is not associated with an increased risk of natural-cause mortality.
+- **Definition**: Attention deficit and hyperactivity disorder is a common psychiatric disorder characterized by pervasive and impairing symptoms of inattention, hyperactivity, and impulsivity according to DSM-V.
+- **Pathophysiology**: Attention deficit and hyperactivity disorder is caused by biological (genetics, brain structure and their influence on neuropsychology) and environmental (pregnancy or birth complications, exposure to environmental toxins, chaotic parenting, and diet) factors.
+- **Disease course**: The interplay of environmental, genetic factors, and dysfunction in the frontal cortex, basal ganglia, corpus callosum, and cerebellum results in attention deficit and hyperactivity disorder, which results in clinical manifestations of inattention, hyperactivity, and impulsivity. ADHD is associated with poor motor coordination, impaired academic functioning, unintentional physical injury, sleep disturbances, and poor QoL.
+- **Prognosis and risk of recurrence**: Attention deficit and hyperactivity disorder is not associated with an increased risk of natural-cause mortality.
 
 ---
 

@@ -436,8 +436,8 @@ Bridge therapy — evidence on perioperative heparin bridging for vitamin K anta
 
 The dosage of apixaban PO for treatment of heparin-induced thrombocytopenia in adults (acute, with thrombosis) is:
 
-- Start at: 10 mg PO BID for 7 days
-- Maintenance: 5 mg PO BID
+- **Start at**: 10 mg PO BID for 7 days
+- **Maintenance**: 5 mg PO BID
 
 ---
 

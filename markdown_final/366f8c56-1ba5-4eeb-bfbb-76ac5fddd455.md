@@ -176,7 +176,7 @@ In pediatric patients, the initial dose of dexamethasone may vary depending on t
 
 - **Adrenal function test**: Figure 1 illustrates the basal and stimulated cortisol concentrations alongside the corresponding basal ACTH values for all patients. These measurements were taken at baseline, before the initiation of steroid therapy, and in the morning of the five clinical visits. Compared to baseline values (712 nmol/l (95% CI 627–771)), median stimulated cortisol measurements showed significant decreases on days 2, 14, 16, and 35 (453 nmol/l (95% CI 438–529), p = 0.008; 298 nmol/l (95% CI 177–461), p = 0.008; 427 nmol/l (95% CI 307–579), p = 0.008; and 566 nmol/l (95% CI 447–668), p = 0.04). Additionally, median basal cortisol measurements (439 nmol/l (95% CI 320–562)) were significantly lower on days 2 and 14 (200 nmol/l (95% CI 124–259), p = 0.008; and 112 nmol/l (95% CI 58–211), p = 0.007).
 
-	- Figure 1 depicts:
+	- **Figure 1 depicts**:
 		- **a**. Cortisol values at baseline (black) and after stimulation with 1 μg corticotropin (grey).
 		- **b**. Corresponding basal ACTH concentrations for all patients at six clinical visits.
 
@@ -196,7 +196,7 @@ The dosage of dexamethasone PO for treatment of asthma in adults (acute exacerba
 
 Croup is the most common cause of acute upper airway obstruction in children. The benefits of treating croup with steroids are well established, with an onset of effect 30 minutes after administration. This study investigated whether a 30-minute exposure to outdoor cold air might improve mild to moderate croup symptoms before the onset of action of steroids.
 - **Methods**: This open-label, single-center, randomized controlled trial enrolled children aged 3 months to 10 years with croup and a Westley Croup Score (WCS) ≥ 2 attending a tertiary pediatric emergency department. Participants were randomized (1:1) to either a 30-minute exposure to outdoor cold (< 10°C) atmospheric air or to indoor ambient room air immediately after triage and administration of a single-dose oral dexamethasone. The primary endpoint was a decrease in WCS ≥ 2 points from baseline at 30 minutes. Analyses were intention to treat.
-- **Results**: A total of 118 participants were randomly assigned to be exposed to outdoor cold air (n = 59) or indoor room temperature (n = 59). Twenty-nine of 59 children (49.2%) in the outdoor group and 14 of 59 (23.7%) in the indoor group showed a decrease in WCS ≥ 2 points from baseline at 30 minutes after triage (risk difference 25.4% [95% confidence interval 7.0–43.9], P = .007). Patients with moderate croup benefited the most from the intervention at 30 minutes (risk difference 46.1% [20.6–71.5], P < .001).
+- **Results**: A total of 118 participants were randomly assigned to be exposed to outdoor cold air (n = 59) or indoor room temperature (n = 59). Twenty-nine of 59 children (49.2%) in the outdoor group and 14 of 59 (23.7%) in the indoor group showed a decrease in WCS ≥ 2 points from baseline at 30 minutes after triage (risk difference 25.4% [95% confidence interval 7.0–43.9], P = 0.007). Patients with moderate croup benefited the most from the intervention at 30 minutes (risk difference 46.1% [20.6–71.5], P < .001).
 - **Conclusions**: A 30-minute exposure to outdoor cold air (< 10°C), as an adjunct to oral dexamethasone, is beneficial for reducing the intensity of clinical symptoms in children with croup.
 
 ---
@@ -303,8 +303,8 @@ The study CAPE COD was published by Pierre-François Dequin and colleagues in 20
 - **Population**: The study included 795 patients (243 female, 552 male). The inclusion criteria were adult patients admitted to the ICU with severe community-acquired pneumonia. Key exclusion criteria included a "Do Not Intubate" (DNI) order, pneumonia caused by influenza, and septic shock.
 
 - **Interventions**:
-	- Hydrocortisone group: 400 patients received 200 mg of hydrocortisone daily for either 4 or 8 days, depending on clinical improvement, followed by tapering for a total of 8 or 14 days.
-	- Placebo group: 395 patients received a matching placebo.
+	- **Hydrocortisone group**: 400 patients received 200 mg of hydrocortisone daily for either 4 or 8 days, depending on clinical improvement, followed by tapering for a total of 8 or 14 days.
+	- **Placebo group**: 395 patients received a matching placebo.
 
 - **Primary outcome**: There was a significant decrease in death at day 28 in the hydrocortisone group (6.2% vs. 11.9%; absolute risk difference (ARD) -5.6, 95% CI -9.6 to -1.7).
 - **Secondary outcomes**:
@@ -407,7 +407,7 @@ To compare the effectiveness of dexamethasone versus prednisone or prednisolone 
 
 Children with a chronic complex condition, those transferred from outside hospitals, and/or those who received direct admission to the ICU were excluded. Propensity score matching was used to compare length of stay (in hours), escalation of care to the ICU, and the need for bronchoscopy with exposure to dexamethasone versus prednisone or prednisolone. Additionally, rates of 7-day return to the emergency department and readmissions were compared.
 
-A total of 11,740 hospitalizations met the inclusion criteria; dexamethasone was used in 95.9% of cases, while prednisone or prednisolone was used in 4.1%. In the matched cohort (n = 960), the length of stay was not significantly different between the dexamethasone and prednisone or prednisolone groups (21.3 vs. 18.5 hours, P = .35). Although the rates of bronchoscopy did not differ between the two groups, the dexamethasone cohort was more likely to require ICU transfer (P = .007). The rates of 7-day emergency department returns (2.3% vs. 1.3%, P = .24) and readmissions (3.1% vs. 2.1%, P = .37) were low and not statistically different.
+A total of 11,740 hospitalizations met the inclusion criteria; dexamethasone was used in 95.9% of cases, while prednisone or prednisolone was used in 4.1%. In the matched cohort (n = 960), the length of stay was not significantly different between the dexamethasone and prednisone or prednisolone groups (21.3 vs. 18.5 hours, P = 0.35). Although the rates of bronchoscopy did not differ between the two groups, the dexamethasone cohort was more likely to require ICU transfer (P = 0.007). The rates of 7-day emergency department returns (2.3% vs. 1.3%, P = 0.24) and readmissions (3.1% vs. 2.1%, P = 0.37) were low and not statistically different.
 
 In conclusion, hospital resource utilization did not differ significantly for children receiving dexamethasone or prednisone or prednisolone for acute croup.
 

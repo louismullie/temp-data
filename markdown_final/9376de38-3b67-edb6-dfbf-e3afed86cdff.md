@@ -159,7 +159,7 @@ Hypoparathyroidism is a rare disorder characterized by hypocalcemia and absent o
 
 Participants
 
-Participants in the First International Conference on the Management of Hypoparathyroidism represented a worldwide constituency with acknowledged interest and expertise in key basic, translational, and clinical aspects of hypoparathyroidism. Three Workshop Panels were constituted to address questions for presentation and discussion at the Conference held in Florence, Italy, May 7-9, 2015. At that time, a series of presentations were made, followed by in-depth discussions in an open forum. Each Workshop Panel also met in closed sessions to formulate the three evidence-based reports that accompany this summary statement. An Expert Panel then considered this information, developed summaries, guidelines, and a research agenda that constitutes this summary statement.
+Participants in the First International Conference on the Management of Hypoparathyroidism represented a worldwide constituency with acknowledged interest and expertise in key basic, translational, and clinical aspects of hypoparathyroidism. Three Workshop Panels were constituted to address questions for presentation and discussion at the Conference held in Florence, Italy, May 7–9, 2015. At that time, a series of presentations were made, followed by in-depth discussions in an open forum. Each Workshop Panel also met in closed sessions to formulate the three evidence-based reports that accompany this summary statement. An Expert Panel then considered this information, developed summaries, guidelines, and a research agenda that constitutes this summary statement.
 
 Evidence
 
@@ -191,13 +191,13 @@ Both hypercalcaemia and hypocalcaemia can lead to serious complications in patie
 
 ### KDOQI US commentary on the 2017 KDIGO clinical practice guideline update for the diagnosis, evaluation, prevention, and Treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^43803a97]. American Journal of Kidney Diseases (2017). Medium credibility.
 
-Treatment of CKD-MBD: Calcium levels—Recommendation “4.1.3: In adult patients with CKD G3a-G5D, we suggest avoiding hypercalcemia (2C). In children with CKD G3a-G5D, we suggest maintaining serum calcium in the age-appropriate normal range (2C).” The commentary notes that “Recommendation 4.1.3 maintains the prior suggestion to avoid hypercalcemia, but with regard to hypocalcemia, there is now a change from the 2009 recommendation.”
+Treatment of CKD-MBD: Calcium levels — Recommendation "4.1.3: In adult patients with CKD G3a-G5D, we suggest avoiding hypercalcemia (2C). In children with CKD G3a-G5D, we suggest maintaining serum calcium in the age-appropriate normal range (2C)." The commentary notes that "Recommendation 4.1.3 maintains the prior suggestion to avoid hypercalcemia, but with regard to hypocalcemia, there is now a change from the 2009 recommendation."
 
 ---
 
 ### The American Association of Endocrine Surgeons guidelines for the definitive surgical management of thyroid disease in adults [^b10be6bd]. AAES (2020). High credibility.
 
-American Association of Endocrine Surgeons (AAES) postoperative hypocalcemia—Recommendation 60 states: “To prevent and/or manage postoperative symptoms of hypocalcemia following total or completion thyroidectomy, a strategy for calcium and/or vitamin D supplementation should be considered. (Strong recommendation, moderate-quality evidence).” Permanent hypoparathyroidism is defined by ongoing supplementation needs: “Permanent hypoparathyroidism is defined by a requirement for calcium and/or calcitriol 6 months following thyroidectomy; when measured off calcitriol, the PTH level is usually low or undetectable.” Reported incidence from a systematic review is: “A 2014 systematic review of 115 studies of thyroidectomy reported a median transient hypocalcemia rate of 27% (range 19%–38%), and median permanent hypoparathyroidism rate of 1% (range 0%–3%).”
+American Association of Endocrine Surgeons (AAES) postoperative hypocalcemia — Recommendation 60 states: "To prevent and/or manage postoperative symptoms of hypocalcemia following total or completion thyroidectomy, a strategy for calcium and/or vitamin D supplementation should be considered. (Strong recommendation, moderate-quality evidence)." Permanent hypoparathyroidism is defined by ongoing supplementation needs: "Permanent hypoparathyroidism is defined by a requirement for calcium and/or calcitriol 6 months following thyroidectomy; when measured off calcitriol, the PTH level is usually low or undetectable." Reported incidence from a systematic review is: "A 2014 systematic review of 115 studies of thyroidectomy reported a median transient hypocalcemia rate of 27% (range 19%–38%), and median permanent hypoparathyroidism rate of 1% (range 0%–3%)."
 
 ---
 
@@ -235,25 +235,25 @@ Regarding medical management for tumor lysis syndrome, more specifically with re
 
 Key messages
 
-• Hypocalcaemia is common in critical illness but tends to normalize during the early days of admission to intensive care.
+- Hypocalcaemia is common in critical illness but tends to normalize during the early days of admission to intensive care.
 
-• In most cases normalization of calcium status is not associated with improved outcome, however mortality may be higher in severely hypocalcaemic patients who remain hypocalcemic on the fourth day of their admission.
+- In most cases normalization of calcium status is not associated with improved outcome, however mortality may be higher in severely hypocalcaemic patients who remain hypocalcemic on the fourth day of their admission.
 
-• Calcium supplementation does not improve either calcium normalization or survival and a large randomized controlled trial is required to assess the effectiveness and side effects of this intervention.
+- Calcium supplementation does not improve either calcium normalization or survival and a large randomized controlled trial is required to assess the effectiveness and side effects of this intervention.
 
-• Albumin-adjusted calcium is a poor predictor of low ionized calcium in critical illness and should not be used in this setting.
+- Albumin-adjusted calcium is a poor predictor of low ionized calcium in critical illness and should not be used in this setting.
 
-• Low magnesium, sodium and albumin are independently associated with low ionized calcium and this should be considered in the overall management of each patient.
+- Low magnesium, sodium and albumin are independently associated with low ionized calcium and this should be considered in the overall management of each patient.
 
 ---
 
 ### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^671227f5]. Pediatrics (2008). Medium credibility.
 
-Vitamin D deficiency–associated hypocalcemia—calcium and calcitriol dosing guidance includes that hypocalcemia should be treated with calcium supplements, with parenteral calcium as calcium gluconate (10–20 mg of elemental calcium per kg intravenously slowly over 5–10 minutes, usually given as 1–2 mL/kg of 10% calcium gluconate) in cases of manifest tetany or convulsions. Recommended doses of elemental calcium are 30 to 75 mg/kg per day in 3 divided doses, and calcitriol may be necessary in doses of 20 to 100 ng/kg per day in 2 to 3 divided doses until calcium levels normalize. High doses of calcium are necessary early in the course of therapy, after which doses are reduced by half for the next 1 to 2 weeks. Once vitamin D is reduced to 400 IU/day with normal PTH and 25(OH)-D levels, calcium supplementation is usually not necessary.
+Vitamin D deficiency–associated hypocalcemia — calcium and calcitriol dosing guidance includes that hypocalcemia should be treated with calcium supplements, with parenteral calcium as calcium gluconate (10–20 mg of elemental calcium per kg intravenously slowly over 5–10 minutes, usually given as 1–2 mL/kg of 10% calcium gluconate) in cases of manifest tetany or convulsions. Recommended doses of elemental calcium are 30 to 75 mg/kg per day in 3 divided doses, and calcitriol may be necessary in doses of 20 to 100 ng/kg per day in 2 to 3 divided doses until calcium levels normalize. High doses of calcium are necessary early in the course of therapy, after which doses are reduced by half for the next 1 to 2 weeks. Once vitamin D is reduced to 400 IU/day with normal PTH and 25(OH)-D levels, calcium supplementation is usually not necessary.
 
 ---
 
-### Management of postthyroidectomy hypoparathyroidism and its effect on hypocalcemia-related complications: a meta-analysis [^13ddd43a]. Otolaryngology--Head and Neck Surgery (2024). Medium credibility.
+### Management of postthyroidectomy hypoparathyroidism and its effect on hypocalcemia-related complications: a meta-analysis [^13ddd43a]. Otolaryngology — Head and Neck Surgery (2024). Medium credibility.
 
 Objective
 
@@ -269,7 +269,7 @@ Articles reporting on adult patients who underwent total thyroidectomy which spe
 
 Results
 
-Sixty-six studies comprising 67 treatment protocols and 51,096 patients were included in this Meta-analysis. In 8 protocols (3806 patients), routine calcium and/or active vitamin D medication was given to all patients directly after thyroidectomy. In 49 protocols (44,012 patients), calcium and/or active vitamin D medication was only given to patients with biochemically proven postthyroidectomy hypoparathyroidism. In 10 protocols (3278 patients), calcium and/or active vitamin D supplementation was only initiated in case of clinical symptoms of hypocalcemia. No patient had a major complication due to postoperative hypocalcemia. The pooled proportion of long-term hypoparathyroidism was 2.4% (95% confidence interval, 1.9-3.0). There was no significant difference in the incidence of long-term hypoparathyroidism between the 3 supplementation groups.
+Sixty-six studies comprising 67 treatment protocols and 51,096 patients were included in this Meta-analysis. In 8 protocols (3806 patients), routine calcium and/or active vitamin D medication was given to all patients directly after thyroidectomy. In 49 protocols (44,012 patients), calcium and/or active vitamin D medication was only given to patients with biochemically proven postthyroidectomy hypoparathyroidism. In 10 protocols (3278 patients), calcium and/or active vitamin D supplementation was only initiated in case of clinical symptoms of hypocalcemia. No patient had a major complication due to postoperative hypocalcemia. The pooled proportion of long-term hypoparathyroidism was 2.4% (95% confidence interval, 1.9–3.0). There was no significant difference in the incidence of long-term hypoparathyroidism between the 3 supplementation groups.
 
 Conclusions
 
@@ -279,7 +279,7 @@ All treatment strategies for postoperative hypocalcemia prevent major complicati
 
 ### Vitamin D for the prevention of disease: an endocrine society clinical practice guideline [^ac90b227]. The Journal of Clinical Endocrinology and Metabolism (2024). High credibility.
 
-Vitamin D 25-hydroxyvitamin D (25(OH)D) testing—In the general adult population younger than age 50 years, we suggest against routine 25(OH)D testing (2 | ⊕◯◯◯). Technical remarks state that, in this population, 25(OH)D levels that provide outcome-specific benefits have not been established in clinical trials and that the panel suggests against routine screening for a 25(OH)D level to guide decision-making and against routine follow-up testing for 25(OH)D level to guide vitamin D dosing; this recommendation relates to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia). Based on the panel’s best estimates of treatment effects, the panel judged that the anticipated desirable effects of vitamin D are likely to be small at best and the anticipated undesirable effects are likely to be trivial, and panel members judged that empiric vitamin D would likely be acceptable to individuals in this age group, especially females with risk factors for developing osteoporosis.
+Vitamin D 25-hydroxyvitamin D (25(OH)D) testing — In the general adult population younger than age 50 years, we suggest against routine 25(OH)D testing (2 | ⊕◯◯◯). Technical remarks state that, in this population, 25(OH)D levels that provide outcome-specific benefits have not been established in clinical trials and that the panel suggests against routine screening for a 25(OH)D level to guide decision-making and against routine follow-up testing for 25(OH)D level to guide vitamin D dosing; this recommendation relates to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia). Based on the panel's best estimates of treatment effects, the panel judged that the anticipated desirable effects of vitamin D are likely to be small at best and the anticipated undesirable effects are likely to be trivial, and panel members judged that empiric vitamin D would likely be acceptable to individuals in this age group, especially females with risk factors for developing osteoporosis.
 
 ---
 
@@ -299,7 +299,7 @@ Hypocalcemia is a common finding in patients admitted to a general ICU. In this 
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^61ee5457]. Kidney International Supplements (2017). Medium credibility.
 
-KDIGO 2017 CKD‑MBD update—serum calcium management—In adult patients with CKD G3a–G5D, we suggest avoiding hypercalcemia (2C). In children with CKD G3a–G5D, we suggest maintaining serum calcium in the age‑appropriate normal range (2C). The 2009 recommendation suggested maintaining serum calcium in the normal range for CKD G3a–G5D (2D), and the rationale indicates that mild and asymptomatic hypocalcemia, for example with calcimimetic treatment, can be tolerated to avoid inappropriate calcium loading in adults.
+KDIGO 2017 CKD‑MBD update — serum calcium management — In adult patients with CKD G3a–G5D, we suggest avoiding hypercalcemia (2C). In children with CKD G3a–G5D, we suggest maintaining serum calcium in the age‑appropriate normal range (2C). The 2009 recommendation suggested maintaining serum calcium in the normal range for CKD G3a–G5D (2D), and the rationale indicates that mild and asymptomatic hypocalcemia, for example with calcimimetic treatment, can be tolerated to avoid inappropriate calcium loading in adults.
 
 ---
 
@@ -323,7 +323,7 @@ Regarding medical management for tumor lysis syndrome, more specifically with re
 
 ### Child with suspected hypocalcemia [^5430a1a1]. PES (2020). High credibility.
 
-Oral therapy for pediatric hypocalcemia—Asymptomatic children can be treated with oral calcium and vitamin D therapy, and until the cause of hypocalcemia is found, children may benefit from treatment with the active form of vitamin D (1, 25-dihydroxyvitamin D) at a dose of 20-40 ng/kg/day.
+Oral therapy for pediatric hypocalcemia — Asymptomatic children can be treated with oral calcium and vitamin D therapy, and until the cause of hypocalcemia is found, children may benefit from treatment with the active form of vitamin D (1, 25-dihydroxyvitamin D) at a dose of 20–40 ng/kg/day.
 
 ---
 
@@ -339,7 +339,7 @@ This review is an evidence-based summary of hypoparathyroidism in terms of relev
 
 Results
 
-Many clinical manifestations of hypoparathyroidism are due to the lack of the physiological actions of parathyroid hormone on its 2 major target organs: the skeleton and the kidney. The skeleton is inactive, accruing bone without remodeling it. The kidneys lose the calcium-conserving actions of parathyroid hormone and, thus, excrete a greater fraction of calcium. Biochemical manifestations, besides hypocalcemia and low or undetectable levels of parathyroid hormone, include hyperphosphatemia and low levels of 1,25-dihydroxyvitamin D. Calcifications in the kidney, brain, and other soft tissues are common. Removal of, or damage to, the parathyroid glands at the time of anterior neck surgery is, by far, the most likely etiology. Autoimmune destruction of the parathyroid glands and other genetic causes represent most of the other etiologies. Conventional treatment with calcium and active vitamin D can maintain the serum calcium level but high doses may be required, adding to the risk of long-term soft tissue calcifications. The advent of replacement therapy with recombinant human PTH(1-84) represents a major step in the therapeutics of this disease.
+Many clinical manifestations of hypoparathyroidism are due to the lack of the physiological actions of parathyroid hormone on its 2 major target organs: the skeleton and the kidney. The skeleton is inactive, accruing bone without remodeling it. The kidneys lose the calcium-conserving actions of parathyroid hormone and, thus, excrete a greater fraction of calcium. Biochemical manifestations, besides hypocalcemia and low or undetectable levels of parathyroid hormone, include hyperphosphatemia and low levels of 1,25-dihydroxyvitamin D. Calcifications in the kidney, brain, and other soft tissues are common. Removal of, or damage to, the parathyroid glands at the time of anterior neck surgery is, by far, the most likely etiology. Autoimmune destruction of the parathyroid glands and other genetic causes represent most of the other etiologies. Conventional treatment with calcium and active vitamin D can maintain the serum calcium level but high doses may be required, adding to the risk of long-term soft tissue calcifications. The advent of replacement therapy with recombinant human PTH(1–84) represents a major step in the therapeutics of this disease.
 
 Conclusions
 
@@ -351,9 +351,9 @@ Advances in our knowledge of hypoparathyroidism have led to greater understandin
 
 Treatment and prevention of hypocalcaemia
 
-Hypocalcaemia in patients with cancer can have severe consequences, whether occurring with or without the use of inhibitors of bone resorption, but responds well to calcium and vitamin D supplementation. Furthermore, when treatment with inhibitors of bone resorption is required for the management of metastatic bone disease, hypocalcaemia can usually be prevented by identification and appropriate management of at-risk patients. Case reports and retrospective analyses have identified a number of risk factors associated with the development of hypocalcaemia in those receiving inhibitors of bone resorption; these include vitamin D deficiency, renal insufficiency, osteoblastic metastases, prostate cancer, and low baseline blood calcium levels (Table 2) [,–]. It is therefore important that vitamin D and calcium levels are assessed and supplementation initiated before starting treatment with inhibitors of bone resorption. This evaluation is particularly important given the high prevalence of vitamin D insufficiency or deficiency among patients with metastatic cancer. Furthermore, all patients receiving inhibitors of bone resorption for the prevention of SREs should receive concomitant calcium and vitamin D supplementation; use of these supplements has been shown to lower the risk of developing hypocalcaemia by 27% and 40% in patients receiving zoledronic acid or denosumab, respectively. An interim analysis of an open-label observational study of treatment persistence in patients with cancer who were receiving denosumab to prevent SREs found that most patients (80%) received calcium and vitamin D supplementation at the start of denosumab treatment. Long-term follow-up persistence data, however, are not yet available. Previous reports suggest that adherence to calcium and vitamin D supplementation is low ; patients should, therefore, be counselled on the importance of adequate calcium and vitamin D intake in order to improve adherence. Use of 1,25-dihydroxyvitamin D, the active metabolite of vitamin D, might offer further advantages in the prevention and treatment of hypocalcaemia; however, trials are required to confirm this.
+Hypocalcaemia in patients with cancer can have severe consequences, whether occurring with or without the use of inhibitors of bone resorption, but responds well to calcium and vitamin D supplementation. Furthermore, when treatment with inhibitors of bone resorption is required for the management of metastatic bone disease, hypocalcaemia can usually be prevented by identification and appropriate management of at-risk patients. Case reports and retrospective analyses have identified a number of risk factors associated with the development of hypocalcaemia in those receiving inhibitors of bone resorption; these include vitamin D deficiency, renal insufficiency, osteoblastic metastases, prostate cancer, and low baseline blood calcium levels (Table 2). It is therefore important that vitamin D and calcium levels are assessed and supplementation initiated before starting treatment with inhibitors of bone resorption. This evaluation is particularly important given the high prevalence of vitamin D insufficiency or deficiency among patients with metastatic cancer. Furthermore, all patients receiving inhibitors of bone resorption for the prevention of SREs should receive concomitant calcium and vitamin D supplementation; use of these supplements has been shown to lower the risk of developing hypocalcaemia by 27% and 40% in patients receiving zoledronic acid or denosumab, respectively. An interim analysis of an open-label observational study of treatment persistence in patients with cancer who were receiving denosumab to prevent SREs found that most patients (80%) received calcium and vitamin D supplementation at the start of denosumab treatment. Long-term follow-up persistence data, however, are not yet available. Previous reports suggest that adherence to calcium and vitamin D supplementation is low; patients should, therefore, be counselled on the importance of adequate calcium and vitamin D intake in order to improve adherence. Use of 1,25-dihydroxyvitamin D, the active metabolite of vitamin D, might offer further advantages in the prevention and treatment of hypocalcaemia; however, trials are required to confirm this.
 
-Although hypocalcaemia can occur at any time during treatment with inhibitors of bone resorption, studies show that it often develops soon after treatment initiation; within 7 days, in some cases. Therefore, careful monitoring of at-risk patients after starting treatment is important to enable quick detection and resolution of hypocalcaemia. At-risk patients should also be educated about the symptoms of hypocalcaemia and encouraged to report any indicative symptoms. If hypocalcaemia occurs while a patient is receiving inhibitors of bone resorption, additional calcium and vitamin D supplementation and further monitoring are advised. Delaying the administration of inhibitors of bone resorption because of hypocalcaemia is rarely necessary.
+Although hypocalcaemia can occur at any time during treatment with inhibitors of bone resorption, studies show that it often develops soon after treatment initiation; within 7 days, in some cases. Therefore, careful monitoring of at-risk patients after starting treatment is important to enable quick detection and resolution of hypocalcaemia. At-risk patients should also be educated about the symptoms of hypocalcaemia and encouraged to report any indicative symptoms. If hypocalcaemia occurs while a patient is receiving inhibitors of bone resorption, additional calcium and vitamin D supplementation and further monitoring are advised. Delaying the administration of inhibitors of bone resorption because of hypocalcaemia is rarely necessary.
 
 ---
 
@@ -369,7 +369,7 @@ The safety and effectiveness of Calcium Chloride Injection for long-term use has
 
 Calcium Chloride Injection is a form of calcium indicated for the treatment of adult and pediatric and patients with acute symptomatic hypocalcemia. (1)
 
-Limitations of Use :
+Limitations of Use:
 
 The safety and effectiveness of Calcium Chloride Injection for long-term use has not been established.
 
@@ -377,13 +377,13 @@ The safety and effectiveness of Calcium Chloride Injection for long-term use has
 
 ### Child with suspected hypocalcemia [^ed931cf9]. PES (2020). High credibility.
 
-Child with suspected hypocalcemia—initial evaluation focuses on confirming true hypocalcemia and assessing symptoms; calcium is bound heavily to albumin and hypoalbuminic states can cause hypocalcemia with ionized calcium levels maintained and the child asymptomatic, and if the child is having seizures or spasms due to hypocalcemia then intravenous calcium therapy is indicated; if symptomatic, the child needs to be admitted and started on intravenous calcium therapy, which is very irritating to the veins, and preferably therapy should be given using a central line.
+Child with suspected hypocalcemia — initial evaluation focuses on confirming true hypocalcemia and assessing symptoms; calcium is bound heavily to albumin and hypoalbuminic states can cause hypocalcemia with ionized calcium levels maintained and the child asymptomatic, and if the child is having seizures or spasms due to hypocalcemia then intravenous calcium therapy is indicated; if symptomatic, the child needs to be admitted and started on intravenous calcium therapy, which is very irritating to the veins, and preferably therapy should be given using a central line.
 
 ---
 
 ### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^787109da]. Pediatrics (2008). Medium credibility.
 
-Treatment dosing for deficiency or insufficiency: We recommend treating infants and children who are vitamin D insufficient or deficient with 1000 IU/day for infants <1 month old, 1000 to 5000 IU/day for children 1 to 12 months old, and >5000 IU/day for children ≥12 months old; vitamin D levels should subsequently be maintained with 400 IU of vitamin D supplementation per day. For patients who demonstrate poor compliance, a high dose of vitamin D may be given as a single dose or repeated intermittently. It is important to recognize that simultaneous calcium supplementation is necessary, symptomatic hypocalcemia requires parenteral calcium replacement, and calcitriol and dihydrotachysterol can help treat hypocalcemia associated with rickets but do not build up vitamin D stores.
+Treatment dosing for deficiency or insufficiency: We recommend treating infants and children who are vitamin D insufficient or deficient with 1000 IU/day for infants < 1 month old, 1000 to 5000 IU/day for children 1 to 12 months old, and > 5000 IU/day for children ≥ 12 months old; vitamin D levels should subsequently be maintained with 400 IU of vitamin D supplementation per day. For patients who demonstrate poor compliance, a high dose of vitamin D may be given as a single dose or repeated intermittently. It is important to recognize that simultaneous calcium supplementation is necessary, symptomatic hypocalcemia requires parenteral calcium replacement, and calcitriol and dihydrotachysterol can help treat hypocalcemia associated with rickets but do not build up vitamin D stores.
 
 ---
 
@@ -417,11 +417,11 @@ A significant decrease in postoperative hypocalcemia was identified in patients 
 
 Background
 
-The aim was to assess the effectiveness of routine administration of calcium +/- vitamin D3 compared with a serum calcium level-based strategy to prevent symptomatic hypocalcaemia after thyroidectomy.
+The aim was to assess the effectiveness of routine administration of calcium ± vitamin D3 compared with a serum calcium level-based strategy to prevent symptomatic hypocalcaemia after thyroidectomy.
 
 Methods
 
-RCTs comparing routine supplementation of calcium +/- vitamin D3 with treatment based on serum calcium levels measured after total thyroidectomy, published between 1980 and 2017, were identified in MEDLINE, Embase, LILACS and Google Scholar databases. Risk of bias was evaluated using the Cochrane Collaboration tool. Risk differences were calculated by random-effects meta-analysis. Meta-regression and cumulative meta-analysis were used to explore the best therapeutic approach.
+RCTs comparing routine supplementation of calcium ± vitamin D3 with treatment based on serum calcium levels measured after total thyroidectomy, published between 1980 and 2017, were identified in MEDLINE, Embase, LILACS and Google Scholar databases. Risk of bias was evaluated using the Cochrane Collaboration tool. Risk differences were calculated by random-effects meta-analysis. Meta-regression and cumulative meta-analysis were used to explore the best therapeutic approach.
 
 Results
 
@@ -475,19 +475,19 @@ Both hypercalcaemia and hypocalcaemia can be serious if left untreated. It is th
 
 ### Child with suspected hypocalcemia [^7704ddc6]. PES (2020). High credibility.
 
-Child with suspected hypocalcemia—referral guidance specifies: Urgent: If symptomatic, child needs to be admitted urgently and started on intravenous calcium therapy. Routine: Any asymptomatic child with persistently low calcium levels should be referred to a pediatric endocrinologist for further evaluation.
+Child with suspected hypocalcemia — referral guidance specifies: Urgent: If symptomatic, child needs to be admitted urgently and started on intravenous calcium therapy. Routine: Any asymptomatic child with persistently low calcium levels should be referred to a pediatric endocrinologist for further evaluation.
 
 ---
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^b1b0fa57]. Kidney International Supplements (2017). Medium credibility.
 
-2009 KDIGO CKD-MBD recommendations—adjusting vitamin D sterols and calcimimetics: We suggest that, in patients with hyperphosphatemia, calcitriol or another vitamin D sterol be reduced or stopped (2D). We suggest that, in patients with hypocalcemia, calcimimetics be reduced or stopped depending on severity, concomitant medications, and clinical signs and symptoms (2D). We suggest that, if the intact PTH levels fall below 2 times the upper limit of normal for the assay, calcitriol, vitamin D analogs, and/or calcimimetics be reduced or stopped (2C).
+2009 KDIGO CKD-MBD recommendations — adjusting vitamin D sterols and calcimimetics: We suggest that, in patients with hyperphosphatemia, calcitriol or another vitamin D sterol be reduced or stopped (2D). We suggest that, in patients with hypocalcemia, calcimimetics be reduced or stopped depending on severity, concomitant medications, and clinical signs and symptoms (2D). We suggest that, if the intact PTH levels fall below 2 times the upper limit of normal for the assay, calcitriol, vitamin D analogs, and/or calcimimetics be reduced or stopped (2C).
 
 ---
 
 ### Hypoparathyroidism [^97ef2e0a]. Nature Reviews: Disease Primers (2017). Medium credibility.
 
-Hypoparathyroidism is a disease characterized by inadequately low circulating concentrations of parathyroid hormone (PTH) resulting in low calcium levels and increased phosphate levels in the blood. Symptoms of the disease result from increased neuromuscular irritability caused by hypocalcaemia and include tingling, muscle cramps and seizures. The most common cause of the disease is inadvertent removal of, or injury to, the parathyroid glands during neck surgery, followed by genetic, idiopathic and autoimmune aetiologies. Conventional treatment includes activated vitamin D and/or calcium supplements, but this treatment does not fully replace the functions of PTH and can lead to short-term problems (such as hypocalcaemia, hypercalcaemia and increased urinary calcium excretion) and long-term complications (which include nephrocalcinosis, kidney stones and brain calcifications). PTH replacement has emerged as a new treatment option. Clinical trials using human PTH(1-34) and PTH(1-84) showed that this treatment was safe and effective in studies lasting up to 6 years. Recombinant human PTH(1-84) has been approved in the United States and Europe for the management of hypoparathyroidism; however, its effect on long-term complications is still being evaluated. Clinical practice guidelines, which describe the consensus of experts in the field, have been published and recognize the need for more research to optimize care. In this Primer, we summarize current knowledge of the prevalence, pathophysiology, clinical presentation and management of hypoparathyroidism.
+Hypoparathyroidism is a disease characterized by inadequately low circulating concentrations of parathyroid hormone (PTH) resulting in low calcium levels and increased phosphate levels in the blood. Symptoms of the disease result from increased neuromuscular irritability caused by hypocalcaemia and include tingling, muscle cramps and seizures. The most common cause of the disease is inadvertent removal of, or injury to, the parathyroid glands during neck surgery, followed by genetic, idiopathic and autoimmune aetiologies. Conventional treatment includes activated vitamin D and/or calcium supplements, but this treatment does not fully replace the functions of PTH and can lead to short-term problems (such as hypocalcaemia, hypercalcaemia and increased urinary calcium excretion) and long-term complications (which include nephrocalcinosis, kidney stones and brain calcifications). PTH replacement has emerged as a new treatment option. Clinical trials using human PTH(1–34) and PTH(1–84) showed that this treatment was safe and effective in studies lasting up to 6 years. Recombinant human PTH(1–84) has been approved in the United States and Europe for the management of hypoparathyroidism; however, its effect on long-term complications is still being evaluated. Clinical practice guidelines, which describe the consensus of experts in the field, have been published and recognize the need for more research to optimize care. In this Primer, we summarize current knowledge of the prevalence, pathophysiology, clinical presentation and management of hypoparathyroidism.
 
 ---
 
@@ -505,13 +505,13 @@ Hypocalcaemia is a common clinical scenario in children with a range of aetiolog
 
 ### Bone in parathyroid diseases revisited: evidence from epidemiological, surgical and new drug outcomes [^1efd065d]. Endocrine Reviews (2025). Medium credibility.
 
-Preventing signs and symptoms of hypocalcemia, maintaining serum calcium levels in the low normal range or slightly below normal, preventing hypercalciuria and hypercalcemia, keeping the calcium-phosphate product below 55 mg 2 /dL 2, and preventing renal (nephrocalcinosis/nephrolithiasis) and other extraskeletal calcifications are the main objectives of treatment. Conventional therapy of HypoPTH includes not only the emergency management of acute and severe hypocalcemia with IV administration of calcium gluconate, but also the management of chronic hypocalcemia with calcium, calcitriol, as well as magnesium supplements, whenever required. The normalization of serum calcium levels through traditional treatment involving calcium and active vitamin D fails to fully restore normal calcium homeostasis physiology. Instead, it leads to hypercalciuria and hyperphosphatemia because it lacks renal calcium reabsorption and phosphaturia typically stimulated by PTH. Consequently, this standard approach heightens the risk of extraskeletal calcifications and long-term kidney complications. Moreover, the absence of PTH results in abnormal bone remodeling and contributes to reduced quality of life for many hypoparathyroidism patients despite adhering to conventional therapy. These challenges have prompted scientific exploration into alternative therapeutic avenues. Since the mid-1990s, synthetic PTH (1-34) has been proposed for the management of refractory HypoPTH, with promising results. rhPTH (1-84) has been approved for the treatment of adults with HypoPTH refractory to conventional therapy, with the exception of patients who have autosomal dominant hypocalcemia.
+Preventing signs and symptoms of hypocalcemia, maintaining serum calcium levels in the low normal range or slightly below normal, preventing hypercalciuria and hypercalcemia, keeping the calcium-phosphate product below 55 mg 2 /dL 2, and preventing renal (nephrocalcinosis/nephrolithiasis) and other extraskeletal calcifications are the main objectives of treatment. Conventional therapy of HypoPTH includes not only the emergency management of acute and severe hypocalcemia with IV administration of calcium gluconate, but also the management of chronic hypocalcemia with calcium, calcitriol, as well as magnesium supplements, whenever required. The normalization of serum calcium levels through traditional treatment involving calcium and active vitamin D fails to fully restore normal calcium homeostasis physiology. Instead, it leads to hypercalciuria and hyperphosphatemia because it lacks renal calcium reabsorption and phosphaturia typically stimulated by PTH. Consequently, this standard approach heightens the risk of extraskeletal calcifications and long-term kidney complications. Moreover, the absence of PTH results in abnormal bone remodeling and contributes to reduced quality of life for many hypoparathyroidism patients despite adhering to conventional therapy. These challenges have prompted scientific exploration into alternative therapeutic avenues. Since the mid-1990s, synthetic PTH (1–34) has been proposed for the management of refractory HypoPTH, with promising results. rhPTH (1–84) has been approved for the treatment of adults with HypoPTH refractory to conventional therapy, with the exception of patients who have autosomal dominant hypocalcemia.
 
 ---
 
 ### Hypercalcaemia and hypocalcaemia: finding the balance [^3ace3603]. Supportive Care in Cancer (2017). Low credibility.
 
-In patients with severe hypercalcaemia, the hormone calcitonin is an important adjunctive treatment that acts within 4 h of administration and can be used to immediately reduce calcium plasma concentrations. Calcitonin reduces calcium concentration by inhibiting osteoclast activity and increasing renal calcium clearance. It should be given at a dose of 4–8 units/kg subcutaneously or intramuscularly every 6–12 h; duration of dosing is, however, limited to 48 h owing to the development of tachyphylaxis and decreased responsiveness.
+In patients with severe hypercalcaemia, the hormone calcitonin is an important adjunctive treatment that acts within 4 h of administration and can be used to immediately reduce calcium plasma concentrations. Calcitonin reduces calcium concentration by inhibiting osteoclast activity and increasing renal calcium clearance. It should be given at a dose of 4–8 units/kg subcutaneously or intramuscularly every 6–12 h; duration of dosing is, however, limited to 48 h owing to the development of tachyphylaxis and decreased responsiveness.
 
 Currently, the standard treatment for hypercalcaemia of malignancy is rehydration combined with intravenous bisphosphonate therapy, with zoledronic acid preferred over pamidronate. In some countries, denosumab is approved for use in patients with bisphosphonate-refractory hypercalcaemia. In addition, calcitonin may be useful for patients with severe or life-threatening hypercalcaemia because it causes a rapid, albeit transient, decrease of high serum calcium levels.
 
@@ -519,31 +519,31 @@ Currently, the standard treatment for hypercalcaemia of malignancy is rehydratio
 
 ### The American Association of Endocrine Surgeons guidelines for the definitive surgical management of thyroid disease in adults [^3c770ed8]. AAES (2020). High credibility.
 
-American Association of Endocrine Surgeons (AAES) management of significant post-thyroidectomy hypocalcemia—Recommendation 61 states: “Patients with significant post-thyroidectomy hypocalcemia should receive oral calcium as first-line therapy, calcitriol as necessary, and intravenous calcium in severe or refractory situations. (Strong recommendation, low-quality evidence).” Practical dosing and adjuncts include: “Oral calcium carbonate is widely available without prescription, usually well tolerated, and a typical postoperative dose is 1–2 g, 2–3 times daily with prompt dose escalation as required for symptom relief (excess ingestion is readily excreted).” If symptoms persist with oral calcium, “oral calcitriol should also be initiated, at a typical dose of 0.25 to 0.5 mcg twice daily,” and laboratory evaluation can guide management: “Phosphorus level can help to distinguish between bone hunger (normal PO4) and hypoparathyroidism (elevated PO4). Magnesium and 25-OH vitamin D levels should also be checked.” For severe cases, infusion is preferred: “Intravenous boluses of calcium are not recommended due to their short-lived effect; infusions of calcium over several hours are more effective and preferred.”
+American Association of Endocrine Surgeons (AAES) management of significant post-thyroidectomy hypocalcemia — Recommendation 61 states: "Patients with significant post-thyroidectomy hypocalcemia should receive oral calcium as first-line therapy, calcitriol as necessary, and intravenous calcium in severe or refractory situations. (Strong recommendation, low-quality evidence)." Practical dosing and adjuncts include: "Oral calcium carbonate is widely available without prescription, usually well tolerated, and a typical postoperative dose is 1–2 g, 2–3 times daily with prompt dose escalation as required for symptom relief (excess ingestion is readily excreted)." If symptoms persist with oral calcium, "oral calcitriol should also be initiated, at a typical dose of 0.25 to 0.5 mcg twice daily," and laboratory evaluation can guide management: "Phosphorus level can help to distinguish between bone hunger (normal PO4) and hypoparathyroidism (elevated PO4). Magnesium and 25-OH vitamin D levels should also be checked." For severe cases, infusion is preferred: "Intravenous boluses of calcium are not recommended due to their short-lived effect; infusions of calcium over several hours are more effective and preferred."
 
 ---
 
 ### American Thyroid Association statement on postoperative hypoparathyroidism: diagnosis, prevention, and management in adults [^4b835cb8]. Thyroid (2018). Medium credibility.
 
-Postoperative hypoparathyroidism—initial adjuncts for symptomatic hypocalcemia: In symptomatic hypocalcemia with declining serum calcium or remaining <7 mg/dL, calcitriol, typically 0.25–0.5 µg twice daily, may be added; if the serum magnesium is <1.6 mg/dL, magnesium supplementation with 400 mg of magnesium oxide once or twice daily can expedite calcium recovery.
+Postoperative hypoparathyroidism — initial adjuncts for symptomatic hypocalcemia: In symptomatic hypocalcemia with declining serum calcium or remaining < 7 mg/dL, calcitriol, typically 0.25–0.5 µg twice daily, may be added; if the serum magnesium is < 1.6 mg/dL, magnesium supplementation with 400 mg of magnesium oxide once or twice daily can expedite calcium recovery.
 
 ---
 
 ### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^04940602]. Pediatrics (2008). Medium credibility.
 
-Vitamin D deficiency in infants and children—treatment indication notes that vitamin D therapy is necessary for infants and children who manifest clinical features of hypocalcemia as a result of vitamin D deficiency or rickets and when vitamin D levels are in the deficient range.
+Vitamin D deficiency in infants and children — treatment indication notes that vitamin D therapy is necessary for infants and children who manifest clinical features of hypocalcemia as a result of vitamin D deficiency or rickets and when vitamin D levels are in the deficient range.
 
 ---
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^91f82f06]. Kidney International Supplements (2017). Medium credibility.
 
-Adult CKD calcium rationale—“novel epidemiological evidence linking higher calcium concentrations to increased mortality in adults with CKD has accumulated,” and “hypocalcemia contributes to the pathogenesis of secondary hyperparathyroidism (SHPT) and renal osteodystrophy.” Although prior guidance favored “maintaining serum calcium in the normal range, including the correction of hypocalcemia,” newer observations include that a large dialysis cohort “confirmed the association between hypocalcemia and mortality risk,” that “the prevalence of hypocalcemia may have increased after the introduction of calcimimetics (cinacalcet) in patients on dialysis,” and that in the EVOLVE trial ITT population “no negative signals were associated with the persistently low serum calcium levels in the cinacalcet arm of the trial.”
+Adult CKD calcium rationale — "novel epidemiological evidence linking higher calcium concentrations to increased mortality in adults with CKD has accumulated," and "hypocalcemia contributes to the pathogenesis of secondary hyperparathyroidism (SHPT) and renal osteodystrophy." Although prior guidance favored "maintaining serum calcium in the normal range, including the correction of hypocalcemia," newer observations include that a large dialysis cohort "confirmed the association between hypocalcemia and mortality risk," that "the prevalence of hypocalcemia may have increased after the introduction of calcimimetics (cinacalcet) in patients on dialysis," and that in the EVOLVE trial ITT population "no negative signals were associated with the persistently low serum calcium levels in the cinacalcet arm of the trial."
 
 ---
 
 ### Treatment of hypercalcemia of malignancy in adults: an endocrine society clinical practice guideline [^946ac40a]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
-Denosumab versus intravenous bisphosphonate in hypercalcemia of malignancy—evidence-to-decision considerations and justification: The panel did not identify evidence for equity, resources required, or cost-effectiveness and considered that desirable effects were small with no evidence identified for important and critical undesirable effects. The panel based its recommendation on very low certainty evidence demonstrating lower incidence of skeletal-related events (SREs) and increased rates of hypocalcemia with denosumab (Dmab) compared with a bisphosphonate (BP), concluding that the balance of effects probably favors the intervention and that, although resources, cost-effectiveness, and equity would vary, the treatment would probably be feasible and accessible.
+Denosumab versus intravenous bisphosphonate in hypercalcemia of malignancy — evidence-to-decision considerations and justification: The panel did not identify evidence for equity, resources required, or cost-effectiveness and considered that desirable effects were small with no evidence identified for important and critical undesirable effects. The panel based its recommendation on very low certainty evidence demonstrating lower incidence of skeletal-related events (SREs) and increased rates of hypocalcemia with denosumab (Dmab) compared with a bisphosphonate (BP), concluding that the balance of effects probably favors the intervention and that, although resources, cost-effectiveness, and equity would vary, the treatment would probably be feasible and accessible.
 
 ---
 
@@ -578,13 +578,13 @@ Calcium is essential for homeostasis, and normocalcemia should be maintained str
 
 Conclusion
 
-Hypocalcemia in trauma patients is associated with increased mortality. Recent data highlight the integration of hypocalcemia into the trauma lethal triad—comprising hypothermia, acidosis, and coagulopathy—as a predictor of prognosis and mortality in critically injured patients. Based on our findings, we suggest that hypocalcemia should be closely monitored regardless of the history of transfusion. Further prospective evaluation is warranted to validate the benefits of early calcium administration in trauma patients.
+Hypocalcemia in trauma patients is associated with increased mortality. Recent data highlight the integration of hypocalcemia into the trauma lethal triad — comprising hypothermia, acidosis, and coagulopathy — as a predictor of prognosis and mortality in critically injured patients. Based on our findings, we suggest that hypocalcemia should be closely monitored regardless of the history of transfusion. Further prospective evaluation is warranted to validate the benefits of early calcium administration in trauma patients.
 
 ---
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^a1be9275]. Kidney International Supplements (2017). Medium credibility.
 
-KDIGO 2017 CKD-MBD 4.2.1—Evaluation and initial management of elevated parathyroid hormone (PTH) in nondialysis CKD: In patients with CKD G3a–G5 not on dialysis, the optimal PTH level is not known; however, we suggest that patients with levels of intact PTH progressively rising or persistently above the upper normal limit for the assay be first evaluated for hyperphosphatemia, hypocalcemia, and vitamin D deficiency (2C), and it is reasonable to correct these abnormalities with any or all of the following; reducing dietary phosphate intake and administering phosphate binders, calcium supplements, and/or native vitamin D (Not Graded).
+KDIGO 2017 CKD-MBD 4.2.1 — Evaluation and initial management of elevated parathyroid hormone (PTH) in nondialysis CKD: In patients with CKD G3a–G5 not on dialysis, the optimal PTH level is not known; however, we suggest that patients with levels of intact PTH progressively rising or persistently above the upper normal limit for the assay be first evaluated for hyperphosphatemia, hypocalcemia, and vitamin D deficiency (2C), and it is reasonable to correct these abnormalities with any or all of the following; reducing dietary phosphate intake and administering phosphate binders, calcium supplements, and/or native vitamin D (Not Graded).
 
 ---
 
@@ -618,7 +618,7 @@ In patients without advanced chronic kidney disease who are predisposed to hypoc
 
 Patients with Advanced Chronic Kidney Disease
 
-Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
 To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25(OH)2 vitamin D prior to decisions regarding Conexxence treatment. Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present. Monitor serum calcium weekly for the first month after Conexxence administration and monthly thereafter. Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation. Treatment with Conexxence in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD.
 
@@ -638,7 +638,7 @@ In patients without advanced chronic kidney disease who are predisposed to hypoc
 
 Patients with Advanced Chronic Kidney Disease
 
-Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
 To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease, mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2vitamin D prior to decisions regarding Bildyos treatment. Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present. Monitor serum calcium weekly for the first month after Bildyos administration and monthly thereafter. Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation. Treatment with Bildyos in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD.
 
@@ -666,17 +666,17 @@ Contributing authors reviewed the literature regarding physiology, pathophysiolo
 
 Evidence Synthesis
 
-Under normal circumstances, interactions between PTH and active vitamin D along with the dynamics of calcium and phosphorus absorption, renal tubular handing of those ions, and skeletal responsiveness help to maintain calcium homeostasis and skeletal health. In the absence of PTH, the gastrointestinal tract, kidneys, and skeleton are all affected, leading to hypocalcemia, hyperphosphatemia, reduced bone remodeling, and an inability to conserve filtered calcium. Acute hypocalcemia can be a medical emergency presenting with neuromuscular irritability. The recent availability of recombinant human PTH (1-84) has given hope that management of hypoparathyroidism with the missing hormone in this disorder will provide better control and reduced needs for calcium and vitamin D.
+Under normal circumstances, interactions between PTH and active vitamin D along with the dynamics of calcium and phosphorus absorption, renal tubular handing of those ions, and skeletal responsiveness help to maintain calcium homeostasis and skeletal health. In the absence of PTH, the gastrointestinal tract, kidneys, and skeleton are all affected, leading to hypocalcemia, hyperphosphatemia, reduced bone remodeling, and an inability to conserve filtered calcium. Acute hypocalcemia can be a medical emergency presenting with neuromuscular irritability. The recent availability of recombinant human PTH (1–84) has given hope that management of hypoparathyroidism with the missing hormone in this disorder will provide better control and reduced needs for calcium and vitamin D.
 
 Conclusions
 
-Hypoparathyroidism is associated with abnormal calcium and skeletal homeostasis. Control with calcium and active vitamin D can be a challenge. The availability of PTH (1-84) replacement therapy may usher new opportunities for better control with reduced supplementation requirements.
+Hypoparathyroidism is associated with abnormal calcium and skeletal homeostasis. Control with calcium and active vitamin D can be a challenge. The availability of PTH (1–84) replacement therapy may usher new opportunities for better control with reduced supplementation requirements.
 
 ---
 
 ### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the diagnosis, evaluation, and treatment of CKD-mineral and bone disorder (CKD-MBD) [^5d6e73b2]. American Journal of Kidney Diseases (2010). Medium credibility.
 
-CKD-MBD—initial approach to elevated parathyroid hormone (PTH) in CKD stages 3-5 not on dialysis states that “the optimal PTH level is not known,” and for patients with intact PTH (iPTH) “higher than the upper reference limit of the assay” the guideline says “we suggest” evaluation for “hyperphosphatemia, hypocalcemia, and vitamin D deficiency” (2C). “It is reasonable to correct these abnormalities” using “decreasing dietary phosphate intake” plus “phosphate binders, calcium supplements, and/or native vitamin D (not graded),” and “the suggested course of action is discretionary for US practitioners.”
+CKD-MBD — initial approach to elevated parathyroid hormone (PTH) in CKD stages 3–5 not on dialysis states that "the optimal PTH level is not known," and for patients with intact PTH (iPTH) "higher than the upper reference limit of the assay" the guideline says "we suggest" evaluation for "hyperphosphatemia, hypocalcemia, and vitamin D deficiency" (2C). "It is reasonable to correct these abnormalities" using "decreasing dietary phosphate intake" plus "phosphate binders, calcium supplements, and/or native vitamin D (not graded)," and "the suggested course of action is discretionary for US practitioners."
 
 ---
 
@@ -688,13 +688,13 @@ Hypocalcemia can be devastating if unrecognized. Neuromuscular dysfunction occur
 
 ### Treatment of hypercalcemia of malignancy in adults: an endocrine society clinical practice guideline [^0373de48]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
-Treatment regimens for hypercalcemia of malignancy—intravenous bisphosphonates include pamidronate and zoledronic acid. Pamidronate is given 60 to 90 mg IV over 2 to 24 hours and can be repeated every 2 to 3 weeks; effects last 7 to 14 days and may last 2 to 4 weeks, and it normalizes calcium in 60% to 70% of patients, with adverse events including acute-phase response, hypocalcemia, possible renal insufficiency if decreased glomerular filtration rate, and rare atypical femoral fractures/ONJ. Zoledronic acid is dosed 3 to 4 mg IV over 15 to 30 minutes, can be repeated in 7 days if desirable calcium level not achieved and every 3 to 4 weeks thereafter, yields 4 to 6 weeks of effect and normalizes calcium in 80% to 90% of patients, but may cause kidney damage especially if glomerular filtration rate <30 to 35 mL/ minute and requires dose adjustment if glomerular filtration rate <60 mL/min with administration over 30 to 60 minutes.
+Treatment regimens for hypercalcemia of malignancy — intravenous bisphosphonates include pamidronate and zoledronic acid. Pamidronate is given 60 to 90 mg IV over 2 to 24 hours and can be repeated every 2 to 3 weeks; effects last 7 to 14 days and may last 2 to 4 weeks, and it normalizes calcium in 60% to 70% of patients, with adverse events including acute-phase response, hypocalcemia, possible renal insufficiency if decreased glomerular filtration rate, and rare atypical femoral fractures/ONJ. Zoledronic acid is dosed 3 to 4 mg IV over 15 to 30 minutes, can be repeated in 7 days if desirable calcium level not achieved and every 3 to 4 weeks thereafter, yields 4 to 6 weeks of effect and normalizes calcium in 80% to 90% of patients, but may cause kidney damage especially if glomerular filtration rate < 30 to 35 mL/ minute and requires dose adjustment if glomerular filtration rate < 60 mL/min with administration over 30 to 60 minutes.
 
 ---
 
 ### American Thyroid Association statement on postoperative hypoparathyroidism: diagnosis, prevention, and management in adults [^256ce646]. Thyroid (2018). Medium credibility.
 
-Post-thyroidectomy hypoparathyroidism—incidence variability and definitional criteria are outlined as follows: Hypoparathyroidism is the most common complication of bilateral and re-operative thyroid operations. Reported rates are influenced by different time points after surgery, diverse electrolyte supplementation protocols, variable operation aggressiveness and surgeon expertise, and by variable use of clinical criteria including symptomatic versus asymptomatic hypocalcemia, biochemical criteria (serum parathyroid hormone [PTH] and/or calcium and/or ionized calcium), and treatment criteria (requirement for calcium and/or vitamin D supplementation). According to a recent meta-analysis, the median incidence of temporary and permanent hypoparathyroidism following thyroidectomy ranges from 19% to 38% and 0% to 3%, respectively.
+Post-thyroidectomy hypoparathyroidism — incidence variability and definitional criteria are outlined as follows: Hypoparathyroidism is the most common complication of bilateral and re-operative thyroid operations. Reported rates are influenced by different time points after surgery, diverse electrolyte supplementation protocols, variable operation aggressiveness and surgeon expertise, and by variable use of clinical criteria including symptomatic versus asymptomatic hypocalcemia, biochemical criteria (serum parathyroid hormone [PTH] and/or calcium and/or ionized calcium), and treatment criteria (requirement for calcium and/or vitamin D supplementation). According to a recent meta-analysis, the median incidence of temporary and permanent hypoparathyroidism following thyroidectomy ranges from 19% to 38% and 0% to 3%, respectively.
 
 ---
 
@@ -710,13 +710,13 @@ Preoperative calcium and/or vitamin D administration improves mean postoperative
 
 5.1 Severe Hypocalcemia and Mineral Metabolism Changes
 
-Denosumab products can cause severe hypocalcemia and fatal cases have been reported. Pre‑existing hypocalcemia must be corrected prior to initiating therapy with Jubbonti. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)] .
+Denosumab products can cause severe hypocalcemia and fatal cases have been reported. Pre‑existing hypocalcemia must be corrected prior to initiating therapy with Jubbonti. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)].
 
-In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g., history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to 14 days after Jubbonti injection. In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
+In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g., history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to 14 days after Jubbonti injection. In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
 Patients with Advanced Chronic Kidney Disease
 
-Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
 To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2vitamin D prior to decisions regarding Jubbonti treatment. Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present. Monitor serum calcium weekly for the first month after Jubbonti administration and monthly thereafter. Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation. Treatment with Jubbonti in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD
 
@@ -724,13 +724,13 @@ To minimize the risk of hypocalcemia in patients with advanced chronic kidney di
 
 ### Management guidelines for children with thyroid nodules and differentiated thyroid cancer [^1630c082]. Pediatrics (2018). Medium credibility.
 
-Recommendation 14(B)—postoperative hypocalcemia management using intact parathyroid hormone (iPTH) testing states that the early incorporation of calcium and calcitriol in patients at high risk for hypocalcemia may decrease the risks of symptomatic hypocalcemia, and postoperative iPTH measurement may be used to help predict which patients would benefit from more intensive monitoring and treatment; a postoperative iPTH level of <10–15 pg/mL correlates with an increased risk to develop clinically significant hypocalcemia, and the recommendation rating is B.
+Recommendation 14(B) — postoperative hypocalcemia management using intact parathyroid hormone (iPTH) testing states that the early incorporation of calcium and calcitriol in patients at high risk for hypocalcemia may decrease the risks of symptomatic hypocalcemia, and postoperative iPTH measurement may be used to help predict which patients would benefit from more intensive monitoring and treatment; a postoperative iPTH level of < 10–15 pg/mL correlates with an increased risk to develop clinically significant hypocalcemia, and the recommendation rating is B.
 
 ---
 
 ### American Thyroid Association statement on postoperative hypoparathyroidism: diagnosis, prevention, and management in adults [^f7747f23]. Thyroid (2018). Medium credibility.
 
-American Thyroid Association postoperative hypoparathyroidism—risk factors, thresholds, and management are summarized as follows: Hypoparathyroidism occurs when a low intact parathyroid hormone (PTH) level is accompanied by hypocalcemia. Risk factors for post-thyroidectomy hypoparathyroidism include bilateral thyroid operations, autoimmune thyroid disease, central neck dissection, substernal goiter, surgeon inexperience, and malabsorptive conditions. Measurement of intraoperative or early postoperative PTH levels following thyroidectomy can help guide patient management, and in general, a postoperative PTH level ≤15 pg/mL indicates increased risk for acute hypoparathyroidism. Effective management of mild to moderate potential or actual postoperative hypoparathyroidism can be achieved by administering either empiric/prophylactic oral calcium and vitamin D, selective oral calcium and vitamin D based on rapid postoperative PTH level(s), or serial serum calcium levels as a guide for supplementation; for more severe hypocalcemia, inpatient management may be necessary. Permanent hypoparathyroidism has long-term consequences for both objective and subjective well-being, and should be prevented whenever possible.
+American Thyroid Association postoperative hypoparathyroidism — risk factors, thresholds, and management are summarized as follows: Hypoparathyroidism occurs when a low intact parathyroid hormone (PTH) level is accompanied by hypocalcemia. Risk factors for post-thyroidectomy hypoparathyroidism include bilateral thyroid operations, autoimmune thyroid disease, central neck dissection, substernal goiter, surgeon inexperience, and malabsorptive conditions. Measurement of intraoperative or early postoperative PTH levels following thyroidectomy can help guide patient management, and in general, a postoperative PTH level ≤ 15 pg/mL indicates increased risk for acute hypoparathyroidism. Effective management of mild to moderate potential or actual postoperative hypoparathyroidism can be achieved by administering either empiric/prophylactic oral calcium and vitamin D, selective oral calcium and vitamin D based on rapid postoperative PTH level(s), or serial serum calcium levels as a guide for supplementation; for more severe hypocalcemia, inpatient management may be necessary. Permanent hypoparathyroidism has long-term consequences for both objective and subjective well-being, and should be prevented whenever possible.
 
 ---
 
@@ -750,7 +750,7 @@ The last search was made on September 16, 2024. Three independent reviewers eval
 
 Results
 
-This systematic review and meta‐analysis considered 13 studies with 1504 participants. There were positive results in treatment outcomes including the mean postoperative calcium level (MD, 0.30 mg/dL: 95% CI, 0.15 to 0.44); the 48 h of postoperative hypocalcemia (OR, 0.41; 95% CI, 0.27 to 0.62); the postoperative symptomatic hypocalcemia (OR, 0.38; 95% CI, 0.24 to 0.62); the IV calcium supplementation (OR, 0.32; 95% CI, 0.18 to 0.58); and length of hospital stays (MD, −0.29; 95% CI, −0.51 to −0.07) as compared to the control group. Readmission rates showed no significant differences between the groups (OR, 0.15; 95% CI, 0.01 to 3.08).
+This systematic review and meta‐analysis considered 13 studies with 1504 participants. There were positive results in treatment outcomes including the mean postoperative calcium level (MD, 0.30 mg/dL: 95% CI, 0.15 to 0.44); the 48 h of postoperative hypocalcemia (OR, 0.41; 95% CI, 0.27 to 0.62); the postoperative symptomatic hypocalcemia (OR, 0.38; 95% CI, 0.24 to 0.62); the IV calcium supplementation (OR, 0.32; 95% CI, 0.18 to 0.58); and length of hospital stays (MD, −0.29; 95% CI, −0.51 to −0.07) as compared to the control group. Readmission rates showed no significant differences between the groups (OR, 0.15; 95% CI, 0.01 to 3.08).
 
 Conclusions
 
@@ -768,13 +768,13 @@ Level of Evidence
 
 ### Revised American Thyroid Association guidelines for the management of medullary thyroid carcinoma [^f8a79cc8]. Thyroid (2015). Medium credibility.
 
-Recommendation 32—postoperative calcium monitoring and treatment states that serum calcium levels should be monitored postoperatively, oral calcium and vitamin D should be given to patients with symptomatic hypocalcemia, and chronic replacement therapy is indicated in patients who cannot be weaned from medication; Grade B Recommendation.
+Recommendation 32 — postoperative calcium monitoring and treatment states that serum calcium levels should be monitored postoperatively, oral calcium and vitamin D should be given to patients with symptomatic hypocalcemia, and chronic replacement therapy is indicated in patients who cannot be weaned from medication; Grade B Recommendation.
 
 ---
 
 ### Treatment of hypercalcemia of malignancy in adults: an endocrine society clinical practice guideline [^ad84a827]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
-Hypercalcemia of malignancy (HCM) ungraded good practice statements—The panel lists eight UGPSs: 1) “adequate hydration with intravenous (IV) fluids is first-line therapy while awaiting the effect of antiresorptive drugs” and therapy should be “tailored according to cardiac function”; 2) “dental hygiene and oral health, including visual examination of the mouth, should be monitored” during antiresorptive therapy; 3) to avoid hypocalcemia with antiresorptives, “vitamin D levels should be monitored and managed in accordance with Endocrine Society vitamin D guidelines,” noting “These guidelines are however not specific to patients with HCM”; 4) “renal function (creatinine clearance or estimated glomerular filtration rate [eGFR]) should be assessed prior to administration of IV BPs”; 5) in renal insufficiency (“creatinine clearance <60 mL/min”) treated with IV BPs, use “renal BP dosing of zoledronic acid over 30 to 60 minutes or renal BP dosing of pamidronate over 2 to 24 hours”; 6) “serum magnesium and phosphorous levels should be monitored and repleted if deemed to be low”; 7) “clinical oncology consultation to guide treatment of the underlying malignancy should be obtained”; and 8) for hypercalcemia due to parathyroid carcinoma, “surgical consultation should be pursued for definitive treatment.”
+Hypercalcemia of malignancy (HCM) ungraded good practice statements — The panel lists eight UGPSs: 1) "adequate hydration with intravenous (IV) fluids is first-line therapy while awaiting the effect of antiresorptive drugs" and therapy should be "tailored according to cardiac function"; 2) "dental hygiene and oral health, including visual examination of the mouth, should be monitored" during antiresorptive therapy; 3) to avoid hypocalcemia with antiresorptives, "vitamin D levels should be monitored and managed in accordance with Endocrine Society vitamin D guidelines," noting "These guidelines are however not specific to patients with HCM"; 4) "renal function (creatinine clearance or estimated glomerular filtration rate [eGFR]) should be assessed prior to administration of IV BPs"; 5) in renal insufficiency ("creatinine clearance < 60 mL/min") treated with IV BPs, use "renal BP dosing of zoledronic acid over 30 to 60 minutes or renal BP dosing of pamidronate over 2 to 24 hours"; 6) "serum magnesium and phosphorous levels should be monitored and repleted if deemed to be low"; 7) "clinical oncology consultation to guide treatment of the underlying malignancy should be obtained"; and 8) for hypercalcemia due to parathyroid carcinoma, "surgical consultation should be pursued for definitive treatment."
 
 ---
 
@@ -790,7 +790,7 @@ The safety and effectiveness of calcium chloride injection for long-term use has
 
 Calcium chloride injection is a form of calcium indicated for the treatment of adult and pediatric and patients with acute symptomatic hypocalcemia. (1)
 
-Limitations of Use :
+Limitations of Use:
 
 The safety and effectiveness of calcium chloride injection for long-term use has not been established.
 
@@ -798,7 +798,7 @@ The safety and effectiveness of calcium chloride injection for long-term use has
 
 ### Child with suspected hypocalcemia [^c3d90df0]. PES (2020). High credibility.
 
-Child with suspected hypocalcemia—oral calcium treatment dose and elemental calcium content by formulation are provided as follows: Usual treatment dose for oral calcium treatment is 50-100mg of elemental calcium/kg/day; elemental calcium content by salt (% CALCIUM; mEq/g (CALCIUM)) is Calcium acetate 25; 12.5, Calcium carbonate 40; 20, Calcium citrate 21; 10.5, Calcium glubionate 6.5; 3.3, Calcium gluconate 9; 4.5, Calcium lactate 13; 6.5, Calcium phosphate, dibasic 23; 11.5, and Calcium phosphate, tribasic 39; 19.5.
+Child with suspected hypocalcemia — oral calcium treatment dose and elemental calcium content by formulation are provided as follows: Usual treatment dose for oral calcium treatment is 50-100mg of elemental calcium/kg/day; elemental calcium content by salt (% CALCIUM; mEq/g (CALCIUM)) is Calcium acetate 25; 12.5, Calcium carbonate 40; 20, Calcium citrate 21; 10.5, Calcium glubionate 6.5; 3.3, Calcium gluconate 9; 4.5, Calcium lactate 13; 6.5, Calcium phosphate, dibasic 23; 11.5, and Calcium phosphate, tribasic 39; 19.5.
 
 ---
 
@@ -826,15 +826,15 @@ Routine oral calcium and vitamin D supplementation and autotransplantation of at
 
 Background
 
-Calcium and calcitriol supplements are standard for patients with post-thyroidectomy serum calcium <2.0 mmol/L; however, we wondered whether we overtreat post-thyroidectomy hypocalcemia with intraoperative parathyroid hormone (PTH). We examined quick-intraoperative intact PTH (QiPTH) assay results to find a suitable treatment for post-thyroidectomy hypocalcemia.
+Calcium and calcitriol supplements are standard for patients with post-thyroidectomy serum calcium < 2.0 mmol/L; however, we wondered whether we overtreat post-thyroidectomy hypocalcemia with intraoperative parathyroid hormone (PTH). We examined quick-intraoperative intact PTH (QiPTH) assay results to find a suitable treatment for post-thyroidectomy hypocalcemia.
 
 Methods
 
-We studied 197 bilateral thyroidectomy patients. Post-thyroidectomy hypocalcemia was defined as serum calcium <2.0 mmol/L. A QiPTH assay was done 15 min after the thyroidectomy (QiPTH(15)), and hypoparathyroidism was defined as PTH <15 ng/L. The QiPTH(15) assay was used to determine the effects of the thyroidectomy on postoperative PTH levels and serum calcium levels. The natural course and medical response of hypocalcemia was observed in patients with a QiPTH(15) ≥ 15 ng/L.
+We studied 197 bilateral thyroidectomy patients. Post-thyroidectomy hypocalcemia was defined as serum calcium < 2.0 mmol/L. A QiPTH assay was done 15 min after the thyroidectomy (QiPTH(15)), and hypoparathyroidism was defined as PTH < 15 ng/L. The QiPTH(15) assay was used to determine the effects of the thyroidectomy on postoperative PTH levels and serum calcium levels. The natural course and medical response of hypocalcemia was observed in patients with a QiPTH(15) ≥ 15 ng/L.
 
 Results
 
-None of the 187 patients with a QiPTH(15) ≥ 15 ng/L developed postoperative hypoparathyroidism. However, 79 patients developed transient hypocalcemia, and those with Graves' disease (47/94) had significantly (p < 0.05) higher hypocalcemia than those with non-Graves' thyroid disease (32/93). The serum calcium of these 79 patients declined to its lowest level within the first postoperative 18 h. Seven patients with serum calcium <1.75 mmol/L were successfully treated using a calcium supplement only, and the others recovered spontaneously without treatment.
+None of the 187 patients with a QiPTH(15) ≥ 15 ng/L developed postoperative hypoparathyroidism. However, 79 patients developed transient hypocalcemia, and those with Graves' disease (47/94) had significantly (p < 0.05) higher hypocalcemia than those with non-Graves' thyroid disease (32/93). The serum calcium of these 79 patients declined to its lowest level within the first postoperative 18 h. Seven patients with serum calcium < 1.75 mmol/L were successfully treated using a calcium supplement only, and the others recovered spontaneously without treatment.
 
 Conclusions
 
@@ -844,7 +844,7 @@ When post-thyroidectomy QiPTH(15) was ≥ 15 ng/L, postoperative hypoparathyroid
 
 ### The American Association of Endocrine Surgeons guidelines for the definitive surgical management of thyroid disease in adults [^19a37e9c]. AAES (2020). High credibility.
 
-Calcium supplementation after thyroidectomy—risk and protocols indicate that because 2 contralateral parathyroid glands remain in situ, there is no risk of hypocalcemia with initial lobectomy and no need to measure postoperative calcium. After total or completion thyroidectomy, common approaches include postoperative serum calcium measurement with selective calcium±calcitriol supplementation, routine prophylactic calcium±calcitriol for all patients, or PTH-guided early supplementation. In a prospective cohort study of >400 patients, PTH-based selective dosing of calcium and vitamin D reduced symptoms of hypocalcemia and critically low calcium levels.
+Calcium supplementation after thyroidectomy — risk and protocols indicate that because 2 contralateral parathyroid glands remain in situ, there is no risk of hypocalcemia with initial lobectomy and no need to measure postoperative calcium. After total or completion thyroidectomy, common approaches include postoperative serum calcium measurement with selective calcium ± calcitriol supplementation, routine prophylactic calcium ± calcitriol for all patients, or PTH-guided early supplementation. In a prospective cohort study of > 400 patients, PTH-based selective dosing of calcium and vitamin D reduced symptoms of hypocalcemia and critically low calcium levels.
 
 ---
 
@@ -852,7 +852,7 @@ Calcium supplementation after thyroidectomy—risk and protocols indicate that b
 
 5.1	Severe Hypocalcemia and Mineral Metabolism Changes
 
-Prolia can cause severe hypocalcemia and fatal cases have been reported. Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)] .
+Prolia can cause severe hypocalcemia and fatal cases have been reported. Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)].
 
 In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to14 days after Prolia injection. In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
@@ -878,7 +878,7 @@ In conclusion, hypocalcemia is a common finding in shocked trauma patients, in w
 
 ### Vitamin D for the prevention of disease: an endocrine society clinical practice guideline [^2f8acb23]. The Journal of Clinical Endocrinology and Metabolism (2024). High credibility.
 
-Endocrine Society clinical practice guideline—vitamin D testing in generally healthy adults aged 50 to 74 years—states: In the general population aged 50 to 74 years, we suggest against routine 25(OH)D testing, noting that in this population 25(OH)D levels that provide outcome-specific benefits have not been established in clinical trials; the panel suggests against routine screening for a 25(OH)D level to guide decision-making and against routine follow-up testing for 25(OH)D level to guide vitamin D dosing; and this recommendation relates to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia).
+Endocrine Society clinical practice guideline — vitamin D testing in generally healthy adults aged 50 to 74 years — states: In the general population aged 50 to 74 years, we suggest against routine 25(OH)D testing, noting that in this population 25(OH)D levels that provide outcome-specific benefits have not been established in clinical trials; the panel suggests against routine screening for a 25(OH)D level to guide decision-making and against routine follow-up testing for 25(OH)D level to guide vitamin D dosing; and this recommendation relates to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia).
 
 ---
 
@@ -886,13 +886,13 @@ Endocrine Society clinical practice guideline—vitamin D testing in generally h
 
 5.1	 Severe Hypocalcemia and Mineral Metabolism Changes
 
-Denosumab products can cause severe hypocalcemia and fatal cases have been reported. Pre-existing hypocalcemia must be corrected prior to initiating therapy with Stoboclo. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)] .
+Denosumab products can cause severe hypocalcemia and fatal cases have been reported. Pre-existing hypocalcemia must be corrected prior to initiating therapy with Stoboclo. Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)].
 
 In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to 14 days after Stoboclo injection. In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
 Patients with Advanced Chronic Kidney Disease
 
-Patients with advanced chronic kidney disease [i.e., eGFR <30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
+Patients with advanced chronic kidney disease [i.e., eGFR < 30 mL/min/1.73 m2] including dialysis-dependent patients are at greater risk for severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported. The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia. Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
 To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25(OH)2vitamin D prior to decisions regarding Stoboclo treatment. Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present. Monitor serum calcium weekly for the first month after Stoboclo administration and monthly thereafter. Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation. Treatment with Stoboclo in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD.
 
@@ -902,7 +902,7 @@ To minimize the risk of hypocalcemia in patients with advanced chronic kidney di
 
 Background
 
-Post-surgical hypoparathyroidism is a common complication after thyroid surgery. The incidence is likely to increase given the rising trend in the annual number of thyroid operations being performed. Measures to prevent post-thyroidectomy hypoparathyroidism including different surgical techniques and prophylactic calcium and vitamin D supplements have been extensively studied. The management of post-thyroidectomy hypoparathyroidism however has not been extensively evaluated. Routine use of calcium and vitamin D supplements in the postoperative period may reduce the risk of symptoms, temporary hypocalcaemia and hospital stay. However, this may lead to overtreatment and has no effect on long-term hypoparathyroidism. Current recommendations on the management of post-thyroidectomy hypoparathyroidism is based on low-quality evidence. Existing guidelines do not often distinguish between surgical and non-surgical hypoparathyroidism, and transient and long-term disease.The aim of this systematic review was to summarise evidence on the use of calcium, vitamin D and recombinant parathyroid hormone in the management of post-thyroidectomy hypoparathyroidism. In addition, we aimed to highlight deficiencies in the current literature and stimulate further work in this field.
+Post-surgical hypoparathyroidism is a common complication after thyroid surgery. The incidence is likely to increase given the rising trend in the annual number of thyroid operations being performed. Measures to prevent post-thyroidectomy hypoparathyroidism including different surgical techniques and prophylactic calcium and vitamin D supplements have been extensively studied. The management of post-thyroidectomy hypoparathyroidism however has not been extensively evaluated. Routine use of calcium and vitamin D supplements in the postoperative period may reduce the risk of symptoms, temporary hypocalcaemia and hospital stay. However, this may lead to overtreatment and has no effect on long-term hypoparathyroidism. Current recommendations on the management of post-thyroidectomy hypoparathyroidism is based on low-quality evidence. Existing guidelines do not often distinguish between surgical and non-surgical hypoparathyroidism, and transient and long-term disease. The aim of this systematic review was to summarise evidence on the use of calcium, vitamin D and recombinant parathyroid hormone in the management of post-thyroidectomy hypoparathyroidism. In addition, we aimed to highlight deficiencies in the current literature and stimulate further work in this field.
 
 Objectives
 
@@ -932,13 +932,13 @@ This systematic review highlights a gap in the current literature and the lack o
 
 ### Hypercalcemic crisis: a clinical review [^abcfc4ee]. The American Journal of Medicine (2015). Low credibility.
 
-Hypercalcemia is a common metabolic perturbation. However, hypercalcemic crisis is an unusual endocrine emergency, with little clinical scientific data to support therapeutic strategy. We review the relevant scientific English literature on the topic and review current management strategies after conducting a PubMed, MEDLINE, and Google Scholar search for articles published between 1930 and June 2014 using specific keywords: "hypercalcemic crisis," "hyperparathyroid crisis," "parathyroid storm," "severe primary hyperparathyroidism," "acute hyperparathyroidism," and "severe hypercalcemia" for articles pertaining to the diagnosis, epidemiology, clinical presentation, and treatment strategies. Despite extensive clinical experience, large and well-designed clinical studies to direct appropriate clinical care are lacking. Nonetheless, morbidity and mortality rates have substantially decreased since early series reported almost universal fatality. Improved outcomes can be attributed to modern diagnostic capabilities, leading to earlier diagnosis, along with the recognition that primary hyperparathyroidism is the most common etiology for hypercalcemic crisis. Hypercalcemic crisis is an unusual endocrine emergency that portends excellent outcomes if rapid diagnosis, medical treatment, and definitive surgical treatment are expedited.
+Hypercalcemia is a common metabolic perturbation. However, hypercalcemic crisis is an unusual endocrine emergency, with little clinical scientific data to support therapeutic strategy. We review the relevant scientific English literature on the topic and review current management strategies after conducting a PubMed, MEDLINE, and Google Scholar search for articles published between 1930 and June 2014 using specific keywords: "hypercalcemic crisis", "hyperparathyroid crisis", "parathyroid storm", "severe primary hyperparathyroidism", "acute hyperparathyroidism", and "severe hypercalcemia" for articles pertaining to the diagnosis, epidemiology, clinical presentation, and treatment strategies. Despite extensive clinical experience, large and well-designed clinical studies to direct appropriate clinical care are lacking. Nonetheless, morbidity and mortality rates have substantially decreased since early series reported almost universal fatality. Improved outcomes can be attributed to modern diagnostic capabilities, leading to earlier diagnosis, along with the recognition that primary hyperparathyroidism is the most common etiology for hypercalcemic crisis. Hypercalcemic crisis is an unusual endocrine emergency that portends excellent outcomes if rapid diagnosis, medical treatment, and definitive surgical treatment are expedited.
 
 ---
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^140f851c]. Kidney International Supplements (2017). Medium credibility.
 
-KDIGO 2017 CKD-MBD—risk–benefit rationale for calcitriol or vitamin D analogs emphasizes hypercalcemia risk without cardiac benefit and limits use to severe, progressive SHPT. Two trials “demonstrated a significantly increased risk of hypercalcemia in patients treated with paricalcitol, compared with placebo, in the absence of beneficial effects on surrogate cardiac endpoints,” leading the Work Group to state that “the use of calcitriol or vitamin D analogs should be reserved for only severe and progressive SHPT.” The key evidence for changes in Recommendation 4.2.2 predominantly came from these trials.
+KDIGO 2017 CKD-MBD — risk–benefit rationale for calcitriol or vitamin D analogs emphasizes hypercalcemia risk without cardiac benefit and limits use to severe, progressive SHPT. Two trials "demonstrated a significantly increased risk of hypercalcemia in patients treated with paricalcitol, compared with placebo, in the absence of beneficial effects on surrogate cardiac endpoints," leading the Work Group to state that "the use of calcitriol or vitamin D analogs should be reserved for only severe and progressive SHPT." The key evidence for changes in Recommendation 4.2.2 predominantly came from these trials.
 
 ---
 
@@ -999,19 +999,19 @@ We exclude studies focused on patients who underwent partial thyroidectomy, conc
 Search Strategy
 
 This study aimed to determine the efficacy of preoperative calcium and/or vitamin D supplementation in patients who underwent total/completion thyroidectomy in preventing postoperative hypocalcemia. The PICOS framework of this study consisted of the following:
-Population : Patients underwent a total/complete thyroidectomy.
-Intervention : Preoperative vitamin D and/or calcium supplements.
-Comparison : No treatment or placebo.
-Outcomes : Postoperative serum calcium level.
-Study designs : Randomized control trials.
+Population: Patients underwent a total/complete thyroidectomy.
+Intervention: Preoperative vitamin D and/or calcium supplements.
+Comparison: No treatment or placebo.
+Outcomes: Postoperative serum calcium level.
+Study designs: Randomized control trials.
 
-We performed searches in two databases, including OVID Medline and Embase. A manual search was also carried out. Keywords included “total thyroidectomy,” “bilateral thyroid surgery,” “calcium supplement,” and “vitamin D supplement” (Tables S1 and S2). Duplicate records were removed using Endnote version 20 prior to the screening phase. The last search was made on September 16, 2024.
+We performed searches in two databases, including OVID Medline and Embase. A manual search was also carried out. Keywords included "total thyroidectomy," "bilateral thyroid surgery," "calcium supplement," and "vitamin D supplement" (Tables S1 and S2). Duplicate records were removed using Endnote version 20 prior to the screening phase. The last search was made on September 16, 2024.
 
 ---
 
 ### Treatment of hypercalcemia of malignancy in adults: an endocrine society clinical practice guideline [^c4550234]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
-GRADE strength of recommendation classifications—interpretation: “1. Strong recommendation for or against” is defined as “Desirable consequences CLEARLY OUTWEIGH the undesirable consequences in most settings (or vice versa),” with patient interpretation that “Most individuals in this situation would want the recommended course of action, and only a small proportion would not,” and provider interpretation that “Most individuals should follow the recommended course of action.” “2. Conditional recommendation for or against” is defined as “Desirable consequences PROBABLY OUTWEIGH undesirable consequences in most settings (or vice versa),” with patient interpretation that “The majority of individuals in this situation would want the suggested course of action, but many would not,” provider guidance that “Clinicians should recognize that different choices will be appropriate for each individual,” and policy interpretation that “Policy-making will require substantial debate and involvement of various stakeholders.”
+GRADE strength of recommendation classifications — interpretation: "1. Strong recommendation for or against" is defined as "Desirable consequences CLEARLY OUTWEIGH the undesirable consequences in most settings (or vice versa)," with patient interpretation that "Most individuals in this situation would want the recommended course of action, and only a small proportion would not," and provider interpretation that "Most individuals should follow the recommended course of action." "2. Conditional recommendation for or against" is defined as "Desirable consequences PROBABLY OUTWEIGH undesirable consequences in most settings (or vice versa)," with patient interpretation that "The majority of individuals in this situation would want the suggested course of action, but many would not," provider guidance that "Clinicians should recognize that different choices will be appropriate for each individual," and policy interpretation that "Policy-making will require substantial debate and involvement of various stakeholders."
 
 ---
 
@@ -1039,18 +1039,18 @@ Calcium is a key component of trauma resuscitation and the coagulation cascade. 
 
 DISCUSSION
 
-This systematic review and meta‐analysis considered 13 studies with 1504 participants. There were positive results in treatment outcomes including the mean postoperative calcium level, the 48 h of postoperative hypocalcemia; the postoperative symptomatic hypocalcemia; the IV calcium supplementation rates; and the length of hospital stays compared with the control group. However, the readmission rates did not demonstrate statistical significance. Subgroup analysis revealed that the intervention group had a higher mean postoperative calcium level than the control group for the combined preoperative and postoperative supplementation subgroups and the combined calcium and vitamin D supplementation subgroup. The summary of the effects of interventions is provided in Table II.
+This systematic review and meta‐analysis considered 13 studies with 1504 participants. There were positive results in treatment outcomes including the mean postoperative calcium level, the 48 h of postoperative hypocalcemia; the postoperative symptomatic hypocalcemia; the IV calcium supplementation rates; and the length of hospital stays compared with the control group. However, the readmission rates did not demonstrate statistical significance. Subgroup analysis revealed that the intervention group had a higher mean postoperative calcium level than the control group for the combined preoperative and postoperative supplementation subgroups and the combined calcium and vitamin D supplementation subgroup. The summary of the effects of interventions is provided in Table II.
 
-Table II 
+Table II
 Summary of effects of interventions.
 
-To our knowledge, this is the first and largest meta‐analysis of patients who underwent total thyroidectomy and received preoperative calcium and/or vitamin D supplementation. Khatiwada et al. and Casey et al. published a qualitative systematic review on this subject recently.In our review, every trial included in both articles has already been assessed. We decided to do a meta‐analysis despite the presence of heterogeneity because we believe it can still provide useful insights by statistically summarizing the findings of different studies. This quantitative synthesis may be useful in the identification of patterns, trends, and potential sources of heterogeneity. Additionally, we hope that it might advance our understanding of the subject along with improving our clinical practice.
+To our knowledge, this is the first and largest meta‐analysis of patients who underwent total thyroidectomy and received preoperative calcium and/or vitamin D supplementation. Khatiwada et al. and Casey et al. published a qualitative systematic review on this subject recently. In our review, every trial included in both articles has already been assessed. We decided to do a meta‐analysis despite the presence of heterogeneity because we believe it can still provide useful insights by statistically summarizing the findings of different studies. This quantitative synthesis may be useful in the identification of patterns, trends, and potential sources of heterogeneity. Additionally, we hope that it might advance our understanding of the subject along with improving our clinical practice.
 
 ---
 
 ### Vitamin D for the prevention of disease: an endocrine society clinical practice guideline [^d70be978]. The Journal of Clinical Endocrinology and Metabolism (2024). High credibility.
 
-25(OH)D testing in adults aged 75 years and older—in the general population aged 75 years and older, we suggest against routine testing for 25(OH)D levels; in this population, 25(OH)D thresholds that provide outcome-specific benefits have not been established in clinical trials, and the panel suggests against routine screening to guide decision-making and routine follow-up testing to guide vitamin D dosing, with this recommendation relating to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia).
+25(OH)D testing in adults aged 75 years and older — in the general population aged 75 years and older, we suggest against routine testing for 25(OH)D levels; in this population, 25(OH)D thresholds that provide outcome-specific benefits have not been established in clinical trials, and the panel suggests against routine screening to guide decision-making and routine follow-up testing to guide vitamin D dosing, with this recommendation relating to generally healthy adults who do not otherwise have established indications for 25(OH)D testing (eg, hypocalcemia).
 
 ---
 
@@ -1058,8 +1058,8 @@ To our knowledge, this is the first and largest meta‐analysis of patients who 
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
 
-Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)] .
-The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)] .
+Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)].
+The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)].
 Prior to initiating Conexxence in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Conexxence in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
@@ -1080,7 +1080,7 @@ Hypercalcemia is a disorder commonly encountered by primary care physicians. The
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^2b789287]. Kidney International Supplements (2017). Medium credibility.
 
-Chapter 4.3: treatment of bone with bisphosphonates, other osteoporosis medications, and growth hormone—in patients with CKD G3a–G5D with biochemical abnormalities of CKD-MBD and low BMD and/or fragility fractures, we suggest that treatment choices take into account the magnitude and reversibility of the biochemical abnormalities and the progression of CKD, with consideration of a bone biopsy (2D). Recommendation 3.2.2 now addresses the indications for a bone biopsy prior to antiresorptive and other osteoporosis therapies, the original Recommendation 4.3.4 has been removed, and Recommendation 4.3.3 has broadened from CKD G3a to G3b to CKD G3a to G5D. When such treatment choices are considered, their specific side effects must also be taken into account (e.g., antiresorptives will exacerbate low bone turnover, denosumab may induce significant hypocalcemia), and the risk of their administration must be weighed against the accuracy of the diagnosis of the underlying bone phenotype.
+Chapter 4.3: treatment of bone with bisphosphonates, other osteoporosis medications, and growth hormone — in patients with CKD G3a–G5D with biochemical abnormalities of CKD-MBD and low BMD and/or fragility fractures, we suggest that treatment choices take into account the magnitude and reversibility of the biochemical abnormalities and the progression of CKD, with consideration of a bone biopsy (2D). Recommendation 3.2.2 now addresses the indications for a bone biopsy prior to antiresorptive and other osteoporosis therapies, the original Recommendation 4.3.4 has been removed, and Recommendation 4.3.3 has broadened from CKD G3a to G3b to CKD G3a to G5D. When such treatment choices are considered, their specific side effects must also be taken into account (e.g., antiresorptives will exacerbate low bone turnover, denosumab may induce significant hypocalcemia), and the risk of their administration must be weighed against the accuracy of the diagnosis of the underlying bone phenotype.
 
 ---
 
@@ -1088,19 +1088,19 @@ Chapter 4.3: treatment of bone with bisphosphonates, other osteoporosis medicati
 
 As stated previously, the subgroup analysis of various related factors demonstrated significant effects on the mean postoperative calcium level. This information could benefit clinical implementation to achieve optimal outcomes. However, it is important to note that there appears to be weak evidence suggesting that preoperative calcium alone plays a significant role in improving postoperative findings. Our analysis revealed that calcium supplementation alone did not provide significant benefits, and there was not much difference between vitamin D alone and vitamin D combined with calcium supplementation. This finding underscores the importance of considering vitamin D supplementation, either alone or in combination with calcium, rather than calcium alone in preoperative protocols.
 
-According to Tartagia et al. if supplementing began right away after surgery, the incidence of postoperative hypocalcemia would not decrease within 24 h; instead, it would decrease 2 to 3 days later.According to Sturniolo et al. the incidence of hypocalcemia following surgery is highest during the first 24 h. Additionally, based on the pharmacokinetics of the active form of vitamin D, which has a half‐life of 6 to 8 h, it takes six to eight half‐lives to reach the therapeutic level or 48 h. For this reason, the cut‐off point for our analysis was set at 3 days. We found that the benefits of supplementing 3 days before surgery are equivalent to those of longer periods.
+According to Tartagia et al. if supplementing began right away after surgery, the incidence of postoperative hypocalcemia would not decrease within 24 h; instead, it would decrease 2 to 3 days later. According to Sturniolo et al. the incidence of hypocalcemia following surgery is highest during the first 24 h. Additionally, based on the pharmacokinetics of the active form of vitamin D, which has a half‐life of 6 to 8 h, it takes six to eight half‐lives to reach the therapeutic level or 48 h. For this reason, the cut‐off point for our analysis was set at 3 days. We found that the benefits of supplementing 3 days before surgery are equivalent to those of longer periods.
 
-The selection of calcium supplementation, vitamin D supplementation, or a combination thereof should be guided by individual patient characteristics, including baseline vitamin D and calcium levels, comorbidities, and potential adverse effects. A recognized synergistic effect between calcium and vitamin D has been established.Based on our systematic review and meta‐analysis, we propose the following evidence‐based recommendations, acknowledging that optimal regimens may vary, and further research is warranted.
+The selection of calcium supplementation, vitamin D supplementation, or a combination thereof should be guided by individual patient characteristics, including baseline vitamin D and calcium levels, comorbidities, and potential adverse effects. A recognized synergistic effect between calcium and vitamin D has been established. Based on our systematic review and meta‐analysis, we propose the following evidence‐based recommendations, acknowledging that optimal regimens may vary, and further research is warranted.
 
-For less complex thyroid surgeries, a single high‐dose vitamin D regimen, often combined with calcium, has demonstrated efficacy. Rowe et al. (2019) reported that administering 300,000 IU cholecalciferol 7 days preoperatively reduced symptomatic hypocalcemia.This evidence supports using a single high‐dose approach in uncomplicated cases.
+For less complex thyroid surgeries, a single high‐dose vitamin D regimen, often combined with calcium, has demonstrated efficacy. Rowe et al. (2019) reported that administering 300,000 IU cholecalciferol 7 days preoperatively reduced symptomatic hypocalcemia. This evidence supports using a single high‐dose approach in uncomplicated cases.
 
-Patients undergoing more extensive thyroid surgery or those with pre‐existing vitamin D deficiency may benefit from more intensive supplementation strategies. A short‐term high‐dose regimen consisting of weekly doses of 50,000 IU vitamin D for approximately 4 weeks has shown significant efficacy. Ramouz et al. (2020) demonstrated that this regimen significantly reduced postoperative hypocalcemia in vitamin D‐deficient patients undergoing total thyroidectomy.
+Patients undergoing more extensive thyroid surgery or those with pre‐existing vitamin D deficiency may benefit from more intensive supplementation strategies. A short‐term high‐dose regimen consisting of weekly doses of 50,000 IU vitamin D for approximately 4 weeks has shown significant efficacy. Ramouz et al. (2020) demonstrated that this regimen significantly reduced postoperative hypocalcemia in vitamin D‐deficient patients undergoing total thyroidectomy.
 
 ---
 
 ### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^e7574141]. Kidney International Supplements (2017). Medium credibility.
 
-CKD G3a–G5 not on dialysis with progressively rising and persistently elevated serum PTH—section 4.2.2 presents a research question that states “what is the evidence for”, with key outcomes of LVH, Hypercalcemia, Mortality, and Cardiovascular and cerebrovascular events; additional outcomes include Calcium, Phosphate, Parathyroid hormone, and 25-hydroxyvitamin D [25(OH)D].
+CKD G3a–G5 not on dialysis with progressively rising and persistently elevated serum PTH — section 4.2.2 presents a research question that states "what is the evidence for", with key outcomes of LVH, Hypercalcemia, Mortality, and Cardiovascular and cerebrovascular events; additional outcomes include Calcium, Phosphate, Parathyroid hormone, and 25-hydroxyvitamin D [25(OH)D].
 
 ---
 
@@ -1132,8 +1132,8 @@ A differential diagnosis for hyperparathyroidism includes all causes of hypercal
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
 
-Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)] .
-The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)] .
+Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)].
+The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)].
 Prior to initiating Bildyos in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Bildyos in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
@@ -1146,7 +1146,7 @@ Prior to initiating Bildyos in patients with advanced chronic kidney disease, ev
 
 ---
 
-### Endocrine society hypercalcemia of malignancy guidelines (...) [^d92d9ce7]. JAMA Network (2023). Excellent credibility.
+### Endocrine society hypercalcemia of malignancy guidelines… [^d92d9ce7]. JAMA Network (2023). Excellent credibility.
 
 © 2025 Guideline title Hypercalcemia of Malignancy in Adults Developer Endocrine Society Release date December 19, 2022 Funding source Endocrine Society Target population Adult patients with hypercalcemia of malignancy Recommendations In adults with HCM, intravenous hydration and IV bisphosphonate or denosumab is recommended. Treatment with Dmab is suggested vs IV BP for acute HCM. In adults with severe HCM, combination therapy with calcitonin and an IV BP or Dmab is suggested. For refractory or recurrent HCM despite treatment with IV BP, Dmab is suggested.
 
@@ -1158,8 +1158,8 @@ For treatment of HCM, 4 placebo-controlled studies of IV saline hydration plus n
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
 
-Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following Prolia administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)] .
-The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)] .
+Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following Prolia administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)].
+The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)].
 Prior to initiating Prolia in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Prolia in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
@@ -1174,11 +1174,11 @@ Prior to initiating Prolia in patients with advanced chronic kidney disease, eva
 
 ### Hypoparathyroidism: diagnosis, management and emerging therapies [^5b27264e]. Nature Reviews: Endocrinology (2025). High credibility.
 
-Hypoparathyroidism is characterized by inadequate parathyroid hormone (PTH) secretion or action and results in hypocalcaemia, and can lead to hyperphosphataemia and hypercalciuria. Most cases of hypoparathyroidism occur as a complication of surgery, with the remainder due to causes including autoimmune disease, genetic causes, infiltrative diseases, mineral deposition or due to abnormalities in serum levels of magnesium. Hypoparathyroidism can cause multisystem disease, with long-term complications resulting from ectopic calcification as well as renal complications with nephrocalcinosis, nephrolithiasis and renal impairment in addition to respiratory, cardiac or neurological manifestations. Conventional therapy consists of oral calcium salts and active vitamin D but it has limitations, including fluctuations in serum levels of calcium and a high pill burden, and can increase the risk of long-term complications. By contrast, PTH replacement therapy can effectively achieve normal serum levels of calcium, and lower serum levels of phosphate. The long-acting PTH analogue, palopegteriparatide, has been shown to normalize urine levels of calcium. In addition, PTH replacement therapy reduces the pill burden. Palopegteriparatide is also associated with improved quality of life in comparison to conventional therapy. This Review summarizes current recommendations regarding the pathophysiology, evaluation and management of hypoparathyroidism and also references the 2022 international hypoparathyroidism guidelines. Palopegteriparatide has now been approved as PTH replacement therapy for hypoparathyroidism. Emerging therapies will also be presented in this Review.
+Hypoparathyroidism is characterized by inadequate parathyroid hormone (PTH) secretion or action and results in hypocalcaemia, and can lead to hyperphosphataemia and hypercalciuria. Most cases of hypoparathyroidism occur as a complication of surgery, with the remainder due to causes including autoimmune disease, genetic causes, infiltrative diseases, mineral deposition or due to abnormalities in serum levels of magnesium. Hypoparathyroidism can cause multisystem disease, with long-term complications resulting from ectopic calcification as well as renal complications with nephrocalcinosis, nephrolithiasis and renal impairment in addition to respiratory, cardiac or neurological manifestations. Conventional therapy consists of oral calcium salts and active vitamin D but it has limitations, including fluctuations in serum levels of calcium and a high pill burden, and can increase the risk of long-term complications. By contrast, PTH replacement therapy can effectively achieve normal serum levels of calcium, and lower serum levels of phosphate. The long-acting PTH analogue, palopegteriparatide, has been shown to normalize urine levels of calcium. In addition, PTH replacement therapy reduces the pill burden. Palopegteriparatide is also associated with improved quality of life in comparison to conventional therapy. This Review summarizes current recommendations regarding the pathophysiology, evaluation and management of hypoparathyroidism and also references the 2022 international hypoparathyroidism guidelines. Palopegteriparatide has now been approved as PTH replacement therapy for hypoparathyroidism. Emerging therapies will also be presented in this Review.
 
 ---
 
-### Safety and efficacy of PTH 1-34 and 1-84 therapy in chronic hypoparathyroidism: a meta-analysis of prospective trials [^d6b16f8c]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Safety and efficacy of PTH 1–34 and 1–84 therapy in chronic hypoparathyroidism: a meta-analysis of prospective trials [^d6b16f8c]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Conclusions
 
@@ -1188,13 +1188,13 @@ Our meta‐analysis of the largest available number of treated patients demonstr
 
 ### American Thyroid Association statement on outpatient thyroidectomy [^1915bb64]. Thyroid (2013). Medium credibility.
 
-Outpatient thyroidectomy—postoperative hypocalcemia management specifies that calcium carbonate 2000 mg and calcitriol 0.25 mg may be administered together at symptom onset and repeated after 2 hours if relief is not experienced, and that intravenous calcium gluconate should be stocked in the outpatient clinic for immediate administration to promptly relieve severe symptomatic hypocalcemia.
+Outpatient thyroidectomy — postoperative hypocalcemia management specifies that calcium carbonate 2000 mg and calcitriol 0.25 mg may be administered together at symptom onset and repeated after 2 hours if relief is not experienced, and that intravenous calcium gluconate should be stocked in the outpatient clinic for immediate administration to promptly relieve severe symptomatic hypocalcemia.
 
 ---
 
 ### Monitoring guidance for patients with hypophosphatasia treated with asfotase alfa [^31b7ebcb]. Molecular Genetics and Metabolism (2017). Medium credibility.
 
-Asfotase alfa—electrolyte and bone mineral monitoring for hypercalcemia and hypocalcemia in HPP is outlined as follows. Monitor serum PTH, calcium, phosphorus, and 25OHD concentrations and treat to achieve normal age concentrations. Calcium levels should be monitored very closely after initiating asfotase alfa in perinatal/infantile patients, and calcium and vitamin D supplementation may be needed during treatment.
+Asfotase alfa — electrolyte and bone mineral monitoring for hypercalcemia and hypocalcemia in HPP is outlined as follows. Monitor serum PTH, calcium, phosphorus, and 25OHD concentrations and treat to achieve normal age concentrations. Calcium levels should be monitored very closely after initiating asfotase alfa in perinatal/infantile patients, and calcium and vitamin D supplementation may be needed during treatment.
 
 ---
 
@@ -1202,16 +1202,16 @@ Asfotase alfa—electrolyte and bone mineral monitoring for hypercalcemia and hy
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
 
-Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)] .
-The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)] .
+Patients with advanced chronic kidney disease (eGFR < 30 mL/min/1.73 m), including dialysis-dependent patients, are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported [see Warnings and Precautions (5.1)].
+The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia in these patients [see Warnings and Precautions (5.1)].
 Prior to initiating Jubbonti in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Jubbonti in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 WARNING: SEVERE HYPOCALCEMIA IN PATIENTS WITH ADVANCED KIDNEY DISEASE
 
 See full prescribing information for complete boxed warning.
 
-Patients with advanced chronic kidney disease are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported (5.1) .
-The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia (5.1) .
-Prior to initiating Jubbonti in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Jubbonti in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD (2.2), (5.1) .
+Patients with advanced chronic kidney disease are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported (5.1).
+The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia (5.1).
+Prior to initiating Jubbonti in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Jubbonti in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD (2.2), (5.1).
 
 ---

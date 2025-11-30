@@ -996,9 +996,9 @@ Regarding medical management for hepatocellular carcinoma, more specifically wit
 
 Regarding diagnostic investigations for polycystic liver disease, more specifically with respect to evaluation of mucinous cystic neoplasms, EASL 2022 guidelines recommend to view a combination of ≥ 1 major and ≥ 1 minor feature as worrisome features for mucinous cystic neoplasms of the liver:
 
-- major features: thick septation, nodularity
+- **Major features**: thick septation, nodularity
 
-- minor features: upstream biliary dilatation, thin septations, internal hemorrhage, perfusional change, < 3 coexistent hepatic cysts.
+- **Minor features**: upstream biliary dilatation, thin septations, internal hemorrhage, perfusional change, < 3 coexistent hepatic cysts.
 
 ---
 

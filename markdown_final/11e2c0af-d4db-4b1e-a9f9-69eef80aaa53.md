@@ -579,7 +579,7 @@ In a prospective study, we compared time from door to cath laboratory before and
 
 Main Findings
 
-We included 55 patients. After implementing a new STEMI protocol, we included 54 patients. Time to cath laboratory was 21 (interquartile range, 9–40) minutes before and 10 (interquartile range 5–25) minutes after initiation of the new protocol (P = .02). A door to cath laboratory time less than 15 minutes was reached in 36% of our patients in phase 1 and in 61% in phase 2 (odds ratio; 0.36, 95% confidence interval, 0.16–0.81; p = 0.01).
+We included 55 patients. After implementing a new STEMI protocol, we included 54 patients. Time to cath laboratory was 21 (interquartile range, 9–40) minutes before and 10 (interquartile range 5–25) minutes after initiation of the new protocol (P = 0.02). A door to cath laboratory time less than 15 minutes was reached in 36% of our patients in phase 1 and in 61% in phase 2 (odds ratio; 0.36, 95% confidence interval, 0.16–0.81; p = 0.01).
 
 Principal Conclusion
 

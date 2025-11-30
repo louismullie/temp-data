@@ -169,6 +169,7 @@ All subjects were divided into two groups based on the presence or absence of ra
 - **Crossover sign, posterior wall sign, and ischial spine sign**: Evaluated on standard anterior–posterior hip plain radiography.
 
 The lateral center–edge angle was measured by drawing three lines on the anterior–posterior hip plain radiography:
+
 1. A horizontal line connecting the bilateral inferior of teardrops.
 2. A line through the center of the femoral head, perpendicular to line 1.
 3. A line through the center of the femoral head, passing through the most superolateral point of the acetabular sourcil. The angle created by lines 2 and 3 is the lateral center–edge angle.
@@ -371,7 +372,7 @@ Traumatic posterior hip dislocations in children and adolescents require emergen
 
 Overall specificity showed a small but significant decrease from CS to CSAI sequences (CS: 81% [95% CI: 78.6–84.2]; CSAI: 79% [95% CI: 76.4–82.2]; p < 0.001), and overall specificity across all femur zones was significantly lower in CSAI vs. CS (CS: 76% [95% CI: 72.4–79.4]; CSAI 73% [95% CI: 69.7–77.1]; p < 0.001). The highest specificity was in the assessment of the anteroinferior acetabular zone (both CS and CSAI: 99%). The lowest average specificity was observed in the assessment of the femoral weight-bearing zone (Zone C), with specificity significantly lower in CSAI compared to CS (CS: 47% [95% CI: 37.8–56.6]; CSAI: 37% [95% CI: 27.9–46.1]; p < 0.001).
 
-- **Overall performance evaluation**: McNemar's test was used to compare sensitivity, specificity, and accuracy between CS and CSAI sequences. Statistically significant differences are indicated in the CSAI column. p < 0.05 (*) and p < 0.001 (**) denote significant and highly significant differences, respectively.
+- **Overall performance evaluation**: McNemar's test was used to compare sensitivity, specificity, and accuracy between CS and CSAI sequences. Statistically significant differences are indicated in the CSAI column. p < 0.05 (*) and p < 0.001 () denote significant and highly significant differences, respectively.
 
 - **Individual performance evaluation**: The performance of individual readers in detecting labral abnormalities and cartilage defects on MR imaging versus arthroscopy is summarized. All readers demonstrated high sensitivity and specificity in assessing labral abnormalities, with values as high as 100% for both CS and CSAI. The expert orthopedic surgeon improved sensitivity for labral abnormalities from 81% with CS to 90% with CSAI; however, this difference did not reach statistical significance (p = 0.08).
 

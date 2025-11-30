@@ -502,8 +502,8 @@ National and international guidelines regarding the use of ivermectin for the tr
 The IVERCOR-COVID19 study, published in 2021 in the BMC Infectious Diseases journal, investigated the role of ivermectin in COVID-19 patients. This multi-center, double-blind, randomized controlled trial included a population of 501 patients (237 female, 264 male) who were adult outpatients with COVID-19 positive nasal swabs within 48 hours. Key exclusion criteria included home oxygen use, a requirement for hospitalization due to COVID-19 at the time of diagnosis, or a history of COVID-19-related hospitalization.
 
 - **Interventions**:
-	- n = 250: Ivermectin (total dosage of 24–48 mg PO, based on weight)
-	- n = 251: Placebo (equivalent number of matching placebo tablets)
+	- **N = 250**: Ivermectin (total dosage of 24–48 mg PO, based on weight)
+	- **N = 251**: Placebo (equivalent number of matching placebo tablets)
 
 - **Primary outcomes**:
 	- No significant difference in hospitalization was observed (5.6% vs. 8.4%; OR 0.65, 95% CI 0.32 to 1.31).
@@ -643,8 +643,8 @@ The TOGETHER (ivermectin) study, conducted by Gilmar Reis and colleagues, was pu
 Key exclusion criteria involved a negative COVID-19 diagnostic test despite acute flu symptoms, a requirement for hospitalization due to COVID-19, acute respiratory symptoms from other causes, and dyspnea secondary to other acute or chronic respiratory conditions or infections.
 
 - **Interventions**:
-	- Ivermectin group (n = 679): Received 400 mcg/kg of body weight once daily for three days.
-	- Placebo group (n = 679): Received matching placebo for three days.
+	- **Ivermectin group (n = 679)**: Received 400 mcg/kg of body weight once daily for three days.
+	- **Placebo group (n = 679)**: Received matching placebo for three days.
 
 - **Primary outcome**:
 	- There was no significant difference in hospitalization due to COVID-19 or emergency department visits due to clinical worsening of COVID-19 at 28 days (14.7% ivermectin vs. 16.3% placebo; RR 0.9, 95% CI 0.7 to 1.16).

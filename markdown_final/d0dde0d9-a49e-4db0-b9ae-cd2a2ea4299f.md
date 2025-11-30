@@ -200,10 +200,10 @@ Regarding specific circumstances for aspirin overdose, more specifically with re
 
 The following constitutes key background information on aspirin overdose:
 
-- Definition: Aspirin overdose is the plasma salicylate concentration of 300–500 mg/L in mild toxicity, 500–700 mg/L in moderate toxicity, and > 750 mg/L in severity toxicity.
-- Pathophysiology: Aspirin overdose is caused by accidental ingestions in children, suicidal or intentional overdoses in adults.
-- Disease course: Acute aspirin overdose results in salicylate poisoning resulting in either mild, moderate, or severe toxicity depending on the plasma salicylate concentration. Mild toxicity presents with burning in the mouth, lethargy, nausea and vomiting, tinnitus, or dizziness. Moderate toxicity includes additional symptoms of tachypnea, hyperpyrexia, sweating, dehydration, loss of coordination, and restlessness. Severe toxicity causes hallucinations, stupor, convulsions, cerebral edema, oliguria, renal failure, cardiovascular failure, metabolic acidosis, and coma.
-- Prognosis and risk of recurrence: Severe salicylate poisoning results in 5% mortality.
+- **Definition**: Aspirin overdose is the plasma salicylate concentration of 300–500 mg/L in mild toxicity, 500–700 mg/L in moderate toxicity, and > 750 mg/L in severity toxicity.
+- **Pathophysiology**: Aspirin overdose is caused by accidental ingestions in children, suicidal or intentional overdoses in adults.
+- **Disease course**: Acute aspirin overdose results in salicylate poisoning resulting in either mild, moderate, or severe toxicity depending on the plasma salicylate concentration. Mild toxicity presents with burning in the mouth, lethargy, nausea and vomiting, tinnitus, or dizziness. Moderate toxicity includes additional symptoms of tachypnea, hyperpyrexia, sweating, dehydration, loss of coordination, and restlessness. Severe toxicity causes hallucinations, stupor, convulsions, cerebral edema, oliguria, renal failure, cardiovascular failure, metabolic acidosis, and coma.
+- **Prognosis and risk of recurrence**: Severe salicylate poisoning results in 5% mortality.
 
 ---
 
@@ -787,8 +787,8 @@ The toxicity of oxycodone and aspirin in combination is unknown.
 
 The dosage of aspirin PR for symptomatic relief of pain in adults is:
 
-- Maintenance: 300 mg PR q4h PRN for no more than 10 days
-- Maximum: 4,000 mg per day
+- **Maintenance**: 300 mg PR q4h PRN for no more than 10 days
+- **Maximum**: 4,000 mg per day
 
 ---
 
@@ -840,8 +840,8 @@ In contrast to persistent concentrations following overdose of tablets, the majo
 
 The dosage of aspirin PO for symptomatic relief of pain in adults is:
 
-- Maintenance: 325–650 mg PO q4–6h PRN
-- Maximum: 4,000 mg per day
+- **Maintenance**: 325–650 mg PO q4–6h PRN
+- **Maximum**: 4,000 mg per day
 
 ---
 
@@ -855,8 +855,8 @@ We report the case of a 17-year-old girl with a 126-mg/kg nonenteric coated aspi
 
 The dosage of aspirin PO for symptomatic relief of headache in adults is:
 
-- Maintenance: 500–1,000 mg PO q4–6h PRN
-- Maximum: 4,000 mg per day
+- **Maintenance**: 500–1,000 mg PO q4–6h PRN
+- **Maximum**: 4,000 mg per day
 
 ---
 
@@ -991,8 +991,8 @@ Aspirin-exacerbated respiratory disease (AERD) — clinical features, diagnosis,
 
 The dosage of acetaminophen / aspirin / caffeine PO for symptomatic relief of pain in both children (in patients ≥ 12 years) is:
 
-- Maintenance: 500/500/130 mg PO QID
-- Maximum: 2,000/2,000/520 mg per day
+- **Maintenance**: 500/500/130 mg PO QID
+- **Maximum**: 2,000/2,000/520 mg per day
 
 ---
 
@@ -1099,9 +1099,9 @@ Unknown frequency adverse reactions associated with the use of aspirin PO (also 
 
 Warnings and precautions regarding the use of aspirin PO (also known as Bayer Aspirin, Bufferin, St. Joseph Aspirin, Halfprin, Easprin, Ecotrin):
 
-- Bleeding: use caution in patients taking other NSAIDs, antiplatelets, or anticoagulants.
-- Bleeding: use caution in patients with excessive alcohol use (≥ 3 drinks per day).
-- Bleeding: use caution in patients with inherited or acquired bleeding disorders.
+- **Bleeding**: use caution in patients taking other NSAIDs, antiplatelets, or anticoagulants.
+- **Bleeding**: use caution in patients with excessive alcohol use (≥ 3 drinks per day).
+- **Bleeding**: use caution in patients with inherited or acquired bleeding disorders.
 
 ---
 

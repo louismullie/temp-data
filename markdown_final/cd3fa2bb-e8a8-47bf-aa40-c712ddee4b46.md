@@ -116,7 +116,7 @@ In a longitudinal study of pregnant women with gestational diabetes risk factors
 
 Results
 
-Mean OGTT glucose increased between 10–15 and 24–30 weeks of gestation (β = 8.1 mg/dL, P = .001), while HbA1c decreased during the same time period (β = -0.13%, P < .001). At 10–15 weeks of gestation and postpartum the discrepancy between mean OGTT glucose and HbA1c-estimated average glucose was minimal (mean [standard deviation]: 1.2 [20.5] mg/dL and 0.16 [18.1] mg/dL). At 24–30 weeks of gestation, the discrepancy widened (13.2 [17.9] mg/dL, β = 12.7 mg/dL, P < .001, compared to 10–15 weeks of gestation, with mean OGTT glucose being higher than HbA1c-estimated average glucose). Lower hemoglobin at 24–30 weeks of gestation was associated with a greater discrepancy (β = 6.4 mg/dL per 1 g/dL lower hemoglobin, P = .03 in an age- and gestational age-adjusted linear regression model).
+Mean OGTT glucose increased between 10–15 and 24–30 weeks of gestation (β = 8.1 mg/dL, P = 0.001), while HbA1c decreased during the same time period (β = -0.13%, P < .001). At 10–15 weeks of gestation and postpartum the discrepancy between mean OGTT glucose and HbA1c-estimated average glucose was minimal (mean [standard deviation]: 1.2 [20.5] mg/dL and 0.16 [18.1] mg/dL). At 24–30 weeks of gestation, the discrepancy widened (13.2 [17.9] mg/dL, β = 12.7 mg/dL, P < .001, compared to 10–15 weeks of gestation, with mean OGTT glucose being higher than HbA1c-estimated average glucose). Lower hemoglobin at 24–30 weeks of gestation was associated with a greater discrepancy (β = 6.4 mg/dL per 1 g/dL lower hemoglobin, P = 0.03 in an age- and gestational age-adjusted linear regression model).
 
 Conclusions
 

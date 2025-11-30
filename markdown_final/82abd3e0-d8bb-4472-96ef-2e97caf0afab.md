@@ -694,7 +694,7 @@ This case highlights an unusual pupillary response in congenital oculomotor nerv
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12886–025–04464–3.
+The online version contains supplementary material available at 10.1186/s12886-025-04464-3.
 
 ---
 

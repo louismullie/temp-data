@@ -178,7 +178,7 @@ We aimed to compare AIDS risk-adapted intensive chemotherapy in AIDS-related lym
 	- A total of 218 good-risk patients (HIV score 0) received ACVBP (doxorubicin, cyclophosphamide, vindesine, bleomycin, and prednisolone) or CHOP (doxorubicin, cyclophosphamide, vincristine, and prednisolone); 177 intermediate-risk patients (HIV score 1) received CHOP or low-dose CHOP (Ld-CHOP); and 90 poor-risk patients (HIV score 2–3) received Ld-CHOP or VS (vincristine and steroid).
 
 - **Overall survival (OS) rates**:
-	- The 5-year overall survival in the good-risk group was 51% for ACVBP versus 47% for CHOP (P = .85); in the intermediate-risk group, 28% for CHOP versus 24% for Ld-CHOP (P = .19); and in the poor-risk group, 11% for Ld-CHOP versus 3% for VS (P = .14).
+	- The 5-year overall survival in the good-risk group was 51% for ACVBP versus 47% for CHOP (P = 0.85); in the intermediate-risk group, 28% for CHOP versus 24% for Ld-CHOP (P = 0.19); and in the poor-risk group, 11% for Ld-CHOP versus 3% for VS (P = 0.14).
 
 The time-dependent Cox model demonstrated that the only significant factors for OS were HAART (relative risk [RR] 1.6, P < .001), HIV score (RR 1.7, P < .001), and the International Prognostic Index (IPI) score (RR 1.5, P < .001), but not the chemotherapy regimen. Our findings indicate that in ARL patients, HIV score, IPI score, and HAART affect survival, but not the intensity of the CHOP-based chemotherapy.
 

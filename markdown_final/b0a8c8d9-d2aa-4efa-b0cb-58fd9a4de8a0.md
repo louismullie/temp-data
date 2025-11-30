@@ -169,7 +169,7 @@ We have updated and developed evidence-based recommendations with the aim of pro
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1007/s00259–025–07222–1.
+The online version contains supplementary material available at 10.1007/s00259-025-07222-1.
 
 ---
 
@@ -286,7 +286,7 @@ Disease recurrence was the primary outcome. Secondary outcomes included successf
 
 Results
 
-Ten studies that included 3821 patients met inclusion criteria, including 6 RCTs and 4 observational studies. There was no difference in long-term cure recurrence rates (RR, 0.88; 95% CI, 0.62–1.27, P = .50) or successful remnant ablation (RR, 0.95; 95% CI, 0.87–1.03; p = 0.20) between low-activity and high-activity RAI.
+Ten studies that included 3821 patients met inclusion criteria, including 6 RCTs and 4 observational studies. There was no difference in long-term cure recurrence rates (RR, 0.88; 95% CI, 0.62–1.27, P = 0.50) or successful remnant ablation (RR, 0.95; 95% CI, 0.87–1.03; p = 0.20) between low-activity and high-activity RAI.
 
 Conclusions and Relevance
 

@@ -7,7 +7,7 @@
 
 ## Question
 
-What are the differentials of sore throat , sensation of lump in throat, non productive cough, loss of appetite, and eye pain and headaches
+What are the differentials of sore throat, sensation of lump in throat, non productive cough, loss of appetite, and eye pain and headaches
 
 ---
 
@@ -116,11 +116,11 @@ The most likely causes of this symptom cluster are **viral URI** (including COVI
 
 Introduction
 
-Chronic throat symptoms, including cough, dysphonia, dysphagia, globus sensation and throat clearing, are frequently encountered in outpatient clinics.Differential diagnoses for these bothersome symptoms intersect multiple specialties, including otolaryngology, gastroenterology and respiratory medicine.However, identifying a definitive organic cause is often challenging for these symptoms, even with extensive evaluations.
+Chronic throat symptoms, including cough, dysphonia, dysphagia, globus sensation and throat clearing, are frequently encountered in outpatient clinics. Differential diagnoses for these bothersome symptoms intersect multiple specialties, including otolaryngology, gastroenterology and respiratory medicine. However, identifying a definitive organic cause is often challenging for these symptoms, even with extensive evaluations.
 
-Scenarios involving unexplained chronic throat symptoms (UCTS) present a dilemma for clinicians, as they contend with clinical ambiguity and unclear management directions. Their aetiology and pathophysiology though widely postulated continue to have unresolved clinical correlations. Current research frequently polarises rather than unites, with conclusions confounded by diverse clinical taxonomies and specialty concepts.Consequently, cohesive, evidence-driven guidelines for UCTS remain absent.
+Scenarios involving unexplained chronic throat symptoms (UCTS) present a dilemma for clinicians, as they contend with clinical ambiguity and unclear management directions. Their aetiology and pathophysiology though widely postulated continue to have unresolved clinical correlations. Current research frequently polarises rather than unites, with conclusions confounded by diverse clinical taxonomies and specialty concepts. Consequently, cohesive, evidence-driven guidelines for UCTS remain absent.
 
-There is no common terminology adopted for clinical presentations involving UCTS,which hinders precise prevalence estimates. Notwithstanding, UCTS is estimated to constitute a significant burden in primary careand often necessitate additional specialist evaluations.While often overlooked in the absence of clinical red flags,these symptoms are associated with significant morbidity, indicating a potentially under-recognised public health issue.
+There is no common terminology adopted for clinical presentations involving UCTS, which hinders precise prevalence estimates. Notwithstanding, UCTS is estimated to constitute a significant burden in primary careand often necessitate additional specialist evaluations. While often overlooked in the absence of clinical red flags, these symptoms are associated with significant morbidity, indicating a potentially under-recognised public health issue.
 
 In response to this area of need, we assembled a collaborative team of otolaryngology and gastroenterology specialists with the goal of providing a concise appraisal of aetiological and pathophysiological concepts in this field, including existing terminologies and their clinical implications. A key objective was to review the evidence and outcomes of existing single specialty-led approaches to UCTS diagnosis and management.
 
@@ -136,7 +136,7 @@ Lemierre's syndrome is a rare yet potentially fatal cause of sore throat. Recent
 
 ### The Infectious Diseases Society of America guidelines on the diagnosis of COVID-19: molecular diagnostic testing (December 2023) [^fad9e4f4]. Clinical Infectious Diseases (2024). High credibility.
 
-Symptoms compatible with COVID-19—onset and common features: Symptoms may appear 2-14 days after exposure to the virus, and people with these symptoms or combinations of symptoms may have COVID-19. The most common symptoms listed are fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, sore throat, new loss of taste or smell, congestion or runny nose, nausea or vomiting, and diarrhea, and this list does not include all possible symptoms.
+Symptoms compatible with COVID-19 — onset and common features: Symptoms may appear 2–14 days after exposure to the virus, and people with these symptoms or combinations of symptoms may have COVID-19. The most common symptoms listed are fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, sore throat, new loss of taste or smell, congestion or runny nose, nausea or vomiting, and diarrhea, and this list does not include all possible symptoms.
 
 ---
 
@@ -166,7 +166,7 @@ Sore throat, hoarseness, and dysphagia are known and recognized postoperative co
 
 ### Safely returning America to work: part I: general guidance for employers [^c2646242]. Journal of Occupational and Environmental Medicine (2020). High credibility.
 
-Symptoms and signs of COVID-19 illness—In symptomatic individuals, “Clinical signs usually begin within a week” and include “fever, cough, shortness of breath, fatigue, and muscle pain.” Additional features are noted: “Sore throat, sputum production, headaches, and diarrhea occur in smaller percentages,” and newly recognized symptoms include “chills, repeated shaking with chills, muscle pain, headache, sore throat, and new hypogeusia or ageusia as well as anosmia,” with “Loss of taste and smell” reported in many patients.
+Symptoms and signs of COVID-19 illness — In symptomatic individuals, "Clinical signs usually begin within a week" and include "fever, cough, shortness of breath, fatigue, and muscle pain." Additional features are noted: "Sore throat, sputum production, headaches, and diarrhea occur in smaller percentages," and newly recognized symptoms include "chills, repeated shaking with chills, muscle pain, headache, sore throat, and new hypogeusia or ageusia as well as anosmia," with "Loss of taste and smell" reported in many patients.
 
 ---
 
@@ -215,14 +215,16 @@ Error processing SSI file Strep Throat: All You Need to Know Worried your sore t
 - Some people are at increased risk
 - A simple test gives fast results. Bacteria cause strep throat Viruses cause most sore throats. However, strep throat is an infection in the throat and tonsils caused by bacteria called group A Streptococcus. How you get strep throat Group A strep bacteria are very contagious. Generally, people spread the bacteria to others through
 - Respiratory droplets
-- Direct contact Rarely, group A strep bacteria can be spread through food that isn’t handled properly.
+- Direct contact Rarely, group A strep bacteria can be spread through food that isn't handled properly.
 
 It usually takes 2 to 5 days after exposure to become ill with strep throat. Respiratory droplets Group A strep bacteria often live in the nose and throat. People who are infected spread the bacteria by talking, coughing, or sneezing. This creates respiratory droplets that contain the bacteria. People can get sick if they:
+
 - Breathe in respiratory droplets that contain the bacteria
 - Touch their mouth or nose after touching something with those droplets on it
 - Use the same plate, utensil, or glass as a person infected with the bacteria. Direct contact People can also spread group A strep bacteria from infected sores on the skin. Other people can get sick if they touch those sores or come into contact with fluid from the sores. Some people infected with group A strep do not have symptoms or seem sick. People who are sick with strep throat are more contagious than those who do not have symptoms.
 
 Symptoms often include pain and fever In general, strep throat is a mild disease, but it can be very painful. Common symptoms may include:
+
 - Fever
 - Pain when swallowing
 - Sore throat that started very quickly and may look red
@@ -230,12 +232,14 @@ Symptoms often include pain and fever In general, strep throat is a mild disease
 - White patches or streaks of pus on the tonsils
 - Tiny, red spots on the roof of the mouth, called petechiae
 - Swollen lymph nodes in the front of the neck. Less common symptoms may include vomiting and headache Some people, especially children, may have other symptoms, too. Other symptoms may include:
+
 - Headache
 - Stomach pain
 - Nausea or vomiting
 - Rash.
 
 Symptoms do NOT include cough or runny nose The following symptoms suggest a virus is the cause of the illness instead of strep throat:
+
 - Cough
 - Runny nose
 - Hoarseness
@@ -251,7 +255,7 @@ Symptoms and signs for which we performed pooling
 
 We were able to conduct meta‐analyses for 14 signs or symptoms (cough, fever, anosmia, ageusia, anosmia or ageusia, sore throat, myalgia, fatigue, headache, dyspnoea, diarrhoea, sputum production, nausea or vomiting, chest tightness) based on clinically acceptable heterogeneity, the scatter of studies on visual inspection of the forest plots, and for which at least five studies were available. The analyses were restricted to cross‐sectional studies only. The ranges and summary estimates of the sensitivity and specificity of the 14 index tests are listed below. Additional summary point statistics are listed in additional Table 5.
 
-4 
+4
 Summary point statistics of selected index tests, including 95% confidence intervals (bivariate meta‐analysis, analyses restricted to cross‐sectional studies)
 
 Cough
@@ -276,7 +280,7 @@ Pooled sensitivity 41.0% (95% CI 27.0% to 56.6%); pooled specificity 90.5% (95% 
 
 ---
 
-### Clinical practice guideline: hoarseness (dysphonia) (update) [^8d06b5a3]. Otolaryngology--Head and Neck Surgery (2018). Low credibility.
+### Clinical practice guideline: hoarseness (dysphonia) (update) [^8d06b5a3]. Otolaryngology — Head and Neck Surgery (2018). Low credibility.
 
 The disease laryngitis can be associated with throat pain, stridor, cough, acute otitis media, aphonia, bisphosphonates, headache, sleep apnea, otitis media with effusion, dysphonia, tobacco use, hoarseness, allergic rhinitis, immunocompromising condition, globus sensation, corticosteroids, dysphagia, voice overuse, GERD, upper respiratory tract infection, fever, recent intubation, ACEis, change in voice, antipsychotics, pharyngitis, acute rhinosinusitis, vocal cord nodule and odynophagia.
 
@@ -296,7 +300,7 @@ Transient visual loss (TVL) is a common complaint in the emergency department, w
 
 ### Diagnosis and management of rhinosinusitis: a practice parameter update [^65d2b5d4]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
-Annotations to algorithm—symptoms suggestive of acute rhinosinusitis (ARS) include listed prominent symptoms, and specific red flags require urgent evaluation. Prominent symptoms include nasal congestion, purulent rhinorrhea, postnasal drainage, facial or dental pain, headache, throat clearing, and cough. Any patient with orbital swelling or pain, swelling of the forehead, and/or diplopia should be urgently evaluated.
+Annotations to algorithm — symptoms suggestive of acute rhinosinusitis (ARS) include listed prominent symptoms, and specific red flags require urgent evaluation. Prominent symptoms include nasal congestion, purulent rhinorrhea, postnasal drainage, facial or dental pain, headache, throat clearing, and cough. Any patient with orbital swelling or pain, swelling of the forehead, and/or diplopia should be urgently evaluated.
 
 ---
 
@@ -318,9 +322,9 @@ Laryngopharyngeal reflux disease describes the backflow of acidic stomach conten
 
 ---
 
-### History of otolaryngology: globus pharyngeus as "Globus hystericus" [^0b5fcbb9]. Otolaryngology--Head and Neck Surgery (2023). Medium credibility.
+### History of otolaryngology: globus pharyngeus as "Globus hystericus" [^0b5fcbb9]. Otolaryngology — Head and Neck Surgery (2023). Medium credibility.
 
-Globus pharyngeus is the uncomfortable sensation of a "lump in the throat," and at present it has many recognized pathophysiologic causes. However, until relatively recently, this condition was often labeled "globus hystericus" and was thought to be a manifestation of hysteria or anxiety. In this commentary, we briefly review the history surrounding the initial treatment of globus pharyngeus sensation as a hysterical condition rooted in anxiety/psychological causes; then, we briefly review the emerging evidence that roots globus pharyngeus sensation within a constellation of pathophysiologies that are related to pharyngoesophageal inflammation and irritation rather than psychological disorders.
+Globus pharyngeus is the uncomfortable sensation of a "lump in the throat", and at present it has many recognized pathophysiologic causes. However, until relatively recently, this condition was often labeled "globus hystericus" and was thought to be a manifestation of hysteria or anxiety. In this commentary, we briefly review the history surrounding the initial treatment of globus pharyngeus sensation as a hysterical condition rooted in anxiety/psychological causes; then, we briefly review the emerging evidence that roots globus pharyngeus sensation within a constellation of pathophysiologies that are related to pharyngoesophageal inflammation and irritation rather than psychological disorders.
 
 ---
 
@@ -352,11 +356,11 @@ Differential diagnosis of globus sensation in an otherwise asymptomatic patient 
 
 ### Global strategy for asthma management and prevention [^35adb233]. GINA (2024). High credibility.
 
-Global Strategy for Asthma Management and Prevention—differential diagnosis for suspected asthma varies with age, and the table specifies that “If the symptoms or signs below are present, consider… Condition.” For 6–11 years, consider chronic upper airway cough syndrome for “Sneezing, itching, blocked nose, throat-clearing,” inhaled foreign body for “Sudden onset of symptoms, unilateral wheeze,” bronchiectasis for “Recurrent infections, productive cough,” and cystic fibrosis for “Excessive cough and mucus production, gastrointestinal symptoms.” For 12–39 years, consider chronic upper airway cough syndrome for “Sneezing, itching, blocked nose, throat-clearing,” inducible laryngeal obstruction for “Dyspnea, inspiratory wheezing (stridor),” hyperventilation, dysfunctional breathing for “Dizziness, paresthesia, sighing,” and bronchiectasis for “Productive cough, recurrent infections.”
+Global Strategy for Asthma Management and Prevention — differential diagnosis for suspected asthma varies with age, and the table specifies that "If the symptoms or signs below are present, consider… Condition." For 6–11 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing," inhaled foreign body for "Sudden onset of symptoms, unilateral wheeze," bronchiectasis for "Recurrent infections, productive cough," and cystic fibrosis for "Excessive cough and mucus production, gastrointestinal symptoms." For 12–39 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing," inducible laryngeal obstruction for "Dyspnea, inspiratory wheezing (stridor)," hyperventilation, dysfunctional breathing for "Dizziness, paresthesia, sighing," and bronchiectasis for "Productive cough, recurrent infections."
 
 ---
 
-### Pharyngitis (...) [^d8e95bdc]. AAFP (2004). Low credibility.
+### Pharyngitis… [^d8e95bdc]. AAFP (2004). Low credibility.
 
 Differential Diagnosis Sore throat most often is caused by direct infection of the pharynx, primarily by viruses or bacteria. 4 GABHS pharyngitis accounts for 15 to 30 percent of cases in children and 5 to 15 percent of cases in adults. 5, 6, 9, 10 Sore throat also may be caused by other conditions, such as gastroesophageal reflux, postnasal drip secondary to rhinitis, persistent cough, thyroiditis, allergies, a foreign body, and smoking. 1, 2, 11. This article focuses on infectious causes of sore throat. If patients do not have any other signs of infection or do not respond as expected to treatment of pharyngitis, physicians should investigate noninfectious causes. VIRUSES Viral pharyngitis, the most common cause of sore throat, has a wide differential. Furthermore, different viruses are more prevalent during certain seasons. 4 Coryza, conjunctivitis, malaise or fatigue, hoarseness, and low-grade fever suggest the presence of viral pharyngitis.
 
@@ -372,11 +376,11 @@ Case fatality rates for noncutaneous diphtheria have remained constant for the p
 
 ### Practical multidisciplinary framework for the assessment and management of patients with unexplained chronic aerodigestive symptoms [^dfa8e29f]. BMJ Open Gastroenterology (2023). High credibility.
 
-Establishing a positive diagnosis: suggested criteria for ‘irritable throat syndrome’
+Establishing a positive diagnosis: suggested criteria for 'irritable throat syndrome'
 
 The pursuit of a positive diagnostic paradigm has standardised the approach to DGBI and permitted clinicians to proactively pursue a diagnosis based on defined symptom clusters, after excluding mimics. Based on our findings, we propose that a similar evidence-based model might be adopted for a positive diagnosis in patients with irritable throat-like symptoms following evaluation of chronic throat symptoms to rule out discernible structural causes and mimics (box 1). This positive diagnosis framework offers a structured approach, eliminating the need for repetitive and usually unremarkable tests. Further, it supports the adoption of a common medical language to validate patient symptoms, standardise interdisciplinary approaches, strengthen patient–clinician rapport, promote prompt delivery of therapy and encourages judicious use of resources.
 
-Box 1 
+Box 1
 Proposed diagnostic criteria for irritable throat syndrome
 
 Presence of one or more of the following unexplained chronic throat symptoms; cough, dysphonia, globus
@@ -406,7 +410,7 @@ AbstractMorning Report is a time-honored tradition where physicians-in-training 
 
 ### AGA clinical practice update on management of inflammatory bowel disease during the COVID-19 pandemic: expert commentary [^a5f2f201]. Gastroenterology (2020). High credibility.
 
-Symptoms and findings associated with COVID-19—useful for triage in IBD care—are listed as “fever (83%–99%); cough (59%–82%); fatigue (44%–70%); anorexia (40%–84%); shortness of breath (31%–40%); sputum production (28%–33%); myalgias (11%–35%); headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea (<10%); lymphopenia (83%),” and chest imaging may show “CT chest: bilateral, peripheral ground glass opacities.”
+Symptoms and findings associated with COVID-19 — useful for triage in IBD care — are listed as "fever (83%–99%); cough (59%–82%); fatigue (44%–70%); anorexia (40%–84%); shortness of breath (31%–40%); sputum production (28%–33%); myalgias (11%–35%); headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea (< 10%); lymphopenia (83%)," and chest imaging may show "CT chest: bilateral, peripheral ground glass opacities."
 
 ---
 
@@ -418,7 +422,7 @@ The common cold and influenza (flu) are the most common syndromes of infection i
 
 ### AGA clinical practice update on the diagnosis and management of extraesophageal gastroesophageal reflux disease: expert review [^20b8d513]. Clinical Gastroenterology and Hepatology (2023). High credibility.
 
-Table 1—Different postulated manifestations of extraesophageal reflux (EER) details laryngeal/ear, nose, and throat (ENT) symptoms (“Laryngitis/hoarseness,” “Globus,” “Mucus in throat,” “Throat clearing,” “Throat pain,” “Sinus inflammation,” “Post-nasal drip”) with corresponding differential diagnoses (“Postnasal drip,” “Laryngeal allergy,” “Functional dysphonia,” “Laryngeal papilloma,” “Muscle tension dysphonia,” “Vocal cord paralysis,” “Vocal cord polyps,” “Sinusitis (occult),” “Gastric inlet patch”) and multidisciplinary teams (“Otolaryngology,” “Gastroenterology,” “Allergy/Immunology,” “Speech pathology,” “Behavioral psychology”); pulmonary manifestations (“Asthma,” “Chronic cough,” “Pulmonary fibrosis,” “Allograft failure”) with differentials (“Post-nasal drip,” “Asthma,” “Vocal cord dysfunction,” “Medication reaction (ie, angiotensin converting enzyme inhibitors),” “Lung transplant rejection”) and teams (“Pulmonology,” “Otolaryngology,” “Allergy/Immunology,” “Gastroenterology,” “Primary care”); and dentition findings (“Dental erosions,” “Dental caries”) with differentials (“Poor dietary habits (ie, acidic soft drinks, fruit juices),” “Eating disorders with regurgitation (bulimia),” “Xerostomia (Sjogren’s),” “Environmental (ie, around acidic fumes)”) and teams (“Dentistry,” “Gastroenterology,” “Nutrition,” “Primary care,” “Psychology”). Gastroenterologists are reminded that “Gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation.”
+Table 1 — Different postulated manifestations of extraesophageal reflux (EER) details laryngeal/ear, nose, and throat (ENT) symptoms ("Laryngitis/hoarseness," "Globus," "Mucus in throat," "Throat clearing," "Throat pain," "Sinus inflammation," "Post-nasal drip") with corresponding differential diagnoses ("Postnasal drip," "Laryngeal allergy," "Functional dysphonia," "Laryngeal papilloma," "Muscle tension dysphonia," "Vocal cord paralysis," "Vocal cord polyps," "Sinusitis (occult)," "Gastric inlet patch") and multidisciplinary teams ("Otolaryngology," "Gastroenterology," "Allergy/Immunology," "Speech pathology," "Behavioral psychology"); pulmonary manifestations ("Asthma," "Chronic cough," "Pulmonary fibrosis," "Allograft failure") with differentials ("Post-nasal drip," "Asthma," "Vocal cord dysfunction," "Medication reaction (ie, angiotensin converting enzyme inhibitors)," "Lung transplant rejection") and teams ("Pulmonology," "Otolaryngology," "Allergy/Immunology," "Gastroenterology," "Primary care"); and dentition findings ("Dental erosions," "Dental caries") with differentials ("Poor dietary habits (ie, acidic soft drinks, fruit juices)," "Eating disorders with regurgitation (bulimia)," "Xerostomia (Sjogren's)," "Environmental (ie, around acidic fumes)") and teams ("Dentistry," "Gastroenterology," "Nutrition," "Primary care," "Psychology"). Gastroenterologists are reminded that "Gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation."
 
 ---
 
@@ -426,15 +430,15 @@ Table 1—Different postulated manifestations of extraesophageal reflux (EER) de
 
 Functional throat disorders (FTD)
 
-Throat symptoms appear to, in some cases, reflect patterns of abnormal aerodigestive sensation, motility and/or reflex function.These physiological disruptions to usual function are proposed to account for varied symptom presentations in patients without structural disease.
+Throat symptoms appear to, in some cases, reflect patterns of abnormal aerodigestive sensation, motility and/or reflex function. These physiological disruptions to usual function are proposed to account for varied symptom presentations in patients without structural disease.
 
 Sensory disruptions
 
-Hypersensitisation of aerodigestive structures is a common theme among symptom theories related to UCTS.Cough hypersensitivity syndrome (CHS) and laryngeal hypersensitivity and diagnoses which typify this pathophysiological pattern, reinforced by emerging research.The core understanding implicates sensory dysregulation of aerodigestive tract or related reflexes in symptom emergence, most notably cough and globus sensation.Postulated mechanisms encompass epithelial sensory receptor adaptations in response to chronic inflammation or other stimuli,somatosensory adaptations involving the vagus nerve or higher centres involved in neuromotor regulation of the aerodigestive tract.
+Hypersensitisation of aerodigestive structures is a common theme among symptom theories related to UCTS. Cough hypersensitivity syndrome (CHS) and laryngeal hypersensitivity and diagnoses which typify this pathophysiological pattern, reinforced by emerging research. The core understanding implicates sensory dysregulation of aerodigestive tract or related reflexes in symptom emergence, most notably cough and globus sensation. Postulated mechanisms encompass epithelial sensory receptor adaptations in response to chronic inflammation or other stimuli, somatosensory adaptations involving the vagus nerve or higher centres involved in neuromotor regulation of the aerodigestive tract.
 
 Motor disruptions
 
-Beyond sensory dysfunction, dysregulated motor patterns impacting the laryngeal or supraglottic musculature are detected during laryngoscopic evaluations in patients with UCTS.Two predominant phenotypes emerge: vocal cord dysfunction syndromes that, barring inducible laryngeal obstructions, do not compromise respiratory function; and muscle tension syndromes, particularly concerning the supraglottic musculature. Manifestations include a spectrum of chronic throat symptoms, with dysphonia, globus, throat clearing and cough often highlighted.Oropharyngeal dysphagia and globus sensation are likewise proposed to show association with motor tone or coordination dysfunctions affecting the upper oesophageal sphincter or proximal oesophagus.
+Beyond sensory dysfunction, dysregulated motor patterns impacting the laryngeal or supraglottic musculature are detected during laryngoscopic evaluations in patients with UCTS. Two predominant phenotypes emerge: vocal cord dysfunction syndromes that, barring inducible laryngeal obstructions, do not compromise respiratory function; and muscle tension syndromes, particularly concerning the supraglottic musculature. Manifestations include a spectrum of chronic throat symptoms, with dysphonia, globus, throat clearing and cough often highlighted. Oropharyngeal dysphagia and globus sensation are likewise proposed to show association with motor tone or coordination dysfunctions affecting the upper oesophageal sphincter or proximal oesophagus.
 
 ---
 
@@ -452,25 +456,25 @@ The emerging 2022 human mpox virus outbreak has presented with unique disease ma
 
 Case Report
 
-We present a case of a 42-year-old transgender woman with human immunodeficiency virus controlled on antiretroviral therapy, presenting with sore throat, who, after three emergency department visits, was found to have acute tonsillitis complicated by airway obstruction secondary to mpox. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: Sore throat is a common presentation to the emergency department. mpox should be placed on the list of differential diagnoses when evaluating patients who present with pharyngitis to avoid complications or a missed diagnosis.
+We present a case of a 42-year-old transgender woman with human immunodeficiency virus controlled on antiretroviral therapy, presenting with sore throat, who, after three emergency department visits, was found to have acute tonsillitis complicated by airway obstruction secondary to mpox. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS? Sore throat is a common presentation to the emergency department. mpox should be placed on the list of differential diagnoses when evaluating patients who present with pharyngitis to avoid complications or a missed diagnosis.
 
 ---
 
 ### Diagnosis and management of rhinosinusitis: a practice parameter update [^816cc5ee]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
-Symptoms of rhinosinusitis—category-based durations and features include: Acute bacterial rhinosinusitis (ABRS) lasts >10 days but <12 weeks and presents with anterior or posterior purulent drainage associated with ≥1 of the following: nasal congestion or blockage, facial pain, fever, headache, dental pain, cough, throat clearing, sore throat; recurrent acute rhinosinusitis (RARS) is defined as ≥3 episodes/year each lasting ≥7 days with symptoms same as acute but asymptomatic between episodes.
+Symptoms of rhinosinusitis — category-based durations and features include: Acute bacterial rhinosinusitis (ABRS) lasts > 10 days but < 12 weeks and presents with anterior or posterior purulent drainage associated with ≥ 1 of the following: nasal congestion or blockage, facial pain, fever, headache, dental pain, cough, throat clearing, sore throat; recurrent acute rhinosinusitis (RARS) is defined as ≥ 3 episodes/year each lasting ≥ 7 days with symptoms same as acute but asymptomatic between episodes.
 
 ---
 
 ### Notes from the field: group A streptococcal pharyngitis misdiagnoses at a rural urgent-care clinic – Wyoming, March 2015 [^315daa72]. MMWR: Morbidity and Mortality Weekly Report (2016). Low credibility.
 
-Group A Streptococcus (GAS) is the most common bacterial cause of pharyngitis, implicated in 20%-30% of pediatric and 5%-15% of adult health care visits for sore throat (1). Along with the sudden onset of throat pain, GAS pharyngitis symptoms include fever, headache, and bilateral tender cervical lymphadenopathy (1,2). Accurate diagnosis and management of GAS pharyngitis is critical for limiting antibiotic overuse and preventing rheumatic fever (2), but distinguishing between GAS and viral pharyngitis clinically is challenging (1). Guidelines for diagnosis and management of GAS pharyngitis have been published by the Infectious Diseases Society of America (IDSA)* (1). IDSA recommends that patients with sore throat be tested for GAS to distinguish between GAS and viral pharyngitis; however, IDSA emphasizes the use of selective testing based on clinical symptoms and signs to avoid identifying GAS carriers rather than acute GAS infections (1). Therefore, testing for GAS usually is not recommended for the following: patients with sore throat and accompanying symptoms (e.g., cough, rhinorrhea) that strongly suggest a viral etiology; children aged <3 years, because acute rheumatic fever is extremely rare in this age group; and asymptomatic household contacts of patients with GAS pharyngitis (1). IDSA recommends penicillin or amoxicillin as the treatment of choice based on effectiveness and narrow spectrum of activity. To date, penicillin-resistant GAS has never been documented (1).
+Group A Streptococcus (GAS) is the most common bacterial cause of pharyngitis, implicated in 20%-30% of pediatric and 5%-15% of adult health care visits for sore throat (1). Along with the sudden onset of throat pain, GAS pharyngitis symptoms include fever, headache, and bilateral tender cervical lymphadenopathy (1,2). Accurate diagnosis and management of GAS pharyngitis is critical for limiting antibiotic overuse and preventing rheumatic fever (2), but distinguishing between GAS and viral pharyngitis clinically is challenging (1). Guidelines for diagnosis and management of GAS pharyngitis have been published by the Infectious Diseases Society of America (IDSA)* (1). IDSA recommends that patients with sore throat be tested for GAS to distinguish between GAS and viral pharyngitis; however, IDSA emphasizes the use of selective testing based on clinical symptoms and signs to avoid identifying GAS carriers rather than acute GAS infections (1). Therefore, testing for GAS usually is not recommended for the following: patients with sore throat and accompanying symptoms (e.g., cough, rhinorrhea) that strongly suggest a viral etiology; children aged < 3 years, because acute rheumatic fever is extremely rare in this age group; and asymptomatic household contacts of patients with GAS pharyngitis (1). IDSA recommends penicillin or amoxicillin as the treatment of choice based on effectiveness and narrow spectrum of activity. To date, penicillin-resistant GAS has never been documented (1).
 
 ---
 
 ### Clinical manifestations of laryngopharyngeal reflux [^c7bebbbe]. Ear, Nose, & Throat Journal (2002). Low credibility.
 
-Laryngopharyngeal reflux (LPR) is ubiquitous and associated with many head and neck symptoms and diagnoses. In some cases, the symptom is the diagnosis--for example, LPR can cause sore throat, chronic cough, globus pharyngeus, and laryngospasm. Alternately, LPR can be associated with specific histopathologic lesions--for example, vocal process granulomas. LPR can be the sole cause or an etiologic cofactor in the development of many disorders of the aerodigestive tract.
+Laryngopharyngeal reflux (LPR) is ubiquitous and associated with many head and neck symptoms and diagnoses. In some cases, the symptom is the diagnosis — for example, LPR can cause sore throat, chronic cough, globus pharyngeus, and laryngospasm. Alternately, LPR can be associated with specific histopathologic lesions — for example, vocal process granulomas. LPR can be the sole cause or an etiologic cofactor in the development of many disorders of the aerodigestive tract.
 
 ---
 
@@ -480,16 +484,16 @@ Updates to this article
 
 Table 2shows evidence which has emerged since the publication of this article. As new evidence is published, a group will assess the new evidence and make a judgment on to what extent it is expected to alter the recommendation.
 
-Table 2 
+Table 2
 New evidence which has emerged after initial publication
 
 ---
 
 ### Updates to the modern diagnosis of GERD: Lyon consensus 2.0 [^7f079c3a]. Gut (2024). Medium credibility.
 
-Chronic cough and wheezing have a significantly lower likelihood of direct reflux aetiology compared with typical symptoms (figure 1). Chronic cough may represent hyper-responsive behaviour, where reflux is one of several triggers for coughing bouts, such as abrupt changes in temperature or humidity, prolonged talking or voice use, strong odours or scents, food triggers and postnasal drip.Refluxate aspirated into the airways has been implicated in graft failure after lung transplant, and in the pathogenesis of idiopathic pulmonary fibrosis.Wheezing and asthma may rarely be triggered by reflux, when aggressive reflux management may provide better control of asthma.
+Chronic cough and wheezing have a significantly lower likelihood of direct reflux aetiology compared with typical symptoms (figure 1). Chronic cough may represent hyper-responsive behaviour, where reflux is one of several triggers for coughing bouts, such as abrupt changes in temperature or humidity, prolonged talking or voice use, strong odours or scents, food triggers and postnasal drip. Refluxate aspirated into the airways has been implicated in graft failure after lung transplant, and in the pathogenesis of idiopathic pulmonary fibrosis. Wheezing and asthma may rarely be triggered by reflux, when aggressive reflux management may provide better control of asthma.
 
-Data demonstrating response of globus to GERD management are scarce.Hoarseness, throat clearing and sore throat have even less robust reflux associations,and these symptoms often correlate with cognitive processes with or without reflux disease.While dysphagia can be a consequence of reflux-induced oesophageal strictures or advanced erosive oesophagitis, primary dysphagia without heartburn, especially with bolus impaction, may suggest eosinophilic oesophagitis or a motility disorder. Finally, epigastric and abdominal symptoms (nausea, abdominal pain) are unlikely to have a reflux aetiology (figure 1) where reflux monitoring is typically not recommended, the exception being mischaracterisation of heartburn as epigastric burning.
+Data demonstrating response of globus to GERD management are scarce. Hoarseness, throat clearing and sore throat have even less robust reflux associations, and these symptoms often correlate with cognitive processes with or without reflux disease. While dysphagia can be a consequence of reflux-induced oesophageal strictures or advanced erosive oesophagitis, primary dysphagia without heartburn, especially with bolus impaction, may suggest eosinophilic oesophagitis or a motility disorder. Finally, epigastric and abdominal symptoms (nausea, abdominal pain) are unlikely to have a reflux aetiology (figure 1) where reflux monitoring is typically not recommended, the exception being mischaracterisation of heartburn as epigastric burning.
 
 GERD evidence
 
@@ -499,7 +503,7 @@ Endoscopy
 
 ### CDC yellow book 2026: health information for international travel. chapter 4 travel-associated infections and diseases [^6f259894]. CDC (2025). High credibility.
 
-COVID-19 clinical presentation and high-risk groups: signs and symptoms of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can include fever, chills, cough, shortness of breath, fatigue, muscle aches, headache, loss of taste or smell, sore throat, nasal congestion or rhinorrhea, vomiting or diarrhea, or skin rashes; illness can range from asymptomatic to severe and many symptoms are difficult to distinguish from other infections without diagnostic testing; severe disease occurs more often in people who are 50 years and older, with risk increasing substantially at ages >65 years; risk of severe illness is increased in people who are immunocompromised or with certain underlying medical conditions, with risk greater as comorbidities increase; women who are pregnant are at increased risk of severe illness and adverse pregnancy outcomes if infected while pregnant.
+COVID-19 clinical presentation and high-risk groups: signs and symptoms of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can include fever, chills, cough, shortness of breath, fatigue, muscle aches, headache, loss of taste or smell, sore throat, nasal congestion or rhinorrhea, vomiting or diarrhea, or skin rashes; illness can range from asymptomatic to severe and many symptoms are difficult to distinguish from other infections without diagnostic testing; severe disease occurs more often in people who are 50 years and older, with risk increasing substantially at ages > 65 years; risk of severe illness is increased in people who are immunocompromised or with certain underlying medical conditions, with risk greater as comorbidities increase; women who are pregnant are at increased risk of severe illness and adverse pregnancy outcomes if infected while pregnant.
 
 ---
 
@@ -507,15 +511,15 @@ COVID-19 clinical presentation and high-risk groups: signs and symptoms of sever
 
 Case presentation
 
-A previously healthy 22-year-old man presented to our emergency department in Abu Dhabi, United Arab Emirates in December. This patient was diagnosed with mild COVID-19 illness, sore throat and loss of sense of smell as well as positive COVID-19 PCR, 0n 26 October 2020. Following full recovery by resolution of symptoms and reverting to negative PCR, he received the first dose of inactivated SARS-CoV-2 vaccine on November 6. Following the first dose of vaccine, he remained asymptomatic and well. He received the second dose on 6 December 2020. A few hours later the patient started to experience headache and fatigue. The day after, he started to develop fever, sore throat and abdominal pain. The illness progressed over the following 4 days when he presented to the emergency department with high-grade fever, myalgia, nausea, vomiting and diarrhoea, and a faint erythematous non-itchy rash over his torso that he noticed earlier that day. The patient reported a dry irritant cough but no shortness of breath or chest discomfort. He had no urinary symptoms and no pain or swelling of his joints.
+A previously healthy 22-year-old man presented to our emergency department in Abu Dhabi, United Arab Emirates in December. This patient was diagnosed with mild COVID-19 illness, sore throat and loss of sense of smell as well as positive COVID-19 PCR, 0n 26 October 2020. Following full recovery by resolution of symptoms and reverting to negative PCR, he received the first dose of inactivated SARS-CoV-2 vaccine on November 6. Following the first dose of vaccine, he remained asymptomatic and well. He received the second dose on 6 December 2020. A few hours later the patient started to experience headache and fatigue. The day after, he started to develop fever, sore throat and abdominal pain. The illness progressed over the following 4 days when he presented to the emergency department with high-grade fever, myalgia, nausea, vomiting and diarrhoea, and a faint erythematous non-itchy rash over his torso that he noticed earlier that day. The patient reported a dry irritant cough but no shortness of breath or chest discomfort. He had no urinary symptoms and no pain or swelling of his joints.
 
 The patient had no history of recent travel, no sick contacts, no animal exposure and no consumption of raw dairy products. He was not on any chronic medications and had no known allergies. He reported taking ibuprofen and one dose of an antibiotic over the prior few days for symptomatic relief. He was a non-smoker and did not use recreational drugs.
 
-In the emergency department the patient was noted to have a temperature of 39°C, systolic blood pressure of 110 mm Hg and tachycardia, 140 beats per minute. Physical examination revealed dry mucous membranes with congested throat. Bilateral conjunctival injection and left conjunctival haemorrhage. There was a generalised erythematous maculopapular rash, mostly over the chest and back. His peripheral lymph nodes were not enlarged. There were no audible cardiac murmurs, his chest was clear to auscultation, abdomen examination was unremarkable.
+In the emergency department the patient was noted to have a temperature of 39°C, systolic blood pressure of 110 mm Hg and tachycardia, 140 beats per minute. Physical examination revealed dry mucous membranes with congested throat. Bilateral conjunctival injection and left conjunctival haemorrhage. There was a generalised erythematous maculopapular rash, mostly over the chest and back. His peripheral lymph nodes were not enlarged. There were no audible cardiac murmurs, his chest was clear to auscultation, abdomen examination was unremarkable.
 
 ---
 
-### Sore throat in a young man: guess what … [^15b1cb67]. BMJ Case Reports (2014). Medium credibility.
+### Sore throat in a young man: guess what… [^15b1cb67]. BMJ Case Reports (2014). Medium credibility.
 
 Sore throat is a common complaint in the outpatient and emergency room settings. Typically, little workup is necessary and includes visual inspection with or without swabs for bacterial infection. We present a case that demonstrates an important entity to be excluded by simple history and physical examination in patients presenting with pain in the throat or neck. The most important cause of pneumomediastinum is previous instrumentation. Spontaneous pneumomediastinum is uncommonly seen in young adults. Most cases of spontaneous pneumomediastinum are uncomplicated, as mediastinal pressures rarely mount to dangerous levels. However, when the patient presents with distended neck veins, cyanosis or marked dyspnoea, further action is necessary. Lastly, since pneumomediastinum can be caused by oesophageal rupture and occasionally present with concurrent pneumothorax, these dangerous entities must be excluded.
 
@@ -531,9 +535,9 @@ A 47-year-old male smoker admitted complaining of progressive bilateral lower-li
 
 Introduction
 
-Patients are commonly referred to secondary care for assessment of a variety of laryngeal and pharyngeal symptoms. These include: dysphonia, ‘globus’ sensation, throat clearing, excessive mucus, postnasal secretions, cough and throat discomfort. A conservative estimate of 60 000 such patients are seen annually by specialists in England.The diagnosis of ‘laryngopharyngeal reflux’ remains a popular moniker for these symptoms, accompanying the vogue for gastric acid-suppression treatment.A recent large UK multicentre randomised controlled trial (Trial Of Proton-Pump Inhibitors in Throat Symptoms; TOPPITS) in 346 patients with chronic pharyngeal and laryngeal symptoms found that Lansoprazole 30 mg two times per day conferred no benefit over placebo.These findings should lead specialists to re-explore other potential causes of chronic throat symptoms that have received little press in the face of the reflux aetiology theory. The link between chronic throat symptoms and psychological distress is well documented.Raised body mass index (BMI), life events, snoring, upper airway dryness and hormonal changes have all been associated with chronic throat and voice symptoms.
+Patients are commonly referred to secondary care for assessment of a variety of laryngeal and pharyngeal symptoms. These include: dysphonia, 'globus' sensation, throat clearing, excessive mucus, postnasal secretions, cough and throat discomfort. A conservative estimate of 60 000 such patients are seen annually by specialists in England. The diagnosis of 'laryngopharyngeal reflux' remains a popular moniker for these symptoms, accompanying the vogue for gastric acid-suppression treatment. A recent large UK multicentre randomised controlled trial (Trial Of Proton-Pump Inhibitors in Throat Symptoms; TOPPITS) in 346 patients with chronic pharyngeal and laryngeal symptoms found that Lansoprazole 30 mg two times per day conferred no benefit over placebo. These findings should lead specialists to re-explore other potential causes of chronic throat symptoms that have received little press in the face of the reflux aetiology theory. The link between chronic throat symptoms and psychological distress is well documented. Raised body mass index (BMI), life events, snoring, upper airway dryness and hormonal changes have all been associated with chronic throat and voice symptoms.
 
-The individual symptoms that patients present with, such as catarrh, throat clearing, intermittent hoarseness or globus frequently coexist. The repeated need to clear the throat is the most common symptom in most cohorts. Throat clearing may culminate in voice change and is often associated with globus sensation, but equally may occur with the sensation of mucus coming into the throat from the nose. Predating the popularisation of the global term ‘laryngopharyngeal reflux’, individual symptoms such as globus, catarrh and functional dysphonia were approached discretely, both from clinical and research perspectives.
+The individual symptoms that patients present with, such as catarrh, throat clearing, intermittent hoarseness or globus frequently coexist. The repeated need to clear the throat is the most common symptom in most cohorts. Throat clearing may culminate in voice change and is often associated with globus sensation, but equally may occur with the sensation of mucus coming into the throat from the nose. Predating the popularisation of the global term 'laryngopharyngeal reflux', individual symptoms such as globus, catarrh and functional dysphonia were approached discretely, both from clinical and research perspectives.
 
 This study aimed to explore the rich baseline psychometric dataset from recruits to the TOPPITS trial, for any identifiable symptom clusters, which might provide, in the longer term, a more rational basis for treatment.
 
@@ -546,7 +550,7 @@ Headache
 Sensitivity analysis (prospective data collection only): sensitivity ranged from 3% to 85%; specificity from 18% to 98%
 Pooled sensitivity 21.9% (95% CI 9.2% to 43.5%); pooled specificity 80.1% (95% CI 60.2% to 91.4%); 6 studies, 6171 participants
 
-Cough and fever (see sensitivity analyses) were the only index tests with a pooled sensitivity above 50% but their pooled specificity was only 35.5% and 67.4% respectively (Figure 20 ; Figure 15). Pooled specificity was above 90% for diarrhoea, nausea or vomiting, chest tightness, anosmia, ageusia, and for the presence of anosmia or ageusia (Figure 16 ; Figure 19). However, their pooled sensitivity was very low (maximum 11.6% for diarrhoea), except for anosmia (28.0%) and anosmia or ageusia (41.0%).
+Cough and fever (see sensitivity analyses) were the only index tests with a pooled sensitivity above 50% but their pooled specificity was only 35.5% and 67.4% respectively (Figure 20; Figure 15). Pooled specificity was above 90% for diarrhoea, nausea or vomiting, chest tightness, anosmia, ageusia, and for the presence of anosmia or ageusia (Figure 16; Figure 19). However, their pooled sensitivity was very low (maximum 11.6% for diarrhoea), except for anosmia (28.0%) and anosmia or ageusia (41.0%).
 
 The only tests exceeding a pooled diagnostic odds ratio (DOR) of 5 were anosmia as a single test or in combination with ageusia (anosmia or ageusia). Yet, their pooled positive likelihood ratio (LR+) was below our predefined cut‐off of 5 for a useful red flag (4.25 (95% CI 3.17 to 5.71) and 4.31 (95% CI 3.00 to 6.18), respectively). The pooled negative likelihood ratios (LRs‐) were too high to make any of the reported tests useful to rule out the presence of COVID‐19 disease. In other words, the absence of the above mentioned index tests does not necessarily imply the absence of COVID‐19 disease.
 
@@ -561,7 +565,7 @@ Anosmia or dysgeusia (2 studies, 457 participants): sensitivity between 9% to 74
 
 ### Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenzaa [^a67f3a43]. Clinical Infectious Diseases (2019). High credibility.
 
-IDSA 2018 seasonal influenza—hospitalized adults and pediatric predictors show variable accuracy and age-specific features. In hospitalized patients, fever with cough or sore throat had a sensitivity of 43% for patients without asthma and only 20% for asthmatic patients. Infants and young children with influenza may not always have fever and may present with a wide range of signs and symptoms, may present with fever and suspected sepsis, and diarrhea can occur in up to 28% of infants and young children with influenza. In young children 1–5 years, fever >38°C, chills, headache, malaise, and sore eyes were significantly associated with a positive RT-PCR test result. In pediatric patients, fever (≥38°C), headache, cough, and absence of abnormal breathing sounds had a positive predictive value of 57.1%. Among children aged ≤5 years, adding rhinorrhea to the fever and cough case definition achieved a better balance between sensitivity (83%) and specificity (47%), and among pediatric outpatients aged ≤13 years with respiratory infections, fever was the only reliable predictor of culture-confirmed influenza virus infection.
+IDSA 2018 seasonal influenza — hospitalized adults and pediatric predictors show variable accuracy and age-specific features. In hospitalized patients, fever with cough or sore throat had a sensitivity of 43% for patients without asthma and only 20% for asthmatic patients. Infants and young children with influenza may not always have fever and may present with a wide range of signs and symptoms, may present with fever and suspected sepsis, and diarrhea can occur in up to 28% of infants and young children with influenza. In young children 1–5 years, fever > 38°C, chills, headache, malaise, and sore eyes were significantly associated with a positive RT-PCR test result. In pediatric patients, fever (≥ 38°C), headache, cough, and absence of abnormal breathing sounds had a positive predictive value of 57.1%. Among children aged ≤ 5 years, adding rhinorrhea to the fever and cough case definition achieved a better balance between sensitivity (83%) and specificity (47%), and among pediatric outpatients aged ≤ 13 years with respiratory infections, fever was the only reliable predictor of culture-confirmed influenza virus infection.
 
 ---
 
@@ -573,34 +577,34 @@ An 89-year-old man presented with a 3-year history of chronic daily headaches th
 
 ### Signs and symptoms to determine if a patient presenting in primary care or hospital outpatient settings has COVID-19 [^7b8fcdb9]. The Cochrane Database of Systematic Reviews (2021). Medium credibility.
 
-16 
+16
 Summary ROC plot of anosmia
 
-17 
+17
 Summary ROC plot of sore throat (cross‐sectional studies)
 
-18 
+18
 Summary ROC plot of ageusia
 
-19 
+19
 Summary ROC plot of anosmia or ageusia
 
-20 
+20
 Summary ROC plot of cough (cross‐sectional studies)
 
-21 
+21
 Summary ROC Plot of fatigue
 
-22 
+22
 Summary ROC plot of headache. Summary point only estimable in prospective studies
 
-23 
+23
 Forest plot of tests: cough (non‐cross‐sectional study), sore throat (non‐cross‐sectional study), positive auscultation findings (non‐cross‐sectional study), rhinorrhoea (non‐cross‐sectional study), dyspnoea (non‐cross‐sectional study), sneezing (non‐cross‐sectional study), nasal congestion (non‐cross‐sectional study), sputum production (non‐cross‐sectional study), pulmonary auscultation (crackling) bilateral (non‐cross‐sectional study), pulmonary auscultation (crackling unilateral; non‐cross‐sectional study), pulmonary auscultation (rhonchi; non‐cross‐sectional study), pulmonary auscultation: sibilant (non‐cross‐sectional study)
 
-24 
+24
 Forest plot of tests: fever (non‐cross‐sectional study), fatigue (non‐cross‐sectional study), myalgia or arthralgia (non‐cross‐sectional study), headache (non‐cross‐sectional study), asthenia (non‐cross‐sectional study), fever (subjective, non‐cross‐sectional study)), arthralgia (non‐cross‐sectional study)
 
-25 
+25
 Forest plot of tests: diarrhoea (non‐cross‐sectional study), nausea/vomiting (non‐cross‐sectional study), gastrointestinal symptoms (not specified; non‐cross‐sectional study), nausea (non‐cross‐sectional study), vomiting (non‐cross‐sectional study), abdominal pain (non‐cross‐sectional study)
 
 ---
@@ -613,30 +617,31 @@ Giant cell arteritis is a devastating condition that can lead to permanent visio
 
 ### Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenzaa [^5c226e7c]. Clinical Infectious Diseases (2019). High credibility.
 
-Uncomplicated influenza—signs and symptoms: Signs and symptoms of uncomplicated influenza include fever, headache, chills, malaise, fatigue; nasal congestion, rhinorrhea, and sore throat/hoarseness; myalgia, arthralgia, weakness, and chest pain; abdominal pain, vomiting, and diarrhea; and nonproductive cough and pleuritic chest pain. Gastrointestinal symptoms vary with age: diarrhea is more common among infants, young children, and school-aged children; abdominal pain may be present among school-aged children; vomiting may be present among adults.
+Uncomplicated influenza — signs and symptoms: Signs and symptoms of uncomplicated influenza include fever, headache, chills, malaise, fatigue; nasal congestion, rhinorrhea, and sore throat/hoarseness; myalgia, arthralgia, weakness, and chest pain; abdominal pain, vomiting, and diarrhea; and nonproductive cough and pleuritic chest pain. Gastrointestinal symptoms vary with age: diarrhea is more common among infants, young children, and school-aged children; abdominal pain may be present among school-aged children; vomiting may be present among adults.
 
 ---
 
 ### Guidelines for the clinical diagnosis and treatment of dengue, chikungunya, and zika [^5025bef8]. PAHO (2022). High credibility.
 
 Regarding screening and diagnosis for dengue, more specifically with respect to differential diagnosis (arbovirus infections), PAHO/WHO 2022 guidelines recommend to recognize clinical manifestations of different arbovirus infections to help differentiate them:
-|Situation|Guidance|
+
+| **Situation** | **Guidance** |
 |-|-|
-|Dengue|- Findings that help in differentiation - thrombocytopenia, progressive increase in hematocrit, leukopenia<br>- Findings that probably help in differentiation - anorexia or hyporexia, vomiting, abdominal pain, chills, hemorrhages, including bleeding on the skin, mucous membranes, or both<br>- Findings that may help in differentiation - retro-ocular pain, hepatomegaly, headache, diarrhea, dysgeusia, cough, elevated transaminases, positive tourniquet test|
-|Chikungunya|- Findings that help in differentiation - arthralgias<br>- Findings that probably help in differentiation - eruption, conjunctivitis, arthritis, myalgias, bone pain<br>- Findings that may help in differentiation - hemorrhages, including bleeding on the skin, mucous membranes, or both|
-|Zika|- Findings that help in differentiation - pruritus<br>- Findings that probably help in differentiation - eruption, conjunctivitis<br>- Findings that may help in differentiation - lymphadenopathies, pharyngitis, odynophagia|
+|Dengue|- Findings that help in differentiation - thrombocytopenia, progressive increase in hematocrit, leukopenia < br > - Findings that probably help in differentiation - anorexia or hyporexia, vomiting, abdominal pain, chills, hemorrhages, including bleeding on the skin, mucous membranes, or both < br > - Findings that may help in differentiation - retro-ocular pain, hepatomegaly, headache, diarrhea, dysgeusia, cough, elevated transaminases, positive tourniquet test|
+|Chikungunya|- Findings that help in differentiation - arthralgias < br > - Findings that probably help in differentiation - eruption, conjunctivitis, arthritis, myalgias, bone pain < br > - Findings that may help in differentiation - hemorrhages, including bleeding on the skin, mucous membranes, or both|
+|Zika|- Findings that help in differentiation - pruritus < br > - Findings that probably help in differentiation - eruption, conjunctivitis < br > - Findings that may help in differentiation - lymphadenopathies, pharyngitis, odynophagia|
 
 ---
 
 ### Signs and symptoms to determine if a patient presenting in primary care or hospital outpatient settings has COVID-19 disease [^78cf3d15]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
-13 
+13
 Forest plot of tests: 37 fatigue (non‐cross‐sectional study), 36 fever (non‐cross‐sectional study), 39 headache (non‐cross‐sectional study), 38 myalgia or arthralgia (non‐cross‐sectional study)
 
-14 
+14
 Forest plot of tests: 40 diarrhoea (non‐cross‐sectional study), 41 nausea/vomiting (non‐cross‐sectional study), 42 gastrointestinal symptoms, not specified (non‐cross‐sectional study)
 
-15 
+15
 Forest plot of 35 chest tightness (non‐cross‐sectional study)
 
 Overall, diagnostic accuracy of individual signs and symptoms is low, especially sensitivity. In addition, results were highly variable across studies, making it difficult to draw firm conclusions.
@@ -666,7 +671,7 @@ Data sources of MEDLINE (PubMed), the Cochrane Library, Scopus, Embase, Web of S
 
 Main Findings
 
-38 studies with 5952 patients were included. The four most prevalent manifestations were headache at 31 % (95 % CI [0.16-0.49], I 2 = 99 %), sore throat at 22 % (95 % CI [0.09-0.37], I 2 = 99 %), cough at 16 % (95 % CI [0.05-0.30], I 2 = 99 %), and cervical lymphadenopathy at 10 % (95 % CI [0.01-0.26], I 2 = 100 %). Otolaryngologic features were more prevalent in previous outbreaks as compared to the 2022 outbreak including 37 % prevalence of headache (95 % CI [0.11-0.66], I 2 = 100 %), 33 % prevalence of cough (95 % CI [0.21-0.47], I 2 = 98 %), 27 % prevalence of sore throat (95 % CI [0.07-0.53], I 2 = 99 %), 15 % prevalence of cervical lymphadenopathy (95 % CI [0.00-0.428], I 2 = 100 %), 13 % prevalence of oral ulcers (95 % CI [0.02-0.30], I 2 = 99 %), 6 % prevalence of oral exanthem (95 % CI [0.00-0.17], I 2 = 99 %), 5 % prevalence of dysphagia (95 % CI [0.00-0.18], I 2 = 99 %), and 5 % prevalence of tonsillar signs (95 % CI [0.00-0.13], I 2 = 99 %). Features that were more prevalent in endemic areas versus non-endemic areas include 27 % prevalence of cough (95 % CI [0.14-0.41], I 2 = 99 %), 15 % prevalence of oral ulcers (95 % CI [0.02-0.36], I 2 = 99 %), 6 % prevalence of tonsillar signs (95 % CI [0.00-0.18], I 2 = 99 %), and 19 % prevalence of cervical lymphadenopathy (95 % CI [0.00-0.48], I 2 = 100 %), while the only feature more prevalent in non-endemic areas was headache with a prevalence of 36 % (95 % CI [0.24-0.47], I 2 = 96 %).
+38 studies with 5952 patients were included. The four most prevalent manifestations were headache at 31% (95% CI [0.16–0.49], I² = 99%), sore throat at 22% (95% CI [0.09–0.37], I² = 99%), cough at 16% (95% CI [0.05–0.30], I² = 99%), and cervical lymphadenopathy at 10% (95% CI [0.01–0.26], I² = 100%). Otolaryngologic features were more prevalent in previous outbreaks as compared to the 2022 outbreak including 37% prevalence of headache (95% CI [0.11–0.66], I² = 100%), 33% prevalence of cough (95% CI [0.21–0.47], I² = 98%), 27% prevalence of sore throat (95% CI [0.07–0.53], I² = 99%), 15% prevalence of cervical lymphadenopathy (95% CI [0.00–0.428], I² = 100%), 13% prevalence of oral ulcers (95% CI [0.02–0.30], I² = 99%), 6% prevalence of oral exanthem (95% CI [0.00–0.17], I² = 99%), 5% prevalence of dysphagia (95% CI [0.00–0.18], I² = 99%), and 5% prevalence of tonsillar signs (95% CI [0.00–0.13], I² = 99%). Features that were more prevalent in endemic areas versus non-endemic areas include 27% prevalence of cough (95% CI [0.14–0.41], I² = 99%), 15% prevalence of oral ulcers (95% CI [0.02–0.36], I² = 99%), 6% prevalence of tonsillar signs (95% CI [0.00–0.18], I² = 99%), and 19% prevalence of cervical lymphadenopathy (95% CI [0.00–0.48], I² = 100%), while the only feature more prevalent in non-endemic areas was headache with a prevalence of 36% (95% CI [0.24–0.47], I² = 96%).
 
 Principal Conclusions
 
@@ -674,9 +679,9 @@ In this systematic review and meta-analysis, four symptoms - headache, sore thro
 
 ---
 
-### Clinical practice guideline: evaluation of the neck mass in adults [^2b63b43d]. Otolaryngology--Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: evaluation of the neck mass in adults [^2b63b43d]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
-Neck mass—patient handout risk indicators and evaluation—Common symptoms in patients with a neck mass at increased risk for malignancy include the mass lasting longer than 2-3 weeks, voice change, trouble or pain with swallowing, trouble hearing or ear pain on the same side as the neck mass, sore throat, unexplained weight loss, and fever >101°F. For next steps, your provider will ask about medical history and examine your head and neck, may order tests or refer you to a specialist, and will want to make sure you have a thorough evaluation, testing, and follow-up within a short period of time with a plan for follow-up after testing, and it is important for you to follow this neck mass until it goes away or until you have a diagnosis.
+Neck mass — patient handout risk indicators and evaluation — Common symptoms in patients with a neck mass at increased risk for malignancy include the mass lasting longer than 2–3 weeks, voice change, trouble or pain with swallowing, trouble hearing or ear pain on the same side as the neck mass, sore throat, unexplained weight loss, and fever > 101°F. For next steps, your provider will ask about medical history and examine your head and neck, may order tests or refer you to a specialist, and will want to make sure you have a thorough evaluation, testing, and follow-up within a short period of time with a plan for follow-up after testing, and it is important for you to follow this neck mass until it goes away or until you have a diagnosis.
 
 ---
 
@@ -700,7 +705,7 @@ This case describes the successful treatment of persistent globus pharyngeus in 
 
 ### Treatment of unexplained chronic cough: CHEST guideline and expert panel report [^accc7003]. Chest (2016). Medium credibility.
 
-Case description features for unexplained chronic cough—UCC was identified as either refractory to empiric treatment trials or as unable to be assigned an etiology, with example descriptions including chronic cough that had persisted despite medical treatment according to the anatomic diagnostic protocol; cough and symptoms suggesting asthma but with normal lung function; a history consistent with postviral vagal neuropathy with a daily, dry, nonproductive cough of 6 months’ duration precipitated by a throat tickle, dry sensation, laughter, or speaking (with most patients having a readily identifiable antecedent upper respiratory tract infection); and chronic cough for which GERD and postnasal drip syndrome (PNDS) had been excluded.
+Case description features for unexplained chronic cough — UCC was identified as either refractory to empiric treatment trials or as unable to be assigned an etiology, with example descriptions including chronic cough that had persisted despite medical treatment according to the anatomic diagnostic protocol; cough and symptoms suggesting asthma but with normal lung function; a history consistent with postviral vagal neuropathy with a daily, dry, nonproductive cough of 6 months' duration precipitated by a throat tickle, dry sensation, laughter, or speaking (with most patients having a readily identifiable antecedent upper respiratory tract infection); and chronic cough for which GERD and postnasal drip syndrome (PNDS) had been excluded.
 
 ---
 
@@ -718,17 +723,17 @@ Sore throat is one of the most common reasons for visits to family physicians. W
 
 ### AGA institute rapid review of the gastrointestinal and liver manifestations of COVID-19, meta-analysis of international data, and recommendations for the consultative management of patients with COVID-19 [^7c8fd4cb]. Gastroenterology (2020). High credibility.
 
-Rationale for best practice statements—history taking for gastrointestinal (GI) symptoms in COVID-19. In outpatients with new-onset diarrhea, ascertain information about high-risk contact exposure; obtain a detailed history of symptoms associated with COVID-19, including fever, cough, shortness of breath, chills, muscle pain, headache, sore throat, or new loss of taste or smell; and obtain a thorough history for other GI symptoms, including nausea, vomiting, and abdominal pain. In outpatients with new-onset GI symptoms (eg, nausea, vomiting, abdominal pain, and diarrhea), monitor for symptoms associated with COVID-19, as GI symptoms may precede COVID-related symptoms by a few days, and in a high COVID-19 prevalence setting, COVID-19 testing should be considered. In hospitalized patients with suspected or known COVID-19, obtain a thorough history of GI symptoms (ie, nausea, vomiting, abdominal pain, and diarrhea), including onset, characteristics, duration, and severity.
+Rationale for best practice statements — history taking for gastrointestinal (GI) symptoms in COVID-19. In outpatients with new-onset diarrhea, ascertain information about high-risk contact exposure; obtain a detailed history of symptoms associated with COVID-19, including fever, cough, shortness of breath, chills, muscle pain, headache, sore throat, or new loss of taste or smell; and obtain a thorough history for other GI symptoms, including nausea, vomiting, and abdominal pain. In outpatients with new-onset GI symptoms (eg, nausea, vomiting, abdominal pain, and diarrhea), monitor for symptoms associated with COVID-19, as GI symptoms may precede COVID-related symptoms by a few days, and in a high COVID-19 prevalence setting, COVID-19 testing should be considered. In hospitalized patients with suspected or known COVID-19, obtain a thorough history of GI symptoms (ie, nausea, vomiting, abdominal pain, and diarrhea), including onset, characteristics, duration, and severity.
 
 ---
 
-### When is It not "Just a sore throat? " (...) [^2dd5bfb4]. AAFP (2011). Low credibility.
+### When is It not "Just a sore throat? "… [^2dd5bfb4]. AAFP (2011). Low credibility.
 
-Sore throat consistently ranks in the top 10 reasons for ambulatory care visits. We see this symptom so often that our vocabulary even includes the phrase “just a sore throat. ” For more than 50 years, physicians have considered group A beta-hemolytic streptococcus the only important cause of sore throat, because it can lead to acute rheumatic fever. Although we know that other organisms can also cause sore throat, disease management guidelines ignore them because experts believe those organisms cause self-limited symptoms without serious sequelae. 1, 2 These guidelines have driven many physicians to use algorithms for sore throat management, which has resulted in many offices, urgent care centers, and emergency departments using programmed evaluation and management strategies for patients with sore throat. Often, the rapid strep test is ordered routinely for patients with sore throat, rather than basing the decision to test on a targeted history and physical examination.
+Sore throat consistently ranks in the top 10 reasons for ambulatory care visits. We see this symptom so often that our vocabulary even includes the phrase "just a sore throat. " For more than 50 years, physicians have considered group A beta-hemolytic streptococcus the only important cause of sore throat, because it can lead to acute rheumatic fever. Although we know that other organisms can also cause sore throat, disease management guidelines ignore them because experts believe those organisms cause self-limited symptoms without serious sequelae. 1, 2 These guidelines have driven many physicians to use algorithms for sore throat management, which has resulted in many offices, urgent care centers, and emergency departments using programmed evaluation and management strategies for patients with sore throat. Often, the rapid strep test is ordered routinely for patients with sore throat, rather than basing the decision to test on a targeted history and physical examination.
 
-This strategy results in patients being diagnosed as having or not having strep throat, which implies that antibiotics are not needed if the patient does not have strep throat. We encourage physicians, residents, and students to learn the differential diagnosis of worsening pharyngitis, including non-group A streptococcus, untreated group A streptococcus, infectious mononucleosis, acute human immunodeficiency virus infection, peritonsillar abscess, and Lemierre syndrome. 3, 4 We recommend remembering the natural history of “just a sore throat, ” which is resolution of symptoms in three to five days. When the patient's symptoms persist or worsen, the diagnosis no longer fits this category, and a more careful diagnostic and therapeutic approach is required.
+This strategy results in patients being diagnosed as having or not having strep throat, which implies that antibiotics are not needed if the patient does not have strep throat. We encourage physicians, residents, and students to learn the differential diagnosis of worsening pharyngitis, including non-group A streptococcus, untreated group A streptococcus, infectious mononucleosis, acute human immunodeficiency virus infection, peritonsillar abscess, and Lemierre syndrome. 3, 4 We recommend remembering the natural history of "just a sore throat, " which is resolution of symptoms in three to five days. When the patient's symptoms persist or worsen, the diagnosis no longer fits this category, and a more careful diagnostic and therapeutic approach is required.
 
-Fusobacterium necrophorum, a newly recognized bacterial cause of pharyngitis, can result in a potentially devastating suppurative complication called Lemierre syndrome, which usually begins with a sore throat that improves over the first four to five days. 5 The patient then has a recurrence of symptoms, with the addition of bacteremic symptoms including rigors, fever, and night sweats. Patients also develop suppurative internal jugular thrombophlebitis and metastatic infections, especially in the lungs, joints, or brain. Patients with Lemierre syndrome have an estimated mortality of 5 percent, with significant short- and long-term morbidity. 6 Lemierre syndrome occurs most often in adolescents and young adults, and. Fusobacterium pharyngitis occurs predominantly in the same age group. 6 A Lemierre syndrome variant can also occur before adolescence; however, it rarely starts with a sore throat.
+Fusobacterium necrophorum, a newly recognized bacterial cause of pharyngitis, can result in a potentially devastating suppurative complication called Lemierre syndrome, which usually begins with a sore throat that improves over the first four to five days. 5 The patient then has a recurrence of symptoms, with the addition of bacteremic symptoms including rigors, fever, and night sweats. Patients also develop suppurative internal jugular thrombophlebitis and metastatic infections, especially in the lungs, joints, or brain. Patients with Lemierre syndrome have an estimated mortality of 5 percent, with significant short- and long-term morbidity. 6 Lemierre syndrome occurs most often in adolescents and young adults,… Fusobacterium pharyngitis occurs predominantly in the same age group. 6 A Lemierre syndrome variant can also occur before adolescence; however, it rarely starts with a sore throat.
 
 No laboratory method for diagnosing Fusobacterium pharyngitis is readily available. F. necrophorum is a gram-negative anaerobic bacterium that is difficult to grow on routine media from throat swabs. Blood cultures grow the organism, but identification is slow. Many Lemierre syndrome diagnoses occur after the blood cultures become positive and after complications have occurred. Fusobacterium pharyngitis cannot be routinely diagnosed, so we cannot recommend antibiotic treatment for preventing Lemierre syndrome. We believe that following the American College of Physicians/Centers for Disease Control and Prevention guidelines endorsed by the American Academy of Family Physicians would decrease the risk of Lemierre syndrome in adolescents and young adults.
 
@@ -738,7 +743,7 @@ No laboratory method for diagnosing Fusobacterium pharyngitis is readily availab
 
 STOP USE AND ASK A DOCTOR IF
 
-cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
 
 ---
 
@@ -748,9 +753,9 @@ A middle-aged woman was referred to the admitting medical team with sudden onset
 
 ---
 
-### Clinical practice guideline (update): adult sinusitis [^2ea9a89c]. Otolaryngology--Head and Neck Surgery (2015). Medium credibility.
+### Clinical practice guideline (update): adult sinusitis [^2ea9a89c]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
 
-Allergic rhinitis (AR)—history and physical examination for initial clinical diagnosis emphasizes that Key elements of the history in patients presenting with AR include seasonal, perennial or episodic, exposure-associated itching of the nose, palate, or eyes, sneezing, nasal congestion, sniffing, clear rhinorrhea, and postnasal drip. Children may only complain of malaise or fatigue, often associated with a cough, and the history must include specific questions about rhinorrhea and nasal and ocular itch in order to elicit these complaints. Symptoms of other sinonasal diseases such as sinusitis, vasomotor rhinitis, and granulomatous diseases can overlap with AR symptoms and should be differentiated from AR, and Less typical symptoms such as epistaxis, unilateral rhinorrhea, unilateral nasal blockage, severe headache, or anosmia suggest alternative diagnoses and should be investigated further. Viral upper respiratory infections may produce similar symptoms but tend to be of a shorter duration and often include other symptoms such as fever and myalgia. A family history of AR, asthma, or atopic dermatitis strengthens the diagnosis of AR in patients with compatible symptoms. Findings on physical examination that support the diagnosis of AR include several classic findings, such as clear rhinorrhea and pale pink or bluish swelling of the nasal turbinate mucosa, and Frequent throat clearing is often present as well, reflecting postnasal drip. Although definitive diagnosis depends on the finding of an IgE-mediated response to a specific allergen, detected through cutaneous or blood testing in most patients, it is reasonable to make an initial diagnosis and begin therapy based on the history and physical examination, and A good response to avoidance of suspected allergens or appropriate empiric therapy supports the diagnosis of AR and may preclude the need for further testing.
+Allergic rhinitis (AR) — history and physical examination for initial clinical diagnosis emphasizes that Key elements of the history in patients presenting with AR include seasonal, perennial or episodic, exposure-associated itching of the nose, palate, or eyes, sneezing, nasal congestion, sniffing, clear rhinorrhea, and postnasal drip. Children may only complain of malaise or fatigue, often associated with a cough, and the history must include specific questions about rhinorrhea and nasal and ocular itch in order to elicit these complaints. Symptoms of other sinonasal diseases such as sinusitis, vasomotor rhinitis, and granulomatous diseases can overlap with AR symptoms and should be differentiated from AR, and Less typical symptoms such as epistaxis, unilateral rhinorrhea, unilateral nasal blockage, severe headache, or anosmia suggest alternative diagnoses and should be investigated further. Viral upper respiratory infections may produce similar symptoms but tend to be of a shorter duration and often include other symptoms such as fever and myalgia. A family history of AR, asthma, or atopic dermatitis strengthens the diagnosis of AR in patients with compatible symptoms. Findings on physical examination that support the diagnosis of AR include several classic findings, such as clear rhinorrhea and pale pink or bluish swelling of the nasal turbinate mucosa, and Frequent throat clearing is often present as well, reflecting postnasal drip. Although definitive diagnosis depends on the finding of an IgE-mediated response to a specific allergen, detected through cutaneous or blood testing in most patients, it is reasonable to make an initial diagnosis and begin therapy based on the history and physical examination, and A good response to avoidance of suspected allergens or appropriate empiric therapy supports the diagnosis of AR and may preclude the need for further testing.
 
 ---
 
@@ -786,13 +791,13 @@ The disease acute bronchitis can be associated with headache, cough, fever, runn
 
 ### CDC yellow book 2026: health information for international travel. chapter 4 travel-associated infections and diseases [^acdaeada]. CDC (2025). High credibility.
 
-Influenza clinical presentation—abrupt onset symptoms and course include that influenza illness is characterized by an abrupt onset of signs and symptoms that include rhinitis, nonproductive cough, sore throat, headache, fever, chills, malaise, shortness of breath, earache, muscle aches, vomiting, or, less commonly, rash, and illness without fever can occur, especially in older adults and infants; physical findings are predominantly localized to the respiratory tract and include nasal discharge, pharyngeal inflammation without exudates, and occasionally rales on chest auscultation; uncomplicated influenza illness typically resolves within 1 week for most previously healthy children and adults who do not receive antiviral medication, although cough and malaise can persist for >2 weeks, especially in older adults; reported human infections with avian influenza A(H5N1) or A(H7N9) viruses can present with conjunctivitis, upper respiratory infection, or severe pneumonia, and children are more likely than adults to experience nausea, vomiting, or diarrhea when ill with influenza.
+Influenza clinical presentation — abrupt onset symptoms and course include that influenza illness is characterized by an abrupt onset of signs and symptoms that include rhinitis, nonproductive cough, sore throat, headache, fever, chills, malaise, shortness of breath, earache, muscle aches, vomiting, or, less commonly, rash, and illness without fever can occur, especially in older adults and infants; physical findings are predominantly localized to the respiratory tract and include nasal discharge, pharyngeal inflammation without exudates, and occasionally rales on chest auscultation; uncomplicated influenza illness typically resolves within 1 week for most previously healthy children and adults who do not receive antiviral medication, although cough and malaise can persist for > 2 weeks, especially in older adults; reported human infections with avian influenza A(H5N1) or A(H7N9) viruses can present with conjunctivitis, upper respiratory infection, or severe pneumonia, and children are more likely than adults to experience nausea, vomiting, or diarrhea when ill with influenza.
 
 ---
 
-### Clinical practice guideline: hoarseness (dysphonia) (update) [^59995bc5]. Otolaryngology--Head and Neck Surgery (2018). Medium credibility.
+### Clinical practice guideline: hoarseness (dysphonia) (update) [^59995bc5]. Otolaryngology — Head and Neck Surgery (2018). Medium credibility.
 
-Dysphonia assessment—examples of pertinent questions cover voice-specific features, associated symptoms, medical history, and acute or chronic conditions; voice-specific questions ask about onset, variability, relation to an upper respiratory tract infection, pain or effort with talking, fatigue with use, loudness/projection difficulty, pitch or range changes, running out of air, cracking/breaking, prior intubation or brain, spine, neck, or chest surgery, inhaled medications/antibiotics/steroids, need for the voice for your occupation and significant daily voice use requirements, smoke (tobacco, vape, or use recreational drugs), throat dryness, head and neck radiation, neurologic or arthritic problems, and prior trauma preceding the voice change. Symptoms to elicit include globus pharyngeus, dysphagia, sore throat, chronic throat clearing, cough, odynophagia, nasal or postnasal drainage, acid reflux, regurgitation, heartburn, hemoptysis, nonanginal chest pain, waterbrash, weight loss, night sweats, Fever (>101.5°F), otalgia, and dyspnea. Medical history items include occupation and/or avocation requiring extensive voice use (eg, teacher, singer), absenteeism from occupation due to dysphonia, prior episodes of hoarseness, relationship of instrumentation (eg, intubation) to onset of dysphonia, relationship of prior surgery to neck or chest to onset of dysphonia, cognitive impairment, and anxiety, depression, stress. Acute conditions include infection of the throat and/or larynx; viral, bacterial, fungal, foreign body in larynx, trachea, or esophagus, and neck or laryngeal trauma, while chronic conditions listed include stroke, diabetes, Parkinson’s disease, Parkinson-plus syndromes, myasthenia gravis, multiple sclerosis, amyotrophic lateral sclerosis, essential tremor, testosterone deficiency, allergic rhinitis, chronic rhinitis, hypertension, and schizophrenia.
+Dysphonia assessment — examples of pertinent questions cover voice-specific features, associated symptoms, medical history, and acute or chronic conditions; voice-specific questions ask about onset, variability, relation to an upper respiratory tract infection, pain or effort with talking, fatigue with use, loudness/projection difficulty, pitch or range changes, running out of air, cracking/breaking, prior intubation or brain, spine, neck, or chest surgery, inhaled medications/antibiotics/steroids, need for the voice for your occupation and significant daily voice use requirements, smoke (tobacco, vape, or use recreational drugs), throat dryness, head and neck radiation, neurologic or arthritic problems, and prior trauma preceding the voice change. Symptoms to elicit include globus pharyngeus, dysphagia, sore throat, chronic throat clearing, cough, odynophagia, nasal or postnasal drainage, acid reflux, regurgitation, heartburn, hemoptysis, nonanginal chest pain, waterbrash, weight loss, night sweats, Fever (> 101.5°F), otalgia, and dyspnea. Medical history items include occupation and/or avocation requiring extensive voice use (eg, teacher, singer), absenteeism from occupation due to dysphonia, prior episodes of hoarseness, relationship of instrumentation (eg, intubation) to onset of dysphonia, relationship of prior surgery to neck or chest to onset of dysphonia, cognitive impairment, and anxiety, depression, stress. Acute conditions include infection of the throat and/or larynx; viral, bacterial, fungal, foreign body in larynx, trachea, or esophagus, and neck or laryngeal trauma, while chronic conditions listed include stroke, diabetes, Parkinson's disease, Parkinson-plus syndromes, myasthenia gravis, multiple sclerosis, amyotrophic lateral sclerosis, essential tremor, testosterone deficiency, allergic rhinitis, chronic rhinitis, hypertension, and schizophrenia.
 
 ---
 
@@ -806,11 +811,11 @@ Despite numerous controlled trials, clinical practice guidelines and cost-effect
 
 Purpose
 
-On 11 March, 2020, the coronavirus disease (COVID-19) outbreak was declared as a global pandemic by the World Health Organization. It brought substantial physical and psychological burden on individuals and financial loss across countries. Patients with COVID-19 may exhibit various symptoms, such as fever, cough, dyspnea, muscle pain, sore throat, headache, chest pain, and abdominal pain, at 2-14 days after exposure to the novel coronavirus (severe acute respiratory syndrome [SARS]-CoV-2). Pain symptoms present important challenge to clinicians' diagnosis when treating COVID-19 patients with mild symptoms. Considering the increasing number of confirmed COVID-19 cases, the pain symptoms should be systematically summarized.
+On 11 March, 2020, the coronavirus disease (COVID-19) outbreak was declared as a global pandemic by the World Health Organization. It brought substantial physical and psychological burden on individuals and financial loss across countries. Patients with COVID-19 may exhibit various symptoms, such as fever, cough, dyspnea, muscle pain, sore throat, headache, chest pain, and abdominal pain, at 2–14 days after exposure to the novel coronavirus (severe acute respiratory syndrome [SARS]-CoV-2). Pain symptoms present important challenge to clinicians' diagnosis when treating COVID-19 patients with mild symptoms. Considering the increasing number of confirmed COVID-19 cases, the pain symptoms should be systematically summarized.
 
 Results
 
-The virus can invade different tissues of the body and cause different pain manifestations. SARS-CoV-2 primarily invades the respiratory system, and patients develop sore throat, fever, cough, and other pneumonia-associated symptoms. Moreover, it infects the nervous system (eg, headache, dizziness, and confusion), digestive system (eg, abdominal pain, diarrhea), and cardiovascular system (eg, chest pain, palmus, and cardiac injury). The incidence rate is 1.7-33.9% for headache, 0.7-47.1% for sore throat, 1.5-61.0% for myalgia/arthralgia, 1.6-17.7% for chest pain, and 1.9-14.5% for abdominal pain. In comparison with chest and abdominal pain, COVID-19 patients are more likely to develop headache, sore throat, and myalgia/arthralgia.
+The virus can invade different tissues of the body and cause different pain manifestations. SARS-CoV-2 primarily invades the respiratory system, and patients develop sore throat, fever, cough, and other pneumonia-associated symptoms. Moreover, it infects the nervous system (eg, headache, dizziness, and confusion), digestive system (eg, abdominal pain, diarrhea), and cardiovascular system (eg, chest pain, palmus, and cardiac injury). The incidence rate is 1.7–33.9% for headache, 0.7–47.1% for sore throat, 1.5–61.0% for myalgia/arthralgia, 1.6–17.7% for chest pain, and 1.9–14.5% for abdominal pain. In comparison with chest and abdominal pain, COVID-19 patients are more likely to develop headache, sore throat, and myalgia/arthralgia.
 
 Conclusion
 
@@ -830,14 +835,14 @@ Study population
 
 The flow diagram of this study is shown in figure 1. A total of 1066 patients answered a longitudinal questionnaire on long COVID-19 symptoms at least one time (3, and/or 6, and/or 12 months). We analysed the data of 935 patients who answered the longitudinal questionnaire at 3 months after diagnosis.
 
-Figure 1 
+Figure 1
 Flow diagram of the study. Patients for whom clinical data were known and who answered a longitudinal questionnaire at 3 months after diagnosis were analysed.
 
 ---
 
 ### The American Association of Endocrine Surgeons guidelines for the definitive surgical management of thyroid disease in adults [^8687c44b]. AAES (2020). High credibility.
 
-AAES thyroid nodules/cancer—compressive symptoms and differentials are outlined as follows: compressive symptoms that may be associated with thyroid nodules/cancer include dysphagia (difficulty in transiting food from the mouth to stomach), globus sensation (feeling of lump or other foreign body in the throat), positional dyspnea (shortness of breath that is relieved with change of position), orthopnea (shortness of breath when lying flat that improves when sitting or standing), and hoarseness (abnormal voice). Nonthyroid related etiologies listed include benign and malignant esophageal lesions, Zenker’s diverticulum, esophageal stricture, esophageal dysmotility, sensory or motor defects of the esophagus, RLN or SLN dysfunction, aberrant right subclavian artery, reflux, lingual tonsil hypertrophy, laryngeal or pharyngeal neoplasm, platypnea-orthodeoxia syndrome, other cardiac shunting abnormalities, mediastinal or abdominal mass, and vocal fold neoplasm.
+AAES thyroid nodules/cancer — compressive symptoms and differentials are outlined as follows: compressive symptoms that may be associated with thyroid nodules/cancer include dysphagia (difficulty in transiting food from the mouth to stomach), globus sensation (feeling of lump or other foreign body in the throat), positional dyspnea (shortness of breath that is relieved with change of position), orthopnea (shortness of breath when lying flat that improves when sitting or standing), and hoarseness (abnormal voice). Nonthyroid related etiologies listed include benign and malignant esophageal lesions, Zenker's diverticulum, esophageal stricture, esophageal dysmotility, sensory or motor defects of the esophagus, RLN or SLN dysfunction, aberrant right subclavian artery, reflux, lingual tonsil hypertrophy, laryngeal or pharyngeal neoplasm, platypnea-orthodeoxia syndrome, other cardiac shunting abnormalities, mediastinal or abdominal mass, and vocal fold neoplasm.
 
 ---
 
@@ -849,7 +854,7 @@ Globus is a topic of interest for many specialties including otorhinolaryngology
 
 ### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^228c7971]. PM & R (2025). High credibility.
 
-Long COVID—neurologic symptoms and differentials include neuropathic pain or other sensation (eg, internal feeling of vibration, change in pain/temperature sensation); muscle or joint pain; headaches; sleep dysfunction; focal or diffuse weakness, tremors, or gait changes; and changes in hearing, vision, taste, smell, swallowing (ie, cranial nerve abnormalities). Differential diagnoses to consider (new, worsening, or underlying) include small fiber neuropathy; central nervous system lesions (eg, vasculitis, stroke, demyelinating or neurodegenerative conditions); peripheral nervous system lesions (eg, AIDP [acute inflammatory demyelinating polyneuropathy], GBS [Guillain-Barré syndrome]); vitamin deficiency (eg, B1, B6, B12); paraneoplastic conditions (eg, NMDA [N-methyl-D-aspartate] receptor encephalitis); and sleep disorders/deprivation.
+Long COVID — neurologic symptoms and differentials include neuropathic pain or other sensation (eg, internal feeling of vibration, change in pain/temperature sensation); muscle or joint pain; headaches; sleep dysfunction; focal or diffuse weakness, tremors, or gait changes; and changes in hearing, vision, taste, smell, swallowing (ie, cranial nerve abnormalities). Differential diagnoses to consider (new, worsening, or underlying) include small fiber neuropathy; central nervous system lesions (eg, vasculitis, stroke, demyelinating or neurodegenerative conditions); peripheral nervous system lesions (eg, AIDP [acute inflammatory demyelinating polyneuropathy], GBS [Guillain-Barré syndrome]); vitamin deficiency (eg, B1, B6, B12); paraneoplastic conditions (eg, NMDA [N-methyl-D-aspartate] receptor encephalitis); and sleep disorders/deprivation.
 
 ---
 
@@ -861,14 +866,14 @@ The affected patient was a 50-year-old man. Examination of his medical history s
 
 The patient later developed puffiness of the neck and face and shortness of breath, mostly at night. He was admitted to a private clinic where he received another course of antibiotics. However, this treatment did not yield any improvement. He then presented to the emergency department of this facility with the sore throat, a puffy face (figure 1), swelling of the neck and shortness of breath. He denied bleeding and vomiting, fever, neck pain, syncope and seizure. He also denied palpitation, chest pain, dizziness, abdominal pain, diarrhoea and dysuria. He had no contact with sick animals or patients.
 
-Figure 1 
+Figure 1
 Puffiness of the face and mild periorbital oedema.
 
 Physical examination of the patient showed an appearance of wellness and anxiety. He was vitally stable with temperature 38°C, pulse 106 beats/min, respiratory rate was 21 breath/min and O2 saturation of 99% on room air. There was mild puffiness of the face and mild left periorbital oedema. He had no drooling of saliva, stridor, nasal congestion, conjunctivitis, oral ulcer or a viral exanthem. He had no bulging of the pharyngeal wall, soft palate, or floor of the oropharynx. He had no neck pain, crepitus, trismus or stiff neck. He had no pharyngeal oedema, tonsillar exudates, cervical lymphadenitis or strawberry tongue.
 
 There were enlarged tortuous superficial veins over the chest wall (figure 2). He was fully conscious and had no neurological deficit. His cardiovascular and respiratory system examination were normal. Bedside point-of-care ultrasound showed normal cardiac contractility, no pericardial effusion and no right-sided heart dilatation. The inferior vena cava was mildly dilated.
 
-Figure 2 
+Figure 2
 Enlarged and engorged collateral veins.
 
 ---
@@ -885,9 +890,9 @@ In the current climate, emergency department and primary-care physicians should 
 
 URTI Symptoms
 
-Sore throat associated with acute URTI is often accompanied by other troublesome upper respiratory tract symptoms, for example cough, post-nasal drip, swollen or tender neck glands, tickly throat, achiness and lack of energy.These can be assessed using the URTI questionnaire (Table 2). Schachtel et alobserved that significant numbers of patients treated with flurbiprofen lozenges, but not placebo, reported an absence of several URTI symptoms (achiness, pressure around the eyes, mouth breathing, lack of energy, tender neck glands, headache, loss of appetite, sinus pressure, coughing, chest tightness, or sinus pain) at 3 h post-dose compared to pretreatment (all p<0.05). In particular, among patients reporting cough at baseline, 46% (11/24 patients) reported no coughing at 3 h (p=0.01).
+Sore throat associated with acute URTI is often accompanied by other troublesome upper respiratory tract symptoms, for example cough, post-nasal drip, swollen or tender neck glands, tickly throat, achiness and lack of energy. These can be assessed using the URTI questionnaire (Table 2). Schachtel et alobserved that significant numbers of patients treated with flurbiprofen lozenges, but not placebo, reported an absence of several URTI symptoms (achiness, pressure around the eyes, mouth breathing, lack of energy, tender neck glands, headache, loss of appetite, sinus pressure, coughing, chest tightness, or sinus pain) at 3 h post-dose compared to pretreatment (all p < 0.05). In particular, among patients reporting cough at baseline, 46% (11/24 patients) reported no coughing at 3 h (p = 0.01).
 
-Burova et alalso demonstrated a significant reduction in the number of patients experiencing URTI symptoms with both flurbiprofen spray and lozenges. At 2 h post-dose, the number of patients experiencing URTI symptoms that can be attributed to or associated with sore throat (coughing, post-nasal drip, swollen neck glands, tender neck glands, throat tickle, and throat clearing) decreased relative to baseline. These decreases were statistically significant for every symptom, except tender neck glands (lozenge only; p=0.0881) and throat tickle (both formulations; p=0.3113 for spray and p=0.2249 for lozenge). There was an 85% and 54% reduction in the number of patients with cough from baseline to 2 h with spray and lozenge, respectively.
+Burova et alalso demonstrated a significant reduction in the number of patients experiencing URTI symptoms with both flurbiprofen spray and lozenges. At 2 h post-dose, the number of patients experiencing URTI symptoms that can be attributed to or associated with sore throat (coughing, post-nasal drip, swollen neck glands, tender neck glands, throat tickle, and throat clearing) decreased relative to baseline. These decreases were statistically significant for every symptom, except tender neck glands (lozenge only; p = 0.0881) and throat tickle (both formulations; p = 0.3113 for spray and p = 0.2249 for lozenge). There was an 85% and 54% reduction in the number of patients with cough from baseline to 2 h with spray and lozenge, respectively.
 
 ---
 
@@ -925,13 +930,13 @@ These are not all the possible side effects of ezetimibe and simvastatin tablets
 
 COVID-19 related symptoms
 
-We constructed a variable of COVID-19 related symptoms to categorize participants in symptomatic, asymptomatic and pauci-symptomatic. The following question was answered by the head of the household in relation to their experience or that of their family members: “Between March 2020 and today did you (or any family member) present any of the following symptoms?” Informants were presented with 14 options: cough, fever, headache, sore or burning throat, runny nose, red eyes, muscle or joint pain, difficulty breathing, shortness of air, chest pain, vomiting, diarrhea, loss of smell, or taste, and other symptoms. Supplementary Fig. 8 shows the prevalence of symptoms by serostatus. Participants were classified as symptomatic if they met the “suspected case” definition of COVID-19 of Mexico’s Health Ministry: having at least one major symptom (cough, fever, headache, shortness of breath, or air in the lungs or chest pain) and one minor symptom (sore or burning throat, runny nose, red eyes, pain in muscles or joints, chest pain, loss of smell and loss of taste). Participants that did not fulfill the definition but experienced at least one symptom were considered “pauci-symptomatic”. Participants with no symptoms were considered asymptomatic.
+We constructed a variable of COVID-19 related symptoms to categorize participants in symptomatic, asymptomatic and pauci-symptomatic. The following question was answered by the head of the household in relation to their experience or that of their family members: "Between March 2020 and today did you (or any family member) present any of the following symptoms?" Informants were presented with 14 options: cough, fever, headache, sore or burning throat, runny nose, red eyes, muscle or joint pain, difficulty breathing, shortness of air, chest pain, vomiting, diarrhea, loss of smell, or taste, and other symptoms. Supplementary Fig. 8 shows the prevalence of symptoms by serostatus. Participants were classified as symptomatic if they met the "suspected case" definition of COVID-19 of Mexico's Health Ministry: having at least one major symptom (cough, fever, headache, shortness of breath, or air in the lungs or chest pain) and one minor symptom (sore or burning throat, runny nose, red eyes, pain in muscles or joints, chest pain, loss of smell and loss of taste). Participants that did not fulfill the definition but experienced at least one symptom were considered "pauci-symptomatic". Participants with no symptoms were considered asymptomatic.
 
 ---
 
 ### Should the reflex Be reflux? Throat symptoms and alternative explanations [^df071596]. Clinical Gastroenterology and Hepatology (2015). Low credibility.
 
-Although laryngopharyngeal reflux, also known as extraesophageal reflux (EER), was codified more than 25 years ago, it has not been characterized fully. There is no sensitive and specific diagnostic test, and its symptoms often are nonspecific and overlap with those of other conditions commonly seen in primary care and specialist practices. Otolaryngologists have an important role in the evaluation and management of these patients--they must investigate persistent reflux-attributed symptoms by direct visualization of the upper airway and larynx, and, in some circumstances, the esophagus. It is of utmost importance to rule out the possibility of malignancy, which often presents with symptoms similar to those of EER. Once cancer is excluded, many benign upper airway conditions also can masquerade as, and often incorrectly are attributed to, EER. Although reflux is a potential etiologic factor for upper-airway symptoms, it is important not to reflexively blame reflux. We discuss other etiologies that should be considered carefully for persistent symptoms.
+Although laryngopharyngeal reflux, also known as extraesophageal reflux (EER), was codified more than 25 years ago, it has not been characterized fully. There is no sensitive and specific diagnostic test, and its symptoms often are nonspecific and overlap with those of other conditions commonly seen in primary care and specialist practices. Otolaryngologists have an important role in the evaluation and management of these patients — they must investigate persistent reflux-attributed symptoms by direct visualization of the upper airway and larynx, and, in some circumstances, the esophagus. It is of utmost importance to rule out the possibility of malignancy, which often presents with symptoms similar to those of EER. Once cancer is excluded, many benign upper airway conditions also can masquerade as, and often incorrectly are attributed to, EER. Although reflux is a potential etiologic factor for upper-airway symptoms, it is important not to reflexively blame reflux. We discuss other etiologies that should be considered carefully for persistent symptoms.
 
 ---
 
@@ -943,7 +948,7 @@ Secondary headaches are classified by the cause of the underlying disease proces
 
 ### AGA institute rapid review of the gastrointestinal and liver manifestations of COVID-19, meta-analysis of international data, and recommendations for the consultative management of patients with COVID-19 [^2d2fa8fa]. Gastroenterology (2020). High credibility.
 
-Consultative management of coronavirus disease 2019 (COVID-19) gastrointestinal (GI) and liver issues—best practice statements are as follows: In outpatients with new-onset diarrhea, ascertain information about high-risk contact exposure; obtain a detailed history of symptoms associated with COVID-19, including fever, cough, shortness of breath, chills, muscle pain, headache, sore throat, or new loss of taste or smell; and obtain a thorough history for other GI symptoms, including nausea, vomiting, and abdominal pain. In outpatients with new-onset GI symptoms (eg, nausea, vomiting, abdominal pain, and diarrhea), monitor for symptoms associated with COVID-19, as GI symptoms may precede COVID-related symptoms by a few days. In a high COVID-19 prevalence setting, COVID-19 testing should be considered. In hospitalized patients with suspected or known COVID-19, obtain a thorough history of GI symptoms (ie, nausea, vomiting, abdominal pain, and diarrhea), including onset, characteristics, duration, and severity. There is presently inadequate evidence to support stool testing for diagnosis or monitoring of COVID-19 as part of routine clinical practice. In patients (outpatients or inpatients) with elevated LFTs in context of suspected or known COVID-19, evaluate for alternative etiologies. In hospitalized patients with suspected or known COVID-19, obtain baseline LFTs at the time of admission and consider LFT monitoring throughout the hospitalization, particularly in the context of drug treatment for COVID-19. In hospitalized patients undergoing drug treatment for COVID-19, evaluate for treatment-related GI and hepatic adverse effects.
+Consultative management of coronavirus disease 2019 (COVID-19) gastrointestinal (GI) and liver issues — best practice statements are as follows: In outpatients with new-onset diarrhea, ascertain information about high-risk contact exposure; obtain a detailed history of symptoms associated with COVID-19, including fever, cough, shortness of breath, chills, muscle pain, headache, sore throat, or new loss of taste or smell; and obtain a thorough history for other GI symptoms, including nausea, vomiting, and abdominal pain. In outpatients with new-onset GI symptoms (eg, nausea, vomiting, abdominal pain, and diarrhea), monitor for symptoms associated with COVID-19, as GI symptoms may precede COVID-related symptoms by a few days. In a high COVID-19 prevalence setting, COVID-19 testing should be considered. In hospitalized patients with suspected or known COVID-19, obtain a thorough history of GI symptoms (ie, nausea, vomiting, abdominal pain, and diarrhea), including onset, characteristics, duration, and severity. There is presently inadequate evidence to support stool testing for diagnosis or monitoring of COVID-19 as part of routine clinical practice. In patients (outpatients or inpatients) with elevated LFTs in context of suspected or known COVID-19, evaluate for alternative etiologies. In hospitalized patients with suspected or known COVID-19, obtain baseline LFTs at the time of admission and consider LFT monitoring throughout the hospitalization, particularly in the context of drug treatment for COVID-19. In hospitalized patients undergoing drug treatment for COVID-19, evaluate for treatment-related GI and hepatic adverse effects.
 
 ---
 
@@ -957,7 +962,7 @@ Regarding screening and diagnosis for esophageal dysphagia, more specifically wi
 
 Background
 
-Sore throat is a common reason for people to present for medical care and to be prescribed antibiotics. Overuse of antibiotics in primary medicine is a concern, hence it is important to establish their efficacy in treating sore throat and preventing secondary complications.  OBJECTIVES: To assess the effects of antibiotics for reducing symptoms of sore throat for child and adult patients.
+Sore throat is a common reason for people to present for medical care and to be prescribed antibiotics. Overuse of antibiotics in primary medicine is a concern, hence it is important to establish their efficacy in treating sore throat and preventing secondary complications. OBJECTIVES: To assess the effects of antibiotics for reducing symptoms of sore throat for child and adult patients.
 
 Search Methods
 
@@ -973,7 +978,7 @@ We used standard methodological procedures as recommended by Cochrane. Two revie
 
 Main Results
 
-We included 29 trials with 15,337 cases of sore throat. The majority of included studies were conducted in the 1950s, during which time the rates of serious complications (especially acute rheumatic fever) were much higher than today. Although clinical antibiotic trials for sore throat and respiratory symptoms are still being conducted, it is unusual for them to include placebo or 'no treatment' control arms, which is a requirement for inclusion in the review. The age of participants ranged from younger than one year to older than 50 years, but most participants across all studies were adults. Although all studies recruited patients presenting with symptoms of sore throat, few of them distinguished between bacterial and viral aetiology. Bias may have been introduced through non-clarity in treatment allocation procedures and lack of blinding in some studies. Harms from antibiotics were poorly or inconsistently reported, and were thus not quantified for this review. 1. Symptoms Throat soreness and headache at day three were reduced by using antibiotics, although 82% of participants in the placebo or no treatment group were symptom-free by one week. The reduction in sore throat symptoms at day three (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.60 to 0.80; 16 studies, 3730 participants; moderate-certainty evidence) was greater than at one week in absolute numbers (RR 0.50, 95% CI 0.34 to 0.75; 14 studies, 3083 participants; moderate-certainty evidence) due to many cases in both treatment groups having resolved by this time. The number needed to treat for an additional beneficial outcome (NNTB) to prevent one sore throat at day three was less than six; at week one it was 18. Compared with placebo or no treatment, antibiotics did not significantly reduce fever at day three (RR 0.75, 95% CI 0.53 to 1.07; 8 studies, 1443 participants; high-certainty evidence), but did reduce headache at day three (RR 0.49, 95% CI 0.34 to 0.70; 4 studies, 1020 participants; high-certainty evidence). 2. Suppurative complications Whilst the prevalence of suppurative complications was low, antibiotics reduced the incidence of acute otitis media within 14 days (Peto odds ratio (OR) 0.21, 95% CI 0.11 to 0.40; 10 studies, 3646 participants; high-certainty evidence) and quinsy within two months (Peto OR 0.16, 95% CI 0.07 to 0.35; 8 studies, 2433 participants; high-certainty evidence) compared to those receiving placebo or no treatment, but not acute sinusitis within 14 days (Peto OR 0.46, 95% CI 0.10 to 2.05; 8 studies, 2387 participants; high-certainty evidence). 3. Non-suppurative complications There were too few cases of acute glomerulonephritis to determine whether there was a protective effect of antibiotics compared with placebo against this complication (Peto OR 0.07, 95% CI 0.00 to 1.32; 10 studies, 5147 participants; low-certainty evidence). Antibiotics reduced acute rheumatic fever within two months when compared to the control group (Peto OR 0.36, 95% CI 0.26 to 0.50; 18 studies, 12,249 participants; moderate-certainty evidence). It should be noted that the overall prevalence of acute rheumatic fever was very low, particularly in the later studies.
+We included 29 trials with 15,337 cases of sore throat. The majority of included studies were conducted in the 1950s, during which time the rates of serious complications (especially acute rheumatic fever) were much higher than today. Although clinical antibiotic trials for sore throat and respiratory symptoms are still being conducted, it is unusual for them to include placebo or 'no treatment' control arms, which is a requirement for inclusion in the review. The age of participants ranged from younger than one year to older than 50 years, but most participants across all studies were adults. Although all studies recruited patients presenting with symptoms of sore throat, few of them distinguished between bacterial and viral aetiology. Bias may have been introduced through non-clarity in treatment allocation procedures and lack of blinding in some studies. Harms from antibiotics were poorly or inconsistently reported, and were thus not quantified for this review. 1. Symptoms Throat soreness and headache at day three were reduced by using antibiotics, although 82% of participants in the placebo or no treatment group were symptom-free by one week. The reduction in sore throat symptoms at day three (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.60 to 0.80; 16 studies, 3730 participants; moderate-certainty evidence) was greater than at one week in absolute numbers (RR 0.50, 95% CI 0.34 to 0.75; 14 studies, 3083 participants; moderate-certainty evidence) due to many cases in both treatment groups having resolved by this time. The number needed to treat for an additional beneficial outcome (NNTB) to prevent one sore throat at day three was less than six; at week one it was 18. Compared with placebo or no treatment, antibiotics did not significantly reduce fever at day three (RR 0.75, 95% CI 0.53 to 1.07; 8 studies, 1443 participants; high-certainty evidence), but did reduce headache at day three (RR 0.49, 95% CI 0.34 to 0.70; 4 studies, 1020 participants; high-certainty evidence). 2. Suppurative complications Whilst the prevalence of suppurative complications was low, antibiotics reduced the incidence of acute otitis media within 14 days (Peto odds ratio (OR) 0.21, 95% CI 0.11 to 0.40; 10 studies, 3646 participants; high-certainty evidence) and quinsy within two months (Peto OR 0.16, 95% CI 0.07 to 0.35; 8 studies, 2433 participants; high-certainty evidence) compared to those receiving placebo or no treatment, but not acute sinusitis within 14 days (Peto OR 0.46, 95% CI 0.10 to 2.05; 8 studies, 2387 participants; high-certainty evidence). 3. Non-suppurative complications There were too few cases of acute glomerulonephritis to determine whether there was a protective effect of antibiotics compared with placebo against this complication (Peto OR 0.07, 95% CI 0.00 to 1.32; 10 studies, 5147 participants; low-certainty evidence). Antibiotics reduced acute rheumatic fever within two months when compared to the control group (Peto OR 0.36, 95% CI 0.26 to 0.50; 18 studies, 12,249 participants; moderate-certainty evidence). It should be noted that the overall prevalence of acute rheumatic fever was very low, particularly in the later studies.
 
 Authors' Conclusions
 
@@ -983,11 +988,11 @@ Antibiotics probably reduce the number of people experiencing sore throat, and r
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^ffa4dec7]. Chest (2016). Medium credibility.
 
-Table 3 (continued)—Vaezi et al/2006 study design and assessments: Inclusion specified “> 3 mo of LPR symptoms (throat clearing, cough, globus, sore throat, or hoarseness).” Treatment arms were “Esomeprazole 40 mg bid (n = 11) Placebo (n = 8) No mention of diet, lifestyle modifications.” Cough-related measures used “Diaries: cough severity, prespecified criteria.”
+Table 3 (continued) — Vaezi et al/2006 study design and assessments: Inclusion specified " > 3 mo of LPR symptoms (throat clearing, cough, globus, sore throat, or hoarseness)." Treatment arms were "Esomeprazole 40 mg bid (n = 11) Placebo (n = 8) No mention of diet, lifestyle modifications." Cough-related measures used "Diaries: cough severity, prespecified criteria."
 
 ---
 
-### Clinical guidance for group A streptococcal pharyngitis-CDC (...) [^2d54ac5a]. CDC (2025). Medium credibility.
+### Clinical guidance for group A streptococcal pharyngitis… [^2d54ac5a]. CDC (2025). Medium credibility.
 
 Key points
 - Many pathogens can cause pharyngitis.
@@ -1004,11 +1009,13 @@ Clinical features Acute pharyngitis symptoms It commonly presents with
 - Palatal petechiae
 - Pharyngeal and tonsillar erythema
 - Tonsillar hypertrophy with or without exudates Patients with group A strep pharyngitis may also present with a scarlatiniform rash. The resulting syndrome is scarlet fever. Keep ReadingClinical Guidance for Scarlet Fever. Less common symptoms Other symptoms, especially among children, may include:
+
 - Abdominal pain
 - Headache
 - Nausea and vomiting Subacute illness Respiratory disease caused by group A strep infection in children younger than 3 years of age rarely manifests as acute pharyngitis.
 
-Instead, these children usually have what is called “streptococcal fever” or “streptococcosis, ” which involves mucopurulent rhinitis followed by:
+Instead, these children usually have what is called "streptococcal fever" or "streptococcosis, " which involves mucopurulent rhinitis followed by:
+
 - Anorexia
 - Fever
 - Irritability. Diagnosis Differential diagnosis The differential diagnosis of acute pharyngitis includes multiple viral and bacterial pathogens. Viruses are the most common cause of pharyngitis in all age groups. Experts estimate that group A strep, the most common bacterial cause, causes
@@ -1023,7 +1030,7 @@ Testing and diagnosis To confirm group A strep pharyngitis, healthcare providers
 
 ### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^93a2b2e1]. Academic Emergency Medicine (2012). Medium credibility.
 
-Riot control agents—clinical symptoms and assessment findings include that symptoms after exposure may involve the eyes (tearing, pain, conjunctivitis, blurred vision), nose/mouth/throat (rhinorrhea, burning/pain, trouble swallowing, drooling), lungs (chest tightness, coughing, choking sensation, wheezing, dyspnea), skin (burning, redness, dermatitis), and gastrointestinal system where nausea and vomiting are rare. Pertinent assessment findings include whether a riot control agent was used, symptoms of exposed, lung sounds, and evidence of other traumatic injuries.
+Riot control agents — clinical symptoms and assessment findings include that symptoms after exposure may involve the eyes (tearing, pain, conjunctivitis, blurred vision), nose/mouth/throat (rhinorrhea, burning/pain, trouble swallowing, drooling), lungs (chest tightness, coughing, choking sensation, wheezing, dyspnea), skin (burning, redness, dermatitis), and gastrointestinal system where nausea and vomiting are rare. Pertinent assessment findings include whether a riot control agent was used, symptoms of exposed, lung sounds, and evidence of other traumatic injuries.
 
 ---
 
@@ -1035,19 +1042,19 @@ Patient X is a 48-year-old retired potteries worker who presented to his general
 
 ### Evidence-based risk mitigation and stratification during COVID-19 for return to interventional pain practice: American Society of Interventional Pain Physicians (ASIPP) guidelines [^c3a26ebb]. Pain Physician (2020). High credibility.
 
-COVID-19 testing guidelines—there are two main types of tests for COVID-19, a viral test to ascertain whether a person has a current infection and an antibody test to see if one has experienced a prior infection; the CDC has assigned priorities for testing people, and according to the CDC, people with suspected COVID-19 should contact their healthcare provider by telephone first to determine if testing is warranted and available; high priority testing includes hospitalized patients, healthcare workers and first responders (particularly those who work in or with nursing homes, prisons or other group living facilities), and residents in congregate living centers such as nursing homes or prisons, while symptomatic individuals are priority (symptoms are: fever, cough, dyspnea, chills, muscle pain, new loss of taste or smell, vomiting, diarrhea, sore throat), and individuals who have been identified by health departments or clinicians as being at risk are priority for testing, with testing potentially important for public health monitoring, sentinel surveillance, or screening of asymptomatic individuals according to state or local health plans.
+COVID-19 testing guidelines — there are two main types of tests for COVID-19, a viral test to ascertain whether a person has a current infection and an antibody test to see if one has experienced a prior infection; the CDC has assigned priorities for testing people, and according to the CDC, people with suspected COVID-19 should contact their healthcare provider by telephone first to determine if testing is warranted and available; high priority testing includes hospitalized patients, healthcare workers and first responders (particularly those who work in or with nursing homes, prisons or other group living facilities), and residents in congregate living centers such as nursing homes or prisons, while symptomatic individuals are priority (symptoms are: fever, cough, dyspnea, chills, muscle pain, new loss of taste or smell, vomiting, diarrhea, sore throat), and individuals who have been identified by health departments or clinicians as being at risk are priority for testing, with testing potentially important for public health monitoring, sentinel surveillance, or screening of asymptomatic individuals according to state or local health plans.
 
 ---
 
 ### Progressive bilateral facial weakness [^b9132d2e]. Practical Neurology (2015). Low credibility.
 
-A 72-year-old man presented with sudden onset of right-sided facial muscle weakness and slurred speech and a 3-day history of fevers, myalgia and sore throat. There was no hyperacusis, change in taste or lacrimation. His history included untreated hepatitis C diagnosed 10 years before, but quiescent at his annual liver review 8 weeks before presentation. He smoked cannabis intermittently but there was no recent alcohol or other drug abuse. There was a history of promiscuity with female partners.
+A 72-year-old man presented with sudden onset of right-sided facial muscle weakness and slurred speech and a 3-day history of fevers, myalgia and sore throat. There was no hyperacusis, change in taste or lacrimation. His history included untreated hepatitis C diagnosed 10 years before, but quiescent at his annual liver review 8 weeks before presentation. He smoked cannabis intermittently but there was no recent alcohol or other drug abuse. There was a history of promiscuity with female partners.
 
-On examination, he was alert and orientated. His blood pressure was elevated at 159/86 mm Hg but other vital signs and general examination were normal. Neurological examination showed a severe right-sided lower motor facial weakness with Bell's phenomenon (see online). The remaining cranial nerve examination was normal, including eye movements, pupillary responses, facial sensation, hearing, taste and otoscopy. There was mild left hip flexion weakness but preserved deep tendon reflexes. There was reduced sensation to temperature in a glove-and-stocking pattern; joint-position sense, light touch and pain sensation were intact. There was mild gait instability on walking tandem.
+On examination, he was alert and orientated. His blood pressure was elevated at 159/86 mm Hg but other vital signs and general examination were normal. Neurological examination showed a severe right-sided lower motor facial weakness with Bell's phenomenon (see online). The remaining cranial nerve examination was normal, including eye movements, pupillary responses, facial sensation, hearing, taste and otoscopy. There was mild left hip flexion weakness but preserved deep tendon reflexes. There was reduced sensation to temperature in a glove-and-stocking pattern; joint-position sense, light touch and pain sensation were intact. There was mild gait instability on walking tandem.
 
 His condition progressed rapidly and on day 2 of admission he developed left-sided facial weakness (figure 1) with bilateral, proximal lower limb weakness. His paraesthesias were more painful. His lower limb deep tendon reflexes were no longer present (see online). Spirometry remained normal. He was transferred to a high dependency unit for ongoing monitoring.
 
-Figure 1 
+Figure 1
 Bifacial lower motor neurone weakness (see online).
 
 Question 1
@@ -1070,7 +1077,7 @@ AbstractMorning Report is a time-honored tradition where physicians-in-training 
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^8e61a160]. Chest (2016). Medium credibility.
 
-Table 3 (continued)—Steward et al/2004 study design and assessments: Inclusion required “Hoarseness, throat clearing, nonproductive cough, globus sensation, or sore throat > 4 wk and physical examination consistent with LPR (ie, edema, erythema, or pachydermia, or a combination).” Treatment arms were “Rabeprazole 20 mg bid and lifestyle modifications (avoid fatty meals, caffeine, alcohol, smoking, eating within 2 h of bedtime, HOB elevation (n = 21 ITT, 16 PP) Placebo and lifestyle modifications (n = 21 ITT, 14 PP).” Cough-related outcomes used the “Reflux Symptom Questionnaire component: Dry cough defined as more than 4×/d scored 0-4 for frequency and severity.”
+Table 3 (continued) — Steward et al/2004 study design and assessments: Inclusion required "Hoarseness, throat clearing, nonproductive cough, globus sensation, or sore throat > 4 wk and physical examination consistent with LPR (ie, edema, erythema, or pachydermia, or a combination)." Treatment arms were "Rabeprazole 20 mg bid and lifestyle modifications (avoid fatty meals, caffeine, alcohol, smoking, eating within 2 h of bedtime, HOB elevation (n = 21 ITT, 16 PP) Placebo and lifestyle modifications (n = 21 ITT, 14 PP)." Cough-related outcomes used the "Reflux Symptom Questionnaire component: Dry cough defined as more than 4×/d scored 0–4 for frequency and severity."
 
 ---
 
@@ -1086,6 +1093,6 @@ The panel is confident that the recommendation applies to almost all patients wi
 
 ### Stroke as an atypical initial presentation of giant cell arteritis [^c1a3454a]. BMC Geriatrics (2018). Low credibility.
 
-In conclusion although there is a set of typical symptoms associated with giant cell arteritis, such as headache, scalp tenderness, jaw claudication, and visual disturbances, atypical symptoms in patients older than 50-years should also be considered for GCA. These atypical symptoms may include chronic cough, fever of unknown origin, and stroke symptoms especially if the patient’s ESR levels are elevated. Clinical decision-making should be driven by a high index of suspicion since no single test has perfect sensitivity. Whether a combination of ESR, CRP and temporal artery biopsy results can improve the diagnostic accuracy of GCA would need further study. As with all conditions, prompt diagnosis and the timely initiation of targeted treatment improves the chances of optimal outcomes.
+In conclusion although there is a set of typical symptoms associated with giant cell arteritis, such as headache, scalp tenderness, jaw claudication, and visual disturbances, atypical symptoms in patients older than 50-years should also be considered for GCA. These atypical symptoms may include chronic cough, fever of unknown origin, and stroke symptoms especially if the patient's ESR levels are elevated. Clinical decision-making should be driven by a high index of suspicion since no single test has perfect sensitivity. Whether a combination of ESR, CRP and temporal artery biopsy results can improve the diagnostic accuracy of GCA would need further study. As with all conditions, prompt diagnosis and the timely initiation of targeted treatment improves the chances of optimal outcomes.
 
 ---

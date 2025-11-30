@@ -536,7 +536,7 @@ Each patient provided written informed consent to participate in this prospectiv
 Forty patients were randomly assigned to 1 of 4 groups. Groups 1 and 2 received IT TAC approximately 24 hours before surgery, whereas groups 3 and 4 received the injection approximately 1 hour before surgery. Groups 1 and 3 were treated with TAC, 10 mg/mL, and groups 2 and 4 with TAC, 40 mg/mL. Causes of hearing loss were distributed as follows: otosclerosis (n = 1), Meniere disease (n = 2), labyrinthitis (n = 1), progressive hearing loss after cytomegalovirus infection (n = 1), progressive sensorineural hearing loss (n = 24), sudden sensorineural hearing loss (n = 5), and vestibular schwannoma (n = 3).
 
 - **Table 1**: Characteristics of the 4 different groups and the timing of intratympanic TAC application, dose, and volume
-	- Abbreviations: BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; NA, not applicable; TAC, triamcinolone acetonide.
+	- **Abbreviations**: BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; NA, not applicable; TAC, triamcinolone acetonide.
 
 - **Figure 1**: CONSORT diagram
 	- TAC indicates triamcinolone acetonide.

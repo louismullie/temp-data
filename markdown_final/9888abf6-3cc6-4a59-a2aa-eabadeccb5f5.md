@@ -955,7 +955,7 @@ CI = confidence interval.
 
 Baseline risk calculated from: †Miller 2016,‡Cosman 2016,§Greenspan 2003.
 
-Downgraded because of serious risk of bias or **imprecision.
+Downgraded because of serious risk of bias or imprecision.
 
 The serious risk of bias was mainly because of unclear reporting of how random sequence and allocation concealment were performed (table S7). Some studies also had incomplete outcome dataand selective outcome reporting(table S7). Potential involvement of the funding parties was judged to increase the risk of bias related to conflict of interest. A serious risk of imprecision was assigned for outcomes where data were available from one study only. From visual inspection of the funnel plots, we did not detect evidence of small study effects (fig S1).
 

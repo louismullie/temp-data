@@ -658,8 +658,7 @@ Since the original description of atrial fibrillation ablation, numerous studies
 
 ### The 2020 Canadian Cardiovascular Society / Canadian Heart Rhythm Society comprehensive guidelines for the management of atrial fibrillation [^112XuvQr]. The Canadian Journal of Cardiology (2020). High credibility.
 
-Regarding medical management for atrial fibrillation, more specifically with respect to rhythm control, maintenance therapy, CCS/CHRS 2020 guidelines recommend to offer a rhythm control strategy in patients with established AF remaining symptomatic with rate control therapy or when rate control therapy is unlikely to control symptoms
-. Consider offering rhythm control over rate control for patients with newly diagnosed AF.
+Regarding medical management for atrial fibrillation, more specifically with respect to rhythm control, maintenance therapy, CCS/CHRS 2020 guidelines recommend to offer a rhythm control strategy in patients with established AF remaining symptomatic with rate control therapy or when rate control therapy is unlikely to control symptoms. Consider offering rhythm control over rate control for patients with newly diagnosed AF.
 
 ---
 
@@ -928,6 +927,7 @@ Regarding specific circumstances for atrial fibrillation, more specifically with
 ### Pharmacologic cardioversion for atrial fibrillation and flutter… [^115wYd2C]. AAFP (2005). Low credibility.
 
 Clinical Scenario A 70-year-old man comes to the clinic for routine follow-up of hypertension and is found to have new atrial fibrillation of unknown duration. Clinical Question Should antiarrhythmic medications be used to restore sinus rhythm for patients with atrial fibrillation. Evidence-Based Answer There is no evidence that rhythm control in older patients with atrial fibrillation is more effective than rate control for improving patient-oriented outcomes.
+
 1. Practice Pointers Atrial fibrillation increases the risk of mortality and stroke. Furthermore, diminished atrial filling of the ventricles and irregular ventricular contraction can reduce cardiac output, leading to palpitations, dyspnea, and dizziness.
 
 Whereas rate-control strategies for managing atrial fibrillation advocate medically slowing ventricular response to the fibrillating atrium and using anticoagulation to reduce stroke risk, rhythm-control strategies involve medical or electrical conversion to sinus rhythm to improve hemodynamics and symptoms and, theoretically, reduce stroke risk. 4 The American Academy of Family Physicians and the American College of Physicians go further, recommending rate control with chronic anticoagulation as the best strategy for most patients with atrial fibrillation. 5 Both guidelines, 4, 5 however, state that rhythm control may be appropriate in certain situations, depending on specific patient characteristics such as the desire for symptom control or improvement in exercise tolerance. Both studies showed significantly higher rates of hospitalization and adverse events in the rhythm-control group and no difference in quality of life between the two treatment groups.

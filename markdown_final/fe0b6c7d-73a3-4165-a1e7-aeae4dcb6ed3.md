@@ -604,7 +604,7 @@ Patients receiving immunosuppressants, including CellCept, are at increased risk
 - **Serious viral infections reported include**:
 	- Polyomavirus-associated nephropathy (PVAN), especially due to BK virus infection
 	- JC virus-associated progressive multifocal leukoencephalopathy (PML)
-	- Cytomegalovirus (CMV) infections: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease.
+	- **Cytomegalovirus (CMV) infections**: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease.
 	- Viral reactivation in patients infected with Hepatitis B and C
 	- COVID-19
 

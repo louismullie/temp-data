@@ -655,8 +655,7 @@ Deep vein thrombosis (DVT) is a common disease that may lead to potentially fata
 ### Antithrombotic therapy for VTE disease: second update of the CHEST guideline and expert panel report [^111HEo8y]. Chest (2021). High credibility.
 
 Regarding medical management for deep vein thrombosis, more specifically with respect to indications for anticoagulation, ACCP 2021 guidelines recommend to do not initiate anticoagulation in patients with acute isolated distal DVT of the leg monitored with serial imaging if the thrombus does not extend.
-Consider initiating anticoagulation if the thrombus extends but remains confined to the distal veins.
-. Initiate anticoagulation if the thrombus extends into the proximal veins.
+Consider initiating anticoagulation if the thrombus extends but remains confined to the distal veins. Initiate anticoagulation if the thrombus extends into the proximal veins.
 
 ---
 

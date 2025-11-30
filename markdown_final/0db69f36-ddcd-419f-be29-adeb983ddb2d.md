@@ -618,9 +618,9 @@ Regarding the medical management of hypertension, and more specifically the mana
 
 - **Spironolactone (or other mineralocorticoid receptor antagonists)**: These are often considered effective in managing resistant hypertension.
 
-- **β-blockers**: These can be useful in controlling heart rate and reducing blood pressure.
+- **Β-blockers**: These can be useful in controlling heart rate and reducing blood pressure.
 
-- **α-1 blockers**: These help in relaxing the blood vessels, thereby lowering blood pressure.
+- **Α-1 blockers**: These help in relaxing the blood vessels, thereby lowering blood pressure.
 
 - **Centrally acting agents (clonidine)**: These can be considered for patients requiring additional blood pressure control.
 

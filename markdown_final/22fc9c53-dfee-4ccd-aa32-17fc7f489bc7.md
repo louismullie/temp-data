@@ -22,7 +22,7 @@ Lactate dehydrogenase 6 1.4–3.56 mol/L
 Amylase 850 24–151 IU/L
 Lipase 900 0–160 IU/L
 Which of the following is the most appropriate next step in the management?
-**A. Add imipenem
+A. Add imipenem
 B. Add pantoprazole
 C. Add methyiprednisolone
 D. Urgent surgical consultaton
@@ -645,18 +645,18 @@ The CT severity index for acute pancreatitis is a tool used to assess the condit
 
 For the CT findings, evaluations are categorized and scored as follows:
 
-- Normal pancreas: 0 points
-- Focal or diffuse pancreatic enlargement: 1 point
-- Pancreatic inflammation and/or peripancreatic fat: 2 points
-- Single peripancreatic fluid collection: 3 points
-- Two or more fluid collections and/or presence of retroperitoneal air: 4 points
+- **Normal pancreas**: 0 points
+- **Focal or diffuse pancreatic enlargement**: 1 point
+- **Pancreatic inflammation and/or peripancreatic fat**: 2 points
+- **Single peripancreatic fluid collection**: 3 points
+- **Two or more fluid collections and/or presence of retroperitoneal air**: 4 points
 
 The extent of necrosis is assessed similarly:
 
-- No necrosis: 0 points
-- Necrosis of one-third of the pancreas: 2 points
-- Necrosis of half of the pancreas: 4 points
-- Necrosis of 50% or more of the pancreas: 6 points
+- **No necrosis**: 0 points
+- **Necrosis of one-third of the pancreas**: 2 points
+- **Necrosis of half of the pancreas**: 4 points
+- **Necrosis of 50% or more of the pancreas**: 6 points
 
 Each selected input reflects specific clinical observations and is converted into a corresponding numerical score. These scores are then summed to determine an overall score, which can range from 0 to 10.
 

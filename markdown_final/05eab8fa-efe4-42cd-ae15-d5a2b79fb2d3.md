@@ -679,7 +679,7 @@ A randomized controlled trial was undertaken in 191 patients with MDS to compare
 
 Results
 
-Responses occurred in 60% of patients on the Aza C arm (7% complete response, 16% partial response, 37% improved) compared with 5% (improved) receiving supportive care (P < .001). Median time to leukemic transformation or death was 21 months for Aza C versus 13 months for supportive care (P = .007). Transformation to acute myelogenous leukemia occurred as the first event in 15% of patients on the Aza C arm and in 38% receiving supportive care (P = .001). Eliminating the confounding effect of early cross-over to Aza C, a landmark analysis after 6 months showed median survival of an additional 18 months for Aza C and 11 months for supportive care (P = .03). Quality-of-life assessment found significant major advantages in physical function, symptoms, and psychological state for patients initially randomized to Aza C.
+Responses occurred in 60% of patients on the Aza C arm (7% complete response, 16% partial response, 37% improved) compared with 5% (improved) receiving supportive care (P < .001). Median time to leukemic transformation or death was 21 months for Aza C versus 13 months for supportive care (P = 0.007). Transformation to acute myelogenous leukemia occurred as the first event in 15% of patients on the Aza C arm and in 38% receiving supportive care (P = 0.001). Eliminating the confounding effect of early cross-over to Aza C, a landmark analysis after 6 months showed median survival of an additional 18 months for Aza C and 11 months for supportive care (P = 0.03). Quality-of-life assessment found significant major advantages in physical function, symptoms, and psychological state for patients initially randomized to Aza C.
 
 Conclusion
 
@@ -848,9 +848,9 @@ Treatment for myelodysplastic syndromes includes supportive care, drug therapy, 
 
 Lenalidomide is used to lessen the need for red blood cell transfusions. Immunosuppressive therapy. Treatment of Myelodysplastic Syndromes For information about the treatments listed below, see the Treatment Option Overview section. The treatment of myelodysplastic syndromes may include the following:
 
-- Supportive care with one or more of the following:
+- **Supportive care with one or more of the following**:
 
-- Treatments to slow progression to acute myeloid leukemia:
+- **Treatments to slow progression to acute myeloid leukemia**:
 
 - Lenalidomide.
 - Immunosuppressive therapy.
@@ -889,7 +889,7 @@ Treatment Option Overview Key Points
 - Follow-up care may be needed. The following types of treatment are used: Watchful waiting Watchful waiting is closely monitoring a patient's condition without giving any treatment until signs or symptoms appear or change. It is sometimes used to treat chronic myelomonocytic leukemia in patients with no or mild symptoms. Chemotherapy Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing.
 
 When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body. Combination chemotherapy is treatment using more than one anticancer drug. For more information, see Drugs Approved for Myeloproliferative Neoplasms or Myelodysplastic Syndromes. Supportive care Supportive care is given to lessen the problems caused by the disease or its treatment. Supportive care may include transfusion therapy or drug therapy, such as antibiotics to fight infection. Targeted therapy Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.
-- Tyrosine kinase inhibitor therapy: TKI therapy blocks signals that tumors need to grow. TKIs block the enzyme tyrosine kinase that causes stem cells to become more blood cells than the body needs.
+- **Tyrosine kinase inhibitor therapy**: TKI therapy blocks signals that tumors need to grow. TKIs block the enzyme tyrosine kinase that causes stem cells to become more blood cells than the body needs.
 
 Imatinib mesylate is used to treat myelodysplastic/myeloproliferative neoplasm, unclassifiable.
 - supportive care treatments to manage problems caused by the disease such as infection, bleeding, and anemia

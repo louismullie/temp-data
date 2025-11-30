@@ -423,7 +423,7 @@ Regarding diagnostic investigations for preeclampsia, more specifically with res
 
 Regarding screening and diagnosis for nephrotic syndrome in children, more specifically with respect to definitions, KDIGO 2025 guidelines recommend to recognize that typical dipstick results are expressed semiquantitatively as follows, or as stated by the manufacturer:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Negative|- 0 to < 15 mg/dL|
 |Trace|- 15 to < 30 mg/dL|
@@ -638,7 +638,7 @@ Monoclonal gammopathy of renal significance (MGRS) — initial evaluation and re
 
 Regarding screening and diagnosis for nephrotic syndrome in children, more specifically with respect to definitions, KDIGO 2025 guidelines recommend to use the following definitions in children:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Nephrotic-range proteinuria|- Urinary protein-to-creatinine ratio ≥ 200 mg/mmol (2 g/g) in a spot urine sample, or proteinuria ≥ 1,000 mg/m² per day in a 24-hour urine sample, corresponding to 3+ (300–1,000 mg/dL) or 4+ (≥ 1,000 mg/dL) by urine dipstick|
 |Nephrotic syndrome|- Nephrotic-range proteinuria and either serum albumin < 30 g/L (3 g/dlL) or edema when albumin level is not available|
@@ -1112,7 +1112,7 @@ ACE = angiotensin converting enzyme; Afr = African American; CHD = coronary hear
 
 ¶Mean eGFR and % of eGFR < 65 mL/min, estimated by 125-iothalamate clearance (AASK).
 
-**Proteinuria defined as urinary albumin excretion ≥ 200 μg/min or ≥ 300 mg/day.
+Proteinuria defined as urinary albumin excretion ≥ 200 μg/min or ≥ 300 mg/day.
 
 ††Proteinuria was defined as urinary albumin excretion more than 500 mg/L.
 

@@ -676,7 +676,7 @@ A prospective study included 215 consecutive patients undergoing PEG tube insert
 
 - **Study results**:
 	- Group A included 70 patients (42%) with PEG tubes replaced endoscopically, whereas Group B included 95 patients (58%) with PEG tubes replaced percutaneously. Baseline characteristics were similar between the two groups (P = NS).
-	- Both groups had similar immediate complication rates: 4 patients in Group B (4.2%) and 2 patients in Group A (2.8%) (P = 0.24). Complications included a conservatively managed esophageal perforation and self-limited mild bleeding in Groups A and B, respectively.
+	- **Both groups had similar immediate complication rates**: 4 patients in Group B (4.2%) and 2 patients in Group A (2.8%) (P = 0.24). Complications included a conservatively managed esophageal perforation and self-limited mild bleeding in Groups A and B, respectively.
 	- The mean procedure cost was significantly higher in the endoscopic PEG replacement group compared to the percutaneous PEG replacement group ($650 vs. $350, respectively).
 
 In conclusion, percutaneous PEG replacement appears as safe as endoscopic PEG replacement; however, percutaneous tube exchange is less costly.

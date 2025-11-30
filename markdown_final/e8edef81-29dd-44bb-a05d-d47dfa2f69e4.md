@@ -468,7 +468,7 @@ The study group comprised 50 couples where male partners suffered from symptomat
 
 - **Results**:
 
-	- Partners' morbidity due to their husbands' condition included:
+	- **Partners' morbidity due to their husbands' condition included**:
 
 	- Sleep disturbance (28%).
 	- Disruption of social life (30%), positively related to IPSS and negatively to symptom duration.

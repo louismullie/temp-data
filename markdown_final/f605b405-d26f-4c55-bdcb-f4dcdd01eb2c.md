@@ -398,7 +398,8 @@ In instances of hypertensive urgency, when symptoms related to hypertensive emer
 
 ### Clinical policy: critical issues in the evaluation and management of adult patients in the emergency department with asymptomatic elevated blood pressure [^1133Yf5p]. Annals of Emergency Medicine (2013). Medium credibility.
 
-Emergency department evaluation — diagnostic screening in asymptomatic elevated blood pressure: The JNC report 'was geared for primary care physicians and does not address patients presenting to the ED'.Of available ED testing, 'ED screening for creatinine level may identify a small group of patients with renal dysfunction in the setting of asymptomatic markedly elevated blood pressure', whereas 'No other diagnostic screening tests appear to be useful'.
+Emergency department evaluation — diagnostic screening in asymptomatic elevated blood pressure: The JNC report 'was geared for primary care physicians and does not address patients presenting to the ED'. Of available ED testing, 'ED screening for creatinine level may identify a small group of patients with renal dysfunction in the setting of asymptomatic markedly elevated blood pressure', whereas 'No other diagnostic screening tests appear to be useful'.
+
 ---
 
 ### Clinical practice guideline for screening and management of high blood pressure in children and adolescents [^113BabNh]. Pediatrics (2017). Medium credibility.
@@ -437,7 +438,7 @@ Dieterle et al prospective observational study — emergency department (ED) blo
 
 ### Clinical policy: critical issues in the evaluation and management of adult patients in the emergency department with asymptomatic elevated blood pressure [^113QfQpx]. Annals of Emergency Medicine (2013). Medium credibility.
 
-Asymptomatic markedly elevated blood pressure — ED medical intervention recommendations: 'Level A recommendations. None specified'.'Level B recommendations. None specified'.Under 'Level C recommendations', (1) 'In patients with asymptomatic markedly elevated blood pressure, routine ED medical intervention is not required'.(2) 'In select patient populations (eg, poor follow-up), emergency physicians may treat markedly elevated blood pressure in the ED and/or initiate therapy for long-term control. [Consensus recommendation]' (3) 'Patients with asymptomatic markedly elevated blood pressure should be referred for outpatient follow-up. [Consensus recommendation]'
+Asymptomatic markedly elevated blood pressure — ED medical intervention recommendations: 'Level A recommendations. None specified'. 'Level B recommendations. None specified'. Under 'Level C recommendations', (1) 'In patients with asymptomatic markedly elevated blood pressure, routine ED medical intervention is not required'. (2) 'In select patient populations (eg, poor follow-up), emergency physicians may treat markedly elevated blood pressure in the ED and/or initiate therapy for long-term control. [Consensus recommendation]' (3) 'Patients with asymptomatic markedly elevated blood pressure should be referred for outpatient follow-up. [Consensus recommendation]'
 
 ---
 
@@ -492,7 +493,8 @@ Recommended initial testing to evaluate individuals presenting with OH/nOH
 
 ### Clinical policy: critical issues in the evaluation and management of adult patients in the emergency department with asymptomatic elevated blood pressure [^115YzJdL]. Annals of Emergency Medicine (2013). Medium credibility.
 
-Class III observational ED screening — Nishijima et al: Investigators 'screened 167 asymptomatic patients with elevated blood pressure (98% black) in 2 urban EDs' and 'included patients aged 18 years or older with a diastolic blood pressure of greater than or equal to 100 mm Hg'.They 'found 12 patients (7.2%; 95% CI 3% to 11%) who had unanticipated basic metabolic profile results that led to hospitalization', of whom '10 patients were admitted for new-onset or worsening renal dysfunction and 2 patients were admitted for hyperglycemia'.
+Class III observational ED screening — Nishijima et al: Investigators 'screened 167 asymptomatic patients with elevated blood pressure (98% black) in 2 urban EDs' and 'included patients aged 18 years or older with a diastolic blood pressure of greater than or equal to 100 mm Hg'. They 'found 12 patients (7.2%; 95% CI 3% to 11%) who had unanticipated basic metabolic profile results that led to hospitalization', of whom '10 patients were admitted for new-onset or worsening renal dysfunction and 2 patients were admitted for hyperglycemia'.
+
 ---
 
 ### Clinical policy: critical issues in the evaluation and management of adult patients with asymptomatic hypertension in the emergency department [^115gBcf4]. Annals of Emergency Medicine (2006). Medium credibility.

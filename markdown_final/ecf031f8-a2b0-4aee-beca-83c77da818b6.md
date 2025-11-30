@@ -498,7 +498,7 @@ Vancomycin MAG: Children with normal renal function are usually started on an in
 
 Blood samples for vancomycin levels are often drawn too early, leading to potential misinterpretation of results. However, only a few studies describe interventions to reduce mistimed vancomycin levels. We implemented an information technology (IT)-based intervention that provided educational instructions to nurses and determined the percentage of levels drawn too early for 27 months before (n = 6,291) and 14 months after (n = 3,608) the intervention. In addition, we conducted nurse interviews (n = 40) and dataset analysis to assess the root causes of mistimed levels.
 
-The percentage of vancomycin timing errors decreased from 39% (2,438/6,291) to 32% (1,137/3,608), though in a time series analysis this decrease was not statistically significant (P = .64). Four common causes of mistimed levels were identified: (1) unclear provider orders, (2) scheduling levels to be drawn with morning laboratory tests, (3) lack of communication between providers, and (4) failure to adjust the blood draw in relation to the previous dose.
+The percentage of vancomycin timing errors decreased from 39% (2,438/6,291) to 32% (1,137/3,608), though in a time series analysis this decrease was not statistically significant (P = 0.64). Four common causes of mistimed levels were identified: (1) unclear provider orders, (2) scheduling levels to be drawn with morning laboratory tests, (3) lack of communication between providers, and (4) failure to adjust the blood draw in relation to the previous dose.
 
 A real-time, IT-based intervention that links the timing of levels with medication administration might have a more substantial impact.
 

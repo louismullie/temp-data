@@ -530,7 +530,7 @@ A total of 71 patients who met the inclusion criteria were enrolled in this pros
 - **RBBB with LAFB**: QRS duration increased to 175 ± 21 ms, with a QTmc interval of 466 ± 37 ms after QRS interval correction with the Bogossian formula and heart rate correction with the Bazett formula. Using Fridericia's formula, the QTmc interval was 425 ± 33 ms, and with the Hodge formula, it was 435 ± 26 ms.
 - **RBBB with LPFB**: QRS duration increased to 179 ± 20 ms, with a QTmc interval of 471 ± 31 ms, 431 ± 27 ms, and 438 ± 23 ms after application of the Bazett, Fridericia, and Hodge formulas, respectively.
 
-Compared to intrinsic rhythm, the mean ΔQTmc using the combination of the Bogossian and Bazett formulas was 15 ± 33 ms in RBBB with LAFB (P = .01) and 20 ± 30 ms in RBBB with LPFB (P = .0002). When using the Bogossian and Fridericia formulas, the mean ΔQTmc was −17 ± 27 ms in RBBB with LAFB (P = .0006) and −11 ± 23 ms in RBBB with LPFB (P = .012).
+Compared to intrinsic rhythm, the mean ΔQTmc using the combination of the Bogossian and Bazett formulas was 15 ± 33 ms in RBBB with LAFB (P = 0.01) and 20 ± 30 ms in RBBB with LPFB (P = 0.0002). When using the Bogossian and Fridericia formulas, the mean ΔQTmc was −17 ± 27 ms in RBBB with LAFB (P = 0.0006) and −11 ± 23 ms in RBBB with LPFB (P = 0.012).
 
 ---
 

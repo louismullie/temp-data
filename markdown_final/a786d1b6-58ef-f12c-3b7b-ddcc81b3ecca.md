@@ -126,7 +126,7 @@ Depakote dosing for seizures starts at **10–15 mg/kg/day** [^31385aa8], titrat
 
 Conversion to Monotherapy
 
-Patients should initiate therapy at 10 to 15 mg/kg/day. The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50-100 mcg/mL). No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made. Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks. This reduction may be started at initiation of Depakote therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction. The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
+Patients should initiate therapy at 10 to 15 mg/kg/day. The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50–100 mcg/mL). No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made. Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks. This reduction may be started at initiation of Depakote therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction. The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
 
 Adjunctive Therapy
 
@@ -138,7 +138,7 @@ Depakote may be added to the patient's regimen at a dosage of 10 to 15 mg/kg/day
 
 2.2 Epilepsy
 
-Depakote tablets are administered orally. Depakote is indicated as monotherapy and adjunctive therapy in complex partial seizures in adults and pediatric patients down to the age of 10 years, and in simple and complex absence seizures. As the Depakote dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see Drug Interactions (7.2)] .
+Depakote tablets are administered orally. Depakote is indicated as monotherapy and adjunctive therapy in complex partial seizures in adults and pediatric patients down to the age of 10 years, and in simple and complex absence seizures. As the Depakote dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Complex Partial Seizures
 
@@ -154,15 +154,15 @@ The probability of thrombocytopenia increases significantly at total trough valp
 
 ### Divalproex sodium (Depakote) [^4ca0799b]. FDA (2025). Medium credibility.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)] . However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)] .
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 Simple and Complex Absence Seizures
 
 The recommended initial dose is 15 mg/kg/day, increasing at one week intervals by 5 to 10 mg/kg/day until seizures are controlled or side effects preclude further increases. The maximum recommended dosage is 60 mg/kg/day. If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)] .
+A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
 
-As the Depakote dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)] .
+As the Depakote dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
@@ -202,7 +202,7 @@ Equivalent oral doses of Depakote (divalproex sodium) products and valproic acid
 
 However, it is possible that differences among the various valproate products in Tmaxand Cmaxcould be important upon initiation of treatment. For example, in single dose studies, the effect of feeding had a greater influence on the rate of absorption of the tablet (increase in Tmaxfrom 4 to 8 hours) than on the absorption of the sprinkle capsules (increase in Tmaxfrom 3.3 to 4.8 hours).
 
-While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected. Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint. Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
+While the absorption rate from the G. I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected. Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint. Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
 
 ---
 
@@ -212,53 +212,57 @@ While the absorption rate from the G.I. tract and fluctuation in valproate plasm
 
 Dosing in Elderly Patients
 
-Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients. Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions. Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence. The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.16), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)] .
+Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients. Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions. Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence. The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.16), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse Reactions
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related. The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)] . The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related. The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)]. The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
-G.I. Irritation
+G. I. Irritation
 
-Patients who experience G.I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
+Patients who experience G. I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
 
 2.5 Dosing in Patients Taking Rufinamide
 
-Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)] .
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].
 
 ---
 
 ### Divalproex sodium (Depakote) [^7061407f]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of epilepsy in adults (complex partial seizures) is:
-- Start at: 10-15 mg/kg PO daily
-- Maintenance: 10-60 mg/kg PO daily
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 10–15 mg/kg PO daily
+- **Maintenance**: 10–60 mg/kg PO daily
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^78ef56b1]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of absence seizures in adults (simple or complex) is:
-- Start at: 15 mg/kg PO daily
-- Maintenance: 15-60 mg/kg PO daily
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 15 mg/kg PO daily
+- **Maintenance**: 15–60 mg/kg PO daily
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^f1280cca]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for absence seizure in adults (complex absence seizures, simple) is:
-- Maintenance: 10-15 mg/kg PO daily, in 2-3 divided doses
-- Maximum: 60 mg/kg per day
+
+- **Maintenance**: 10–15 mg/kg PO daily, in 2–3 divided doses
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^df10936f]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of generalized tonic-clonic seizures in adults is:
-- Start at: 250 mg PO daily
-- Maintenance: 1,000-2,000 mg PO daily
+
+- **Start at**: 250 mg PO daily
+- **Maintenance**: 1,000–2,000 mg PO daily
 
 ---
 
@@ -286,7 +290,7 @@ Children within the first two months of life have a markedly decreased ability t
 
 Conversion to Monotherapy
 
-Patients should initiate therapy at 10 to 15 mg/kg/day. The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 - 100 mcg/mL). No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
+Patients should initiate therapy at 10 to 15 mg/kg/day. The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50–100 mcg/mL). No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 
 Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks. This reduction may be started at initiation of divalproex sodium extended-release tablets therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction. The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
 
@@ -304,7 +308,7 @@ A comparison of the percentage of patients showing ≥ 30% reduction in the symp
 
 Figure 1
 
-* p < 0.05
+✱ p < 0.05
 
 PBO = placebo, DVPX = Depakote
 
@@ -321,58 +325,64 @@ Figure 2 presents the proportion of patients (X axis) whose percentage reduction
 ### Divalproex sodium (Depakote) [^576c78d7]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (complex partial seizures) is:
-- Maintenance: 10-15 mg/kg PO daily
-- Maximum: 60 mg/kg per day
+
+- **Maintenance**: 10–15 mg/kg PO daily
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^3ec5b89e]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in adults (complex partial seizures) is:
-- Maintenance: 10-15 mg/kg PO daily, in 2-3 divided doses
-- Maximum: 60 mg/kg per day
+
+- **Maintenance**: 10–15 mg/kg PO daily, in 2–3 divided doses
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^2e82e65b]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of juvenile myoclonic epilepsy in adults is:
-- Start at: 300 mg PO daily
-- Maintenance: 1,200 mg PO daily
-- Maximum: 2,400 mg per day
+
+- **Start at**: 300 mg PO daily
+- **Maintenance**: 1,200 mg PO daily
+- **Maximum**: 2,400 mg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^0457951c]. FDA (2025). Medium credibility.
 
-The dosage of divalproex sodium DR PO for adjunctive treatment for seizures in adults (complex partial seizures, simple) is 10-60 mg/kg PO daily, in 2-3 divided doses
+The dosage of divalproex sodium DR PO for adjunctive treatment for seizures in adults (complex partial seizures, simple) is 10–60 mg/kg PO daily, in 2–3 divided doses
 
 ---
 
 ### Divalproex sodium (Depakote) [^2aa2d856]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for adjunctive treatment for seizures in adults (complex partial seizures, simple) is:
-- Start at: 10-15 mg/kg PO daily for 1 week
-- Maintenance: 10-60 mg/kg PO daily
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 10–15 mg/kg PO daily for 1 week
+- **Maintenance**: 10–60 mg/kg PO daily
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^7f3808d5]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of generalized tonic-clonic seizures in adults is:
-- Start at: 250 mg PO daily
-- Maintenance: 250-1,000 mg PO daily
-- Maximum: 2,000 mg per day
+
+- **Start at**: 250 mg PO daily
+- **Maintenance**: 250–1,000 mg PO daily
+- **Maximum**: 2,000 mg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^1fdc51ac]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in adults (complex partial seizures) is:
-- Start at: 10-15 mg/kg PO daily
-- Maintenance: 10-60 mg/kg PO daily, in divided doses
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 10–15 mg/kg PO daily
+- **Maintenance**: 10–60 mg/kg PO daily, in divided doses
+- **Maximum**: 60 mg/kg per day
 
 ---
 
@@ -390,13 +400,13 @@ Adjunctive Therapy Divalproex sodium delayed-release tablets may be added to the
 
 ### Divalproex sodium (Depakote) [^a37d41fd]. FDA (2025). Medium credibility.
 
-Co-administration of oral valproate products with food and substitution among the various Depakote and valproic acid formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)] . Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
+Co-administration of oral valproate products with food and substitution among the various Depakote and valproic acid formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)]. Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
 
 Distribution
 
 Protein Binding
 
-The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL. Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin). Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs] .
+The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL. Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin). Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -404,28 +414,31 @@ Valproate concentrations in cerebrospinal fluid (CSF) approximate unbound concen
 
 Metabolism
 
-Valproate is metabolized almost entirely by the liver. In adult patients on monotherapy, 30-50% of an administered dose appears in urine as a glucuronide conjugate. Mitochondrial β-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose. Usually, less than 15-20% of the dose is eliminated by other oxidative mechanisms. Less than 3% of an administered dose is excreted unchanged in urine.
+Valproate is metabolized almost entirely by the liver. In adult patients on monotherapy, 30–50% of an administered dose appears in urine as a glucuronide conjugate. Mitochondrial β-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose. Usually, less than 15–20% of the dose is eliminated by other oxidative mechanisms. Less than 3% of an administered dose is excreted unchanged in urine.
 
 ---
 
 ### Divalproex sodium (Depakote) [^dabedc0a]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (complex partial seizures) is:
-- Start at: 10-15 mg/kg PO daily, in 2-3 divided doses, for 7 days
-- Maintenance: 30-60 mg/kg PO daily, in 2-3 divided doses
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 10–15 mg/kg PO daily, in 2–3 divided doses, for 7 days
+- **Maintenance**: 30–60 mg/kg PO daily, in 2–3 divided doses
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Divalproex sodium (Depakote) [^22960ab8]. FDA (2025). Medium credibility.
 
 Labeled indications for Divalproex sodium ER (also known as Depakote ER) include:
+
 - Prevention of migraine attacks in adults
 - Treatment of absence seizures in adults (simple or complex)
 - Adjunctive treatment for seizures in adults (complex partial seizures, simple)
 - Treatment of epilepsy in adults (complex partial seizures)
 
 Off-label indications for Divalproex sodium ER (also known as Depakote ER) include:
+
 - Treatment of generalized tonic-clonic seizures in adults
 - Treatment of juvenile myoclonic epilepsy in adults
 
@@ -433,7 +446,8 @@ Off-label indications for Divalproex sodium ER (also known as Depakote ER) inclu
 
 ### Divalproex sodium (Depakote) [^78a4de1c]. FDA (2025). Medium credibility.
 
-Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with any modality: 
+Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with any modality:
+
 - Use acceptable.
 - No dose adjustment required.
 
@@ -441,20 +455,21 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 ### Divalproex sodium (Depakote) [^a50202f2]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of divalproex sodium DR PO (also known as Depakote): 
-- Decreased platelet count: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
-- DRESS syndrome: use caution in all patients. divalproex may cause Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions.
-- Encephalopathy, hyperammonemia, hypothermia: use caution in patients with concomitant administration of topiramate.
-- Seizure: use caution in concurrent use of carbepenems, as it may decrease concentrations serum valproate, which could lead to decreased control of seizures.
-- Somnolence: use caution in the elderly.
-- Suicidal ideation: use caution in all patients, suicidal ideation may persist throughout treatment course.
-- Teratogenesis: maintain a high level of suspicion of increased birth defects, malformations and fetal harm, including decreased IQ following in utero exposure.
+Warnings and precautions regarding the use of divalproex sodium DR PO (also known as Depakote):
+- **Decreased platelet count**: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
+- **DRESS syndrome**: use caution in all patients. divalproex may cause Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions.
+- **Encephalopathy, hyperammonemia, hypothermia**: use caution in patients with concomitant administration of topiramate.
+- **Seizure**: use caution in concurrent use of carbepenems, as it may decrease concentrations serum valproate, which could lead to decreased control of seizures.
+- **Somnolence**: use caution in the elderly.
+- **Suicidal ideation**: use caution in all patients, suicidal ideation may persist throughout treatment course.
+- **Teratogenesis**: maintain a high level of suspicion of increased birth defects, malformations and fetal harm, including decreased IQ following in utero exposure.
 
 ---
 
 ### Divalproex sodium (Depakote) [^9ef9814c]. FDA (2025). Medium credibility.
 
 Labeled indications for Divalproex sodium DR (also known as Depakote) include:
+
 - Prevention of migraine attacks in adults
 - Treatment of bipolar disorder in adults (manic episodes)
 - Treatment of epilepsy in adults (complex partial seizures)
@@ -462,6 +477,7 @@ Labeled indications for Divalproex sodium DR (also known as Depakote) include:
 - Adjunctive treatment for epilepsy in adults (complex partial seizures)
 
 Off-label indications for Divalproex sodium DR (also known as Depakote) include:
+
 - Treatment of generalized tonic-clonic seizures in adults
 - Treatment of juvenile myoclonic epilepsy in adults
 - Prevention of headache episodes in adults with chronic tension-type headache
@@ -470,20 +486,20 @@ Off-label indications for Divalproex sodium DR (also known as Depakote) include:
 
 ### Divalproex sodium (Depakote) [^f767f7a2]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of divalproex sodium ER PO (also known as Depakote ER): 
-- Decreased platelet count: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
-- DRESS syndrome: use caution in all patients. Divalproex may cause Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions.
-- Encephalopathy, hyperammonemia, hypothermia: use caution in patients with concomitant administration of topiramate.
-- Seizure: use caution in concurrent use of carbepenems, as it may decrease concentrations serum valproate, which could lead to decreased control of seizures.
-- Somnolence: use caution in the elderly.
-- Suicidal ideation: use caution in all patients, suicidal ideation may persist throughout treatment course.
-- Teratogenesis: maintain a high level of suspicion of increased birth defects, malformations and fetal harm, including decreased IQ following in utero exposure.
+Warnings and precautions regarding the use of divalproex sodium ER PO (also known as Depakote ER):
+- **Decreased platelet count**: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
+- **DRESS syndrome**: use caution in all patients. Divalproex may cause Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions.
+- **Encephalopathy, hyperammonemia, hypothermia**: use caution in patients with concomitant administration of topiramate.
+- **Seizure**: use caution in concurrent use of carbepenems, as it may decrease concentrations serum valproate, which could lead to decreased control of seizures.
+- **Somnolence**: use caution in the elderly.
+- **Suicidal ideation**: use caution in all patients, suicidal ideation may persist throughout treatment course.
+- **Teratogenesis**: maintain a high level of suspicion of increased birth defects, malformations and fetal harm, including decreased IQ following in utero exposure.
 
 ---
 
 ### Divalproex sodium (Depakote) [^8c138b55]. FDA (2025). Medium credibility.
 
-Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with eGFR 0-90 mL/min/1.73 m²: 
+Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with eGFR 0–90 mL/min/1.73 m²:
 - Use acceptable.
 - No dose adjustment required.
 
@@ -491,21 +507,21 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 ### Divalproex sodium (Depakote) [^de58d69e]. FDA (2025). Medium credibility.
 
-The dosage of divalproex sodium DR PO for treatment of bipolar disorder in adults (manic episodes) is 750 mg PO daily, in 2-3 divided doses
+The dosage of divalproex sodium DR PO for treatment of bipolar disorder in adults (manic episodes) is 750 mg PO daily, in 2–3 divided doses
 
 ---
 
 ### Divalproex sodium (divalproex sodiumDelayed-release) [^7ad0f3aa]. FDA (2013). Low credibility.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)] . However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)] .
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 Simple and Complex Absence Seizures
 
 The recommended initial dose is 15 mg/kg/day, increasing at one week intervals by 5 to 10 mg/kg/day until seizures are controlled or side effects preclude further increases. The maximum recommended dosage is 60 mg/kg/day. If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)] .
+A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
 
-As the divalproex sodium dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)] .
+As the divalproex sodium dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
@@ -523,7 +539,7 @@ Divalproex sodium delayed-release tablets are administered orally. The recommend
 
 Carbapenem Antibiotics
 
-A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control. The mechanism of this interaction is not well understood. Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy. Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.15)] .
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control. The mechanism of this interaction is not well understood. Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy. Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.15)].
 
 Estrogen-Containing Hormonal Contraceptives
 
@@ -531,7 +547,7 @@ Estrogen-containing hormonal contraceptives may increase the clearance of valpro
 
 Felbamate
 
-A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone. Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase). A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
+A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone. Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase). A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
 Methotrexate
 
@@ -601,7 +617,7 @@ The drug Divalproex sodium ER (also known as Depakote ER).
 
 ### Divalproex sodium (Depakote) [^7d084f99]. FDA (2025). Medium credibility.
 
-The dosage of divalproex sodium DR PO for prevention of headache episodes in adults with chronic tension-type headache is 1,000-2,000 mg PO daily, in 2-3 divided doses
+The dosage of divalproex sodium DR PO for prevention of headache episodes in adults with chronic tension-type headache is 1,000–2,000 mg PO daily, in 2–3 divided doses
 
 ---
 
@@ -621,7 +637,7 @@ Effect of Age
 
 Pediatric
 
-The valproate pharmacokinetic profile following administration of divalproex sodium extended-release tablets was characterized in a multiple-dose, non-fasting, open label, multi-center study in children and adolescents. Divalproex sodium extended-release tablets once daily doses ranged from 250-1750 mg. Once daily administration of divalproex sodium extended-release tablets in pediatric patients (10-17 years) produced plasma VPA concentration-time profiles similar to those that have been observed in adults.
+The valproate pharmacokinetic profile following administration of divalproex sodium extended-release tablets was characterized in a multiple-dose, non-fasting, open label, multi-center study in children and adolescents. Divalproex sodium extended-release tablets once daily doses ranged from 250–1750 mg. Once daily administration of divalproex sodium extended-release tablets in pediatric patients (10–17 years) produced plasma VPA concentration-time profiles similar to those that have been observed in adults.
 
 ---
 
@@ -641,17 +657,17 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 
 2.4 General Dosing Advice
 
-Dosing in Elderly Patients 
+Dosing in Elderly Patients
 
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients. Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions. Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence. The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.16), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
 
-Dose-Related Adverse Reactions 
+Dose-Related Adverse Reactions
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related. The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)] . The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related. The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)]. The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
- G.I. Irritation 
+ G. I. Irritation
 
-Patients who experience G.I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
+Patients who experience G. I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
 
 2.5 Dosing in Patients Taking Rufinamide
 
@@ -665,13 +681,13 @@ Patients stabilized on rufinamide before being prescribed valproate should begin
 
 Divalproex sodium is a valproate and is indicated for the treatment of the manic episodes associated with bipolar disorder. A manic episode is a distinct period of abnormally and persistently elevated, expansive, or irritable mood. Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, poor judgment, aggressiveness, and possible hostility.
 
-The efficacy of divalproex sodium delayed-release tablets was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania [see Clinical Studies (14.1)] .
+The efficacy of divalproex sodium delayed-release tablets was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania [see Clinical Studies (14.1)].
 
-The safety and effectiveness of divalproex sodium delayed-release tablets  for long-term use in mania, i.e., more than 3 weeks, has not been demonstrated in controlled clinical trials. Therefore, healthcare providers who elect to use divalproex sodium delayed-release tablets  for extended periods should continually reevaluate the long-term usefulness of the drug for the  individual patient.
+The safety and effectiveness of divalproex sodium delayed-release tablets for long-term use in mania, i.e., more than 3 weeks, has not been demonstrated in controlled clinical trials. Therefore, healthcare providers who elect to use divalproex sodium delayed-release tablets for extended periods should continually reevaluate the long-term usefulness of the drug for the individual patient.
 
 1.2 Epilepsy
 
-Divalproex sodium delayed-release tablets are indicated as monotherapy and adjunctive therapy in the treatment of patients with complex partial seizures that occur either in isolation or in association with other types of seizures. Divalproex sodium delayed-release tablets  are also indicated for use as sole and adjunctive therapy in the treatment of simple and complex absence seizures, and adjunctively in patients with multiple seizure types that include absence seizures.
+Divalproex sodium delayed-release tablets are indicated as monotherapy and adjunctive therapy in the treatment of patients with complex partial seizures that occur either in isolation or in association with other types of seizures. Divalproex sodium delayed-release tablets are also indicated for use as sole and adjunctive therapy in the treatment of simple and complex absence seizures, and adjunctively in patients with multiple seizure types that include absence seizures.
 
 Simple absence is defined as very brief clouding of the sensorium or loss of consciousness accompanied by certain generalized epileptic discharges without other detectable clinical signs. Complex absence is the term used when other signs are also present.
 
@@ -695,7 +711,8 @@ Very common adverse reactions (over 10%) associated with the use of divalproex s
 
 ### Divalproex sodium (Depakote) [^8633d1a9]. FDA (2025). Medium credibility.
 
-Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with chronic liver disease, any severity: 
+Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with chronic liver disease, any severity:
+
 - Do not use.
 
 ---
@@ -706,9 +723,9 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 Divalproex sodium is a valproate and is indicated for the treatment of the manic episodes associated with bipolar disorder. A manic episode is a distinct period of abnormally and persistently elevated, expansive, or irritable mood. Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, poor judgment, aggressiveness, and possible hostility.
 
-The efficacy of divalproex sodium delayed-release tablets, USP was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania [see Clinical Studies (14.1)] .
+The efficacy of divalproex sodium delayed-release tablets, USP was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania [see Clinical Studies (14.1)].
 
-The safety and effectiveness of divalproex sodium delayed-release tablets, USP for long-term use in mania, i.e., more than 3 weeks, has not been demonstrated in controlled clinical trials. Therefore, healthcare providers who elect to use divalproex sodium delayed-release tablets, USP for extended periods should continually re-evaluate the long-term usefulness of the drug for the individual patient.
+The safety and effectiveness of divalproex sodium delayed-release tablets, USP for long-term use in mania, i.e., more than 3 weeks, has not been demonstrated in controlled clinical trials. Therefore, healthcare providers who elect to use divalproex sodium delayed-release tablets, USP for extended periods should continually re-evaluate the long-term usefulness of the drug for the individual patient.
 
 1.2 Epilepsy
 
@@ -724,7 +741,8 @@ Divalproex sodium delayed-release tablets, USP are indicated for prophylaxis of 
 
 ### Divalproex sodium (Depakote) [^1f2df4ba]. FDA (2025). Medium credibility.
 
-Regarding the use of divalproex sodium ER PO (also known as Depakote ER) in patients with chronic liver disease, any severity: 
+Regarding the use of divalproex sodium ER PO (also known as Depakote ER) in patients with chronic liver disease, any severity:
+
 - Do not use.
 
 ---
@@ -759,7 +777,7 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 
 ### Evidence-based guideline update: pharmacologic treatment for episodic migraine prevention in adults: report of the quality standards subcommittee of the American Academy of Neurology and the American Headache Society [^d2c11bf8]. Neurology (2012). Medium credibility.
 
-Antiepileptic drugs—divalproex sodium extended-release (ER)—In a randomized Class I placebo-controlled 12-week trial, ER divalproex sodium 500–1,000 mg/day reduced the 4-week migraine headache rate from 4.4/week to 3.2/week (−1.2 attacks/week) versus 4.2/week to 3.6/week (−0.6 attacks/week) with placebo (CI 0.2–1.2; p = 0.006), and no significant differences were detected between groups in treatment-emergent AEs; contextually, “In most headache trials, patients taking divalproex sodium or sodium valproate reported no more AEs than those on placebo,” but “weight gain has been clinically observed with divalproex sodium long-term use,” and “Treatment with these agents requires careful follow-up and testing because of pancreatitis, liver failure, and teratogenicity risks.”
+Antiepileptic drugs — divalproex sodium extended-release (ER) — In a randomized Class I placebo-controlled 12-week trial, ER divalproex sodium 500–1,000 mg/day reduced the 4-week migraine headache rate from 4.4/week to 3.2/week (−1.2 attacks/week) versus 4.2/week to 3.6/week (−0.6 attacks/week) with placebo (CI 0.2–1.2; p = 0.006), and no significant differences were detected between groups in treatment-emergent AEs; contextually, "In most headache trials, patients taking divalproex sodium or sodium valproate reported no more AEs than those on placebo," but "weight gain has been clinically observed with divalproex sodium long-term use," and "Treatment with these agents requires careful follow-up and testing because of pancreatitis, liver failure, and teratogenicity risks."
 
 ---
 
@@ -789,7 +807,7 @@ Use of Valproate Sodium Injection for periods of more than 14 days has not been 
 
 Valproate Sodium Injection should be administered as a 60 minute infusion (but not more than 20 mg/min) with the same frequency as the oral products, although plasma concentration monitoring and dosage adjustments may be necessary.
 
-In one clinical safety study, approximately 90 patients with epilepsy and with no measurable plasma levels of valproate were given single infusions of Valproate Sodium Injection (up to 15 mg/kg and mean dose of 1184 mg) over 5 to 10 minutes (1.5 to 3 mg/kg/min). Patients generally tolerated the more rapid infusions well [see Adverse Reactions (6.1)] . This study was not designed to assess the effectiveness of these regimens. For pharmacokinetics with rapid infusions, see Clinical Pharmacology (12.3) .
+In one clinical safety study, approximately 90 patients with epilepsy and with no measurable plasma levels of valproate were given single infusions of Valproate Sodium Injection (up to 15 mg/kg and mean dose of 1184 mg) over 5 to 10 minutes (1.5 to 3 mg/kg/min). Patients generally tolerated the more rapid infusions well [see Adverse Reactions (6.1)]. This study was not designed to assess the effectiveness of these regimens. For pharmacokinetics with rapid infusions, see Clinical Pharmacology (12.3).
 
 Initial Exposure to Valproate
 
@@ -815,21 +833,21 @@ Unknown frequency adverse reactions associated with the use of divalproex sodium
 
 ### Divalproex sodium in children with partial seizures: 12-month safety study [^935edae2]. Pediatric Neurology (2009). Low credibility.
 
-This phase III, open-label, multicenter, outpatient study evaluated the 12-month safety of valproate using divalproex sodium sprinkle capsules for partial seizures, with or without secondary generalization, in children aged 3-10 years (n = 169). Laboratory parameters and vital signs were assessed, and the Wechsler Scales of Intelligence, the Developmental Profile-II, movement-related items from the Udvalg for Kliniske Undersøgelser, and the Behavior Assessment System for Children were administered. Efficacy was measured by the 4-week seizure rate. The most common treatment-emergent adverse events in the 169 study patients were typical childhood illnesses: pyrexia (18%), cough (17%), and nasopharyngitis (14%). The most common adverse events not considered typical childhood illnesses were vomiting (14%), tremor (9%), somnolence (8%), and diarrhea (8%). Of the 169 patients, 11 (6.5%) were hospitalized with serious treatment-emergent adverse events. Although elevated ammonia levels were observed in 31 treated patients, and mean increases in uric acid concentrations and decreases in platelets were observed, the majority of patients were asymptomatic. Except for tremor, no increases in movement-related adverse effects were observed. Small numeric improvements were reported in the Wechsler Scales and the Behavior Assessment System for Children. The safety findings in this 12-month study are generally consistent with previous reports of valproate in adult and pediatric epilepsy patients.
+This phase III, open-label, multicenter, outpatient study evaluated the 12-month safety of valproate using divalproex sodium sprinkle capsules for partial seizures, with or without secondary generalization, in children aged 3–10 years (n = 169). Laboratory parameters and vital signs were assessed, and the Wechsler Scales of Intelligence, the Developmental Profile-II, movement-related items from the Udvalg for Kliniske Undersøgelser, and the Behavior Assessment System for Children were administered. Efficacy was measured by the 4-week seizure rate. The most common treatment-emergent adverse events in the 169 study patients were typical childhood illnesses: pyrexia (18%), cough (17%), and nasopharyngitis (14%). The most common adverse events not considered typical childhood illnesses were vomiting (14%), tremor (9%), somnolence (8%), and diarrhea (8%). Of the 169 patients, 11 (6.5%) were hospitalized with serious treatment-emergent adverse events. Although elevated ammonia levels were observed in 31 treated patients, and mean increases in uric acid concentrations and decreases in platelets were observed, the majority of patients were asymptomatic. Except for tremor, no increases in movement-related adverse effects were observed. Small numeric improvements were reported in the Wechsler Scales and the Behavior Assessment System for Children. The safety findings in this 12-month study are generally consistent with previous reports of valproate in adult and pediatric epilepsy patients.
 
 ---
 
 ### Valproic acid [^bea6ced3]. FDA (2025). Medium credibility.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)] . However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)] .
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 Simple and Complex Absence Seizures
 
 The recommended initial dose is 15 mg/kg/day, increasing at one week intervals by 5 to 10 mg/kg/day until seizures are controlled or side effects preclude further increases. The maximum recommended dosage is 60 mg/kg/day. If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentration for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)] .
+A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentration for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
 
-As the valproic acid dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)] .
+As the valproic acid dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
@@ -839,7 +857,7 @@ The following table is a guide for the initial daily dose of valproic acid oral 
 
 ### Divalproex-ER pharmacokinetics in older children and adolescents [^82817ac5]. Pediatric Neurology (2004). Low credibility.
 
-Valproic acid pharmacokinetic profile and tolerability after administration of divalproex sodium extended-release tablets was characterized in older children and adolescents. In this multiple-dose, open-label, pharmacokinetic study, the patients were divided into two age groups, 8-11 years (older children; n = 15) and 12-17 years (adolescents; n = 14). Once-daily administration of divalproex sodium extended-release tablets (doses ranged from 250 to 1750 mg) in older children and adolescents produced relatively flat plasma valproic acid concentration-time profiles over the entire 24-hour dosing interval, similar to the pharmacokinetic performance of this formulation in adults. The mean (standard deviation) oral clearance values for unbound valproic acid were 94.3 (51.8) and 82.3 (28.2) mL/h/kg and for total valproic acid were 11.2 (3.77) and 9.06 (2.03) mL/h/kg in older children and adolescents, respectively. Two patients discontinued for administrative reasons, whereas one discontinued for an adverse event (flulike syndrome). Adverse events reported by three or more patients were flu syndrome (5 patients, 17.2%) and headache (3 patients, 10.3%). Reported adverse events were generally mild to moderate in severity and similar to those reported in previous divalproex studies. This study demonstrates that in older children and adolescents, once-daily administration of divalproex sodium extended-release tablets may potentially be used to sustain plasma valproic acid concentrations within the usually accepted therapeutic ranges for various indications.
+Valproic acid pharmacokinetic profile and tolerability after administration of divalproex sodium extended-release tablets was characterized in older children and adolescents. In this multiple-dose, open-label, pharmacokinetic study, the patients were divided into two age groups, 8–11 years (older children; n = 15) and 12–17 years (adolescents; n = 14). Once-daily administration of divalproex sodium extended-release tablets (doses ranged from 250 to 1750 mg) in older children and adolescents produced relatively flat plasma valproic acid concentration-time profiles over the entire 24-hour dosing interval, similar to the pharmacokinetic performance of this formulation in adults. The mean (standard deviation) oral clearance values for unbound valproic acid were 94.3 (51.8) and 82.3 (28.2) mL/h/kg and for total valproic acid were 11.2 (3.77) and 9.06 (2.03) mL/h/kg in older children and adolescents, respectively. Two patients discontinued for administrative reasons, whereas one discontinued for an adverse event (flulike syndrome). Adverse events reported by three or more patients were flu syndrome (5 patients, 17.2%) and headache (3 patients, 10.3%). Reported adverse events were generally mild to moderate in severity and similar to those reported in previous divalproex studies. This study demonstrates that in older children and adolescents, once-daily administration of divalproex sodium extended-release tablets may potentially be used to sustain plasma valproic acid concentrations within the usually accepted therapeutic ranges for various indications.
 
 ---
 
@@ -859,11 +877,11 @@ Healthy volunteers (N = 28) received single 1000 mg doses of divalproex-DR and d
 
 Results
 
-VPA was not absorbed from divalproex-DR in the first 2 hours (absorption lag-time) after dosing. After VPA release in the intestine, approximately 63% of the dose was absorbed in less than 1 hour, that is, 2.9 hours (mean absorption time) from dosing. Maximum concentration (C(max)) was achieved approximately 4 hours after dosing. VPA absorption was complete ( approximately 93% of dose) within 3 absorption half-lives ( approximately 4.5 h) post-absorption lag-time, that is, 6-7 hours from dosing. In contrast, VPA absorption from divalproex-ER starts immediately after administration, initially at a modest rate, followed by slow and extended absorption at a constant rate for more than 20 hours; VPA concentrations at 1 and 2 hours were 28% and 40% of C(max). Approximately 53% of the dose was absorbed within 12 hours (mean absorption time); complete absorption occurred over more than 20 hours without any dose dumping.
+VPA was not absorbed from divalproex-DR in the first 2 hours (absorption lag-time) after dosing. After VPA release in the intestine, approximately 63% of the dose was absorbed in less than 1 hour, that is, 2.9 hours (mean absorption time) from dosing. Maximum concentration (C(max)) was achieved approximately 4 hours after dosing. VPA absorption was complete (approximately 93% of dose) within 3 absorption half-lives (approximately 4.5 h) post-absorption lag-time, that is, 6–7 hours from dosing. In contrast, VPA absorption from divalproex-ER starts immediately after administration, initially at a modest rate, followed by slow and extended absorption at a constant rate for more than 20 hours; VPA concentrations at 1 and 2 hours were 28% and 40% of C(max). Approximately 53% of the dose was absorbed within 12 hours (mean absorption time); complete absorption occurred over more than 20 hours without any dose dumping.
 
 Conclusions
 
-VPA absorption from enteric-coated divalproex-DR is rapid following a lag-time of approximately 2 hours and is complete within 6-7 hours of dosing. In contrast, VPA absorption from divalproex-ER starts immediately after administration, but occurs at a slow, approximately constant rate over more than 20 hours.
+VPA absorption from enteric-coated divalproex-DR is rapid following a lag-time of approximately 2 hours and is complete within 6–7 hours of dosing. In contrast, VPA absorption from divalproex-ER starts immediately after administration, but occurs at a slow, approximately constant rate over more than 20 hours.
 
 ---
 
@@ -871,35 +889,35 @@ VPA absorption from enteric-coated divalproex-DR is rapid following a lag-time o
 
 5.4 Seizure Potential
 
-Seizures and other adverse CNS experiences have been reported during treatment with meropenem. These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)] .
+Seizures and other adverse CNS experiences have been reported during treatment with meropenem. These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
 
-During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event). All meropenem-treated patients with seizures had pre-existing contributing factors. Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential. Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)] .
+During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event). All meropenem-treated patients with seizures had pre-existing contributing factors. Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential. Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
 
 Close adherence to the recommended dosage regimens is urged, especially in patients with known factors that predispose to convulsive activity. Continue anti-convulsant therapy in patients with known seizure disorders. If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed on anti-convulsant therapy if not already instituted, and re-examine the dosage of meropenem to determine whether it should be decreased or discontinued.
 
 5.5 Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid
 
-The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended. Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations. The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures. Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction. Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium. If administration of meropenem is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)] .
+The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended. Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations. The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures. Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction. Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium. If administration of meropenem is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
 ---
 
 ### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^dda9783b]. Annals of Internal Medicine (2024). High credibility.
 
-VA/DoD Headache CPG—anticonvulsants for preventive dosing specify topiramate 25 mg/day with a usual range of 50–200 mg/day in divided doses and “Increase by 25 mg/week”; and valproic acid/divalproex sodium 250–500 mg/day in divided doses or daily for extended release with a usual range of 500–1,500 mg/day in divided doses or daily for extended release and “May monitor levels if adherence is an issue.”
+VA/DoD Headache CPG — anticonvulsants for preventive dosing specify topiramate 25 mg/day with a usual range of 50–200 mg/day in divided doses and "Increase by 25 mg/week"; and valproic acid/divalproex sodium 250–500 mg/day in divided doses or daily for extended release with a usual range of 500–1,500 mg/day in divided doses or daily for extended release and "May monitor levels if adherence is an issue."
 
 ---
 
 ### Valproic acid (valproic) [^68a24e2e]. FDA (2025). Medium credibility.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)] . However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)] .
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 Simple and Complex Absence Seizures
 
 The recommended initial dose is 15 mg/kg/day, increasing at one week intervals by 5 to 10 mg/kg/day until seizures are controlled or side effects preclude further increases. The maximum recommended dosage is 60 mg/kg/day. If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentration for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)] .
+A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect. However, therapeutic valproate serum concentration for most patients with absence seizures is considered to range from 50 to 100 mcg/mL. Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
 
-As the Valproic Acid dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)] .
+As the Valproic Acid dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
@@ -925,21 +943,21 @@ The concomitant use of meropenem and valproic acid or divalproex sodium is gener
 
 ### Divalproex sodium [^d065c695]. FDA (2025). Medium credibility.
 
- Carbamazepine/carbamazepine-10,11-Epoxide 
+ Carbamazepine/carbamazepine-10,11-Epoxide
 
 Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon coadministration of valproate and CBZ to epileptic patients.
 
- Clonazepam 
+ Clonazepam
 
 The concomitant use of valproate and clonazepam may induce absence status in patients with a history of absence type seizures.
 
- Diazepam 
+ Diazepam
 
-Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism. Coadministration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6). Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate. The elimination half-life of diazepam remained unchanged upon addition of valproate.
+Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism. Coadministration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n = 6). Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate. The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
- Ethosuximide 
+ Ethosuximide
 
-Valproate inhibits the metabolism of ethosuximide. Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n=6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone. Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
+Valproate inhibits the metabolism of ethosuximide. Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n = 6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone. Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
 
 ---
 
@@ -975,7 +993,7 @@ A retrospective pilot study was conducted to determine whether divalproex sodium
 
 Results
 
-Of 14 patients who completed a trial of divalproex sodium, 10 (71%) were rated as having sustained response to treatment. The mean dose of divalproex sodium was 768 mg/day (range, 125-2500 mg/day), and it was generally well tolerated. Improvement was noted in core symptoms of autism and associated features of affective instability, impulsivity, and aggression.
+Of 14 patients who completed a trial of divalproex sodium, 10 (71%) were rated as having sustained response to treatment. The mean dose of divalproex sodium was 768 mg/day (range, 125–2500 mg/day), and it was generally well tolerated. Improvement was noted in core symptoms of autism and associated features of affective instability, impulsivity, and aggression.
 
 Conclusion
 
@@ -985,7 +1003,7 @@ Divalproex sodium may be beneficial to patients with autism spectrum disorders, 
 
 ### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^68e61352]. The American Journal of Psychiatry (2007). Medium credibility.
 
-Alzheimer’s disease and other dementias—anticonvulsants for agitation and behavioral symptoms: Carbamazepine is not recommended for the routine treatment of agitation in patients with dementia, and routine use of valproate to treat behavioral symptoms in dementia is not recommended based on the current evidence; most randomized placebo-controlled trials showed no benefit of valproate compared with placebo and a 2004 Cochrane review concluded that valproate formulations were no more effective than placebo and that side effects were more common. Nonetheless, a therapeutic trial of carbamazepine or valproate may be considered in individual cases, and given the potential toxicity of both agents it is important to identify and monitor target symptoms and to discontinue the medication if no improvement is observed. If used, carbamazepine may be given in two to four doses per day, started at a total dosage of 50–100 mg/day, and increased gradually as warranted by behavioral response and side effects or until blood levels reach 8–12 ng/ml; divalproex sodium may be given in two or three doses per day and should be started at 125–250 mg/day, with gradual increases based on behavioral response and side effects or until blood levels reach 50–60 ng/ml (or, in rare cases, 100 ng/ml). Principal adverse effects of carbamazepine include ataxia, falls, sedation, and confusion, with drug interactions through the cytochrome P450 system and rare bone marrow suppression or hyponatremia; valproate’s principal side effects are sedation, gastrointestinal disturbances, and confusion.
+Alzheimer's disease and other dementias — anticonvulsants for agitation and behavioral symptoms: Carbamazepine is not recommended for the routine treatment of agitation in patients with dementia, and routine use of valproate to treat behavioral symptoms in dementia is not recommended based on the current evidence; most randomized placebo-controlled trials showed no benefit of valproate compared with placebo and a 2004 Cochrane review concluded that valproate formulations were no more effective than placebo and that side effects were more common. Nonetheless, a therapeutic trial of carbamazepine or valproate may be considered in individual cases, and given the potential toxicity of both agents it is important to identify and monitor target symptoms and to discontinue the medication if no improvement is observed. If used, carbamazepine may be given in two to four doses per day, started at a total dosage of 50–100 mg/day, and increased gradually as warranted by behavioral response and side effects or until blood levels reach 8–12 ng/ml; divalproex sodium may be given in two or three doses per day and should be started at 125–250 mg/day, with gradual increases based on behavioral response and side effects or until blood levels reach 50–60 ng/ml (or, in rare cases, 100 ng/ml). Principal adverse effects of carbamazepine include ataxia, falls, sedation, and confusion, with drug interactions through the cytochrome P450 system and rare bone marrow suppression or hyponatremia; valproate's principal side effects are sedation, gastrointestinal disturbances, and confusion.
 
 ---
 
@@ -995,8 +1013,8 @@ US vs non-US patients.
 
 The KM-estimated exit rates for the US subgroup were greater than those for the non-US subgroup (figure 2A). Cox proportional hazard regression analysis confirmed that US patients were significantly more likely to exit the study (p < 0.001; figure 2C). The time to exit for US patients exhibited a dose-response relationship; the rate was lower with ESL 1,600 mg vs 1,200 mg. For US patients taking 2 baseline AEDs, or with secondarily generalized seizures before or during the baseline period, the difference in exit rates between dose groups was particularly marked. For all 4 subgroups (US and non-US patients taking ESL 1,600 and 1,200 mg), the UCLs of the exit rates were lower than the 65.3% historical control threshold.
 
-Figure 2 
-Subgroup analyses of exit rates (pooled efficacy population): Influence of geographic region on exit rate (US vs non-US regions) (A), of baseline AED use (AEDs used by ≥15% of patients) on exit rate (B), and of patient characteristics on risk of study exit (pooled efficacy population) (C)
+Figure 2
+Subgroup analyses of exit rates (pooled efficacy population): Influence of geographic region on exit rate (US vs non-US regions) (A), of baseline AED use (AEDs used by ≥ 15% of patients) on exit rate (B), and of patient characteristics on risk of study exit (pooled efficacy population) (C)
 
 Note that for age, baseline body weight, and maximum 2- or 28-day seizure rate, the hazard ratio is displayed for a single unit change; otherwise, it is shown for the referenced group compared to those without the stated factor. VPA included all dosage forms combined unless otherwise stated (including VPA, sodium valproate, divalproex sodium, etc.). a BZD derivatives used before study treatment (prior), after initiation of the AED conversion period as rescue or emergency medication (after), or only after study treatment (not prior, after). AED = antiepileptic drug; B/L = baseline; BZD = benzodiazepine; CBZ = carbamazepine; CI = confidence interval; CP = complex partial seizure; duration = duration of epilepsy; ESL = eslicarbazepine acetate; LEV = levetiracetam; LTG = lamotrigine; OXC = oxcarbazepine; PHT = phenytoin; SGTC = secondarily generalized tonic-clonic seizures (also referred to as complex partial seizures with secondary generalization); sz = seizure; TOP = topiramate; US = United States; VNS = vagal nerve stimulator; VPA = valproic acid.
 
@@ -1018,7 +1036,7 @@ Epilepsy
 
 The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
 
-Equivalent doses of Valproate Sodium Injection and divalproex sodium yield equivalent plasma levels of the valproate ion [see Clinical Pharmacology (12.3)] .
+Equivalent doses of Valproate Sodium Injection and divalproex sodium yield equivalent plasma levels of the valproate ion [see Clinical Pharmacology (12.3)].
 
 ---
 
@@ -1028,11 +1046,11 @@ Equivalent doses of Valproate Sodium Injection and divalproex sodium yield equiv
 
 Human
 
-In a published study, breast milk and maternal blood samples were obtained from 11 epilepsy patients taking valproate at doses ranging from 300 mg/day to 2,400 mg/day on postnatal days 3 to 6. In 4 patients who were taking valproate only, breast milk contained an average valproate concentration of 1.8 mcg/mL (range: 1.1 mcg/mL to 2.2 mcg/mL), which corresponded to 4.8% of the maternal plasma concentration (range: 2.7% to 7.4%). Across all patients (7 of whom were taking other AEDs concomitantly), similar results were obtained for breast milk concentration (1.8 mcg/mL, range: 0.4 mcg/mL to 3.9 mcg/mL) and maternal plasma ratio (5.1%, range: 1.3% to 9.6%).
+In a published study, breast milk and maternal blood samples were obtained from 11 epilepsy patients taking valproate at doses ranging from 300 mg/day to 2,400 mg/day on postnatal days 3 to 6. In 4 patients who were taking valproate only, breast milk contained an average valproate concentration of 1.8 mcg/mL (range: 1.1 mcg/mL to 2.2 mcg/mL), which corresponded to 4.8% of the maternal plasma concentration (range: 2.7% to 7.4%). Across all patients (7 of whom were taking other AEDs concomitantly), similar results were obtained for breast milk concentration (1.8 mcg/mL, range: 0.4 mcg/mL to 3.9 mcg/mL) and maternal plasma ratio (5.1%, range: 1.3% to 9.6%).
 
 A published study of 6 breastfeeding mother-infant pairs measured serum valproate levels during maternal treatment for bipolar disorder (750 mg/day or 1,000 mg/day). None of the mothers received valproate during pregnancy, and infants were aged from 4 weeks to 19 weeks at the time of evaluation. Infant serum levels ranged from 0.7 mcg/mL to 1.5 mcg/mL. With maternal serum valproate levels near or within the therapeutic range, infant exposure was 0.9% to 2.3% of maternal levels. Similarly, in 2 published case reports with maternal doses of 500 mg/day or 750 mg/day during breastfeeding of infants aged 3 months and 1 month, infant exposure was 1.5% and 6% that of the mother, respectively.
 
-A prospective observational multicenter study evaluated the long-term neurodevelopmental effects of AED use on children. Pregnant women receiving monotherapy for epilepsy were enrolled with assessments of their children at ages 3 years and 6 years. Mothers continued AED therapy during the breastfeeding period. Adjusted IQs measured at 3 years for breastfed and non-breastfed children were 93 (n=11) and 90 (n=24), respectively. At 6 years, the scores for breastfed and non-breastfed children were 106 (n=11) and 94 (n=25), respectively (p=0.04). For other cognitive domains evaluated at 6 years, no adverse cognitive effects of continued exposure to an AED (including valproate) via breast milk were observed.
+A prospective observational multicenter study evaluated the long-term neurodevelopmental effects of AED use on children. Pregnant women receiving monotherapy for epilepsy were enrolled with assessments of their children at ages 3 years and 6 years. Mothers continued AED therapy during the breastfeeding period. Adjusted IQs measured at 3 years for breastfed and non-breastfed children were 93 (n = 11) and 90 (n = 24), respectively. At 6 years, the scores for breastfed and non-breastfed children were 106 (n = 11) and 94 (n = 25), respectively (p = 0.04). For other cognitive domains evaluated at 6 years, no adverse cognitive effects of continued exposure to an AED (including valproate) via breast milk were observed.
 
 ---
 
@@ -1058,7 +1076,7 @@ Use of extended-release divalproex once a day was as well tolerated as the stand
 
 ### Practice parameter for the psychiatric assessment and management of physically ill children and adolescents [^e14b878e]. Journal of the American Academy of Child and Adolescent Psychiatry (2009). Medium credibility.
 
-Psychotropic medication selection and pharmacokinetics in physically ill children and adolescents emphasize that “psychotropic medication levels are not consistent indicators of either efficacy or toxicity in physically ill patients” and “it is generally preferable to choose a medication with a short half-life and attempt to avoid introducing more than one medication at a time.” When possible, medications “should be selected that can be administered in a single or divided dose, are easily titrated to an ideal dose, and do not require frequent laboratory monitoring,” and “Multiple medications and demanding treatment regimens threaten adherence.” It is helpful to follow the maxim “start low, go slow” when initiating medication in children with “hepatic, gastrointestinal, renal, and cardiac diseases,” and to consider routes and side effects; medications can be given by “oral, intravenous, intramuscular, subcutaneous, rectal, transdermal, and sublingual” routes. Most psychoactive drugs are “80% to 95% bound to protein” “with the exception of lithium, methylphenidate, venlafaxine, divalproex sodium, gabapentin, and topiramate”; “The unbound drug is typically pharmacologically active” and reduced “albumin binding… necessitating adjustments to medication dosages.” Medications are “absorbed in the gastrointestinal tract and excreted through the kidneys,” and clinicians should be aware of effects on hepatic metabolism, renal excretion, and discontinuation effects such as “selective serotonin reuptake inhibitor discontinuation syndrome.” For interactions, “The hepatic CYP450 system is responsible for most metabolic drug interactions,” uridine glucuronosyltransferase enzymes generally play “a minor metabolic role” though lamotrigine, morphine, and lorazepam are primarily metabolized by them, and “P-glycoproteins… function as ‘gatekeepers’ for CYP3A4 metabolism.”
+Psychotropic medication selection and pharmacokinetics in physically ill children and adolescents emphasize that "psychotropic medication levels are not consistent indicators of either efficacy or toxicity in physically ill patients" and "it is generally preferable to choose a medication with a short half-life and attempt to avoid introducing more than one medication at a time." When possible, medications "should be selected that can be administered in a single or divided dose, are easily titrated to an ideal dose, and do not require frequent laboratory monitoring," and "Multiple medications and demanding treatment regimens threaten adherence." It is helpful to follow the maxim "start low, go slow" when initiating medication in children with "hepatic, gastrointestinal, renal, and cardiac diseases," and to consider routes and side effects; medications can be given by "oral, intravenous, intramuscular, subcutaneous, rectal, transdermal, and sublingual" routes. Most psychoactive drugs are "80% to 95% bound to protein" "with the exception of lithium, methylphenidate, venlafaxine, divalproex sodium, gabapentin, and topiramate"; "The unbound drug is typically pharmacologically active" and reduced "albumin binding… necessitating adjustments to medication dosages." Medications are "absorbed in the gastrointestinal tract and excreted through the kidneys," and clinicians should be aware of effects on hepatic metabolism, renal excretion, and discontinuation effects such as "selective serotonin reuptake inhibitor discontinuation syndrome." For interactions, "The hepatic CYP450 system is responsible for most metabolic drug interactions," uridine glucuronosyltransferase enzymes generally play "a minor metabolic role" though lamotrigine, morphine, and lorazepam are primarily metabolized by them, and "P-glycoproteins… function as 'gatekeepers' for CYP3A4 metabolism."
 
 ---
 
@@ -1076,11 +1094,11 @@ To compare the incidence and magnitude of change in body weight associated with 
 
 Methods
 
-A randomized, double-blind study with 8-week escalation phase and 24-week maintenance phase was conducted. Target maintenance dosage was 200 mg/day (lamotrigine) and 20 mg/kg/day (valproic acid), with adjustment from 100 to 500 mg/day (lamotrigine) and 10 to 60 mg/kg/day (valproate) based on investigators' judgment. Eligible patients were > or = 12 years old with new-onset or previously diagnosed partial or generalized seizures. Weight change was primary and seizure frequency and tolerance were secondary outcome measures.
+A randomized, double-blind study with 8-week escalation phase and 24-week maintenance phase was conducted. Target maintenance dosage was 200 mg/day (lamotrigine) and 20 mg/kg/day (valproic acid), with adjustment from 100 to 500 mg/day (lamotrigine) and 10 to 60 mg/kg/day (valproate) based on investigators' judgment. Eligible patients were ≥ 12 years old with new-onset or previously diagnosed partial or generalized seizures. Weight change was primary and seizure frequency and tolerance were secondary outcome measures.
 
 Results
 
-For the lamotrigine group, 65 patients (mean age 34.5 years) were investigated; for the valproate group, 68 patients (mean age 30.1 years) were investigated. Weight remained stable in lamotrigine-treated patients. Significant weight gain occurred in valproate-treated patients by the 10th week of treatment; weight continued to increase throughout the study. After 32 weeks of treatment, mean weight gain was significantly higher in valproate-treated (12.8 +/- 9.3 lb) than lamotrigine-treated (1.3 +/- 11.9 lb) patients. Similar proportions of patients in lamotrigine (29%) and valproate (26%) groups were seizure-free. Overall frequency of adverse events was similar between the two treatment groups. Mean time to withdrawal from the study due to adverse events was 103 +/- 70 days for the lamotrigine group and 79 +/- 48 days for the valproate group.
+For the lamotrigine group, 65 patients (mean age 34.5 years) were investigated; for the valproate group, 68 patients (mean age 30.1 years) were investigated. Weight remained stable in lamotrigine-treated patients. Significant weight gain occurred in valproate-treated patients by the 10th week of treatment; weight continued to increase throughout the study. After 32 weeks of treatment, mean weight gain was significantly higher in valproate-treated (12.8 ± 9.3 lb) than lamotrigine-treated (1.3 ± 11.9 lb) patients. Similar proportions of patients in lamotrigine (29%) and valproate (26%) groups were seizure-free. Overall frequency of adverse events was similar between the two treatment groups. Mean time to withdrawal from the study due to adverse events was 103 ± 70 days for the lamotrigine group and 79 ± 48 days for the valproate group.
 
 Conclusion
 
@@ -1090,7 +1108,7 @@ Valproate monotherapy was associated with significantly greater weight gain than
 
 ### Pharmacological management of obesity: an endocrine society clinical practice guideline [^1cc4eeac]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
-Antiepileptic drugs (AEDs) and weight effects—We recommend considering weight gain potential in choosing an AED for any given patient and using shared decision-making with quantitative estimates of expected weight effects. AEDs associated with weight loss are felbamate, topiramate, and zonisamide; AEDs associated with weight gain are gabapentin, pregabalin, valproic acid, vigabatrin, and carbamazepine; weight-neutral AEDs are lamotrigine, levetiracetam, and phenytoin. Valproic acid studies reported mild-to-moderate weight gain (5 to 10% of baseline weight) in 24% of patients and marked weight gain (>10% gain of baseline weight) in 47% of patients. In a gabapentin cohort of 44 patients, 57% gained more than 5% of baseline body weight and 10 patients (23%) gained more than 10%. A systematic review suggested weight gain with gabapentin (2.2 kg after 1.5 mo of use) and divalproex (relative risk for weight gain, 2.8; 95% CI, 1.30, 6.02). For carbamazepine, 66.7% had gained an average of 1.5 kg at a 6- to 8-month follow-up visit.
+Antiepileptic drugs (AEDs) and weight effects — We recommend considering weight gain potential in choosing an AED for any given patient and using shared decision-making with quantitative estimates of expected weight effects. AEDs associated with weight loss are felbamate, topiramate, and zonisamide; AEDs associated with weight gain are gabapentin, pregabalin, valproic acid, vigabatrin, and carbamazepine; weight-neutral AEDs are lamotrigine, levetiracetam, and phenytoin. Valproic acid studies reported mild-to-moderate weight gain (5 to 10% of baseline weight) in 24% of patients and marked weight gain (> 10% gain of baseline weight) in 47% of patients. In a gabapentin cohort of 44 patients, 57% gained more than 5% of baseline body weight and 10 patients (23%) gained more than 10%. A systematic review suggested weight gain with gabapentin (2.2 kg after 1.5 mo of use) and divalproex (relative risk for weight gain, 2.8; 95% CI, 1.30, 6.02). For carbamazepine, 66.7% had gained an average of 1.5 kg at a 6- to 8-month follow-up visit.
 
 ---
 
@@ -1146,7 +1164,7 @@ A retrospective review of medical records was conducted on 14 inpatients with ac
 
 Results
 
-The average dose of divalproex ER was 2034 mg day(-1) (range, 1500-3000 mg day(-1)). Two of the 14 patients (14%) had documented side effects, none of which were severe. The average level obtained on day 3 after initiation of divalproex ER treatment was 93.2 mug ml(-1) (range, 47-136 mug ml(-1)), and in all but three patients valproate levels at this time point were within the therapeutic range of 50-125 mug ml(-1). In no case was divalproex ER discontinued due to a perceived lack of efficacy.
+The average dose of divalproex ER was 2034 mg day(-1) (range, 1500–3000 mg day(-1)). Two of the 14 patients (14%) had documented side effects, none of which were severe. The average level obtained on day 3 after initiation of divalproex ER treatment was 93.2 mug ml(-1) (range, 47–136 mug ml(-1)), and in all but three patients valproate levels at this time point were within the therapeutic range of 50–125 mug ml(-1). In no case was divalproex ER discontinued due to a perceived lack of efficacy.
 
 Conclusion
 
@@ -1156,7 +1174,7 @@ The results suggest that divalproex ER can be safely administered by oral loadin
 
 ### Epilepsy benchmarks area III: improved treatment options for controlling seizures and epilepsy-related conditions without side effects [^a0c735bc]. Epilepsy Currents (2020). Medium credibility.
 
-Taken to its logical albeit futuristic conclusion, one might envision a paradigm shift from ASMs in the form of multiple doses of a drug per day and steady-state blood levels (with attendant side effects) to delivery systems that provide anticonvulsants to the brain at the site they are needed and only when they are needed, improving the quality of life of the patient. Further, each patient’s treatment would be customized based on genetic and molecular profiles. This form of precision medicine would eliminate the need for chronic and systemic nonspecific and side effect-laden pharmacotherapy, improving efficacy and possibly reducing the development of pharmacoresistance.
+Taken to its logical albeit futuristic conclusion, one might envision a paradigm shift from ASMs in the form of multiple doses of a drug per day and steady-state blood levels (with attendant side effects) to delivery systems that provide anticonvulsants to the brain at the site they are needed and only when they are needed, improving the quality of life of the patient. Further, each patient's treatment would be customized based on genetic and molecular profiles. This form of precision medicine would eliminate the need for chronic and systemic nonspecific and side effect-laden pharmacotherapy, improving efficacy and possibly reducing the development of pharmacoresistance.
 
 ---
 
@@ -1198,10 +1216,10 @@ Valproate is effective in reducing headache frequency and is reasonably well tol
 
 A complete medical history including assessment of BMI and baseline laboratory investigations (Table 23) should be performed prior to initiating pharmacological treatment for BD or, in the case of an acute clinical situation, as soon as the patient is cooperative. For more detail, readers are referred to comprehensive guidelines for safety monitoring in BD. 652 In women of childbearing age, pregnancy should be ruled out, and they should be counselled about the possibility of lamotrigine and carbamazepine affecting the efficacy of oral contraceptives before initiating pharmacotherapy.
 
-Table 23 
+Table 23
 Baseline laboratory investigations in patients with bipolar disorder
 
-For those on maintenance therapy with lithium, thyroid and renal function as well as plasma calcium 799 should be assessed at 6 months and at least annually thereafter or as clinically indicated. Menstrual history (to assess for polycystic ovary syndrome), haematology profile, and liver function tests should be obtained at 3‐6 month intervals during the first year, and yearly thereafter and as clinically indicated, in patients on maintenance treatment with divalproex. Patients initiated on lamotrigine or carbamazepine should be routinely educated about the risks of skin rashes and the potential for Stevens‐Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). They should be advised to contact the treating physician if they observe any type of skin rashes or mucosal ulcers as they require urgent medical evaluation to determine the nature of rashes/ulcers and implementation of most appropriate treatment options which might include discontinuation of these medications and instituting other therapeutic strategies to treat serious rashes and prevent destabilization of BD. Further, prior to commencing carbamazepine, patients with ancestry in genetically at‐risk populations such as Han Chinese and other Asian patients should have genotyping performed to ensure that they do not have the human leucocyte antigen (HLA)‐B*1502 allele, which confers a high risk for SJS/TEN with carbamazepine. 800 In addition, those on carbamazepine therapy should have serum sodium levels measured at least annually and as clinically indicated given the risk of hyponatraemia with this compound. Patients on atypical antipsychotics should have their weight monitored monthly in the first 3 months and every 3 months thereafter. Blood pressure, fasting glucose and lipid profile should be assessed at 3 and 6 months, and yearly thereafter. Children under 10 years of age, seniors, medically ill patients, and patients on combination treatments should receive more frequent monitoring. Re‐emergence of clinical symptoms, as well as signs of haematological, hepatic, cardiovascular, and neurological dysfunction, should also signal the need for additional investigations.
+For those on maintenance therapy with lithium, thyroid and renal function as well as plasma calcium 799 should be assessed at 6 months and at least annually thereafter or as clinically indicated. Menstrual history (to assess for polycystic ovary syndrome), haematology profile, and liver function tests should be obtained at 3‐6 month intervals during the first year, and yearly thereafter and as clinically indicated, in patients on maintenance treatment with divalproex. Patients initiated on lamotrigine or carbamazepine should be routinely educated about the risks of skin rashes and the potential for Stevens‐Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). They should be advised to contact the treating physician if they observe any type of skin rashes or mucosal ulcers as they require urgent medical evaluation to determine the nature of rashes/ulcers and implementation of most appropriate treatment options which might include discontinuation of these medications and instituting other therapeutic strategies to treat serious rashes and prevent destabilization of BD. Further, prior to commencing carbamazepine, patients with ancestry in genetically at‐risk populations such as Han Chinese and other Asian patients should have genotyping performed to ensure that they do not have the human leucocyte antigen (HLA)‐B*1502 allele, which confers a high risk for SJS/TEN with carbamazepine. 800 In addition, those on carbamazepine therapy should have serum sodium levels measured at least annually and as clinically indicated given the risk of hyponatraemia with this compound. Patients on atypical antipsychotics should have their weight monitored monthly in the first 3 months and every 3 months thereafter. Blood pressure, fasting glucose and lipid profile should be assessed at 3 and 6 months, and yearly thereafter. Children under 10 years of age, seniors, medically ill patients, and patients on combination treatments should receive more frequent monitoring. Re‐emergence of clinical symptoms, as well as signs of haematological, hepatic, cardiovascular, and neurological dysfunction, should also signal the need for additional investigations.
 
 ---
 
@@ -1215,7 +1233,7 @@ Adjunctive Therapy
 
 Valproate Sodium Injection may be added to the patient's regimen at a dosage of 10 to 15 mg/kg/day. The dosage may be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL). No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made. If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)] . However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)] .
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 ---
 
@@ -1227,11 +1245,11 @@ Several studies have shown that achieving adequate serum valproate levels is cri
 
 Method
 
-Subjects (N=374) were stratified into seven groups (six valproate serum level ranges and placebo), and effect size was determined for each. Linearity of dose response was tested with both parametric and nonparametric techniques. ANOVA was used to compare the response at each serum level range with that of placebo as well as the lowest valproate level (< =55.0 microg/ml). The mean serum valproate level was then determined for all subjects with an effect size greater than or equal to the maximal effect derived from linear modeling.
+Subjects (N = 374) were stratified into seven groups (six valproate serum level ranges and placebo), and effect size was determined for each. Linearity of dose response was tested with both parametric and nonparametric techniques. ANOVA was used to compare the response at each serum level range with that of placebo as well as the lowest valproate level (≤ 55.0 microg/ml). The mean serum valproate level was then determined for all subjects with an effect size greater than or equal to the maximal effect derived from linear modeling.
 
 Results
 
-The fit of blood level and response to a linear model was good. Efficacy was significantly greater than placebo beginning at the 71.4-85.0 microg/ml range and for all higher valproate levels; the 94.1-107.0 and >107.0 microg/ml groups were superior to the lowest valproate serum level group. The effect size associated with highest serum levels (>94 microg/ml) was 1.06 (0.59 after placebo correction). Subjects obtaining this effect or greater (N=84) had a mean serum level of 87.5 microg/ml. Blood levels in the lowest effective range were 60% more effective than placebo and in the higher ranges were 120% more effective. Tolerability appeared similar for all groups.
+The fit of blood level and response to a linear model was good. Efficacy was significantly greater than placebo beginning at the 71.4–85.0 microg/ml range and for all higher valproate levels; the 94.1–107.0 and > 107.0 microg/ml groups were superior to the lowest valproate serum level group. The effect size associated with highest serum levels (> 94 microg/ml) was 1.06 (0.59 after placebo correction). Subjects obtaining this effect or greater (N = 84) had a mean serum level of 87.5 microg/ml. Blood levels in the lowest effective range were 60% more effective than placebo and in the higher ranges were 120% more effective. Tolerability appeared similar for all groups.
 
 Conclusions
 
@@ -1241,38 +1259,38 @@ The results of this study suggest that there is a linear relationship between va
 
 ### Practice guideline update summary: efficacy and tolerability of the new antiepileptic drugs II: treatment-resistant epilepsy: report of the guideline development, dissemination, and implementation subcommittee of the American Academy of Neurology and the American Epilepsy Society [^67868f62]. Neurology (2018). Medium credibility.
 
-Vigabatrin (VGB)—trial and dosing context: VGB and placebo were assessed in 2 Class I studies, with VGB doses at 1, 3, and 6 g/d evaluated.
+Vigabatrin (VGB) — trial and dosing context: VGB and placebo were assessed in 2 Class I studies, with VGB doses at 1, 3, and 6 g/d evaluated.
 
 ---
 
 ### Comprehensive review and meta-analysis of psychological and pharmacological treatment for intermittent explosive disorder: insights from both case studies and randomized controlled trials [^f2674e0b]. Clinical Psychology & Psychotherapy (2025). Medium credibility.
 
-Fluoxetine is typically administered in oral capsules or liquid form, with initial doses ranging from 10 to 20 mg daily, and the dose can be gradually increased depending on the patient's response and tolerance (Sohel et al.). Other SSRIs, such as sertraline (Zoloft), citalopram (Celexa) and escitalopram (Lexapro), have also been used off‐label for IED (Edinoff et al.; Sanchez, Reines, and Montgomery). These drugs share similar mechanisms of action as fluoxetine, but they differ in terms of adverse effect profiles and individual response rates. For instance, while all SSRIs enhance serotonergic transmission, the incidence of side effects such as nausea, insomnia or sexual dysfunction may vary across medications, and treatment decisions are often tailored to patient‐specific needs (Chu and Wadhwa).
+Fluoxetine is typically administered in oral capsules or liquid form, with initial doses ranging from 10 to 20 mg daily, and the dose can be gradually increased depending on the patient's response and tolerance (Sohel et al.). Other SSRIs, such as sertraline (Zoloft), citalopram (Celexa) and escitalopram (Lexapro), have also been used off‐label for IED (Edinoff et al; Sanchez, Reines, and Montgomery). These drugs share similar mechanisms of action as fluoxetine, but they differ in terms of adverse effect profiles and individual response rates. For instance, while all SSRIs enhance serotonergic transmission, the incidence of side effects such as nausea, insomnia or sexual dysfunction may vary across medications, and treatment decisions are often tailored to patient‐specific needs (Chu and Wadhwa).
 
-In addition to SSRIs, mood stabilizers are another prominent class of drugs used in managing IED, particularly when impulsive aggression is severe or coexists with mood dysregulation (Gould, Chen, and Manji). Lithium, valproate (Depakote) and carbamazepine (Tegretol) are the most commonly used mood stabilizers in this context (Coccaro and McCloskey). Lithium, in particular, has been widely studied and is known to modulate neurotransmitter activity, specifically balancing dopamine and serotonin, which helps regulate mood swings and reduce aggression (Malhi et al.). However, lithium's use requires close monitoring due to its narrow therapeutic window and significant side effects, such as hand tremors, polyuria (Gitlin; Malhi et al.) and potential long‐term effects on the kidneys and thyroid (Boivin et al.). Regular blood tests are necessary to prevent toxicity, which could result in neurological complications (Gitlin).
+In addition to SSRIs, mood stabilizers are another prominent class of drugs used in managing IED, particularly when impulsive aggression is severe or coexists with mood dysregulation (Gould, Chen, and Manji). Lithium, valproate (Depakote) and carbamazepine (Tegretol) are the most commonly used mood stabilizers in this context (Coccaro and McCloskey). Lithium, in particular, has been widely studied and is known to modulate neurotransmitter activity, specifically balancing dopamine and serotonin, which helps regulate mood swings and reduce aggression (Malhi et al.). However, lithium's use requires close monitoring due to its narrow therapeutic window and significant side effects, such as hand tremors, polyuria (Gitlin; Malhi et al.) and potential long‐term effects on the kidneys and thyroid (Boivin et al.). Regular blood tests are necessary to prevent toxicity, which could result in neurological complications (Gitlin).
 
 ---
 
 ### Drug dosing recommendations for all patients: a roadmap for change [^2c317786]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
-Recommendation : Clinical specialist (e.g. cardiology, neurology, and clinical pharmacology‐pharmacy) societies should create a high priority drug‐disease target list where more precise dosing is likely to result in improved patient outcome. High priority criteria should be created by physicians and pharmacists who use the drugs to treat patients. General criteria to consider are drug‐disease targets dosing risks include death and/or significant morbidity from underdosing or overdosing and also where patient characteristics are known to significantly influence drug PKs and/or PDs. It is important to create/maintain a drug‐disease model public library, including computer code and prospective qualification testing. 31
+Recommendation: Clinical specialist (e.g. cardiology, neurology, and clinical pharmacology‐pharmacy) societies should create a high priority drug‐disease target list where more precise dosing is likely to result in improved patient outcome. High priority criteria should be created by physicians and pharmacists who use the drugs to treat patients. General criteria to consider are drug‐disease targets dosing risks include death and/or significant morbidity from underdosing or overdosing and also where patient characteristics are known to significantly influence drug PKs and/or PDs. It is important to create/maintain a drug‐disease model public library, including computer code and prospective qualification testing. 31
 
-3 Pediatric efficacy‐safety drug dosing experience. The pediatric special population drug development experience over the past 20 years is also informative for other patient special groups (e.g. very old and pregnancy) and for prediction purposes. US legislation empowers the FDA to both require drug companies to perform pediatric studies leading to pediatric labeling and providesa company 6‐month additional patent exclusivity for completing specifically requested work. The clinical and scientific benefits from this program include providing a systemic mechanism for conducting pediatric research on new drugs, establishing an efficacy, safety, and PK basis for use and dosing for children (from premature infants through adolescents), as well as stimulating research on how best to conduct such studies. A major success was establishing a disease similarity link (i.e. extrapolation) between children and adults with partial onset seizures. This enables a less expensive and more successful PK bridging study to be used for approval. Other successes include the development of a regulatory approval pathway to extrapolate data from animal studies to children when clinical studies are not feasible, and providing useful pediatric labeling information for many drugs useful in seizures, diabetes, and HIV. 1, 2, 31 There have also been significant limitations to this approach, including the fact that it takes 7 or more years after a drug was initially approved for the label to reflect pediatric dosing and use, and the rate of requested study completion has been low (28.8% for efficacy studies and 55.9% for PK studies). Therefore, pediatric labeling changes for some priority indications may not occur. Based on data from completed studies, there is now a reasonably good ability to predict pediatric PKs for major clearance pathways. 26 Pharmaceutical companies have an estimated 680% median return on investment for doing requested pediatric studies as a result of gaining 6 months of additional patent exclusivity. 32 Based on this pediatric experience, some have suggested that we should replicate this regulatory model for the patient groups, such as those who are very old, pregnant, or patients at the extremes of body size. 33, 34 If PK predictions can be applied assuming the exposure target is similar, dosing recommendations could be provided in the initial label when the drug is first approved. However, for these “special” patient populations, as well as in pediatrics, instead of requiring discrete prospective studies to detect differences in drug efficacy and safety, perhaps it would be feasible (or preferable) to focus on RWD from EHR and claims data. Funding clinical sites to collect enriched clinical RWD for regulatory efficacy, safety, and dosing questions might generate data from larger, more diverse patient groups than prospective clinical studies (e.g. Sentinel Network).
+3 Pediatric efficacy‐safety drug dosing experience. The pediatric special population drug development experience over the past 20 years is also informative for other patient special groups (e.g. very old and pregnancy) and for prediction purposes. US legislation empowers the FDA to both require drug companies to perform pediatric studies leading to pediatric labeling and providesa company 6‐month additional patent exclusivity for completing specifically requested work. The clinical and scientific benefits from this program include providing a systemic mechanism for conducting pediatric research on new drugs, establishing an efficacy, safety, and PK basis for use and dosing for children (from premature infants through adolescents), as well as stimulating research on how best to conduct such studies. A major success was establishing a disease similarity link (i.e. extrapolation) between children and adults with partial onset seizures. This enables a less expensive and more successful PK bridging study to be used for approval. Other successes include the development of a regulatory approval pathway to extrapolate data from animal studies to children when clinical studies are not feasible, and providing useful pediatric labeling information for many drugs useful in seizures, diabetes, and HIV. 1, 2, 31 There have also been significant limitations to this approach, including the fact that it takes 7 or more years after a drug was initially approved for the label to reflect pediatric dosing and use, and the rate of requested study completion has been low (28.8% for efficacy studies and 55.9% for PK studies). Therefore, pediatric labeling changes for some priority indications may not occur. Based on data from completed studies, there is now a reasonably good ability to predict pediatric PKs for major clearance pathways. 26 Pharmaceutical companies have an estimated 680% median return on investment for doing requested pediatric studies as a result of gaining 6 months of additional patent exclusivity. 32 Based on this pediatric experience, some have suggested that we should replicate this regulatory model for the patient groups, such as those who are very old, pregnant, or patients at the extremes of body size. 33, 34 If PK predictions can be applied assuming the exposure target is similar, dosing recommendations could be provided in the initial label when the drug is first approved. However, for these "special" patient populations, as well as in pediatrics, instead of requiring discrete prospective studies to detect differences in drug efficacy and safety, perhaps it would be feasible (or preferable) to focus on RWD from EHR and claims data. Funding clinical sites to collect enriched clinical RWD for regulatory efficacy, safety, and dosing questions might generate data from larger, more diverse patient groups than prospective clinical studies (e.g. Sentinel Network).
 
 ---
 
 ### Teratogenesis, perinatal, and neurodevelopmental outcomes after in utero exposure to antiseizure medication: practice guideline from the AAN, AES, and SMFM [^4495f987]. Neurology (2024). High credibility.
 
-AAN/AES/SMFM antiseizure medication in pregnancy—Recommendation 1 statements and context: 1(A) Clinicians should engage in joint decision-making with PWCEP, taking individual preferences into account when selecting ASMs and monitoring their dosing (Level B); 1(B) when treating PWCEP, clinicians should recommend ASMs and doses that optimize both seizure control and fetal outcomes should pregnancy occur, at the earliest possible opportunity preconceptionally (Level B); this is underscored by risks associated with discontinuing or changing ASMs, that more than 65% of pregnancies among PWCEP are unintended, and that the ASM regimen in unplanned pregnancy is often the regimen at conception.
+AAN/AES/SMFM antiseizure medication in pregnancy — Recommendation 1 statements and context: 1(A) Clinicians should engage in joint decision-making with PWCEP, taking individual preferences into account when selecting ASMs and monitoring their dosing (Level B); 1(B) when treating PWCEP, clinicians should recommend ASMs and doses that optimize both seizure control and fetal outcomes should pregnancy occur, at the earliest possible opportunity preconceptionally (Level B); this is underscored by risks associated with discontinuing or changing ASMs, that more than 65% of pregnancies among PWCEP are unintended, and that the ASM regimen in unplanned pregnancy is often the regimen at conception.
 
 ---
 
 ### Effectiveness analysis of three-drug combination therapies for refractory focal epilepsy [^5fc677cf]. Neurotherapeutics (2024). Medium credibility.
 
-Table 4 
+Table 4
 Prescription dosages and the overall drug load of the 10 most frequently prescribed three-drug combination regimens.
 
-Fig. 2 
+Fig. 2
 Patient-reported side effects of the top 10 commonly used three-drug combination regimens.
 
 ---
@@ -1289,7 +1307,7 @@ To determine whether evidence supports the use of valproic acid in the treatment
 
 Search Strategy
 
-Trials were identified from a last updated search of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 10 July 2003 using the terms ("agitat*" or "distur*" or "behavi*" or "aggress*") and "valproic" or "valproate" or "divalpro*." This Register contains articles from all major health care databases and many ongoing trials databases and is regularly updated. The reviewers contacted the authors of publications and drug companies manufacturing valproic acid for additional information.
+Trials were identified from a last updated search of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 10 July 2003 using the terms ("agitat" or "distur" or "behavi" or "aggress") and "valproic" or "valproate" or "divalpro". This Register contains articles from all major health care databases and many ongoing trials databases and is regularly updated. The reviewers contacted the authors of publications and drug companies manufacturing valproic acid for additional information.
 
 Selection Criteria
 
@@ -1311,7 +1329,7 @@ The trials reviewed should be regarded as preliminary. Individual reports sugges
 
 ### Diazepam (Valium) [^5616b8f6]. FDA (2025). Medium credibility.
 
-The dosage of diazepam PO for adjunctive treatment for seizure disorders in adults is 2-10 mg PO q6-12h
+The dosage of diazepam PO for adjunctive treatment for seizure disorders in adults is 2–10 mg PO q6-12h
 
 ---
 
@@ -1337,11 +1355,11 @@ In the absence of sufficient placebo-controlled, double-blind studies, a formal 
 
 Results
 
-Our review of this literature suggests improved seizure control at higher gabapentin maintenance dosages (< or =3600 mg/d) than are used today in clinical practice (1800 mg/d) without an increase in the incidence of adverse reactions. Most of the patients who received high dosages (eg, 3600 mg/d) or experienced fast titration rates tolerated gabapentin well. Side effects occurred around the onset of dosing and were reported in some studies to be transient.
+Our review of this literature suggests improved seizure control at higher gabapentin maintenance dosages (≤ 3600 mg/d) than are used today in clinical practice (1800 mg/d) without an increase in the incidence of adverse reactions. Most of the patients who received high dosages (eg, 3600 mg/d) or experienced fast titration rates tolerated gabapentin well. Side effects occurred around the onset of dosing and were reported in some studies to be transient.
 
 Conclusions
 
-Based in the literature here, in most adult patients, gabapentin may be initiated at a dosage of 900 mg/d and titrated to maintenance dosages > or = 3600 mg/d. Children may be treated with gabapentin 23 to 78 mg/kg per day. Based on controlled and open trials, the majority of patients will tolerate gabapentin well enough for an adequate therapeutic assessment. Titration to effect can be accomplished rapidly, if necessary; however, as with other AEDs, optimal seizure control may take months to achieve.
+Based in the literature here, in most adult patients, gabapentin may be initiated at a dosage of 900 mg/d and titrated to maintenance dosages ≥ 3600 mg/d. Children may be treated with gabapentin 23 to 78 mg/kg per day. Based on controlled and open trials, the majority of patients will tolerate gabapentin well enough for an adequate therapeutic assessment. Titration to effect can be accomplished rapidly, if necessary; however, as with other AEDs, optimal seizure control may take months to achieve.
 
 ---
 
@@ -1349,11 +1367,11 @@ Based in the literature here, in most adult patients, gabapentin may be initiate
 
 Introduction
 
-Dravet syndrome is a rare treatment-resistant developmental and epileptic encephalopathy, caused by pathogenic variants in SCN1A (OMIM),the gene encoding the sodium channel α subunit 1 in approximately 80% of diagnosed patients. An estimated 1 in 15 500 children have SCN1A -related Dravet syndrome.Onset generally occurs by 15 months of age in infants with normal development, and typically begins with febrile hemiclonic or generalized status epilepticus often triggered by fever.Multiple seizure types evolve, including hemiclonic, tonic-clonic, focal impaired awareness, absence, myoclonic, and rarely atonic seizures. Development is normal in the first year of life but then slows, leading to intellectual disability of variable severity.Patients with Dravet syndrome have a high mortality risk due to sudden unexpected death in epilepsy and status epilepticus. Worse seizure control is associated with more comorbidities and lower quality of life.Despite treatment with multiple antiepileptic drugs (AEDs), patients with Dravet syndrome often remain treatment resistant.
+Dravet syndrome is a rare treatment-resistant developmental and epileptic encephalopathy, caused by pathogenic variants in SCN1A (OMIM), the gene encoding the sodium channel α subunit 1 in approximately 80% of diagnosed patients. An estimated 1 in 15 500 children have SCN1A -related Dravet syndrome. Onset generally occurs by 15 months of age in infants with normal development, and typically begins with febrile hemiclonic or generalized status epilepticus often triggered by fever. Multiple seizure types evolve, including hemiclonic, tonic-clonic, focal impaired awareness, absence, myoclonic, and rarely atonic seizures. Development is normal in the first year of life but then slows, leading to intellectual disability of variable severity. Patients with Dravet syndrome have a high mortality risk due to sudden unexpected death in epilepsy and status epilepticus. Worse seizure control is associated with more comorbidities and lower quality of life. Despite treatment with multiple antiepileptic drugs (AEDs), patients with Dravet syndrome often remain treatment resistant.
 
-Highly purified cannabidiol (approved as Epidiolex in the United States and Epidyolex in the European Union) was the first medicine to receive approval in the United States for treating seizures in Dravet syndrome.Valproate sodium and clobazam are commonly used to manage seizures; however, neither is approved for Dravet syndrome.Stiripentol is approved in Europe for patients with Dravet syndrome taking clobazam and valproate and has recently been approved in the United States for patients with Dravet syndrome taking clobazam.
+Highly purified cannabidiol (approved as Epidiolex in the United States and Epidyolex in the European Union) was the first medicine to receive approval in the United States for treating seizures in Dravet syndrome. Valproate sodium and clobazam are commonly used to manage seizures; however, neither is approved for Dravet syndrome. Stiripentol is approved in Europe for patients with Dravet syndrome taking clobazam and valproate and has recently been approved in the United States for patients with Dravet syndrome taking clobazam.
 
-In previous randomized clinical trials, cannabidiol demonstrated efficacy with an acceptable safety profile as add-on antiepileptic treatment in patients with Dravet syndrome at a dose of 20 mg/kg/dand in patients with Lennox-Gastaut syndrome at doses of 10 and 20 mg/kg/d. Although doses as high as 20 mg/kg/d are approved for Dravet and Lennox-Gastaut syndromes, the US prescribing information indicates 10 mg/kg/d as the recommended maintenance dose,although data on this dose were unavailable for Dravet syndrome. This trial is, to our knowledge, the first to evaluate the efficacy and safety of 2 doses of cannabidiol (10 and 20 mg/kg/d) in children with Dravet syndrome.
+In previous randomized clinical trials, cannabidiol demonstrated efficacy with an acceptable safety profile as add-on antiepileptic treatment in patients with Dravet syndrome at a dose of 20 mg/kg/dand in patients with Lennox-Gastaut syndrome at doses of 10 and 20 mg/kg/d. Although doses as high as 20 mg/kg/d are approved for Dravet and Lennox-Gastaut syndromes, the US prescribing information indicates 10 mg/kg/d as the recommended maintenance dose, although data on this dose were unavailable for Dravet syndrome. This trial is, to our knowledge, the first to evaluate the efficacy and safety of 2 doses of cannabidiol (10 and 20 mg/kg/d) in children with Dravet syndrome.
 
 ---
 
@@ -1366,14 +1384,15 @@ The use of valproic acid (VPA) (also known as Depakote, Depakene, and others) fr
 ### Valproate sodium [^053cc6d3]. FDA (2024). Medium credibility.
 
 The dosage of valproate sodium IV for treatment of absence seizures in adults (simple or complex) is:
-- Start at: 15 mg/kg IV q24h, administered over 60 minutes
-- Maximum: 60 mg/kg per day
+
+- **Start at**: 15 mg/kg IV q24h, administered over 60 minutes
+- **Maximum**: 60 mg/kg per day
 
 ---
 
 ### Clinical policy: critical issues in the management of adult patients presenting to the emergency department with seizures: approved by the ACEP board of directors, April 17, 2024 [^50852c8f]. Annals of Emergency Medicine (2024). High credibility.
 
-Known seizure disorder—route of antiepileptic medication resumption in the emergency department (ED) is addressed with Level C guidance. Level A recommendations: None specified. Level B recommendations: None specified. Level C recommendations: When resuming antiepileptic medication in the ED is deemed appropriate, the emergency physician may administer intravenous (IV) or oral medication at their discretion. The emergency physician is often faced with determining how best to resume antiepileptic medications in patients with known seizure disorders, and strategies often become an issue under one of 2 circumstances: the patient could in theory benefit from rapid administration of prescribed medication (loading) to improve the likelihood of a safe, seizure-free discharge, or the patient has a contraindication to oral administration medications; patients who might potentially benefit from loading include those noted to have a subtherapeutic serum level of medication or to be noncompliant with a medication when a serum level cannot be readily assessed. The literature reviewed for this clinical question is limited because the only studies found did not use early seizure recurrence as a primary outcome measure, and most studies investigated loading dose strategies with attainment of drug levels, using serum levels as a surrogate outcome measure for efficacy.
+Known seizure disorder — route of antiepileptic medication resumption in the emergency department (ED) is addressed with Level C guidance. Level A recommendations: None specified. Level B recommendations: None specified. Level C recommendations: When resuming antiepileptic medication in the ED is deemed appropriate, the emergency physician may administer intravenous (IV) or oral medication at their discretion. The emergency physician is often faced with determining how best to resume antiepileptic medications in patients with known seizure disorders, and strategies often become an issue under one of 2 circumstances: the patient could in theory benefit from rapid administration of prescribed medication (loading) to improve the likelihood of a safe, seizure-free discharge, or the patient has a contraindication to oral administration medications; patients who might potentially benefit from loading include those noted to have a subtherapeutic serum level of medication or to be noncompliant with a medication when a serum level cannot be readily assessed. The literature reviewed for this clinical question is limited because the only studies found did not use early seizure recurrence as a primary outcome measure, and most studies investigated loading dose strategies with attainment of drug levels, using serum levels as a surrogate outcome measure for efficacy.
 
 ---
 
@@ -1395,7 +1414,7 @@ Comparative studies are needed to elucidate the specific weaknesses and strength
 
 ### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^ad801ef8]. Academic Emergency Medicine (2012). Medium credibility.
 
-Tricyclic antidepressant (TCA)/sodium channel blocker overdose—prehospital care emphasizes airway support, sodium bicarbonate for conduction toxicity, hemodynamic support, agitation management, and seizure management: “Consider early airway management”; “If widened QRS (100 msec or greater), consider sodium bicarbonate 1–2 mEq/kg IV, this can be repeated as needed to narrow QRS and improve blood pressure”; for hypotension, “Consider fluid challenge (20 mL/kg)” and “Consider vasopressors after adequate fluid resuscitation (1–2 liters of crystalloid) for the hypotensive patient [See Shock Guideline]”; for agitation, “For agitation, consider midazolam” with adult dosing “Adult: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 5 mg” and “Reduce by 50% for patients 69 years or older,” and pediatric dosing “Pediatric: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 4 mg or midazolam 0.2 mg/kg IN to maximum single dose of 10 mg”; seizures: “For seizure, treat per Seizures Guideline.”
+Tricyclic antidepressant (TCA)/sodium channel blocker overdose — prehospital care emphasizes airway support, sodium bicarbonate for conduction toxicity, hemodynamic support, agitation management, and seizure management: "Consider early airway management"; "If widened QRS (100 msec or greater), consider sodium bicarbonate 1–2 mEq/kg IV, this can be repeated as needed to narrow QRS and improve blood pressure"; for hypotension, "Consider fluid challenge (20 mL/kg)" and "Consider vasopressors after adequate fluid resuscitation (1–2 liters of crystalloid) for the hypotensive patient [See Shock Guideline]"; for agitation, "For agitation, consider midazolam" with adult dosing "Adult: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 5 mg" and "Reduce by 50% for patients 69 years or older," and pediatric dosing "Pediatric: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 4 mg or midazolam 0.2 mg/kg IN to maximum single dose of 10 mg"; seizures: "For seizure, treat per Seizures Guideline."
 
 ---
 

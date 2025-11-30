@@ -668,7 +668,7 @@ Randomized trials did not consistently support the superiority of ticagrelor, as
 
 - **Methods**: Medline, EMBASE, the Cochrane Central Register of Controlled Trials, and scientific session abstracts were searched for trials of patients with coronary or peripheral artery disease (with > 1,000 participants and a follow-up ≥ 3 months) randomly assigned to ticagrelor-based or conventional antiplatelet therapies. Trial-level hazard ratios (HRs) were pooled using a fixed- or random-effect model (in case of significant heterogeneity) with inverse variance weighting. The primary outcome was all-cause mortality. Other outcomes were myocardial infarction (MI), stroke, and major bleeding.
 
-- **Results**: Overall, 77,489 patients received either ticagrelor-based (n = 38,721) or conventional antiplatelet regimens (n = 38,768) in 6 trials. The primary outcome occurred in 4.5% of patients treated with experimental therapy and 4.9% of patients treated with control therapy (HR = 0.91, 95% CI 0.81–1.01; p = 0.07). Overall, patients treated with ticagrelor-based versus conventional antiplatelet regimens showed no significant difference in terms of all-cause death, MI, stroke, or major bleeding after 20 months. However, in trials of patients with coronary artery disease as the primary diagnosis, the risk for all-cause death (HR = 0.84 [0.77–0.91], P < .001) and MI (HR = 0.87 [0.80–0.94], P = .007) was significantly reduced by experimental therapy.
+- **Results**: Overall, 77,489 patients received either ticagrelor-based (n = 38,721) or conventional antiplatelet regimens (n = 38,768) in 6 trials. The primary outcome occurred in 4.5% of patients treated with experimental therapy and 4.9% of patients treated with control therapy (HR = 0.91, 95% CI 0.81–1.01; p = 0.07). Overall, patients treated with ticagrelor-based versus conventional antiplatelet regimens showed no significant difference in terms of all-cause death, MI, stroke, or major bleeding after 20 months. However, in trials of patients with coronary artery disease as the primary diagnosis, the risk for all-cause death (HR = 0.84 [0.77–0.91], P < .001) and MI (HR = 0.87 [0.80–0.94], P = 0.007) was significantly reduced by experimental therapy.
 
 ---
 
@@ -718,8 +718,8 @@ The study PLATO, published by Wallentin L and colleagues in 2009 in the journal 
 - **Exclusion criteria**: Any contraindication against the use of clopidogrel, fibrinolytic therapy within 24 hours before randomization, need for oral anticoagulation therapy, increased risk of bradycardia, and concomitant therapy with a strong cytochrome P-450 3A inhibitor or inducer.
 
 - **Interventions**:
-	- Ticagrelor group: 9,333 patients received a 180 mg loading dose, followed by 90 mg twice daily.
-	- Clopidogrel group: 9,291 patients received a 300–600 mg loading dose, followed by 75 mg daily thereafter.
+	- **Ticagrelor group**: 9,333 patients received a 180 mg loading dose, followed by 90 mg twice daily.
+	- **Clopidogrel group**: 9,291 patients received a 300–600 mg loading dose, followed by 75 mg daily thereafter.
 
 - **Primary outcome**: There was a significant decrease in death from vascular causes, myocardial infarction, or stroke (9.8% vs. 11.7%; HR 0.84, 95% CI 0.77 to 0.92).
 

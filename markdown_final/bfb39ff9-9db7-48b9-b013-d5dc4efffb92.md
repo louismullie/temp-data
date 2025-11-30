@@ -552,16 +552,16 @@ In conclusion, in this real‐world study of US patients with ASCVD and overweig
 
 ### FDA approves first treatment to reduce risk of serious… [^112cg3iC]. FDA (2024). Medium credibility.
 
-- For Immediate Release: Today, the U. S. Food and Drug Administration approved a new indication for use for Wegovy injection to reduce the risk of cardiovascular death, heart attack and stroke in adults with cardiovascular disease and either obesity or overweight. Wegovy should be used in addition to a reduced calorie diet and increased physical activity. Cardiovascular disease is a group of diseases of the heart and blood vessels. "Wegovy is now the first weight loss medication to also be approved to help prevent life-threatening cardiovascular events in adults with cardiovascular disease and either obesity or overweight, " said John Sharretts, M. D., director of the Division of Diabetes, Lipid Disorders, and Obesity in the FDA's Center for Drug Evaluation and Research. "This patient population has a higher risk of cardiovascular death, heart attack and stroke.
+- **For Immediate Release**: Today, the U. S. Food and Drug Administration approved a new indication for use for Wegovy injection to reduce the risk of cardiovascular death, heart attack and stroke in adults with cardiovascular disease and either obesity or overweight. Wegovy should be used in addition to a reduced calorie diet and increased physical activity. Cardiovascular disease is a group of diseases of the heart and blood vessels. "Wegovy is now the first weight loss medication to also be approved to help prevent life-threatening cardiovascular events in adults with cardiovascular disease and either obesity or overweight, " said John Sharretts, M. D., director of the Division of Diabetes, Lipid Disorders, and Obesity in the FDA's Center for Drug Evaluation and Research. "This patient population has a higher risk of cardiovascular death, heart attack and stroke.
 
 Providing a treatment option that is proven to lower this cardiovascular risk is a major advance for public health". Wegovy's efficacy and safety for this new indication were studied in a multi-national, multi-center, placebo-controlled double-blind trial that randomly assigned over 17, 600 participants to receive either Wegovy or placebo. Participants in both groups also received standard-of-care medical treatment and healthy lifestyle counseling. Wegovy significantly reduced the risk of major adverse cardiovascular events, which occurred in 6. 5% of participants who received Wegovy compared to 8% of participants who received placebo.
 
 Wegovy also contains warnings for inflammation of the pancreas, gallbladder problems, low blood sugar, acute kidney injury, hypersensitivity reactions, diabetic retinopathy, increased heart rate and suicidal behavior or thinking. Patients should discuss with their health care provider if they have symptoms of pancreatitis or gallstones. The most common side effects of Wegovy include nausea, diarrhea, vomiting, constipation, abdominal pain, headache, fatigue, dyspepsia, dizziness, abdominal distension, eructation, hypoglycemia in patients with diabetes, flatulence and gastroesophageal reflux disease. Inquiries
-- Media:
+- **Media**:
 
 - FDA Office of Media Affairs
 - 301–796–4540
-- Consumer:
+- **Consumer**:
 
 - 888-INFO-FDA.
 
@@ -585,6 +585,7 @@ Injection Applicant Proposed Indication/Population WEGOVY is indicated in combin
 - to reduce excess body weight and maintain weight reduction long term in: Reference ID:
 
 5486653. CDER Cross-Discipline Team Leader Summary Review NDA 215256 S-015, Wegovy injection 3
+
 1.
 
 Background Semaglutide is a GLP-1 receptor agonist originally approved in June 2021 for chronic weight management in adults with obesity/overweight. Wegovy's current USPI. contains the following indications: WEGOVY is indicated in combination with a reduced calorie diet and increased physical activity:
@@ -854,8 +855,8 @@ Patients eligible to enter the trial were; 50 years of age or older and had esta
 
 The dosage of semaglutide SC for prevention of major cardiovascular events in adults with diabetes mellitus type 2 (in the presence of established cardiovascular disease) is:
 
-- Start at: 0.25 mg SC weekly for 4 weeks, followed by 1 mg SC q1 week
-- Maintenance: 0.5–2 mg SC weekly (Ozempic®)
+- **Start at**: 0.25 mg SC weekly for 4 weeks, followed by 1 mg SC q1 week
+- **Maintenance**: 0.5–2 mg SC weekly (Ozempic®)
 
 ---
 

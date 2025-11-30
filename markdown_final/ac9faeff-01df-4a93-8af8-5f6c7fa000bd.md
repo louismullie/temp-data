@@ -813,7 +813,7 @@ Key takeaways included the following: Clinicians should engage in ongoing risk�
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1007/s11606–025–09499–2.
+The online version contains supplementary material available at 10.1007/s11606-025-09499-2.
 
 ---
 

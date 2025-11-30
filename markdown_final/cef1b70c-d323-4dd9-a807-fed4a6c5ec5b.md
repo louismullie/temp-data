@@ -454,13 +454,13 @@ In an additional analysis on comparative risk associated with high-dose (more th
 
 Warnings and precautions regarding the use of celecoxib PO (also known as Celebrex):
 
-- Anemia: use caution in patients taking the drug for a prolonged period. Assess hemoglobin and hematocrit levels in case of signs of anemia. Monitor CBC and chemistry profile periodically in patients on long-term treatment.
-- Bleeding: use caution in patients with coagulation disorders or taking warfarin, other anticoagulants, antiplatelets, serotonin reuptake inhibitors, or SNRIs.
+- **Anemia**: use caution in patients taking the drug for a prolonged period. Assess hemoglobin and hematocrit levels in case of signs of anemia. Monitor CBC and chemistry profile periodically in patients on long-term treatment.
+- **Bleeding**: use caution in patients with coagulation disorders or taking warfarin, other anticoagulants, antiplatelets, serotonin reuptake inhibitors, or SNRIs.
 - Erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome, acute generalized exanthematous pustulosis, anaphylaxis: maintain a high level of suspicion, as celecoxib has been associated with an increased risk for these adverse events.
-- Exacerbation of asthma: use caution in patients with asthma. Monitor for changes in symptoms.
-- Exacerbation of hypertension: use caution in patients with hypertension. Monitor BP throughout treatment.
-- Mask symptoms of infections: use caution in patients with underlying infection.
-- Renal papillary necrosis, AKI: use caution in elderly patients or patients with impaired renal function, HF, liver dysfunction, or taking diuretics, ACEis, or ARBs. Monitor patients with advanced renal disease for worsening renal function.
+- **Exacerbation of asthma**: use caution in patients with asthma. Monitor for changes in symptoms.
+- **Exacerbation of hypertension**: use caution in patients with hypertension. Monitor BP throughout treatment.
+- **Mask symptoms of infections**: use caution in patients with underlying infection.
+- **Renal papillary necrosis, AKI**: use caution in elderly patients or patients with impaired renal function, HF, liver dysfunction, or taking diuretics, ACEis, or ARBs. Monitor patients with advanced renal disease for worsening renal function.
 
 ---
 
@@ -1040,7 +1040,7 @@ No study reported baseline risk of AKI in different populations meaning absolute
 
 Electronic supplementary material
 
-The online version of this article (doi:10.1186/s12882–017–0673–8) contains supplementary material, which is available to authorized users.
+The online version of this article (doi:10.1186/s12882-017-0673-8) contains supplementary material, which is available to authorized users.
 
 ---
 
@@ -1156,7 +1156,7 @@ A prospective randomized double-blind study was conducted on patients presenting
 
 Results
 
-A total of 57 patients provided consent of which 53 completed the study. Four patients were excluded from the analysis because of stone passage or withdrawal of consent before the first dose of study medication. No significant difference was noted in the spontaneous stone passage rate (celecoxib 55.2%, placebo 54.2%) and between celecoxib and placebo with regard to days to stone passage (7.0 vs 9.0, P = .6) or size of stone passed (3.9 vs 4.6 mm, P = .18). No significant difference was noted in pain analog scores (2.6 vs 3.5, P = .71) or narcotic doses (13.2 vs 13.6, P = .74). Furthermore, a 25% decrease in narcotic use (or 19 mg based on placebo mean) was outside the 80% one-sided confidence interval for the change in mean narcotic use between the 2 groups. Thus, it is unlikely (< 20%) that we missed a clinically significant beneficial effect of celecoxib on narcotic consumption because of sample size.
+A total of 57 patients provided consent of which 53 completed the study. Four patients were excluded from the analysis because of stone passage or withdrawal of consent before the first dose of study medication. No significant difference was noted in the spontaneous stone passage rate (celecoxib 55.2%, placebo 54.2%) and between celecoxib and placebo with regard to days to stone passage (7.0 vs 9.0, P = 0.6) or size of stone passed (3.9 vs 4.6 mm, P = 0.18). No significant difference was noted in pain analog scores (2.6 vs 3.5, P = 0.71) or narcotic doses (13.2 vs 13.6, P = 0.74). Furthermore, a 25% decrease in narcotic use (or 19 mg based on placebo mean) was outside the 80% one-sided confidence interval for the change in mean narcotic use between the 2 groups. Thus, it is unlikely (< 20%) that we missed a clinically significant beneficial effect of celecoxib on narcotic consumption because of sample size.
 
 Conclusions
 

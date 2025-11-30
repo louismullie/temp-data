@@ -264,11 +264,11 @@ We describe 5 patients with previously known type 2 diabetes and no history of D
 
 The following constitutes key background information on diabetic ketoacidosis:
 
-- Definition: DKA is an acute metabolic complication occurring mostly in patients with T1DM, characterized by a triad of hyperglycemia, ketosis, and acidemia.
-- Pathophysiology: DKA is caused by absolute or relative insulin deficiency and increased levels of counterregulatory hormones, typically ocurring at the time of new diagnosis of untreated T1DM or due to inadequate insulin therapy, infection (such as pneumonia, UTI, sepsis), concomitant medications (corticosteroids, SGLT-2 inhibitors, thiazide diuretics, sympathomimetics, certain antipsychotics), illicit drug use, surgery, trauma, physiologic stress, or pregnancy.
-- Epidemiology: The age-adjusted hospitalization rate for DKA in the US was estimated at 6.3% annually in 2014, with an in-hospital case fatality of 0.4%. The rate of hopsitalization for DKA per 10,000 admissions was reported as 53.4 in 2014 and 61.6 in 2017.
-- Risk factors: Risk factors include inconsistent caloric intake, poor medication adherence, poor glucose control, alcohol use, and dehydration.
-- Disease course: Clinical manifestations include nausea, vomiting, abdominal pain, weakness, polydipsia, polyuria, dehydration, weight loss, polyphagia, fruity odor of breath, dyspnea, tachypnea, Kussmaul breathing, hypotension, tachycardia, and altered mental status. Laboratory findings in DKA include hyperglycemia, anion gap metabolic acidosis, and ketonemia/ketonuria.
+- **Definition**: DKA is an acute metabolic complication occurring mostly in patients with T1DM, characterized by a triad of hyperglycemia, ketosis, and acidemia.
+- **Pathophysiology**: DKA is caused by absolute or relative insulin deficiency and increased levels of counterregulatory hormones, typically ocurring at the time of new diagnosis of untreated T1DM or due to inadequate insulin therapy, infection (such as pneumonia, UTI, sepsis), concomitant medications (corticosteroids, SGLT-2 inhibitors, thiazide diuretics, sympathomimetics, certain antipsychotics), illicit drug use, surgery, trauma, physiologic stress, or pregnancy.
+- **Epidemiology**: The age-adjusted hospitalization rate for DKA in the US was estimated at 6.3% annually in 2014, with an in-hospital case fatality of 0.4%. The rate of hopsitalization for DKA per 10,000 admissions was reported as 53.4 in 2014 and 61.6 in 2017.
+- **Risk factors**: Risk factors include inconsistent caloric intake, poor medication adherence, poor glucose control, alcohol use, and dehydration.
+- **Disease course**: Clinical manifestations include nausea, vomiting, abdominal pain, weakness, polydipsia, polyuria, dehydration, weight loss, polyphagia, fruity odor of breath, dyspnea, tachypnea, Kussmaul breathing, hypotension, tachycardia, and altered mental status. Laboratory findings in DKA include hyperglycemia, anion gap metabolic acidosis, and ketonemia/ketonuria.
 
 ---
 
@@ -382,7 +382,7 @@ Hyperglycemia and hyperosmolar hyperglycemic state (HHS) — field thresholds an
 
 Regarding medical management for diabetic ketoacidosis, more specifically with respect to potassium replacement, ADA 2025 guidelines recommend to establish adequate renal function (urine output ~0.5 mL/kg/h) and monitor serum potassium levels for potassium replacement:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Serum potassium < 3.5 mmol/L|- 10–20 mmol/L/h until serum potassium > 3.5 mmol/L (faster potassium replacement will require central venous access)|
 |Serum potassium 3.5–5.0 mmol/L|- Administer 10–20 mmol/L potassium in each liter of IV fluid as needed to keep serum potassium at 4–5 mmol/L|
@@ -400,7 +400,7 @@ Regarding medical management for diabetic ketoacidosis, more specifically with r
 
 Regarding medical management for diabetic ketoacidosis, more specifically with respect to fluid resuscitation, ADA 2025 guidelines recommend to determine hydration status and administer IV fluids according to the severity of hypovolemia:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Mild hypovolemia|- 0.9% saline or another balanced crystalloid at a clinically appropriate rate aiming to replace 50% of the estimated fluid deficit in the first 8–12 hours <br/> - Add 5% or 10% dextrose to the 0.9% saline/balanced crystalloid when glucose reaches < 250 mg/dL <br/> - Start 5% or 10% dextrose alongside 0.9% saline/balanced crystalloid at the start of the insulin treatment in euglycemic DKA (glucose < 200 mg/dL and positive β-hydroxybutyrate)|
 |Severe hypovolemia|- 0.9% saline or another balanced crystalloid (1.0 L/hr)|
@@ -486,7 +486,7 @@ Table 6.8 — Diagnostic criteria for diabetic ketoacidosis (DKA) and hyperglyce
 
 Regarding inpatient care for diabetes mellitus type 2, more specifically with respect to management of hyperglycemic crises, ADA 2025 guidelines recommend to determine hydration status and administer IV fluids according to the severity of hypovolemia:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Mild hypovolemia|- 0.9% saline or another crystalloid at a clinically appropriate rate aiming to replace 50% of the estimated fluid deficit in the first 8–12 hours <br/> - Add 5% or 10% dextrose to the 0.9% saline/crystalloid when glucose reaches < 250 mg/dL <br/> - Start 5% or 10% dextrose alongside 0.9% saline/crystalloid at the start of the insulin treatment in euglycemic diabetic ketoacidosis (glucose < 200 mg/dL and positive β-hydroxybutyrate)|
 |Severe hypovolemia|- 0.9% saline or another crystalloid (1.0 L/hr)|
@@ -532,7 +532,7 @@ Diabetic ketoacidosis — diagnostic thresholds and recognition in wilderness se
 
 Regarding screening and diagnosis for diabetic ketoacidosis, more specifically with respect to diagnostic criteria, ADA 2006 guidelines recommend to consider using the following diagnostic criteria and classification for DKA and hyperosmolar hyperglycemic state:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Mild DKA|- Plasma glucose > 250 mg/dL <br/> - Arterial pH 7.25–7.30 <br/> - Serum bicarbonate 15–18 mEq/L <br/> - Positive urine ketones using the nitroprusside reaction method <br/> - Positive serum ketones using the nitroprusside reaction method <br/> - Β-hydroxybutyrate (enzymatic assay) 3–6 mmol/L <br/> - Variable effective serum osmolality <br/> - Anion gap > 10 <br/> - Alert|
 |Moderate DKA|- Plasma glucose > 250 mg/dL <br/> - Arterial pH 7.00–7.25 <br/> - Serum bicarbonate 10–15 mEq/L <br/> - Positive urine ketones using the nitroprusside reaction method <br/> - Positive serum ketones using the nitroprusside reaction method <br/> - Β-hydroxybutyrate (enzymatic assay) 3–6 mmol/L <br/> - Variable effective serum osmolality <br/> - Anion gap > 12 <br/> - Alert/drowsy|
@@ -975,8 +975,8 @@ Nephrotic syndrome is a collection of symptoms due to kidney damage. This includ
 Under normal conditions, a 24-hour urine sample should not exceed 80 milligrams or 10 milligrams per decilitre.
 - Edema is thought to be caused by two mechanisms. The first being hypoalbuminemia, which lowers the oncotic pressure within vessels, resulting in hypovolemia and subsequent activation of the renin–angiotensin system and thus retention of sodium and water. Additionally, it is thought that urinary proteases cause a direct effect by activating the epithelial sodium channel on the principal cell that leads to the reabsorption of sodium and water.
 - Spontaneous bacterial peritonitis can develop where there is ascites present. This is a frequent development in children but is very rarely found in adults.
-- Acute kidney failure due to hypovolemia: the loss of vascular fluid into the tissues produces a decreased blood supply to the kidneys, which causes a loss of kidney function. Thus, it is a tricky task to get rid of excess fluid in the body while maintaining circulatory euvolemia.
-- Growth retardation: This can occur in cases of relapse or resistance to therapy. Causes of growth retardation are protein deficiency from the loss of protein in urine, anorexia, and steroid therapy.
+- **Acute kidney failure due to hypovolemia**: the loss of vascular fluid into the tissues produces a decreased blood supply to the kidneys, which causes a loss of kidney function. Thus, it is a tricky task to get rid of excess fluid in the body while maintaining circulatory euvolemia.
+- **Growth retardation**: This can occur in cases of relapse or resistance to therapy. Causes of growth retardation are protein deficiency from the loss of protein in urine, anorexia, and steroid therapy.
 - Cushing's syndrome.
-- Diabetic nephropathy: is a complication that occurs in some diabetics. Excess blood sugar accumulates in the kidneys, causing them to become inflamed and unable to carry out their normal function. This leads to the leakage of proteins into the urine.
-- Systemic lupus erythematosus: this autoimmune disease can affect several organs, among them the kidney, due to the deposit of immunocomplexes that are typical of this disease.
+- **Diabetic nephropathy**: is a complication that occurs in some diabetics. Excess blood sugar accumulates in the kidneys, causing them to become inflamed and unable to carry out their normal function. This leads to the leakage of proteins into the urine.
+- **Systemic lupus erythematosus**: this autoimmune disease can affect several organs, among them the kidney, due to the deposit of immunocomplexes that are typical of this disease.

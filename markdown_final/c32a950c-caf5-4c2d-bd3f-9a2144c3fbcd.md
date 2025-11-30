@@ -112,7 +112,7 @@ Balance impairment as a primary symptom requires a **comprehensive, multidiscipl
 
 Regarding follow-up and surveillance for dizziness and vertigo, more specifically with respect to vestibular rehabilitation, APTA 2022 guidelines recommend to consider offering static and dynamic balance exercises for a minimum of:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Chronic unilateral vestibular hypofunction|- 20 minutes/day for at least 4–6 weeks|
 |Bilateral vestibular hypofunction|- For 6–9 weeks in patients|

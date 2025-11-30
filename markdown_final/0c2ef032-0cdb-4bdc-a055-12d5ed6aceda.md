@@ -390,7 +390,7 @@ Analyzing the evidence from short-term interventional studies, Z-drugs appear ef
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12877–022–02757–6.
+The online version contains supplementary material available at 10.1186/s12877-022-02757-6.
 
 ---
 

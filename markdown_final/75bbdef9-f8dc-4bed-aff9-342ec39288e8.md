@@ -699,7 +699,7 @@ Dengue is an arbovirus transmitted by the Aedes spp. mosquito. Approximately 390
 
 Regarding classification and risk stratification for dengue, more specifically with respect to severity assessment, PAHO/WHO 2022 guidelines recommend to consider assessing for the following warning signs to identify patients with an increased risk of progression to severe disease:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Abdominal pain|- Progressive until it is continuous or sustained and intense, and at the end of the febrile stage|
 |Sensory disorder|- Irritability, drowsiness, and lethargy|
@@ -769,12 +769,12 @@ Many key gaps remain, and consensus guidelines for study design are needed to ai
 
 The following constitutes key background information on dengue:
 
-- Definition: Dengue fever is an acute arthropod-borne viral illness caused by an RNA virus of the Flaviviridae family.
-- Pathophysiology: Dengue fever is caused by the dengue virus of the family Flaviviridae that includes four different serotypes (DEN-1, DEN-2, DEN-3, and DEN-4) and is transmitted through Aedes aegypti mosquito.
-- Epidemiology: The average incidence of dengue in the Americas is 58.02 per 100,000 person-years.
-- Risk factors: Younger population, poor and crowded socioeconomic living conditions, increased human proximity to dense mosquito populations, rainy season (increased incidence between May and December), presence of mosquito larvae in pooled water in old tires, discarded cans, and plastic containers within household compounds, and low dengue fever health awareness increase the risk of dengue fever.
-- Disease course: The host-viral interaction, viral replication, and/or direct skin infection by the virus trigger humoral, cellular, and innate host immune response that leads to alterations in endothelial microvascular permeability and thromboregulatory mechanisms causing increased plasma and protein loss resulting in thrombocytopenia associated with platelet dysfunction, damage, or depletion causing significant hemorrhages, breakbone fever, multiorgan damage, and DIC.
-- Prognosis and risk of recurrence: The mortality associated with a lack of early appropriate intervention is around 10–20%. The recurrence rate associated with shock is approximately 30%.
+- **Definition**: Dengue fever is an acute arthropod-borne viral illness caused by an RNA virus of the Flaviviridae family.
+- **Pathophysiology**: Dengue fever is caused by the dengue virus of the family Flaviviridae that includes four different serotypes (DEN-1, DEN-2, DEN-3, and DEN-4) and is transmitted through Aedes aegypti mosquito.
+- **Epidemiology**: The average incidence of dengue in the Americas is 58.02 per 100,000 person-years.
+- **Risk factors**: Younger population, poor and crowded socioeconomic living conditions, increased human proximity to dense mosquito populations, rainy season (increased incidence between May and December), presence of mosquito larvae in pooled water in old tires, discarded cans, and plastic containers within household compounds, and low dengue fever health awareness increase the risk of dengue fever.
+- **Disease course**: The host-viral interaction, viral replication, and/or direct skin infection by the virus trigger humoral, cellular, and innate host immune response that leads to alterations in endothelial microvascular permeability and thromboregulatory mechanisms causing increased plasma and protein loss resulting in thrombocytopenia associated with platelet dysfunction, damage, or depletion causing significant hemorrhages, breakbone fever, multiorgan damage, and DIC.
+- **Prognosis and risk of recurrence**: The mortality associated with a lack of early appropriate intervention is around 10–20%. The recurrence rate associated with shock is approximately 30%.
 
 ---
 

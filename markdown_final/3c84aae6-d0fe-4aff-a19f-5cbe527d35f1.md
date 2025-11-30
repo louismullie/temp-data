@@ -561,7 +561,7 @@ Of the 32 patients enrolled, 24 have had a minimum 2-year follow-up. Of these, n
 
 Pathologic outcomes
 
-Median necrosis, fibrosis, and viable cells from all 32 patients who underwent resection were 17.5%, 20%, and 50% respectively. No pathologic variable was associated with DMFS. Treatment-related necrosis and fibrosis ≥ 90% occurred in 4 patients. Although not statistically significant, therapy-related changes of necrosis and fibrosis ≥ 90% were associated with a 3-year OS of 100% versus 77.9% (P = .31). R0 resection was achieved in 100% of patients who had ≥ 90% treatment-related necrosis and fibrosis versus 88.3% of patients who had < 90% treatment-related necrosis and fibrosis.
+Median necrosis, fibrosis, and viable cells from all 32 patients who underwent resection were 17.5%, 20%, and 50% respectively. No pathologic variable was associated with DMFS. Treatment-related necrosis and fibrosis ≥ 90% occurred in 4 patients. Although not statistically significant, therapy-related changes of necrosis and fibrosis ≥ 90% were associated with a 3-year OS of 100% versus 77.9% (P = 0.31). R0 resection was achieved in 100% of patients who had ≥ 90% treatment-related necrosis and fibrosis versus 88.3% of patients who had < 90% treatment-related necrosis and fibrosis.
 
 ---
 
@@ -823,7 +823,7 @@ ASTRO soft tissue sarcoma guideline — PICO on timing of radiotherapy in adults
 
 ### Is 5 the new 25? Long-term oncologic outcomes from a phase II, prospective, 5-fraction preoperative radiation therapy trial in patients with localized soft tissue sarcoma [^113sbryp]. Advances in Radiation Oncology (2022). Medium credibility.
 
-More recently, Kalbasi et al prospectively enrolled 52 patients in a phase II preoperative hypofractionation trial. In this study, radiation was delivered over 5 consecutive days to 30 Gy at 6 Gy per fraction with an EQD2 of 50 Gy. Major acute wound complications occurred in 32% of patients, and grade ≥ 2 fibrosis and joint stiffness were present in 11% of patients each. After a minimum 2-year follow-up, local control was 94.3% and 21.2% of patients developed distant disease. In the current study, the primary endpoint was local control, which was 100% in all patients and in those who had a minimum 2-year follow-up. In addition, neoadjuvant chemotherapy was administered in 31% of patients, and the addition of chemotherapy did not influence local control, DMFS (P = .66), or OS (P = .48).
+More recently, Kalbasi et al prospectively enrolled 52 patients in a phase II preoperative hypofractionation trial. In this study, radiation was delivered over 5 consecutive days to 30 Gy at 6 Gy per fraction with an EQD2 of 50 Gy. Major acute wound complications occurred in 32% of patients, and grade ≥ 2 fibrosis and joint stiffness were present in 11% of patients each. After a minimum 2-year follow-up, local control was 94.3% and 21.2% of patients developed distant disease. In the current study, the primary endpoint was local control, which was 100% in all patients and in those who had a minimum 2-year follow-up. In addition, neoadjuvant chemotherapy was administered in 31% of patients, and the addition of chemotherapy did not influence local control, DMFS (P = 0.66), or OS (P = 0.48).
 
 ---
 

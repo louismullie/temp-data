@@ -608,7 +608,7 @@ Regarding diagnostic investigations for von Willebrand disease, specifically in 
 
 ### High factor VIII and von Willebrand factor levels are not risk factors of cryptogenic arterial ischemic stroke in Thai children [^114bSN12]. Journal of Child Neurology (2015). Low credibility.
 
-The association between high factor VIII levels and the risk of arterial ischemic stroke is controversial. Levels of factor VIII can vary based on ethnicity, age, and sex. This study examined 24 Thai children with cryptogenic arterial ischemic stroke and 41 controls, with mean ages (standard deviation) of 11.5 (6.3) and 9.0 (4.7) years, respectively. The study was conducted post-arterial ischemic stroke to avoid the acute phase reaction of factor VIII and von Willebrand factor. The levels of factor VIII activity and von Willebrand factor antigen in patients were not significantly different from the controls, with results showing 119.8 ± 41.3% vs 138.0 ± 48.7% (P = .29) for factor VIII and 92.8 ± 29.8% vs 103.7 ± 39.1% (P = .4) for von Willebrand factor. Consequently, elevated levels of factor VIII and von Willebrand factor antigen were not identified as risk factors for cryptogenic arterial ischemic stroke in Thai children.
+The association between high factor VIII levels and the risk of arterial ischemic stroke is controversial. Levels of factor VIII can vary based on ethnicity, age, and sex. This study examined 24 Thai children with cryptogenic arterial ischemic stroke and 41 controls, with mean ages (standard deviation) of 11.5 (6.3) and 9.0 (4.7) years, respectively. The study was conducted post-arterial ischemic stroke to avoid the acute phase reaction of factor VIII and von Willebrand factor. The levels of factor VIII activity and von Willebrand factor antigen in patients were not significantly different from the controls, with results showing 119.8 ± 41.3% vs 138.0 ± 48.7% (P = 0.29) for factor VIII and 92.8 ± 29.8% vs 103.7 ± 39.1% (P = 0.4) for von Willebrand factor. Consequently, elevated levels of factor VIII and von Willebrand factor antigen were not identified as risk factors for cryptogenic arterial ischemic stroke in Thai children.
 
 ---
 
@@ -677,7 +677,7 @@ Figure 1. Flow diagram for included studies. pts, patients.
 
 - **Use of different VWF levels to diagnose type 1 VWD**: Of the included studies, nine reported on the cutoff values of VWF. Supplement 4 summarizes the general characteristics of the included studies, as well as the index and reference tests. The complete risk of bias assessment for individual studies is included in Supplement 5. There was very low certainty in the evidence supporting the use of different VWF levels to diagnose type 1 VWD and assessing the implications and consequences of using different levels.
 
-Table 1 summarizes the evidence for using different VWF levels to diagnose type 1 VWD. The interactive summary of findings can be accessed using the following link: https://gdt.gradepro.org/presentations/#/isof/isof_c5b33e22-a646–4654–9f09-b820aff36c5c-1569520689536?_k = eump67.
+Table 1 summarizes the evidence for using different VWF levels to diagnose type 1 VWD. The interactive summary of findings can be accessed using the following link: https://gdt.gradepro.org/presentations/#/isof/isof_c5b33e22-a646-4654-9f09-b820aff36c5c-1569520689536?_k = eump67.
 
 ---
 

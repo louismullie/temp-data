@@ -113,7 +113,7 @@ Experimental models and observational studies suggest that vitamin E supplementa
 
 - **Data extraction**: Three investigators independently abstracted study reports. The investigators of the original publications were contacted if required information was not available.
 
-- **Data synthesis**: Nine of the eleven trials testing high-dose vitamin E (≥ 400 IU/d) showed increased risk (risk difference > 0) for all-cause mortality in comparisons of vitamin E versus control. The pooled all-cause mortality risk difference in high-dose vitamin E trials was 39 per 10,000 persons (95% CI, 3 to 74 per 10,000 persons; P = 0.035). For low-dose vitamin E trials, the risk difference was -16 per 10,000 persons (CI, -41 to 10 per 10,000 persons; P > 0.2). A dose-response analysis showed a..[text is incomplete].
+- **Data synthesis**: Nine of the eleven trials testing high-dose vitamin E (≥ 400 IU/d) showed increased risk (risk difference > 0) for all-cause mortality in comparisons of vitamin E versus control. The pooled all-cause mortality risk difference in high-dose vitamin E trials was 39 per 10,000 persons (95% CI, 3 to 74 per 10,000 persons; P = 0.035). For low-dose vitamin E trials, the risk difference was -16 per 10,000 persons (CI, -41 to 10 per 10,000 persons; P > 0.2). A dose-response analysis showed a. [text is incomplete].
 
 ---
 
@@ -388,7 +388,7 @@ Two doses of measles vaccine (MV) might reduce the non-measles mortality rate mo
 
 - **Methods**: Children were randomly assigned in a 1:2 ratio to receive MV at 4.5 and 9 months of age or the currently recommended dose at 9 months. We compared hospital admission rates among children between 9 and 18 months of age using a Cox regression model with age as the underlying time scale. Half of the children had received neonatal vitamin A supplementation (NVAS) in another trial. The beneficial effect of MV at 4.5 and 9 months on mortality was limited to children who had not received NVAS; therefore, we investigated the interaction of MV with NVAS on admission rates.
 
-- **Results**: Among 5,626 children (2 doses of MV, 1,960 children; 1 dose of MV, 3,666 children), we identified 311 hospital admissions of children between 9 and 18 months of age. Overall, compared to one dose of MV, two doses reduced the risk of hospital admission for children who had not received NVAS (hazard ratio [HR], 0.66 [95% confidence interval (CI), 0.47–0.93]), but we found no effect among NVAS recipients (HR, 1.16 [95% CI, 0.82–1.63]) [P = .02 for interaction].
+- **Results**: Among 5,626 children (2 doses of MV, 1,960 children; 1 dose of MV, 3,666 children), we identified 311 hospital admissions of children between 9 and 18 months of age. Overall, compared to one dose of MV, two doses reduced the risk of hospital admission for children who had not received NVAS (hazard ratio [HR], 0.66 [95% confidence interval (CI), 0.47–0.93]), but we found no effect among NVAS recipients (HR, 1.16 [95% CI, 0.82–1.63]) [P = 0.02 for interaction].
 
 - **Conclusions**: The benefit of two doses of MV was limited to children who had not received NVAS. NVAS is not generally recommended; hence, an early two-dose measles vaccination policy might reduce hospital admissions more than the current policy.
 

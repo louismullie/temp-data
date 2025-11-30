@@ -206,8 +206,8 @@ There is currently limited data on which drug should be used to improve blood pr
 
 The dosage of spironolactone PO for treatment of primary aldosteronism in adults (idiopathic) is:
 
-- Start at: 12.5–25 mg PO daily
-- Maintenance: 50–400 mg PO daily
+- **Start at**: 12.5–25 mg PO daily
+- **Maintenance**: 50–400 mg PO daily
 
 ---
 
@@ -1092,8 +1092,8 @@ URL: https://www.anzctr.org.au/; Unique identifier: ACTRN12613000053729.
 
 The dosage of spironolactone PO for treatment of primary aldosteronism in adults (inoperable adrenal adenoma) is:
 
-- Start at: 12.5–25 mg PO daily
-- Maintenance: 50–400 mg PO daily
+- **Start at**: 12.5–25 mg PO daily
+- **Maintenance**: 50–400 mg PO daily
 
 ---
 

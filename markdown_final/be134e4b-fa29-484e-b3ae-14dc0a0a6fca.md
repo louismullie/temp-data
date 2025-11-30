@@ -406,12 +406,12 @@ Severe frostbite — pathophysiology and treatment principles: Frostbite injury 
 
 The following constitutes key background information on burn injury:
 
-- Definition: Burn injuries are defined as damage to the skin or other body tissues caused by heat, electricity, chemicals, or radiation.
-- Pathophysiology: The pathophysiology of burn injuries involves the destruction of skin layers, which triggers an immune and inflammatory response, metabolic changes, and potentially distributive shock.
-- Epidemiology: The incidence of burn injury in the US is estimated at 140 per 100,000 person-years.
-- Risk factors: The risk factors for burn injuries include self-inflicted injuries or abuse/neglect, lack of social support resources, inadequate housing and food resources, and substance use disorders, including alcohol.
-- Disease course: Clinically, burn injuries present with redness, blistering, and skin damage. The severity of these symptoms can vary depending on the depth and extent of the burn. Superficial burns may only cause redness and pain, while deeper burns can lead to blistering, skin necrosis, and even systemic symptoms such as shock.
-- Prognosis and risk of recurrence: The prognosis of burn injuries can vary widely, depending on factors such as the severity and extent of the burn, the patient's overall health, and the presence of complications. Burns involving a large percentage of the body surface area or those that result in inhalation injury can have a poor prognosis.
+- **Definition**: Burn injuries are defined as damage to the skin or other body tissues caused by heat, electricity, chemicals, or radiation.
+- **Pathophysiology**: The pathophysiology of burn injuries involves the destruction of skin layers, which triggers an immune and inflammatory response, metabolic changes, and potentially distributive shock.
+- **Epidemiology**: The incidence of burn injury in the US is estimated at 140 per 100,000 person-years.
+- **Risk factors**: The risk factors for burn injuries include self-inflicted injuries or abuse/neglect, lack of social support resources, inadequate housing and food resources, and substance use disorders, including alcohol.
+- **Disease course**: Clinically, burn injuries present with redness, blistering, and skin damage. The severity of these symptoms can vary depending on the depth and extent of the burn. Superficial burns may only cause redness and pain, while deeper burns can lead to blistering, skin necrosis, and even systemic symptoms such as shock.
+- **Prognosis and risk of recurrence**: The prognosis of burn injuries can vary widely, depending on factors such as the severity and extent of the burn, the patient's overall health, and the presence of complications. Burns involving a large percentage of the body surface area or those that result in inhalation injury can have a poor prognosis.
 
 ---
 

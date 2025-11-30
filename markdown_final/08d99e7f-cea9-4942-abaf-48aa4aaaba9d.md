@@ -269,7 +269,7 @@ The study highlights the significance of the accelerated renal risk, especially 
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12882–024–03867–6.
+The online version contains supplementary material available at 10.1186/s12882-024-03867-6.
 
 ---
 
@@ -523,7 +523,7 @@ Use of PPI in a CKD population was not associated with increased mortality or pr
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12882–021–02449–0.
+The online version contains supplementary material available at 10.1186/s12882-021-02449-0.
 
 ---
 
@@ -856,7 +856,7 @@ PPI use after the index hospitalization was not a significant risk factor for po
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12882–023–03211–4.
+The online version contains supplementary material available at 10.1186/s12882-023-03211-4.
 
 ---
 
@@ -1251,7 +1251,7 @@ Our findings added epidemiological information for the association between PPI u
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12882–022–03008-x.
+The online version contains supplementary material available at 10.1186/s12882-022-03008-x.
 
 ---
 
@@ -1293,7 +1293,7 @@ Association of PPI use at 3 months post-discharge and subsequent adverse outcome
 
 * Median months from cohort start to incidence of events, with 1st quartile (Q1) and 3rd quartile (Q3)
 
-** For the events of post-hospitalization AKI, the measure is Rate Ratio (RR) with 95% confidence interval (CI)
+ For the events of post-hospitalization AKI, the measure is Rate Ratio (RR) with 95% confidence interval (CI)
 
 For the events of progression of kidney disease, the measure is Hazard Ratio (HR) with 95% confidence interval (CI)
 

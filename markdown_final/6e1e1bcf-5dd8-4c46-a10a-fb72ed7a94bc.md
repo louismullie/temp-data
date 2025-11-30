@@ -125,7 +125,7 @@ Atrial fibrillation epidemiology and potential benefits/harms — The prevalence
 
 Figure 2 shows the performance of screening methods in detecting each category. Some conditions, such as long QT syndrome, were only detected by ECG. WPW was detected only by ECG as well, except for 4 cases that also had positive H&P. Of these 4 positive H&Ps, 2 were due to incidental murmurs found during the physical examination, 1 was due to a family history of SCD, and 1 was unspecified. The conditions listed under "arrhythmias, other" were not detected by any screening technique considered by this meta-analysis. All cases of SCD with unspecified etiology were only found after the death of the patient. Of the 2 cases of supraventricular tachycardia, 1 was detected by ECG and the other was found by a stress test and an electrophysiological study. Only one coronary anomaly, a congenital coronary atrioventricular fistula, was detected by H&P. The rest were identified by echocardiography, which was not included as a screening modality in this meta-analysis. Cardiomyopathies were more commonly detected by ECG or both H&P and ECG (18 and 7 of 31 total cases, respectively). Among the 19 "other" conditions, 6 cases were detected via H&P alone, 2 via ECG alone, 2 via ECG and H&P, and 9 via methods not included in this meta-analysis.
 
-We found that the odds of detecting cardiac disease with a 12-lead ECG were overall statistically significant (P < .001). In addition, 8 of the 9 studies included showing statistically significant odds ratios for the ECG (Figure 4). On the contrary, the odds of detecting cardiac disease with H&P were not statistically significant (P = .076) (Figure 3). These results suggest that a 12-lead ECG is a more effective tool than H&P for screening cardiac disease associated with SCD.
+We found that the odds of detecting cardiac disease with a 12-lead ECG were overall statistically significant (P < .001). In addition, 8 of the 9 studies included showing statistically significant odds ratios for the ECG (Figure 4). On the contrary, the odds of detecting cardiac disease with H&P were not statistically significant (P = 0.076) (Figure 3). These results suggest that a 12-lead ECG is a more effective tool than H&P for screening cardiac disease associated with SCD.
 
 Four studies did show statistically significant odds of detecting cardiac disease using H&P alone. The 95% confidence intervals of the log odds ratios for these studies can be found in Figure 3. The most likely explanation for this deviation from our observation is that our meta-analysis includes a much larger sample size than these individual studies. However, the largest study, included in our meta-analysis, performed by Malhotra et aldid show statistically significant odds of detecting cardiac disease by H&P alone.
 
@@ -247,7 +247,7 @@ Our study has limitations. First, there was no systematic information on abnorma
 
 ### Meta-analysis on the effectiveness of ECG screening for conditions related to sudden cardiac death in young athletes [^115kkonM]. Clinical Pediatrics (2023). Medium credibility.
 
-We found that the association between H&P and conditions associated with SCD was similar to that between H&P and cardiac disease. The odds ratio decreased slightly, from 3.4 to 2.9, but the overall effect did not change, with both associations being not statistically significant at the 5% level (P = .076 and P = .078, respectively).
+We found that the association between H&P and conditions associated with SCD was similar to that between H&P and cardiac disease. The odds ratio decreased slightly, from 3.4 to 2.9, but the overall effect did not change, with both associations being not statistically significant at the 5% level (P = 0.076 and P = 0.078, respectively).
 
 There was a major difference, however, between the association of ECG and cardiac disease and the association of ECG and conditions associated with SCD. The odds ratio increased from 60 for the former to 148 for the latter. Although both were statistically significant with a P value well below.001, this increase can only serve as further evidence of the effectiveness of the ECG in pre-participation screening.
 
@@ -589,7 +589,7 @@ Bar graph showing the results of ECG and H&P for each of the 6 categories of con
 
 Abbreviations: ECG, electrocardiogram; H&P, history and physical; SCD, sudden cardiac death.
 
-For the association of H&P with conditions associated with SCD, the random-effects model was applied to the 9 studies, which showed high heterogeneity (I 2 = 63%). It yielded a back-transformed odds ratio of 2.9 (95% confidence limits: 0.88–9.4) that was not statistically significant at the 5 percent level (Z = 1.74, P = .082). Neither the rank correlation nor the regression test indicated any funnel plot asymmetry (P = .26 and P = .30, respectively). Figure 6 shows the association of H&P with conditions associated with SCD for each of the 9 studies as well as the overall meta-analysis as a forest plot.
+For the association of H&P with conditions associated with SCD, the random-effects model was applied to the 9 studies, which showed high heterogeneity (I 2 = 63%). It yielded a back-transformed odds ratio of 2.9 (95% confidence limits: 0.88–9.4) that was not statistically significant at the 5 percent level (Z = 1.74, P = 0.082). Neither the rank correlation nor the regression test indicated any funnel plot asymmetry (P = 0.26 and P = 0.30, respectively). Figure 6 shows the association of H&P with conditions associated with SCD for each of the 9 studies as well as the overall meta-analysis as a forest plot.
 
 ---
 
@@ -831,7 +831,7 @@ The end result of screening process diagnoses pre-diabetes in 57 (14.3%) patient
 
 Conclusion
 
-By conducting a meta-analysis with a large number of patients, we have shown that modern ECG criteria improve the odds of detecting cardiac disease in young athletes as compared with history and physical examinations. Our data show that the odds of detecting cardiac disease with a pre-participation ECG are statistically significant (odds ratio of 60, P < .001) and higher than the odds of detecting cardiac disease with H&P (odds ratio of 3.4, P = .076). We also found that the odds of detecting conditions associated with SCD with a pre-participation ECG are statistically significant (odds ratio of 159, P < .001) and higher than the odds of detecting conditions associated with SCD with H&P (odds ratio of 2.9, P = .078). We conclude that using a 12-lead ECG as a screening tool improves the odds of identifying cardiac disease and SCD in young athletes.
+By conducting a meta-analysis with a large number of patients, we have shown that modern ECG criteria improve the odds of detecting cardiac disease in young athletes as compared with history and physical examinations. Our data show that the odds of detecting cardiac disease with a pre-participation ECG are statistically significant (odds ratio of 60, P < .001) and higher than the odds of detecting cardiac disease with H&P (odds ratio of 3.4, P = 0.076). We also found that the odds of detecting conditions associated with SCD with a pre-participation ECG are statistically significant (odds ratio of 159, P < .001) and higher than the odds of detecting conditions associated with SCD with H&P (odds ratio of 2.9, P = 0.078). We conclude that using a 12-lead ECG as a screening tool improves the odds of identifying cardiac disease and SCD in young athletes.
 
 ---
 
@@ -889,7 +889,7 @@ Among other things, an ECG can be used to measure the rate and rhythm of heartbe
 
 This is because an ECG may falsely indicate the existence of a problem, leading to misdiagnosis, the recommendation of invasive procedures, and overtreatment. However, persons employed in certain critical occupations, such as aircraft pilots, may be required to have an ECG as part of their routine health evaluations. Hypertrophic cardiomyopathy screening may also be considered in adolescents as part of a sports physical out of concern for sudden cardiac death.
 - ECG voltages measured across the body are very small. This low voltage necessitates a low noise circuit, instrumentation amplifiers, and electromagnetic shielding.
-- Simultaneous lead recordings: earlier designs recorded each lead sequentially, but current models record multiple leads simultaneously. Most modern ECG machines include automated interpretation algorithms. This analysis calculates features such as the PR interval, QT interval, corrected QT interval, PR axis, QRS axis, rhythm and more.
+- **Simultaneous lead recordings**: earlier designs recorded each lead sequentially, but current models record multiple leads simultaneously. Most modern ECG machines include automated interpretation algorithms. This analysis calculates features such as the PR interval, QT interval, corrected QT interval, PR axis, QRS axis, rhythm and more.
 
 ---
 

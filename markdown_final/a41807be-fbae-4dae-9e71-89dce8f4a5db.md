@@ -269,20 +269,20 @@ ASCO guideline — opioid selection and monitoring in renal or hepatic impairmen
 ### Tramadol hydrochloride [^114cxRAs]. FDA. Low credibility.
 
 Warnings and precautions regarding the use of tramadol hydrochloride PO (also known as Ultram, Qdolo):
-- Adrenal insufficiency, opioid-induced hyperalgesia: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
-- Decreased blood glucose: use caution in patients with predisposing risk factors, such as diabetes.
-- Decreased serum sodium, decreased blood glucose: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
-- Exacerbation of increased ICP: use caution in patients with increased ICP, brain tumor, or head injury.
-- Hypotension, syncope: use caution in patients with reduced blood volume or taking other CNS depressants. Monitor BP after initiation and dose titration. Avoid use in patients with circulatory shock.
-- Mask symptoms of head injury: use caution in patients with head injury. Avoid use in patients with impaired consciousness or coma.
-- Opioid withdrawal syndrome: do not discontinue abruptly in patients physically dependent on opioids.
-- Opioid withdrawal syndrome: use extreme caution in patients taking mixed agonist/antagonist analgesics (such as pentazocine, nalbuphine, or butorphanol) or partial agonist analgesics (such as buprenorphine).
-- Respiratory depression: use caution in patients with significant COPD, cor pulmonale, substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression. Obtain monitoring, especially after initiation and dose titration.
-- Seizure: use caution in patients taking higher doses of tramadol, concomitant use of SSRIs, TCAs, other tricyclic compounds, other opioids, neuroleptics, or naloxone, or with a history of a seizure disorder.
-- Serotonin syndrome: use caution in patients taking serotonergic drugs.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with gastrointestinal disorders. Monitor patients with biliary tract disease for disease worsening, including acute pancreatitis.
-- Suicidal ideation: use caution in patients with a history of misuse and/or taking CNS-active drugs, including tranquilizers or antidepressant drugs, excessive alcohol use, or having emotional disturbance or depression. Do not use in suicidal or addiction-prone patients.
+- **Adrenal insufficiency, opioid-induced hyperalgesia**: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
+- **Decreased blood glucose**: use caution in patients with predisposing risk factors, such as diabetes.
+- **Decreased serum sodium, decreased blood glucose**: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
+- **Exacerbation of increased ICP**: use caution in patients with increased ICP, brain tumor, or head injury.
+- **Hypotension, syncope**: use caution in patients with reduced blood volume or taking other CNS depressants. Monitor BP after initiation and dose titration. Avoid use in patients with circulatory shock.
+- **Mask symptoms of head injury**: use caution in patients with head injury. Avoid use in patients with impaired consciousness or coma.
+- **Opioid withdrawal syndrome**: do not discontinue abruptly in patients physically dependent on opioids.
+- **Opioid withdrawal syndrome**: use extreme caution in patients taking mixed agonist/antagonist analgesics (such as pentazocine, nalbuphine, or butorphanol) or partial agonist analgesics (such as buprenorphine).
+- **Respiratory depression**: use caution in patients with significant COPD, cor pulmonale, substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression. Obtain monitoring, especially after initiation and dose titration.
+- **Seizure**: use caution in patients taking higher doses of tramadol, concomitant use of SSRIs, TCAs, other tricyclic compounds, other opioids, neuroleptics, or naloxone, or with a history of a seizure disorder.
+- **Serotonin syndrome**: use caution in patients taking serotonergic drugs.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with gastrointestinal disorders. Monitor patients with biliary tract disease for disease worsening, including acute pancreatitis.
+- **Suicidal ideation**: use caution in patients with a history of misuse and/or taking CNS-active drugs, including tranquilizers or antidepressant drugs, excessive alcohol use, or having emotional disturbance or depression. Do not use in suicidal or addiction-prone patients.
 
 ---
 
@@ -722,8 +722,8 @@ Chronic pain in cirrhosis is common, poorly characterized, and uniquely morbid. 
 
 The dosage of tramadol hydrochloride / acetaminophen PO for symptomatic relief of acute pain in adults (severe, requiring opioids) is:
 
-- Start at: 75/650 mg PO q4–6h
-- Maximum: 300/2,600 mg per day / for 5 days of cumulative use
+- **Start at**: 75/650 mg PO q4–6h
+- **Maximum**: 300/2,600 mg per day / for 5 days of cumulative use
 
 ---
 
@@ -1147,20 +1147,20 @@ any severity
 ### Tramadol hydrochloride (Conzip) [^11194ZDM]. FDA (2023). Medium credibility.
 
 Warnings and precautions regarding the use of tramadol hydrochloride ER PO (also known as Conzip):
-- Adrenal insufficiency, opioid-induced hyperalgesia: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
-- Decreased blood glucose: use caution in patients with predisposing risk factors, such as diabetes.
-- Decreased serum sodium, decreased blood glucose: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
-- Exacerbation of increased ICP: use caution in patients with increased ICP, brain tumor, or head injury.
-- Hypotension, syncope: use caution in patients with reduced blood volume or taking other CNS depressants. Monitor BP after initiation and dose titration. Avoid use in patients with circulatory shock.
-- Mask symptoms of head injury: use caution in patients with head injury. Avoid use in patients with impaired consciousness or coma.
-- Opioid withdrawal syndrome: do not discontinue abruptly in patients physically dependent on opioids.
-- Opioid withdrawal syndrome: use extreme caution in patients taking mixed agonist/antagonist analgesics (such as pentazocine, nalbuphine, or butorphanol) or partial agonist analgesics (such as buprenorphine).
-- Respiratory depression: use caution in patients with significant COPD, cor pulmonale, substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression. Obtain monitoring, especially after initiation and dose titration.
-- Seizure: use caution in patients taking higher doses of tramadol, concomitant use of SSRIs, TCAs, other tricyclic compounds, other opioids, neuroleptics, or naloxone, or with a history of a seizure disorder.
-- Serotonin syndrome: use caution in patients taking serotonergic drugs.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with gastrointestinal disorders. Monitor patients with biliary tract disease for disease worsening, including acute pancreatitis.
-- Suicidal ideation: use caution in patients with a history of misuse and/or taking CNS-active drugs, including tranquilizers or antidepressant drugs, excessive alcohol use, or having emotional disturbance or depression. Do not use in suicidal or addiction-prone patients.
+- **Adrenal insufficiency, opioid-induced hyperalgesia**: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
+- **Decreased blood glucose**: use caution in patients with predisposing risk factors, such as diabetes.
+- **Decreased serum sodium, decreased blood glucose**: maintain a high level of suspicion, as tramadol has been associated with an increased risk for these adverse events.
+- **Exacerbation of increased ICP**: use caution in patients with increased ICP, brain tumor, or head injury.
+- **Hypotension, syncope**: use caution in patients with reduced blood volume or taking other CNS depressants. Monitor BP after initiation and dose titration. Avoid use in patients with circulatory shock.
+- **Mask symptoms of head injury**: use caution in patients with head injury. Avoid use in patients with impaired consciousness or coma.
+- **Opioid withdrawal syndrome**: do not discontinue abruptly in patients physically dependent on opioids.
+- **Opioid withdrawal syndrome**: use extreme caution in patients taking mixed agonist/antagonist analgesics (such as pentazocine, nalbuphine, or butorphanol) or partial agonist analgesics (such as buprenorphine).
+- **Respiratory depression**: use caution in patients with significant COPD, cor pulmonale, substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression. Obtain monitoring, especially after initiation and dose titration.
+- **Seizure**: use caution in patients taking higher doses of tramadol, concomitant use of SSRIs, TCAs, other tricyclic compounds, other opioids, neuroleptics, or naloxone, or with a history of a seizure disorder.
+- **Serotonin syndrome**: use caution in patients taking serotonergic drugs.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with gastrointestinal disorders. Monitor patients with biliary tract disease for disease worsening, including acute pancreatitis.
+- **Suicidal ideation**: use caution in patients with a history of misuse and/or taking CNS-active drugs, including tranquilizers or antidepressant drugs, excessive alcohol use, or having emotional disturbance or depression. Do not use in suicidal or addiction-prone patients.
 
 ---
 
@@ -1192,10 +1192,10 @@ NSAIDs are metabolized by the liver and are largely protein‐bound, leading to 
 ### Tramadol hydrochloride / acetaminophen [^111pUPJJ]. FDA. Low credibility.
 
 Warnings and precautions regarding the use of tramadol / acetaminophen PO (also known as Ultracet):
-- Drug abuse: use caution in patients with a history of substance abuse or depression.
-- Hemolysis: use caution in patients with G6PD deficiency.
-- Renal failure: use caution in patients with pre-existing renal impairment and chronic use of the drug.
-- Seizures: use caution in patients with a seizure disorder, history of seizures, or recognized risk for seizure.
+- **Drug abuse**: use caution in patients with a history of substance abuse or depression.
+- **Hemolysis**: use caution in patients with G6PD deficiency.
+- **Renal failure**: use caution in patients with pre-existing renal impairment and chronic use of the drug.
+- **Seizures**: use caution in patients with a seizure disorder, history of seizures, or recognized risk for seizure.
 
 ---
 
@@ -1222,6 +1222,6 @@ Although NSAIDs may be helpful with pain flares, it is recommended in most cases
 
 The dosage of tramadol hydrochloride PO for symptomatic relief of pain in adults (severe, requiring opioids) is:
 
-- Start at: 25 mg PO q6–24h
-- Maintenance: 50–100 mg PO q4–6h PRN
-- Maximum: 400 mg per day
+- **Start at**: 25 mg PO q6–24h
+- **Maintenance**: 50–100 mg PO q4–6h PRN
+- **Maximum**: 400 mg per day

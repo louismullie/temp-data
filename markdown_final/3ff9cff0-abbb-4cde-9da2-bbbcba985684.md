@@ -392,7 +392,7 @@ Our study showed that sleep quality gradually declined throughout pregnancy for 
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12884–022–04414–7.
+The online version contains supplementary material available at 10.1186/s12884-022-04414-7.
 
 ---
 

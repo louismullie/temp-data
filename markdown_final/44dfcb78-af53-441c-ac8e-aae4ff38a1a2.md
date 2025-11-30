@@ -588,7 +588,7 @@ Whereas pediatric cough guidelines largely align with regard to the diagnosis an
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12887–022–03814–0.
+The online version contains supplementary material available at 10.1186/s12887-022-03814-0.
 
 ---
 
@@ -1012,7 +1012,7 @@ ACCP Pediatric cough guidelines 2006
 - For acute cough, a systematic review of antihistamine and nasal decongestion combinations and antihistamines in OTC medication has shown that these pharmaceuticals were no more likely than placebo to reduce acute cough in children. Schroeder Arch Dis Child 2002; 86: 170–175.
 
 GERD and Cough
-- Utility of prokinetic agents:
+- **Utility of prokinetic agents**:
 
 - 56 patients with GERD related cough treated with PPI BID
 - 24 responded
@@ -1029,4 +1029,4 @@ GERD and Cough
 What is PBB
 - Treatment
 - DBPC trial of 50 children with > 3 wk of wet cough placed on 2 wk course of Augmentin lead to resolution of cough in 48% vs. 16% pbo
-- Marchant Thorax 2012; 67: 689–93.
+- **Marchant Thorax 2012; 67**: 689–93.

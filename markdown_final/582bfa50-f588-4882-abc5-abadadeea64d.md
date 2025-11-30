@@ -203,10 +203,10 @@ Eosinophilic cystitis (EC) is a rare presentation in childhood, with just over 1
 
 The following constitutes key background information on chronic bacterial prostatitis:
 
-- Definition: CBP is caused by a chronic bacterial infection of the prostate gland characterized by recurrent UTIs caused by the same bacterial strain, pelvic pain, and LUTS.
-- Pathophysiology: CBP is caused by a chronic bacterial infection commonly involving E. coli and enterococci.
-- Disease course: Clinical manifestations include pain, which may be poorly localized (pelvis, genitalia, lower back, or hypogastrium), and LUTS (weak stream, straining, hesitancy, urgency, frequency, dysuria).
-- Prognosis and risk of recurrence: CBP is not associated with increased mortality.
+- **Definition**: CBP is caused by a chronic bacterial infection of the prostate gland characterized by recurrent UTIs caused by the same bacterial strain, pelvic pain, and LUTS.
+- **Pathophysiology**: CBP is caused by a chronic bacterial infection commonly involving E. coli and enterococci.
+- **Disease course**: Clinical manifestations include pain, which may be poorly localized (pelvis, genitalia, lower back, or hypogastrium), and LUTS (weak stream, straining, hesitancy, urgency, frequency, dysuria).
+- **Prognosis and risk of recurrence**: CBP is not associated with increased mortality.
 
 ---
 

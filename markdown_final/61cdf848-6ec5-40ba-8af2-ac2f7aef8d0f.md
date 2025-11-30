@@ -489,7 +489,7 @@ All 39 child care centers participating in the original study were selected to c
 
 Results
 
-At 6 months and 1 year, 37 and 29 centers, respectively, completed surveys. There was a significant improvement regarding when to administer intramuscular epinephrine compared with before the allergy seminar. However, only 48% of the centers at 6 months (P = .02) and 31% at 1 year (P = .002) knew how to correctly administer intramuscular epinephrine compared with 77% four weeks after the seminar. With time, there was a significant decline in correctly recognizing typical anaphylaxis symptoms, including abdominal cramping, chest tightness, shortness of breath, low blood pressure, and diarrhea, whereas symptoms such as hives, swelling, and wheezing continued to be identified correctly.
+At 6 months and 1 year, 37 and 29 centers, respectively, completed surveys. There was a significant improvement regarding when to administer intramuscular epinephrine compared with before the allergy seminar. However, only 48% of the centers at 6 months (P = 0.02) and 31% at 1 year (P = 0.002) knew how to correctly administer intramuscular epinephrine compared with 77% four weeks after the seminar. With time, there was a significant decline in correctly recognizing typical anaphylaxis symptoms, including abdominal cramping, chest tightness, shortness of breath, low blood pressure, and diarrhea, whereas symptoms such as hives, swelling, and wheezing continued to be identified correctly.
 
 Conclusions
 
@@ -543,11 +543,11 @@ increased risk of infection at IV (intravenous) sites. Mupirocin ointment should
 
 The following constitutes key background information on acute urticaria:
 
-- Definition: Acute urticaria is a self-limited cutaneous condition characterized by transient, erythematous, and pruritic wheals or hives.
-- Pathophysiology: Acute urticaria is caused by mast cell and basophil activation, leading to the release of histamine and other inflammatory mediators, which results in vasodilation and increased vascular permeability, leading to characteristic skin lesions. The activation of these cells can occur through multiple triggers, including IgE- and non-IgE-mediated mechanisms.
-- Epidemiology: The prevalence of acute urticaria in the United Kingdom is estimated at 355 per 100,000 population.
-- Disease course: Clinically, acute urticaria presents as itchy, raised welts that can appear anywhere on the body. These hives are transient, often moving from one area of the body to another. In some cases, acute urticarial lesions may display central clearing with an ecchymotic or hemorrhagic hue.
-- Prognosis and risk of recurrence: The prognosis of acute urticaria is generally good, as it is typically a self-limiting condition that resolves within 6 weeks.
+- **Definition**: Acute urticaria is a self-limited cutaneous condition characterized by transient, erythematous, and pruritic wheals or hives.
+- **Pathophysiology**: Acute urticaria is caused by mast cell and basophil activation, leading to the release of histamine and other inflammatory mediators, which results in vasodilation and increased vascular permeability, leading to characteristic skin lesions. The activation of these cells can occur through multiple triggers, including IgE- and non-IgE-mediated mechanisms.
+- **Epidemiology**: The prevalence of acute urticaria in the United Kingdom is estimated at 355 per 100,000 population.
+- **Disease course**: Clinically, acute urticaria presents as itchy, raised welts that can appear anywhere on the body. These hives are transient, often moving from one area of the body to another. In some cases, acute urticarial lesions may display central clearing with an ecchymotic or hemorrhagic hue.
+- **Prognosis and risk of recurrence**: The prognosis of acute urticaria is generally good, as it is typically a self-limiting condition that resolves within 6 weeks.
 
 ---
 

@@ -851,7 +851,7 @@ We examined consecutive patients who received ICIs and developed ICI-p. Risk fac
 
 Results
 
-A total of 132 patients developed ICI-p, with 60 patients having mild and 72 with severe disease. We found that lower forced vital capacity percent predicted (66.24 vs 85.05, P = .05), lower total lung capacity percent predicted (85.23 vs 99.71, P = .13), and specific radiographic patterns on pre-treatment chest imaging were predictors of severe disease. Initial corticosteroid dose of less than 1 milligram per kilogram prednisone equivalent (P = .14) was correlated with partially steroid-responsive or steroid-refractory ICI-p. Ten patients had steroid refractory ICI-p, and those who received IVIG alone as the immune suppressant beyond corticosteroids had improved survival (P = 05).
+A total of 132 patients developed ICI-p, with 60 patients having mild and 72 with severe disease. We found that lower forced vital capacity percent predicted (66.24 vs 85.05, P = 0.05), lower total lung capacity percent predicted (85.23 vs 99.71, P = 0.13), and specific radiographic patterns on pre-treatment chest imaging were predictors of severe disease. Initial corticosteroid dose of less than 1 milligram per kilogram prednisone equivalent (P = 0.14) was correlated with partially steroid-responsive or steroid-refractory ICI-p. Ten patients had steroid refractory ICI-p, and those who received IVIG alone as the immune suppressant beyond corticosteroids had improved survival (P = 05).
 
 Conclusions
 
@@ -900,7 +900,7 @@ This marks the first instance of effectively managing steroid-resistant CIP thro
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12890–024–03258–5.
+The online version contains supplementary material available at 10.1186/s12890-024-03258-5.
 
 ---
 
@@ -944,7 +944,7 @@ We examined consecutive patients who received ICIs and developed ICI-p. Risk fac
 
 Results
 
-A total of 132 patients developed ICI-p, with 60 patients having mild and 72 with severe disease. We found that lower forced vital capacity percent predicted (66.24 vs 85.05, P = .05), lower total lung capacity percent predicted (85.23 vs 99.71, P = .13), and specific radiographic patterns on pre-treatment chest imaging were predictors of severe disease. Initial corticosteroid dose of less than 1 milligram per kilogram prednisone equivalent (P = .14) was correlated with partially steroid-responsive or steroid-refractory ICI-p. Ten patients had steroid refractory ICI-p, and those who received IVIG alone as the immune suppressant beyond corticosteroids had improved survival (P = 05).
+A total of 132 patients developed ICI-p, with 60 patients having mild and 72 with severe disease. We found that lower forced vital capacity percent predicted (66.24 vs 85.05, P = 0.05), lower total lung capacity percent predicted (85.23 vs 99.71, P = 0.13), and specific radiographic patterns on pre-treatment chest imaging were predictors of severe disease. Initial corticosteroid dose of less than 1 milligram per kilogram prednisone equivalent (P = 0.14) was correlated with partially steroid-responsive or steroid-refractory ICI-p. Ten patients had steroid refractory ICI-p, and those who received IVIG alone as the immune suppressant beyond corticosteroids had improved survival (P = 05).
 
 Conclusions
 
@@ -1016,12 +1016,12 @@ In conclusion, we have shown that an anti-VEGF antibody protected against vascul
 
 Risk factors for partially steroid-responsive or steroid-refractory pneumonitis
 
-Of the 132 ICI-p patients, 74 (56%) had partially steroid-responsive or steroid-refractory pneumonitis (22 patients required recurrent steroids after initial pneumonitis treatment, 27 patients required an increase in steroids during initial pneumonitis treatment, 25 died while being treated for active pneumonitis) and 58 (44%) did not. Patients who received less than 1 mg/kg prednisone equivalent of corticosteroid at ICI-p diagnosis had more partially steroid-responsive and steroid-refractory disease (P = .014, Table 5); patients in the < 1 mg/kg prednisone equivalent group received a median dose of 60 mg (0.67 mg/kg) of prednisone, while the group treated with at least 1 mg/kg prednisone equivalent steroids received a median dose of 82.5 mg (1.06 mg/kg) of prednisone (Supplementary Table S1). There was no difference in days to steroid initiation from pneumonitis imaging and days from initial steroid administration to first steroid taper between the two groups (Supplementary Table S2).
+Of the 132 ICI-p patients, 74 (56%) had partially steroid-responsive or steroid-refractory pneumonitis (22 patients required recurrent steroids after initial pneumonitis treatment, 27 patients required an increase in steroids during initial pneumonitis treatment, 25 died while being treated for active pneumonitis) and 58 (44%) did not. Patients who received less than 1 mg/kg prednisone equivalent of corticosteroid at ICI-p diagnosis had more partially steroid-responsive and steroid-refractory disease (P = 0.014, Table 5); patients in the < 1 mg/kg prednisone equivalent group received a median dose of 60 mg (0.67 mg/kg) of prednisone, while the group treated with at least 1 mg/kg prednisone equivalent steroids received a median dose of 82.5 mg (1.06 mg/kg) of prednisone (Supplementary Table S1). There was no difference in days to steroid initiation from pneumonitis imaging and days from initial steroid administration to first steroid taper between the two groups (Supplementary Table S2).
 
 Table 5.
 Risk factors for partially steroid-responsive or steroid-refractory ICI-p.
 
-Of the 124 patients with pre-treatment chest imaging, the presence of ground glass (P = .004) and severe interstitial abnormalities (P = .001) were associated with partially steroid-responsive and steroid-refractory ICIa-p. Of the 132 ICI-p patients, 64 of the 74 patients with partially steroid-responsive or steroid-refractory ICI-p and 55 of the 58 patients with steroid-responsive ICI-p had a chest CT following diagnosis of ICI-p. The presence of consolidative changes at the time of ICI-p diagnosis was associated with severe and partially steroid-responsive ICI-p (P = .03, Table 5). Other radiographic patterns at ICI-p diagnosis and the route of steroid administration were not associated with steroid-refractory or partially steroid-responsive disease.
+Of the 124 patients with pre-treatment chest imaging, the presence of ground glass (P = 0.004) and severe interstitial abnormalities (P = 0.001) were associated with partially steroid-responsive and steroid-refractory ICIa-p. Of the 132 ICI-p patients, 64 of the 74 patients with partially steroid-responsive or steroid-refractory ICI-p and 55 of the 58 patients with steroid-responsive ICI-p had a chest CT following diagnosis of ICI-p. The presence of consolidative changes at the time of ICI-p diagnosis was associated with severe and partially steroid-responsive ICI-p (P = 0.03, Table 5). Other radiographic patterns at ICI-p diagnosis and the route of steroid administration were not associated with steroid-refractory or partially steroid-responsive disease.
 
 Survival analysis of mild versus severe pneumonitis
 
@@ -1150,6 +1150,6 @@ Pts with lung cancer had an increased risk for pneumonitis compared to pts with 
 ARM B
 - CONTROL GROUP the starting dose will be 1–4mg/kg of body weight of prednisone, depending on clinical condition and pneumonitis severity, the induction treatment will last 5–7 days; in case of severe condition
 - no improvement after 48–72 h of initial treatment
-- introduction of immunosuppressive agent is recommended: cyclophosphamide, mofetil mycophenolate or infliximab. A continuation treatment with dose tapering is than planned, starting from oral dose of 30–60mg q 24h of prednisone, and dose reduction of 10mg q 24 h each 1 week. This arm will be treated for 6–12 weeks. During the treatment and after its termination the function of respiratory system, interstitial changes in radiologic examinations, anticancer response, survival time, pneumonitis relapse and glucocorticosteroid side effects will be monitored and evaluated. The observation will last up to 52 weeks.
+- **Introduction of immunosuppressive agent is recommended**: cyclophosphamide, mofetil mycophenolate or infliximab. A continuation treatment with dose tapering is than planned, starting from oral dose of 30–60mg q 24h of prednisone, and dose reduction of 10mg q 24 h each 1 week. This arm will be treated for 6–12 weeks. During the treatment and after its termination the function of respiratory system, interstitial changes in radiologic examinations, anticancer response, survival time, pneumonitis relapse and glucocorticosteroid side effects will be monitored and evaluated. The observation will last up to 52 weeks.
 
 In case of elevated inflammatory markers, clinical, laboratory or microbiological signs of infection accompanying pneumonitis it is recommended to administer antibiotics. Antibiotics will not be routinely used in the whole study population. Dosage and administration: The preferred oral agent is prednisone, in single daily dose administered in the morning. The recommended dose of co-trimoxazole in case of PCP prophylaxis is 960mg q2d administered on Monday, Wednesday and Friday; it should last until 10mg q 24h of prednisone is reached.

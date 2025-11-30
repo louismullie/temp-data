@@ -392,7 +392,7 @@ Guideline grading — strength and quality of evidence: We generated treatment r
 
 ### Clinical policy: critical issues in the evaluation of adult patients with suspected transient ischemic attack in the emergency department [^111uWPM1]. Annals of Emergency Medicine (2016). Medium credibility.
 
-AHA/ASA admission guidance and early risk timeframe — ED patients with suspected TIA: "A subset of ED patients with TIA are at increased risk for strokes in the days and weeks after the index ED presentation". The page notes, "The 2009 AHA/ASA TIA guidelines recommend hospital admission for (1) individuals with ABCD2 score greater than or equal to 3, (2) those with ABCD2 score 0 to 2 if 'uncertain that diagnostic workup can be completed within 2 days as an outpatient', or (3) when 'other evidence indicates the patient's event was caused by focal ischemia'. It also specifies increased short-term risk "(ie, 2 to 7 days) for stroke".
+AHA/ASA admission guidance and early risk timeframe — ED patients with suspected TIA: "A subset of ED patients with TIA are at increased risk for strokes in the days and weeks after the index ED presentation". The page notes, "The 2009 AHA/ASA TIA guidelines recommend hospital admission for (1) individuals with ABCD2 score greater than or equal to 3, (2) those with ABCD2 score 0 to 2 if 'uncertain that diagnostic workup can be completed within 2 days as an outpatient', or (3) when 'other evidence indicates the patient's event was caused by focal ischemia'. It also specifies increased short-term risk "(ie, 2 to 7 days) for stroke".
 
 ---
 
@@ -474,7 +474,7 @@ We performed a retrospective review in both comprehensive stroke units of a regi
 
 ### Clinical policy: use of intravenous tissue plasminogen activator for the management of acute ischemic stroke in the emergency department [^112xJjY5]. Annals of Emergency Medicine (2015). Medium credibility.
 
-Acute ischemic stroke — Clark et al randomized double-blind trial of IV tPA 0.9 mg/kg in a 3- to 5-h window (N = 613) assessed National Institutes of Health Stroke Scale (NIHSS) ≤ 1 at 90 days, symptomatic intracranial hemorrhage (SICH), and 90-day mortality; excellent outcome was 32% with placebo versus 34% with tPA (P = .65), SICH was 1.1% with placebo versus 7.0% with tPA (P < .001), and 90-day mortality was 6.9% with placebo versus 11% with tPA (P = .09). The multicenter trial "did not show benefit of tPA in the 3- to 5-h time window", and the mean time to treatment was 4 h 28 min.
+Acute ischemic stroke — Clark et al randomized double-blind trial of IV tPA 0.9 mg/kg in a 3- to 5-h window (N = 613) assessed National Institutes of Health Stroke Scale (NIHSS) ≤ 1 at 90 days, symptomatic intracranial hemorrhage (SICH), and 90-day mortality; excellent outcome was 32% with placebo versus 34% with tPA (P = 0.65), SICH was 1.1% with placebo versus 7.0% with tPA (P < .001), and 90-day mortality was 6.9% with placebo versus 11% with tPA (P = 0.09). The multicenter trial "did not show benefit of tPA in the 3- to 5-h time window", and the mean time to treatment was 4 h 28 min.
 
 ---
 
@@ -504,7 +504,7 @@ Thrombolytic therapy has been around for close to 30 years now, but its exact ro
 
 ### Clinical policy: use of intravenous tissue plasminogen activator for the management of acute ischemic stroke in the emergency department [^112JyvWP]. Annals of Emergency Medicine (2015). Medium credibility.
 
-Hacke et al — randomized, double-blind trial of intravenous tissue plasminogen activator (tPA) 0.9 mg/kg (N = 800) using modified Rankin Scale (mRS) ≤ 1 at 90 days found mRS ≤ 1 in 40.3% of the treatment group vs 36.6% with placebo (P = .28), symptomatic intracranial hemorrhage 8.8% with tPA vs 3.4% with placebo, and mortality 10.6% (both groups); the multicenter trial did not show benefit, including among patients treated from 0–3 h with low numbers (158/800), and overall mortality was lower in ECASS II (10.6%) compared with NINDS (17% in the tPA group), while good outcomes in the ECASS II placebo group (36.6%) were close to the tPA outcomes in NINDS (39%).
+Hacke et al — randomized, double-blind trial of intravenous tissue plasminogen activator (tPA) 0.9 mg/kg (N = 800) using modified Rankin Scale (mRS) ≤ 1 at 90 days found mRS ≤ 1 in 40.3% of the treatment group vs 36.6% with placebo (P = 0.28), symptomatic intracranial hemorrhage 8.8% with tPA vs 3.4% with placebo, and mortality 10.6% (both groups); the multicenter trial did not show benefit, including among patients treated from 0–3 h with low numbers (158/800), and overall mortality was lower in ECASS II (10.6%) compared with NINDS (17% in the tPA group), while good outcomes in the ECASS II placebo group (36.6%) were close to the tPA outcomes in NINDS (39%).
 
 ---
 
@@ -594,7 +594,7 @@ Off-label indications for Tenecteplase (also known as TNKase, TNKase) include:
 
 ### Clinical policy: use of thrombolytics for the management of acute ischemic stroke in the emergency department [^114K6U2d]. Annals of Emergency Medicine (2024). High credibility.
 
-Observational and retrospective evidence — adult acute ischemic stroke (AIS) patients within 6 h of onset with imaging-confirmed anterior circulation occlusion in a retrospective registry cohort from 3 stroke centers in France were evaluated for mRS of 0 to 2 at 90 d and sICH; among N = 1,507, 65% received intravenous thrombolytics and 407 were propensity score matched with multiple imputation; in propensity-matched results, mRS of 0 to 2 was 49% in the thrombolytics plus thrombectomy group versus 45% in the thrombectomy only group (OR 1.21 [95% CI 0.90 to 1.63], P = .21), and sICH was 9% for the thrombolytic plus thrombectomy versus 7% for the thrombectomy only group (OR 1.21 [95% CI 0.70 to 2.09, P = .5]); limitations included propensity score methods with residual confounding and no apparent blinding for outcome assessment.
+Observational and retrospective evidence — adult acute ischemic stroke (AIS) patients within 6 h of onset with imaging-confirmed anterior circulation occlusion in a retrospective registry cohort from 3 stroke centers in France were evaluated for mRS of 0 to 2 at 90 d and sICH; among N = 1,507, 65% received intravenous thrombolytics and 407 were propensity score matched with multiple imputation; in propensity-matched results, mRS of 0 to 2 was 49% in the thrombolytics plus thrombectomy group versus 45% in the thrombectomy only group (OR 1.21 [95% CI 0.90 to 1.63], P = 0.21), and sICH was 9% for the thrombolytic plus thrombectomy versus 7% for the thrombectomy only group (OR 1.21 [95% CI 0.70 to 2.09, P = 0.5]); limitations included propensity score methods with residual confounding and no apparent blinding for outcome assessment.
 
 ---
 
@@ -662,7 +662,7 @@ Regarding specific circumstances for acute ischemic stroke, more specifically wi
 
 ### Clinical policy: use of intravenous tPA for the management of acute ischemic stroke in the emergency department [^112Cgmhb]. Annals of Emergency Medicine (2013). Medium credibility.
 
-ECASS II — intravenous (IV) tPA (tissue plasminogen activator) 0.9 mg/kg versus placebo in acute ischemic stroke of less than 6 hours used a modified Rankin Scale (mRS) 0 or 1 primary endpoint and found no overall difference (40% versus 37%; p = 0.28) or among those treated within 3 hours (42% versus 38%; p = 0.63); parenchymal hemorrhage occurred in 12% of tPA and 3% of placebo (P < .001), and the 90‑day mortality rate was equal at 11% for both groups (P = .99).
+ECASS II — intravenous (IV) tPA (tissue plasminogen activator) 0.9 mg/kg versus placebo in acute ischemic stroke of less than 6 hours used a modified Rankin Scale (mRS) 0 or 1 primary endpoint and found no overall difference (40% versus 37%; p = 0.28) or among those treated within 3 hours (42% versus 38%; p = 0.63); parenchymal hemorrhage occurred in 12% of tPA and 3% of placebo (P < .001), and the 90‑day mortality rate was equal at 11% for both groups (P = 0.99).
 
 ---
 
@@ -674,7 +674,7 @@ Stroke is very common, with, for example, around 110,000 people each year in Eng
 
 ### Clinical policy: use of intravenous tissue plasminogen activator for the management of acute ischemic stroke in the emergency department [^113GKouw]. Annals of Emergency Medicine (2015). Medium credibility.
 
-Acute ischemic stroke — Albers et al randomized, double-blind, placebo-controlled trial of IV tPA 0.9 mg/kg evaluated NIHSS ≤ 1 at 90 days, SICH, and 90-day mortality; NIHSS ≤ 1 occurred in 14/23 with tPA versus 10/38 with placebo (P = .01), SICH was 3/23 versus 0/38 (P = .05), and mortality was 4/23 versus 2/38 (P = .12). This was a post hoc analysis of ATLANTIS B patients treated within 3 h of symptom onset.
+Acute ischemic stroke — Albers et al randomized, double-blind, placebo-controlled trial of IV tPA 0.9 mg/kg evaluated NIHSS ≤ 1 at 90 days, SICH, and 90-day mortality; NIHSS ≤ 1 occurred in 14/23 with tPA versus 10/38 with placebo (P = 0.01), SICH was 3/23 versus 0/38 (P = 0.05), and mortality was 4/23 versus 2/38 (P = 0.12). This was a post hoc analysis of ATLANTIS B patients treated within 3 h of symptom onset.
 
 ---
 
@@ -716,7 +716,7 @@ Other IV thrombolytics — non‑alteplase/tenecteplase agents: The benefit of i
 
 ### Clinical policy: use of intravenous tissue plasminogen activator for the management of acute ischemic stroke in the emergency department [^115sCoCX]. Annals of Emergency Medicine (2015). Medium credibility.
 
-ECASS II trial — intravenous tissue plasminogen activator (tPA) 0.9 mg/kg versus placebo in acute ischemic stroke of less than 6 hours' duration used a primary endpoint of a modified Rankin Scale score of 0 or 1, with no difference overall (40% versus 37%; p = 0.28) or within 3 hours (42% versus 38%; p = 0.63); parenchymal hemorrhage on posttreatment computed tomography occurred in 12% of tPA and 3% of placebo patients (P < .001), and 90-day mortality was equal at 11% for both groups (P = .99).
+ECASS II trial — intravenous tissue plasminogen activator (tPA) 0.9 mg/kg versus placebo in acute ischemic stroke of less than 6 hours' duration used a primary endpoint of a modified Rankin Scale score of 0 or 1, with no difference overall (40% versus 37%; p = 0.28) or within 3 hours (42% versus 38%; p = 0.63); parenchymal hemorrhage on posttreatment computed tomography occurred in 12% of tPA and 3% of placebo patients (P < .001), and 90-day mortality was equal at 11% for both groups (P = 0.99).
 
 ---
 
@@ -774,7 +774,7 @@ Se podrían necesitar medicamentos, operaciones u otros procedimientos para dete
 
 ### La FDA aprueba el primer sistema de rehabilitación de su… [^116ZNLJF]. FDA (2021). Medium credibility.
 
-La Administración de Alimentos y Medicamentos de los EE. UU. aprobó hoy el sistema MicroTransponder Vivistim Paired VNS, un sistema de rehabilitación sin medicamentos, el primero de su tipo, destinado a tratar los déficits motores de las extremidades superiores de moderados a graves, asociados con el accidente cerebrovascular isquémico crónico, un accidente cerebrovascular causado por una obstrucción del flujo sanguíneo al cerebro con síntomas duraderos, mediante la estimulación del nervio vago. "La aprobación de hoy del sistema Vivistim Paired VNS ofrece la primera opción de rehabilitación del accidente cerebrovascular mediante la estimulación del nervio vago. Utilizado junto con el ejercicio de rehabilitación, este dispositivo puede ofrecer beneficios a aquellos que han perdido la función en sus extremidades superiores debido a un accidente cerebrovascular isquémico". **.
+La Administración de Alimentos y Medicamentos de los EE. UU. aprobó hoy el sistema MicroTransponder Vivistim Paired VNS, un sistema de rehabilitación sin medicamentos, el primero de su tipo, destinado a tratar los déficits motores de las extremidades superiores de moderados a graves, asociados con el accidente cerebrovascular isquémico crónico, un accidente cerebrovascular causado por una obstrucción del flujo sanguíneo al cerebro con síntomas duraderos, mediante la estimulación del nervio vago. "La aprobación de hoy del sistema Vivistim Paired VNS ofrece la primera opción de rehabilitación del accidente cerebrovascular mediante la estimulación del nervio vago. Utilizado junto con el ejercicio de rehabilitación, este dispositivo puede ofrecer beneficios a aquellos que han perdido la función en sus extremidades superiores debido a un accidente cerebrovascular isquémico".
 
 El sistema Vivistim está indicado para utilizarse, junto con la terapia de rehabilitación posterior al accidente cerebrovascular, en pacientes que han sufrido un accidente cerebrovascular isquémico, para estimular eléctricamente el nervio vago, un nervio que va desde el cerebro hasta el abdomen, con el fin de reducir las deficiencias en la función motora de las extremidades superiores y mejorar la capacidad de los pacientes para mover los brazos y las manos. La eficacia del sistema Vivistim se midió usando la Evaluación de Fugl-Meyer de las Extremidades Superiores, una evaluación específica del deterioro motor en caso de accidente cerebrovascular. El progreso se midió como un aumento en la función motora a partir de la línea de base después de seis semanas de terapia.
 

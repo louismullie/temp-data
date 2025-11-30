@@ -181,15 +181,15 @@ A 44-year-old man with erythema and oedema of the left abdomen. The duration of 
 
 ### Sharply demarcated erythematous plaque of the bilateral thighs [^b63d1281]. JAAD Case Reports (2022). Medium credibility.
 
-Question 3: Which of the following features of the patient’s presentation is most classic for this eruption? 
+Question 3: Which of the following features of the patient's presentation is most classic for this eruption?
 A. Onset of rash after receiving piperacillin-tazobactam
 B. Location on the extremities
 C. Pruritus
 D. Absence of fever
 E. Leukocytosis
 
-Answer: 
-A. Onset of rash after receiving piperacillin-tazobactam – Incorrect. ALEP tends to occur within 2 weeks of drug exposure and as quickly as 1 day with repeat medication exposure.The patient received piperacillin-tazobactam 13 days prior to the eruption’s onset, while ampicillin was administered 3 days prior. Therefore, the most probable culprit for the patient’s presentation is ampicillin.
+Answer:
+A. Onset of rash after receiving piperacillin-tazobactam – Incorrect. ALEP tends to occur within 2 weeks of drug exposure and as quickly as 1 day with repeat medication exposure. The patient received piperacillin-tazobactam 13 days prior to the eruption's onset, while ampicillin was administered 3 days prior. Therefore, the most probable culprit for the patient's presentation is ampicillin.
 B. Location on the extremities – Incorrect. ALEP has been reported to most frequently occur on the face, trunk, and upper limbs, in descending order.
 C. Pruritus – Correct. Itching or burning sensation is a typical presenting feature of ALEP.
 D. Absence of fever – Incorrect. Patients with ALEP may or may not present with fever. In a systematic review, 47.6% of patients with ALEP presented with fever.
@@ -211,24 +211,24 @@ Regarding screening and diagnosis for scabies, more specifically with respect to
 
 ### CDC yellow book 2026: health information for international travel. chapter 10 post-travel evaluation [^4399567c]. CDC (2025). High credibility.
 
-Scabies—presentation and exam considerations note that infestation 'usually manifests as a generalized or regional pruritic papular rash with erythema, abundant excoriations, and secondarily infected pustules' and 'generally presents in a regionally symmetric manner.' 'For example, 2 of the most commonly involved sites are the volar wrists and finger web spaces; the left and right sides are usually involved in a nearly identical fashion.' 'Also, boys and men with scabies often develop nodular lesions on the scrotum and penis,' and 'When considering scabies in any male older than 2 years, a genital examination can be extremely helpful.' 'Scabies burrows are short, delicate, linear lesions that involve the most superficial part of the epidermis; burrows are pathognomonic but are challenging to detect,' and treatment information is available at 'https://www.cdc.gov/scabies/about/'.
+Scabies — presentation and exam considerations note that infestation 'usually manifests as a generalized or regional pruritic papular rash with erythema, abundant excoriations, and secondarily infected pustules' and 'generally presents in a regionally symmetric manner'.'For example, 2 of the most commonly involved sites are the volar wrists and finger web spaces; the left and right sides are usually involved in a nearly identical fashion'.'Also, boys and men with scabies often develop nodular lesions on the scrotum and penis', and 'When considering scabies in any male older than 2 years, a genital examination can be extremely helpful'.'Scabies burrows are short, delicate, linear lesions that involve the most superficial part of the epidermis; burrows are pathognomonic but are challenging to detect', and treatment information is available at 'https://www.cdc.gov/scabies/about/'.
 
 ---
 
 ### Papular-vesicular rash in COVID-19 [^0445bf04]. The American Journal of Tropical Medicine and Hygiene (2021). Medium credibility.
 
-A 30-year-old man presented with multiple, bilaterally symmetrical, erythematous papular-vesicular lesions distributed over his neck, anterior trunk, posterior trunk, and upper arms (Figures 1 and 2). Face, mucosa, and lower limbs were spared. The skin lesions were mildly pruritic, appeared 4 days after the onset of fever, cough, and malaise. He had a history of varicella in childhood. His complete blood count, liver and kidney parameters, and C‐reactive protein were within normal limits. IgM antibodies were negative for varicella infection. Tzanck smear, carried out from a vesicle, showed many acantholytic cells with lymphocytes. Giant cells suggestive of herpes simplex virus infections were not found (Figure 3). SARS-CoV-2 real-time polymerase chain reaction of his nasopharyngeal swab showed COVID-19 positivity. A diagnosis of varicella-like exanthem secondary to COVID-19 was made. The patient was advised home isolation and managed conservatively. The patient’s skin and systemic symptoms subsided within 1 week.
+A 30-year-old man presented with multiple, bilaterally symmetrical, erythematous papular-vesicular lesions distributed over his neck, anterior trunk, posterior trunk, and upper arms (Figures 1 and 2). Face, mucosa, and lower limbs were spared. The skin lesions were mildly pruritic, appeared 4 days after the onset of fever, cough, and malaise. He had a history of varicella in childhood. His complete blood count, liver and kidney parameters, and C‐reactive protein were within normal limits. IgM antibodies were negative for varicella infection. Tzanck smear, carried out from a vesicle, showed many acantholytic cells with lymphocytes. Giant cells suggestive of herpes simplex virus infections were not found (Figure 3). SARS-CoV-2 real-time polymerase chain reaction of his nasopharyngeal swab showed COVID-19 positivity. A diagnosis of varicella-like exanthem secondary to COVID-19 was made. The patient was advised home isolation and managed conservatively. The patient's skin and systemic symptoms subsided within 1 week.
 
-Figure 1. 
+Figure 1.
 Multiple erythematous papular-vesicular lesions over neck, anterior trunk, and posterior trunk. This figure appears in color at.
 
-Figure 2. 
+Figure 2.
 A close-up view of the rash. This figure appears in color at.
 
-Figure 3. 
+Figure 3.
 Tzanck smear of a vesicle showed many acantholytic cells and a lymphocyte. This figure appears in color at.
 
-The vesicular lesions in COVID-19 are uncommon, typically seen in middle-aged patients, associated with intermediately severe disease. The prevalence of vesicular rash ranges from 3.77% to 15% in this disease.The cytokine storm secondary to immune hyperresponse, and direct cytopathic effect of SARS-CoV-2 on endothelium of dermal blood vessels, may form the pathophysiological basis of vesicular lesions.
+The vesicular lesions in COVID-19 are uncommon, typically seen in middle-aged patients, associated with intermediately severe disease. The prevalence of vesicular rash ranges from 3.77% to 15% in this disease. The cytokine storm secondary to immune hyperresponse, and direct cytopathic effect of SARS-CoV-2 on endothelium of dermal blood vessels, may form the pathophysiological basis of vesicular lesions.
 
 ---
 
@@ -236,7 +236,7 @@ The vesicular lesions in COVID-19 are uncommon, typically seen in middle-aged pa
 
 Clinical Introduction
 
-A 51-year-old male presented to the ED with a rash to his left thigh (figure 1) with erythema, swelling and pain. He endorsed paraesthesias, pruritus, fevers, vomiting and diarrhoea. Initial vitals were unremarkable. He was well appearing with an 8×8 cm violaceous patch on his left medial thigh with vesicles, surrounding erythema and induration with a second, smaller lesion on the right thigh. Both rashes were extremely tender.emermed;34/10/686/F1F1F1Figure 1Erythematosus and vesicular rash in bilateral legs.A bedside ultrasound image of the rash was obtained (figure 2).emermed;34/10/686/F2F2F2Figure 2Bedside ultrasound of rash.
+A 51-year-old male presented to the ED with a rash to his left thigh (figure 1) with erythema, swelling and pain. He endorsed paraesthesias, pruritus, fevers, vomiting and diarrhoea. Initial vitals were unremarkable. He was well appearing with an 8×8 cm violaceous patch on his left medial thigh with vesicles, surrounding erythema and induration with a second, smaller lesion on the right thigh. Both rashes were extremely tender.emermed;34/10/686/F1F1F1Figure 1Erythematosus and vesicular rash in bilateral legs. A bedside ultrasound image of the rash was obtained (figure 2).emermed;34/10/686/F2F2F2Figure 2Bedside ultrasound of rash.
 
 Question
 
@@ -248,13 +248,13 @@ What is the most likely cause of the patient's rash?A. Herpes zosterB. Celluliti
 
 Case report
 
-A 48-year-old male with a history of Down syndrome and gout presented to a dermatology clinic with a 2-day history of a new rash. The rash first appeared on his buttocks and spread to his thighs. It was pruritic and nontender. The only new medication exposure was a short course of indomethacin 3 weeks before presentation. The patient denied new exposures, travel, or new contactants. A review of his medical records indicated he had a productive cough for a week that prompted his primary care physician to obtain a chest x-ray, the findings from which were normal. Physical examination showed symmetric, well-demarcated, and erythematous plaques on his buttocks and thighs bilaterally. Drug reaction was less likely given the lack of truncal involvement. There was no pain or rubor suggestive of cellulitis. A diagnosis of contact dermatitis was favored given the bilateral and symmetric distribution and pruritus. He was instructed to use emollients and triamcinolone 0.1% ointment, as well as hydroxyzine for the itch.
+A 48-year-old male with a history of Down syndrome and gout presented to a dermatology clinic with a 2-day history of a new rash. The rash first appeared on his buttocks and spread to his thighs. It was pruritic and nontender. The only new medication exposure was a short course of indomethacin 3 weeks before presentation. The patient denied new exposures, travel, or new contactants. A review of his medical records indicated he had a productive cough for a week that prompted his primary care physician to obtain a chest x-ray, the findings from which were normal. Physical examination showed symmetric, well-demarcated, and erythematous plaques on his buttocks and thighs bilaterally. Drug reaction was less likely given the lack of truncal involvement. There was no pain or rubor suggestive of cellulitis. A diagnosis of contact dermatitis was favored given the bilateral and symmetric distribution and pruritus. He was instructed to use emollients and triamcinolone 0.1% ointment, as well as hydroxyzine for the itch.
 
 ---
 
 ### CDC yellow book 2026: health information for international travel. chapter 9 refugees, immigrants, and migrants [^699a4bec]. CDC (2025). High credibility.
 
-Scabies—clinical presentation features include a generalized or regional pruritic papular rash with erythema, abundant excoriations, and secondarily infected pustules, typically in a regionally symmetric pattern. Commonly involved sites include the volar wrists and finger web spaces, with the left and right sides usually involved in a nearly identical fashion; boys and men often develop nodular lesions on the scrotum and penis. When considering scabies in any male older than 2 years, a genital examination can be extremely helpful, and scabies burrows are short, delicate, linear lesions that involve the most superficial part of the epidermis; burrows are pathognomonic but challenging to detect.
+Scabies — clinical presentation features include a generalized or regional pruritic papular rash with erythema, abundant excoriations, and secondarily infected pustules, typically in a regionally symmetric pattern. Commonly involved sites include the volar wrists and finger web spaces, with the left and right sides usually involved in a nearly identical fashion; boys and men often develop nodular lesions on the scrotum and penis. When considering scabies in any male older than 2 years, a genital examination can be extremely helpful, and scabies burrows are short, delicate, linear lesions that involve the most superficial part of the epidermis; burrows are pathognomonic but challenging to detect.
 
 ---
 
@@ -272,18 +272,18 @@ Erythroderma is a dermatologic emergency with potentially serious consequences. 
 
 ### A painful rash on a white woman [^8ff9b340]. JAAD Case Reports (2020). Medium credibility.
 
-Question 2: Based on the patient's history and photograph (Fig 1), what is the most likely diagnosis? 
+Question 2: Based on the patient's history and photograph (Fig 1), what is the most likely diagnosis?
 A. Morbilliform drug eruption
 B. Irritant contact dermatitis
 C. Cutaneous metastasis of internal malignancy
 D. Erysipelas
 E. Herpes zoster
 
-Answers: 
-A. Morbilliform drug eruption – Incorrect. Morbilliform drug eruption is typically bilateral and symmetric upon presentation. It is commonly caused by recently started antibiotics but may be caused by initiation of multiple classes of drugs. Onset is typically within 4 weeks of beginning a new medication, making this answer less likely, as this patient had been on the same chemotherapy regimen for greater than 6 months.
+Answers:
+A. Morbilliform drug eruption – Incorrect. Morbilliform drug eruption is typically bilateral and symmetric upon presentation. It is commonly caused by recently started antibiotics but may be caused by initiation of multiple classes of drugs. Onset is typically within 4 weeks of beginning a new medication, making this answer less likely, as this patient had been on the same chemotherapy regimen for greater than 6 months.
 B. Irritant contact dermatitis – Incorrect. The clinical manifestations of irritant contact dermatitis range from mild skin dryness and erythema to acute or chronic eczematous dermatitis and even skin necrosis. This patient did not report exposure to chemical or physical irritants.
-C. Cutaneous metastasis of internal malignancy – Correct. Cutaneous metastases can display a wide morphologic spectrum of appearance in various locations, which is why in a patient with history of recent malignancy, a new rash located on the trunk should raise suspicion for a cutaneous metastasis. See Fig 2 for biopsy results of this lesion. This variable clinical morphology includes nodules, papules, plaques, tumors, and ulcers. Lung cancer commonly metastasizes to the head, neck, and trunk.Cutaneous metastases occur in 0.7% to 0.9% of all patients with cancer.
-D. Erysipelas – Incorrect. Erysipelas manifests as areas of skin erythema, edema, and warmth and develops as a result of bacterial entry via breaches in the skin barrier. This rash is sometimes accompanied by symptoms including a high fever of sudden onset with chills, and most cases affect the lower leg, ankle, or foot. This patient's rash slowly progressed over 4 weeks, unlike erysipelas, which develops more acutely and involves desquamation of the skin 5 to 10 days after onset.
+C. Cutaneous metastasis of internal malignancy – Correct. Cutaneous metastases can display a wide morphologic spectrum of appearance in various locations, which is why in a patient with history of recent malignancy, a new rash located on the trunk should raise suspicion for a cutaneous metastasis. See Fig 2 for biopsy results of this lesion. This variable clinical morphology includes nodules, papules, plaques, tumors, and ulcers. Lung cancer commonly metastasizes to the head, neck, and trunk. Cutaneous metastases occur in 0.7% to 0.9% of all patients with cancer.
+D. Erysipelas – Incorrect. Erysipelas manifests as areas of skin erythema, edema, and warmth and develops as a result of bacterial entry via breaches in the skin barrier. This rash is sometimes accompanied by symptoms including a high fever of sudden onset with chills, and most cases affect the lower leg, ankle, or foot. This patient's rash slowly progressed over 4 weeks, unlike erysipelas, which develops more acutely and involves desquamation of the skin 5 to 10 days after onset.
 E. Herpes zoster – Incorrect. Although this patient fits the age group that is commonly affected with herpes zoster, this patient's rash does not fit clinically. The rash starts as erythematous papules, typically in a single dermatome or several contiguous dermatomes and evolves into grouped vesicles or bullae. This patient's rash does somewhat follow along contiguous dermatomes, but does not consist of papules or vesicles as you would expect with herpes zoster.
 
 ---
@@ -296,23 +296,23 @@ This article describes the clinical presentation, differential diagnosis, and tr
 
 ### Neurosyphilis mimicking connective tissue disease [^5836f3e3]. BMJ Case Reports (2023). High credibility.
 
-A male in his 60s developed a pruritic, maculopapular rash on his torso and arms, sparing his palms and soles. He tested positive for ANA and an initial skin biopsy identified "bullous lupus," supporting the diagnosis of a connective tissue disease. Additional symptoms included headaches, facial nerve palsy and hearing loss, which partially responded to oral corticosteroids. He subsequently developed a steroid-dependent left eye scotoma, neuroretinitis and optic nerve papillitis. Mycophenolate mofetil was added but an attempted oral steroid taper led to a worsening rash, progressive retinitis and papillitis. Neurosyphilis was confirmed by serum positive rapid plasma reagin test, reactive treponema pallidum antibodies, positive cerebrospinal fluid venereal disease research laboratory and positive spirochete immunostain of skin biopsy of lesional (rash) tissue. Treatment with intravenous ceftriaxone resolved his rash and visual symptoms. It is important to consider syphilis as a mimicker of connective tissue diseases.
+A male in his 60s developed a pruritic, maculopapular rash on his torso and arms, sparing his palms and soles. He tested positive for ANA and an initial skin biopsy identified "bullous lupus", supporting the diagnosis of a connective tissue disease. Additional symptoms included headaches, facial nerve palsy and hearing loss, which partially responded to oral corticosteroids. He subsequently developed a steroid-dependent left eye scotoma, neuroretinitis and optic nerve papillitis. Mycophenolate mofetil was added but an attempted oral steroid taper led to a worsening rash, progressive retinitis and papillitis. Neurosyphilis was confirmed by serum positive rapid plasma reagin test, reactive treponema pallidum antibodies, positive cerebrospinal fluid venereal disease research laboratory and positive spirochete immunostain of skin biopsy of lesional (rash) tissue. Treatment with intravenous ceftriaxone resolved his rash and visual symptoms. It is important to consider syphilis as a mimicker of connective tissue diseases.
 
 ---
 
 ### A rare case of cutaneous Langerhans cell histiocytosis in an adult patient [^68d3b2a8]. JAAD Case Reports (2024). Medium credibility.
 
-To the Editor: Kuo et alrecently published a case of cutaneous only Langerhans cell histiocytosis (LCH) in an adult. We are aware of very few published cases of this clinical presentation. Here, we describe one such case in a 62-year-old adult male.
+To the Editor: Kuo et alrecently published a case of cutaneous only Langerhans cell histiocytosis (LCH) in an adult. We are aware of very few published cases of this clinical presentation. Here, we describe one such case in a 62-year-old adult male.
 
-A 62-year-old man with a history of intellectual disability presented to our clinic with a progressively diffuse pruritic rash that started 3 years prior. Despite previous treatments for allergic contact dermatitis and tinea corporis using topical corticosteroids and antifungals, the rash remained unimproved. Physical examination revealed circular follicular accentuated erythematous plaques and erythematous annular plaques on the scalp, chest, upper arms, dorsal hands, abdomen, inguinal folds, buttocks, and bilateral thighs (Fig 1). Since the patient was nonverbal, his sister and caregiver acted as the historian. Subsequently, biopsies were performed at 2 different sites due to concerns for cutaneous T-cell lymphoma (Fig 2).
+A 62-year-old man with a history of intellectual disability presented to our clinic with a progressively diffuse pruritic rash that started 3 years prior. Despite previous treatments for allergic contact dermatitis and tinea corporis using topical corticosteroids and antifungals, the rash remained unimproved. Physical examination revealed circular follicular accentuated erythematous plaques and erythematous annular plaques on the scalp, chest, upper arms, dorsal hands, abdomen, inguinal folds, buttocks, and bilateral thighs (Fig 1). Since the patient was nonverbal, his sister and caregiver acted as the historian. Subsequently, biopsies were performed at 2 different sites due to concerns for cutaneous T-cell lymphoma (Fig 2).
 
-Fig 1 
+Fig 1
 Initial visit. A, Right leg, (B) torso and upper extremities, (C) left lateral torso/arm, and (D) right lateral torso/arm.
 
-Fig 2 
-Second visit 1 Month later. A, Left hip (biopsy site), (B) left abdomen (biopsy site), (C) left anterior thigh, and (D) back.
+Fig 2
+Second visit 1 Month later. A, Left hip (biopsy site), (B) left abdomen (biopsy site), (C) left anterior thigh, and (D) back.
 
-Dermatopathology findings indicated a dense inflammatory infiltrate within the dermis, extending focally around deep vessels (Fig 3). Additionally, an increased number of lymphocytes, histiocytes, neutrophils, eosinophils, and numerous “bean-shaped” histiocytoid cells were noted. These cells stained positive for S-100 and CD1a, while CD-3 and CD-20 stains demonstrated a mixture of T and B cells. A CD-30 stain highlighted rare cells within the infiltrate. Collectively, these findings supported a diagnosis of LCH.
+Dermatopathology findings indicated a dense inflammatory infiltrate within the dermis, extending focally around deep vessels (Fig 3). Additionally, an increased number of lymphocytes, histiocytes, neutrophils, eosinophils, and numerous "bean-shaped" histiocytoid cells were noted. These cells stained positive for S-100 and CD1a, while CD-3 and CD-20 stains demonstrated a mixture of T and B cells. A CD-30 stain highlighted rare cells within the infiltrate. Collectively, these findings supported a diagnosis of LCH.
 
 ---
 
@@ -338,11 +338,11 @@ We describe a dramatic presentation of a rare condition, presenting as a diffuse
 
 ICI-exanthem
 
-ICI-exanthem is a common specific D-irAE that typically presents early in the ICI treatment course.Although there is some ambiguity in the name of this entity, the development of a type IV hypersensitivity (commonly manifested as an exanthematous/morbilliform drug rash) implies unique immunologic pathways that warrant a specific morphologic diagnosis.
+ICI-exanthem is a common specific D-irAE that typically presents early in the ICI treatment course. Although there is some ambiguity in the name of this entity, the development of a type IV hypersensitivity (commonly manifested as an exanthematous/morbilliform drug rash) implies unique immunologic pathways that warrant a specific morphologic diagnosis.
 
-ICI-exanthem often presents with itching, but burning has been reported and some cases can be asymptomatic.ICI-exanthem can be classified into two morphologic subtypes based on the panel’s experience: (1) morbilliform, characterized by erythematous papules (3–4 mm) that may coalesce into plaques on the torso, extremities, and less commonly the face; (2) macular erythema, which involves geographic erythematous patches or thin scaly erythematous plaques. Later in the course of an ICI-exanthem, superficial desquamation is often present.
+ICI-exanthem often presents with itching, but burning has been reported and some cases can be asymptomatic. ICI-exanthem can be classified into two morphologic subtypes based on the panel's experience: (1) morbilliform, characterized by erythematous papules (3–4 mm) that may coalesce into plaques on the torso, extremities, and less commonly the face; (2) macular erythema, which involves geographic erythematous patches or thin scaly erythematous plaques. Later in the course of an ICI-exanthem, superficial desquamation is often present.
 
-Notably, ICI-exanthem can precede more severe D-irAEs.As such, if patients who have been diagnosed with ICI-exanthem develop systemic symptoms, bullous lesions, or mucosal involvement, revision in D-irAE diagnostic category should be considered (online supplemental table S11).
+Notably, ICI-exanthem can precede more severe D-irAEs. As such, if patients who have been diagnosed with ICI-exanthem develop systemic symptoms, bullous lesions, or mucosal involvement, revision in D-irAE diagnostic category should be considered (online supplemental table S11).
 
 The proposed workup for ICI-exanthem includes the standard D-irAE evaluation. Diagnostic evaluation for ICI-exanthem commonly includes an FSE by a BCD and may include biopsies in cases without classic features or where there is morphologic overlap with other specific D-irAEs. Laboratory studies may be done to rule out systemic hypersensitivity.
 
@@ -350,9 +350,9 @@ Consensus by expert panel adjudication was reached for the morphologic subtypes 
 
 ---
 
-### Definition of rash-NCI dictionary of cancer terms (...) [^eb2fcd77]. NCI (2011). Low credibility.
+### Definition of rash-NCI dictionary of cancer terms… [^eb2fcd77]. NCI (2011). Low credibility.
 
-rashListen to pronunciationAn area of the skin that has changes in texture or color and may look inflamed or irritated. The skin may be red, warm, scaly, bumpy, dry, itchy, swollen, or painful. It may also crack or blister. A rash can occur in one area of the body or all over the body and may look very different depending on the cause. .. . It may be a sign of a specific medical condition or a side effect of a medicine or treatment. Some causes of skin rashes include allergies, infection, heat, and immune system disorders. Search NCI's Dictionary of Cancer TermsStarts withContainsBrowse: ABCDEFGHIJKLMNOPQRSTUVWXYZ#
+rashListen to pronunciationAn area of the skin that has changes in texture or color and may look inflamed or irritated. The skin may be red, warm, scaly, bumpy, dry, itchy, swollen, or painful. It may also crack or blister. A rash can occur in one area of the body or all over the body and may look very different depending on the cause. It may be a sign of a specific medical condition or a side effect of a medicine or treatment. Some causes of skin rashes include allergies, infection, heat, and immune system disorders.
 
 ---
 
@@ -378,20 +378,20 @@ Hemorrhagic rashes are observed in a wide variety of conditions, ranging from ha
 
 Maculopapular rash
 
-Twenty seven (13.7%) participants reported an erythematous maculopapular rash of varying distribution and rapid onset, separate to areas of blistering or pustules. One of these participants had positive syphilis serology (n=4 unknown).
+Twenty seven (13.7%) participants reported an erythematous maculopapular rash of varying distribution and rapid onset, separate to areas of blistering or pustules. One of these participants had positive syphilis serology (n = 4 unknown).
 
-One participant, a 36-year-old man with a history of HIV (viral load <200 copies/mL on antiretroviral therapy, CD4 count >400 cells/μL), reported a rapidly progressive maculopapular rash soon after developing perianal vesicles.
+One participant, a 36-year-old man with a history of HIV (viral load < 200 copies/mL on antiretroviral therapy, CD4 count > 400 cells/μL), reported a rapidly progressive maculopapular rash soon after developing perianal vesicles.
 
-The vesicles initially progressed into three pruritic, pustular, perianal lesions. On day 4 the patient presented to the sexual health service with rectal pain, tenesmus, rectal bleeding, and difficulty defecating. He was treated empirically for proctitis with doxycycline 100 mg twice daily and aciclovir 400 mg three times daily. On day 6 the patient awoke to a widespread symmetrical, pruritic maculopapular rash across his torso, back, legs, and buttocks, and reported inguinal lymphadenopathy (fig 6 ; also see supplementary figure 6). He denied any fever or systemic features. Results for herpes simplex virus, N gonorrhoeae, and C trachomatis (3 in 1 sampling) and T pallidum were negative. By day 8 the perianal lesions had begun to crust over, tenesmus had improved, and the rash had started to diminish.
+The vesicles initially progressed into three pruritic, pustular, perianal lesions. On day 4 the patient presented to the sexual health service with rectal pain, tenesmus, rectal bleeding, and difficulty defecating. He was treated empirically for proctitis with doxycycline 100 mg twice daily and aciclovir 400 mg three times daily. On day 6 the patient awoke to a widespread symmetrical, pruritic maculopapular rash across his torso, back, legs, and buttocks, and reported inguinal lymphadenopathy (fig 6; also see supplementary figure 6). He denied any fever or systemic features. Results for herpes simplex virus, N gonorrhoeae, and C trachomatis (3 in 1 sampling) and T pallidum were negative. By day 8 the perianal lesions had begun to crust over, tenesmus had improved, and the rash had started to diminish.
 
-Fig 6 
+Fig 6
 Symmetrical maculopapular rash of the torso, back, and buttocks. Also see supplementary figure 6
 
 ---
 
 ### Papular-vesicular rash in COVID-19 [^09e3b5d5]. The American Journal of Tropical Medicine and Hygiene (2021). Medium credibility.
 
-The rash usually appears 3 days after the onset of systemic symptoms and disappears by 8 days. The characteristic features of this vesicular exanthem are mild/absent pruritus, frequent trunk involvement, small size, scattered distribution of lesions, and heals without scar.Two morphological patterns of this rash are 1) widespread polymorphic pattern—more common, consisting of small papules, vesicles, and pustules, and 2) localized pattern—less prevalent, consisting of monomorphic lesions over anterior or posterior trunk.
+The rash usually appears 3 days after the onset of systemic symptoms and disappears by 8 days. The characteristic features of this vesicular exanthem are mild/absent pruritus, frequent trunk involvement, small size, scattered distribution of lesions, and heals without scar. Two morphological patterns of this rash are 1) widespread polymorphic pattern — more common, consisting of small papules, vesicles, and pustules, and 2) localized pattern — less prevalent, consisting of monomorphic lesions over anterior or posterior trunk.
 
 The histology shows dyskeratosis, ballooning multinucleated cells, and scanty necrotic keratinocytes with lymphocytic satellitosis. Dermal and vessel wall edema, perivascular lymphocytic infiltrates, and red blood cells (RBCs) extravasation are the other findings seen.
 
@@ -403,18 +403,18 @@ Varicella-like exanthem is a COVID-19-specific rash whose identification is help
 
 A 35 6 or 7-week diamniotic dichorionic twin admitted to the neonatal intensive care unit for respiratory distress presented at day 2 of life with an erythematous papulovesicular rash involving her right leg. On days 3 to 4, the rash spread to the right thigh, foot, and toes, in a linear pattern following the lines of Blaschko with overlying scale and erosions (Fig 1, Fig 2, Fig 3). Her fraternal twin brother presented with no similar findings and there was no family history of any similar rash. A viral swab was performed from vesicular fluid and negative for herpes simplex virus (HSV) by polymerase chain reaction. A punch biopsy was taken. There were no other systemic abnormalities on presentation.
 
-Question 1: Which of the following is the most likely diagnosis? 
+Question 1: Which of the following is the most likely diagnosis?
 A. Incontinentia pigmenti
 B. HSV
 C. Inflammatory linear verrucous epidermal nevus (ILVEN)
 D. Lichen striatus
 E. Linear porokeratosis
 
-Answers: 
+Answers:
 A. Incontinentia pigmenti – Incorrect. Incontinentia pigmenti, is a congenital X-linked dominant condition, which is characterized by 4 stages. The first vesiculobullous stage, lasting days to weeks, presents erythematous vesicles in a linear distribution on torso/extremities. Although some neonatal cases note neurological or ophthalmological abnormalities, this patient had no systemic findings such as seizures or family history of rash.
 B. HSV – Incorrect. HSV typically presents as grouped erythematous vesicles, not linear lesions in a Blaschkoid pattern. Additionally, the HSV polymerase chain reaction was negative, making this an unlikely diagnosis.
 C. ILVEN – Correct. ILVEN is a rare variant of an epidermal nevus is typically seen in early childhood, but can occasionally present at birth. Lesions are typically pruritic, erythematous, verrucous papules, and plaques in a linear distribution following the lines of Blaschko, but can present as vesicles at early presentation.
-D. Lichen striatus – Incorrect. Lichen striatus presents as flat-topped flesh-colored or hypopigmented papules along the lines of Blaschko. Lesions typically do not present at birth, but typically presents between 4 months and 15 years of life.
+D. Lichen striatus – Incorrect. Lichen striatus presents as flat-topped flesh-colored or hypopigmented papules along the lines of Blaschko. Lesions typically do not present at birth, but typically presents between 4 months and 15 years of life.
 E. Linear porokeratosis – Incorrect. Linear porokeratosis commonly appears on the extremities as unilateral hyperkeratotic papules in a linear pattern along the lines of Blaschko. Lesions usually present at early childhood.
 
 ---
@@ -429,13 +429,13 @@ Regarding screening and diagnosis for mpox, more specifically with respect to di
 
 Background
 
-Recent years have witnessed a breakthrough in the therapy of advanced melanoma. Ipilimumab, a fully humanized monoclonal IgG1 antibody targeting the immunological checkpoint surface molecule cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4), has been shown to improve the overall survival of patients with metastatic melanoma in clinical trials. Dermatologic toxicity is a common drug-related adverse event associated with this treatment. Approximately half of the patients treated with ipilimumab will experience rash and/or pruritus. For most patients, dermatologic toxicity is the earliest detectable immune-related adverse event, with average onset at 3.6 weeks after the initiation of immunotherapy. Typical macroscopic findings include polymorphic, reticular, maculopapular, faintly erythematous rashes on the trunk or extremities and vitiligo. Histologically, superficial and deep perivascular lymphocytic infiltrates consisting of CD4+ and CD8+ effector T-cells with a concomitant infiltrate of CD4+ Foxp3+ regulatory T-cells have been observed indicating a partial breach of tolerance to normal skin.
+Recent years have witnessed a breakthrough in the therapy of advanced melanoma. Ipilimumab, a fully humanized monoclonal IgG1 antibody targeting the immunological checkpoint surface molecule cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4), has been shown to improve the overall survival of patients with metastatic melanoma in clinical trials. Dermatologic toxicity is a common drug-related adverse event associated with this treatment. Approximately half of the patients treated with ipilimumab will experience rash and/or pruritus. For most patients, dermatologic toxicity is the earliest detectable immune-related adverse event, with average onset at 3.6 weeks after the initiation of immunotherapy. Typical macroscopic findings include polymorphic, reticular, maculopapular, faintly erythematous rashes on the trunk or extremities and vitiligo. Histologically, superficial and deep perivascular lymphocytic infiltrates consisting of CD4+ and CD8+ effector T-cells with a concomitant infiltrate of CD4+ Foxp3+ regulatory T-cells have been observed indicating a partial breach of tolerance to normal skin.
 
 ---
 
 ### CDC yellow book 2026: health information for international travel. chapter 9 refugees, immigrants, and migrants [^da1f6b35]. CDC (2025). High credibility.
 
-Varicella (chickenpox)—disease can be mild in children and more severe in adults or immunocompromised patients, and it presents with 1–2 days of fever followed by a generalized pruritic rash of macules that evolve through papular, vesicular, and pustular stages on an erythematous base that resolve by crusting; lesions often occur in crops and various stages are present simultaneously, so papules, vesicles, pustules, and crusts may all occur at the same time.
+Varicella (chickenpox) — disease can be mild in children and more severe in adults or immunocompromised patients, and it presents with 1–2 days of fever followed by a generalized pruritic rash of macules that evolve through papular, vesicular, and pustular stages on an erythematous base that resolve by crusting; lesions often occur in crops and various stages are present simultaneously, so papules, vesicles, pustules, and crusts may all occur at the same time.
 
 ---
 
@@ -443,7 +443,7 @@ Varicella (chickenpox)—disease can be mild in children and more severe in adul
 
 Case Presentation
 
-A 35-year-old man presented to the ED with a 7-day history of fever, asthenia, and cough. He had previously received a 3-day course of amoxicillin and clavulanic acid (1 g tid po) and then ceftriaxone (1 g IM once per day) prescribed by his general practitioner with no substantial benefit. He was an active smoker (11.2 pack/y), without known allergy-related syndromes and any important reports in his medical history.
+A 35-year-old man presented to the ED with a 7-day history of fever, asthenia, and cough. He had previously received a 3-day course of amoxicillin and clavulanic acid (1 g tid po) and then ceftriaxone (1 g IM once per day) prescribed by his general practitioner with no substantial benefit. He was an active smoker (11.2 pack/y), without known allergy-related syndromes and any important reports in his medical history.
 
 ---
 
@@ -463,41 +463,42 @@ After establishing a diagnosis of DH, GFD implementation should be recommended, 
 
 Introduction
 
-Darier disease, also named Darier-White disease and keratosis follicularis, is an inherited skin disease that commonly presents in childhood but can present later in life. Clinically, disease is characterized by multiple brown keratotic papules coalescing into greasy plaques in the seborrheic distribution/areas of the body. Lesions are histologically characterized as acantholytic dyskeratosis with associated hyperkeratosis.Most cases first appear between ages 6 and 20 years old and clinically present in a generalized and symmetric distribution, but approximately 10% of patients present with localized disease described as segmental, unilateral, linear, or zosteriform.Here, we discuss a case of a 74-year-old Caucasian male with a linear truncal rash after hospitalization for COVID-19 infection. While COVID-19 vaccination has been reported to precipitate Darier disease, Darier disease after natural COVID-19 infection has not been previously published.
+Darier disease, also named Darier-White disease and keratosis follicularis, is an inherited skin disease that commonly presents in childhood but can present later in life. Clinically, disease is characterized by multiple brown keratotic papules coalescing into greasy plaques in the seborrheic distribution/areas of the body. Lesions are histologically characterized as acantholytic dyskeratosis with associated hyperkeratosis. Most cases first appear between ages 6 and 20 years old and clinically present in a generalized and symmetric distribution, but approximately 10% of patients present with localized disease described as segmental, unilateral, linear, or zosteriform. Here, we discuss a case of a 74-year-old Caucasian male with a linear truncal rash after hospitalization for COVID-19 infection. While COVID-19 vaccination has been reported to precipitate Darier disease, Darier disease after natural COVID-19 infection has not been previously published.
 
 ---
 
 ### Erythema multiforme: recognition and management [^bdf459d4]. American Family Physician (2019). Medium credibility.
 
-The following constitutes key background information on erythema multiforme: 
-- Definition: Erythema multiforme is an immune-mediated disorder characterized by the presence of distinctive target lesions on the skin (primarily in acral regions) and/or mucous membranes.
-- Pathophysiology: The exact pathophysiology of erythema multiforme is not fully understood, but it is believed to be an immune reaction triggered by various factors. Infections, particularly HSV, are the most common triggers. Other viruses, such as HCV, Coxsackievirus, and EBV, as well as Mycoplasma pneumoniae, certain medications, and vaccines have also been implicated.
-- Epidemiology: The incidence of erythema multiforme is believed to be 0.01-1% annually, most commonly affecting individuals aged 18-30 years.
-- Risk factors: Risk factors for erythema multiforme include infections, especially HSV, and exposure to certain medications. However, in many cases, no specific trigger or risk factor can be identified.
-- Disease course: Clinically, erythema multiforme presents with symmetrically distributed target lesions on the extremities and trunk. These lesions are characterized by concentric zones of color change. The severity of erythema multiforme can vary widely, from mild forms with only skin involvement to severe forms that affect multiple mucous membranes and can be life-threatening.
-- Prognosis and risk of recurrence: The prognosis for erythema multiforme is generally favorable. Most cases are self-limiting and resolve within weeks to months without long-term complications.
+The following constitutes key background information on erythema multiforme:
+
+- **Definition**: Erythema multiforme is an immune-mediated disorder characterized by the presence of distinctive target lesions on the skin (primarily in acral regions) and/or mucous membranes.
+- **Pathophysiology**: The exact pathophysiology of erythema multiforme is not fully understood, but it is believed to be an immune reaction triggered by various factors. Infections, particularly HSV, are the most common triggers. Other viruses, such as HCV, Coxsackievirus, and EBV, as well as Mycoplasma pneumoniae, certain medications, and vaccines have also been implicated.
+- **Epidemiology**: The incidence of erythema multiforme is believed to be 0.01–1% annually, most commonly affecting individuals aged 18–30 years.
+- **Risk factors**: Risk factors for erythema multiforme include infections, especially HSV, and exposure to certain medications. However, in many cases, no specific trigger or risk factor can be identified.
+- **Disease course**: Clinically, erythema multiforme presents with symmetrically distributed target lesions on the extremities and trunk. These lesions are characterized by concentric zones of color change. The severity of erythema multiforme can vary widely, from mild forms with only skin involvement to severe forms that affect multiple mucous membranes and can be life-threatening.
+- **Prognosis and risk of recurrence**: The prognosis for erythema multiforme is generally favorable. Most cases are self-limiting and resolve within weeks to months without long-term complications.
 
 ---
 
 ### The American Academy of Dermatology COVID-19 registry: crowdsourcing dermatology in the age of COVID-19 [^d558584c]. Journal of the American Academy of Dermatology (2020). High credibility.
 
-Dermatologic manifestations of COVID-19—reported phenotypes and early series are noted. There have been increasing reports of dermatologic manifestations of COVID-19. The first case series of dermatologic manifestations included 18 Italian patients with erythematous, urticarial, and vesicular rashes, often on the trunk. Other reports include drug hypersensitivity, urticaria, a petechial rash mimicking dengue, and acroischemia.
+Dermatologic manifestations of COVID-19 — reported phenotypes and early series are noted. There have been increasing reports of dermatologic manifestations of COVID-19. The first case series of dermatologic manifestations included 18 Italian patients with erythematous, urticarial, and vesicular rashes, often on the trunk. Other reports include drug hypersensitivity, urticaria, a petechial rash mimicking dengue, and acroischemia.
 
 ---
 
 ### A photodistributed eruption in an immunosuppressed patient [^2eff08ac]. JAAD Case Reports (2021). Medium credibility.
 
-Question 1: What is the most likely diagnosis? 
+Question 1: What is the most likely diagnosis?
 A. Photolocalized varicella
 B. Phototoxic drug reaction
 C. Porphyria cutanea tarda
 D. Polymorphous light eruption (PMLE)
 E. Subacute cutaneous lupus erythematosus
 
-Answers: 
-A. Photolocalized varicella – Correct. Varicella is a common viral infection with a characteristic exanthem. Although viral rashes aggravated by sun exposure, trauma, and inflammation have been described, photolocalized varicella is rare, and the typical distribution may not be seen.As with our patient, a mild viral prodrome or constitutional symptoms are often reported. This case highlights the importance of including varicella in the differential diagnosis of a photolocalized eruption, especially in a patient with a known history of exposure and immunosuppression.
-B. Phototoxic drug reaction – Incorrect. Phototoxic drug reactions present as more similar to a sunburn than to a pruritic eruption. Commonly reported etiologic drugs include vemurafenib, voriconazole, doxycycline, hydrochlorothiazide, amiodarone, and chlorpromazine.This patient was taking only ustekinumab and prednisone.
-C. Porphyria cutanea tarda – Incorrect. Porphyria cutanea tarda is a disorder of porphyrin accumulation and is characterized by painful vesicles that develop on sun-exposed areas of the skin, most commonly the hands and face.Most cases are due to acquired or inherited uroporphyrinogen decarboxylase deficiency.
+Answers:
+A. Photolocalized varicella – Correct. Varicella is a common viral infection with a characteristic exanthem. Although viral rashes aggravated by sun exposure, trauma, and inflammation have been described, photolocalized varicella is rare, and the typical distribution may not be seen. As with our patient, a mild viral prodrome or constitutional symptoms are often reported. This case highlights the importance of including varicella in the differential diagnosis of a photolocalized eruption, especially in a patient with a known history of exposure and immunosuppression.
+B. Phototoxic drug reaction – Incorrect. Phototoxic drug reactions present as more similar to a sunburn than to a pruritic eruption. Commonly reported etiologic drugs include vemurafenib, voriconazole, doxycycline, hydrochlorothiazide, amiodarone, and chlorpromazine. This patient was taking only ustekinumab and prednisone.
+C. Porphyria cutanea tarda – Incorrect. Porphyria cutanea tarda is a disorder of porphyrin accumulation and is characterized by painful vesicles that develop on sun-exposed areas of the skin, most commonly the hands and face. Most cases are due to acquired or inherited uroporphyrinogen decarboxylase deficiency.
 D. PMLE – Incorrect. PMLE is an idiopathic photodermatosis that can present with a wide range of morphologies.PMLE can affect any skin type but is more commonly reported in lighter skin types. Systemic symptoms are rare in PMLE.
 E. Subacute cutaneous lupus erythematosus – Incorrect. Subacute cutaneous lupus erythematosus is a subtype of cutaneous lupus erythematosus that usually presents symmetrically as an annular or papulosquamous eruption distributed on the sun-exposed sites of the skin.
 
@@ -505,21 +506,21 @@ E. Subacute cutaneous lupus erythematosus – Incorrect. Subacute cutaneous lupu
 
 ### Diagnostic value of cutaneous manifestation of SARS-CoV-2 infection [^214c64a2]. The British Journal of Dermatology (2021). Medium credibility.
 
-Figure 2 
+Figure 2
 Example of COVID‐19‐related cutaneous manifestations. (a) Papular rash. Top: erythematopapular rash on the back. Bottom: erythematopapular eruption on the forearm; some blistering and necrosis of the top layers of the epidermis is also visible. (b) Urticarial rash. Top: large urticated plaques on the back of the thighs and popliteal fossae. Bottom: widespread urticaria on the torso. (c) Acral rash. Top: erythema on the dorsal aspect of the second and third toes with a blister on the second toe. Bottom: erythematous annular lesions with some shedding of the epidermis on the fingers and palms. (d) Vasculitic body. Top: petechiae on the dorsum of the foot. Bottom: multiple petechiae with blood cell extravasation on the calf. (e) Livedo reticularis. Top: livedo reticularis on the arm. Bottom: livedo reticularis on the thigh.
 
-The average duration of cutaneous rash was 13 days for acral lesions, 14 days for papular lesions and 5 days for urticaria (significantly shorter duration; Wilcoxon’s P < 2.3×10 ‐6 ; Figure 3).
+The average duration of cutaneous rash was 13 days for acral lesions, 14 days for papular lesions and 5 days for urticaria (significantly shorter duration; Wilcoxon's P < 2.3×10 ‐6; Figure 3).
 
-Figure 3 
-Duration of symptoms. Distribution of symptom duration is shown for the three most common cutaneous symptoms diagnosed from the selected photographs. P ‐values were generated via Wilcoxon’s test.
+Figure 3
+Duration of symptoms. Distribution of symptom duration is shown for the three most common cutaneous symptoms diagnosed from the selected photographs. P ‐values were generated via Wilcoxon's test.
 
 ---
 
-### Mogamulizumab-associated rash during treatment of mycosis fungoides or Sézary syndrome (...) [^f4bcd4a2]. JAMA Network (2021). Excellent credibility.
+### Mogamulizumab-associated rash during treatment of mycosis fungoides or Sézary syndrome… [^f4bcd4a2]. JAMA Network (2021). Excellent credibility.
 
-This case series found that mogamulizumab-associated rash had a heterogeneous clinical presentation with variable and delayed onset in patients with MF or SS. Mogamulizumab-associated rash exhibited a predilection for the head and neck and was difficult to clinically distinguish from relapse or progression of disease. Recognition of the most common clinical presentations can help prevent unnecessary discontinuation of mogamulizumab treatment. The presence of MAR does not necessitate permanent discontinuation of or avoidance of retreatment with mogamulizumab. In the ATLL population, rash develops most commonly between cycles 4 and 8 of mogamulizumab treatment. 10-12. The most common anatomical region involved by MAR was the head and neck, with a striking and unique involvement of the scalp in most patients, followed by involvement of the trunk, arms, and legs.
+This case series found that mogamulizumab-associated rash had a heterogeneous clinical presentation with variable and delayed onset in patients with MF or SS. Mogamulizumab-associated rash exhibited a predilection for the head and neck and was difficult to clinically distinguish from relapse or progression of disease. Recognition of the most common clinical presentations can help prevent unnecessary discontinuation of mogamulizumab treatment. The presence of MAR does not necessitate permanent discontinuation of or avoidance of retreatment with mogamulizumab. In the ATLL population, rash develops most commonly between cycles 4 and 8 of mogamulizumab treatment. 10–12. The most common anatomical region involved by MAR was the head and neck, with a striking and unique involvement of the scalp in most patients, followed by involvement of the trunk, arms, and legs.
 
-because of global clinical remission; disease progression; and change of systemic management to methotrexate to treat MAR and MF or SS. In this single-institution case series of 19 patients with MF or SS treated with mogamulizumab, MAR was observed in 33% of patients, mostly in the patients with SS, and demonstrated heterogeneous features, including diverse clinical presentation with delayed onset and persistent course. Time to onset of MAR can be weeks to even months after drug therapy discontinuation. Unique to MAR is that nearly all patients exhibit involvement of hair-bearing areas of the scalp. In some of these cases, the head and neck–predominant presentation was distinct from the patient’s original disease morphologic and anatomical distribution, enabling astute clinical recognition of MAR as confirmed by histopathologic analysis and TCR clonality studies.
+because of global clinical remission; disease progression; and change of systemic management to methotrexate to treat MAR and MF or SS. In this single-institution case series of 19 patients with MF or SS treated with mogamulizumab, MAR was observed in 33% of patients, mostly in the patients with SS, and demonstrated heterogeneous features, including diverse clinical presentation with delayed onset and persistent course. Time to onset of MAR can be weeks to even months after drug therapy discontinuation. Unique to MAR is that nearly all patients exhibit involvement of hair-bearing areas of the scalp. In some of these cases, the head and neck–predominant presentation was distinct from the patient's original disease morphologic and anatomical distribution, enabling astute clinical recognition of MAR as confirmed by histopathologic analysis and TCR clonality studies.
 
 As seen in this study, MAR presents as a heterogeneous skin eruption that is crucial to recognize and distinguish from relapse or progression of disease in patients with MF or SS. No life-threatening drug-induced events were observed, and mogamulizumab therapy continuation and retreatment may be considered in the appropriate clinical context. Further studies are needed to confirm these findings, investigate the pathogenesis of MAR, and determine implications of MAR on prognosis regarding disease response to mogamulizumab.
 
@@ -533,7 +534,7 @@ Clinical Presentation
 
 The clinical picture of DH consists of an itchy rash occurring in the favored sites of the elbows, the extensor surfaces of the forearms, the knees, and the buttocks, including the sacral area (Fig. 1). The rash is polymorphic, consisting of small blisters, papules, and erythema; however, because of the intense itch and associated scratching, erosions, crusts, and postinflammatory hyperpigmentation often dominate the clinical picture. The localization of the rash is so typical for DH that the itchy rash in the predominant skin sites usually raises suspicion of DH. However, the severity of the rash varies between individuals, and a more intense rash may also affect other sites, such as the scalp, face, and upper back. The clinical picture and severity of the DH rash seem to have remained unchanged over recent decades without becoming milder or otherwise nonclassical as seen in celiac disease. The itch in DH is very prominent; in half of the patients, it is a constant finding and correlates with common sleep disturbances. Triggering factors such as taking indomethacin and inadvertent dietary iodide ingestion are known to exacerbate the rash and itching. A few cases of localized DH on the face or elsewhere on the body have been described. Acral purpura is a rare finding in DH and may be seen either with the typical rash or as the only symptom of the disease, especially in children with DH.
 
-Fig. 1 
+Fig. 1
 Dermatitis herpetiformis lesions on the a elbows and b knees: observe symmetrical distribution and erosions due to scratching. c A close-up view of a small blister. d Direct immunofluorescence finding of uninvolved skin showing pathognomonic granular immunoglobulin A deposits at the dermo-epidermal junction
 
 The differential diagnosis of DH includes various itchy, excoriated, and blistering skin diseases. Linear IgA disease and sometimes bullous pemphigoid may clinically resemble DH, but immunofluorescence examination easily differentiates these disorders. Other itchy skin diseases, such as scabies, atopic and nummular dermatitis, lichen planus, and urticaria may also resemble DH, but the most obvious difference is the symmetrical distribution of the rash on the favored sites in DH.
@@ -542,7 +543,7 @@ The differential diagnosis of DH includes various itchy, excoriated, and blister
 
 ### CDC yellow book 2026: health information for international travel. chapter 10 post-travel evaluation [^2a6dcbe3]. CDC (2025). High credibility.
 
-Varicella (chickenpox)—Varicella can be mild in children and more severe in adults or immunocompromised patients and presents with 1–2 days of fever followed by a generalized pruritic rash of macules that evolve through the papular stage to form vesicles and pustules on an erythematous base that resolve by crusting; lesions often occur in crops and multiple stages can be present simultaneously, with papules, vesicles, pustules, and crusts occurring at the same time.
+Varicella (chickenpox) — Varicella can be mild in children and more severe in adults or immunocompromised patients and presents with 1–2 days of fever followed by a generalized pruritic rash of macules that evolve through the papular stage to form vesicles and pustules on an erythematous base that resolve by crusting; lesions often occur in crops and multiple stages can be present simultaneously, with papules, vesicles, pustules, and crusts occurring at the same time.
 
 ---
 
@@ -566,54 +567,54 @@ A 3-year-old boy presented with a 5-day history of bullous skin lesions localise
 
 ### Pink edematous papules and plaques of the trunk and extremities [^10940262]. JAAD Case Reports (2021). Medium credibility.
 
-A 72-year-old man presented to our outpatient dermatology clinic in San Diego, California, complaining of a 3-month progressive asymptomatic rash that began appearing on his left leg (Fig 1) and spread to involve his right leg, trunk, face, and upper extremities (Fig 2). History was notable for remote travel to Mexico and the Philippines. The patient was born in the Philippines and moved to the United States 30 years ago. The review of systems was negative for weight loss, night sweats, cough, fever, shortness of breath, skin pain, or sensory changes to the involved skin. Past medical history was unremarkable. No new medications were started prior to the onset of the rash. Physical examination noted numerous edematous pink papules and plaques of the trunk, face, arms, and legs. Histopathologic examination of a skin biopsy specimen showed extensive granulomatous dermal inflammation (Fig 3).
+A 72-year-old man presented to our outpatient dermatology clinic in San Diego, California, complaining of a 3-month progressive asymptomatic rash that began appearing on his left leg (Fig 1) and spread to involve his right leg, trunk, face, and upper extremities (Fig 2). History was notable for remote travel to Mexico and the Philippines. The patient was born in the Philippines and moved to the United States 30 years ago. The review of systems was negative for weight loss, night sweats, cough, fever, shortness of breath, skin pain, or sensory changes to the involved skin. Past medical history was unremarkable. No new medications were started prior to the onset of the rash. Physical examination noted numerous edematous pink papules and plaques of the trunk, face, arms, and legs. Histopathologic examination of a skin biopsy specimen showed extensive granulomatous dermal inflammation (Fig 3).
 
 ---
 
-### Viral rash (...) [^4d7c6919]. publications.aap.org (2025). Medium credibility.
+### Viral rash… [^4d7c6919]. publications.aap.org (2025). Medium credibility.
 
 Subjects: Skin
-- Widespread Symptoms Author: Barton Schmitt MD, FAAP Copyright 2000-2023 Schmitt Pediatric Guidelines LLC Disclaimer: This health information is for educational purposes only. You the reader assume full responsibility for how you choose to use it. The information contained in this handout should not be used as a substitute for the medical care and advice of your pediatrician. Listing of any resources does not imply an endorsement.
+- Widespread Symptoms Author: Barton Schmitt MD, FAAP Copyright 2000–2023 Schmitt Pediatric Guidelines LLC Disclaimer: This health information is for educational purposes only. You the reader assume full responsibility for how you choose to use it. The information contained in this handout should not be used as a substitute for the medical care and advice of your pediatrician. Listing of any resources does not imply an endorsement.
 
 ---
 
 ### Diffuse pustules overlying brightly erythematous plaques in skin of color [^ecb0974f]. JAAD Case Reports (2025). Medium credibility.
 
-Question 1: What is the most likely diagnosis? 
+Question 1: What is the most likely diagnosis?
 A. Miliaria pustulosa
 B. Bacterial folliculitis
 C. Acute generalized exanthematous pustulosis (AGEP)
 D. Toxic epidermal necrolysis/Stevens-Johnson syndrome
 E. Drug rash with eosinophilia and systemic symptoms
 
-Answers: 
+Answers:
 A. Miliaria pustulosa – Incorrect. Although miliaria pustulosa can present with pinpoint pustules overlying erythematous patches or plaques, miliaria pustulosa often favors flexural, intertriginous areas; in contrast, this patient presented with a much more diffuse eruption covering the neck, trunk, and extremities with no clear predilection for areas prone to occlusion and hyperhidrosis. Furthermore, the patient did not report intense pruritus or stinging characteristic of miliaria pustulosa.
 B. Bacterial folliculitis – Incorrect. Bacterial folliculitis presents with isolated, follicular-based papules or pustules, which is inconsistent with the clustered, nonfollicular pustules observed in this patient. Furthermore, the negative wound culture decreases likelihood of a bacterial etiology.
-C. Acute generalized exanthematous pustulosis (AGEP) – Correct. AGEP is a rare pustular severe cutaneous adverse reaction classically triggered by beta-lactam antibiotics, including amoxicillin-clavulanic acid, which the patient had taken 3 days before eruption’s onset. The timeline of the rash and fever, the eruption of small, nonfollicular pustules overlying erythematous plaques, the lack of mucosal involvement, the neutrophilia on laboratory, and the spongiosis with papillary edema on pathology are characteristic of AGEP.
+C. Acute generalized exanthematous pustulosis (AGEP) – Correct. AGEP is a rare pustular severe cutaneous adverse reaction classically triggered by beta-lactam antibiotics, including amoxicillin-clavulanic acid, which the patient had taken 3 days before eruption's onset. The timeline of the rash and fever, the eruption of small, nonfollicular pustules overlying erythematous plaques, the lack of mucosal involvement, the neutrophilia on laboratory, and the spongiosis with papillary edema on pathology are characteristic of AGEP.
 D. Toxic epidermal necrolysis/Stevens-Johnson syndrome – Incorrect. Toxic epidermal necrolysis/Stevens-Johnson syndrome is characterized by targetoid lesions, bullae formation, full-thickness epidermal necrosis, and mucosal and ocular involvement, which were not seen in this patient.
-E. Drug rash with eosinophilia and systemic symptoms – Incorrect. Pustules are rarely observed in DRESS. Although the patient had autoimmune hepatitis at baseline, she did not have new or worsening internal organ involvement as is commonly observed in DRESS. In terms of timeline, symptoms of DRESS typically develop 2 to 8 weeks after initiation of the offending drug, in contrast to the acute onset in this patient.
+E. Drug rash with eosinophilia and systemic symptoms – Incorrect. Pustules are rarely observed in DRESS. Although the patient had autoimmune hepatitis at baseline, she did not have new or worsening internal organ involvement as is commonly observed in DRESS. In terms of timeline, symptoms of DRESS typically develop 2 to 8 weeks after initiation of the offending drug, in contrast to the acute onset in this patient.
 
 ---
 
-### Cutaneous manifestations in patients with mastocytosis: consensus report of the European competence network on mastocytosis ; the American Academy of Allergy, Asthma&Immunology ; and the European academy of allergology and clinical immunology [^06a897cd]. The Journal of Allergy and Clinical Immunology (2016). Medium credibility.
+### Cutaneous manifestations in patients with mastocytosis: consensus report of the European competence network on mastocytosis; the American Academy of Allergy, Asthma&Immunology; and the European academy of allergology and clinical immunology [^06a897cd]. The Journal of Allergy and Clinical Immunology (2016). Medium credibility.
 
-Adult-onset maculopapular cutaneous mastocytosis—age at onset and lesion burden: Most adult patients develop mastocytosis between 20 to 35 years of age, and in some cases the first lesions even appear after the age of 65 to 70 years; lesion counts vary widely from fewer than 10 lesions to almost universal coverage, lesions often start on the thigh, axilla, or lower trunk then spread over several years, and facial skin is typically spared.
+Adult-onset maculopapular cutaneous mastocytosis — age at onset and lesion burden: Most adult patients develop mastocytosis between 20 to 35 years of age, and in some cases the first lesions even appear after the age of 65 to 70 years; lesion counts vary widely from fewer than 10 lesions to almost universal coverage, lesions often start on the thigh, axilla, or lower trunk then spread over several years, and facial skin is typically spared.
 
 ---
 
 ### Acute pruritic eruption [^be1b7ae5]. JAAD Case Reports (2024). Medium credibility.
 
-Question 1: What is the most likely clinical diagnosis? 
+Question 1: What is the most likely clinical diagnosis?
 A. Allergic contact dermatitis
 B. Herpes simplex virus (HSV)-1 infection
 C. Primary varicella-zoster virus (pVZV) infection
 D. Coxsackie A infection
 E. Herpes zoster infection
 
-Answers: 
-A. Allergic contact dermatitis – Incorrect. This is less likely considering the patient’s clinical history, rapid progression of her rash, and presence of scattered vesicles. In addition, she denied exposure to new personal care products.
+Answers:
+A. Allergic contact dermatitis – Incorrect. This is less likely considering the patient's clinical history, rapid progression of her rash, and presence of scattered vesicles. In addition, she denied exposure to new personal care products.
 B. Herpes simplex virus (HSV)-1 infection – Incorrect. While HSV-1 is a consideration for vesicular eruptions, it tends to be more localized and presents more classically as herpes labialis or herpes gingivostomatitis rather than a generalized eruption.
-C. Primary varicella-zoster virus (pVZV) infection – Correct. The clinical history and acute onset are most consistent with an infection. Despite the absence of overt viral cytopathic changes (multinucleation, nuclear margination, chromatin molding) on pathology, follicular necrosis was noted – a feature of herpes virus infection. Thus, the clinical picture was most consistent with pVZV infection.A swab of an unroofed vesicle for viral polymerase chain reaction and VZV stain on pathology confirmed this diagnosis.
+C. Primary varicella-zoster virus (pVZV) infection – Correct. The clinical history and acute onset are most consistent with an infection. Despite the absence of overt viral cytopathic changes (multinucleation, nuclear margination, chromatin molding) on pathology, follicular necrosis was noted – a feature of herpes virus infection. Thus, the clinical picture was most consistent with pVZV infection. A swab of an unroofed vesicle for viral polymerase chain reaction and VZV stain on pathology confirmed this diagnosis.
 D. Coxsackie A infection – Incorrect. While hand, foot, mouth disease can present with a similar eruption, this patient exhibited no oral, hand, foot, buttock, or scalp lesions, making this differential diagnosis less likely. Further, the exanthem of hand, foot, mouth disease is not pruritic.
 E. Herpes zoster infection – Incorrect. While herpes zoster is a reactivation of the latent VZV, this typically presents with a dermatomal, unilateral vesicular eruption associated with pain, including sensations of burning and tingling.
 
@@ -645,13 +646,13 @@ Travel associated skin disease is extremely common and a frequent cause of the r
 
 ### The diagnosis and management of acute and chronic urticaria: 2014 update [^58fcd274]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
 
-Polymorphous light eruption—Polymorphous light eruption differs from solar urticaria in that onset usually occurs minutes to hours after sunlight exposure and the eruption lasts for days compared with solar urticaria, which is short-lived between exposures (D); eruptions occur typically in spring and early summer and the duration of the reaction lasts from days to rarely weeks at 1 site, and short courses (4-5 days) of oral corticosteroids might shorten the rash and pruritus.
+Polymorphous light eruption — Polymorphous light eruption differs from solar urticaria in that onset usually occurs minutes to hours after sunlight exposure and the eruption lasts for days compared with solar urticaria, which is short-lived between exposures (D); eruptions occur typically in spring and early summer and the duration of the reaction lasts from days to rarely weeks at 1 site, and short courses (4–5 days) of oral corticosteroids might shorten the rash and pruritus.
 
 ---
 
 ### Cutaneous manifestations associated with SARS-CoV-2: an emerging topic in a pandemic era [^0d147a5b]. BMJ Case Reports (2021). High credibility.
 
-A 70-year-old man was admitted to our COVID-19 ward with thoracalgia, productive mucus cough, fatigue and erythematous–violaceous macules on the inner side of feet and interdigital regions. The patient was started on oxygen and dexamethasone. On the day of discharge, he maintained the skin changes despite the resolution of COVID-19 symptoms. A 57-year-old woman initially presented with diffuse urticarial rash on the cervical and chest region. Oral cetirizine was started, and pruritus improved. Thirty days after the discharge, the patient maintained the rash, but without pruritus. A 49-year-old man was admitted with thoracalgia, shortness of breath, dry cough and urticarial rash on the cervical and chest region. The patient was treated with cetirizine. The pruritus improved, and 5 days after discharge, the urticarial areas completely disappeared.
+A 70-year-old man was admitted to our COVID-19 ward with thoracalgia, productive mucus cough, fatigue and erythematous–violaceous macules on the inner side of feet and interdigital regions. The patient was started on oxygen and dexamethasone. On the day of discharge, he maintained the skin changes despite the resolution of COVID-19 symptoms. A 57-year-old woman initially presented with diffuse urticarial rash on the cervical and chest region. Oral cetirizine was started, and pruritus improved. Thirty days after the discharge, the patient maintained the rash, but without pruritus. A 49-year-old man was admitted with thoracalgia, shortness of breath, dry cough and urticarial rash on the cervical and chest region. The patient was treated with cetirizine. The pruritus improved, and 5 days after discharge, the urticarial areas completely disappeared.
 
 ---
 
@@ -713,7 +714,7 @@ Dermatitis herpetiformis (DH), presenting with an intense itch and blistering sy
 
 ### Prevention of herpes zoster: recommendations of the advisory committee on immunization practices (ACIP) [^a4662a76]. MMWR: Recommendations and Reports (2008). Medium credibility.
 
-Advisory Committee on Immunization Practices (ACIP)—Evaluation prompts for rash and postherpetic neuralgia present a question-based approach addressing rash morphology, distribution, duration, and persistent pain. The page includes prompts such as “What does the rash look like?”, “Does it cross the midline of the body?”, “How long did the rash last?” and “Are you still having pain?”, notes lesion appearance as “Grouped blisters on red base”, and references “postherpetic neuralgia (PHN).”
+Advisory Committee on Immunization Practices (ACIP) — Evaluation prompts for rash and postherpetic neuralgia present a question-based approach addressing rash morphology, distribution, duration, and persistent pain. The page includes prompts such as "What does the rash look like?", "Does it cross the midline of the body?", "How long did the rash last?" and "Are you still having pain?", notes lesion appearance as "Grouped blisters on red base", and references "postherpetic neuralgia (PHN)."
 
 ---
 
@@ -721,10 +722,10 @@ Advisory Committee on Immunization Practices (ACIP)—Evaluation prompts for ras
 
 Clinical findings
 
-A 26‐year‐old man presented as an emergency with a 24‐h history of a rapidly progressive, pruritic, painful rash. He had no relevant medical or dermatological history and took no regular medications. Two days previously, he had engaged in unprotected anal intercourse, and the following day, had attended a rapid‐access sexual health clinic. Following assessment, he was given postexposure prophylaxis (PEP) for HIV, comprising combination tenofovir and emtricitabine. Two hours following the first dose, the patient developed bilateral axillary pruritus. He had not taken any other medications or recreational drugs for 12 weeks prior to presentation, and had not taken PEP previously. He rapidly developed a widespread symmetrical erythematous tender rash, with a predilection for flexural sites (axillae/groin/buttocks/dorsal ankles) (Fig. 1a,b).
+A 26‐year‐old man presented as an emergency with a 24‐h history of a rapidly progressive, pruritic, painful rash. He had no relevant medical or dermatological history and took no regular medications. Two days previously, he had engaged in unprotected anal intercourse, and the following day, had attended a rapid‐access sexual health clinic. Following assessment, he was given postexposure prophylaxis (PEP) for HIV, comprising combination tenofovir and emtricitabine. Two hours following the first dose, the patient developed bilateral axillary pruritus. He had not taken any other medications or recreational drugs for 12 weeks prior to presentation, and had not taken PEP previously. He rapidly developed a widespread symmetrical erythematous tender rash, with a predilection for flexural sites (axillae/groin/buttocks/dorsal ankles) (Fig. 1a, b).
 
-Figure 1 
-(a,b) Erythematous rash on (a) the legs and (b) feet.
+Figure 1
+(a, b) Erythematous rash on (a) the legs and (b) feet.
 
 ---
 
@@ -738,9 +739,9 @@ Erythema multiforme is an immune-mediated reaction that involves the skin and so
 
 Discussion
 
-Given the right-sided predominance and flexural distribution, this rash is most consistent with a unilateral laterothoracic exanthem (UTLE). UTLE is typically characterized by a unilateral, periflexural exanthema that often involves the axillae and spreads to the contralateral side over time.Individual cases of UTLE in association with Epstein Barr virus and parvovirus B19 have been reported.UTLE is typically preceded by nonspecific systemic symptoms, including low-grade fever, diarrhea, or rhinitis. Although most often seen in children, UTLE can affect adults.
+Given the right-sided predominance and flexural distribution, this rash is most consistent with a unilateral laterothoracic exanthem (UTLE). UTLE is typically characterized by a unilateral, periflexural exanthema that often involves the axillae and spreads to the contralateral side over time. Individual cases of UTLE in association with Epstein Barr virus and parvovirus B19 have been reported.UTLE is typically preceded by nonspecific systemic symptoms, including low-grade fever, diarrhea, or rhinitis. Although most often seen in children, UTLE can affect adults.
 
-The differential diagnosis in this patient with known SARS-CoV-2 infection included viral exanthema and exanthematous drug eruption. However, UTLE has not been associated with medications. Although acetaminophen is a rare cause of exanthematous drug eruptions, the time course of this eruption after 2 days of medication administration and resolution while on acetaminophen would be exceedingly quick. The morphology of the rash could be consistent with symmetric drug-related intertriginous and flexural exanthema but the patient's rash improved while she was on acetaminophen, making this diagnosis much less likely. Many cases of UTLE are initially mistaken for contact dermatitis because of the unusual distribution. Pathology of UTLE is nonspecific, similar to viral exanthem and exanthematous drug eruption, and typically shows mild spongiosis with variable lymphocytic perivascular infiltrates. UTLE typically self-resolves with supportive care within 3 to 6 weeks without recurrence.
+The differential diagnosis in this patient with known SARS-CoV-2 infection included viral exanthema and exanthematous drug eruption. However, UTLE has not been associated with medications. Although acetaminophen is a rare cause of exanthematous drug eruptions, the time course of this eruption after 2 days of medication administration and resolution while on acetaminophen would be exceedingly quick. The morphology of the rash could be consistent with symmetric drug-related intertriginous and flexural exanthema but the patient's rash improved while she was on acetaminophen, making this diagnosis much less likely. Many cases of UTLE are initially mistaken for contact dermatitis because of the unusual distribution. Pathology of UTLE is nonspecific, similar to viral exanthem and exanthematous drug eruption, and typically shows mild spongiosis with variable lymphocytic perivascular infiltrates. UTLE typically self-resolves with supportive care within 3 to 6 weeks without recurrence.
 
 ---
 
@@ -752,7 +753,7 @@ We describe a patient who was referred for management of psoriasis unresponsive 
 
 ### CDC yellow book 2026: health information for international travel. chapter 10 post-travel evaluation [^5fb819c3]. CDC (2025). High credibility.
 
-Post-travel dermatologic conditions—Rickettsioses have distinctive geographic and epidemiologic features, often begin after the bite of an infected tick or mite, and after a several-day incubation period the first cutaneous finding is often an eschar at the bite site; often called a tache noire, these are mildly painful, dark brown or black, necrotic lesions with a red rim, and the systemic illness over the next few days is usually accompanied by a maculopapular, petechial, or vesicular rash.
+Post-travel dermatologic conditions — Rickettsioses have distinctive geographic and epidemiologic features, often begin after the bite of an infected tick or mite, and after a several-day incubation period the first cutaneous finding is often an eschar at the bite site; often called a tache noire, these are mildly painful, dark brown or black, necrotic lesions with a red rim, and the systemic illness over the next few days is usually accompanied by a maculopapular, petechial, or vesicular rash.
 
 ---
 
@@ -781,11 +782,11 @@ Skin toxicity panel recommendations
 The following recommendations are intended to be used within the framework of toxicity management, including direction for at what grade of toxicity to hold and/or permanently cease treatment, considerations for life-threatening toxicities, as well as recommendations on optimal timing and dosing for administration of corticosteroids and/or other immunosuppressive agents by grade of AE, discussed in the General panel recommendations section. Any skin-specific exceptions or additional considerations are noted in the recommendations below.
 
 For patients with pruritus without rash, treatment with high-potency topical corticosteroids and GABA agonists may be considered (LE: 4).
-Workup for patients with potential ICI-related rash (grade <3) should include CBC with differential, CMP, assessment of the percentage body surface area involved by the rash, assessment of special features (eg, bullous formation, mucosal involvement), and patient history of allergy or atopy. Referral to a dermatologist should be considered.
-Workup for patients with potential ICI-related rash (grade ≥3) should also include referral to a dermatologist and possible skin biopsy.
+Workup for patients with potential ICI-related rash (grade < 3) should include CBC with differential, CMP, assessment of the percentage body surface area involved by the rash, assessment of special features (eg, bullous formation, mucosal involvement), and patient history of allergy or atopy. Referral to a dermatologist should be considered.
+Workup for patients with potential ICI-related rash (grade ≥ 3) should also include referral to a dermatologist and possible skin biopsy.
 Rash with blisters, mucosal involvement, or bullous formation should trigger suspicion of lichenoid rash, pemphigus, pemphigoid, or SJS/TEN and follow-up testing, including skin biopsy with direct immunofluorescence studies and serum antibodies to desmogleins 1 and 3, bullous pemphigoid antigens 1 and 2, and indirect immunofluorescence studies in salt-split skin. ICI therapy should be interrupted until resolution or significant improvement of symptoms.
-If ICI-related rash does not respond to topical or oral corticosteroids, is grade ≥3, or is intolerable, a dermatological consultation is recommended.
-Grade ≥2 dermatological events (rash, pruritus) may recur after steroid taper. Therefore, a dermatological consultation or use of a steroid-sparing agent is recommended (rituximab for pemphigus (LE: 1) or bullous pemphigoid (LE: 4), dupilumab for eczema (LE: 1), infliximab for lichenoid rash, and omalizumab for urticaria/pruritus (LE: 1)).
+If ICI-related rash does not respond to topical or oral corticosteroids, is grade ≥ 3, or is intolerable, a dermatological consultation is recommended.
+Grade ≥ 2 dermatological events (rash, pruritus) may recur after steroid taper. Therefore, a dermatological consultation or use of a steroid-sparing agent is recommended (rituximab for pemphigus (LE: 1) or bullous pemphigoid (LE: 4), dupilumab for eczema (LE: 1), infliximab for lichenoid rash, and omalizumab for urticaria/pruritus (LE: 1)).
 Patients who have experienced grade 3 ICI-related rash may be re-challenged with ICIs. Rash that does not respond to immunosuppressive therapy should underscore the possibility of an infection and corresponding cultures should be obtained.
 
 ---
@@ -798,18 +799,18 @@ A 33-year-old man newly diagnosed with human immunodeficiency virus (HIV) presen
 
 On physical exam, the dorsal hands had scattered petechiae and hemorrhagic vesicles. The palms and soles were unaffected. Nonpitting edema and numerous hemorrhagic bullae with erythematous rims mixed with purpuric papules and plaques in a retiform pattern were noted on the lower extremities.
 
-Question 1: What is the most likely diagnosis? 
+Question 1: What is the most likely diagnosis?
 A. Bullous erythema multiforme
 B. Hemorrhagic herpes zoster
 C. Hemorrhagic bullous Henoch-Schonlein purpura
 D. Bullous leukocytoclastic vasculitis secondary to syphilis
 E. Epidermolysis bullosa acquisita
 
-Answers: 
+Answers:
 A. Bullous erythema multiforme – Incorrect. Bullous erythema multiforme is an immune mediated hypersensitivity reaction that presents with targetoid lesions on the skin and mucosal surfaces.
 B. Hemorrhagic herpes zoster – Incorrect. Hemorrhagic herpes zoster is a dermatomal eruption that occurs when the varicella zoster virus is reactivated in the sensory neurons of the dorsal root ganglion and commonly occurs in association with immunosuppression, thrombocytopenia, and/or anticoagulant use.
 C. Hemorrhagic bullous Henoch-Schonlein purpura – Incorrect. Hemorrhagic bullous Henoch-Schonlein purpura is a self-limiting rare manifestation of a common vasculitic disease in childhood and is frequently associated with abdominal pain, arthralgias and/or renal involvement.
-D. Bullous leukocytoclastic vasculitis secondary to syphilis (Fig 1) – Correct. Bullous LCV is a manifestation of small vessel vasculitis, characterized by immune complex deposition in postcapillary venules leading to destructive inflammatory venulitis (Fig 1, Fig 2 3).Syphilis-induced endothelial cell swelling and endarteritis obliterans have been documented, but cases of LCV, especially with concurrent HIV infection, are rare.The potential mechanisms involve delayed hypersensitivity reactions mediated by antibody-antigen complexes and neutrophil hyperactivation, with HIV-induced immune alterations contributing.
+D. Bullous leukocytoclastic vasculitis secondary to syphilis (Fig 1) – Correct. Bullous LCV is a manifestation of small vessel vasculitis, characterized by immune complex deposition in postcapillary venules leading to destructive inflammatory venulitis (Fig 1, Fig 2 3). Syphilis-induced endothelial cell swelling and endarteritis obliterans have been documented, but cases of LCV, especially with concurrent HIV infection, are rare. The potential mechanisms involve delayed hypersensitivity reactions mediated by antibody-antigen complexes and neutrophil hyperactivation, with HIV-induced immune alterations contributing.
 E. Epidermolysis bullosa acquisita – Incorrect. Epidermolysis bullosa acquisita is a rare autoimmune blistering condition that arises due to autoantibodies targeting type VII collagen. These bullae typically erupt in sites of trauma and can progress to milia and scarring.
 
 ---
@@ -824,7 +825,7 @@ Skin biopsy is a minimally invasive procedure that can add valuable data to help
 
 ### Erythema nodosum-like rash in a COVID-19 patient: a case report [^a99eac63]. The American Journal of Emergency Medicine (2021). Medium credibility.
 
-Coronavirus 2019 (COVID-19) is a viral disease first described in Wuhan, China, which has quickly emerged as a global pandemic with a myriad of manifestations including dermatologic (Li My et al., n.d.; Gottlieb and Long, 2020 [1,2]). A variety of cutaneous symptoms have presented throughout various stages of the disease (Marzano, 2020; Recalcati, n.d.; Henry et al., n.d.; Fernandez-Nieto et al., n.d.; Quintana-Castanedo et al., n.d. [3-5,7,8]). We describe a case of a female patient who presented with an Erythema Nodosum-like exanthema likely secondary to COVID-19. The patient described tested positive for COVID-19 three days prior to presentation for the rash with minimal other symptoms of COVID-19. Given the high infectivity rate as well as multisystem presentation, it is important to continue to report on novel presentations of the virus for early identification and treatment of complications.
+Coronavirus 2019 (COVID-19) is a viral disease first described in Wuhan, China, which has quickly emerged as a global pandemic with a myriad of manifestations including dermatologic (Li My et al., n.d.; Gottlieb and Long, 2020 [1,2]). A variety of cutaneous symptoms have presented throughout various stages of the disease (Marzano, 2020; Recalcati, n.d.; Henry et al., n.d.; Fernandez-Nieto et al., n.d.; Quintana-Castanedo et al., n.d. [3–5,7,8]). We describe a case of a female patient who presented with an Erythema Nodosum-like exanthema likely secondary to COVID-19. The patient described tested positive for COVID-19 three days prior to presentation for the rash with minimal other symptoms of COVID-19. Given the high infectivity rate as well as multisystem presentation, it is important to continue to report on novel presentations of the virus for early identification and treatment of complications.
 
 ---
 
@@ -838,13 +839,13 @@ Pityriasis rosea (PR) usually presents as acute exanthema with oval erythematous
 
 Discussion
 
-The incidence of syphilis has been increasing in the USA since 2001.The histology of syphilis, though widely studied, still remains a diagnostic challenge, particularly when the clinical presentation does not suggest the diagnosis. We present an overview of the clinical and pathological features commonly associated with cutaneous primary and secondary syphilis, addressing, at the end, the current case.
+The incidence of syphilis has been increasing in the USA since 2001. The histology of syphilis, though widely studied, still remains a diagnostic challenge, particularly when the clinical presentation does not suggest the diagnosis. We present an overview of the clinical and pathological features commonly associated with cutaneous primary and secondary syphilis, addressing, at the end, the current case.
 
-Treponema pallidum,as is well known, is the etiological organism of syphilis. Syphilis presents in one of three stages—primary, secondary and tertiary—with primary and secondary syphilis being the most common. Secondary syphilis is most commonly encountered in dermatopathology practice. The anogenital region is the most common location. However, 5% of cases arise in extragenital sites, which are termed endemic, or non-venereal, syphilis. The oral cavity is the most commonly involved extragenital site, but any site can be involved.
+Treponema pallidum, as is well known, is the etiological organism of syphilis. Syphilis presents in one of three stages — primary, secondary and tertiary — with primary and secondary syphilis being the most common. Secondary syphilis is most commonly encountered in dermatopathology practice. The anogenital region is the most common location. However, 5% of cases arise in extragenital sites, which are termed endemic, or non-venereal, syphilis. The oral cavity is the most commonly involved extragenital site, but any site can be involved.
 
-In primary syphilis, the lesion typically appears as a chancre, a punched-out, painless ulcer that develops 20–30 days after exposure to T. pallidum and may be associated with painless lymphadenopathy. These lesions resolve within 1–5 weeks and do not scar.
+In primary syphilis, the lesion typically appears as a chancre, a punched-out, painless ulcer that develops 20–30 days after exposure to T. pallidum and may be associated with painless lymphadenopathy. These lesions resolve within 1–5 weeks and do not scar.
 
-Secondary syphilis arises 6–8 weeks after the primary chancre. The lesions initially present as 5–10 mm erythematous macules on the head, face and neck similar to a viral xanthem. A polymorphic papular eruption subsequently occurs and consists of coppery red papules, measuring 3–10 mm in diameter. Involvement of the palms, soles and oral cavity is highly suspicious for secondary syphilis. However, this classic progression is not always observed and there is clinical significant overlap with other entities and non-specific presentations. Patients can also present with other cutaneous manifestations, some of which overlap with syphilis. These include papulosquamous/psoriasiform lesions, oral ulcers, condylomata, bullous lesions, and erythema muliforme-like folliculitis. Patients with secondary syphilis can also develop fever, headache, weight loss, myalgias and arthralgias. Left untreated, secondary syphilis resolves within 2–10 weeks. After a latent phase, patients can progress to cure with seronegativity; seropositivity without lesions; or develop lesions of tertiary syphilis.
+Secondary syphilis arises 6–8 weeks after the primary chancre. The lesions initially present as 5–10 mm erythematous macules on the head, face and neck similar to a viral xanthem. A polymorphic papular eruption subsequently occurs and consists of coppery red papules, measuring 3–10 mm in diameter. Involvement of the palms, soles and oral cavity is highly suspicious for secondary syphilis. However, this classic progression is not always observed and there is clinical significant overlap with other entities and non-specific presentations. Patients can also present with other cutaneous manifestations, some of which overlap with syphilis. These include papulosquamous/psoriasiform lesions, oral ulcers, condylomata, bullous lesions, and erythema muliforme-like folliculitis. Patients with secondary syphilis can also develop fever, headache, weight loss, myalgias and arthralgias. Left untreated, secondary syphilis resolves within 2–10 weeks. After a latent phase, patients can progress to cure with seronegativity; seropositivity without lesions; or develop lesions of tertiary syphilis.
 
 ---
 
@@ -858,15 +859,15 @@ During the coronavirus disease 2019 (COVID-19) epidemic, dermatologists and othe
 
 ### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^a252bb4d]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
-Sorafenib hypersensitivity—although sorafenib is more commonly associated with hand-foot skin reaction and other toxicity-related symptoms, it can rarely (<1%) trigger allergic symptoms, including urticaria; a reported case developed a pruritic generalized maculopapular rash after 2 weeks of sorafenib therapy that resolved with discontinuation of sorafenib and treatment with oral antihistamines and topical steroids.
+Sorafenib hypersensitivity — although sorafenib is more commonly associated with hand-foot skin reaction and other toxicity-related symptoms, it can rarely (< 1%) trigger allergic symptoms, including urticaria; a reported case developed a pruritic generalized maculopapular rash after 2 weeks of sorafenib therapy that resolved with discontinuation of sorafenib and treatment with oral antihistamines and topical steroids.
 
 ---
 
-### Dermatologic emergencies-AAFP (...) [^739412c2]. AAFP (2010). Low credibility.
+### Dermatologic emergencies… [^739412c2]. AAFP (2010). Low credibility.
 
 EPIDEMIOLOGY Rocky Mountain spotted fever is the most common rickettsial disease in the United States. It has an overall mortality rate of 5 to 10 percent. R. rickettsii is transmitted via tick bites and spreads through the lymphatic system, causing a vasculitis that can affect all organs, most commonly the skin and adrenals. Ultimately, R. rickettsii causes increased vascular permeability with consequential decreased osmotic pressure, edema, hypoalbuminemia, hyponatremia, and hypotension. DIAGNOSIS Clinical Findings. The diagnosis of Rocky Mountain spotted fever is primarily clinical. The classic triad of symptoms associated with the disease includes fever, headache, and rash in a person with a history of tick bite or exposure to ticks. 8 Patients also may present with nausea, vomiting, myalgia, anorexia, and severe abdominal pain. The rash appears two to five days after the onset of fever in 80 to 90 percent of patients.
 
-9 Many patients present before the rash appears; therefore, a high index of suspicion is warranted in endemic areas when a patient presents with severe symptoms that mimic a viral illness. The rash begins as small, blanching, nonpruritic macules that develop into a maculopapular rash and progress after several days to petechial lesions. The classic spotted appearance occurs when the petechial lesions coalesce and form ecchymosis. . 3 In later stages of the disease, the skin can become tender and desquamate. The early rash of Rocky Mountain spotted fever mimics many infectious and noninfectious diseases that have an associated maculopapular rash. 16 The petechial rash that occurs in Rocky Mountain spotted fever also occurs in other conditions 17. 1–12 It begins around the wrists and ankles and spreads to the palms and soles, eventually covering the extremities and trunk. The face is usually spared.
+9 Many patients present before the rash appears; therefore, a high index of suspicion is warranted in endemic areas when a patient presents with severe symptoms that mimic a viral illness. The rash begins as small, blanching, nonpruritic macules that develop into a maculopapular rash and progress after several days to petechial lesions. The classic spotted appearance occurs when the petechial lesions coalesce and form ecchymosis. 3 In later stages of the disease, the skin can become tender and desquamate. The early rash of Rocky Mountain spotted fever mimics many infectious and noninfectious diseases that have an associated maculopapular rash. 16 The petechial rash that occurs in Rocky Mountain spotted fever also occurs in other conditions 17. 1–12 It begins around the wrists and ankles and spreads to the palms and soles, eventually covering the extremities and trunk. The face is usually spared.
 
 A rash on the palms and soles is a distinct distribution that occurs in approximately 40 percent of patients with Rocky Mountain spotted fever. 9, 17 However, other exanthems can present with fever and rash on the palms and soles. 16 In patients with severe disease in whom treatment is delayed, complications can include cardiac and renal failure, meningitis, and pneumonitis.
 
@@ -886,7 +887,7 @@ A 58-year-old woman presented with a 3-week history of a pruritic rash, which ha
 
 ### The diagnosis and management of acute and chronic urticaria: 2014 update [^f24ddd8d]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
 
-Chronic urticaria (CU)—lesion characteristics and differential include that CU lesions are typically edematous pink or red wheals of variable size and shape with surrounding erythema and are generally pruritic, whereas a painful or burning dysesthesia is not characteristic of CU and suggests the presence of cutaneous vasculitis. Individual urticarial lesions usually fade within 24 to 48 hours, but new lesions might be developing simultaneously at other skin sites, while in contrast, vasculitis lesions are palpable and usually nonblanching, spanning several days or more and often followed by residual hyperpigmented changes, although in some cases lesions might be more evanescent, similar to ordinary CU. Angioedema typically appears as nonpruritic, brawny, nonpitting edema, typically without well-defined margins and without erythema, and the medical work-up should keep in mind that CU is of undetermined cause in the majority of cases.
+Chronic urticaria (CU) — lesion characteristics and differential include that CU lesions are typically edematous pink or red wheals of variable size and shape with surrounding erythema and are generally pruritic, whereas a painful or burning dysesthesia is not characteristic of CU and suggests the presence of cutaneous vasculitis. Individual urticarial lesions usually fade within 24 to 48 hours, but new lesions might be developing simultaneously at other skin sites, while in contrast, vasculitis lesions are palpable and usually nonblanching, spanning several days or more and often followed by residual hyperpigmented changes, although in some cases lesions might be more evanescent, similar to ordinary CU. Angioedema typically appears as nonpruritic, brawny, nonpitting edema, typically without well-defined margins and without erythema, and the medical work-up should keep in mind that CU is of undetermined cause in the majority of cases.
 
 ---
 
@@ -914,29 +915,29 @@ Grover disease is an acquired acantholytic dermatosis affecting middle-aged men,
 
 Introduction
 
-Erythema multiforme (EM) is an acute, typically self-limited mucocutaneous eruption characterized by distinctive target lesions. In a subset of patients, EM has a more chronic course, with recurrent episodes or even persistent disease. In some of these patients, EM is related to chronic infections, most commonly herpes simplex virus (HSV), and will respond to antiviral therapy. However, in up to 58% of patients, the etiology is unknown,and in these cases treatment is often difficult.
+Erythema multiforme (EM) is an acute, typically self-limited mucocutaneous eruption characterized by distinctive target lesions. In a subset of patients, EM has a more chronic course, with recurrent episodes or even persistent disease. In some of these patients, EM is related to chronic infections, most commonly herpes simplex virus (HSV), and will respond to antiviral therapy. However, in up to 58% of patients, the etiology is unknown, and in these cases treatment is often difficult.
 
 ---
 
 ### Chronic symmetrically distributed hyperpigmented plaques in a middle-age woman [^a73e26a4]. JAAD Case Reports (2019). Medium credibility.
 
-Fig 1 
+Fig 1
 Hyperpigmented scaly plaques inferior to the axillae.
 
-Fig 2 
+Fig 2
 Hyperpigmented faintly scaly plaques with an erythematous, wavy border on the medial thighs.
 
-Fig 3 
+Fig 3
 Hyperkeratosis with mild papillomatosis and acanthosis. (Hematoxylin-eosin stain; original magnification: ×10.)
 
-Question 1: What is the most likely diagnosis? 
+Question 1: What is the most likely diagnosis?
 A. Erythrokeratolysis hiemalis
 B. Erythrasma
 C. Tinea corporis and cruris
 D. Erythrokeratodermia variabilis (EKV)
 E. Progressive symmetric erythrokeratoderma (PSEK)
 
-Answers: 
+Answers:
 A. Erythrokeratolysis hiemalis – Incorrect. This autosomal dominant condition is characterized by episodic/seasonal circinate, erythematous plaques with scaling, and centrifugal peeling. It predominantly involves palms and soles and may extend up the extremities. It rarely involves the trunk and face. Blisters occasionally occur in the center of new plaques.
 B. Erythrasma – Incorrect. Erythrasma is caused by Corynebacterium minutissimum overgrowth in the stratum corneum. Well-defined scaly plaques involve intertriginous sites of the trunk and toes. Coral red fluorescence on Wood's lamp examination is classic and was negative in this patient's case.
 C. Tinea corporis and cruris – Incorrect. Tinea corporis and cruris are dermatophyte infections of the trunk, extremities, and groin, respectively. Classic lesions have advancing, scaly border and central clearing. Hyphae are seen on histopathology and potassium hydroxide preparation (KOH prep).
@@ -949,7 +950,7 @@ E. PSEK – Incorrect. PSEK begins during infancy or early childhood with fixed,
 
 Case report
 
-An 18-year-old African American man with Fitzpatrick skin type V and a past medical history of atopic dermatitis presented to the emergency department with a rash that started approximately 4 days earlier on the buttocks and subsequently spread to the rest of the body. The rash was pruritic and burning, with a clear exudate. He reported blurry vision lasting for approximately 1 month, bilateral knee pain, and malaise. He denied fevers, chills, chest pain, loss of hair, cough, sore throat, headache, or shortness of breath and had no history of herpetic oral lesions, dysuria, penile discharge, or recent international travel. He acknowledged being sexually active with 1 same-sex partner but denied that his partner had any similar lesions. The patient denied taking any medication, including recreational drugs.
+An 18-year-old African American man with Fitzpatrick skin type V and a past medical history of atopic dermatitis presented to the emergency department with a rash that started approximately 4 days earlier on the buttocks and subsequently spread to the rest of the body. The rash was pruritic and burning, with a clear exudate. He reported blurry vision lasting for approximately 1 month, bilateral knee pain, and malaise. He denied fevers, chills, chest pain, loss of hair, cough, sore throat, headache, or shortness of breath and had no history of herpetic oral lesions, dysuria, penile discharge, or recent international travel. He acknowledged being sexually active with 1 same-sex partner but denied that his partner had any similar lesions. The patient denied taking any medication, including recreational drugs.
 
 On physical examination, there were diffuse eroded erythematous scaly plaques with scalloped borders, as well as several vesicles and bullae on his arms, trunk, penis, buttocks, and legs (Fig 1, A - D). The patient's palms and soles showed scales with subtle dusky purpuric macules (Fig 1, E and F). No intraoral lesions were noted. Diagnostic cultures and serologic tests were performed, including rapid plasma reagin (RPR), fluorescent treponemal antibody absorption, chlamydia DNA polymerase chain reaction (PCR), gonorrhea DNA PCR, HIV, herpes simplex virus, and viral and bacterial cultures. Anti-desmoglein (Dsg)/indirect immunofluorescence, enzyme-linked immunosorbent assay for IgG against serum Dsg1 and Dsg3, and cutaneous immunofluorescence were performed, the results of which were all found to be within normal ranges. A 4-mm punch biopsy of perilesional vesicular skin from the upper medial portion of the right thigh was submitted for treponemal immunohistochemistry staining. Ocular examination ruled out ophthalmic manifestations of neurosyphilis. The patient was treated with 1 dose of intramuscular penicillin G benzathine. On follow-up examination, he showed improvement of his symptoms, and all lesions appeared to be healed, with postinflammatory hyperpigmentation.
 
@@ -965,7 +966,7 @@ A 39-year-old man presented with a pruritic rash, abdominal pain, weight loss an
 
 Introduction
 
-The recent emergence of a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly developed into a global pandemic and public health emergency.Coronavirus disease 2019 (COVID-19) primarily produces fever and respiratory symptoms, although involvement of other organ systems has been reported, including cardiovascular and gastrointestinal manifestations.The cutaneous manifestations in COVID-19 are largely unknown but case reports and case series are accumulating in the literature. Here we describe 2 patients with cutaneous eruptions after SARS-CoV-2 infection and review the known literature on COVID-19–related dermatologic manifestations.
+The recent emergence of a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly developed into a global pandemic and public health emergency. Coronavirus disease 2019 (COVID-19) primarily produces fever and respiratory symptoms, although involvement of other organ systems has been reported, including cardiovascular and gastrointestinal manifestations. The cutaneous manifestations in COVID-19 are largely unknown but case reports and case series are accumulating in the literature. Here we describe 2 patients with cutaneous eruptions after SARS-CoV-2 infection and review the known literature on COVID-19–related dermatologic manifestations.
 
 ---
 
@@ -993,9 +994,9 @@ Several differences do exist between rashes due to SARS-CoV-2 infection and othe
 
 ### Progressive rash as the first sign ofmeningitis and bacteremia [^dca70831]. JAAD Case Reports (2022). Medium credibility.
 
-The patient had trialed a number of systemic medications, including ustekinumab, etanercept, cyclosporine, and secukinumab, for his pustular psoriasis. While on secukinumab, he had been diagnosed with ulcerative colitis, which was minimally responsive to oral steroids. His gastroenterology and dermatology providers agreed to start infliximab in combination with methotrexate for durability of response, which ultimately led to the remission of his ulcerative colitis and moderate control of his pustular psoriasis. Prior to his presentation to the emergency department, the patient’s psoriasis and ulcerative colitis were relatively well controlled on 700 mg infliximab every 6 weeks (8.64 mg/kg) and 20 mg methotrexate weekly, although he occasionally experienced psoriasis flares the week before infliximab infusions.
+The patient had trialed a number of systemic medications, including ustekinumab, etanercept, cyclosporine, and secukinumab, for his pustular psoriasis. While on secukinumab, he had been diagnosed with ulcerative colitis, which was minimally responsive to oral steroids. His gastroenterology and dermatology providers agreed to start infliximab in combination with methotrexate for durability of response, which ultimately led to the remission of his ulcerative colitis and moderate control of his pustular psoriasis. Prior to his presentation to the emergency department, the patient's psoriasis and ulcerative colitis were relatively well controlled on 700 mg infliximab every 6 weeks (8.64 mg/kg) and 20 mg methotrexate weekly, although he occasionally experienced psoriasis flares the week before infliximab infusions.
 
-The patient attributed his subjective fevers at the time of presentation to a pustular psoriasis flare, as he had previously experienced low-grade fevers and vigorous chills in the setting of psoriasis exacerbation. He initiated 0.1% triamcinolone ointment to the affected areas twice daily and ibuprofen for fever. Over the next 5 days, the rash intensified in color and spread over his torso, and the fever and chills persisted. On day 5, the patient’s wife noticed he was difficult to arouse, prompting emergency care. In the emergency department, he was febrile (101.7 °F), his blood pressure was 124/69 mmHg, and he had a respiratory rate of 20 breaths per minute. A physical examination in the emergency room revealed “a reddish, ruddled colored diffuse macular rash with overlying desquamation on the anterior and posterior torso and proximal thighs with papules at the edges of the rash.” A complete blood cell count, comprehensive metabolic panel, C-reactive protein, erythrocyte sedimentation rate, and procalcitonin were obtained in addition to blood cultures and a lumbar puncture. The laboratory tests were within normal limits except for procalcitonin (elevated to 1.3 ng/mL; reference range ≤0.5 ng/mL) and erythrocyte sedimentation rate (elevated to 41 mm/hr; reference range 0-20 mm/hr). His cerebral spinal fluid was notable for low glucose (17 mg/dL; reference range 40-70 mg/dL), high protein (258 mg/dL; reference range 15-45 mg/dL), and white blood cell count of 662/μL, consistent with L. monocytogenes meningitis. The blood cultures were also positive for L. monocytogenes. The patient’s last infliximab infusion had occurred 12 days (<2 weeks) prior to his hospitalization, and the methotrexate was held while he was in the hospital. The patient was treated with intravenous ampicillin (10 g × 4 weeks) and gentamycin (475 mg × 12 days). On day 2 of his hospitalization, the patient returned to baseline mental status. He disclosed the consumption of deli meats in the week preceding the onset of his rash.
+The patient attributed his subjective fevers at the time of presentation to a pustular psoriasis flare, as he had previously experienced low-grade fevers and vigorous chills in the setting of psoriasis exacerbation. He initiated 0.1% triamcinolone ointment to the affected areas twice daily and ibuprofen for fever. Over the next 5 days, the rash intensified in color and spread over his torso, and the fever and chills persisted. On day 5, the patient's wife noticed he was difficult to arouse, prompting emergency care. In the emergency department, he was febrile (101.7 °F), his blood pressure was 124/69 mmHg, and he had a respiratory rate of 20 breaths per minute. A physical examination in the emergency room revealed "a reddish, ruddled colored diffuse macular rash with overlying desquamation on the anterior and posterior torso and proximal thighs with papules at the edges of the rash." A complete blood cell count, comprehensive metabolic panel, C-reactive protein, erythrocyte sedimentation rate, and procalcitonin were obtained in addition to blood cultures and a lumbar puncture. The laboratory tests were within normal limits except for procalcitonin (elevated to 1.3 ng/mL; reference range ≤ 0.5 ng/mL) and erythrocyte sedimentation rate (elevated to 41 mm/hr; reference range 0–20 mm/hr). His cerebral spinal fluid was notable for low glucose (17 mg/dL; reference range 40–70 mg/dL), high protein (258 mg/dL; reference range 15–45 mg/dL), and white blood cell count of 662/μL, consistent with L. monocytogenes meningitis. The blood cultures were also positive for L. monocytogenes. The patient's last infliximab infusion had occurred 12 days (< 2 weeks) prior to his hospitalization, and the methotrexate was held while he was in the hospital. The patient was treated with intravenous ampicillin (10 g × 4 weeks) and gentamycin (475 mg × 12 days). On day 2 of his hospitalization, the patient returned to baseline mental status. He disclosed the consumption of deli meats in the week preceding the onset of his rash.
 
 ---
 
@@ -1009,7 +1010,7 @@ When confronted with an existent or evolving eschar, the history is often the mo
 
 Case report
 
-Our patient was a 51-year-old African American male with a history of stage IV Waldenstrom's macroglobulinemia and lymphoplasmacytic lymphoma treated with matched-related allogeneic SCT 2 years prior. His SCT had been complicated by skin-limited cGVHD previously stable for greater than a year. He presented to our dermatology clinic with a 9-day history of a painful, pruritic rash on his hands and feet that soon spread over his shoulders and back. He had no constitutional complaints and no other organ involvement, and his integumentary system was otherwise negative on review. One week prior to the onset of cutaneous symptoms, the patient had been diagnosed with COVID-19.
+Our patient was a 51-year-old African American male with a history of stage IV Waldenstrom's macroglobulinemia and lymphoplasmacytic lymphoma treated with matched-related allogeneic SCT 2 years prior. His SCT had been complicated by skin-limited cGVHD previously stable for greater than a year. He presented to our dermatology clinic with a 9-day history of a painful, pruritic rash on his hands and feet that soon spread over his shoulders and back. He had no constitutional complaints and no other organ involvement, and his integumentary system was otherwise negative on review. One week prior to the onset of cutaneous symptoms, the patient had been diagnosed with COVID-19.
 
 A physical examination revealed annular violaceous-to-erythematous papules and plaques with peripheral scale scattered over the torso, and most prominently over the lower back and shoulders (Fig 1). Similar papules were also noted on dorsal hands and in the interdigital space of the first and second fingers bilaterally. On the plantar surfaces of both feet, there were deep-seated pseudovesicles with small rims of scale that were exquisitely tender to palpation (Fig 2). No other associated mucocutaneous findings were identified. Initial differential diagnosis was broad and included lichen planus, scabies, lichenoid GVHD, pityriasis rosacea, syphilis, and granuloma annulare.
 
@@ -1045,7 +1046,7 @@ Regarding screening and diagnosis for mpox, more specifically with respect to di
 
 ### Prevention of group B streptococcal early-onset disease in newborns: ACOG committee opinion, number 797 [^079748af]. Obstetrics and Gynecology (2020). High credibility.
 
-Penicillin allergy risk descriptors for GBS prophylaxis—footnotes define clinical histories corresponding to risk categories used in the algorithm. Individuals with nonspecific, nonallergic symptom histories are described as “Individuals with a history of any of the following: nonspecific symptoms unlikely to be allergic (gastrointestinal distress, headaches, yeast vaginitis), nonurticarial maculopapular (morbilliform) rash without systemic symptoms, pruritis without rash, family history of penicillin allergy but no personal history, or patient reports history but has no recollection of symptoms or treatment.” High-risk features are detailed as “Individuals with a history of any of the following after administration of a penicillin: a history suggestive of an IgE-mediated event: pruritic rash, urticaria (hives), immediate flushing, hypotension, angioedema, respiratory distress or anaphylaxis; recurrent reactions, reactions to multiple beta-lactam antibiotics, or positive penicillin allergy test; or severe rare delayed-onset cutaneous or systemic reactions, such as eosinophilia and systemic symptoms/drug-induced hypersensitivity syndrome, Stevens-Johnson syndrome, or toxic epidermal necrolysis.”
+Penicillin allergy risk descriptors for GBS prophylaxis — footnotes define clinical histories corresponding to risk categories used in the algorithm. Individuals with nonspecific, nonallergic symptom histories are described as "Individuals with a history of any of the following: nonspecific symptoms unlikely to be allergic (gastrointestinal distress, headaches, yeast vaginitis), nonurticarial maculopapular (morbilliform) rash without systemic symptoms, pruritis without rash, family history of penicillin allergy but no personal history, or patient reports history but has no recollection of symptoms or treatment." High-risk features are detailed as "Individuals with a history of any of the following after administration of a penicillin: a history suggestive of an IgE-mediated event: pruritic rash, urticaria (hives), immediate flushing, hypotension, angioedema, respiratory distress or anaphylaxis; recurrent reactions, reactions to multiple beta-lactam antibiotics, or positive penicillin allergy test; or severe rare delayed-onset cutaneous or systemic reactions, such as eosinophilia and systemic symptoms/drug-induced hypersensitivity syndrome, Stevens-Johnson syndrome, or toxic epidermal necrolysis."
 
 ---
 
@@ -1053,6 +1054,6 @@ Penicillin allergy risk descriptors for GBS prophylaxis—footnotes define clini
 
 Non-specific morphologies
 
-Outside of the 10 core diagnoses discussed above, there exist other potential non-specific presentations that occur at higher frequencies. These non-specific presentations require an evaluation as described above in order to come to a core diagnosis, when possible. When a core diagnosis is not reachable, workup may at least reveal new data that will allow for more targeted therapy in addition to severity grading (online supplemental table S23). The non-specific morphologies include hyperkeratotic papules and plaques, isolated mucositis, or the previously often diagnosed ‘maculopapular rash.’ Importantly, we would encourage clinicians to avoid making a final diagnosis of these non-specific subtypes, but rather to use them as descriptive terms while undertaking the evaluation of patient with D-irAE.
+Outside of the 10 core diagnoses discussed above, there exist other potential non-specific presentations that occur at higher frequencies. These non-specific presentations require an evaluation as described above in order to come to a core diagnosis, when possible. When a core diagnosis is not reachable, workup may at least reveal new data that will allow for more targeted therapy in addition to severity grading (online supplemental table S23). The non-specific morphologies include hyperkeratotic papules and plaques, isolated mucositis, or the previously often diagnosed 'maculopapular rash'.Importantly, we would encourage clinicians to avoid making a final diagnosis of these non-specific subtypes, but rather to use them as descriptive terms while undertaking the evaluation of patient with D-irAE.
 
 ---

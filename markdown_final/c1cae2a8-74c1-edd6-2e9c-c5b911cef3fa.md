@@ -114,173 +114,173 @@ Quetiapine is associated with **sleepwalking**, though the risk is low and appea
 ### Quetiapine fumarate PO side effects [^b3c06160]. FDA (2025). Medium credibility.
 
 Very Common
-• agitation
-• ↑ serum cholesterol
-• ↑ serum triglycerides
-• constipation
-• dizziness
-• dry mouth
-• headache
-• somnolence
-• weight gain
+- agitation
+- ↑ serum cholesterol
+- ↑ serum triglycerides
+- constipation
+- dizziness
+- dry mouth
+- headache
+- somnolence
+- weight gain
 
 Common
-• amblyopia
-• ataxia
-• incoordination
-• loss of balance
-• dysphagia
-• hypothyroidism
-• dysarthria
-• hypersomnia
-• dyskinesia
-• dystonia
-• gastroesophageal reflux disease
-• gastroenteritis
-• urinary tract infections
-• restless legs syndrome
-• hypertension
-• hypotension
-• ↑ blood glucose
-• ↑ liver enzymes
-• ↑ serum ALT
-• ↑ serum AST
-• ↑ serum prolactin
-• infection
-• lethargy
-• orthostatic hypotension
-• parkinsonism
-• pharyngitis
-• abdominal pain
-• anxiety
+- amblyopia
+- ataxia
+- incoordination
+- loss of balance
+- dysphagia
+- hypothyroidism
+- dysarthria
+- hypersomnia
+- dyskinesia
+- dystonia
+- gastroesophageal reflux disease
+- gastroenteritis
+- urinary tract infections
+- restless legs syndrome
+- hypertension
+- hypotension
+- ↑ blood glucose
+- ↑ liver enzymes
+- ↑ serum ALT
+- ↑ serum AST
+- ↑ serum prolactin
+- infection
+- lethargy
+- orthostatic hypotension
+- parkinsonism
+- pharyngitis
+- abdominal pain
+- anxiety
 
 Unknown Frequency
-• ⚠ ↓ WBC count
-• ↓ serum sodium
-• ↓ blood neutrophil count
-• ↑ serum CK
-• galactorrhea
-• priapism
-• bradycardia
-• ↑ serum gamma-glutamyltransferase
-• dyspnea
-• cognitive impairment
-• motor impairment
-• ↑ blood eosinophil count
-• urinary retention
-• agranulocytosis
-• ileus
-• sleep apnea
-• nocturia
-• ↓ platelet count
-• seizure
-• ↑QT interval
-• amnesia
-• confusion
-• suicidal ideation
-• tardive dyskinesia
-• falls
-• ⚠ hepatitis
-• somnambulism
-• rhabdomyolysis
-• neuroleptic malignant syndrome
-• syndrome of inappropriate antidiuretic hormone secretion
-• anaphylaxis
-• cardiomyopathy
-• myocarditis
-• hepatic necrosis
-• bowel obstruction
-• acute liver failure
-• cutaneous vasculitis
-• toxic epidermal necrolysis
-• Stevens-Johnson syndrome
-• DRESS syndrome
-• acute generalized exanthematous pustulosis
-• acute pancreatitis
-• acute ischemic stroke
-• colonic ischemia
+- ⚠ ↓ WBC count
+- ↓ serum sodium
+- ↓ blood neutrophil count
+- ↑ serum CK
+- galactorrhea
+- priapism
+- bradycardia
+- ↑ serum gamma-glutamyltransferase
+- dyspnea
+- cognitive impairment
+- motor impairment
+- ↑ blood eosinophil count
+- urinary retention
+- agranulocytosis
+- ileus
+- sleep apnea
+- nocturia
+- ↓ platelet count
+- seizure
+- ↑QT interval
+- amnesia
+- confusion
+- suicidal ideation
+- tardive dyskinesia
+- falls
+- ⚠ hepatitis
+- somnambulism
+- rhabdomyolysis
+- neuroleptic malignant syndrome
+- syndrome of inappropriate antidiuretic hormone secretion
+- anaphylaxis
+- cardiomyopathy
+- myocarditis
+- hepatic necrosis
+- bowel obstruction
+- acute liver failure
+- cutaneous vasculitis
+- toxic epidermal necrolysis
+- Stevens-Johnson syndrome
+- DRESS syndrome
+- acute generalized exanthematous pustulosis
+- acute pancreatitis
+- acute ischemic stroke
+- colonic ischemia
 
 ---
 
 ### Quetiapine fumarate ER PO side effects [^5c89edb3]. FDA (2025). Medium credibility.
 
 Very Common
-• dizziness
-• dry mouth
-• fatigue
-• increased appetite
-• somnolence
+- dizziness
+- dry mouth
+- fatigue
+- increased appetite
+- somnolence
 
 Common
-• disorientation
-• dysarthria
-• extrapyramidal signs
-• gastroenteritis
-• hyperhidrosis
-• hypersomnia
-• hypotension
-• lethargy
-• migraine
-• restless legs syndrome
-• orthostatic hypotension
-• parkinsonism
-• akathisia
-• anxiety
-• arthralgia
-• back pain
-• blurred vision
-• confusion
-• constipation
-• decreased libido
-• dental pain
+- disorientation
+- dysarthria
+- extrapyramidal signs
+- gastroenteritis
+- hyperhidrosis
+- hypersomnia
+- hypotension
+- lethargy
+- migraine
+- restless legs syndrome
+- orthostatic hypotension
+- parkinsonism
+- akathisia
+- anxiety
+- arthralgia
+- back pain
+- blurred vision
+- confusion
+- constipation
+- decreased libido
+- dental pain
 
 Uncommon
-• dystonia
+- dystonia
 
 Unknown Frequency
-• ⚠ ↓ WBC count
-• ↓ serum sodium
-• ↓ blood neutrophil count
-• ↑ serum CK
-• galactorrhea
-• priapism
-• bradycardia
-• ↑ serum gamma-glutamyltransferase
-• dyspnea
-• cognitive impairment
-• motor impairment
-• ↑ blood eosinophil count
-• urinary retention
-• agranulocytosis
-• ileus
-• sleep apnea
-• nocturia
-• ↓ platelet count
-• seizure
-• ↑QT interval
-• amnesia
-• confusion
-• suicidal ideation
-• tardive dyskinesia
-• ⚠ hepatitis
-• somnambulism
-• rhabdomyolysis
-• neuroleptic malignant syndrome
-• syndrome of inappropriate antidiuretic hormone secretion
-• anaphylaxis
-• cardiomyopathy
-• myocarditis
-• hepatic necrosis
-• bowel obstruction
-• acute liver failure
-• cutaneous vasculitis
-• toxic epidermal necrolysis
-• Stevens-Johnson syndrome
-• DRESS syndrome
-• acute generalized exanthematous pustulosis
-• acute pancreatitis
-• acute ischemic stroke
-• colonic ischemia
+- ⚠ ↓ WBC count
+- ↓ serum sodium
+- ↓ blood neutrophil count
+- ↑ serum CK
+- galactorrhea
+- priapism
+- bradycardia
+- ↑ serum gamma-glutamyltransferase
+- dyspnea
+- cognitive impairment
+- motor impairment
+- ↑ blood eosinophil count
+- urinary retention
+- agranulocytosis
+- ileus
+- sleep apnea
+- nocturia
+- ↓ platelet count
+- seizure
+- ↑QT interval
+- amnesia
+- confusion
+- suicidal ideation
+- tardive dyskinesia
+- ⚠ hepatitis
+- somnambulism
+- rhabdomyolysis
+- neuroleptic malignant syndrome
+- syndrome of inappropriate antidiuretic hormone secretion
+- anaphylaxis
+- cardiomyopathy
+- myocarditis
+- hepatic necrosis
+- bowel obstruction
+- acute liver failure
+- cutaneous vasculitis
+- toxic epidermal necrolysis
+- Stevens-Johnson syndrome
+- DRESS syndrome
+- acute generalized exanthematous pustulosis
+- acute pancreatitis
+- acute ischemic stroke
+- colonic ischemia
 
 ---
 
@@ -292,11 +292,11 @@ Sleep walking (SW) is a parasomnia behavior characterized by repetitious occurre
 
 Methods
 
-We present a case series (n = 5) and a systematic review of the literature of cases of SW, with or without SRE (n = 23), associated with atypical antipsychotic use.
+We present a case series (n = 5) and a systematic review of the literature of cases of SW, with or without SRE (n = 23), associated with atypical antipsychotic use.
 
 Results
 
-Twenty-eight cases of SW, with and without SRE, with a mean age of 44.8 years (S.D. = 15.04) and a male predominance (75%; n = 21) were identified. Quetiapine was the most commonly implicated medication with SW and SRE (n = 14). Remission from SW/SRE was noted in all cases with measures including antipsychotic dosage reduction, discontinuation of medication, switching to an alternate medication, and use of continuous positive airway pressure (CPAP) for comorbid obstructive sleep apnea (OSA) treatment.
+Twenty-eight cases of SW, with and without SRE, with a mean age of 44.8 years (S.D. = 15.04) and a male predominance (75%; n = 21) were identified. Quetiapine was the most commonly implicated medication with SW and SRE (n = 14). Remission from SW/SRE was noted in all cases with measures including antipsychotic dosage reduction, discontinuation of medication, switching to an alternate medication, and use of continuous positive airway pressure (CPAP) for comorbid obstructive sleep apnea (OSA) treatment.
 
 Conclusions
 
@@ -350,7 +350,7 @@ Two prospective trials were identified that evaluated the effect of quetiapine i
 
 Data Synthesis
 
-Quetiapine is commonly used off-label for treatment of insomnia. When used for sleep, doses typically seen are less than the Food and Drug Administration-recommended dosage of 150-800 mg/day; those evaluated in the studies reviewed here were 25-200 mg/day). At recommended doses, atypical antipsychotics such as quetiapine are associated with metabolic adverse events (diabetes, obesity, hyperlipidemia). Adverse effects in the prospective trials were patient-reported and were minor, including drowsiness and dry mouth; however, the trials were limited by their small sample size and short duration. The retrospective cohort studies found that quetiapine was associated with significant increases in weight compared to baseline. Serious adverse events identified from case reports included fatal hepatotoxicity, restless legs syndrome, akathisia, and weight gain.
+Quetiapine is commonly used off-label for treatment of insomnia. When used for sleep, doses typically seen are less than the Food and Drug Administration-recommended dosage of 150–800 mg/day; those evaluated in the studies reviewed here were 25–200 mg/day). At recommended doses, atypical antipsychotics such as quetiapine are associated with metabolic adverse events (diabetes, obesity, hyperlipidemia). Adverse effects in the prospective trials were patient-reported and were minor, including drowsiness and dry mouth; however, the trials were limited by their small sample size and short duration. The retrospective cohort studies found that quetiapine was associated with significant increases in weight compared to baseline. Serious adverse events identified from case reports included fatal hepatotoxicity, restless legs syndrome, akathisia, and weight gain.
 
 Conclusions
 
@@ -360,7 +360,7 @@ There are potential safety concerns when using low-dose quetiapine for treatment
 
 ### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^f311048c]. DoD/VA (2025). High credibility.
 
-Antipsychotics for chronic insomnia disorder—quetiapine risks and monitoring: Evidence on using low-dose quetiapine is limited to a few studies and case series with short duration, small sample sizes, and vague and incomplete details, making efficacy inconclusive. Doses typically used for insomnia are lower than the FDA-recommended dosage of 150 – 800 mg/day, and all antipsychotics, including low-dose quetiapine, are known for causing harms; quetiapine has a black box warning indicating a 1.6 to 1.7 fold increase in mortality in elderly populations with dementia-related psychosis. All antipsychotics carry a strong recommendation in the 2023 Beers Criteria to avoid their use in the elderly except in schizophrenia or bipolar disorders due to an increased risk of cerebrovascular accident and a greater rate of cognitive decline and mortality in persons with dementia; anticholinergic effects, including sedating and hypotensive effects, occur with all antipsychotics in varying frequency and severity. It is advised that routine monitoring of metabolic parameters be conducted with all antipsychotics due to the risk of hyperglycemia, dyslipidemia, and weight gain, and active-duty service member use of an antipsychotic may affect deploy ability.
+Antipsychotics for chronic insomnia disorder — quetiapine risks and monitoring: Evidence on using low-dose quetiapine is limited to a few studies and case series with short duration, small sample sizes, and vague and incomplete details, making efficacy inconclusive. Doses typically used for insomnia are lower than the FDA-recommended dosage of 150–800 mg/day, and all antipsychotics, including low-dose quetiapine, are known for causing harms; quetiapine has a black box warning indicating a 1.6 to 1.7 fold increase in mortality in elderly populations with dementia-related psychosis. All antipsychotics carry a strong recommendation in the 2023 Beers Criteria to avoid their use in the elderly except in schizophrenia or bipolar disorders due to an increased risk of cerebrovascular accident and a greater rate of cognitive decline and mortality in persons with dementia; anticholinergic effects, including sedating and hypotensive effects, occur with all antipsychotics in varying frequency and severity. It is advised that routine monitoring of metabolic parameters be conducted with all antipsychotics due to the risk of hyperglycemia, dyslipidemia, and weight gain, and active-duty service member use of an antipsychotic may affect deploy ability.
 
 ---
 
@@ -382,7 +382,7 @@ If you miss a dose of quetiapine extended-release tablets, take them as soon as 
 
 ### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^53b097ca]. The American Journal of Psychiatry (2007). Medium credibility.
 
-Alzheimer’s disease and other dementias—administration timing and frequency considerations include leveraging side effects for benefit, evening dosing to address sundowning, and dosing frequency: A more sedating agent may be given at bedtime for patients with insomnia with agitation or psychosis; antipsychotics are most commonly administered in the evening so peak levels align with evening behavioral problems; most have long half-lives so once-a-day dosing is generally sufficient, with quetiapine usually given twice daily, though morning or twice-daily dosing of other agents may help some patients.
+Alzheimer's disease and other dementias — administration timing and frequency considerations include leveraging side effects for benefit, evening dosing to address sundowning, and dosing frequency: A more sedating agent may be given at bedtime for patients with insomnia with agitation or psychosis; antipsychotics are most commonly administered in the evening so peak levels align with evening behavioral problems; most have long half-lives so once-a-day dosing is generally sufficient, with quetiapine usually given twice daily, though morning or twice-daily dosing of other agents may help some patients.
 
 ---
 
@@ -435,7 +435,7 @@ Never stop an antidepressant medicine without first talking to your healthcare p
 Antidepressants are medicines used to treat depression and other illnesses. It is important to discuss all the risks of treating depression, and also the risks of not treating it. Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 Antidepressant medicines have other side effects. Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
 Antidepressant medicines can interact with other medicines. Know all of the medicines that you or your family member take. Keep a list of all medicines to show the healthcare provider. Do not start new medicines without first checking with your healthcare provider.
-Not all antidepressant medicines prescribed for children are FDA approved for use in children. Talk to your child’s healthcare provider for more information.
+Not all antidepressant medicines prescribed for children are FDA approved for use in children. Talk to your child's healthcare provider for more information.
 
 ---
 
@@ -447,11 +447,11 @@ Bipolar patients experience sleep disturbances during and between mood episodes.
 
 Methods
 
-The Bipolar CHOICE study was a 6-month, parallel group, multisite randomized controlled trial. Participants with bipolar disorder (N = 482; 59% female and age 18-70 years) received quetiapine or lithium. Patients were allowed to also receive adjunctive personalized treatments, which were guideline-informed, empirically-based medications added to treatment as needed. Medication changes were recorded as necessary clinical adjustments (NCA). Fisher's exact tests, mixed-regression models, and Mann-Whitney U tests were used to assess demographic and clinical characteristics as well as whether sleep disturbance would predict outcomes.
+The Bipolar CHOICE study was a 6-month, parallel group, multisite randomized controlled trial. Participants with bipolar disorder (N = 482; 59% female and age 18–70 years) received quetiapine or lithium. Patients were allowed to also receive adjunctive personalized treatments, which were guideline-informed, empirically-based medications added to treatment as needed. Medication changes were recorded as necessary clinical adjustments (NCA). Fisher's exact tests, mixed-regression models, and Mann-Whitney U tests were used to assess demographic and clinical characteristics as well as whether sleep disturbance would predict outcomes.
 
 Results
 
-63% of patients had baseline sleep disturbance. Individuals with sleep disturbance had worse bipolar illness severity, greater severity of depression, mania, anxiety, irritability, and psychosis, were less likely to have sustained response (17% vs. 29%; adjusted RR: 0.55, 95% CI: 0.38-0.78, p = 0.0006) and had more NCAs (median 0.71 vs. 0.59, p = 0.03).
+63% of patients had baseline sleep disturbance. Individuals with sleep disturbance had worse bipolar illness severity, greater severity of depression, mania, anxiety, irritability, and psychosis, were less likely to have sustained response (17% vs. 29%; adjusted RR: 0.55, 95% CI: 0.38–0.78, p = 0.0006) and had more NCAs (median 0.71 vs. 0.59, p = 0.03).
 
 Limitations
 
@@ -493,11 +493,11 @@ Two positive studies evaluated adjunctive extended release quetiapine fumarate (
 
 Methods
 
-Data were analysed from two 6-week, multicentre, double-blind, randomised, placebo-controlled studies, prospectively designed to be pooled. Patients received once-daily quetiapineXR 150mg/day (n=309), 300mg/day (n=307) or placebo (n=303) adjunctive to ongoing antidepressant therapy. The primary endpoint was change from randomisation to Week 6 in MADRS total score. Other assessments included MADRS response (≥50% decrease in total score) and remission (total score≤8), change from randomisation in HAM-D, HAM-A, PSQI global and CGI-S scores.
+Data were analysed from two 6-week, multicentre, double-blind, randomised, placebo-controlled studies, prospectively designed to be pooled. Patients received once-daily quetiapineXR 150mg/day (n = 309), 300mg/day (n = 307) or placebo (n = 303) adjunctive to ongoing antidepressant therapy. The primary endpoint was change from randomisation to Week 6 in MADRS total score. Other assessments included MADRS response (≥ 50% decrease in total score) and remission (total score ≤ 8), change from randomisation in HAM-D, HAM-A, PSQI global and CGI-S scores.
 
 Results
 
-Quetiapine XR (150 and 300mg/day) reduced MADRS total scores vs placebo at every assessment including Week 6 (-14.5, -14.8, -12.0; p<0.001 each dose) and Week 1 (-7.8,-7.3,-5.1; p<0.001 each dose). For quetiapineXR 150 and 300mg/day and placebo, respectively at Week 6: MADRS response 53.7% (p=0.063), 58.3% (p<0.01) and 46.2%; MADRS remission 35.6% (p<0.01), 36.5% (p<0.001) and 24.1%. QuetiapineXR 150 and 300mg/day significantly improved HAM-D, HAM-A, PSQI and CGI-S scores at Week 6 vs placebo. Quetiapine XR demonstrated broad efficacy, independent of factors including concomitant antidepressant.
+Quetiapine XR (150 and 300mg/day) reduced MADRS total scores vs placebo at every assessment including Week 6 (-14.5, -14.8, -12.0; p < 0.001 each dose) and Week 1 (-7.8,-7.3,-5.1; p < 0.001 each dose). For quetiapineXR 150 and 300mg/day and placebo, respectively at Week 6: MADRS response 53.7% (p = 0.063), 58.3% (p < 0.01) and 46.2%; MADRS remission 35.6% (p < 0.01), 36.5% (p < 0.001) and 24.1%. QuetiapineXR 150 and 300mg/day significantly improved HAM-D, HAM-A, PSQI and CGI-S scores at Week 6 vs placebo. Quetiapine XR demonstrated broad efficacy, independent of factors including concomitant antidepressant.
 
 Limitations
 
@@ -517,7 +517,7 @@ Antipsychotic medications differ in their sedative potential, which can affect c
 
 Method
 
-Subjects had a DSM-IV diagnosis of bipolar I disorder in partial or full remission and a Young Mania Rating Scale score <or= 8 at screening. Subjects were randomly assigned to 1 of 2 treatment sequences: risperidone-quetiapine or quetiapine-risperidone. Subjects in the risperidone-quetiapine sequence received 2 mg of risperidone with dinner and placebo with breakfast during period 1 and 100 mg of quetiapine with dinner and 100 mg with breakfast during period 2. Subjects in the quetiapine-risperidone sequence received the same treatments in reverse order. The 2 treatment periods were separated by a 6- to 14-day washout period. Cognitive function, including attention, working memory, declarative memory, processing speed, and executive functions, was measured before and after dosing. The Visual Analog Scale for Fatigue was also completed. The primary endpoint was a neurocognitive composite score (NCS). The study was conducted from November 2004 through August 2005.
+Subjects had a DSM-IV diagnosis of bipolar I disorder in partial or full remission and a Young Mania Rating Scale score ≤ 8 at screening. Subjects were randomly assigned to 1 of 2 treatment sequences: risperidone-quetiapine or quetiapine-risperidone. Subjects in the risperidone-quetiapine sequence received 2 mg of risperidone with dinner and placebo with breakfast during period 1 and 100 mg of quetiapine with dinner and 100 mg with breakfast during period 2. Subjects in the quetiapine-risperidone sequence received the same treatments in reverse order. The 2 treatment periods were separated by a 6- to 14-day washout period. Cognitive function, including attention, working memory, declarative memory, processing speed, and executive functions, was measured before and after dosing. The Visual Analog Scale for Fatigue was also completed. The primary endpoint was a neurocognitive composite score (NCS). The study was conducted from November 2004 through August 2005.
 
 Results
 
@@ -539,7 +539,7 @@ Somnambulism (sleepwalking) is a disorder of arousal that falls under "parasomni
 
 ---
 
-### Boxed warning for risk of serious injuries caused by sleepwalking (...) [^2433eedc]. FDA (2022). Medium credibility.
+### Boxed warning for risk of serious injuries caused by sleepwalking… [^2433eedc]. FDA (2022). Medium credibility.
 
 The Food and Drug Administration is advising that rare but serious injuries have happened with certain common prescription insomnia medicines because of sleep behaviors, including sleepwalking, sleep driving, and engaging in other activities while not fully awake. These complex sleep behaviors have also resulted in deaths. These behaviors appear to be more common with eszopiclone, zaleplon, and zolpidem than other prescription medicines used for sleep. Eszopiclone, zaleplon, and zolpidem are medicines used to treat insomnia in adults who have difficulty falling asleep or staying asleep. They are in a class of medicines called sedative-hypnotics and have been approved and on the market for many years. These insomnia medicines work by slowing activity in the brain to allow sleep. Quality sleep can have a positive impact on physical and mental health.
 
@@ -560,7 +560,7 @@ Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
 Dose-related Adverse Reactions:
 
-Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions. Logistic regression analyses revealed a positive dose response (p<0.05) for the following adverse reactions: dyspepsia, abdominal pain, and weight gain.
+Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions. Logistic regression analyses revealed a positive dose response (p < 0.05) for the following adverse reactions: dyspepsia, abdominal pain, and weight gain.
 
 Adverse Reactions in Clinical Trials with Quetiapine and Not Listed Elsewhere in the Label
 
@@ -586,9 +586,9 @@ For some, feelings of sedation were overbearing and were thought to negatively i
 
 P: side effects were just exhaustion and tired um almost comatose in the mornings. (P6)
 
-P: it was horrible I would sort of wake up in the morning and still be like I hadn’t had a-a night’s sleep. (P6)
+P: it was horrible I would sort of wake up in the morning and still be like I hadn't had a-a night's sleep. (P6)
 
-P: I was just completely wiped out all the time, I mean I was just zonked permanently basically so it wasn’t a feasible option to go forward basically. (P22)
+P: I was just completely wiped out all the time, I mean I was just zonked permanently basically so it wasn't a feasible option to go forward basically. (P22)
 
 However, two respondents felt sedation helped to improve their sleep which was previously disrupted:
 
@@ -596,13 +596,13 @@ P: it definitely helps so much with my sleep erm, because my sleep used to be re
 
 Issues with unwanted weight gain and appetite increase were also among the most commonly reported side effects for quetiapine:
 
-P: having a plan for um. for weight management is a good, is a good thing to do um. cuz that’s been, that’s been pretty difficult. (P14)
+P: having a plan for um. for weight management is a good, is a good thing to do um. cuz that's been, that's been pretty difficult. (P14)
 
-P: one thing that’s caught me out is the appetite that I just get big bursts of cravings of food. (P8)
+P: one thing that's caught me out is the appetite that I just get big bursts of cravings of food. (P8)
 
 The number of side effects reported differed, and for some, several different side effects were reported. Alongside sedation and weight gain, one participant perceived quetiapine to be worsening other pre-existing symptoms:
 
-P: sleep and weight gain and I also like my um. the level of uh constipation and diarrhoea and how much that’s affect, been affecting me. it certainly hasn’t improved um it might have gotten worse since I started taking quetiapine. (P14)
+P: sleep and weight gain and I also like my um. the level of uh constipation and diarrhoea and how much that's affect, been affecting me. it certainly hasn't improved um it might have gotten worse since I started taking quetiapine. (P14)
 
 ---
 
@@ -610,7 +610,7 @@ P: sleep and weight gain and I also like my um. the level of uh constipation and
 
 Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
-Dose-related Adverse Reactions: Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions. Logistic regression analyses revealed a positive dose response (p<0.05) for the following adverse reactions: dyspepsia, abdominal pain, and weight gain.
+Dose-related Adverse Reactions: Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions. Logistic regression analyses revealed a positive dose response (p < 0.05) for the following adverse reactions: dyspepsia, abdominal pain, and weight gain.
 
 Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
 
@@ -650,7 +650,7 @@ Introduction
 
 Understanding the molecular mechanisms that underlie the pathophysiology of major mental illnesses, such as schizophrenia and depression, is very important. It is possible to address some of the remaining fundamental questions by investigating novel actions of compounds currently in clinical use. A recent example is the report of a novel action of the neuroleptics clozapine and risperidone, via a heteromeric complex of 5-HT 2A and mGluR2 receptors.
 
-Neuroleptics have been in clinical use for schizophrenia since the 1950s.The hallmark of these first-generation drugs, including haloperidol and chlorpromazine, is antagonism of the dopamine D 2 receptor. Since the late 1980s, the so-called atypical neuroleptics, such as clozapine, have been introduced. Compared with the first-generation drugs, the atypical neuroleptics show somewhat better efficacy for the negative symptoms and cognitive dysfunction associated with schizophrenia. Furthermore, these drugs are also clinically effective in patients with mood disorders. For example, quetiapine has been approved by the US Food and Drug Administration for the treatment of bipolar depression and is frequently prescribed off-label for depression, anxiety, sleep disturbance and obsessive-compulsive disorder.,, Therefore, in addition to D 2 antagonism, this newer class of drug appears to have additional modes of action. Among the atypical neuroleptics that share a high affinity for serotonin (5-HT 2A) but a relatively low affinity for dopamine (D 2) receptors, quetiapine has a further unique profile with a high affinity for histamine (H 1) and α1-adrenergic receptors. It is not well understood how the interplay of quetiapine's various receptor-binding activities affects molecular pathways and translates to clinical efficacy. Hence, it seems necessary to look beyond the effects of the individual receptors within quetiapine's known receptor-binding profile to understand its overall therapeutic mechanism.
+Neuroleptics have been in clinical use for schizophrenia since the 1950s. The hallmark of these first-generation drugs, including haloperidol and chlorpromazine, is antagonism of the dopamine D 2 receptor. Since the late 1980s, the so-called atypical neuroleptics, such as clozapine, have been introduced. Compared with the first-generation drugs, the atypical neuroleptics show somewhat better efficacy for the negative symptoms and cognitive dysfunction associated with schizophrenia. Furthermore, these drugs are also clinically effective in patients with mood disorders. For example, quetiapine has been approved by the US Food and Drug Administration for the treatment of bipolar depression and is frequently prescribed off-label for depression, anxiety, sleep disturbance and obsessive-compulsive disorder. Therefore, in addition to D 2 antagonism, this newer class of drug appears to have additional modes of action. Among the atypical neuroleptics that share a high affinity for serotonin (5-HT 2A) but a relatively low affinity for dopamine (D 2) receptors, quetiapine has a further unique profile with a high affinity for histamine (H 1) and α1-adrenergic receptors. It is not well understood how the interplay of quetiapine's various receptor-binding activities affects molecular pathways and translates to clinical efficacy. Hence, it seems necessary to look beyond the effects of the individual receptors within quetiapine's known receptor-binding profile to understand its overall therapeutic mechanism.
 
 ---
 
@@ -708,11 +708,11 @@ This 52-week randomized, double-blind, flexible-dose, multicenter study evaluate
 
 Method
 
-Patients were randomly assigned to treatment with olanzapine (2.5-20 mg/day), quetiapine (100-800 mg/day), or risperidone (0.5-4 mg/day) administered in twice-daily doses. Statistical analyses tested for noninferiority in all-cause treatment discontinuation rates up to 52 weeks (primary outcome measure) based on a prespecified noninferiority margin of 20%.
+Patients were randomly assigned to treatment with olanzapine (2.5–20 mg/day), quetiapine (100–800 mg/day), or risperidone (0.5–4 mg/day) administered in twice-daily doses. Statistical analyses tested for noninferiority in all-cause treatment discontinuation rates up to 52 weeks (primary outcome measure) based on a prespecified noninferiority margin of 20%.
 
 Results
 
-A total of 400 patients were randomly assigned to treatment with olanzapine (N=133), quetiapine (N=134), or risperidone (N=133). The mean modal prescribed daily doses were 11.7 mg for olanzapine, 506 mg for quetiapine, and 2.4 mg for risperidone. At week 52, all-cause treatment discontinuation rates were 68.4%, 70.9%, and 71.4% for olanzapine, quetiapine, and risperidone, respectively. Reductions in total score on the Positive and Negative Syndrome Scale (PANSS) were similar for the three treatment groups, but reductions in PANSS positive subscale scores were greater in the olanzapine group (at 12 weeks and at 52 weeks or withdrawal from study) and the risperidone group (at 12 weeks). The most common elicited adverse events for olanzapine were drowsiness (53%), weight gain (51%), and insomnia (38%); for quetiapine, drowsiness (58%), increased sleep hours (42%), and weight gain (40%); and for risperidone, drowsiness (50%), menstrual irregularities in women (47%), and weight gain (41%).
+A total of 400 patients were randomly assigned to treatment with olanzapine (N = 133), quetiapine (N = 134), or risperidone (N = 133). The mean modal prescribed daily doses were 11.7 mg for olanzapine, 506 mg for quetiapine, and 2.4 mg for risperidone. At week 52, all-cause treatment discontinuation rates were 68.4%, 70.9%, and 71.4% for olanzapine, quetiapine, and risperidone, respectively. Reductions in total score on the Positive and Negative Syndrome Scale (PANSS) were similar for the three treatment groups, but reductions in PANSS positive subscale scores were greater in the olanzapine group (at 12 weeks and at 52 weeks or withdrawal from study) and the risperidone group (at 12 weeks). The most common elicited adverse events for olanzapine were drowsiness (53%), weight gain (51%), and insomnia (38%); for quetiapine, drowsiness (58%), increased sleep hours (42%), and weight gain (40%); and for risperidone, drowsiness (50%), menstrual irregularities in women (47%), and weight gain (41%).
 
 Conclusions
 
@@ -722,7 +722,7 @@ Olanzapine, quetiapine, and risperidone demonstrated comparable effectiveness in
 
 ### Behavior, motivational interviewing, eating disorders, and obesity management technologies: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^ab7513e8]. Obesity Pillars (2022). High credibility.
 
-Sleep-related eating disorder (SRED)—diagnosis and management: Patients with SRED may not score differently than night-eating syndrome (NES) on sleep questionnaires and thus diagnosis is mainly a clinical one; the treatment of SRED is dependent on the cause, with drug-induced sleep-related eating disorder best managed by stopping or altering the offending drug (e.g., benzodiazepines, psychotropic medications including clozapine, risperidone, quetiapine, mirtazapine, and zolpidem); patients with SRED should avoid drugs that may worsen the condition; nonpharmacologic measures include stress management and “sleep hygiene,” such as allowing sufficient sleep time and removing dangerous items or moving hazards (i.e., furniture) from likely paths to the kitchen to avoid falling; drug treatment includes selective serotonin reuptake inhibitors, topiramate, and (perhaps paradoxically) clonazepam.
+Sleep-related eating disorder (SRED) — diagnosis and management: Patients with SRED may not score differently than night-eating syndrome (NES) on sleep questionnaires and thus diagnosis is mainly a clinical one; the treatment of SRED is dependent on the cause, with drug-induced sleep-related eating disorder best managed by stopping or altering the offending drug (e.g., benzodiazepines, psychotropic medications including clozapine, risperidone, quetiapine, mirtazapine, and zolpidem); patients with SRED should avoid drugs that may worsen the condition; nonpharmacologic measures include stress management and "sleep hygiene," such as allowing sufficient sleep time and removing dangerous items or moving hazards (i.e., furniture) from likely paths to the kitchen to avoid falling; drug treatment includes selective serotonin reuptake inhibitors, topiramate, and (perhaps paradoxically) clonazepam.
 
 ---
 
@@ -732,11 +732,11 @@ Treatment of Psychosis
 
 New Conclusions
 
-A total of 3 new studies 3, 29, 37 were evaluated. Trials not fulfilling the inclusion criteria for review were excluded. 49 See Table 6 for recommendations. Although there is insufficient evidence for quetiapine to be rated for the treatment of psychosis in PD, practice implications have been changed since the previous review. 2 There are no high‐quality RCTs available for quetiapine for the treatment of psychosis in PD; quetiapine was similarly efficacious to clozapine in a clozapine‐controlled trial that did not include a placebo arm. 2 Therefore, the practice implication is “ possibly useful ” for the treatment of psychosis in PD.
+A total of 3 new studies 3, 29, 37 were evaluated. Trials not fulfilling the inclusion criteria for review were excluded. 49 See Table 6 for recommendations. Although there is insufficient evidence for quetiapine to be rated for the treatment of psychosis in PD, practice implications have been changed since the previous review. 2 There are no high‐quality RCTs available for quetiapine for the treatment of psychosis in PD; quetiapine was similarly efficacious to clozapine in a clozapine‐controlled trial that did not include a placebo arm. 2 Therefore, the practice implication is " possibly useful " for the treatment of psychosis in PD.
 
-Olanzapine was evaluated in a low‐quality, negative study, 37 as such the conclusions are “ non‐efficacious” and “ not useful.”
+Olanzapine was evaluated in a low‐quality, negative study, 37 as such the conclusions are " non‐efficacious" and " not useful."
 
-Pimavanserin, a selective serotonin 5‐HT 2A inverse agonist without dopaminergic, adrenergic, histaminergic, or muscarinic affinity, was evaluated in 2 level I studies. 3, 29 Although the larger high‐quality study had a positive outcome for antipsychotic efficacy, 29 the smaller low‐quality study reported a negative outcome for the primary antipsychotic endpoint, 3 although there were several significant antipsychotic effects in the active arm. Moreover, it was unclear if the primary endpoint was motor safety or antipsychotic efficacy. 3 Indeed, the study was powered for motor function and as such may have been underpowered for antipsychotic efficacy. Therefore, pimavanserin is considered “ efficacious” over the short term of 6 weeks for the treatment of psychosis in PD. Although there were no safety concerns, there is a lack of controlled safety data beyond 6 weeks of treatment. Nevertheless, a very recent FDA analysis found no new or unexpected safety risks associated with pimavanserin 90, 91 (Table 6). Therefore, pimavanserin is considered “ clinically useful” for the treatment of psychosis in PD.
+Pimavanserin, a selective serotonin 5‐HT 2A inverse agonist without dopaminergic, adrenergic, histaminergic, or muscarinic affinity, was evaluated in 2 level I studies. 3, 29 Although the larger high‐quality study had a positive outcome for antipsychotic efficacy, 29 the smaller low‐quality study reported a negative outcome for the primary antipsychotic endpoint, 3 although there were several significant antipsychotic effects in the active arm. Moreover, it was unclear if the primary endpoint was motor safety or antipsychotic efficacy. 3 Indeed, the study was powered for motor function and as such may have been underpowered for antipsychotic efficacy. Therefore, pimavanserin is considered " efficacious" over the short term of 6 weeks for the treatment of psychosis in PD. Although there were no safety concerns, there is a lack of controlled safety data beyond 6 weeks of treatment. Nevertheless, a very recent FDA analysis found no new or unexpected safety risks associated with pimavanserin 90, 91 (Table 6). Therefore, pimavanserin is considered " clinically useful" for the treatment of psychosis in PD.
 
 Generally, all atypical antipsychotics must be used with great caution in demented patients with psychosis because of risk of AEs that include falls, cognitive worsening, pneumonia, cardiovascular effects, stroke, and death. 92
 
@@ -753,6 +753,7 @@ Somnambulism, or sleepwalking, is a parasomnia of non-rapid eye movement (NREM) 
 ### Quetiapine (Seroquel) [^2c3138f1]. FDA (2025). Medium credibility.
 
 Labeled indications for Quetiapine fumarate (also known as Seroquel) include:
+
 - Treatment of bipolar disorder in adults (depressive episodes)
 - Treatment of bipolar disorder in adults (maintenance therapy)
 - Treatment of bipolar disorder in adults (manic or mixed episodes)
@@ -760,6 +761,7 @@ Labeled indications for Quetiapine fumarate (also known as Seroquel) include:
 - Treatment of schizophrenia in adults (maintenance therapy)
 
 Off-label indications for Quetiapine fumarate (also known as Seroquel) include:
+
 - Adjunctive treatment for obsessive-compulsive disorder in adults (refractory)
 - Adjunctive treatment for posttraumatic stress disorder in adults
 - Treatment of generalized anxiety disorder in adults
@@ -771,19 +773,19 @@ Off-label indications for Quetiapine fumarate (also known as Seroquel) include:
 
 ### Low doses of mirtazapine or quetiapine for transient insomnia: a randomised, double-blind, cross-over, placebo-controlled trial [^5c45be37]. Journal of Psychopharmacology (2017). Low credibility.
 
-Low doses of the antidepressant mirtazapine or the neuroleptic quetiapine are often prescribed off-label for insomnia. However, studies on the effects on sleep and hangover effects the following day are scarce. In this randomised, double-blind, cross-over, placebo-controlled trial, the influence of 7.5 mg mirtazapine and 50 mg quetiapine on both normal sleep and sleep disturbed by acoustic stress (traffic noise) as a model for transient insomnia was assessed. Additionally, hangover effects on next-day alertness and cognitive functioning were examined. A total of 19 healthy men without sleep complaints completed three treatment sessions, each session consisting of three consecutive nights in one of the mirtazapine, quetiapine or placebo conditions. Sleep was assessed using polysomnography and the Leeds Sleep Evaluation Questionnaire. Daytime sleepiness and cognitive functioning were assessed using the Leeds Sleep Evaluation Questionnaire, Karolinska Sleepiness Scale, Digit Symbol Substitution Task, Psychomotor Vigilance Task and an addition task. Under acoustic stress, both mirtazapine and quetiapine increased total sleep time by half an hour and reduced the number of awakenings by 35-40% compared to placebo. While quetiapine specifically increased the duration of non-rapid eye movement sleep, stage N2, mirtazapine mainly increased deep sleep stage N3. Subjects reported that both mirtazapine and quetiapine eased getting to sleep and improved sleep quality. Both drugs caused daytime sleepiness and lessened sustained attention. These findings support the use of low doses of mirtazapine and quetiapine for the treatment of insomnia. Further prospective studies on the long-term effects regarding effectiveness and adverse effects are needed.
+Low doses of the antidepressant mirtazapine or the neuroleptic quetiapine are often prescribed off-label for insomnia. However, studies on the effects on sleep and hangover effects the following day are scarce. In this randomised, double-blind, cross-over, placebo-controlled trial, the influence of 7.5 mg mirtazapine and 50 mg quetiapine on both normal sleep and sleep disturbed by acoustic stress (traffic noise) as a model for transient insomnia was assessed. Additionally, hangover effects on next-day alertness and cognitive functioning were examined. A total of 19 healthy men without sleep complaints completed three treatment sessions, each session consisting of three consecutive nights in one of the mirtazapine, quetiapine or placebo conditions. Sleep was assessed using polysomnography and the Leeds Sleep Evaluation Questionnaire. Daytime sleepiness and cognitive functioning were assessed using the Leeds Sleep Evaluation Questionnaire, Karolinska Sleepiness Scale, Digit Symbol Substitution Task, Psychomotor Vigilance Task and an addition task. Under acoustic stress, both mirtazapine and quetiapine increased total sleep time by half an hour and reduced the number of awakenings by 35–40% compared to placebo. While quetiapine specifically increased the duration of non-rapid eye movement sleep, stage N2, mirtazapine mainly increased deep sleep stage N3. Subjects reported that both mirtazapine and quetiapine eased getting to sleep and improved sleep quality. Both drugs caused daytime sleepiness and lessened sustained attention. These findings support the use of low doses of mirtazapine and quetiapine for the treatment of insomnia. Further prospective studies on the long-term effects regarding effectiveness and adverse effects are needed.
 
 ---
 
 ### Quetiapine (Seroquel) [^a20fe59f]. FDA (2025). Medium credibility.
 
-Common adverse reactions (1-10%) associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: akathisia, anxiety, arthralgia, back pain, blurred vision, confusion, constipation, decreased libido, dental pain, depression, disorientation, dysarthria, dyspepsia, ear pain, extrapyramidal signs, falls, gastroenteritis, hyperhidrosis, hypersomnia, hypotension, inattention, irritability, lethargy, loss of appetite, migraine, muscle spasms, myalgia, nasal congestion, nausea, neck pain, nightmares, orthostatic hypotension, paresthesia, parkinsonism, polyuria, restless legs syndrome, restlessness, sinusitis, sluggishness, tachycardia, tremor, upper respiratory tract infections, urinary tract infections, vertigo, vomiting and weight gain.
+Common adverse reactions (1–10%) associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: akathisia, anxiety, arthralgia, back pain, blurred vision, confusion, constipation, decreased libido, dental pain, depression, disorientation, dysarthria, dyspepsia, ear pain, extrapyramidal signs, falls, gastroenteritis, hyperhidrosis, hypersomnia, hypotension, inattention, irritability, lethargy, loss of appetite, migraine, muscle spasms, myalgia, nasal congestion, nausea, neck pain, nightmares, orthostatic hypotension, paresthesia, parkinsonism, polyuria, restless legs syndrome, restlessness, sinusitis, sluggishness, tachycardia, tremor, upper respiratory tract infections, urinary tract infections, vertigo, vomiting and weight gain.
 
 ---
 
 ### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^608ccd85]. DoD/VA (2025). High credibility.
 
-VA/DoD insomnia management—non-pharmacologic prioritization, duty considerations, and non-benzodiazepine benzodiazepine receptor agonist (non-BZD BzRA) safety state that non-pharmacologic treatments should be considered first before beginning pharmacotherapy, with important subgroup considerations in the active-duty population for which duty limitations may apply with the use of hypnotic medication. Veterans and active-duty personnel may have a commercial driving license or operate heavy machinery, and for service members on active-duty or those with a commercial driver’s license, limitation in duties and temporary medical profiles may need to be implemented if a non-benzodiazepine benzodiazepine receptor agonist is prescribed. The Work Group notes resource use as the costs of these medications can vary widely and some of them require prior authorization, and providers may be hesitant to use tricyclic antidepressants (TCAs) in patients with cardiac disease or those who might be susceptible to anticholinergic side effects. Other published literature independent from the strength of this recommendation discusses the potential risk of abuse, dependence, motor vehicle accidents, and diversion, and in April 2019 the FDA released a safety announcement advising of serious injuries from complex sleep behaviors (e.g., sleepwalking, sleep driving, activities while not fully awake) associated with non-BZD BzRAs; these behaviors have at times resulted in deaths and, although rare, have occurred in patients.
+VA/DoD insomnia management — non-pharmacologic prioritization, duty considerations, and non-benzodiazepine benzodiazepine receptor agonist (non-BZD BzRA) safety state that non-pharmacologic treatments should be considered first before beginning pharmacotherapy, with important subgroup considerations in the active-duty population for which duty limitations may apply with the use of hypnotic medication. Veterans and active-duty personnel may have a commercial driving license or operate heavy machinery, and for service members on active-duty or those with a commercial driver's license, limitation in duties and temporary medical profiles may need to be implemented if a non-benzodiazepine benzodiazepine receptor agonist is prescribed. The Work Group notes resource use as the costs of these medications can vary widely and some of them require prior authorization, and providers may be hesitant to use tricyclic antidepressants (TCAs) in patients with cardiac disease or those who might be susceptible to anticholinergic side effects. Other published literature independent from the strength of this recommendation discusses the potential risk of abuse, dependence, motor vehicle accidents, and diversion, and in April 2019 the FDA released a safety announcement advising of serious injuries from complex sleep behaviors (e.g., sleepwalking, sleep driving, activities while not fully awake) associated with non-BZD BzRAs; these behaviors have at times resulted in deaths and, although rare, have occurred in patients.
 
 ---
 
@@ -815,7 +817,7 @@ Regarding specific circumstances for insomnia, more specifically with respect to
 
 ### Restless legs syndrome following the use of ziprasidone: a case report [^fdd8705c]. General Psychiatry (2020). Medium credibility.
 
-Restless legs syndrome (RLS) is a common sleep-related movement disorder characterised by an uncomfortable urge to move the legs that occurs during periods of inactivity. Although there have been many case reports on antipsychotic-induced RLS, ziprasidone has never been reported as a cause of RLS. We present a case of a female patient with schizophrenia who presented with symptoms of RLS following the administration of high doses of ziprasidone added to quetiapine and valproate. The patient’s symptoms of RLS occurred following the administration and titration of ziprasidone to 160 mg, and were relieved upon reducing the dose to 120 mg/day. Other potential causative medications and differential diagnoses that could have caused similar symptoms were excluded. Clinicians should be aware of the potential for ziprasidone-induced RLS. Dopamine and serotonin interaction could be the mechanism underlying ziprasidone-induced RLS.
+Restless legs syndrome (RLS) is a common sleep-related movement disorder characterised by an uncomfortable urge to move the legs that occurs during periods of inactivity. Although there have been many case reports on antipsychotic-induced RLS, ziprasidone has never been reported as a cause of RLS. We present a case of a female patient with schizophrenia who presented with symptoms of RLS following the administration of high doses of ziprasidone added to quetiapine and valproate. The patient's symptoms of RLS occurred following the administration and titration of ziprasidone to 160 mg, and were relieved upon reducing the dose to 120 mg/day. Other potential causative medications and differential diagnoses that could have caused similar symptoms were excluded. Clinicians should be aware of the potential for ziprasidone-induced RLS. Dopamine and serotonin interaction could be the mechanism underlying ziprasidone-induced RLS.
 
 ---
 
@@ -823,7 +825,7 @@ Restless legs syndrome (RLS) is a common sleep-related movement disorder charact
 
 RECENT MAJOR CHANGES
 
-Warnings and Precautions (5.15)                                         1/2025
+Warnings and Precautions (5.15) 1/2025
 
 ---
 
@@ -842,9 +844,10 @@ Unknown frequency adverse reactions associated with the use of quetiapine fumara
 ### Quetiapine (Seroquel) [^96d97fc8]. FDA (2025). Medium credibility.
 
 The dosage of quetiapine fumarate PO for treatment of insomnia in adults is:
-- Start at: 12.5 mg PO daily
-- Maintenance: 25-50 mg PO daily
-- Maximum: 50 mg per day
+
+- **Start at**: 12.5 mg PO daily
+- **Maintenance**: 25–50 mg PO daily
+- **Maximum**: 50 mg per day
 
 ---
 
@@ -878,7 +881,7 @@ We extracted the data from all included studies and two review authors independe
 
 Main Results
 
-We included a total of four studies with 296 participants.Three studies with 206 participants compared quetiapine, an atypical (second-generation) antipsychotic, with placebo. One study used a cross-over design and two studies a parallel-group design. Study duration was eight or 12 weeks. Quetiapine was used in all studies with a bedtime dosage between 50 and 300 mg/day. All studies had one or more sources of potential major bias and we judged them to be at moderate risk of bias overall. The primary outcomes in this review were participant-reported pain relief of 50% or greater, Patient Global Impression of Change (PGIC) much or very much improved, withdrawal due to adverse events (tolerability) and serious adverse events (safety).Second tier evidence indicated that quetiapine was not statistically superior to placebo in the number of participants with a 50% or more pain reduction (very low quality evidence). No study reported data on PGIC. A greater proportion of participants on quetiapine reported a 30% or more pain reduction (risk difference (RD) 0.12, 95% confidence interval (CI) 0.00 to 0.23; number needed to treat for an additional benefit (NNTB) 8, 95% CI 5 to 100) (very low quality evidence). A greater proportion of participants on quetiapine reported a clinically relevant improvement of health-related quality of life compared to placebo ( RD 0.18, 95% CI 0.05 to 0.31; NNTB 5, 95% CI 3 to 20) (very low quality evidence). Quetiapine was statistically superior to placebo in reducing sleep problems (standardised mean difference (SMD) -0.67, 95% CI -1.10 to -0.23), depression (SMD -0.39, 95% CI -0.74 to -0.04) and anxiety (SMD -0.40, 95% CI -0.69 to -0.11) (very low quality evidence). Quetiapine was statistically superior to placebo in reducing the risk of withdrawing from the study due to a lack of efficacy (RD -0.14, 95% CI -0.23 to -0.05) (very low quality evidence). There was no statistically significant difference between quetiapine and placebo in the proportion of participants withdrawing due to adverse events (tolerability) (very low quality evidence), in the frequency of serious adverse events (safety) (very low quality evidence) and in the proportion of participants reporting dizziness and somnolence as an adverse event (very low quality evidence). In more participants in the quetiapine group a substantial weight gain was noted (RD 0.08, 95% CI 0.02 to 0.15; number needed to treat for an additional harm (NNTH) 12, 95% CI 6 to 50) (very low quality evidence). We downgraded the quality of evidence by three levels to a very low quality rating because of limitations of study design, indirectness (patients with major medical diseases and mental disorders were excluded) and imprecision (fewer than 400 patients were analysed).One parallel design study with 90 participants compared quetiapine (50 to 300 mg/day flexible at bedtime) to amitriptyline (10 to 75 mg/day flexible at bedtime). The study had three major risks of bias and we judged it to be at moderate risk of bias overall. We downgraded the quality of evidence by two levels to a low quality rating because of indirectness (patients with major medical diseases and mental disorders were excluded) and imprecision (fewer than 400 patients were analysed). Third tier evidence indicated no statistically significant differences between the two drugs. Both drugs did not statistically significantly differ in the reduction of average scores for pain, fatigue, sleep problems, depression, anxiety and for limitations of health-related quality of life and in the proportion of participants reporting dizziness, somnolence and weight gain as a side effect (low quality evidence). Compared to amitriptyline, more participants left the study due to adverse events (low quality evidence). No serious adverse events were reported (low quality evidence).We found no relevant study with other antipsychotics than quetiapine in fibromyalgia.
+We included a total of four studies with 296 participants. Three studies with 206 participants compared quetiapine, an atypical (second-generation) antipsychotic, with placebo. One study used a cross-over design and two studies a parallel-group design. Study duration was eight or 12 weeks. Quetiapine was used in all studies with a bedtime dosage between 50 and 300 mg/day. All studies had one or more sources of potential major bias and we judged them to be at moderate risk of bias overall. The primary outcomes in this review were participant-reported pain relief of 50% or greater, Patient Global Impression of Change (PGIC) much or very much improved, withdrawal due to adverse events (tolerability) and serious adverse events (safety). Second tier evidence indicated that quetiapine was not statistically superior to placebo in the number of participants with a 50% or more pain reduction (very low quality evidence). No study reported data on PGIC. A greater proportion of participants on quetiapine reported a 30% or more pain reduction (risk difference (RD) 0.12, 95% confidence interval (CI) 0.00 to 0.23; number needed to treat for an additional benefit (NNTB) 8, 95% CI 5 to 100) (very low quality evidence). A greater proportion of participants on quetiapine reported a clinically relevant improvement of health-related quality of life compared to placebo (RD 0.18, 95% CI 0.05 to 0.31; NNTB 5, 95% CI 3 to 20) (very low quality evidence). Quetiapine was statistically superior to placebo in reducing sleep problems (standardised mean difference (SMD) -0.67, 95% CI -1.10 to -0.23), depression (SMD -0.39, 95% CI -0.74 to -0.04) and anxiety (SMD -0.40, 95% CI -0.69 to -0.11) (very low quality evidence). Quetiapine was statistically superior to placebo in reducing the risk of withdrawing from the study due to a lack of efficacy (RD -0.14, 95% CI -0.23 to -0.05) (very low quality evidence). There was no statistically significant difference between quetiapine and placebo in the proportion of participants withdrawing due to adverse events (tolerability) (very low quality evidence), in the frequency of serious adverse events (safety) (very low quality evidence) and in the proportion of participants reporting dizziness and somnolence as an adverse event (very low quality evidence). In more participants in the quetiapine group a substantial weight gain was noted (RD 0.08, 95% CI 0.02 to 0.15; number needed to treat for an additional harm (NNTH) 12, 95% CI 6 to 50) (very low quality evidence). We downgraded the quality of evidence by three levels to a very low quality rating because of limitations of study design, indirectness (patients with major medical diseases and mental disorders were excluded) and imprecision (fewer than 400 patients were analysed). One parallel design study with 90 participants compared quetiapine (50 to 300 mg/day flexible at bedtime) to amitriptyline (10 to 75 mg/day flexible at bedtime). The study had three major risks of bias and we judged it to be at moderate risk of bias overall. We downgraded the quality of evidence by two levels to a low quality rating because of indirectness (patients with major medical diseases and mental disorders were excluded) and imprecision (fewer than 400 patients were analysed). Third tier evidence indicated no statistically significant differences between the two drugs. Both drugs did not statistically significantly differ in the reduction of average scores for pain, fatigue, sleep problems, depression, anxiety and for limitations of health-related quality of life and in the proportion of participants reporting dizziness, somnolence and weight gain as a side effect (low quality evidence). Compared to amitriptyline, more participants left the study due to adverse events (low quality evidence). No serious adverse events were reported (low quality evidence). We found no relevant study with other antipsychotics than quetiapine in fibromyalgia.
 
 Authors' Conclusions
 
@@ -888,7 +891,7 @@ Very low quality evidence suggests that quetiapine may be considered for a time-
 
 ### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^eaa71f9d]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
 
-Other agents for primary insomnia—limited or excluded evidence: For oxazepam, a crossover study of oxazepam 25 mg versus placebo in 28 patients with “insomnia” found subjective interval ratings showed a significant reduction in sleep latency (SL) and significant improvement in quality of sleep (QOS). A quetiapine placebo-controlled study included only 13 subjects; numerical increases in subjective total sleep time (TST) and decreases in subjective SL were not statistically significant. A gabapentin open-label investigation with 18 subjects and no placebo control was excluded. For paroxetine, one variable-dosage trial in 15 patients without placebo was excluded, and another randomized study in 27 older adults evaluated paroxetine 10 mg/20 mg versus placebo with doses pooled for analysis.
+Other agents for primary insomnia — limited or excluded evidence: For oxazepam, a crossover study of oxazepam 25 mg versus placebo in 28 patients with "insomnia" found subjective interval ratings showed a significant reduction in sleep latency (SL) and significant improvement in quality of sleep (QOS). A quetiapine placebo-controlled study included only 13 subjects; numerical increases in subjective total sleep time (TST) and decreases in subjective SL were not statistically significant. A gabapentin open-label investigation with 18 subjects and no placebo control was excluded. For paroxetine, one variable-dosage trial in 15 patients without placebo was excluded, and another randomized study in 27 older adults evaluated paroxetine 10 mg/20 mg versus placebo with doses pooled for analysis.
 
 ---
 
@@ -904,7 +907,7 @@ An open-label, randomized comparison of sleep-activity and depressive symptoms b
 
 Results
 
-A total of 42 patients (35.7±10.9 years; gender: male 15, female 27) with bipolar depression were screened out. Out of 42 patients, six patients were excluded before randomization. After randomization, seven patients were withdrawn. Twenty-nine patients with more than two visits after randomization (lithium group: 17, quetiapine XR group: 12, mean age: 36.1±10.4, gender: male 13, female 16) were included in the final analysis. In both groups, Hamilton Depression Rating Scale (HDRS) scores were significantly decreased at weeks 1, 2, 4, 6, and 8 compared with baseline. Remission rate (HDRS≤7) in the quetiapine XR was significantly higher than that of the lithium group. In the quetiapine XR group, PSQI scores at weeks 1, 2, 4, 6, and 8 was significantly decreased compared with baseline. Sleep efficiency at weeks 6 and 8 was significantly increased. WASO at week 8 was significantly decreased.
+A total of 42 patients (35.7 ± 10.9 years; gender: male 15, female 27) with bipolar depression were screened out. Out of 42 patients, six patients were excluded before randomization. After randomization, seven patients were withdrawn. Twenty-nine patients with more than two visits after randomization (lithium group: 17, quetiapine XR group: 12, mean age: 36.1 ± 10.4, gender: male 13, female 16) were included in the final analysis. In both groups, Hamilton Depression Rating Scale (HDRS) scores were significantly decreased at weeks 1, 2, 4, 6, and 8 compared with baseline. Remission rate (HDRS ≤ 7) in the quetiapine XR was significantly higher than that of the lithium group. In the quetiapine XR group, PSQI scores at weeks 1, 2, 4, 6, and 8 was significantly decreased compared with baseline. Sleep efficiency at weeks 6 and 8 was significantly increased. WASO at week 8 was significantly decreased.
 
 Limitations
 
@@ -946,7 +949,7 @@ To determine the effects of quetiapine for schizophrenia in comparison to placeb
 
 Search Strategy
 
-Electronic searches of the Cochrane Schizophrenia Group's Register of Trials (February 2003), Biological Abstracts (1982-2000), CINAHL (1982-2000), the Cochrane Library (2000, Issue 1),EMBASE (1980-2000), MEDLINE (1966-2000), PsycLIT (1974-2000), SIGLE on CD (1980-1997), SocioFile (1974-1997) and many conference proceedings and hand searches of specific journals were undertaken. We contacted AstraZeneca Pharmaceuticals for information regarding unpublished trials. The review was updated in February 2003.
+Electronic searches of the Cochrane Schizophrenia Group's Register of Trials (February 2003), Biological Abstracts (1982–2000), CINAHL (1982–2000), the Cochrane Library (2000, Issue 1), EMBASE (1980–2000), MEDLINE (1966–2000), PsycLIT (1974–2000), SIGLE on CD (1980–1997), SocioFile (1974–1997) and many conference proceedings and hand searches of specific journals were undertaken. We contacted AstraZeneca Pharmaceuticals for information regarding unpublished trials. The review was updated in February 2003.
 
 Selection Criteria
 
@@ -958,7 +961,7 @@ Citations and, where possible, abstracts were inspected independently by reviewe
 
 Main Results
 
-Despite the fact that 3443 people were randomised in 12 quetiapine studies, there are almost no data on service utilisation, economic outcomes, social functioning and quality of life. Over half of those within the quetiapine versus placebo comparison were lost to follow up (53% quetiapine vs 61% placebo, n=716, 4RCTs, RR 0.84 CI 0.7 to 0.9, NNT 11 CI 7 to 55) so it is impossible to interpret any ratings of global or mental state within this comparison with confidence. People allocated quetiapine, however, did not have more movement disorders than those given placebo (n=395, 2 RCTs, RR needing medication for EPSE 0.62 CI 0.3 to 1.2). The same applies to the comparison of >/= 250 mg/day quetiapine with < 250 mg/day quetiapine (49% dropout >/= 250 mg/day vs 58% < 250 mg/day, n=1066, 3 RCTs, RR 0.84 CI 0.8 to 0.9, NNT 11 CI 7 to 29). It should be noted that two deaths occurred in the higher dose group (n=618, 1 RCT, RR 0.1 CI 0.0 to 2.1). When quetiapine was compared with typical antipsychotics, about 36% of both groups failed to complete the short-term studies (n=1624, 6 RCTs, RR 0.87 CI 0.8 to 1.0). Average change in global state was heterogeneous and equivocal (n=762, 3 RCTs, WMD in short term 0.19 CI 0.00 to 0.38, I squared 76%). Mental state measures were also equivocal (n=1247, RR not improved 0.97 CI 0.9 to 1.1) including specific measures of negative symptoms (n=305, 1 RCT, MD change in SANS short term 0.94 CI -0.2 to 2.0). Movement disorders were less prevalent for those allocated quetiapine (n=1117, 4 RCTs, RR needing medication for extrapyramidal adverse effects 0.47 CI 0.4 to 0.6, NNT 4 CI 4 to 5, I squared 88%). Dry mouth (n=649, 2 RCTs, RR short term 2.85 CI 1.5 to 5.6, NNH 17 CI 7 to 65) and sleepiness (n=959, 3 RCTs, RR 1.51 CI 1.1 to 2.2, NNH 18 CI 8 to 181) may also be more prevalent for people given quetiapine compared with the older drugs. In the quetiapine versus risperidone comparison, over 30% of people left the study before completion (n=728, 1 RCT, RR 0.94 CI 0.7 to 1.2). Four people, all treated with quetiapine, died during the study (n=728, 1 RCT, RR 2.86 CI 0.2 to 52.8). Continuous mental state measures did not show clear differences between the two drugs (n=637, 1 RCT, MD PANSS 1.2 CI -2.0 to 4.4). However, considerably fewer people given quetiapine needed medication for extrapyramidal side effects compared with those allocated to risperidone (n=712, 1 RCT, RR 0.27 CI 0.2 to 0.5, NNT 11 CI 10 to 16). Quetiapine caused more dizziness (n=728, 1 RCT, RR 1.85 CI 1.0 to 3.3, NNH 18 CI 7 to 487), more dry mouth (n=728, 1 RCT, RR 2.11 CI 1.2 to 3.8, NNH 14 CI 6 to 82) and more sleepiness than risperidone (n=728, 1 RCT, RR 2.03 CI 1.4 to 2.9, NNH 7 CI 4 to 17).
+Despite the fact that 3443 people were randomised in 12 quetiapine studies, there are almost no data on service utilisation, economic outcomes, social functioning and quality of life. Over half of those within the quetiapine versus placebo comparison were lost to follow up (53% quetiapine vs 61% placebo, n = 716, 4RCTs, RR 0.84 CI 0.7 to 0.9, NNT 11 CI 7 to 55) so it is impossible to interpret any ratings of global or mental state within this comparison with confidence. People allocated quetiapine, however, did not have more movement disorders than those given placebo (n = 395, 2 RCTs, RR needing medication for EPSE 0.62 CI 0.3 to 1.2). The same applies to the comparison of ≥ 250 mg/day quetiapine with < 250 mg/day quetiapine (49% dropout ≥ 250 mg/day vs 58% < 250 mg/day, n = 1066, 3 RCTs, RR 0.84 CI 0.8 to 0.9, NNT 11 CI 7 to 29). It should be noted that two deaths occurred in the higher dose group (n = 618, 1 RCT, RR 0.1 CI 0.0 to 2.1). When quetiapine was compared with typical antipsychotics, about 36% of both groups failed to complete the short-term studies (n = 1624, 6 RCTs, RR 0.87 CI 0.8 to 1.0). Average change in global state was heterogeneous and equivocal (n = 762, 3 RCTs, WMD in short term 0.19 CI 0.00 to 0.38, I squared 76%). Mental state measures were also equivocal (n = 1247, RR not improved 0.97 CI 0.9 to 1.1) including specific measures of negative symptoms (n = 305, 1 RCT, MD change in SANS short term 0.94 CI -0.2 to 2.0). Movement disorders were less prevalent for those allocated quetiapine (n = 1117, 4 RCTs, RR needing medication for extrapyramidal adverse effects 0.47 CI 0.4 to 0.6, NNT 4 CI 4 to 5, I squared 88%). Dry mouth (n = 649, 2 RCTs, RR short term 2.85 CI 1.5 to 5.6, NNH 17 CI 7 to 65) and sleepiness (n = 959, 3 RCTs, RR 1.51 CI 1.1 to 2.2, NNH 18 CI 8 to 181) may also be more prevalent for people given quetiapine compared with the older drugs. In the quetiapine versus risperidone comparison, over 30% of people left the study before completion (n = 728, 1 RCT, RR 0.94 CI 0.7 to 1.2). Four people, all treated with quetiapine, died during the study (n = 728, 1 RCT, RR 2.86 CI 0.2 to 52.8). Continuous mental state measures did not show clear differences between the two drugs (n = 637, 1 RCT, MD PANSS 1.2 CI -2.0 to 4.4). However, considerably fewer people given quetiapine needed medication for extrapyramidal side effects compared with those allocated to risperidone (n = 712, 1 RCT, RR 0.27 CI 0.2 to 0.5, NNT 11 CI 10 to 16). Quetiapine caused more dizziness (n = 728, 1 RCT, RR 1.85 CI 1.0 to 3.3, NNH 18 CI 7 to 487), more dry mouth (n = 728, 1 RCT, RR 2.11 CI 1.2 to 3.8, NNH 14 CI 6 to 82) and more sleepiness than risperidone (n = 728, 1 RCT, RR 2.03 CI 1.4 to 2.9, NNH 7 CI 4 to 17).
 
 Reviewers' Conclusions
 
@@ -974,7 +977,7 @@ Very common adverse reactions (over 10%) associated with the use of quetiapine f
 
 ### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^bc36e46a]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
 
-Current hypnotic usage—prescription patterns and population use are summarized across U.S. datasets. Overall frequency of hypnotic prescriptions for insomnia declined during 1970–1990 from 5.3% to 2.5%. In office-based prescribing during 1987–1996, there was an over 50% decline in benzodiazepine (BZD) hypnotic prescriptions accompanied by a nearly 150% increase in trazodone prescriptions, and overall prescriptions for insomnia declined by about 25% during this period. Using National Health and Nutrition Examination Survey (NHANES) 1999–2010 data, just under 3% of the population had used these agents within the past month; BzRAs were most commonly prescribed (1.23% of the population), followed by trazodone (0.97%), BZDs (0.4%), quetiapine (0.32%) and doxepin. The use of antidepressants with poor or limited documentation was only 0.7% in the past month, increasing from 0.2% in the first year sampled to 3.5% in the final year (2009–2010). The 2005 National Sleep Foundation’s survey found that 7% of respondents report using a prescription medication to improve sleep at least a few nights per month.
+Current hypnotic usage — prescription patterns and population use are summarized across U.S. datasets. Overall frequency of hypnotic prescriptions for insomnia declined during 1970–1990 from 5.3% to 2.5%. In office-based prescribing during 1987–1996, there was an over 50% decline in benzodiazepine (BZD) hypnotic prescriptions accompanied by a nearly 150% increase in trazodone prescriptions, and overall prescriptions for insomnia declined by about 25% during this period. Using National Health and Nutrition Examination Survey (NHANES) 1999–2010 data, just under 3% of the population had used these agents within the past month; BzRAs were most commonly prescribed (1.23% of the population), followed by trazodone (0.97%), BZDs (0.4%), quetiapine (0.32%) and doxepin. The use of antidepressants with poor or limited documentation was only 0.7% in the past month, increasing from 0.2% in the first year sampled to 3.5% in the final year (2009–2010). The 2005 National Sleep Foundation's survey found that 7% of respondents report using a prescription medication to improve sleep at least a few nights per month.
 
 ---
 
@@ -984,13 +987,13 @@ Management and clinical course after the onset of RLS
 
 As several reports have shown that RLS could be induced by quetiapine, we tapered Miss A off quetiapine and valproic acid. However, even with ziprasidone as monotreatment, her symptoms of RLS persisted.
 
-Given the patient’s amelioration of psychotic symptoms with ziprasidone, treatment with ziprasidone was maintained but with a reduced dose of 120 mg daily (40 mg three times a day during meals). The day after we reduced the dosage, the patient reported minimal discomfort in bilateral legs in the afternoon, which was relieved with massage within an hour. She reported sufficient sleep at night after tapering down the dose of ziprasidone. The patient rated her symptoms as Mild (9 points in total) at this time using the IRLS. Several days later, Miss A’s psychotic symptoms were resolved, and she was thus discharged home.
+Given the patient's amelioration of psychotic symptoms with ziprasidone, treatment with ziprasidone was maintained but with a reduced dose of 120 mg daily (40 mg three times a day during meals). The day after we reduced the dosage, the patient reported minimal discomfort in bilateral legs in the afternoon, which was relieved with massage within an hour. She reported sufficient sleep at night after tapering down the dose of ziprasidone. The patient rated her symptoms as Mild (9 points in total) at this time using the IRLS. Several days later, Miss A's psychotic symptoms were resolved, and she was thus discharged home.
 
 ---
 
 ### Causes, consequences, and treatments of sleep and circadian disruption in the ICU: an official American Thoracic Society research statement [^9910cc49]. American Journal of Respiratory and Critical Care Medicine (2023). High credibility.
 
-Pharmacologic treatment for intensive care unit (ICU) sleep and circadian disruption (SCD) is characterized by limited guideline support and mixed evidence: There are “no ICU guideline recommendations supporting the use of a pharmacologic treatment to improve ICU SCD,” yet medications are “frequently prescribed,” with “Melatonin … the most commonly prescribed medication, followed by ramelteon and quetiapine.” In ICU sleep-bundle trials, “only two allowed use of pharmacologic sleep aids,” and usage was “relatively uncommon” at 16% and 7%, so these studies did not establish sleep impact. Two large randomized controlled trials (RCTs) of melatonin “showed no association … with improvement in delirium and conflicting results regarding sleep outcomes” by RCSQ and nursing observation. Ramelteon has been reported to improve both sleep-related and delirium endpoints, dexmedetomidine shows “mixed” sleep-promotion results potentially related to measurement methods, and suvorexant was associated with a lower incidence of delirium but no differences in sleep endpoints versus no suvorexant after adjustment.
+Pharmacologic treatment for intensive care unit (ICU) sleep and circadian disruption (SCD) is characterized by limited guideline support and mixed evidence: There are "no ICU guideline recommendations supporting the use of a pharmacologic treatment to improve ICU SCD," yet medications are "frequently prescribed," with "Melatonin… the most commonly prescribed medication, followed by ramelteon and quetiapine." In ICU sleep-bundle trials, "only two allowed use of pharmacologic sleep aids," and usage was "relatively uncommon" at 16% and 7%, so these studies did not establish sleep impact. Two large randomized controlled trials (RCTs) of melatonin "showed no association… with improvement in delirium and conflicting results regarding sleep outcomes" by RCSQ and nursing observation. Ramelteon has been reported to improve both sleep-related and delirium endpoints, dexmedetomidine shows "mixed" sleep-promotion results potentially related to measurement methods, and suvorexant was associated with a lower incidence of delirium but no differences in sleep endpoints versus no suvorexant after adjustment.
 
 ---
 
@@ -1010,11 +1013,11 @@ Very common adverse reactions (over 10%) associated with the use of quetiapine f
 
 Key messages
 
-• Quetiapine might be an effective therapy in difficult-to-treat patients with hyperactive and mixed delirium.
+- Quetiapine might be an effective therapy in difficult-to-treat patients with hyperactive and mixed delirium.
 
-• Quetiapine may be efficacious at doses lower than those reported in the literature.
+- Quetiapine may be efficacious at doses lower than those reported in the literature.
 
-• Quetiapine's effectiveness in this patient group should be tested further in a controlled study.
+- Quetiapine's effectiveness in this patient group should be tested further in a controlled study.
 
 ---
 
@@ -1026,7 +1029,7 @@ Insomnia associated with chronic schizophrenia and after clozapine discontinuati
 
 ### Recommended protocols for the multiple sleep latency test and maintenance of wakefulness test in children: guidance from the American Academy of Sleep Medicine [^01719c43]. Journal of Clinical Sleep Medicine (2024). High credibility.
 
-Medications that may interfere with sleep architecture—drug classes and example agents relevant to Multiple Sleep Latency Test (MSLT) preparation include adenosine modulators (theophylline, theobromine, caffeine), alpha-2 delta ligands (gabapentin), antidepressants including SSRIs (fluoxetine*, escitalopram, sertraline, paroxetine) and SNRIs (venlafaxine, duloxetine), tricyclic antidepressants (nortriptyline, amitriptyline, doxepin), sedating antihistamines (diphenhydramine, doxylamine), antipsychotic agents (quetiapine), alpha antagonists (prazosin), benzodiazepines/NBRAs (flurazepam*, clonazepam, lorazepam, zolpidem, eszopiclone, zaleplon), dopamine agonists (pramipexole, rotigotine, ropinirole), lithium, melatonin agonists (ramelteon, tasimelteon), opioid agonists (morphine, hydrocodone, methadone, fentanyl), oxybates (sodium oxybate; calcium, magnesium, potassium, sodium oxybate), steroids (prednisone), stimulants (methylphenidates, amphetamines), and wake‑promoting agents (armodafinil, modafinil, pitolisant, solriamfetol); for agents with long half-lives, longer washout “(up to 6 weeks) may be needed,” and “This list is not exhaustive.”
+Medications that may interfere with sleep architecture — drug classes and example agents relevant to Multiple Sleep Latency Test (MSLT) preparation include adenosine modulators (theophylline, theobromine, caffeine), alpha-2 delta ligands (gabapentin), antidepressants including SSRIs (fluoxetine*, escitalopram, sertraline, paroxetine) and SNRIs (venlafaxine, duloxetine), tricyclic antidepressants (nortriptyline, amitriptyline, doxepin), sedating antihistamines (diphenhydramine, doxylamine), antipsychotic agents (quetiapine), alpha antagonists (prazosin), benzodiazepines/NBRAs (flurazepam*, clonazepam, lorazepam, zolpidem, eszopiclone, zaleplon), dopamine agonists (pramipexole, rotigotine, ropinirole), lithium, melatonin agonists (ramelteon, tasimelteon), opioid agonists (morphine, hydrocodone, methadone, fentanyl), oxybates (sodium oxybate; calcium, magnesium, potassium, sodium oxybate), steroids (prednisone), stimulants (methylphenidates, amphetamines), and wake‑promoting agents (armodafinil, modafinil, pitolisant, solriamfetol); for agents with long half-lives, longer washout "(up to 6 weeks) may be needed," and "This list is not exhaustive."
 
 ---
 
@@ -1040,7 +1043,7 @@ The RECOVER (Randomized Evaluation of the 24-hour Coverage: Efficacy of Rotigoti
 
 Subjects
 
-Men and women (aged ≥18 years) with PD (Hoehn and Yahr Stage I-IV; both fluctuators and nonfluctuators) and unsatisfactory control of early morning motor symptoms as determined by the investigator (with the latter intended to reflect clinical practice), were eligible for inclusion. PD was defined by the presence of bradykinesia and at least one of the following: resting tremor, rigidity, or impairment of postural reflexes. Subjects not taking-dopa were eligible for study inclusion as were those taking immediate-release-dopa provided they had been on a stable dose for the 28 days prior to baseline (see Supporting Information text for study exclusion criteria).
+Men and women (aged ≥ 18 years) with PD (Hoehn and Yahr Stage I-IV; both fluctuators and nonfluctuators) and unsatisfactory control of early morning motor symptoms as determined by the investigator (with the latter intended to reflect clinical practice), were eligible for inclusion. PD was defined by the presence of bradykinesia and at least one of the following: resting tremor, rigidity, or impairment of postural reflexes. Subjects not taking-dopa were eligible for study inclusion as were those taking immediate-release-dopa provided they had been on a stable dose for the 28 days prior to baseline (see Supporting Information text for study exclusion criteria).
 
 Antiemetics without central dopaminergic activity were permitted to treat nausea and vomiting that occurred during study drug use. Anticholinergic agents, monoamine oxidase-B inhibitors, NMDA antagonists, entacapone, sedatives, hypnotics, selective serotonin reuptake inhibitors, anxiolytics, and other CNS medications were permitted if dose was stable for the 28 days prior to baseline and likely to remain so for the duration of the study. Controlled-release-dopa, other centrally acting dopaminergic agents, monoamine oxidase-A inhibitors, tolcapone, budipine, or neuroleptics (except olanzapine, ziprasidone, aripiprazole, clozapine, or quetiapine) were prohibited from 28 days prior to baseline and during the study.
 
@@ -1050,11 +1053,11 @@ The study was conducted in accordance with Good Clinical Practice and the Declar
 
 ### Quetiapine (Seroquel) [^54d8e1a3]. FDA (2025). Medium credibility.
 
-Common adverse reactions (1-10%) associated with the use of quetiapine fumarate PO (also known as Seroquel) include: abdominal pain, akathisia, amblyopia, anxiety, arthralgia, asthenia, ataxia, back pain, ↑ blood glucose, blurred vision, cough, dental pain, depression, dysarthria, dyskinesia, dyspepsia, dysphagia, dystonia, extrapyramidal signs, fatigue, fever, gastroenteritis, gastroesophageal reflux disease, hypersomnia, hypertension, hypertonia, hypoesthesia, hypotension, hypothyroidism, incoordination, increased appetite, infection, irritability, lethargy, ↑ liver enzymes, loss of balance, muscle twitching, nasal congestion, nausea, nightmares, orthostatic hypotension, pain, pain in extremity, palpitations, paresthesia, parkinsonism, peripheral edema, pharyngitis, restless legs syndrome, rhinitis, ↑ serum ALT, ↑ serum AST, ↑ serum prolactin, sinusitis, skin rash, speech disturbance, sweating, syncope, tachycardia, tremor, urinary tract infections and vomiting.
+Common adverse reactions (1–10%) associated with the use of quetiapine fumarate PO (also known as Seroquel) include: abdominal pain, akathisia, amblyopia, anxiety, arthralgia, asthenia, ataxia, back pain, ↑ blood glucose, blurred vision, cough, dental pain, depression, dysarthria, dyskinesia, dyspepsia, dysphagia, dystonia, extrapyramidal signs, fatigue, fever, gastroenteritis, gastroesophageal reflux disease, hypersomnia, hypertension, hypertonia, hypoesthesia, hypotension, hypothyroidism, incoordination, increased appetite, infection, irritability, lethargy, ↑ liver enzymes, loss of balance, muscle twitching, nasal congestion, nausea, nightmares, orthostatic hypotension, pain, pain in extremity, palpitations, paresthesia, parkinsonism, peripheral edema, pharyngitis, restless legs syndrome, rhinitis, ↑ serum ALT, ↑ serum AST, ↑ serum prolactin, sinusitis, skin rash, speech disturbance, sweating, syncope, tachycardia, tremor, urinary tract infections and vomiting.
 
 ---
 
-### Off-label use of quetiapine (...) [^59c49d2f]. JAMA Network (2016). Excellent credibility.
+### Off-label use of quetiapine… [^59c49d2f]. JAMA Network (2016). Excellent credibility.
 
 Off-label use of antipsychotic medication is increasing, particularly the use of quetiapine for sleep, owing to its sedating properties. 1 This is a cause for concern given important adverse effects, including drug-induced diabetes and parkinsonism, weight gain, neuroleptic malignant syndrome, oversedation, and risk of arrhythmia. 2 We describe quetiapine use in a prospective cohort of medical inpatients and the proportion of in-hospital use that is perpetuated on discharge. One of us retrospectively reviewed all medical records for quetiapine dose and indication. In the absence of a documented comorbid psychiatric condition or evidence of delirium it was inferred that once-nightly quetiapine was being given for sleep. Categorical variables were compared using χ2 and continuous variables using Wilcoxon rank-sum or the Kruskal-Wallis test as appropriate.
 
@@ -1068,7 +1071,7 @@ The proportion of patients who received quetiapine off-label for sleep was simil
 
 5.7 Parasomnias
 
-Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with Xyrem in adult controlled trials and long-term open-label studies, with <1% of patients discontinuing due to sleepwalking. Rates of sleepwalking were similar for patients taking placebo and patients taking Xyrem in controlled trials. It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder. Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of Xyrem in patients with narcolepsy.
+Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with Xyrem in adult controlled trials and long-term open-label studies, with < 1% of patients discontinuing due to sleepwalking. Rates of sleepwalking were similar for patients taking placebo and patients taking Xyrem in controlled trials. It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder. Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of Xyrem in patients with narcolepsy.
 
 Parasomnias, including sleepwalking, also have been reported in the pediatric clinical trial and in postmarketing experience with Xyrem. Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
 
@@ -1084,11 +1087,11 @@ Xyrem has a high salt content. In patients sensitive to salt intake (e.g., those
 
 5.7 Parasomnias
 
-Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with sodium oxybate in adult controlled trials and long-term open-label studies, with <1% of patients discontinuing due to sleepwalking. Rates of sleepwalking were similar for patients taking placebo and patients taking sodium oxybate in controlled trials. It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder. Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of sodium oxybate in patients with narcolepsy.
+Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with sodium oxybate in adult controlled trials and long-term open-label studies, with < 1% of patients discontinuing due to sleepwalking. Rates of sleepwalking were similar for patients taking placebo and patients taking sodium oxybate in controlled trials. It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder. Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of sodium oxybate in patients with narcolepsy.
 
 Parasomnias, including sleepwalking, also have been reported in postmarketing experience with sodium oxybate. Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
 
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution. However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric use information is approved for Jazz Pharmaceuticals Inc.'s XYREM (sodium oxybate) Oral Solution. However, due to Jazz Pharmaceuticals Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 5.8 Use in Patients Sensitive to High Sodium Intake
 
@@ -1106,19 +1109,19 @@ Patients should be advised of the following issues and asked to alert their pres
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with atypical antipsychotic drugs are at increased risk of death compared with placebo. Quetiapine extended-release tablets are not approved for elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)] .
+Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with atypical antipsychotic drugs are at increased risk of death compared with placebo. Quetiapine extended-release tablets are not approved for elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)].
 
 Suicidal Thoughts and Behaviors
 
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down. Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt. Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms. Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.2)] .
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down. Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt. Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms. Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.2)].
 
 ---
 
 ### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^d9a8cb5f]. Journal of Psychopharmacology (2022). Medium credibility.
 
-Aligning with prior research, we found that experiences of adverse effects were nearly universal (;). Importantly, most patients could continue their treatment despite these adverse effects. Several patients assessed both the risks and benefits of their prescribed medication and felt the perceived benefits outweighed the disadvantages of the side effects they encountered. However, for a small portion of participants, adverse effects were overly impairing and, in some instances, this led to early withdrawal. Contrasting with prior studies comparing these drugs, we found that adverse effects were perceived as more challenging with quetiapine than with lithium. Patients described difficulties with appetite increase, weight gain, restlessness and constipation, consistent with previously reported side effects associated with quetiapine (;). However, the most extensively discussed side effect with quetiapine was sedation. This aligns with findings from, who reported sedation to be the lead cause of discontinuation when comparing the tolerability of lithium and quetiapine in patients with TRD. However, our results also suggest that experiences of sedation may not always be negative; two participants reported positive experiences of sedation due to improvements in sleep. Our findings therefore underline the importance of considering individual patient characteristics and symptom experiences when making treatment decisions.
+Aligning with prior research, we found that experiences of adverse effects were nearly universal. Importantly, most patients could continue their treatment despite these adverse effects. Several patients assessed both the risks and benefits of their prescribed medication and felt the perceived benefits outweighed the disadvantages of the side effects they encountered. However, for a small portion of participants, adverse effects were overly impairing and, in some instances, this led to early withdrawal. Contrasting with prior studies comparing these drugs, we found that adverse effects were perceived as more challenging with quetiapine than with lithium. Patients described difficulties with appetite increase, weight gain, restlessness and constipation, consistent with previously reported side effects associated with quetiapine. However, the most extensively discussed side effect with quetiapine was sedation. This aligns with findings from, who reported sedation to be the lead cause of discontinuation when comparing the tolerability of lithium and quetiapine in patients with TRD. However, our results also suggest that experiences of sedation may not always be negative; two participants reported positive experiences of sedation due to improvements in sleep. Our findings therefore underline the importance of considering individual patient characteristics and symptom experiences when making treatment decisions.
 
-To a lesser extent, disruptive side effects were also reported with lithium. Consistent with quantitative evidence, participants experienced difficulties with dry mouth, tremor and nausea (;). Side effects generally appeared manageable, although for two participants, difficulties with tremor and kidney function were thought to negatively impact their treatment outcome. Our findings could contribute to the development of patient information on side-effect profiles for use in clinical practice or future drug trials. Indeed, previous research has demonstrated the additional value of patient reporting of adverse effects for pharmacovigilance alongside healthcare providers’ reports.
+To a lesser extent, disruptive side effects were also reported with lithium. Consistent with quantitative evidence, participants experienced difficulties with dry mouth, tremor and nausea. Side effects generally appeared manageable, although for two participants, difficulties with tremor and kidney function were thought to negatively impact their treatment outcome. Our findings could contribute to the development of patient information on side-effect profiles for use in clinical practice or future drug trials. Indeed, previous research has demonstrated the additional value of patient reporting of adverse effects for pharmacovigilance alongside healthcare providers' reports.
 
 Taken together, our findings indicate that there were a few differences in the perceived efficacy of lithium versus quetiapine. Greater apprehension about side effects was reported for lithium prior to treatment initiation, but greater experience of negative side effects was reported for quetiapine. This suggests that patient opinions prior to treatment do not necessarily align with treatment experience, and that anticipation of negative side effects may contribute to lack of uptake, especially for lithium.
 
@@ -1126,7 +1129,7 @@ Taken together, our findings indicate that there were a few differences in the p
 
 ### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^1a5c47b7]. The American Journal of Psychiatry (2007). Medium credibility.
 
-Quetiapine augmentation in obsessive-compulsive disorder (OCD)—across randomized trials, one fixed‑schedule study found superiority over placebo while two others did not; in Denys et al., adjunctive quetiapine for 8 weeks improved Y-BOCS more than placebo (quetiapine 32%; placebo 7%), with 40% responders versus 10% on placebo and frequent adverse effects including somnolence 95%, dry mouth 55%, weight gain 30%, and dizziness 30%; in Carey et al., after 12 weeks of SRI nonresponse, 6 weeks of flexibly dosed quetiapine yielded similar Y-BOCS reductions to placebo (quetiapine 27%; placebo 26%) and responder rates 40% versus 48%, and was “no more effective than placebo” with sedation complaints in 75% versus 33%; in Fineberg et al., after 16 weeks there was no difference (Y-BOCS reduction: quetiapine 14%; placebo 6%), with 3 of 11 versus 1 of 10 meeting YBOCS-25% response.
+Quetiapine augmentation in obsessive-compulsive disorder (OCD) — across randomized trials, one fixed‑schedule study found superiority over placebo while two others did not; in Denys et al., adjunctive quetiapine for 8 weeks improved Y-BOCS more than placebo (quetiapine 32%; placebo 7%), with 40% responders versus 10% on placebo and frequent adverse effects including somnolence 95%, dry mouth 55%, weight gain 30%, and dizziness 30%; in Carey et al., after 12 weeks of SRI nonresponse, 6 weeks of flexibly dosed quetiapine yielded similar Y-BOCS reductions to placebo (quetiapine 27%; placebo 26%) and responder rates 40% versus 48%, and was "no more effective than placebo" with sedation complaints in 75% versus 33%; in Fineberg et al., after 16 weeks there was no difference (Y-BOCS reduction: quetiapine 14%; placebo 6%), with 3 of 11 versus 1 of 10 meeting YBOCS-25% response.
 
 ---
 
@@ -1134,7 +1137,7 @@ Quetiapine augmentation in obsessive-compulsive disorder (OCD)—across randomiz
 
 Introduction
 
-Restless legs syndrome (RLS), with prevalence ranging from 2% to 15% in the general population, is a common disorder associated with many medical conditions and medications. Some second-generation antipsychotics such as risperidone,olanzapineand quetiapinehave been reported to cause secondary RLS, whereas others have been reported to help it.However, no cases of RLS induced by ziprasidone were found on MEDLINE or EMBASE searches done on 25 March 2018. We report a case of RLS possibly induced by ziprasidone.
+Restless legs syndrome (RLS), with prevalence ranging from 2% to 15% in the general population, is a common disorder associated with many medical conditions and medications. Some second-generation antipsychotics such as risperidone, olanzapineand quetiapinehave been reported to cause secondary RLS, whereas others have been reported to help it. However, no cases of RLS induced by ziprasidone were found on MEDLINE or EMBASE searches done on 25 March 2018. We report a case of RLS possibly induced by ziprasidone.
 
 ---
 
@@ -1142,7 +1145,7 @@ Restless legs syndrome (RLS), with prevalence ranging from 2% to 15% in the gene
 
 Neuropsychiatric symptoms.
 
-CHEIs may produce substantial reduction in apathy and improve visual hallucinations and delusions in DLB.Since anxiety and agitation are sometimes driven by psychosis, there may be secondary benefits in these. The use of antipsychotics for the acute management of substantial behavioral disturbance, delusions, or visual hallucinations comes with attendant mortality risks in patients with dementia, and particularly in the case of DLB they should be avoided whenever possible, given the increased risk of a serious sensitivity reaction.Low-dose quetiapine may be relatively safer e27 than other antipsychotics and is widely used, but a small placebo-controlled clinical trial in DLB was negative.There is a positive evidence base for clozapine in PD psychosis, but efficacy and tolerability in DLB have not been established. Newer drugs targeting the serotonergic system, such as pimavanserin,may be alternatives, but controlled clinical trial data in DLB are needed. Although depressive symptoms are common in DLB, trial data are scant. In alignment with general advice on depression in dementia, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, and mirtazapine are options in DLB with treatment guided by individual patient tolerability and response.
+CHEIs may produce substantial reduction in apathy and improve visual hallucinations and delusions in DLB. Since anxiety and agitation are sometimes driven by psychosis, there may be secondary benefits in these. The use of antipsychotics for the acute management of substantial behavioral disturbance, delusions, or visual hallucinations comes with attendant mortality risks in patients with dementia, and particularly in the case of DLB they should be avoided whenever possible, given the increased risk of a serious sensitivity reaction. Low-dose quetiapine may be relatively safer e27 than other antipsychotics and is widely used, but a small placebo-controlled clinical trial in DLB was negative. There is a positive evidence base for clozapine in PD psychosis, but efficacy and tolerability in DLB have not been established. Newer drugs targeting the serotonergic system, such as pimavanserin, may be alternatives, but controlled clinical trial data in DLB are needed. Although depressive symptoms are common in DLB, trial data are scant. In alignment with general advice on depression in dementia, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, and mirtazapine are options in DLB with treatment guided by individual patient tolerability and response.
 
 Motor symptoms.
 
@@ -1160,7 +1163,7 @@ Case history
 
 Introduction of the case
 
-Miss Awas a 35-year-old Chinese female patient with a history of known mild intellectual disability since childhood and an 8-month history of schizophrenia (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition). She was initially treated with risperidone titrated to 6 mg orally per day (3 mg two times per day) with partial improvement but persistent active commentary auditory hallucination, disorganised behaviour and agitation. A decision was made to switch to quetiapine with a maximum dose of 800 mg daily (400 mg orally two times per day) and 500 mg of valproic acid daily. While taking 800 mg of quetiapine daily, the patient still reported residual symptoms of paranoia and intermittent auditory hallucination, so we decided to put her on ziprasidone. We started with 40 mg daily and increased to 40 mg every 3 days (40 mg–80 mg–120 mg–160 mg). She developed significant improvement of psychotic symptoms after the addition of ziprasidone. However, the night after she was titrated to 160 mg daily (80 mg at lunch and 80 mg at dinner) of ziprasidone, she developed marked, intractable discomfort in bilateral legs, which she could not describe clearly given her poor iteration. The discomfort induced an urge to move her legs, was partially relieved by walking, and worsened with resting. The symptoms were worse at night and in the afternoon. She was unable to fall asleep due to significant discomfort and kept pacing in the unit during the night. Benzodiazepine was prescribed as needed to help relieve her symptoms.
+Miss Awas a 35-year-old Chinese female patient with a history of known mild intellectual disability since childhood and an 8-month history of schizophrenia (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition). She was initially treated with risperidone titrated to 6 mg orally per day (3 mg two times per day) with partial improvement but persistent active commentary auditory hallucination, disorganised behaviour and agitation. A decision was made to switch to quetiapine with a maximum dose of 800 mg daily (400 mg orally two times per day) and 500 mg of valproic acid daily. While taking 800 mg of quetiapine daily, the patient still reported residual symptoms of paranoia and intermittent auditory hallucination, so we decided to put her on ziprasidone. We started with 40 mg daily and increased to 40 mg every 3 days (40 mg–80 mg–120 mg–160 mg). She developed significant improvement of psychotic symptoms after the addition of ziprasidone. However, the night after she was titrated to 160 mg daily (80 mg at lunch and 80 mg at dinner) of ziprasidone, she developed marked, intractable discomfort in bilateral legs, which she could not describe clearly given her poor iteration. The discomfort induced an urge to move her legs, was partially relieved by walking, and worsened with resting. The symptoms were worse at night and in the afternoon. She was unable to fall asleep due to significant discomfort and kept pacing in the unit during the night. Benzodiazepine was prescribed as needed to help relieve her symptoms.
 
 ---
 
@@ -1200,11 +1203,11 @@ This study examined the efficacy and safety of quetiapine in combination with li
 
 Methods
 
-Patients received open-label quetiapine (400-800 mg/day; flexible, divided doses) with lithium or divalproex (target serum concentrations 0.5-1.2 mEq/L and 50-125 microg/mL, respectively) for up to 36 weeks to achieve at least 12 weeks of clinical stability. Patients were subsequently randomized to double-blind treatment with quetiapine (400-800 mg/day) plus lithium/divalproex or placebo plus lithium/divalproex for up to 104 weeks. The primary endpoint was time to recurrence of any mood event.
+Patients received open-label quetiapine (400–800 mg/day; flexible, divided doses) with lithium or divalproex (target serum concentrations 0.5–1.2 mEq/L and 50–125 microg/mL, respectively) for up to 36 weeks to achieve at least 12 weeks of clinical stability. Patients were subsequently randomized to double-blind treatment with quetiapine (400–800 mg/day) plus lithium/divalproex or placebo plus lithium/divalproex for up to 104 weeks. The primary endpoint was time to recurrence of any mood event.
 
 Results
 
-Treatment with quetiapine in combination with lithium/divalproex significantly increased the time to recurrence of any mood event compared with placebo plus lithium/divalproex. The proportion of patients having a mood event was markedly lower in the quetiapine than in the placebo group (18.5% versus 49.0%). The hazard ratio for time to recurrence of a mood event was 0.28 (P<0.001), a mania event 0.30 (P<0.001), and a depression event 0.26 (P<0.001) corresponding to risk reductions of 72%, 70%, and 74%, respectively. During the randomization phase, the most common adverse events occurring in > or =5% in the quetiapine group were somnolence, nasopharyngitis, and headache. Insomnia was more common in the placebo group. During the randomization phase, there was an increase in weight of 0.5 kg in the quetiapine group and a reduction of 1.9 kg in the placebo group. The incidence and incidence density of a single emergent fasting blood glucose value> or =126 mg/dL was higher with quetiapine than with placebo (9.3% versus 4.1%; 17.6 versus 9.5 patients per 100 patient-years).
+Treatment with quetiapine in combination with lithium/divalproex significantly increased the time to recurrence of any mood event compared with placebo plus lithium/divalproex. The proportion of patients having a mood event was markedly lower in the quetiapine than in the placebo group (18.5% versus 49.0%). The hazard ratio for time to recurrence of a mood event was 0.28 (P < 0.001), a mania event 0.30 (P < 0.001), and a depression event 0.26 (P < 0.001) corresponding to risk reductions of 72%, 70%, and 74%, respectively. During the randomization phase, the most common adverse events occurring in ≥ 5% in the quetiapine group were somnolence, nasopharyngitis, and headache. Insomnia was more common in the placebo group. During the randomization phase, there was an increase in weight of 0.5 kg in the quetiapine group and a reduction of 1.9 kg in the placebo group. The incidence and incidence density of a single emergent fasting blood glucose value ≥ 126 mg/dL was higher with quetiapine than with placebo (9.3% versus 4.1%; 17.6 versus 9.5 patients per 100 patient-years).
 
 Limitations
 
@@ -1222,7 +1225,7 @@ Maintenance treatment with quetiapine in combination with lithium/divalproex sig
 
 10.1 Human Experience
 
-In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine. Most patients who overdosed experienced no adverse reactions or recovered fully from the reported events. Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone. In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and anticholinergic toxicity including coma and delirium. Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5.12)] . One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block. In post-marketing experience, there were cases reported of QT prolongation with overdose.
+In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine. Most patients who overdosed experienced no adverse reactions or recovered fully from the reported events. Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone. In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and anticholinergic toxicity including coma and delirium. Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5.12)]. One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block. In post-marketing experience, there were cases reported of QT prolongation with overdose.
 
 10.2 Management of Overdosage
 
@@ -1290,7 +1293,7 @@ NB and CM devised and supervised the case review. MK and RW conducted the review
 
 ### VA / DoD clinical practice guideline for management of bipolar disorder [^22d4780a]. DoD/VA (2023). High credibility.
 
-Acute bipolar depression—quetiapine safety and dosing considerations emphasize sedation management and metabolic risks. Quetiapine can cause significant side effects; avoiding excess sedation at treatment onset might require starting at subtherapeutic doses and titrating up to effective doses. Over the longer term, weight gain, hyperlipidemia, and related metabolic side effects can be significant, but the benefits of treatment outweigh the harms and burdens.
+Acute bipolar depression — quetiapine safety and dosing considerations emphasize sedation management and metabolic risks. Quetiapine can cause significant side effects; avoiding excess sedation at treatment onset might require starting at subtherapeutic doses and titrating up to effective doses. Over the longer term, weight gain, hyperlipidemia, and related metabolic side effects can be significant, but the benefits of treatment outweigh the harms and burdens.
 
 ---
 
@@ -1326,7 +1329,7 @@ Regarding specific circumstances for insomnia, more specifically with respect to
 
 ### Low-dose quetiapine for patients with dysregulation of hyperthymic and cyclothymic temperaments [^72ad9d99]. Journal of Psychopharmacology (2010). Low credibility.
 
-Patients with hyperthymic and cyclothymic temperaments often develop symptoms that fail to meet diagnostic criteria for bipolar disorders. These patients can be conceived as having bipolar disorder NOS (not otherwise specified), a bipolar spectrum disorder, cyclothymic disorder or cluster B personality traits. Here, we describe four of these patients with mild to moderate symptoms affecting mood, behaviour, emotional reactivity and sleep. Treatment with low-dose quetiapine (25-75 mg/day at night) lead to sustained symptom remission. Two of them were on quetiapine monotherapy. Such low doses occupy a minority of D2 and 5-HT2 receptors, which may nevertheless be of therapeutic value in mild cases. Alternatively, other mechanisms more likely to occur at low doses, such as antagonism of H1, alpha(1B)-adrenergic and other serotonin receptors, as well as reduction cortisol secretion, may be involved in the therapeutic efficacy of quetiapine.
+Patients with hyperthymic and cyclothymic temperaments often develop symptoms that fail to meet diagnostic criteria for bipolar disorders. These patients can be conceived as having bipolar disorder NOS (not otherwise specified), a bipolar spectrum disorder, cyclothymic disorder or cluster B personality traits. Here, we describe four of these patients with mild to moderate symptoms affecting mood, behaviour, emotional reactivity and sleep. Treatment with low-dose quetiapine (25–75 mg/day at night) lead to sustained symptom remission. Two of them were on quetiapine monotherapy. Such low doses occupy a minority of D2 and 5-HT2 receptors, which may nevertheless be of therapeutic value in mild cases. Alternatively, other mechanisms more likely to occur at low doses, such as antagonism of H1, alpha(1B)-adrenergic and other serotonin receptors, as well as reduction cortisol secretion, may be involved in the therapeutic efficacy of quetiapine.
 
 ---
 
@@ -1342,7 +1345,7 @@ Based on a literature review, a 47-question survey with 1,411 options was develo
 
 Results
 
-The expert panel reached consensus on 78% of options rated on the 9-point scale. The experts did not recommend using antipsychotics in panic disorder, generalized anxiety disorder, nonpsychotic major depression, hypochondriasis, neuropathic pain, severe nausea, motion sickness, or irritability, hostility, and sleep disturbance in the absence of a major psychiatric syndrome. However, antipsychotics were favored in several other disorders. For agitated dementia with delusions, the experts' first-line recommendation is an antipsychotic drug alone; they would also consider adding a mood stabilizer. Risperidone (0.5-2.0 mg/day) was first line followed by quetiapine (50-150 mg/day) and olanzapine (5.0-7.5 mg/day) as high second-line options. There was no first-line recommendation for agitated dementia without delusions; an antipsychotic alone was high second line (rated first line by 60% of the experts). The experts'first-line recommendation for late-life schizophrenia was risperidone (1.25-3.5 mg/day). Quetiapine (100-300 mg/day), olanzapine (7.5-15 mg/day), and aripiprazole (15-30 mg/day) were high second line. For older patients with delusional disorder, an antipsychotic was the only treatment recommended. For agitated nonpsychotic major depression in an older patient, the experts' first-line recommendation was an antidepressant alone (77% first line); second-line options were an antidepressant plus an antipsychotic, electroconvulsive therapy (ECT), an antidepressant plus a benzodiazepine, and an antidepressant plus a mood stabilizer. For nonpsychotic major depression with severe anxiety, the experts recommended an antidepressant alone (79% first line) and would also consider adding a benzodiazepine or mood stabilizer to the antidepressant. If an older patient with adequate dosages for adequate duration, there was limited support for adding an atypical antipsychotic to the antidepressant (36% first line after two failed antidepressant trials). Treatment of choice for geriatric psychotic major depression was an antipsychotic plus an antidepressant (98% first line), with ECT another first-line option (71% first line). For mild geriatric nonpsychotic mania, the first-line recommendation is a mood stabilizer alone; the experts would also consider discontinuing an antidepressant if the patient is receiving one. For severe nonpsychotic mania, the experts recommend a mood stabilizer alone; the experts would also consider discontinuing an antidepressant if the patient is receiving one. For severe nonpsychotic mania, the experts recommend a mood stabilizer plus an antipsychotic (57%; first line) or a mood stabilizer alone (48%; first line) and would discontinue any antidepressant the patient is receiving. For psychotic mania, treatment of choice is a mood stabilizer plus an antipsychotic (98%; first line). Risperidone (1.25-3.0 mg/day) and olanzapine (5-15 mg/day) were first-line options in combination with a mood stabilizer for mania with psychosis, with quetiapine (50-250 mg/day) high second line. If a patient has responded well, the experts recommended the following duration of treatment before attempting to taper and discontinue the antipsychotic: delirium, 1 week; agitated dementia, taper within 3-6 months to determine the lowest effective maintenance dose; schizophrenia, indefinite treatment at the lowest effective dose; delusional disorder, 6 months-indefinitely at the lowest effective dose; psychotic major depression, 6 months; and mania with psychosis, 3 months. For patients with diabetes, dyslipidemia, or obesity, the experts would avoid clozapine, olanzapine, and conventional antipsychotics (especially low- and mid-potency). Quetiapine is first line for a patient with Parkinson's disease. Clozapine, ziprasidone, and conventional antipsychotics (especially low- and mid-potency) should be avoided in patients with QTc prolongation or congestive heart failure. For patients with cognitive impairment, constipation, diabetes, diabetic neuropathy, dyslipidemia, xerophthalmia, and xerostomia, the experts prefer risperidone, with quetiapine high second line. More than a quarter of the experts considered these combinations contraindicated: clozapine + carbamazepine, ziprasidone + tricyclic antidepressant (TCA), and a low-potency conventional antipsychotic + fluoxetine. In combining antidepressants and antipsychotics, the experts would be much more cautious with selective serotonin reuptake inhibitors that are more potent inhibitors of the CYP 450 enzymes (i.e., fluoxetine, fluvoxamine, paroxetine) and with nefazodone, TCAs, and monoamine oxidase inhibitors. The experts recommended extra monitoring when combining any antipsychotic with lithium, carbamazepine, lamotrigine, or valproate (except aripiprazole, risperidone, or a high-potency conventional plus valproate) or with codeine, phenytoin, or tramadol.
+The expert panel reached consensus on 78% of options rated on the 9-point scale. The experts did not recommend using antipsychotics in panic disorder, generalized anxiety disorder, nonpsychotic major depression, hypochondriasis, neuropathic pain, severe nausea, motion sickness, or irritability, hostility, and sleep disturbance in the absence of a major psychiatric syndrome. However, antipsychotics were favored in several other disorders. For agitated dementia with delusions, the experts' first-line recommendation is an antipsychotic drug alone; they would also consider adding a mood stabilizer. Risperidone (0.5–2.0 mg/day) was first line followed by quetiapine (50–150 mg/day) and olanzapine (5.0–7.5 mg/day) as high second-line options. There was no first-line recommendation for agitated dementia without delusions; an antipsychotic alone was high second line (rated first line by 60% of the experts). The experts'first-line recommendation for late-life schizophrenia was risperidone (1.25–3.5 mg/day). Quetiapine (100–300 mg/day), olanzapine (7.5–15 mg/day), and aripiprazole (15–30 mg/day) were high second line. For older patients with delusional disorder, an antipsychotic was the only treatment recommended. For agitated nonpsychotic major depression in an older patient, the experts' first-line recommendation was an antidepressant alone (77% first line); second-line options were an antidepressant plus an antipsychotic, electroconvulsive therapy (ECT), an antidepressant plus a benzodiazepine, and an antidepressant plus a mood stabilizer. For nonpsychotic major depression with severe anxiety, the experts recommended an antidepressant alone (79% first line) and would also consider adding a benzodiazepine or mood stabilizer to the antidepressant. If an older patient with adequate dosages for adequate duration, there was limited support for adding an atypical antipsychotic to the antidepressant (36% first line after two failed antidepressant trials). Treatment of choice for geriatric psychotic major depression was an antipsychotic plus an antidepressant (98% first line), with ECT another first-line option (71% first line). For mild geriatric nonpsychotic mania, the first-line recommendation is a mood stabilizer alone; the experts would also consider discontinuing an antidepressant if the patient is receiving one. For severe nonpsychotic mania, the experts recommend a mood stabilizer alone; the experts would also consider discontinuing an antidepressant if the patient is receiving one. For severe nonpsychotic mania, the experts recommend a mood stabilizer plus an antipsychotic (57%; first line) or a mood stabilizer alone (48%; first line) and would discontinue any antidepressant the patient is receiving. For psychotic mania, treatment of choice is a mood stabilizer plus an antipsychotic (98%; first line). Risperidone (1.25–3.0 mg/day) and olanzapine (5–15 mg/day) were first-line options in combination with a mood stabilizer for mania with psychosis, with quetiapine (50–250 mg/day) high second line. If a patient has responded well, the experts recommended the following duration of treatment before attempting to taper and discontinue the antipsychotic: delirium, 1 week; agitated dementia, taper within 3–6 months to determine the lowest effective maintenance dose; schizophrenia, indefinite treatment at the lowest effective dose; delusional disorder, 6 months-indefinitely at the lowest effective dose; psychotic major depression, 6 months; and mania with psychosis, 3 months. For patients with diabetes, dyslipidemia, or obesity, the experts would avoid clozapine, olanzapine, and conventional antipsychotics (especially low- and mid-potency). Quetiapine is first line for a patient with Parkinson's disease. Clozapine, ziprasidone, and conventional antipsychotics (especially low- and mid-potency) should be avoided in patients with QTc prolongation or congestive heart failure. For patients with cognitive impairment, constipation, diabetes, diabetic neuropathy, dyslipidemia, xerophthalmia, and xerostomia, the experts prefer risperidone, with quetiapine high second line. More than a quarter of the experts considered these combinations contraindicated: clozapine + carbamazepine, ziprasidone + tricyclic antidepressant (TCA), and a low-potency conventional antipsychotic + fluoxetine. In combining antidepressants and antipsychotics, the experts would be much more cautious with selective serotonin reuptake inhibitors that are more potent inhibitors of the CYP 450 enzymes (i.e., fluoxetine, fluvoxamine, paroxetine) and with nefazodone, TCAs, and monoamine oxidase inhibitors. The experts recommended extra monitoring when combining any antipsychotic with lithium, carbamazepine, lamotrigine, or valproate (except aripiprazole, risperidone, or a high-potency conventional plus valproate) or with codeine, phenytoin, or tramadol.
 
 Conclusions
 
@@ -1352,25 +1355,25 @@ The experts reached a high level of consensus on many of the key treatment quest
 
 ### Quetiapine (Seroquel) [^8a8dd992]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of quetiapine fumarate PO (also known as Seroquel): 
-- Anticholinergic syndrome: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
-- Antipsychotic withdrawal: do not discontinue abruptly in any patient.
-- Aspiration pneumonia: use caution in elderly patients, particularly with advanced Alzheimer's disease.
-- Cataract: maintain a high level of suspicion, as long-term use of quetiapine has been associated with an increased risk of cataracts.
-- Falls: maintain a high level of suspicion, as quetiapine may cause somnolence, orthostatic hypotension, motor and sensory instability, leading to falls and injuries.
-- Hematologic disorders: use caution in patients with leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
-- Hyperprolactinemia: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hyperprolactinemia.
-- Hypotension: use caution in patients with cardiovascular or cerebrovascular disease, dehydration/hypovolemia, or taking antihypertensive agents.
-- Hypothyroidism: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hypothyroidism. Monitor TSH and fT4 levels.
-- Mania: use caution in patients with bipolar disorder. Screen patients for any personal or family history of bipolar disorder before initiating quetiapine.
-- Metabolic changes: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of metabolic changes, including hyperglycemia, diabetes mellitus, dyslipidemia, and weight gain.
-- Neuroleptic malignant syndrome: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of neuroleptic malignant syndrome.
-- Prolonged QT interval: use caution in patients at increased risk of QT prolongation, such as the elderly, patients with CVD, family history of QT prolongation, congestive HF, or cardiac hypertrophy. Avoid using quetiapine with other QT-prolonging agents, including class IA or III antiarrhythmics, antipsychotics (such as ziprasidone, chlorpromazine, thioridazine), antibiotics (such as gatifloxacin, moxifloxacin), or other medications known to prolong the QT interval (such as pentamidine, levomethadyl acetate, methadone).
-- Seizure: use caution in patients with seizure disorder or low seizure threshold.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Stroke: use caution in elderly subjects with dementia.
-- Tardive dyskinesia: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of tardive dyskinesia.
-- Torsades de pointes, SCD: use caution, as quetiapine is associated with an increased risk of these adverse events. Avoid using quetiapine in patients with a history of cardiac arrhythmias, such as bradycardia, hypokalemia, hypomagnesemia, or congenital QT prolongation.
+Warnings and precautions regarding the use of quetiapine fumarate PO (also known as Seroquel):
+- **Anticholinergic syndrome**: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
+- **Antipsychotic withdrawal**: do not discontinue abruptly in any patient.
+- **Aspiration pneumonia**: use caution in elderly patients, particularly with advanced Alzheimer's disease.
+- **Cataract**: maintain a high level of suspicion, as long-term use of quetiapine has been associated with an increased risk of cataracts.
+- **Falls**: maintain a high level of suspicion, as quetiapine may cause somnolence, orthostatic hypotension, motor and sensory instability, leading to falls and injuries.
+- **Hematologic disorders**: use caution in patients with leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
+- **Hyperprolactinemia**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hyperprolactinemia.
+- **Hypotension**: use caution in patients with cardiovascular or cerebrovascular disease, dehydration/hypovolemia, or taking antihypertensive agents.
+- **Hypothyroidism**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hypothyroidism. Monitor TSH and fT4 levels.
+- **Mania**: use caution in patients with bipolar disorder. Screen patients for any personal or family history of bipolar disorder before initiating quetiapine.
+- **Metabolic changes**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of metabolic changes, including hyperglycemia, diabetes mellitus, dyslipidemia, and weight gain.
+- **Neuroleptic malignant syndrome**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of neuroleptic malignant syndrome.
+- **Prolonged QT interval**: use caution in patients at increased risk of QT prolongation, such as the elderly, patients with CVD, family history of QT prolongation, congestive HF, or cardiac hypertrophy. Avoid using quetiapine with other QT-prolonging agents, including class IA or III antiarrhythmics, antipsychotics (such as ziprasidone, chlorpromazine, thioridazine), antibiotics (such as gatifloxacin, moxifloxacin), or other medications known to prolong the QT interval (such as pentamidine, levomethadyl acetate, methadone).
+- **Seizure**: use caution in patients with seizure disorder or low seizure threshold.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Stroke**: use caution in elderly subjects with dementia.
+- **Tardive dyskinesia**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of tardive dyskinesia.
+- **Torsades de pointes, SCD**: use caution, as quetiapine is associated with an increased risk of these adverse events. Avoid using quetiapine in patients with a history of cardiac arrhythmias, such as bradycardia, hypokalemia, hypomagnesemia, or congenital QT prolongation.
 
 ---
 
@@ -1418,7 +1421,7 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 
 ### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^fbb54975]. The American Journal of Psychiatry (2007). Medium credibility.
 
-Quetiapine augmentation—trial with no efficacy signal reports that in one 16-week, double-blind, placebo-controlled study there was no significant difference between quetiapine and placebo, with a mean final quetiapine dose of 50–400 mg/day and authors noting dosing may have been low.
+Quetiapine augmentation — trial with no efficacy signal reports that in one 16-week, double-blind, placebo-controlled study there was no significant difference between quetiapine and placebo, with a mean final quetiapine dose of 50–400 mg/day and authors noting dosing may have been low.
 
 ---
 
@@ -1426,13 +1429,13 @@ Quetiapine augmentation—trial with no efficacy signal reports that in one 16-w
 
 Introduction
 
-Quetiapine is a second-generation antipsychotic medication labeled for treatment of schizophrenia, bipolar affective disorder, and as adjunctive treatment in major depression. Its use has increased worldwide, with quetiapine now being the most commonly prescribed antipsychotic medication among adults aged 20 to 64 years in 10 of 14 countries.In 2010, the 1-year prevalence of quetiapine use among publicly insured adults in the US was as high as 3 users per 100 inhabitants.Furthermore, several drug utilization studies have documented considerable use of quetiapine in conditions other than labeled indications, such as anxiety disorders and insomnia.,
+Quetiapine is a second-generation antipsychotic medication labeled for treatment of schizophrenia, bipolar affective disorder, and as adjunctive treatment in major depression. Its use has increased worldwide, with quetiapine now being the most commonly prescribed antipsychotic medication among adults aged 20 to 64 years in 10 of 14 countries. In 2010, the 1-year prevalence of quetiapine use among publicly insured adults in the US was as high as 3 users per 100 inhabitants. Furthermore, several drug utilization studies have documented considerable use of quetiapine in conditions other than labeled indications, such as anxiety disorders and insomnia.,
 
-Quetiapine is associated with a moderate risk of metabolic disturbances in comparison with other second-generation antipsychotic medications,, and it has been linked to an increased risk of type 2 diabetes in both adolescentsand adults. An observational study in new users of quetiapine in relatively low doses (≤200mg/d) found significant increases in fasting blood glucose with long-term treatment.
+Quetiapine is associated with a moderate risk of metabolic disturbances in comparison with other second-generation antipsychotic medications, and it has been linked to an increased risk of type 2 diabetes in both adolescentsand adults. An observational study in new users of quetiapine in relatively low doses (≤ 200mg/d) found significant increases in fasting blood glucose with long-term treatment.
 
-Histaminergic and serotonergic antagonism plays a central role in antipsychotic-induced hyperglycemia,and quetiapine has a considerable affinity for both the H 1 - and 5-HT 2C -receptors involved.Antipsychotic medications with high affinity of these receptors, including quetiapine, have also been associated with type 2 diabetes on the basis of adverse drug reaction reports.
+Histaminergic and serotonergic antagonism plays a central role in antipsychotic-induced hyperglycemia, and quetiapine has a considerable affinity for both the H 1 - and 5-HT 2C -receptors involved. Antipsychotic medications with high affinity of these receptors, including quetiapine, have also been associated with type 2 diabetes on the basis of adverse drug reaction reports.
 
-As quetiapine occupies H 1 - and 5-HT 2C -receptors extensively at low doses, which are typically used for the treatment of anxiety and insomnia,we hypothesized that even low doses of quetiapine might induce metabolic disturbances leading to type 2 diabetes. An association of type 2 diabetes with low doses of quetiapine would be of particular concern given the widespread use for nonpsychotic conditions, such as insomnia. Our aim was thus to investigate the association between the prescription of low-dose quetiapine and type 2 diabetes in a controlled epidemiological design.
+As quetiapine occupies H 1 - and 5-HT 2C -receptors extensively at low doses, which are typically used for the treatment of anxiety and insomnia, we hypothesized that even low doses of quetiapine might induce metabolic disturbances leading to type 2 diabetes. An association of type 2 diabetes with low doses of quetiapine would be of particular concern given the widespread use for nonpsychotic conditions, such as insomnia. Our aim was thus to investigate the association between the prescription of low-dose quetiapine and type 2 diabetes in a controlled epidemiological design.
 
 ---
 
@@ -1442,7 +1445,7 @@ As quetiapine occupies H 1 - and 5-HT 2C -receptors extensively at low doses, wh
 
 10.1 Human Experience
 
-In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine. Most patients who overdosed experienced no adverse reactions or recovered fully from the reported events. Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone. In general, reported signs and symptoms were those resulting from an exaggeration of the drug’s known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and anticholinergic toxicity including coma and delirium. Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5.12)]. One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block. In post-marketing experience, there were cases reported of QT prolongation with overdose.
+In clinical trials, survival has been reported in acute overdoses of up to 30 grams of quetiapine. Most patients who overdosed experienced no adverse reactions or recovered fully from the reported events. Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone. In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness, sedation, tachycardia, hypotension, and anticholinergic toxicity including coma and delirium. Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5.12)]. One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block. In post-marketing experience, there were cases reported of QT prolongation with overdose.
 
 10.2 Management of Overdosage
 
@@ -1462,49 +1465,49 @@ Many patients with schizophrenia experience disturbances in their sleep-wake cyc
 
 ### Quetiapine (Seroquel) [^1df89c5c]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of quetiapine fumarate ER PO (also known as Seroquel XR): 
-- Anticholinergic syndrome: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
-- Antipsychotic withdrawal: do not discontinue abruptly in any patient.
-- Aspiration pneumonia: use caution in elderly patients, particularly with advanced Alzheimer's disease.
-- Cataract: maintain a high level of suspicion, as long-term use of quetiapine has been associated with an increased risk of cataracts.
-- Falls: maintain a high level of suspicion, as quetiapine may cause somnolence, orthostatic hypotension, motor and sensory instability, leading to falls and injuries.
-- Hematologic disorders: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of leukopenia, neutropenia, and agranulocytosis.
-- Hyperprolactinemia: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hyperprolactinemia.
-- Hypotension: use caution in patients with known CVD (history of myocardial infarction or ischemic heart disease, HF, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
-- Hypothyroidism: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hypothyroidism. Monitor TSH and fT4 levels.
-- Mania: use caution in patients with bipolar disorder. Screen patients for any personal or family history of bipolar disorder before initiating quetiapine.
-- Metabolic changes: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of metabolic changes, including hyperglycemia, diabetes mellitus, dyslipidemia, and weight gain.
-- Neuroleptic malignant syndrome: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of neuroleptic malignant syndrome.
-- Orthostatic hypotension: use caution in patients with cardiovascular or cerebrovascular disease, dehydration/hypovolemia, or taking antihypertensive agents.
-- Prolonged QT interval: use caution in patients at increased risk of QT prolongation, such as the elderly, patients with CVD, family history of QT prolongation, congestive HF, or cardiac hypertrophy.
-- Prolonged QT interval: use extreme caution Concomitant use of other QT-prolonging agents. Avoid using quetiapine with other QT-prolonging agents, including class IA or III antiarrhythmics, antipsychotics (such as ziprasidone, chlorpromazine, thioridazine), antibiotics (such as gatifloxacin, moxifloxacin), or other medications known to prolong the QT interval (such as pentamidine, levomethadyl acetate, methadone).
-- Seizure: use caution in patients with seizure disorder or low seizure threshold.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Tardive dyskinesia: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of tardive dyskinesia.
-- Torsades de pointes, SCD: use caution in patients with high risk for torsade de pointes and/or SCD. Avoid using quetiapine in patients with a history of cardiac arrhythmias, such as bradycardia, hypokalemia, hypomagnesemia, or congenital QT prolongation.
+Warnings and precautions regarding the use of quetiapine fumarate ER PO (also known as Seroquel XR):
+- **Anticholinergic syndrome**: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
+- **Antipsychotic withdrawal**: do not discontinue abruptly in any patient.
+- **Aspiration pneumonia**: use caution in elderly patients, particularly with advanced Alzheimer's disease.
+- **Cataract**: maintain a high level of suspicion, as long-term use of quetiapine has been associated with an increased risk of cataracts.
+- **Falls**: maintain a high level of suspicion, as quetiapine may cause somnolence, orthostatic hypotension, motor and sensory instability, leading to falls and injuries.
+- **Hematologic disorders**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of leukopenia, neutropenia, and agranulocytosis.
+- **Hyperprolactinemia**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hyperprolactinemia.
+- **Hypotension**: use caution in patients with known CVD (history of myocardial infarction or ischemic heart disease, HF, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
+- **Hypothyroidism**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of hypothyroidism. Monitor TSH and fT4 levels.
+- **Mania**: use caution in patients with bipolar disorder. Screen patients for any personal or family history of bipolar disorder before initiating quetiapine.
+- **Metabolic changes**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of metabolic changes, including hyperglycemia, diabetes mellitus, dyslipidemia, and weight gain.
+- **Neuroleptic malignant syndrome**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of neuroleptic malignant syndrome.
+- **Orthostatic hypotension**: use caution in patients with cardiovascular or cerebrovascular disease, dehydration/hypovolemia, or taking antihypertensive agents.
+- **Prolonged QT interval**: use caution in patients at increased risk of QT prolongation, such as the elderly, patients with CVD, family history of QT prolongation, congestive HF, or cardiac hypertrophy.
+- **Prolonged QT interval**: use extreme caution Concomitant use of other QT-prolonging agents. Avoid using quetiapine with other QT-prolonging agents, including class IA or III antiarrhythmics, antipsychotics (such as ziprasidone, chlorpromazine, thioridazine), antibiotics (such as gatifloxacin, moxifloxacin), or other medications known to prolong the QT interval (such as pentamidine, levomethadyl acetate, methadone).
+- **Seizure**: use caution in patients with seizure disorder or low seizure threshold.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Tardive dyskinesia**: maintain a high level of suspicion, as quetiapine has been associated with an increased risk of tardive dyskinesia.
+- **Torsades de pointes, SCD**: use caution in patients with high risk for torsade de pointes and/or SCD. Avoid using quetiapine in patients with a history of cardiac arrhythmias, such as bradycardia, hypokalemia, hypomagnesemia, or congenital QT prolongation.
 
 ---
 
 ### Maintenance treatment with quetiapine versus discontinuation after one year of treatment in patients with remitted first episode psychosis: randomised controlled trial [^70816a9e]. BMJ (2010). Excellent credibility.
 
-Table 6 
+Table 6
 Weight and body mass index (BMI) at baseline and changes during study period*
 
-NA=not applicable.
+NA = not applicable.
 
 *Descriptive and initial analyses used t tests for continuous variables and χ 2 tests for categorical variables. Weight data from 178 patients at baseline and 177 patients at end of study.
 
-Figure 1gives reasons for discontinuation. Adverse events that occurred in more than one case were fatigue, sedation, or tiredness (n=9; 7 in quetiapine group, 2 in placebo group), dizziness (n=7; all in quetiapine group), nausea (n=2; both in quetiapine group), limb weakness (n=2; both in quetiapine group), and insomnia (n=2; 1 in quetiapine group, 1 in placebo group). Three serious adverse events occurred. One patient taking quetiapine was admitted to hospital after impulsive self-laceration following an argument with a partner, and one assigned to placebo was admitted after a non-fatal overdose of hypnotics during an adjustment reaction to financial difficulties. Both were discontinued. A third patient in the placebo group had transient repetitive imagery for three days and was briefly admitted for observation, but continued. The rate of discontinuation for both adverse events and serious adverse events was higher for the quetiapine group (18%; 16/89) than the placebo group (8%; 7/89) (relative risk 2.29, 95% confidence interval 0.99 to 5.28; χ 2 =3.20, df=1; P=0.07).
+Figure 1gives reasons for discontinuation. Adverse events that occurred in more than one case were fatigue, sedation, or tiredness (n = 9; 7 in quetiapine group, 2 in placebo group), dizziness (n = 7; all in quetiapine group), nausea (n = 2; both in quetiapine group), limb weakness (n = 2; both in quetiapine group), and insomnia (n = 2; 1 in quetiapine group, 1 in placebo group). Three serious adverse events occurred. One patient taking quetiapine was admitted to hospital after impulsive self-laceration following an argument with a partner, and one assigned to placebo was admitted after a non-fatal overdose of hypnotics during an adjustment reaction to financial difficulties. Both were discontinued. A third patient in the placebo group had transient repetitive imagery for three days and was briefly admitted for observation, but continued. The rate of discontinuation for both adverse events and serious adverse events was higher for the quetiapine group (18%; 16/89) than the placebo group (8%; 7/89) (relative risk 2.29, 95% confidence interval 0.99 to 5.28; χ 2 = 3.20, df = 1; P = 0.07).
 
-Other reasons for discontinuation included need for a mood stabiliser (n=3; 2 in quetiapine group, 1 in placebo group), inability to tolerate the transition protocol (n=7; 4 in quetiapine group, 3 in placebo group), and unwillingness to attend the study assessments (n=1; in placebo group). Discontinuation for all causes did not differ significantly between the quetiapine group (31%; 28/89) and the placebo group (20%; 18/89) (relative risk 1.32, 0.98 to 1.77; χ 2 =2.38, df=1; P=0.12).
+Other reasons for discontinuation included need for a mood stabiliser (n = 3; 2 in quetiapine group, 1 in placebo group), inability to tolerate the transition protocol (n = 7; 4 in quetiapine group, 3 in placebo group), and unwillingness to attend the study assessments (n = 1; in placebo group). Discontinuation for all causes did not differ significantly between the quetiapine group (31%; 28/89) and the placebo group (20%; 18/89) (relative risk 1.32, 0.98 to 1.77; χ 2 = 2.38, df = 1; P = 0.12).
 
 ---
 
 ### Quetiapine (Seroquel) [^6431d48c]. FDA (2025). Medium credibility.
 
-Boxed warnings regarding the use of quetiapine fumarate PO (also known as Seroquel): 
-- Increased risk of mortality: do not use quetiapine for the management of dementia-related psychosis in elderly patients because of the increased risk of fatal cerebrovascular accidents.
-- Suicidal ideation: use extreme caution in patients with major depressive disorder or other psychiatric disorders, particularly in children, adolescents, and young adults. Monitor closely for suicidality and unusual changes in behavior.
+Boxed warnings regarding the use of quetiapine fumarate PO (also known as Seroquel):
+- **Increased risk of mortality**: do not use quetiapine for the management of dementia-related psychosis in elderly patients because of the increased risk of fatal cerebrovascular accidents.
+- **Suicidal ideation**: use extreme caution in patients with major depressive disorder or other psychiatric disorders, particularly in children, adolescents, and young adults. Monitor closely for suicidality and unusual changes in behavior.
 
 ---
 
@@ -1514,21 +1517,21 @@ Boxed warnings regarding the use of quetiapine fumarate PO (also known as Seroqu
 
 The risks of using quetiapine in combination with other drugs have not been extensively evaluated in systematic studies. Given the primary CNS effects of quetiapine, caution should be used when it is taken in combination with other centrally acting drugs. Quetiapine potentiated the cognitive and motor effects of alcohol in a clinical trial in subjects with selected psychotic disorders, and alcoholic beverages should be limited while taking quetiapine.
 
-Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g, phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
+Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.) and decreased by the prototype CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John's wort etc.). Dose adjustment of quetiapine will be necessary if it is co-administered with potent CYP3A4 inducers or inhibitors.
 
 CYP3A4 inhibitors:
 
-Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure. The dose of quetiapine should be reduced to one sixth of the original dose if co-administered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)] .
+Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure. The dose of quetiapine should be reduced to one sixth of the original dose if co-administered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
 
-Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold. Increased doses of quetiapine up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)] . When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduced to the original level within 7 to 14 days [see Dosage and Administration (2.6)] .
+Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold. Increased doses of quetiapine up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)]. When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduced to the original level within 7 to 14 days [see Dosage and Administration (2.6)].
 
 Anticholinergic Drugs:
 
-Concomitant treatment with quetiapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility. Quetiapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)] .
+Concomitant treatment with quetiapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility. Quetiapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)].
 
-The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)] .
+The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)].
 
 ---
 
@@ -1556,11 +1559,11 @@ P: I felt like some of the side effects got better because I was actually like s
 
 For another, managing their weight gain enabled them to make positive changes:
 
-P: being on the. quetiapine helps me, like I haven’t been – stepped inside a gym or swimming pool for like over seven years so, for me to go swimming and stuff is a – is a big thing so, it’s helping me um do that. (P7)
+P: being on the. quetiapine helps me, like I haven't been – stepped inside a gym or swimming pool for like over seven years so, for me to go swimming and stuff is a – is a big thing so, it's helping me um do that. (P7)
 
 Theme 3: perception of treatment efficacy
 
-Another primary topic of participant discussion surrounded the perceived efficacy of their medication. Participants in this sample reported their experience of both medications as largely positive, with over half of the sample perceiving benefits. However, not all perceived benefits appeared to be of the same magnitude. Some felt their treatment had ‘worked’ whereas others felt their symptoms had become more manageable upon treatment. Unfortunately, over one-quarter of participants did not report feeling any benefits from their medication.
+Another primary topic of participant discussion surrounded the perceived efficacy of their medication. Participants in this sample reported their experience of both medications as largely positive, with over half of the sample perceiving benefits. However, not all perceived benefits appeared to be of the same magnitude. Some felt their treatment had 'worked' whereas others felt their symptoms had become more manageable upon treatment. Unfortunately, over one-quarter of participants did not report feeling any benefits from their medication.
 
 ---
 
@@ -1580,6 +1583,6 @@ Mirtazapine is a commonly prescribed antidepressant with sedative properties. We
 
 ### Atypical antipsychotic medication poisoning: an evidence-based consensus guideline for out-of-hospital management [^9e1ec9c8]. Clinical Toxicology (2007). Low credibility.
 
-The objective of this guideline is to assist poison center personnel in the appropriate out-of-hospital triage and out-of-hospital management of patients with suspected acute ingestions of atypical antipsychotic medications by 1) describing the process by which an ingestion of an atypical antipsychotic medication might be evaluated, 2) identifying the key decision elements in managing cases of atypical antipsychotic medication ingestion, 3) providing clear and practical recommendations that reflect the current state of knowledge, and 4) identifying needs for research. This guideline applies to ingestion of atypical antipsychotic medications alone. Co-ingestion of additional substances could require different referral and management recommendations depending on the combined toxicities of the substances. This guideline is based on an assessment of current scientific and clinical information. The expert consensus panel recognizes that specific patient care decisions might be at variance with this guideline and are the prerogative of the patient and the health professionals providing care, considering all of the circumstances involved. This guideline does not substitute for clinical judgment. The grade of recommendation is in parentheses. 1) Patients with stated or suspected self-harm or the recipient of a potentially malicious administration of an atypical antipsychotic medication should be referred to an emergency department immediately. This activity should be guided by local poison center procedures. In general, this should occur regardless of the dose reported (Grade D). 2) Patients without evidence of self-harm should have further evaluation, including determination of the precise dose ingested, presence of signs or symptoms of toxicity, history of other medical conditions, and the presence of co-ingestants (Grade C). 3) Asymptomatic patients without evidence of attempted self-harm are unlikely to develop symptoms if the interval between the ingestion and the call is greater than 6 hours. These patients do not need referral and should receive follow-up based on local poison center protocols (Grade C). 4) All patients less than 12 years of age who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness (lightly sedated and can be aroused with speaking voice or light touch) can be observed at home unless they have ingested more than four times the initial adult dose for the implicated antipsychotic medication or a dose that is equal to or more than the lowest reported acute dose that resulted in at least moderate toxicity, whichever dose is smaller (i.e., aripiprazole 15 mg, clozapine 50 mg, olanzapine 10 mg, quetiapine 100 mg, risperidone 1 mg, ziprasidone 80 mg) (Grade D). 5) All patients 12 years of age or older who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness can be observed at home unless they have ingested more than five times the initial adult dose for the implicated antipsychotic medication (i.e., aripiprazole 50 mg, clozapine 62.5 mg, olanzapine 25 mg, quetiapine 125 mg, risperidone 5 mg, ziprasidone 100 mg) (Grade D). 6) Patients who use atypical antipsychotic medications on a chronic basis can be observed at home unless they have acutely ingested more than 5 times their current single dose (not daily dose) of the implicated antipsychotic medication (Grade C). 7) Patients who have ingested less than a threshold dose (see Recommendations 4-6) and are exhibiting no more than mild drowsiness can be observed at home with instructions to call the poison center if symptoms develop or worsen. If mild drowsiness is present at the time of the initial call, the poison center should make follow-up calls until at least 6 hours after ingestion. Consideration should be given to the time of day that home observation will take place. Observation during normal sleep hours might not be reliable. Depending on local poison center policy, patients could be referred to an emergency department if the observation would take place during normal sleeping hours of the patient or caretaker (Grade D). 8) Any patient already experiencing any signs or symptoms, other than mild drowsiness, thought to be related to atypical antipsychotic medication toxicity should be transported to an emergency department. Transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department (Grade D). 9) Do not induce emesis (Grade D). 10) There are no specific data to suggest benefit from out-of-hospital administration of activated charcoal in patients exposed to atypical antipsychotic medications. Poison centers should follow local protocols and experience with the out-of-hospital use of activated charcoal in this context. Do not delay transportation in order to administer charcoal (Grade D). 11) For patients who merit evaluation in an emergency department, transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department. Continuous cardiac monitoring should be implemented given reports of conduction disturbances associated with this class of medications. Provide usual supportive care en route to the hospital, including airway management and intravenous fluids for hypotension (Grade D). 12) Depending on the specific circumstances, follow-up calls should be made to determine outcome at appropriate intervals based on the clinical judgment of the poison center staff (Grade D).
+The objective of this guideline is to assist poison center personnel in the appropriate out-of-hospital triage and out-of-hospital management of patients with suspected acute ingestions of atypical antipsychotic medications by 1) describing the process by which an ingestion of an atypical antipsychotic medication might be evaluated, 2) identifying the key decision elements in managing cases of atypical antipsychotic medication ingestion, 3) providing clear and practical recommendations that reflect the current state of knowledge, and 4) identifying needs for research. This guideline applies to ingestion of atypical antipsychotic medications alone. Co-ingestion of additional substances could require different referral and management recommendations depending on the combined toxicities of the substances. This guideline is based on an assessment of current scientific and clinical information. The expert consensus panel recognizes that specific patient care decisions might be at variance with this guideline and are the prerogative of the patient and the health professionals providing care, considering all of the circumstances involved. This guideline does not substitute for clinical judgment. The grade of recommendation is in parentheses. 1) Patients with stated or suspected self-harm or the recipient of a potentially malicious administration of an atypical antipsychotic medication should be referred to an emergency department immediately. This activity should be guided by local poison center procedures. In general, this should occur regardless of the dose reported (Grade D). 2) Patients without evidence of self-harm should have further evaluation, including determination of the precise dose ingested, presence of signs or symptoms of toxicity, history of other medical conditions, and the presence of co-ingestants (Grade C). 3) Asymptomatic patients without evidence of attempted self-harm are unlikely to develop symptoms if the interval between the ingestion and the call is greater than 6 hours. These patients do not need referral and should receive follow-up based on local poison center protocols (Grade C). 4) All patients less than 12 years of age who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness (lightly sedated and can be aroused with speaking voice or light touch) can be observed at home unless they have ingested more than four times the initial adult dose for the implicated antipsychotic medication or a dose that is equal to or more than the lowest reported acute dose that resulted in at least moderate toxicity, whichever dose is smaller (i.e., aripiprazole 15 mg, clozapine 50 mg, olanzapine 10 mg, quetiapine 100 mg, risperidone 1 mg, ziprasidone 80 mg) (Grade D). 5) All patients 12 years of age or older who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness can be observed at home unless they have ingested more than five times the initial adult dose for the implicated antipsychotic medication (i.e., aripiprazole 50 mg, clozapine 62.5 mg, olanzapine 25 mg, quetiapine 125 mg, risperidone 5 mg, ziprasidone 100 mg) (Grade D). 6) Patients who use atypical antipsychotic medications on a chronic basis can be observed at home unless they have acutely ingested more than 5 times their current single dose (not daily dose) of the implicated antipsychotic medication (Grade C). 7) Patients who have ingested less than a threshold dose (see Recommendations 4–6) and are exhibiting no more than mild drowsiness can be observed at home with instructions to call the poison center if symptoms develop or worsen. If mild drowsiness is present at the time of the initial call, the poison center should make follow-up calls until at least 6 hours after ingestion. Consideration should be given to the time of day that home observation will take place. Observation during normal sleep hours might not be reliable. Depending on local poison center policy, patients could be referred to an emergency department if the observation would take place during normal sleeping hours of the patient or caretaker (Grade D). 8) Any patient already experiencing any signs or symptoms, other than mild drowsiness, thought to be related to atypical antipsychotic medication toxicity should be transported to an emergency department. Transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department (Grade D). 9) Do not induce emesis (Grade D). 10) There are no specific data to suggest benefit from out-of-hospital administration of activated charcoal in patients exposed to atypical antipsychotic medications. Poison centers should follow local protocols and experience with the out-of-hospital use of activated charcoal in this context. Do not delay transportation in order to administer charcoal (Grade D). 11) For patients who merit evaluation in an emergency department, transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department. Continuous cardiac monitoring should be implemented given reports of conduction disturbances associated with this class of medications. Provide usual supportive care en route to the hospital, including airway management and intravenous fluids for hypotension (Grade D). 12) Depending on the specific circumstances, follow-up calls should be made to determine outcome at appropriate intervals based on the clinical judgment of the poison center staff (Grade D).
 
 ---

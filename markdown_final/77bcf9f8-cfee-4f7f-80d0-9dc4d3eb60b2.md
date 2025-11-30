@@ -849,10 +849,10 @@ Analgesics for malignant bowel obstruction — Pain is experienced by 70 to 90% 
 ### Ondansetron (marketed as zofran) information… [^111DVDNq]. FDA (2015). Low credibility.
 
 Ondansetron is used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy and surgery. It is in a class of medications called 5-HT3 receptor antagonists and works by blocking the action of serotonin, a natural substance that may cause nausea and vomiting. Adverse reactions or quality problems experienced with the use of this product may be reported to the FDA's MedWatch Adverse Event Reporting program using the contact information at the bottom of this page. Related Information
-- FDA Drug Safety Communication: Updated information on 32 mg intravenous ondansetron dose and pre-mixed ondansetron products
-- FDA Drug Safety Communication: New information regarding QT prolongation with ondansetron
-- FDA Drug Safety Communication: Abnormal heart rhythms may be associated with use of Zofran
-- FDA Drug Safety Communication for Healthcare Professionals: Abnormal heart rhythms may be associated with use of Zofran
+- **FDA Drug Safety Communication**: Updated information on 32 mg intravenous ondansetron dose and pre-mixed ondansetron products
+- **FDA Drug Safety Communication**: New information regarding QT prolongation with ondansetron
+- **FDA Drug Safety Communication**: Abnormal heart rhythms may be associated with use of Zofran
+- **FDA Drug Safety Communication for Healthcare Professionals**: Abnormal heart rhythms may be associated with use of Zofran
 
 ---
 
@@ -906,7 +906,7 @@ This MASCC Guideline provides comprehensive, evidence-based recommendations abou
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1007/s00520–022–06889–8.
+The online version contains supplementary material available at 10.1007/s00520-022-06889-8.
 
 ---
 

@@ -103,7 +103,7 @@ Use of DILAUDID INJECTION as the First Opioid Analgesic:
 
 Subcutaneous or Intramuscular Administration:
 
-The usual starting dose is 1 mg to 2 mg every 2 to 3 hours as necessary for pain, and the lowest dose necessary to achieve adequate analgesia. Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve. Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Injection.
+The usual starting dose is 1 mg to 2 mg every 2 to 3 hours as necessary for pain, and the lowest dose necessary to achieve adequate analgesia. Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve. Titrate the dose based upon the individual patient's response to their initial dose of Hydromorphone Hydrochloride Injection.
 
 Intravenous Administration:
 
@@ -117,7 +117,7 @@ If the decision is made to convert to Hydromorphone Hydrochloride Injection from
 
 2.3 Dosage Modifications in Patients with Hepatic Impairment
 
-Start patients with hepatic impairment on one-fourth to one-half the usual DILAUDID INJECTION starting dose depending on the extent of impairment [see Clinical Pharmacology (12.3)] .
+Start patients with hepatic impairment on one-fourth to one-half the usual DILAUDID INJECTION starting dose depending on the extent of impairment [see Clinical Pharmacology (12.3)].
 
 2.4 Dosage Modifications in Patients with Renal Impairment
 
@@ -129,9 +129,9 @@ Start patients with renal impairment on one-fourth to one-half the usual DILAUDI
 
 2.5 Titration and Maintenance of Therapy
 
-Titrate the dose based upon the individual patient’s response to their initial dose of DILAUDID INJECTION. Individually titrate DILAUDID INJECTION to a dose that provides adequate analgesia and minimizes adverse reactions. Continually reevaluate patients receiving DILAUDID INJECTION to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.12)] . Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+Titrate the dose based upon the individual patient's response to their initial dose of DILAUDID INJECTION. Individually titrate DILAUDID INJECTION to a dose that provides adequate analgesia and minimizes adverse reactions. Continually reevaluate patients receiving DILAUDID INJECTION to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.12)]. Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
-If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the DILAUDID INJECTION dosage. If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)] . Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the DILAUDID INJECTION dosage. If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)]. Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 2.6 Safe Reduction or Discontinuation of DILAUDID INJECTION
 
@@ -212,10 +212,10 @@ DILAUDID INJECTION should not be used for an extended period of time unless the 
 2.1 Important Dosage and Administration Instructions
 
 DILAUDID INJECTION should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
-Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)] . Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of DILAUDID INJECTION for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)]. Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of DILAUDID INJECTION for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic. Clinical guidelines on opioid prescribing for some acute pain conditions are available.
-There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors. Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)] .
-Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with DILAUDID INJECTION. Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)] .
+There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors. Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with DILAUDID INJECTION. Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit. A slight yellowish discoloration may develop in DILAUDID INJECTION. No loss of potency has been demonstrated. DILAUDID INJECTION is physically compatible and chemically stable for at least 24 hours at 25°C, protected from light in most common large-volume parenteral solutions.
 Discard any unused portion in an appropriate manner.
 
@@ -285,7 +285,7 @@ Regarding the use of hydromorphone hydrochloride PR (also known as Dilaudid, Dil
 
 5.8 Severe Hypotension
 
-DILAUDID INJECTION may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients. There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)] . Monitor these patients for signs of hypotension after initiating or titrating the dosage of DILAUDID INJECTION. In patients with circulatory shock, DILAUDID INJECTION may cause vasodilation that can further reduce cardiac output and blood pressure. Avoid the use of DILAUDID INJECTION in patients with circulatory shock.
+DILAUDID INJECTION may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients. There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)]. Monitor these patients for signs of hypotension after initiating or titrating the dosage of DILAUDID INJECTION. In patients with circulatory shock, DILAUDID INJECTION may cause vasodilation that can further reduce cardiac output and blood pressure. Avoid the use of DILAUDID INJECTION in patients with circulatory shock.
 
 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
@@ -307,30 +307,30 @@ The hydromorphone in DILAUDID INJECTION may increase the frequency of seizures i
 
 ### Hydromorphone hydrochloride [^6274db0a]. FDA (2025). Medium credibility.
 
-Boxed warnings regarding the use of hydromorphone hydrochloride SC (also known as Dilaudid, Dilaudid): 
-- Drug misuse, drug abuse, opioid use disorder: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-- Neonatal abstinence syndrome: use extreme caution in pregnant women, especially for extended period of time.
-- Opioid-induced respiratory depression: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
-- Opioid-induced respiratory depression: use extreme caution in patients with significant COPD or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression.
+Boxed warnings regarding the use of hydromorphone hydrochloride SC (also known as Dilaudid, Dilaudid):
+- **Drug misuse, drug abuse, opioid use disorder**: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+- **Neonatal abstinence syndrome**: use extreme caution in pregnant women, especially for extended period of time.
+- **Opioid-induced respiratory depression**: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
+- **Opioid-induced respiratory depression**: use extreme caution in patients with significant COPD or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression.
 
 ---
 
 ### Hydromorphone hydrochloride [^a1b49ea7]. FDA (2023). Medium credibility.
 
-Boxed warnings regarding the use of hydromorphone hydrochloride PR (also known as Dilaudid, Dilaudid): 
-- Drug misuse, drug abuse, opioid use disorder: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-- Neonatal abstinence syndrome: use extreme caution in pregnant women, especially for extended period of time.
-- Opioid-induced respiratory depression: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
+Boxed warnings regarding the use of hydromorphone hydrochloride PR (also known as Dilaudid, Dilaudid):
+- **Drug misuse, drug abuse, opioid use disorder**: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+- **Neonatal abstinence syndrome**: use extreme caution in pregnant women, especially for extended period of time.
+- **Opioid-induced respiratory depression**: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
 
 ---
 
 ### Hydromorphone hydrochloride [^4ed9d792]. FDA (2025). Medium credibility.
 
-Boxed warnings regarding the use of hydromorphone hydrochloride IM (also known as Dilaudid, Dilaudid): 
-- Drug misuse, drug abuse, opioid use disorder: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-- Neonatal abstinence syndrome: use extreme caution in pregnant women, especially for extended period of time.
-- Opioid-induced respiratory depression: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
-- Opioid-induced respiratory depression: use extreme caution in patients with significant COPD or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression.
+Boxed warnings regarding the use of hydromorphone hydrochloride IM (also known as Dilaudid, Dilaudid):
+- **Drug misuse, drug abuse, opioid use disorder**: use extreme caution in all patients, especially in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+- **Neonatal abstinence syndrome**: use extreme caution in pregnant women, especially for extended period of time.
+- **Opioid-induced respiratory depression**: maintain a high level of suspicion, as hydromorphone has been associated with serious, life-threatening, or fatal respiratory depression.
+- **Opioid-induced respiratory depression**: use extreme caution in patients with significant COPD or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression.
 
 ---
 
@@ -357,29 +357,31 @@ Using a simple dichotomous patient-centered endpoint in which a difference of 10
 ### Hydromorphone hydrochloride [^04dd62be]. FDA (2025). Medium credibility.
 
 Labeled indications for Hydromorphone hydrochloride (also known as Dilaudid, Dilaudid) include:
+
 - Symptomatic relief of pain in adults (severe, requiring opioids)
 
 ---
 
 ### Hydromorphone hydrochloride [^5039a79f]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid): 
-- Adrenal insufficiency: use caution in patients with prolonged usage of the drug (greater than one month of use).
-- Allodynia, opioid-induced hyperalgesia: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
-- Hypotension, syncope: use extreme caution in patients with reduced blood volume or taking other CNS depressants. Assess and manage underlying conditions that can contribute to orthostatic hypotension before prescribing hydromorphone. Provide supportive care, consider discontinuing hydromorphone, and manage any underlying factors contributing to low BP.
-- Increased ICP: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
-- Profound sedation: use caution in patients with benzodiazepines or other CNS depressants.
-- Seizure: use extreme caution in patients with a history of seizure disorder. Minimize hydromorphone use in patients with a history of seizures and consider alternative pain management options. Discontinue hydromorphone, provide appropriate seizure management, and consider neurology consultation.
-- Somnolence: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with biliary tract disease and acute pancreatitis.
-- Urinary retention: use caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease.
-- Urinary retention: use extreme caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease. Ensure patients are well-hydrated before administering hydromorphone.
+Warnings and precautions regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid):
+- **Adrenal insufficiency**: use caution in patients with prolonged usage of the drug (greater than one month of use).
+- **Allodynia, opioid-induced hyperalgesia**: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
+- **Hypotension, syncope**: use extreme caution in patients with reduced blood volume or taking other CNS depressants. Assess and manage underlying conditions that can contribute to orthostatic hypotension before prescribing hydromorphone. Provide supportive care, consider discontinuing hydromorphone, and manage any underlying factors contributing to low BP.
+- **Increased ICP**: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
+- **Profound sedation**: use caution in patients with benzodiazepines or other CNS depressants.
+- **Seizure**: use extreme caution in patients with a history of seizure disorder. Minimize hydromorphone use in patients with a history of seizures and consider alternative pain management options. Discontinue hydromorphone, provide appropriate seizure management, and consider neurology consultation.
+- **Somnolence**: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with biliary tract disease and acute pancreatitis.
+- **Urinary retention**: use caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease.
+- **Urinary retention**: use extreme caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease. Ensure patients are well-hydrated before administering hydromorphone.
 
 ---
 
 ### Hydromorphone hydrochloride [^45f12b56]. FDA (2025). Medium credibility.
 
-Regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid) in patients with intermittent hemodialysis: 
+Regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid) in patients with intermittent hemodialysis:
+
 - Reduce starting dose.
 - Titrate to response. Monitor for neuroexcitation.
 
@@ -387,15 +389,16 @@ Regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dil
 
 ### Hydromorphone hydrochloride [^5d4c7a21]. FDA (2025). Medium credibility.
 
-Contraindications regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid): 
+Contraindications regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid):
 - Known or suspected gastrointestinal obstruction, including paralytic ileus.: maintain strict aseptic technique during epidural administration of hydromorphone.
-- Significant respiratory depression: assess respiratory function before starting treatment.
+- **Significant respiratory depression**: assess respiratory function before starting treatment.
 
 ---
 
 ### Hydromorphone hydrochloride [^f1cfbced]. FDA (2024). Medium credibility.
 
-Regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid) in patients with intermittent hemodialysis: 
+Regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid) in patients with intermittent hemodialysis:
+
 - Reduce starting dose.
 - Titrate to response. Monitor for neuroexcitation.
 
@@ -403,45 +406,45 @@ Regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dil
 
 ### Hydromorphone hydrochloride [^9c78779f]. FDA (2024). Medium credibility.
 
-Warnings and precautions regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid): 
-- Adrenal insufficiency: use caution in patients with prolonged usage of the drug (greater than one month of use).
-- Allodynia, opioid-induced hyperalgesia: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
-- Drug withdrawal syndrome: do not discontinue abruptly in patients physically dependent on opioids.
-- Hypotension, syncope: use caution in patients with reduced blood volume or taking other CNS depressants.
-- Increased ICP: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
-- Neonatal abstinence syndrome: use extreme caution in pregnant women, especially for extended period of time.
-- Seizure: use extreme caution in patients with a history of seizure disorder.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with biliary tract disease and acute pancreatitis.
-- Urinary retention: use extreme caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease.
+Warnings and precautions regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid):
+- **Adrenal insufficiency**: use caution in patients with prolonged usage of the drug (greater than one month of use).
+- **Allodynia, opioid-induced hyperalgesia**: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
+- **Drug withdrawal syndrome**: do not discontinue abruptly in patients physically dependent on opioids.
+- **Hypotension, syncope**: use caution in patients with reduced blood volume or taking other CNS depressants.
+- **Increased ICP**: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
+- **Neonatal abstinence syndrome**: use extreme caution in pregnant women, especially for extended period of time.
+- **Seizure**: use extreme caution in patients with a history of seizure disorder.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with biliary tract disease and acute pancreatitis.
+- **Urinary retention**: use extreme caution in patients with bladder obstruction, prostatic hypertrophy, urethral stricture, pelvic malignancy, or renal disease.
 
 ---
 
 ### Hydromorphone hydrochloride [^b13486c9]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of hydromorphone hydrochloride SC (also known as Dilaudid, Dilaudid): 
-- Adrenal insufficiency: use caution in patients with prolonged usage of the drug (greater than one month of use).
-- Allodynia, opioid-induced hyperalgesia: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
-- Hypotension, syncope: use caution in patients with reduced blood volume or taking other CNS depressants.
-- Increased ICP: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
-- Profound sedation: use caution in patients with benzodiazepines or other CNS depressants.
-- Seizure: use caution in patients with a history of seizure disorder.
-- Somnolence: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with biliary tract disease and acute pancreatitis.
+Warnings and precautions regarding the use of hydromorphone hydrochloride SC (also known as Dilaudid, Dilaudid):
+- **Adrenal insufficiency**: use caution in patients with prolonged usage of the drug (greater than one month of use).
+- **Allodynia, opioid-induced hyperalgesia**: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
+- **Hypotension, syncope**: use caution in patients with reduced blood volume or taking other CNS depressants.
+- **Increased ICP**: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
+- **Profound sedation**: use caution in patients with benzodiazepines or other CNS depressants.
+- **Seizure**: use caution in patients with a history of seizure disorder.
+- **Somnolence**: use extreme caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with biliary tract disease and acute pancreatitis.
 
 ---
 
 ### Hydromorphone hydrochloride [^29267043]. FDA (2025). Medium credibility.
 
-Warnings and precautions regarding the use of hydromorphone hydrochloride IM (also known as Dilaudid, Dilaudid): 
-- Adrenal insufficiency: use caution in patients with prolonged usage of the drug (greater than one month of use).
-- Allodynia, opioid-induced hyperalgesia: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
-- Hypotension, syncope: use caution in patients with reduced blood volume or taking other CNS depressants.
-- Increased ICP: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
-- Profound sedation: use caution in patients with benzodiazepines or other CNS depressants.
-- Seizure: use caution in patients with a history of seizure disorder.
-- Somnolence: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with biliary tract disease and acute pancreatitis.
+Warnings and precautions regarding the use of hydromorphone hydrochloride IM (also known as Dilaudid, Dilaudid):
+- **Adrenal insufficiency**: use caution in patients with prolonged usage of the drug (greater than one month of use).
+- **Allodynia, opioid-induced hyperalgesia**: maintain a high level of suspicion, as hydromorphone has been associated with these adverse events.
+- **Hypotension, syncope**: use caution in patients with reduced blood volume or taking other CNS depressants.
+- **Increased ICP**: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
+- **Profound sedation**: use caution in patients with benzodiazepines or other CNS depressants.
+- **Seizure**: use caution in patients with a history of seizure disorder.
+- **Somnolence**: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with biliary tract disease and acute pancreatitis.
 
 ---
 
@@ -469,14 +472,16 @@ Hydromorphone hydrochloride extended-release tablets are not indicated as an as-
 
 ### Hydromorphone hydrochloride [^87ec3d2d]. FDA (2025). Medium credibility.
 
-Regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid) in patients with substantial chronic alcohol consumption: 
+Regarding the use of hydromorphone hydrochloride IV (also known as Dilaudid, Dilaudid) in patients with substantial chronic alcohol consumption:
+
 - Use with caution.
 
 ---
 
 ### Hydromorphone hydrochloride [^67bb42d9]. FDA (2024). Medium credibility.
 
-Regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid) in patients with substantial chronic alcohol consumption: 
+Regarding the use of hydromorphone hydrochloride PO (also known as Dilaudid, Dilaudid) in patients with substantial chronic alcohol consumption:
+
 - Use with caution.
 
 ---
@@ -517,19 +522,19 @@ Current literature does not permit a rational choice between Mo and Hm. A ratio 
 
 14 CLINICAL STUDIES
 
-Hydromorphone hydrochloride extended-release tablets were investigated in a double-blind, placebo-controlled, randomized withdrawal study in opioid tolerant patients with moderate-to-severe low back pain. Patients were considered opioid tolerant if they were currently on opioid therapy that was ≥ 60 mg/day of oral morphine equivalent for at least 2 months prior to screening. Patients entered an open-label conversion and titration phase with hydromorphone hydrochloride extended-release tablets, were converted to a starting dose that was approximately 75% of their total daily morphine equivalent dose, and were dosed once daily until adequate pain control was achieved while exhibiting tolerable side effects. Supplemental immediate-release hydromorphone tablets were allowed throughout the study. Patients who achieved a stable dose entered a 12-week, double-blind, placebo-controlled, randomized treatment phase. Mean daily dose at randomization was 37.8 mg/day (range of 12 mg/day to 64 mg/day). Fifty-eight (58) percent of patients were successfully titrated to a stable dose of hydromorphone hydrochloride extended-release tablets during the open-label conversion and titration phase.
+Hydromorphone hydrochloride extended-release tablets were investigated in a double-blind, placebo-controlled, randomized withdrawal study in opioid tolerant patients with moderate-to-severe low back pain. Patients were considered opioid tolerant if they were currently on opioid therapy that was ≥ 60 mg/day of oral morphine equivalent for at least 2 months prior to screening. Patients entered an open-label conversion and titration phase with hydromorphone hydrochloride extended-release tablets, were converted to a starting dose that was approximately 75% of their total daily morphine equivalent dose, and were dosed once daily until adequate pain control was achieved while exhibiting tolerable side effects. Supplemental immediate-release hydromorphone tablets were allowed throughout the study. Patients who achieved a stable dose entered a 12-week, double-blind, placebo-controlled, randomized treatment phase. Mean daily dose at randomization was 37.8 mg/day (range of 12 mg/day to 64 mg/day). Fifty-eight (58) percent of patients were successfully titrated to a stable dose of hydromorphone hydrochloride extended-release tablets during the open-label conversion and titration phase.
 
-During the double-blind treatment phase, patients randomized to hydromorphone hydrochloride extended-release tablets continued with the stable dose achieved in the conversion and titration phase of the study. Patients randomized to placebo received, in a blinded manner, hydromorphone hydrochloride extended-release tablets and matching placebo in doses tapering from the stable dose achieved in conversion and titration. During the taper down period, patients were allowed immediate-release hydromorphone tablets as supplemental analgesia to minimize opioid withdrawal symptoms in placebo patients. After the taper period, the number of immediate-release hydromorphone tablets was limited to two tablets per day. Forty-nine (49) percent of patients treated with hydromorphone hydrochloride extended-release tablets and 33% of patients treated with placebo completed the 12-week treatment period.
+During the double-blind treatment phase, patients randomized to hydromorphone hydrochloride extended-release tablets continued with the stable dose achieved in the conversion and titration phase of the study. Patients randomized to placebo received, in a blinded manner, hydromorphone hydrochloride extended-release tablets and matching placebo in doses tapering from the stable dose achieved in conversion and titration. During the taper down period, patients were allowed immediate-release hydromorphone tablets as supplemental analgesia to minimize opioid withdrawal symptoms in placebo patients. After the taper period, the number of immediate-release hydromorphone tablets was limited to two tablets per day. Forty-nine (49) percent of patients treated with hydromorphone hydrochloride extended-release tablets and 33% of patients treated with placebo completed the 12-week treatment period.
 
-Hydromorphone hydrochloride extended-release tablets provided superior analgesia compared to placebo. There was a significant difference between the mean changes from Baseline to Week 12 or Final Visit in average weekly pain intensity Numeric Rating Scale (NRS) scores obtained from patient diaries between the two groups. The proportion of patients with various degrees of improvement from screening to Week 12 or Final Visit is shown in Figure 2 . For this analysis, patients who discontinued treatment for any reason prior to Week 12 were assigned a value of zero improvement.
+Hydromorphone hydrochloride extended-release tablets provided superior analgesia compared to placebo. There was a significant difference between the mean changes from Baseline to Week 12 or Final Visit in average weekly pain intensity Numeric Rating Scale (NRS) scores obtained from patient diaries between the two groups. The proportion of patients with various degrees of improvement from screening to Week 12 or Final Visit is shown in Figure 2. For this analysis, patients who discontinued treatment for any reason prior to Week 12 were assigned a value of zero improvement.
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids (...) [^af48c402]. CDC (2025). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids… [^af48c402]. CDC (2025). Medium credibility.
 
-6, 17, 41– 46). Partly because of these factors affecting access to a wide range of treatment modalities, for many years medications such as prescription opioids have been the mainstay to treat pain, despite very limited evidence to support their long-term benefits; most placebo-controlled trials have been <6 weeks in duration. Opioids can be essential medications for the management of pain; however, they carry considerable potential risk. A systematic review published in 2014 by the Agency for Healthcare Research and Quality found insufficient evidence to demonstrate long-term benefits of prescription opioid treatment for chronic pain, and long-term prescription opioid use was found to be associated with increased risk for overdose and opioid misuse, among other risks. Some risks, such as overdose, were dose dependent.
+6, 17, 41–46). Partly because of these factors affecting access to a wide range of treatment modalities, for many years medications such as prescription opioids have been the mainstay to treat pain, despite very limited evidence to support their long-term benefits; most placebo-controlled trials have been < 6 weeks in duration. Opioids can be essential medications for the management of pain; however, they carry considerable potential risk. A systematic review published in 2014 by the Agency for Healthcare Research and Quality found insufficient evidence to demonstrate long-term benefits of prescription opioid treatment for chronic pain, and long-term prescription opioid use was found to be associated with increased risk for overdose and opioid misuse, among other risks. Some risks, such as overdose, were dose dependent.
 
-In 2014, on the basis of accumulating evidence of potential risks to patients, the Food and Drug Administration required new safety labeling changes for extended-release and long-acting opioids. Approximately half of all states have passed legislation limiting initial opioid prescriptions for acute pain to a ≤7-day supply, and many insurers, pharmacy benefit managers, and pharmacies have enacted similar policies. At least 17 states have passed laws requiring or recommending the coprescription of naloxone in the presence of overdose risk factors, such as high dosages of opioids or concomitant opioid pain medications and benzodiazepines. The durations used to define acute, subacute, and chronic pain might imply more specificity than is found in real-life patient experience, when pain often gradually transitions from acute to chronic.
+In 2014, on the basis of accumulating evidence of potential risks to patients, the Food and Drug Administration required new safety labeling changes for extended-release and long-acting opioids. Approximately half of all states have passed legislation limiting initial opioid prescriptions for acute pain to a ≤ 7-day supply, and many insurers, pharmacy benefit managers, and pharmacies have enacted similar policies. At least 17 states have passed laws requiring or recommending the coprescription of naloxone in the presence of overdose risk factors, such as high dosages of opioids or concomitant opioid pain medications and benzodiazepines. The durations used to define acute, subacute, and chronic pain might imply more specificity than is found in real-life patient experience, when pain often gradually transitions from acute to chronic.
 
 These time-bound definitions are not meant to be absolute but rather to be approximate guides to facilitate the consideration and practical use of the recommendations by clinicians and patients. The AHRQ review of opioids for chronic pain updated and expanded the evidence for the 2016 CDC review; studies were included on short-term, intermediate-term and long-term outcomes of therapy involving opioids, effects of opioid plus nonopioid combination therapy, effects of tramadol, effects of naloxone coprescription, risks of coprescribed benzodiazepines, risks of coprescribed gabapentinoids, and effects of concurrent use of cannabis.
 
@@ -543,7 +548,7 @@ Unknown frequency adverse reactions associated with the use of hydromorphone hyd
 
 ### Hydromorphone hydrochloride [^dcec03c4]. FDA (2025). Medium credibility.
 
-2.5     Safe Reduction or Discontinuation of hydromorphone hydrochloride extended-release tablets
+2.5 Safe Reduction or Discontinuation of hydromorphone hydrochloride extended-release tablets
 
 Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets in patients who may be physically dependent on opioids. Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide. Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug seeking for abuse. Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
@@ -606,9 +611,9 @@ The studies included in this review were varied in terms of quality and methodol
 
 ### Hydromorphone hydrochloride (Exalgo) [^c5fb7c89]. FDA (2013). Low credibility.
 
-12.1    Mechanism of Action
+12.1 Mechanism of Action
 
-Hydromorphone, a semi-synthetic morphine derivative, is a hydrogenated ketone of morphine. Hydromorphone is principally an agonist of mu-receptors, showing a weak affinity for k-receptors. Comparing relative binding affinity for mu- and k-opioid receptors, hydromorphone binds more specifically to mu-receptors than structurally related morphine. As an opioid agonist, the principle therapeutic action of hydromorphone is analgesia. The precise mechanism of action of opioid analgesics is not known but the effects are thought to be mediated through opioid-specific receptors located predominantly in the central nervous system (CNS). Interaction with the mu-opioid receptor subtype is believed to be responsible for most of hydromorphone’s clinical effects. There is no intrinsic limit to the analgesic effect of hydromorphone. Clinically, however, dosage limitations are imposed by the adverse effects, primarily respiratory depression, sedation, nausea, and vomiting, which can result from high doses.
+Hydromorphone, a semi-synthetic morphine derivative, is a hydrogenated ketone of morphine. Hydromorphone is principally an agonist of mu-receptors, showing a weak affinity for k-receptors. Comparing relative binding affinity for mu- and k-opioid receptors, hydromorphone binds more specifically to mu-receptors than structurally related morphine. As an opioid agonist, the principle therapeutic action of hydromorphone is analgesia. The precise mechanism of action of opioid analgesics is not known but the effects are thought to be mediated through opioid-specific receptors located predominantly in the central nervous system (CNS). Interaction with the mu-opioid receptor subtype is believed to be responsible for most of hydromorphone's clinical effects. There is no intrinsic limit to the analgesic effect of hydromorphone. Clinically, however, dosage limitations are imposed by the adverse effects, primarily respiratory depression, sedation, nausea, and vomiting, which can result from high doses.
 
 ---
 
@@ -636,7 +641,7 @@ Hydromorphone is a more potent opioid analgesic than morphine and is used for mo
 
 ### Comparative clinical effects of hydromorphone and morphine: a meta-analysis [^5c48865d]. British Journal of Anaesthesia (2011). Low credibility.
 
-We have conducted a meta-analysis of the clinical effects of morphine and hydromorphone to compare their benefit in analgesia. Embase and Medline were searched with an end-date of June 2009 for randomized, controlled trials or observational studies that addressed comparative analgesic and side-effects or particular side-effects. Two researchers independently identified included studies and extracted the data. Estimates of opioid effects were combined by using a random-effects model. Meta-analysis of eight studies suggested that hydromorphone (494 patients) provides slightly better (P=0.012) clinical analgesia than morphine (510 patients). The effect-size was small (Cohen's d=0.266) and disappeared when one study was removed, although the advantage of hydromorphone was more evident in studies of better quality (Jadad's rating). Side-effects were similar, for example, nausea (P=0.383, nine studies, 456 patients receiving hydromorphone and 460 morphine); vomiting (P=0.306, six studies, 246 patients receiving hydromorphone and 239 morphine); or itching (P=0.249, eight studies, 405 patients receiving hydromorphone, 410 morphine). This suggests some advantage of hydromorphone over morphine for analgesia. Additional potential clinical pharmacological advantages with regard to side-effects, such as safety in renal failure or during acute analgesia titration, are based on limited evidence and require substantiation by further studies.
+We have conducted a meta-analysis of the clinical effects of morphine and hydromorphone to compare their benefit in analgesia. Embase and Medline were searched with an end-date of June 2009 for randomized, controlled trials or observational studies that addressed comparative analgesic and side-effects or particular side-effects. Two researchers independently identified included studies and extracted the data. Estimates of opioid effects were combined by using a random-effects model. Meta-analysis of eight studies suggested that hydromorphone (494 patients) provides slightly better (P = 0.012) clinical analgesia than morphine (510 patients). The effect-size was small (Cohen's d = 0.266) and disappeared when one study was removed, although the advantage of hydromorphone was more evident in studies of better quality (Jadad's rating). Side-effects were similar, for example, nausea (P = 0.383, nine studies, 456 patients receiving hydromorphone and 460 morphine); vomiting (P = 0.306, six studies, 246 patients receiving hydromorphone and 239 morphine); or itching (P = 0.249, eight studies, 405 patients receiving hydromorphone, 410 morphine). This suggests some advantage of hydromorphone over morphine for analgesia. Additional potential clinical pharmacological advantages with regard to side-effects, such as safety in renal failure or during acute analgesia titration, are based on limited evidence and require substantiation by further studies.
 
 ---
 
@@ -644,13 +649,13 @@ We have conducted a meta-analysis of the clinical effects of morphine and hydrom
 
 Conversion from Other Oral Hydromorphone Formulations to EXALGO
 
-Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient’s total daily oral hydromorphone dose, taken once daily.
+Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient's total daily oral hydromorphone dose, taken once daily.
 
 Conversion from Oral Opioids to EXALGO
 
 While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variation in the relative potency of different opioid drugs and formulations. Specific recommendations of equianalgesic doses are not available because of a lack of systematic evidence for these types of analgesic substitutions. Published relative potency data are available, but such ratios are approximations. As such, it is safer to underestimate a patient's 24-hour oral hydromorphone requirement and provide rescue medication (e.g. immediate-release hydromorphone) than to overestimate and manage an adverse reaction.
 
-The following table was used in a clinical trial of EXALGO. The recommended starting dose of EXALGO is 50% of the calculated estimate of daily hydromorphone requirement. Calculate the estimated daily hydromorphone requirement using Table 1 .
+The following table was used in a clinical trial of EXALGO. The recommended starting dose of EXALGO is 50% of the calculated estimate of daily hydromorphone requirement. Calculate the estimated daily hydromorphone requirement using Table 1.
 
 The conversion ratios in this Table 1 are only to be used for the conversion from current oral opioid therapy to EXALGO. Do not use this table to convert patients from EXALGO to another opioid. Doing so may result in fatal overdose.
 For patients on a single opioid, sum the total daily dose of the opioid and then multiply the total daily dose by the conversion ratio to calculate the approximate oral hydromorphone equivalent.
@@ -663,13 +668,13 @@ Monitor patients for signs or symptoms of opioid withdrawal when converting pati
 
 ### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^4b4868f9]. Academic Emergency Medicine (2012). Medium credibility.
 
-NASEMSO EMS clinical guideline—opioid poisoning/overdose aliases include Carfentanil, Fentanyl, Hydromorphone, Opiate, Oxycodone, Percodan®, Dilaudid®, Heroin, Methadone, Opioid, Oxycontin®, U-47700, Drug abuse, Hydrocodone, Morphine, Overdose, Percocet®, and Vicodin®.
+NASEMSO EMS clinical guideline — opioid poisoning/overdose aliases include Carfentanil, Fentanyl, Hydromorphone, Opiate, Oxycodone, Percodan®, Dilaudid®, Heroin, Methadone, Opioid, Oxycontin®, U-47700, Drug abuse, Hydrocodone, Morphine, Overdose, Percocet®, and Vicodin®.
 
 ---
 
 ### Hydromorphone hydrochloride [^2925cfc8]. FDA (2025). Medium credibility.
 
-Consider the following when using the information in Table 1 :
+Consider the following when using the information in Table 1:
 
 This is not a table of equianalgesic doses.
 The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydromorphone hydrochloride extended-release tablets.
@@ -679,7 +684,7 @@ Table 1.
 
 Conversion Factors to Hydromorphone Hydrochloride Extended-Release Tablets
 
-To calculate the estimated hydromorphone hydrochloride extended-release tablets dose using Table 1 :
+To calculate the estimated hydromorphone hydrochloride extended-release tablets dose using Table 1:
 
 For patients on a single opioid, sum the current total daily dose of the opioid and then multiply the total daily dose by the conversion factor to calculate the approximate oral hydromorphone daily dose.
 For patients on a regimen of more than one opioid, calculate the approximate oral hydromorphone dose for each opioid and sum the totals to obtain the approximate total hydromorphone daily dose.
@@ -707,7 +712,7 @@ A retrospective review of 37 patients with chronic nonmalignant pain managed wit
 
 Results
 
-The mean age of patients was 64 years +/- 12 SD. All patients suffered from severe nonmalignant pain, most from failed lumbosacral spine operations (19/37; 51%). Morphine was replaced with hydromorphone because of pharmacological complications (21/37; 57%) or inadequate analgesic response (16/37; 43%) after an average of 11 months +/- 11 SD of intrathecal therapy. Pharmacological complications, particularly nausea and vomiting, pruritus, and sedation were reduced by hydromorphone in most patients. Peripheral edema was improved by hydromorphone but tended to recur with prolonged hydromorphone exposure. Analgesic response was improved by at least 25% in six of 16 patients who were switched to hydromorphone because of poor pain relief.
+The mean age of patients was 64 years ± 12 SD. All patients suffered from severe nonmalignant pain, most from failed lumbosacral spine operations (19/37; 51%). Morphine was replaced with hydromorphone because of pharmacological complications (21/37; 57%) or inadequate analgesic response (16/37; 43%) after an average of 11 months ± 11 SD of intrathecal therapy. Pharmacological complications, particularly nausea and vomiting, pruritus, and sedation were reduced by hydromorphone in most patients. Peripheral edema was improved by hydromorphone but tended to recur with prolonged hydromorphone exposure. Analgesic response was improved by at least 25% in six of 16 patients who were switched to hydromorphone because of poor pain relief.
 
 Conclusions
 
@@ -719,23 +724,23 @@ Hydromorphone can be a safe, analgesic alternative for long-term intrathecal man
 
 Analytic theme 2: the right medications to optimise client-relevant outcomes
 
-SOS clients consistently identified a gap between their individual medication needs and what the programmes offered. According to clients, the three key components of effective SOS medication included the ‘right drug,’ the ‘right dosage’ and the ‘right formulation’ to sufficiently reduce reliance on unregulated opioids and the associated risk of overdose. Three descriptive themes capturing the key components of effective medications contributed to this finding.
+SOS clients consistently identified a gap between their individual medication needs and what the programmes offered. According to clients, the three key components of effective SOS medication included the 'right drug,' the 'right dosage' and the 'right formulation' to sufficiently reduce reliance on unregulated opioids and the associated risk of overdose. Three descriptive themes capturing the key components of effective medications contributed to this finding.
 
 Need for multiple opioid medication options (high confidence)
 
-Some clients reported that IR hydromorphone tablets were insufficient as an alternative to fentanyl,which resulted in continued reliance on unregulated drugs and left them at an ongoing risk of overdose:
+Some clients reported that IR hydromorphone tablets were insufficient as an alternative to fentanyl, which resulted in continued reliance on unregulated drugs and left them at an ongoing risk of overdose:
 
-I get 24 hydromorphone or Dilaudid a day. I use them all. They’re quite frankly not nearly strong enough to satisfy like a full-on fentanyl addiction.
+I get 24 hydromorphone or Dilaudid a day. I use them all. They're quite frankly not nearly strong enough to satisfy like a full-on fentanyl addiction.
 
-These clients expressed the need for additional opioid medications to adequately meet individual needs and preferences,as stated by one client:
+These clients expressed the need for additional opioid medications to adequately meet individual needs and preferences, as stated by one client:
 
 I would prefer something that has more of a kick to it than Dilaudids for the cravings and stuff like that, like a fentanyl without the side risks.
 
 Right dos age (high confidence)
 
-Reaching and maintaining an optimal dosage was crucial for addressing clients’ needs and preventing their use of unregulated opioids. For those receiving IR hydromorphone tablets as a safer alternative, achieving an adequate dose that met their individual needs was key,as illustrated below:
+Reaching and maintaining an optimal dosage was crucial for addressing clients' needs and preventing their use of unregulated opioids. For those receiving IR hydromorphone tablets as a safer alternative, achieving an adequate dose that met their individual needs was key, as illustrated below:
 
-It was hard at the beginning but then I realized that the more of the Dilaudid that I did, the less fentanyl I had to do. So it took a while to get up to the dose I’m at now. And I remember coming in here sick and puking, dying sick, every other day when I first started, and then going up and going up and going up (in my safer opioid supply dosing) and finally, hey, I hit a dose and it’s “Okay, I feel comfortable with this dose. I’m at the point where I am not using fentanyl as much, I’m good.” And now it’s been a while and it’s been the same dose and I feel great.
+It was hard at the beginning but then I realized that the more of the Dilaudid that I did, the less fentanyl I had to do. So it took a while to get up to the dose I'm at now. And I remember coming in here sick and puking, dying sick, every other day when I first started, and then going up and going up and going up (in my safer opioid supply dosing) and finally, hey, I hit a dose and it's "Okay, I feel comfortable with this dose. I'm at the point where I am not using fentanyl as much, I'm good." And now it's been a while and it's been the same dose and I feel great.
 
 ---
 
@@ -813,7 +818,7 @@ The primary efficacy end point was the change in VAS score from baseline to comp
 
 Background
 
-Opioid drugs, including hydromorphone, are commonly used to treat neuropathic pain, and are considered effective by some professionals. Most reviews have examined all opioids together. This review sought evidence specifically for hydromorphone, at any dose, and by any route of administration. Other opioids are considered in separate reviews.This review is part of an update of a previous review, Hydromorphone for acute and chronic pain that was withdrawn in 2013 because it needed updating and splitting to be more specific for different pain conditions. This review focuses only on neuropathic pain.
+Opioid drugs, including hydromorphone, are commonly used to treat neuropathic pain, and are considered effective by some professionals. Most reviews have examined all opioids together. This review sought evidence specifically for hydromorphone, at any dose, and by any route of administration. Other opioids are considered in separate reviews. This review is part of an update of a previous review, Hydromorphone for acute and chronic pain that was withdrawn in 2013 because it needed updating and splitting to be more specific for different pain conditions. This review focuses only on neuropathic pain.
 
 Objectives
 
@@ -833,7 +838,7 @@ Two review authors independently searched for studies, extracted efficacy and ad
 
 Main Results
 
-Searches identified seven publications relating to four studies. We excluded three studies. One post hoc (secondary) analysis of a study published in four reports assessed the efficacy of hydromorphone in neuropathic pain, satisfied our inclusion criteria, and was included in the review. The single included study had an enriched enrolment, randomised withdrawal design with 94 participants who were successfully switched from oral morphine to oral hydromorphone extended release (about 60% of those enrolled). These participants were then randomised to continuing hydromorphone for 12 weeks or tapering down the hydromorphone dose to placebo. The methodological quality of the study was generally good, but we judged the risk of bias for incomplete outcome data as unclear, and for study size as high.Since we identified only one study for inclusion, we were unable to carry out any analyses. The included study did not report any of our prespecified primary outcomes, which relate to the number of participants achieving moderate or substantial levels of pain relief. It did report a slightly larger increase in average pain intensity for placebo in the randomised withdrawal phase than for continuing with hydromorphone. It also reported the number of participants who withdrew due to lack of efficacy in the randomised withdrawal phase, which may be an indicator of efficacy. However, in addition to using an enriched enrolment, randomised withdrawal study design, there was an unusual choice of imputation methods for withdrawals (about 50% of participants); the evidence was of very low quality and inadequate to make a judgement on efficacy. Adverse events occurred in about half of participants with hydromorphone, the most common being constipation and nausea. A similar proportion of participants experienced adverse events with placebo, the most common being opioid withdrawal syndrome (very low quality evidence). Most adverse events were mild or moderate in intensity. One in eight participants withdrew while taking hydromorphone during the conversion and titration phase, despite participants being opioid-tolerant (very low quality evidence).We downgraded the quality of the evidence to very low because there was only one study with few participants, it did not report clinically useful efficacy outcomes, and it was a post hoc analysis.
+Searches identified seven publications relating to four studies. We excluded three studies. One post hoc (secondary) analysis of a study published in four reports assessed the efficacy of hydromorphone in neuropathic pain, satisfied our inclusion criteria, and was included in the review. The single included study had an enriched enrolment, randomised withdrawal design with 94 participants who were successfully switched from oral morphine to oral hydromorphone extended release (about 60% of those enrolled). These participants were then randomised to continuing hydromorphone for 12 weeks or tapering down the hydromorphone dose to placebo. The methodological quality of the study was generally good, but we judged the risk of bias for incomplete outcome data as unclear, and for study size as high. Since we identified only one study for inclusion, we were unable to carry out any analyses. The included study did not report any of our prespecified primary outcomes, which relate to the number of participants achieving moderate or substantial levels of pain relief. It did report a slightly larger increase in average pain intensity for placebo in the randomised withdrawal phase than for continuing with hydromorphone. It also reported the number of participants who withdrew due to lack of efficacy in the randomised withdrawal phase, which may be an indicator of efficacy. However, in addition to using an enriched enrolment, randomised withdrawal study design, there was an unusual choice of imputation methods for withdrawals (about 50% of participants); the evidence was of very low quality and inadequate to make a judgement on efficacy. Adverse events occurred in about half of participants with hydromorphone, the most common being constipation and nausea. A similar proportion of participants experienced adverse events with placebo, the most common being opioid withdrawal syndrome (very low quality evidence). Most adverse events were mild or moderate in intensity. One in eight participants withdrew while taking hydromorphone during the conversion and titration phase, despite participants being opioid-tolerant (very low quality evidence). We downgraded the quality of the evidence to very low because there was only one study with few participants, it did not report clinically useful efficacy outcomes, and it was a post hoc analysis.
 
 Authors' Conclusions
 
@@ -845,15 +850,15 @@ There was insufficient evidence to support or refute the suggestion that hydromo
 
 Hydromorphone
 
-Hydromorphone is a hydrogenated ketone analogue of morphine. As with morphine, there is great interindividual variation in oral bioavailability (10%–65%). Some metabolites may have greater analgesic activity than hydromorphone itself but are unlikely to contribute to the pharmacological activity of hydromorphone.According to the summary of product characteristics (hydromorphone hydrochloride 1.3 mg and 2.6 mg capsules), 1.3 mg of hydromorphone has an efficacy approximately equivalent to 10 mg of morphine given orally.
+Hydromorphone is a hydrogenated ketone analogue of morphine. As with morphine, there is great interindividual variation in oral bioavailability (10%–65%). Some metabolites may have greater analgesic activity than hydromorphone itself but are unlikely to contribute to the pharmacological activity of hydromorphone. According to the summary of product characteristics (hydromorphone hydrochloride 1.3 mg and 2.6 mg capsules), 1.3 mg of hydromorphone has an efficacy approximately equivalent to 10 mg of morphine given orally.
 
-We identified one double-blind crossover study, three prospective studies, and three retrospective studies with relevant data regarding equianalgesic conversion ratios to and from hydromorphone (po, sc) in cancer pain (Table 4). In a study by Wallace et al, patients with chronic cancer pain were enrolled in an open-label conversion trial, from various opioids to HMpo, using an oral M:HM ratio of 5:1 for a MEDD conversion.Of the 127 patients who received HMpo, 85 (67%) completed the study. The majority of patients who achieved stabilization did so without titration or with just one or two titration steps. The conclusion was that the 5:1 ratio was safe and effective when converting from morphine to hydromorphone. Wallace et al did not evaluate converting patients back from hydromorphone to oral morphine.
+We identified one double-blind crossover study, three prospective studies, and three retrospective studies with relevant data regarding equianalgesic conversion ratios to and from hydromorphone (po, sc) in cancer pain (Table 4). In a study by Wallace et al, patients with chronic cancer pain were enrolled in an open-label conversion trial, from various opioids to HMpo, using an oral M:HM ratio of 5:1 for a MEDD conversion. Of the 127 patients who received HMpo, 85 (67%) completed the study. The majority of patients who achieved stabilization did so without titration or with just one or two titration steps. The conclusion was that the 5:1 ratio was safe and effective when converting from morphine to hydromorphone. Wallace et al did not evaluate converting patients back from hydromorphone to oral morphine.
 
 ---
 
 ### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^c3a20ac9]. Pain Physician (2023). High credibility.
 
-ASIPP chronic non-cancer pain opioid prescribing—agent selection and cautions: Reasonable, first line opioid choices for mild pain often include tramadol, codeine, Tapentadol, or hydrocodone; for second line mild to moderate pain therapy, clinicians can start with hydrocodone or oxycodone; and for severe pain, first line therapy may begin with hydrocodone, oxycodone, hydromorphone, or morphine, with second line therapy with fentanyl and third line therapy with methadone. Buprenorphine should be considered as a viable alternative to strong opioids in moderate to severe chronic pain therapy, and the literature suggests that codeine and tramadol may confer a lower abuse risk than more potent opioids. Meperidine is not recommended for chronic pain treatment due to adverse neurological events, which are increased with long-term use, renal insufficiency, and concurrent benzodiazepine use.
+ASIPP chronic non-cancer pain opioid prescribing — agent selection and cautions: Reasonable, first line opioid choices for mild pain often include tramadol, codeine, Tapentadol, or hydrocodone; for second line mild to moderate pain therapy, clinicians can start with hydrocodone or oxycodone; and for severe pain, first line therapy may begin with hydrocodone, oxycodone, hydromorphone, or morphine, with second line therapy with fentanyl and third line therapy with methadone. Buprenorphine should be considered as a viable alternative to strong opioids in moderate to severe chronic pain therapy, and the literature suggests that codeine and tramadol may confer a lower abuse risk than more potent opioids. Meperidine is not recommended for chronic pain treatment due to adverse neurological events, which are increased with long-term use, renal insufficiency, and concurrent benzodiazepine use.
 
 ---
 
@@ -869,7 +874,7 @@ This was a prospective, randomized clinical trial of ED patients with acute seve
 
 Results
 
-Of 167 patients in the 1+1 group, 156 received the full 1+1 protocol, whereas 171 received usual care. Of patients who received the 1+1 protocol, 92.3% (144/156) had successful treatment versus 76.6% (131/171) of usual care patients (difference=15.7%; 95% confidence interval 7.9% to 23.3%). In the intention-to-treat analysis, 86.8% (145/167) of patients randomized to the 1+1 group received successful treatment versus 76.6% (131/171) of usual care patients (difference=10.2%; 95% confidence interval 2.0% to 18.3%). No patient required naloxone. One patient in the 1+1 group and 2 patients in the usual care group had transient oxygen saturation less than 95%. The incidence of all adverse effects was similar in both groups.
+Of 167 patients in the 1+1 group, 156 received the full 1+1 protocol, whereas 171 received usual care. Of patients who received the 1+1 protocol, 92.3% (144/156) had successful treatment versus 76.6% (131/171) of usual care patients (difference = 15.7%; 95% confidence interval 7.9% to 23.3%). In the intention-to-treat analysis, 86.8% (145/167) of patients randomized to the 1+1 group received successful treatment versus 76.6% (131/171) of usual care patients (difference = 10.2%; 95% confidence interval 2.0% to 18.3%). No patient required naloxone. One patient in the 1+1 group and 2 patients in the usual care group had transient oxygen saturation less than 95%. The incidence of all adverse effects was similar in both groups.
 
 Conclusion
 
@@ -881,7 +886,7 @@ When analyzed per protocol or with the more conservative intention-to-treat anal
 
 Search methodology
 
-References cited in this review were identified via a search of PubMed covering all English language publications up to May 21, 2013; the search included clinical trials, guidelines, meta-analyses, systematic reviews, and case reports but excluded narrative reviews, letters, and expert opinion. Using the search string “(opioid OR buprenorphine OR codeine OR fentanyl OR hydrocodone OR hydromorphone OR methadone OR meperidine OR morphine OR oxycodone OR oxymorphone) AND (switching OR rotation OR conversion) AND chronic”; the search yielded a total of 129 articles, 92 of which were judged to provide relevant information and were included in this review. Of these, 50 were clinical trials or case reports, and the remaining 42 pertained to the scientific rationale for various aspects of opioid rotation. Treatment guidelines and references identified via this strategy were reviewed for additional articles of interest.
+References cited in this review were identified via a search of PubMed covering all English language publications up to May 21, 2013; the search included clinical trials, guidelines, meta-analyses, systematic reviews, and case reports but excluded narrative reviews, letters, and expert opinion. Using the search string "(opioid OR buprenorphine OR codeine OR fentanyl OR hydrocodone OR hydromorphone OR methadone OR meperidine OR morphine OR oxycodone OR oxymorphone) AND (switching OR rotation OR conversion) AND chronic"; the search yielded a total of 129 articles, 92 of which were judged to provide relevant information and were included in this review. Of these, 50 were clinical trials or case reports, and the remaining 42 pertained to the scientific rationale for various aspects of opioid rotation. Treatment guidelines and references identified via this strategy were reviewed for additional articles of interest.
 
 ---
 
@@ -938,11 +943,11 @@ This systematic review and meta-analysis followed the guidelines outlined by the
 
 Search strategy
 
-On December 25, 2023, we conducted searches in PubMed, Embase, the Cochrane Library, Scopus, and Web of Science using keywords and MeSH terms synonymous with “Hydromorphone” and “Cancer”. Our search criteria did not impose any limitations regarding publication date or language. (Supplemental Content, Table 1)
+On December 25, 2023, we conducted searches in PubMed, Embase, the Cochrane Library, Scopus, and Web of Science using keywords and MeSH terms synonymous with "Hydromorphone" and "Cancer". Our search criteria did not impose any limitations regarding publication date or language. (Supplemental Content, Table 1)
 
 Study selection
 
-The database search results were combined, and duplicate studies were eliminated using EndNote 20 software (Thomson Reuters, Toronto, ON, Canada). Two independent reviewers (S.M. S.O.) conducted two-phase title/abstract and full-text screening, while a third reviewer (M.A.) resolved any discrepancies between them. Studies that met the following eligibility criteria (based on the PICO framework) answered our PICO question—How effective is hydromorphone at alleviating cancer pain and how does its safety profile compare to alternative opioids in patients with cancer pain? —were included:
+The database search results were combined, and duplicate studies were eliminated using EndNote 20 software (Thomson Reuters, Toronto, ON, Canada). Two independent reviewers (S.M. S.O.) conducted two-phase title/abstract and full-text screening, while a third reviewer (M. A.) resolved any discrepancies between them. Studies that met the following eligibility criteria (based on the PICO framework) answered our PICO question — How effective is hydromorphone at alleviating cancer pain and how does its safety profile compare to alternative opioids in patients with cancer pain? — were included:
 
 Participants: Patients diagnosed with cancer who had either of the following:
 
@@ -971,7 +976,7 @@ We conducted a prospective, randomized, double-blind trial of 50 general and gyn
 
 Results
 
-The side effect profile was not different between drugs. The incidence of nausea did not differ between morphine and hydromorphone-treated patients (1 h: 44% vs 52%, 8 h: 68% vs 64%), vomiting (1 h: 4% vs 0%, 8 h: 0% vs 4%), or pruritus (1 h: 4% vs 16%, 8 h: 40% vs 40%). There was no difference in the amount of medication required to treat side effects or patient satisfaction. The average ratio of morphine to hydromorphone use was about 7:1. The patients used 10.9+/-6.0 mg morphine versus 1.57+/-1.0 mg hydromorphone after 1 h and 29.0+/-18.0 mg morphine versus 3.9+/-2.5 mg hydromorphone after 8 h. There was no difference between the morphine and hydromorphone groups with respect to postoperative pain scores with movement at 1 h (7.9+/-2.3 vs 7.1+/-2.4) or 8 h (5.7+/-2.8 vs 5.9+/-2.7). There was also no difference in pain at rest or miosis between groups.
+The side effect profile was not different between drugs. The incidence of nausea did not differ between morphine and hydromorphone-treated patients (1 h: 44% vs 52%, 8 h: 68% vs 64%), vomiting (1 h: 4% vs 0%, 8 h: 0% vs 4%), or pruritus (1 h: 4% vs 16%, 8 h: 40% vs 40%). There was no difference in the amount of medication required to treat side effects or patient satisfaction. The average ratio of morphine to hydromorphone use was about 7:1. The patients used 10.9 ± 6.0 mg morphine versus 1.57 ± 1.0 mg hydromorphone after 1 h and 29.0 ± 18.0 mg morphine versus 3.9 ± 2.5 mg hydromorphone after 8 h. There was no difference between the morphine and hydromorphone groups with respect to postoperative pain scores with movement at 1 h (7.9 ± 2.3 vs 7.1 ± 2.4) or 8 h (5.7 ± 2.8 vs 5.9 ± 2.7). There was also no difference in pain at rest or miosis between groups.
 
 Conclusions
 
@@ -987,11 +992,11 @@ Morphine and hydromorphone have differing onsets, magnitudes, and durations of e
 
 Methods
 
-Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg kg -1 i.v.) or morphine (total 0.1 or 0.2 mg kg -1 i.v.) 1-2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω 2 )-1]×100 where ω 2 is the interindividual variability.
+Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg kg -1 i.v.) or morphine (total 0.1 or 0.2 mg kg -1 i.v.) 1–2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω 2)-1]×100 where ω 2 is the interindividual variability.
 
 Results
 
-Data were analysed per drug and in a combined morphine-hydromorphone model. Both analyses indicate that interindividual variabilities for hydromorphone and morphine were comparable with %CV ranging from 9% to 31% for structural model parameters (combined analysis). Similarly, additive and relative residual errors had comparable variabilities, 20-40% and 72-87%, respectively, for morphine and hydromorphone (combined analysis).
+Data were analysed per drug and in a combined morphine-hydromorphone model. Both analyses indicate that interindividual variabilities for hydromorphone and morphine were comparable with %CV ranging from 9% to 31% for structural model parameters (combined analysis). Similarly, additive and relative residual errors had comparable variabilities, 20–40% and 72–87%, respectively, for morphine and hydromorphone (combined analysis).
 
 Conclusions
 
@@ -1019,33 +1024,33 @@ These findings require further investigation to determine safety and isolate the
 
 ### Best practices guidelines for acute pain management in trauma patients [^01225516]. ACS (2020). High credibility.
 
-Table 17—analgesia for opioid-naïve patients specifies first-line morphine 4 mg IV q15min PRN, with maintenance second-line options of morphine 2-8 mg/hr based on previous requirement or fentanyl 50-200 mcg/hr based on previous requirement; special considerations include to consider fentanyl or hydromorphone infusion if morphine is contraindicated, titrate infusion every 15 minutes to comfort, and ensure prior analgesic medications (or equivalent) are continued.
+Table 17 — analgesia for opioid-naïve patients specifies first-line morphine 4 mg IV q15min PRN, with maintenance second-line options of morphine 2–8 mg/hr based on previous requirement or fentanyl 50–200 mcg/hr based on previous requirement; special considerations include to consider fentanyl or hydromorphone infusion if morphine is contraindicated, titrate infusion every 15 minutes to comfort, and ensure prior analgesic medications (or equivalent) are continued.
 
 ---
 
 ### Hydromorphone hydrochloride (Exalgo) [^93dfb6ec]. FDA (2013). Low credibility.
 
-Warnings and precautions regarding the use of hydromorphone hydrochloride ER PO (also known as Exalgo): 
-- Increased ICP: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
-- Opioid withdrawal syndrome: do not discontinue abruptly in patients physically dependent on opioids.
-- Seizure: use caution in patients with a history of seizure disorder.
-- Somnolence: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
-- Sphincter of Oddi dysfunction: use caution in patients with biliary tract disease and acute pancreatitis.
-- Syncope, hypotension: use caution in patients with reduced blood volume or taking other CNS depressants.
+Warnings and precautions regarding the use of hydromorphone hydrochloride ER PO (also known as Exalgo):
+- **Increased ICP**: use caution in patients who may be susceptible to the intracranial effects of CO₂ retention.
+- **Opioid withdrawal syndrome**: do not discontinue abruptly in patients physically dependent on opioids.
+- **Seizure**: use caution in patients with a history of seizure disorder.
+- **Somnolence**: use caution in patients performing activities requiring mental alertness, such as driving or operating machinery.
+- **Sphincter of Oddi dysfunction**: use caution in patients with biliary tract disease and acute pancreatitis.
+- **Syncope, hypotension**: use caution in patients with reduced blood volume or taking other CNS depressants.
 
 ---
 
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^668c62b6]. Annals of Internal Medicine (2023). High credibility.
 
-Short-acting opioids—hydromorphone: Initial oral dosage (in opioid-naïve) is 2 mg every 4 to 6 hr, and an initial dose of 4 to 8 mg may be given for severe pain. There is no optimal or maximum dose of hydromorphone; patients on LOT are likely to become tolerant and require doses higher than the usual dosage range to maintain the desired effect. Timing parameters are Analgesic Onset (min): 15 to 30, Peak (min): 30 to 60, Duration (hr): 3 to 4, and t½ (hr): 2 to 3. In special populations, for the elderly or debilitated use with caution and start at 25% to 50% of usual dose at the low end of the dosing range, and for hepatic or renal dysfunction reduce initial dose by 25% to 50% of usual dose depending on degree of impairment. Other considerations note women appear to have a 25% higher Cmax than men, and hepatic metabolism via glucuronidation to active metabolites (mainly hydro-morphone 3-glucuronide) can accumulate in renal impairment.
+Short-acting opioids — hydromorphone: Initial oral dosage (in opioid-naïve) is 2 mg every 4 to 6 hr, and an initial dose of 4 to 8 mg may be given for severe pain. There is no optimal or maximum dose of hydromorphone; patients on LOT are likely to become tolerant and require doses higher than the usual dosage range to maintain the desired effect. Timing parameters are Analgesic Onset (min): 15 to 30, Peak (min): 30 to 60, Duration (hr): 3 to 4, and t½ (hr): 2 to 3. In special populations, for the elderly or debilitated use with caution and start at 25% to 50% of usual dose at the low end of the dosing range, and for hepatic or renal dysfunction reduce initial dose by 25% to 50% of usual dose depending on degree of impairment. Other considerations note women appear to have a 25% higher Cmax than men, and hepatic metabolism via glucuronidation to active metabolites (mainly hydro-morphone 3-glucuronide) can accumulate in renal impairment.
 
 ---
 
 ### Management of chronic pain in adults living with sickle cell disease in the era of the opioid epidemic: a qualitative study [^571eca92]. JAMA Network Open (2019). High credibility.
 
-Participants believed that opioid prescribing in the ED had also changed. Most participants lacked an established pain protocol for the ED and believed that health care professionals were not well versed in the management of SCD pain. One participant stated, “You have those [ED physicians] that they’re so limited in education that they’re skeptical about following your own protocol. It’s like my doctor wrote that protocol. You’re [ED physician] putting me in harm’s way, but of course they’re not familiar with the dosage you are on, things of that sort, so your safety becomes a prohibiting factor to them. There are specific protocols but they’ll ignore it.”
+Participants believed that opioid prescribing in the ED had also changed. Most participants lacked an established pain protocol for the ED and believed that health care professionals were not well versed in the management of SCD pain. One participant stated, "You have those [ED physicians] that they're so limited in education that they're skeptical about following your own protocol. It's like my doctor wrote that protocol. You're [ED physician] putting me in harm's way, but of course they're not familiar with the dosage you are on, things of that sort, so your safety becomes a prohibiting factor to them. There are specific protocols but they'll ignore it."
 
-In the ED, participants also reported having to negotiate for their usual dose of opioids. At times, a shortage of hydromorphone was cited as a reason for reducing the dosage or prescribing another opioid. One participant stated, “Many people that have sickle cell are allergic to morphine and they don’t have Dilaudid so now we have to play Russian roulette and take the morphine. I think it is the worst thing to ever happen, I think it is beyond cruel.”
+In the ED, participants also reported having to negotiate for their usual dose of opioids. At times, a shortage of hydromorphone was cited as a reason for reducing the dosage or prescribing another opioid. One participant stated, "Many people that have sickle cell are allergic to morphine and they don't have Dilaudid so now we have to play Russian roulette and take the morphine. I think it is the worst thing to ever happen, I think it is beyond cruel."
 
 Participants suspected during the shortage of hydromorphone that the hospital staff was reserving the drug for patients with conditions other than SCD. For example, ED staff advised that they do not have hydromorphone in the ED; however, when the patient with SCD was hospitalized, hydromorphone was available.
 
@@ -1055,7 +1060,7 @@ Participants suspected during the shortage of hydromorphone that the hospital st
 
 2 DOSAGE AND ADMINISTRATION
 
-Selection of patients for treatment with OPANA should be governed by the same principles that apply to the use of similar opioid analgesics [see Indications and Usage (1)] . Physicians should individualize treatment in every case [see Dosage and Administration (2.1)], using non-opioid analgesics, opioids on an as needed basis, combination products, and chronic opioid therapy in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Healthcare Research and Quality, and the American Pain Society.
+Selection of patients for treatment with OPANA should be governed by the same principles that apply to the use of similar opioid analgesics [see Indications and Usage (1)]. Physicians should individualize treatment in every case [see Dosage and Administration (2.1)], using non-opioid analgesics, opioids on an as needed basis, combination products, and chronic opioid therapy in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Healthcare Research and Quality, and the American Pain Society.
 
 OPANA should be administered on an empty stomach, at least one hour prior to or two hours after eating [see Clinical Pharmacology (12.3)]
 
@@ -1065,7 +1070,7 @@ As with any opioid drug product, it is necessary to adjust the dosing regimen fo
 
 The total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
 The relative potency estimate used to calculate the equivalent oxymorphone dose needed;
-The patient’s degree of opioid tolerance;
+The patient's degree of opioid tolerance;
 The age, general condition, and medical status of the patient;
 Concurrent non-opioid analgesics and other medications;
 The type and severity of the patient's pain;
@@ -1090,11 +1095,11 @@ To characterize the steady-state pharmacokinetic profile of hydromorphone extend
 
 Methods
 
-This open-label repeat-dose study enrolled 22 patients (mean age, 51.4 years; 81.8% female). All patients were receiving at least one concomitant medication; 86.4% were receiving at least two concomitant medications and 81.8% were receiving at least three. Patients receiving a stable dose of an opioid were converted to hydromorphone ER at a 5:1 ratio (morphine equivalent:hydromorphone). The dose was titrated to adequate analgesia over 3-14 days and stabilized between 8-48 mg. Oral morphine immediate-release was permitted for breakthrough pain. Area under the concentration-time curve from 0-24 hours (AUC(0-24)), maximum plasma concentration (C(max)), trough plasma concentration (C(min)), average plasma concentration (C(avg)), and degree of fluctuation (100 × [(C(max) - C(min)) ÷ C(avg)]) were calculated based on data from 14 patients.
+This open-label repeat-dose study enrolled 22 patients (mean age, 51.4 years; 81.8% female). All patients were receiving at least one concomitant medication; 86.4% were receiving at least two concomitant medications and 81.8% were receiving at least three. Patients receiving a stable dose of an opioid were converted to hydromorphone ER at a 5:1 ratio (morphine equivalent:hydromorphone). The dose was titrated to adequate analgesia over 3–14 days and stabilized between 8–48 mg. Oral morphine immediate-release was permitted for breakthrough pain. Area under the concentration-time curve from 0–24 hours (AUC(0–24)), maximum plasma concentration (C(max)), trough plasma concentration (C(min)), average plasma concentration (C(avg)), and degree of fluctuation (100 × [(C(max) - C(min)) ÷ C(avg)]) were calculated based on data from 14 patients.
 
 Results
 
-Dose-normalized to 16 mg, mean pharmacokinetic parameter values were: AUC(0-24), 41.1 ng · h/mL; C(max), 2.6 ng/mL; C(min), 1.1 ng/mL; C(avg), 1.7 ng/mL; and the degree of fluctuation was 99.6%. The pharmacokinetic profile of hydromorphone ER was linear and consistent with dose proportionality. Mean pain intensity difference scores showed statistically significant improvement from 2-21 hours after dosing. Sixteen (72.7%) patients reported at least one adverse event (AE). The most common were constipation (31.8%), headache (22.7%), and vomiting (13.6%). One patient discontinued treatment due to vomiting. No deaths, serious AEs, or unexpected AEs occurred.
+Dose-normalized to 16 mg, mean pharmacokinetic parameter values were: AUC(0–24), 41.1 ng · h/mL; C(max), 2.6 ng/mL; C(min), 1.1 ng/mL; C(avg), 1.7 ng/mL; and the degree of fluctuation was 99.6%. The pharmacokinetic profile of hydromorphone ER was linear and consistent with dose proportionality. Mean pain intensity difference scores showed statistically significant improvement from 2–21 hours after dosing. Sixteen (72.7%) patients reported at least one adverse event (AE). The most common were constipation (31.8%), headache (22.7%), and vomiting (13.6%). One patient discontinued treatment due to vomiting. No deaths, serious AEs, or unexpected AEs occurred.
 
 Conclusion
 
@@ -1110,7 +1115,7 @@ In the selection of the initial dose of OPANA ER, attention should be given to t
 
 The total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
 The relative potency estimate used to calculate the equivalent oxymorphone dose needed;
-The patient’s degree of opioid tolerance;
+The patient's degree of opioid tolerance;
 The age, general condition, and medical status of the patient;
 Concurrent non-opioid analgesic and other medications;
 The type and severity of the patient's pain;
@@ -1123,7 +1128,7 @@ OPANA ER should be administered on an empty stomach, at least one hour prior to 
 
 Opioid-Naïve Patients
 
-It is suggested that patients who are not opioid-experienced being initiated on chronic around-the-clock opioid therapy be started with OPANA ER 5 mg every 12 hours. Thereafter, it is recommended that the dose be individually titrated, preferably at increments of 5-10 mg every 12 hours every 3-7 days, to a level that provides adequate analgesia and minimizes side effects under the close supervision of the prescribing physician (see CLINICAL TRIALS: 12-Week Study in Opioid-Naïve Patients with Low Back Pain).
+It is suggested that patients who are not opioid-experienced being initiated on chronic around-the-clock opioid therapy be started with OPANA ER 5 mg every 12 hours. Thereafter, it is recommended that the dose be individually titrated, preferably at increments of 5–10 mg every 12 hours every 3–7 days, to a level that provides adequate analgesia and minimizes side effects under the close supervision of the prescribing physician (see CLINICAL TRIALS: 12-Week Study in Opioid-Naïve Patients with Low Back Pain).
 
 ---
 
@@ -1157,13 +1162,13 @@ A safer new paradigm for opioid rotation may provide an important incremental st
 
 ### AAOS / METRC clinical practice guideline summary: pharmacologic, physical, and cognitive pain alleviation for musculoskeletal extremity / pelvis surgery [^c04a31f9]. The Journal of the American Academy of Orthopaedic Surgeons (2022). High credibility.
 
-AAOS/METRC clinical practice guideline—search terms for pain interventions in musculoskeletal extremity/pelvis surgery enumerate pharmacologic and nonpharmacologic concepts, covering corticosteroids (e.g., prednisone, methylprednisolone, triamcinolone, dexamethasone, hydrocortisone, prednisolone, betamethasone, budesonide), non-steroidal anti-inflammatory agents and COX-2–related terms with multiple generic/brand names (e.g., meloxicam, naproxen, ibuprofen, ketorolac, celecoxib, diclofenac, indomethacin, etodolac, piroxicam, sulindac, aspirin), injection-related terms (inject*, intraarticular, periarticular), psychotherapy/behavioral and adjunctive modalities (psychotherapy/psychotherapeutic, CBT with NOT terms for “cord blood transplantation,” plus exclusions for “carotid body tumor,” “cortical bone trajectory,” “cortical bone thickness,” and “computer based training”; “virtual reality” with therapy/treatment/intervention/rehabilitation; “mirror therapy,” “visual feedback,” “mirror feedback”; sensorimotor or sensory feedback/training/rehabilitation; music therapy; “guided imagery”; “motor imagery”; Reiki; hypnosis; mindfulness; meditat*; education*/teaching), and opioids (e.g., oxycodone, Oxycontin, Oxy-ER, Oxy-IR, hydrocodone, oxymorphone, morphine, MS Contin, fentanyl, Duragesic, Actiq, Sublimaze, hydromorphone, Dilaudid, Tramadol, Ultram, buprenorphine, codeine, methadone, Dolophine, Methadose, suboxone).
+AAOS/METRC clinical practice guideline — search terms for pain interventions in musculoskeletal extremity/pelvis surgery enumerate pharmacologic and nonpharmacologic concepts, covering corticosteroids (e.g., prednisone, methylprednisolone, triamcinolone, dexamethasone, hydrocortisone, prednisolone, betamethasone, budesonide), non-steroidal anti-inflammatory agents and COX-2–related terms with multiple generic/brand names (e.g., meloxicam, naproxen, ibuprofen, ketorolac, celecoxib, diclofenac, indomethacin, etodolac, piroxicam, sulindac, aspirin), injection-related terms (inject*, intraarticular, periarticular), psychotherapy/behavioral and adjunctive modalities (psychotherapy/psychotherapeutic, CBT with NOT terms for "cord blood transplantation," plus exclusions for "carotid body tumor," "cortical bone trajectory," "cortical bone thickness," and "computer based training"; "virtual reality" with therapy/treatment/intervention/rehabilitation; "mirror therapy," "visual feedback," "mirror feedback"; sensorimotor or sensory feedback/training/rehabilitation; music therapy; "guided imagery"; "motor imagery"; Reiki; hypnosis; mindfulness; meditat*; education*/teaching), and opioids (e.g., oxycodone, Oxycontin, Oxy-ER, Oxy-IR, hydrocodone, oxymorphone, morphine, MS Contin, fentanyl, Duragesic, Actiq, Sublimaze, hydromorphone, Dilaudid, Tramadol, Ultram, buprenorphine, codeine, methadone, Dolophine, Methadose, suboxone).
 
 ---
 
 ### The 50% effective dose of hydromorphone and morphine for epidural analgesia in the hemorrhoidectomy: a double-blind, sequential dose-finding study [^0913e54c]. BMC Anesthesiology (2024). Medium credibility.
 
-All patients were given a standard order set for postoperative care that included monitoring, multimodal analgesia, therapy for nausea and pruritus, and necessary emergency care. Two tablets of ibuprofen and codeine sustained-release (each tablets containing 0.2 g of ibuprofen and 13 mg of codeine phosphate) were routinely given BID after surgery to the patients. The NRS pain score was ≥ 4 points. Tramadol 100 mg and parecoxib 40 mg was also intravenously injected as needed. Granisetron (3 mg IV) and/or droperidol (2.5 mg IV) may be used as needed to treat nausea and vomiting. Itching can be treated with nalbuphine (5 mg IV three times daily, as required).
+All patients were given a standard order set for postoperative care that included monitoring, multimodal analgesia, therapy for nausea and pruritus, and necessary emergency care. Two tablets of ibuprofen and codeine sustained-release (each tablets containing 0.2 g of ibuprofen and 13 mg of codeine phosphate) were routinely given BID after surgery to the patients. The NRS pain score was ≥ 4 points. Tramadol 100 mg and parecoxib 40 mg was also intravenously injected as needed. Granisetron (3 mg IV) and/or droperidol (2.5 mg IV) may be used as needed to treat nausea and vomiting. Itching can be treated with nalbuphine (5 mg IV three times daily, as required).
 
 Measurements of oxygen saturation, Richmond Agitation-Sedation Scale (RASS), and respiratory rate were also taken in the specified sequence.
 
@@ -1213,7 +1218,7 @@ Hydromorphone is likely a minor metabolite of morphine, normally appearing in th
 
 Hydromorphone versus oxycodone
 
-Xiao et al. were the only study to compare patient-controlled subcutaneous hydromorphone to oral oxycodone tablets and found that 128 patients receiving hydromorphone experienced fewer incidences of breakthrough pain than did 128 patients receiving morphine (mean of 121 ± 28 versus 186 ± 31; p value < 0.001; Cohen’s d (95% CI): -2.20 (-2.51, -1.89).
+Xiao et al. were the only study to compare patient-controlled subcutaneous hydromorphone to oral oxycodone tablets and found that 128 patients receiving hydromorphone experienced fewer incidences of breakthrough pain than did 128 patients receiving morphine (mean of 121 ± 28 versus 186 ± 31; p value < 0.001; Cohen's d (95% CI): -2.20 (-2.51, -1.89).
 
 Quality of life.
 
@@ -1223,13 +1228,13 @@ Five of the included studies compared the quality of life of cancer patients rec
 
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^97f1f78d]. Annals of Internal Medicine (2023). High credibility.
 
-Hydromorphone extended-release (ER) tablets are available as 8, 12, 16, and 32 mg tablets for once daily administration and are not indicated in opioid-naïve patients due to the risk of respiratory depression; for opioid tolerant patients, convert current MEDD to an equianalgesic daily dose of hydromorphone ER and reduce the calculated amount by 33-50% for the initial start dose. Dosage adjustments may be made in increments of 4 to 8 mg every 3 to 4 days, with steady state reached after 3 to 4 days of once-daily dosing. In special populations, initiate at a low dose and titrate slowly with close monitoring in the elderly; for renal impairment start patients with moderate impairment at 50% of usual dose and patients with severe impairment at 25% of usual dose; for hepatic impairment start patients with moderate impairment at 25% of usual dose. Hydromorphone ER tablets must be swallowed intact and should not be cut, broken, chewed, crushed or dissolved due to risk of fatal overdose; Hydromorphone ER contains sulfites and has abuse deterrent properties but is not FDA-labeled as an abuse deterrent formulation.
+Hydromorphone extended-release (ER) tablets are available as 8, 12, 16, and 32 mg tablets for once daily administration and are not indicated in opioid-naïve patients due to the risk of respiratory depression; for opioid tolerant patients, convert current MEDD to an equianalgesic daily dose of hydromorphone ER and reduce the calculated amount by 33–50% for the initial start dose. Dosage adjustments may be made in increments of 4 to 8 mg every 3 to 4 days, with steady state reached after 3 to 4 days of once-daily dosing. In special populations, initiate at a low dose and titrate slowly with close monitoring in the elderly; for renal impairment start patients with moderate impairment at 50% of usual dose and patients with severe impairment at 25% of usual dose; for hepatic impairment start patients with moderate impairment at 25% of usual dose. Hydromorphone ER tablets must be swallowed intact and should not be cut, broken, chewed, crushed or dissolved due to risk of fatal overdose; Hydromorphone ER contains sulfites and has abuse deterrent properties but is not FDA-labeled as an abuse deterrent formulation.
 
 ---
 
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^28811bb1]. Annals of Internal Medicine (2023). High credibility.
 
-Oxymorphone—special populations and alcohol warning: In hepatic dysfunction, Mild hepatic impairment: Use cautiously, start at low end of dosing range, whereas Moderate and severe hepatic impairment: Contraindicated. In renal dysfunction, bioavailability is increased 57 – 65% in moderate and severe impairment; start at lower doses and adjust slowly. Oxymorphone Must NOT be taken concomitantly with alcohol; alcohol (240 ml of 4% to 40% ethanol) can cause highly variable effects on peak drug levels, ranging from a decrease of 50% to an increase of 270% (demonstrated with ER oxymorphone).
+Oxymorphone — special populations and alcohol warning: In hepatic dysfunction, Mild hepatic impairment: Use cautiously, start at low end of dosing range, whereas Moderate and severe hepatic impairment: Contraindicated. In renal dysfunction, bioavailability is increased 57–65% in moderate and severe impairment; start at lower doses and adjust slowly. Oxymorphone Must NOT be taken concomitantly with alcohol; alcohol (240 mL of 4% to 40% ethanol) can cause highly variable effects on peak drug levels, ranging from a decrease of 50% to an increase of 270% (demonstrated with ER oxymorphone).
 
 ---
 
@@ -1269,7 +1274,7 @@ The evidence of the benefits and harms of hydromorphone compared with other anal
 
 Background
 
-Cancer pain significantly impacts individuals’ quality of life, with opioids being employed as the primary means for pain relief. Nevertheless, concerns persist regarding the adverse reactions and effectiveness of opioids such as morphine. Hydromorphone, recognized as a potent opioid, is a viable alternative for managing cancer-related pain. The goal of this systematic review and meta-analysis was to determine the effectiveness and safety characteristics of hydromorphone in comparison to other opioids, as well as different methods of administering this medication within the scope of cancer pain treatment.
+Cancer pain significantly impacts individuals' quality of life, with opioids being employed as the primary means for pain relief. Nevertheless, concerns persist regarding the adverse reactions and effectiveness of opioids such as morphine. Hydromorphone, recognized as a potent opioid, is a viable alternative for managing cancer-related pain. The goal of this systematic review and meta-analysis was to determine the effectiveness and safety characteristics of hydromorphone in comparison to other opioids, as well as different methods of administering this medication within the scope of cancer pain treatment.
 
 Methods
 
@@ -1285,7 +1290,7 @@ The outcomes of this study substantiate the efficacy of hydromorphone in the man
 
 Trial registration
 
-Prospero registration ID: CRD42024517513. Link:.
+Prospero registration ID: CRD42024517513. Link:
 
 Supplementary Information
 
@@ -1295,7 +1300,7 @@ The online version contains supplementary material available at 10.1186/s12871-0
 
 ### A multiple-dose phase I study of intranasal hydromorphone hydrochloride in healthy volunteers [^a73852bd]. Anesthesia and Analgesia (2004). Low credibility.
 
-We evaluated the pharmacokinetics, tolerability, and safety of 1 and 2 mg of intranasal hydromorphone hydrochloride in an open-label, single- and multiple-dose study. This Phase I study was conducted in 24 healthy volunteers (13 men and 11 women). Intranasal doses were delivered as 0.1-mL metered-dose sprays into one or both nostrils for 1- and 2-mg doses, respectively. Venous blood samples were taken serially from 0 to 12 h after the first single dose and the last (seventh) multiple dose. Plasma hydromorphone concentrations were determined by liquid chromatography/mass spectrometry/mass spectrometry. Noncompartmental analysis was used to estimate pharmacokinetic variables. After 7 intranasal doses of 1 and 2 mg (once every 6 h), mean +/- sd peak plasma concentrations of 2.8 +/- 0.7 ng/mL and 5.3 +/- 2.3 ng/mL, respectively, were observed. The median time to peak concentration was 20 min for both single and multiple doses. Dose proportionality was observed for the 1- and 2-mg doses. Adverse events included somnolence, dizziness, and bad taste after dose administration. Intranasal hydromorphone hydrochloride was well tolerated and demonstrated rapid nasal drug absorption and predictable accumulation. These results support clinical investigation of hydromorphone hydrochloride nasal spray for use as an alternative to oral and IM administration.
+We evaluated the pharmacokinetics, tolerability, and safety of 1 and 2 mg of intranasal hydromorphone hydrochloride in an open-label, single- and multiple-dose study. This Phase I study was conducted in 24 healthy volunteers (13 men and 11 women). Intranasal doses were delivered as 0.1-mL metered-dose sprays into one or both nostrils for 1- and 2-mg doses, respectively. Venous blood samples were taken serially from 0 to 12 h after the first single dose and the last (seventh) multiple dose. Plasma hydromorphone concentrations were determined by liquid chromatography/mass spectrometry/mass spectrometry. Noncompartmental analysis was used to estimate pharmacokinetic variables. After 7 intranasal doses of 1 and 2 mg (once every 6 h), mean ± sd peak plasma concentrations of 2.8 ± 0.7 ng/mL and 5.3 ± 2.3 ng/mL, respectively, were observed. The median time to peak concentration was 20 min for both single and multiple doses. Dose proportionality was observed for the 1- and 2-mg doses. Adverse events included somnolence, dizziness, and bad taste after dose administration. Intranasal hydromorphone hydrochloride was well tolerated and demonstrated rapid nasal drug absorption and predictable accumulation. These results support clinical investigation of hydromorphone hydrochloride nasal spray for use as an alternative to oral and IM administration.
 
 ---
 
@@ -1307,7 +1312,7 @@ In Japan, there are limited options for switching opioid analgesics. Hydromorpho
 
 Subjects and methods
 
-This was a multicenter, randomized, double-blind, parallel-group trial. A double-dummy method was used for blinding. Each randomized subject received either hydromorphone extended-release tablets plus placebo oxycodone hydrochloride extended-release tablets 4 mg/day (n=88) or placebo hydromorphone extended-release tablets plus oxycodone hydrochloride extended-release tablets 10 mg/day (n=93) orally for 7 days (once-daily dosing for hydromorphone and twice-daily dosing for oxycodone). The doses were adjusted as necessary. Efficacy was evaluated by change in visual analog scale (VAS) score from baseline to completion of treatment.
+This was a multicenter, randomized, double-blind, parallel-group trial. A double-dummy method was used for blinding. Each randomized subject received either hydromorphone extended-release tablets plus placebo oxycodone hydrochloride extended-release tablets 4 mg/day (n = 88) or placebo hydromorphone extended-release tablets plus oxycodone hydrochloride extended-release tablets 10 mg/day (n = 93) orally for 7 days (once-daily dosing for hydromorphone and twice-daily dosing for oxycodone). The doses were adjusted as necessary. Efficacy was evaluated by change in visual analog scale (VAS) score from baseline to completion of treatment.
 
 Results
 
@@ -1327,15 +1332,15 @@ A fundamental challenge for emergency department (ED) clinicians is to relieve s
 
 Methods
 
-This was a two-arm, double-blind randomized clinical trial. All patients received 1 mg of IV hydromorphone. Patients were then randomized to receive 1 g of IV acetaminophen or placebo. The primary outcome was the between-group difference in change in pain from baseline (before treatment) to 60 minutes after administration of study drugs, measured on an 11-point numeric rating scale (NRS).
+This was a two-arm, double-blind randomized clinical trial. All patients received 1 mg of IV hydromorphone. Patients were then randomized to receive 1 g of IV acetaminophen or placebo. The primary outcome was the between-group difference in change in pain from baseline (before treatment) to 60 minutes after administration of study drugs, measured on an 11-point numeric rating scale (NRS).
 
 Results
 
-Of 828 patients screened, 162 were enrolled and 159 had the primary outcome. Patients allocated to acetaminophen + hydromorphone had a mean decline in pain from baseline to 60 minutes of 6.2 NRS units; those receiving placebo + hydromorphone had a mean decline of 5.4, a difference of 0.8 NRS units (95% confidence interval [CI] = -0.01 to 1.8). Two patients in each group received additional analgesics in the first 60 minutes of the study. At 120 minutes the NRS pain difference was 0.6 (95% CI = -0.4 to 1.6). A total of 26.9% of patients who received acetaminophen wanted more analgesia versus 37.7% of those given placebo (difference = -10.8%, 95% CI = -24.3% to 4.4%). The incidence of adverse effects was similar in both groups.
+Of 828 patients screened, 162 were enrolled and 159 had the primary outcome. Patients allocated to acetaminophen + hydromorphone had a mean decline in pain from baseline to 60 minutes of 6.2 NRS units; those receiving placebo + hydromorphone had a mean decline of 5.4, a difference of 0.8 NRS units (95% confidence interval [CI] = -0.01 to 1.8). Two patients in each group received additional analgesics in the first 60 minutes of the study. At 120 minutes the NRS pain difference was 0.6 (95% CI = -0.4 to 1.6). A total of 26.9% of patients who received acetaminophen wanted more analgesia versus 37.7% of those given placebo (difference = -10.8%, 95% CI = -24.3% to 4.4%). The incidence of adverse effects was similar in both groups.
 
 Conclusions
 
-The addition of 1 g of IV acetaminophen to 1 mg of IV hydromorphone provided neither clinically meaningful nor statistically superior analgesia than hydromorphone alone.
+The addition of 1 g of IV acetaminophen to 1 mg of IV hydromorphone provided neither clinically meaningful nor statistically superior analgesia than hydromorphone alone.
 
 ---
 
@@ -1351,17 +1356,17 @@ In conclusion, this review substantiates the safety and efficacy of hydromorphon
 
 Introduction
 
-Pharmacotherapy for cancer pain is based on the World Health Organization (WHO) guidelines for cancer-pain relief released in 1986.The WHO’s three-step ladder for cancer-pain relief recommends the use of potent opioid analgesics for moderate–severe pain; indeed, these agents have been found to be the most effective treatment for cancer pain.At present, morphine, oxycodone, and fentanyl are mainly used in Japan as step 3 opioid analgesics.
+Pharmacotherapy for cancer pain is based on the World Health Organization (WHO) guidelines for cancer-pain relief released in 1986. The WHO's three-step ladder for cancer-pain relief recommends the use of potent opioid analgesics for moderate–severe pain; indeed, these agents have been found to be the most effective treatment for cancer pain. At present, morphine, oxycodone, and fentanyl are mainly used in Japan as step 3 opioid analgesics.
 
-The selective μ-opioid receptor-agonist analgesic hydromorphone is currently used clinically in 45 countries and regions in the world.It is the standard alternative to morphine,–but has not been developed for use in Japan. The metabolites of hydromorphone have been found to be inactive,making hydromorphone a potential treatment option for patients with reduced renal function as an alternative to morphine.Therefore, hydromorphone is expected to expand the treatment options for pain relief.
+The selective μ-opioid receptor-agonist analgesic hydromorphone is currently used clinically in 45 countries and regions in the world. It is the standard alternative to morphine,–but has not been developed for use in Japan. The metabolites of hydromorphone have been found to be inactive, making hydromorphone a potential treatment option for patients with reduced renal function as an alternative to morphine. Therefore, hydromorphone is expected to expand the treatment options for pain relief.
 
-The efficacy and safety of hydromorphone has been assessed in clinical studies.During the development of hydromorphone in Japan, Daiichi Sankyo made a once-daily extended-release formulation.We conducted a Phase III randomized double-blind study to verify the noninferiority of hydromorphone extended-release tablets (DS-7113b; Daiichi Sankyo, Tokyo, Japan) to oxycodone hydrochloride extended-release tablets (Oxycontin; Shionogi, Osaka, Japan), with the objective of investigating the efficacy of the hydromorphone formulation in Japanese patients.
+The efficacy and safety of hydromorphone has been assessed in clinical studies. During the development of hydromorphone in Japan, Daiichi Sankyo made a once-daily extended-release formulation. We conducted a Phase III randomized double-blind study to verify the noninferiority of hydromorphone extended-release tablets (DS-7113b; Daiichi Sankyo, Tokyo, Japan) to oxycodone hydrochloride extended-release tablets (Oxycontin; Shionogi, Osaka, Japan), with the objective of investigating the efficacy of the hydromorphone formulation in Japanese patients.
 
 ---
 
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^45a89e2c]. Annals of Internal Medicine (2023). High credibility.
 
-Long-acting/ER opioids—Oxymorphone ER tablets have the following dosing, titration, and safety guidance: they are “Available as 5, 7.5, 10, 15, 20, 30 and 40 mg tablets for every 12 hr administration”; for opioid-naive patients, “Initiate at 5 mg every 12 hr,” and for opioid tolerant patients, “Convert current opioid to equianalgesic daily dose of oxycodone; reduce the calculated amount by 33–50% for initial daily start dose.” Titration guidance states “Dose change increments: May increase by 5 to 10 mg every 12 hr every 3 to 7 days,” and “Steady-state plasma levels are achieved after 3 days of multiple dose administration,” with administration instructions that “Oxymorphone ER tablets must be taken whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth.” In special populations, “Elderly: Plasma drug levels are about 40% higher in elderly versus younger subjects; use caution, starting at the low end of dosing range and titrating slowly.” Other considerations include food and alcohol restrictions: “Must be taken on an empty stomach at least 1 hr before or 2 hr after a meal; food has been shown to increase peak levels of oxymorphone ER by 50%,” and “Must NOT be taken concomitantly with alcohol, which can cause highly variable effects on peak drug levels, ranging from a decrease of 50% to an increase of 270%.”
+Long-acting/ER opioids — Oxymorphone ER tablets have the following dosing, titration, and safety guidance: they are "Available as 5, 7.5, 10, 15, 20, 30 and 40 mg tablets for every 12 hr administration"; for opioid-naive patients, "Initiate at 5 mg every 12 hr," and for opioid tolerant patients, "Convert current opioid to equianalgesic daily dose of oxycodone; reduce the calculated amount by 33–50% for initial daily start dose." Titration guidance states "Dose change increments: May increase by 5 to 10 mg every 12 hr every 3 to 7 days," and "Steady-state plasma levels are achieved after 3 days of multiple dose administration," with administration instructions that "Oxymorphone ER tablets must be taken whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth." In special populations, "Elderly: Plasma drug levels are about 40% higher in elderly versus younger subjects; use caution, starting at the low end of dosing range and titrating slowly." Other considerations include food and alcohol restrictions: "Must be taken on an empty stomach at least 1 hr before or 2 hr after a meal; food has been shown to increase peak levels of oxymorphone ER by 50%," and "Must NOT be taken concomitantly with alcohol, which can cause highly variable effects on peak drug levels, ranging from a decrease of 50% to an increase of 270%."
 
 ---
 
@@ -1377,7 +1382,7 @@ The authors conducted a randomized crossover study in healthy volunteers. Forty-
 
 Results
 
-For morphine and hydromorphone, respectively, maximum miosis was less (3.9 [3.4 to 4.2] vs. 4.6mm [4.0 to 5.0], P < 0.001; median and 25 to 75% quantiles) and occurred later (3.1±0.9 vs. 2.3±0.7h after infusion start, P < 0.001; mean ± SD); maximum tolerated temperature was less (49±2 vs. 50±2°C, P < 0.001); verbal pain scores at end-infusion at the most informative stimulus (48.2°C) were 82±4 and 59±3 (P < 0.001); maximum end-expired CO2 was 47 (45 to 50) and 48 mmHg (46 to 51; P = 0.007) and occurred later (5.5±2.8 vs. 3.0±1.5h after infusion start, P < 0.001); and respiratory nadir was 9±1 and 11±2 breaths/min (P < 0.001), and occurred at similar times. The area under the temperature tolerance-time curve was less for morphine (1.8 [0.0 to 4.4]) than hydromorphone (5.4°C-h [1.6 to 12.1] P < 0.001). Interindividual variability in clinical effects did not differ between opioids.
+For morphine and hydromorphone, respectively, maximum miosis was less (3.9 [3.4 to 4.2] vs. 4.6mm [4.0 to 5.0], P < 0.001; median and 25 to 75% quantiles) and occurred later (3.1 ± 0.9 vs. 2.3 ± 0.7h after infusion start, P < 0.001; mean ± SD); maximum tolerated temperature was less (49 ± 2 vs. 50 ± 2°C, P < 0.001); verbal pain scores at end-infusion at the most informative stimulus (48.2°C) were 82 ± 4 and 59 ± 3 (P < 0.001); maximum end-expired CO2 was 47 (45 to 50) and 48 mmHg (46 to 51; P = 0.007) and occurred later (5.5 ± 2.8 vs. 3.0 ± 1.5h after infusion start, P < 0.001); and respiratory nadir was 9 ± 1 and 11 ± 2 breaths/min (P < 0.001), and occurred at similar times. The area under the temperature tolerance-time curve was less for morphine (1.8 [0.0 to 4.4]) than hydromorphone (5.4°C-h [1.6 to 12.1] P < 0.001). Interindividual variability in clinical effects did not differ between opioids.
 
 Conclusions
 
@@ -1405,7 +1410,7 @@ The outcomes of this study substantiate the efficacy of hydromorphone in the man
 
 Trial Registration
 
-Prospero registration ID: CRD42024517513. Link: https://www.crd.york.ac.uk/PROSPERO/#recordDetails .
+Prospero registration ID: CRD42024517513. Link: https://www.crd.york.ac.uk/PROSPERO/#recordDetails.
 
 ---
 
@@ -1421,11 +1426,11 @@ This prospective evaluation focused on the first (ie, conversion) phase of 2 ide
 
 Methods
 
-Patients being treated with opioid analgesics for persistent moderate to severe pain were converted to ER hydromorphone HCl using an 8:1 conversion ratio. The dose was titrated to attain an average pain intensity (API) score < or = 4 on a 0- to 10-point numeric rating scale. Supplemental oral IR hydromorphone HCl tablets were used as rescue medication at a dose of one eighth to one sixth of the daily ER hydromorphone HCl dose.
+Patients being treated with opioid analgesics for persistent moderate to severe pain were converted to ER hydromorphone HCl using an 8:1 conversion ratio. The dose was titrated to attain an average pain intensity (API) score ≤ 4 on a 0- to 10-point numeric rating scale. Supplemental oral IR hydromorphone HCl tablets were used as rescue medication at a dose of one eighth to one sixth of the daily ER hydromorphone HCl dose.
 
 Results
 
-A total of 343 patients (272 [79%] with cancer pain; mean age, 57.8 years) were enrolled and converted to ER hydromorphone HCl from their previous opioids. About half (51%) were women. At baseline, the mean (SD) API score was 5.3 (2.1). Mean (SD) API scores were 4.7 (2.0) after the first 48 hours and 3.4 (2.1) by the end of titration. After 4 to 21 days of titration, 239 (70%) patients reached stabilization defined as a > or = 48-hour period with an API score of < or =4, unchanged ER hydromorphone HCl dose, and < or = 2 rescue doses per day. The stabilized patients had mean (SD) API scores of 2.7 (1.1) at the end of titration. At stabilization, 102 (43%) of 239 patients remained at their initial conversion dose, 129 (54%) had a dose increase, and 8 (3%) had a dose decrease. Frequent (> or =10% of patients) adverse events that occurred within the first 48 hours after conversion and during the entire titration phase were nausea, somnolence, headache, constipation, vomiting, and dizziness.
+A total of 343 patients (272 [79%] with cancer pain; mean age, 57.8 years) were enrolled and converted to ER hydromorphone HCl from their previous opioids. About half (51%) were women. At baseline, the mean (SD) API score was 5.3 (2.1). Mean (SD) API scores were 4.7 (2.0) after the first 48 hours and 3.4 (2.1) by the end of titration. After 4 to 21 days of titration, 239 (70%) patients reached stabilization defined as a ≥ 48-hour period with an API score of ≤ 4, unchanged ER hydromorphone HCl dose, and ≤ 2 rescue doses per day. The stabilized patients had mean (SD) API scores of 2.7 (1.1) at the end of titration. At stabilization, 102 (43%) of 239 patients remained at their initial conversion dose, 129 (54%) had a dose increase, and 8 (3%) had a dose decrease. Frequent (≥ 10% of patients) adverse events that occurred within the first 48 hours after conversion and during the entire titration phase were nausea, somnolence, headache, constipation, vomiting, and dizziness.
 
 Conclusion
 
@@ -1449,7 +1454,7 @@ We therefore performed a descriptive, retrospective study in extensively pretrea
 
 Introduction
 
-Cancer is associated with chronic pain that has deliberating effects on patients’ lives. Approximately 44.5% of cancer patients experience pain, 30.6% of whom report pain that is moderate to severe. The impact of pain on patient treatment adherence, survival rate, and quality of life has been substantiated. Opioids serve as the primary pain relievers for managing cancer-related pain. In regard to this topic, morphine is the most widely discussed opioid. Nevertheless, morphine is linked to various issues, such as the risk of overdose, respiratory depression, and breakthrough pain. breakthrough pain refers to an abrupt escalation of pain in individuals with chronic pain managed by analgesics. Other options for the management of cancer-related pain include fentanyl, oxycodone, and hydromorphone.
+Cancer is associated with chronic pain that has deliberating effects on patients' lives. Approximately 44.5% of cancer patients experience pain, 30.6% of whom report pain that is moderate to severe. The impact of pain on patient treatment adherence, survival rate, and quality of life has been substantiated. Opioids serve as the primary pain relievers for managing cancer-related pain. In regard to this topic, morphine is the most widely discussed opioid. Nevertheless, morphine is linked to various issues, such as the risk of overdose, respiratory depression, and breakthrough pain. breakthrough pain refers to an abrupt escalation of pain in individuals with chronic pain managed by analgesics. Other options for the management of cancer-related pain include fentanyl, oxycodone, and hydromorphone.
 
 Hydromorphone is a semisynthetic selective µ-opioid receptor agonist that was initially synthesized in Germany in 1921 and became a part of clinical practice by 1926. It constitutes a powerful pharmaceutical opioid for treating acute pain of a moderate-to-severe nature as well as chronic pain of severe intensity in patients. Compared with orally administered morphine, orally administered hydromorphone is 5 times more potent but has a similar side effect profile and stronger lipid solubility. Multiple recent clinical trials have focused on the utilization of hydromorphone for the management of cancer-related pain, as well as exploring various methods of administering this medication, making it crucial to thoroughly examine this topic systematically.
 
@@ -1469,7 +1474,7 @@ Using a 4 x 4 Latin square double-blind design, 12 subjects were randomized to r
 
 Results
 
-The hydromorphone plasma concentration peaked significantly later (12.0 h [12.0--18.0] vs. 0.8 h [0.8--1.0]; median and interquartile range) but was maintained significantly longer at greater than 50% of peak concentration (22.7 +/- 8.2 h vs. 1.1 +/- 0.7 h; mean +/- SD) after sustained-release than after immediate-release hydromorphone. Similarly, sustained-release hydromorphone produced analgesic effects that peaked significantly later (9.0 h [9.0--12.0] vs. 1.5 h [1.0--2.0]) but were maintained significantly longer at greater than 50% of peak analgesic effect (13.3 +/- 6.3 h vs. 3.6 +/- 1.7 h). A statistically significant linear relation between the hydromorphone plasma concentration and the analgesic effect on painful stimuli existed.
+The hydromorphone plasma concentration peaked significantly later (12.0 h [12.0–18.0] vs. 0.8 h [0.8–1.0]; median and interquartile range) but was maintained significantly longer at greater than 50% of peak concentration (22.7 ± 8.2 h vs. 1.1 ± 0.7 h; mean ± SD) after sustained-release than after immediate-release hydromorphone. Similarly, sustained-release hydromorphone produced analgesic effects that peaked significantly later (9.0 h [9.0–12.0] vs. 1.5 h [1.0–2.0]) but were maintained significantly longer at greater than 50% of peak analgesic effect (13.3 ± 6.3 h vs. 3.6 ± 1.7 h). A statistically significant linear relation between the hydromorphone plasma concentration and the analgesic effect on painful stimuli existed.
 
 Conclusion
 
@@ -1485,7 +1490,7 @@ To describe the pharmacology, safety and efficacy, and rationale for use of oral
 
 Data Sources
 
-A PubMed/MEDLINE search (1966-March 2007) was conducted using the following terms: oral oxymorphone, oxymorphone, EN 3202, EN 3203, Opana, and Opana ER. Manufacturer-provided data (package inserts) and abstracts presented at the American Pain Society meetings (2003-2006) were also reviewed.
+A PubMed/MEDLINE search (1966-March 2007) was conducted using the following terms: oral oxymorphone, oxymorphone, EN 3202, EN 3203, Opana, and Opana ER. Manufacturer-provided data (package inserts) and abstracts presented at the American Pain Society meetings (2003–2006) were also reviewed.
 
 Study Selection and Data Extraction
 
@@ -1493,7 +1498,7 @@ Human studies evaluating the safety and efficacy of oral oxymorphone in pain man
 
 Data Synthesis
 
-Oral oxymorphone is a semisynthetic opioid agonist that is specific for the mu-opioid receptor and approved to treat both acute and chronic pain. Unlike other opioids, such as oxycodone, oxymorphone does not bind to the kappa-opioid receptor. Due to extensive liver metabolism, oral oxymorphone is contraindicated in patients with moderate-to-severe hepatic impairment; however, no clinically significant CYP3A4, 2C9, or 2D6 mediated drug-drug interactions have been noted. Elderly patients may experience a 40% increase in plasma concentrations, while renally impaired patients may have a 57-65% increase in bioavailability. Food can increase the rate of absorption by as much as 50%, necessitating dosing either 1 hour before or 2 hours after a meal. Oxymorphone's primary adverse effects are similar to those of other opioids: nausea, vomiting, pruritus, pyrexia, and constipation.
+Oral oxymorphone is a semisynthetic opioid agonist that is specific for the mu-opioid receptor and approved to treat both acute and chronic pain. Unlike other opioids, such as oxycodone, oxymorphone does not bind to the kappa-opioid receptor. Due to extensive liver metabolism, oral oxymorphone is contraindicated in patients with moderate-to-severe hepatic impairment; however, no clinically significant CYP3A4, 2C9, or 2D6 mediated drug-drug interactions have been noted. Elderly patients may experience a 40% increase in plasma concentrations, while renally impaired patients may have a 57–65% increase in bioavailability. Food can increase the rate of absorption by as much as 50%, necessitating dosing either 1 hour before or 2 hours after a meal. Oxymorphone's primary adverse effects are similar to those of other opioids: nausea, vomiting, pruritus, pyrexia, and constipation.
 
 Conclusions
 
@@ -1503,12 +1508,12 @@ Oxymorphone is an oral therapeutic option approved for the treatment of acute an
 
 ### 2017 HIVMA of IDSA clinical practice guideline for the management of chronic pain in patients living with HIV [^dcab7f45]. Clinical Infectious Diseases (2017). Medium credibility.
 
-Buprenorphine for chronic pain in persons with opioid use disorder—formulations, dosing, and adjunct strategies are described as follows: Buprenorphine is available as a sublingual tablet, sublingual film, and 6-month implant that are approved for the treatment of opioid use disorders; a transdermal patch is approved for the treatment of chronic pain. The tablet or film can be prescribed off label in split doses (ie, every 6–8 hours) for the treatment of pain; however, the buprenorphine patch cannot be prescribed off label for the treatment of opioid use disorder. Walsh and colleagues examined doses of buprenorphine up to 70 times the normal analgesic doses and verified the ceiling effect of buprenorphine on the respiratory depression. Malinoff and colleagues enrolled 95 individuals with chronic noncancer pain and transferred them to daily sublingual buprenorphine ranging from 4 to 16 mg (mean 8 mg) in divided doses; the mean duration of treatment was 8.8 months. For management of chronic pain in persons on buprenorphine for the treatment of opioid use disorder, clinicians might consider switching from buprenorphine/naloxone to buprenorphine transdermal alone; The sublingual formulation has a 90% first-pass hepatic metabolism, and a transdermal patch bypasses hepatic metabolism. In a systematic review of buprenorphine vs transdermal fentanyl and morphine for chronic pain, it was found that buprenorphine provided comparable pain relief with fewer adverse events. Because buprenorphine does not occupy all opioid receptors, other opioids can be given when pain is acute; High-potency opioids such as fentanyl or hydromorphone should be considered when the addition of nonpharmacologic treatments and nonopioid pharmacotherapies are ineffective, and If the maximum dose of transdermal buprenorphine is reached, consideration should be given to adding or replacing it with an additional long-acting potent opioid such as fentanyl, morphine, or hydromorphone.
+Buprenorphine for chronic pain in persons with opioid use disorder — formulations, dosing, and adjunct strategies are described as follows: Buprenorphine is available as a sublingual tablet, sublingual film, and 6-month implant that are approved for the treatment of opioid use disorders; a transdermal patch is approved for the treatment of chronic pain. The tablet or film can be prescribed off label in split doses (ie, every 6–8 hours) for the treatment of pain; however, the buprenorphine patch cannot be prescribed off label for the treatment of opioid use disorder. Walsh and colleagues examined doses of buprenorphine up to 70 times the normal analgesic doses and verified the ceiling effect of buprenorphine on the respiratory depression. Malinoff and colleagues enrolled 95 individuals with chronic noncancer pain and transferred them to daily sublingual buprenorphine ranging from 4 to 16 mg (mean 8 mg) in divided doses; the mean duration of treatment was 8.8 months. For management of chronic pain in persons on buprenorphine for the treatment of opioid use disorder, clinicians might consider switching from buprenorphine/naloxone to buprenorphine transdermal alone; The sublingual formulation has a 90% first-pass hepatic metabolism, and a transdermal patch bypasses hepatic metabolism. In a systematic review of buprenorphine vs transdermal fentanyl and morphine for chronic pain, it was found that buprenorphine provided comparable pain relief with fewer adverse events. Because buprenorphine does not occupy all opioid receptors, other opioids can be given when pain is acute; High-potency opioids such as fentanyl or hydromorphone should be considered when the addition of nonpharmacologic treatments and nonopioid pharmacotherapies are ineffective, and If the maximum dose of transdermal buprenorphine is reached, consideration should be given to adding or replacing it with an additional long-acting potent opioid such as fentanyl, morphine, or hydromorphone.
 
 ---
 
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^5093258a]. Annals of Internal Medicine (2023). High credibility.
 
-Morphine milligram equivalent (MME) conversion factors—commonly prescribed full opioid receptor agonists include: Codeine 0.15, Tapentadol 0.4, Morphine 1, Hydrocodone 1, Oxycodone 1.5, Oxymorphone 3, and Hydromorphone 4. For tapentadol, the conversion factor estimate is based upon μ-receptor agonist activity in animal models where tapentadol has been shown to be 2-3 times less potent than morphine.
+Morphine milligram equivalent (MME) conversion factors — commonly prescribed full opioid receptor agonists include: Codeine 0.15, Tapentadol 0.4, Morphine 1, Hydrocodone 1, Oxycodone 1.5, Oxymorphone 3, and Hydromorphone 4. For tapentadol, the conversion factor estimate is based upon μ-receptor agonist activity in animal models where tapentadol has been shown to be 2–3 times less potent than morphine.
 
 ---

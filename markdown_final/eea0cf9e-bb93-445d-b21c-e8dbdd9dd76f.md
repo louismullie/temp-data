@@ -687,7 +687,7 @@ In this prospective, double-blinded, randomized controlled trial of patients age
 
 Results
 
-We enrolled 280 patients in each group. A 50% or greater reduction in the NRS score at 30 minutes occurred in 227 (81.7%) patients in the MgSO 4 group, 204 (72.9%) in the lidocaine group, and 201 (71.8%) in the control group, with significant differences between MgSO 4 and lidocaine (8.8%, 95% confidence interval [CI] [1.89 to 15.7], P = .013) and between MgSO 4 and control (9.9%, 95% CI [2.95 to 16.84], P = .004). Despite this, differences between all groups at every time point were below the accepted 1.3 threshold for clinical importance. There were no observed differences between groups in the frequency of rescue analgesics and return visits to the ED for renal colic. There were more adverse events, although minor, in the MgSO 4 group.
+We enrolled 280 patients in each group. A 50% or greater reduction in the NRS score at 30 minutes occurred in 227 (81.7%) patients in the MgSO 4 group, 204 (72.9%) in the lidocaine group, and 201 (71.8%) in the control group, with significant differences between MgSO 4 and lidocaine (8.8%, 95% confidence interval [CI] [1.89 to 15.7], P = 0.013) and between MgSO 4 and control (9.9%, 95% CI [2.95 to 16.84], P = 0.004). Despite this, differences between all groups at every time point were below the accepted 1.3 threshold for clinical importance. There were no observed differences between groups in the frequency of rescue analgesics and return visits to the ED for renal colic. There were more adverse events, although minor, in the MgSO 4 group.
 
 Conclusion
 
@@ -748,7 +748,7 @@ In a double-blind, randomized controlled trial, a total of 110 adult patients of
 
 Results
 
-There was a statistically significant time trend decline in both groups for both pain and nausea scores (P < .01). Repeated-measures analysis showed a significant effect for the interaction between group and time of persistent pain (P = .034), but there was no significant group effect in this regard (P = .146). Median times to being pain free in the group receiving morphine plus lidocaine and in the group taking morphine alone were 87.02 minutes (95% confidence interval [CI] 74.23–94.82) and 100.12 minutes (95% CI, 89.95–110.23), respectively (P = .071). Repeated-measures analysis also showed a significant group effect for nausea (P = .038), but there was no interaction between group and time in this regard (P = .243). The median nausea-free times in the group receiving morphine plus lidocaine and the group receiving morphine alone were 26.6 minutes (95% CI, 14.16–39.03) and 58.33 minutes (95% CI, 41.85–74.82), respectively. This time difference was statistically significant (P < .001).
+There was a statistically significant time trend decline in both groups for both pain and nausea scores (P < .01). Repeated-measures analysis showed a significant effect for the interaction between group and time of persistent pain (P = 0.034), but there was no significant group effect in this regard (P = 0.146). Median times to being pain free in the group receiving morphine plus lidocaine and in the group taking morphine alone were 87.02 minutes (95% confidence interval [CI] 74.23–94.82) and 100.12 minutes (95% CI, 89.95–110.23), respectively (P = 0.071). Repeated-measures analysis also showed a significant group effect for nausea (P = 0.038), but there was no interaction between group and time in this regard (P = 0.243). The median nausea-free times in the group receiving morphine plus lidocaine and the group receiving morphine alone were 26.6 minutes (95% CI, 14.16–39.03) and 58.33 minutes (95% CI, 41.85–74.82), respectively. This time difference was statistically significant (P < .001).
 
 Conclusions
 
@@ -891,7 +891,7 @@ Protocol registration Prospero (CRD42022346618).
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12894–024–01598–2.
+The online version contains supplementary material available at 10.1186/s12894-024-01598-2.
 
 ---
 
@@ -1077,7 +1077,7 @@ Renal colic patients were divided randomly into 3 groups. Patients in group I (n
 
 Results
 
-No significant differences in baseline VAS or VRS were found with regard to age or sex. After 10 minutes, all 3 groups experienced a significant decrease in VAS and VRS scores, with the most drastic decrease occurring in group II. After 30 minutes, there was a significantly higher decrease in group III than in group I (P = .001). After 60 minutes, mean VAS scores of groups I and III (P = .753) were similar. The mean VAS score of group III was lower than that of group II (P = .013). After 120 minutes, the difference in the VAS scores was (P = .000) between groups I and II and between groups II and III. Yet, the VAS evaluation made after 120 minutes revealed statistically similar outcomes for groups I and III (P = .488). The statistical findings for VRS evaluations made after 10, 30, 60, and 120 were similar to those for VAS.
+No significant differences in baseline VAS or VRS were found with regard to age or sex. After 10 minutes, all 3 groups experienced a significant decrease in VAS and VRS scores, with the most drastic decrease occurring in group II. After 30 minutes, there was a significantly higher decrease in group III than in group I (P = 0.001). After 60 minutes, mean VAS scores of groups I and III (P = 0.753) were similar. The mean VAS score of group III was lower than that of group II (P = 0.013). After 120 minutes, the difference in the VAS scores was (P = 0.000) between groups I and II and between groups II and III. Yet, the VAS evaluation made after 120 minutes revealed statistically similar outcomes for groups I and III (P = 0.488). The statistical findings for VRS evaluations made after 10, 30, 60, and 120 were similar to those for VAS.
 
 Conclusions
 

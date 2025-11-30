@@ -60,7 +60,7 @@ There is **no evidence supporting clindamycin** for Klebsiella [^114QPBjx], and 
 Recommended alternatives include:
 
 - **Carbapenems**: meropenem, imipenem/cilastatin, ertapenem [^112T6Th6] for severe or ESBL-producing infections.
-- **β-lactam/β-lactamase inhibitors**: ceftazidime/avibactam, meropenem/vaborbactam, imipenem/cilastatin/relebactam for carbapenem-resistant strains [^115ivtWb].
+- **Β-lactam/β-lactamase inhibitors**: ceftazidime/avibactam, meropenem/vaborbactam, imipenem/cilastatin/relebactam for carbapenem-resistant strains [^115ivtWb].
 - **Cefiderocol**: for multidrug-resistant or carbapenem-resistant [^113rvZvW] infections [^115ivtWb].
 - **Aminoglycosides**: tobramycin, amikacin [^114qZV8o] as adjuncts or alternatives based on susceptibility [^116GR3iW].
 - **Fluoroquinolones**: ciprofloxacin, levofloxacin [^116GR3iW] for susceptible strains.
@@ -689,7 +689,7 @@ The setting for the study was Mount Sinai Hospital, a 1,171-bed tertiary care te
 
 - **Methods**: In the first matched case-control study, case patients with carbapenem-resistant K. pneumoniae infection were compared with control patients with carbapenem-susceptible K. pneumoniae infection. In the second case-control study, patients who survived carbapenem-resistant K. pneumoniae infection were compared with those who did not survive, to identify risk factors associated with mortality among these patients.
 
-- **Results**: There were 99 case patients and 99 control patients identified. Carbapenem-resistant K. pneumoniae infection was independently associated with recent organ or stem-cell transplantation (P = .008), receipt of mechanical ventilation (P = .04), longer length of stay before infection (P = .01), and exposure to cephalosporins (P = .02) and carbapenems (p < 0.001). Case patients were more likely than control patients to die during hospitalization (48% vs 20%; p < 0.001) and to die from infection (38% vs 12%; p < 0.001). Removal of the focus of infection (i.e. debridement) was independently associated with patient survival (P = .002). The timely administration of antibiotics was essential for positive patient outcomes.
+- **Results**: There were 99 case patients and 99 control patients identified. Carbapenem-resistant K. pneumoniae infection was independently associated with recent organ or stem-cell transplantation (P = 0.008), receipt of mechanical ventilation (P = 0.04), longer length of stay before infection (P = 0.01), and exposure to cephalosporins (P = 0.02) and carbapenems (p < 0.001). Case patients were more likely than control patients to die during hospitalization (48% vs 20%; p < 0.001) and to die from infection (38% vs 12%; p < 0.001). Removal of the focus of infection (i.e. debridement) was independently associated with patient survival (P = 0.002). The timely administration of antibiotics was essential for positive patient outcomes.
 
 ---
 

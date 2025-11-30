@@ -168,7 +168,8 @@ Autosomal Dominant Polycystic Kidney Disease (ADPKD) is a common hereditary diso
 
 With regard to renal stone size, thresholds of 20 mm are used in the EAU, DGU, and SAU guidelines, while the AUA guidelines differentiate between lower pole calculi > 10 mm and ≤ 10 mm, and non-lower pole stones > 20 mm and ≤ 20 mm. The SUA guidelines provide recommendations for lower pole calculi regardless of size, and the AFU guidelines differentiate between stones > 20 mm and 10 mm, involving ante- and retrograde approaches in the EAU guidelines.
 
-Comparative analysis assessing the most often recommended combination of procedures revealed an agreement ranging from 50% to 83% for different stone sizes and locations. A high degree of consensus was found in particular for lower pole renal stones below 20 mm, with 83% of the guidelines recommending 'SWL or URS or PNL', and distal ureteral stones, with 83% of the guidelines recommending 'SWL or URS'.
+Comparative analysis assessing the most often recommended combination of procedures revealed an agreement ranging from 50% to 83% for different stone sizes and locations. A high degree of consensus was found in particular for lower pole renal stones below 20 mm, with 83% of the guidelines recommending 'SWL or URS or PNL', and distal ureteral stones, with 83% of the guidelines recommending 'SWL or URS'.
+
 ---
 
 ### The impact of asymptomatic kidney stones on disease progression in autosomal dominant polycystic kidney disease [^114wih6d]. BMC Nephrology (2025). Low credibility.
@@ -341,7 +342,7 @@ To assess whether clinical trials guiding kidney stone care adequately describe 
 
 - **Methods**: We reviewed American Urological Association/Endourological Society Guidelines for the medical and surgical management of kidney stones for all referenced clinical trials reporting human subjects. Study populations were reviewed for reported sex/gender, race, ethnicity, and study country of origin.
 
-- **Results**: Of the 381 studies referenced, 287 met inclusion criteria. Only 18 (6.3%) reported the race or ethnicity of their subjects, and 254 (87%) reported sex/gender. Among studies reporting any race or ethnicity data, there were 468,281 participants, of which 48.5% were White, 1.0% Black, 0.6% Hispanic/Latino, 0.2% Asian, 0.3% other, 0.04% American Indian/Alaska Native, and 0.001% Native Hawaiian/other Pacific Islander. The remaining 49.4% of subjects had insufficient information to categorize into a race or ethnicity category. Factors associated with decreased likelihood of reporting race or ethnicity included cross-sectional studies (OR 0.14, P = .027) and international studies (OR 0.93, P = .012).
+- **Results**: Of the 381 studies referenced, 287 met inclusion criteria. Only 18 (6.3%) reported the race or ethnicity of their subjects, and 254 (87%) reported sex/gender. Among studies reporting any race or ethnicity data, there were 468,281 participants, of which 48.5% were White, 1.0% Black, 0.6% Hispanic/Latino, 0.2% Asian, 0.3% other, 0.04% American Indian/Alaska Native, and 0.001% Native Hawaiian/other Pacific Islander. The remaining 49.4% of subjects had insufficient information to categorize into a race or ethnicity category. Factors associated with decreased likelihood of reporting race or ethnicity included cross-sectional studies (OR 0.14, P = 0.027) and international studies (OR 0.93, P = 0.012).
 
 - **Conclusion**: A small proportion of studies cited in the kidney stone guidelines report patient race or ethnicity.
 

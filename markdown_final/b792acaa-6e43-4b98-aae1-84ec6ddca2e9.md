@@ -716,7 +716,7 @@ English articles were reviewed. Studies that included separate daptomycin data (
 
 Data Synthesis
 
-Clinical and microbiological outcomes associated with daptomycin used as first-line or subsequent therapy for MRSA infections with vancomycin MICs of 1.5 to 2 µg/mL were reported in 7 retrospective clinical studies; susceptibility information involving such isolates was reported from 12 surveillancestudies. Although not all studies demonstrated outcome differences between daptomycin and comparator treatments (usually vancomycin), when differences were reported, they were in favor of daptomycin. Individual studies found lower 60-day (8% vs 20%, P = .046) and 30-day mortality (3.5% vs 12.9%, P = .047) and increased treatment success with daptomycin (68.6% vs 43.1%, P = .008; 76.9% vs 53.8%, P = .048) in bacteremic patients. The median doses used for treatment of bacteremia were greater than that approved by the FDA for this indication (6 mg/kg/d).
+Clinical and microbiological outcomes associated with daptomycin used as first-line or subsequent therapy for MRSA infections with vancomycin MICs of 1.5 to 2 µg/mL were reported in 7 retrospective clinical studies; susceptibility information involving such isolates was reported from 12 surveillancestudies. Although not all studies demonstrated outcome differences between daptomycin and comparator treatments (usually vancomycin), when differences were reported, they were in favor of daptomycin. Individual studies found lower 60-day (8% vs 20%, P = 0.046) and 30-day mortality (3.5% vs 12.9%, P = 0.047) and increased treatment success with daptomycin (68.6% vs 43.1%, P = 0.008; 76.9% vs 53.8%, P = 0.048) in bacteremic patients. The median doses used for treatment of bacteremia were greater than that approved by the FDA for this indication (6 mg/kg/d).
 
 Conclusions
 
@@ -886,7 +886,7 @@ A randomized (1:1) phase 3 superiority, open-label, and parallel group clinical 
 
 Results
 
-Of 167 patients randomized, 155 completed the trial and were assessed for the primary endpoint. Treatment success at 6 weeks after the end of therapy was achieved in 40 of 74 patients who received daptomycin plus fosfomycin and in 34 of 81 patients who were given daptomycin alone (54.1% vs 42.0%; relative risk, 1.29 [95% confidence interval,.93–1.8]; p = 0.135). At 6 weeks, daptomycin plus fosfomycin was associated with lower microbiologic failure (0 vs 9 patients; p = 0.003) and lower complicated bacteremia (16.2% vs 32.1%; p = 0.022). Adverse events leading to treatment discontinuation occurred in 13 of 74 patients (17.6%) receiving daptomycin plus fosfomycin, and in 4 of 81 patients (4.9%) receiving daptomycin alone (P = .018).
+Of 167 patients randomized, 155 completed the trial and were assessed for the primary endpoint. Treatment success at 6 weeks after the end of therapy was achieved in 40 of 74 patients who received daptomycin plus fosfomycin and in 34 of 81 patients who were given daptomycin alone (54.1% vs 42.0%; relative risk, 1.29 [95% confidence interval,.93–1.8]; p = 0.135). At 6 weeks, daptomycin plus fosfomycin was associated with lower microbiologic failure (0 vs 9 patients; p = 0.003) and lower complicated bacteremia (16.2% vs 32.1%; p = 0.022). Adverse events leading to treatment discontinuation occurred in 13 of 74 patients (17.6%) receiving daptomycin plus fosfomycin, and in 4 of 81 patients (4.9%) receiving daptomycin alone (P = 0.018).
 
 Conclusions
 
@@ -954,7 +954,7 @@ A randomized (1:1) phase 3 superiority, open-label, and parallel group clinical 
 
 Results
 
-Of 167 patients randomized, 155 completed the trial and were assessed for the primary endpoint. Treatment success at 6 weeks after the end of therapy was achieved in 40 of 74 patients who received daptomycin plus fosfomycin and in 34 of 81 patients who were given daptomycin alone (54.1% vs 42.0%; relative risk, 1.29 [95% confidence interval, .93–1.8]; p = 0.135). At 6 weeks, daptomycin plus fosfomycin was associated with lower microbiologic failure (0 vs 9 patients; p = 0.003) and lower complicated bacteremia (16.2% vs 32.1%; p = 0.022). Adverse events leading to treatment discontinuation occurred in 13 of 74 patients (17.6%) receiving daptomycin plus fosfomycin, and in 4 of 81 patients (4.9%) receiving daptomycin alone (P = .018).
+Of 167 patients randomized, 155 completed the trial and were assessed for the primary endpoint. Treatment success at 6 weeks after the end of therapy was achieved in 40 of 74 patients who received daptomycin plus fosfomycin and in 34 of 81 patients who were given daptomycin alone (54.1% vs 42.0%; relative risk, 1.29 [95% confidence interval, .93–1.8]; p = 0.135). At 6 weeks, daptomycin plus fosfomycin was associated with lower microbiologic failure (0 vs 9 patients; p = 0.003) and lower complicated bacteremia (16.2% vs 32.1%; p = 0.022). Adverse events leading to treatment discontinuation occurred in 13 of 74 patients (17.6%) receiving daptomycin plus fosfomycin, and in 4 of 81 patients (4.9%) receiving daptomycin alone (P = 0.018).
 
 Conclusions
 
@@ -986,7 +986,7 @@ We used the Xpert MRSA/SA BC system (Cepheid) for immediate determination of spe
 
 Results
 
-There were 44 (76%) of 58 patients with bacteremia due to Staphylococcus species other than S. aureus in group 1 and 58 (55%) of 106 patients with bacteremia due to Staphylococcus species other than S. aureus in group 2 who received no antistaphylococcal antibiotics (P < .01). Five (6%) of 89 patients in group 1 and 31 (25%) of 123 patients in group 2 received 0–168 hours (0–7 days) of MRS drug therapy (P < .01). Among patients with MSSA bacteremia, the mean time to initiation of appropriate therapy was 5.2 hours in group 1 and 49.8 hours in group 2 (P = .007). Excluding patients who received MRS drug therapy for unrelated conditions, the mean duration of treatment was 19.7 hours in group 1 and 80.7 hours in group 2 (P = .003). Six (50%) of the 12 patients in group 1 and 39 (81%) of the 48 patients in group 2 received MRS drug therapy for MSSA bacteremia (P = .025). Time to initiation of therapy for MRSA bacteremia did not differ between groups.
+There were 44 (76%) of 58 patients with bacteremia due to Staphylococcus species other than S. aureus in group 1 and 58 (55%) of 106 patients with bacteremia due to Staphylococcus species other than S. aureus in group 2 who received no antistaphylococcal antibiotics (P < .01). Five (6%) of 89 patients in group 1 and 31 (25%) of 123 patients in group 2 received 0–168 hours (0–7 days) of MRS drug therapy (P < .01). Among patients with MSSA bacteremia, the mean time to initiation of appropriate therapy was 5.2 hours in group 1 and 49.8 hours in group 2 (P = 0.007). Excluding patients who received MRS drug therapy for unrelated conditions, the mean duration of treatment was 19.7 hours in group 1 and 80.7 hours in group 2 (P = 0.003). Six (50%) of the 12 patients in group 1 and 39 (81%) of the 48 patients in group 2 received MRS drug therapy for MSSA bacteremia (P = 0.025). Time to initiation of therapy for MRSA bacteremia did not differ between groups.
 
 Conclusions
 
@@ -1135,7 +1135,7 @@ In Direct Lysis of Staph Aureus Resistant Pathogen Trial of Exebacase (DISRUPT),
 
 Results
 
-A total of 259 patients were randomized before the study was stopped for futility based on the recommendation of the unblinded Data Safety Monitoring Board. Clinical response rates at day 14 in the MRSA population (n = 97) were 50.0% (exebacase + antibiotics; 32/64) versus 60.6% (antibiotics alone; 20/33) (P = .392). Overall, rates of adverse events were similar across groups. No adverse events of hypersensitivity related to exebacase were reported.
+A total of 259 patients were randomized before the study was stopped for futility based on the recommendation of the unblinded Data Safety Monitoring Board. Clinical response rates at day 14 in the MRSA population (n = 97) were 50.0% (exebacase + antibiotics; 32/64) versus 60.6% (antibiotics alone; 20/33) (P = 0.392). Overall, rates of adverse events were similar across groups. No adverse events of hypersensitivity related to exebacase were reported.
 
 Conclusions
 

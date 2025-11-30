@@ -649,8 +649,8 @@ The term "abdominal pain" includes abdominal pain, upper abdominal pain, and low
 
 - **Adverse reactions**:
 	- In Trial 5, adverse reactions that occurred at a frequency of ≥ 2% in Linzess-treated patients (N = 411 in each Linzess 72 mcg and 145 mcg group) and at a higher rate than placebo (N = 401) were:
-	- Diarrhea: Linzess 72 mcg 19%; Linzess 145 mcg 22%; placebo 7%
-	- Abdominal distension: Linzess 72 mcg 2%; Linzess 145 mcg 1%; placebo < 1%
+	- **Diarrhea**: Linzess 72 mcg 19%; Linzess 145 mcg 22%; placebo 7%
+	- **Abdominal distension**: Linzess 72 mcg 2%; Linzess 145 mcg 1%; placebo < 1%
 
 - **Diarrhea**:
 	- In Trials 3 and 4 (pooled) and Trial 5, diarrhea was the most commonly reported adverse reaction in Linzess-treated patients in the CIC placebo-controlled studies. In all trials, the majority of reported cases of diarrhea started within the first 2 weeks of Linzess treatment. Severe diarrhea was reported in less than 1% of the 72 mcg Linzess-treated patients (Trial 5), in 2% of the 145 mcg Linzess-treated patients (Trials 3, 4, and 5), and less than 1% of the placebo-treated patients (Trials 3, 4, and 5) [see Warnings and Precautions (5.2)].

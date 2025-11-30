@@ -241,7 +241,7 @@ The use of typical antipsychotics is associated with a dose-dependent increased 
 
 Supplementary Information
 
-The online version contains supplementary material available at 10.1186/s12890–022–01883–6.
+The online version contains supplementary material available at 10.1186/s12890-022-01883-6.
 
 ---
 
@@ -772,11 +772,12 @@ Comorbidities in AIE — impact on disease, diagnosis, therapy, and safety: Como
 - Use of tobacco in any form or other nicotine-containing products in any form within 6 months prior to Day 1 Period 1.
 
 History of controlled or uncontrolled hypertension or clinically relevant Systolic Blood Pressure, Diastolic Blood Pressure and/or Heart Rate readings outside the normal ranges at screening or prior to drug administration on Day 1 Period
-1. Normal ranges are defined below:
 
-- SBP: 90 to 140 mmHg
-- DBP: 60 to 90 mmHg
-- HR: 50 to 100 beats/min
+1. **Normal ranges are defined below**:
+
+- **SBP**: 90 to 140 mmHg
+- **DBP**: 60 to 90 mmHg
+- **HR**: 50 to 100 beats/min
 - Forehead body temperature readings outside the range of 35. 5 to
 37. 4 ºC at screening or prior to the first drug administration.
 - Any planned surgery involving general, spinal or epidural anaesthesia from 3 months prior to Day 1 Period 1 to 7 days after last dosing.
@@ -975,7 +976,7 @@ Patients should be informed of the following information before initiating thera
 
 2. Etodolac, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death. Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis. Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects, Risk of Ulceration, Bleeding, and Perforation).
 
-3. Serious Skin Reactions, including DRESS: Advise patients to stop taking etodolac tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
+3. **Serious Skin Reactions, including DRESS**: Advise patients to stop taking etodolac tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
 
 ---
 

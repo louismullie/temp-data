@@ -563,7 +563,7 @@ Women with symptomatic BV (defined by a modified Amsel criteria) were enrolled i
 
 Results
 
-At the first follow-up visit (7 days after the completion of therapy), there was a significant difference in cure rates among patients who received 7 days of metronidazole therapy, compared with those who received 14 days of therapy, combined across azithromycin therapy (P = .0003). There was no effect associated with azithromycin therapy. There were no differences in cure rates between any of the treatment groups at 21 days after completion of therapy. Abstinence or protected sex, refraining from douching, and a lower baseline Nugent score for the vaginal Gram stain were all significantly associated with cure.
+At the first follow-up visit (7 days after the completion of therapy), there was a significant difference in cure rates among patients who received 7 days of metronidazole therapy, compared with those who received 14 days of therapy, combined across azithromycin therapy (P = 0.0003). There was no effect associated with azithromycin therapy. There were no differences in cure rates between any of the treatment groups at 21 days after completion of therapy. Abstinence or protected sex, refraining from douching, and a lower baseline Nugent score for the vaginal Gram stain were all significantly associated with cure.
 
 Conclusions
 
@@ -741,7 +741,7 @@ Bacterial vaginosis (BV) is a common but treatable condition, with a number of e
 
 Regarding medical management for trichomonas vaginalis infection, more specifically with respect to antibiotic therapy, IUSTI/WHO 2018 guidelines recommend to administer nitroimidazoles (metronidazole or tinidazole) as first-line therapy in patients with trichomoniasis:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Metronidazole|- 400–500 mg PO BID for 5–7 days|
 |Metronidazole|- 2 g PO in a single dose|
@@ -923,7 +923,7 @@ Multicenter prospective study with initial 10-day open-label metronidazole gel i
 
 Results
 
-Of 157 eligible women with recurrent bacterial vaginosis, 112 of 127 returning evaluable women (88.2%) responded clinically and were randomly assigned. During suppressive therapy, recurrent bacterial vaginosis occurred in 13 women (25.5%) receiving metronidazole and 26 (59.1%) receiving placebo (MITT analysis, relative risk [RR] 0.43, CI = 0.25–0.73, P = .001). During the entire 28-week follow-up, recurrence occurred in 26 (51.0%) on treatment compared with 33 (75%) on placebo (RR 0.68, CI = 0.49–0.93, P = .02). Probability for remaining cured was 70% for metronidazole compared with 39% on placebo, which declined to 34% and 18%, respectively, by 28 weeks follow-up. Adverse effects were uncommon; however, secondary vaginal candidiasis occurred significantly more often in metronidazole-treated women (P = .02).
+Of 157 eligible women with recurrent bacterial vaginosis, 112 of 127 returning evaluable women (88.2%) responded clinically and were randomly assigned. During suppressive therapy, recurrent bacterial vaginosis occurred in 13 women (25.5%) receiving metronidazole and 26 (59.1%) receiving placebo (MITT analysis, relative risk [RR] 0.43, CI = 0.25–0.73, P = 0.001). During the entire 28-week follow-up, recurrence occurred in 26 (51.0%) on treatment compared with 33 (75%) on placebo (RR 0.68, CI = 0.49–0.93, P = 0.02). Probability for remaining cured was 70% for metronidazole compared with 39% on placebo, which declined to 34% and 18%, respectively, by 28 weeks follow-up. Adverse effects were uncommon; however, secondary vaginal candidiasis occurred significantly more often in metronidazole-treated women (P = 0.02).
 
 Conclusion
 
@@ -1072,7 +1072,7 @@ Regarding medical management for trichomonas vaginalis infection, more specifica
 
 Of the 19 (7%) women with TV, 12 (63%) had mixed vaginal infections. While 10 of the 11 (91%) women with concurrent TV and BV were prescribed oral metronidazole, only 2 of the 7 (29%) women having TV alone received oral metronidazole treatment. Seven (37%) women with TV (either alone or with coinfection) received no treatment. Of note, 8 (42%) women having TV returned for vaginitis symptoms over the next 90 days.
 
-Of the 120 women having no diagnosed vaginal infection (BV, VVC, or TV), 41 (34%) received a prescription for antibiotics and/or antifungals; 6 (5%) received both antifungals and antibiotics, 8 (7%) received antifungals alone, and 27 (23%) received either oral or vaginal metronidazole for treatment of BV. Of the women who received prescription for treatment of infections when none were detected, 9 of 41 (22%) returned for repeat symptoms of vaginitis in the subsequent 90 days, compared to 5 of 79 (6%) women who were not prescribed a treatment (P = .02).
+Of the 120 women having no diagnosed vaginal infection (BV, VVC, or TV), 41 (34%) received a prescription for antibiotics and/or antifungals; 6 (5%) received both antifungals and antibiotics, 8 (7%) received antifungals alone, and 27 (23%) received either oral or vaginal metronidazole for treatment of BV. Of the women who received prescription for treatment of infections when none were detected, 9 of 41 (22%) returned for repeat symptoms of vaginitis in the subsequent 90 days, compared to 5 of 79 (6%) women who were not prescribed a treatment (P = 0.02).
 
 ---
 

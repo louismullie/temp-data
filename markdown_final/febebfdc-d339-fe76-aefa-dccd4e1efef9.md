@@ -101,19 +101,19 @@ Rh immune globulin prevents anti-D formation by **coating and clearing Rh-positi
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^98699547]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Antenatal antibody screening before anti-D immune globulin—unsensitized Rh D–negative pregnant women: U.S. Preventive Services Task Force guidelines recommend repeated Rh D antibody testing for all unsensitized Rh D–negative women at 24–28 weeks of gestation unless the biological father is known to be Rh D negative (grade B recommendation), and consensus guidance states a routine antenatal antibody screen should be obtained at 28 weeks before administration of anti-D immune globulin. Regardless, routine antibody screening before anti-D immune globulin administration is advised.
+Antenatal antibody screening before anti-D immune globulin — unsensitized Rh D–negative pregnant women: U.S. Preventive Services Task Force guidelines recommend repeated Rh D antibody testing for all unsensitized Rh D–negative women at 24–28 weeks of gestation unless the biological father is known to be Rh D negative (grade B recommendation), and consensus guidance states a routine antenatal antibody screen should be obtained at 28 weeks before administration of anti-D immune globulin. Regardless, routine antibody screening before anti-D immune globulin administration is advised.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^fadd6255]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Threatened pregnancy loss—anti-D immune globulin prophylaxis: For patients with threatened pregnancy loss and a live embryo or fetus at or before 12 weeks of gestation, use of anti-D immune globulin is controversial and no evidence-based recommendation can be made. The Rh D antigen has been reported on fetal erythrocytes as early as 38 days from fertilization or 7 3/7 weeks of estimated gestational age, and fetal–maternal hemorrhage has been documented in 3–11% of women with threatened pregnancy loss from 7 weeks to 13 weeks of gestation. Guidance is inconsistent: several national guidelines recommend against giving anti-D immune globulin, particularly if bleeding stops before 12 weeks, whereas other guidelines recommend that anti-D immune globulin should be given to all Rh D-negative women with a threatened miscarriage or when bleeding is heavy, repeated, or associated with abdominal pain as gestational age approaches 12 weeks; because of insufficient evidence, no recommendation can be made at this time.
+Threatened pregnancy loss — anti-D immune globulin prophylaxis: For patients with threatened pregnancy loss and a live embryo or fetus at or before 12 weeks of gestation, use of anti-D immune globulin is controversial and no evidence-based recommendation can be made. The Rh D antigen has been reported on fetal erythrocytes as early as 38 days from fertilization or 7 3/7 weeks of estimated gestational age, and fetal–maternal hemorrhage has been documented in 3–11% of women with threatened pregnancy loss from 7 weeks to 13 weeks of gestation. Guidance is inconsistent: several national guidelines recommend against giving anti-D immune globulin, particularly if bleeding stops before 12 weeks, whereas other guidelines recommend that anti-D immune globulin should be given to all Rh D-negative women with a threatened miscarriage or when bleeding is heavy, repeated, or associated with abdominal pain as gestational age approaches 12 weeks; because of insufficient evidence, no recommendation can be made at this time.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^1e3dd6ae]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization (Level A)—Prophylactic anti-D immune globulin should be offered to unsensitized Rh D-negative women at 28 weeks of gestation, and following birth, if the infant is confirmed to be Rh D positive, all Rh D-negative women who are not known to be sensitized should receive anti-D immune globulin within 72 hours of delivery.
+Prevention of Rh D alloimmunization (Level A) — Prophylactic anti-D immune globulin should be offered to unsensitized Rh D-negative women at 28 weeks of gestation, and following birth, if the infant is confirmed to be Rh D positive, all Rh D-negative women who are not known to be sensitized should receive anti-D immune globulin within 72 hours of delivery.
 
 ---
 
@@ -141,7 +141,7 @@ Two review authors independently assessed trials for inclusion and risk of bias,
 
 Main Results
 
-We included two trials involving over 4500 women, comparing anti-D prophylaxis with no anti-D during pregnancy in this review. Overall, the trials were judged to be at moderate to high risk of bias. The quality of the evidence for pre-specified outcomes was also assessed using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach.In regards to primary review outcomes, there did not appear to be a clear difference in the risks of immunisation when women who received anti-D at 28 and 34 weeks' gestation were compared with women who were not given antenatal anti-D: risk ratio (RR) for incidence of Rhesus D alloimmunisation during pregnancy was 0.42 (95% confidence interval (CI) 0.15 to 1.17, two trials, 3902 women; GRADE: low quality evidence); at birth of a Rh-positive infant the RR was 0.42 (95% CI 0.15 to 1.17, two trials, 2297 women); and within 12 months after birth of a Rh-positive infant the average RR was 0.39 (95% CI 0.10 to 1.62, two trials, 2048 women; Tau²: 0.47; I²: 39%; GRADE: low quality evidence). Neither of the trials reported on incidence of Rhesus D alloimmunisation in subsequent pregnancies.Considering secondary outcomes, in one trial, women receiving anti-D during pregnancy were shown to be less likely to register a positive Kleihauer test (which detects fetal cells in maternal blood) in pregnancy (at 32 to 25 weeks) (RR 0.60, 95% CI 0.41 to 0.88; 1884 women; GRADE: low quality evidence) and at the birth of a Rh-positive infant (RR 0.60, 95% CI 0.46 to 0.79; 1189 women; GRADE: low quality evidence). No clear differences were seen for neonatal jaundice (RR 0.26, 95% CI 0.03 to 2.30; 1882 infants; GRADE: very low quality evidence). Neither of the trials reported on adverse effects associated with anti-D treatment.
+We included two trials involving over 4500 women, comparing anti-D prophylaxis with no anti-D during pregnancy in this review. Overall, the trials were judged to be at moderate to high risk of bias. The quality of the evidence for pre-specified outcomes was also assessed using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach. In regards to primary review outcomes, there did not appear to be a clear difference in the risks of immunisation when women who received anti-D at 28 and 34 weeks' gestation were compared with women who were not given antenatal anti-D: risk ratio (RR) for incidence of Rhesus D alloimmunisation during pregnancy was 0.42 (95% confidence interval (CI) 0.15 to 1.17, two trials, 3902 women; GRADE: low quality evidence); at birth of a Rh-positive infant the RR was 0.42 (95% CI 0.15 to 1.17, two trials, 2297 women); and within 12 months after birth of a Rh-positive infant the average RR was 0.39 (95% CI 0.10 to 1.62, two trials, 2048 women; Tau²: 0.47; I²: 39%; GRADE: low quality evidence). Neither of the trials reported on incidence of Rhesus D alloimmunisation in subsequent pregnancies. Considering secondary outcomes, in one trial, women receiving anti-D during pregnancy were shown to be less likely to register a positive Kleihauer test (which detects fetal cells in maternal blood) in pregnancy (at 32 to 25 weeks) (RR 0.60, 95% CI 0.41 to 0.88; 1884 women; GRADE: low quality evidence) and at the birth of a Rh-positive infant (RR 0.60, 95% CI 0.46 to 0.79; 1189 women; GRADE: low quality evidence). No clear differences were seen for neonatal jaundice (RR 0.26, 95% CI 0.03 to 2.30; 1882 infants; GRADE: very low quality evidence). Neither of the trials reported on adverse effects associated with anti-D treatment.
 
 Authors' Conclusions
 
@@ -153,7 +153,7 @@ Existing studies do not provide conclusive evidence that the use of anti-D durin
 
 Dosage forms and Strength Description Clinical Studies References How Supplied/Storage and Handling 04/2024 INDICATIONS AND USAGE RhoGAM is an immune globulin indicated for use in preventing Rh immunization for: Pregnancy and other obstetrical conditions in Rh-negative women unless the father or baby are. 1 INDICATIONS AND USAGE 1. 1 Pregnancy and other obstetrical conditions RhoGAM is indicated for administration to Rh-negative women not previously sensitized Sections or subsections omitted from the full prescribing information are not listed. RhoGAM Rho Immune Globulin is a sterile solution containing immunoglobulin G anti-D for use in preventing Rh immunization. It is manufactured from human plasma containing anti-D from Rh-negative donors immunized with Rh-positive red blood cells. A single dose of RhoGAM contains sufficient. 11747 USA. 12 CLINICAL PHARMACOLOGY 12.
 
-1 Mechanism of Action RhoGAM acts by suppressing the immune response of Rh-negative individuals to Rh- positive red blood cells. The mechanism of action is unknown. RhoGAM and other Rho Immune Globulin products are not effective in altering the course or. of delivery, has been shown to reduce the Rh immunization rate to about 0. 1-0. 2%. Clinical studies demonstrated that administration of Rh immune globulin within three hours following pregnancy termination was 100% effective in preventing Rh immunization. Multiple studies have been performed that prove the safety and efficacy of RhoGAM in. dose of RhoGAM was shown to suppress anti-D formation after injection of up to 15. 1 mL of Rh-positive red cells. In a companion study, Pollack administered 500 mL of Rh-positive whole blood to 44 Rh-negative male volunteers. Twenty-two subjects received 20 μg RhoGAM per mL of Rh-positive red cells and 22 received no RhoGAM.
+1 Mechanism of Action RhoGAM acts by suppressing the immune response of Rh-negative individuals to Rh- positive red blood cells. The mechanism of action is unknown. RhoGAM and other Rho Immune Globulin products are not effective in altering the course or. of delivery, has been shown to reduce the Rh immunization rate to about 0. 1–0. 2%. Clinical studies demonstrated that administration of Rh immune globulin within three hours following pregnancy termination was 100% effective in preventing Rh immunization. Multiple studies have been performed that prove the safety and efficacy of RhoGAM in. dose of RhoGAM was shown to suppress anti-D formation after injection of up to 15. 1 mL of Rh-positive red cells. In a companion study, Pollack administered 500 mL of Rh-positive whole blood to 44 Rh-negative male volunteers. Twenty-two subjects received 20 μg RhoGAM per mL of Rh-positive red cells and 22 received no RhoGAM.
 
 None of the RhoGAM-treated subjects developed anti-D; 18/22 control arm subjects developed anti-D.
 
@@ -161,25 +161,25 @@ None of the RhoGAM-treated subjects developed anti-D; 18/22 control arm subjects
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^6e77fb0e]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—management when pregnancy exceeds 40 weeks after antenatal prophylaxis: Anti-D immune globulin appears to persist for approximately 12 weeks in most patients; there is insufficient evidence at this time to make a recommendation for or against administering another dose for a Rh D–negative woman who remains undelivered at 40 weeks of gestation, and a repeat antepartum dose is generally not required at 40 weeks provided the routine antenatal prophylaxis was given no earlier than 28 weeks of gestation.
+Prevention of Rh D alloimmunization — management when pregnancy exceeds 40 weeks after antenatal prophylaxis: Anti-D immune globulin appears to persist for approximately 12 weeks in most patients; there is insufficient evidence at this time to make a recommendation for or against administering another dose for a Rh D–negative woman who remains undelivered at 40 weeks of gestation, and a repeat antepartum dose is generally not required at 40 weeks provided the routine antenatal prophylaxis was given no earlier than 28 weeks of gestation.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^9524bb15]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Routine antenatal anti-D prophylaxis in pregnancy—unsensitized Rh D-negative women: In a meta-analysis of more than 10,000 women, postpartum anti-D immune globulin within 72 hours of birth greatly lowered Rh D alloimmunization 6 months after birth (RR, 0.04; 95% CI, 0.02–0.06) and in a subsequent pregnancy (RR, 0.12; 95% CI, 0.07–0.23), and a bias-adjusted meta-analysis of 10 studies estimated a pooled odds ratio of 0.31 (95% CI, 0.17–0.56) for reduction of sensitization with antenatal regimens. Prophylactic anti-D immune globulin should be offered to unsensitized Rh D-negative women at 28 weeks of gestation, and following a Rh D–positive birth, Rh D-negative women who are not known to be sensitized should receive anti-D immune globulin within 72 hours of delivery.
+Routine antenatal anti-D prophylaxis in pregnancy — unsensitized Rh D-negative women: In a meta-analysis of more than 10,000 women, postpartum anti-D immune globulin within 72 hours of birth greatly lowered Rh D alloimmunization 6 months after birth (RR, 0.04; 95% CI, 0.02–0.06) and in a subsequent pregnancy (RR, 0.12; 95% CI, 0.07–0.23), and a bias-adjusted meta-analysis of 10 studies estimated a pooled odds ratio of 0.31 (95% CI, 0.17–0.56) for reduction of sensitization with antenatal regimens. Prophylactic anti-D immune globulin should be offered to unsensitized Rh D-negative women at 28 weeks of gestation, and following a Rh D–positive birth, Rh D-negative women who are not known to be sensitized should receive anti-D immune globulin within 72 hours of delivery.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^09a32d8b]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization (Level C)—External cephalic version (regardless of success) is associated with a 2–6% risk of fetal–maternal hemorrhage, and anti-D immune globulin is indicated for unsensitized Rh D-negative patient. It is reasonable to administer anti-D immune globulin to Rh D-negative women who are suspected of molar pregnancy and who undergo uterine evacuation. Although the risk of alloimmunization is low, the consequences can be significant, and administration of Rh D immune globulin should be considered in cases of spontaneous first-trimester miscarriage, especially those that are later in the first trimester. Because of the higher risk of alloimmunization, Rh D-negative women who have instrumentation for their miscarriage should receive Rh D immune globulin prophylaxis. Rh D immune globulin should be given to Rh D-negative women who have pregnancy termination, either medical or surgical. Administration of Rh D immune globulin for all cases of ectopic pregnancy in Rh D-negative women is recommended. Anti-D immune globulin is recommended for Rh D-negative women who experience antenatal hemorrhage after 20 weeks of gestation. Anti-D immune globulin should be administered to Rh D-negative women who have experienced abdominal trauma. Anti-D immune globulin should be administered to Rh D-negative women who experience fetal death in the second or third trimester.
+Prevention of Rh D alloimmunization (Level C) — External cephalic version (regardless of success) is associated with a 2–6% risk of fetal–maternal hemorrhage, and anti-D immune globulin is indicated for unsensitized Rh D-negative patient. It is reasonable to administer anti-D immune globulin to Rh D-negative women who are suspected of molar pregnancy and who undergo uterine evacuation. Although the risk of alloimmunization is low, the consequences can be significant, and administration of Rh D immune globulin should be considered in cases of spontaneous first-trimester miscarriage, especially those that are later in the first trimester. Because of the higher risk of alloimmunization, Rh D-negative women who have instrumentation for their miscarriage should receive Rh D immune globulin prophylaxis. Rh D immune globulin should be given to Rh D-negative women who have pregnancy termination, either medical or surgical. Administration of Rh D immune globulin for all cases of ectopic pregnancy in Rh D-negative women is recommended. Anti-D immune globulin is recommended for Rh D-negative women who experience antenatal hemorrhage after 20 weeks of gestation. Anti-D immune globulin should be administered to Rh D-negative women who have experienced abdominal trauma. Anti-D immune globulin should be administered to Rh D-negative women who experience fetal death in the second or third trimester.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^bddb19c4]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Rh D alloimmunization—weak D phenotype policies and genotyping: The American Association of Blood Banks (AABB) recommends that testing for weak D is unnecessary in transfusion recipients, categorizing weak D as Rh D negative for transfusion and, if pregnant, candidates for anti-D immune globulin; however, AABB requires blood donors be assessed for weak D and, if detected, interpreted as Rh D positive to prevent transfusion of Rh D-negative individuals with weak D-positive blood. An approach proposed is molecular genetic RHD typing in weak D phenotype individuals; in serologic weak D type 1, 2, or 3, administration of Rh D immune globulin could be avoided, potentially reducing use by tens of thousands of units per year, but there is a lack of comprehensive cost–benefit analysis, and clinicians are advised to administer Rh D immune globulin to patients with weak D blood type in appropriate clinical situations until further studies are available.
+Rh D alloimmunization — weak D phenotype policies and genotyping: The American Association of Blood Banks (AABB) recommends that testing for weak D is unnecessary in transfusion recipients, categorizing weak D as Rh D negative for transfusion and, if pregnant, candidates for anti-D immune globulin; however, AABB requires blood donors be assessed for weak D and, if detected, interpreted as Rh D positive to prevent transfusion of Rh D-negative individuals with weak D-positive blood. An approach proposed is molecular genetic RHD typing in weak D phenotype individuals; in serologic weak D type 1, 2, or 3, administration of Rh D immune globulin could be avoided, potentially reducing use by tens of thousands of units per year, but there is a lack of comprehensive cost–benefit analysis, and clinicians are advised to administer Rh D immune globulin to patients with weak D blood type in appropriate clinical situations until further studies are available.
 
 ---
 
@@ -191,37 +191,37 @@ Anti-D immune globulin effect duration and related dosing considerations: The me
 
 ### Medication abortion up to 70 days of gestation: ACOG practice bulletin, number 225 [^efb1077d]. Obstetrics and Gynecology (2020). High credibility.
 
-Rh D immune globulin in early medication abortion—Guidelines from ACOG and other societies include recommendations for Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion within the first 12 weeks of gestation; for patients undergoing medication abortion before 10 weeks of gestation some experts recommend against routine Rh testing and anti-D prophylaxis or advise that forgoing Rh typing and Rh prophylaxis can be considered, yet ACOG recommends Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion, and when Rh testing and anti-D prophylaxis are not available or would significantly delay medication abortion, shared decision making is recommended.
+Rh D immune globulin in early medication abortion — Guidelines from ACOG and other societies include recommendations for Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion within the first 12 weeks of gestation; for patients undergoing medication abortion before 10 weeks of gestation some experts recommend against routine Rh testing and anti-D prophylaxis or advise that forgoing Rh typing and Rh prophylaxis can be considered, yet ACOG recommends Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion, and when Rh testing and anti-D prophylaxis are not available or would significantly delay medication abortion, shared decision making is recommended.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^7af1584e]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Potential shortage of anti-D immune globulin—current status and recommendations: Concerns in the 1990s suggested donor numbers might dwindle, but no reports of supply shortages have been published since initial concerns were expressed 20 years ago. Despite these concerns, national guidelines from the United States, United Kingdom, and Canada still recommend routine administration of anti-D immune globulin to all Rh D-negative nonsensitized women in the third trimester, within 72 hours of delivery in women giving birth to a Rh-positive infant, or when a sensitizing event occurs (eg, ectopic pregnancy, external cephalic version, or invasive obstetric procedures such as chorionic villus sampling or amniocentesis).
+Potential shortage of anti-D immune globulin — current status and recommendations: Concerns in the 1990s suggested donor numbers might dwindle, but no reports of supply shortages have been published since initial concerns were expressed 20 years ago. Despite these concerns, national guidelines from the United States, United Kingdom, and Canada still recommend routine administration of anti-D immune globulin to all Rh D-negative nonsensitized women in the third trimester, within 72 hours of delivery in women giving birth to a Rh-positive infant, or when a sensitizing event occurs (eg, ectopic pregnancy, external cephalic version, or invasive obstetric procedures such as chorionic villus sampling or amniocentesis).
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^d375ab3b]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Anti-D immune globulin dosing—exposure coverage for prevention—is specified. A prophylactic dose of 300 micrograms of anti-D immune globulin can prevent Rh D alloimmunization after exposure to up to 30 mL of Rh D-positive fetal whole blood or 15 mL of fetal red cells.
+Anti-D immune globulin dosing — exposure coverage for prevention — is specified. A prophylactic dose of 300 micrograms of anti-D immune globulin can prevent Rh D alloimmunization after exposure to up to 30 mL of Rh D-positive fetal whole blood or 15 mL of fetal red cells.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^cbec2c0d]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—regional prevalence, disease burden without prophylaxis, and impact of immune globulin are detailed: prevalence of Rh D-negative individuals varies “from 5% in India to 15% in North America,” and in countries without prophylaxis “14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury.” The postpartum administration of Rh D immune globulin, “first introduced in the 1970s,” “reduced the rate of alloimmunization in at-risk pregnancies from approximately 13–16% to approximately 0.5–1.8%,” and “with the addition of routine antepartum administration” the risk “was further reduced to 0.14–0.2%.” Despite efficacy, cases still occur “because of failure to follow established protocols.”
+Prevention of Rh D alloimmunization — regional prevalence, disease burden without prophylaxis, and impact of immune globulin are detailed: prevalence of Rh D-negative individuals varies "from 5% in India to 15% in North America," and in countries without prophylaxis "14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury." The postpartum administration of Rh D immune globulin, "first introduced in the 1970s," "reduced the rate of alloimmunization in at-risk pregnancies from approximately 13–16% to approximately 0.5–1.8%," and "with the addition of routine antepartum administration" the risk "was further reduced to 0.14–0.2%." Despite efficacy, cases still occur "because of failure to follow established protocols."
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^7bd38d67]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Rh D alloimmunization—fetomaternal hemorrhage risks and prophylaxis in pregnancy—are quantified and linked to anti-D immune globulin use. Between 3% and 11% of women with threatened abortion in the first trimester, and approximately 45% giving birth in the third trimester, have a fetal–maternal hemorrhage, and the hemorrhage leading to Rh D alloimmunization can be as small as 0.1 mL or as large as 30 mL. The risk of Rh D alloimmunization is estimated to be 1.5–2% after spontaneous miscarriage and 4–5% after dilation and curettage, and recommendations continue to include administration of anti-D immune globulin after such losses. For ectopic pregnancy, expert advice continues to recommend administration of anti-D immune globulin within 72 hours of suspected breach of the choriodecidual space. Chorionic villus sampling carries a 14% risk of fetal–maternal hemorrhage of 0.6 mL or more and studies support administration of anti-D immune globulin after this procedure. Traditionally, amniocentesis led to a 2–6% rate of fetal–maternal hemorrhage. Other invasive procedures such as cordocentesis warrant anti-D immune globulin prophylaxis, and external cephalic version is associated with a 2–6% risk of fetal-maternal hemorrhage and anti-D immune globulin is indicated for unsensitized Rh D-negative patients.
+Rh D alloimmunization — fetomaternal hemorrhage risks and prophylaxis in pregnancy — are quantified and linked to anti-D immune globulin use. Between 3% and 11% of women with threatened abortion in the first trimester, and approximately 45% giving birth in the third trimester, have a fetal–maternal hemorrhage, and the hemorrhage leading to Rh D alloimmunization can be as small as 0.1 mL or as large as 30 mL. The risk of Rh D alloimmunization is estimated to be 1.5–2% after spontaneous miscarriage and 4–5% after dilation and curettage, and recommendations continue to include administration of anti-D immune globulin after such losses. For ectopic pregnancy, expert advice continues to recommend administration of anti-D immune globulin within 72 hours of suspected breach of the choriodecidual space. Chorionic villus sampling carries a 14% risk of fetal–maternal hemorrhage of 0.6 mL or more and studies support administration of anti-D immune globulin after this procedure. Traditionally, amniocentesis led to a 2–6% rate of fetal–maternal hemorrhage. Other invasive procedures such as cordocentesis warrant anti-D immune globulin prophylaxis, and external cephalic version is associated with a 2–6% risk of fetal-maternal hemorrhage and anti-D immune globulin is indicated for unsensitized Rh D-negative patients.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^8dc53898]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—timing after a potentially sensitizing event: The ideal time to administer anti-D immune globulin is within 72 hours of a potentially sensitizing event.
+Prevention of Rh D alloimmunization — timing after a potentially sensitizing event: The ideal time to administer anti-D immune globulin is within 72 hours of a potentially sensitizing event.
 
 ---
 
@@ -249,7 +249,7 @@ Two review authors independently assessed trials for inclusion and trial quality
 
 Main Results
 
-We included one RCT, involving 48 women who had a miscarriage between eight to 24 weeks of gestation. Of the 19 women in the treatment group, 14 had therapeutic dilatation & curettage (D&C) and five had spontaneous miscarriage; of the 29 women in the control group, 25 had therapeutic D&C and four had spontaneous miscarriage. The treatment group received 300 µg anti-D Ig intramuscular injection and were compared with a control group who received 1 cc homogenous gamma globulin placebo.This review's primary outcomes (development of a positive Kleihauer Betke test (a test that detects fetal cells in the maternal blood; and development of RhD alloimmunisation in a subsequent pregnancy) were not reported in the included study.Similarly, none of the review's secondary outcomes were reported in the included study: the need for increased surveillance for suspected fetal blood sampling and fetal transfusions in subsequent pregnancies, neonatal morbidity such as neonatal anaemia, jaundice, bilirubin encephalopathy, erythroblastosis, prematurity, hypoglycaemia (low blood sugar) in subsequent pregnancies, maternal adverse events of anti-D administration including anaphylactic reaction and blood-borne infections.The included study did report subsequent Rh-positive pregnancies in three women in the treatment group and six women in the control group. However, due to the small sample size, the study failed to show any difference in maternal sensitisation or development of Rh alloimmunisation in the subsequent pregnancies.
+We included one RCT, involving 48 women who had a miscarriage between eight to 24 weeks of gestation. Of the 19 women in the treatment group, 14 had therapeutic dilatation & curettage (D&C) and five had spontaneous miscarriage; of the 29 women in the control group, 25 had therapeutic D&C and four had spontaneous miscarriage. The treatment group received 300 µg anti-D Ig intramuscular injection and were compared with a control group who received 1 cc homogenous gamma globulin placebo. This review's primary outcomes (development of a positive Kleihauer Betke test (a test that detects fetal cells in the maternal blood; and development of RhD alloimmunisation in a subsequent pregnancy) were not reported in the included study. Similarly, none of the review's secondary outcomes were reported in the included study: the need for increased surveillance for suspected fetal blood sampling and fetal transfusions in subsequent pregnancies, neonatal morbidity such as neonatal anaemia, jaundice, bilirubin encephalopathy, erythroblastosis, prematurity, hypoglycaemia (low blood sugar) in subsequent pregnancies, maternal adverse events of anti-D administration including anaphylactic reaction and blood-borne infections. The included study did report subsequent Rh-positive pregnancies in three women in the treatment group and six women in the control group. However, due to the small sample size, the study failed to show any difference in maternal sensitisation or development of Rh alloimmunisation in the subsequent pregnancies.
 
 Authors' Conclusions
 
@@ -259,7 +259,7 @@ There are insufficient data available to evaluate the practice of anti-D adminis
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^252b8d67]. Obstetrics and Gynecology (2017). Low credibility.
 
-Advances in the prevention and treatment of Rh D alloimmunization have been one of the great success stories of modern obstetrics. There is wide variation in prevalence rates of Rh D-negative individuals between regions, for example from 5% in India to 15% in North America (1). However, high birth rates in low prevalence areas means Rh hemolytic disease of the newborn is still an important cause of morbidity and mortality in countries without prophylaxis programs (1). In such countries, 14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury (1). The routine use of Rh D immune globulin is responsible for the reduced rate of red cell alloimmunization in more economically developed countries. First introduced in the 1970s, the postpartum administration of Rh D immune globulin reduced the rate of alloimmunization in at-risk pregnancies from approximately 13-16% to approximately 0.5-1.8% (2, 3). The risk was further reduced to 0.14-0.2% with the addition of routine antepartum administration (2, 3). Despite considerable proof of efficacy, there are still a large number of cases of Rh D alloimmunization because of failure to follow established protocols. In addition, there are new data to help guide management, especially with regard to weak D phenotype women. The purpose of this document is to provide evidence-based guidance for the management of patients at risk of Rh D alloimmunization.
+Advances in the prevention and treatment of Rh D alloimmunization have been one of the great success stories of modern obstetrics. There is wide variation in prevalence rates of Rh D-negative individuals between regions, for example from 5% in India to 15% in North America (1). However, high birth rates in low prevalence areas means Rh hemolytic disease of the newborn is still an important cause of morbidity and mortality in countries without prophylaxis programs (1). In such countries, 14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury (1). The routine use of Rh D immune globulin is responsible for the reduced rate of red cell alloimmunization in more economically developed countries. First introduced in the 1970s, the postpartum administration of Rh D immune globulin reduced the rate of alloimmunization in at-risk pregnancies from approximately 13–16% to approximately 0.5–1.8% (2, 3). The risk was further reduced to 0.14–0.2% with the addition of routine antepartum administration (2, 3). Despite considerable proof of efficacy, there are still a large number of cases of Rh D alloimmunization because of failure to follow established protocols. In addition, there are new data to help guide management, especially with regard to weak D phenotype women. The purpose of this document is to provide evidence-based guidance for the management of patients at risk of Rh D alloimmunization.
 
 ---
 
@@ -275,7 +275,7 @@ We performed a review of four national guidelines on prevention of alloimmunizat
 
 Results
 
-Variation exists in recommendations on the timing and need for consent prior to routine antenatal anti-D immune globulin administration, prophylaxis for unique circumstances (e.g., threatened abortion<12 weeks, complete molar pregnancy), and the use of cell-free fetal DNA testing for fetal RhD genotype.
+Variation exists in recommendations on the timing and need for consent prior to routine antenatal anti-D immune globulin administration, prophylaxis for unique circumstances (e.g., threatened abortion < 12 weeks, complete molar pregnancy), and the use of cell-free fetal DNA testing for fetal RhD genotype.
 
 Conclusion
 
@@ -285,25 +285,25 @@ These variations in recommendations reflect the heterogeneity of the literature 
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^a934a94f]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Pregnancy termination—Rh D immune globulin should be given to Rh D-negative women undergoing medical or surgical termination, with most consensus guidelines recommending 50 micrograms or 120 micrograms up to 12 weeks of gestation and 300 micrograms after 12 weeks of gestation.
+Pregnancy termination — Rh D immune globulin should be given to Rh D-negative women undergoing medical or surgical termination, with most consensus guidelines recommending 50 micrograms or 120 micrograms up to 12 weeks of gestation and 300 micrograms after 12 weeks of gestation.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^cfa2e1fb]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—intrauterine fetal death in the second or third trimester: Because the benefits are thought to outweigh the risk, anti-D immune globulin should be administered to Rh D–negative women who experience fetal death in the second or third trimester, and all such cases should be screened for excessive fetal–maternal hemorrhage at the time of diagnosis of fetal death to determine if additional anti-D immune globulin is required; fetal death occurs in fetal–maternal hemorrhage in up to 13% of cases in which no obvious other cause is found.
+Prevention of Rh D alloimmunization — intrauterine fetal death in the second or third trimester: Because the benefits are thought to outweigh the risk, anti-D immune globulin should be administered to Rh D–negative women who experience fetal death in the second or third trimester, and all such cases should be screened for excessive fetal–maternal hemorrhage at the time of diagnosis of fetal death to determine if additional anti-D immune globulin is required; fetal death occurs in fetal–maternal hemorrhage in up to 13% of cases in which no obvious other cause is found.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^f996a1d1]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—postpartum testing after delivery of a Rh D-positive infant: The risk of excessive fetal–maternal hemorrhage exceeding 30 mL of Rh D-positive fetal whole blood (the amount covered by the standard 300-microgram dose of anti-D immune globulin) at the time of delivery is approximately 2 to 3 per 1,000; screening only pregnancies designated as high risk detects only 50% of patients who require additional anti-D immune globulin. For this reason, it is recommended that all Rh D-negative women giving birth to Rh D-positive infants undergo additional testing initially with a qualitative screening test (such as the rosette assay) and, if indicated, quantitative testing (such as the Kleihauer–Betke test) to determine the number of doses required.
+Prevention of Rh D alloimmunization — postpartum testing after delivery of a Rh D-positive infant: The risk of excessive fetal–maternal hemorrhage exceeding 30 mL of Rh D-positive fetal whole blood (the amount covered by the standard 300-microgram dose of anti-D immune globulin) at the time of delivery is approximately 2 to 3 per 1,000; screening only pregnancies designated as high risk detects only 50% of patients who require additional anti-D immune globulin. For this reason, it is recommended that all Rh D-negative women giving birth to Rh D-positive infants undergo additional testing initially with a qualitative screening test (such as the rosette assay) and, if indicated, quantitative testing (such as the Kleihauer–Betke test) to determine the number of doses required.
 
 ---
 
 ### The continuing burden of Rh disease 50 years after the introduction of anti-Rh (D) immunoglobin prophylaxis: call to action [^6fdac50a]. American Journal of Obstetrics and Gynecology (2019). Medium credibility.
 
-Severe morbidity and death because of Rh disease have only been reduced by approximately 50% globally during the last 50 years, despite the advent of anti-Rh(D) immunoglobin prophylaxis, which has resulted in >160,000 perinatal deaths and 100,000 disabilities annually. This apparent failure to take appropriate preventive measures is of great concern. Thus, there is a great need to do much better. We wish to draw attention to the unnecessary continuing burden of Rh disease, to discuss some of the reasons for this failure, and to provide suggestions for a better way forward.
+Severe morbidity and death because of Rh disease have only been reduced by approximately 50% globally during the last 50 years, despite the advent of anti-Rh(D) immunoglobin prophylaxis, which has resulted in > 160,000 perinatal deaths and 100,000 disabilities annually. This apparent failure to take appropriate preventive measures is of great concern. Thus, there is a great need to do much better. We wish to draw attention to the unnecessary continuing burden of Rh disease, to discuss some of the reasons for this failure, and to provide suggestions for a better way forward.
 
 ---
 
@@ -321,49 +321,49 @@ The prophylactic use of Rh immune globulin has been a medical success, protectin
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^dec73f2e]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Cost effectiveness of Rh D prophylaxis programs—evidence summary: The cost effectiveness of different screening strategies to guide the administration of Rh D immune globulin to Rh D-negative pregnant women in circumstances where fetal–maternal hemorrhage may have occurred have been mixed.
+Cost effectiveness of Rh D prophylaxis programs — evidence summary: The cost effectiveness of different screening strategies to guide the administration of Rh D immune globulin to Rh D-negative pregnant women in circumstances where fetal–maternal hemorrhage may have occurred have been mixed.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^8c5b870f]. Obstetrics and Gynecology (2017). Medium credibility.
 
-ACOG Practice Bulletin No. 181—recommendation grading uses three categories: Level A—Recommendations are based on good and consistent scientific evidence; Level B—Recommendations are based on limited or inconsistent scientific evidence; and Level C—Recommendations are based primarily on consensus and expert opinion.
+ACOG Practice Bulletin No. 181 — recommendation grading uses three categories: Level A — Recommendations are based on good and consistent scientific evidence; Level B — Recommendations are based on limited or inconsistent scientific evidence; and Level C — Recommendations are based primarily on consensus and expert opinion.
 
 ---
 
 ### FIGO / ICM guidelines for preventing rhesus disease: a call to action [^b4f7ba68]. International Journal of Gynaecology and Obstetrics (2021). Medium credibility.
 
-The introduction of anti-Rh(D) immunoglobulin more than 50 years ago has resulted in only a 50% decrease in Rhesus disease globally owing to a low uptake of this prophylactic approach. The International Federation of Gynecology and Obstetrics, International Confederation of Midwives, and Worldwide Initiative for Rhesus Disease Eradication have reviewed current evidence regarding the utility of anti-Rh(D) immunoglobulin. Taking into account the effectiveness anti-Rh(D), the new guidelines propose adjusting the dose for different indications and prioritizing its administration by indication.
+The introduction of anti-Rh(D) immunoglobulin more than 50 years ago has resulted in only a 50% decrease in Rhesus disease globally owing to a low uptake of this prophylactic approach. The International Federation of Gynecology and Obstetrics, International Confederation of Midwives, and Worldwide Initiative for Rhesus Disease Eradication have reviewed current evidence regarding the utility of anti-Rh(D) immunoglobulin. Taking into account the effectiveness anti-Rh(D), the new guidelines propose adjusting the dose for different indications and prioritizing its administration by indication.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^49f739fc]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—abdominal trauma in pregnancy: In Rh D–negative pregnant patients who have experienced abdominal trauma, anti-D immune globulin should be administered, and quantification of fetal–maternal hemorrhage should be done to determine the need for additional doses; the efficacy in this setting has not been tested in properly designed trials.
+Prevention of Rh D alloimmunization — abdominal trauma in pregnancy: In Rh D–negative pregnant patients who have experienced abdominal trauma, anti-D immune globulin should be administered, and quantification of fetal–maternal hemorrhage should be done to determine the need for additional doses; the efficacy in this setting has not been tested in properly designed trials.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^d0e5673b]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—second antenatal dose timing: Although some authorities advised giving a second dose in women who have not given birth 12 weeks after the antenatal dose, the vast majority who give birth more than 12 weeks after antenatal Rh D immune globulin do not become alloimmunized, and because of the low risk and that 40% of infants of Rh D-negative women will be Rh D negative, most guidelines do not recommend that a second dose be given until after delivery when newborn Rh D typing becomes available.
+Prevention of Rh D alloimmunization — second antenatal dose timing: Although some authorities advised giving a second dose in women who have not given birth 12 weeks after the antenatal dose, the vast majority who give birth more than 12 weeks after antenatal Rh D immune globulin do not become alloimmunized, and because of the low risk and that 40% of infants of Rh D-negative women will be Rh D negative, most guidelines do not recommend that a second dose be given until after delivery when newborn Rh D typing becomes available.
 
 ---
 
 ### Medication abortion up to 70 days of gestation [^c01bb09a]. Contraception (2020). High credibility.
 
-Rh D alloimmunization prophylaxis for medication abortion—based on theoretical risk—is addressed by stating that ACOG recommends Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion, and when Rh testing and anti‑D prophylaxis are not available or would significantly delay medication abortion, shared decision making is recommended so that patients can weigh benefits and risks and make an informed decision.
+Rh D alloimmunization prophylaxis for medication abortion — based on theoretical risk — is addressed by stating that ACOG recommends Rh D immune globulin prophylaxis for Rh D-negative patients undergoing medication abortion, and when Rh testing and anti‑D prophylaxis are not available or would significantly delay medication abortion, shared decision making is recommended so that patients can weigh benefits and risks and make an informed decision.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^bbf51ae6]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—postpartum screening and dose adjustment: Additional anti-D immune globulin is needed for exposures larger than 30 mL of Rh D-positive fetal whole blood, and rarely, in 2–3 per 1,000 deliveries, a fetal–maternal hemorrhage may be greater than 30 mL; for this reason Rh D-negative women who give birth to Rh D-positive infants should undergo additional testing to assess hemorrhage volume, and it is advised that all women undergo such screening after delivery. Routine screening typically begins with the erythrocyte rosette screen, which can detect greater than 2 mL of fetal whole blood in maternal circulation; a positive rosette test should be followed by Kleihauer–Betke testing or flow cytometry, which is highly sensitive and accurate. In clinical situations not covered by the standard 300 microgram dose (greater than 30 mL of fetal whole blood or 15 mL of fetal red cells) additional vials of Rh immune globulin can be administered.
+Prevention of Rh D alloimmunization — postpartum screening and dose adjustment: Additional anti-D immune globulin is needed for exposures larger than 30 mL of Rh D-positive fetal whole blood, and rarely, in 2–3 per 1,000 deliveries, a fetal–maternal hemorrhage may be greater than 30 mL; for this reason Rh D-negative women who give birth to Rh D-positive infants should undergo additional testing to assess hemorrhage volume, and it is advised that all women undergo such screening after delivery. Routine screening typically begins with the erythrocyte rosette screen, which can detect greater than 2 mL of fetal whole blood in maternal circulation; a positive rosette test should be followed by Kleihauer–Betke testing or flow cytometry, which is highly sensitive and accurate. In clinical situations not covered by the standard 300 microgram dose (greater than 30 mL of fetal whole blood or 15 mL of fetal red cells) additional vials of Rh immune globulin can be administered.
 
 ---
 
 ### Synopsis of the 2023 U.S. department of VA and U.S. DoD clinical practice guideline for the management of pregnancy [^826d4935]. Military Medicine (2025). High credibility.
 
-Rho(D) immune globulin and antibody testing—Rhogam for the prevention of Rh(D) alloimmunization should be given to all Rh-negative pregnant patients at the 28-weeks prenatal visit, and The USPSTF recommends repeated Rh(D) antibody testing for all unsensitized Rh(D)-negative women at 24 to 28 weeks’ gestation unless the biological father is known to be Rh(D)-negative.
+Rho(D) immune globulin and antibody testing — Rhogam for the prevention of Rh(D) alloimmunization should be given to all Rh-negative pregnant patients at the 28-weeks prenatal visit, and The USPSTF recommends repeated Rh(D) antibody testing for all unsensitized Rh(D)-negative women at 24 to 28 weeks' gestation unless the biological father is known to be Rh(D)-negative.
 
 ---
 
@@ -375,41 +375,41 @@ This Clinical Practice Update provides revised guidance on Rh testing and Rh D i
 
 ### ACOG practice bulletin no. 192: management of alloimmunization during pregnancy [^cd78befc]. Obstetrics and Gynecology (2018). Medium credibility.
 
-Anti-D immune globulin to prevent alloimmunization—indications are specified, stating that anti-D immune globulin is not indicated for patients previously sensitized to D; however, it is indicated for patients who might be sensitized to other blood group antigens.
+Anti-D immune globulin to prevent alloimmunization — indications are specified, stating that anti-D immune globulin is not indicated for patients previously sensitized to D; however, it is indicated for patients who might be sensitized to other blood group antigens.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^b10ca245]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Rh D alloimmunization during pregnancy—residual risk and causes: Rh alloimmunization may still occur in Rh D-negative women because of failure to administer antenatal prophylaxis, insufficient dosage or timely administration (within 72 hours) after a known sensitizing event (or after birth), or unrecognized fetal–maternal hemorrhage. Despite recommendations, approximately 0.1–0.4% of women at risk become sensitized during pregnancy, with a retrospective New Zealand study finding omission of immune globulin after a recognized sensitizing event in 41% of cases and administration outside recommended guidelines in 13% of cases. An additional small rate (0.1–0.2%) of spontaneous immunization occurs despite adherence, and prophylaxis is not 100% effective.
+Rh D alloimmunization during pregnancy — residual risk and causes: Rh alloimmunization may still occur in Rh D-negative women because of failure to administer antenatal prophylaxis, insufficient dosage or timely administration (within 72 hours) after a known sensitizing event (or after birth), or unrecognized fetal–maternal hemorrhage. Despite recommendations, approximately 0.1–0.4% of women at risk become sensitized during pregnancy, with a retrospective New Zealand study finding omission of immune globulin after a recognized sensitizing event in 41% of cases and administration outside recommended guidelines in 13% of cases. An additional small rate (0.1–0.2%) of spontaneous immunization occurs despite adherence, and prophylaxis is not 100% effective.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^7aa262cd]. Obstetrics and Gynecology (2017). Medium credibility.
 
-First- and second-trimester sensitizing events or invasive procedures—dose guidance: The optimal dose of anti-D immune globulin is unknown for the first and second trimesters; because of the smaller fetal red cell mass at these gestations, the recommended dosage is typically less than that used for routine antenatal prophylaxis in the third trimester.
+First- and second-trimester sensitizing events or invasive procedures — dose guidance: The optimal dose of anti-D immune globulin is unknown for the first and second trimesters; because of the smaller fetal red cell mass at these gestations, the recommended dosage is typically less than that used for routine antenatal prophylaxis in the third trimester.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^d3528949]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Recombinant anti-D development—availability and agents in trials: Other sources have been explored, including the potential to generate recombinant Rh D immune globulin, but no commercially available, efficacious recombinant products are currently available. A monoclonal antibody (Roledumab) and a recombinant antibody mixture (Rozrolimupab) are being designed for prevention of hemolytic disease of the newborn and are in phase II clinical trials.
+Recombinant anti-D development — availability and agents in trials: Other sources have been explored, including the potential to generate recombinant Rh D immune globulin, but no commercially available, efficacious recombinant products are currently available. A monoclonal antibody (Roledumab) and a recombinant antibody mixture (Rozrolimupab) are being designed for prevention of hemolytic disease of the newborn and are in phase II clinical trials.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^1dfbcd2d]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization (Level B)—Administration of Rh D immune globulin is recommended with all invasive diagnostic procedures such as chorionic villus sampling or amniocentesis in Rh D-negative women when the fetuses could be Rh D positive.
+Prevention of Rh D alloimmunization (Level B) — Administration of Rh D immune globulin is recommended with all invasive diagnostic procedures such as chorionic villus sampling or amniocentesis in Rh D-negative women when the fetuses could be Rh D positive.
 
 ---
 
-### RHOGAM ULTRA-FILTERED PLUS (human rho-D immune globulin (...) [^a968f514]. FDA (DailyMed) (2025). Medium credibility.
+### RHOGAM ULTRA-FILTERED PLUS (human rho-D immune globulin… [^a968f514]. FDA (DailyMed) (2025). Medium credibility.
 
-INDICATIONS AND USAGE RhoGAM is an immune globulin indicated for use in preventing Rh immunization for: . The presence of passively acquired anti-D antibodies in the maternal serum may cause a positive antibody screening test. This does not preclude further antepartum or postpartum prophylaxis. A single dose of RhoGAM contains sufficient anti-D to suppress the immune response to up to 15 mL of Rh-positive red blood cells. 7 The anti-D dose is measured by comparison to the RhoGAM in-house reference standard, the potency of which is established relative to the U. S. /World Health Organization/European Pharmacopoeia Standard Anti-D Immunoglobulin Rho Immune Globulin.
+INDICATIONS AND USAGE RhoGAM is an immune globulin indicated for use in preventing Rh immunization for: The presence of passively acquired anti-D antibodies in the maternal serum may cause a positive antibody screening test. This does not preclude further antepartum or postpartum prophylaxis. A single dose of RhoGAM contains sufficient anti-D to suppress the immune response to up to 15 mL of Rh-positive red blood cells. 7 The anti-D dose is measured by comparison to the RhoGAM in-house reference standard, the potency of which is established relative to the U. S. /World Health Organization/European Pharmacopoeia Standard Anti-D Immunoglobulin Rho Immune Globulin.
 8. 12. 2 Pharmacodynamics Use after Rh-Incompatible Transfusion An Rh-negative individual transfused with one unit of Rh-positive red blood cells has about an 80% likelihood of producing anti-D. However, Rh immunization can occur after exposure to < 1 mL of Rh-positive red blood cells.
 
 Protection from Rh immunization is accomplished by administering > 20 μg of RhoGAM per mL of Rh-positive red blood cells within 72 hours of transfusion of incompatible red blood cells. 14, 15, 16. 14 CLINICAL STUDIES Rho Immune Globulin administered at 28 weeks, as well as within 72 hours of delivery, has been shown to reduce the Rh immunization rate to about
-0. 1-0. 2%. 15, 16 Clinical studies demonstrated that administration of Rh immune globulin within three hours following pregnancy termination was 100% effective in preventing Rh immunization.
+0. 1–0. 2%. 15, 16 Clinical studies demonstrated that administration of Rh immune globulin within three hours following pregnancy termination was 100% effective in preventing Rh immunization.
 17. A single dose of RhoGAM was shown to suppress anti-D formation after injection of up to
 15. 1 mL of Rh-positive red cells. In a companion study, Pollack administered 500 mL of Rh-positive whole blood to 44 Rh-negative male volunteers. Twenty-two subjects received 20 μg RhoGAM per mL of Rh-positive red cells and 22 received no RhoGAM.
 
@@ -417,10 +417,14 @@ None of the RhoGAM-treated subjects developed anti-D; 18/22 control arm subjects
 
 ---
 
-### [ PDF ] package insert-RHOPHYLAC (...) [^672aa076]. FDA (2025). Medium credibility.
+### package insert-RHOPHYLAC… [^672aa076]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE RHOPHYLAC is a Rh Immune Globulin Intravenous product that is indicated for the suppression of Rh isoimmunization in non-sensitized Rh-negative patients and for the treatment of immune thrombocytopenic purpura in Rh-positive patients.
-1. 1 Suppression of Rh Isoimmunization Pregnancy and Obstetric Conditions RHOPHYLAC is indicated for suppression of rhesus isoimmunization in non-sensitized Rh-negative women with an Rh-incompatible pregnancy, including: • Routine antepartum and postpartum Rh prophylaxis • Rh prophylaxis in cases of: . RBCs; in this case, follow the dosing guidelines for excessive fetomaternal hemorrhage. any potential adverse effects on the breastfed child from RHOPHYLAC or from the underlying maternal condition.
+
+1. 1 Suppression of Rh Isoimmunization Pregnancy and Obstetric Conditions RHOPHYLAC is indicated for suppression of rhesus isoimmunization in non-sensitized Rh-negative women with an Rh-incompatible pregnancy, including:
+
+- Routine antepartum and postpartum Rh prophylaxis
+- Rh prophylaxis in cases of: RBCs; in this case, follow the dosing guidelines for excessive fetomaternal hemorrhage. any potential adverse effects on the breastfed child from RHOPHYLAC or from the underlying maternal condition.
 
 CSL Behring Rh0 Immune Globulin Intravenous, RHOPHYLAC CONFIDENTIAL Page 13 of 19 Suppression of Rh Isoimmunization RHOPHYLAC is used in nursing mothers for the suppression of Rh isoimmunization. CSL Behring Rh0 Immune Globulin Intravenous, RHOPHYLAC CONFIDENTIAL Page 15 of 19 Suppression of Rh Isoimmunization The mechanism by which Rh immune globulin suppresses immunization to Rh-positive. RBCs is not completely known. In a clinical study of Rh-negative healthy male volunteers, both the intravenous and intramuscular administration of a 1500 IU dose of RHOPHYLAC 24 hours after injection of 15 mL of Rh-positive RBCs resulted in an effective clearance of Rh-positive. thought to involve the formation of Rh immune globulin RBC complexes, which are preferentially removed by the reticuloendothelial system, particularly the spleen. This results in Fc receptor blockade, thus sparing antibody-coated platelets. 8 12.
 
@@ -430,7 +434,7 @@ CSL Behring Rh0 Immune Globulin Intravenous, RHOPHYLAC CONFIDENTIAL Page 13 o
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^999d6b86]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—postpartum sterilization: Rh D-negative women who are undergoing postpartum tubal sterilization are candidates for treatment with anti-D immune globulin, because pregnancies occur despite sterilization procedures, and most are intrauterine, and alloimmunization complicates crossmatching of blood products in the future.
+Prevention of Rh D alloimmunization — postpartum sterilization: Rh D-negative women who are undergoing postpartum tubal sterilization are candidates for treatment with anti-D immune globulin, because pregnancies occur despite sterilization procedures, and most are intrauterine, and alloimmunization complicates crossmatching of blood products in the future.
 
 ---
 
@@ -442,7 +446,7 @@ Regarding the use of rho(D) immune globulin IM (also known as HyperRHO S/D) in p
 
 ### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^7412f560]. Annals of Emergency Medicine (2017). Medium credibility.
 
-Anti-D immunoglobulin prophylaxis—evidence in Rh-negative patients—lacks randomized trials in pregnant women but shows benefits in observational and experimental data. “The straightforward answer is that no randomized clinical trials to answer that question have been done on pregnant Rh-negative women.” In volunteers, “Rh-negative male volunteers were injected with Rh-positive blood, which resulted in 50% immunization.” In a Canadian study “of 1,216 Rh-negative patients…receiving anti-D immunoglobulin, there were no cases of immunization at 6 months postpartum,” compared with “a 7.3% immunization rate in patients refusing treatment.” In a combined Liverpool and Baltimore trial, “58% of patients were treated with anti-D immunoglobulin immediately postpartum and 50% were not,” and “The treated patients had a 90% decrease in alloimmunization…when tested at 6 months postpartum.” Population-level programs show impact: in the United Kingdom, introduction of “a postpartum rhesus prevention program…in 1969 reduced fetal mortality…from 120 per 100,000 live births to 1.5 per 100,000 by 1989,” and “Introduction of antenatal prophylaxis at 28 and/or 34 weeks’ gestation reduced the immunization rate another 90%.”
+Anti-D immunoglobulin prophylaxis — evidence in Rh-negative patients — lacks randomized trials in pregnant women but shows benefits in observational and experimental data. "The straightforward answer is that no randomized clinical trials to answer that question have been done on pregnant Rh-negative women." In volunteers, "Rh-negative male volunteers were injected with Rh-positive blood, which resulted in 50% immunization." In a Canadian study "of 1,216 Rh-negative patients… receiving anti-D immunoglobulin, there were no cases of immunization at 6 months postpartum," compared with "a 7.3% immunization rate in patients refusing treatment." In a combined Liverpool and Baltimore trial, "58% of patients were treated with anti-D immunoglobulin immediately postpartum and 50% were not," and "The treated patients had a 90% decrease in alloimmunization… when tested at 6 months postpartum." Population-level programs show impact: in the United Kingdom, introduction of "a postpartum rhesus prevention program… in 1969 reduced fetal mortality… from 120 per 100,000 live births to 1.5 per 100,000 by 1989," and "Introduction of antenatal prophylaxis at 28 and/or 34 weeks' gestation reduced the immunization rate another 90%."
 
 ---
 
@@ -454,7 +458,7 @@ For 40 years prophylactic anti-D has been given to D-negative women after partur
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^9f95ebfe]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Antenatal hemorrhage after 20 weeks—consensus guidelines recommend that susceptible women with bleeding receive anti-D prophylaxis, and anti-D immune globulin is recommended for Rh D-negative women after 20 weeks; conservative management may assess fetal–maternal hemorrhage with a quantitative test such as the Kleihauer–Betke test and repeat as needed, an unproven strategy is serial indirect Coombs testing approximately every 3 weeks with action based on positive or negative results, some authorities recommend estimation at 2-week intervals, and it has been proposed to use cell-free fetal DNA testing to ascertain fetal Rh D status to avoid repeated doses.
+Antenatal hemorrhage after 20 weeks — consensus guidelines recommend that susceptible women with bleeding receive anti-D prophylaxis, and anti-D immune globulin is recommended for Rh D-negative women after 20 weeks; conservative management may assess fetal–maternal hemorrhage with a quantitative test such as the Kleihauer–Betke test and repeat as needed, an unproven strategy is serial indirect Coombs testing approximately every 3 weeks with action based on positive or negative results, some authorities recommend estimation at 2-week intervals, and it has been proposed to use cell-free fetal DNA testing to ascertain fetal Rh D status to avoid repeated doses.
 
 ---
 
@@ -466,13 +470,13 @@ Regarding medical management for ectopic pregnancy, more specifically with respe
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^ab9c9183]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Invasive diagnostic procedures—administration of Rh D immune globulin is recommended for Rh D-negative women when the fetus could be Rh D positive with chorionic villus sampling or amniocentesis, using doses from 50 micrograms to 120 micrograms before 12 weeks of gestational age and 125 micrograms or 300 micrograms after 12 weeks of gestation.
+Invasive diagnostic procedures — administration of Rh D immune globulin is recommended for Rh D-negative women when the fetus could be Rh D positive with chorionic villus sampling or amniocentesis, using doses from 50 micrograms to 120 micrograms before 12 weeks of gestational age and 125 micrograms or 300 micrograms after 12 weeks of gestation.
 
 ---
 
 ### Society of Family Planning committee consensus on Rh testing in early pregnancy [^fc739723]. Contraception (2022). High credibility.
 
-Existing recommendations for Rh immunoglobulin after miscarriage are summarized from a cited review. The text notes a “2013 Cochrane review assessing the effects of Rh immunoglobulin administration among patients undergoing spontaneous abortion (miscarriage) between 8 to 24 weeks gestation” that concluded there is “Insufficient data to evaluate the practice of anti-D administration in an unsensitised Rh-negative mother after spontaneous miscarriage.”
+Existing recommendations for Rh immunoglobulin after miscarriage are summarized from a cited review. The text notes a "2013 Cochrane review assessing the effects of Rh immunoglobulin administration among patients undergoing spontaneous abortion (miscarriage) between 8 to 24 weeks gestation" that concluded there is "Insufficient data to evaluate the practice of anti-D administration in an unsensitised Rh-negative mother after spontaneous miscarriage."
 
 ---
 
@@ -504,7 +508,7 @@ This article reviews the actively evolving clinical practice of Rhesus D (RhD) t
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^cc2070a6]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—international antenatal dosing regimens: In the United Kingdom, antenatal Rh D immune globulin may be given as two injections at 28 weeks of gestation and at 34 weeks of gestation, or as a single administration at 28 weeks of gestation. There is no trial comparing two-dose regimens with a single dose and no evidence of a difference in efficacy; an observational study noted better adherence and there is potential cost reduction with a single dose, and there are no compelling data indicating a change from the single-dose procedure currently used in the United States to the two-dose regimen.
+Prevention of Rh D alloimmunization — international antenatal dosing regimens: In the United Kingdom, antenatal Rh D immune globulin may be given as two injections at 28 weeks of gestation and at 34 weeks of gestation, or as a single administration at 28 weeks of gestation. There is no trial comparing two-dose regimens with a single dose and no evidence of a difference in efficacy; an observational study noted better adherence and there is potential cost reduction with a single dose, and there are no compelling data indicating a change from the single-dose procedure currently used in the United States to the two-dose regimen.
 
 ---
 
@@ -536,25 +540,25 @@ After summarizing the work of the experts and applying the GRADE methodology, th
 
 3.1 Question 1
 
-In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of induced or spontaneous abortion before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization? (Table S1).
+In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of induced or spontaneous abortion before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization? (Table S1).
 
 Argumentation
 
 Benefit ofimmune globulin
 
-Few studies have evaluated the efficacy of RhD immune globulin in preventing alloimmunization in the first trimester. A single randomized controlled interventional trial published in 1972 compared administration of RhD immune globulin with no administration of RhD immune globulin.In this previous study of spontaneous abortions, a total of 19 patients (14 with surgical treatment) received prophylaxis (RhD immune globulin μg IM within 72 h) compared with 38 patients (34 with surgical treatment) in the control group. Gestational ages, which were not reported in detail, ranged from eight to 24 weeks of gestation. There were no cases of immunization in this study, but the number of patients involved was small and there was a potential lack of power. There are two other interventional studies, including spontaneous abortion with surgical treatment, that compared administration of RhD immune globulin with no administration.However, these studies contain numerous biases that severely limit the reliability of the results: recruitment bias (RHD phenotype of progenitor not systematically known), selection bias (lack of randomization or randomization not detailed), and detection bias (diagnostic method for alloimmunization not optimal).
+Few studies have evaluated the efficacy of RhD immune globulin in preventing alloimmunization in the first trimester. A single randomized controlled interventional trial published in 1972 compared administration of RhD immune globulin with no administration of RhD immune globulin. In this previous study of spontaneous abortions, a total of 19 patients (14 with surgical treatment) received prophylaxis (RhD immune globulin μg IM within 72 h) compared with 38 patients (34 with surgical treatment) in the control group. Gestational ages, which were not reported in detail, ranged from eight to 24 weeks of gestation. There were no cases of immunization in this study, but the number of patients involved was small and there was a potential lack of power. There are two other interventional studies, including spontaneous abortion with surgical treatment, that compared administration of RhD immune globulin with no administration. However, these studies contain numerous biases that severely limit the reliability of the results: recruitment bias (RHD phenotype of progenitor not systematically known), selection bias (lack of randomization or randomization not detailed), and detection bias (diagnostic method for alloimmunization not optimal).
 
 ---
 
 ### ACOG practice bulletin no. 192: management of alloimmunization during pregnancy [^8b99dcd0]. Obstetrics and Gynecology (2018). Medium credibility.
 
-ACOG Practice Bulletin No. 192—monitoring and prophylaxis in alloimmunization during pregnancy states that antibody titers are not appropriate for monitoring Kell-sensitized patients because Kell antibodies do not correlate with fetal status, and that anti-D immune globulin is indicated only in Rh-negative women who are not previously sensitized to D. A proposed performance measure is further evaluation of patients found to have significant antibodies associated with fetal anemia.
+ACOG Practice Bulletin No. 192 — monitoring and prophylaxis in alloimmunization during pregnancy states that antibody titers are not appropriate for monitoring Kell-sensitized patients because Kell antibodies do not correlate with fetal status, and that anti-D immune globulin is indicated only in Rh-negative women who are not previously sensitized to D. A proposed performance measure is further evaluation of patients found to have significant antibodies associated with fetal anemia.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^40e230fe]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Molar pregnancy—anti-D immune globulin use: Although alloimmunization has been reported with hydatidiform mole, the risk is unknown; given diagnostic dependence on pathologic and cytogenetic evaluations, it is reasonable to administer anti-D immune globulin to Rh D-negative women suspected of molar pregnancy who undergo uterine evacuation.
+Molar pregnancy — anti-D immune globulin use: Although alloimmunization has been reported with hydatidiform mole, the risk is unknown; given diagnostic dependence on pathologic and cytogenetic evaluations, it is reasonable to administer anti-D immune globulin to Rh D-negative women suspected of molar pregnancy who undergo uterine evacuation.
 
 ---
 
@@ -566,7 +570,7 @@ During pregnancy, women can be immunized by fetal red blood cells (RBCs) of an i
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^00b6c992]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Spontaneous miscarriage and uterine instrumentation—risk and anti-D prophylaxis are outlined as follows: the risk of Rh D alloimmunization is estimated to be 1.5–2% after spontaneous miscarriage and 4–5% after dilation and curettage, and expert opinion varies, with some groups that do not recommend prophylactic anti-D immunoglobulin before 12 weeks when the uterus is not instrumented while other experts recommend either 50 micrograms or 120 micrograms after a complete miscarriage during the first 12 weeks; administration should be considered in spontaneous first-trimester miscarriage, especially later in the trimester, and if given, a dose of at least 50 micrograms should be administered, with Rh D-negative women who have instrumentation for miscarriage advised to receive prophylaxis and those with miscarriage after 12 weeks to receive 300 micrograms of Rh D immune globulin.
+Spontaneous miscarriage and uterine instrumentation — risk and anti-D prophylaxis are outlined as follows: the risk of Rh D alloimmunization is estimated to be 1.5–2% after spontaneous miscarriage and 4–5% after dilation and curettage, and expert opinion varies, with some groups that do not recommend prophylactic anti-D immunoglobulin before 12 weeks when the uterus is not instrumented while other experts recommend either 50 micrograms or 120 micrograms after a complete miscarriage during the first 12 weeks; administration should be considered in spontaneous first-trimester miscarriage, especially later in the trimester, and if given, a dose of at least 50 micrograms should be administered, with Rh D-negative women who have instrumentation for miscarriage advised to receive prophylaxis and those with miscarriage after 12 weeks to receive 300 micrograms of Rh D immune globulin.
 
 ---
 
@@ -578,7 +582,7 @@ The aim of this review was to systematically review the outcome of routine anti-
 
 Methods
 
-A search for all published and ongoing studies, without restrictions on language or publication status, was performed using the following databases from their inception: EBM Reviews Ovid - Cochrane Central Register of Controlled Trials, MEDLINE Ovid (Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Daily), Embase.com, Popline and Google Scholar. Study types included: randomised controlled trials, controlled trials, cohort and case–control studies from 1971 onwards. The population included women who undergo an abortion (induced, incomplete, spontaneous or septic abortion), medical or surgical <12 weeks, and isoimmunisation in a subsequent pregnancy. The primary outcomes were: (1) development of a positive Kleihauer–Betke test and (2) development of Rh alloimmunisation in a subsequent pregnancy.
+A search for all published and ongoing studies, without restrictions on language or publication status, was performed using the following databases from their inception: EBM Reviews Ovid - Cochrane Central Register of Controlled Trials, MEDLINE Ovid (Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Daily), Embase.com, Popline and Google Scholar. Study types included: randomised controlled trials, controlled trials, cohort and case–control studies from 1971 onwards. The population included women who undergo an abortion (induced, incomplete, spontaneous or septic abortion), medical or surgical < 12 weeks, and isoimmunisation in a subsequent pregnancy. The primary outcomes were: (1) development of a positive Kleihauer–Betke test and (2) development of Rh alloimmunisation in a subsequent pregnancy.
 
 Results
 
@@ -596,7 +600,7 @@ There is limited evidence surrounding medical benefit of Rh testing and immunogl
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^06d8cf65]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Ectopic pregnancy—alloimmunization has been reported in 24% with ruptured tubal pregnancy, recommended doses up to 12 weeks range from 50 micrograms to 120 micrograms and after 12 weeks 300 micrograms is recommended; one expert group does not recommend anti-D immune globulin for sole medical management but recommends a dose of 50 micrograms for surgical management of unruptured ectopic pregnancy, whereas, until additional data are available, administration for all cases of ectopic pregnancy in Rh D-negative women is recommended.
+Ectopic pregnancy — alloimmunization has been reported in 24% with ruptured tubal pregnancy, recommended doses up to 12 weeks range from 50 micrograms to 120 micrograms and after 12 weeks 300 micrograms is recommended; one expert group does not recommend anti-D immune globulin for sole medical management but recommends a dose of 50 micrograms for surgical management of unruptured ectopic pregnancy, whereas, until additional data are available, administration for all cases of ectopic pregnancy in Rh D-negative women is recommended.
 
 ---
 
@@ -604,9 +608,9 @@ Ectopic pregnancy—alloimmunization has been reported in 24% with ruptured tuba
 
 We decided to address the following three PICO questions with a five‐person working group:
 
-Question 1: In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of induced or spontaneous abortion before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization?
+Question 1: In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of induced or spontaneous abortion before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization?
 
-Question 2: In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of bleeding in an ongoing pregnancy before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization?
+Question 2: In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of bleeding in an ongoing pregnancy before 12 weeks of gestation, does the injection of RhD immune globulin reduce the risk of alloimmunization?
 
 Question 3: In a patient who is RhD negative, when the progenitor is RhD positive or unknown, in case of ectopic pregnancy, does the injection of RhD immune globulin reduce the risk of alloimmunization?
 
@@ -614,13 +618,13 @@ Question 3: In a patient who is RhD negative, when the progenitor is RhD positiv
 
 ### ACOG practice bulletin no. 200: early pregnancy loss [^9dc9243a]. Obstetrics and Gynecology (2018). Medium credibility.
 
-ACOG Practice Bulletin No. 200—Level C recommendations for early pregnancy loss specify that accepted treatment options include expectant management, medical treatment, or surgical evacuation, and in women without medical complications or symptoms requiring urgent surgical evacuation, treatment plans can safely accommodate patient treatment preferences; the use of a single preoperative dose of doxycycline is recommended to prevent infection after surgical management; although the risk of alloimmunization is low, the consequences can be significant, and administration of Rh D immune globulin should be considered in cases of early pregnancy loss, especially those that are later in the first trimester; because of the higher risk of alloimmunization, Rh D-negative women who have surgical management of early pregnancy loss should receive Rh D immune globulin prophylaxis.
+ACOG Practice Bulletin No. 200 — Level C recommendations for early pregnancy loss specify that accepted treatment options include expectant management, medical treatment, or surgical evacuation, and in women without medical complications or symptoms requiring urgent surgical evacuation, treatment plans can safely accommodate patient treatment preferences; the use of a single preoperative dose of doxycycline is recommended to prevent infection after surgical management; although the risk of alloimmunization is low, the consequences can be significant, and administration of Rh D immune globulin should be considered in cases of early pregnancy loss, especially those that are later in the first trimester; because of the higher risk of alloimmunization, Rh D-negative women who have surgical management of early pregnancy loss should receive Rh D immune globulin prophylaxis.
 
 ---
 
 ### A guide to terminology for Rh immunoprophylaxis [^4e7b7760]. Obstetrics and Gynecology (2017). Low credibility.
 
-Rh immunoprophylaxis for Rh-negative women requires an understanding of terminology used for Rh blood typing laboratory reports. The pathophysiology of Rh hemolytic disease of the fetus and newborn was elucidated by studies in rhesus monkeys. Subsequent studies revealed that the human blood group antigen responsible for Rh hemolytic disease of the newborn (D antigen) is related to, but different from, the rhesus monkey antigen. Weak expression of the D antigen on red cells, originally termed D, is currently reported by laboratories as a "serologic weak D phenotype," which can be further defined by RHD genotyping to be either a weak D type or a partial D phenotype. Weak D types 1, 2, or 3 are molecularly defined RHD weak D types, which have an adequate number of intact D antigens to be managed safely as Rh-positive. Partial D phenotypes result from mutations causing loss of one or more D epitopes. Most persons with a partial D phenotype have sufficient D antigen to type as Rh-positive. Some women with a partial D phenotype are detected as serologic weak D phenotypes by routine Rh typing. Whether they type as Rh-positive or serologic weak D phenotype, after being exposed to Rh-positive red cells by transfusion or pregnancy, women with partial D phenotype can form anti-D antibodies and, if they do, are at risk for hemolytic disease of the fetus and newborn. A pregnant woman with a laboratory report of a serologic weak D phenotype should be further tested for her RHD genotype to resolve whether her case should be managed as Rh-positive or Rh-negative. For more than five decades, the practice of Rh immunoprophylaxis has remained unchanged in terms of the dose of Rh immune globulin and timing of injections. In contrast, advances in the science of Rh blood typing have resulted in a continuously evolving terminology, obliging obstetricians to update their vocabulary to guide their practice. The following review and glossary provide guidance for current Rh terminology and the rationale for changes.
+Rh immunoprophylaxis for Rh-negative women requires an understanding of terminology used for Rh blood typing laboratory reports. The pathophysiology of Rh hemolytic disease of the fetus and newborn was elucidated by studies in rhesus monkeys. Subsequent studies revealed that the human blood group antigen responsible for Rh hemolytic disease of the newborn (D antigen) is related to, but different from, the rhesus monkey antigen. Weak expression of the D antigen on red cells, originally termed D, is currently reported by laboratories as a "serologic weak D phenotype", which can be further defined by RHD genotyping to be either a weak D type or a partial D phenotype. Weak D types 1, 2, or 3 are molecularly defined RHD weak D types, which have an adequate number of intact D antigens to be managed safely as Rh-positive. Partial D phenotypes result from mutations causing loss of one or more D epitopes. Most persons with a partial D phenotype have sufficient D antigen to type as Rh-positive. Some women with a partial D phenotype are detected as serologic weak D phenotypes by routine Rh typing. Whether they type as Rh-positive or serologic weak D phenotype, after being exposed to Rh-positive red cells by transfusion or pregnancy, women with partial D phenotype can form anti-D antibodies and, if they do, are at risk for hemolytic disease of the fetus and newborn. A pregnant woman with a laboratory report of a serologic weak D phenotype should be further tested for her RHD genotype to resolve whether her case should be managed as Rh-positive or Rh-negative. For more than five decades, the practice of Rh immunoprophylaxis has remained unchanged in terms of the dose of Rh immune globulin and timing of injections. In contrast, advances in the science of Rh blood typing have resulted in a continuously evolving terminology, obliging obstetricians to update their vocabulary to guide their practice. The following review and glossary provide guidance for current Rh terminology and the rationale for changes.
 
 ---
 
@@ -632,7 +636,7 @@ Regarding medical management for gestational trophoblastic disease, more specifi
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^f3555a20]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Noninvasive fetal Rh D status assessment with cell-free DNA—accuracy, economics, and current use are as follows: Noninvasive determination of fetal Rh status is now possible through the analysis of cell-free DNA in maternal plasma. Up to 40% of Rh D-negative pregnant women will carry an Rh D-negative fetus, and in this clinical situation, antenatal anti-D immune globulin administration is unnecessary. First-trimester testing has a sensitivity greater than 99% and a specificity of greater than 95%, but inconclusive results range 2–6% and are influenced by race. Despite improved accuracy, cost comparisons with routine anti-D immunoglobulin at 28 weeks have not shown a consistent benefit; four cost analyses found no economic benefit at current test-cost levels, whereas a single report suggested cost effectiveness using a low-cost, high-throughput method. At current costs, noninvasive assessment of fetal Rh D status is not recommended for routine use at present.
+Noninvasive fetal Rh D status assessment with cell-free DNA — accuracy, economics, and current use are as follows: Noninvasive determination of fetal Rh status is now possible through the analysis of cell-free DNA in maternal plasma. Up to 40% of Rh D-negative pregnant women will carry an Rh D-negative fetus, and in this clinical situation, antenatal anti-D immune globulin administration is unnecessary. First-trimester testing has a sensitivity greater than 99% and a specificity of greater than 95%, but inconclusive results range 2–6% and are influenced by race. Despite improved accuracy, cost comparisons with routine anti-D immunoglobulin at 28 weeks have not shown a consistent benefit; four cost analyses found no economic benefit at current test-cost levels, whereas a single report suggested cost effectiveness using a low-cost, high-throughput method. At current costs, noninvasive assessment of fetal Rh D status is not recommended for routine use at present.
 
 ---
 
@@ -644,7 +648,7 @@ Regarding therapeutic procedures for platelet transfusion, more specifically wit
 
 ### Society for Maternal-fetal Medicine statement: RhD immune globulin after spontaneous or induced abortion at less than 12 weeks of gestation [^ebde7735]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
 
-Guidelines for the management of first-trimester spontaneous and induced abortion vary in terms of rhesus factor D (RhD) testing and RhD immune globulin (RhIg) administration. These existing guidelines are based on limited data that do not convincingly demonstrate the safety of withholding RhIg for first-trimester abortions or pregnancy losses. Given the adverse fetal and neonatal outcomes associated with RhD alloimmunization, prevention of maternal sensitization is essential in RhD-negative patients who may experience subsequent pregnancies. In care settings in which RhD testing and RhIg administration are logistically and financially feasible and do not hinder access to abortion care, we recommend offering both RhD testing and RhIg administration for spontaneous and induced abortion at <12 weeks of gestation in unsensitized, RhD-negative individuals. Guidelines for RhD testing and RhIg administration in the first trimester must balance the prevention of alloimmunization with the individual- and population-level harms of restricted access to abortion.
+Guidelines for the management of first-trimester spontaneous and induced abortion vary in terms of rhesus factor D (RhD) testing and RhD immune globulin (RhIg) administration. These existing guidelines are based on limited data that do not convincingly demonstrate the safety of withholding RhIg for first-trimester abortions or pregnancy losses. Given the adverse fetal and neonatal outcomes associated with RhD alloimmunization, prevention of maternal sensitization is essential in RhD-negative patients who may experience subsequent pregnancies. In care settings in which RhD testing and RhIg administration are logistically and financially feasible and do not hinder access to abortion care, we recommend offering both RhD testing and RhIg administration for spontaneous and induced abortion at < 12 weeks of gestation in unsensitized, RhD-negative individuals. Guidelines for RhD testing and RhIg administration in the first trimester must balance the prevention of alloimmunization with the individual- and population-level harms of restricted access to abortion.
 
 ---
 
@@ -660,7 +664,7 @@ We reviewed 35 Rh(D)-negative patients who had received Rh-i solid organ transpl
 
 Results
 
-The median (range) age of transplant recipients was 48.5 (4-69) years, and 73.5% of patients were male. Median (range) follow-up time after transplantation was 60 (2-246) months. In the RhIG nonadministered group (n = 16), anti-D was not detected in any of the patients. More rejection episodes occurred in the RhIG-administered group among those undergoing kidney transplant (P = .0278).
+The median (range) age of transplant recipients was 48.5 (4–69) years, and 73.5% of patients were male. Median (range) follow-up time after transplantation was 60 (2–246) months. In the RhIG nonadministered group (n = 16), anti-D was not detected in any of the patients. More rejection episodes occurred in the RhIG-administered group among those undergoing kidney transplant (P = 0.0278).
 
 Conclusions
 
@@ -676,7 +680,7 @@ Regarding medical management for early pregnancy loss, more specifically with re
 
 ### ACOG practice bulletin no. 200: early pregnancy loss [^2a8c20ec]. Obstetrics and Gynecology (2018). Medium credibility.
 
-ACOG Practice Bulletin No. 200—Early pregnancy loss (Rh D immune globulin): Although the risk of alloimmunization is low, administration of Rh D immune globulin should be considered in cases of early pregnancy loss, especially later in the first trimester. If given, a dose of at least 50 micrograms should be administered, and Rh D–negative women who have surgical management of early pregnancy loss should receive Rh D immune globulin prophylaxis.
+ACOG Practice Bulletin No. 200 — Early pregnancy loss (Rh D immune globulin): Although the risk of alloimmunization is low, administration of Rh D immune globulin should be considered in cases of early pregnancy loss, especially later in the first trimester. If given, a dose of at least 50 micrograms should be administered, and Rh D–negative women who have surgical management of early pregnancy loss should receive Rh D immune globulin prophylaxis.
 
 ---
 
@@ -696,15 +700,15 @@ Emergency patients with unknown blood type usually receive O Rhesus D negative (
 
 Methods
 
-In this prospective single-centre observational study done between Jan 1, 2001, and Dec 31, 2015, we assessed all consecutive RhD- patients at the University Medicine Greifswald who received RhD+ red blood cell concentrates (emergency patients with unknown blood type; and RhD- patients receiving RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages). No patients were excluded. The primary endpoint was anti-D allo-immunisation at 2 months follow-up or later. Patients were followed up and tested for immunisation against red blood cell antigens using the direct antiglobulin test and an antibody screen every 3-5 days for 4 weeks or until death, or hospital discharge. Surviving patients were screened for development of anti-D antibodies for up to 12 months (at the predefined timepoints 2, 3, 6, and 12 months) after RhD+ red blood cell transfusion.
+In this prospective single-centre observational study done between Jan 1, 2001, and Dec 31, 2015, we assessed all consecutive RhD- patients at the University Medicine Greifswald who received RhD+ red blood cell concentrates (emergency patients with unknown blood type; and RhD- patients receiving RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages). No patients were excluded. The primary endpoint was anti-D allo-immunisation at 2 months follow-up or later. Patients were followed up and tested for immunisation against red blood cell antigens using the direct antiglobulin test and an antibody screen every 3–5 days for 4 weeks or until death, or hospital discharge. Surviving patients were screened for development of anti-D antibodies for up to 12 months (at the predefined timepoints 2, 3, 6, and 12 months) after RhD+ red blood cell transfusion.
 
 Findings
 
-437 emergency patients, of whom 85 (20%) were RhD-, received 2836 RhD+ red blood cell concentrates. The overall risk of inducing anti-D antibodies (in all 437 recipients) was 17 (4%, 95% CI 2·44-6·14) of 437 (assuming all patients lost to follow-up developed anti-D allo-immunisation). During this period, 110 known RhD- patients received RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages. Of these, 29 (26%; 95% CI 19·0-35·3) developed anti-D allo-immunisation (assuming all patients lost to follow-up developed anti-D), which was significantly higher than in the emergency patients with unknown blood type (p<0·0001).
+437 emergency patients, of whom 85 (20%) were RhD-, received 2836 RhD+ red blood cell concentrates. The overall risk of inducing anti-D antibodies (in all 437 recipients) was 17 (4%, 95% CI 2·44–6·14) of 437 (assuming all patients lost to follow-up developed anti-D allo-immunisation). During this period, 110 known RhD- patients received RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages. Of these, 29 (26%; 95% CI 19·0–35·3) developed anti-D allo-immunisation (assuming all patients lost to follow-up developed anti-D), which was significantly higher than in the emergency patients with unknown blood type (p < 0·0001).
 
 Interpretation
 
-Transfusing emergency patients with unknown blood type with O RhD+ red blood cell concentrates has a low risk of inducing anti-D antibodies (3-6%), but saves more than 10% of the total O RhD- red blood cell concentrate demand, thereby reducing shortage of O RhD- red blood cell concentrates, the need to transfuse known RhD-patients with RhD+ red blood cell concentrates, and thus the overall risk to induce anti-D allo-immunisation in the population. These findings should be considered for transfusion guidelines.
+Transfusing emergency patients with unknown blood type with O RhD+ red blood cell concentrates has a low risk of inducing anti-D antibodies (3–6%), but saves more than 10% of the total O RhD- red blood cell concentrate demand, thereby reducing shortage of O RhD- red blood cell concentrates, the need to transfuse known RhD-patients with RhD+ red blood cell concentrates, and thus the overall risk to induce anti-D allo-immunisation in the population. These findings should be considered for transfusion guidelines.
 
 Funding
 
@@ -714,13 +718,13 @@ University Medicine Greifswald.
 
 ### Rho (D) immune globulin shortages [^156a915e]. ACOG (2024). High credibility.
 
-Rho(D) immune globulin (RhIg) shortage triage—American College of Obstetricians and Gynecologists (ACOG) strategies for consideration—In locations where shortages persist despite attempts to secure the product from the four manufacturers, ACOG offers prioritization and conservation strategies for consideration that include confirming neonatal Rh(D) status from umbilical cord blood before administering routine postpartum RhIg, avoiding administering RhIg in Rh(D)-sensitized patients, and, if paternity is certain and the father or sperm donor is known to be Rh(D)-negative, that antenatal prophylaxis is unnecessary. Although current ACOG guidance does not recommend routine use of noninvasive prenatal testing (NIPT) to determine fetal Rh(D) status, the use of NIPT to prioritize use of RhIg and conserve supply is a reasonable consideration, and if cell-free DNA (cfDNA) testing results confirm an Rh(D)-negative fetus, RhIg would not need to be routinely administered in the antepartum period (for bleeding, abortion, pregnancy loss, or at 28 weeks of gestation). For routine RhIg prophylaxis, prioritize postpartum patients (if indicated), and if additional supply is available, continue to administer the 28-week antepartum dose as well; this approach has been used in the past and shows a reduction in alloimmunization while maximizing conservation of available RhIg. Prioritization of other indications will depend on local specifics, but in general, priority may be given to patients at later gestational durations, and in situations without shortages, ACOG continues to recommend RhIg for indications as noted in existing guidance.
+Rho(D) immune globulin (RhIg) shortage triage — American College of Obstetricians and Gynecologists (ACOG) strategies for consideration — In locations where shortages persist despite attempts to secure the product from the four manufacturers, ACOG offers prioritization and conservation strategies for consideration that include confirming neonatal Rh(D) status from umbilical cord blood before administering routine postpartum RhIg, avoiding administering RhIg in Rh(D)-sensitized patients, and, if paternity is certain and the father or sperm donor is known to be Rh(D)-negative, that antenatal prophylaxis is unnecessary. Although current ACOG guidance does not recommend routine use of noninvasive prenatal testing (NIPT) to determine fetal Rh(D) status, the use of NIPT to prioritize use of RhIg and conserve supply is a reasonable consideration, and if cell-free DNA (cfDNA) testing results confirm an Rh(D)-negative fetus, RhIg would not need to be routinely administered in the antepartum period (for bleeding, abortion, pregnancy loss, or at 28 weeks of gestation). For routine RhIg prophylaxis, prioritize postpartum patients (if indicated), and if additional supply is available, continue to administer the 28-week antepartum dose as well; this approach has been used in the past and shows a reduction in alloimmunization while maximizing conservation of available RhIg. Prioritization of other indications will depend on local specifics, but in general, priority may be given to patients at later gestational durations, and in situations without shortages, ACOG continues to recommend RhIg for indications as noted in existing guidance.
 
 ---
 
 ### Society of Family Planning committee consensus on Rh testing in early pregnancy [^d8d3a684]. Contraception (2022). High credibility.
 
-Rh immunoglobulin product, timing, and dosing intervals—Rh immunoglobulin is an antibody derived from pooled human plasma extracted from Rh-negative individuals who were born male and have been immunized to the RhO(D) antigen through exposure to the Rh-positive blood, and its mechanism in Rh-negative pregnant individuals is not completely understood but is dose dependent with optimal dosing as close as possible to exposure. Initial studies used a 72hour window due to a study design that did not include weekend visits, although some efficacy is believed to continue even weeks after the bleeding event, and monoclonal extract is not effective and synthetic Rh immunoglobulin is not clinically available. Detection of passive anti-D after administration is dose dependent, and to maintain passively acquired anti-D after repeated events that may lead to fetomaternal hemorrhage and sensitization, we recommend a dosing interval corresponding to dose volume: per event for 50 mcg, 6 weeks for 100 mcg, and 12 weeks for 300 mcg.
+Rh immunoglobulin product, timing, and dosing intervals — Rh immunoglobulin is an antibody derived from pooled human plasma extracted from Rh-negative individuals who were born male and have been immunized to the RhO(D) antigen through exposure to the Rh-positive blood, and its mechanism in Rh-negative pregnant individuals is not completely understood but is dose dependent with optimal dosing as close as possible to exposure. Initial studies used a 72hour window due to a study design that did not include weekend visits, although some efficacy is believed to continue even weeks after the bleeding event, and monoclonal extract is not effective and synthetic Rh immunoglobulin is not clinically available. Detection of passive anti-D after administration is dose dependent, and to maintain passively acquired anti-D after repeated events that may lead to fetomaternal hemorrhage and sensitization, we recommend a dosing interval corresponding to dose volume: per event for 50 mcg, 6 weeks for 100 mcg, and 12 weeks for 300 mcg.
 
 ---
 
@@ -742,7 +746,7 @@ Although not yet universal practice, prenatal RHD genotyping for partial D antig
 
 ### Rh (D) incompatibility: screening [^9b349595]. USPSTF (2004). Medium credibility.
 
-Rh (D) incompatibility—antenatal prophylaxis: Administration of a full (300μg) dose of Rh (D) immunoglobulin is recommended for all unsensitized Rh (D)-negative women after repeated antibody testing at 24–28 weeks’ gestation.
+Rh (D) incompatibility — antenatal prophylaxis: Administration of a full (300μg) dose of Rh (D) immunoglobulin is recommended for all unsensitized Rh (D)-negative women after repeated antibody testing at 24–28 weeks' gestation.
 
 ---
 
@@ -752,17 +756,17 @@ Background
 
 RhD alloimmunization can lead to Hemolytic Disease of the Fetus and Newborn (HDFN) or in severe cases fetal demise. This can occur if an RhD negative pregnant woman has a sensitizing event during her pregnancy that causes the development of anti-D antibodies. These antibodies work to destroy fetal red blood cells.
 
-The prophylaxis for the prevention of RhD alloimmunization was developed in the 1960s. Since its discovery, anti-D immunoglobulin has remained the gold standard in the prevention of RhD alloimmunization and consequently HDFN. However, this is under debate in the current literature. Anti-D immunoglobulin is a blood product given to RhD negative pregnant women during pregnancy and after delivery. According to various guidelines, RhD negative women receive the prophylaxis at 28 weeks (and again at 34 weeks if the guideline indicates a two dose regime) and again after the delivery of an RhD positive fetus [-]. Outside of routine provision, RhD negative pregnant women can receive anti-D immunoglobulin during pregnancy when potential sensitizing events occur. A list of potential sensitizing events can be found in an additional file (see Additional file 1). Since the development of anti-D immunoglobulin, the rate of RhD alloimmunization and its consequences has been significantly reduced but the cited RhD alloimmunization rate remains at 6.7/1000 live births, which leaves room for improvement.
+The prophylaxis for the prevention of RhD alloimmunization was developed in the 1960s. Since its discovery, anti-D immunoglobulin has remained the gold standard in the prevention of RhD alloimmunization and consequently HDFN. However, this is under debate in the current literature. Anti-D immunoglobulin is a blood product given to RhD negative pregnant women during pregnancy and after delivery. According to various guidelines, RhD negative women receive the prophylaxis at 28 weeks (and again at 34 weeks if the guideline indicates a two dose regime) and again after the delivery of an RhD positive fetus. Outside of routine provision, RhD negative pregnant women can receive anti-D immunoglobulin during pregnancy when potential sensitizing events occur. A list of potential sensitizing events can be found in an additional file (see Additional file 1). Since the development of anti-D immunoglobulin, the rate of RhD alloimmunization and its consequences has been significantly reduced but the cited RhD alloimmunization rate remains at 6.7/1000 live births, which leaves room for improvement.
 
 In 2012, two retrospective studies were published that examined the delivery of anti-D immunoglobulin to RhD negative pregnant women in appropriate clinical situations within emergency departments. These two studies found that in certain clinical situations the delivery of anti-D immunoglobulin to RhD negative pregnant women was suboptimal. The recent emergence of these two studies led the authors of this review to question whether more research exists on the provision of prophylaxis to RhD negative pregnant women and if there are settings besides emergency departments that contribute to the RhD alloimmunization rate of 6.7/1000 births.
 
-The purpose of this scoping review is to explore the literature on the provision of anti-D prophylaxis to RhD negative pregnant women in appropriate clinical situations in various healthcare settings. The hypothesis is that RhD negative pregnant women receive anti-D immunoglobulin in routine situations, such as within 72 hours after birth, but in situations of potential sensitizing events, such as miscarriage or fetal demise, anti-D immunoglobulin may not always be provided correctly or at all. To date, a knowledge synthesis has not been conducted on this topic.
+The purpose of this scoping review is to explore the literature on the provision of anti-D prophylaxis to RhD negative pregnant women in appropriate clinical situations in various healthcare settings. The hypothesis is that RhD negative pregnant women receive anti-D immunoglobulin in routine situations, such as within 72 hours after birth, but in situations of potential sensitizing events, such as miscarriage or fetal demise, anti-D immunoglobulin may not always be provided correctly or at all. To date, a knowledge synthesis has not been conducted on this topic.
 
 ---
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^d0e88358]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization—effect of prophylaxis and current U.S. practice: Postpartum prophylaxis with a single dose given to susceptible Rh D-negative women within 72 hours of delivery reduced the rate of Rh D alloimmunization by 80–90%. Asymptomatic fetal–maternal hemorrhage in the third trimester triggered alloimmunization in 2% of at-risk women before delivery, but routine antenatal administration at 28 weeks of gestation reduced this to less than 0.2%. Current practice administers a single antenatal dose of 300 micrograms at 28 weeks of gestation followed by a second dose after birth when the newborn is Rh D positive, and this approach is associated with less than a 0.2% rate of Rh alloimmunization.
+Prevention of Rh D alloimmunization — effect of prophylaxis and current U.S. practice: Postpartum prophylaxis with a single dose given to susceptible Rh D-negative women within 72 hours of delivery reduced the rate of Rh D alloimmunization by 80–90%. Asymptomatic fetal–maternal hemorrhage in the third trimester triggered alloimmunization in 2% of at-risk women before delivery, but routine antenatal administration at 28 weeks of gestation reduced this to less than 0.2%. Current practice administers a single antenatal dose of 300 micrograms at 28 weeks of gestation followed by a second dose after birth when the newborn is Rh D positive, and this approach is associated with less than a 0.2% rate of Rh alloimmunization.
 
 ---
 
@@ -776,7 +780,7 @@ The postpartum dose of Rh immune globulin varies according to an individual labo
 
 Abstract
 
-The French College of Obstetricians and Gynecologists has decided to update its clinical practices guidelines for preventing RhD alloimmunization in the first trimester of pregnancy. The quality of evidence of the literature was assessed following the GRADE methodology with questions formulated in the Patients, Intervention, Comparison, Outcome (PICO) format and outcomes defined a priori and classified according to their importance. An extensive bibliographic search was performed using Pubmed, Cochrane, EMBASE, and Google Scholar databases. The quality of evidence was assessed (high, moderate, low, very low) and a recommendation was formulated: strong, weak, or no recommendation. The recommendations were reviewed in two rounds by members of the scientific board of the French College of Obstetricians and Gynecologists (Delphi survey) in order to select the consensus recommendations. The three recommendations from the PICO questions were agreed upon through the use of the Delphi method. It is not recommended to administer RhD immune globulin before 12 weeks of gestation to reduce the risk of alloimmunization in the event of induced or spontaneous abortion in RhD‐negative patients when the progenitor is RhD‐positive or unknown (weak recommendation, very low‐quality evidence). It is not recommended to administer RhD immune globulin before 12 weeks of gestation to reduce the risk of alloimmunization in the event of bleeding (weak recommendation, very low‐quality evidence). The quality and quantity of literature data are insufficient to determine whether injection of RhD immune globulin can reduce the risk of alloimmunization in ectopic pregnancy, so no recommendation could be made.
+The French College of Obstetricians and Gynecologists has decided to update its clinical practices guidelines for preventing RhD alloimmunization in the first trimester of pregnancy. The quality of evidence of the literature was assessed following the GRADE methodology with questions formulated in the Patients, Intervention, Comparison, Outcome (PICO) format and outcomes defined a priori and classified according to their importance. An extensive bibliographic search was performed using Pubmed, Cochrane, EMBASE, and Google Scholar databases. The quality of evidence was assessed (high, moderate, low, very low) and a recommendation was formulated: strong, weak, or no recommendation. The recommendations were reviewed in two rounds by members of the scientific board of the French College of Obstetricians and Gynecologists (Delphi survey) in order to select the consensus recommendations. The three recommendations from the PICO questions were agreed upon through the use of the Delphi method. It is not recommended to administer RhD immune globulin before 12 weeks of gestation to reduce the risk of alloimmunization in the event of induced or spontaneous abortion in RhD‐negative patients when the progenitor is RhD‐positive or unknown (weak recommendation, very low‐quality evidence). It is not recommended to administer RhD immune globulin before 12 weeks of gestation to reduce the risk of alloimmunization in the event of bleeding (weak recommendation, very low‐quality evidence). The quality and quantity of literature data are insufficient to determine whether injection of RhD immune globulin can reduce the risk of alloimmunization in ectopic pregnancy, so no recommendation could be made.
 
 ---
 
@@ -800,14 +804,15 @@ Fetal-maternal hemorrhage requires a high index of suspicion for diagnosis. An u
 
 4 CONCLUSION
 
-Although the quality of evidence from the literature is very low, it is recommended that RhD immune globulin not be administered in case of induced or spontaneous abortion or bleeding before 12 weeks of gestation to reduce the risk of alloimmunization. However, the quality and quantity of literature data was insufficient to determine whether injection of RhD immune globulin can reduce the risk of alloimmunization in ectopic pregnancy and no recommendation can be made.
+Although the quality of evidence from the literature is very low, it is recommended that RhD immune globulin not be administered in case of induced or spontaneous abortion or bleeding before 12 weeks of gestation to reduce the risk of alloimmunization. However, the quality and quantity of literature data was insufficient to determine whether injection of RhD immune globulin can reduce the risk of alloimmunization in ectopic pregnancy and no recommendation can be made.
 
 ---
 
-### Human anti-D (rh) immunoglobulin (rhesoglobin) efficacy, safety (...) [^c332b157]. ClinicalTrials (2022). Medium credibility.
+### Human anti-D (rh) immunoglobulin (rhesoglobin) efficacy, safety… [^c332b157]. ClinicalTrials (2022). Medium credibility.
 
 Human Anti-D Immunoglobulin Efficacy, Safety and Some Pharmacokinetics Parameters in Pregnant WomenClinicalTrials. gov ID. The clinical stage According to the study protocol, patients receive two prophylactic doses of the study drug at a dose of 300 mcg
 - at 28 weeks of gestation and within 72 hours after delivery. Patients receive the second dose only in the case of the birth of an Rh-positive child. Before and after each injection of the drug, blood will be taken to control the level of anti-Rh0 antibodies. In the "Pharmacokinetics" subgroup, additional blood samples will be taken to determine the following pharmacokinetic parameters:
+
 - Serum clearance
 - Volume of distribution
 - AUC
@@ -817,18 +822,19 @@ Human Anti-D Immunoglobulin Efficacy, Safety and Some Pharmacokinetics Parameter
 - Kel The final stage The patient should be monitored for 6 months ± 5 days, after the last injection of the drug, blood samples are taken after 3 and 6 months to assess sensitization to the Rh antigen. Drug: Human Anti-D immunoglobulin
 - 1901-RH-BF.
 - body mass index should be within normal limits;
-- patients who have not received blood transfusions and / or medicinal products containing immunoglobulins in the last 6 months, in particular antibodies to Rh0 antigen; .
+- patients who have not received blood transfusions and / or medicinal products containing immunoglobulins in the last 6 months, in particular antibodies to Rh0 antigen;.
 
 Exclusion Criteria:
+
 - sensitization to Rh0 antigen;
 - the absence of reliable anamnestic data on the prevention of Rh incompatibility in previous pregnancy with the birth of a Rh-positive child;
 - selective IgA deficiency in the presence of antibodies against immunoglobulin A;
-- history of severe allergic reactions to the administration of human blood protein preparations; .
+- history of severe allergic reactions to the administration of human blood protein preparations;.
 - hypersensitivity reactions to human donor immunoglobulins;
 - severe thrombocytopenia and other hemostatic disorders;
 - life-threatening conditions and / or complications that require intensive care / surgery, the presence of any other bleeding at the time of screening;
 - Rh-negative fetus;
-- any other concomitant decompensated diseases or acute conditions, the presence of which, according to the researcher, can significantly affect the study results; .
+- any other concomitant decompensated diseases or acute conditions, the presence of which, according to the researcher, can significantly affect the study results;.
 
 ---
 
@@ -840,7 +846,7 @@ To examine whether literature supports the use of Rh immune globulin in Rh-negat
 
 Methods
 
-We searched MEDLINE (1966-2005), the Cochrane Central Register of Controlled Trials, EMBASE (1990 to 2005), and the reference sections of the articles found. The search is considered updated to December of 2005. Search terms included vaginal bleeding, Rh negative, Rh immune globulin, RhoGAM, isoimmunization, sensitization, first trimester pregnancy, threatened, and spontaneous abortion.
+We searched MEDLINE (1966–2005), the Cochrane Central Register of Controlled Trials, EMBASE (1990 to 2005), and the reference sections of the articles found. The search is considered updated to December of 2005. Search terms included vaginal bleeding, Rh negative, Rh immune globulin, RhoGAM, isoimmunization, sensitization, first trimester pregnancy, threatened, and spontaneous abortion.
 
 Results
 
@@ -854,13 +860,13 @@ In summary, there is minimal evidence that administering Rh immune globulin for 
 
 ### Rh (D) incompatibility: screening [^d1923bd3]. USPSTF (2004). Medium credibility.
 
-U.S. Preventive Services Task Force (USPSTF)—initial screening for Rh (D) incompatibility strongly recommends Rh (D) blood typing and antibody testing for all pregnant women during their first visit for pregnancy-related care (A recommendation), citing good evidence that Rh (D) blood typing, anti-Rh (D) antibody testing, and intervention with Rh (D) immunoglobulin, as appropriate, prevents maternal sensitization and improves outcomes for newborns, with benefits that substantially outweigh any potential harms.
+U.S. Preventive Services Task Force (USPSTF) — initial screening for Rh (D) incompatibility strongly recommends Rh (D) blood typing and antibody testing for all pregnant women during their first visit for pregnancy-related care (A recommendation), citing good evidence that Rh (D) blood typing, anti-Rh (D) antibody testing, and intervention with Rh (D) immunoglobulin, as appropriate, prevents maternal sensitization and improves outcomes for newborns, with benefits that substantially outweigh any potential harms.
 
 ---
 
 ### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^e9fb534d]. Annals of Emergency Medicine (2017). Medium credibility.
 
-Early pregnancy loss in Rh-negative patients—anti-D immunoglobulin: Level B recommendations state to administer 50 µg of anti-D immunoglobulin to Rh-negative women in all cases of documented first trimester loss of established pregnancy, while Level A and Level C recommendations are none specified. Context on sensitization risk includes significant fetomaternal hemorrhage in 24% of patients with ruptured ectopic pregnancy and ectopic pregnancy as the probable immunizing event in 2 patients who had not received anti-D immunoglobulin, with ACOG consensus opinion unequivocally recommending treatment with 50 µg of anti-D immunoglobulin for first trimester terminations.
+Early pregnancy loss in Rh-negative patients — anti-D immunoglobulin: Level B recommendations state to administer 50 µg of anti-D immunoglobulin to Rh-negative women in all cases of documented first trimester loss of established pregnancy, while Level A and Level C recommendations are none specified. Context on sensitization risk includes significant fetomaternal hemorrhage in 24% of patients with ruptured ectopic pregnancy and ectopic pregnancy as the probable immunizing event in 2 patients who had not received anti-D immunoglobulin, with ACOG consensus opinion unequivocally recommending treatment with 50 µg of anti-D immunoglobulin for first trimester terminations.
 
 ---
 
@@ -874,7 +880,7 @@ Few studies provide recommendations for an improvement in the delivery of anti-D
 
 ### Rh (D) incompatibility: screening [^b4472850]. USPSTF (2004). Medium credibility.
 
-U.S. Preventive Services Task Force (USPSTF)—evidence status for Rh (D) screening states that it found no new evidence addressing the role of screening, new screening tests, new treatment protocols, or potential harms associated with screening and treatment of Rh (D) incompatibility, but that there is pre-existing good evidence for the efficacy and effectiveness of blood typing, anti-Rh (D) antibody screening, and postpartum Rh (D) immunoglobulin prophylaxis.
+U.S. Preventive Services Task Force (USPSTF) — evidence status for Rh (D) screening states that it found no new evidence addressing the role of screening, new screening tests, new treatment protocols, or potential harms associated with screening and treatment of Rh (D) incompatibility, but that there is pre-existing good evidence for the efficacy and effectiveness of blood typing, anti-Rh (D) antibody screening, and postpartum Rh (D) immunoglobulin prophylaxis.
 
 ---
 
@@ -890,14 +896,15 @@ In conclusion, healthcare providers must prioritize the management of high-risk 
 
 Abstract
 
-The introduction of anti‐Rh(D) immunoglobulin more than 50 years ago has resulted in only a 50% decrease in Rhesus disease globally owing to a low uptake of this prophylactic approach. The International Federation of Gynecology and Obstetrics, International Confederation of Midwives, and Worldwide Initiative for Rhesus Disease Eradication have reviewed current evidence regarding the utility of anti‐Rh(D) immunoglobulin. Taking into account the effectiveness anti‐Rh(D), the new guidelines propose adjusting the dose for different indications and prioritizing its administration by indication.
+The introduction of anti‐Rh(D) immunoglobulin more than 50 years ago has resulted in only a 50% decrease in Rhesus disease globally owing to a low uptake of this prophylactic approach. The International Federation of Gynecology and Obstetrics, International Confederation of Midwives, and Worldwide Initiative for Rhesus Disease Eradication have reviewed current evidence regarding the utility of anti‐Rh(D) immunoglobulin. Taking into account the effectiveness anti‐Rh(D), the new guidelines propose adjusting the dose for different indications and prioritizing its administration by indication.
 
 ---
 
-### [ PDF ] RHOPHYLAC-human rho (D) immune globulin solution... [^f5d959a5]. FDA (DailyMed) (2025). Medium credibility.
+### RHOPHYLAC-human rho (D) immune globulin solution… [^f5d959a5]. FDA (DailyMed) (2025). Medium credibility.
 
 RHOPHYLAC is a Rh Immune Globulin Intravenous indicated for: Suppression of Rhesus Isoimmunization in: Pregnancy and obstetric conditions in non-sensitized, Rh-negative women with an Rh-incompatible. haptoglobin, LDH, and plasma bilirubin. 1 INDICATIONS AND USAGE RHOPHYLAC is a Rh Immune Globulin Intravenous product that is indicated for the suppression of Rh isoimmunization in non-sensitized Rh-negative. patients and for the treatment of immune thrombocytopenic purpura in Rh- positive patients.
-1. 1 Suppression of Rh Isoimmunization Pregnancy and Obstetric Conditions RHOPHYLAC is indicated for suppression of rhesus isoimmunization in non-. Incompatible Transfusions RHOPHYLAC is indicated for the suppression of Rh isoimmunization in Rh-negative Obstetric complications Invasive procedures during pregnancy or obstetric manipulative procedures. suppression of Rh isoimmunization following dosing regimens similar to Table 1 or 2, RHOPHYLAC was not shown to harm the fetus or newborn. In general, anti-D immunoglobulins have. , 19% were 65 years of age and older. No overall differences in effectiveness or safety were observed between these subjects and younger subjects. 11 4. solution, sufficient to suppress the immune response to at least 15 mL of Rh-positive RBCs.
+
+1. 1 Suppression of Rh Isoimmunization Pregnancy and Obstetric Conditions RHOPHYLAC is indicated for suppression of rhesus isoimmunization in non-. Incompatible Transfusions RHOPHYLAC is indicated for the suppression of Rh isoimmunization in Rh-negative Obstetric complications Invasive procedures during pregnancy or obstetric manipulative procedures. suppression of Rh isoimmunization following dosing regimens similar to Table 1 or 2, RHOPHYLAC was not shown to harm the fetus or newborn. In general, anti-D immunoglobulins have., 19% were 65 years of age and older. No overall differences in effectiveness or safety were observed between these subjects and younger subjects. 11 4. solution, sufficient to suppress the immune response to at least 15 mL of Rh-positive RBCs.
 
 The product potency is expressed in IUs by comparison to the World Health Organization standard, which is also the US and the European Pharmacopoeia standard. Plasma is obtained from healthy Rh-negative donors who have been immunized with.
 
@@ -907,25 +914,25 @@ The product potency is expressed in IUs by comparison to the World Health Organi
 
 Background
 
-The administration of rhesus (Rh) immunoglobulin was first introduced in 1968 and significantly reduced immunisation to D-antigen.Evidence is sparse for such intervention after abortion in early pregnancy.Abortion for the purposes of this review included induced (medical or surgical), incomplete, missed, spontaneous or septic abortion at less than 12 weeks’ gestation.
+The administration of rhesus (Rh) immunoglobulin was first introduced in 1968 and significantly reduced immunisation to D-antigen. Evidence is sparse for such intervention after abortion in early pregnancy. Abortion for the purposes of this review included induced (medical or surgical), incomplete, missed, spontaneous or septic abortion at less than 12 weeks' gestation.
 
-There is a movement to forgo Rh testing and anti-D immunoglobulin administration in people presenting for early abortion, miscarriage or ectopic pregnancy.For example, the 2019 National Institute for Health and Care Excellence (NICE) guidelines on abortion recommend not offering anti-D prophylaxis to people undergoing medical abortion up to and including 10 weeks’ gestation.Rationales to forgo Rh testing and anti-D immunoglobulin administration include lack of evidence that anti-D immunoglobulin prevents Rh alloimmunisation in lower gestational ages and immunoglobulin administration is not without risk as it is a blood product with added costs and care complexity.For example, added costs and complexity include testing patient blood type and cold storage required for anti-D immunoglobulin.
+There is a movement to forgo Rh testing and anti-D immunoglobulin administration in people presenting for early abortion, miscarriage or ectopic pregnancy. For example, the 2019 National Institute for Health and Care Excellence (NICE) guidelines on abortion recommend not offering anti-D prophylaxis to people undergoing medical abortion up to and including 10 weeks' gestation. Rationales to forgo Rh testing and anti-D immunoglobulin administration include lack of evidence that anti-D immunoglobulin prevents Rh alloimmunisation in lower gestational ages and immunoglobulin administration is not without risk as it is a blood product with added costs and care complexity. For example, added costs and complexity include testing patient blood type and cold storage required for anti-D immunoglobulin.
 
-A systematic review by Karanth et al (2013) examined anti-D administration after spontaneous miscarriage for preventing Rh alloimmunisation with the Cochrane Pregnancy and Childbirth Group.Karanth et al concluded there is insufficient evidence available to evaluate the current practices of anti-D administration in unsensitised RhD-negative mothers after spontaneous miscarriage.
+A systematic review by Karanth et al (2013) examined anti-D administration after spontaneous miscarriage for preventing Rh alloimmunisation with the Cochrane Pregnancy and Childbirth Group. Karanth et al concluded there is insufficient evidence available to evaluate the current practices of anti-D administration in unsensitised RhD-negative mothers after spontaneous miscarriage.
 
-To date, there has been one systematic review examining subsequent isoimmunisation after abortion at less than 13+6 weeks’ gestation in 2019.In preparation for updating the World Health Organization (WHO) 2012 Safe Abortion guidelines, the objective of the review was to systematically review the effect of routine anti-D administration among unsensitised RhD-negative individuals who have an abortion.
+To date, there has been one systematic review examining subsequent isoimmunisation after abortion at less than 13+6 weeks' gestation in 2019. In preparation for updating the World Health Organization (WHO) 2012 Safe Abortion guidelines, the objective of the review was to systematically review the effect of routine anti-D administration among unsensitised RhD-negative individuals who have an abortion.
 
 ---
 
 ### A clinical practice guideline for the management of pregnancy alloimmunized to red blood cell antigens [^534fd6bf]. JAMA Network Open (2025). High credibility.
 
-Pregnancy alloimmunization guideline—introduction outlines that RhD predominates in hemolytic disease of the fetus and newborn and that prophylaxis with Rh immune globulin at 28 weeks of gestation and again after delivery is effective though not fail‑safe. It highlights evolving trauma practices using low‑titer, O+ whole blood (LTOWB) without rapid typing, placing D‑negative female trauma patients at risk of exposure to D‑positive red blood cells with alloimmunization occurring in approximately 20% of such patients. It also notes that in 2024 multiple organizations initiated guideline development focused on D‑negative female children, adolescent girls, and women aged 15 to 49 years at risk of red blood cell alloimmunization due to exposure to LTOWB.
+Pregnancy alloimmunization guideline — introduction outlines that RhD predominates in hemolytic disease of the fetus and newborn and that prophylaxis with Rh immune globulin at 28 weeks of gestation and again after delivery is effective though not fail‑safe. It highlights evolving trauma practices using low‑titer, O+ whole blood (LTOWB) without rapid typing, placing D‑negative female trauma patients at risk of exposure to D‑positive red blood cells with alloimmunization occurring in approximately 20% of such patients. It also notes that in 2024 multiple organizations initiated guideline development focused on D‑negative female children, adolescent girls, and women aged 15 to 49 years at risk of red blood cell alloimmunization due to exposure to LTOWB.
 
 ---
 
 ### Rh (D) incompatibility: screening [^e75bfccc]. USPSTF (2004). Medium credibility.
 
-U.S. Preventive Services Task Force (USPSTF)—repeat testing for Rh (D) incompatibility recommends repeated Rh (D) antibody testing for all unsensitized Rh (D)-negative women at 24–28 weeks’ gestation, unless the biological father is known to be Rh (D)-negative (B recommendation), and found fair evidence that repeated testing with intervention with Rh (D) immunoglobulin, as appropriate, provides additional benefit over a single test at the first prenatal visit in preventing maternal sensitization and improving outcomes for newborns, with benefits that substantially outweigh any potential harms.
+U.S. Preventive Services Task Force (USPSTF) — repeat testing for Rh (D) incompatibility recommends repeated Rh (D) antibody testing for all unsensitized Rh (D)-negative women at 24–28 weeks' gestation, unless the biological father is known to be Rh (D)-negative (B recommendation), and found fair evidence that repeated testing with intervention with Rh (D) immunoglobulin, as appropriate, provides additional benefit over a single test at the first prenatal visit in preventing maternal sensitization and improving outcomes for newborns, with benefits that substantially outweigh any potential harms.
 
 ---
 
@@ -959,7 +966,7 @@ The incidence of fetal-to-maternal hemorrhage does not appear to be increased in
 
 Research
 
-The retrospective cohort methodology is an appropriate method in researching the use of anti-D immunoglobulin in clinical settings. It would be helpful to have more studies utilizing population-based data, large multi-center studies involving prospective approaches or retrospective approaches, and more studies in Canada, Australia, and the US. Further research is required to understand the factors associated with suboptimal provision of anti-D immunoglobulin in situations where potential sensitizing events occur. As Koby et al. suggest, errors of omission can occur in situations where the decisions are physician-dependent. However, only one study provided the factors involved in the omission of or late administration of anti-D immunoglobulin. The factors involved poor documentation, misinterpretation of laboratory results, issues with storage of the prophylaxis, and communication between departments. In addition, a better understanding of women’s knowledge and experiences with RhD negative pregnancies and its possible implications would provide further insight into RhD alloimmunization. Once there is a basic understanding interventions may be developed and trialed for effectiveness.
+The retrospective cohort methodology is an appropriate method in researching the use of anti-D immunoglobulin in clinical settings. It would be helpful to have more studies utilizing population-based data, large multi-center studies involving prospective approaches or retrospective approaches, and more studies in Canada, Australia, and the US. Further research is required to understand the factors associated with suboptimal provision of anti-D immunoglobulin in situations where potential sensitizing events occur. As Koby et al. suggest, errors of omission can occur in situations where the decisions are physician-dependent. However, only one study provided the factors involved in the omission of or late administration of anti-D immunoglobulin. The factors involved poor documentation, misinterpretation of laboratory results, issues with storage of the prophylaxis, and communication between departments. In addition, a better understanding of women's knowledge and experiences with RhD negative pregnancies and its possible implications would provide further insight into RhD alloimmunization. Once there is a basic understanding interventions may be developed and trialed for effectiveness.
 
 Limitations
 
@@ -969,6 +976,6 @@ The limitations of this scoping review lie within the literature retrieved and i
 
 ### ACOG practice bulletin no. 192: management of alloimmunization during pregnancy [^926bb0a2]. Obstetrics and Gynecology (2018). Medium credibility.
 
-Rh-D weak D (Du) phenotype—patients who are weak D (Du) positive are not at risk for alloimmunization and should not receive anti-D immunoprophylaxis.
+Rh-D weak D (Du) phenotype — patients who are weak D (Du) positive are not at risk for alloimmunization and should not receive anti-D immunoprophylaxis.
 
 ---

@@ -403,7 +403,7 @@ We evaluated if the introduction of a clinical pathway for skin and soft-tissue 
 
 - **Balancing measures**: Included 72-hour revisit rate and ED length of stay (LOS).
 
-A total of 291 patients prepathway and 781 patients postpathway were included. The proportion of patients with simple cellulitis prescribed MRSA-directed therapy decreased from 81% to 54% postpathway. The proportion of patients with a drained abscess prescribed systemic antibiotics decreased from 88% to 75%. There was no increase in 72-hour revisit rates (3.8% vs 3.2%, P = .64) or ED LOS (2.8 vs 2.7 hours, P = .05).
+A total of 291 patients prepathway and 781 patients postpathway were included. The proportion of patients with simple cellulitis prescribed MRSA-directed therapy decreased from 81% to 54% postpathway. The proportion of patients with a drained abscess prescribed systemic antibiotics decreased from 88% to 75%. There was no increase in 72-hour revisit rates (3.8% vs 3.2%, P = 0.64) or ED LOS (2.8 vs 2.7 hours, P = 0.05).
 
 ---
 
@@ -487,7 +487,7 @@ Regarding diagnostic investigations for cellulitis, specifically in relation to 
 
 To describe variation in the care of children hospitalized with orbital cellulitis and to determine associations with length of stay (LOS), emergency department (ED) revisits, and hospital readmissions, a study was conducted. By using the Pediatric Health Information System, a multicenter, retrospective study was performed on children aged 2 months to 18 years with a primary International Classification of Diseases, Ninth Revision, Clinical Modification discharge diagnosis code for orbital cellulitis from 2007 to 2014. Hospital-level variation in the use of diagnostic tests, corticosteroids, and antibiotics was assessed individually and in aggregate for association with outcomes (LOS, ED revisits, readmissions) after risk-adjusting for important clinical and demographic factors.
 
-A total of 1828 children met inclusion criteria. Complete blood cell counts (median [interquartile range]: 81.8% [66.7–89.6]), C-reactive protein levels (57.1% [22.2–84.0]), blood cultures (57.9% [48.9–63.6]), and computed tomography imaging (74.7% [66.7–81.0]) were the most frequently performed diagnostic tests, with significant variation observed across hospitals (all P < .001). Corticosteroids were used in 29.2% of children (interquartile range: 18.4–37.5). There was significant variation in antibiotic exposure across hospitals (P < .001). Increased total diagnostic test usage was associated with increased LOS (P = .044), but not with 30-day ED revisits (P = .176) or readmissions (P = .403).
+A total of 1828 children met inclusion criteria. Complete blood cell counts (median [interquartile range]: 81.8% [66.7–89.6]), C-reactive protein levels (57.1% [22.2–84.0]), blood cultures (57.9% [48.9–63.6]), and computed tomography imaging (74.7% [66.7–81.0]) were the most frequently performed diagnostic tests, with significant variation observed across hospitals (all P < .001). Corticosteroids were used in 29.2% of children (interquartile range: 18.4–37.5). There was significant variation in antibiotic exposure across hospitals (P < .001). Increased total diagnostic test usage was associated with increased LOS (P = 0.044), but not with 30-day ED revisits (P = 0.176) or readmissions (P = 0.403).
 
 In conclusion, children hospitalized with orbital cellulitis experience wide variation in clinical care and outcomes.
 

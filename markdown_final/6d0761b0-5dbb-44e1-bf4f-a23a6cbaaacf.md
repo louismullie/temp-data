@@ -495,7 +495,7 @@ Aligned with the WG mission and prompted by the draft FDA guidance on renal impa
 
 - **Dosage adjustments in adult patients with renal impairment**: Levetiracetam dosing must be individualized according to the patient's renal function status. Recommended dosage adjustments for adults with renal impairment are based on creatinine clearance adjusted for body surface area. Information is unavailable for dosage adjustments in pediatric patients with renal impairment. To calculate the dose for adult patients, an estimate of the patient's creatinine clearance (CLcr) in mL/min must first be determined using a standard formula.
 
-	- Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
+	- **Table 2**: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 
 	1Following dialysis, a 250 to 500 mg supplemental dose is recommended.
 
@@ -526,8 +526,8 @@ In general, the majority (> 80%) of participating companies preferred conducting
 - **Dose modifications in renal impairment**: In patients with moderate and severe renal impairment (estimated creatinine clearance (CLCR) less than or equal to 50 mL/min), reduce the dose of Mozobil by one-third based on body weight category as shown in Table 1. If CLCR is less than or equal to 50 mL/min, the dose should not exceed 27 mg/day, as the mg/kg-based dosage results in increased plerixafor exposure with increasing body weight [see Clinical Pharmacology (12.3)]. Similar systemic exposure is predicted if the dose is reduced by one-third in patients with moderate and severe renal impairment compared with subjects with normal renal function [see Clinical Pharmacology (12.3)].
 
 - **Creatinine clearance estimation**: The following (Cockcroft-Gault) formula may be used to estimate CLCR:
-	- Males: Creatinine clearance (mL/min) = weight (kg) × (140 – age in years) / 72 × serum creatinine (mg/dL)
-	- Females: Creatinine clearance (mL/min) = 0.85 × value calculated for males
+	- **Males**: Creatinine clearance (mL/min) = weight (kg) × (140 – age in years) / 72 × serum creatinine (mg/dL)
+	- **Females**: Creatinine clearance (mL/min) = 0.85 × value calculated for males
 
 - **Hemodialysis considerations**: There is insufficient information to make dosage recommendations in patients on hemodialysis.
 
@@ -572,7 +572,7 @@ Dosage and administration:
 - **Impaired renal function**: Ceftazidime is excreted by the kidneys, almost exclusively by glomerular filtration. Therefore, in patients with impaired renal function (glomerular filtration rate [GFR] < 50 mL/min), it is recommended that the dosage of ceftazidime be reduced to compensate for its slower excretion. In patients with suspected renal insufficiency, an initial loading dose of 1 gram of ceftazidime may be given. An estimate of GFR should be made to determine the appropriate maintenance dosage. The recommended dosage is presented in Table 4.
 
 	- When only serum creatinine is available, the following formula (Cockcroft's equation) may be used to estimate creatinine clearance. The serum creatinine should represent a steady state of renal function:
-		- Males: Creatinine clearance (mL/min) = \(\dfrac{\text{Weight (kg) x (140 - age)}}{\text{serum creatinine}}\)
+		- **Males**: Creatinine clearance (mL/min) = \(\dfrac{\text{Weight (kg) x (140 - age)}}{\text{serum creatinine}}\)
 
 ---
 
@@ -709,8 +709,8 @@ Regarding the use of trimethoprim / sulfamethoxazole IV (also known as Bactrim, 
 		Initiate Wakix at 8.9 mg once daily and increase after 7 days to a maximum recommended dosage of 17.8 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 	- Pediatric patients (6 years and older) with eGFR < 60 mL/minute/1.73 m² (using the Schwartz equation, eGFR (mL/min/1.73 m²) = (0.413*height in cm)/serum creatinine in mg/dL):
-		- Pediatric patients weighing < 40 kg: Initiate Wakix at 4.45 mg once daily and increase after 7 days to a maximum recommended dosage of 8.9 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
-		- Pediatric patients weighing ≥ 40 kg: Initiate Wakix at 4.45 mg once daily and increase after 7 days to 8.9 mg once daily. May increase after another 7 days to a maximum recommended dosage of 17.8 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+		- **Pediatric patients weighing < 40 kg**: Initiate Wakix at 4.45 mg once daily and increase after 7 days to a maximum recommended dosage of 8.9 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+		- **Pediatric patients weighing ≥ 40 kg**: Initiate Wakix at 4.45 mg once daily and increase after 7 days to 8.9 mg once daily. May increase after another 7 days to a maximum recommended dosage of 17.8 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 	- Wakix is not recommended in patients with eGFR less than 15 mL/minute/1.73 m² [see Warnings and Precautions (5.1), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 

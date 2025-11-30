@@ -471,11 +471,11 @@ When patients are stable, computerized tomography (CT) is the imaging modality o
 
 The following constitutes key background information on spontaneous bacterial peritonitis:
 
-- Definition: SBP is a bacterial infection in the peritoneal fluid without any other identifiable source of infection.
-- Pathophysiology: SBP is a severe complication of cirrhosis, primarily occurring due to bacterial translocation from the gut to the peritoneal cavity.
-- Epidemiology: The incidence of SBP in the US is estimated at 4000 per 100,000 person-years.
-- Disease course: Clinical manifestations often include rapid onset of symptoms, including abdominal pain, fever, and altered mental status. Diagnosis is typically made by analyzing ascitic fluid, with a neutrophil count of > 250/mm³ indicating SBP. If not promptly treated, SBP can lead to serious complications such as renal failure, septic shock, and hepatic encephalopathy.
-- Prognosis and risk of recurrence: The prognosis of SBP is generally poor, with high in-hospital mortality rates. Factors such as renal dysfunction, high bilirubin levels, and low sodium levels have been associated with increased mortality.
+- **Definition**: SBP is a bacterial infection in the peritoneal fluid without any other identifiable source of infection.
+- **Pathophysiology**: SBP is a severe complication of cirrhosis, primarily occurring due to bacterial translocation from the gut to the peritoneal cavity.
+- **Epidemiology**: The incidence of SBP in the US is estimated at 4000 per 100,000 person-years.
+- **Disease course**: Clinical manifestations often include rapid onset of symptoms, including abdominal pain, fever, and altered mental status. Diagnosis is typically made by analyzing ascitic fluid, with a neutrophil count of > 250/mm³ indicating SBP. If not promptly treated, SBP can lead to serious complications such as renal failure, septic shock, and hepatic encephalopathy.
+- **Prognosis and risk of recurrence**: The prognosis of SBP is generally poor, with high in-hospital mortality rates. Factors such as renal dysfunction, high bilirubin levels, and low sodium levels have been associated with increased mortality.
 
 ---
 

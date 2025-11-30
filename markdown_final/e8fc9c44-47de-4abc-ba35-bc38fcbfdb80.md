@@ -782,7 +782,7 @@ Hyperbilirubinaemia is a ubiquitous transitional morbidity in the vast majority 
 
 Electronic supplementary material
 
-The online version of this article (doi:10.1186/s12887–015–0358-z) contains supplementary material, which is available to authorized users.
+The online version of this article (doi:10.1186/s12887-015-0358-z) contains supplementary material, which is available to authorized users.
 
 ---
 

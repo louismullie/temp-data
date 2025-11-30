@@ -393,12 +393,12 @@ The dermoscope allows physicians to examine the macroscopic and microscopic prim
 
 The following constitutes key background information on erythema multiforme:
 
-- Definition: Erythema multiforme is an immune-mediated disorder characterized by the presence of distinctive target lesions on the skin (primarily in acral regions) and/or mucous membranes.
-- Pathophysiology: The exact pathophysiology of erythema multiforme is not fully understood, but it is believed to be an immune reaction triggered by various factors. Infections, particularly HSV, are the most common triggers. Other viruses, such as HCV, Coxsackievirus, and EBV, as well as Mycoplasma pneumoniae, certain medications, and vaccines have also been implicated.
-- Epidemiology: The incidence of erythema multiforme is believed to be 0.01–1% annually, most commonly affecting individuals aged 18–30 years.
-- Risk factors: Risk factors for erythema multiforme include infections, especially HSV, and exposure to certain medications. However, in many cases, no specific trigger or risk factor can be identified.
-- Disease course: Clinically, erythema multiforme presents with symmetrically distributed target lesions on the extremities and trunk. These lesions are characterized by concentric zones of color change. The severity of erythema multiforme can vary widely, from mild forms with only skin involvement to severe forms that affect multiple mucous membranes and can be life-threatening.
-- Prognosis and risk of recurrence: The prognosis for erythema multiforme is generally favorable. Most cases are self-limiting and resolve within weeks to months without long-term complications.
+- **Definition**: Erythema multiforme is an immune-mediated disorder characterized by the presence of distinctive target lesions on the skin (primarily in acral regions) and/or mucous membranes.
+- **Pathophysiology**: The exact pathophysiology of erythema multiforme is not fully understood, but it is believed to be an immune reaction triggered by various factors. Infections, particularly HSV, are the most common triggers. Other viruses, such as HCV, Coxsackievirus, and EBV, as well as Mycoplasma pneumoniae, certain medications, and vaccines have also been implicated.
+- **Epidemiology**: The incidence of erythema multiforme is believed to be 0.01–1% annually, most commonly affecting individuals aged 18–30 years.
+- **Risk factors**: Risk factors for erythema multiforme include infections, especially HSV, and exposure to certain medications. However, in many cases, no specific trigger or risk factor can be identified.
+- **Disease course**: Clinically, erythema multiforme presents with symmetrically distributed target lesions on the extremities and trunk. These lesions are characterized by concentric zones of color change. The severity of erythema multiforme can vary widely, from mild forms with only skin involvement to severe forms that affect multiple mucous membranes and can be life-threatening.
+- **Prognosis and risk of recurrence**: The prognosis for erythema multiforme is generally favorable. Most cases are self-limiting and resolve within weeks to months without long-term complications.
 
 ---
 
@@ -798,7 +798,7 @@ Both BCCs and DFs can present as raised, firm nodules, with textures and colorat
 
 Non-specific morphologies
 
-Outside of the 10 core diagnoses discussed above, there exist other potential non-specific presentations that occur at higher frequencies. These non-specific presentations require an evaluation as described above in order to come to a core diagnosis, when possible. When a core diagnosis is not reachable, workup may at least reveal new data that will allow for more targeted therapy in addition to severity grading (online supplemental table S23). The non-specific morphologies include hyperkeratotic papules and plaques, isolated mucositis, or the previously often diagnosed 'maculopapular rash'.Importantly, we would encourage clinicians to avoid making a final diagnosis of these non-specific subtypes, but rather to use them as descriptive terms while undertaking the evaluation of patient with D-irAE.
+Outside of the 10 core diagnoses discussed above, there exist other potential non-specific presentations that occur at higher frequencies. These non-specific presentations require an evaluation as described above in order to come to a core diagnosis, when possible. When a core diagnosis is not reachable, workup may at least reveal new data that will allow for more targeted therapy in addition to severity grading (online supplemental table S23). The non-specific morphologies include hyperkeratotic papules and plaques, isolated mucositis, or the previously often diagnosed 'maculopapular rash'. Importantly, we would encourage clinicians to avoid making a final diagnosis of these non-specific subtypes, but rather to use them as descriptive terms while undertaking the evaluation of patient with D-irAE.
 
 ---
 
@@ -860,7 +860,7 @@ The checklist assesses the following seven features:
 
 Each detected feature contributes to a score based on its significance:
 
-| Feature | Score |
+| **Feature** | **Score** |
 |-|-|
 | Atypical pigment network | 2 |
 | Gray-blue areas | 2 |

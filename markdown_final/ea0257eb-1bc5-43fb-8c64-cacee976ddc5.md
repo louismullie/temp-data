@@ -299,12 +299,12 @@ A 37-year-old man attended a medical clinic at the confluence of the Appalachian
 
 The following constitutes key background information on Pneumocystis pneumonia:
 
-- Definition: PCP is a severe opportunistic fungal infection caused by P. jirovecii, primarily affecting immunocompromised individuals.
-- Pathophysiology: The pathophysiology of PCP involves airborne transmission of the fungus, which then invades lung tissue and adheres to type 1 epithelial cells. The attachment of Pneumocystis to the alveolar epithelium promotes the transition of the organism from the trophic to the cyst form, leading to the production of inflammatory mediators, lung injury, and impaired gas exchange.
-- Epidemiology: The incidence of PCP is estimated at 2.2–4.5 per 100,000, with more than 80% occurring in patients without HIV. In the US, approximately 10,500 hospitalizations and 400 deaths are reported annually due to PCP.
-- Risk factors: Risk factors for PCP include HIV infection with a low CD4+ T-cell count, malignancies, solid organ transplantation, hematologic stem cell transplantation, prolonged use of corticosteroids and other immunosuppressive agents, such as chemotherapy (especially purine analogs), T-cell-depleting agents, TNF-α inhibitors, anti-interleukin 6, anti-CD26, and calcineurin inhibitors.
-- Disease course: Clinically, PCP often presents with a progressive nonproductive cough, exertional dyspnea, chest pain, and fever. Patients with HIV may have an indolent course, while patients without HIV usually present with rapidly progressive onset.
-- Prognosis and risk of recurrence: The mortality rate of PCP in patients with and without HIV is estimated at 25% and 33–69%, respectively.
+- **Definition**: PCP is a severe opportunistic fungal infection caused by P. jirovecii, primarily affecting immunocompromised individuals.
+- **Pathophysiology**: The pathophysiology of PCP involves airborne transmission of the fungus, which then invades lung tissue and adheres to type 1 epithelial cells. The attachment of Pneumocystis to the alveolar epithelium promotes the transition of the organism from the trophic to the cyst form, leading to the production of inflammatory mediators, lung injury, and impaired gas exchange.
+- **Epidemiology**: The incidence of PCP is estimated at 2.2–4.5 per 100,000, with more than 80% occurring in patients without HIV. In the US, approximately 10,500 hospitalizations and 400 deaths are reported annually due to PCP.
+- **Risk factors**: Risk factors for PCP include HIV infection with a low CD4+ T-cell count, malignancies, solid organ transplantation, hematologic stem cell transplantation, prolonged use of corticosteroids and other immunosuppressive agents, such as chemotherapy (especially purine analogs), T-cell-depleting agents, TNF-α inhibitors, anti-interleukin 6, anti-CD26, and calcineurin inhibitors.
+- **Disease course**: Clinically, PCP often presents with a progressive nonproductive cough, exertional dyspnea, chest pain, and fever. Patients with HIV may have an indolent course, while patients without HIV usually present with rapidly progressive onset.
+- **Prognosis and risk of recurrence**: The mortality rate of PCP in patients with and without HIV is estimated at 25% and 33–69%, respectively.
 
 ---
 

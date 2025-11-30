@@ -458,7 +458,8 @@ Hypertension is a common chronic condition with widespread expectations surround
 
 ### 2018 ESC / ESH guidelines for the management of arterial hypertension [^115qRHYE]. European Heart Journal (2018). Medium credibility.
 
-ESC/ESH 2018 hypertension guideline scope — These guidelines 'are designed for adults with hypertension, i.e. aged ≥ 18 years'.The update's purpose 'was to evaluate and incorporate new evidence into the Guideline recommendations', and fundamental principles include 'to base recommendations on properly conducted studies, identified from an extensive review of the literature' and 'to give the highest priority to data from randomized controlled trials (RCTs)'.
+ESC/ESH 2018 hypertension guideline scope — These guidelines 'are designed for adults with hypertension, i.e. aged ≥ 18 years'. The update's purpose 'was to evaluate and incorporate new evidence into the Guideline recommendations', and fundamental principles include 'to base recommendations on properly conducted studies, identified from an extensive review of the literature' and 'to give the highest priority to data from randomized controlled trials (RCTs)'.
+
 ---
 
 ### US hypertension management guidelines: a review of the recent past and recommendations for the future [^114ZYgAP]. Journal of the American Heart Association (2015). Low credibility.

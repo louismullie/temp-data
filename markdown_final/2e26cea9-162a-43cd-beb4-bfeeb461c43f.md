@@ -334,7 +334,7 @@ or vasopressin receptor antagonists in patients with moderate or profound hypona
 
 Regarding classification and risk stratification for hyponatremia, more specifically with respect to classification, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to classify hyponatremia based on the documented duration:
 
-|Situation|Guidance|
+| **Situation** | **Guidance** |
 |-|-|
 |Acute|- < 48 hours|
 |Chronic|- ≥ 48 hours|
@@ -403,7 +403,7 @@ Exercise-associated hyponatremia (EAH) — mild symptomatic fluid management: Or
 
 ### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^1174Gy8M]. BMC Medicine (2015). Low credibility.
 
-Hyponatraemia is a common electrolyte disorder associated with significant complications and controversies regarding its optimal management. Clinical practice guidelines and consensus statements have attempted to provide clinicians with evidence-based diagnostic and treatment strategies for hyponatraemia. Recently published guidance documents differ in their methods employed to review the quality of available evidence. Nagler et al. used the Appraisal of Guideline for Research and Evaluation (AGREE II) instrument in a systematic review of guidelines and consensus statements for the diagnosis and management of hyponatraemia. Nagler and colleagues highlighted the variability in methodological rigour applied to guideline development and inconsistencies between publications in relation to management of hyponatraemia (including the recommended rate of correction of a low serum sodium concentration). These differences could cause confusion for practising physicians managing patients with hyponatraemia. Please see related article: http://www.biomedcentral.com/1741–7015/12/231.
+Hyponatraemia is a common electrolyte disorder associated with significant complications and controversies regarding its optimal management. Clinical practice guidelines and consensus statements have attempted to provide clinicians with evidence-based diagnostic and treatment strategies for hyponatraemia. Recently published guidance documents differ in their methods employed to review the quality of available evidence. Nagler et al. used the Appraisal of Guideline for Research and Evaluation (AGREE II) instrument in a systematic review of guidelines and consensus statements for the diagnosis and management of hyponatraemia. Nagler and colleagues highlighted the variability in methodological rigour applied to guideline development and inconsistencies between publications in relation to management of hyponatraemia (including the recommended rate of correction of a low serum sodium concentration). These differences could cause confusion for practising physicians managing patients with hyponatraemia. Please see related article: http://www.biomedcentral.com/1741-7015/12/231.
 
 ---
 
@@ -564,11 +564,11 @@ Exercise-associated hyponatremia (EAH) — intravenous fluid guidance: Intraveno
 
 The following constitutes key background information on hyponatremia:
 
-- Definition: Hyponatremia an electrolyte disorder characterized by low serum sodium concentration, and is typically defined as a serum sodium of < 135 mEq/L.
-- Pathophysiology: Causes of hyponatremia include increased water intake (psychogenic polydipsia), low dietary solute intake (tea and toast diet), decreased water excretion secondary to elevated plasma ADH levels (volume depletion, SIADH, severe hypothyroidism, adrenal insufficiency), and expansion of plasma volume in the context of edematous states.
-- Epidemiology: The prevalence of hyponatremia in the general population of the US is 1.72%.
-- Disease course: Treatment of hyponatremia requires careful attention to avoid overly rapid correction of serum sodium, which can lead to osmotic demyelination syndrome, permanent neurological impairment, and death.
-- Prognosis and risk of recurrence: Approximately 40% of patients with osmotic demyelination syndrome recover fully, whereas 25% have persistent neurological deficits. Mortality associated with osmotic demyelination syndrome is approximately 6%.
+- **Definition**: Hyponatremia an electrolyte disorder characterized by low serum sodium concentration, and is typically defined as a serum sodium of < 135 mEq/L.
+- **Pathophysiology**: Causes of hyponatremia include increased water intake (psychogenic polydipsia), low dietary solute intake (tea and toast diet), decreased water excretion secondary to elevated plasma ADH levels (volume depletion, SIADH, severe hypothyroidism, adrenal insufficiency), and expansion of plasma volume in the context of edematous states.
+- **Epidemiology**: The prevalence of hyponatremia in the general population of the US is 1.72%.
+- **Disease course**: Treatment of hyponatremia requires careful attention to avoid overly rapid correction of serum sodium, which can lead to osmotic demyelination syndrome, permanent neurological impairment, and death.
+- **Prognosis and risk of recurrence**: Approximately 40% of patients with osmotic demyelination syndrome recover fully, whereas 25% have persistent neurological deficits. Mortality associated with osmotic demyelination syndrome is approximately 6%.
 
 ---
 

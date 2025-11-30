@@ -1164,7 +1164,7 @@ R-CPD Patients were consecutively recruited from 2 hospitals between September 2
 
 Results
 
-Eighty R-CPD patients (46 females) completed the baseline evaluations. Of the 134 screened controls, 34 (22.4%) were excluded because unable to burp. Test-retest reliability (r s = 0.911) and internal consistency reliability (α = 0.870) were high. Burp Score reported a moderate but significant external validity indicated by a significant correlation with the RSS-12 (r s = 0.533). Internal validity was excellent regarding the significant differences between the Burp Score of R-CPD patients versus controls (P = .001). Burp score significantly decreased from pre- to posttreatment, indicating a high responsiveness to change. ROC analysis reported a MCID of 11.0 to consider the treatment partially or fully effective.
+Eighty R-CPD patients (46 females) completed the baseline evaluations. Of the 134 screened controls, 34 (22.4%) were excluded because unable to burp. Test-retest reliability (r s = 0.911) and internal consistency reliability (α = 0.870) were high. Burp Score reported a moderate but significant external validity indicated by a significant correlation with the RSS-12 (r s = 0.533). Internal validity was excellent regarding the significant differences between the Burp Score of R-CPD patients versus controls (P = 0.001). Burp score significantly decreased from pre- to posttreatment, indicating a high responsiveness to change. ROC analysis reported a MCID of 11.0 to consider the treatment partially or fully effective.
 
 Conclusion
 

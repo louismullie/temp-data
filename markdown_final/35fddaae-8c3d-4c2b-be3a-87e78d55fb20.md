@@ -141,7 +141,7 @@ Postoperative outpatient utilization of ACE inhibitors, statins, and β-blockers
 
 Results
 
-Use of all 3 medication classes increased significantly over the study period. Female patients and patients with a history of myocardial infarction, diabetes, and poor left ventricular function were independently associated with ACE inhibitor use on multivariate analysis (all P < .05). At a median follow-up of 3 years, postoperative therapy with an ACE inhibitor had no effect on death or rehospitalization for cardiovascular events (adjusted hazard ratio [HR] 1.12, 95% CI 0.96–1.30, P = .16). However, statins (HR 0.65, 95% CI 0.57–0.74, P < .0001) and β-blockers (HR 0.83, 95% CI 0.74–0.93, P = .001) were associated with a significantly improved event-free survival.
+Use of all 3 medication classes increased significantly over the study period. Female patients and patients with a history of myocardial infarction, diabetes, and poor left ventricular function were independently associated with ACE inhibitor use on multivariate analysis (all P < .05). At a median follow-up of 3 years, postoperative therapy with an ACE inhibitor had no effect on death or rehospitalization for cardiovascular events (adjusted hazard ratio [HR] 1.12, 95% CI 0.96–1.30, P = 0.16). However, statins (HR 0.65, 95% CI 0.57–0.74, P < .0001) and β-blockers (HR 0.83, 95% CI 0.74–0.93, P = 0.001) were associated with a significantly improved event-free survival.
 
 Conclusions
 
@@ -1074,7 +1074,7 @@ Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers have 
 
 Secondary outcomes
 
-Peak troponin-T levels were similar between groups (mean difference, −0.16 ng/L; 95% CI −3.13–2.82). To account for the skewed distribution, a post hoc analysis of peak troponin using the Wilcoxon–Mann–Whitney test also found no difference in peak troponin levels between stop and continue groups (z = 0.117, P = .91). Post-operative infections occurred in 26 (21.0%) in the stop group, compared to 24 (19.5%) patients who continued RAS inhibitors (OR 0.93; 95% CI 0.50–1.76; p = 0.83). Clinically diagnosed myocardial infarction, stroke, and death were recorded in fewer than 10 participants.
+Peak troponin-T levels were similar between groups (mean difference, −0.16 ng/L; 95% CI −3.13–2.82). To account for the skewed distribution, a post hoc analysis of peak troponin using the Wilcoxon–Mann–Whitney test also found no difference in peak troponin levels between stop and continue groups (z = 0.117, P = 0.91). Post-operative infections occurred in 26 (21.0%) in the stop group, compared to 24 (19.5%) patients who continued RAS inhibitors (OR 0.93; 95% CI 0.50–1.76; p = 0.83). Clinically diagnosed myocardial infarction, stroke, and death were recorded in fewer than 10 participants.
 
 ---
 
@@ -1198,7 +1198,7 @@ The primary outcome was intraoperative hypotension, which was defined as any sys
 
 Results
 
-Intraoperative hypotension occurred less frequently in the omission group (76 of 137 [55%]) than in the continuation group (95 of 138 [69%]) (RR: 0.81, 95% CI: 0.67 to 0.97, P = .03, NNH 7.5). Postoperative hypotensive events were also less frequent in the ACEI omission group (RR: 0.49, 95% CI: 0.28 to 0.86, P = .02) than in the continuation group. However, postoperative hypertensive events were more frequent in the omission group than in the continuation group (RR: 1.95, 95%: CI: 1.14 to 3.34, P = .01).
+Intraoperative hypotension occurred less frequently in the omission group (76 of 137 [55%]) than in the continuation group (95 of 138 [69%]) (RR: 0.81, 95% CI: 0.67 to 0.97, P = 0.03, NNH 7.5). Postoperative hypotensive events were also less frequent in the ACEI omission group (RR: 0.49, 95% CI: 0.28 to 0.86, P = 0.02) than in the continuation group. However, postoperative hypertensive events were more frequent in the omission group than in the continuation group (RR: 1.95, 95%: CI: 1.14 to 3.34, P = 0.01).
 
 Conclusions
 

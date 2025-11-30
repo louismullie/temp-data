@@ -655,20 +655,18 @@ Regarding therapeutic procedures for intrauterine devices, particularly in the c
 
 - **Stratification**:
 
-	- Recommendations:
-
+	- **Recommendations**:
 		1. There is usually no need for stratification in acute treatment trials.
 
 		2. Stratification may be considered when an imbalance between the treatment groups or an important factor may influence the results of a trial.
 
-	- Comments:
+	- **Comments**:
 
 		Randomization alone may not ensure full comparability between subjects in different treatment groups, especially in smaller trials, and stratified randomization is sometimes used to circumvent potential imbalances. The EMA recommends that stratification variables usually be included as covariates in primary analyses, regardless of their prognostic value. In controlled trials for migraine, the use of stratification by prognostic factors should be limited to a few variables and only to those that have historically demonstrated effects on primary efficacy endpoint(s). Stratification variables that have been used in acute treatment trials include age, body weight, headache intensity at baseline, migraine type (i.e. with or without aura), menstrual versus non-menstrual attacks, and concomitant preventive treatment. Given the preponderance of females with migraine, sex may also be used as a stratification factor to control for imbalances in treatment groups.
 
 - **Intention to treat**:
 
-	- Recommendations:
-
+	- **Recommendations**:
 		1. Randomized controlled trials of acute treatments for migraine should follow the principle of intention to treat (ITT), which implies that analyses should include all randomized subjects in the groups to which they were randomly assigned, regardless of treatment received.
 
 ---

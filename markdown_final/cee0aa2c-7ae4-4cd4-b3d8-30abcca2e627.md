@@ -336,8 +336,8 @@ So far, the validity of urine dipslides has been studied only under optimal cond
 The NITRATE-CIN study was published in 2024 in the European Heart Journal. It explores the impact of inorganic nitrate on diseases such as non-ST-elevation myocardial infarction, unstable angina, and contrast-induced nephropathy. The trial examined the role of inorganic nitrate in patients at risk of renal injury undergoing coronary angiography for acute coronary syndromes. Conducted as a single-center, double-blind randomized controlled trial (RCT), the study involved 640 patients (171 female, 469 male). Inclusion criteria focused on patients at risk of renal injury undergoing coronary angiography for acute coronary syndromes, while key exclusion criteria included cardiac arrest, cardiogenic shock, STEMI, chronic kidney failure, and pregnancy.
 
 - **Interventions**:
-	- Inorganic nitrate group (n = 319): Received potassium nitrate 12 mmol (equivalent to 744 mg of nitrate) once daily for 5 days, with the first dose administered before coronary angiography.
-	- Placebo group (n = 321): Received potassium chloride once daily for 5 days.
+	- **Inorganic nitrate group (n = 319)**: Received potassium nitrate 12 mmol (equivalent to 744 mg of nitrate) once daily for 5 days, with the first dose administered before coronary angiography.
+	- **Placebo group (n = 321)**: Received potassium chloride once daily for 5 days.
 
 - **Primary outcome**: Significant decrease in contrast-induced nephropathy (9.1% vs. 30.5%; OR 0.21, 95% CI 0.13 to 0.34).
 

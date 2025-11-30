@@ -411,7 +411,7 @@ Various organizations and agencies have issued recommendations for the managemen
 
 ### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^113ZUgs5]. Annals of Internal Medicine (2020). High credibility.
 
-VA/DoD dyslipidemia guideline — secondary prevention pharmacotherapy advises "For secondary prevention, we recommend using at least a moderate-dose statin". For higher-risk patients willing to intensify, it adds "For secondary prevention in higher risk patients** who are willing to intensify treatment, we suggest offering high-dose statins for reducing non-fatal cardiovascular events after discussion of the risk of high-dose statins and an exploration of the patient's values and preferences".
+VA/DoD dyslipidemia guideline — secondary prevention pharmacotherapy advises "For secondary prevention, we recommend using at least a moderate-dose statin". For higher-risk patients willing to intensify, it adds "For secondary prevention in higher risk patients who are willing to intensify treatment, we suggest offering high-dose statins for reducing non-fatal cardiovascular events after discussion of the risk of high-dose statins and an exploration of the patient's values and preferences".
 
 ---
 

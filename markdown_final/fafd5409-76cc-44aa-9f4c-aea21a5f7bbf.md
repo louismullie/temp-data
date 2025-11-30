@@ -582,7 +582,6 @@ The taxonomic status of the etiologic agent of this novel rickettsiosis in Brazi
 ### Collagenase Santyl [^113AcHuz]. U.S. Food and Drug Administration (2019).
 
 - **Dosage and administration**: Collagenase Santyl◊Ointment should be applied once daily or more frequently if the dressing becomes soiled, such as from incontinence. When clinically indicated, crosshatching thick eschar with a #10 blade allows Collagenase Santyl◊Ointment more surface contact with necrotic debris. It is also desirable to remove, with forceps and scissors, as much loosened detritus as can be done readily. Use Collagenase Santyl◊Ointment in the following manner:
-
 	1. Prior to application, the wound should be cleansed of debris and digested material by gently rubbing with a gauze pad saturated with normal saline solution or with the desired cleansing agent compatible with Collagenase Santyl◊Ointment, followed by a normal saline solution rinse.
 
 	2. Whenever infection is present, it is desirable to use an appropriate topical antibiotic powder. The antibiotic should be applied to the wound prior to the application of Collagenase Santyl◊Ointment. If the infection does not respond, therapy with Collagenase Santyl◊Ointment should be discontinued until remission of the infection.

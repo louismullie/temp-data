@@ -178,6 +178,7 @@ Regarding medical management for myasthenia gravis, more specifically with respe
 
 - Intravenous immunoglobulin, 400 mg/kg, was administered daily for five days to 12 patients with exacerbation of generalized myasthenia gravis. Degree of weakness, duration of illness, use of prednisone, and history of thymectomy or thymoma did not affect the response to intravenous immunoglobulin. Eleven patients improved, beginning 3. 6 ± 2. 7 days after the start of treatment and becoming maximal in
 8. 6 ± 4. 6 days, with sustained improvement lasting 52 ± 37 days. Vital capacity increased from 1748 ± 510 to 2700 ± 614 mL at peak effect. Decreases in strength occurred in four patients beginning on day 3. 2 ± 2. 5, lasted
+
 1. 5 ± 0. 6 days, and were mild in three patients. Other effects were minimal. There was no significant change in acetylcholine receptor antibody titers, which were elevated in all patients. Immunoglobulin seemed to produce a more rapid improvement than corticosteroids and is recommended as an adjunct in the management of myasthenia gravis exacerbations.
 
 Arsura EL, Bick A, Brunner NG, Namba T, Grob D. High-Dose Intravenous Immunoglobulin in the Management of Myasthenia Gravis. Arch Intern Med. 1986; 146: 1365–1368.
@@ -576,6 +577,7 @@ Therapies for myasthenia gravis (MG) include symptomatic and immunosuppressive t
 - Corticosteroids have been useful in the management of myasthenia gravis, but their efficacy has been limited by the slow onset of improvement, initial worsening of MG, refractoriness of some patients, and side effects of large daily doses. High-dose intravenous methylprednisolone pulses have been reported to produce rapid improvement in several immunologic disorders. In this study we administered 2 g of methylprednisolone intravenously every five days to 15 consecutive patients who had exacerbation of generalized MG. Satisfactory improvement occurred in ten of 15 patients after two courses and in two of five patients after a third course. Onset of improvement began a mean of 3 ± 1. 1 days after the first infusion,
 2. 1 ± 1 days after the second, and 2. 4 ± 1 days after the third, and reached its maximum level
 8. 9 ± 6. 1 days after the last infusion. A decrease in strength occurred in three patients 1. 43 ±
+
 1.
 
 30 days after each infusion, was not marked, and lasted three days, following which improvement generally occurred. Side effects were minimal. After improvement, a daily dose of prednisone was used to maintain improvement. Use of pulse therapy at five-day intervals for the management of severe MG seems to have an advantage in that it produces less initial worsening and more rapid improvement in MG, enabling smaller daily maintenance doses to be employed, with fewer side effects. Arsura E, Brunner NG, Namba T, Grob D. High-Dose Intravenous Methylprednisolone in Myasthenia Gravis. Arch Neurol. 1985; 42: 1149–1153.
@@ -689,6 +691,7 @@ Impending and manifest myasthenic crisis are emergent situations requiring aggre
 Although cholinergic crises are now rare, excessive ChEI cannot be completely excluded as a cause of clinical worsening. Also, ChEIs increase airway secretions, which may exacerbate breathing difficulties.
 
 PLEX and IVIg are the mainstay of management in myasthenic crisis.
+
 1. Impending crisis requires hospital admission and close observation of respiratory and bulbar function, with the ability to transfer to an intensive care unit if it progresses to manifest crisis. Myasthenic crisis requires admission to an intensive care or step-down unit to monitor for or manage respiratory failure and bulbar dysfunction.
 2. PLEX and IVIg are used as short-term treatment for impending and manifest myasthenic crisis and in patients with significant respiratory or bulbar dysfunction. Corticosteroids or other IS agents are often started at the same time to achieve a sustained clinical response. (Because corticosteroids may cause transient worsening of myasthenic weakness, it may be appropriate to wait several days for PLEX or IVIg to have a beneficial effect before starting corticosteroids).
 3. Although clinical trials suggest that IVIg and PLEX are equally effective in the treatment of impending or manifest myasthenic crisis, expert consensus suggests that PLEX is more effective and works more quickly. The choice between the 2 therapies depends on patient comorbidity (e.g. PLEX cannot be used in sepsis and IVIg is contraindicated in hypercoagulable states, renal failure, or hypersensitivity to immunoglobulin) and other factors, including availability. A greater risk of hemodynamic and venous access complications with PLEX should also be considered in the decision (many complications of PLEX are related to route of access and may be minimized by using peripheral rather than central venous access).
@@ -1075,6 +1078,7 @@ There is no randomized controlled trial literature that allows meaningful conclu
 Development of guidance treatment statements.
 
 The following were agreed upon a priori:
+
 1. Treatment costs and availability would not be considered, as it is not possible to make international consensus statements specific for all countries.
 2. Clinical examination is assumed to have been performed by physicians skilled in the evaluation of neuromuscular disease.
 3. The MGFA Clinical Classification, including remission, refers to the state of the patient at the time of evaluation.
@@ -1082,6 +1086,7 @@ The following were agreed upon a priori:
 A formal systematic review of the literature was not performed. The Task Force co-chairs and facilitator drafted initial guidance statements based on literature cited in recent national and regional MG treatment guidelines, supplemented by other literature.
 
 Guidance statements were developed for the following:
+
 1. Symptomatic and immunosuppressive (IS) treatments
 2. IV immunoglobulin (IVIg) and plasma exchange (PLEX)
 3. Impending and manifest myasthenic crisis

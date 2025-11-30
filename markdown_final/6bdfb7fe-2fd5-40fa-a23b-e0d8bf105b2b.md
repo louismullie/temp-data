@@ -709,7 +709,7 @@ Standardized mean effect sizes of rTMS versus sham were computed based on pretre
 
 Data Synthesis
 
-The mean weighted effect size of rTMS versus sham for depression was 0.55 (P < .001). Monotherapy with rTMS was more effective than rTMS as adjunctive to antidepressant medication. ECT was superior to rTMS in the treatment of depression (mean weighted effect size -0.47, P = .004). In the treatment of AVH, rTMS was superior to sham treatment, with a mean weighted effect size of 0.54 (P < .001). The mean weighted effect size for rTMS versus sham in the treatment of negative symptoms in schizophrenia was 0.39 (P = .11) and for OCD, 0.15 (P = .52). Side effects were mild, yet more prevalent with high-frequency rTMS at frontal locations.
+The mean weighted effect size of rTMS versus sham for depression was 0.55 (P < .001). Monotherapy with rTMS was more effective than rTMS as adjunctive to antidepressant medication. ECT was superior to rTMS in the treatment of depression (mean weighted effect size -0.47, P = 0.004). In the treatment of AVH, rTMS was superior to sham treatment, with a mean weighted effect size of 0.54 (P < .001). The mean weighted effect size for rTMS versus sham in the treatment of negative symptoms in schizophrenia was 0.39 (P = 0.11) and for OCD, 0.15 (P = 0.52). Side effects were mild, yet more prevalent with high-frequency rTMS at frontal locations.
 
 Conclusions
 

@@ -469,22 +469,22 @@ Increased age at surgery has a negative impact on the results of the Kasai opera
 - **Strength of recommendation**: STRONG
 	**Quality of evidence**: MODERATE
 
-	- Recommendation 34: Liver transplantation for selected patients with perihilar CCA (pCCA) in the presence of chronic liver disease (most commonly primary sclerosing cholangitis), less than 3 cm in size with no evidence of extrahepatic disease, results in long-term disease-free survival. This is an established indication in an increasing number of centres internationally. There is a need for evaluation of novel neoadjuvant chemoradiation strategies and assessment of long-term outcomes with national protocols and multicentre studies. Liver transplantation in the absence of background chronic liver disease remains an investigational treatment.
+	- **Recommendation 34**: Liver transplantation for selected patients with perihilar CCA (pCCA) in the presence of chronic liver disease (most commonly primary sclerosing cholangitis), less than 3 cm in size with no evidence of extrahepatic disease, results in long-term disease-free survival. This is an established indication in an increasing number of centres internationally. There is a need for evaluation of novel neoadjuvant chemoradiation strategies and assessment of long-term outcomes with national protocols and multicentre studies. Liver transplantation in the absence of background chronic liver disease remains an investigational treatment.
 
 - **Strength of recommendation**: MODERATE
 	**Quality of evidence**: STRONG
 
-	- Recommendation 35: Neoadjuvant therapy in uncontrolled studies appears to be effective in controlling disease and selecting patients who are most likely to benefit from transplantation.
+	- **Recommendation 35**: Neoadjuvant therapy in uncontrolled studies appears to be effective in controlling disease and selecting patients who are most likely to benefit from transplantation.
 
 - **Strength of recommendation**: MODERATE
 	**Quality of evidence**: LOW
 
-	- Recommendation 36: Transplantation for intrahepatic CCA (iCCA) on a background of chronic liver disease precluding resection should be evaluated prospectively within a national protocol. LAG tumour size criteria to be monitored and modified to improve recruitment for evaluation.
+	- **Recommendation 36**: Transplantation for intrahepatic CCA (iCCA) on a background of chronic liver disease precluding resection should be evaluated prospectively within a national protocol. LAG tumour size criteria to be monitored and modified to improve recruitment for evaluation.
 
 - **Strength of recommendation**: STRONG
 	**Quality of evidence**: MODERATE
 
-	- Recommendation 37: Patients who have undergone surgical resection for CCA should be considered for 24 weeks of adjuvant chemotherapy (currently capecitabine).
+	- **Recommendation 37**: Patients who have undergone surgical resection for CCA should be considered for 24 weeks of adjuvant chemotherapy (currently capecitabine).
 
 ---
 

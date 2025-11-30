@@ -399,11 +399,11 @@ In this article, we suggest the indicators that may enable physicians to think o
 
 The following constitutes key background information on cellulitis:
 
-- Definition: Cellulitis is an acute bacterial infection of the deep dermis and subcutaneous tissue.
-- Pathophysiology: Cellulitis is primarily caused by β-hemolytic Streptococci and S. aureus.
-- Epidemiology: The incidence of non-purulent lower extremity cellulitis is 176.6 per 100,000 persons in the US.
-- Disease course: After a breach in the skin causes the entry of pathogens into the dermis, the release of bacterial toxins and other inflammatory mediators results in dermal edema, lymphatic dilation, bulla formation and regional lymphadenopathy. Untreated infection may progress to bacteremia and systemic inflammatory response syndrome.
-- Prognosis and risk of recurrence: Approximately 17% of patients with acute cellulitis are unresponsive to initial treatment, and the risk of treatment failure is highest in obese patients. Recurrence of cellulitis occurs in approximately 14% and 45% cases within 1 year and 3 years, respectively.
+- **Definition**: Cellulitis is an acute bacterial infection of the deep dermis and subcutaneous tissue.
+- **Pathophysiology**: Cellulitis is primarily caused by β-hemolytic Streptococci and S. aureus.
+- **Epidemiology**: The incidence of non-purulent lower extremity cellulitis is 176.6 per 100,000 persons in the US.
+- **Disease course**: After a breach in the skin causes the entry of pathogens into the dermis, the release of bacterial toxins and other inflammatory mediators results in dermal edema, lymphatic dilation, bulla formation and regional lymphadenopathy. Untreated infection may progress to bacteremia and systemic inflammatory response syndrome.
+- **Prognosis and risk of recurrence**: Approximately 17% of patients with acute cellulitis are unresponsive to initial treatment, and the risk of treatment failure is highest in obese patients. Recurrence of cellulitis occurs in approximately 14% and 45% cases within 1 year and 3 years, respectively.
 
 ---
 
@@ -461,9 +461,9 @@ Regarding medical management for cellulitis, more specifically with respect to m
 
 Regarding specific circumstances for cellulitis, more specifically with respect to patients with febrile neutropenia (evaluation), IDSA 2014 guidelines recommend to obtain risk stratification in patients with fever and neutropenia according to susceptibility to infection:
 
-- high-risk: anticipated prolonged and profound neutropenia with an absolute neutrophil count < 100 cells/mcL or with a MASCC score of < 21
+- **High-risk**: anticipated prolonged and profound neutropenia with an absolute neutrophil count < 100 cells/mcL or with a MASCC score of < 21
 
-- low-risk: anticipated brief periods of neutropenia and few comorbidities
+- **Low-risk**: anticipated brief periods of neutropenia and few comorbidities
 
 - or with a MASCC score of ≥ 21.
 
@@ -1188,7 +1188,7 @@ Clinical features Local signs Local signs of inflammation are present in most ce
 
 - Erythema
 - Pain
-- Warmth Systemic symptoms Systematic symptoms may be present:
+- **Warmth Systemic symptoms Systematic symptoms may be present**:
 
 - Chills
 - Fever
@@ -1216,7 +1216,7 @@ Key points
 
 - Erythema
 - Pain
-- Warmth Systemic symptoms Systematic symptoms may be present:
+- **Warmth Systemic symptoms Systematic symptoms may be present**:
 
 - Chills
 - Fever

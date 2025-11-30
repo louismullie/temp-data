@@ -472,8 +472,8 @@ While critically important, the rapid identification of the etiology of metaboli
 The ADA 2025 guidelines provide recommendations for the medical management of diabetic ketoacidosis, particularly in relation to insulin infusion. Insulin route and dosage should be determined based on the severity of the hyperglycemic crisis.
 
 - **Mild DKA**:
-	- Insulin SC: Administer 0.1 units/kg of rapid-acting insulin analog as a subcutaneous bolus, then continue with 0.1 units/kg every hour or 0.2 units/kg every two hours.
-	- Insulin IV: This is an alternative to insulin SC, following a regimen similar to that used in moderate-to-severe DKA.
+	- **Insulin SC**: Administer 0.1 units/kg of rapid-acting insulin analog as a subcutaneous bolus, then continue with 0.1 units/kg every hour or 0.2 units/kg every two hours.
+	- **Insulin IV**: This is an alternative to insulin SC, following a regimen similar to that used in moderate-to-severe DKA.
 	- Once glucose reaches a certain level, reduce the short-acting insulin dose to 0.1 units/kg SC every two hours.
 	- Consider administering 0.1 units/kg of short-acting insulin as an IV bolus if there is a delay in setting up the infusion.
 	- When glucose levels decrease below 150 mg/dL, reduce the short-acting insulin dose to 0.05 units/kg/h IV, or use a nurse-driven protocol with a variable rate based on glucose values.
