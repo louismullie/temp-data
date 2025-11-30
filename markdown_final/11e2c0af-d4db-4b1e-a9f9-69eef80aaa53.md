@@ -191,7 +191,7 @@ In the United States each year, > 5.3 million patients present to emergency depa
 
 ### Guidelines for reasonable and appropriate care in the emergency department (GRACE): recurrent, low-risk chest pain in the emergency department [^113GaN1r]. Academic Emergency Medicine (2021). High credibility.
 
-Non-obstructive coronary artery disease (< 50% stenosis) after prior angiography — subsequent event risk and evidence certainty — involves 23 observational studies with overall certainty rated LOW; across these data, the incidence of all-cause mortality and myocardial infarction (MI) was 1.32/100 person-years (95% CI 1.02–1.62), the likelihood of non-fatal MI or all-cause mortality within 5 years is very low in patients with coronary stenosis between 1% and 49%, median follow-up was 5 years (interquartile range 3–7 years; range 1–10 years), and heterogeneity was high (I2 = 91%).
+Non-obstructive coronary artery disease (< 50% stenosis) after prior angiography — subsequent event risk and evidence certainty — involves 23 observational studies with overall certainty rated LOW; across these data, the incidence of all-cause mortality and myocardial infarction (MI) was 1.32/100 person-years (95% CI 1.02–1.62), the likelihood of non-fatal MI or all-cause mortality within 5 years is very low in patients with coronary stenosis between 1% and 49%, median follow-up was 5 years (interquartile range 3–7 years; range 1–10 years), and heterogeneity was high (I² = 91%).
 
 ---
 

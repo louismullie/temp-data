@@ -25,7 +25,7 @@ Neonatal respectait distress syndrome treatment
 
 > I will now examine non-invasive respiratory support as first-line therapy. CPAP reduces treatment failure, need for mechanical ventilation, and mortality compared with supplemental oxygen alone, though pneumothorax risk may increase; synchronized NIPPV can be considered to reduce reventilation needs and BPD, and bilevel devices have not shown advantage over CPAP alone, so device selection should be individualized and protocolized [^2745fcd4] [^4ed2cd9b] [^0ef9606e].
 
-> Wait, let me verify surfactant indications and timing because this is where practice has evolved. Early rescue surfactant is recommended when RDS is worsening, typically when F_iO₂ exceeds about 0.30 on CPAP at ≥ 6 cm H₂O or when lung ultrasound suggests surfactant need; in intubated infants, early surfactant within 2 hours reduces mortality, pneumothorax, and chronic lung disease compared with delayed therapy, and animal-derived preparations are preferred over synthetic agents [^6d63443f] [^aaeea214] [^94fa3e6e].
+> Wait, let me verify surfactant indications and timing because this is where practice has evolved. Early rescue surfactant is recommended when RDS is worsening, typically when FᵢO₂ exceeds about 0.30 on CPAP at ≥ 6 cm H₂O or when lung ultrasound suggests surfactant need; in intubated infants, early surfactant within 2 hours reduces mortality, pneumothorax, and chronic lung disease compared with delayed therapy, and animal-derived preparations are preferred over synthetic agents [^6d63443f] [^aaeea214] [^94fa3e6e].
 
 > I should double-check dosing and administration technique. For rescue therapy, an initial dose of 200 mg/kg poractant alfa is recommended over 100 mg/kg poractant or 100 mg/kg beractant; less invasive surfactant administration (LISA/MIST) is preferred in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD, with attention to local expertise, dosing volume, and surfactant type to optimize delivery [^37bf5a09] [^3753bde2] [^5f63c41d].
 
@@ -71,7 +71,7 @@ Neonatal respiratory distress syndrome (RDS) is best managed with a **lung-prote
 
 ## Surfactant replacement therapy
 
-- **Indications**: Give surfactant early in the course of RDS, typically when F_iO₂ > 0.30 on CPAP ≥ 6 cm H₂O or if lung ultrasound suggests need [^6d63443f].
+- **Indications**: Give surfactant early in the course of RDS, typically when FᵢO₂ > 0.30 on CPAP ≥ 6 cm H₂O or if lung ultrasound suggests need [^6d63443f].
 
 - **Timing**: Early surfactant (within 2 hours) in intubated infants reduces mortality, air leaks, and chronic lung disease [^aaeea214] [^9c511d8f].
 
@@ -115,7 +115,7 @@ Continuously monitor **respiratory status**, oxygen saturation, blood gases, and
 |-|-|-|
 | 1 | Antenatal corticosteroids | Preterm labor < 34 weeks |
 | 2 | CPAP/NIPPV | Clinical RDS |
-| 3 | Surfactant (LISA/MIST) | F_iO₂ > 0.30 on CPAP ≥ 6 cm H₂O |
+| 3 | Surfactant (LISA/MIST) | FᵢO₂ > 0.30 on CPAP ≥ 6 cm H₂O |
 | 4 | Mechanical ventilation | CPAP failure or severe RDS |
 | 5 | Supportive care | All infants |
 
