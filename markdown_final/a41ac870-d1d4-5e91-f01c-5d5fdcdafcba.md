@@ -249,7 +249,7 @@ DILAUDID (hydromorphone hydrochloride), a hydrogenated ketone of morphine, is an
 
 DILAUDID INJECTION is available as a sterile, aqueous solution in clear and colorless single-dose prefilled syringes for slow intravenous, subcutaneous, or intramuscular administration. Each 1 mL of solution contains 0.2 mg, 1 mg or 2 mg of hydromorphone hydrochloride.
 
-The chemical name of DILAUDID is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride. The molecular weight is 321.80. Its molecular formula is C17H19NO3·HCl, and it has the following chemical structure:
+The chemical name of DILAUDID is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride. The molecular weight is 321.80. Its molecular formula is C₁₇H₁₉NO₃·HCl, and it has the following chemical structure:
 
 Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
 
@@ -289,7 +289,7 @@ DILAUDID INJECTION may cause severe hypotension including orthostatic hypotensio
 
 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID INJECTION may reduce respiratory drive, and the resultant CO2retention can further increase intracranial pressure. Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DILAUDID INJECTION.
+In patients who may be susceptible to the intracranial effects of CO₂ retention (e.g., those with evidence of increased intracranial pressure or brain tumors), DILAUDID INJECTION may reduce respiratory drive, and the resultant CO₂ retention can further increase intracranial pressure. Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with DILAUDID INJECTION.
 
 Opioids may also obscure the clinical course in a patient with a head injury. Avoid the use of DILAUDID INJECTION in patients with impaired consciousness or coma.
 
@@ -992,7 +992,7 @@ Morphine and hydromorphone have differing onsets, magnitudes, and durations of e
 
 Methods
 
-Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg kg -1 i.v.) or morphine (total 0.1 or 0.2 mg kg -1 i.v.) 1–2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω²) − 1] × 100 where ω² is the interindividual variability.
+Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg·kg⁻¹ i.v.) or morphine (total 0.1 or 0.2 mg·kg⁻¹ i.v.) 1–2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω²) − 1] × 100 where ω² is the interindividual variability.
 
 Results
 
@@ -1382,7 +1382,7 @@ The authors conducted a randomized crossover study in healthy volunteers. Forty-
 
 Results
 
-For morphine and hydromorphone, respectively, maximum miosis was less (3.9 [3.4 to 4.2] vs. 4.6mm [4.0 to 5.0], P < 0.001; median and 25 to 75% quantiles) and occurred later (3.1 ± 0.9 vs. 2.3 ± 0.7h after infusion start, P < 0.001; mean ± SD); maximum tolerated temperature was less (49 ± 2 vs. 50 ± 2°C, P < 0.001); verbal pain scores at end-infusion at the most informative stimulus (48.2°C) were 82 ± 4 and 59 ± 3 (P < 0.001); maximum end-expired CO2 was 47 (45 to 50) and 48 mmHg (46 to 51; P = 0.007) and occurred later (5.5 ± 2.8 vs. 3.0 ± 1.5h after infusion start, P < 0.001); and respiratory nadir was 9 ± 1 and 11 ± 2 breaths/min (P < 0.001), and occurred at similar times. The area under the temperature tolerance-time curve was less for morphine (1.8 [0.0 to 4.4]) than hydromorphone (5.4°C-h [1.6 to 12.1] P < 0.001). Interindividual variability in clinical effects did not differ between opioids.
+For morphine and hydromorphone, respectively, maximum miosis was less (3.9 [3.4 to 4.2] vs. 4.6mm [4.0 to 5.0], P < 0.001; median and 25 to 75% quantiles) and occurred later (3.1 ± 0.9 vs. 2.3 ± 0.7h after infusion start, P < 0.001; mean ± SD); maximum tolerated temperature was less (49 ± 2 vs. 50 ± 2°C, P < 0.001); verbal pain scores at end-infusion at the most informative stimulus (48.2°C) were 82 ± 4 and 59 ± 3 (P < 0.001); maximum end-expired CO₂ was 47 (45 to 50) and 48 mmHg (46 to 51; P = 0.007) and occurred later (5.5 ± 2.8 vs. 3.0 ± 1.5h after infusion start, P < 0.001); and respiratory nadir was 9 ± 1 and 11 ± 2 breaths/min (P < 0.001), and occurred at similar times. The area under the temperature tolerance-time curve was less for morphine (1.8 [0.0 to 4.4]) than hydromorphone (5.4°C-h [1.6 to 12.1] P < 0.001). Interindividual variability in clinical effects did not differ between opioids.
 
 Conclusions
 

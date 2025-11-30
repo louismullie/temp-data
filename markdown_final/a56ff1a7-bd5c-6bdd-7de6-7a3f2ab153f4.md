@@ -702,7 +702,7 @@ The recommended starting maintenance dose in adults and pediatric patients over 
 
 Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function. The doses are based on studies in adult patients with heart failure. Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
-Total Maintenance Dose = Loading Dose (i.e. Peak Body Stores) x % Daily Loss/100 (% Daily Loss = 14 + Creatinine clearance/5)
+Total Maintenance Dose = Loading Dose (i.e. Peak Body Stores) × % Daily Loss/100 (% Daily Loss = 14 + Creatinine clearance/5)
 
 Reduce the dose of digoxin tablets in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
