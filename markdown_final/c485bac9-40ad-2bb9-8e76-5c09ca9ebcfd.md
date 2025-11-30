@@ -143,7 +143,7 @@ Patients with small cell lung cancer (SCLC) are at high risk for brain metastase
 
 Methods
 
-In this systematic review and meta-analysis, cohort studies and controlled trials reporting on the use of PCI for patients SCLC were identified in EMBASE, MEDLINE, CENTRAL, and grey literature sources. The literature search was conducted on November 12, 2023. Summary data were extracted. Random-effects meta-analyses pooled hazard ratios (HR) for the primary outcome of overall survival between PCI and no intervention groups. This study is registered with the Open Science Framework, DOI:10.17605/OSF. IO/BC359, and PROSPERO, CRD42021249466.
+In this systematic review and meta-analysis, cohort studies and controlled trials reporting on the use of PCI for patients SCLC were identified in EMBASE, MEDLINE, CENTRAL, and grey literature sources. The literature search was conducted on November 12, 2023. Summary data were extracted. Random-effects meta-analyses pooled hazard ratios (HR) for the primary outcome of overall survival between PCI and no intervention groups. This study is registered with the Open Science Framework, DOI: 10.17605/OSF. IO/BC359 and PROSPERO, CRD42021249466.
 
 Findings
 
@@ -273,7 +273,7 @@ Patients with small cell lung cancer (SCLC) are at high risk for brain metastase
 
 Methods
 
-In this systematic review and meta-analysis, cohort studies and controlled trials reporting on the use of PCI for patients SCLC were identified in EMBASE, MEDLINE, CENTRAL, and grey literature sources. The literature search was conducted on November 12, 2023. Summary data were extracted. Random-effects meta-analyses pooled hazard ratios (HR) for the primary outcome of overall survival between PCI and no intervention groups. This study is registered with the Open Science Framework, DOI:10.17605/OSF. IO/BC359, and PROSPERO, CRD42021249466.
+In this systematic review and meta-analysis, cohort studies and controlled trials reporting on the use of PCI for patients SCLC were identified in EMBASE, MEDLINE, CENTRAL, and grey literature sources. The literature search was conducted on November 12, 2023. Summary data were extracted. Random-effects meta-analyses pooled hazard ratios (HR) for the primary outcome of overall survival between PCI and no intervention groups. This study is registered with the Open Science Framework, DOI: 10.17605/OSF. IO/BC359 and PROSPERO, CRD42021249466.
 
 Findings
 

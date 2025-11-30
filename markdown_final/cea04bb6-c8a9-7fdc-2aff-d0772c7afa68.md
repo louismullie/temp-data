@@ -418,7 +418,7 @@ All CoP data were analyzed over the 1-s stopping phase (foot-strike to 1 s) at 1
 
 CoP path length
 
-(xi, yi) is the CoP coordinates at sample i, i = 1,…, N (N = 1000).
+(xi, yi) is the CoP coordinates at sample i, i = 1, …, N (N = 1000).
 
 CoP mean velocity
 

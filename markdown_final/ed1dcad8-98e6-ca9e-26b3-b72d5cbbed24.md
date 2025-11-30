@@ -500,7 +500,7 @@ Patients were randomized to guselkumab 100 mg every 8 weeks, placebo with week 1
 
 Results
 
-At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI < 20 vs ≥20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA < 20% vs ≥20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
+At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI < 20 vs ≥ 20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA < 20% vs ≥ 20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
 
 Conclusions
 
@@ -1446,7 +1446,7 @@ Patients were randomized to guselkumab 100 mg every-8-weeks or placebo→guselku
 
 Results
 
-Of 1721 guselkumab-treated patients, 1612 were exposed for ≥1 year, 1545 for ≥2 years, 1454 for ≥3 years, and 661 for ≥4 years. For all patients through week 204, the cumulative rate of GI SAEs was 0.45/100PY. Event rates remained stable with longer duration of exposure, ranging from 0.36 to 0.57/100PY. No new or exacerbated cases of IBD were reported.
+Of 1721 guselkumab-treated patients, 1612 were exposed for ≥ 1 year, 1545 for ≥ 2 years, 1454 for ≥ 3 years, and 661 for ≥ 4 years. For all patients through week 204, the cumulative rate of GI SAEs was 0.45/100PY. Event rates remained stable with longer duration of exposure, ranging from 0.36 to 0.57/100PY. No new or exacerbated cases of IBD were reported.
 
 Conclusions
 

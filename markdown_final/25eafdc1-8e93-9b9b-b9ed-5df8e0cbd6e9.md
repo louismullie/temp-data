@@ -7,7 +7,7 @@
 
 ## Question
 
-8. On a circle, 2017 different points A₁, …, A₂₀₁₇ are marked, and all possible chords connecting these points pairwise are drawn. A line is drawn through the point A₁, not passing through any of the points A₂, … A₂₀₁₇. Find the maximum possible number of chords that can have at least one common point with this line.
+8. On a circle, 2017 different points A₁, …, A₂₀₁₇ are marked, and all possible chords connecting these points pairwise are drawn. A line is drawn through the point A₁, not passing through any of the points A₂,… A₂₀₁₇. Find the maximum possible number of chords that can have at least one common point with this line.
 
 ANSWER: 1018080.
 

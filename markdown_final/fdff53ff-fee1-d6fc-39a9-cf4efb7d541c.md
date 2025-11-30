@@ -671,7 +671,7 @@ The ACHIDO (Atorvastatin and Clopidogrel HIgh DOse in stable patients with resid
 
 Results
 
-Patients randomized to atorvastatin had lower PRU values (188 ± 48 vs. 223 ± 53 PRU, p < 0.01; primary endpoint) and HTPR rates (16% vs. 42%, p < 0.01) at 30 days than patients in the control group. Statin treatment (odds ratio [OR]: 3.8, p = 0.011), baseline PRU < 298 (OR: 10.7, p = 0.0001), noncarrier status of CYP2C19*2 loss-of-function allele (OR: 2.9, p = 0.043), and age (OR: 0.94, p = 0.032) were variables significantly associated with optimal PD response (PRU < 235) at 30 days. No correlations were found between PRU and lipid fractions.
+Patients randomized to atorvastatin had lower PRU values (188 ± 48 vs. 223 ± 53 PRU, p < 0.01; primary endpoint) and HTPR rates (16% vs. 42%, p < 0.01) at 30 days than patients in the control group. Statin treatment (odds ratio [OR]: 3.8, p = 0.011), baseline PRU < 298 (OR: 10.7, p = 0.0001), noncarrier status of CYP2C19✱2 loss-of-function allele (OR: 2.9, p = 0.043), and age (OR: 0.94, p = 0.032) were variables significantly associated with optimal PD response (PRU < 235) at 30 days. No correlations were found between PRU and lipid fractions.
 
 Conclusions
 

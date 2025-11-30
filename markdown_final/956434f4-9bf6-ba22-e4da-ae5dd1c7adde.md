@@ -27,7 +27,7 @@ J. 3.47
 
 > Let's see… What do we have here? The user is asking for the pH of a 0.3 M acetic acid solution, given Kₐ = 1.8 × 10⁻⁵, and to select the correct option from the provided choices. Let's break this down step-by-step. First, I need to think about the acid dissociation equilibrium and the expression for Ka. Then, I should set up an ICE table and make a reasonable approximation for the small dissociation. Next, I will solve for the hydrogen ion concentration and calculate pH. After that, I should verify the approximation and, if needed, iterate or use the quadratic formula. Finally, I will compare the result to the answer choices and confirm the closest match.
 
-> Let me first confirm the equilibrium and the Ka expression. Acetic acid dissociates as CH3COOH ⇌ H+ + CH3COO−, so Kₐ = [H⁺][CH₃COO⁻]/[CH₃COOH] = 1.8 × 10⁻⁵, and I should remember that the initial concentration of acetic acid is 0.3 M, with [H+] and [CH3COO−] initially zero [^cd7c14f4].
+> Let me first confirm the equilibrium and the Ka expression. Acetic acid dissociates as CH3COOH ⇌ H+ + CH3COO−, so Kₐ = [H⁺] [CH₃COO⁻]/[CH₃COOH] = 1.8 × 10⁻⁵, and I should remember that the initial concentration of acetic acid is 0.3 M, with [H+] and [CH3COO−] initially zero [^cd7c14f4].
 
 > I will now examine the ICE table setup. Let x be the concentration of H+ and CH3COO− at equilibrium; then [CH3COOH] at equilibrium is 0.3 − x, and Kₐ = x²/(0.3 − x). Wait, let me verify the assumption before proceeding: because acetic acid is a weak acid and Ka is small, I can reasonably assume x is much less than 0.3, so 0.3 − x ≈ 0.3, which simplifies the equation to x²/0.3 ≈ 1.8 × 10⁻⁵ [^cd7c14f4].
 

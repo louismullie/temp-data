@@ -337,9 +337,7 @@ Importance Fluid overload occurring as a consequence of overly aggressive fluid 
 
 A low central venous pressure was associated with fluid responsiveness, but a CVP greater than the threshold made fluid responsiveness less likely. Respiratory variation in vena cava diameter measured by ultrasound predicted fluid responsiveness in a subgroup of patients without spontaneous respiratory efforts. Patients with less vena cava distensibility were not as likely to be fluid responsive. Conclusions and Relevance Passive leg raising followed by measurement of cardiac output or related parameters may be the most useful test for predicting fluid responsiveness in hemodynamically unstable adults.
 
-The usefulness of respiratory variation in the vena cava requires confirmatory studies. Bentzer P, Griesdale DE, Boyd J, MacLean K, Sirounis D, Ayas NT. Will This Hemodynamically Unstable Patient Respond to a Bolus of Intravenous Fluids. JAMA. 2016; 316: 1298–1309. doi:
-10. 1001/jama.
-2016. 12310.
+The usefulness of respiratory variation in the vena cava requires confirmatory studies. Bentzer P, Griesdale DE, Boyd J, MacLean K, Sirounis D, Ayas NT. Will This Hemodynamically Unstable Patient Respond to a Bolus of Intravenous Fluids. JAMA. 2016; 316: 1298–1309. doi: 10.1001/jama.2016.12310
 
 ---
 

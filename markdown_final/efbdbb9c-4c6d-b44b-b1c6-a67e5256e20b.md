@@ -628,9 +628,7 @@ A man in his 70s presented with painless bilateral eyelid oedema and vertical di
 
 ### A conflicting case of ophthalmoparesis… [^5f273931]. JAMA Network (2025). Excellent credibility.
 
-A 37-year-old Asian nonsmoking man with no known medical or drug history presented with an insidious onset of left-eye ptosis and subsequent painless vertical diplopia for 1 year. He did not complain of headaches, facial numbness, dysarthria, facial droop, dysphagia, or limb weakness or numbness. There was no history of joint pain or constitutional symptoms. Neurological examination revealed a nonfatigable partial left-eyelid ptosis, left-eye hypotropia at primary position, and impaired left eye supraduction with a nonreactive left pupil on direct and consensual light reflexes. There were no other cranial nerve deficits. Limb reflexes, motor testing, and sensory testing results were normal, and the plantar responses were flexor. Cheng N. A Conflicting Case of Ophthalmoparesis. JAMA Neurol. 2022; 79: 1202–1203. doi:
-10. 1001/jamaneurol.
-2022.
+A 37-year-old Asian nonsmoking man with no known medical or drug history presented with an insidious onset of left-eye ptosis and subsequent painless vertical diplopia for 1 year. He did not complain of headaches, facial numbness, dysarthria, facial droop, dysphagia, or limb weakness or numbness. There was no history of joint pain or constitutional symptoms. Neurological examination revealed a nonfatigable partial left-eyelid ptosis, left-eye hypotropia at primary position, and impaired left eye supraduction with a nonreactive left pupil on direct and consensual light reflexes. There were no other cranial nerve deficits. Limb reflexes, motor testing, and sensory testing results were normal, and the plantar responses were flexor. Cheng N. A Conflicting Case of Ophthalmoparesis. JAMA Neurol. 2022; 79: 1202–1203. doi: 10.1001/jamaneurol.2022
 
 3149 © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
 

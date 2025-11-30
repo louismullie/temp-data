@@ -704,9 +704,7 @@ Regarding specific circumstances for thrombotic thrombocytopenic purpura, more s
 
 ### Thrombotic thrombocytopenic purpura: survival in pregnancy with heparin sodium therapy… [^1e6e65d1]. JAMA Network (2025). Excellent credibility.
 
-Richardson JH, Smith BT. Thrombotic Thrombocytopenic Purpura: Survival in Pregnancy With Heparin Sodium Therapy. JAMA. 1968; 203: 518–519. doi:
-10. 1001/jama.
-1968. 03140070074020 A patient with thrombotic thrombocytopenic purpura complicating pregnancy survived. This was attributed to heparin sodium therapy. Customize your JAMA Network experience by selecting one or more topics from the list below.
+Richardson JH, Smith BT. Thrombotic Thrombocytopenic Purpura: Survival in Pregnancy With Heparin Sodium Therapy. JAMA. 1968; 203: 518–519. doi: 10.1001/jama.1968.03140070074020 A patient with thrombotic thrombocytopenic purpura complicating pregnancy survived. This was attributed to heparin sodium therapy. Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 
@@ -936,9 +934,7 @@ Thrombotic thrombocytopenic purpura (TTP) is a puzzling disorder in many ways. T
 
 ### Pregnancy in women with immune thrombocytopenic purpura… [^a1d2f000]. JAMA Network (2025). Excellent credibility.
 
-Moutet A, Fromont P, Farcet J, et al. Pregnancy in Women With Immune Thrombocytopenic Purpura. Arch Intern Med. 1990; 150: 2141–2145. doi:
-10. 1001/archinte.
-1990. 00390210105023.
+Moutet A, Fromont P, Farcet J, et al. Pregnancy in Women With Immune Thrombocytopenic Purpura. Arch Intern Med. 1990; 150: 2141–2145. doi: 10.1001/archinte.1990.00390210105023
 - Thirty-six women with immune thrombocytopenic purpura were studied during 37 pregnancies, and maternal characteristics with predictive value for the fetal platelet count were determined. Nine neonates were thrombocytopenic, with a platelet count of less than 50 × 109/L in eight. Four of these nine neonates delivered to a subgroup of 31 mothers were studied prospectively; the frequency of thrombocytopenia in neonates of women with immune thrombocytopenic purpura was thus 13%. Only two of these nine neonates presented with hemorrhagic syndromes. The frequency of neonatal thrombocytopenia was higher in mothers with deep thrombocytopenia and in those who had not responded to corticosteroid treatment following diagnosis.
 
 No prognostic value could be assigned to the other maternal characteristics studied, such as a history of splenectomy, maternal treatment at the time of delivery, or the presence of platelet autoantibodies evaluated either with the platelet immunofluorescence test or the platelet Western blot immunoassay. Customize your JAMA Network experience by selecting one or more topics from the list below.

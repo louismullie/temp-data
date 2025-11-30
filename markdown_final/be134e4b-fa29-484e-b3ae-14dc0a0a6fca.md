@@ -879,9 +879,7 @@ Regarding nonpharmacologic interventions for frostbite, more specifically with r
 
 ### Ice water as primary treatment of burns… [^115gJdm1]. JAMA Network (2010). Excellent credibility.
 
-Shulman AG. Ice Water as Primary Treatment of Burns: Simple Method of Emergency Treatment of Burns to Alleviate Pain, Reduce Sequelae, and Hasten Healing. JAMA. 1960; 173: 1916–1919. doi:
-10. 1001/jama.
-1960. 03020350034007. Patients with burns of all degrees involving less than 20% of the body surface were treated by immersion of the burned areas in baths of ice water or by applying ice-cold compresses as promptly as possible. In each of 150 cases, pain was immediately relieved and the extent of the redness and blistering visibly reduced. Local cooling was continued for several hours, until pain no longer returned when the part was taken out of the bath. No infections occurred in patients treated within one hour after the burn. This form of treatment has advantages in emergency care for lesser burns, since it is easily available, inexpensive, humane, and promptly effective. Customize your JAMA Network experience by selecting one or more topics from the list below.
+Shulman AG. Ice Water as Primary Treatment of Burns: Simple Method of Emergency Treatment of Burns to Alleviate Pain, Reduce Sequelae, and Hasten Healing. JAMA. 1960; 173: 1916–1919. doi: 10.1001/jama.1960.03020350034007 Patients with burns of all degrees involving less than 20% of the body surface were treated by immersion of the burned areas in baths of ice water or by applying ice-cold compresses as promptly as possible. In each of 150 cases, pain was immediately relieved and the extent of the redness and blistering visibly reduced. Local cooling was continued for several hours, until pain no longer returned when the part was taken out of the bath. No infections occurred in patients treated within one hour after the burn. This form of treatment has advantages in emergency care for lesser burns, since it is easily available, inexpensive, humane, and promptly effective. Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 

@@ -521,9 +521,7 @@ Patients with mild to moderate calcific aortic stenosis often have no symptoms, 
 
 Referral to a cardiologist is recommended for patients with severe aortic stenosis or those with symptoms of aortic stenosis and an abnormal aortic valve on echocardiography. No currently available medications slow progression of calcific aortic stenosis. However, management of high blood pressure and smoking cessation can help reduce risk of more rapid progression of aortic stenosis and decrease risk of coronary heart disease. Aortic valve replacement is recommended for patients who have symptoms due to severe aortic stenosis. There are 2 main approaches to AVR: Surgical AVR involves open-heart surgery with removal of the aortic valve and replacement with a new valve that is either mechanical or tissue.
 
-Transcatheter AVR is a less invasive procedure in which a new aortic valve is inserted through a catheter, usually in the groin, and guided through the arterial system to the heart. Once placed, the new valve expands, and the old valve is pushed aside. Patients with symptomatic severe aortic stenosis who do not undergo AVR have a 50% mortality rate at 1 year. However, patients who undergo either SAVR or TAVR have similar survival rates as people without aortic stenosis. American College of Cardiology CardioSmart Hub Published Online: February 27, 2025. doi:
-10. 1001/jama.
-2025. **0667 Conflict of Interest Disclosures**: None reported.
+Transcatheter AVR is a less invasive procedure in which a new aortic valve is inserted through a catheter, usually in the groin, and guided through the arterial system to the heart. Once placed, the new valve expands, and the old valve is pushed aside. Patients with symptomatic severe aortic stenosis who do not undergo AVR have a 50% mortality rate at 1 year. However, patients who undergo either SAVR or TAVR have similar survival rates as people without aortic stenosis. American College of Cardiology CardioSmart Hub Published Online: February 27, 2025. doi: 10.1001/jama.2025.**0667 Conflict of Interest Disclosures**: None reported.
 
 ---
 

@@ -735,9 +735,7 @@ Search strategy and screening — two-step screening (title/abstract, then full 
 
 Obstructive sleep apnea in children is characterized by snoring, disrupted sleep, and daytime sequelae such as hyperactivity and poor behavior. The severity of OSA in children is classified according to the apnea–hypopnea index on full-night polysomnography. Children with an AHI score greater than 1 or 2 and less then 10 are considered to have mild to moderate OSA. Traditionally, adenotonsillectomy has been the primary treatment for pediatric OSA. However, over the past several years controversy has emerged regarding the best management strategy for pediatric patients with nonsevere disease. Recent studies have shown that watchful waiting1 and therapy with anti-inflammatory medications2 are also effective treatments for children with mild to moderate OSA. Further research is needed to establish evidence-based treatment protocols for children with nonsevere OSA. Baldassari CM.
 
-Do Young Children With Nonsevere Obstructive Sleep Apnea Benefit From Adenotonsillectomy. The CHAT vs the KATE Study. JAMA Otolaryngol Head Neck Surg. 2020; 146: 654–655. doi:
-10. 1001/jamaoto.
-2020. 0878. © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
+Do Young Children With Nonsevere Obstructive Sleep Apnea Benefit From Adenotonsillectomy. The CHAT vs the KATE Study. JAMA Otolaryngol Head Neck Surg. 2020; 146: 654–655. doi: 10.1001/jamaoto.2020.0878 © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 

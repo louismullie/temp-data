@@ -922,9 +922,7 @@ PCV/PPSV vaccination — adults with HIV with prior PCV13 or PPSV23: For those w
 
 Dao TH, Jackson CD. What Is Community-Acquired Pneumonia. JAMA. 2025; 333:
 
-442. doi:
-10. 1001/jama.
-2024. 22251 Community-acquired pneumonia is a lung infection that is contracted outside of a hospital. In the US, CAP results in about 1. 4 million emergency department visits, 740 000 hospitalizations, and 41 108 deaths each year. Mortality after hospitalization for CAP is 2. 8% for adults younger than 60 years and
+442. doi: 10.1001/jama.2024.22251 Community-acquired pneumonia is a lung infection that is contracted outside of a hospital. In the US, CAP results in about 1. 4 million emergency department visits, 740 000 hospitalizations, and 41 108 deaths each year. Mortality after hospitalization for CAP is 2. 8% for adults younger than 60 years and
 26. 8% for those aged 60 years or older who have multiple medical conditions.
 
 1. Risk factors for CAP include older age, cigarette smoking, chronic lung diseases such as asthma and chronic obstructive pulmonary disease, and other chronic conditions, such as HIV, cancer, diabetes, and heavy alcohol use. CAP can be caused by a variety of organisms, including bacteria, viruses, and fungi, although the pathogen is often not identified. Among hospitalized patients with CAP, the most common causes are viruses and the bacterium Streptococcus pneumoniae.
@@ -933,9 +931,7 @@ Symptoms of CAP may include fever, chills, cough with or without sputum, shortne
 
 For outpatients, suspected bacterial CAP is typically treated with a 3-day course of oral antibiotics or combination oral antibiotics for those with multiple medical conditions. Hospitalized patients with suspected bacterial CAP should receive intravenous antibiotics for at least 3 days. Hospitalized patients with severe CAP should also receive steroids. Patients with severe CAP should be closely monitored and treated in an intensive care unit. Those who develop respiratory failure may need mechanical ventilation. Medications to increase blood pressure should be used for patients with CAP who develop shock. People with a prior episode of CAP are at increased risk of CAP and should be advised about smoking and alcohol cessation and relevant vaccinations.
 
-Vaccination for pneumococcal pneumonia, influenza, COVID-19, and respiratory syncytial virus can help prevent or decrease the severity of CAP, especially in older adults or those with chronic medical conditions such as heart disease, asthma, COPD, HIV, or cancer. People with prior CAP should also be advised to brush their teeth daily and have routine dental cleanings. Patients with swallowing problems should be counseled about behaviors to decrease the risk of aspiration, such as taking small bites of food and sitting upright while eating and for 30 minutes after meals. Centers for Disease Control and Prevention. Published Online: January 9, 2025. doi:
-10. 1001/jama.
-2024. **22251 Conflict of Interest Disclosures**: None reported.
+Vaccination for pneumococcal pneumonia, influenza, COVID-19, and respiratory syncytial virus can help prevent or decrease the severity of CAP, especially in older adults or those with chronic medical conditions such as heart disease, asthma, COPD, HIV, or cancer. People with prior CAP should also be advised to brush their teeth daily and have routine dental cleanings. Patients with swallowing problems should be counseled about behaviors to decrease the risk of aspiration, such as taking small bites of food and sitting upright while eating and for 30 minutes after meals. Centers for Disease Control and Prevention. Published Online: January 9, 2025. doi: 10.1001/jama.2024.**22251 Conflict of Interest Disclosures**: None reported.
 
 ---
 

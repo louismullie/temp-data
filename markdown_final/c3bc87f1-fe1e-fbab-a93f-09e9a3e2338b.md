@@ -801,9 +801,7 @@ Arteriovenous fistula (AVF) maturation assessment — clinical examination and u
 
 - A prosthetic arteriovenous fistula is often necessary in patients with chronic renal failure who lack suitable venous anatomy for the construction of an autogenous AV access. Not infrequently, these conduits fail as a result of neointimal hyperplasia obstructing the outflow tract at the venous anastomosis. Six patients underwent one or more attempts at balloon dilation of an anastomotic stenosis. Grafts had either thrombosed, exhibited poor arterial inflow, or developed high venous pressures. Eight of ten dilations were outright failures, while two dilations each provided an additional three months of graft function before surgical revision became necessary. We conclude that percutaneous transluminal angioplasty is of very limited value as a salvage procedure in the failing synthetic vascular access, and should be attempted only as a possible temporizing measure in those individuals in whom definitive surgical correction must be delayed.
 
-Tortolani EC, Tan AHS, Butchart S. Percutaneous Transluminal Angioplasty: An Ineffective Approach to the Failing Vascular Access. Arch Surg. 1984; 119: 221–223. doi:
-10. 1001/archsurg.
-1984. 01390140077013. © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
+Tortolani EC, Tan AHS, Butchart S. Percutaneous Transluminal Angioplasty: An Ineffective Approach to the Failing Vascular Access. Arch Surg. 1984; 119: 221–223. doi: 10.1001/archsurg.1984.01390140077013 © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 
