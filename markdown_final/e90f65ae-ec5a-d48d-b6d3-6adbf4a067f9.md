@@ -927,5 +927,3 @@ Consider also administering thrombin.
 ### EASL clinical practice guidelines on TIPS [^11388fdf]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to consider performing TIPS creation as a first-line alternative to nonselective β-blockers with endoscopic treatment or balloon-occluded retrograde transvenous obliteration to prevent rebleeding in patients with bleeding related to gastric varices or ectopic varices especially if the bleeding is from type 2 gastroesophageal varices or type 1 isolated gastric varices.
-
----

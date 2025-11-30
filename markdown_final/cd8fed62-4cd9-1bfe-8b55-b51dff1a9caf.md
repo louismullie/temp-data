@@ -1161,5 +1161,3 @@ Metformin therapy is limited in patients with chronic kidney disease (CKD) due t
 ### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^7895e407]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, KDIGO 2020 guidelines recommend to monitor for vitamin B12 deficiency in patients receiving metformin for > 4 years.
-
----

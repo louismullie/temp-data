@@ -1201,5 +1201,3 @@ g. Meters should measure and report plasma glucose concentrations to facilitate 
 h. Studies are needed to determine the analytical goals (quality specifications) for glucose meters in SMBG and in intensive care units. C (moderate)
 
 i. Recommendations for future research: Important end points in studies of SMBG should include, at a minimum, hemoglobin A 1c (HbA 1c) and frequency of hypoglycemic episodes to ascertain whether improved meters enable patients to achieve better glucose control. For studies of meter use in intensive or critical care, important end points include mean blood glucose, frequency of hypoglycemia, and variation of glucose control. Ideally, outcomes (e.g. long-term complications) should also be examined. GPP
-
----

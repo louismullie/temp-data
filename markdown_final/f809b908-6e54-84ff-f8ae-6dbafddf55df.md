@@ -1185,5 +1185,3 @@ Four of the five hypertrophic cardiomyopathy studies used the ICD-9-CM diagnosis
 Other inherited heart diseases
 
 One study defined six inherited heart diseases using ICD-9 diagnosis codes. In addition to HCM, these conditions include Brugada syndrome (ICD-9 code of 746.89), catecholaminergic polymorphic ventricular tachycardia (427.1) and long QT syndrome (426.82). Despite left ventricular non-compaction and arrhythmogenic right ventricular cardiomyopathy being distinct diseases, both were identified using one ICD-9 code (425.4).
-
----

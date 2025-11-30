@@ -1203,5 +1203,3 @@ Despite a robust understanding of the DRG and its importance in acute nociceptio
 ### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^d32924b3]. DoD/VA (2022). High credibility.
 
 Non-surgical invasive therapies research topics include high quality RCTs comparing injection and needle therapies (e.g., traditional acupuncture, battlefield acupuncture, and dry needling) to credible comparators (e.g., sham injection/needling, usual care, or no treatment) to assess for needle effect; research on both short-term and long-term measures of pain and function; research on anatomic targets of ablation and orthobiologics; studies on spinal cord stimulation that are not industry-funded and assess long-term waning effects; and research on risk for surgical intervention after use of non-surgical invasive interventions.
-
----

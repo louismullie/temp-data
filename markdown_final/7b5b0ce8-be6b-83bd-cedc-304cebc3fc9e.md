@@ -1166,5 +1166,3 @@ The GesTIO protocol — a subcutaneous insulin order set for the management of a
 ### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^a7b0a7a4]. Endocrine Practice (2023). High credibility.
 
 Prandial insulin titration and monitoring: Goal premeal glucose targets are 110 to 140 mg/dL, and prandial insulin should be titrated every 2 to 3 days based on the premeal glucose of the meal until glycemic targets are met; use of CGM is recommended to reach glycemic goals safely.
-
----

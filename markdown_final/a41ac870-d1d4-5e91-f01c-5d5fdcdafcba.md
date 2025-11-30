@@ -1515,5 +1515,3 @@ Buprenorphine for chronic pain in persons with opioid use disorder — formulati
 ### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^5093258a]. Annals of Internal Medicine (2023). High credibility.
 
 Morphine milligram equivalent (MME) conversion factors — commonly prescribed full opioid receptor agonists include: Codeine 0.15, Tapentadol 0.4, Morphine 1, Hydrocodone 1, Oxycodone 1.5, Oxymorphone 3, and Hydromorphone 4. For tapentadol, the conversion factor estimate is based upon μ-receptor agonist activity in animal models where tapentadol has been shown to be 2–3 times less potent than morphine.
-
----

@@ -1247,5 +1247,3 @@ At 12h, lipopolysaccharide induced an overexpression of corticotropin-releasing 
 Conclusions
 
 Our endotoxemic model induces an initial activation of the hypothalamic-pituitary-adrenal axis, followed by a secondary inhibition of adrenal steroidogenesis processes. Ketamine and etomidate inhibit the enzyme expression and activity of the adrenal gland at the early stage.
-
----

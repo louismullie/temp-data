@@ -1206,5 +1206,3 @@ A 34-year-old woman had recurrent episodes of crampy, diffuse abdominal pain not
 ### Haematological management of major haemorrhage: a British Society for Haematology guideline [^80ccabd2]. British Journal of Haematology (2022). High credibility.
 
 Regarding therapeutic procedures for red blood cell transfusion, more specifically with respect to transfusion strategies, massive bleeding, BSH 2022 guidelines recommend to administer plasma (in a 1:1 ratio with RBCs) early as part of initial resuscitation in patients with major traumatic hemorrhage until results from coagulation monitoring are available.
-
----

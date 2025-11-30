@@ -530,7 +530,7 @@ Advances in suction-assisted lipectomy (SAL) include improved instrumentation, b
 
 Methods
 
-During a period of 22 months, 581 consecutive patients (486 females and 95 males) underwent 1,000 LAL/SAL operations, 545 of whom had multiple procedures performed. None of the patients had a body mass index (BMI) higher than 30 kg/m2. The patients ranged in age from 18 to 62 years. The fat aspirate ranged from 50 to 1,400 ml. Patients were given an oral sedative, an antibiotic, and an analgesic. Ringer's lactate solution containing lidocaine and epinephrine was injected into the subcutaneous space. The 1,064-nm and/or 1,320-nm neodymium:yttrium-aluminum-garnet (Nd:YAG) laser was used for laser lipolysis followed by SAL using standard and/or power-assisted liposuction (PAL) cannulas. The treated areas included the neck, triceps, male breast, midback, flanks, axilla, abdomen, mons pubis, thighs, presacrum, and knees. No patient was administered intravenous sedation or general anesthesia.
+During a period of 22 months, 581 consecutive patients (486 females and 95 males) underwent 1,000 LAL/SAL operations, 545 of whom had multiple procedures performed. None of the patients had a body mass index (BMI) higher than 30 kg/m². The patients ranged in age from 18 to 62 years. The fat aspirate ranged from 50 to 1,400 ml. Patients were given an oral sedative, an antibiotic, and an analgesic. Ringer's lactate solution containing lidocaine and epinephrine was injected into the subcutaneous space. The 1,064-nm and/or 1,320-nm neodymium:yttrium-aluminum-garnet (Nd:YAG) laser was used for laser lipolysis followed by SAL using standard and/or power-assisted liposuction (PAL) cannulas. The treated areas included the neck, triceps, male breast, midback, flanks, axilla, abdomen, mons pubis, thighs, presacrum, and knees. No patient was administered intravenous sedation or general anesthesia.
 
 Results
 
@@ -948,7 +948,7 @@ Intra-articular PRP: Several systematic reviews have analyzed the available lite
 
 ### Ultrasound-guided intra-articular knee injection in an obese patient [^becb5664]. American Journal of Physical Medicine & Rehabilitation (2012). Low credibility.
 
-A 35-yr-old woman was referred to our outpatient clinic for a right intra-articular knee aspiration and injection. She had a medical history notable for lymphedema and morbid obesity (Fig. 1). Her body mass index was recently calculated at greater than 60 kg/m(2). She had a history of four previous nonguided knee joint injections performed elsewhere that provided no significant improvement in pain. On physical examination, it was difficult to localize common knee joint bony landmarks, including the medial and lateral borders of the patella (Fig. 2). Consequently we opted to utilize ultrasound guidance for the knee joint injection via the technique described herein.
+A 35-yr-old woman was referred to our outpatient clinic for a right intra-articular knee aspiration and injection. She had a medical history notable for lymphedema and morbid obesity (Fig. 1). Her body mass index was recently calculated at greater than 60 kg/m². She had a history of four previous nonguided knee joint injections performed elsewhere that provided no significant improvement in pain. On physical examination, it was difficult to localize common knee joint bony landmarks, including the medial and lateral borders of the patella (Fig. 2). Consequently we opted to utilize ultrasound guidance for the knee joint injection via the technique described herein.
 
 ---
 
@@ -1178,5 +1178,3 @@ Septic arthritis was confirmed in 61 of 281 patients who underwent aspiration. I
 Conclusion
 
 When evaluating for septic arthritis of a native adult knee, several independent associations were identified for variables related and unrelated to joint aspiration. The associated multivariable model discriminated very well between patients with and without septic arthritis, outperforming previous univariate assessments. A web-based tool was created that estimates the probability of septic arthritis based on this model. This may aid decision-making in complex clinical scenarios.
-
----

@@ -1176,7 +1176,7 @@ Association of Time to Death and Other Key Variables With Death-Censored Graft S
 
 A, Kaplan-Meier plot as a visual representation of time-to-death categories. B, Donor age. C, Time to death (withdrawal of life-sustaining treatment to mechanical asystole). D, Asystolic time. Restricted cubic splines had 4 knots and were adjusted for all factors in eTable 8 in Supplement 1. Results were pooled from 20 imputed datasets. Includes patients with complete graft survival follow-up data (n = 7113). HR indicates hazard ratio.
 
-All these findings were confirmed on restricted cubic spline modeling (Figure 3 B-D; eFigure 5 in Supplement 1). These splines revealed the association between donor age and graft survival to be nonlinear (χ 2 2 = 9.69; P = 0.008). Analysis of transplant survival (graft loss or patient death) was consistent with the death-censored graft survival model regarding TTD and ischemic times (eTable 9 in Supplement 1).
+All these findings were confirmed on restricted cubic spline modeling (Figure 3 B-D; eFigure 5 in Supplement 1). These splines revealed the association between donor age and graft survival to be nonlinear (χ²₂ = 9.69; P = 0.008). Analysis of transplant survival (graft loss or patient death) was consistent with the death-censored graft survival model regarding TTD and ischemic times (eTable 9 in Supplement 1).
 
 ---
 
@@ -1243,5 +1243,3 @@ Given that residual ferroptotic activity persisted despite fHb removal during RB
 Machine perfusion of deceased donor organs is a rapidly developing field that holds the potential to change transplantation medicine. Despite the prevailing assumption that RBC-based NMP confers protection to deceased donor kidneys, our findings challenge this notion by demonstrating that the use of RBCs as oxygen carriers, and associated hemolysis, may actually offset the anticipated benefits of normothermic perfusion. While our analysis primarily focused on prolonged preservation (≥ 6 h), iron uptake from the perfusate, a ferroptosis gene signature, and release of phospholipid peroxidation products were already observed after 6 h of RBC-based perfusion. This is concerning given an increasing number of clinical trials looking into normothermic kidney perfusion, and clinical implementation of kidney NMP by commercial organ procurement organizations.
 
 Consequently, as our study underscores the pathological role of hemolysis and iron in exacerbating AKI, we urge caution in the clinical implementation of RBC-based perfusion for deceased donor kidneys. Our findings challenge the current kidney preservation dogma and necessitate reconsideration of the framework needed to establish a protective environment to facilitate ex situ reconditioning, repair, and regeneration of deceased donor kidneys.
-
----

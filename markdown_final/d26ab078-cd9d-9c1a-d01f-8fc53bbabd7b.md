@@ -7,10 +7,10 @@
 
 ## Question
 
-1. Given a geometric sequence $\left\{a_{n}\right\}$ with a common ratio of $q(q \neq 1)$, let $b_{1} = a_{1}+a_{2}+a_{3}, b_{2} = a_{4}+a_{5}+$ $a_{6}, \cdots, b_{n} = a_{3 n-2}+a_{3 n-1}+a_{3 n}, \cdots$, then the sequence $\left\{b_{n}\right\}$
+1. Given a geometric sequence {aₙ} with a common ratio of q(q ≠ 1), let b₁ = a₁ + a₂ + a₃, b₂ = a₄ + a₅ + a₆, …, bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎, …, then the sequence {bₙ}
 A. is an arithmetic sequence
-B. is a geometric sequence with a common ratio of $q$
-C. is a geometric sequence with a common ratio of $q^{3}$
+B. is a geometric sequence with a common ratio of q
+C. is a geometric sequence with a common ratio of q³
 D. is neither an arithmetic sequence nor a geometric sequence
 
 ---
@@ -33,7 +33,7 @@ D. is neither an arithmetic sequence nor a geometric sequence
 
 ---
 
-The sequence ({b_n}) is a geometric sequence with a common ratio of (q^3). This is because each term (b_n) is the sum of three consecutive terms of the geometric sequence ({a_n}), and the ratio of successive terms (b_{n+1}/b_n) simplifies to (q^3). Therefore, the correct answer is **C**.
+The sequence ({bₙ}) is a geometric sequence with a common ratio of (q³). This is because each term (bₙ) is the sum of three consecutive terms of the geometric sequence ({aₙ}), and the ratio of successive terms ([bₙ₊₁/bₙ]) simplifies to (q³). Therefore, the correct answer is **C**.
 
 ---
 
@@ -43,27 +43,19 @@ The sequence ({b_n}) is a geometric sequence with a common ratio of (q^3). This 
 
 Given that ({a_n}) is a geometric sequence with first term (a_1) and common ratio (q), we have:
 
-[
-a_n = a_1 q^{n-1}
-]
+aₙ = a₁ qⁿ⁻¹
 
 Now, express (b_n) as the sum of three consecutive terms of ({a_n}):
 
-[
-b_n = a_{3n-2} + a_{3n-1} + a_{3n}
-]
+bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎
 
 Substitute the geometric sequence formula into the expression for (b_n):
 
-[
-b_n = a_1 q^{3n-3} + a_1 q^{3n-2} + a_1 q^{3n-1}
-]
+bₙ = a₁ q^(3n−3) + a₁ q^(3n−2) + a₁ q^(3n−1)
 
 Factor out (a_1 q^{3n-3}):
 
-[
-b_n = a_1 q^{3n-3} (1 + q + q^2)
-]
+bₙ = a₁ q^(3n−3) (1 + q + q²)
 
 ---
 
@@ -71,17 +63,13 @@ b_n = a_1 q^{3n-3} (1 + q + q^2)
 
 To determine whether ({b_n}) is a geometric sequence, we calculate the ratio of successive terms:
 
-[
-\\frac{b_{n+1}}{b_n} = \\frac{a_1 q^{3(n+1)-3} (1 + q + q^2)}{a_1 q^{3n-3} (1 + q + q^2)}
-]
+[bₙ₊₁/bₙ] = [a₁ q^(3(n+1)−3) (1 + q + q²)/(a₁ q^(3n−3) (1 + q + q²))]
 
 Simplify the expression:
 
-[
-\\frac{b_{n+1}}{b_n} = \\frac{q^{3n}}{q^{3n-3}} = q^3
-]
+[bₙ₊₁/bₙ] = [q^(3n)/q^(3n−3)] = q³
 
-Since the ratio (\\frac{b_{n+1}}{b_n}) is constant and equal to (q^3), the sequence ({b_n}) is a geometric sequence with a common ratio of (q^3).
+Since the ratio ([bₙ₊₁/bₙ]) is constant and equal to (q³), the sequence ({bₙ}) is a geometric sequence with a common ratio of (q³).
 
 ---
 
@@ -933,7 +921,7 @@ A predictive model for the undersampling error leveraging on perturbation theory
 
 Results
 
-Numerical simulations and in vivo results demonstrate that the undersampling errors can be suppressed by flip angle optimization. Analysis of the in vivo results show that a sequence optimized for improved robustness against undersampling with a flip angle train of length 400 yielded significantly lower median absolute errors in < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 5 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 6 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 2 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 9 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math > and < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 7 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 9 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 2 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 3 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math > compared to the conventional (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 8 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 0 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 1 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 9 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math >, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 14 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 5 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 2 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 6 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math >) and CRB-based (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 21 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 6 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 4 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 1 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math >, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mn > 31 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 4 < /mml:mn > < mml:mo > % < /mml:mo > < mml:mo > ± < /mml:mo > < mml:mn > 4 < /mml:mn > < mml:mo >. < /mml:mo > < mml:mn > 4 < /mml:mn > < mml:mo > % < /mml:mo > < /mml:math >) sequences.
+Numerical simulations and in vivo results demonstrate that the undersampling errors can be suppressed by flip angle optimization. Analysis of the in vivo results show that a sequence optimized for improved robustness against undersampling with a flip angle train of length 400 yielded significantly lower median absolute errors in T₁: 5.6% ± 2.9% and T₂: 7.9% ± 2.3% compared to the conventional (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 8.0% ± 1.9%, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 14.5% ± 2.6%) and CRB-based (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 21.6% ± 4.1%, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 31.4% ± 4.4%) sequences.
 
 Conclusion
 
@@ -1155,5 +1143,3 @@ For conventional performance metrics, the reconstructions that matched best with
 Conclusion
 
 Reference data containing hidden noise can substantially mislead the ranking of image reconstruction methods when using conventional error metrics, but this issue can be mitigated with alternative error metrics.
-
----

@@ -814,5 +814,3 @@ Acute appendicitis imaging in adults — initial and subsequent modalities: The 
 ### Clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis: approved by ACEP board of directors February 1, 2023 [^d75f6714]. Annals of Emergency Medicine (2023). High credibility.
 
 Emergency department abdominal pain — prevalence and malpractice context are highlighted: In 2005, patients with abdominal pain composed 6.8% of 115 million annual emergency department (ED) visits. Ten percent of closed malpractice claims for emergency physicians involve the missed diagnosis of abdominal pain. Among children between 6 and 17 years of age, appendicitis is the second most common cause of malpractice litigation against emergency physicians.
-
----

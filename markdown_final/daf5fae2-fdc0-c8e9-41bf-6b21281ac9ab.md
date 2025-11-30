@@ -1067,5 +1067,3 @@ These consensus statements provide practical guidance for surfactant administrat
 ### The role of surfactant therapy in nonrespiratory distress syndrome conditions in neonates [^a9dfdd77]. American Journal of Perinatology (2016). Low credibility.
 
 While treatment of respiratory distress syndrome (RDS) with surfactant in premature neonates is well established, evidence for its use in non-RDS conditions, especially in the term neonate, has been less abundant. The last published review on a PubMed search was in 2001. In this review, we comprehensively and critically evaluated the evidence from the literature regarding the use of surfactant in specific non-RDS disorders in neonates. Surfactant administered as a bolus should be considered in the treatment of meconium aspiration syndrome with progressive respiratory failure. While controversial in congenital diaphragmatic hernia, it should be considered in Group B streptococcal pneumonia. As evidence evolves, we anticipate the broader application and more routine use of surfactant therapy for respiratory failure because of causes other than RDS.
-
----

@@ -866,5 +866,3 @@ Regarding diagnostic investigations for community-acquired pneumonia, more speci
 ### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^29f2d516]. Clinical Infectious Diseases (2016). Medium credibility.
 
 Regarding medical management for hospital-acquired pneumonia, more specifically with respect to empiric antibiotic therapy, general principles, ATS/IDSA 2016 guidelines recommend to consider determining antibiotic dosing using pharmacokinetic and pharmacodynamic data, rather than the manufacturer's prescribing information, in patients with HAP.
-
----

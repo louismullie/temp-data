@@ -981,5 +981,3 @@ In most critically ill patients, a restrictive strategy was preferable to a perm
 ### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^b2ca1e0a]. The American Journal of Gastroenterology (2021). High credibility.
 
 Upper gastrointestinal bleeding — trial outcomes prioritization: The critical outcome was further bleeding, which includes persistent and recurrent bleeding. Further bleeding was recommended as the primary endpoint for RCTs of UGIB management by an International Consensus Panel because prevention of further bleeding is the primary clinical goal for patients with UGIB. Mortality was defined as an important outcome but not critical for decision making because death is uncommon in patients with UGIB (~2% in the United States), and sample sizes for most RCTs are not based on assessment of mortality.
-
----

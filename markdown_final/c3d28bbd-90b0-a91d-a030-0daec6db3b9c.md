@@ -975,5 +975,3 @@ Patients treated with curative intent for adenocarcinoma of the stomach or gastr
 Exposure
 
 Included patients were stratified into two groups according to surgical approach, i.e. LG and OG (reference group). Analyses were performed based on the intention-to-treat principle, with laparoscopic procedures converted to open included in the LG group.
-
----

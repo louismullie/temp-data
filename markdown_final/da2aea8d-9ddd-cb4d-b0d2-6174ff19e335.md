@@ -976,5 +976,3 @@ Overall uNCR was highly variable with no diagnostic threshold for kidney transpl
 Conclusion
 
 The urinary nitrate to creatinine ratio is not a useful biomarker for renal transplant rejection.
-
----

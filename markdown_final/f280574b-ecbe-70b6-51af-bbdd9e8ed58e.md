@@ -982,5 +982,3 @@ Immediate invasive strategy in NSTEMI patients is associated with lower rates of
 ### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^cc9aadb2]. Journal of the American College of Cardiology (2025). High credibility.
 
 Intermediate- or low-risk NSTE-ACS with planned angiography — timing: In intermediate- or low-risk patients for whom angiography is planned in NSTE-ACS, timing does not appear to be critical, and a delayed invasive strategy within 48 to 72 hours does not appear to increase future risk of MACE, and randomized trial data have not demonstrated an overall significant difference in death or MI between an earlier versus delayed invasive approach in nonselected patients with NSTEMI.
-
----

@@ -933,5 +933,3 @@ Endocrine Society guideline — recommendation grading and evidence quality spec
 ### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^404241d7]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding diagnostic investigations for adult growth hormone deficiency, more specifically with respect to provocative testing, ES 2011 guidelines recommend to recognize that a low IGF-1 level, in the absence of catabolic conditions such as poorly controlled diabetes, liver disease and oral estrogen therapy, is strong evidence for significant GHD. Consider using this for identifying patients likely to benefit from treatment and therefore require GH stimulation testing.
-
----

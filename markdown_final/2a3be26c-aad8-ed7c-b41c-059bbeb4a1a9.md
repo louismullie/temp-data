@@ -1230,5 +1230,3 @@ ARIKAYCE is contraindicated in patients with a known hypersensitivity to any ami
 CUBICIN RF is contraindicated in patients with known hypersensitivity to daptomycin [see Warnings and Precautions (5.1)].
 
 Known hypersensitivity to daptomycin (4)
-
----

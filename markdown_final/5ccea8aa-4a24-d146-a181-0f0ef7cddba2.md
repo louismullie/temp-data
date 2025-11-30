@@ -1476,6 +1476,4 @@ Phenytoin clearance tends to decrease with increasing age [see Clinical Pharmaco
 
 The liver is the chief site of biotransformation of phenytoin; patients with impaired liver function, elderly patients, or those who are gravely ill may show early signs of toxicity.
 
-Because the fraction of unbound phenytoin is increased in patients with renal or hepatic disease, or in those with hypoalbuminemia, the monitoring of phenytoin serum levels should be based on the unbound fraction in those patients.
-
----
+Because the fraction of unbound phenytoin is increased in patients with renal or hepatic disease, or in those with hypoalbuminemia, the monitoring of phenytoin serum levels should be based on the unbound fraction in those patients.-

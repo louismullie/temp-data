@@ -1024,5 +1024,3 @@ Regarding follow-up and surveillance for rib fracture, more specifically with re
 ### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^cda51217]. Trauma Surgery & Acute Care Open (2023). High credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, analgesics, AOTA/EAST 2023 guidelines recommend to insufficient evidence to recommend the preferential use of either selective NSAIDs (COX-2 inhibitors) or nonselective NSAIDs.
-
----

@@ -1008,5 +1008,3 @@ Notably, our predictions suggest that complex networks, with suitably low elasti
 ### Diagnosis and management of Barrett esophagus: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^e401f1ce]. Endoscopy (2023). High credibility.
 
 Regarding follow-up and surveillance for Barrett's esophagus, more specifically with respect to surveillance endoscopy, post-treatment, ESGE 2023 guidelines recommend to perform four-quadrant random biopsies just distal to a normal-appearing neo-squamocolumnar junction to detect dysplasia in the absence of visible lesions after successful endoscopic eradication therapy.
-
----

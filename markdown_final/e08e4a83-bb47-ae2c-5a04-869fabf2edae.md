@@ -1129,5 +1129,3 @@ Lansoprazole, a widely used PPI, has demonstrated strong efficacy, with healing 
 
 This research is expected to contribute to the scientific literature by providing clinical trial data specific to the Indonesian population, inform clinical decision-making by identifying the most effective treatment for bleeding PUD, and ultimately improve patient outcomes by ensuring faster healing and better symptom management. Drug: Tegoprazan Drug: Lansoprazole
 - 24-12-1819.
-
----

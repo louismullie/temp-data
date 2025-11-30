@@ -1077,5 +1077,3 @@ AASLD MASLD guidance — liver safety during resmetirom: "Regular hepatic functi
 ### ACG clinical guideline: focal liver lesions [^485e9660]. The American Journal of Gastroenterology (2024). High credibility.
 
 Inflammatory adenomas characteristics — Inflammatory adenomas (I-HCAs) account for up to 44% of cases, and laboratory changes can include elevations in serum alkaline phosphatase or elevated systemic inflammatory markers such as C-reactive protein and fibrinogen levels, although presently, there is insufficient evidence to support routinely checking CRP or fibrinogen in these cases. Risk factors for development of I-HCAs include obesity, metabolic syndrome, heavy alcohol consumption, and glycogen storage disease, they can be prone to hemorrhage, and the risk of malignant transformation is low unless there is concomitant presence of the β-catenin mutation.
-
----

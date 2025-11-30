@@ -1213,5 +1213,3 @@ See full prescribing information for complete boxed warning.
 Patients with advanced chronic kidney disease are at greater risk of severe hypocalcemia following denosumab products administration. Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported (5.1).
 The presence of chronic kidney disease-mineral bone disorder (CKD-MBD) markedly increases the risk of hypocalcemia (5.1).
 Prior to initiating Jubbonti in patients with advanced chronic kidney disease, evaluate for the presence of CKD-MBD. Treatment with Jubbonti in these patients should be supervised by a healthcare provider with expertise in the diagnosis and management of CKD-MBD (2.2), (5.1).
-
----

@@ -1114,5 +1114,3 @@ Studies on MTX treatment for rheumatoid arthritis have shown that current smokin
 The main limitation of our study is its retrospective nature. Additionally, our findings might have been influenced by intervention bias resulting from existing guidelines. We did not analyze EP size or cardiac activity as other studies have done, and we included some pregnancies with unknown location when the EP was not confirmed by ultrasound, as outlined in our department's protocol. We used single‐dose MTX protocol with the less common 1 mg/kg regimen. While the 50 mg/m 2 MTX regimen is more widely used, the 1 mg/kg MTX regimen is also supported by the literature.,
 
 Although some studies did not show a significant effect of smoking on MTX treatment success for EP, the available data is limited, and research from other fields supports our findings.
-
----

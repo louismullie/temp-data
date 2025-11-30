@@ -235,7 +235,7 @@ Oral bicarbonate supplementation has been used to correct metabolic acidosis for
 
 ### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^308901e2]. Kidney International (2024). High credibility.
 
-KDIGO 2024 chronic kidney disease (CKD) — very low–protein diets with ketoacid analogs: In a trial with fifteen months of strict adherence, very low–protein diets of 0.3 g/kg body weight/d supplemented with 0.125 g/kg body weight/d of ketoacids in people with an average estimated glomerular filtration rate (eGFR) of 18 ml/ min per 1.73 m^2 at baseline slowed the decline in eGFR, increased bicarbonate, and reduced need for kidney replacement therapy versus a mixed-protein diet of 0.6 g/kg body weight/d; however, a recent pragmatic trial was not able to reproduce these findings, and limitations of ketoacid analogs include high pill burden and high cost.
+KDIGO 2024 chronic kidney disease (CKD) — very low–protein diets with ketoacid analogs: In a trial with fifteen months of strict adherence, very low–protein diets of 0.3 g/kg body weight/d supplemented with 0.125 g/kg body weight/d of ketoacids in people with an average estimated glomerular filtration rate (eGFR) of 18 ml/ min per 1.73 m² at baseline slowed the decline in eGFR, increased bicarbonate, and reduced need for kidney replacement therapy versus a mixed-protein diet of 0.6 g/kg body weight/d; however, a recent pragmatic trial was not able to reproduce these findings, and limitations of ketoacid analogs include high pill burden and high cost.
 
 ---
 
@@ -1048,5 +1048,3 @@ The relationship between decreasing serum HCO 3 levels and worsening clinical ou
 
 Box 1
 no caption available
-
----

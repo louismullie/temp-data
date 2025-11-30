@@ -1185,5 +1185,3 @@ Next in the time sequence of HPV-related diseases, one expects to see a reductio
 ### EAU guidelines on urological infections [^149c124d]. EAU (2025). High credibility.
 
 Regarding preventative measures for anogenital warts, more specifically with respect to HPV vaccination, EAU 2025 guidelines recommend to offer early HPV vaccination in boys with the goal of establishing optimal vaccine-induced protection before the onset of sexual activity.
-
----

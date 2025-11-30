@@ -868,5 +868,3 @@ Several important best practice points were found within the guidelines. These i
 ### 2020 American College of Rheumatology guideline for the management of gout [^55878137]. Arthritis & Rheumatology (2020). High credibility.
 
 Allopurinol dose escalation in chronic kidney disease (CKD) — Patients with CKD may still require dose titration above 300 mg/day to achieve the serum urate target, and allopurinol dose escalation can be done safely in this population.
-
----

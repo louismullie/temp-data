@@ -1319,5 +1319,3 @@ Overall survival was not subject of this review, although it is clinically relev
 ### Sentinel node involvement with or without completion axillary lymph node dissection: treatment and pathologic results of randomized SERC trial [^3b8fed32]. NPJ Breast Cancer (2021). Medium credibility.
 
 Some minor differences of patient's characteristics between center 1 and others centers is report in Supplemental Data File 5. A very few number of events (n = 102) were reported. Consequently higher follow-up is necessary to analyze the non-inferiority of cALND omission.
-
----

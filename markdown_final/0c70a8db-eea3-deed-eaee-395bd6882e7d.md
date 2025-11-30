@@ -854,5 +854,3 @@ Exposure Employer-mandated HDHP transition. Main Outcomes and Measures Thirty-da
 ### Global strategy for asthma management and prevention [^1dc016d6]. GINA (2024). High credibility.
 
 Asthma — initial pharmacotherapy selection: Commence treatment as described in Chapter 4; pharmacotherapy is based on inhaled corticosteroids (ICS) to reduce the risk of severe exacerbations and death and to improve symptom control, with add-on treatment such as long-acting beta agonist (LABA) and/or long-acting muscarinic antagonist (LAMA) as required; as-needed low-dose ICS-formoterol may be used as the reliever; inhaled therapy should be optimized to minimize the need for oral corticosteroids (OCS).
-
----

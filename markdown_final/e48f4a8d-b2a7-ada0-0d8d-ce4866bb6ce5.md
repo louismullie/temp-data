@@ -1014,5 +1014,3 @@ Service deescalation and engineered failure — We suggest hospitals adopt a pro
 ### When is parenteral nutrition appropriate? [^dd5ac9e6]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
 
 Regarding quality improvement for parenteral nutrition, more specifically with respect to policies and protocols, ASPEN 2017 guidelines recommend to set up organizational policies delineating circumstances in which initiation of PN can take place outside the acute care setting. Describe patient-centered eligibility criteria for initiating PN safely in the home setting. Develop strict protocols and procedures for initiating PN in the home setting, monitoring response to therapy, and documenting outcomes.
-
----

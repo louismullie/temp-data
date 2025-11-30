@@ -1088,5 +1088,3 @@ American Cancer Society 2020 cervical cancer screening recommendations — apply
 ### Cervical cancer screening for individuals at average risk: 2020 guideline update from the American cancer society [^e7bf5b0e]. CA (2020). High credibility.
 
 American Cancer Society (ACS) cervical cancer screening update — In average-risk individuals with a cervix, we recommend that cervical cancer screening should begin in average-risk individuals with a cervix at age 25 years and cease at age 65 years and that the preferred strategy for regular screening is primary HPV testing every 5 years. We emphasize that the United States is in a transition period from cytology testing to HPV testing, and, in the near term, cytology testing, either alone or as part of cotesting, will continue to have a role as practice patterns evolve and access to primary HPV testing can be assured.
-
----

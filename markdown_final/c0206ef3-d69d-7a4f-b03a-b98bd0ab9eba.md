@@ -1152,5 +1152,3 @@ We were unable to perform our planned subgroup analysis by time since vaccinatio
 ### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^91fc6e96]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 9-valent human papillomavirus (HPV) vaccine (9vHPV) — Phase III efficacy versus quadrivalent vaccine (4vHPV) in the per protocol population of females aged 16 through 26 years shows high efficacy against HPV 31, 33, 45, 52, 58 outcomes: for ≥ CIN2, VIN2/3, VaIN2/3 efficacy was 96.7 (95% CI 80.9–99.8) with 9vHPV cases 1 among 6,016 participants versus 30 among 6,017 with 4vHPV; for ≥ CIN2 efficacy was 96.3 (95% CI 79.5–99.8) with cases 1 among 5,948 versus 27 among 5,943; for 6‑month persistent infection efficacy was 96.0 (95% CI 94.4–97.2) with cases 35 among 5,939 versus 810 among 5,953; participants were from 18 countries with median follow‑up of 40 months.
-
----

@@ -1030,5 +1030,3 @@ SpO 2 recordings were obtained during 50 sleep sessions on 24 babies (13 side-ly
 Conclusions:
 
 This study has demonstrated that it is feasible to perform domiciliary oxygen saturation studies in a research setting and has suggested that there may be a difference in the effects of sleep position that requires further investigation. We propose a study with randomization is indicated, comparing side-lying with supine-lying sleep position, representing an important step toward better understanding of SDB in infants with CP.
-
----

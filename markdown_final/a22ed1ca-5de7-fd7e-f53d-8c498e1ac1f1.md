@@ -1122,5 +1122,3 @@ If lactic acidosis is suspected, discontinue metformin hydrochloride extended-re
 ### Part 10: adult and pediatric special circumstances of resuscitation: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^22c302ba]. Circulation (2025). High credibility.
 
 Hypothermia — adults and children with life-threatening environmental hypothermia may survive with good neurological outcomes even after prolonged cardiac arrest; patients should be rewarmed concurrently with resuscitation efforts, and ECLS can be used where available.
-
----

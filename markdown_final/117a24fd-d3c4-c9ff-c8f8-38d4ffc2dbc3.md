@@ -973,5 +973,3 @@ OBJECTIVE Administrative billing data may facilitate large-scale assessments of 
 ### Management of acute obstructive uterovaginal anomalies: ACOG committee opinion, number 779 [^adc96316]. Obstetrics and Gynecology (2019). High credibility.
 
 Obstructive uterovaginal anomalies — symptoms — The most common symptom associated with obstruction is pain, and in a patient who presents with pain, the presence of menstruation does not rule out obstruction. Pain may occur in a cyclic manner or may be continuous, although in patients who are amenorrheic, a pattern may be more challenging to identify. Other associated symptoms include urinary frequency
-
----

@@ -871,5 +871,3 @@ Urinary testing should be reserved for patients with symptoms consistent with a 
 ### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^b44724ce]. The Journal of Urology (2025). High credibility.
 
 Asymptomatic bacteriuria in women with rUTIs — testing and treatment: Clinicians should omit surveillance urine testing, including urine culture, in asymptomatic patients with rUTIs. (Moderate Recommendation; Evidence Level: Grade C) Clinicians should not treat ASB in patients. (Strong Recommendation; Evidence Level: Grade B) Without appropriate symptoms, bacteriuria of any magnitude is considered ASB, and clinicians should, in general, omit testing for malodorous and/or cloudy urine when not accompanied by an acute change in other lower urinary tract symptoms.
-
----

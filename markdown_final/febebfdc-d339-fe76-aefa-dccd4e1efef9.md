@@ -977,5 +977,3 @@ The limitations of this scoping review lie within the literature retrieved and i
 ### ACOG practice bulletin no. 192: management of alloimmunization during pregnancy [^926bb0a2]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Rh-D weak D (Du) phenotype — patients who are weak D (Du) positive are not at risk for alloimmunization and should not receive anti-D immunoprophylaxis.
-
----

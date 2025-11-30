@@ -1236,5 +1236,3 @@ Serum total cholesterol concentrations were significantly higher in patients wit
 Conclusions
 
 We conclude that hypercholesterolemia is associated with calcific aortic stenosis and may be implicated in its pathogenesis and progression. We believe that there is now a need for a randomized, controlled trial of cholesterol-lowering therapy in patients with calcific aortic stenosis.
-
----

@@ -1500,5 +1500,3 @@ National Heart, Lung, and Blood Institute.
 ### Avoid transfusions of red blood cells for arbitrary… [^0af54a2e]. AAFP (2013). Low credibility.
 
 The AABB recommends adhering to a restrictive transfusion strategy in hospitalized, stable patients. The AABB suggests that transfusion decisions be influenced by symptoms as well as hemoglobin concentration. According to a National Institutes of Health Consensus Conference, no single criterion should be used as an indication for red cell component therapy. Instead, multiple factors related to the patient's clinical status and oxygen delivery needs should be considered.
-
----

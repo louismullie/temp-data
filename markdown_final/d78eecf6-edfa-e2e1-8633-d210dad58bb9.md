@@ -1128,5 +1128,3 @@ A phenotype and endotype-based classification system for CRS is evolving for the
 ### North American society for pediatric gastroenterology, hepatology, and nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children [^9fbe197e]. Journal of Pediatric Gastroenterology and Nutrition (2025). High credibility.
 
 Pediatric cyclic vomiting syndrome prophylaxis — topiramate initiation and counseling: The potential side effects should be fully disclosed to the parents before initiating therapy, and topiramate should be titrated gradually from 25 mg/day or 0.5 mg/kg/day every 2 weeks by 1 mg/kg until a dose of 2 mg/kg/day divided BID is reached.
-
----

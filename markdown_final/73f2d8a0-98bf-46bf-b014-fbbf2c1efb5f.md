@@ -1151,5 +1151,3 @@ Furthermore, there may be non-response, sample and other biases. We cannot tell 
 ### Management of anxiety and depression in adult survivors of cancer: ASCO guideline update [^5431ec83]. Journal of Clinical Oncology (2023). High credibility.
 
 Depression — Recommendation 2.4 (pharmacologic management): Treating clinicians may offer a pharmacologic regimen for depression in patients without access to first-line treatment, those expressing a preference for pharmacotherapy, or those who do not improve following first-line psychological or behavioral management; pharmacotherapy should also be considered for patients with a history of treatment response to medications, severe symptoms, or accompanying psychotic features (Type: Evidence based; benefits outweigh harms; Evidence quality: Low; Strength of recommendation: Weak). Qualifying statement: Despite the limitations and weak evidence for pharmacologic management, empirically there is some evidence of benefit to warrant their inclusion as an alternative option.
-
----

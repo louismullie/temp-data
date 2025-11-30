@@ -1225,5 +1225,3 @@ Vitamin D deficiency in children — monitoring therapy includes scheduled labs 
 ### Elevated PTH with normal serum calcium level: a structured approach [^0f0a2910]. Clinical Endocrinology (2016). Low credibility.
 
 Normocalcaemic hyperparathyroidism is a common biochemical finding, usually identified during an assessment of bone or renal health. Hypercalcaemia must be considered by calculation of adjusted calcium, and a careful history taken to assess dietary calcium intake and for the possibility of a malabsorption syndrome. 25-hydroxyvitamin D (25OHD) should be measured and replaced if indicated. The management plan for the patient is influenced by the context in which calcium and PTH were measured. In this brief review we describe the assessment of a patient with normocalcaemic hyperparathyroidism.
-
----

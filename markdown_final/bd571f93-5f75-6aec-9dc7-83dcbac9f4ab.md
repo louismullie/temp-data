@@ -1187,5 +1187,3 @@ A total of 1,913 provocations were done in 1,659 patients, median age 46 years, 
 Conclusions
 
 Only 11.0% of the provocations were positive. Importantly, only 1 of 5 patients tested positive on the first dose, indicating that prolonged exposure should always be considered when drug provocation is included in allergy investigations. Most provocations were with penicillins, reflecting the pattern of antibiotic use in Denmark, which differs from that in other countries, especially outside Northern Europe.
-
----

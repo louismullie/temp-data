@@ -73,13 +73,13 @@ Setting f′(b) = 0 gives b = 0 or b² = 2. Since b > 0, we have b = √2. The s
 
 f″(b) = 2 − 3b² ⇒ f″(√2) = 2 − 6 = −4 < 0
 
-confirms a maximum at (b = \\sqrt{2}).
+confirms a maximum at (b = √2).
 
 ---
 
 ## Maximum area calculation
 
-Substitute (b = \\sqrt{2}) into the area formula:
+Substitute (b = √2) into the area formula:
 
 h = √[1 − [(√2)²/4]] = √[1 − [2/4]] = √[1/2] = [√2/2]
 
@@ -1001,5 +1001,3 @@ Isosporiasis (Cystoisosporiasis) — treatment in children with or exposed to HI
 ### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^38f5fcd0]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding therapeutic procedures for ascites, more specifically with respect to therapeutic paracentesis, EASL 2018 guidelines recommend to administer albumin (8 g/L of ascites removed) for plasma volume expansion in patients undergoing large-volume paracentesis of > 5 L of ascites.
-
----

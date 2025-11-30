@@ -917,5 +917,3 @@ Hyponatremia and hypernatremia are electrolyte disorders that can be associated 
 ### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^a1e64d5e]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (outpatient management), WMS 2020 guidelines recommend to consider adding oral sodium in hypertonic solutions or advising foods with high sodium content (salty snacks) for increasing serum sodium levels and enhancing symptom relief (over fluid restriction) in patients with mild exercise-associated hyponatremia, if tolerated.
-
----

@@ -7,7 +7,7 @@
 
 ## Question
 
-Example 1. Calculate the circulation of the vector field $a = y i+z^{2} j-$ $z \mathbf{k}$ along the contour $L:\left\{\begin{array}{r}x^{2}+y^{2} = 4, \\ z = 3,\end{array}\right.$ 1) directly, 2) using Stokes' theorem.
+Example 1. Calculate the circulation of the vector field a = y i + z² j − z k along the contour L: { x² + y² = 4; z = 3 } 1) directly, 2) using Stokes' theorem.
 
 ---
 
@@ -35,49 +35,41 @@ Example 1. Calculate the circulation of the vector field $a = y i+z^{2} j-$ $z \
 
 ---
 
-The circulation of the vector field (\\mathbf{a} = y \\mathbf{i} + z^2 \\mathbf{j} - z \\mathbf{k}) around the contour (L: x^2 + y^2 = 4, z = 3) is **(-4\\pi)**.
+The circulation of the vector field (a = y i + z² j − z k) around the contour (L: x² + y² = 4, z = 3) is **(−4π)**.
 
 ---
 
 ## Direct calculation
 
-Parametrize the contour as (\\mathbf{r}(t) = (2\\cos t, 2\\sin t, 3)) for (t \\in [0, 2\\pi]). Then:
+Parametrize the contour as (r(t) = (2 cos t, 2 sin t, 3)) for (t ∈ [0, 2π]). Then:
 
-- (\\mathbf{a}(\\mathbf{r}(t)) = 2\\sin t \\mathbf{i} + 9 \\mathbf{j} - 3 \\mathbf{k})
-- (\\mathbf{r}'(t) = -2\\sin t \\mathbf{i} + 2\\cos t \\mathbf{j})
-- (\\mathbf{a} \\cdot \\mathbf{r}' = -4\\sin^2 t + 18\\cos t)
+- (a(r(t)) = 2 sin t i + 9 j − 3 k)
+- (r′(t) = −2 sin t i + 2 cos t j)
+- (a · r′ = −4 sin² t + 18 cos t)
 
 The circulation is:
 
-[
-\\oint_L \\mathbf{a} \\cdot d\\mathbf{r} = \\int_0^{2\\pi} (-4\\sin^2 t + 18\\cos t), dt = -4\\pi
-]
+∮_L a · dr = ∫₀^{2π} (−4 sin² t + 18 cos t) dt = −4π
 
 ---
 
 ## Calculation using Stokes' theorem
 
-Stokes' theorem gives (\\oint_L \\mathbf{a} \\cdot d\\mathbf{r} = \\iint_S (\\nabla \\times \\mathbf{a}) \\cdot d\\mathbf{S}), where (S) is the disk (x^2 + y^2 \\leq 4) at (z = 3) with normal (\\mathbf{n} = \\mathbf{k}). The curl is:
+Stokes' theorem gives (∮_L a · dr = ∬_S (∇ × a) · dS), where (S) is the disk (x² + y² ≤ 4) at (z = 3) with normal (n = k). The curl is:
 
-[
-\\nabla \\times \\mathbf{a} = -2z \\mathbf{i} - \\mathbf{k}
-]
+∇ × a = −2z i − k
 
-On (S), (z = 3), so (\\nabla \\times \\mathbf{a} = -6\\mathbf{i} - \\mathbf{k}) and:
+On (S), (z = 3), so (∇ × a = −6 i − k) and:
 
-[
-(\\nabla \\times \\mathbf{a}) \\cdot \\mathbf{n} = -1
-]
+(∇ × a) · n = −1
 
 Thus:
 
-[
-\\iint_S (\\nabla \\times \\mathbf{a}) \\cdot d\\mathbf{S} = \\iint_S -1, dS = -4\\pi
-]
+∬_S (∇ × a) · dS = ∬_S (−1) dS = −4π
 
 ---
 
-Both methods yield the same result: the circulation is **(-4\\pi)**.
+Both methods yield the same result: the circulation is **(−4π)**.
 
 ---
 
@@ -498,7 +490,7 @@ Phase contrast flow measurements will be increasingly biased at eccentric positi
 
 ### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^b1c62a2d]. Nature Communications (2025). High credibility.
 
-We introduce a vector atomic magnetometer that employs a fast-rotating magnetic field applied to a pulsed 87 Rb scalar atomic magnetometer. This approach enables simultaneous measurements of the total magnetic field and its two polar angles relative to the rotation plane. Operating in gradiometer mode, the magnetometer achieves a total field gradient sensitivity of 35 < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mi > fT < /mml:mi > < mml:mo > / < /mml:mo > < mml:msqrt > < mml:mrow > < mml:mi > Hz < /mml:mi > < /mml:mrow > < /mml:msqrt > < /mml:math > (0.7 parts per billion) and angular resolutions of 6 < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:mi > nrad < /mml:mi > < mml:mo > / < /mml:mo > < mml:msqrt > < mml:mrow > < mml:mi > Hz < /mml:mi > < /mml:mrow > < /mml:msqrt > < /mml:math > at a 50 μT Earth field strength. The noise spectra remain flat down to 1 Hz and 0.1 Hz, respectively. Here we show that this method overcomes several metrological challenges commonly faced by vector magnetometers and gradiometers. We propose a unique peak-altering modulation technique to mitigate systematic effects, including a newly identified dynamic heading error. Additionally, we establish the fundamental sensitivity limits of the sensor, demonstrating that its vector sensitivity approaches scalar sensitivity while preserving the inherent accuracy and calibration benefits of scalar sensors. This high-dynamic-range, ultrahigh-resolution magnetometer offers exceptional versatility for diverse applications.
+We introduce a vector atomic magnetometer that employs a fast-rotating magnetic field applied to a pulsed 87 Rb scalar atomic magnetometer. This approach enables simultaneous measurements of the total magnetic field and its two polar angles relative to the rotation plane. Operating in gradiometer mode, the magnetometer achieves a total field gradient sensitivity of 35 fT/√Hz (0.7 parts per billion) and angular resolutions of 6 nrad/√Hz at a 50 μT Earth field strength. The noise spectra remain flat down to 1 Hz and 0.1 Hz, respectively. Here we show that this method overcomes several metrological challenges commonly faced by vector magnetometers and gradiometers. We propose a unique peak-altering modulation technique to mitigate systematic effects, including a newly identified dynamic heading error. Additionally, we establish the fundamental sensitivity limits of the sensor, demonstrating that its vector sensitivity approaches scalar sensitivity while preserving the inherent accuracy and calibration benefits of scalar sensors. This high-dynamic-range, ultrahigh-resolution magnetometer offers exceptional versatility for diverse applications.
 
 ---
 
@@ -1044,5 +1036,3 @@ In contrast, when using the non-local third-degree polynomial (poly) kernel, dat
 ### Variable field of view for spatial resolution improvement in continuously moving table magnetic resonance imaging [^c1d22a58]. Magnetic Resonance in Medicine (2005). Low credibility.
 
 An approach is described in which the field of view (FOV) along the Y (right/left) phase encoding direction can be dynamically altered during a continuously moving table (CMT) coronal acquisition for extended FOV MRI. We hypothesize that with this method, regions of the anatomy exhibiting significantly different lateral widths can be imaged with a matching local FOV(Y), thereby improving local lateral spatial resolution. k-space raw data from the variable-FOV CMT acquisition do not allow simple Fourier reconstruction due to the presence of a mixture of phase encodes sampled at different Deltak(Y) intervals. In this work, we employ spline interpolation to reregister the mixed data set onto a uniformly sampled k-space grid. Using this interpolation scheme, we present phantom and peripheral contrast-enhanced MR angiography results demonstrating an approximate 45% improvement in local lateral spatial resolution for continuously moving table acquisitions.
-
----

@@ -1055,5 +1055,3 @@ Penicillin allergy risk descriptors for GBS prophylaxis — footnotes define cli
 Non-specific morphologies
 
 Outside of the 10 core diagnoses discussed above, there exist other potential non-specific presentations that occur at higher frequencies. These non-specific presentations require an evaluation as described above in order to come to a core diagnosis, when possible. When a core diagnosis is not reachable, workup may at least reveal new data that will allow for more targeted therapy in addition to severity grading (online supplemental table S23). The non-specific morphologies include hyperkeratotic papules and plaques, isolated mucositis, or the previously often diagnosed 'maculopapular rash'. Importantly, we would encourage clinicians to avoid making a final diagnosis of these non-specific subtypes, but rather to use them as descriptive terms while undertaking the evaluation of patient with D-irAE.
-
----

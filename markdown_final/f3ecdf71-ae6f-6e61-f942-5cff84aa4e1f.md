@@ -916,5 +916,3 @@ Mitral valve prolapse (MVP) is the most common valve disease in the western worl
 - Mitral valve prolapse is a common valve disease potentially associated with complex ventricular arrhythmia and sudden cardiac death.
 - The mechanism of arrhythmogenesis in mitral valve prolapse is complex and multifactorial, due to the interplay among multiple conditions including valve morphological alteration, mechanical stretch, myocardial structure remodeling with fibrosis, and inflammation.
 - Cardiac imaging, especially echocardiography and cardiac magnetic resonance, is crucial in the identification of several features associated with the potential risk of serious cardiac events. In particular, cardiac magnetic resonance has the advantage of being able to detect myocardial fibrosis which is currently the strongest prognosticator.
-
----

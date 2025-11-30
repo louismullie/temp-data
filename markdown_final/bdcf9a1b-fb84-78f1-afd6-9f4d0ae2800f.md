@@ -1127,5 +1127,3 @@ Energy drinks — vascular pathology associations span spasm, ischemia, and endo
 ### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^de453026]. Circulation (2018). Medium credibility.
 
 Brugada syndrome — triggers to avoid and fever management: Factors identified as potential triggers of VF and SCA include some psychotropic medications, anesthetic agents, cocaine, excessive alcohol intake, and fever, and these agents should be avoided while fever warrants early and aggressive measures to reduce temperature.
-
----

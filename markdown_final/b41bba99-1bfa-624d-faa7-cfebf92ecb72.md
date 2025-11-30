@@ -1336,5 +1336,3 @@ Mean number of referral data types requested within each category for paper and 
 ### Differences in spatial acuity between digits [^869ebc5f]. Neurology (2001). Low credibility.
 
 The spatial acuity of the index, middle, and ring distal finger pads of eight right-handed men, aged 22 to 57 years, was measured by using gratings and raised letters. Acuity declined significantly from the index to the middle finger and from the middle to the ring finger. There were no significant differences between homologous fingers of the two hands. Letter recognition and grating orientation threshold measures were highly correlated.
-
----

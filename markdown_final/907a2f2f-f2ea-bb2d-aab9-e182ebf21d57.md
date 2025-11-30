@@ -1027,5 +1027,3 @@ We assessed all-cause mortality rates in 6,069 patients, followed for 10.2 ± 1.
 Conclusions
 
 Among patients with normal stress SPECT tests, those undergoing adenosine testing manifest a mortality rate that is substantially higher than that observed among adequately exercising patients, but comparable to that observed among very poorly exercising patients. This elevated risk underscores an important challenge for managing patients undergoing pharmacological stress testing.
-
----

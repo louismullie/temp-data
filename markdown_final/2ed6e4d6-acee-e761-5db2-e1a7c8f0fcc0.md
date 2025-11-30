@@ -852,5 +852,3 @@ Regarding follow-up and surveillance for varicose veins, more specifically with 
 ### The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. part II: endorsed by the Society of Interventional Radiology and the Society for Vascular Medicine [^9778760e]. Journal of Vascular Surgery: Venous and Lymphatic Disorders (2024). High credibility.
 
 Regarding classification and risk stratification for varicose veins, more specifically with respect to classification, AVF/AVLS/SVS 2024 guidelines recommend to use the r-VCSS for grading clinical severity in patients with chronic venous disorder.
-
----

@@ -1054,5 +1054,3 @@ During the study period an increasing number of patients were prescribed LTOT in
 Conclusions
 
 Adherence to guidelines for LTOT has improved concerning administration of oxygen, but has remained poor concerning follow-up of the patients and smoking cessation. Survival of COPD patients on LTOT has improved during the observation period.
-
----

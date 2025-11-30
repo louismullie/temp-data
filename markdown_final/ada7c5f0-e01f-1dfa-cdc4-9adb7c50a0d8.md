@@ -839,5 +839,3 @@ With the approval in many countries of nilotinib and dasatinib for frontline the
 ### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^f66d8f3e]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Dose modifications of tyrosine kinase inhibitor (TKI) therapy — Limited available evidence from small cohort studies suggests that initiating select first-line TKIs at lower doses and using dose reduction (with close monitoring) in patients who achieve optimal responses are appropriate strategies to reduce long-term toxicities, but the minimum effective dose or optimal de-escalation of TKIs has not yet been established in prospective randomized clinical trials.
-
----

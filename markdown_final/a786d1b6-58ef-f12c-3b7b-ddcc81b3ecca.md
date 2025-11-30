@@ -1421,5 +1421,3 @@ Tricyclic antidepressant (TCA)/sodium channel blocker overdose — prehospital c
 ### Limitations of monotherapy trials in epilepsy [^b7f42c82]. Neurology (2003). Low credibility.
 
 Monotherapy is considered optimal management for most patients with epilepsy, but designing monotherapy trials in epilepsy has proved to be a complex endeavor. Consideration of the validity of evidence for efficacy, potential risks to patients, clinical applicability of results, and effects of dosing and titration rates on efficacy and tolerability creates unique challenges. This article reviews pertinent aspects of trials of conversion to monotherapy in refractory patients and equivalence trials in newly diagnosed patients to better understand their limitations. Despite the inherent difficulties in designing monotherapy trials in epilepsy, previous monotherapy studies have provided important information for clinical management with new treatments.
-
----

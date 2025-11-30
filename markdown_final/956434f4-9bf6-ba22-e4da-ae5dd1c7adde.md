@@ -33,9 +33,9 @@ J. 3.47
 
 > Next, I should solve for x. Multiplying both sides by 0.3 gives x² ≈ 5.4 × 10⁻⁶, so x ≈ √(5.4 × 10⁻⁶) ≈ 2.32 × 10⁻³ M. Hold on, I should verify the magnitude: yes, 2.3 × 10⁻³ is indeed much smaller than 0.3, so the approximation is justified here [^cd7c14f4].
 
-> Now I will calculate pH. pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63. Let me double-check the logarithm: log10(2.32) is about 0.365, so −(0.365 − 3) = 2.635, which rounds to 2.63 [^cd7c14f4].
+> Now I will calculate pH. pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63. Let me double-check the logarithm: log₁₀(2.32) is about 0.365, so −(0.365 − 3) = 2.635, which rounds to 2.63 [^cd7c14f4].
 
-> But wait, what if the approximation is too coarse? I should confirm by checking the percent dissociation. x/0.3 ≈ 0.0077, or about 0.77%, which is well under 5%, so the assumption that x ≪ 0.3 is valid and no quadratic solution is necessary here. If I were to use the quadratic, x² + 1.8 × 10⁻⁵x − 5.4 × 10⁻⁶ = 0, the positive root would be essentially identical to 2.32 × 10^-3, confirming the approximation is fine [^cd7c14f4].
+> But wait, what if the approximation is too coarse? I should confirm by checking the percent dissociation. x/0.3 ≈ 0.0077, or about 0.77%, which is well under 5%, so the assumption that x ≪ 0.3 is valid and no quadratic solution is necessary here. If I were to use the quadratic, x² + 1.8 × 10⁻⁵x − 5.4 × 10⁻⁶ = 0, the positive root would be essentially identical to 2.32 × 10⁻³, confirming the approximation is fine [^cd7c14f4].
 
 > Finally, I need to match the calculated pH to the options. 2.63 corresponds to option B. Hold on, let's not jump to conclusions; I should ensure no rounding or transcription error occurred. Rechecking the math, the closest choice is indeed B. 2.63 [^cd7c14f4].
 
@@ -77,7 +77,7 @@ x ≈ √(5.4 × 10⁻⁶) ≈ 2.32 × 10⁻³ M
 
 ### Step 3: Calculate pH
 
-pH = −log[H⁺] = −log(2.32 × 10⁻³) ≈ 2.63
+pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63
 
 ---
 
@@ -1022,5 +1022,3 @@ All HPLC analyses were performed with an Agilent 1100 Series instrument (Agilent
 Analysis of alkyl quinolones was carried out within 6 min at 0.6 mL min −1 isocratic flow in 70% methanol/water buffered with 0.1% (v/v) acetic acid. Separation of NAD +, NADP +, NADH and NADPH was achieved by 4 min of isocratic flow of 15 mM ammonium acetate, pH 6.8, followed by a linear gradient from 0 to 15% methanol over 10 min at a flow rate of 0.25 mL min −1. FAD and its derivatives were separated by 6 min of isocratic flow in 15% acetonitrile/water buffered with 0.1% (v/v) formic acid, ensued by a linear gradient from 15 to 53% acetonitrile over 24 min and 0.5 mL min −1 flow.
 
 HPLC-MS analyses of (deuterated) reduced nicotinamide adenine dinucleotides were performed using a Thermo Fisher Scientific Ultimate 3000/Bruker Amazon speed instrument (Bruker Daltonics, Billerica, MA, USA) equipped with a Knauer Eurospher II 100–5 C18 150 × 3 mm column. Solvents were 15 mM aqueous ammonium acetate, pH 6.8 (A) and acetonitrile (B). Elution was started with 5 min of isocratic flow (100% A) before linearly increasing to 20% B over 30 min. Afterwards, the column was washed for 5 min (90% B) and equilibrated to starting conditions for another 5 min. Flow was kept constant at 0.5 mL min −1. Electrospray ionization parameters were set according to the manufacturer's recommendations.
-
----

@@ -917,5 +917,3 @@ This proposed classification system is simple, clinically applicable across the 
 ### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^4caf8020]. Circulation (2025). High credibility.
 
 Regarding therapeutic procedures for cardiogenic shock, more specifically with respect to mechanical circulatory support, ACC/ACEP/AHA/NAEMSP/SCAI 2025 guidelines recommend to consider inserting a microaxial intravascular flow pump in selected patients with STEMI and severe or refractory cardiogenic shock to reduce mortality.
-
----

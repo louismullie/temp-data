@@ -281,7 +281,7 @@ Intravenous acetaminophen is commonly administered as an adjunctive to opioids d
 
 Methods
 
-Adolescents, 14–20 years of age, with a body mass index (BMI) ≥ 95th percentile for age and sex or BMI ≥ 40 kg·m -2, presenting for laparoscopic or robotic assisted or vertical sleeve gastrectomy were administered intravenous acetaminophen (1000 mg) following completion of the surgical procedure. Venous blood was drawn for acetaminophen assay at eight time points, starting 15 minutes after completion of the infusion and up to 12 hours afterward. Time-concentration data profiles were analyzed using nonlinear mixed effects models. Parameter estimates were scaled to a 70-kg person using allometry. Normal fat mass was used to assess the impact of obesity on pharmacokinetic parameters.
+Adolescents, 14–20 years of age, with a body mass index (BMI) ≥ 95th percentile for age and sex or BMI ≥ 40 kg·m⁻², presenting for laparoscopic or robotic assisted or vertical sleeve gastrectomy were administered intravenous acetaminophen (1000 mg) following completion of the surgical procedure. Venous blood was drawn for acetaminophen assay at eight time points, starting 15 minutes after completion of the infusion and up to 12 hours afterward. Time-concentration data profiles were analyzed using nonlinear mixed effects models. Parameter estimates were scaled to a 70-kg person using allometry. Normal fat mass was used to assess the impact of obesity on pharmacokinetic parameters.
 
 Results
 

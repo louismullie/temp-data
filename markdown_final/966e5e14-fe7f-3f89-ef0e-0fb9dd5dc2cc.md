@@ -1134,5 +1134,3 @@ A total of 33 patients were enrolled, and 85% required TAE. SBP improved signifi
 Conclusions
 
 Transarterial angioembolization is suggested in the management of patients with concomitant unstable hemodynamics and negative FAST examination results. During the time interval required for angiography preparation, a CT scan can be performed. This approach provides valuable information for further decision making without delaying definitive treatment.
-
----

@@ -1158,5 +1158,3 @@ A total of 5 940 778 persons were included in this study (2 958 293 men and 2 98
 Conclusions and Relevance
 
 Comorbidity within mental disorders is pervasive, and the risk persists over time. This study provides disorder-, sex-, and age-specific relative and absolute risks of the comorbidity of mental disorders. Web-based interactive data visualization tools are provided for clinical utility.
-
----

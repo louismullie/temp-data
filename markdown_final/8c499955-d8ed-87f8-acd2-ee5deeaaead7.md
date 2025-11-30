@@ -1269,5 +1269,3 @@ There was no significant difference in mean trough or peak colchicine concentrat
 
 Table 2
 Peak and trough colchicine concentrations and gout flare outcomes *
-
----

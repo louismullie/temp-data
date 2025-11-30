@@ -1199,5 +1199,3 @@ The results of this review differ slightly from another meta-analysis that found
 Initiation of eye care is strongly recommended by AAO‐HNS and ACEP guidelines for those with lagophthalmos to prevent corneal damage, and the use of routine laboratory testing or diagnostic imaging in the absence of concerning history or physical exam findings is discouraged. All guidelines strongly recommend against antiviral monotherapy without the addition of steroids.
 
 Despite the availability of these guidelines, variations in practice patterns often occur and it remains unclear what the practice patterns are that are occurring in actual practice. Standard practices are essential not only to enhance individual patient outcomes but also to ensure equity in care delivery across different emergency settings. This study aims to explore current practices, highlight differences in care, and provide recommendations for improving the management of Bell's palsy in the acute setting.
-
----

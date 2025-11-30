@@ -828,5 +828,3 @@ The incidence of laryngopharyngeal reflux was significantly higher in the laryng
 Conclusion
 
 Recent studies suggesting that otolaryngologic patients commonly show upright, daytime reflux with normal esophageal clearance and that typical GERD patients commonly have supine, nocturnal reflux with prolonged esophageal clearance are not supported by this study. This study indicates that acid reflux parameters and positional changes are not sufficient to explain why patients with GERD experience different symptoms. The regional symptoms of GERD may be attributed to the impairment of epithelial resistance, motor activity, and buffering systems for the esophageal antireflux barrier.
-
----

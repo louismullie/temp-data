@@ -1026,5 +1026,3 @@ Efficacy versus effectiveness tagging — evidence is additionally classified be
 ### Guidelines for the audiologic management of adult hearing impairment [^5f2512f9]. AAA (2006). Medium credibility.
 
 Adult hearing aid outcomes — speech audibility: Increased audibility of speech is correlated with hearing aid benefit and is associated with increased use, while clinical experience speculates that excessive audibility of soft sounds may be undesirable.
-
----

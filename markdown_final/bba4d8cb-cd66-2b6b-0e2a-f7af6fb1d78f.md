@@ -813,11 +813,11 @@ The use of VIAGRA offers no protection against sexually transmitted diseases. Co
 
 Objectives
 
-This study was designed to determine the time course of nitrate interaction with tadalafil, a phosphodiesterase 5 (PDE5) inhibitor with a half-life (t(1/2)) of 17.5 h.
+This study was designed to determine the time course of nitrate interaction with tadalafil, a phosphodiesterase 5 (PDE5) inhibitor with a half-life (t₁/₂) of 17.5 h.
 
 Background
 
-The PDE5 inhibitors augment the blood pressure (BP)-lowering effects of nitrates, yet the time course of this interaction is unclear. Recent guidelines from the American College of Cardiology/American Heart Association recommend that nitrates be withheld for 24 h after taking sildenafil (t(1/2) = 4 h).
+The PDE5 inhibitors augment the blood pressure (BP)-lowering effects of nitrates, yet the time course of this interaction is unclear. Recent guidelines from the American College of Cardiology/American Heart Association recommend that nitrates be withheld for 24 h after taking sildenafil (t₁/₂ = 4 h).
 
 Methods
 
@@ -1494,5 +1494,3 @@ Seizure, seizure recurrence
 Ophthalmologic
 
 NAION [see Warnings and Precautions (5.4), Patient Counseling Information (17)].
-
----

@@ -1076,5 +1076,3 @@ Studies evaluating the safety and efficacy of ginger in the management of nausea
 Conclusions
 
 While data are insufficient to recommend ginger universally and there are concerns with product quality due to limited regulation of dietary supplements, ginger appears to be a fairly low-risk and effective treatment for nausea and vomiting associated with pregnancy. In low doses, this may be appropriate for patients not responding to traditional first-line therapies.
-
----

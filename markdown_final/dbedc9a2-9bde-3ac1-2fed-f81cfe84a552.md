@@ -1070,5 +1070,3 @@ Monogenic versus complex disease — some inherited diseases are caused by mutat
 ### European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia [^4897c658]. The European Respiratory Journal (2017). Medium credibility.
 
 Regarding diagnostic investigations for primary ciliary dyskinesia, more specifically with respect to genetic testing, ERS 2017 guidelines recommend to recognize that in the future genetic testing might be important for genotype specific therapy.
-
----

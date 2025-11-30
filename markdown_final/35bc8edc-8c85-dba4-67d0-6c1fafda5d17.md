@@ -1015,5 +1015,3 @@ The sponsors of the study had no role in study design, data collection, data ana
 ### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^c75f1a44]. Gastroenterology (2020). High credibility.
 
 Grading of Recommendations Assessment, Development and Evaluation (GRADE) definitions — strength of recommendation: For Strong recommendations, most individuals in this situation would want the recommended course of action and only a small proportion would not, and most individuals should receive the recommended course of action, with formal decision aids not likely to be needed. For Conditional recommendations, the majority of individuals in this situation would want the suggested course of action, but many would not, and different choices will be appropriate for different patients; decision aids may be useful in helping individuals in making decisions consistent with their values and preferences, and clinicians should expect to spend more time with patients when working towards a decision.
-
----

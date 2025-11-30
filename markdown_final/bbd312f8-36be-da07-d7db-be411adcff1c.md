@@ -1094,5 +1094,3 @@ The panel is confident that the recommendation applies to almost all patients wi
 ### Stroke as an atypical initial presentation of giant cell arteritis [^c1a3454a]. BMC Geriatrics (2018). Low credibility.
 
 In conclusion although there is a set of typical symptoms associated with giant cell arteritis, such as headache, scalp tenderness, jaw claudication, and visual disturbances, atypical symptoms in patients older than 50-years should also be considered for GCA. These atypical symptoms may include chronic cough, fever of unknown origin, and stroke symptoms especially if the patient's ESR levels are elevated. Clinical decision-making should be driven by a high index of suspicion since no single test has perfect sensitivity. Whether a combination of ESR, CRP and temporal artery biopsy results can improve the diagnostic accuracy of GCA would need further study. As with all conditions, prompt diagnosis and the timely initiation of targeted treatment improves the chances of optimal outcomes.
-
----

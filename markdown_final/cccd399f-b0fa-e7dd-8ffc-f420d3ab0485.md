@@ -1364,5 +1364,3 @@ Fifty five percent of the patients were female. The median age was 75 years. The
 Conclusion
 
 The success rate of diltiazem used in the treatment of AFib with RVR was highest in physiological calcium levels. The current study may provide the clinician with awareness about the consideration of serum ionized calcium levels when choosing drugs in patients with AFib with RVR.
-
----

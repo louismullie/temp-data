@@ -1553,5 +1553,3 @@ Most prescriptions written by the majority of providers are under the recommende
 ### ACOEM practice guidelines: opioids for treatment of acute, subacute, chronic, and postoperative pain [^804eb642]. Journal of Occupational and Environmental Medicine (2014). Medium credibility.
 
 ACOEM opioids — Dose threshold notes statistical significance for acute and chronic pain at and above 50 mg/day of morphine equivalent dose, and states that the maximum daily oral dose recommended based on risk of overdose/death is 50-mg morphine equivalent daily dose (MED).
-
----

@@ -777,5 +777,3 @@ Evidence from this study suggests that telemedicine-delivered symptom-triggered 
 ### The ASAM clinical practice guideline on alcohol withdrawal management [^c1788476]. Journal of Addiction Medicine (2020). High credibility.
 
 Alcohol withdrawal management — pregnancy: Pregnancy has been described as one of the "medical conditions that could make ambulatory withdrawal management problematic", and other guidelines have cited pregnancy as an indication for inpatient treatment.
-
----

@@ -1003,5 +1003,3 @@ Pseudofractures are areas of weakened bone that appear as transverse radiolucent
 Complete fragility fracture
 
 The goal of treatment is to fix the fracture, optimize the anatomy and function and promote recovery. The bone is likely to be soft in the presence of a mineralization defect, and therefore nailing may be preferable to plating. A specialized orthopedic team should be consulted in the presence of significant deformity that may be multi-planar. In the RCT improved radiographic healing of active fractures and pseudofractures was observed in the burosumab arm in comparison to placebo in adults over 24 weeks. In our accompanying systematic review, there was a 35% improvement in fracture and pseudofracture healing with a narrow CI (95% CI, 22 more to 49 more) with burosumab in comparison to placebo.
-
----

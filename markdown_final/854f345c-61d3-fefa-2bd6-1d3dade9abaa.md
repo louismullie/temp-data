@@ -1482,5 +1482,3 @@ Limitations included inconsistent moderators, variation in the number of observa
 Conclusions
 
 The superiority of SSRI+CBT for youth with depression and anxiety is further supported. For purposes of rapid and greater relief, combination treatment is the superior approach across anxiety and depression and is robust to a range of participant characteristics. However, the added value of CBT (with an SSRI) occurs late in treatment. These findings represent a step towards understanding heterogeneity of treatment response and raise the possibility that interventions could be better tailored or adapted based on patient characteristics.
-
----

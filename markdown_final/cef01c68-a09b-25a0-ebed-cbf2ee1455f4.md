@@ -956,5 +956,3 @@ Our review of international guidelines available for CHF, CKD and IBD reveals no
 
 Table 1
 Iron deficiency anemia has more guideline coverage than iron deficiency: summary of iron deficiency diagnostic measures, independent of anemia 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85
-
----

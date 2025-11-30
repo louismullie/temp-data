@@ -1187,5 +1187,3 @@ Three participants did not complete the MFQ and an additional 28 participants sp
 ### The nature of surgical error: a cautionary tale and a call to reason [^aba867e2]. Surgical Endoscopy (2005). Low credibility.
 
 Errors and "patient safety" have taken on monumental importance for surgery. Like all things new, there is an initial over-reaction before a return to a balanced perspective. The current response to the global interest in error has been to seize on the latest reports that are focusing on the "systemic nature" of errors, which is also being referred to as "the new look". There has been an unintentional ignoring of the actual error, referred to as the coface error, that the surgeon commits. It is time to put the approach to errors into perspective and redefine errors within the context of the surgical community, which can result in a balance of the surgeon's position in regard to systemic and personal responsibility.
-
----

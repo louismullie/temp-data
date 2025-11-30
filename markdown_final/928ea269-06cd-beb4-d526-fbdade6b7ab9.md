@@ -1092,5 +1092,3 @@ Due to abnormal prenatal ultrasound findings of femoral shortening and flattened
 ### Towards improved genetic diagnosis of human differences of sex development [^450c692c]. Nature Reviews: Genetics (2021). High credibility.
 
 Despite being collectively among the most frequent congenital developmental conditions worldwide, differences of sex development (DSD) lack recognition and research funding. As a result, what constitutes optimal management remains uncertain. Identification of the individual conditions under the DSD umbrella is challenging and molecular genetic diagnosis is frequently not achieved, which has psychosocial and health-related repercussions for patients and their families. New genomic approaches have the potential to resolve this impasse through better detection of protein-coding variants and ascertainment of under-recognized aetiology, such as mosaic, structural, non-coding or epigenetic variants. Ultimately, it is hoped that better outcomes data, improved understanding of the molecular causes and greater public awareness will bring an end to the stigma often associated with DSD.
-
----

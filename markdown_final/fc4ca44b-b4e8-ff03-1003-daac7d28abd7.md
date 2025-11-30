@@ -1176,5 +1176,3 @@ Efficacy considerations timeframes — Thirteen statements achieved consensus, w
 Out of six women, four commented on the answer options for question 1 in the sexual domain. They felt that the option "sometimes" was missing for the question about vaginal lubrication. To avoid changes in the scoring system, "usually" was added to the wording of the question.
 
 Regarding question 2 in the sexual domain, a question about vaginal sensation during intercourse, women commented that option 1, "feel a lot", can also mean "feel a lot of pain", which corresponds to option 4, "feel pain". The wording was changed to "normal/pleasant", which also matches the wording in the Australian Pelvic Floor Questionnaire.
-
----

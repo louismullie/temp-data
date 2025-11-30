@@ -937,5 +937,3 @@ Pediatric obesity care delivery — team-based and medical home: Obesity treatme
 ### Behavioral treatment of the patient with obesity [^87455780]. Endocrinology and Metabolism Clinics of North America (2016). Low credibility.
 
 Advisory panels encourage persons with obesity to lose 5% to 10% of body weight, which can be achieved with dietary change, increased physical activity, and behavioral therapy. Patients participate in weekly individual or group treatment sessions delivered in-person or by telephone. Large-scale trials have demonstrated the effectiveness of this approach, with resulting improvement in cardiovascular disease risk factors. Weight regain is common. Several strategies improve weight loss maintenance, including monthly or more frequent follow-up with an interventionist. Digitally-delivered approaches are promising because they have the potential to reach more individuals.
-
----

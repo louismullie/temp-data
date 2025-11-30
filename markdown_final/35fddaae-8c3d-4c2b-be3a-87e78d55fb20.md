@@ -688,7 +688,7 @@ Evaluating the best perioperative ACEI and ARB management practices for postoper
 
 ### KDOQI US commentary on the 2012 KDIGO clinical practice guideline for the evaluation and management of CKD [^116RjsUr]. American Journal of Kidney Diseases (2014). Medium credibility.
 
-KDOQI CKD prescribing caution — antihypertensives/cardiac medications: For RAAS antagonists (ACE-Is, ARBs, aldosterone antagonists, direct renin inhibitors), "Avoid in people with suspected functional renal artery stenosis", "Start at lower dose in people with GFR < 45 ml/min/1.73 m²", "Assess GFR and measure serum potassium within 1 week of starting or following any dose escalation", "Temporarily suspend during intercurrent illness, planned IV radiocontrast administration, bowel preparation prior to colonoscopy, or prior to major surgery", and "Do not routinely discontinue in people with GFR < 30 ml/min/1.73 m² as they remain nephroprotective". For beta-blockers, "Reduce dose by 50% in people with GFR < 30 ml/min/1.73 m^2", and for digoxin, "Reduce dose based on plasma concentrations".
+KDOQI CKD prescribing caution — antihypertensives/cardiac medications: For RAAS antagonists (ACE-Is, ARBs, aldosterone antagonists, direct renin inhibitors), "Avoid in people with suspected functional renal artery stenosis", "Start at lower dose in people with GFR < 45 ml/min/1.73 m²", "Assess GFR and measure serum potassium within 1 week of starting or following any dose escalation", "Temporarily suspend during intercurrent illness, planned IV radiocontrast administration, bowel preparation prior to colonoscopy, or prior to major surgery", and "Do not routinely discontinue in people with GFR < 30 ml/min/1.73 m² as they remain nephroprotective". For beta-blockers, "Reduce dose by 50% in people with GFR < 30 ml/min/1.73 m²", and for digoxin, "Reduce dose based on plasma concentrations".
 
 ---
 
@@ -962,7 +962,7 @@ Withholding or continuing angiotensin-converting enzyme inhibitors or angiotensi
 
 Methods
 
-We included patients prescribed angiotensin-converting enzyme inhibitors or angiotensin 2 receptor blockers who underwent surgical procedures > 1h duration under general or spinal anaesthesia from January 2012 to June 2022 in a single centre. We categorised patients by whether these drugs were withheld for 24h before surgery. We evaluated the association of withholding these drugs before non-cardiac surgery with creatinine concentrations that increased ≥ 26.4μmol.l -1 in the first 48 postoperative hours (acute kidney injury). We also analysed changes in creatinine concentrations and estimated glomerular filtration rates.
+We included patients prescribed angiotensin-converting enzyme inhibitors or angiotensin 2 receptor blockers who underwent surgical procedures > 1h duration under general or spinal anaesthesia from January 2012 to June 2022 in a single centre. We categorised patients by whether these drugs were withheld for 24h before surgery. We evaluated the association of withholding these drugs before non-cardiac surgery with creatinine concentrations that increased ≥ 26.4μmol.l⁻¹ in the first 48 postoperative hours (acute kidney injury). We also analysed changes in creatinine concentrations and estimated glomerular filtration rates.
 
 Results
 

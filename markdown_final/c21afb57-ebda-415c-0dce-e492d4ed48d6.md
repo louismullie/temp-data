@@ -1092,5 +1092,3 @@ Updated, evidence guidelines allow optimization of the diagnosis of CDI and the 
 ### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^c22f0d1d]. Diseases of the Colon and Rectum (2021). High credibility.
 
 Ulcerative colitis (UC) — initial intensive medical therapy timeframe: This initial 7-day treatment window is typically recommended with colectomy reserved for patients who do not respond appropriately or clinically worsen during this interval.
-
----

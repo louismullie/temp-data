@@ -1017,5 +1017,3 @@ We constructed a list of pre-specified, potentially important diagnoses (that is
 ### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^fba61240]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Common clinical indications — Meckel scintigraphy is indicated to localize ectopic gastric mucosa in a Meckel diverticulum as the source of unexplained gastrointestinal bleeding; bleeding Meckel diverticulum usually occurs in young children, whereas when bleeding occurs in an older child it is more likely from a benign polyp or small-bowel tumor, and even in young children active bleeding is best studied by radiolabeled red blood cell (RBC) scintigraphy.
-
----

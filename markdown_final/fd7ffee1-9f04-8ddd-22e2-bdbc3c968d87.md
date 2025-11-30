@@ -1138,5 +1138,3 @@ Syphilis — Late-latent (> 1 year) or latent of unknown duration treatment iden
 ### Diagnosis and treatment of impetigo [^a2d134c7]. American Family Physician (2007). Medium credibility.
 
 Regarding medical management for ecthyma and impetigo, more specifically with respect to oral antibiotic therapy, AAFP 2007 guidelines recommend to do not use oral penicillin V or amoxicillin for the treatment of impetigo.
-
----

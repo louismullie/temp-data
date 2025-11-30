@@ -1170,5 +1170,3 @@ New evidence emerged on beneficial results of antibiotic treatment, compared wit
 Conclusions and Implications For Practice
 
 Significant progress has been made in advancing the knowledge on the treatment of OM. Areas of potential future research have been identified and outlined.
-
----

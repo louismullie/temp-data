@@ -983,5 +983,3 @@ Six pigs (41 ± 8 kg, mean ± SD) and 6 dogs (32 ± 5 kg) were injected intramus
 ### Standards of care in diabetes – 2025 [^9fec4de9]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 1, more specifically with respect to continuous glucose monitoring, ADA 2025 guidelines recommend to assess skin reactions, either due to irritation or allergy, and address to aid in successful use of devices.
-
----

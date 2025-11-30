@@ -990,5 +990,3 @@ American Academy of Sleep Medicine clinical guidance — follow-up polysomnograp
 ### Management of persistent, post-adenotonsillectomy obstructive sleep apnea in children: an official American Thoracic Society clinical practice guideline [^ecd0de2c]. American Journal of Respiratory and Critical Care Medicine (2024). High credibility.
 
 Persistent obstructive sleep apnea (OSA) in children — operational definition and thresholds are specified using the obstructive apnea–hypopnea index (oAHI). The oAHI corresponds to the sum of obstructive apneas, mixed apneas, and hypopneas per hour of total sleep time (central apneas not included). Persistent OSA was defined as an oAHI ≥ 1 event/h. For oAHI > 1 and < 5 events/h (mild OSA), the literature reported antiinflammatory medications, whereas treatment with CPAP or surgery was typically reserved for those with persistent symptoms or oAHI > 5 events/h. Because of limited guidance and a higher risk of neurocognitive sequela in children with oAHI > 5 events/h, the panel focused their attention on this population; for the search strategy, if only AHI was reported, oAHI was not used.
-
----

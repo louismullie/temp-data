@@ -1165,5 +1165,3 @@ Over 90% of the world's severe and fatal Plasmodium falciparum malaria is estima
 ### WHO guidelines for malaria [^f692963c]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding medical management for malaria infection, more specifically with respect to management of severe malaria (antimalarial treatment), WHO 2024 guidelines recommend to administer a single IM dose of artesunate in adult patients if complete treatment of severe malaria is not possible but injections are available, and refer them to an appropriate facility for further care. Administer IM artemether if IM artesunate is not available. Administer IM quinine if IM artemether is not available.
-
----
