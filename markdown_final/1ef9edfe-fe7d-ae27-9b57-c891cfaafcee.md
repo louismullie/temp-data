@@ -585,7 +585,7 @@ Our patient's continued bleeding and the unsuccessful sclerotherapy necessitated
 
 ### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^24ea7993]. Hepatology (2024). High credibility.
 
-Indicators of complete disease resolution in cirrhosis-related portal hypertension: Example features listed include LSM < 12 kPa and platelet > 150 K/mm3 as markers of complete disease resolution context.
+Indicators of complete disease resolution in cirrhosis-related portal hypertension: Example features listed include LSM < 12 kPa and platelet > 150 K/mm³ as markers of complete disease resolution context.
 
 ---
 
@@ -841,7 +841,7 @@ Areas requiring further study: Role of thrombin in gastric varices, comparing th
 
 ### APASL clinical practice guidance: the diagnosis and management of patients with primary biliary cholangitis [^fe144fe7]. Hepatology International (2022). High credibility.
 
-APASL PBC guidance — Portal hypertension screening and prophylaxis: A screening esophagogastroduodenoscopy (EGD) should be performed in patients with cirrhotic features at the time of the diagnosis, and patients with features of portal hypertension (ie. splenomegaly, thrombocytopenia) should be screened for gastroesophageal varices (II, 2). The Baveno-VI criteria (LSM by TE < 20 kPa and platelet count > 150×10^9/L) can identify patients who may not need screening EGD, with one study showing this strategy could avoid 39% of screening EGD with a false negative rate of 0%. Nonselective beta-blockers and/or endoscopic band ligation is indicated for large esophageal varices or variceal hemorrhage.
+APASL PBC guidance — Portal hypertension screening and prophylaxis: A screening esophagogastroduodenoscopy (EGD) should be performed in patients with cirrhotic features at the time of the diagnosis, and patients with features of portal hypertension (ie. splenomegaly, thrombocytopenia) should be screened for gastroesophageal varices (II, 2). The Baveno-VI criteria (LSM by TE < 20 kPa and platelet count > 150×10⁹/L) can identify patients who may not need screening EGD, with one study showing this strategy could avoid 39% of screening EGD with a false negative rate of 0%. Nonselective beta-blockers and/or endoscopic band ligation is indicated for large esophageal varices or variceal hemorrhage.
 
 ---
 
@@ -853,7 +853,7 @@ Regarding diagnostic investigations for portal hypertension, more specifically w
 
 ### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^c2e374b6]. Hepatology (2017). Medium credibility.
 
-Cirrhosis — noninvasive triage for screening endoscopy: Patients with an LS < 20 kPa and platelet count > 150,000/mm3 have a very low probability (< 5%) of having high-risk varices, and EGD can be circumvented, whereas in patients who do not meet these criteria, screening endoscopy for the diagnosis of GEV is recommended when the diagnosis of cirrhosis is made.
+Cirrhosis — noninvasive triage for screening endoscopy: Patients with an LS < 20 kPa and platelet count > 150,000/mm³ have a very low probability (< 5%) of having high-risk varices, and EGD can be circumvented, whereas in patients who do not meet these criteria, screening endoscopy for the diagnosis of GEV is recommended when the diagnosis of cirrhosis is made.
 
 ---
 

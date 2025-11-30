@@ -261,7 +261,7 @@ PATHWAY-2 was a randomised, double-blind crossover trial done at 14 UK primary a
 
 Findings
 
-Of the 314 patients in PATHWAY-2, 269 participated in one or more of the three substudies: 126 in substudy 1, 226 in substudy 2, and 146 in substudy 3. Home systolic blood pressure reduction by spironolactone was predicted by ARR (r 2 = 0·13, p < 0·0001) and plasma renin (r 2 = 0·11, p = 0·00024). 42 patients had low renin concentrations (predefined as the lowest tertile of plasma renin), of which 31 had a plasma aldosterone concentration greater than the mean value for all 126 patients (250 pmol/L). Thus, 31 (25% [95% CI 17–33]) of 126 patients were deemed to have inappropriately high aldosterone concentrations. Thoracic fluid content was reduced by 6·8% from baseline (95% CI 4·0 to 8·8; p < 0·0001) with spironolactone, but not other treatments. Amiloride (10 mg once daily) reduced clinic systolic blood pressure by 20·4 mm Hg (95% CI 18·3–22·5), compared with a reduction of 18·3 mm Hg (16·2–20·5) with spironolactone (25 mg once daily). No serious adverse events were recorded, and adverse symptoms were not systematically recorded after the end of the double-blind treatment. Mean plasma potassium concentrations increased from 4·02 mmol/L (95% CI 3·95–4·08) on placebo to 4·50 (4·44–4·57) on amiloride (p < 0·0001).
+Of the 314 patients in PATHWAY-2, 269 participated in one or more of the three substudies: 126 in substudy 1, 226 in substudy 2, and 146 in substudy 3. Home systolic blood pressure reduction by spironolactone was predicted by ARR (r² = 0·13, p < 0·0001) and plasma renin (r² = 0·11, p = 0·00024). 42 patients had low renin concentrations (predefined as the lowest tertile of plasma renin), of which 31 had a plasma aldosterone concentration greater than the mean value for all 126 patients (250 pmol/L). Thus, 31 (25% [95% CI 17–33]) of 126 patients were deemed to have inappropriately high aldosterone concentrations. Thoracic fluid content was reduced by 6·8% from baseline (95% CI 4·0 to 8·8; p < 0·0001) with spironolactone, but not other treatments. Amiloride (10 mg once daily) reduced clinic systolic blood pressure by 20·4 mm Hg (95% CI 18·3–22·5), compared with a reduction of 18·3 mm Hg (16·2–20·5) with spironolactone (25 mg once daily). No serious adverse events were recorded, and adverse symptoms were not systematically recorded after the end of the double-blind treatment. Mean plasma potassium concentrations increased from 4·02 mmol/L (95% CI 3·95–4·08) on placebo to 4·50 (4·44–4·57) on amiloride (p < 0·0001).
 
 Interpretation
 
@@ -647,14 +647,14 @@ Primary aldosteronism — Justification for Recommendation 10 states that althou
 
 MRA versus ACEi/ARB
 
-Four studies reported changes in mean SBP and DBP: one cross-over and three parallel studies. Treatment duration ranged from five to sixteen weeks. Spironolactone (50–100 mg/day) or eplerenone (50–200 mg/day) were compared to losartan (50–100 mg/day) or enalapril (10–40 mg/day). The mean difference in change in SBP between MRA (n = 264) and ACEi/ARB (n = 277) was −6.8 mmHg (95% CI −9.6, −4.1) with low heterogeneity between studies (I 2 = 7%, p = 0.36) (Fig. 3).
+Four studies reported changes in mean SBP and DBP: one cross-over and three parallel studies. Treatment duration ranged from five to sixteen weeks. Spironolactone (50–100 mg/day) or eplerenone (50–200 mg/day) were compared to losartan (50–100 mg/day) or enalapril (10–40 mg/day). The mean difference in change in SBP between MRA (n = 264) and ACEi/ARB (n = 277) was −6.8 mmHg (95% CI −9.6, −4.1) with low heterogeneity between studies (I² = 7%, p = 0.36) (Fig. 3).
 
 Fig. 3
 Meta-analysis of blood pressure lowering effect with mineralocorticoid receptor antagonists (MRA) versus angiotensin-converting enzyme inhibitors/angiotensin receptor blockers (ACEi/ARB).
 
 A systolic blood pressure; B diastolic blood pressure.
 
-The mean difference in DBP change was −2.5 mmHg (95% CI −5.9, 1.0) with considerable heterogeneity between studies (I 2 = 83%, p < 0.001) (Fig. 3). Sensitivity analysis with the removal of high risk of bias studies (N = 2) reduced heterogeneity (I 2 = 0, p = 0.80) with an aggregated mean difference in DBP of −2.4 mmHg (95% CI −4.3, −0.4) (Supplementary Table 6). The certainty of the evidence for the difference in SBP and DBP was rated moderate and very low respectively (Table 2).
+The mean difference in DBP change was −2.5 mmHg (95% CI −5.9, 1.0) with considerable heterogeneity between studies (I² = 83%, p < 0.001) (Fig. 3). Sensitivity analysis with the removal of high risk of bias studies (N = 2) reduced heterogeneity (I 2 = 0, p = 0.80) with an aggregated mean difference in DBP of −2.4 mmHg (95% CI −4.3, −0.4) (Supplementary Table 6). The certainty of the evidence for the difference in SBP and DBP was rated moderate and very low respectively (Table 2).
 
 ---
 
@@ -788,14 +788,14 @@ From the limited available evidence, spironolactone appears to lower blood press
 
 MRA versus ENaCi
 
-There were three studies comparing spironolactone (25 mg/day to mean 224 mg/day) with amiloride (10–40 mg/day) or triamterene monotherapy (mean dose 268 mg/day). The mean difference in SBP change between MRA (n = 87) and EnaCi (n = 90) was −0.9 mmHg (95% CI −9.0, 7.1) with considerable heterogeneity (I 2 = 77%, p = 0.01) (Fig. 4). Sensitivity analysis with the removal of the high risk of bias studies (N = 2) increased the mean difference in SBP (N = 1) to 5.2 mmHg (95% CI 0.8, 9.7) (Supplementary Table 7).
+There were three studies comparing spironolactone (25 mg/day to mean 224 mg/day) with amiloride (10–40 mg/day) or triamterene monotherapy (mean dose 268 mg/day). The mean difference in SBP change between MRA (n = 87) and EnaCi (n = 90) was −0.9 mmHg (95% CI −9.0, 7.1) with considerable heterogeneity (I² = 77%, p = 0.01) (Fig. 4). Sensitivity analysis with the removal of the high risk of bias studies (N = 2) increased the mean difference in SBP (N = 1) to 5.2 mmHg (95% CI 0.8, 9.7) (Supplementary Table 7).
 
 Fig. 4
 Meta-analysis of blood pressure lowering effect with mineralocorticoid receptor antagonists (MRA) versus epithelial sodium channel inhibitors (ENaCi).
 
 A systolic blood pressure; B diastolic blood pressure.
 
-The mean difference in DBP change was 1.5 mmHg (95% CI −0.7,3.6) with low heterogeneity between studies (I 2 = 0%, p = 0.59) (Fig. 4). A sensitivity analysis with the removal of each study, high risk of bias studies (N = 2) and using different correlation coefficients (± 0.2) to calculate imputed SD did not reveal a difference in aggregated mean DBP (Supplementary Tables 7–8). The certainty of the evidence for the difference in SBP and DBP outcomes was rated very low and low respectively (Table 2).
+The mean difference in DBP change was 1.5 mmHg (95% CI −0.7,3.6) with low heterogeneity between studies (I² = 0%, p = 0.59) (Fig. 4). A sensitivity analysis with the removal of each study, high risk of bias studies (N = 2) and using different correlation coefficients (± 0.2) to calculate imputed SD did not reveal a difference in aggregated mean DBP (Supplementary Tables 7–8). The certainty of the evidence for the difference in SBP and DBP outcomes was rated very low and low respectively (Table 2).
 
 ---
 
@@ -1111,7 +1111,7 @@ PATHWAY-2 was a randomised, double-blind crossover trial done at 14 UK primary a
 
 Findings
 
-Of the 314 patients in PATHWAY-2, 269 participated in one or more of the three substudies: 126 in substudy 1, 226 in substudy 2, and 146 in substudy 3. Home systolic blood pressure reduction by spironolactone was predicted by ARR (r 2 = 0·13, p < 0·0001) and plasma renin (r 2 = 0·11, p = 0·00024). 42 patients had low renin concentrations (predefined as the lowest tertile of plasma renin), of which 31 had a plasma aldosterone concentration greater than the mean value for all 126 patients (250 pmol/L). Thus, 31 (25% [95% CI 17–33]) of 126 patients were deemed to have inappropriately high aldosterone concentrations. Thoracic fluid content was reduced by 6·8% from baseline (95% CI 4·0 to 8·8; p < 0·0001) with spironolactone, but not other treatments. Amiloride (10 mg once daily) reduced clinic systolic blood pressure by 20·4 mm Hg (95% CI 18·3–22·5), compared with a reduction of 18·3 mm Hg (16·2–20·5) with spironolactone (25 mg once daily). No serious adverse events were recorded, and adverse symptoms were not systematically recorded after the end of the double-blind treatment. Mean plasma potassium concentrations increased from 4·02 mmol/L (95% CI 3·95–4·08) on placebo to 4·50 (4·44–4·57) on amiloride (p < 0·0001).
+Of the 314 patients in PATHWAY-2, 269 participated in one or more of the three substudies: 126 in substudy 1, 226 in substudy 2, and 146 in substudy 3. Home systolic blood pressure reduction by spironolactone was predicted by ARR (r² = 0·13, p < 0·0001) and plasma renin (r² = 0·11, p = 0·00024). 42 patients had low renin concentrations (predefined as the lowest tertile of plasma renin), of which 31 had a plasma aldosterone concentration greater than the mean value for all 126 patients (250 pmol/L). Thus, 31 (25% [95% CI 17–33]) of 126 patients were deemed to have inappropriately high aldosterone concentrations. Thoracic fluid content was reduced by 6·8% from baseline (95% CI 4·0 to 8·8; p < 0·0001) with spironolactone, but not other treatments. Amiloride (10 mg once daily) reduced clinic systolic blood pressure by 20·4 mm Hg (95% CI 18·3–22·5), compared with a reduction of 18·3 mm Hg (16·2–20·5) with spironolactone (25 mg once daily). No serious adverse events were recorded, and adverse symptoms were not systematically recorded after the end of the double-blind treatment. Mean plasma potassium concentrations increased from 4·02 mmol/L (95% CI 3·95–4·08) on placebo to 4·50 (4·44–4·57) on amiloride (p < 0·0001).
 
 Interpretation
 

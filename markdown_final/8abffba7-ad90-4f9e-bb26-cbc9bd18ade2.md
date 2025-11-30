@@ -39,7 +39,7 @@ what's the first-line treatment for atrial fibrillation?
 
 ---
 
-First-line treatment for atrial fibrillation is **rate control with beta-blockers or nondihydropyridine calcium channel blockers** (diltiazem, verapamil) for stable patients without significant LV dysfunction, and **catheter ablation as first-line rhythm control** for selected symptomatic patients, particularly younger patients with minimal structural heart disease [^113VKrgp] [^114u3ypp]. Anticoagulation is indicated based on **CHA2DS2-VASc** to prevent stroke, with DOACs preferred over warfarin when not contraindicated [^113zvGVi] [^1126frCA]. Rhythm control with antiarrhythmic drugs or cardioversion is reserved for persistent symptoms despite rate control or when rhythm control is preferred [^114EKNsz].
+First-line treatment for atrial fibrillation is **rate control with beta-blockers or nondihydropyridine calcium channel blockers** (diltiazem, verapamil) for stable patients without significant LV dysfunction, and **catheter ablation as first-line rhythm control** for selected symptomatic patients, particularly younger patients with minimal structural heart disease [^113VKrgp] [^114u3ypp]. Anticoagulation is indicated based on **CHA₂DS₂-VASc** to prevent stroke, with DOACs preferred over warfarin when not contraindicated [^113zvGVi] [^1126frCA]. Rhythm control with antiarrhythmic drugs or cardioversion is reserved for persistent symptoms despite rate control or when rhythm control is preferred [^114EKNsz].
 
 ---
 
@@ -100,7 +100,7 @@ Treatment selection should be **individualized**, considering age, symptom sever
 |-|-|
 | Stable, asymptomatic or minimally symptomatic AF | Rate control (beta-blockers or calcium channel blockers) |
 | Symptomatic paroxysmal AF, younger patients, minimal structural heart disease | Rhythm control (catheter ablation or antiarrhythmic drugs) |
-| All patients with elevated stroke risk (CHA2DS2-VASc ≥ 2 in men, ≥ 3 in women) | Anticoagulation (DOACs preferred) |
+| All patients with elevated stroke risk (CHA₂DS₂-VASc ≥ 2 in men, ≥ 3 in women) | Anticoagulation (DOACs preferred) |
 
 ---
 
@@ -340,7 +340,7 @@ Main outcomes were safety and efficacy of AF ablation as first-line therapy when
 
 Results
 
-A total of 6 RCTs involving 1212 patients with AF were included (609 were randomized to AF ablation and 603 to drug therapy; mean [SD] age, 56 [11] years). Compared with AADs, catheter ablation use was associated with reductions in recurrent atrial arrhythmia (32.3% vs 53%; risk ratio [RR], 0.62; 95% CI, 0.51–0.74; P < .001; I2 = 40%), with a number needed to treat with ablation to prevent 1 arrhythmia of 5. Use of ablation was also associated with reduced symptomatic atrial arrhythmia (11.8% vs 26.4%; RR, 0.44; 95% CI, 0.27–0.72; p = 0.001; I2 = 54%) and hospitalization (5.6% vs 18.7%; RR, 0.32; 95% CI, 0.19–0.53; P < .001) with no significant difference in serious adverse events between the groups (4.2% vs 2.8%; RR, 1.52; 95% CI, 0.81–2.85; p = 0.19).
+A total of 6 RCTs involving 1212 patients with AF were included (609 were randomized to AF ablation and 603 to drug therapy; mean [SD] age, 56 [11] years). Compared with AADs, catheter ablation use was associated with reductions in recurrent atrial arrhythmia (32.3% vs 53%; risk ratio [RR], 0.62; 95% CI, 0.51–0.74; P < .001; I² = 40%), with a number needed to treat with ablation to prevent 1 arrhythmia of 5. Use of ablation was also associated with reduced symptomatic atrial arrhythmia (11.8% vs 26.4%; RR, 0.44; 95% CI, 0.27–0.72; p = 0.001; I² = 54%) and hospitalization (5.6% vs 18.7%; RR, 0.32; 95% CI, 0.19–0.53; P < .001) with no significant difference in serious adverse events between the groups (4.2% vs 2.8%; RR, 1.52; 95% CI, 0.81–2.85; p = 0.19).
 
 Conclusions and Relevance
 
@@ -360,7 +360,7 @@ Systematic literature reviews were conducted to identify relevant articles publi
 
 Results
 
-For patients with AF without valvular heart disease, including those with paroxysmal AF, who are at low risk of stroke (eg, CHA 2 DS 2 -VASc [congestive heart failure, hypertension, age ≥ 75 (doubled), diabetes, stroke (doubled)-vascular disease, age 65–74 and sex category (female)] score of 0 in males or 1 in females), we suggest no antithrombotic therapy. The next step is to consider stroke prevention (ie, oral anticoagulation therapy) for patients with 1 or more non-sex CHA 2 DS 2 -VASc stroke risk factors. For patients with a single non-sex CHA 2 DS 2 -VASc stroke risk factor, we suggest oral anticoagulation rather than no therapy, aspirin, or combination therapy with aspirin and clopidogrel; and for those at high risk of stroke (eg, CHA 2 DS 2 -VASc ≥ 2 in males or ≥ 3 in females), we recommend oral anticoagulation rather than no therapy, aspirin, or combination therapy with aspirin and clopidogrel. Where we recommend or suggest in favor of oral anticoagulation, we suggest using a non-vitamin K antagonist oral anticoagulant drug rather than adjusted-dose vitamin K antagonist therapy. With the latter, it is important to aim for good quality anticoagulation control with a time in therapeutic range > 70%. Attention to modifiable bleeding risk factors (eg, uncontrolled BP, labile international normalized ratios, concomitant use of aspirin or nonsteroidal antiinflammatory drugs in an anticoagulated patient, alcohol excess) should be made at each patient contact, and HAS-BLED (hypertension, abnormal renal/liver function [1 point each], stroke, bleeding history or predisposition, labile international normalized ratio, elderly (0.65), drugs/alcohol concomitantly [1 point each]) score used to assess the risk of bleeding where high risk patients (≥ 3) should be reviewed and followed up more frequently.
+For patients with AF without valvular heart disease, including those with paroxysmal AF, who are at low risk of stroke (eg, CHA₂DS₂-VASc [congestive heart failure, hypertension, age ≥ 75 (doubled), diabetes, stroke (doubled)-vascular disease, age 65–74 and sex category (female)] score of 0 in males or 1 in females), we suggest no antithrombotic therapy. The next step is to consider stroke prevention (ie, oral anticoagulation therapy) for patients with 1 or more non-sex CHA₂DS₂-VASc stroke risk factors. For patients with a single non-sex CHA₂DS₂-VASc stroke risk factor, we suggest oral anticoagulation rather than no therapy, aspirin, or combination therapy with aspirin and clopidogrel; and for those at high risk of stroke (eg, CHA₂DS₂-VASc ≥ 2 in males or ≥ 3 in females), we recommend oral anticoagulation rather than no therapy, aspirin, or combination therapy with aspirin and clopidogrel. Where we recommend or suggest in favor of oral anticoagulation, we suggest using a non-vitamin K antagonist oral anticoagulant drug rather than adjusted-dose vitamin K antagonist therapy. With the latter, it is important to aim for good quality anticoagulation control with a time in therapeutic range > 70%. Attention to modifiable bleeding risk factors (eg, uncontrolled BP, labile international normalized ratios, concomitant use of aspirin or nonsteroidal antiinflammatory drugs in an anticoagulated patient, alcohol excess) should be made at each patient contact, and HAS-BLED (hypertension, abnormal renal/liver function [1 point each], stroke, bleeding history or predisposition, labile international normalized ratio, elderly (0.65), drugs/alcohol concomitantly [1 point each]) score used to assess the risk of bleeding where high risk patients (≥ 3) should be reviewed and followed up more frequently.
 
 Conclusions
 
@@ -582,7 +582,7 @@ Regarding therapeutic procedures for atrial fibrillation, more specifically with
 
 ### Newly detected atrial fibrillation: AAFP updates guideline on pharmacologic management [^111ofyM9]. American Family Physician (2017). Medium credibility.
 
-Regarding medical management for atrial fibrillation, more specifically with respect to anticoagulant therapy, general indications, AAFP 2017 guidelines recommend to initiate chronic anticoagulation in patients with AF unless they are at low risk of stroke (CHADS2 < 2) or have specific contraindications.
+Regarding medical management for atrial fibrillation, more specifically with respect to anticoagulant therapy, general indications, AAFP 2017 guidelines recommend to initiate chronic anticoagulation in patients with AF unless they are at low risk of stroke (CHADS₂ < 2) or have specific contraindications.
 
 ---
 
@@ -774,7 +774,7 @@ Section 9: Outcomes and efficacy — overview — A large number of randomized t
 
 ### Antithrombotic therapy for atrial fibrillation: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^117JsQSK]. Chest (2012). Medium credibility.
 
-Atrial fibrillation (AF) antithrombotic therapy — stroke prevention conclusions state that stroke is a serious complication of AF with risk varying across patient groups and that antithrombotic prophylaxis is associated with increased bleeding risk; recommendations are based on net clinical benefit across varying stroke-risk levels. Oral anticoagulation is the optimal choice of antithrombotic therapy for patients with AF at high risk of stroke (eg, CHADS2 score ≥ 2). At lower levels of stroke risk, decisions require an individualized approach considering patient values and preferences, bleeding risk, and non-CHADS2 stroke risk factors. The role of oral anticoagulation for prevention of stroke in AF will evolve with results of large, ongoing, phase 3 RCTs of new oral anticoagulants and as experience with these new agents in clinical practice continues to grow.
+Atrial fibrillation (AF) antithrombotic therapy — stroke prevention conclusions state that stroke is a serious complication of AF with risk varying across patient groups and that antithrombotic prophylaxis is associated with increased bleeding risk; recommendations are based on net clinical benefit across varying stroke-risk levels. Oral anticoagulation is the optimal choice of antithrombotic therapy for patients with AF at high risk of stroke (eg, CHADS₂ score ≥ 2). At lower levels of stroke risk, decisions require an individualized approach considering patient values and preferences, bleeding risk, and non-CHADS2 stroke risk factors. The role of oral anticoagulation for prevention of stroke in AF will evolve with results of large, ongoing, phase 3 RCTs of new oral anticoagulants and as experience with these new agents in clinical practice continues to grow.
 
 ---
 

@@ -654,7 +654,7 @@ Other effects of overdose may include gastrointestinal effects such as nausea, v
 
 Repeat revascularisation and cerebrovascular accidents
 
-Repeat revascularisation data were available from seven studies (n = 16,351). Short-term duration of dual antiplatelet therapy yielded similar results compared with 12-month duration (event rate 3.06% [153/4,994 patients] vs 2.63% [132/5,026]; odds ratio 1.17 [95% confidence interval 0.92 to 1.48]; P = 0.20; I^2 = 0%). Results with extended dual antiplatelet therapy were comparable to those with 12-month therapy (2.80% [89/3,176] vs 2.35% [74/3,155]; 1.20 [0.88 to 1.64]; P = 0.25; I^2 = 0%).
+Repeat revascularisation data were available from seven studies (n = 16,351). Short-term duration of dual antiplatelet therapy yielded similar results compared with 12-month duration (event rate 3.06% [153/4,994 patients] vs 2.63% [132/5,026]; odds ratio 1.17 [95% confidence interval 0.92 to 1.48]; P = 0.20; I² = 0%). Results with extended dual antiplatelet therapy were comparable to those with 12-month therapy (2.80% [89/3,176] vs 2.35% [74/3,155]; 1.20 [0.88 to 1.64]; P = 0.25; I² = 0%).
 
 - **Fig 5 individual and summary odds ratios**: For the endpoint of repeat revascularisation, data stratified by duration of dual antiplatelet therapy: short-term (12 months) versus 12 months.
 

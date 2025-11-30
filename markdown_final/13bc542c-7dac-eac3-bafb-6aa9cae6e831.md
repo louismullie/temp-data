@@ -33,9 +33,7 @@ The number of diagonals in a 34-sided polygon is **527**. This is calculated usi
 
 The formula to calculate the number of diagonals in an n-sided polygon is:
 
-[
-\\text{Number of diagonals} = \\frac{n(n - 3)}{2}
-]
+Number of diagonals = [n(n − 3)/2]
 
 This formula derives from the fact that each vertex connects to **n − 3** other vertices via diagonals (excluding itself and its two adjacent vertices), and each diagonal is counted twice in this total, hence division by 2.
 
@@ -45,9 +43,7 @@ This formula derives from the fact that each vertex connects to **n − 3** othe
 
 For a 34-sided polygon, substitute **n = 34** into the formula:
 
-[
-\\text{Number of diagonals} = \\frac{34(34–3)}{2} = \\frac{34 \\times 31}{2} = \\frac{1054}{2} = 527
-]
+Number of diagonals = [34(34 − 3)/2] = [34 × 31/2] = [1054/2] = 527
 
 ---
 

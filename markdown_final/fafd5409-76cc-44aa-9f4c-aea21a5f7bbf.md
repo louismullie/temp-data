@@ -459,7 +459,7 @@ The primary outcome of the study was the time to complete healing of the referen
 
 Secondary outcomes included the time to debridement of the ulcer, health-related quality of life, microbiology (bacterial load and MRSA), adverse events, and ulcer-related pain. Debridement was defined as a cosmetically clean wound. Nurses recorded the date of wound debridement, which was also evaluated by masked independent assessors using digital photographs. The SF-12, previously identified as sensitive to changes in venous ulcer healing status, was utilized to measure participants' perceptions of health-related quality of life at baseline, and at three, six, nine, and twelve months.
 
-Microbiological swabs were collected at baseline and after the removal of each trial debridement treatment during the first month (if the ulcer debrided within one month, then weekly until one month), and then monthly until healing or trial completion. Blind laboratory analysis measured total bacterial load (10^x copies/ml) and the presence or absence of MRSA.
+Microbiological swabs were collected at baseline and after the removal of each trial debridement treatment during the first month (if the ulcer debrided within one month, then weekly until one month), and then monthly until healing or trial completion. Blind laboratory analysis measured total bacterial load (10ˣ copies/ml) and the presence or absence of MRSA.
 
 Adverse events were categorized as serious or non-serious.
 

@@ -21,7 +21,7 @@
 
 > Now, I will substitute the known values. Given the larger base (a = 24) cm, the distance between midpoints (d = 4) cm, and letting the smaller base be (b), the equation becomes (4 = \\frac{|24 - b|}{2}). I should confirm that I'm preserving the absolute value to handle either base being larger, though in this case we already know which is larger [^notfound].
 
-> Next, I should solve for (b). Multiplying both sides by 2 gives (8 = |24 - b|), which implies two cases: (24 - b = 8) or (24 - b = -8). Solving the first case yields (b = 16) cm, and solving the second case yields (b = 32) cm. Hold on, I should verify which solution is valid; since 24 cm is the larger base, the smaller base must be less than 24 cm, so (b = 16) cm is the correct choice and (b = 32) cm is extraneous in this context [^notfound].
+> Next, I should solve for (b). Multiplying both sides by 2 gives (8 = |24 − b|), which implies two cases: (24 − b = 8) or (24 − b = −8). Solving the first case yields (b = 16) cm, and solving the second case yields (b = 32) cm. Hold on, I should verify which solution is valid; since 24 cm is the larger base, the smaller base must be less than 24 cm, so (b = 16) cm is the correct choice and (b = 32) cm is extraneous in this context [^notfound].
 
 > I will now double-check the arithmetic to ensure there are no mistakes. If (b = 16) cm, then (|24–16| = 8), and half of that is 4 cm, which matches the given distance between the midpoints of the diagonals. This confirms the solution is internally consistent and geometrically sound [^notfound].
 
@@ -55,13 +55,9 @@ Substitute (B = 24):
 
 Solve for (b):
 
-[
-24 - b = 8
-]
+24 − b = 8
 
-[
-b = 24–8 = 16
-]
+b = 24−8 = 16
 
 ---
 
@@ -838,7 +834,7 @@ Chemical shift was encoded using asymmetric readout waveforms, rather than conve
 
 Results
 
-By removing sequence dead times, scan times were shortened by 30% with maintained SNR. The shorter echo spacing also reduced < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mi > T < /mml:mi > < mml:mn > 2 < /mml:mn > < /mml:msub > < /mml:math > blurring. Maintaining the scan times and using asymmetric readout waveforms achieved an SNR improvement in agreement with the prolonged sampling duration.
+By removing sequence dead times, scan times were shortened by 30% with maintained SNR. The shorter echo spacing also reduced T₂ blurring. Maintaining the scan times and using asymmetric readout waveforms achieved an SNR improvement in agreement with the prolonged sampling duration.
 
 Conclusions
 

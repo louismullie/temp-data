@@ -416,7 +416,7 @@ We conducted a systematic review and meta-analysis of studies reporting bladder 
 
 Results
 
-A total of 24 studies (N = 3090 women, age range, 18–91 years) met eligibility criteria. Pooled mean estimates of bladder function parameters were: 6.6 daytime voids (95% confidence interval (95% CI), 6.2, 7.0), 0.4 nighttime voids (95% CI, 0.0, 0.8), 1577mL for 24-hour voided volume (95% CI 1428,1725); 12mL for postvoid residual volume (95% CI, 4, 20); and 28mL/sec for maximum flow rate (95% CI, 27,30). Between-study heterogeneity was high for all outcomes (I 2 = 61.1–99.6%), but insufficient data were available to explore reasons for this high heterogeneity (eg, differences by age).
+A total of 24 studies (N = 3090 women, age range, 18–91 years) met eligibility criteria. Pooled mean estimates of bladder function parameters were: 6.6 daytime voids (95% confidence interval (95% CI), 6.2, 7.0), 0.4 nighttime voids (95% CI, 0.0, 0.8), 1577mL for 24-hour voided volume (95% CI 1428,1725); 12mL for postvoid residual volume (95% CI, 4, 20); and 28mL/sec for maximum flow rate (95% CI, 27,30). Between-study heterogeneity was high for all outcomes (I² = 61.1–99.6%), but insufficient data were available to explore reasons for this high heterogeneity (eg, differences by age).
 
 Conclusion
 
@@ -783,7 +783,7 @@ Secondary data analyses were conducted on medical record data from 203 women who
 
 Results
 
-The mean Qmax and detrusor pressure at Qmax were 19.63ml/sec (SD = 8.74) and 16.15 cmH2 O (SD = 11.19) for the overall sample, respectively. The elevated PVR group (n = 54) had significantly higher detrusor pressure at Qmax and bladder capacity than the normal PVR group (n = 97) (P < 0.05, P < 0.01, respectively). An interrupted voiding pattern accounted for 47.4% of the normal PVR group and 77.4% of the elevated PVR group, respectively (P < 0.01).
+The mean Qmax and detrusor pressure at Qmax were 19.63ml/sec (SD = 8.74) and 16.15 cmH₂O (SD = 11.19) for the overall sample, respectively. The elevated PVR group (n = 54) had significantly higher detrusor pressure at Qmax and bladder capacity than the normal PVR group (n = 97) (P < 0.05, P < 0.01, respectively). An interrupted voiding pattern accounted for 47.4% of the normal PVR group and 77.4% of the elevated PVR group, respectively (P < 0.01).
 
 Conclusions
 
@@ -1080,7 +1080,7 @@ Data were retrospectively collected from healthy children who underwent uroflowm
 
 Results
 
-Uroflowmetry parameters of 208 children (≤ 18 years old, 45.2% girls, mean age 9.68 ± 3.09 years) who performed 404 micturition were analyzed. Median voided volume, voiding time, time to Q max, Q ave, Q max, Q acc, and postvoid residual volume were 130 [20–460] ml, 10 [3–56] s, 3 [1–14] s, 11.7 [2.5–36.6] ml/s, 20.5 [5–50] ml/s, 6 [0.81–25] ml/s 2, and 1.83 [0–38.62] ml, respectively. Q acc nomograms were given in centile forms for girls and boys separately, which show an inversely proportional correlation between voided volumes.
+Uroflowmetry parameters of 208 children (≤ 18 years old, 45.2% girls, mean age 9.68 ± 3.09 years) who performed 404 micturition were analyzed. Median voided volume, voiding time, time to Q max, Q ave, Q max, Q acc, and postvoid residual volume were 130 [20–460] ml, 10 [3–56] s, 3 [1–14] s, 11.7 [2.5–36.6] ml/s, 20.5 [5–50] ml/s, 6 [0.81–25] ml/s², and 1.83 [0–38.62] ml, respectively. Q acc nomograms were given in centile forms for girls and boys separately, which show an inversely proportional correlation between voided volumes.
 
 Conclusions
 
@@ -1174,7 +1174,7 @@ The study population comprised a prospective cohort undergoing outpatient urogyn
 
 Results
 
-The 160 participants had a mean age of 52.1 ± 11.4 years and a mean body mass index of 28.9 ± 5.8 kg/m2 (calculated as weight in kilograms divided by height in meters squared). Mean preoperative PVR was 25.8 ± 29.9 mL. Most participants had surgery that included a midurethral sling (137/160, 85.6%). Thirty-four (34/160, 21.3%) participants met criteria for postoperative urinary retention. The optimal recovery room TOV thresholds to predict postoperative urinary retention were PVR ≥ 87 mL (sensitivity 96.8%, specificity 60.0%), voided volume ≤ 150 mL (sensitivity 83.9%, specificity 72.3%), and sFOS ≤ 60% (sensitivity 100%, specificity 50.8%). Voided volume ≤ 150 mL had greater diagnostic accuracy than PVR ≥ 100 mL (156.2 vs 151.8).
+The 160 participants had a mean age of 52.1 ± 11.4 years and a mean body mass index of 28.9 ± 5.8 kg/m² (calculated as weight in kilograms divided by height in meters squared). Mean preoperative PVR was 25.8 ± 29.9 mL. Most participants had surgery that included a midurethral sling (137/160, 85.6%). Thirty-four (34/160, 21.3%) participants met criteria for postoperative urinary retention. The optimal recovery room TOV thresholds to predict postoperative urinary retention were PVR ≥ 87 mL (sensitivity 96.8%, specificity 60.0%), voided volume ≤ 150 mL (sensitivity 83.9%, specificity 72.3%), and sFOS ≤ 60% (sensitivity 100%, specificity 50.8%). Voided volume ≤ 150 mL had greater diagnostic accuracy than PVR ≥ 100 mL (156.2 vs 151.8).
 
 Conclusions
 

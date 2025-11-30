@@ -7,8 +7,8 @@
 
 ## Question
 
-15. A flag is in the shape of a right-angled triangle, as shown, with the horizontal and vertical sides being of length $72 \mathrm{~cm}$ and $24 \mathrm{~cm}$ respectively. The flag is divided into 6 vertical stripes of equal width.
-What, in $\mathrm{cm}^{2}$, is the difference between the areas of any two adjacent stripes?
+15. A flag is in the shape of a right-angled triangle, as shown, with the horizontal and vertical sides being of length 72 cm and 24 cm respectively. The flag is divided into 6 vertical stripes of equal width.
+What, in cm², is the difference between the areas of any two adjacent stripes?
 
 A 96
 B 72
@@ -46,15 +46,11 @@ The difference between the areas of any two adjacent vertical stripes is **48 cm
 
 The area of a right-angled triangle is given by:
 
-[
-\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height}
-]
+Area = [1/2] × base × height
 
 Substituting the given dimensions:
 
-[
-\\text{Total area} = \\frac{1}{2} \\times 72, \\text{cm} \\times 24, \\text{cm} = 864, \\text{cm}^2
-]
+Total area = [1/2] × 72 cm × 24 cm = 864 cm²
 
 ---
 
@@ -62,9 +58,7 @@ Substituting the given dimensions:
 
 The flag is divided into 6 vertical stripes of equal width, so:
 
-[
-\\text{Stripe width} = \\frac{72, \\text{cm}}{6} = 12, \\text{cm}
-]
+Stripe width = [72 cm/6] = 12 cm
 
 ---
 
@@ -83,9 +77,7 @@ The height of the triangle decreases linearly from 24 cm at the base to 0 cm at 
 
 The total height of the triangle is 24 cm, and there are 6 stripes. The height difference between adjacent stripes is:
 
-[
-\\text{Height difference} = \\frac{24, \\text{cm}}{6} = 4, \\text{cm}
-]
+Height difference = [24 cm/6] = 4 cm
 
 ---
 
@@ -93,15 +85,11 @@ The total height of the triangle is 24 cm, and there are 6 stripes. The height d
 
 The area of a trapezoid is given by:
 
-[
-\\text{Area} = \\frac{1}{2} \\times (\\text{sum of parallel sides}) \\times \\text{height}
-]
+Area = [1/2] × (sum of parallel sides) × height
 
 For adjacent stripes, the difference in area arises from the difference in the heights of the trapezoids. The difference in area between any two adjacent stripes is:
 
-[
-\\text{Area difference} = \\text{stripe width} \\times \\text{height difference} = 12, \\text{cm} \\times 4, \\text{cm} = 48, \\text{cm}^2
-]
+Area difference = stripe width × height difference = 12 cm × 4 cm = 48 cm²
 
 ---
 
@@ -111,17 +99,13 @@ To verify, consider the areas of the first two stripes:
 
 - **First stripe**: trapezoid with heights 24 cm and 20 cm
 
-[
-\\text{Area}_1 = \\frac{1}{2} \\times (24 + 20) \\times 12 = 264, \\text{cm}^2
-]
+Area₁ = [1/2] × (24 + 20) × 12 = 264 cm²
 
 - **Second stripe**: trapezoid with heights 20 cm and 16 cm
 
-[
-\\text{Area}_2 = \\frac{1}{2} \\times (20 + 16) \\times 12 = 216, \\text{cm}^2
-]
+Area₂ = [1/2] × (20 + 16) × 12 = 216 cm²
 
-- **Difference**: (264–216 = 48, \\text{cm}^2)
+- **Difference**: (264–216 = 48 cm²)
 
 This confirms the earlier result.
 

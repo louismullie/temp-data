@@ -992,7 +992,7 @@ Morphine and hydromorphone have differing onsets, magnitudes, and durations of e
 
 Methods
 
-Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg kg -1 i.v.) or morphine (total 0.1 or 0.2 mg kg -1 i.v.) 1–2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω 2)-1]×100 where ω 2 is the interindividual variability.
+Arterial opioid and metabolite concentrations from a randomised crossover study in 51 volunteers receiving a 2-h infusion of hydromorphone (0.05 or 0.1 mg kg -1 i.v.) or morphine (total 0.1 or 0.2 mg kg -1 i.v.) 1–2 weeks apart were evaluated with a three-compartmental model for parent opioid and incorporating glucuronides using population modelling (NONMEM). The primary outcome was interindividual variability in pharmacokinetics, based on the coefficient of variation (%CV) of individual model parameters, calculated as √[exp(ω²) − 1] × 100 where ω² is the interindividual variability.
 
 Results
 

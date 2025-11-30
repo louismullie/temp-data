@@ -39,7 +39,7 @@ Labs to evaluate for coagulation disorders
 
 > I need to ensure pre-analytical integrity; a 9:1 blood to 3.2% sodium citrate ratio, proper filling, and avoidance of hemolysis or lipemia are essential to avoid spurious results, and during supply constraints it is reasonable to conserve citrate tubes and limit nonessential testing; but wait, I should also remember drug interferences such as emicizumab causing falsely normal or abnormal clotting assays and heparin lowering antithrombin activity, which require alternative or drug-specific assays [^114PxjnE] [^115xWzfn] [^117KpFqP].
 
-> When DIC is suspected, I should review PT, aPTT, platelets, fibrinogen, and D-dimer and calculate the ISTH DIC score; I must avoid basing transfusion purely on labs and instead treat active bleeding or procedural needs while maintaining platelets above 50×10^9/L in bleeding malignancy-associated DIC and remembering that APL specifically mandates prompt coagulation assessment for DIC at diagnosis [^117AYd2c] [^113mp8oJ] [^113kT5ec] [^115j35Ws] [^115EeFtN].
+> When DIC is suspected, I should review PT, aPTT, platelets, fibrinogen, and D-dimer and calculate the ISTH DIC score; I must avoid basing transfusion purely on labs and instead treat active bleeding or procedural needs while maintaining platelets above 50×10⁹/L in bleeding malignancy-associated DIC and remembering that APL specifically mandates prompt coagulation assessment for DIC at diagnosis [^117AYd2c] [^113mp8oJ] [^113kT5ec] [^115j35Ws] [^115EeFtN].
 
 > Let me synthesize scenario-based algorithms. For preoperative assessment, I should first take a structured bleeding history using validated tools and only order PT/INR, aPTT, fibrinogen, and platelet count when the history is positive or the procedure is high risk; unexplained abnormalities warrant mixing studies and factor assays, and if screening is normal but suspicion remains, I proceed to VWF testing, platelet function testing, and factor XIII activity while avoiding routine population screening [^112FaoWG] [^116gw3S5] [^114vHxZQ]. For active bleeding, I should obtain PT, aPTT, fibrinogen, platelet count, and D-dimer urgently, compute the ISTH DIC score if sepsis or malignancy is suspected, and add viscoelastic testing in massive hemorrhage to guide component therapy in real time [^117AYd2c] [^114qYFMj]. For thrombotic evaluation, I should use D-dimer and appropriate imaging first and reserve thrombophilia testing for cases where results will change management after counseling and timing off anticoagulants [^112DUYA3] [^111pNvRP] [^1138hsiC].
 
@@ -173,7 +173,7 @@ The ISTH criteria for disseminated intravascular coagulation (DIC) is a clinical
 
 The ISTH DIC criteria incorporate four primary components: platelet count, fibrinogen degradation product level, prothrombin time (PT) prolongation, and fibrinogen level. Each component is scored based on the severity of the abnormality.
 
-- **Platelet count**: Scored as 0 for counts ≥ 100 x10^9/L, 1 for counts between 51–100 x10^9/L, and 2 for counts < 51 x10^9/L.
+- **Platelet count**: Scored as 0 for counts ≥ 100 ×10⁹/L, 1 for counts between 51–100 ×10⁹/L, and 2 for counts < 51 ×10⁹/L.
 - **Fibrinogen degradation product level**: Scored as 0 for no increase, 2 for moderate increase, and 3 for strong increase.
 - **Prothrombin time (PT) prolongation**: Scored as 0 for < 3 seconds, 1 for 3–6 seconds, and 2 for > 6 seconds.
 - **Fibrinogen level**: Scored as 0 for > 1 g/L and 1 for ≤ 1 g/L.

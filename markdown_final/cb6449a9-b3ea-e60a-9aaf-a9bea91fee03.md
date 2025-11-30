@@ -1062,7 +1062,7 @@ History of receiving at least three doses of tetanus toxoid or a tetanus toxoid-
 History of tetanus infection;
 Previously diagnosed with IgA deficiency with anti-IgA antibodies;
 Receipt of immunoglobulins, blood or blood products within 6 months before dosing, or planned to receive live viral vaccines within 3 months after dosing;
-Participants with hemorrhagic conditions or at high risk of bleeding, clinically relevant active bleeding, abnormal platelet function, prothrombin time > 3 s above the upper limit of normal, or platelet count < 100 × 10 9 l −1 (except for bleeding associated with injury);
+Participants with hemorrhagic conditions or at high risk of bleeding, clinically relevant active bleeding, abnormal platelet function, prothrombin time > 3 s above the upper limit of normal, or platelet count < 100 × 10⁹ l⁻¹ (except for bleeding associated with injury);
 Use of anticoagulants in the 3 weeks before dosing;
 Pregnant female participants; female participants of childbearing potential who planned to become pregnant during the study; breastfeeding female participants;
 Current alcohol abuse, drug abuse or drug addiction;

@@ -205,7 +205,7 @@ While drug-specific reversal agents are currently only available for dabigatran,
 
 ### 2024 ESC guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS) [^115gwwYh]. European Heart Journal (2024). High credibility.
 
-Regarding medical management for atrial fibrillation, specifically concerning anticoagulant therapy, the EACTS/ESC 2024 guidelines recommend initiating oral anticoagulation in all patients with AF and HCM or cardiac amyloidosis, regardless of the CHA2DS2-VA score, to prevent ischemic stroke and thromboembolism.
+Regarding medical management for atrial fibrillation, specifically concerning anticoagulant therapy, the EACTS/ESC 2024 guidelines recommend initiating oral anticoagulation in all patients with AF and HCM or cardiac amyloidosis, regardless of the CHA₂DS₂-VA score, to prevent ischemic stroke and thromboembolism.
 
 ---
 

@@ -35,31 +35,31 @@ There are **7** seven-digit numbers whose digits sum to 2. These are: 1000001, 1
 
 ## Mathematical approach
 
-We need to find the number of seven-digit numbers (d_1d_2d_3d_4d_5d_6d_7) such that:
+We need to find the number of seven-digit numbers d₁d₂d₃d₄d₅d₆d₇ such that:
 
-- (d_1 \\geq 1) (since it is a seven-digit number)
-- (d_i \\geq 0) for (i = 2, 3, \\ldots, 7)
-- (d_1 + d_2 + d_3 + d_4 + d_5 + d_6 + d_7 = 2)
+- d₁ ≥ 1 (since it is a seven-digit number)
+- dᵢ ≥ 0 for i = 2, 3, …, 7
+- d₁ + d₂ + d₃ + d₄ + d₅ + d₆ + d₇ = 2
 
 This is a classic **stars and bars** problem with constraints [^notfound]. We consider two cases:
 
 ---
 
-### Case 1: (d_1 = 2)
+### Case 1: d₁ = 2
 
-If (d_1 = 2), then the remaining six digits must sum to 0. The only way this can happen is if (d_2 = d_3 = d_4 = d_5 = d_6 = d_7 = 0). Thus, there is **only 1 number** in this case: 2000000.
+If d₁ = 2, then the remaining six digits must sum to 0. The only way this can happen is if d₂ = d₃ = d₄ = d₅ = d₆ = d₇ = 0. Thus, there is **only 1 number** in this case: 2000000.
 
 ---
 
-### Case 2: (d_1 = 1)
+### Case 2: d₁ = 1
 
-If (d_1 = 1), then the remaining six digits must sum to 1. This means exactly one of (d_2, d_3, \\ldots, d_7) must be 1, and the rest must be 0. There are **6 positions** where the digit 1 can appear, so there are 6 numbers in this case: 1000001, 1000010, 1000100, 1001000, 1010000, and 1100000.
+If d₁ = 1, then the remaining six digits must sum to 1. This means exactly one of d₂, d₃, …, d₇ must be 1, and the rest must be 0. There are **6 positions** where the digit 1 can appear, so there are 6 numbers in this case: 1000001, 1000010, 1000100, 1001000, 1010000, and 1100000.
 
 ---
 
 ## Total number of seven-digit numbers
 
-Adding the numbers from both cases, we get a total of (1 + 6 = 7) seven-digit numbers whose digits sum to 2.
+Adding the numbers from both cases, we get a total of 1 + 6 = 7 seven-digit numbers whose digits sum to 2.
 
 ---
 
