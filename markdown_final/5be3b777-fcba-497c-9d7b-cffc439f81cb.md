@@ -482,7 +482,7 @@ Guillain-Barre syndrome (GBS) is the most prevalent and severe form of acute par
 
 ### A severe deep neck odontogenic infection not prioritised by the emergency department triage system and National Early Warning Score [^114Tn7hA]. BMJ Case Reports (2018). Low credibility.
 
-Blood tests confirmed the clinical suspicion of an acute inflammatory condition. The full blood count showed a haemoglobin level of 119 g/L, a white cell count of 17.1 × 10^9/L, with a neutrophil count of 9.5 × 10^9/L, and a platelet count of 575 × 10^9/L. Urea and electrolytes were normal, and the CRP was 145.
+Blood tests confirmed the clinical suspicion of an acute inflammatory condition. The full blood count showed a haemoglobin level of 119 g/L, a white cell count of 17.1 × 10⁹/L, with a neutrophil count of 9.5 × 10⁹/L, and a platelet count of 575 × 10⁹/L. Urea and electrolytes were normal, and the CRP was 145.
 
 An orthopantomogram (OPG) demonstrated periapical radiolucencies on both the lower right second and third molars, strongly suggesting an odontogenic source (see Figure 1). An urgent contrast-enhanced CT of the neck revealed a large collection in the deep peritonsillar and parapharyngeal spaces (2.7 cm in maximum diameter), located close to the pterygoid plates, and identified a superficial component buccal to the mandible (see Figures 2–5).
 

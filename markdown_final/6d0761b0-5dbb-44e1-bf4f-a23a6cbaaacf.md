@@ -193,7 +193,7 @@ No clinically significant changes in exposure were observed for tenofovir when c
 
 Mechanism of action:
 
-- **Doravirine**: Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). The inhibitory concentration at 50% (IC50) of doravirine for RNA-dependent DNA polymerization of recombinant wild-type HIV-1 RT in a biochemical assay was 12.2 ± 2.0 nM (n = 3). Doravirine does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
+- **Doravirine**: Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). The inhibitory concentration at 50% (IC₅₀) of doravirine for RNA-dependent DNA polymerization of recombinant wild-type HIV-1 RT in a biochemical assay was 12.2 ± 2.0 nM (n = 3). Doravirine does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 - **Lamivudine**: Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5'-triphosphate metabolite, lamivudine.
 
@@ -326,7 +326,7 @@ Diarrhea is a common problem caused by antibiotics and usually resolves when the
 
 eGFR and CRRT were included as covariates in both models. As expected, it was observed that the inclusion of eGFR had a more significant impact on the clearance of N-acetyl sulfamethoxazole compared with sulfamethoxazole. The primary clearance route for sulfamethoxazole is liver metabolism, with less than 30% being recovered unchanged in urine. In contrast, N-acetyl sulfamethoxazole is mainly cleared renally, leading to its accumulation in patients with reduced eGFR. For trimethoprim, the association between eGFR and clearance was also as expected, since the primary elimination route is renal clearance, with only a small percentage of metabolism or biliary excretion.
 
-The final model was used to generate dose recommendations for PCP and dose reductions in case of renal insufficiency. A starting dose of TID 1,920 mg or b.i.d. 2,400 mg for PCP will result in sufficient exposure in the majority of patients. TID 1,920 mg has a larger risk of concentrations above the target range while b.i.d. 2,400 mg has a larger risk of underexposure. Because of the large inter-individual variability (IIV), TDM should be considered to improve the percentage of patients within the target range. Patients with an eGFR of 30 mL/minute/1.73 m^2 require a dose reduction of 16.7%, and patients with an eGFR of 10 mL/minute/1.73 m^2 a dose reduction of 33.3% to reach similar exposure to patients without renal insufficiency. The risk of concentrations above the target range increases with doses in patients with a low eGFR. Therefore, for infections requiring high‐dose cotrimoxazole like PCP or infections caused by Nocardia spp.
+The final model was used to generate dose recommendations for PCP and dose reductions in case of renal insufficiency. A starting dose of TID 1,920 mg or b.i.d. 2,400 mg for PCP will result in sufficient exposure in the majority of patients. TID 1,920 mg has a larger risk of concentrations above the target range while b.i.d. 2,400 mg has a larger risk of underexposure. Because of the large inter-individual variability (IIV), TDM should be considered to improve the percentage of patients within the target range. Patients with an eGFR of 30 mL/minute/1.73 m² require a dose reduction of 16.7%, and patients with an eGFR of 10 mL/minute/1.73 m² a dose reduction of 33.3% to reach similar exposure to patients without renal insufficiency. The risk of concentrations above the target range increases with doses in patients with a low eGFR. Therefore, for infections requiring high‐dose cotrimoxazole like PCP or infections caused by Nocardia spp.
 
 ---
 
@@ -572,7 +572,7 @@ Dosage and administration:
 - **Impaired renal function**: Ceftazidime is excreted by the kidneys, almost exclusively by glomerular filtration. Therefore, in patients with impaired renal function (glomerular filtration rate [GFR] < 50 mL/min), it is recommended that the dosage of ceftazidime be reduced to compensate for its slower excretion. In patients with suspected renal insufficiency, an initial loading dose of 1 gram of ceftazidime may be given. An estimate of GFR should be made to determine the appropriate maintenance dosage. The recommended dosage is presented in Table 4.
 
 	- When only serum creatinine is available, the following formula (Cockcroft's equation) may be used to estimate creatinine clearance. The serum creatinine should represent a steady state of renal function:
-		- **Males**: Creatinine clearance (mL/min) = \(\dfrac{\text{Weight (kg) x (140 - age)}}{\text{serum creatinine}}\)
+		- **Males**: Creatinine clearance (mL/min) = [Weight (kg) × (140 − age)/serum creatinine]
 
 ---
 

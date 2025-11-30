@@ -241,11 +241,11 @@ Opioids are used for symptomatic therapy of dyspnoea, and benzodiazepines if dys
 
 Methods
 
-In a prospective non-randomised study, 26 patients were included. All patients suffered from moderate to severe dyspnoea associated with anxiety. Transcutaneous measurement (tm) of carbon dioxide partial pressure (paCO(2)), pulse oximetry oxygen saturation (SaO(2)) and pulse frequency (PF) were monitored with SenTec Digital Monitor (SenTec AG, Therwill, CH); consecutive measurement of respiratory rate (f). Baseline values at admission, and 30, 60, 90 and 120 min after the first application of the opioid and anxiolytic (O + A) were compared.
+In a prospective non-randomised study, 26 patients were included. All patients suffered from moderate to severe dyspnoea associated with anxiety. Transcutaneous measurement (tm) of carbon dioxide partial pressure (paCO₂), pulse oximetry oxygen saturation (SaO₂) and pulse frequency (PF) were monitored with SenTec Digital Monitor (SenTec AG, Therwill, CH); consecutive measurement of respiratory rate (f). Baseline values at admission, and 30, 60, 90 and 120 min after the first application of the opioid and anxiolytic (O + A) were compared.
 
 Results
 
-Hypoxic and non-hypoxic patients showed no significant paCO(2) increase or SaO(2) decrease after opioid application in combination with lorazepam. At admission, mean SaO(2) was 95.0 ± 4.6% (85.0–100) and mean paCO(2) was 38.1 ± 6.0 mmHg (26.0–48.0) vs. SaO(2) 95.2 ± 3.5% (87.0–100.0), paCO(2) 37.7 ± 5.5 (24.0–47.0) 120 min after the first O + A application. Also, f decreased significantly high from 40.6 ± 4.8/min (32.0–50.0/min) to 32.0 ± 4.0/min (20.0–32.0/min; p < 0.001) after 120 min. Furthermore, there was a significant decrease in the intensity of dyspnoea at rest and on exertion (6.2 ± 2.0 (4–10)/7.4 ± 2.3 (4–10) vs. 1.2 ± 0.8 (0–3)/2.5 ± 1.2 (1–5) after 120 min (p < 0.0001)).
+Hypoxic and non-hypoxic patients showed no significant paCO₂ increase or SaO₂ decrease after opioid application in combination with lorazepam. At admission, mean SaO₂ was 95.0 ± 4.6% (85.0–100) and mean paCO₂ was 38.1 ± 6.0 mmHg (26.0–48.0) vs. SaO₂ 95.2 ± 3.5% (87.0–100.0), paCO₂ 37.7 ± 5.5 (24.0–47.0) 120 min after the first O + A application. Also, f decreased significantly high from 40.6 ± 4.8/min (32.0–50.0/min) to 32.0 ± 4.0/min (20.0–32.0/min; p < 0.001) after 120 min. Furthermore, there was a significant decrease in the intensity of dyspnoea at rest and on exertion (6.2 ± 2.0 (4–10)/7.4 ± 2.3 (4–10) vs. 1.2 ± 0.8 (0–3)/2.5 ± 1.2 (1–5) after 120 min (p < 0.0001)).
 
 Conclusions
 
@@ -349,7 +349,7 @@ There is a lack of evidence to draw a conclusion about the effectiveness of drug
 
 ### Symptom management in people dying with COVID-19: multinational observational study [^d1beeef4]. BMJ Supportive & Palliative Care (2022). High credibility.
 
-Palliative care services that prescribed oxygen were less likely to have hospital palliative care teams (χ 2 = 9.16, p = 0.002).
+Palliative care services that prescribed oxygen were less likely to have hospital palliative care teams (χ² = 9.16, p = 0.002).
 
 Fifty seven services indicated how quickly medicines worked, with 43 (75.4%) responding that they worked within 30 min and 13 (22.8%) over 31 min (table 1).
 
@@ -812,7 +812,7 @@ The level of opioid prescribing by services in different world regions and palli
 Figure 1
 Percentage of prescribing by services in different settings and world regions.
 
-Prescribing of benzodiazepines for breathlessness was significantly higher in the UK (83%) than the rest of Europe (48%) and the world (44%) (figure 1A, online supplemental appendix 2a) (χ 2 = 38.42, p = < 0.001). Among benzodiazepines, midazolam (n = 126 (48.6%) of 259) was the most prescribed. Others included lorazepam (n = 58 (22.4%)), diazepam (n = 3 (1.2%)), oxazepam (n = 2 (0.8%)), clonazepam (n = 1 (0.4%)). The type of benzodiazepines prescribed was not stated in 69 (26.6%) cases (online supplemental appendix 2c).
+Prescribing of benzodiazepines for breathlessness was significantly higher in the UK (83%) than the rest of Europe (48%) and the world (44%) (figure 1A, online supplemental appendix 2a) (χ² = 38.42, p < 0.001). Among benzodiazepines, midazolam (n = 126 (48.6%) of 259) was the most prescribed. Others included lorazepam (n = 58 (22.4%)), diazepam (n = 3 (1.2%)), oxazepam (n = 2 (0.8%)), clonazepam (n = 1 (0.4%)). The type of benzodiazepines prescribed was not stated in 69 (26.6%) cases (online supplemental appendix 2c).
 
 ---
 
@@ -1016,7 +1016,7 @@ To provide insight into what nurses know, do and need to provide support to anxi
 
 Methods
 
-A mixed method study consisted of an online survey and focus groups (FGs) about what nurses know, do, and need was conducted. 336 HC nurses were invited to participate. Descriptive statistics were computed using SPSS. The χ 2 and t-tests were conducted to compare. The FGs were transcribed verbatim and thematically analysed.
+A mixed method study consisted of an online survey and focus groups (FGs) about what nurses know, do, and need was conducted. 336 HC nurses were invited to participate. Descriptive statistics were computed using SPSS. The χ² and t-tests were conducted to compare. The FGs were transcribed verbatim and thematically analysed.
 
 Results
 

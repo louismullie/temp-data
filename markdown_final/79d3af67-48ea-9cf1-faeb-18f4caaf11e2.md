@@ -195,7 +195,7 @@ Trial treatment will be open label, due to the practical difficulties and costs 
 
 ### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^fd5c3ae5]. Kidney International (2024). High credibility.
 
-When to reduce or stop RASi — The guideline states to consider dose reduction or discontinuation for specific adverse scenarios including kidney failure: Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m^2).
+When to reduce or stop RASi — The guideline states to consider dose reduction or discontinuation for specific adverse scenarios including kidney failure: Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m²).
 
 ---
 
@@ -287,7 +287,7 @@ Renin–angiotensin system inhibitors — monitoring for potassium and estimated
 
 ### KDOQI US commentary on the KDIGO 2024 clinical practice guideline for the evaluation and management of CKD [^b6c70ed5]. American Journal of Kidney Diseases (2025). High credibility.
 
-Renin–angiotensin system inhibitor therapy in chronic kidney disease — practice points are as follows: Hyperkalemia associated with use of RASi can often be managed by measures to reduce the serum potassium levels rather than decreasing the dose or stopping RASi. Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose. Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m^2). Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or ARB) for specific indications (e.g., to treat hypertension or heart failure with low ejection fraction). Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m^2.
+Renin–angiotensin system inhibitor therapy in chronic kidney disease — practice points are as follows: Hyperkalemia associated with use of RASi can often be managed by measures to reduce the serum potassium levels rather than decreasing the dose or stopping RASi. Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose. Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m²). Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or ARB) for specific indications (e.g., to treat hypertension or heart failure with low ejection fraction). Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m^2.
 
 ---
 
@@ -319,7 +319,7 @@ Discontinuation of ACEi/ARB has undoubtedly delayed the onset of RRT in the majo
 
 ### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^718fbb8b]. Kidney International (2024). High credibility.
 
-Continuation of RASi at low eGFR and supporting evidence — The guideline states to maintain therapy despite advanced CKD, and cites trial data: Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m^2; in a recent STOP-ACEi trial of 411 participants with mean eGFR of 13 ml/min per 1.73 m^2, a policy of discontinuing RASi in CKD G4–G5 did not result in any kidney or cardiovascular benefits.
+Continuation of RASi at low eGFR and supporting evidence — The guideline states to maintain therapy despite advanced CKD, and cites trial data: Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m²; in a recent STOP-ACEi trial of 411 participants with mean eGFR of 13 ml/min per 1.73 m², a policy of discontinuing RASi in CKD G4–G5 did not result in any kidney or cardiovascular benefits.
 
 ---
 
@@ -421,7 +421,7 @@ Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers each 
 
 ### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^e1d676cd]. DoD/VA (2025). High credibility.
 
-VA/DoD primary care chronic kidney disease (CKD) guideline — continuing angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker therapy in advanced CKD: In patients with advanced chronic kidney disease (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73 m^2) currently on an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker, we suggest continuing therapy, unless there is drug intolerance or other adverse event. The 2025 strength is 'Weak for' with category 'Reviewed, New-added'.
+VA/DoD primary care chronic kidney disease (CKD) guideline — continuing angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker therapy in advanced CKD: In patients with advanced chronic kidney disease (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73 m²) currently on an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker, we suggest continuing therapy, unless there is drug intolerance or other adverse event. The 2025 strength is 'Weak for' with category 'Reviewed, New-added'.
 
 ---
 

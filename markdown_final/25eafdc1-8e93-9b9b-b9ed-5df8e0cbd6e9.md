@@ -7,7 +7,7 @@
 
 ## Question
 
-8. On a circle, 2017 different points $A_{1}, \ldots, A_{2017}$ are marked, and all possible chords connecting these points pairwise are drawn. A line is drawn through the point $A_{1}$, not passing through any of the points $A_{2}, \ldots A_{2017}$. Find the maximum possible number of chords that can have at least one common point with this line.
+8. On a circle, 2017 different points A₁, …, A₂₀₁₇ are marked, and all possible chords connecting these points pairwise are drawn. A line is drawn through the point A₁, not passing through any of the points A₂, … A₂₀₁₇. Find the maximum possible number of chords that can have at least one common point with this line.
 
 ANSWER: 1018080.
 
@@ -31,7 +31,7 @@ ANSWER: 1018080.
 
 ---
 
-The maximum number of chords that intersect the line is **1018080**. This occurs when the line through (A_1) divides the remaining 2016 points into two equal halves of 1008 points each, so that every chord connecting a point on one side to a point on the other side intersects the line. The total is (1008 \\times 1008 = 1018080).
+The maximum number of chords that intersect the line is **1018080**. This occurs when the line through A₁ divides the remaining 2016 points into two equal halves of 1008 points each, so that every chord connecting a point on one side to a point on the other side intersects the line. The total is 1008 × 1008 = 1018080.
 
 ---
 
@@ -39,9 +39,7 @@ The maximum number of chords that intersect the line is **1018080**. This occurs
 
 The total number of chords formed by 2017 points on a circle is given by the combination formula:
 
-[
-\\text{Total chords} = \\binom{2017}{2} = \\frac{2017 \\times 2016}{2} = 2017 \\times 1008 = 2033136
-]
+Total chords = C(2017, 2) = [2017 × 2016/2] = 2017 × 1008 = 2033136
 
 ---
 
@@ -49,9 +47,7 @@ The total number of chords formed by 2017 points on a circle is given by the com
 
 A chord intersects the line if and only if its endpoints lie on opposite sides of the line. Since the line passes through (A_1) and avoids all other points, the remaining 2016 points are split into two groups by the line. If there are (k) points on one side and (2016 - k) on the other, the number of intersecting chords is:
 
-[
-\\text{Intersecting chords} = k \\times (2016 - k)
-]
+Intersecting chords = k × (2016 − k)
 
 ---
 
@@ -59,9 +55,7 @@ A chord intersects the line if and only if its endpoints lie on opposite sides o
 
 The product (k \\times (2016 - k)) is maximized when (k = 1008), i.e. when the line divides the remaining points into two equal halves. Thus, the maximum number of intersecting chords is:
 
-[
-\\text{Maximum intersecting chords} = 1008 \\times 1008 = 1018080
-]
+Maximum intersecting chords = 1008 × 1008 = 1018080
 
 ---
 

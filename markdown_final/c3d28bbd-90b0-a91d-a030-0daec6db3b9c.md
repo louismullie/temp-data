@@ -590,7 +590,7 @@ This multicenter, open-label study (NEO-CLASSIC) evaluated the efficacy and safe
 
 Methods
 
-Patients aged 18–75 years with histologically-confirmed gastric adenocarcinoma (stage T2-4a/N+M0) were given eight cycles of XELOX (four preoperatively, four postoperatively). Each 3-week cycle comprised capecitabine 1,000 mg/m 2 twice daily on days 1–14 and oxaliplatin 130 mg/m 2 on day 1. Curative D2 gastrectomy was scheduled 2–4 weeks after the last preoperative cycle. The primary objective of the study was to determine the objective response rate (ORR) of XELOX in the preoperative setting. Sample size was calculated by assuming that a minimum of 47 cases would be required to increase the ORR by 15% (from 40% to 55%). With an estimated 10% dropout rate, 55 patients would have to be recruited.
+Patients aged 18–75 years with histologically-confirmed gastric adenocarcinoma (stage T2-4a/N+M0) were given eight cycles of XELOX (four preoperatively, four postoperatively). Each 3-week cycle comprised capecitabine 1,000 mg/m² twice daily on days 1–14 and oxaliplatin 130 mg/m² on day 1. Curative D2 gastrectomy was scheduled 2–4 weeks after the last preoperative cycle. The primary objective of the study was to determine the objective response rate (ORR) of XELOX in the preoperative setting. Sample size was calculated by assuming that a minimum of 47 cases would be required to increase the ORR by 15% (from 40% to 55%). With an estimated 10% dropout rate, 55 patients would have to be recruited.
 
 Results
 
@@ -900,7 +900,7 @@ Esophageal and EGJ localized disease management — "ER (with or without ablatio
 
 ### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^483f1208]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-Other recommended regimens — fluorouracil and cisplatin are given as 4 cycles preoperative and 4 cycles postoperative with fluorouracil 2000 mg/m2 IV continuous infusion over 48 hours on Days 1–2 and cisplatin 50 mg/m2 IV on Day 1, cycled every 14 days. All recommendations are category 2A unless otherwise indicated.
+Other recommended regimens — fluorouracil and cisplatin are given as 4 cycles preoperative and 4 cycles postoperative with fluorouracil 2000 mg/m² IV continuous infusion over 48 hours on Days 1–2 and cisplatin 50 mg/m² IV on Day 1, cycled every 14 days. All recommendations are category 2A unless otherwise indicated.
 
 ---
 
