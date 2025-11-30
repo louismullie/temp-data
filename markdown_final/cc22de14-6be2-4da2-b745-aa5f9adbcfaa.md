@@ -285,7 +285,7 @@ Adolescents, 14–20 years of age, with a body mass index (BMI) ≥ 95th percent
 
 Results
 
-The study cohort comprised 11 female patients, age 17 SD 2 years with a weight of 125 SD 19 kg and a mean BMI of 46 SD 5 kg·m -2. The plasma acetaminophen serum concentration was 17 (SD 4) μg·mL -1 at 10–20 minutes after completion of the infusion and 5 (SD 6) μg·mL -1 at 80–100 minutes. A two-compartment model, used to investigate pharmacokinetics, estimated clearance 10.6 (CV 72%) L·h·70 kg -1, intercompartment clearance 37.3 (CV 63%) L·h·70 kg -1, central volume of distribution 20.4 (CV 46%) L·70 kg -1, and peripheral volume of distribution 16.8 (CV 42%) L·70 kg -1. Clearance was best described using total body weight. Normal fat mass with a parameter that accounts for fat mass contribution (Ffat) of 0.88 best described volumes.
+The study cohort comprised 11 female patients, age 17 SD 2 years with a weight of 125 SD 19 kg and a mean BMI of 46 SD 5 kg·m -2. The plasma acetaminophen serum concentration was 17 (SD 4) μg·mL⁻¹ at 10–20 minutes after completion of the infusion and 5 (SD 6) μg·mL⁻¹ at 80–100 minutes. A two-compartment model, used to investigate pharmacokinetics, estimated clearance 10.6 (CV 72%) L·h·70 kg⁻¹, intercompartment clearance 37.3 (CV 63%) L·h·70 kg⁻¹, central volume of distribution 20.4 (CV 46%) L·70 kg⁻¹, and peripheral volume of distribution 16.8 (CV 42%) L·70 kg⁻¹. Clearance was best described using total body weight. Normal fat mass with a parameter that accounts for fat mass contribution (Ffat) of 0.88 best described volumes.
 
 Conclusion
 

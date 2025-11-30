@@ -675,7 +675,7 @@ Patients with high-risk myelodysplastic syndrome (MDS) have high mortality from 
 
 Patients and Methods
 
-A randomized controlled trial was undertaken in 191 patients with MDS to compare Aza C (75 mg/m(2)/d subcutaneously for 7 days every 28 days) with supportive care. MDS was defined by French-American-British criteria. New rigorous response criteria were applied. Both arms received transfusions and antibiotics as required. Patients in the supportive care arm whose disease worsened were permitted to cross over to Aza C.
+A randomized controlled trial was undertaken in 191 patients with MDS to compare Aza C (75 mg/m²/d subcutaneously for 7 days every 28 days) with supportive care. MDS was defined by French-American-British criteria. New rigorous response criteria were applied. Both arms received transfusions and antibiotics as required. Patients in the supportive care arm whose disease worsened were permitted to cross over to Aza C.
 
 Results
 
@@ -725,7 +725,7 @@ NCCN Guidelines Version 2.2025 — therapy for lower-risk MDS with del(5q) and s
 
 ### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^115syP2B]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-NCCN Myelodysplastic syndromes — Azacitidine (AzaC) dosing and treatment course: AzaC therapy is a recommended option for progressive MDS or relatively high-risk disease and is FDA-approved, generally administered at 75 mg/m2/day SC for 7 days every 28 days for at least six courses. Treatment may be extended or used as a bridging therapy, and continuation beyond first response may improve remission quality, with continued AzaC improving response category in 48% of responders. Most patients achieved first response by 6 cycles, but up to 12 cycles were required for the majority to attain best response; the median number of cycles from first response to best response was 3 to 3.5 cycles, and patients received a median of 8 additional cycles (range, 0–27 cycles) beyond first response. Alternative 5‑day schedules have been evaluated, including SC 5–2–2 and 5‑day regimens and an IV regimen of 75 mg/m2/day for 5 days every 28 days; although response rates with the 5-day regimens appeared similar to the 7‑day schedule, survival benefit with AzaC has only been demonstrated using the 7‑day schedule.
+NCCN Myelodysplastic syndromes — Azacitidine (AzaC) dosing and treatment course: AzaC therapy is a recommended option for progressive MDS or relatively high-risk disease and is FDA-approved, generally administered at 75 mg/m²/day SC for 7 days every 28 days for at least six courses. Treatment may be extended or used as a bridging therapy, and continuation beyond first response may improve remission quality, with continued AzaC improving response category in 48% of responders. Most patients achieved first response by 6 cycles, but up to 12 cycles were required for the majority to attain best response; the median number of cycles from first response to best response was 3 to 3.5 cycles, and patients received a median of 8 additional cycles (range, 0–27 cycles) beyond first response. Alternative 5‑day schedules have been evaluated, including SC 5–2–2 and 5‑day regimens and an IV regimen of 75 mg/m²/day for 5 days every 28 days; although response rates with the 5-day regimens appeared similar to the 7‑day schedule, survival benefit with AzaC has only been demonstrated using the 7‑day schedule.
 
 ---
 

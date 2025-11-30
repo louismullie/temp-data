@@ -476,7 +476,7 @@ Major updates for pediatric clinicians include COVID-19 and influenza vaccine re
 
 ### Evaluating the next generation of RSV intervention strategies: A mathematical modelling study and cost-effectiveness analysis [^113rA98B]. BMC Medicine (2020). Low credibility.
 
-We tracked the number of infants protected by long-acting monoclonal antibodies, V M, who remain protected after birth for an average of 1/ω mab = 250 days, after which they return to S 0 (Additional file 1: Section 4). However, we relaxed this assumption in an uncertainty analysis.
+We tracked the number of infants protected by long-acting monoclonal antibodies, Vₘ, who remain protected after birth for an average of [1/ω_mab] = 250 days, after which they return to S₀ (Additional file 1: Section 4). However, we relaxed this assumption in an uncertainty analysis.
 
 We evaluated three seasonal programmes that administer a single dose of long-acting monoclonal antibodies at birth:
 

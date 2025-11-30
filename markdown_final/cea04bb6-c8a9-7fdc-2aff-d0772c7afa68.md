@@ -45,11 +45,9 @@ Let the isosceles trapezoid have:
 - Longer base of length (2b).
 - Height (h).
 
-By dropping altitudes from the ends of the shorter base to the longer base, we form two right triangles and a rectangle. The horizontal projection of each leg is (\\frac{2b - b}{2} = \\frac{b}{2}), so by the Pythagorean theorem:
+By dropping altitudes from the ends of the shorter base to the longer base, we form two right triangles and a rectangle. The horizontal projection of each leg is ([(2b − b)/2] = [b/2]), so by the Pythagorean theorem:
 
-[
-h^2 + \\left(\\frac{b}{2}\\right)^2 = 1^2 \\implies h = \\sqrt{1 - \\frac{b^2}{4}}
-]
+h² + ([b/2])² = 1² ⇒ h = √(1 − [b²/4])
 
 ---
 
@@ -69,15 +67,11 @@ A² = ([3b/2])² (1 − [b²/4]) = [9b²/4] (1 − [b²/4]) = [9/4] (b² − [b�
 
 Let f(b) = b² − [b⁴/4]. Then:
 
-[
-f'(b) = 2b - b^3 = b(2 - b^2)
-]
+f′(b) = 2b − b³ = b(2 − b²)
 
 Setting f′(b) = 0 gives b = 0 or b² = 2. Since b > 0, we have b = √2. The second derivative:
 
-[
-f"(b) = 2–3b^2 \\implies f"(\\sqrt{2}) = 2–6 = -4 < 0
-]
+f″(b) = 2 − 3b² ⇒ f″(√2) = 2 − 6 = −4 < 0
 
 confirms a maximum at (b = \\sqrt{2}).
 
@@ -87,13 +81,9 @@ confirms a maximum at (b = \\sqrt{2}).
 
 Substitute (b = \\sqrt{2}) into the area formula:
 
-[
-h = \\sqrt{1 - \\frac{(\\sqrt{2})^2}{4}} = \\sqrt{1 - \\frac{2}{4}} = \\sqrt{\\frac{1}{2}} = \\frac{\\sqrt{2}}{2}
-]
+h = √[1 − [(√2)²/4]] = √[1 − [2/4]] = √[1/2] = [√2/2]
 
-[
-A = \\frac{3\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{2}}{2} = \\frac{3 \\cdot 2}{4} = \\frac{3}{2}
-]
+A = [3√2/2] × [√2/2] = [3 × 2/4] = [3/2]
 
 ---
 

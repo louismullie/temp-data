@@ -500,7 +500,7 @@ Patients were randomized to guselkumab 100 mg every 8 weeks, placebo with week 1
 
 Results
 
-At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI < 20 vs &ge;20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA < 20% vs &ge;20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
+At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI < 20 vs ≥20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA < 20% vs ≥20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
 
 Conclusions
 
@@ -1442,11 +1442,11 @@ To determine the incidence of IBD or serious gastrointestinal-related adverse ev
 
 Methods
 
-Patients were randomized to guselkumab 100 mg every-8-weeks or placebo&rarr; guselkumab (week 16), or adalimumab. In VOYAGE 1, all patients received open-label guselkumab starting at week 52. In VOYAGE 2, eligible patients were treated with guselkumab or placebo based on clinical response starting at week 28 and received open-label guselkumab starting at week 76. Cumulative incidence rates of IBD and other GI SAEs were calculated as events per 100 patient-years (PY) through week 204. IBD was defined as AEs of Crohn&rsquo; s disease or ulcerative colitis. Data were summarized for all guselkumab-treated patients for years 1–4.
+Patients were randomized to guselkumab 100 mg every-8-weeks or placebo→guselkumab (week 16), or adalimumab. In VOYAGE 1, all patients received open-label guselkumab starting at week 52. In VOYAGE 2, eligible patients were treated with guselkumab or placebo based on clinical response starting at week 28 and received open-label guselkumab starting at week 76. Cumulative incidence rates of IBD and other GI SAEs were calculated as events per 100 patient-years (PY) through week 204. IBD was defined as AEs of Crohn&rsquo; s disease or ulcerative colitis. Data were summarized for all guselkumab-treated patients for years 1–4.
 
 Results
 
-Of 1721 guselkumab-treated patients, 1612 were exposed for &ge;1 year, 1545 for &ge;2 years, 1454 for &ge;3 years, and 661 for &ge;4 years. For all patients through week 204, the cumulative rate of GI SAEs was 0.45/100PY. Event rates remained stable with longer duration of exposure, ranging from 0.36 to 0.57/100PY. No new or exacerbated cases of IBD were reported.
+Of 1721 guselkumab-treated patients, 1612 were exposed for ≥1 year, 1545 for ≥2 years, 1454 for ≥3 years, and 661 for ≥4 years. For all patients through week 204, the cumulative rate of GI SAEs was 0.45/100PY. Event rates remained stable with longer duration of exposure, ranging from 0.36 to 0.57/100PY. No new or exacerbated cases of IBD were reported.
 
 Conclusions
 
