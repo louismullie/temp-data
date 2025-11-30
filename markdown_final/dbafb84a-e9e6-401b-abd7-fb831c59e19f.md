@@ -870,7 +870,7 @@ We performed subgroup meta‐analyses where possible, using vaccine type, gender
 
 Sensitivity analysis
 
-We carried out one post‐hoc sensitivity analysis for outcomes using a Mantel‐Haenszel odds ratio where events were very rare (i.e. an event rate of < 1% across both trial arms). We compared the results of the primary analysis calculated with Mantel‐Haenzsel methods against those with Peto methods (Bradburn 2007). We also planned to conduct sensitivity analyses for the primary outcomes according to allocation concealment (high risk of bias, low risk of bias, and unclear risk of bias) for outcomes for which data could not be pooled because of considerable heterogeneity (I 2 > 75%).
+We carried out one post‐hoc sensitivity analysis for outcomes using a Mantel‐Haenszel odds ratio where events were very rare (i.e. an event rate of < 1% across both trial arms). We compared the results of the primary analysis calculated with Mantel‐Haenzsel methods against those with Peto methods (Bradburn 2007). We also planned to conduct sensitivity analyses for the primary outcomes according to allocation concealment (high risk of bias, low risk of bias, and unclear risk of bias) for outcomes for which data could not be pooled because of considerable heterogeneity (I² > 75%).
 
 ---
 

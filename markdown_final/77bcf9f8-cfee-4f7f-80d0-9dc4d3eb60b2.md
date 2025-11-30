@@ -152,7 +152,7 @@ Evidence supporting the existing consensus-based guidelines for management of na
 
 Ondansetron oral solution is indicated for the prevention of nausea and vomiting associated with:
 
-highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2
+highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m²
 initial and repeat courses of moderately emetogenic cancer chemotherapy
 radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen
 
@@ -160,7 +160,7 @@ Ondansetron oral solution is also indicated for the prevention of postoperative 
 
 Ondansetron is a 5-HT3receptor antagonist indicated for the prevention of:
 
-nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2. (1)
+nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m². (1)
 nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy. (1)
 nausea and vomiting associated with radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen. (1)
 postoperative nausea and/or vomiting. (1)
@@ -954,7 +954,7 @@ Regarding medical management for palliative care in patients with cancer, more s
 
 Ondansetron tablets are indicated for the prevention of nausea and vomiting associated with:
 
-highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2
+highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m²
 
 initial and repeat courses of moderately emetogenic cancer chemotherapy
 
@@ -968,7 +968,7 @@ Ondansetron tablets are also indicated for the prevention of postoperative nause
 
 INDICATIONS AND USAGE
 
-Prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥ 50 mg/m2.
+Prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥ 50 mg/m².
 Prevention of nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy.
 Prevention of nausea and vomiting associated with radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen.
 Prevention of postoperative nausea and/or vomiting. As with other antiemetics, routine prophylaxis is not recommended for patients in whom there is little expectation that nausea and/or vomiting will occur postoperatively. In patients where nausea and/or vomiting must be avoided postoperatively, ondansetron tablets USP and ondansetron orally disintegrating tablets USP are recommended even where the incidence of postoperative nausea and/or vomiting is low.
@@ -1045,7 +1045,7 @@ Regarding specific circumstances for chemotherapy- and radiotherapy-induced naus
 
 Ondansetron tablets are indicated for the prevention of nausea and vomiting associated with:
 
-highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2.
+highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m².
 initial and repeat courses of moderately emetogenic cancer chemotherapy.
 radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen.
 
@@ -1053,7 +1053,7 @@ Ondansetron tablets are also indicated for the prevention of postoperative nause
 
 Ondansetron tablets are a 5-HT3receptor antagonist indicated for the prevention of:
 
-nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2.(1)
+nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m².(1)
 nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy. (1)
 nausea and vomiting associated with radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen. (1)
 postoperative nausea and/or vomiting. (1)

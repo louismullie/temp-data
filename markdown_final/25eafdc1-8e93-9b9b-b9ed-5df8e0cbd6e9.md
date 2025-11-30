@@ -45,7 +45,7 @@ Total chords = C(2017, 2) = [2017 × 2016/2] = 2017 × 1008 = 2033136
 
 ## Chords intersecting the line
 
-A chord intersects the line if and only if its endpoints lie on opposite sides of the line. Since the line passes through (A_1) and avoids all other points, the remaining 2016 points are split into two groups by the line. If there are (k) points on one side and (2016 - k) on the other, the number of intersecting chords is:
+A chord intersects the line if and only if its endpoints lie on opposite sides of the line. Since the line passes through A₁ and avoids all other points, the remaining 2016 points are split into two groups by the line. If there are (k) points on one side and (2016 - k) on the other, the number of intersecting chords is:
 
 Intersecting chords = k × (2016 − k)
 
@@ -53,7 +53,7 @@ Intersecting chords = k × (2016 − k)
 
 ## Maximizing the number of intersecting chords
 
-The product (k \\times (2016 - k)) is maximized when (k = 1008), i.e. when the line divides the remaining points into two equal halves. Thus, the maximum number of intersecting chords is:
+The product (k × (2016 - k)) is maximized when (k = 1008), i.e. when the line divides the remaining points into two equal halves. Thus, the maximum number of intersecting chords is:
 
 Maximum intersecting chords = 1008 × 1008 = 1018080
 
@@ -61,7 +61,7 @@ Maximum intersecting chords = 1008 × 1008 = 1018080
 
 ## Conclusion
 
-The maximum number of chords that can have at least one common point with the line is **1018080**, achieved when the line through (A_1) splits the other 2016 points into two equal groups of 1008 points each.
+The maximum number of chords that can have at least one common point with the line is **1018080**, achieved when the line through A₁ splits the other 2016 points into two equal groups of 1008 points each.
 
 ---
 
@@ -476,11 +476,11 @@ For the mathematical description of the kinematics of the wings and elytra, we u
 
 Purpose
 
-The aim of this paper is to show that geometrical criteria for designing multishell < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:semantics > < mml:mrow > < mml:mi > q < /mml:mi > < /mml:mrow > < mml:annotation > $$ q $$ < /mml:annotation > < /mml:semantics > < /mml:math > -space sampling procedures do not necessarily translate into reconstruction matrices with high figures of merit commonly used in the compressed sensing theory. In addition, we show that a well-known method for visiting k-space in radial three-dimensional acquisitions, namely, the Spiral Phyllotaxis, is a competitive initialization for the optimization of our nonconvex objective function.
+The aim of this paper is to show that geometrical criteria for designing multishell q -space sampling procedures do not necessarily translate into reconstruction matrices with high figures of merit commonly used in the compressed sensing theory. In addition, we show that a well-known method for visiting k-space in radial three-dimensional acquisitions, namely, the Spiral Phyllotaxis, is a competitive initialization for the optimization of our nonconvex objective function.
 
 Theory and Methods
 
-We propose the gradient design method WISH (WeIghting SHells) which uses an objective function that accounts for weighted distances between gradients within M-tuples of consecutive shells, with < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:semantics > < mml:mrow > < mml:mi > M < /mml:mi > < /mml:mrow > < mml:annotation > $$ M $$ < /mml:annotation > < /mml:semantics > < /mml:math > ranging between 1 and the maximum number of shells < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:semantics > < mml:mrow > < mml:mi > S < /mml:mi > < /mml:mrow > < mml:annotation > $$ S $$ < /mml:annotation > < /mml:semantics > < /mml:math >. All the < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:semantics > < mml:mrow > < mml:mi > M < /mml:mi > < /mml:mrow > < mml:annotation > $$ M $$ < /mml:annotation > < /mml:semantics > < /mml:math > -tuples share the same weight < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:semantics > < mml:mrow > < mml:msub > < mml:mrow > < mml:mi > ω < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mi > M < /mml:mi > < /mml:mrow > < /mml:msub > < /mml:mrow > < mml:annotation > $$ {\omega}_M $$ < /mml:annotation > < /mml:semantics > < /mml:math >. The objective function is optimized for a sample of these weights, using Spiral Phyllotaxis as initialization. State-of-the-art General Electrostatic Energy Minimization (GEEM) and Spherical Codes (SC) were used for comparison. For the three methods, reconstruction matrices of the attenuation signal using MAP-MRI were tested using figures of merit borrowed from the Compressed Sensing theory (namely, Restricted Isometry Property -RIP- and Coherence); we also tested the gradient design using a geometric criterion based on Voronoi cells.
+We propose the gradient design method WISH (WeIghting SHells) which uses an objective function that accounts for weighted distances between gradients within M-tuples of consecutive shells, with M ranging between 1 and the maximum number of shells S. All the M -tuples share the same weight ωᴍ. The objective function is optimized for a sample of these weights, using Spiral Phyllotaxis as initialization. State-of-the-art General Electrostatic Energy Minimization (GEEM) and Spherical Codes (SC) were used for comparison. For the three methods, reconstruction matrices of the attenuation signal using MAP-MRI were tested using figures of merit borrowed from the Compressed Sensing theory (namely, Restricted Isometry Property -RIP- and Coherence); we also tested the gradient design using a geometric criterion based on Voronoi cells.
 
 Results
 
@@ -494,7 +494,7 @@ The versatility provided by WISH is supported by better results. Optimization in
 
 ### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^10ea950e]. Journal of the American College of Cardiology (2020). High credibility.
 
-Figure 6 — Underestimation of effective regurgitant orifice area (EROA) by two-dimensional proximal isovelocity surface area (2D PISA) in secondary mitral regurgitation (MR) is illustrated by a 2D PISA-calculated EROA of 0.17 cm^2 with regurgitant volume (Rvol) 22 mL, whereas proper continuous wave jet tracing yields EROA 0.21 cm^2 and Rvol 25 mL, and three-dimensional (3D) vena contracta reconstruction shows a vena contracta-derived area of 0.52 cm^2 with Rvol 64 mL (0.5 cm^2 × 128 cm); the discrepancy reflects the crescent-shaped MR jet that violates the circular orifice assumption of 2D PISA.
+Figure 6 — Underestimation of effective regurgitant orifice area (EROA) by two-dimensional proximal isovelocity surface area (2D PISA) in secondary mitral regurgitation (MR) is illustrated by a 2D PISA-calculated EROA of 0.17 cm² with regurgitant volume (Rvol) 22 mL, whereas proper continuous wave jet tracing yields EROA 0.21 cm² and Rvol 25 mL, and three-dimensional (3D) vena contracta reconstruction shows a vena contracta-derived area of 0.52 cm² with Rvol 64 mL (0.5 cm² × 128 cm); the discrepancy reflects the crescent-shaped MR jet that violates the circular orifice assumption of 2D PISA.
 
 ---
 

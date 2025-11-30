@@ -189,7 +189,7 @@ If leukocyte esterase is greater than trace, pyuria is present. Dipsticks may be
 
 Urine Microscopy
 
-Pyuria is present with ≥ 5 WBC/high-powered field with standardized or automated microscopy or ≥ 10 WBC/mm 3 on a hemocytometer. Because of low sensitivity, negative urine microscopy does not exclude UTI.
+Pyuria is present with ≥ 5 WBC/high-powered field with standardized or automated microscopy or ≥ 10 WBC/mm³ on a hemocytometer. Because of low sensitivity, negative urine microscopy does not exclude UTI.
 
 ---
 
@@ -581,10 +581,10 @@ Asymptomatic bacteriuria in infancy — An important cause of bacteriuria withou
 ### Differential diagnosis of uncommon prostate diseases: combining mpMRI and clinical information [^114otUd7]. Insights Into Imaging (2021). Medium credibility.
 
 Fig. 2
-Nonspecific granulomatous prostatitis in a 57-year-old male who experienced frequency, urgency and burning micturition for 1 month, with a serum PSA level of 18.67 ng/mL transiting to 5.04 ng/mL. a–c T2WI, DWI at a b-value of 1400 s/mm 2 and ADC maps show a diffusely and multifocally low signal intensity in the surrounding parenchyma on T2WI (a), a high signal intensity on DWI (b) and low ADC values (arrows on c in the prostate, with extraprostatic extension (arrowheads on a). (d) DCE imaging shows diffuse and multifocal areas of enhancement. The abnormal appearances of the prostate in the images shown in a–d result in a PI-RADS score of 5
+Nonspecific granulomatous prostatitis in a 57-year-old male who experienced frequency, urgency and burning micturition for 1 month, with a serum PSA level of 18.67 ng/mL transiting to 5.04 ng/mL. a–c T2WI, DWI at a b-value of 1400 s/mm² and ADC maps show a diffusely and multifocally low signal intensity in the surrounding parenchyma on T2WI (a), a high signal intensity on DWI (b) and low ADC values (arrows on c in the prostate, with extraprostatic extension (arrowheads on a). (d) DCE imaging shows diffuse and multifocal areas of enhancement. The abnormal appearances of the prostate in the images shown in a–d result in a PI-RADS score of 5
 
 Fig. 3
-Nonspecific granulomatous prostatitis in a 57-year-old male with dysuria and urinary retention for 1 month and a serum PSA level of 13.22 ng/mL. a, b DWI at a b-value of 1400 s/mm 2 and ADC maps show a focal nodule with obviously restricted diffusion (arrow) in the left peripheral zone of the prostate. c–e DCE imaging shows early and prolonged enhancement of the nodule (arrow). The appearances of the nodule in a–e result in a PI-RADS score of 4. Note the prostatic hyperplasia in the TZ (☆), which may have caused the symptoms of dysuria and urinary retention
+Nonspecific granulomatous prostatitis in a 57-year-old male with dysuria and urinary retention for 1 month and a serum PSA level of 13.22 ng/mL. a, b DWI at a b-value of 1400 s/mm² and ADC maps show a focal nodule with obviously restricted diffusion (arrow) in the left peripheral zone of the prostate. c–e DCE imaging shows early and prolonged enhancement of the nodule (arrow). The appearances of the nodule in a–e result in a PI-RADS score of 4. Note the prostatic hyperplasia in the TZ (☆), which may have caused the symptoms of dysuria and urinary retention
 
 Fig. 4
 Diffuse granulomatous prostatitis in a 67-year-old male. a T2WI shows diffuse swelling of bilateral peripheral zones and the signal intensity is diffusely decreased (arrow). b T1WI shows a diffusely increased signal intensity in the bilateral PZs (arrow). c DCE imaging shows a rapid enhancement of bilateral PZs (arrow). Note the central necrosis in the lesion (☆)
@@ -811,7 +811,7 @@ Recurrent urinary tract infection (rUTI) diagnosis labeling — "We propose prov
 
 ### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^113b4o2G]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
 
-Recurrent urinary tract infection — urine culture diagnostic thresholds and reporting: A positive urine culture is typically characterized by bacteriuria of at least 10^5 colony-forming units (CFU)/mL, although according to the European Association of Urology guidelines, a count of 10^2 CFU/mL in symptomatic patients is sufficient for diagnosis; Canadian guidelines state that even 10^2 CFU is sufficient in the setting of UTI symptoms, and certain laboratories may report 10^4 or less as "no growth".
+Recurrent urinary tract infection — urine culture diagnostic thresholds and reporting: A positive urine culture is typically characterized by bacteriuria of at least 10⁵ colony-forming units (CFU)/mL, although according to the European Association of Urology guidelines, a count of 10² CFU/mL in symptomatic patients is sufficient for diagnosis; Canadian guidelines state that even 10² CFU is sufficient in the setting of UTI symptoms, and certain laboratories may report 10⁴ or less as "no growth".
 
 ---
 

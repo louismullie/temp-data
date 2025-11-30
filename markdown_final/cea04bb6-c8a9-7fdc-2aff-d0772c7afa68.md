@@ -7,8 +7,8 @@
 
 ## Question
 
-What is the maximum area of an isosceles trapezoid that has legs of length $1$ and one base twice as long as the other?
-$\textbf{(A) }\frac 54 \qquad \textbf{(B) } \frac 87 \qquad \textbf{(C)} \frac{5\sqrt2}4 \qquad \textbf{(D) } \frac 32 \qquad \textbf{(E) } \frac{3\sqrt3}4$
+What is the maximum area of an isosceles trapezoid that has legs of length 1 and one base twice as long as the other?
+(A) [5/4] (B) [8/7] (C) [5√2/4] (D) [3/2] (E) [3√3/4]
 
 ---
 
@@ -57,9 +57,7 @@ h^2 + \\left(\\frac{b}{2}\\right)^2 = 1^2 \\implies h = \\sqrt{1 - \\frac{b^2}{4
 
 The area (A) of a trapezoid is the average of the bases times the height:
 
-[
-A = \\frac{b + 2b}{2} \\cdot h = \\frac{3b}{2} \\cdot \\sqrt{1 - \\frac{b^2}{4}}
-]
+A = [(b + 2b)/2] × h = [3b/2] × √(1 − [b²/4])
 
 ---
 
@@ -67,17 +65,15 @@ A = \\frac{b + 2b}{2} \\cdot h = \\frac{3b}{2} \\cdot \\sqrt{1 - \\frac{b^2}{4}}
 
 To maximize (A), we maximize (A^2) (since (A > 0)):
 
-[
-A^2 = \\left(\\frac{3b}{2}\\right)^2 \\left(1 - \\frac{b^2}{4}\\right) = \\frac{9b^2}{4} \\left(1 - \\frac{b^2}{4}\\right) = \\frac{9}{4} \\left(b^2 - \\frac{b^4}{4}\\right)
-]
+A² = ([3b/2])² (1 − [b²/4]) = [9b²/4] (1 − [b²/4]) = [9/4] (b² − [b⁴/4])
 
-Let (f(b) = b^2 - \\frac{b^4}{4}). Then:
+Let f(b) = b² − [b⁴/4]. Then:
 
 [
 f'(b) = 2b - b^3 = b(2 - b^2)
 ]
 
-Setting (f'(b) = 0) gives (b = 0) or (b^2 = 2). Since (b > 0), we have (b = \\sqrt{2}). The second derivative:
+Setting f′(b) = 0 gives b = 0 or b² = 2. Since b > 0, we have b = √2. The second derivative:
 
 [
 f"(b) = 2–3b^2 \\implies f"(\\sqrt{2}) = 2–6 = -4 < 0

@@ -413,7 +413,7 @@ The review structure followed the Cochrane group's Preferred Reporting Items for
 
 Results
 
-In assessing a single patient-centered endpoint-1-month mortality-we calculated an overall risk ratio (RR) estimate. Analysis of three RCTs yielded a model with acceptable heterogeneity (I 2 = 48%, Q-test p = 0.13). Pooled estimate revealed civilian PHT results in a statistically nonsignificant (p = 0.38) relative mortality reduction of 13% (RR 0.87, 95% CI 0.63–1.19).
+In assessing a single patient-centered endpoint-1-month mortality-we calculated an overall risk ratio (RR) estimate. Analysis of three RCTs yielded a model with acceptable heterogeneity (I² = 48%, Q-test p = 0.13). Pooled estimate revealed civilian PHT results in a statistically nonsignificant (p = 0.38) relative mortality reduction of 13% (RR 0.87, 95% CI 0.63–1.19).
 
 Conclusions
 

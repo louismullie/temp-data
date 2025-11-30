@@ -658,7 +658,7 @@ Repeat revascularisation data were available from seven studies (n = 16,351). Sh
 
 - **Fig 5 individual and summary odds ratios**: For the endpoint of repeat revascularisation, data stratified by duration of dual antiplatelet therapy: short-term (12 months) versus 12 months.
 
-All studies (n = 32,287) provided data for cerebrovascular accidents. These events occurred in 0.45% of patients (36/7,975) with short-term dual antiplatelet therapy versus 0.49% (39/8,020) with 12-month therapy (odds ratio 0.93 [95% confidence interval 0.59 to 1.46]; P = 0.75; I^2 = 0%). Similarly, we did not see any significant differences in cerebrovascular accidents when comparing extended duration with 12-month duration (0.78% vs 0.84%; 0.93 [0.66 to 1.31]; P = 0.67; I^2 = 0%).
+All studies (n = 32,287) provided data for cerebrovascular accidents. These events occurred in 0.45% of patients (36/7,975) with short-term dual antiplatelet therapy versus 0.49% (39/8,020) with 12-month therapy (odds ratio 0.93 [95% confidence interval 0.59 to 1.46]; P = 0.75; I² = 0%). Similarly, we did not see any significant differences in cerebrovascular accidents when comparing extended duration with 12-month duration (0.78% vs 0.84%; 0.93 [0.66 to 1.31]; P = 0.67; I² = 0%).
 
 ---
 
