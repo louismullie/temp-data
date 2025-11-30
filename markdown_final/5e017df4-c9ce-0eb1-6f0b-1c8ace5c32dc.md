@@ -164,9 +164,7 @@ Meckel diverticulum is the most common congenital anomaly of the small intestine
 
 Johann Friedrick Meckel, 1, 2 a German anatomist and surgeon, in 1808 first described and explained the embryological origin of the diverticulum that now bears his name. Meckel described the diverticulum as being solitary, antimesenteric, and congenital. He found it to be located in the ileum at the site where the original yolk stalk coursed between the gut and the yolk sac. The diverticulum is a result of the incomplete disappearance of the omphalomesenteric or vitelline duct. He also observed that occasionally the obliterated umbilical vessels or the duct itself may persist as fibrous strands between the umbilicus and the ileal diverticulum. This observation was confirmed and its importance stressed by Cullen4 in 1916. Cullen observed that the vitelline duct normally is obliterated in the sixth to seventh week of embryonic life. Obliteration of none or only part of this duct leads to a number of congenital anomalies, the commonest. ROMIG RS.
 
-Meckel's Diverticulum as a Cause of Intestinal Obstruction. Arch Surg. 1961; 83: 262–265. doi:
-10. 1001/archsurg.
-1961. 01300140104020 © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
+Meckel's Diverticulum as a Cause of Intestinal Obstruction. Arch Surg. 1961; 83: 262–265. doi: 10.1001/archsurg.1961.01300140104020 © 2024 Artificial Intelligence Resource Center Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 
