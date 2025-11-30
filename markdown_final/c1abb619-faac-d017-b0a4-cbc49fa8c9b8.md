@@ -176,7 +176,7 @@ A complete urinalysis includes physical, chemical, and microscopic examinations.
 
 ### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^46be03bc]. Kidney International (2024). High credibility.
 
-Hematuria and evaluation — "Persistent hematuria may indicate glomerular diseases, other kidney diseases, or urologic disease including genitourinary malignancy. Thus, persistent hematuria should prompt further investigation."
+Hematuria and evaluation — "Persistent hematuria may indicate glomerular diseases, other kidney diseases, or urologic disease including genitourinary malignancy. Thus, persistent hematuria should prompt further investigation".
 
 ---
 
@@ -212,7 +212,7 @@ Acute uncomplicated cystitis is a common and costly disorder in women, and there
 
 ### Committee opinion no.703: asymptomatic microscopic hematuria in women [^51f25589]. Obstetrics and Gynecology (2017). Medium credibility.
 
-American Urological Association (AUA) asymptomatic microscopic hematuria — evaluation scope and evidence indicate the guideline "lowered the age threshold for evaluation from older than 40 years to 35 years," and "the recommended evaluation for all patients meeting the criteria for asymptomatic microscopic hematuria (after other causes have been ruled out) includes cystoscopy and upper tract imaging with multiphasic computed tomography (CT) urography, with and without intravenous contrast." The document emphasizes that "'blood' on a dipstick urinalysis is not hematuria, and this finding indicates the need for a microscopic urinalysis to evaluate for red blood cells." Regarding screening, "the U.S. Preventive Services Task Force in 2011 concluded the current evidence is insufficient to assess the balance of benefits and harms of screening for bladder cancer in asymptomatic adults (4)." The evidence strength behind the AUA recommendations "is Grade C," is "primarily… based on data from male patients," and "the risk of urinary tract malignancy (bladder, ureter, and kidney) is significantly less in women than in men."
+American Urological Association (AUA) asymptomatic microscopic hematuria — evaluation scope and evidence indicate the guideline "lowered the age threshold for evaluation from older than 40 years to 35 years", and "the recommended evaluation for all patients meeting the criteria for asymptomatic microscopic hematuria (after other causes have been ruled out) includes cystoscopy and upper tract imaging with multiphasic computed tomography (CT) urography, with and without intravenous contrast". The document emphasizes that "'blood' on a dipstick urinalysis is not hematuria, and this finding indicates the need for a microscopic urinalysis to evaluate for red blood cells". Regarding screening, "the U.S. Preventive Services Task Force in 2011 concluded the current evidence is insufficient to assess the balance of benefits and harms of screening for bladder cancer in asymptomatic adults (4)". The evidence strength behind the AUA recommendations "is Grade C", is "primarily… based on data from male patients", and "the risk of urinary tract malignancy (bladder, ureter, and kidney) is significantly less in women than in men".
 
 ---
 
@@ -495,7 +495,7 @@ Share data in a timely fashion and report to appropriate stakeholders. (Quality 
 
 ### Committee opinion no.703: asymptomatic microscopic hematuria in women [^2c2435a1]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Urinalysis and prevalence of microscopic hematuria — In a large health system sample, "in a large Kaiser Permanente database that spanned 6 years, 3,742,348 urinalyses were performed on 2,705,696 women, and 552,119 (20%) of them had microscopic hematuria; however, this number includes some women with an identified cause of microscopic hematuria, such as urinary tract infection (5)." Broader evidence indicates that "in the American Urological Association systematic review of 80,000 women and men, the prevalence of asymptomatic microscopic hematuria ranged from 2.4% to 31.1% (3)."
+Urinalysis and prevalence of microscopic hematuria — In a large health system sample, "in a large Kaiser Permanente database that spanned 6 years, 3,742,348 urinalyses were performed on 2,705,696 women, and 552,119 (20%) of them had microscopic hematuria; however, this number includes some women with an identified cause of microscopic hematuria, such as urinary tract infection (5)". Broader evidence indicates that "in the American Urological Association systematic review of 80,000 women and men, the prevalence of asymptomatic microscopic hematuria ranged from 2.4% to 31.1% (3)".
 
 ---
 
@@ -751,7 +751,7 @@ Spinal cord injury (SCI) and asymptomatic bacteriuria (ASB) — In patients with
 
 ### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^330ad9bb]. The Journal of Urology (2025). High credibility.
 
-Recurrent urinary tract infection (rUTI) — diagnostic approach emphasizes clinical judgement over test-centric diagnosis, stating that "the answer to improved antimicrobial stewardship lies not in better testing, but in better clinical judgement." It adds that "clinicians should no longer rely on the findings of standard urine culture or any other ancillary detection method as a substitute for clinical judgement," that "Whenever possible, patients should be evaluated at each symptomatic presentation, at least with documentation of specific signs and symptoms and laboratory assessment," and that decisions should synthesize presentation and tests when "antibiotic treatment is likely to be of benefit."
+Recurrent urinary tract infection (rUTI) — diagnostic approach emphasizes clinical judgement over test-centric diagnosis, stating that "the answer to improved antimicrobial stewardship lies not in better testing, but in better clinical judgement". It adds that "clinicians should no longer rely on the findings of standard urine culture or any other ancillary detection method as a substitute for clinical judgement", that "Whenever possible, patients should be evaluated at each symptomatic presentation, at least with documentation of specific signs and symptoms and laboratory assessment", and that decisions should synthesize presentation and tests when "antibiotic treatment is likely to be of benefit".
 
 ---
 

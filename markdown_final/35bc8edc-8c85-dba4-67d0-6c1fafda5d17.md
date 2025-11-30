@@ -787,7 +787,7 @@ Among other possible causes, macrocytic anemia can be caused by alcohol use diso
 
 ### Iron deficiency in 78 805 people admitted with heart failure across england: a retrospective cohort study [^4132e3f0]. Open Heart (2020). Medium credibility.
 
-For the present study, codes utilised to define HF, ID or IDA were from the 10 th revision of the International Statistical Classification of Diseases and Related Health Problems (ICD-10). There are 71 ICD-10 codes specifying the clinical spectrum of anaemia. Clinical coders cannot assume the patient has ID or IDA unless so documented in the clinical record by the responsible clinician, and they are not permitted to independently interpret test results of any kind. As defined in the national clinical coding standards,'iron deficiency' is an Essential Modifier which requires that IDA must be extant in the clinical record for the applicable codes to be assigned. If IDA is not formally recorded in a form interpretable by coders, the coding rules stipulate that the diagnosis must be coded as D649: anaemia, unspecified. For this study, the ICD-10 codes used to differentiate HF patients with or without ID or IDA are listed in table 1. Consistent with the coding convention described above, we also included ICD-10 code D649 within the IDA coding envelope, anticipating that a proportion of HF patients with IDA would be assigned that diagnostic code given the expected variation in documentation and resultant coding practice.
+For the present study, codes utilised to define HF, ID or IDA were from the 10 th revision of the International Statistical Classification of Diseases and Related Health Problems (ICD-10). There are 71 ICD-10 codes specifying the clinical spectrum of anaemia. Clinical coders cannot assume the patient has ID or IDA unless so documented in the clinical record by the responsible clinician, and they are not permitted to independently interpret test results of any kind. As defined in the national clinical coding standards', iron deficiency' is an Essential Modifier which requires that IDA must be extant in the clinical record for the applicable codes to be assigned. If IDA is not formally recorded in a form interpretable by coders, the coding rules stipulate that the diagnosis must be coded as D649: anaemia, unspecified. For this study, the ICD-10 codes used to differentiate HF patients with or without ID or IDA are listed in table 1. Consistent with the coding convention described above, we also included ICD-10 code D649 within the IDA coding envelope, anticipating that a proportion of HF patients with IDA would be assigned that diagnostic code given the expected variation in documentation and resultant coding practice.
 
 Table 1
 ICD-10 codes used to identify patients with HF with or without ID/IDA
@@ -896,13 +896,13 @@ Each capsule contains:
 
 Folic Acid\.1mg
 
-Thiamin hydrochloride\.…\.27mg
+Thiamin hydrochloride\.… \.27mg
 
-Riboflavin…\.29mg
+Riboflavin… \.29mg
 
 Pyridoxine hydrochloride\.,\.50mg
 
-Methylcobalamin… \.…\.… 2mg
+Methylcobalamin… \.… \.… 2mg
 
 Each capsule contains the following inactive ingredients: Lactose Monohydrate, Gelatin (bovine), Silicon Dioxide, Magnesium Stearate, Titanium Dioxide, FD&C Blue #1, FD&C Red #40.
 
@@ -978,7 +978,7 @@ Finally, to capture proxies of vaccine hesitancy, history of influenza vaccinati
 
 ### Synopsis of the 2020 U.S. VA / DoD clinical practice guideline for the management of adult overweight and obesity [^c1046f6b]. Military Medicine (2021). High credibility.
 
-Pregnancy after bariatric surgery — nutritional risks and follow-up are detailed as follows: "All bariatric procedures can lead to deficiencies in iron, vitamin B12, folate, and calcium during subsequent pregnancies," which "can result in maternal complications, such as severe anemia, and in fetal complications including neural tube defects, intrauterine growth restriction, and failure to thrive"; it states that "Nutrient supplementation following metabolic/bariatric surgery and close supervision before, during, and after pregnancy can help prevent nutrition-related complications and improve maternal and fetal health," and concludes that affected women "need to receive intensive nutritional follow-up by providers with expertise in clinical nutrition."
+Pregnancy after bariatric surgery — nutritional risks and follow-up are detailed as follows: "All bariatric procedures can lead to deficiencies in iron, vitamin B12, folate, and calcium during subsequent pregnancies", which "can result in maternal complications, such as severe anemia, and in fetal complications including neural tube defects, intrauterine growth restriction, and failure to thrive"; it states that "Nutrient supplementation following metabolic/bariatric surgery and close supervision before, during, and after pregnancy can help prevent nutrition-related complications and improve maternal and fetal health", and concludes that affected women "need to receive intensive nutritional follow-up by providers with expertise in clinical nutrition".
 
 ---
 

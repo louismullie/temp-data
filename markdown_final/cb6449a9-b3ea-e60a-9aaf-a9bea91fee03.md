@@ -82,7 +82,7 @@ Tetanus prophylaxis should be administered **promptly** based on wound type and 
 
 ### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^586e2312]. Clinical Infectious Diseases (2014). Medium credibility.
 
-Tetanus prophylaxis for animal bite wounds — Recommendation 43 — states that "Tetanus toxoid should be administered to patients without toxoid vaccination within 10 years. Tetanus, diphtheria, and pertussis (TdaP) is preferred over Tetanus and diptheria (Td) if the former has not been previously given (strong, low)." The evidence summary emphasizes that "Tetanus is a severe and often fatal disease preventable through routine vaccination (ie, primary series and decennial boosters)."
+Tetanus prophylaxis for animal bite wounds — Recommendation 43 — states that "Tetanus toxoid should be administered to patients without toxoid vaccination within 10 years. Tetanus, diphtheria, and pertussis (TdaP) is preferred over Tetanus and diptheria (Td) if the former has not been previously given (strong, low)". The evidence summary emphasizes that "Tetanus is a severe and often fatal disease preventable through routine vaccination (ie, primary series and decennial boosters)".
 
 ---
 
@@ -393,7 +393,7 @@ STATEMENT 2 It is useful to provide an initial stratification of the risk of inf
 
 ### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^03739a98]. Wilderness & Environmental Medicine (2014). Medium credibility.
 
-Tetanus prophylaxis — clean and minor wounds vs all other wounds by immunization history is as follows: Unknown/less than a series of 3 doses — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. 3 or more — last within 5 years — clean and minor wounds: No prophylaxis; all other wounds: No prophylaxis. 3 or more — last within 10 years — clean and minor wounds: No prophylaxis; all other wounds: Toxoid. 3 or more — last > 10 years — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. All immunocompromised patients should receive tetanus toxoid and immune globulin, 'All other wounds' include those contaminated with soil, feces, or saliva and include puncture wounds, avulsions, missile injuries, crush wounds, burns, and frostbite, and 'No toxoid administration should be given to an infant < 6 weeks of age'.
+Tetanus prophylaxis — clean and minor wounds vs all other wounds by immunization history is as follows: Unknown/less than a series of 3 doses — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. 3 or more — last within 5 years — clean and minor wounds: No prophylaxis; all other wounds: No prophylaxis. 3 or more — last within 10 years — clean and minor wounds: No prophylaxis; all other wounds: Toxoid. 3 or more — last > 10 years — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. All immunocompromised patients should receive tetanus toxoid and immune globulin, 'All other wounds' include those contaminated with soil, feces, or saliva and include puncture wounds, avulsions, missile injuries, crush wounds, burns, and frostbite, and 'No toxoid administration should be given to an infant < 6 weeks of age'.
 
 ---
 
@@ -1038,7 +1038,7 @@ Regarding preventative measures for diphtheria, more specifically with respect t
 
 ### ACOEM statement on adult immunization [^901931da]. ACOEM (2024). High credibility.
 
-CDC recommended adult immunization schedule by age group, United States, 2024 outlines age- and indication-based dosing for select adult vaccines. For tetanus, diphtheria, pertussis (Tdap or Td), it states "1 dose Tdap each pregnancy; 1 dose Td/Tdap for wound management (see notes) 1 dose Tdap, then Td or Tdap booster every 10 years." For measles, mumps, rubella (MMR), it lists "1 or 2 doses depending on indication (born in 1957 or later)." For Meningococcal A, C, W, Y (MenACWY), it notes "1 or 2 doses depending on indication, see notes for booster recommendations." For Haemophilus influenzae type b (Hib), it specifies "1 or 3 doses depending on indication." For respiratory syncytial virus (RSV), the schedule includes "Seasonal administration during pregnancy. See Notes."
+CDC recommended adult immunization schedule by age group, United States, 2024 outlines age- and indication-based dosing for select adult vaccines. For tetanus, diphtheria, pertussis (Tdap or Td), it states "1 dose Tdap each pregnancy; 1 dose Td/Tdap for wound management (see notes) 1 dose Tdap, then Td or Tdap booster every 10 years". For measles, mumps, rubella (MMR), it lists "1 or 2 doses depending on indication (born in 1957 or later)". For Meningococcal A, C, W, Y (MenACWY), it notes "1 or 2 doses depending on indication, see notes for booster recommendations". For Haemophilus influenzae type b (Hib), it specifies "1 or 3 doses depending on indication". For respiratory syncytial virus (RSV), the schedule includes "Seasonal administration during pregnancy. See Notes".
 
 ---
 

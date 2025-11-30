@@ -472,7 +472,7 @@ Associations between active cytomegalovirus (CMV) infection, graft rejection, re
 
 ### KDIGO clinical practice guideline for the care of kidney transplant recipients [^03163c65]. American Journal of Transplantation (2009). Medium credibility.
 
-KDIGO clinical practice guideline for the care of kidney transplant recipients — example evidence profile presents an illustrative table of outcomes and grading domains, listing outcomes such as Mortality, Graft loss, Acute rejection, CAN, NODAT, and Infection, and organizing evidence under columns titled "No. of studies, study design," "No. of participants (follow-up)," "Methodological quality," "Consistency," "Directness of the evidence," "Other considerations," "Quality of the evidence for each outcome," and "Importance of outcome."
+KDIGO clinical practice guideline for the care of kidney transplant recipients — example evidence profile presents an illustrative table of outcomes and grading domains, listing outcomes such as Mortality, Graft loss, Acute rejection, CAN, NODAT, and Infection, and organizing evidence under columns titled "No. of studies, study design", "No. of participants (follow-up)", "Methodological quality", "Consistency", "Directness of the evidence", "Other considerations", "Quality of the evidence for each outcome", and "Importance of outcome".
 
 ---
 
@@ -488,11 +488,11 @@ only in association with thymus-dependent cells. " "Circulating antibody against
 - > 25% increase in serum creatinine
 - New onset proteinuria
 - Index biopsy v. no index biopsy
-- Death:
+- **Death**:
 
 6. 0 v.
-4. **8%
-- DCGF: **:
+4. 8%
+- DCGF::
 
 21. 7% v.
 

@@ -252,7 +252,7 @@ Notably, both SL and modified D2 dissection are surgical standards. Recommendati
 
 Although the impact of SL on survival has not been demonstrated in the form of a prospective trial, SL it is supported by abundant literature and is necessary for guiding appropriate treatment.– When SL is not performed at baseline and patients undergo systemic therapy, peritoneal disease present initially may respond and no longer be detectable, but the patient still will be at a much higher risk of recurrence because they were still stage 4 at baseline. These patients should go on to be considered for alternative therapies or clinical trials (e.g. targeted regimens or hyperthermic intraperitoneal chemotherapy [HIPEC]) or at a very minimum should have an informed discussion about their higher risk of recurrence and their prognosis before undergoing gastrectomy. Confirming a patient's disease stage before initiation of invasive treatment with stated curative intent is a basic tenet of cancer care. In a randomized trial, D2 lymphadenectomy was examined, but it was decades ago, and the current recommendation for pancreas and spleen-sparing modified dissection are based on interpretation of those results, which may be why some still find this recommendation controversial.
 
-Additional barriers reported by multiple sites in this study were "the availability of surgeons skilled in D2 dissection" and "having too few gastric cancer cases per year for a dedicated team." These topics came up in the semi-structured interviews and led to discussions about possibly referring gastric cancer patients to higher-volume centers. These quotations and the themes pulled from the interviews highlight issues in real-world practice that may be affecting care and outcomes for patients, particularly those with relatively rare cancers.
+Additional barriers reported by multiple sites in this study were "the availability of surgeons skilled in D2 dissection" and "having too few gastric cancer cases per year for a dedicated team". These topics came up in the semi-structured interviews and led to discussions about possibly referring gastric cancer patients to higher-volume centers. These quotations and the themes pulled from the interviews highlight issues in real-world practice that may be affecting care and outcomes for patients, particularly those with relatively rare cancers.
 
 ---
 
@@ -279,13 +279,13 @@ Gastric cancer combined modality therapy — perioperative systemic therapy is r
 
 ### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^f2284101]. Practical Radiation Oncology (2025). High credibility.
 
-ASTRO clinical practice guideline — recommendations for radiation therapy (RT) in gastric cancer are based on "a systematic literature review" and "a predefined consensus-based methodology with a system for grading evidence quality and recommendation strength." Multidisciplinary evaluation and decision making are recommended for all patients. For patients with cT2-4 and/or N+ resectable gastric cancer, perioperative chemotherapy is recommended, preferably FLOT (5-fluorouracil, leucovorin, oxaliplatin and docetaxel), and perioperative durvalumab and FLOT has shown a significant improvement in event-free survival versus FLOT only for resectable disease and is now being adopted as a standard of care. Preoperative chemoradiation is recommended for patients who are not candidates for perioperative chemotherapy and conditionally recommended if there is concern for a margin positive (R1) or incomplete (R2) resection. Postoperative chemoradiation is conditionally recommended for patients who are not candidates for perioperative or postoperative chemotherapy or if a suboptimal resection was done for those who proceeded directly to surgery. Definitive chemoradiation may provide durable control for nonmetastatic patients who are inoperable either at initial diagnosis or at the time of locoregional recurrence. For patients with oligometastatic gastric cancer, metastasis-directed therapy along with systemic therapy is conditionally recommended. Palliative RT is efficacious for patients with bleeding, pain, and obstruction, and target coverage goals and dose guidance for normal tissues are provided.
+ASTRO clinical practice guideline — recommendations for radiation therapy (RT) in gastric cancer are based on "a systematic literature review" and "a predefined consensus-based methodology with a system for grading evidence quality and recommendation strength". Multidisciplinary evaluation and decision making are recommended for all patients. For patients with cT2-4 and/or N+ resectable gastric cancer, perioperative chemotherapy is recommended, preferably FLOT (5-fluorouracil, leucovorin, oxaliplatin and docetaxel), and perioperative durvalumab and FLOT has shown a significant improvement in event-free survival versus FLOT only for resectable disease and is now being adopted as a standard of care. Preoperative chemoradiation is recommended for patients who are not candidates for perioperative chemotherapy and conditionally recommended if there is concern for a margin positive (R1) or incomplete (R2) resection. Postoperative chemoradiation is conditionally recommended for patients who are not candidates for perioperative or postoperative chemotherapy or if a suboptimal resection was done for those who proceeded directly to surgery. Definitive chemoradiation may provide durable control for nonmetastatic patients who are inoperable either at initial diagnosis or at the time of locoregional recurrence. For patients with oligometastatic gastric cancer, metastasis-directed therapy along with systemic therapy is conditionally recommended. Palliative RT is efficacious for patients with bleeding, pain, and obstruction, and target coverage goals and dose guidance for normal tissues are provided.
 
 ---
 
 ### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^e64a52d2]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-Principles of radiation therapy — scope statement indicates that "RT has been assessed in randomized trials in both the preoperative and postoperative settings in patients with resectable gastric cancer."
+Principles of radiation therapy — scope statement indicates that "RT has been assessed in randomized trials in both the preoperative and postoperative settings in patients with resectable gastric cancer".
 
 ---
 
@@ -329,7 +329,7 @@ Some 159 patients completed preoperative chemotherapy but did not undergo resect
 
 ### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^764b8fe1]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-NCCN Gastric cancer — postoperative management updates after resection specify that for R0 resection, "Observation (if received preoperative chemoradiation) removed as an option" and "Systemic therapy, if received preoperatively (category 1)." For R1 disease, "Chemoradiation (fluoropyrimidine-based), only if not received preoperatively. Also for R2 resection."
+NCCN Gastric cancer — postoperative management updates after resection specify that for R0 resection, "Observation (if received preoperative chemoradiation) removed as an option" and "Systemic therapy, if received preoperatively (category 1)". For R1 disease, "Chemoradiation (fluoropyrimidine-based), only if not received preoperatively. Also for R2 resection".
 
 ---
 
@@ -456,7 +456,7 @@ clinicaltrials.gov identifier: NCT00849615.
 
 ### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^f26c9eb6]. Practical Radiation Oncology (2025). High credibility.
 
-Margin-positive resections and chemotherapy candidacy — postoperative therapy guidance: "While no data were found meeting the search criteria supporting postoperative chemoradiation for R1-2 resection, consensus expert opinion of the task force resulted in a conditional recommendation for postoperative chemoradiation for R1-2 disease with or without postoperative chemotherapy and whether or not preoperative systemic therapy was given." "There is insufficient data to comment on whether RT dose escalation is necessary for patients with R1-2 resections." "However, when patients can receive multiagent chemotherapy in the setting of an R0 and D2 dissection, there is no benefit to adding RT, and postoperative chemotherapy alone is recommended." For patients not candidates for perioperative or postoperative multiagent chemotherapy, "postoperative chemoradiation (with concurrent 5-FU or capecitabine) is conditionally recommended."
+Margin-positive resections and chemotherapy candidacy — postoperative therapy guidance: "While no data were found meeting the search criteria supporting postoperative chemoradiation for R1-2 resection, consensus expert opinion of the task force resulted in a conditional recommendation for postoperative chemoradiation for R1-2 disease with or without postoperative chemotherapy and whether or not preoperative systemic therapy was given". "There is insufficient data to comment on whether RT dose escalation is necessary for patients with R1-2 resections". "However, when patients can receive multiagent chemotherapy in the setting of an R0 and D2 dissection, there is no benefit to adding RT, and postoperative chemotherapy alone is recommended". For patients not candidates for perioperative or postoperative multiagent chemotherapy, "postoperative chemoradiation (with concurrent 5-FU or capecitabine) is conditionally recommended".
 
 ---
 
@@ -514,7 +514,7 @@ Recommendation category — evidence rating: All recommendations are category 2A
 
 ### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^ca566c9a]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-NCCN Gastric Cancer — gastrectomy after prior chemoradiation: For unresectable gastric cancer treated with chemoradiation followed by surgery, "Tumor site should be thoroughly sampled for specimens s/p chemoradiation without grossly obvious residual tumor," and "For pathology report, include all elements of resection and assessment of treatment effect."
+NCCN Gastric Cancer — gastrectomy after prior chemoradiation: For unresectable gastric cancer treated with chemoradiation followed by surgery, "Tumor site should be thoroughly sampled for specimens s/p chemoradiation without grossly obvious residual tumor", and "For pathology report, include all elements of resection and assessment of treatment effect".
 
 ---
 
@@ -662,7 +662,7 @@ Regarding medical management for gastric cancer, more specifically with respect 
 
 ### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^8a1ddcbd]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-Gastric cancer — guideline category note states: "Note: All recommendations are category 2A unless otherwise indicated."
+Gastric cancer — guideline category note states: "Note: All recommendations are category 2A unless otherwise indicated".
 
 ---
 
@@ -894,7 +894,7 @@ In the present study, we apply a matched cfDNA and WBC sequencing approach to ac
 
 ### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^a3235133]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
-Esophageal and EGJ localized disease management — "ER (with or without ablation) is recommended for patients with early-stage (Tis, T1a, or superficial T1b) tumors." "Esophagectomy is the preferred primary treatment option for patients who are medically fit with T1b–T2, N0 low-risk lesions." For "locally advanced resectable tumors (T2, N0 high-risk lesions, T1b–T2, N+ and T3–T4a, any N tumors), primary treatment options include preoperative chemoradiation (category 1, preferred for adenocarcinoma), perioperative chemotherapy (only for adenocarcinoma) or definitive chemoradiation (only in non-surgical candidates or patients who decline surgery)." "Definitive chemoradiation is the recommended treatment option for patients with T4b (unresectable) tumors, with chemotherapy alone reserved for the setting of invasion into the heart, vertebral body, trachea, or great vessels." "Patients with unresectable or metastatic disease should be offered best supportive care and palliative management with or without systemic therapy, depending on performance status."
+Esophageal and EGJ localized disease management — "ER (with or without ablation) is recommended for patients with early-stage (Tis, T1a, or superficial T1b) tumors". "Esophagectomy is the preferred primary treatment option for patients who are medically fit with T1b–T2, N0 low-risk lesions". For "locally advanced resectable tumors (T2, N0 high-risk lesions, T1b–T2, N+ and T3–T4a, any N tumors), primary treatment options include preoperative chemoradiation (category 1, preferred for adenocarcinoma), perioperative chemotherapy (only for adenocarcinoma) or definitive chemoradiation (only in non-surgical candidates or patients who decline surgery)". "Definitive chemoradiation is the recommended treatment option for patients with T4b (unresectable) tumors, with chemotherapy alone reserved for the setting of invasion into the heart, vertebral body, trachea, or great vessels". "Patients with unresectable or metastatic disease should be offered best supportive care and palliative management with or without systemic therapy, depending on performance status".
 
 ---
 

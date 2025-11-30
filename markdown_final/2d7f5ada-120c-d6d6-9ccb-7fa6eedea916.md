@@ -880,7 +880,7 @@ de Bruijn et alreported finding papilledema in 23 of 56 CVST patients (41%), wit
 
 ### Abusive head trauma in infants and children: technical report [^2643c328]. Pediatrics (2025). High credibility.
 
-Abusive head trauma — papilledema and retinal hemorrhage patterns are characterized by infrequent papilledema and pattern differences from nontraumatic causes, with the report noting that "Papilledema occurs infrequently in AHT (less than 10%)," and that "Nontraumatic causes of retinal hemorrhages usually occur in patterns different from head trauma."
+Abusive head trauma — papilledema and retinal hemorrhage patterns are characterized by infrequent papilledema and pattern differences from nontraumatic causes, with the report noting that "Papilledema occurs infrequently in AHT (less than 10%)", and that "Nontraumatic causes of retinal hemorrhages usually occur in patterns different from head trauma".
 
 ---
 

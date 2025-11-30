@@ -149,19 +149,19 @@ VA/DoD Clinical Practice Guideline — sodium bicarbonate supplementation in chr
 
 ### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^5b4701c9]. AND (2020). High credibility.
 
-Hospitalization outcomes with oral bicarbonate in CKD — evidence summary: "The effects of oral bicarbonate supplements on hospitalization in CKD patients was mixed, where evidence is limited."
+Hospitalization outcomes with oral bicarbonate in CKD — evidence summary: "The effects of oral bicarbonate supplements on hospitalization in CKD patients was mixed, where evidence is limited".
 
 ---
 
 ### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^4e16bbb0]. AND (2020). High credibility.
 
-Dietary acid load or oral bicarbonate supplements in CKD — scope of evidence: "Eleven studies examined the association between dietary acid load/oral bicarbonate supplements on health outcomes in the CKD population," including "four RCTs… one NRCT… three non-controlled studies… two prospective cohort studies… and one retrospective cohort study."
+Dietary acid load or oral bicarbonate supplements in CKD — scope of evidence: "Eleven studies examined the association between dietary acid load/oral bicarbonate supplements on health outcomes in the CKD population", including "four RCTs… one NRCT… three non-controlled studies… two prospective cohort studies… and one retrospective cohort study".
 
 ---
 
 ### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^d774f9aa]. AND (2020). High credibility.
 
-Nutritional status with oral bicarbonate in CKD — benefit signal in several studies: in CKD populations, "oral bicarbonate supplements improved nutritional status (e.g. SGA scores, nPCR, albumin, and prealbumin) in most studies," and supporting study designs included "Two RCTs… and three non-controlled studies… examined the effects of oral bicarbonate supplements on nutritional status in adults with CKD."
+Nutritional status with oral bicarbonate in CKD — benefit signal in several studies: in CKD populations, "oral bicarbonate supplements improved nutritional status (e.g. SGA scores, nPCR, albumin, and prealbumin) in most studies", and supporting study designs included "Two RCTs… and three non-controlled studies… examined the effects of oral bicarbonate supplements on nutritional status in adults with CKD".
 
 ---
 
@@ -375,7 +375,7 @@ KDIGO 2021 blood pressure in chronic kidney disease — research gaps in diet an
 
 ### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^4d42edf0]. Kidney International (2024). High credibility.
 
-Chronic kidney disease (CKD) metabolic acidosis — adult oral sodium bicarbonate: In adults with CKD G3–G4 aged ≥ 60 years and serum bicarbonate < 22 mmol/l, the BICARB trial found "no evidence of benefit on nonkidney outcomes" and reported kidney failure outcomes with "HR: 0.97; 95% CI: 0.64–1.49," while "allocation to oral sodium bicarbonate was associated with higher costs and lower… EQ-5D-3L… QoL over 1 year." For treatment thresholds, "It is generally accepted that a serum bicarbonate of < 18 mmol/l in adults is desirable to avoid," and because "correction of bicarbonate to the normal range has not been demonstrated to reduce the risk of kidney failure," "lower thresholds to initiate therapy than 18 mmol/l could be considered."
+Chronic kidney disease (CKD) metabolic acidosis — adult oral sodium bicarbonate: In adults with CKD G3–G4 aged ≥ 60 years and serum bicarbonate < 22 mmol/l, the BICARB trial found "no evidence of benefit on nonkidney outcomes" and reported kidney failure outcomes with "HR: 0.97; 95% CI: 0.64–1.49", while "allocation to oral sodium bicarbonate was associated with higher costs and lower… EQ-5D-3L… QoL over 1 year". For treatment thresholds, "It is generally accepted that a serum bicarbonate of < 18 mmol/l in adults is desirable to avoid", and because "correction of bicarbonate to the normal range has not been demonstrated to reduce the risk of kidney failure", "lower thresholds to initiate therapy than 18 mmol/l could be considered".
 
 ---
 

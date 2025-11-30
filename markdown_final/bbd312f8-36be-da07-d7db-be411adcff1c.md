@@ -166,7 +166,7 @@ Sore throat, hoarseness, and dysphagia are known and recognized postoperative co
 
 ### Safely returning America to work: part I: general guidance for employers [^c2646242]. Journal of Occupational and Environmental Medicine (2020). High credibility.
 
-Symptoms and signs of COVID-19 illness — In symptomatic individuals, "Clinical signs usually begin within a week" and include "fever, cough, shortness of breath, fatigue, and muscle pain." Additional features are noted: "Sore throat, sputum production, headaches, and diarrhea occur in smaller percentages," and newly recognized symptoms include "chills, repeated shaking with chills, muscle pain, headache, sore throat, and new hypogeusia or ageusia as well as anosmia," with "Loss of taste and smell" reported in many patients.
+Symptoms and signs of COVID-19 illness — In symptomatic individuals, "Clinical signs usually begin within a week" and include "fever, cough, shortness of breath, fatigue, and muscle pain". Additional features are noted: "Sore throat, sputum production, headaches, and diarrhea occur in smaller percentages", and newly recognized symptoms include "chills, repeated shaking with chills, muscle pain, headache, sore throat, and new hypogeusia or ageusia as well as anosmia", with "Loss of taste and smell" reported in many patients.
 
 ---
 
@@ -356,7 +356,7 @@ Differential diagnosis of globus sensation in an otherwise asymptomatic patient 
 
 ### Global strategy for asthma management and prevention [^35adb233]. GINA (2024). High credibility.
 
-Global Strategy for Asthma Management and Prevention — differential diagnosis for suspected asthma varies with age, and the table specifies that "If the symptoms or signs below are present, consider… Condition." For 6–11 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing," inhaled foreign body for "Sudden onset of symptoms, unilateral wheeze," bronchiectasis for "Recurrent infections, productive cough," and cystic fibrosis for "Excessive cough and mucus production, gastrointestinal symptoms." For 12–39 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing," inducible laryngeal obstruction for "Dyspnea, inspiratory wheezing (stridor)," hyperventilation, dysfunctional breathing for "Dizziness, paresthesia, sighing," and bronchiectasis for "Productive cough, recurrent infections."
+Global Strategy for Asthma Management and Prevention — differential diagnosis for suspected asthma varies with age, and the table specifies that "If the symptoms or signs below are present, consider… Condition". For 6–11 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing", inhaled foreign body for "Sudden onset of symptoms, unilateral wheeze", bronchiectasis for "Recurrent infections, productive cough", and cystic fibrosis for "Excessive cough and mucus production, gastrointestinal symptoms". For 12–39 years, consider chronic upper airway cough syndrome for "Sneezing, itching, blocked nose, throat-clearing", inducible laryngeal obstruction for "Dyspnea, inspiratory wheezing (stridor)", hyperventilation, dysfunctional breathing for "Dizziness, paresthesia, sighing", and bronchiectasis for "Productive cough, recurrent infections".
 
 ---
 
@@ -410,7 +410,7 @@ AbstractMorning Report is a time-honored tradition where physicians-in-training 
 
 ### AGA clinical practice update on management of inflammatory bowel disease during the COVID-19 pandemic: expert commentary [^a5f2f201]. Gastroenterology (2020). High credibility.
 
-Symptoms and findings associated with COVID-19 — useful for triage in IBD care — are listed as "fever (83%–99%); cough (59%–82%); fatigue (44%–70%); anorexia (40%–84%); shortness of breath (31%–40%); sputum production (28%–33%); myalgias (11%–35%); headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea (< 10%); lymphopenia (83%)," and chest imaging may show "CT chest: bilateral, peripheral ground glass opacities."
+Symptoms and findings associated with COVID-19 — useful for triage in IBD care — are listed as "fever (83%–99%); cough (59%–82%); fatigue (44%–70%); anorexia (40%–84%); shortness of breath (31%–40%); sputum production (28%–33%); myalgias (11%–35%); headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea (< 10%); lymphopenia (83%)", and chest imaging may show "CT chest: bilateral, peripheral ground glass opacities".
 
 ---
 
@@ -422,7 +422,7 @@ The common cold and influenza (flu) are the most common syndromes of infection i
 
 ### AGA clinical practice update on the diagnosis and management of extraesophageal gastroesophageal reflux disease: expert review [^20b8d513]. Clinical Gastroenterology and Hepatology (2023). High credibility.
 
-Table 1 — Different postulated manifestations of extraesophageal reflux (EER) details laryngeal/ear, nose, and throat (ENT) symptoms ("Laryngitis/hoarseness," "Globus," "Mucus in throat," "Throat clearing," "Throat pain," "Sinus inflammation," "Post-nasal drip") with corresponding differential diagnoses ("Postnasal drip," "Laryngeal allergy," "Functional dysphonia," "Laryngeal papilloma," "Muscle tension dysphonia," "Vocal cord paralysis," "Vocal cord polyps," "Sinusitis (occult)," "Gastric inlet patch") and multidisciplinary teams ("Otolaryngology," "Gastroenterology," "Allergy/Immunology," "Speech pathology," "Behavioral psychology"); pulmonary manifestations ("Asthma," "Chronic cough," "Pulmonary fibrosis," "Allograft failure") with differentials ("Post-nasal drip," "Asthma," "Vocal cord dysfunction," "Medication reaction (ie, angiotensin converting enzyme inhibitors)," "Lung transplant rejection") and teams ("Pulmonology," "Otolaryngology," "Allergy/Immunology," "Gastroenterology," "Primary care"); and dentition findings ("Dental erosions," "Dental caries") with differentials ("Poor dietary habits (ie, acidic soft drinks, fruit juices)," "Eating disorders with regurgitation (bulimia)," "Xerostomia (Sjogren's)," "Environmental (ie, around acidic fumes)") and teams ("Dentistry," "Gastroenterology," "Nutrition," "Primary care," "Psychology"). Gastroenterologists are reminded that "Gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation."
+Table 1 — Different postulated manifestations of extraesophageal reflux (EER) details laryngeal/ear, nose, and throat (ENT) symptoms ("Laryngitis/hoarseness", "Globus", "Mucus in throat", "Throat clearing", "Throat pain", "Sinus inflammation", "Post-nasal drip") with corresponding differential diagnoses ("Postnasal drip", "Laryngeal allergy", "Functional dysphonia", "Laryngeal papilloma", "Muscle tension dysphonia", "Vocal cord paralysis", "Vocal cord polyps", "Sinusitis (occult)", "Gastric inlet patch") and multidisciplinary teams ("Otolaryngology", "Gastroenterology", "Allergy/Immunology", "Speech pathology", "Behavioral psychology"); pulmonary manifestations ("Asthma", "Chronic cough", "Pulmonary fibrosis", "Allograft failure") with differentials ("Post-nasal drip", "Asthma", "Vocal cord dysfunction", "Medication reaction (ie, angiotensin converting enzyme inhibitors)", "Lung transplant rejection") and teams ("Pulmonology", "Otolaryngology", "Allergy/Immunology", "Gastroenterology", "Primary care"); and dentition findings ("Dental erosions", "Dental caries") with differentials ("Poor dietary habits (ie, acidic soft drinks, fruit juices)", "Eating disorders with regurgitation (bulimia)", "Xerostomia (Sjogren's)", "Environmental (ie, around acidic fumes)") and teams ("Dentistry", "Gastroenterology", "Nutrition", "Primary care", "Psychology"). Gastroenterologists are reminded that "Gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation".
 
 ---
 
@@ -988,7 +988,7 @@ Antibiotics probably reduce the number of people experiencing sore throat, and r
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^ffa4dec7]. Chest (2016). Medium credibility.
 
-Table 3 (continued) — Vaezi et al/2006 study design and assessments: Inclusion specified " > 3 mo of LPR symptoms (throat clearing, cough, globus, sore throat, or hoarseness)." Treatment arms were "Esomeprazole 40 mg bid (n = 11) Placebo (n = 8) No mention of diet, lifestyle modifications." Cough-related measures used "Diaries: cough severity, prespecified criteria."
+Table 3 (continued) — Vaezi et al/2006 study design and assessments: Inclusion specified " > 3 mo of LPR symptoms (throat clearing, cough, globus, sore throat, or hoarseness)". Treatment arms were "Esomeprazole 40 mg bid (n = 11) Placebo (n = 8) No mention of diet, lifestyle modifications". Cough-related measures used "Diaries: cough severity, prespecified criteria".
 
 ---
 
@@ -1077,7 +1077,7 @@ AbstractMorning Report is a time-honored tradition where physicians-in-training 
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^8e61a160]. Chest (2016). Medium credibility.
 
-Table 3 (continued) — Steward et al/2004 study design and assessments: Inclusion required "Hoarseness, throat clearing, nonproductive cough, globus sensation, or sore throat > 4 wk and physical examination consistent with LPR (ie, edema, erythema, or pachydermia, or a combination)." Treatment arms were "Rabeprazole 20 mg bid and lifestyle modifications (avoid fatty meals, caffeine, alcohol, smoking, eating within 2 h of bedtime, HOB elevation (n = 21 ITT, 16 PP) Placebo and lifestyle modifications (n = 21 ITT, 14 PP)." Cough-related outcomes used the "Reflux Symptom Questionnaire component: Dry cough defined as more than 4×/d scored 0–4 for frequency and severity."
+Table 3 (continued) — Steward et al/2004 study design and assessments: Inclusion required "Hoarseness, throat clearing, nonproductive cough, globus sensation, or sore throat > 4 wk and physical examination consistent with LPR (ie, edema, erythema, or pachydermia, or a combination)". Treatment arms were "Rabeprazole 20 mg bid and lifestyle modifications (avoid fatty meals, caffeine, alcohol, smoking, eating within 2 h of bedtime, HOB elevation (n = 21 ITT, 16 PP) Placebo and lifestyle modifications (n = 21 ITT, 14 PP)". Cough-related outcomes used the "Reflux Symptom Questionnaire component: Dry cough defined as more than 4×/d scored 0–4 for frequency and severity".
 
 ---
 

@@ -521,7 +521,7 @@ Paediatric formulations of artemisinin combination therapies (ACTs) have recentl
 
 ### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^77c07ef8]. HIV.gov (2025). High credibility.
 
-Pediatric HIV malaria — managing treatment failure: "Failure of treatment for P. falciparum is uncommon in children who receive a full course of appropriate antimalarial therapy." Patients should be monitored for clinical and laboratory response with "thick and thin smear" and for signs of recrudescence after therapy completion. If failure occurs, "malaria speciation should be confirmed," along with where the infection was acquired, and "Retreatment with an appropriate first-line regimen (but not the same regimen as initially used) should be given." "Discussion with a Pediatric Infectious Disease specialist or consultation through the CDC malaria hotline is appropriate when complex situations arise."
+Pediatric HIV malaria — managing treatment failure: "Failure of treatment for P. falciparum is uncommon in children who receive a full course of appropriate antimalarial therapy". Patients should be monitored for clinical and laboratory response with "thick and thin smear" and for signs of recrudescence after therapy completion. If failure occurs, "malaria speciation should be confirmed", along with where the infection was acquired, and "Retreatment with an appropriate first-line regimen (but not the same regimen as initially used) should be given". "Discussion with a Pediatric Infectious Disease specialist or consultation through the CDC malaria hotline is appropriate when complex situations arise".
 
 ---
 
@@ -535,7 +535,7 @@ Malaria treatment, continued — weight-band tablet dosing is listed as follows:
 
 PEDIATRIC MALARIA TREATMENT WITH ARTEMETHER LUMEFANTRINE
 
-Lumefantrine concentrations and other measures of drug exposure are quite variable. Similar to PQ, lumefantrine exposure is predictive of treatment outcomes. Multiple studies have documented lower lumefantrine exposure in children and pregnant women compared with adults and, in some cases, these lower lumefantrine exposures have been linked to higher risks of recurrent infection after treatment with AL (Table 1)., The most comprehensive study on this topic, an individual patient data meta‐analysis conducted by WWARN, which included PK data from 4,122 participants including pregnant women, children, and nonpregnant adults from across multiple continents, reported that pregnant women and children < 25 kg had lower day 7 lumefantrine levels compared with nonpregnant adults. After allometrically scaling clearance and volume for weight, children < 15 kg had 24% lower day 7 lumefantrine levels compared with adults, and children 15–24 kg had 13% lower day 7 levels. As the investigators considered optimized AL regimens to improve lumefantrine exposure in children, it was noted that lumefantrine was associated with dose limited absorption, such that longer treatment courses rather than increased daily doses were predicted to improve lumefantrine exposure. This robust PK meta‐analysis led to recommendations to extend twice daily dosing for 5 days, which was predicted to better match the distribution of adult and pediatric day 7 concentrations. It also predicted that 75% of children would maintain lumefantrine concentrations over the 200 ng/mL previously recommended threshold.
+Lumefantrine concentrations and other measures of drug exposure are quite variable. Similar to PQ, lumefantrine exposure is predictive of treatment outcomes. Multiple studies have documented lower lumefantrine exposure in children and pregnant women compared with adults and, in some cases, these lower lumefantrine exposures have been linked to higher risks of recurrent infection after treatment with AL (Table 1). The most comprehensive study on this topic, an individual patient data meta‐analysis conducted by WWARN, which included PK data from 4,122 participants including pregnant women, children, and nonpregnant adults from across multiple continents, reported that pregnant women and children < 25 kg had lower day 7 lumefantrine levels compared with nonpregnant adults. After allometrically scaling clearance and volume for weight, children < 15 kg had 24% lower day 7 lumefantrine levels compared with adults, and children 15–24 kg had 13% lower day 7 levels. As the investigators considered optimized AL regimens to improve lumefantrine exposure in children, it was noted that lumefantrine was associated with dose limited absorption, such that longer treatment courses rather than increased daily doses were predicted to improve lumefantrine exposure. This robust PK meta‐analysis led to recommendations to extend twice daily dosing for 5 days, which was predicted to better match the distribution of adult and pediatric day 7 concentrations. It also predicted that 75% of children would maintain lumefantrine concentrations over the 200 ng/mL previously recommended threshold.
 
 ---
 
@@ -624,7 +624,7 @@ Two review authors independently reviewed the results of the literature search f
 
 ### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^379225bb]. HIV.gov (2025). High credibility.
 
-Pediatric HIV malaria — special populations: Because primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen, patients with prior Plasmodium vivax or Plasmodium ovale infection remain at risk of malaria "months to years after arrival in the United States." For refugees from sub-Saharan Africa who did not receive pre-departure therapy, "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended."
+Pediatric HIV malaria — special populations: Because primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen, patients with prior Plasmodium vivax or Plasmodium ovale infection remain at risk of malaria "months to years after arrival in the United States". For refugees from sub-Saharan Africa who did not receive pre-departure therapy, "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended".
 
 ---
 
@@ -778,7 +778,7 @@ Unknown species malaria — management in pediatric travelers — advises that c
 
 ### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^271c524c]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
-Special populations — Because "primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen," patients with prior "P. vivax or P. ovale infection in the past would be at continued risk of developing malaria months to years after arrival in the United States." "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended for refugees originating in sub-Saharan Africa who have not received pre-departure therapy with a recommended regimen."
+Special populations — Because "primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen", patients with prior "P. vivax or P. ovale infection in the past would be at continued risk of developing malaria months to years after arrival in the United States". "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended for refugees originating in sub-Saharan Africa who have not received pre-departure therapy with a recommended regimen".
 
 ---
 
@@ -822,7 +822,7 @@ Regarding medical management for malaria infection, more specifically with respe
 
 ### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^b136425d]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
-Malaria secondary prophylaxis for Plasmodium vivax or P. ovale uses primaquine 0.5 mg/kg base (0.8 mg/kg salt) up to adult dose, orally, daily for 14 days after departure from the malarious area; this regimen is "recommended only for individuals who have resided in a malaria-endemic area for an extended period of time," with adult dose 30 mg base (52.6 mg salt) orally, daily for 14 days after departure from the malarious area.
+Malaria secondary prophylaxis for Plasmodium vivax or P. ovale uses primaquine 0.5 mg/kg base (0.8 mg/kg salt) up to adult dose, orally, daily for 14 days after departure from the malarious area; this regimen is "recommended only for individuals who have resided in a malaria-endemic area for an extended period of time", with adult dose 30 mg base (52.6 mg salt) orally, daily for 14 days after departure from the malarious area.
 
 ---
 
@@ -866,7 +866,7 @@ PK/PD model‐informed dosing of antimalarials has become a valued tool for anti
 
 ### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^796d4919]. HIV.gov (2025). High credibility.
 
-Pediatric HIV malaria — preventing recurrence: "Except for re-activation of P. vivax and P. ovale hypnozoites, malaria once successfully treated does not recur, unless re-exposure and re-infection occur." Moreover, "One or even several episodes of malaria infection does not imply protective immunity, and continued exposure to malaria parasites can result in repeated infection, which should be treated as aggressively as the initial event."
+Pediatric HIV malaria — preventing recurrence: "Except for re-activation of P. vivax and P. ovale hypnozoites, malaria once successfully treated does not recur, unless re-exposure and re-infection occur". Moreover, "One or even several episodes of malaria infection does not imply protective immunity, and continued exposure to malaria parasites can result in repeated infection, which should be treated as aggressively as the initial event".
 
 ---
 
@@ -929,7 +929,7 @@ Malaria — prevention recommendations equivalence by HIV status: Recommendation
 
 ### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^6255b271]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
-Severe malaria — definition and clinical features — is defined as acute malaria "with signs of severity and/or evidence of vital organ dysfunction," most often caused by P. falciparum but also caused by P. vivax or mixed infections, and may include hyperparasitemia (> 5%) and severe anemia (hemoglobin < 7 g/dL) among other abnormalities.
+Severe malaria — definition and clinical features — is defined as acute malaria "with signs of severity and/or evidence of vital organ dysfunction", most often caused by P. falciparum but also caused by P. vivax or mixed infections, and may include hyperparasitemia (> 5%) and severe anemia (hemoglobin < 7 g/dL) among other abnormalities.
 
 ---
 

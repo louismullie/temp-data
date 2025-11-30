@@ -209,7 +209,7 @@ Anti-D immune globulin dosing — exposure coverage for prevention — is specif
 
 ### Practice bulletin no. 181: prevention of Rh D alloimmunization [^cbec2c0d]. Obstetrics and Gynecology (2017). Medium credibility.
 
-Prevention of Rh D alloimmunization — regional prevalence, disease burden without prophylaxis, and impact of immune globulin are detailed: prevalence of Rh D-negative individuals varies "from 5% in India to 15% in North America," and in countries without prophylaxis "14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury." The postpartum administration of Rh D immune globulin, "first introduced in the 1970s," "reduced the rate of alloimmunization in at-risk pregnancies from approximately 13–16% to approximately 0.5–1.8%," and "with the addition of routine antepartum administration" the risk "was further reduced to 0.14–0.2%." Despite efficacy, cases still occur "because of failure to follow established protocols."
+Prevention of Rh D alloimmunization — regional prevalence, disease burden without prophylaxis, and impact of immune globulin are detailed: prevalence of Rh D-negative individuals varies "from 5% in India to 15% in North America", and in countries without prophylaxis "14% of affected fetuses are stillborn and one half of live born infants suffer neonatal death or brain injury". The postpartum administration of Rh D immune globulin, "first introduced in the 1970s", "reduced the rate of alloimmunization in at-risk pregnancies from approximately 13–16% to approximately 0.5–1.8%", and "with the addition of routine antepartum administration" the risk "was further reduced to 0.14–0.2%". Despite efficacy, cases still occur "because of failure to follow established protocols".
 
 ---
 
@@ -417,14 +417,14 @@ None of the RhoGAM-treated subjects developed anti-D; 18/22 control arm subjects
 
 ---
 
-### package insert-RHOPHYLAC… [^672aa076]. FDA (2025). Medium credibility.
+### Package insert-RHOPHYLAC… [^672aa076]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE RHOPHYLAC is a Rh Immune Globulin Intravenous product that is indicated for the suppression of Rh isoimmunization in non-sensitized Rh-negative patients and for the treatment of immune thrombocytopenic purpura in Rh-positive patients.
 
 1. 1 Suppression of Rh Isoimmunization Pregnancy and Obstetric Conditions RHOPHYLAC is indicated for suppression of rhesus isoimmunization in non-sensitized Rh-negative women with an Rh-incompatible pregnancy, including:
 
 - Routine antepartum and postpartum Rh prophylaxis
-- Rh prophylaxis in cases of: RBCs; in this case, follow the dosing guidelines for excessive fetomaternal hemorrhage. any potential adverse effects on the breastfed child from RHOPHYLAC or from the underlying maternal condition.
+- **Rh prophylaxis in cases of**: RBCs; in this case, follow the dosing guidelines for excessive fetomaternal hemorrhage. any potential adverse effects on the breastfed child from RHOPHYLAC or from the underlying maternal condition.
 
 CSL Behring Rh0 Immune Globulin Intravenous, RHOPHYLAC CONFIDENTIAL Page 13 of 19 Suppression of Rh Isoimmunization RHOPHYLAC is used in nursing mothers for the suppression of Rh isoimmunization. CSL Behring Rh0 Immune Globulin Intravenous, RHOPHYLAC CONFIDENTIAL Page 15 of 19 Suppression of Rh Isoimmunization The mechanism by which Rh immune globulin suppresses immunization to Rh-positive. RBCs is not completely known. In a clinical study of Rh-negative healthy male volunteers, both the intravenous and intramuscular administration of a 1500 IU dose of RHOPHYLAC 24 hours after injection of 15 mL of Rh-positive RBCs resulted in an effective clearance of Rh-positive. thought to involve the formation of Rh immune globulin RBC complexes, which are preferentially removed by the reticuloendothelial system, particularly the spleen. This results in Fc receptor blockade, thus sparing antibody-coated platelets. 8 12.
 
@@ -446,7 +446,7 @@ Regarding the use of rho(D) immune globulin IM (also known as HyperRHO S/D) in p
 
 ### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^7412f560]. Annals of Emergency Medicine (2017). Medium credibility.
 
-Anti-D immunoglobulin prophylaxis — evidence in Rh-negative patients — lacks randomized trials in pregnant women but shows benefits in observational and experimental data. "The straightforward answer is that no randomized clinical trials to answer that question have been done on pregnant Rh-negative women." In volunteers, "Rh-negative male volunteers were injected with Rh-positive blood, which resulted in 50% immunization." In a Canadian study "of 1,216 Rh-negative patients… receiving anti-D immunoglobulin, there were no cases of immunization at 6 months postpartum," compared with "a 7.3% immunization rate in patients refusing treatment." In a combined Liverpool and Baltimore trial, "58% of patients were treated with anti-D immunoglobulin immediately postpartum and 50% were not," and "The treated patients had a 90% decrease in alloimmunization… when tested at 6 months postpartum." Population-level programs show impact: in the United Kingdom, introduction of "a postpartum rhesus prevention program… in 1969 reduced fetal mortality… from 120 per 100,000 live births to 1.5 per 100,000 by 1989," and "Introduction of antenatal prophylaxis at 28 and/or 34 weeks' gestation reduced the immunization rate another 90%."
+Anti-D immunoglobulin prophylaxis — evidence in Rh-negative patients — lacks randomized trials in pregnant women but shows benefits in observational and experimental data. "The straightforward answer is that no randomized clinical trials to answer that question have been done on pregnant Rh-negative women". In volunteers, "Rh-negative male volunteers were injected with Rh-positive blood, which resulted in 50% immunization". In a Canadian study "of 1,216 Rh-negative patients… receiving anti-D immunoglobulin, there were no cases of immunization at 6 months postpartum", compared with "a 7.3% immunization rate in patients refusing treatment". In a combined Liverpool and Baltimore trial, "58% of patients were treated with anti-D immunoglobulin immediately postpartum and 50% were not", and "The treated patients had a 90% decrease in alloimmunization… when tested at 6 months postpartum". Population-level programs show impact: in the United Kingdom, introduction of "a postpartum rhesus prevention program… in 1969 reduced fetal mortality… from 120 per 100,000 live births to 1.5 per 100,000 by 1989", and "Introduction of antenatal prophylaxis at 28 and/or 34 weeks' gestation reduced the immunization rate another 90%".
 
 ---
 
@@ -476,7 +476,7 @@ Invasive diagnostic procedures — administration of Rh D immune globulin is rec
 
 ### Society of Family Planning committee consensus on Rh testing in early pregnancy [^fc739723]. Contraception (2022). High credibility.
 
-Existing recommendations for Rh immunoglobulin after miscarriage are summarized from a cited review. The text notes a "2013 Cochrane review assessing the effects of Rh immunoglobulin administration among patients undergoing spontaneous abortion (miscarriage) between 8 to 24 weeks gestation" that concluded there is "Insufficient data to evaluate the practice of anti-D administration in an unsensitised Rh-negative mother after spontaneous miscarriage."
+Existing recommendations for Rh immunoglobulin after miscarriage are summarized from a cited review. The text notes a "2013 Cochrane review assessing the effects of Rh immunoglobulin administration among patients undergoing spontaneous abortion (miscarriage) between 8 to 24 weeks gestation" that concluded there is "Insufficient data to evaluate the practice of anti-D administration in an unsensitised Rh-negative mother after spontaneous miscarriage".
 
 ---
 

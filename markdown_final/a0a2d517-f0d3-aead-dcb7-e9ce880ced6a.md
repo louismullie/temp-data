@@ -1311,7 +1311,7 @@ Canagliflozin was not mutagenic with or without metabolic activation in the Ames
 
 ### Pharmacologic approaches to glycemic treatment: standards of care in diabetes – 2025 [^152cf993]. Diabetes Care (2025). High credibility.
 
-Sodium–glucose cotransporter 2 (SGLT2) inhibitors — oral agents for type 2 diabetes — are characterized by "Intermediate to high" glucose-lowering efficacy, show cardiovascular and kidney "Benefit; canagliflozin, dapagliflozin, empagliflozin," and include the dosing instruction to "See labels of individual agents for dosage considerations for kidney function."
+Sodium–glucose cotransporter 2 (SGLT2) inhibitors — oral agents for type 2 diabetes — are characterized by "Intermediate to high" glucose-lowering efficacy, show cardiovascular and kidney "Benefit; canagliflozin, dapagliflozin, empagliflozin", and include the dosing instruction to "See labels of individual agents for dosage considerations for kidney function".
 
 ---
 

@@ -367,7 +367,7 @@ Normal subjects presented with a middle number and two left- and right-sided out
 
 ### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^6517cbfd]. Annals of the American Thoracic Society (2023). High credibility.
 
-Basic stereological measurements — first-order parameters and probes identify that "First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D])." Measurements "are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D)." These probes create countable events in the image, and "Raw counts provide ratios… that are multiplied by the reference space volume to obtain absolute measures for the lung or subcompartment."
+Basic stereological measurements — first-order parameters and probes identify that "First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D])". Measurements "are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D)". These probes create countable events in the image, and "Raw counts provide ratios… that are multiplied by the reference space volume to obtain absolute measures for the lung or subcompartment".
 
 ---
 
@@ -485,7 +485,7 @@ XOLREMDI causes QTc interval prolongation [see Clinical Pharmacology (12.2)]. Co
 
 ### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^79b1194c]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
-Echocardiographic assessment of right atrial (RA) size — volume by 2D describes that "2D volumetric measurements are usually based on tracings of the blood-tissue interface on the apical four-chamber view" and that "At the tricuspid valve level, the contour is closed by connecting the two opposite sections of the tricuspid ring with a straight line." It adds, "Volumes can be computed by using either the single plane area-length" or "the disks summation technique," performed in a "2D view." The listed advantage is "More representative of actual RA size than linear dimensions," while limitations include "Assumes a symmetrical shape of the cavity," "Single plane volume calculation may be inaccurate since it assumes that RA enlargement is symmetrical," and "Normal values not well established."
+Echocardiographic assessment of right atrial (RA) size — volume by 2D describes that "2D volumetric measurements are usually based on tracings of the blood-tissue interface on the apical four-chamber view" and that "At the tricuspid valve level, the contour is closed by connecting the two opposite sections of the tricuspid ring with a straight line". It adds, "Volumes can be computed by using either the single plane area-length" or "the disks summation technique", performed in a "2D view". The listed advantage is "More representative of actual RA size than linear dimensions", while limitations include "Assumes a symmetrical shape of the cavity", "Single plane volume calculation may be inaccurate since it assumes that RA enlargement is symmetrical", and "Normal values not well established".
 
 ---
 
@@ -874,7 +874,7 @@ The adaptation trial sequence is depicted in Fig. 1a. On each trial, subjects we
 
 ### Guidelines for the use of echocardiography as a monitor for therapeutic intervention in adults: a report from the American Society of Echocardiography [^0bd98e75]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
-Prosthetic valve thrombolysis monitoring — echocardiographic thresholds and response assessment: "Both TTE and TEE have been used to detect prosthetic valve thrombosis and monitor therapy effectiveness," and "Fibrinolytic therapy is recommended if left-sided prosthetic valve thrombus area (planimetered on a 2D image) is < 0.8 cm^2, with serial Doppler echocardiographic monitoring of mean gradients across the valve to assess effectiveness of either fibrinolytic or unfractionated heparin treatment." "A significant reduction in the transvalvular gradient at 24 hours is indicative of effective therapy," and "both are equally effective at monitoring for reductions in transvalvular gradients."
+Prosthetic valve thrombolysis monitoring — echocardiographic thresholds and response assessment: "Both TTE and TEE have been used to detect prosthetic valve thrombosis and monitor therapy effectiveness", and "Fibrinolytic therapy is recommended if left-sided prosthetic valve thrombus area (planimetered on a 2D image) is < 0.8 cm^2, with serial Doppler echocardiographic monitoring of mean gradients across the valve to assess effectiveness of either fibrinolytic or unfractionated heparin treatment". "A significant reduction in the transvalvular gradient at 24 hours is indicative of effective therapy", and "both are equally effective at monitoring for reductions in transvalvular gradients".
 
 ---
 

@@ -88,32 +88,32 @@ Guselkumab is **approved for every-4-week maintenance dosing only in Crohn's dis
 ### Guselkumab SC dosing for crohn's disease [^5ed00de0]. FDA (2025). Medium credibility.
 
 Treatment of Crohn's disease in adults (moderate-to-severe)
-- Start at: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
-- Maintenance: 100 mg SC q8 weeks, starting from week 16
+- **Start at**: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
+- **Maintenance**: 100 mg SC q8 weeks, starting from week 16
 
 ---
 
 ### Guselkumab SC dosing for plaque psoriasis [^a8be5660]. FDA (2025). Medium credibility.
 
 Treatment of plaque psoriasis in adults (moderate-to-severe, eligible for systemic therapy or phototherapy)
-- Start at: 100 mg SC q4 weeks at weeks 0 and 4
-- Maintenance: 100 mg SC q8 weeks
+- **Start at**: 100 mg SC q4 weeks at weeks 0 and 4
+- **Maintenance**: 100 mg SC q8 weeks
 
 ---
 
 ### Guselkumab SC dosing for psoriatic arthritis [^45461fd0]. FDA (2025). Medium credibility.
 
 Treatment of psoriatic arthritis in adults (active)
-- Start at: 100 mg SC q4 weeks at weeks 0 and 4
-- Maintenance: 100 mg SC q8 weeks
+- **Start at**: 100 mg SC q4 weeks at weeks 0 and 4
+- **Maintenance**: 100 mg SC q8 weeks
 
 ---
 
 ### Guselkumab SC dosing for ulcerative colitis [^4afa9800]. FDA (2025). Medium credibility.
 
 Treatment of ulcerative colitis in adults (moderate-to-severe)
-- Start at: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
-- Maintenance: 100 mg SC q8 weeks, starting from week 16
+- **Start at**: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
+- **Maintenance**: 100 mg SC q8 weeks, starting from week 16
 
 ---
 
@@ -496,11 +496,11 @@ The pivotal Phase 3 VOYAGE 1 and VOYAGE 2 studies established the robust efficac
 
 Methods
 
-Patients were randomized to guselkumab 100 mg every 8 weeks, placebo with week 16 crossover to guselkumab, or adalimumab with week 52 crossover to guselkumab (VOYAGE 1) or week 28–76 randomized withdrawal/re-treatment (VOYAGE 2); all patients then received open-label guselkumab through week 252. These post hoc analyses evaluated the Investigator&rsquo; s Global Assessment of cleared/minimal (IGA 0/1) and Psoriasis Area and Severity Index (PASI) 90 responses from week 100–252 by baseline PASI (<20/&ge;20), IGA (= 3/ = 4), body surface area (BSA; <20%/&ge;20%), and prior psoriasis treatments. Analyses used observed data after applying treatment failure rules.
+Patients were randomized to guselkumab 100 mg every 8 weeks, placebo with week 16 crossover to guselkumab, or adalimumab with week 52 crossover to guselkumab (VOYAGE 1) or week 28–76 randomized withdrawal/re-treatment (VOYAGE 2); all patients then received open-label guselkumab through week 252. These post hoc analyses evaluated the Investigator&rsquo; s Global Assessment of cleared/minimal (IGA 0/1) and Psoriasis Area and Severity Index (PASI) 90 responses from week 100–252 by baseline PASI (< 20/&ge;20), IGA (= 3/ = 4), body surface area (BSA; < 20%/&ge;20%), and prior psoriasis treatments. Analyses used observed data after applying treatment failure rules.
 
 Results
 
-At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI <20 vs &ge;20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA <20% vs &ge;20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
+At all assessment timepoints from weeks 100–252, response rates were similar by baseline PASI < 20 vs &ge;20 (IGA 0/1: 82.0%-85.4% vs 81.1%-81.4%; PASI 90: 78.6%-81.1% vs 81.4%-83.8%), IGA = 3 vs = 4 (IGA 0/1: 82.7%-85.4% vs 77.6%-79.0%; PASI 90: 79.1%-82.7% vs 79.7%-82.9%), BSA < 20% vs &ge;20% (IGA 0/1: 82.5%-86.2% vs 81.1%-82.6%; PASI 90: 80.4%-82.7% vs 79.1%-82.0%), prior phototherapy no vs yes (IGA 0/1: 81.7%-84.3% vs 81.5%-83.8%; PASI 90: 82.2%-84.0% vs 77.5%-81.1%), prior nonbiologic use no vs yes (IGA 0/1: 81.1%-84.5% vs 81.9%-84.1%; PASI 90: 80.9%-83.0% vs 79.0%-82.0%), and prior biologic use no vs yes (IGA 0/1: 83.2%-85.3% vs 75.3%-79.5%; PASI 90: 82.2%-83.8% vs 71.2%-76.3%).
 
 Conclusions
 

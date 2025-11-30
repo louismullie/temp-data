@@ -651,7 +651,7 @@ It is confirmed that whether to stop the use of immunosuppressants or not in IBD
 
 ### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of Clostridioides difficile infection [^6fc90925]. Diseases of the Colon and Rectum (2021). High credibility.
 
-Surgical therapy for C difficile colitis — the guideline states, "Surgery for C difficile colitis should typically be reserved for patients with colonic perforation or severe colitis who do not improve with medical therapy. Grade of recommendation: Strong recommendation based on low-quality evidence, 1C."
+Surgical therapy for C difficile colitis — the guideline states, "Surgery for C difficile colitis should typically be reserved for patients with colonic perforation or severe colitis who do not improve with medical therapy. Grade of recommendation: Strong recommendation based on low-quality evidence, 1C".
 
 ---
 
@@ -695,7 +695,7 @@ WARNINGS
 
 Pseudomembranous colitis has been reported with nearly all antibacterial agents, including erythromycin, and may range in severity from mild to life-threatening. Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis."
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis".
 
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated. Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone. In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
 

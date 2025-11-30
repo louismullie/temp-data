@@ -191,7 +191,7 @@ To review literature and present a schematic approach to hypophosphatasia (HPP) 
 
 Methods
 
-Studies were obtained from online databases PubMed and MEDLINE using keyword 'hypophosphatasia'.
+Studies were obtained from online databases PubMed and MEDLINE using keyword 'hypophosphatasia'.
 Results
 
 HPP is a rare disease characterized by low serum alkaline phosphatase along with diverse musculoskeletal symptoms that mimic different disorders. To date, the prevalence of HPP and its impact on adults has been unrecognized. There is lack of evidence from larger and long-term studies examining the adult type of this condition.
@@ -225,12 +225,12 @@ KEY GUIDANCE
 GRADEd Recommendations
 
 Development: Developed following a structured approach Treatment Recommendations: Based on systematic reviews. Monitoring Recommendations: Based on an expert clinical practice survey (very low-quality evidence).
-Expression of Recommendations: Strong Recommendations: expressed as " We recommend. " Strong: When the panel was confident that the desirable effects of the intervention outweighed the undesirable ones. Weak/Conditional Recommendations: Expressed as " We suggest." Weak: Attributed either to low certainty evidence or to a close balance between the desirable and undesirable effects. Conditional: When the panel concluded that the desirable effects of the intervention probably outweigh the undesirable effects, though there is some uncertainty.
+Expression of Recommendations: Strong Recommendations: expressed as " We recommend. " Strong: When the panel was confident that the desirable effects of the intervention outweighed the undesirable ones. Weak/Conditional Recommendations: Expressed as " We suggest". Weak: Attributed either to low certainty evidence or to a close balance between the desirable and undesirable effects. Conditional: When the panel concluded that the desirable effects of the intervention probably outweigh the undesirable effects, though there is some uncertainty.
 
 Non-GRADEd Recommendations
 
 Development: Based on a narrative review for questions where there was not sufficient evidence to conduct systematic reviews.
-Expression of Recommendations: Expressed as " The panel proposes."
+Expression of Recommendations: Expressed as " The panel proposes".
 
 Consensus Development
 
@@ -406,7 +406,7 @@ To help harmonize nomenclature, raise awareness, and guide clinical decision mak
 
 While we acknowledge the difficulties in defining chronic hypophosphatemia, we propose the following definition may be used in children and adults:
 
-"At least three consecutive, morning fasting serum phosphate readings below the lower limit of normal (LLN) for healthy age‐ and sex‐matched reference ranges, taken at least 3 months apart (eg, 0, 3, and 6 months)."
+"At least three consecutive, morning fasting serum phosphate readings below the lower limit of normal (LLN) for healthy age‐ and sex‐matched reference ranges, taken at least 3 months apart (eg, 0, 3, and 6 months)".
 
 However, we emphasize the importance of using clinical judgment when managing patients with hypophosphatemia. Further investigations and management should be considered without delay when there is suspicion of an underlying condition that may require earlier intervention, if severe hypophosphatemia is identified (eg, serum phosphate in adults < 0.3 mmol/L), if hypophosphatemia is associated with severe symptoms or in patients with a known genetic risk (eg, a mother with XLH) and causes of acute hypophosphatemia have been excluded. In children beyond perinatal age, the first measurement of low phosphate should prompt additional investigations. In such situations, serum phosphate measurement should be repeated as soon as possible, and treatment should be initiated promptly, without the need to formally define hypophosphatemia as a chronic condition. In all cases of chronic hypophosphatemia, it is crucial to determine the underlying cause because some disorders (eg, TIO) may require extensive diagnostic investigations and surgical treatment, whereas others may need lifelong therapy and follow‐up (eg, XLH).
 
@@ -653,7 +653,7 @@ Prevention, treatment and supportive care of periodontitis in adult patients sho
 
 ### Monitoring guidance for patients with hypophosphatasia treated with asfotase alfa [^206d107e]. Molecular Genetics and Metabolism (2017). Medium credibility.
 
-Management of perceived treatment failure — "The panel recommends additional assessments for identifying a lack of improvement or treatment failure in patients receiving asfotase alfa." The page specifies timing benchmarks such as "For infants who do not exhibit skeletal improvement after 3 to 6 months of treatment (or in children after 6–9 months)".
+Management of perceived treatment failure — "The panel recommends additional assessments for identifying a lack of improvement or treatment failure in patients receiving asfotase alfa". The page specifies timing benchmarks such as "For infants who do not exhibit skeletal improvement after 3 to 6 months of treatment (or in children after 6–9 months)".
 
 ---
 
@@ -776,7 +776,7 @@ Hypophosphatasia (HPP) is a group of inherited disorders characterised by the im
 
 ABSTRACT
 
-Because of their rarity, diseases characterized by chronic hypophosphatemia can be underrecognized and suboptimally managed, resulting in poor clinical outcomes. Moreover, serum phosphate may not be measured routinely in primary care practice. Authors participated in several working sessions to advance the understanding of phosphate homeostasis and the causes, consequences, and clinical implications of chronic hypophosphatemia. Phosphate levels are regulated from birth to adulthood. Dysregulation of phosphate homeostasis can result in hypophosphatemia, which becomes chronic if phosphate levels cannot be normalized. Chronic hypophosphatemia may be underrecognized as serum phosphate measurement is not always part of routine analysis in the primary care setting and results might be misinterpreted, for instance, due to age‐specific differences not being accounted for and circadian variations. Clinical consequences of chronic hypophosphatemia involve disordered endocrine regulation, affect multiple organ systems, and vary depending on patient age and the underlying disorder. Signs and symptoms of chronic hypophosphatemic diseases that manifest during childhood or adolescence persist into adulthood if the disease is inadequately managed, resulting in an accumulation of clinical deficits and a progressive, debilitating impact on quality of life. Early identification and diagnosis of patients with chronic hypophosphatemia is crucial, and clinical management should be started as soon as possible to maximize the likelihood of improving health outcomes. Furthermore, in the absence of a universally accepted description for "chronic hypophosphatemia," a definition is proposed here that aims to raise awareness of these diseases, facilitate diagnosis, and guide optimal phosphate management strategies by improving monitoring and assessment of patient response to treatment. © 2021 The Authors. Journal of Bone and Mineral Research published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research (ASBMR).
+Because of their rarity, diseases characterized by chronic hypophosphatemia can be underrecognized and suboptimally managed, resulting in poor clinical outcomes. Moreover, serum phosphate may not be measured routinely in primary care practice. Authors participated in several working sessions to advance the understanding of phosphate homeostasis and the causes, consequences, and clinical implications of chronic hypophosphatemia. Phosphate levels are regulated from birth to adulthood. Dysregulation of phosphate homeostasis can result in hypophosphatemia, which becomes chronic if phosphate levels cannot be normalized. Chronic hypophosphatemia may be underrecognized as serum phosphate measurement is not always part of routine analysis in the primary care setting and results might be misinterpreted, for instance, due to age‐specific differences not being accounted for and circadian variations. Clinical consequences of chronic hypophosphatemia involve disordered endocrine regulation, affect multiple organ systems, and vary depending on patient age and the underlying disorder. Signs and symptoms of chronic hypophosphatemic diseases that manifest during childhood or adolescence persist into adulthood if the disease is inadequately managed, resulting in an accumulation of clinical deficits and a progressive, debilitating impact on quality of life. Early identification and diagnosis of patients with chronic hypophosphatemia is crucial, and clinical management should be started as soon as possible to maximize the likelihood of improving health outcomes. Furthermore, in the absence of a universally accepted description for "chronic hypophosphatemia", a definition is proposed here that aims to raise awareness of these diseases, facilitate diagnosis, and guide optimal phosphate management strategies by improving monitoring and assessment of patient response to treatment. © 2021 The Authors. Journal of Bone and Mineral Research published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research (ASBMR).
 
 ---
 

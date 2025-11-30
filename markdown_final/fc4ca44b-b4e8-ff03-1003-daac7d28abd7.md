@@ -383,7 +383,7 @@ R1 ↑↑ Discuss and evaluate vulvovaginal manifestations of EB, where appropri
 
 A.1 Access to diagnostics, genetic counselling and prenatal testing
 
-R2 ↑↑ Offer standard preconception care to women with EB, and provide access to genetic counselling where available. Depending on the inheritance pattern (autosomal recessive, autosomal dominant) the risk assessment for the pregnancy can be estimated and prenatal testing offered., Couples at reproductive risk of severe forms of EB may wish to pursue prenatal or preimplantation genetic testing, accounting for family preferences, religious/cultural beliefs and national regulations. Carrier screening of an unaffected and unrelated partner may be offered according to the individual situation and national regulations, after genetic counselling.
+R2 ↑↑ Offer standard preconception care to women with EB, and provide access to genetic counselling where available. Depending on the inheritance pattern (autosomal recessive, autosomal dominant) the risk assessment for the pregnancy can be estimated and prenatal testing offered. Couples at reproductive risk of severe forms of EB may wish to pursue prenatal or preimplantation genetic testing, accounting for family preferences, religious/cultural beliefs and national regulations. Carrier screening of an unaffected and unrelated partner may be offered according to the individual situation and national regulations, after genetic counselling.
 
 ---
 
@@ -649,7 +649,7 @@ There is consensus among guidelines on certain sexual health recommendations, wi
 
 ### Diagnosis and management of vulvar skin disorders: ACOG practice bulletin, number 224 [^6eacf468]. Obstetrics and Gynecology (2020). High credibility.
 
-Patient counseling for prevention and control of vulvar disorders — behavioral care instructions: Box 3 lists the following directives verbatim for patients — "Avoid vulvar irritants and allergens. Use mild soaps, but avoid use on the vulva. Cleanse the vulva with water only. Gently pat the vulva dry after bathing. Apply preservative-free, unscented or fragrance-free emollient to hold moisture in the skin and improve barrier function. Use PeriCare bottle to rinse after urination. Use 100% cotton, unscented or fragrance-free menstrual pads. Use adequate lubrication for intercourse (unscented or fragrance-free silicone-based lubricants recommended)."
+Patient counseling for prevention and control of vulvar disorders — behavioral care instructions: Box 3 lists the following directives verbatim for patients — "Avoid vulvar irritants and allergens. Use mild soaps, but avoid use on the vulva. Cleanse the vulva with water only. Gently pat the vulva dry after bathing. Apply preservative-free, unscented or fragrance-free emollient to hold moisture in the skin and improve barrier function. Use PeriCare bottle to rinse after urination. Use 100% cotton, unscented or fragrance-free menstrual pads. Use adequate lubrication for intercourse (unscented or fragrance-free silicone-based lubricants recommended)".
 
 ---
 
@@ -1051,7 +1051,7 @@ Clinicians can resolve many distressing genitourinary symptoms and improve sexua
 
 ### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^1c9e1aa8]. Obstetrics and Gynecology (2021). High credibility.
 
-Nonhormonal treatment options for urogenital symptoms — formulations and dosing are presented as follows: Water-, silicone-, and polycarbophil-based lubricants are available with dosing to "See product labeling." Moisturizers include hyaluronic acid, polyacrylic acid, and a polycarbophil-based vaginal moisturizer with regimens of "5 mg daily for 2 weeks, then 3–5 times per week," "3 g daily," and "2.5 g 3 times/week," respectively. Vaginal suppositories include Vitamin E "30–200 international units" and Vitamin D "1,000 international units." For topical anesthesia, "4% aqueous lidocaine" is applied using a "Fully saturated cotton ball applied to the vulvar vestibule for 3 minutes."
+Nonhormonal treatment options for urogenital symptoms — formulations and dosing are presented as follows: Water-, silicone-, and polycarbophil-based lubricants are available with dosing to "See product labeling". Moisturizers include hyaluronic acid, polyacrylic acid, and a polycarbophil-based vaginal moisturizer with regimens of "5 mg daily for 2 weeks, then 3–5 times per week", "3 g daily", and "2.5 g 3 times/week", respectively. Vaginal suppositories include Vitamin E "30–200 international units" and Vitamin D "1,000 international units". For topical anesthesia, "4% aqueous lidocaine" is applied using a "Fully saturated cotton ball applied to the vulvar vestibule for 3 minutes".
 
 ---
 
@@ -1175,6 +1175,6 @@ Efficacy considerations timeframes — Thirteen statements achieved consensus, w
 
 Out of six women, four commented on the answer options for question 1 in the sexual domain. They felt that the option "sometimes" was missing for the question about vaginal lubrication. To avoid changes in the scoring system, "usually" was added to the wording of the question.
 
-Regarding question 2 in the sexual domain, a question about vaginal sensation during intercourse, women commented that option 1, "feel a lot," can also mean "feel a lot of pain," which corresponds to option 4, "feel pain." The wording was changed to "normal/pleasant," which also matches the wording in the Australian Pelvic Floor Questionnaire.
+Regarding question 2 in the sexual domain, a question about vaginal sensation during intercourse, women commented that option 1, "feel a lot", can also mean "feel a lot of pain", which corresponds to option 4, "feel pain". The wording was changed to "normal/pleasant", which also matches the wording in the Australian Pelvic Floor Questionnaire.
 
 ---

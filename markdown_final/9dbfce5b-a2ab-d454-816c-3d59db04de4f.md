@@ -533,7 +533,7 @@ Congenital thrombotic thrombocytopenic purpura (cTTP) is an ultra-rare thrombomi
 
 Key Points
 
-- Three distinct entities of pregnancy-onset TTP are singled out: iTTP, uTTP, and cTTP, with fetal outcome closely linked to gestational age.
+- **Three distinct entities of pregnancy-onset TTP are singled out**: iTTP, uTTP, and cTTP, with fetal outcome closely linked to gestational age.
 - In the context of pregnancy, most iTTP and uTTP are shown to have an open ADAMTS13 conformation at acute phase.
 
 ---

@@ -235,7 +235,7 @@ Patients diagnosed with chronic-phase CML today may be reassured, with our curre
 
 ### CML and the WHO: why? [^a02d9657]. ASCO (2024). Medium credibility.
 
-With TKI therapy and careful disease monitoring, the incidence of progression to advanced phase disease has decreased, and the 10-year overall survival rate for CML is 80%-90%. The designation of AP has thus become less relevant, where resistance stemming from ABL1 kinase mutations and/or additional cytogenetic abnormalities and the development of BP represent key disease attributes. Accordingly, AP is omitted in the current classification in favor of an emphasis on high-risk features associated with CP progression and resistance to TKIs. ". Modifying the criteria for AP does not pose a problem; in fact it is expected when new therapies are introduced that transform the landscape as dramatically as imatinib did for CML. However, as practicing oncologists who see patients with CML, we have to consider the clinical utility of the term AP and whether deleting it from the current WHO classification solves or creates a problem.
+With TKI therapy and careful disease monitoring, the incidence of progression to advanced phase disease has decreased, and the 10-year overall survival rate for CML is 80%-90%. The designation of AP has thus become less relevant, where resistance stemming from ABL1 kinase mutations and/or additional cytogenetic abnormalities and the development of BP represent key disease attributes. Accordingly, AP is omitted in the current classification in favor of an emphasis on high-risk features associated with CP progression and resistance to TKIs". Modifying the criteria for AP does not pose a problem; in fact it is expected when new therapies are introduced that transform the landscape as dramatically as imatinib did for CML. However, as practicing oncologists who see patients with CML, we have to consider the clinical utility of the term AP and whether deleting it from the current WHO classification solves or creates a problem.
 
 Imatinib shifted the treatment paradigm, produced previously inconceivable responses that expanded our CML lexicon, and led to a completely new set of response criteria such as major molecular response, deep molecular response, and treatment-free remission. From the formal definition of these response criteria, identification of new risk factors emerged such as lack of early molecular response after 3 months of TKI therapy and loss of molecular response at any time, which have proven to be extremely useful to the clinician. For example, a patient in AP at diagnosis should be started on therapy with a second-generation TKI rather than imatinib, and the US Food and Drug Administration–approved dose for this phase is different than the CP dose for some of the TKIs. A different scenario is the patient who is already on a second. -generation TKI but progresses to AP; this patient should be given ponatinib or asciminib. In this instance, stem-cell transplantation could also be considered.
 
@@ -271,7 +271,7 @@ Management of chronic phase chronic myeloid leukemia (CP-CML) — first-line tyr
 
 ### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^63301a54]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
-Primary treatment of newly diagnosed chronic phase chronic myeloid leukemia (CP-CML) is summarized from randomized phase III data: "all TKIs are highly effective as primary treatment for patients with newly diagnosed CP-CML, with long-term OS expected to be similar to that of aged-matched controls; 2) 2G TKIs (bosutinib, dasatinib and nilotinib) and allosteric TKI (asciminib; STAMP [specifically targeting the ABL myristoyl pocket] inhibitor), generally result in faster cytogenetic and molecular responses, with less progression to advanced phase CML, compared to imatinib; and 3) in randomized clinical trials, as of yet, there are no significant differences in OS between imatinib and a 2G TKI or asciminib." Regarding generics, "Generic versions have been shown to be noninferior to innovator drugs in terms of efficacy with an acceptable toxicity profile," thus "FDA-approved generic versions are appropriate substitutes for innovator drugs," and "Innovator and generic drugs approved by the regulatory authorities based on pharmacokinetic equivalence can be used interchangeably."
+Primary treatment of newly diagnosed chronic phase chronic myeloid leukemia (CP-CML) is summarized from randomized phase III data: "all TKIs are highly effective as primary treatment for patients with newly diagnosed CP-CML, with long-term OS expected to be similar to that of aged-matched controls; 2) 2G TKIs (bosutinib, dasatinib and nilotinib) and allosteric TKI (asciminib; STAMP [specifically targeting the ABL myristoyl pocket] inhibitor), generally result in faster cytogenetic and molecular responses, with less progression to advanced phase CML, compared to imatinib; and 3) in randomized clinical trials, as of yet, there are no significant differences in OS between imatinib and a 2G TKI or asciminib". Regarding generics, "Generic versions have been shown to be noninferior to innovator drugs in terms of efficacy with an acceptable toxicity profile", thus "FDA-approved generic versions are appropriate substitutes for innovator drugs", and "Innovator and generic drugs approved by the regulatory authorities based on pharmacokinetic equivalence can be used interchangeably".
 
 ---
 
@@ -619,7 +619,7 @@ Imatinib is broadly used in the frontline treatment of chronic myeloid leukemia 
 
 ### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^f8484a59]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
-NCCN CML — Mutation-directed recommendations update states that bullet 3 now adds: "Select BCR::ABL1 kinase domain mutations may be more sensitive to certain TKIs based on the IC50 values. See Discussion."
+NCCN CML — Mutation-directed recommendations update states that bullet 3 now adds: "Select BCR::ABL1 kinase domain mutations may be more sensitive to certain TKIs based on the IC50 values. See Discussion".
 
 ---
 
@@ -802,7 +802,7 @@ Chronic phase chronic myeloid leukemia (CML) — dose minimization and de-escala
 
 ### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^5b045019]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
-NCCN CML — Response optimization notes that "Switching from imatinib to a 2G TKI or allosteric TKI may improves response" and that "The side effect profile of alternative TKIs may differ."
+NCCN CML — Response optimization notes that "Switching from imatinib to a 2G TKI or allosteric TKI may improves response" and that "The side effect profile of alternative TKIs may differ".
 
 ---
 

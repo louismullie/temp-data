@@ -121,7 +121,7 @@ CHEST guideline — Subacute cough algorithm: In patients ≥ 15 years of age wi
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^9b6d8093]. Chest (2016). Medium credibility.
 
-PICO question #2 — minimal clinical criteria for predicting response of chronic cough to GER therapy — asks whether administering a clinical assessment algorithm can identify adults with more than an 8-wk history of refractory chronic cough likely to respond to GER-directed therapy, compared with similar patients not meeting the designated clinical criteria, with the outcome defined as differential reduction or remission of cough according to whether patients meet the designated "minimal clinical criteria."
+PICO question #2 — minimal clinical criteria for predicting response of chronic cough to GER therapy — asks whether administering a clinical assessment algorithm can identify adults with more than an 8-wk history of refractory chronic cough likely to respond to GER-directed therapy, compared with similar patients not meeting the designated clinical criteria, with the outcome defined as differential reduction or remission of cough according to whether patients meet the designated "minimal clinical criteria".
 
 ---
 
@@ -153,7 +153,7 @@ A 39-year-old man who did not smoke was admitted to the hospital with recurrent 
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^21b96dce]. Chest (2016). Medium credibility.
 
-Reflux-cough syndrome — initial management in adults specifies: "In adult patients with chronic cough suspected to be due to reflux-cough syndrome, we recommend that treatment include (1) diet modification to promote weight loss in overweight or obese patients; (2) head of bed elevation and avoiding meals within 3 hours of bedtime; and (3) in patients who report heartburn and regurgitation, PPIs, H2- receptor antagonists, alginate, or antacid therapy sufficient to control these symptoms (Grade 1C)." Remarks note expected time course and positional therapy: "While it is expected that GI symptoms will respond within 4–8 weeks, the literature suggests that improvement in cough may take up to 3 months." and that "Head of bed elevation is suggested… while acknowledging that it has not been demonstrated to be beneficial for cough."
+Reflux-cough syndrome — initial management in adults specifies: "In adult patients with chronic cough suspected to be due to reflux-cough syndrome, we recommend that treatment include (1) diet modification to promote weight loss in overweight or obese patients; (2) head of bed elevation and avoiding meals within 3 hours of bedtime; and (3) in patients who report heartburn and regurgitation, PPIs, H2- receptor antagonists, alginate, or antacid therapy sufficient to control these symptoms (Grade 1C)". Remarks note expected time course and positional therapy: "While it is expected that GI symptoms will respond within 4–8 weeks, the literature suggests that improvement in cough may take up to 3 months". and that "Head of bed elevation is suggested… while acknowledging that it has not been demonstrated to be beneficial for cough".
 
 ---
 
@@ -193,7 +193,7 @@ Catheter-based pH monitoring — limitations for laryngopharyngeal reflux (LPR) 
 
 ### Extraesophageal symptoms and diseases attributed to GERD: where is the pendulum swinging now? [^3cb9c01f]. Clinical Gastroenterology and Hepatology (2018). Medium credibility.
 
-Chronic cough and reflux therapy — treatment patterns note that "those with chronic cough are often treated with PPI therapy based on earlier studies suggesting that GERD is the third most common cause of chronic cough."
+Chronic cough and reflux therapy — treatment patterns note that "those with chronic cough are often treated with PPI therapy based on earlier studies suggesting that GERD is the third most common cause of chronic cough".
 
 ---
 
@@ -217,7 +217,7 @@ Regarding medical management for chronic cough, more specifically with respect t
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^d04e5b88]. Chest (2016). Medium credibility.
 
-Reflux-cough syndrome without typical reflux symptoms — PPI monotherapy: "In adult patients with suspected chronic cough due to reflux-cough syndrome, but without heartburn or regurgitation, we recommend against using PPI therapy alone because it is unlikely to be effective in resolving the cough (Grade 1C)."
+Reflux-cough syndrome without typical reflux symptoms — PPI monotherapy: "In adult patients with suspected chronic cough due to reflux-cough syndrome, but without heartburn or regurgitation, we recommend against using PPI therapy alone because it is unlikely to be effective in resolving the cough (Grade 1C)".
 
 ---
 
@@ -240,13 +240,13 @@ A 35-Year-Old Man with Chronic Cough and DyspneaA 35-year-old man presented for 
 
 ### ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease [^b039fd45]. The American Journal of Gastroenterology (2022). High credibility.
 
-Extraesophageal GERD symptoms — symptom epidemiology shows overlapping complaints and variable attribution. "In a US survey study, 26% of patients reported both GERD and laryngeal symptoms." Among those with both, "38% reported voice disorders and 44% had occasional breathing difficulties." Attribution of cough to reflux varies: "Some studies have suggested that chronic cough may be due to GERD in 21%–41% of cases."
+Extraesophageal GERD symptoms — symptom epidemiology shows overlapping complaints and variable attribution. "In a US survey study, 26% of patients reported both GERD and laryngeal symptoms". Among those with both, "38% reported voice disorders and 44% had occasional breathing difficulties". Attribution of cough to reflux varies: "Some studies have suggested that chronic cough may be due to GERD in 21%–41% of cases".
 
 ---
 
 ### ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease [^2208d403]. The American Journal of Gastroenterology (2022). High credibility.
 
-Histamine-2 receptor antagonist (H2RA) at bedtime — For persistent nocturnal symptoms on PPI therapy, "use of a bedtime H2RA may be beneficial if dosed on an as-needed basis" and for those with "objective evidence of nocturnal acid reflux on pH monitoring despite PPI treatment," though tachyphylaxis has been observed with "loss of pH control… after a month of bedtime H2RA therapy."
+Histamine-2 receptor antagonist (H2RA) at bedtime — For persistent nocturnal symptoms on PPI therapy, "use of a bedtime H2RA may be beneficial if dosed on an as-needed basis" and for those with "objective evidence of nocturnal acid reflux on pH monitoring despite PPI treatment", though tachyphylaxis has been observed with "loss of pH control… after a month of bedtime H2RA therapy".
 
 ---
 
@@ -258,13 +258,13 @@ Extraesophageal reflux — medical therapy and empiric PPI approach — shows mi
 
 ### ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease [^71f88051]. The American Journal of Gastroenterology (2022). High credibility.
 
-Extraesophageal GERD symptoms — key concepts and testing steps highlight limits of diagnostics and preferred sequencing. "Although GERD may be a contributor to extraesophageal symptoms in some patients, careful evaluation for other causes should be considered for patients with laryngeal symptoms, chronic cough, and asthma." "Diagnosis, evaluation, and management of potential extraesophageal symptoms of GERD is limited by lack of a gold-standard test, variable symptoms, and other disorders which may cause similar symptoms." Noninvasive biomarkers lack utility: "salivary pepsin testing is not recommended for evaluation of patients with extraesophageal reflux symptoms." After failed empiric therapy, escalation is specified: "For patients whose extraesophageal symptoms have not responded to a trial of twice-daily PPIs, we recommend upper endoscopy, ideally off PPIs for 2–4 weeks. If endoscopy is normal, consider reflux monitoring." Routine proximal pH testing is discouraged: "For patients with extraesophageal symptoms, we do not routinely recommend oropharyngeal or pharyngeal pH monitoring."
+Extraesophageal GERD symptoms — key concepts and testing steps highlight limits of diagnostics and preferred sequencing. "Although GERD may be a contributor to extraesophageal symptoms in some patients, careful evaluation for other causes should be considered for patients with laryngeal symptoms, chronic cough, and asthma". "Diagnosis, evaluation, and management of potential extraesophageal symptoms of GERD is limited by lack of a gold-standard test, variable symptoms, and other disorders which may cause similar symptoms". Noninvasive biomarkers lack utility: "salivary pepsin testing is not recommended for evaluation of patients with extraesophageal reflux symptoms". After failed empiric therapy, escalation is specified: "For patients whose extraesophageal symptoms have not responded to a trial of twice-daily PPIs, we recommend upper endoscopy, ideally off PPIs for 2–4 weeks. If endoscopy is normal, consider reflux monitoring". Routine proximal pH testing is discouraged: "For patients with extraesophageal symptoms, we do not routinely recommend oropharyngeal or pharyngeal pH monitoring".
 
 ---
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^59b5c1f9]. Chest (2016). Medium credibility.
 
-Reflux-cough syndrome clinical profile performance — following "the approach advocated in the 2006 ACCP cough guideline of predicting reflux-cough syndrome by a clinical profile aimed at excluding other potential chronic cough causes," the profile "was estimated to be 91% predictive that a patient's cough would respond to antireflux treatment, even when there were no GI symptoms," while "the literature on reflux-cough syndrome can be characterized as having a major internal contradiction."
+Reflux-cough syndrome clinical profile performance — following "the approach advocated in the 2006 ACCP cough guideline of predicting reflux-cough syndrome by a clinical profile aimed at excluding other potential chronic cough causes", the profile "was estimated to be 91% predictive that a patient's cough would respond to antireflux treatment, even when there were no GI symptoms", while "the literature on reflux-cough syndrome can be characterized as having a major internal contradiction".
 
 ---
 
@@ -276,7 +276,7 @@ Chronic cough due to gastroesophageal reflux in adults — evidence summary indi
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^97b48bd4]. Chest (2016). Medium credibility.
 
-Chronic cough due to gastroesophageal reflux — surgery not advised with motility disorder or normal acid exposure: In adult patients with chronic cough and a major motility disorder and/or normal distal esophageal acid exposure, "we suggest not advising antireflux surgery (Grade 2C)." The remarks state that under these circumstances "there is no supportive controlled data for antireflux surgery and there is quantifiable risk to the procedure, making for an unacceptable risk-benefit ratio."
+Chronic cough due to gastroesophageal reflux — surgery not advised with motility disorder or normal acid exposure: In adult patients with chronic cough and a major motility disorder and/or normal distal esophageal acid exposure, "we suggest not advising antireflux surgery (Grade 2C)". The remarks state that under these circumstances "there is no supportive controlled data for antireflux surgery and there is quantifiable risk to the procedure, making for an unacceptable risk-benefit ratio".
 
 ---
 
@@ -383,7 +383,7 @@ Symptomatic gastroesophageal reflux disease (GERD) is a common problem that affe
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^efc220fe]. Chest (2016). Medium credibility.
 
-Systematic review methods — searches of "electronic databases (Ovid Medline, and EMBASE) commencing from the earliest available date until May 2015," found that "a search of the Cochrane database returned 82 articles, eight of which were sufficiently relevant for full text review; however, none met criteria for inclusion in this review," with screening in which "the titles and abstracts of the search results were independently evaluated by two reviewers… A third reviewer was available to adjudicate any disagreements."
+Systematic review methods — searches of "electronic databases (Ovid Medline, and EMBASE) commencing from the earliest available date until May 2015", found that "a search of the Cochrane database returned 82 articles, eight of which were sufficiently relevant for full text review; however, none met criteria for inclusion in this review", with screening in which "the titles and abstracts of the search results were independently evaluated by two reviewers… A third reviewer was available to adjudicate any disagreements".
 
 ---
 
@@ -433,13 +433,13 @@ Extraesophageal GERD — although GERD may be a contributor to extraesophageal s
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^7b7a2748]. Chest (2016). Medium credibility.
 
-Gastroesophageal reflux disease (GERD) and chronic cough in adults — symptom specificity is limited and associations vary across populations. No symptom, including heartburn, is 100% specific for GERD. In a population-based survey of 2,200 residents, frequent heartburn occurred in 18% and, among these, 14% also endorsed "bronchitis." Primary care data showed patients with a new diagnosis of GERD had higher odds of later cough (OR, 1.7; CI, 1.4–2.1) within the next 12 months. A cross-sectional survey of 4,003 residents found 12% reported chronic cough and regurgitation predicted cough (OR, 1.71; 99% CI, 1.20–2.45). Across specialty cough clinics, reflux contributed to 0% to 41% of cases. GERD may be "silent" from a GI perspective in up to 75% of cases, and during reflux monitoring approximately half of unselected chronic cough patients show a positive association between cough and acid or weakly acidic reflux events. Compounding the problem, the efficacy of PPI therapy for resolving GERD symptoms is substantially less than it is for healing esophagitis, and much less for atypical symptoms than it is for heartburn; moreover, a recent Cochrane review found insufficient evidence to conclude that PPI treatment is beneficial in treating nonspecific chronic cough.
+Gastroesophageal reflux disease (GERD) and chronic cough in adults — symptom specificity is limited and associations vary across populations. No symptom, including heartburn, is 100% specific for GERD. In a population-based survey of 2,200 residents, frequent heartburn occurred in 18% and, among these, 14% also endorsed "bronchitis". Primary care data showed patients with a new diagnosis of GERD had higher odds of later cough (OR, 1.7; CI, 1.4–2.1) within the next 12 months. A cross-sectional survey of 4,003 residents found 12% reported chronic cough and regurgitation predicted cough (OR, 1.71; 99% CI, 1.20–2.45). Across specialty cough clinics, reflux contributed to 0% to 41% of cases. GERD may be "silent" from a GI perspective in up to 75% of cases, and during reflux monitoring approximately half of unselected chronic cough patients show a positive association between cough and acid or weakly acidic reflux events. Compounding the problem, the efficacy of PPI therapy for resolving GERD symptoms is substantially less than it is for healing esophagitis, and much less for atypical symptoms than it is for heartburn; moreover, a recent Cochrane review found insufficient evidence to conclude that PPI treatment is beneficial in treating nonspecific chronic cough.
 
 ---
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^6e7a3513]. Chest (2016). Medium credibility.
 
-Recommendation development — using a structured consensus-based Delphi approach, approval required that "75% of the eligible panel members had to vote, and 80% of those voting had to strongly agree or agree with the statement," with grading that considered "the balance of benefits to harms, patient values and preferences, and the quality of the evidence supporting the recommendation," and that "accounted for risks and burdens to the patients that can include convenience or lack of convenience, difficulty of administration, and invasiveness."
+Recommendation development — using a structured consensus-based Delphi approach, approval required that "75% of the eligible panel members had to vote, and 80% of those voting had to strongly agree or agree with the statement", with grading that considered "the balance of benefits to harms, patient values and preferences, and the quality of the evidence supporting the recommendation", and that "accounted for risks and burdens to the patients that can include convenience or lack of convenience, difficulty of administration, and invasiveness".
 
 ---
 
@@ -475,7 +475,7 @@ Ambulatory reflux monitoring can be performed with either a telemetry capsule to
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^ae9b2e46]. Chest (2016). Medium credibility.
 
-Chronic cough — Ribeiro et al. 2006 general clinic cohort using a modified ACCP algorithm included "147 consecutive patients with CC with nl chest radiograph in general respiratory clinic," with reflux therapy specified as "dietary measures to reduce weight, postural measures, and omeprazole 40 mg twice daily for at least 12 wk (uncontrolled)." Outcomes showed "Successful response to treatment in 135 of 142 patients (92%); 121 patients had a single cause, 14 patients had 2 or 3 causes," and "GERD was the primary cause in 13 patients (9%) and was clinically "silent" in 4 of them," with Risk of Bias "High risk of bias" for "Absence of an unexposed cohort."
+Chronic cough — Ribeiro et al. 2006 general clinic cohort using a modified ACCP algorithm included "147 consecutive patients with CC with nl chest radiograph in general respiratory clinic", with reflux therapy specified as "dietary measures to reduce weight, postural measures, and omeprazole 40 mg twice daily for at least 12 wk (uncontrolled)". Outcomes showed "Successful response to treatment in 135 of 142 patients (92%); 121 patients had a single cause, 14 patients had 2 or 3 causes", and "GERD was the primary cause in 13 patients (9%) and was clinically "silent" in 4 of them", with Risk of Bias "High risk of bias" for "Absence of an unexposed cohort".
 
 ---
 
@@ -574,7 +574,7 @@ From a symptom research standpoint, much has been learned about the management o
 
 ### Chronic cough and gastroesophageal reflux in children: CHEST guideline and expert panel report [^f0b64cb6]. Chest (2019). High credibility.
 
-Qualitative data from systematic reviews and guidelines report the following. For children aged " ≤ 14-years" with chronic cough, "we recommend basing the management or testing algorithm on cough characteristics and the associated clinical history. No specific recommendation for children with cough and GERD but it is implied that GERD on its own should be treated." One review stated "Anti-GER medications should not be routinely used for treatment of poorly controlled asthma, chronic cough and laryngitis" and added, "If these medications are used, and there is no response, rather than escalating therapy uncritically, a second specialist opinion is recommended." A systematic review that included "23 RCTs" noted, "Ten studies failed to demonstrate significant benefits of proton pump inhibitors or histamine H2 receptor antagonists" for infant manifestations attributed to reflux and concluded they "may be used to treat children with gastroesophageal reflux disease, but not to treat asthma or unspecific symptoms."
+Qualitative data from systematic reviews and guidelines report the following. For children aged " ≤ 14-years" with chronic cough, "we recommend basing the management or testing algorithm on cough characteristics and the associated clinical history. No specific recommendation for children with cough and GERD but it is implied that GERD on its own should be treated". One review stated "Anti-GER medications should not be routinely used for treatment of poorly controlled asthma, chronic cough and laryngitis" and added, "If these medications are used, and there is no response, rather than escalating therapy uncritically, a second specialist opinion is recommended". A systematic review that included "23 RCTs" noted, "Ten studies failed to demonstrate significant benefits of proton pump inhibitors or histamine H2 receptor antagonists" for infant manifestations attributed to reflux and concluded they "may be used to treat children with gastroesophageal reflux disease, but not to treat asthma or unspecific symptoms".
 
 ---
 
@@ -690,7 +690,7 @@ When used in conjunction with lifestyle modifications, these agents are associat
 
 ### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^94a36c10]. Chest (2016). Medium credibility.
 
-Quality assessment — "for the randomized controlled trials (RCTs), quality assessment was carried out with the Cochrane Risk of Bias Tool" if criteria were met including "(1) study excluded other common causes of chronic cough… and (2) included patients both with and without additional symptoms of GERD or laryngopharyngeal reflux (LPR)… or included patients with and without additional test results suggestive of GERD or LPR," and "for observational studies, quality assessment was done with the Cochrane Risk of Bias Tool for cohort studies."
+Quality assessment — "for the randomized controlled trials (RCTs), quality assessment was carried out with the Cochrane Risk of Bias Tool" if criteria were met including "(1) study excluded other common causes of chronic cough… and (2) included patients both with and without additional symptoms of GERD or laryngopharyngeal reflux (LPR)… or included patients with and without additional test results suggestive of GERD or LPR", and "for observational studies, quality assessment was done with the Cochrane Risk of Bias Tool for cohort studies".
 
 ---
 
@@ -748,7 +748,7 @@ Chronic cough that cannot be explained after basic evaluation is a common reason
 
 ### ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease [^aaae962a]. The American Journal of Gastroenterology (2022). High credibility.
 
-ACG Clinical Guideline — Key concept for diagnostic testing specifies: "We do not recommend high-resolution manometry (HRM) solely as a diagnostic test for GERD."
+ACG Clinical Guideline — Key concept for diagnostic testing specifies: "We do not recommend high-resolution manometry (HRM) solely as a diagnostic test for GERD".
 
 ---
 
@@ -801,7 +801,7 @@ In contrast, GERD subjects with nocturnal symptoms had significantly more impair
 
 ### Extraesophageal symptoms and diseases attributed to GERD: where is the pendulum swinging now? [^2d62fc06]. Clinical Gastroenterology and Hepatology (2018). Medium credibility.
 
-Lifestyle modification for extraesophageal reflux — targeted nonpharmacologic measures are limited but include that "a prudent recommendation is to use head-of-bed elevation only in patients who have concomitant regurgitation or nocturnal heartburn," and "Avoiding trigger foods may be recommended only if patients report symptom relief." The page notes that lifestyle measures are of limited benefit overall, yet "especially in those with nocturnal heartburn and regurgitation who are overweight or obese, implementation of a weight loss program is effective in treating esophageal acid exposure," while "the role of weight loss in improving or alleviating specifically extraesophageal symptoms awaits future evidence."
+Lifestyle modification for extraesophageal reflux — targeted nonpharmacologic measures are limited but include that "a prudent recommendation is to use head-of-bed elevation only in patients who have concomitant regurgitation or nocturnal heartburn", and "Avoiding trigger foods may be recommended only if patients report symptom relief". The page notes that lifestyle measures are of limited benefit overall, yet "especially in those with nocturnal heartburn and regurgitation who are overweight or obese, implementation of a weight loss program is effective in treating esophageal acid exposure", while "the role of weight loss in improving or alleviating specifically extraesophageal symptoms awaits future evidence".
 
 ---
 

@@ -115,8 +115,8 @@ When penicillin is ineffective or contraindicated for actinomycosis, **doxycycli
 ### Doxycycline monohydrate PO dosing for actinomycosis [^d3e57e99]. FDA (2025). Medium credibility.
 
 Treatment of actinomycosis in adults, if penicillins are ineffective or contraindicated
-- Start at: 200 mg PO daily, in 2–4 divided doses, on day 1
-- Maintenance: 100 mg PO daily, in 1–2 divided doses
+- **Start at**: 200 mg PO daily, in 2–4 divided doses, on day 1
+- **Maintenance**: 100 mg PO daily, in 1–2 divided doses
 
 ---
 
@@ -665,7 +665,7 @@ Table V — Clinical questions (CQ4) on combination therapy for actinic keratosi
 
 ### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^84eccb37]. Clinical Infectious Diseases (2016). Medium credibility.
 
-IDSA coccidioidomycosis guideline — scope and organization outlines sections covering selection for testing and evaluation, routine management without overt immunosuppression, management in special‑risk populations, and preemptive strategies, and it notes limited sections without actionable directives. It specifies "There are no explicit recommendations in this section" for the testing/evaluation section and that the preemptive strategies section "contains no explicit recommendations other than the text itself."
+IDSA coccidioidomycosis guideline — scope and organization outlines sections covering selection for testing and evaluation, routine management without overt immunosuppression, management in special‑risk populations, and preemptive strategies, and it notes limited sections without actionable directives. It specifies "There are no explicit recommendations in this section" for the testing/evaluation section and that the preemptive strategies section "contains no explicit recommendations other than the text itself".
 
 ---
 
@@ -924,7 +924,7 @@ HSCT or solid organ transplant recipients after initial treatment of active cocc
 
 ### 2015 Infectious Diseases Society of America (IDSA) clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults [^7e371e61]. Clinical Infectious Diseases (2015). Medium credibility.
 
-IDSA grading of recommendations and evidence — overview of categories: Table 1 outlines a matrix with column headers including "Clarity of Balance Between Desirable and Undesirable Effects" and "Methodological Quality of Supporting Evidence (Examples)," with examples such as "Consistent evidence from well-performed RCTs or exceptionally strong evidence from unbiased observational studies." Listed categories are "Strong recommendation, high-quality evidence," "Strong recommendation, moderate-quality evidence," "Strong recommendation, low-quality evidence," "Strong recommendation, very-low-quality evidence (very rarely applicable)," "Weak recommendation, high-quality evidence," "Weak recommendation, moderate-quality evidence," "Weak recommendation, low-quality evidence," and "Weak recommendation, very low-quality evidence."
+IDSA grading of recommendations and evidence — overview of categories: Table 1 outlines a matrix with column headers including "Clarity of Balance Between Desirable and Undesirable Effects" and "Methodological Quality of Supporting Evidence (Examples)", with examples such as "Consistent evidence from well-performed RCTs or exceptionally strong evidence from unbiased observational studies". Listed categories are "Strong recommendation, high-quality evidence", "Strong recommendation, moderate-quality evidence", "Strong recommendation, low-quality evidence", "Strong recommendation, very-low-quality evidence (very rarely applicable)", "Weak recommendation, high-quality evidence", "Weak recommendation, moderate-quality evidence", "Weak recommendation, low-quality evidence", and "Weak recommendation, very low-quality evidence".
 
 ---
 

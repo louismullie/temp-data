@@ -312,7 +312,7 @@ Antibiotics for OME: A 2012 Cochrane review of 23 studies showed a small benefit
 
 ### Clinical practice guideline: otitis media with effusion (update) [^4dcc69bc]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
-Outcome assessment in otitis media with effusion (OME) — Statement 13 specifies documentation priorities. "When managing a child with OME, clinicians should document in the medical record resolution of OME, improved hearing, or improved QOL." This is a "Recommendation based on randomized trials and cohort studies with a preponderance of benefit over harm."
+Outcome assessment in otitis media with effusion (OME) — Statement 13 specifies documentation priorities. "When managing a child with OME, clinicians should document in the medical record resolution of OME, improved hearing, or improved QOL". This is a "Recommendation based on randomized trials and cohort studies with a preponderance of benefit over harm".
 
 ---
 
@@ -475,7 +475,7 @@ Data were analysed according to a pre-determined plan. We used the outcome in th
 
 ### Clinical practice guideline: otitis media with effusion (update) [^b4b972e8]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
-Action statement profile for Statements 8a, 8b, and 8c — medical therapy for otitis media with effusion: The quality improvement opportunity is to "Discourage medical therapy that does not affect long-term outcomes for OME… but does have significant cost and potential adverse events." Evidence is "Grade A, systematic review of well-designed RCTs," with "Level of confidence in the evidence: High." Benefits include "Avoid side effects and reduce cost by not administering medications; avoid delays in definitive therapy…; avoid social impact of inappropriate antibiotic prescribing on bacterial resistance and transmission of resistant pathogens." The assessment shows "Preponderance of benefit over harm (in recommending against therapy)," "Risks, harms, costs: None," "Role of patient preferences: Small," "Exceptions: Patients in whom any of these medications are indicated for primary management of a coexisting condition with OME," and "Policy level: Strong recommendation (against therapy)."
+Action statement profile for Statements 8a, 8b, and 8c — medical therapy for otitis media with effusion: The quality improvement opportunity is to "Discourage medical therapy that does not affect long-term outcomes for OME… but does have significant cost and potential adverse events". Evidence is "Grade A, systematic review of well-designed RCTs", with "Level of confidence in the evidence: High". Benefits include "Avoid side effects and reduce cost by not administering medications; avoid delays in definitive therapy…; avoid social impact of inappropriate antibiotic prescribing on bacterial resistance and transmission of resistant pathogens". The assessment shows "Preponderance of benefit over harm (in recommending against therapy)", "Risks, harms, costs: None", "Role of patient preferences: Small", "Exceptions: Patients in whom any of these medications are indicated for primary management of a coexisting condition with OME", and "Policy level: Strong recommendation (against therapy)".
 
 ---
 
@@ -591,7 +591,7 @@ Otitis media with effusion guideline update — systematic literature search and
 
 ### Clinical practice guideline: otitis media with effusion (update) [^a97748ce]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
-Clinical practice guideline purpose — the document notes that the "high prevalence of OME" with diagnostic, developmental, and management challenges "makes OME an important condition for up-to-date clinical practice guidelines," and states the purpose is "to identify quality improvement opportunities in managing OME and to create explicit and actionable recommendations to implement these opportunities in clinical practice."
+Clinical practice guideline purpose — the document notes that the "high prevalence of OME" with diagnostic, developmental, and management challenges "makes OME an important condition for up-to-date clinical practice guidelines", and states the purpose is "to identify quality improvement opportunities in managing OME and to create explicit and actionable recommendations to implement these opportunities in clinical practice".
 
 ---
 
@@ -603,7 +603,7 @@ Otitis media with effusion (OME) — medication-related research priorities emph
 
 ### Clinical practice guideline: otitis media with effusion (update) [^f3520268]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
-Otitis media with effusion (OME) management — topical intranasal steroids and antireflux medications: The guideline notes these are perceived as relatively common interventions "despite a lack of evidence for their efficacy," and states, "We recommend explicitly against using these for a primary indication of OME," emphasizing avoidance of "costly, ineffective, and potentially harmful care."
+Otitis media with effusion (OME) management — topical intranasal steroids and antireflux medications: The guideline notes these are perceived as relatively common interventions "despite a lack of evidence for their efficacy", and states, "We recommend explicitly against using these for a primary indication of OME", emphasizing avoidance of "costly, ineffective, and potentially harmful care".
 
 ---
 

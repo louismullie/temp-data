@@ -194,7 +194,7 @@ Implementation guidance
 
 Clinician's Summary:
 
-In individuals aged 4 years and older, the preferred Step 3 (low-dose ICS) and Step 4 (medium-dose ICS) therapy is single-inhaler ICS-formoterol both daily and as needed. In the literature, inhaled ICS-formoterol is referred to as "single maintenance and reliever therapy (SMART)." This form of therapy has only been used with formoterol as the LABA. Formoterol has a rapid onset and a maximum total daily dose that allows it to be used more than twice daily. The maximum total daily dose of formoterol should not exceed 8 puffs (36 μg) for ages4 to11 years and12puffs (54 μg) for ages12 years and above. SMART is administered with a single inhaler containing both formoterol and an ICS (primarily budesonide in the reviewed studies, but one study used beclomethasone). The regimens compared to address this key question required two inhalers: the controller (ICS or ICS-LABA) and the reliever (SABA). The recommended alternate therapy of maintenance ICS-LABA with SABA as quick-relief therapy does not need to be changed if it is providing adequate control. However, patients whose asthma is uncontrolled on such therapy should receive the preferred SMART if possible before moving to a higher step of therapy.
+In individuals aged 4 years and older, the preferred Step 3 (low-dose ICS) and Step 4 (medium-dose ICS) therapy is single-inhaler ICS-formoterol both daily and as needed. In the literature, inhaled ICS-formoterol is referred to as "single maintenance and reliever therapy (SMART)". This form of therapy has only been used with formoterol as the LABA. Formoterol has a rapid onset and a maximum total daily dose that allows it to be used more than twice daily. The maximum total daily dose of formoterol should not exceed 8 puffs (36 μg) for ages4 to11 years and12puffs (54 μg) for ages12 years and above. SMART is administered with a single inhaler containing both formoterol and an ICS (primarily budesonide in the reviewed studies, but one study used beclomethasone). The regimens compared to address this key question required two inhalers: the controller (ICS or ICS-LABA) and the reliever (SABA). The recommended alternate therapy of maintenance ICS-LABA with SABA as quick-relief therapy does not need to be changed if it is providing adequate control. However, patients whose asthma is uncontrolled on such therapy should receive the preferred SMART if possible before moving to a higher step of therapy.
 
 ---
 
@@ -310,7 +310,7 @@ Definitions of terms used in this section
 
 "Quick-relief" therapy refers to medications (eg, an inhaled SABA) used to treat acute symptoms or exacerbations. In this section, "as-needed" dosing (eg, of a SABA) is intermittent and is based on the patient's decision (Figs 2–4).
 
-The definitions of "low-," "medium-," and "high-dose" ICS are based on the recommendations from EPR-3.
+The definitions of "low-", "medium-", and "high-dose" ICS are based on the recommendations from EPR-3.
 
 The term "puff" refers to a single actuation and inhalation of a medication delivered through any type of inhaler.
 
@@ -509,7 +509,7 @@ The Global Initiative for Asthma (GINA) was established in 1993 by the World Hea
 
 ### Global strategy for asthma management and prevention [^936ff7d0]. GINA (2024). High credibility.
 
-Step 4 — Continue controller treatment and refer for expert assessment — when the Step 3 approach of doubling the initial dose of inhaled corticosteroid (ICS) fails to achieve and maintain good asthma control, the guideline states to "carefully reassess inhaler technique and medication adherence," address environmental factors, and reconsider the diagnosis; as "the best treatment for this population has not been established," "options to consider, with specialist advice, are" to further increase the dose of ICS "for a few weeks," add leukotriene receptor antagonist (LTRA) with counseling on neuropsychiatric adverse effects, add long-acting beta agonist (LABA) in combination with ICS based on data "in children ≥ 4 years of age," add "a low dose of oral corticosteroid (for a few weeks only)," or add "intermittent high-dose ICS at onset of respiratory illnesses" when exacerbations are the main problem, with monitoring for side-effects and re-evaluating the need for additional controller treatment at each visit.
+Step 4 — Continue controller treatment and refer for expert assessment — when the Step 3 approach of doubling the initial dose of inhaled corticosteroid (ICS) fails to achieve and maintain good asthma control, the guideline states to "carefully reassess inhaler technique and medication adherence", address environmental factors, and reconsider the diagnosis; as "the best treatment for this population has not been established", "options to consider, with specialist advice, are" to further increase the dose of ICS "for a few weeks", add leukotriene receptor antagonist (LTRA) with counseling on neuropsychiatric adverse effects, add long-acting beta agonist (LABA) in combination with ICS based on data "in children ≥ 4 years of age", add "a low dose of oral corticosteroid (for a few weeks only)", or add "intermittent high-dose ICS at onset of respiratory illnesses" when exacerbations are the main problem, with monitoring for side-effects and re-evaluating the need for additional controller treatment at each visit.
 
 ---
 
@@ -584,7 +584,7 @@ ICS/rapid-onset LABA controller/reliever — systematic review and metanalysis r
 
 ### 2020 focused updates to the asthma management guidelines: a Report from the national asthma education and prevention program coordinating committee expert panel working group [^4424a2cc]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
 
-Asthma management — Recommendation 16 (LAMA as add-on to ICS-LABA): For "LAMA as an add-on to ICS-LABA," the comparator listed is "Same-dose ICS-LABA as controller therapy*," and the recommendation states "16: Conditional, in favor of the intervention."
+Asthma management — Recommendation 16 (LAMA as add-on to ICS-LABA): For "LAMA as an add-on to ICS-LABA", the comparator listed is "Same-dose ICS-LABA as controller therapy", and the recommendation states "16: Conditional, in favor of the intervention".
 
 ---
 
@@ -644,7 +644,7 @@ Inhaled corticosteroid (ICS)/long-acting beta agonist (LABA) prescribing and dev
 
 ### VA / DoD clinical practice guideline for the primary care management of asthma [^f25b5823]. DoD/VA (2025). High credibility.
 
-VA/DoD asthma CPG — pharmacotherapy research priorities state that "future research should focus on comparative efficacy trials of head-to-head active medications versus placebo," and include studying the "efficacy and safety of long-term" inhaled corticosteroid/long-acting beta agonist (ICS/LABA) therapy in adults and children, clarifying how to escalate "from a low dose ICS/LABA through high dose ICS/LABA" and then add a long-acting muscarinic antagonist (LAMA) in uncontrolled asthma, evaluating ICS/LABA as "control/reliever therapy in the pediatric population," assessing addition of "vitamin D3" to an ICS regimen "compared to ICS alone" to reduce exacerbations, conducting studies that satisfy Food and Drug Administration (FDA) requirements for formal approval of "combination ICS and formoterol as a combined controller and reliever therapy," investigating ICS/rapid‑onset LABA combinations using agents "other than formoterol," and focusing on co-occurring conditions including gastroesophageal reflux disease (GERD) and obesity and the "safety of de-escalating GERD therapy."
+VA/DoD asthma CPG — pharmacotherapy research priorities state that "future research should focus on comparative efficacy trials of head-to-head active medications versus placebo", and include studying the "efficacy and safety of long-term" inhaled corticosteroid/long-acting beta agonist (ICS/LABA) therapy in adults and children, clarifying how to escalate "from a low dose ICS/LABA through high dose ICS/LABA" and then add a long-acting muscarinic antagonist (LAMA) in uncontrolled asthma, evaluating ICS/LABA as "control/reliever therapy in the pediatric population", assessing addition of "vitamin D3" to an ICS regimen "compared to ICS alone" to reduce exacerbations, conducting studies that satisfy Food and Drug Administration (FDA) requirements for formal approval of "combination ICS and formoterol as a combined controller and reliever therapy", investigating ICS/rapid‑onset LABA combinations using agents "other than formoterol", and focusing on co-occurring conditions including gastroesophageal reflux disease (GERD) and obesity and the "safety of de-escalating GERD therapy".
 
 ---
 
@@ -803,7 +803,7 @@ Asthma is a common chronic disease that affects both adults and children, and th
 
 ### Global strategy for asthma management and prevention [^9811d218]. GINA (2024). High credibility.
 
-Global Strategy for Asthma Management and Prevention — ideally, interventions should be applied at the level of both the patient and the healthcare provider and, where relevant, the health system; examples of high‑impact strategies include "Free inhaled corticosteroids (ICS) for patients with a recent hospital admission and/or severe asthma," "Early treatment with ICS, guided self-management, reduction in exposure to tobacco smoke, improved access to asthma education," "Checklist memory aid for primary care, prompting assessment of asthma control and treatment strategies," "Use of individualized written asthma action plans as part of self-management education," and "An evidence-based care process model for acute and chronic pediatric asthma management, implemented at multiple hospitals."
+Global Strategy for Asthma Management and Prevention — ideally, interventions should be applied at the level of both the patient and the healthcare provider and, where relevant, the health system; examples of high‑impact strategies include "Free inhaled corticosteroids (ICS) for patients with a recent hospital admission and/or severe asthma", "Early treatment with ICS, guided self-management, reduction in exposure to tobacco smoke, improved access to asthma education", "Checklist memory aid for primary care, prompting assessment of asthma control and treatment strategies", "Use of individualized written asthma action plans as part of self-management education", and "An evidence-based care process model for acute and chronic pediatric asthma management, implemented at multiple hospitals".
 
 ---
 

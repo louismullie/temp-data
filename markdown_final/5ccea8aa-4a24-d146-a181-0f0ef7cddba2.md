@@ -980,7 +980,7 @@ A 14-month-old girl and a 7-month-old boy each presented with a diffuse dermatit
 
 ---
 
-### clinical reviewer-ALBUMINEX… [^d2ffed84]. FDA (2025). Medium credibility.
+### Clinical reviewer-ALBUMINEX… [^d2ffed84]. FDA (2025). Medium credibility.
 
 200 No more than 200 No more than 200 No more than 200 Source: STN125655/0 Clinical Overview, p. 12 The following indications are sought for Albuminex 5%:
 
@@ -992,7 +992,7 @@ A 14-month-old girl and a 7-month-old boy each presented with a diffuse dermatit
 4 Nephrotic syndrome ALBUMINEX 5% is indicated in patients with nephrotic syndrome in combination with loop diuretics to reinforce the diuretic therapeutic effect, which is reduced by hypoalbuminemia, and for the correction of reduced. pediatric patients. In pediatric patients to reverse hypovolemia and achieve normal capillary refill time.
 
 1. 2 Ascites ALBUMINEX 25% is indicated for prevention of central volume depletion and maintenance of cardiovascular function after large volume parencentesis in patients with liver cirrhosis or other chronic liver disease in adults and children. ALBUMINEX 25% infusion plus administration of vasoactive drugs is indicated in the treatment of type I hepatorenal syndrome. From the minutes of the May 31, 2017, PeRC meeting on STN125644: Albumin 5% and 25% Full Waiver
-- Proposed indication: Treatment of Hypovolemia, Ascites, Burns, Nephrotic.
+- **Proposed indication**: Treatment of Hypovolemia, Ascites, Burns, Nephrotic.
 
 ---
 

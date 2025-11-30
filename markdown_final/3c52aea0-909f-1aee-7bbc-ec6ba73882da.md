@@ -256,7 +256,7 @@ The majority of American women report being screened for cervical cancer more fr
 
 ### Choosing wisely® in preventive medicine: the American College of Preventive Medicine's top 5 list of recommendations [^3960d1c6]. American Journal of Preventive Medicine (2016). Medium credibility.
 
-Cervical cancer screening in older or post-hysterectomy women — Recommendation #5 states "Don't Perform Screening for Cervical Cancer in Low-Risk Women Aged 65 Years or Older and in Women Who Have Had a Total Hysterectomy for Benign Disease." For women aged over 65 years with adequate prior screening, "the benefit of Pap smears is little to none, but the harms are at least "small."" The page adds that "The USPSTF makes a "D" recommendation against screening women aged over 65 years that are at low risk for cervical cancer and have had negative results from prior screenings." It further notes that "once a patient stops receiving screenings, in general they should not restart screenings," and that in women who have had a hysterectomy for benign disease without a history of cervical cancer or high-grade lesions, "cervical cancer screening provides no benefits to these patients and may subject them to potential risks from false-positive results, including physical (e.g., vaginal bleeding from biopsies) or psychological (e.g., anxiety) distress."
+Cervical cancer screening in older or post-hysterectomy women — Recommendation #5 states "Don't Perform Screening for Cervical Cancer in Low-Risk Women Aged 65 Years or Older and in Women Who Have Had a Total Hysterectomy for Benign Disease". For women aged over 65 years with adequate prior screening, "the benefit of Pap smears is little to none, but the harms are at least "small". The page adds that "The USPSTF makes a "D" recommendation against screening women aged over 65 years that are at low risk for cervical cancer and have had negative results from prior screenings". It further notes that "once a patient stops receiving screenings, in general they should not restart screenings", and that in women who have had a hysterectomy for benign disease without a history of cervical cancer or high-grade lesions, "cervical cancer screening provides no benefits to these patients and may subject them to potential risks from false-positive results, including physical (e.g., vaginal bleeding from biopsies) or psychological (e.g., anxiety) distress".
 
 ---
 
@@ -944,7 +944,7 @@ Thousands of cervical, breast, and colorectal cancer screenings at ages beyond r
 
 ### Cervical cancer screening for individuals at average risk: 2020 guideline update from the American cancer society [^2bdc641f]. CA (2020). High credibility.
 
-Cervical cancer screening initiation — the guideline development group "chose to recommend that all individuals begin screening (with primary HPV testing preferred) at age 25 years."
+Cervical cancer screening initiation — the guideline development group "chose to recommend that all individuals begin screening (with primary HPV testing preferred) at age 25 years".
 
 ---
 
