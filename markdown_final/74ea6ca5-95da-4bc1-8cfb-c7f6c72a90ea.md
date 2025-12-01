@@ -155,7 +155,7 @@ A prospective analysis of STEMI criteria on the initial ECG found they were only
 
 Emergency physician Dr Stephen Smith led the search for new rules for occlusion, and answered the questions raised by the 1994 report: a formula to differentiate between early repolarization and subtle LAD occlusion, reciprocal STD in aVL to identify subtle inferior OMI and exclude pericarditis, T/QRS ratio to differentiate between old LV aneurysm and anterior STEMI with Q-wave, and the Smith-Modified Sgarbossa criteria to identify OMI in LBBB and paced rhythms.
 
-Throughout the STEMI paradigm, cardiologists and emergency physicians have continued to find patterns of occlusion and reperfusion that do not fit into the STEMI box: Wellens reperfusion T-wave inversion at risk for reocclusion, de Winter T waves indicating LAD occlusion, "South African flag sign" to identify first diagonal occlusion, Aslanger pattern of inferior OMI with concomitant high-grade stenosis, ischemic STD maximum V 1 -V 4 to identify posterior OMI and differentiate it from subendocardial ischemia. These advances reveal the limitations of the STEMI paradigm (Tables 1 and 2).
+Throughout the STEMI paradigm, cardiologists and emergency physicians have continued to find patterns of occlusion and reperfusion that do not fit into the STEMI box: Wellens reperfusion T-wave inversion at risk for reocclusion, de Winter T waves indicating LAD occlusion, "South African flag sign" to identify first diagonal occlusion, Aslanger pattern of inferior OMI with concomitant high-grade stenosis, ischemic STD maximum V₁–V₄ to identify posterior OMI and differentiate it from subendocardial ischemia. These advances reveal the limitations of the STEMI paradigm (Tables 1 and 2).
 
 Table 1
 STEMI Criteria Vs Evidence-Based OMI Findings
@@ -1199,7 +1199,7 @@ To validate ECG criteria previously proposed by Sgarbossa et al for the detectio
 
 Methods
 
-A retrospective cohort study was performed at an urban teaching hospital. All patients admitted with suspected ischemia and LBBB were eligible. MI was defined as an elevated creatine kinase (CK) isoenzyme MB (> 14 IU/L) that was at least 5% of total CK level. ECGs were interpreted by 2 physicians blinded to patient outcome. Interpreters were asked to rate ECGs for the presence of each of the 3 criteria proposed by Sgarbossa et al: (1) ST-segment elevation greater than or equal to 1 mm concordant with the QRS complex; (2) ST-segment elevation greater than or equal to 5 mm discordant with the QRS complex; and (3) ST-segment depression in leads V(1) through V(3). Interobserver agreement was assessed.
+A retrospective cohort study was performed at an urban teaching hospital. All patients admitted with suspected ischemia and LBBB were eligible. MI was defined as an elevated creatine kinase (CK) isoenzyme MB (> 14 IU/L) that was at least 5% of total CK level. ECGs were interpreted by 2 physicians blinded to patient outcome. Interpreters were asked to rate ECGs for the presence of each of the 3 criteria proposed by Sgarbossa et al: (1) ST-segment elevation greater than or equal to 1 mm concordant with the QRS complex; (2) ST-segment elevation greater than or equal to 5 mm discordant with the QRS complex; and (3) ST-segment depression in leads V₁ through V₃. Interobserver agreement was assessed.
 
 Results
 
