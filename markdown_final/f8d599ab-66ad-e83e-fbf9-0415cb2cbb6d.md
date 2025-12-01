@@ -60,7 +60,7 @@ C4's pressor effects are driven by **caffeine and other stimulants** that increa
 
 Clinical studies show a **modest, time-limited rise** in BP after energy drinks:
 
-| **Study** | **Sbp increase** | **Dbp increase** | **Duration** |
+| **Study** | **SBP increase** | **DBP increase** | **Duration** |
 |-|-|-|-|
 | Meta-analysis (2016) | +4.4 mmHg | +2.7 mmHg | 1–2 hours |
 | Pediatric RCT (2023) | +5.3 mmHg | +3.5 mmHg | 24-hour ABPM |
