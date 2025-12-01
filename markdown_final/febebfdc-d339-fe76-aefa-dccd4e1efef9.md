@@ -704,7 +704,7 @@ In this prospective single-centre observational study done between Jan 1, 2001, 
 
 Findings
 
-437 emergency patients, of whom 85 (20%) were RhD-, received 2836 RhD+ red blood cell concentrates. The overall risk of inducing anti-D antibodies (in all 437 recipients) was 17 (4%, 95% CI 2·44–6·14) of 437 (assuming all patients lost to follow-up developed anti-D allo-immunisation). During this period, 110 known RhD- patients received RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages. Of these, 29 (26%; 95% CI 19·0–35·3) developed anti-D allo-immunisation (assuming all patients lost to follow-up developed anti-D), which was significantly higher than in the emergency patients with unknown blood type (p < 0·0001).
+437 emergency patients, of whom 85 (20%) were RhD-, received 2836 RhD+ red blood cell concentrates. The overall risk of inducing anti-D antibodies (in all 437 recipients) was 17 (4%, 95% CI 2.44–6.14) of 437 (assuming all patients lost to follow-up developed anti-D allo-immunisation). During this period, 110 known RhD- patients received RhD+ red blood cell concentrates during RhD- red blood cell concentrate shortages. Of these, 29 (26%; 95% CI 19.0–35.3) developed anti-D allo-immunisation (assuming all patients lost to follow-up developed anti-D), which was significantly higher than in the emergency patients with unknown blood type (p < 0.0001).
 
 Interpretation
 

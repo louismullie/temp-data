@@ -568,7 +568,7 @@ Women aged 39–41 from 23 UK NHS Breast Screening Programme units years were ra
 
 Findings
 
-Between Oct 14, 1990, and Sept 25, 1997, 160 921 participants were randomly assigned; 53 883 women in the intervention group and 106 953 assigned to usual medical care were included in this analysis. After a median follow-up of 17 years (IQR 16·8–18·8), the rate ratio (RR) for breast cancer mortality was 0·88 (95% CI 0·74–1·04) from tumours diagnosed during the intervention phase. A significant reduction in breast cancer mortality was noted in the intervention group compared with the control group in the first 10 years after diagnosis (RR 0·75, 0·58–0·97) but not thereafter (RR 1·02, 0·80–1·30) from tumours diagnosed during the intervention phase. The overall breast cancer incidence during 17 year follow-up was similar between the intervention group and the control group (RR 0·98, 0·93–1·04).
+Between Oct 14, 1990, and Sept 25, 1997, 160 921 participants were randomly assigned; 53 883 women in the intervention group and 106 953 assigned to usual medical care were included in this analysis. After a median follow-up of 17 years (IQR 16.8–18.8), the rate ratio (RR) for breast cancer mortality was 0.88 (95% CI 0.74–1.04) from tumours diagnosed during the intervention phase. A significant reduction in breast cancer mortality was noted in the intervention group compared with the control group in the first 10 years after diagnosis (RR 0.75, 0.58–0.97) but not thereafter (RR 1.02, 0.80–1.30) from tumours diagnosed during the intervention phase. The overall breast cancer incidence during 17 year follow-up was similar between the intervention group and the control group (RR 0.98, 0.93–1.04).
 
 Interpretation
 

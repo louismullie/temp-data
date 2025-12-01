@@ -1103,7 +1103,7 @@ In this systematic review and meta-analysis, we searched MedLine, Embase, CENTRA
 
 Findings
 
-36 trials with 2865 participants (2464 men and 401 women) were included. In people who drank two or fewer drinks per day, a reduction in alcohol was not associated with a significant reduction in blood pressure; however, in people who drank more than two drinks per day, a reduction in alcohol intake was associated with increased blood pressure reduction. Reduction in systolic blood pressure (mean difference -5·50 mm Hg, 95% CI -6·70 to -4·30) and diastolic blood pressure (-3·97, -4·70 to -3·25) was strongest in participants who drank six or more drinks per day if they reduced their intake by about 50%. For the UK, the results would translate into more than 7000 inpatient hospitalisations and 678 cardiovascular deaths prevented every year.
+36 trials with 2865 participants (2464 men and 401 women) were included. In people who drank two or fewer drinks per day, a reduction in alcohol was not associated with a significant reduction in blood pressure; however, in people who drank more than two drinks per day, a reduction in alcohol intake was associated with increased blood pressure reduction. Reduction in systolic blood pressure (mean difference -5.50 mm Hg, 95% CI -6.70 to -4.30) and diastolic blood pressure (-3.97, -4.70 to -3.25) was strongest in participants who drank six or more drinks per day if they reduced their intake by about 50%. For the UK, the results would translate into more than 7000 inpatient hospitalisations and 678 cardiovascular deaths prevented every year.
 
 Interpretation
 

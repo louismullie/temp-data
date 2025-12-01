@@ -949,7 +949,7 @@ Find-AF randomised is an open-label randomised study done at four centres in Ger
 
 Findings
 
-Between May 8, 2013, and Aug 31, 2014, we recruited 398 patients. 200 patients were randomly assigned to the enhanced and prolonged monitoring group and 198 to the standard care group. After 6 months, we detected atrial fibrillation in 14% of 200 patients in the enhanced and prolonged monitoring group (27 patients) versus 5% in the control group (nine of 198 patients, absolute difference 9·0%; 95% CI 3·4–14·5, p = 0·002; number needed to screen 11).
+Between May 8, 2013, and Aug 31, 2014, we recruited 398 patients. 200 patients were randomly assigned to the enhanced and prolonged monitoring group and 198 to the standard care group. After 6 months, we detected atrial fibrillation in 14% of 200 patients in the enhanced and prolonged monitoring group (27 patients) versus 5% in the control group (nine of 198 patients, absolute difference 9.0%; 95% CI 3.4–14.5, p = 0.002; number needed to screen 11).
 
 Interpretation
 

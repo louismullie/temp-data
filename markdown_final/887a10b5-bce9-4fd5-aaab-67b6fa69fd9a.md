@@ -175,7 +175,7 @@ This is a retrospective multicentric evaluation study conducted in eight departm
 
 Results
 
-Twenty-four cases of hypochromic vitiligo were identified. Fourteen were men and 10 women. The mean age at diagnosis was 35·4 years (range 8–66). Strikingly, all patients were dark skinned, with skin types V and VI. The pattern of distribution was highly similar in most of the patients (18 of 24), with involvement of the face and neck area predominating on seborrhoeic areas associated with multiple isolated hypopigmented macules involving predominantly the scalp. The retrospective nature of this study is its main limitation.
+Twenty-four cases of hypochromic vitiligo were identified. Fourteen were men and 10 women. The mean age at diagnosis was 35.4 years (range 8–66). Strikingly, all patients were dark skinned, with skin types V and VI. The pattern of distribution was highly similar in most of the patients (18 of 24), with involvement of the face and neck area predominating on seborrhoeic areas associated with multiple isolated hypopigmented macules involving predominantly the scalp. The retrospective nature of this study is its main limitation.
 
 Conclusions
 

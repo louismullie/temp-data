@@ -57,7 +57,7 @@ The average glucose A1c relationship is best described by the **ADAG equation** 
 
 ## Conversion table: A1c to average glucose
 
-| **A1c (%)** | **Eag (mg/dl)** | **Eag (mmol/l)** |
+| **A1c (%)** | **eAG (mg/dl)** | **eAG (mmol/l)** |
 |-|-|-|
 | 5.0 | 97 | 5.4 |
 | 6.0 | 126 | 7.0 |

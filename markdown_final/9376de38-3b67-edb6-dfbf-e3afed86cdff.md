@@ -425,7 +425,7 @@ RCTs comparing routine supplementation of calcium ± vitamin D3 with treatment b
 
 Results
 
-Fifteen studies with 3037 patients were included, and seven treatment comparisons were made. Routine supplementation with calcium + vitamin D3 offered a lower risk of symptomatic (risk difference (RD) -0·25, 95 per cent c.i. -0·32 to -0·18) and biochemical (RD -0·24, -0·31 to -0·17) hypocalcaemia than treatment based on measurement of calcium levels. The number needed to treat was 4 (95 per cent c.i. 3 to 6) for symptomatic hypocalcaemia. No publication bias was found; although heterogeneity was high for some comparisons, sensitivity analysis did not change the main results.
+Fifteen studies with 3037 patients were included, and seven treatment comparisons were made. Routine supplementation with calcium + vitamin D3 offered a lower risk of symptomatic (risk difference (RD) -0.25, 95 per cent c.i. -0.32 to -0.18) and biochemical (RD -0.24, -0.31 to -0.17) hypocalcaemia than treatment based on measurement of calcium levels. The number needed to treat was 4 (95 per cent c.i. 3 to 6) for symptomatic hypocalcaemia. No publication bias was found; although heterogeneity was high for some comparisons, sensitivity analysis did not change the main results.
 
 Conclusion
 
