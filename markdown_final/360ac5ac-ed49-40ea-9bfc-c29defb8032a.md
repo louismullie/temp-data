@@ -625,7 +625,7 @@ We assayed circulating levels of estradiol, testosterone, estrone, androstenedio
 
 Results
 
-CYP19 SNPs (rs10046 and [TCT] ±) were associated with differences in estradiol level (P = 0.0006 and P = 0.0003, respectively) and the estradiol: testosterone ratio (P = 0.000001() and P = 0.002). SNP rs10046 explained 1.6% of the variance (r2) in the estradiol: testosterone ratio. SHBG SNPs (5' untranslated region [5'UTR] g-a and D356N) were associated with both SHBG levels (P < 10(-6) and P = 0.005) and the estradiol: SHBG ratio (P = ().000008() and P = 0.01). These SNPs explained 2.4% and 0.6% of the variance in SHBG levels, respectively. SNPs in the other genes were not associated with differences in any hormone levels, and none were statistically significantly associated with breast cancer risk.
+CYP19 SNPs (rs10046 and [TCT] ±) were associated with differences in estradiol level (P = 0.0006 and P = 0.0003, respectively) and the estradiol: testosterone ratio (P = 0.000001() and P = 0.002). SNP rs10046 explained 1.6% of the variance (r2) in the estradiol: testosterone ratio. SHBG SNPs (5' untranslated region [5'UTR] g-a and D356N) were associated with both SHBG levels (P < 10⁻⁶ and P = 0.005) and the estradiol: SHBG ratio (P = ().000008() and P = 0.01). These SNPs explained 2.4% and 0.6% of the variance in SHBG levels, respectively. SNPs in the other genes were not associated with differences in any hormone levels, and none were statistically significantly associated with breast cancer risk.
 
 Conclusion
 

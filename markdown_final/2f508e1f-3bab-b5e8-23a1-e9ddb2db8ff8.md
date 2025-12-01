@@ -490,7 +490,7 @@ Intervention is advised in selected asymptomatic patients with aortic valve dise
 
 Methods
 
-The Euro Heart Survey was designed to evaluate practices. Severe isolated aortic stenosis (AS) was defined by a valve area ≤ 0.6 cm2/m2 body surface area or mean gradient ≥ 50 mm Hg. Severe aortic regurgitation (AR) was defined by a grade ≥ 3/4. Patients were classified as asymptomatic when they were in New York Heart Association class I and were without angina. Decision to operate was analyzed by comparing patient characteristics with the American College of Cardiology/American Heart Association recommendations.
+The Euro Heart Survey was designed to evaluate practices. Severe isolated aortic stenosis (AS) was defined by a valve area ≤ 0.6 cm²/m² body surface area or mean gradient ≥ 50 mm Hg. Severe aortic regurgitation (AR) was defined by a grade ≥ 3/4. Patients were classified as asymptomatic when they were in New York Heart Association class I and were without angina. Decision to operate was analyzed by comparing patient characteristics with the American College of Cardiology/American Heart Association recommendations.
 
 Results
 
