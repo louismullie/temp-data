@@ -74,7 +74,7 @@ After stopping pills, **FSH and LH typically recover within weeks to months**; o
 
 ## Variability in FSH and LH suppression among different formulations
 
-| **Formulation** | **Fsh suppression** | **Lh suppression** | **Clinical notes** |
+| **Formulation** | **FSH suppression** | **LH suppression** | **Clinical notes** |
 |-|-|-|-|
 | Combined oral contraceptives (estrogen + progestin) | High | High | Consistent ovulation suppression [^112kvdBs] |
 | Progestin-only pills | Moderate | Moderate | Less consistent suppression; rely on cervical/endometrial effects [^114h3bxV] |

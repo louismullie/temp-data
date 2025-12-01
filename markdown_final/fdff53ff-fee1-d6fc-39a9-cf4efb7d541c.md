@@ -59,7 +59,7 @@ High-dose atorvastatin is **recommended** for the following clinical scenarios:
 
 High-dose atorvastatin produces **significant reductions** in LDL-C and cardiovascular events:
 
-| **Study** | **Ldl-c reduction** | **Cardiovascular outcomes** |
+| **Study** | **LDL-C reduction** | **Cardiovascular outcomes** |
 |-|-|-|
 | IDEAL (atorvastatin 80 mg vs simvastatin 20–40 mg) | LDL-C: 81 mg/dL vs 104 mg/dL | - 13% reduction in major coronary events <br/> - 16% reduction in nonfatal MI [^afa873a5] |
 | TNT (atorvastatin 80 mg vs 10 mg) | LDL-C: 77 mg/dL vs 101 mg/dL | - 22% reduction in major cardiovascular events <br/> - 22% reduction in stroke [^notfound] |

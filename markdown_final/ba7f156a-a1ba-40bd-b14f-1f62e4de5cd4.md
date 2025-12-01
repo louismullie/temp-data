@@ -65,7 +65,7 @@ Right hamstring pain management centers on **early diagnosis and grading** with 
 
 ## Classification of hamstring injuries
 
-| **Grade** | **Description** | **Clinical findings** | **Mri findings** |
+| **Grade** | **Description** | **Clinical findings** | **MRI findings** |
 |-|-|-|-|
 | Grade I | Mild strain | Minimal pain, no significant functional loss | Minimal fiber disruption |
 | Grade II | Partial tear | Moderate pain, functional impairment | Significant fiber disruption |

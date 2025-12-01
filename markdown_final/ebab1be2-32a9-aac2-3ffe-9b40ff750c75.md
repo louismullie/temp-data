@@ -57,7 +57,7 @@ PVR is the **volume of urine remaining in the bladder after voiding** [^bca36dd5
 
 Normal PVR varies by age, sex, and bladder capacity; general adult thresholds include:
 
-| **Pvr volume** | **Clinical interpretation** |
+| **PVR volume** | **Clinical interpretation** |
 |-|-|
 | < 50 mL | Normal |
 | 50–100 mL | Borderline; monitor if symptomatic |

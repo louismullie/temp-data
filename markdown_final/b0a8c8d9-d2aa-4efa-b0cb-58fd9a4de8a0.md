@@ -57,7 +57,7 @@ RAI exploits the sodium-iodide symporter (NIS) in thyroid tissue, which concentr
 
 RAI therapy is indicated based on **risk stratification**, clinicopathologic features, and patient-specific factors:
 
-| **Risk category** | **Indications for rai therapy** |
+| **Risk category** | **Indications for RAI therapy** |
 |-|-|
 | Low-risk | - Not routinely recommended <br/> - Selective use for remnant ablation or adjuvant therapy based on individual patient factors and preferences [^112qZ4by] [^1142T9xE] |
 | Intermediate-risk | - Adjuvant therapy considered after total thyroidectomy <br/> - Typically administered activity: 1.1–3.7 GBq (30–100 mCi) [^117TGxhj] [^112qZ4by] |

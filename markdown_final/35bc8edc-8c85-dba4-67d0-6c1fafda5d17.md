@@ -37,7 +37,7 @@ The ICD-10-CM code for folate deficiency anemia is **D52.9** (Folate deficiency 
 
 The ICD-10-CM classifies folate deficiency anemia under **category D52**, with subcategories based on etiology:
 
-| **ICD-10-cm code** | **Description** |
+| **ICD-10-CM code** | **Description** |
 |-|-|
 | D52.0 | Dietary folate deficiency anemia |
 | D52.1 | Drug-induced folate deficiency anemia |

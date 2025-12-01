@@ -109,7 +109,7 @@ If celecoxib is used in CKD, **strict precautions are advised**:
 
 ## Summary of recommendations
 
-| **Ckd stage** | **Recommendation** | **Monitoring** |
+| **CKD stage** | **Recommendation** | **Monitoring** |
 |-|-|-|
 | Stage 1–2 (eGFR ≥ 60) | Use with caution; lowest dose, shortest duration | Baseline and periodic renal function/electrolytes |
 | Stage 3a–3b (eGFR 30–59) | Avoid if possible; if used, close monitoring | Baseline and frequent renal function/electrolytes |
