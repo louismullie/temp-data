@@ -119,7 +119,7 @@ Adjust the dose and monitor **renal function** regularly [^113xd6B9]. Avoid stro
 
 ## Summary table: when to order DOAC therapy
 
-| **Clinical scenario** | **Indication for DOAC** | **Contraindications/precautions** |
+| **Clinical scenario** | **Indication for DOAC** | **Contraindications/Precautions** |
 |-|-|-|
 | NVAF with elevated stroke risk | Yes | - Mechanical valves <br/> - Moderate-to-severe mitral stenosis <br/> - Severe renal impairment <br/> - Advanced liver disease <br/> - Triple-positive APS |
 | Acute VTE (DVT/PE) | Yes | - Severe renal impairment <br/> - Advanced liver disease <br/> - Triple-positive APS |
