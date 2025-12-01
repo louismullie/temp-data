@@ -14,8 +14,8 @@ analgesics and nasogastric sucton (see lab results).
 Test Result Normal Values
 Hb 120 130–170 g/L (Male)
 120–160 g/L (Female)
-Platelets count 190 150–400 x 109/L
-WBC 18 4.5–10.5 x 109/L
+Platelets count 190 150–400 × 10⁹/L
+WBC 18 4.5–10.5 × 10⁹/L
 Aspartate aminotransferase 55 12–40 IU/L
 Alanine aminotransferase 65 5–40 IU/L
 Lactate dehydrogenase 6 1.4–3.56 mol/L

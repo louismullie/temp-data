@@ -542,7 +542,7 @@ We included randomised clinical trials comparing carvedilol versus traditional, 
 
 Data Collection and Analysis
 
-Three review authors (AZ, RJ and LH), independently extracted data. The primary outcome measures were mortality, upper gastrointestinal bleeding and serious adverse events. We undertook meta-analyses and presented results using risk ratios (RR) or mean differences (MD), both with 95% confidence intervals (CIs), and I 2 values as a marker of heterogeneity. We assessed bias control using the Cochrane Hepato-Biliary domains and the quality of the evidence with GRADE.
+Three review authors (AZ, RJ and LH), independently extracted data. The primary outcome measures were mortality, upper gastrointestinal bleeding and serious adverse events. We undertook meta-analyses and presented results using risk ratios (RR) or mean differences (MD), both with 95% confidence intervals (CIs), and I² values as a marker of heterogeneity. We assessed bias control using the Cochrane Hepato-Biliary domains and the quality of the evidence with GRADE.
 
 Main Results
 
@@ -807,7 +807,7 @@ From 1990 to 2021, 1,586 children with portal hypertension underwent one or more
 
 Results
 
-Worsening of the endoscopic pattern occurred in 58% of children over a mean 4-year interval. The 5- and 10-year probabilities of HRV emergence in initially HRV-negative children were 36% and 54%, respectively, and were associated with the severity of the initial endoscopic findings. In children with biliary atresia, a younger age and higher serum bilirubin levels were linked to increased HRV risk. At study end, HRV were present in 639 of 1,586 children; 161/639 were < 12 months of age, 62% of whom had platelet count of ≥ 150,000/mm 3. The 5- and 10-year probabilities of spontaneous bleeding following HRV detection on screening endoscopy were 63% and 75%, respectively. Among children with cirrhosis and no HRV at baseline, the Baveno VI criteria and spleen stiffness ≤ 30kPa were associated with a low 3-year probability of HRV emergence.
+Worsening of the endoscopic pattern occurred in 58% of children over a mean 4-year interval. The 5- and 10-year probabilities of HRV emergence in initially HRV-negative children were 36% and 54%, respectively, and were associated with the severity of the initial endoscopic findings. In children with biliary atresia, a younger age and higher serum bilirubin levels were linked to increased HRV risk. At study end, HRV were present in 639 of 1,586 children; 161/639 were < 12 months of age, 62% of whom had platelet count of ≥ 150,000/mm³. The 5- and 10-year probabilities of spontaneous bleeding following HRV detection on screening endoscopy were 63% and 75%, respectively. Among children with cirrhosis and no HRV at baseline, the Baveno VI criteria and spleen stiffness ≤ 30kPa were associated with a low 3-year probability of HRV emergence.
 
 Conclusions
 
@@ -867,7 +867,7 @@ We included randomised clinical trials comparing band ligation verus no interven
 
 Data Collection and Analysis
 
-Three review authors extracted data independently. The primary outcome measures were all-cause mortality, upper gastrointestinal bleeding, and serious adverse events. We undertook meta-analyses and presented results using risk ratios (RRs) with 95% confidence intervals (CIs) and I 2 values as a marker of heterogeneity. In addition, we calculated the number needed to treat to benefit (NNTTB) for the primary outcomes. We assessed bias control using the Cochrane Hepato-Biliary domains; determined the certainty of the evidence using GRADE; and conducted sensitivity analyses including Trial Sequential Analysis.
+Three review authors extracted data independently. The primary outcome measures were all-cause mortality, upper gastrointestinal bleeding, and serious adverse events. We undertook meta-analyses and presented results using risk ratios (RRs) with 95% confidence intervals (CIs) and I² values as a marker of heterogeneity. In addition, we calculated the number needed to treat to benefit (NNTTB) for the primary outcomes. We assessed bias control using the Cochrane Hepato-Biliary domains; determined the certainty of the evidence using GRADE; and conducted sensitivity analyses including Trial Sequential Analysis.
 
 Main Results
 

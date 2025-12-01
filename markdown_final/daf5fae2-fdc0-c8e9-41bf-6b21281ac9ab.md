@@ -63,7 +63,7 @@ Neonatal respiratory distress syndrome (RDS) is best managed with a **lung-prote
 
 - **Non-invasive support**: Initiate CPAP or synchronized NIPPV from birth in preterm infants with signs of RDS to reduce mechanical ventilation and BPD [^ac366b11] [^5213bbd1].
 
-- **Oxygen titration**: Use pulse oximetry to target SpO2 90–95% to avoid hypoxemia and hyperoxia [^notfound].
+- **Oxygen titration**: Use pulse oximetry to target SpO₂ 90–95% to avoid hypoxemia and hyperoxia [^notfound].
 
 - **Temperature control**: Maintain normothermia with plastic bags, hats, and servo-controlled incubators to reduce morbidity [^notfound].
 
@@ -206,13 +206,13 @@ Regarding medical management for neonatal respiratory distress syndrome, more sp
 ### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^6d63443f]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, ECG-RDS 2023 guidelines recommend to administer rescue surfactant early in the course of the disease.
-Consider administering surfactant in worsening infants with respiratory distress syndrome with FiO2 requirements > 0.30 on CPAP ≥ 6 cmH₂O or if lung ultrasound suggests surfactant need.
+Consider administering surfactant in worsening infants with respiratory distress syndrome with FᵢO₂ requirements > 0.30 on CPAP ≥ 6 cmH₂O or if lung ultrasound suggests surfactant need.
 
 ---
 
 ### Guidelines for surfactant replacement therapy in neonates [^8d21aebd]. Paediatrics & Child Health (2021). High credibility.
 
-Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, CPS 2021 guidelines recommend to initiate surfactant replacement therapy in infants with respiratory distress syndrome with FiO2 requirements > 0.5.
+Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, CPS 2021 guidelines recommend to initiate surfactant replacement therapy in infants with respiratory distress syndrome with FᵢO₂ requirements > 0.5.
 
 ---
 
@@ -793,7 +793,7 @@ Table 1 summarizes national recommendations for surfactant prophylactic use. The
 Table 1
 International guidelines for RDS treatment
 
-A European survey conducted in 2011 has analysed the incorporation of guidelines for surfactant therapy into clinical practice in 173 NICUs across 21 European countries. Only 39% of the NICUs used prophylactic treatment. Twenty-three % of preterm infants received their first surfactant dose within the first 15 minutes after birth, while 28% of them received it after 2 hours of life. A gestational age of less than 28 weeks and a birth weight of less than 1000 g were used as criteria for prophylactic treatment in most of NICUs. Eighty eight % used a median FiO 2 of greater than 0.40 as the indication for rescue surfactant treatment, at a median time of 2 hour after birth.
+A European survey conducted in 2011 has analysed the incorporation of guidelines for surfactant therapy into clinical practice in 173 NICUs across 21 European countries. Only 39% of the NICUs used prophylactic treatment. Twenty-three % of preterm infants received their first surfactant dose within the first 15 minutes after birth, while 28% of them received it after 2 hours of life. A gestational age of less than 28 weeks and a birth weight of less than 1000 g were used as criteria for prophylactic treatment in most of NICUs. Eighty eight % used a median FᵢO₂ of greater than 0.40 as the indication for rescue surfactant treatment, at a median time of 2 hour after birth.
 
 ---
 
@@ -915,7 +915,7 @@ Primary Study Endpoints
 
 The primary study outcome is:
 
-- Neonatal Respiratory Distress Syndrome (defined by the incidence (increasing respiratory distress or oxygen requirement or the need for respiratory support from the first six hours of life, in a term or preterm infant) and severity of neonatal respiratory disease (mild = mean airway pressure (MAP) < 7 cm H₂O, and/or fractional inspired oxygen (FiO₂) < 0.4; moderate = MAP 7–9.9 cm H₂O, and/or FiO₂ 0.40–0.79; severe = MAP ≥ 10 cm H₂O, and/or FiO₂ ≥ 0.80 with need for ventilation).
+- Neonatal Respiratory Distress Syndrome (defined by the incidence (increasing respiratory distress or oxygen requirement or the need for respiratory support from the first six hours of life, in a term or preterm infant) and severity of neonatal respiratory disease (mild = mean airway pressure (MAP) < 7 cm H₂O, and/or fractional inspired oxygen (FᵢO₂) < 0.4; moderate = MAP 7–9.9 cm H₂O, and/or FᵢO₂ 0.40–0.79; severe = MAP ≥ 10 cm H₂O, and/or FᵢO₂ ≥ 0.80 with need for ventilation).
 
 ---
 

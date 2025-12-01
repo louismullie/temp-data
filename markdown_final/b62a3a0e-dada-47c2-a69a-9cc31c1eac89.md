@@ -167,7 +167,7 @@ To determine the incidence of fetal vessel thrombosis in monochorionic-diamnioti
 
 Study Design
 
-Histologic slides from 80 pairs of monochorionic and 80 pairs of dichorionic twin placentas were reviewed for evidence of fetal vessel thrombosis (≥ 5 adjacent avascular terminal villi with upstream intravascular fibrin thrombi). Associations with clinical and other pathologic variables were analyzed by χ(2) tests.
+Histologic slides from 80 pairs of monochorionic and 80 pairs of dichorionic twin placentas were reviewed for evidence of fetal vessel thrombosis (≥ 5 adjacent avascular terminal villi with upstream intravascular fibrin thrombi). Associations with clinical and other pathologic variables were analyzed by χ² tests.
 
 Result
 
@@ -346,7 +346,7 @@ To compare mode of delivery between monochorionic and dichorionic twin pregnanci
 
 Methods
 
-This was a retrospective cohort study of women undergoing delivery of diamniotic twins in a single maternal-fetal medicine practice in New York City between 2005 and 2021. We compared baseline characteristics and delivery outcomes between monochorionic and dichorionic gestations. The primary outcome was mode of delivery. For monochorionic-diamniotic twin pregnancies at or after 34 weeks of gestation, we also compared neonatal outcomes between women who did and did not attempt vaginal delivery. Data were analyzed using the χ2 test, Fisher exact test, and t test when appropriate.
+This was a retrospective cohort study of women undergoing delivery of diamniotic twins in a single maternal-fetal medicine practice in New York City between 2005 and 2021. We compared baseline characteristics and delivery outcomes between monochorionic and dichorionic gestations. The primary outcome was mode of delivery. For monochorionic-diamniotic twin pregnancies at or after 34 weeks of gestation, we also compared neonatal outcomes between women who did and did not attempt vaginal delivery. Data were analyzed using the χ² test, Fisher exact test, and t test when appropriate.
 
 Results
 
@@ -776,7 +776,7 @@ Databases were searched without language restrictions for studies of women with 
 
 Results
 
-32 studies (29685 dichorionic, 5486 monochorionic pregnancies) were included. In dichorionic twin pregnancies beyond 34 weeks (15 studies, 17830 pregnancies), the prospective weekly risk of stillbirths from expectant management and the risk of neonatal death from delivery were balanced at 37 weeks' gestation (risk difference 1.2/1000, 95% confidence interval -1.3 to 3.6; I(2) = 0%). Delay in delivery by a week (to 38 weeks) led to an additional 8.8 perinatal deaths per 1000 pregnancies (95% confidence interval 3.6 to 14.0/1000; I(2) = 0%) compared with the previous week. In monochorionic pregnancies beyond 34 weeks (13 studies, 2149 pregnancies), there was a trend towards an increase in stillbirths compared with neonatal deaths after 36 weeks, with an additional 2.5 per 1000 perinatal deaths, which was not significant (-12.4 to 17.4/1000; I(2) = 0%). The rates of neonatal morbidity showed a consistent reduction with increasing gestational age in monochorionic and dichorionic pregnancies, and admission to the neonatal intensive care unit was the commonest neonatal complication. The actual risk of stillbirth near term might be higher than reported estimates because of the policy of planned delivery in twin pregnancies.
+32 studies (29685 dichorionic, 5486 monochorionic pregnancies) were included. In dichorionic twin pregnancies beyond 34 weeks (15 studies, 17830 pregnancies), the prospective weekly risk of stillbirths from expectant management and the risk of neonatal death from delivery were balanced at 37 weeks' gestation (risk difference 1.2/1000, 95% confidence interval -1.3 to 3.6; I² = 0%). Delay in delivery by a week (to 38 weeks) led to an additional 8.8 perinatal deaths per 1000 pregnancies (95% confidence interval 3.6 to 14.0/1000; I² = 0%) compared with the previous week. In monochorionic pregnancies beyond 34 weeks (13 studies, 2149 pregnancies), there was a trend towards an increase in stillbirths compared with neonatal deaths after 36 weeks, with an additional 2.5 per 1000 perinatal deaths, which was not significant (-12.4 to 17.4/1000; I² = 0%). The rates of neonatal morbidity showed a consistent reduction with increasing gestational age in monochorionic and dichorionic pregnancies, and admission to the neonatal intensive care unit was the commonest neonatal complication. The actual risk of stillbirth near term might be higher than reported estimates because of the policy of planned delivery in twin pregnancies.
 
 Conclusions
 

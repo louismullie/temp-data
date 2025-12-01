@@ -19,17 +19,17 @@ D. is neither an arithmetic sequence nor a geometric sequence
 
 > Let's see… What do we have here? The user is asking whether the sequence ({b_n}), defined by summing consecutive triplets of a geometric sequence ({a_n}) with common ratio (q \\neq 1), is arithmetic, geometric with ratio (q), geometric with ratio (q^3), or neither. Let's break this down step-by-step. First, I need to think about the general form of (a_n) and how to express (b_n) algebraically. Then, I should verify whether the ratio (b_{n+1}/b_n) is constant and, if so, what that constant is. Next, I will check whether the difference (b_{n+1} - b_n) is constant to rule out arithmetic. Finally, I will compare the derived ratio with the answer choices and confirm the correct option.
 
-> Let me first confirm the setup. The original sequence is geometric with first term (a_1) and common ratio (q), so (a_n = a_1 q^{n-1}). The new sequence is defined by (b_n = a_{3n-2} + a_{3n-1} + a_{3n}), which sums three consecutive terms of ({a_n}) starting at index (3n-2). I should double-check that indexing: for (n = 1) we get (a_1 + a_2 + a_3), for (n = 2) we get (a_4 + a_5 + a_6), and so on, which matches the problem statement.
+> Let me first confirm the setup. The original sequence is geometric with first term (a₁) and common ratio (q), so (aₙ = a₁ qⁿ⁻¹). The new sequence is defined by (bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎), which sums three consecutive terms of ({aₙ}) starting at index (3n-2). I should double-check that indexing: for (n = 1) we get (a₁ + a₂ + a₃), for (n = 2) we get (a₄ + a₅ + a₆), and so on, which matches the problem statement.
 
-> Now, I will express (b_n) explicitly in terms of (a_1) and (q). Substituting the geometric formula, (b_n = a_1 q^{3n-3} + a_1 q^{3n-2} + a_1 q^{3n-1} = a_1 q^{3n-3}(1 + q + q^2)). Wait, let me verify the exponent arithmetic: (q^{3n-3} + q^{3n-2} + q^{3n-1} = q^{3n-3}(1 + q + q^2)), which is correct. So (b_n = a_1 (1 + q + q^2) q^{3n-3}).
+> Now, I will express (bₙ) explicitly in terms of (a₁) and (q). Substituting the geometric formula, (bₙ = a₁ q^(3n−3) + a₁ q^(3n−2) + a₁ q^(3n−1) = a₁ q^(3n−3)(1 + q + q²)). Wait, let me verify the exponent arithmetic: (q^(3n−3) + q^(3n−2) + q^(3n−1) = q^(3n−3)(1 + q + q²)), which is correct. So (bₙ = a₁ (1 + q + q²) q^(3n−3)).
 
-> Next, I should review whether ({b_n}) is geometric by computing the ratio of successive terms. Let me calculate (b_{n+1}/b_n): (b_{n+1} = a_1 (1 + q + q^2) q^{3(n+1)-3} = a_1 (1 + q + q^2) q^{3n}), so the ratio is (q^{3n} / q^{3n-3} = q^3). Hold on, I should verify that the constant factor cancels: yes, (a_1 (1 + q + q^2)) appears in both numerator and denominator and cancels out, leaving a constant ratio of (q^3).
+> Next, I should review whether ({bₙ}) is geometric by computing the ratio of successive terms. Let me calculate ([bₙ₊₁/bₙ]): (bₙ₊₁ = a₁ (1 + q + q²) q^(3(n+1)−3) = a₁ (1 + q + q²) q^(3n)), so the ratio is ([q^(3n)/q^(3n−3)] = q³). Hold on, I should verify that the constant factor cancels: yes, (a₁ (1 + q + q²)) appears in both numerator and denominator and cancels out, leaving a constant ratio of (q³).
 
 > I need to ensure this implies ({b_n}) is geometric. By definition, if the ratio of consecutive terms is constant, the sequence is geometric with that common ratio. Here the ratio is (q^3), so ({b_n}) is geometric with common ratio (q^3). Let me reconsider whether any constraint on (q) changes this: the problem states (q \\neq 1), which prevents the trivial case where all terms are equal, but does not affect the ratio calculation, so the conclusion stands.
 
 > But wait, what if the sequence were arithmetic? I should double-check the difference (b_{n+1} - b_n). Using the expression for (b_n), (b_{n+1} - b_n = a_1 (1 + q + q^2) (q^{3n} - q^{3n-3}) = a_1 (1 + q + q^2) q^{3n-3}(q^3–1)). Since (q \\neq 1), (q^3–1 \\neq 0), and the difference depends on (n) via (q^{3n-3}), so the difference is not constant. Therefore, ({b_n}) is not arithmetic.
 
-> Comparing with the options, the correct choice is C, which states that ({b_n}) is a geometric sequence with a common ratio of (q^3). Options A and D are incorrect because the sequence is not arithmetic and is in fact geometric, and option B is incorrect because the ratio is (q^3), not (q).
+> Comparing with the options, the correct choice is C, which states that ({bₙ}) is a geometric sequence with a common ratio of (q³). Options A and D are incorrect because the sequence is not arithmetic and is in fact geometric, and option B is incorrect because the ratio is (q³), not (q).
 
 ---
 
@@ -39,29 +39,29 @@ The sequence ({bₙ}) is a geometric sequence with a common ratio of (q³). This
 
 ## Step-by-step solution
 
-### Step 1: express (b_n) in terms of (a_1) and (q)
+### Step 1: express (bₙ) in terms of (a₁) and (q)
 
-Given that ({a_n}) is a geometric sequence with first term (a_1) and common ratio (q), we have:
+Given that ({aₙ}) is a geometric sequence with first term (a₁) and common ratio (q), we have:
 
 aₙ = a₁ qⁿ⁻¹
 
-Now, express (b_n) as the sum of three consecutive terms of ({a_n}):
+Now, express (bₙ) as the sum of three consecutive terms of ({aₙ}):
 
 bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎
 
-Substitute the geometric sequence formula into the expression for (b_n):
+Substitute the geometric sequence formula into the expression for (bₙ):
 
 bₙ = a₁ q^(3n−3) + a₁ q^(3n−2) + a₁ q^(3n−1)
 
-Factor out (a_1 q^{3n-3}):
+Factor out (a₁ q^(3n−3)):
 
 bₙ = a₁ q^(3n−3) (1 + q + q²)
 
 ---
 
-### Step 2: determine the ratio of successive terms in ({b_n})
+### Step 2: determine the ratio of successive terms in ({bₙ})
 
-To determine whether ({b_n}) is a geometric sequence, we calculate the ratio of successive terms:
+To determine whether ({bₙ}) is a geometric sequence, we calculate the ratio of successive terms:
 
 [bₙ₊₁/bₙ] = [a₁ q^(3(n+1)−3) (1 + q + q²)/(a₁ q^(3n−3) (1 + q + q²))]
 
@@ -76,14 +76,14 @@ Since the ratio ([bₙ₊₁/bₙ]) is constant and equal to (q³), the sequence
 ### Step 3: verify other options
 
 - **Option A**: An arithmetic sequence has a constant difference between successive terms. Here, the ratio is constant, not the difference, so ({b_n}) is not an arithmetic sequence.
-- **Option B**: The common ratio is (q^3), not (q), so this option is incorrect.
+- **Option B**: The common ratio is (q³), not (q), so this option is incorrect.
 - **Option D**: Since ({b_n}) is a geometric sequence, this option is incorrect.
 
 ---
 
 ## Conclusion
 
-The sequence ({b_n}) is a geometric sequence with a common ratio of (q^3). Therefore, the correct answer is **C**.
+The sequence ({bₙ}) is a geometric sequence with a common ratio of (q³). Therefore, the correct answer is **C**.
 
 ---
 
@@ -785,7 +785,7 @@ In total, our predictionscontain three parameters (β, r 0, and r 1), which must
 
 ### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^b49db923]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
 
-AABIP guidelines — panel A meta-analysis comparing multiple-tool versus single-tool approaches reports pooled odds ratios (OR) as follows: common effect model OR 1.77 [1.49; 2.10] and random effects model OR 1.78 [1.49; 2.14], with prediction interval [1.36; 2.34]. Heterogeneity is I^2 = 6.5%, τ^2 = 0.0057, p = 0.3815. The scale is labeled "Favours Single" to "Favours Multiple" (Odds Ratio [95% CI]).
+AABIP guidelines — panel A meta-analysis comparing multiple-tool versus single-tool approaches reports pooled odds ratios (OR) as follows: common effect model OR 1.77 [1.49; 2.10] and random effects model OR 1.78 [1.49; 2.14], with prediction interval [1.36; 2.34]. Heterogeneity is I² = 6.5%, τ² = 0.0057, p = 0.3815. The scale is labeled "Favours Single" to "Favours Multiple" (Odds Ratio [95% CI]).
 
 ---
 
@@ -905,7 +905,7 @@ Algorithm — This clinical practice guideline's algorithm is designed to facili
 
 ### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^e5f70036]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
 
-AABIP guidelines — panel B meta-analysis of multiple-tool versus single-tool approaches shows common effect model OR 1.63 [1.33; 2.00] and random effects model OR 1.64 [1.33; 2.02], with prediction interval [1.20; 2.24]. Heterogeneity is I^2 = 0.0%, τ^2 = 0.0031, p = 0.6847. The axis is labeled "Favours Single" and "Favours Multiple" (Odds Ratio [95% CI]).
+AABIP guidelines — panel B meta-analysis of multiple-tool versus single-tool approaches shows common effect model OR 1.63 [1.33; 2.00] and random effects model OR 1.64 [1.33; 2.02], with prediction interval [1.20; 2.24]. Heterogeneity is I² = 0.0%, τ² = 0.0031, p = 0.6847. The axis is labeled "Favours Single" and "Favours Multiple" (Odds Ratio [95% CI]).
 
 ---
 
@@ -921,7 +921,7 @@ A predictive model for the undersampling error leveraging on perturbation theory
 
 Results
 
-Numerical simulations and in vivo results demonstrate that the undersampling errors can be suppressed by flip angle optimization. Analysis of the in vivo results show that a sequence optimized for improved robustness against undersampling with a flip angle train of length 400 yielded significantly lower median absolute errors in T₁: 5.6% ± 2.9% and T₂: 7.9% ± 2.3% compared to the conventional (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 8.0% ± 1.9%, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 14.5% ± 2.6%) and CRB-based (< mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 1 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 21.6% ± 4.1%, < mml:math xmlns:mml = "http://www.w3.org/1998/Math/MathML" > < mml:msub > < mml:mrow > < mml:mi > T < /mml:mi > < /mml:mrow > < mml:mrow > < mml:mn > 2 < /mml:mn > < /mml:mrow > < /mml:msub > < /mml:math >: 31.4% ± 4.4%) sequences.
+Numerical simulations and in vivo results demonstrate that the undersampling errors can be suppressed by flip angle optimization. Analysis of the in vivo results show that a sequence optimized for improved robustness against undersampling with a flip angle train of length 400 yielded significantly lower median absolute errors in T₁: 5.6% ± 2.9% and T₂: 7.9% ± 2.3% compared to the conventional (T₁: 8.0% ± 1.9%, T₂: 14.5% ± 2.6%) and CRB-based (T₁: 21.6% ± 4.1%, T₂: 31.4% ± 4.4%) sequences.
 
 Conclusion
 

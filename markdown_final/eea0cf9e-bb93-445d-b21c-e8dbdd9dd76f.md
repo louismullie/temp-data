@@ -768,7 +768,7 @@ A systematic review and meta-analysis of randomised controlled trials (RCTs) and
 
 Results
 
-Four studies were included, including two RCTs and two case series. A total of 53 patients received an ESPB, compared with 40 patients who received standard care. All studies were rated as having a high overall risk of bias. Meta-analysis showed a large and significant effect of ESPB on pain reduction after 30min (standardised mean difference (SMD) -1.41 95%CI -1.90 to -0.91) and after 60min (SMD -1.94 95%CI -3.36 to -0.52), however the level of evidence was downgraded to very low certainty due to substantial heterogeneity (I 2 = 85%), serious concerns of bias and large imprecision. Heterogeneity in other outcome measurements precluded meta-analysis.
+Four studies were included, including two RCTs and two case series. A total of 53 patients received an ESPB, compared with 40 patients who received standard care. All studies were rated as having a high overall risk of bias. Meta-analysis showed a large and significant effect of ESPB on pain reduction after 30min (standardised mean difference (SMD) -1.41 95%CI -1.90 to -0.91) and after 60min (SMD -1.94 95%CI -3.36 to -0.52), however the level of evidence was downgraded to very low certainty due to substantial heterogeneity (I² = 85%), serious concerns of bias and large imprecision. Heterogeneity in other outcome measurements precluded meta-analysis.
 
 Conclusions
 

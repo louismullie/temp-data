@@ -61,7 +61,7 @@ A = [(b + 2b)/2] × h = [3b/2] × √(1 − [b²/4])
 
 ## Maximizing the area
 
-To maximize (A), we maximize (A^2) (since (A > 0)):
+To maximize (A), we maximize (A²) (since (A > 0)):
 
 A² = ([3b/2])² (1 − [b²/4]) = [9b²/4] (1 − [b²/4]) = [9/4] (b² − [b⁴/4])
 
@@ -253,7 +253,7 @@ Single passive limb movement
 
 Single passive limb movement was performed by the recommended procedures. Sitting on a chair, subjects rested in the upright-seated position for 10 min before starting the data collection and remained in this position until the end of the test. The sPLM protocol consisted of 60 s of baseline peripheral hemodynamic data collection, followed by single passive knee flexion and extension of 1 s, after which the leg was kept fully extended for the remaining 59 s for the postmovement data collection. sPLM was performed by a member of the research team, who moved the subject's lower leg through a 90° ROM at 1 Hz. Throughout the test, measurements of arterial blood velocity and vessel diameter were performed in the common femoral artery of the passively moved leg, distal to the inguinal ligament and proximal to the deep and superficial femoral bifurcation by Doppler ultrasound (mod. Logiq-7; General Electric Medical Systems). After being positioned to an insonation angle of 60° or less, a 9-MHz linear array transducer was used to measure the mean blood velocity. The sample volume was centered and size-maximized according to the vessel's diameter. Femoral artery Q ˙ (Q ˙ fem) was calculated by using data of arterial diameter and mean blood velocity as:
 
-Q ˙ (mL·min −1) = mean blood velocity × π × (diameter / 2) 2 × 60
+Q ˙ (mL·min −1) = mean blood velocity × π × (diameter / 2)² × 60
 
 The cumulative Q ˙ fem was integrated (area under the curve [AUC]) using the trapezoidal rule and then calculated. Reliability analysis for sPLM was previously reported.
 
@@ -963,7 +963,7 @@ In this retrospective multicentre cohort study, patients (n = 52) were assessed 
 
 Results
 
-Reduced muscle volume was found across all groups with a higher muscle volume in the conservative (729.9 ± 130.3 cm(3)) compared to the percutaneous group (675.9 ± 207.4 cm(3), p = 0.04). AT length was longer in the affected leg (198.4 ± 24.1 vs. 180.6 ± 25.0 mm, p < 0.0001) without difference in subgroup analysis. Clinically measured ankle dorsiflexion showed poor correlation with AT length (R (2) = 0.07, p = 0.008). Muscle volume strongly correlated with the cross-sectional area (R (2) = 0.6, p < 0.0001) but showed a weak correlation with the Hannover score (R (2) = 0.08, p = 0.048). Maximum calf circumference correlated with muscle volume (R (2) = 0.42, p < 0.0001).
+Reduced muscle volume was found across all groups with a higher muscle volume in the conservative (729.9 ± 130.3 cm(3)) compared to the percutaneous group (675.9 ± 207.4 cm(3), p = 0.04). AT length was longer in the affected leg (198.4 ± 24.1 vs. 180.6 ± 25.0 mm, p < 0.0001) without difference in subgroup analysis. Clinically measured ankle dorsiflexion showed poor correlation with AT length (R² = 0.07, p = 0.008). Muscle volume strongly correlated with the cross-sectional area (R² = 0.6, p < 0.0001) but showed a weak correlation with the Hannover score (R² = 0.08, p = 0.048). Maximum calf circumference correlated with muscle volume (R² = 0.42, p < 0.0001).
 
 Conclusions
 

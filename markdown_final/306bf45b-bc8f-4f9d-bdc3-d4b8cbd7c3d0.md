@@ -395,7 +395,7 @@ A cross-sectional comparison was conducted with three groups of postmenopausal r
 
 Results
 
-Respondents, on average, were obese (body mass index: 33.9 ± 0.4 kg/m(2)), 11.30 ± 0.2 years postmenopause, with more than one chronic illness. Despite higher body mass index and increased comorbidities in women with diabetes compared with nondiabetic women, measures of mental health (anxiety, depressed mood, stress) were similar across groups. The pattern of menopause symptoms did not differ by group. Muscle aches/joint pain was the most prevalent symptom (78.6%), followed by vasomotor symptoms (74.4%). Respondents with elevated HbA1c demonstrated higher total menopausal symptom severity scores (DM-HbA1c > 7: 15.4 ± 0.8 vs. DM-HbA1c ≤ 7%: 12.2 ± 0.8 vs. No diabetes: 12.3 ± 0.8; p = 0.006) than the other two groups.
+Respondents, on average, were obese (body mass index: 33.9 ± 0.4 kg/m²), 11.30 ± 0.2 years postmenopause, with more than one chronic illness. Despite higher body mass index and increased comorbidities in women with diabetes compared with nondiabetic women, measures of mental health (anxiety, depressed mood, stress) were similar across groups. The pattern of menopause symptoms did not differ by group. Muscle aches/joint pain was the most prevalent symptom (78.6%), followed by vasomotor symptoms (74.4%). Respondents with elevated HbA1c demonstrated higher total menopausal symptom severity scores (DM-HbA1c > 7: 15.4 ± 0.8 vs. DM-HbA1c ≤ 7%: 12.2 ± 0.8 vs. No diabetes: 12.3 ± 0.8; p = 0.006) than the other two groups.
 
 Conclusions
 

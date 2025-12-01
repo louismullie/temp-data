@@ -49,7 +49,7 @@ Parametrize the contour as (r(t) = (2 cos t, 2 sin t, 3)) for (t ∈ [0, 2π]). 
 
 The circulation is:
 
-∮_L a · dr = ∫₀^{2π} (−4 sin² t + 18 cos t) dt = −4π
+∮_L a · dr = ∫₀→2π (−4 sin² t + 18 cos t) dt = −4π
 
 ---
 
