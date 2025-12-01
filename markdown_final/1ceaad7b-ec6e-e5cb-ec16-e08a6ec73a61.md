@@ -73,7 +73,7 @@ Using Q80.1 correctly improves **claims processing**, supports **epidemiologic s
 
 ## Related ICD-10-CM codes
 
-| **ICD-10-cm code** | **Description** |
+| **ICD-10-CM code** | **Description** |
 |-|-|
 | Q80.0 | Ichthyosis vulgaris |
 | Q80.2 | Lamellar ichthyosis |

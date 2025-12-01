@@ -1263,7 +1263,7 @@ Diastasis recti abdominis (DRA) is defined as a separation of the 2 muscle belli
 
 Methods
 
-This prospective cohort study followed 300 first-time pregnant women from pregnancy till 12 months post partum. Data were collected by electronic questionnaire and clinical examinations. DRA was defined as a palpated separation of ≥ 2 fingerbreadths either 4.5 cm above, at or 4.5 cm below the umbilicus. Women with and without DRA were compared with independent samples Student's t-test and χ 2 /Fisher exact test, and OR with significance level > 0.05.
+This prospective cohort study followed 300 first-time pregnant women from pregnancy till 12 months post partum. Data were collected by electronic questionnaire and clinical examinations. DRA was defined as a palpated separation of ≥ 2 fingerbreadths either 4.5 cm above, at or 4.5 cm below the umbilicus. Women with and without DRA were compared with independent samples Student's t-test and χ²/Fisher exact test, and OR with significance level > 0.05.
 
 Results
 

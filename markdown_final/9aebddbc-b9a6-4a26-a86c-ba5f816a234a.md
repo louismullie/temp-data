@@ -394,11 +394,11 @@ We performed a retrospective analysis of data from a community-based cohort of i
 
 Results
 
-After a 12-year follow-up period, higher proportions of subjects with levels of anti-HBc < 3 log IU/mL had undetectable levels of HBV DNA (58%) and HBsAg seroclearance (53%) than subjects with higher levels of anti-HBc (29.6% and 19.8%, respectively) (P < .001). For subjects with levels of HBsAg < 10 2 IU/mL and anti-HBc < 3 log IU/mL, the adjusted rate ratio of HBV DNA undetectability was 16.45 (95% CI, 11.15–24.28) and of HBsAg seroclearance was 17.95 (95% CI, 12.49–25.81), compared to subjects with higher levels of HBsAg and anti-HBc. A model that included level of anti-HBc as a parameter identified subjects with HBsAg seroclearance within 10 years with an AUROC of 82%; this value was significantly higher than that from models that include only level of HBV DNA and HBsAg (P < .0001).
+After a 12-year follow-up period, higher proportions of subjects with levels of anti-HBc < 3 log IU/mL had undetectable levels of HBV DNA (58%) and HBsAg seroclearance (53%) than subjects with higher levels of anti-HBc (29.6% and 19.8%, respectively) (P < .001). For subjects with levels of HBsAg < 10² IU/mL and anti-HBc < 3 log IU/mL, the adjusted rate ratio of HBV DNA undetectability was 16.45 (95% CI, 11.15–24.28) and of HBsAg seroclearance was 17.95 (95% CI, 12.49–25.81), compared to subjects with higher levels of HBsAg and anti-HBc. A model that included level of anti-HBc as a parameter identified subjects with HBsAg seroclearance within 10 years with an AUROC of 82%; this value was significantly higher than that from models that include only level of HBV DNA and HBsAg (P < .0001).
 
 Conclusions
 
-In a retrospective analysis of a large cohort of patients with chronic HBV infection in Taiwan, we associated levels of anti-HBc < 3 log IU/mL with undetectable HBV DNA and HBsAg seroclearance occurred within 10 years; patients who also have levels of HBsAg < 10 2 IU/mL have greater odds. Combining data on levels of HBsAg, HBV DNA, and anti-HBc is able to identify HBeAg-seronegative patients who can achieve HBsAg seroclearance with an AUROC value of 82%.
+In a retrospective analysis of a large cohort of patients with chronic HBV infection in Taiwan, we associated levels of anti-HBc < 3 log IU/mL with undetectable HBV DNA and HBsAg seroclearance occurred within 10 years; patients who also have levels of HBsAg < 10² IU/mL have greater odds. Combining data on levels of HBsAg, HBV DNA, and anti-HBc is able to identify HBeAg-seronegative patients who can achieve HBsAg seroclearance with an AUROC value of 82%.
 
 ---
 

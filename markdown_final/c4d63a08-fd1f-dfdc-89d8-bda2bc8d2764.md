@@ -57,7 +57,7 @@ Pulmonary edema treatment is **etiology-specific and time-sensitive**: prioritiz
 
 Key medications by **edema type**:
 
-| **Medication** | **Cardiogenic pulmonary edema** | **Noncardiogenic pulmonary edema (ards)** | **High-altitude pulmonary edema (hape)** |
+| **Medication** | **Cardiogenic pulmonary edema** | **Noncardiogenic pulmonary edema (ARDS)** | **High-altitude pulmonary edema (HAPE)** |
 |-|-|-|-|
 | Loop diuretics (e.g. furosemide) | First-line to reduce preload and relieve congestion [^4fb90928] | Not routinely used; avoid unless fluid overload [^notfound] | Limited role; may help if fluid overload [^notfound] |
 | Vasodilators (e.g. nitroglycerin, nitroprusside) | Reduce preload/afterload; rapid symptom relief [^0b645df4] | Contraindicated due to hypotension risk | Not indicated |

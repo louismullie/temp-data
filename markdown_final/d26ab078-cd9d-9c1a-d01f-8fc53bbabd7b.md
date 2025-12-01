@@ -21,9 +21,9 @@ D. is neither an arithmetic sequence nor a geometric sequence
 
 > Let me first confirm the setup. The original sequence is geometric with first term (a₁) and common ratio (q), so (aₙ = a₁ qⁿ⁻¹). The new sequence is defined by (bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎), which sums three consecutive terms of ({aₙ}) starting at index (3n-2). I should double-check that indexing: for (n = 1) we get (a₁ + a₂ + a₃), for (n = 2) we get (a₄ + a₅ + a₆), and so on, which matches the problem statement.
 
-> Now, I will express (bₙ) explicitly in terms of (a₁) and (q). Substituting the geometric formula, (bₙ = a₁ q^(3n−3) + a₁ q^(3n−2) + a₁ q^(3n−1) = a₁ q^(3n−3)(1 + q + q²)). Wait, let me verify the exponent arithmetic: (q^(3n−3) + q^(3n−2) + q^(3n−1) = q^(3n−3)(1 + q + q²)), which is correct. So (bₙ = a₁ (1 + q + q²) q^(3n−3)).
+> Now, I will express (bₙ) explicitly in terms of (a₁) and (q). Substituting the geometric formula, (bₙ = a₁ q³ⁿ⁻³ + a₁ q³ⁿ⁻² + a₁ q³ⁿ⁻¹ = a₁ q³ⁿ⁻³(1 + q + q²)). Wait, let me verify the exponent arithmetic: (q³ⁿ⁻³ + q³ⁿ⁻² + q³ⁿ⁻¹ = q³ⁿ⁻³(1 + q + q²)), which is correct. So (bₙ = a₁ (1 + q + q²) q³ⁿ⁻³).
 
-> Next, I should review whether ({bₙ}) is geometric by computing the ratio of successive terms. Let me calculate ([bₙ₊₁/bₙ]): (bₙ₊₁ = a₁ (1 + q + q²) q^(3(n+1)−3) = a₁ (1 + q + q²) q^(3n)), so the ratio is ([q^(3n)/q^(3n−3)] = q³). Hold on, I should verify that the constant factor cancels: yes, (a₁ (1 + q + q²)) appears in both numerator and denominator and cancels out, leaving a constant ratio of (q³).
+> Next, I should review whether ({bₙ}) is geometric by computing the ratio of successive terms. Let me calculate ([bₙ₊₁/bₙ]): (bₙ₊₁ = a₁ (1 + q + q²) q³ⁿ = a₁ (1 + q + q²) q³ⁿ), so the ratio is ([q³ⁿ/q³ⁿ⁻³] = q³). Hold on, I should verify that the constant factor cancels: yes, (a₁ (1 + q + q²)) appears in both numerator and denominator and cancels out, leaving a constant ratio of (q³).
 
 > I need to ensure this implies ({b_n}) is geometric. By definition, if the ratio of consecutive terms is constant, the sequence is geometric with that common ratio. Here the ratio is (q^3), so ({b_n}) is geometric with common ratio (q^3). Let me reconsider whether any constraint on (q) changes this: the problem states (q \\neq 1), which prevents the trivial case where all terms are equal, but does not affect the ratio calculation, so the conclusion stands.
 
@@ -51,11 +51,11 @@ bₙ = a₍₃ₙ₋₂₎ + a₍₃ₙ₋₁₎ + a₍₃ₙ₎
 
 Substitute the geometric sequence formula into the expression for (bₙ):
 
-bₙ = a₁ q^(3n−3) + a₁ q^(3n−2) + a₁ q^(3n−1)
+bₙ = a₁ q³ⁿ⁻³ + a₁ q³ⁿ⁻² + a₁ q³ⁿ⁻¹
 
-Factor out (a₁ q^(3n−3)):
+Factor out (a₁ q³ⁿ⁻³):
 
-bₙ = a₁ q^(3n−3) (1 + q + q²)
+bₙ = a₁ q³ⁿ⁻³ (1 + q + q²)
 
 ---
 
@@ -63,11 +63,11 @@ bₙ = a₁ q^(3n−3) (1 + q + q²)
 
 To determine whether ({bₙ}) is a geometric sequence, we calculate the ratio of successive terms:
 
-[bₙ₊₁/bₙ] = [a₁ q^(3(n+1)−3) (1 + q + q²)/(a₁ q^(3n−3) (1 + q + q²))]
+[bₙ₊₁/bₙ] = [a₁ q³ⁿ (1 + q + q²)/(a₁ q³ⁿ⁻³ (1 + q + q²))]
 
 Simplify the expression:
 
-[bₙ₊₁/bₙ] = [q^(3n)/q^(3n−3)] = q³
+[bₙ₊₁/bₙ] = [q³ⁿ/q³ⁿ⁻³] = q³
 
 Since the ratio ([bₙ₊₁/bₙ]) is constant and equal to (q³), the sequence ({bₙ}) is a geometric sequence with a common ratio of (q³).
 
@@ -75,9 +75,9 @@ Since the ratio ([bₙ₊₁/bₙ]) is constant and equal to (q³), the sequence
 
 ### Step 3: verify other options
 
-- **Option A**: An arithmetic sequence has a constant difference between successive terms. Here, the ratio is constant, not the difference, so ({b_n}) is not an arithmetic sequence.
+- **Option A**: An arithmetic sequence has a constant difference between successive terms. Here, the ratio is constant, not the difference, so ({bₙ}) is not an arithmetic sequence.
 - **Option B**: The common ratio is (q³), not (q), so this option is incorrect.
-- **Option D**: Since ({b_n}) is a geometric sequence, this option is incorrect.
+- **Option D**: Since ({bₙ}) is a geometric sequence, this option is incorrect.
 
 ---
 
