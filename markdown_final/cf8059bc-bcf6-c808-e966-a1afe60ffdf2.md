@@ -797,7 +797,7 @@ Living environment domain (mother-reported)
 
 Outcomes
 
-The three primary outcomes were: clinically suspected sepsis, laboratory-confirmed sepsis, and all-cause mortality during the first 60 days of life. Clinically suspected sepsis was defined as the collection of 0·5 mL or more of blood for culture from a neonate where the clinician had identified sepsis symptoms. In neonates with clinically suspected sepsis, laboratory-confirmed sepsis was defined as a positive blood culture. Blood cultures with suspected contaminants (appendix p 10) were excluded from laboratory-confirmed sepsis. All-cause mortality was defined as being reported deceased by a clinician or family member at one of the predefined follow-up points; date of death was recorded to determine neonatal age.
+The three primary outcomes were: clinically suspected sepsis, laboratory-confirmed sepsis, and all-cause mortality during the first 60 days of life. Clinically suspected sepsis was defined as the collection of 0.5 mL or more of blood for culture from a neonate where the clinician had identified sepsis symptoms. In neonates with clinically suspected sepsis, laboratory-confirmed sepsis was defined as a positive blood culture. Blood cultures with suspected contaminants (appendix p 10) were excluded from laboratory-confirmed sepsis. All-cause mortality was defined as being reported deceased by a clinician or family member at one of the predefined follow-up points; date of death was recorded to determine neonatal age.
 
 ---
 
