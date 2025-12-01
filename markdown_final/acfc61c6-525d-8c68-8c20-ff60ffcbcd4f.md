@@ -311,9 +311,7 @@ Ampicillin and Sulbactam for Injection Dosage Guide for Patients with Renal Impa
 
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance. The serum creatinine should represent a steady state of renal function.
 
-Males weight (kg) × (140 – age)
-
-72 × serum creatinine
+Males [weight (kg) × (140 – age)]/[72 × serum creatinine]
 
 Females 0.85 × above value
 
@@ -515,9 +513,7 @@ In patients with impairment of renal function the elimination kinetics of ampici
 
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance. The serum creatinine should represent a steady state of renal function.
 
-Males weight (kg) × (140 – age)
-
-72 × serum creatinine
+Males [weight (kg) × (140 – age)]/[72 × serum creatinine]
 
 Females 0.85 × above value
 
@@ -846,11 +842,7 @@ Ampicillin and Sulbactam for Injection, USP Dosage Guide for Patients with Renal
 
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance. The serum creatinine should represent a steady state of renal function.
 
-Males weight (kg) × (140 - age)
-
-_____________________
-
-72 × serum creatinine
+Males [weight (kg) × (140 - age)]/[72 × serum creatinine]
 
 Females 0.85 × above value
 
