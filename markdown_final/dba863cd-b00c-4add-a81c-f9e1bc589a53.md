@@ -518,9 +518,9 @@ FIGO created two systems for assessing and classifying AUB:
 
 - **FIGO system 1**: Defines the bleeding pattern using four primary descriptors: frequency, duration, regularity, and flow volume.
 - **FIGO system 2**: Provides a structured classification system of possible causes of AUB, using the acronym PALM-COEIN.
-	- "PALM**: Refers to structural causes of AUB (Polyp, Adenomyosis, Leiomyoma, Malignancy).
-	- **COEI**: Refers to nonstructural causes (Coagulopathy, Ovulatory dysfunction, Endometrial, and Iatrogenic).
-	- **N"*: Reserved for those entities that are currently not otherwise classified.
+	- PALM: Refers to structural causes of AUB (Polyp, Adenomyosis, Leiomyoma, Malignancy).
+	- COEI: Refers to nonstructural causes (Coagulopathy, Ovulatory dysfunction, Endometrial, and Iatrogenic).
+	- N: Reserved for those entities that are currently not otherwise classified.
 
 Using FIGO system 1 as a gateway to FIGO system 2 streamlines the investigation of reproductive-aged women and girls with AUB. Understanding the pathogenesis of the FIGO system 2 "PALM-COEIN" causes helps interpret investigations and the onward management of AUB.
 
