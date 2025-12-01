@@ -69,7 +69,7 @@ Evidence from **randomized controlled trials and meta-analyses** demonstrates th
 
 ## Renal impairment and dose adjustments
 
-| **Creatinine clearance (crcl)** | **Recommended dose adjustment** |
+| **Creatinine clearance (CrCl)** | **Recommended dose adjustment** |
 |-|-|
 | ≥ 90 mL/min | Standard regimen (3 g IV every 8 hours) |
 | 30–89 mL/min | Extend dosing interval to every 12 hours |
