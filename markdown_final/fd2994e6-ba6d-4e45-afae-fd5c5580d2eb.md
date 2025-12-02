@@ -43,7 +43,7 @@ When to order doac
 
 ---
 
-Order a DOAC for **nonvalvular atrial fibrillation with elevated stroke risk** (CHA₂DS₂-VASc ≥ 2 in men or ≥ 3 in women) [^117MT2Gg], **acute VTE treatment** (DVT/PE) [^112thCqj], and **VTE prophylaxis after major orthopedic surgery** (hip/knee replacement) [^114aCyez]. DOACs are also appropriate for **cancer-associated VTE** [^112thCqj] and **extended VTE prevention** [^114aCyez]. Avoid DOACs in mechanical heart valves, moderate-to-severe mitral stenosis, severe renal impairment (CrCl < 15 mL/min), advanced liver disease, or triple-positive antiphospholipid syndrome [^117MT2Gg] [^1155dUxX] [^116qdVzb]. Follow DOAC-specific dosing criteria and adjust based on renal function, age, weight, and drug interactions [^113xd6B9] [^111UcWtA].
+Order a DOAC for **nonvalvular atrial fibrillation with elevated stroke risk** (CHA₂DS₂-VASc ≥ 2 in men or ≥ 3 in women) [^117MT2Gg], **acute VTE treatment** (DVT/PE) [^112thCqj], and **VTE prophylaxis after major orthopedic surgery** (hip/knee replacement) [^114pb5s3]. DOACs are also appropriate for **cancer-associated VTE** [^112thCqj] and **extended VTE prevention** [^114aCyez]. Avoid DOACs in mechanical heart valves, moderate-to-severe mitral stenosis, severe renal impairment (CrCl < 15 mL/min), advanced liver disease, or triple-positive antiphospholipid syndrome [^117MT2Gg] [^1155dUxX] [^116qdVzb]. Follow DOAC-specific dosing criteria and adjust based on renal function, age, weight, and drug interactions [^113xd6B9] [^111UcWtA].
 
 ---
 

@@ -13,7 +13,7 @@ can clindamycin be used in klebsiella infection
 
 ## Answer
 
-> Let's see… What do we have here? The user is asking whether clindamycin can be used for Klebsiella infections. Let's break this down step-by-step. First, I need to think about clindamycin's labeled antibacterial spectrum and intrinsic activity. Then, I should verify the microbiology of Klebsiella and whether that aligns with clindamycin's activity. Next, I will review contemporary guideline recommendations for treating Klebsiella across common syndromes to see if clindamycin is ever endorsed. Finally, I need to consider stewardship and safety implications to frame a clear recommendation [^114QPBjx] [^112qhAQC].
+> Let's see… What do we have here? The user is asking whether clindamycin can be used for Klebsiella infections. Let's break this down step-by-step. First, I need to think about clindamycin's labeled antibacterial spectrum and intrinsic activity. Then, I should verify the microbiology of Klebsiella and whether that aligns with clindamycin's activity. Next, I will review contemporary guideline recommendations for treating Klebsiella across common syndromes to see if clindamycin is ever endorsed. Finally, I need to consider stewardship and safety implications to frame a clear recommendation.
 
 > Let me first confirm clindamycin's labeled activity. The FDA labeling indicates clindamycin is for serious infections due to susceptible anaerobes and certain gram-positive organisms, specifically streptococci, pneumococci, and staphylococci, with cautions to reserve use because of C. difficile risk; there is no indication for gram-negative Enterobacterales such as Klebsiella, and its labeled spectrum does not include these organisms [^114QPBjx] [^112qdYXd] [^114vKwKX].
 

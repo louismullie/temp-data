@@ -39,7 +39,7 @@ Inpatient treatment for patient with tachycardia
 
 > Let me think about rhythm-control strategies and ablation candidacy; for recurrent AVNRT or AVRT, catheter ablation offers high success and durable results, and I should discuss this early during inpatient care, arranging EP consultation and scheduling ablation before discharge when feasible to reduce recurrence and readmissions [^112b9Mas].
 
-> I should confirm special-population nuances; in pregnancy, vagal maneuvers and adenosine remain first-line and synchronized cardioversion is safe if needed, in older adults management should be individualized to comorbidities and frailty, and in patients with adult congenital heart disease, I need to consider anticoagulation and tailored antiarrhythmic choices with EP involvement [^1142q9dQ] [^113XtroL] [^112ntLnu].
+> I should confirm special-population nuances; in pregnancy, vagal maneuvers and adenosine remain first-line and synchronized cardioversion is safe if needed, in older adults management should be individualized to comorbidities and frailty, and in patients with adult congenital heart disease, I need to consider anticoagulation and tailored antiarrhythmic choices with EP involvement [^1142q9dQ] [^113XtroL] [^113ssKs7].
 
 > Hold on, I should verify medication safety pearls; amiodarone is effective for refractory SVT but requires careful attention to bradycardia, QT prolongation, pulmonary, hepatic, and thyroid toxicity, and drug interactions such as reducing warfarin and digoxin doses, so inpatient loading with telemetry and a clear outpatient monitoring plan are essential [^116zXnBx] [^115ZRH51].
 

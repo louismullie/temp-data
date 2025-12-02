@@ -43,7 +43,7 @@ Based on current guidelines, how should the portal hypertension in this patient 
 
 ---
 
-For a 14-year-old with extrahepatic portal vein obstruction and large esophageal varices, **primary prophylaxis with nonselective beta-blockers (NSBB) or endoscopic variceal ligation (EVL) is indicated** to prevent first variceal bleeding [^notfound] [^notfound]. NSBB is preferred if tolerated, with EVL for those who cannot take or do not respond to beta-blockers [^ba446761] [^notfound]. Meso-Rex bypass should be considered if anatomy is favorable and expertise is available, as it restores physiologic portal flow and reduces long-term complications [^4aab782e] [^f6481a2e]. TIPS is not first-line in children and is reserved for refractory cases or when surgery is not feasible [^0bfe3d25]. Lifelong surveillance for variceal recurrence and complications is essential [^6a175efe].
+For a 14-year-old with extrahepatic portal vein obstruction and large esophageal varices, **primary prophylaxis with nonselective beta-blockers (NSBB) or endoscopic variceal ligation (EVL) is indicated** to prevent first variceal bleeding [^notfound]. NSBB is preferred if tolerated, with EVL for those who cannot take or do not respond to beta-blockers [^ba446761]. Meso-Rex bypass should be considered if anatomy is favorable and expertise is available, as it restores physiologic portal flow and reduces long-term complications [^4aab782e] [^f6481a2e]. TIPS is not first-line in children and is reserved for refractory cases or when surgery is not feasible [^0bfe3d25]. Lifelong surveillance for variceal recurrence and complications is essential [^6a175efe].
 
 ---
 

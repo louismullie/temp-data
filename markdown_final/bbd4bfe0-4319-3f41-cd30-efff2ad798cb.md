@@ -15,23 +15,23 @@ Example 1. Calculate the circulation of the vector field a = y i + z² j − z k
 
 > Let's see… What do we have here? The user is asking to calculate the circulation of the vector field a = y i + z² j − z k along the contour L defined by x² + y² = 4 and z = 3, both directly and using Stokes' theorem. Let's break this down step-by-step. First, I need to think about the geometry and orientation of the contour. Then, I should verify the parametrization and the line integral setup for the direct method. Next, I will compute the curl and the surface integral for the Stokes' theorem approach. Finally, I will reconcile any discrepancies and confirm consistency between the two results.
 
-> Let me first confirm the contour geometry and orientation. The equations x² + y² = 4 and z = 3 describe a circle of radius 2 lying in the plane z = 3. By convention, when viewed from above (positive z), the standard orientation is counterclockwise, so I should parametrize accordingly to ensure the correct sign for circulation [^notfound].
+> Let me first confirm the contour geometry and orientation. The equations x² + y² = 4 and z = 3 describe a circle of radius 2 lying in the plane z = 3. By convention, when viewed from above (positive z), the standard orientation is counterclockwise, so I should parametrize accordingly to ensure the correct sign for circulation.
 
-> For the direct calculation, I will parametrize the curve as r(t) = 2 cos t i + 2 sin t j + 3 k, with t from 0 to 2π. Then dr = (−2 sin t i + 2 cos t j) dt, and I need to evaluate the line integral ∮ a · dr by substituting x = 2 cos t, y = 2 sin t, z = 3 into a and computing the dot product with dr [^notfound].
+> For the direct calculation, I will parametrize the curve as r(t) = 2 cos t i + 2 sin t j + 3 k, with t from 0 to 2π. Then dr = (−2 sin t i + 2 cos t j) dt, and I need to evaluate the line integral ∮ a · dr by substituting x = 2 cos t, y = 2 sin t, z = 3 into a and computing the dot product with dr.
 
-> Wait, let me verify the components of a on the curve. On L, z = 3, so a becomes y i + 9 j − 3 k. Thus, a · dr = (2 sin t)(−2 sin t) + 9(2 cos t) + (−3)(0) = −4 sin² t + 18 cos t. I should double-check that the z-component contribution is indeed zero because dz = 0 on this contour, which it is [^notfound].
+> Wait, let me verify the components of a on the curve. On L, z = 3, so a becomes y i + 9 j − 3 k. Thus, a · dr = (2 sin t)(−2 sin t) + 9(2 cos t) + (−3)(0) = −4 sin² t + 18 cos t. I should double-check that the z-component contribution is indeed zero because dz = 0 on this contour, which it is.
 
-> Now I will integrate term-by-term. The integral of −4 sin² t over 0 to 2π is −4 times π, since ∫ sin² t dt = π over a full period. The integral of 18 cos t over 0 to 2π is zero. So the direct circulation is −4π. Hold on, I should verify the sign: with counterclockwise orientation, a negative result indicates clockwise circulation, which is consistent with the parametrization and the vector field behavior on this path [^notfound].
+> Now I will integrate term-by-term. The integral of −4 sin² t over 0 to 2π is −4 times π, since ∫ sin² t dt = π over a full period. The integral of 18 cos t over 0 to 2π is zero. So the direct circulation is −4π. Hold on, I should verify the sign: with counterclockwise orientation, a negative result indicates clockwise circulation, which is consistent with the parametrization and the vector field behavior on this path.
 
-> Next, I should review the Stokes' theorem approach. Stokes' theorem states that ∮ a · dr = ∬ (∇ × a) · dS, where S is any oriented surface bounded by L. I will choose the flat disk in the plane z = 3 bounded by the circle, with normal vector n = k pointing upward to match the right-hand rule for the chosen orientation of L [^notfound].
+> Next, I should review the Stokes' theorem approach. Stokes' theorem states that ∮ a · dr = ∬ (∇ × a) · dS, where S is any oriented surface bounded by L. I will choose the flat disk in the plane z = 3 bounded by the circle, with normal vector n = k pointing upward to match the right-hand rule for the chosen orientation of L.
 
-> I need to compute the curl of a. Let me think about the components: ∇ × a = (∂(−z)/∂y − ∂(z²)/∂z) i − (∂(−z)/∂x − ∂(y)/∂z) j + (∂(z²)/∂x − ∂(y)/∂y) k = (0 − 2z) i − (0 − 0) j + (0 − 1) k = −2z i − k. On the surface S where z = 3, this simplifies to −6 i − k [^notfound].
+> I need to compute the curl of a. Let me think about the components: ∇ × a = (∂(−z)/∂y − ∂(z²)/∂z) i − (∂(−z)/∂x − ∂(y)/∂z) j + (∂(z²)/∂x − ∂(y)/∂y) k = (0 − 2z) i − (0 − 0) j + (0 − 1) k = −2z i − k. On the surface S where z = 3, this simplifies to −6 i − k.
 
-> Hold on, I should verify the dot product with the surface normal. Since dS = n dA = k dA, (∇ × a) · dS = (−6 i − k) · k dA = −1 dA. Therefore, the surface integral becomes ∬ −1 dA over the disk of radius 2, which equals −1 times the area π(2)² = −4π. This matches the direct line integral result, confirming consistency [^notfound].
+> Hold on, I should verify the dot product with the surface normal. Since dS = n dA = k dA, (∇ × a) · dS = (−6 i − k) · k dA = −1 dA. Therefore, the surface integral becomes ∬ −1 dA over the disk of radius 2, which equals −1 times the area π(2)² = −4π. This matches the direct line integral result, confirming consistency.
 
-> But wait, what if I had chosen the opposite normal direction? If I mistakenly took n = −k, the surface integral would be +4π, which would contradict the direct calculation. This is a good reminder to align the surface normal with the right-hand rule relative to the curve's orientation, which I did by choosing n = k for counterclockwise traversal of L [^notfound].
+> But wait, what if I had chosen the opposite normal direction? If I mistakenly took n = −k, the surface integral would be +4π, which would contradict the direct calculation. This is a good reminder to align the surface normal with the right-hand rule relative to the curve's orientation, which I did by choosing n = k for counterclockwise traversal of L.
 
-> Final answer: The circulation is −4π. Both the direct line integral and Stokes' theorem yield the same result, verifying correctness and orientation consistency [^notfound].
+> Final answer: The circulation is −4π. Both the direct line integral and Stokes' theorem yield the same result, verifying correctness and orientation consistency.
 
 ---
 

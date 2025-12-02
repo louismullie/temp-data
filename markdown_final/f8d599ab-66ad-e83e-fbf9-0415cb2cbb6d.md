@@ -41,7 +41,7 @@ C4 energy drink and elevated blood pressure
 
 ---
 
-C4 energy drink can cause a **modest, acute rise in blood pressure** [^e3e7a203] due to its caffeine and other stimulants, with typical increases of about 4–6 mmHg systolic and 2–3 mmHg diastolic within 1–2 hours [^25c9d294]. Effects are **stronger in caffeine-naive users**, those with hypertension, and when multiple servings are consumed [^81838102]. The blood pressure rise is usually transient, but repeated use may pose risks for people with cardiovascular disease or hypertension. People with high blood pressure, heart conditions, or those on stimulant medications should limit or avoid C4.
+C4 energy drink can cause a **modest, acute rise in blood pressure** [^e3e7a203] due to its caffeine and other stimulants, with typical increases of about 4–6 mmHg systolic and 2–3 mmHg diastolic within 1–2 hours [^e3e7a203]. Effects are **stronger in caffeine-naive users**, those with hypertension, and when multiple servings are consumed [^81838102]. The blood pressure rise is usually transient, but repeated use may pose risks for people with cardiovascular disease or hypertension. People with high blood pressure, heart conditions, or those on stimulant medications should limit or avoid C4.
 
 ---
 

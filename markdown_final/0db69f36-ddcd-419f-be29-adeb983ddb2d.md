@@ -13,11 +13,11 @@ Which antihypertensive medication is indicated for renal hypertension?
 
 ## Answer
 
-> Let's see… What do we have here? The user is asking which antihypertensive medication is most appropriate for "renal hypertension", and how to tailor therapy when the cause is CKD versus renovascular disease from renal artery stenosis, including combinations, contraindications, and monitoring expectations [^1131CjHu] [^1164MacD] [^116Uiyap] [^113hhZjA].
+> Let's see… What do we have here? The user is asking which antihypertensive medication is most appropriate for "renal hypertension", and how to tailor therapy when the cause is CKD versus renovascular disease from renal artery stenosis, including combinations, contraindications, and monitoring expectations.
 
-> Let me first clarify the term, because I need to ensure we're treating the right entity and not talking past each other; "renal hypertension" can mean hypertension in CKD, or renovascular hypertension due to renal artery stenosis, and that distinction changes risk, drug selection, and the role of revascularization, so I should confirm which phenotype fits the patient before committing to a plan [^1164MacD] [^1136t7QG].
+> Let me first clarify the term, because I need to ensure we're treating the right entity and not talking past each other; "renal hypertension" can mean hypertension in CKD, or renovascular hypertension due to renal artery stenosis, and that distinction changes risk, drug selection, and the role of revascularization, so I should confirm which phenotype fits the patient before committing to a plan.
 
-> Next, I should review first-line therapy for hypertension in CKD with albuminuria, because that's where the renoprotective choice really matters; guidelines consistently prioritize RAAS blockade with an ACE inhibitor or an ARB to lower BP, reduce albuminuria, and slow CKD progression, and this applies across diabetes and non-diabetes with A2–A3 albuminuria, so ACEi or ARB is my initial anchor unless there's a contraindication [^1131CjHu] [^115eF8X2] [^117Qk1GA] [^116VhNKh] [^113hhZjA].
+> Next, I should review first-line therapy for hypertension in CKD with albuminuria, because that's where the renoprotective choice really matters; guidelines consistently prioritize RAAS blockade with an ACE inhibitor or an ARB to lower BP, reduce albuminuria, and slow CKD progression, and this applies across diabetes and non-diabetes with A2–A3 albuminuria, so ACEi or ARB is my initial anchor unless there's a contraindication [^112jEytt] [^115eF8X2] [^117Qk1GA] [^116VhNKh] [^113hhZjA].
 
 > Wait, let me verify choice within the RAAS class; ACE inhibitors and ARBs are both acceptable, and I might be tempted to combine them for added proteinuria reduction, but hold on, I should not jump to that because dual RAAS blockade increases hyperkalemia, hypotension, and AKI without mortality benefit, so I should pick one class and avoid ACEi + ARB together [^111Z3zt7] [^111LLsb8].
 

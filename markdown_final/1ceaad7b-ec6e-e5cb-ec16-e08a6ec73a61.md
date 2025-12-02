@@ -21,7 +21,7 @@ What is the ICD-10-CM code for X-linked ichthyosis?
 
 > I need to ensure I'm not missing a laterality or staging requirement. Let me consider the ICD-10-CM structure: many ophthalmic and some dermatologic codes require 7th characters for laterality or staging, but congenital ichthyosis codes in Q80 do not require a 7th character, so Q80.1 stands as a complete six-character code without additional placeholders or extensions, which simplifies coding in this case [^notfound].
 
-> Next, I should review corroborating sources to be confident. Large epidemiologic and claims-based studies that catalog congenital anomalies explicitly include Q80 codes for congenital ichthyosis, and contemporary dermatology coding summaries reinforce that Q80.1 is the correct, specific code for X-linked ichthyosis, aligning with the ICD-10-CM tabular structure and supporting the choice of Q80.1 as the definitive diagnosis code [^0d35f56c] [^notfound].
+> Next, I should review corroborating sources to be confident. Large epidemiologic and claims-based studies that catalog congenital anomalies explicitly include Q80 codes for congenital ichthyosis, and contemporary dermatology coding summaries reinforce that Q80.1 is the correct, specific code for X-linked ichthyosis, aligning with the ICD-10-CM tabular structure and supporting the choice of Q80.1 as the definitive diagnosis code [^0d35f56c].
 
 > Putting this together, I should double-check that there isn't a more granular or alternative code. There is no sub-subcategory beneath Q80.1 for X-linked ichthyosis, and using Q80.0 (unspecified congenital ichthyosis) would be less accurate when the X-linked etiology is known, so the most precise ICD-10-CM code for X-linked ichthyosis is Q80.1 [^notfound].
 

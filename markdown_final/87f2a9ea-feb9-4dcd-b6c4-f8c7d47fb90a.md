@@ -43,7 +43,7 @@ Vasovagal
 
 ---
 
-Vasovagal syncope is a **reflex-mediated transient loss of consciousness** due to abrupt hypotension and bradycardia, typically triggered by prolonged standing, pain, fear, or emotional stress [^116mVcFM]. It is diagnosed clinically with supportive history and, when needed, tilt-table testing [^112QTi3J]; most cases are managed with education, hydration, salt loading, and physical counter-maneuvers [^113X2zhA], while midodrine or fludrocortisone are options for frequent or severe episodes [^113niPUy] [^116mM314]. Prognosis is **generally benign**, though injuries can occur, and pacing is reserved for refractory, cardioinhibitory cases with documented asystole [^111Hkj8w].
+Vasovagal syncope is a **reflex-mediated transient loss of consciousness** due to abrupt hypotension and bradycardia, typically triggered by prolonged standing, pain, fear, or emotional stress [^116mVcFM]. It is diagnosed clinically with supportive history and, when needed, tilt-table testing [^112QTi3J]; most cases are managed with education, hydration, salt loading, and physical counter-maneuvers [^1153K9BP], while midodrine or fludrocortisone are options for frequent or severe episodes [^113niPUy] [^116mM314]. Prognosis is **generally benign**, though injuries can occur, and pacing is reserved for refractory, cardioinhibitory cases with documented asystole [^111Hkj8w].
 
 ---
 
