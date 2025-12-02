@@ -37,7 +37,7 @@ How does fluoxetine compare to sertraline in terms of anxiety relief?
 
 ---
 
-Sertraline and fluoxetine are both effective SSRIs for anxiety relief, but **sertraline may offer faster and greater anxiety improvement** in the first 6 weeks, especially in primary care settings with coexisting depression and anxiety [^4d283bd7]. Fluoxetine remains effective, particularly for long-term maintenance and in pediatric anxiety, but **sertraline is often preferred** for its earlier anxiolytic effect and favorable tolerability profile [^c86a7d8c] [^4d283bd7]. Head-to-head trials show no consistent superiority of either drug, so **individual response and side effects should guide selection** [^2604b77b].
+Sertraline and fluoxetine are both effective SSRIs for anxiety relief, but **sertraline may offer faster and greater anxiety improvement** in the first 6 weeks, especially in primary care settings with coexisting depression and anxiety [^4d283bd7]. Fluoxetine remains effective, particularly for long-term maintenance and in pediatric anxiety, but **sertraline is often preferred** for its earlier anxiolytic effect and favorable tolerability profile [^135f7ad0] [^4d283bd7]. Head-to-head trials show no consistent superiority of either drug, so **individual response and side effects should guide selection** [^2604b77b].
 
 ---
 

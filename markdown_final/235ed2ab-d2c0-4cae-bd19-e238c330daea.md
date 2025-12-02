@@ -41,7 +41,7 @@ JNC8 hypertension guideline.
 
 ---
 
-The JNC 8 guideline recommends initiating pharmacologic therapy at **≥ 150/90 mm Hg for adults ≥ 60 years** [^114ZcC5v] and **≥ 140/90 mm Hg for adults < 60 years** [^116BWX61], with treatment goals of < 150/90 mm Hg and < 140/90 mm Hg, respectively. For adults ≥ 18 years with diabetes or CKD, initiate therapy at **≥ 140/90 mm Hg** [^112inVHR] [^1118rZC5] and treat to < 140/90 mm Hg [^1118rZC5]. First-line therapy: thiazide-type diuretics, CCBs, ACE inhibitors, or ARBs for nonblack patients; thiazide-type diuretics or CCBs for black patients [^111DCbKx]; and ACE inhibitors or ARBs for CKD [^116VhNKh]. Reassess monthly and titrate or add agents until goal BP is reached [^114yMY2E]; refer to a hypertension specialist if the goal is not achieved [^114KKMtZ].
+The JNC 8 guideline recommends initiating pharmacologic therapy at **≥ 150/90 mm Hg for adults ≥ 60 years** [^114ZcC5v] and **≥ 140/90 mm Hg for adults < 60 years** [^115CjvEw], with treatment goals of < 150/90 mm Hg and < 140/90 mm Hg, respectively. For adults ≥ 18 years with diabetes or CKD, initiate therapy at **≥ 140/90 mm Hg** [^112inVHR] [^1118rZC5] and treat to < 140/90 mm Hg [^1118rZC5]. First-line therapy: thiazide-type diuretics, CCBs, ACE inhibitors, or ARBs for nonblack patients; thiazide-type diuretics or CCBs for black patients [^111DCbKx]; and ACE inhibitors or ARBs for CKD [^116VhNKh]. Reassess monthly and titrate or add agents until goal BP is reached [^114yMY2E]; refer to a hypertension specialist if the goal is not achieved [^114KKMtZ].
 
 ---
 

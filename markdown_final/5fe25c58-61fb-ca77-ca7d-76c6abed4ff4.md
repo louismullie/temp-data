@@ -35,7 +35,7 @@ What are the benefits of early initiation of biologic therapy in eosinophilic as
 
 ---
 
-Early initiation of biologic therapy in eosinophilic asthma provides **rapid and sustained reductions in exacerbations** [^27d14bd4] and oral corticosteroid use [^c2d88a1d], with **early improvements in lung function and asthma control** [^84730caf] [^943080e0]. Starting biologics sooner can **prevent airway remodeling** [^e2d5b023] and long-term decline in lung function, and is supported by guidelines for severe eosinophilic asthma uncontrolled on high-dose ICS-LABA [^d85da68e] [^6fb1d864]. Benefits are greatest in patients with high blood eosinophils [^775ccc2b] and frequent exacerbations [^c2696e58], and early therapy is cost-effective by reducing hospitalizations and emergency care [^notfound].
+Early initiation of biologic therapy in eosinophilic asthma provides **rapid and sustained reductions in exacerbations** [^27d14bd4] and oral corticosteroid use [^c2d88a1d], with **early improvements in lung function and asthma control** [^84730caf] [^943080e0]. Starting biologics sooner can **prevent airway remodeling** [^e2d5b023] and long-term decline in lung function, and is supported by guidelines for severe eosinophilic asthma uncontrolled on high-dose ICS-LABA [^d85da68e] [^6fb1d864]. Benefits are greatest in patients with high blood eosinophils [^775ccc2b] and frequent exacerbations [^c2696e58], and early therapy is cost-effective by reducing hospitalizations and emergency care [^a2e37495].
 
 ---
 

@@ -33,7 +33,7 @@ Can Meckel's diverticulum and ulcerative colitis get mis diagnosed
 
 ---
 
-Meckel's diverticulum and ulcerative colitis can be misdiagnosed because their symptoms overlap (rectal bleeding, abdominal pain, diarrhea) [^e6116b5a] and because Meckel's diverticulum can mimic IBD on imaging [^226a07f1] or endoscopy [^notfound]. Misdiagnosis is more likely when **colonoscopy is incomplete** or when **small-bowel disease is not evaluated** [^220f31b2]. Accurate diagnosis relies on **complete colonoscopy with biopsies** [^e6116b5a] for UC and **small-bowel imaging** (CT/MR enterography, capsule endoscopy, or Meckel scan) [^db591095] for Meckel's diverticulum. Persistent or atypical symptoms should prompt reconsideration of the diagnosis and further testing [^7781f08e].
+Meckel's diverticulum and ulcerative colitis can be misdiagnosed because their symptoms overlap (rectal bleeding, abdominal pain, diarrhea) [^e6116b5a] and because Meckel's diverticulum can mimic IBD on imaging [^226a07f1] or endoscopy [^ed0615f2]. Misdiagnosis is more likely when **colonoscopy is incomplete** or when **small-bowel disease is not evaluated** [^220f31b2]. Accurate diagnosis relies on **complete colonoscopy with biopsies** [^e6116b5a] for UC and **small-bowel imaging** (CT/MR enterography, capsule endoscopy, or Meckel scan) [^db591095] for Meckel's diverticulum. Persistent or atypical symptoms should prompt reconsideration of the diagnosis and further testing [^7781f08e].
 
 ---
 

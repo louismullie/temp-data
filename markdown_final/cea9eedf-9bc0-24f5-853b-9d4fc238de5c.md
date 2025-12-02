@@ -29,7 +29,7 @@ pediatric lab workup for abdominal pain
 
 > I should confirm age- and sex-specific additions. In adolescent females, I need a pregnancy test and should consider STI testing when indicated, and I should maintain a low threshold for pelvic ultrasound given the prevalence of gynecologic etiologies; in younger children, I must remember that appendicitis is less common and presentations are atypical, so I should be cautious and correlate labs with serial exams and imaging when suspicion persists [^85c06970] [^b87db431] [^2d810538].
 
-> But wait, what if the pain localizes to the right upper quadrant or I suspect biliary disease. In that case, I should add liver enzymes, bilirubin, and alkaline phosphatase to evaluate for hepatitis, cholecystitis, or obstruction, aligning with the anatomic differential and the principle of tailoring labs to suspected pathology rather than ordering a blanket panel [^notfound].
+> But wait, what if the pain localizes to the right upper quadrant or I suspect biliary disease. In that case, I should add liver enzymes, bilirubin, and alkaline phosphatase to evaluate for hepatitis, cholecystitis, or obstruction, aligning with the anatomic differential and the principle of tailoring labs to suspected pathology rather than ordering a blanket panel [^ca81ec2a].
 
 > I need to ensure I integrate imaging stewardship. Ultrasound is the preferred first-line modality for suspected appendicitis and many other intra-abdominal processes in children, with CT reserved for nondiagnostic ultrasound or equivocal cases; I should avoid routine abdominal radiography because it rarely changes management and exposes children to radiation without benefit [^88e1d68e] [^ff310e3f] [^28aadd1a].
 

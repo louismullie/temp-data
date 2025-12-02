@@ -41,7 +41,7 @@ Symptoms & progress noted re: 40.y.o male, presented with 6-month hx of nighttim
 
 ---
 
-The patient's symptoms — nocturnal acid reflux, supine-predominant chronic cough, and dysphagia — are most consistent with **GERD-related chronic cough** [^7b7a2748] and possible **laryngopharyngeal reflux (LPR)** [^b039fd45], with dysphagia raising concern for esophageal injury or motility disorder [^948ec56f]. The cough likely reflects vagally mediated esophageal–bronchial reflexes and, in some cases, microaspiration [^10afa281] [^11cd368d]. Dysphagia warrants prompt evaluation for esophagitis, stricture, or motility disease [^notfound]. Initial management should include lifestyle measures, a **twice-daily PPI trial for 8–12 weeks** [^c2d83f6d], and objective reflux testing if symptoms persist or if surgery is considered [^2372b33d] [^71f88051].
+The patient's symptoms — nocturnal acid reflux, supine-predominant chronic cough, and dysphagia — are most consistent with **GERD-related chronic cough** [^7b7a2748] and possible **laryngopharyngeal reflux (LPR)** [^b039fd45], with dysphagia raising concern for esophageal injury or motility disorder [^948ec56f]. The cough likely reflects vagally mediated esophageal–bronchial reflexes and, in some cases, microaspiration [^10afa281] [^11cd368d]. Dysphagia warrants prompt evaluation for esophagitis, stricture, or motility disease [^71259dcf]. Initial management should include lifestyle measures, a **twice-daily PPI trial for 8–12 weeks** [^c2d83f6d], and objective reflux testing if symptoms persist or if surgery is considered [^2372b33d] [^71f88051].
 
 ---
 

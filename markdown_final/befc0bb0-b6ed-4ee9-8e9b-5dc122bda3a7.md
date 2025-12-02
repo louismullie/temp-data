@@ -35,7 +35,7 @@ EKG findings for TMJ
 
 ---
 
-There are **no specific EKG findings** for TMJ disorders. TMJ disorders are musculoskeletal conditions that do not produce characteristic EKG changes. However, TMJ-related muscle activity or jaw movement during EKG recording can cause **artifact mimicking arrhythmias** or other abnormalities [^1129NDfi], and TMJ pain can rarely be a referred symptom of cardiac ischemia [^114tgore], which would show true ischemic EKG changes [^116sx4fU]. Clinicians should distinguish artifact from true cardiac abnormalities and consider cardiac evaluation if ischemia is suspected [^115K1Cdr].
+There are **no specific EKG findings** for TMJ disorders. TMJ disorders are musculoskeletal conditions that do not produce characteristic EKG changes. However, TMJ-related muscle activity or jaw movement during EKG recording can cause **artifact mimicking arrhythmias** or other abnormalities [^1129NDfi], and TMJ pain can rarely be a referred symptom of cardiac ischemia [^114tgore], which would show true ischemic EKG changes [^116sx4fU]. Clinicians should distinguish artifact from true cardiac abnormalities and consider cardiac evaluation if ischemia is suspected [^112KEv5M].
 
 ---
 

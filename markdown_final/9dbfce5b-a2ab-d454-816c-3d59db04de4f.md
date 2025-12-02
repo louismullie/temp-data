@@ -35,7 +35,7 @@ According to current ISTH guidelines, what is the recommended prophylactic treat
 
 ---
 
-For a 29-year-old woman with congenital TTP at 10 weeks' gestation, **initiate prophylactic plasma infusion now** [^76caaafc] because pregnancy carries a near-100% relapse risk without prophylaxis [^79e3585e]. The **recommended product is solvent/detergent-treated fresh frozen plasma** [^08e817b5] at 10–15 mL/kg every 2–3 weeks, increasing to every 1–2 weeks after 20 weeks [^69411e3d] and before delivery [^notfound]. If available, **recombinant ADAMTS13 is preferred** [^f68face5] at 40 IU/kg every 2–4 weeks [^7ee7c8ab] because it achieves higher ADAMTS13 activity with lower infusion volume and fewer adverse events than plasma [^7ee7c8ab]. Monitor platelets, LDH, and ADAMTS13 activity regularly, and coordinate care with maternal-fetal medicine and hematology [^3864bdae].
+For a 29-year-old woman with congenital TTP at 10 weeks' gestation, **initiate prophylactic plasma infusion now** [^76caaafc] because pregnancy carries a near-100% relapse risk without prophylaxis [^79e3585e]. The **recommended product is solvent/detergent-treated fresh frozen plasma** [^08e817b5] at 10–15 mL/kg every 2–3 weeks, increasing to every 1–2 weeks after 20 weeks [^69411e3d] and before delivery [^3ceb5720]. If available, **recombinant ADAMTS13 is preferred** [^f68face5] at 40 IU/kg every 2–4 weeks [^7ee7c8ab] because it achieves higher ADAMTS13 activity with lower infusion volume and fewer adverse events than plasma [^7ee7c8ab]. Monitor platelets, LDH, and ADAMTS13 activity regularly, and coordinate care with maternal-fetal medicine and hematology [^3864bdae].
 
 ---
 

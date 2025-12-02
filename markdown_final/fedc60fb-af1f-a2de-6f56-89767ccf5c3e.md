@@ -45,7 +45,7 @@ What is the best treatment for scalp psoriasis?
 
 ---
 
-The best treatment for scalp psoriasis is **topical corticosteroids** (especially very potent agents like clobetasol) [^40bca43a] as first-line therapy for rapid symptom control, with **calcipotriene plus betamethasone dipropionate** [^89fe6e5f] as the preferred fixed-dose combination for enhanced efficacy and tolerability [^61040aca]. For refractory or severe disease, **biologics** (ixekizumab, secukinumab, guselkumab, risankizumab) [^67dce1f9] [^2c732cbd] [^9c78f0bd] or apremilast [^a6f3924e] are effective options [^04690473]. Excimer laser or targeted UVB phototherapy [^4dd1fd32] is a useful alternative when topical therapy is insufficient or not tolerated [^7c263160]. Treatment should be individualized based on severity, patient preference, and access, with attention to adherence and safety [^d1891b90].
+The best treatment for scalp psoriasis is **topical corticosteroids** (especially very potent agents like clobetasol) [^40bca43a] as first-line therapy for rapid symptom control, with **calcipotriene plus betamethasone dipropionate** [^89fe6e5f] as the preferred fixed-dose combination for enhanced efficacy and tolerability [^61040aca]. For refractory or severe disease, **biologics** (ixekizumab, secukinumab, guselkumab, risankizumab) [^0850bce2] [^2c732cbd] [^9c78f0bd] or apremilast [^a6f3924e] are effective options [^04690473]. Excimer laser or targeted UVB phototherapy [^4dd1fd32] is a useful alternative when topical therapy is insufficient or not tolerated [^7c263160]. Treatment should be individualized based on severity, patient preference, and access, with attention to adherence and safety [^d1891b90].
 
 ---
 

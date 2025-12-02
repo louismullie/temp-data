@@ -41,7 +41,7 @@ what is the clinical presentation of peritonitis
 
 ---
 
-Peritonitis typically presents with **sudden, severe abdominal pain** [^115GAXoL] that becomes diffuse, accompanied by **rebound tenderness, guarding, and rigidity** [^113r368L] [^1121PjRK]. Patients often have **nausea, vomiting, and ileus** with absent bowel sounds [^112ARMhy], and systemic features such as fever, tachycardia, tachypnea, and hypotension [^113vj6tU]. Spontaneous bacterial peritonitis (SBP) in cirrhosis may be subtle [^113zjcZu], with minimal pain, altered mental status, or acute kidney injury [^116yWDRs]; peritoneal dialysis–associated peritonitis often presents with cloudy dialysate [^111tZ6tV] and mild abdominal pain [^notfound]. Prompt recognition and **early intervention** are critical to reduce morbidity and mortality [^113r368L] [^112BHugS].
+Peritonitis typically presents with **sudden, severe abdominal pain** [^115GAXoL] that becomes diffuse, accompanied by **rebound tenderness, guarding, and rigidity** [^113r368L] [^1121PjRK]. Patients often have **nausea, vomiting, and ileus** with absent bowel sounds [^112ARMhy], and systemic features such as fever, tachycardia, tachypnea, and hypotension [^113vj6tU]. Spontaneous bacterial peritonitis (SBP) in cirrhosis may be subtle [^113zjcZu], with minimal pain, altered mental status, or acute kidney injury [^116yWDRs]; peritoneal dialysis–associated peritonitis often presents with cloudy dialysate [^111tZ6tV] and mild abdominal pain [^1167zZRb]. Prompt recognition and **early intervention** are critical to reduce morbidity and mortality [^113r368L] [^112BHugS].
 
 ---
 

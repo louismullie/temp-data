@@ -41,7 +41,7 @@ Causes of isolated elevated alkaline phosphatase
 
 ---
 
-Isolated elevated alkaline phosphatase (ALP) most often reflects **bone disease** (Paget's, osteomalacia, metastases, hyperparathyroidism) [^584fd32f] or **cholestatic liver disease** (PBC, PSC, biliary obstruction) [^c1d63df8] [^4eeb3aec]. Less common causes include **intestinal ALP** (after fatty meals, blood types O/B) [^ff84e3bc], **placental ALP** (third trimester) [^e618422a], and **medications** (anticonvulsants, antibiotics, NSAIDs) [^9c63c613]. Confirm hepatic origin with GGT [^b59e34c7]; if normal, evaluate for bone disease with calcium, phosphate, 25(OH)D, PTH, and bone imaging [^notfound]. Persistent unexplained ALP > 1.5× ULN warrants targeted imaging and, if unresolved, liver biopsy [^927019e1].
+Isolated elevated alkaline phosphatase (ALP) most often reflects **bone disease** (Paget's, osteomalacia, metastases, hyperparathyroidism) [^584fd32f] or **cholestatic liver disease** (PBC, PSC, biliary obstruction) [^c1d63df8] [^4eeb3aec]. Less common causes include **intestinal ALP** (after fatty meals, blood types O/B) [^ff84e3bc], **placental ALP** (third trimester) [^e618422a], and **medications** (anticonvulsants, antibiotics, NSAIDs) [^9c63c613]. Confirm hepatic origin with GGT [^b59e34c7]; if normal, evaluate for bone disease with calcium, phosphate, 25(OH)D, PTH, and bone imaging [^ae5b80c6]. Persistent unexplained ALP > 1.5× ULN warrants targeted imaging and, if unresolved, liver biopsy [^927019e1].
 
 ---
 

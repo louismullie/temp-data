@@ -35,7 +35,7 @@ A 32-year-old woman
 
 ---
 
-The highest risk of uterine rupture in this patient is **prior upper uterine segment (classical) cesarean** [^113fA9Lc] because it carries a 4–9% rupture risk in subsequent pregnancies [^113H5K6p], far exceeding the modest risk from twin gestation or obesity. Twin pregnancy adds only a **small, incremental risk** [^115CNXvL], and obesity is not an independent risk factor for rupture [^notfound]. Management should prioritize **planned cesarean delivery at 36–37 weeks** [^113H5K6p] to minimize rupture risk.
+The highest risk of uterine rupture in this patient is **prior upper uterine segment (classical) cesarean** [^113fA9Lc] because it carries a 4–9% rupture risk in subsequent pregnancies [^113H5K6p], far exceeding the modest risk from twin gestation or obesity. Twin pregnancy adds only a **small, incremental risk** [^115CNXvL], and obesity is not an independent risk factor for rupture [^115CNXvL]. Management should prioritize **planned cesarean delivery at 36–37 weeks** [^113H5K6p] to minimize rupture risk.
 
 ---
 

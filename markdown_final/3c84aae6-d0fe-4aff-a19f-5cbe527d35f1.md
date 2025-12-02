@@ -37,7 +37,7 @@ Treatment fibrosarcoma
 
 ---
 
-Fibrosarcoma treatment is **multidisciplinary** and **individualized**, with surgery as the cornerstone for localized disease [^113SWrtb] and adjuvant radiotherapy for high-risk features [^116su96B]. Chemotherapy is reserved for **unresectable, metastatic, or high-grade tumors** [^116JgyWB], and targeted therapy (e.g. larotrectinib) is indicated for NTRK fusion–positive cases [^115xTTv8]. Management should be guided by **tumor grade, size, margins, and patient factors** [^114cgQsh], with close follow-up for recurrence [^notfound].
+Fibrosarcoma treatment is **multidisciplinary** and **individualized**, with surgery as the cornerstone for localized disease [^113SWrtb] and adjuvant radiotherapy for high-risk features [^116su96B]. Chemotherapy is reserved for **unresectable, metastatic, or high-grade tumors** [^116JgyWB], and targeted therapy (e.g. larotrectinib) is indicated for NTRK fusion–positive cases [^115xTTv8]. Management should be guided by **tumor grade, size, margins, and patient factors** [^114cgQsh], with close follow-up for recurrence [^116GdUCH].
 
 ---
 

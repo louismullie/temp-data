@@ -35,7 +35,7 @@ D. Voltage-gated chloride channels
 
 ---
 
-The ECG shows **atrial fibrillation** with absent P waves and irregular RR intervals, indicating disorganized atrial activity and variable AV conduction [^notfound]. The most likely antiarrhythmic is a **class IC agent** (e.g. flecainide), which **blocks voltage-gated sodium channels** [^114CiRyQ] to slow phase 0 depolarization, reduce conduction velocity, and suppress arrhythmogenic activity [^115AaFn6]. Therefore, the correct answer is **B. Voltage-gated sodium channels**.
+The ECG shows **atrial fibrillation** with absent P waves and irregular RR intervals, indicating disorganized atrial activity and variable AV conduction [^117UJqB5]. The most likely antiarrhythmic is a **class IC agent** (e.g. flecainide), which **blocks voltage-gated sodium channels** [^114CiRyQ] to slow phase 0 depolarization, reduce conduction velocity, and suppress arrhythmogenic activity [^115AaFn6]. Therefore, the correct answer is **B. Voltage-gated sodium channels**.
 
 ---
 

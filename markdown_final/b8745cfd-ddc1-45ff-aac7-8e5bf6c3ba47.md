@@ -45,7 +45,7 @@ What are the current recommendations for statin therapy in patients with diabete
 
 ---
 
-Statin therapy is recommended for **all adults with diabetes aged 40–75 years** [^116DoW87], with **high-intensity statins for those with ASCVD or multiple risk factors** [^117BD4a7] and **moderate-intensity for others** [^115o4amj]. For adults > 75 years, use **shared decision-making** [^112e9uLj]; for adults 20–39 years, consider statins if additional risk factors are present [^112oTwGE]. The **LDL-C goal is < 70 mg/dL** for most [^notfound] and **< 55 mg/dL** for those with ASCVD or very high risk [^114y5gvg]; add ezetimibe or a PCSK9 inhibitor if goals are not met [^113eCvmi]. Statin benefits outweigh the small risk of new-onset diabetes [^112uhztJ], and monitoring of glycemia is advised in high-risk patients [^1118KZQW].
+Statin therapy is recommended for **all adults with diabetes aged 40–75 years** [^116DoW87], with **high-intensity statins for those with ASCVD or multiple risk factors** [^117BD4a7] and **moderate-intensity for others** [^115o4amj]. For adults > 75 years, use **shared decision-making** [^112e9uLj]; for adults 20–39 years, consider statins if additional risk factors are present [^112oTwGE]. The **LDL-C goal is < 70 mg/dL** for most [^111KzxVa] and **< 55 mg/dL** for those with ASCVD or very high risk [^114y5gvg]; add ezetimibe or a PCSK9 inhibitor if goals are not met [^113eCvmi]. Statin benefits outweigh the small risk of new-onset diabetes [^112uhztJ], and monitoring of glycemia is advised in high-risk patients [^1118KZQW].
 
 ---
 

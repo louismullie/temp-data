@@ -45,7 +45,7 @@ Evaluation of hypergammaglobulin
 
 ---
 
-Hypergammaglobulinemia is defined as an **elevated total serum immunoglobulin level** (IgG, IgA, or IgM) above the laboratory reference range [^notfound]. It can be **monoclonal** — due to a clonal plasma cell or B-cell disorder (e.g. multiple myeloma, Waldenström macroglobulinemia, MGUS) [^113zpJPS] — or **polyclonal** — reflecting chronic immune activation from infections, autoimmune diseases, liver disease, or chronic inflammation [^117V5GLa]. Evaluation should start with **SPEP, sFLC, and immunofixation** to distinguish monoclonal from polyclonal patterns, then proceed to targeted tests based on clinical context [^113UPp1Z] [^115SXdT5]. Management is cause-specific: treat the underlying condition, monitor MGUS, and use plasmapheresis for hyperviscosity; prognosis varies with the etiology and response to therapy [^117V5GLa] [^115CTYvt].
+Hypergammaglobulinemia is defined as an **elevated total serum immunoglobulin level** (IgG, IgA, or IgM) above the laboratory reference range [^1119bdKn]. It can be **monoclonal** — due to a clonal plasma cell or B-cell disorder (e.g. multiple myeloma, Waldenström macroglobulinemia, MGUS) [^113zpJPS] — or **polyclonal** — reflecting chronic immune activation from infections, autoimmune diseases, liver disease, or chronic inflammation [^117V5GLa]. Evaluation should start with **SPEP, sFLC, and immunofixation** to distinguish monoclonal from polyclonal patterns, then proceed to targeted tests based on clinical context [^113UPp1Z] [^115SXdT5]. Management is cause-specific: treat the underlying condition, monitor MGUS, and use plasmapheresis for hyperviscosity; prognosis varies with the etiology and response to therapy [^117V5GLa] [^115CTYvt].
 
 ---
 

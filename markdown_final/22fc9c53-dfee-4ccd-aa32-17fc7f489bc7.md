@@ -55,7 +55,7 @@ D. Urgent surgical consultaton
 
 ---
 
-The most appropriate next step is **urgent surgical consultation** because the patient has acute pancreatitis with peripancreatic fluid and peritoneal signs (guarding), indicating possible severe disease or complications such as infected necrosis or pseudocyst formation [^115Mw43a]. Prophylactic antibiotics (imipenem) are not indicated without confirmed infection [^114CYBqu], pantoprazole is not indicated for pancreatitis, and corticosteroids are not recommended in acute pancreatitis [^notfound]. Early surgical involvement is essential for risk stratification and management of complications [^113Bj6SH].
+The most appropriate next step is **urgent surgical consultation** because the patient has acute pancreatitis with peripancreatic fluid and peritoneal signs (guarding), indicating possible severe disease or complications such as infected necrosis or pseudocyst formation [^notfound]. Prophylactic antibiotics (imipenem) are not indicated without confirmed infection [^114CYBqu], pantoprazole is not indicated for pancreatitis, and corticosteroids are not recommended in acute pancreatitis [^notfound]. Early surgical involvement is essential for risk stratification and management of complications [^113Bj6SH].
 
 ---
 

@@ -37,7 +37,7 @@ When to suspend ace inhibitor prior to surgery
 
 ---
 
-Hold ACE inhibitors **24–48 hours before surgery** [^1142ZU9K] to reduce intraoperative hypotension [^117FZxqQ] and AKI risk [^116anx2J], especially in patients with **high-risk features** (elderly, low EF, CKD, or major surgery) [^notfound]. Continue ACE inhibitors if the indication is compelling (heart failure, LV dysfunction, or proteinuric CKD) and the surgical team is prepared to manage hypotension [^114E4Cxa]. Resume ACE inhibitors postoperatively once the patient is hemodynamically stable and euvolemic, typically within 24–48 hours [^116nDFdr].
+Hold ACE inhibitors **24–48 hours before surgery** [^1142ZU9K] to reduce intraoperative hypotension [^117FZxqQ] and AKI risk [^116anx2J], especially in patients with **high-risk features** (elderly, low EF, CKD, or major surgery) [^111g4zHT]. Continue ACE inhibitors if the indication is compelling (heart failure, LV dysfunction, or proteinuric CKD) and the surgical team is prepared to manage hypotension [^114E4Cxa]. Resume ACE inhibitors postoperatively once the patient is hemodynamically stable and euvolemic, typically within 24–48 hours [^116nDFdr].
 
 ---
 

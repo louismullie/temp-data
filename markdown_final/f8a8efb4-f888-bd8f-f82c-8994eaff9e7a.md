@@ -19,7 +19,7 @@ According to current guidelines, when should this patient have his first follow-
 
 > Let me first confirm the indication for LTOT. The patient has severe resting hypoxemia with PaO2 52 mmHg on room air, which meets GOLD and VA/DoD criteria for LTOT in stable COPD, and the elevated PaCO2 with a 10 mmHg rise from baseline raises concern for ventilatory instability and CO2 retention risk with oxygen therapy [^8bc41cc3] [^3d39b1ca] [^103dc45c].
 
-> Wait, let me verify the timing of initiation relative to the exacerbation. BTS advises waiting at least 8 weeks after an exacerbation before assessing for LTOT to avoid prescribing oxygen during clinical instability; however, many patients are started on oxygen at discharge and then reassessed, so I should not assume the current prescription is definitive without planned reassessment [^c4dc5bbc] [^4905a63e].
+> Wait, let me verify the timing of initiation relative to the exacerbation. BTS advises waiting at least 8 weeks after an exacerbation before assessing for LTOT to avoid prescribing oxygen during clinical instability; however, many patients are started on oxygen at discharge and then reassessed, so I should not assume the current prescription is definitive without planned reassessment [^c4dc5bbc] [^9d61d95c].
 
 > Next, I should review guideline-directed reassessment intervals. GOLD 2025 recommends reassessing LTOT 60–90 days after initiation to confirm ongoing need and therapeutic effectiveness, which applies to patients started in stable state or after an exacerbation, and it aligns with VA/DoD guidance to reassess 30–90 days post-discharge when oxygen is started around a hospitalization [^cf46137b] [^f9fe7065] [^eabe928d].
 

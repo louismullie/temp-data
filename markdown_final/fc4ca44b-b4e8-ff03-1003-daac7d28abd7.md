@@ -37,7 +37,7 @@ my vaginal dryness after childbirth i want a typical lubricant what do i do
 
 ---
 
-For postpartum vaginal dryness, **water-based lubricants** are the first-line choice because they are safe, effective, and compatible with condoms and sex toys [^5c9233d7] [^e6dbcd3a]. Silicone-based lubricants are a good alternative for longer-lasting lubrication, but avoid oil-based products as they can damage condoms and irritate sensitive tissues [^5c9233d7] [^706540ec]. Use lubricant liberally during sex and reapply as needed; if dryness persists, add a vaginal moisturizer 2–3 times weekly [^0d6f4a62]. If symptoms continue beyond 3–6 months or are severe, discuss options with your clinician, including low-dose vaginal estrogen if nonhormonal measures are insufficient [^bfe07b7c].
+For postpartum vaginal dryness, **water-based lubricants** are the first-line choice because they are safe, effective, and compatible with condoms and sex toys [^5c9233d7] [^e6dbcd3a]. Silicone-based lubricants are a good alternative for longer-lasting lubrication, but avoid oil-based products as they can damage condoms and irritate sensitive tissues [^5c9233d7] [^706540ec]. Use lubricant liberally during sex and reapply as needed; if dryness persists, add a vaginal moisturizer 2–3 times weekly [^0d6f4a62]. If symptoms continue beyond 3–6 months or are severe, discuss options with your clinician, including low-dose vaginal estrogen if nonhormonal measures are insufficient [^bfe07e7c].
 
 ---
 

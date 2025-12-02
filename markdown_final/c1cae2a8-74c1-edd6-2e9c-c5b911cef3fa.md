@@ -39,7 +39,7 @@ Is quetiapine associated with sleep walking?
 
 ---
 
-Quetiapine is associated with **sleepwalking (somnambulism)** [^93fc72bb], though the risk is low and appears higher with higher doses or when combined with other sedatives [^notfound]. Sleepwalking has been reported in both immediate-release and extended-release formulations [^b3c06160] [^5c89edb3], and episodes typically resolve with dose reduction, medication change, or treatment of comorbid sleep apnea [^93fc72bb]. Clinicians should counsel patients on sleep safety and monitor for complex sleep behaviors, especially at initiation or dose escalation [^34cf0122].
+Quetiapine is associated with **sleepwalking (somnambulism)** [^93fc72bb], though the risk is low and appears higher with higher doses or when combined with other sedatives [^34cf0122] [^cd997461] [^850806ca]. Sleepwalking has been reported in both immediate-release and extended-release formulations [^b3c06160] [^5c89edb3], and episodes typically resolve with dose reduction, medication change, or treatment of comorbid sleep apnea [^93fc72bb]. Clinicians should counsel patients on sleep safety and monitor for complex sleep behaviors, especially at initiation or dose escalation [^34cf0122].
 
 ---
 

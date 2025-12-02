@@ -39,7 +39,7 @@ Vertical diplopia
 
 ---
 
-Vertical diplopia is most often due to **superior oblique palsy** (cranial nerve IV) [^735dfa1e], **thyroid eye disease** (inferior rectus restriction) [^ba0c677a], or **skew deviation** (vestibular/brainstem) [^f56c06c7]. A **focused history and exam** — including the Parks-Bielschowsky three-step test [^d5e22221], torsion assessment [^e5482e05], and forced ductions — localizes the cause and guides imaging [^e5482e05]. Neuroimaging is indicated for non-isolated palsies, atypical features, or suspected central causes [^9193f024]. Management is cause-specific: observation or prisms for small/stable deviations [^29911364]; surgery for persistent or large deviations [^95475ff7]; and urgent care for compressive or inflammatory etiologies [^notfound].
+Vertical diplopia is most often due to **superior oblique palsy** (cranial nerve IV) [^735dfa1e], **thyroid eye disease** (inferior rectus restriction) [^ba0c677a], or **skew deviation** (vestibular/brainstem) [^f56c06c7]. A **focused history and exam** — including the Parks-Bielschowsky three-step test [^d5e22221], torsion assessment [^e5482e05], and forced ductions — localizes the cause and guides imaging [^e5482e05]. Neuroimaging is indicated for non-isolated palsies, atypical features, or suspected central causes [^9193f024]. Management is cause-specific: observation or prisms for small/stable deviations [^29911364]; surgery for persistent or large deviations [^95475ff7]; and urgent care for compressive or inflammatory etiologies [^4e387aa6].
 
 ---
 

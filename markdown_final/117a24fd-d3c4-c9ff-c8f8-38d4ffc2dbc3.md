@@ -29,7 +29,7 @@ A 23-year-old woman presents with a painless, transilluminant swelling in the ri
 
 ---
 
-The correct ICD-10-CM code for a hydrocele of the canal of Nuck in a 23-year-old female is **N94.89** (Other specified conditions associated with female genital organs and menstrual cycle). This code applies to female hydroceles and should be used when the condition is not congenital; if congenital, use **Q52.4** (Congenital cyst of canal of Nuck). Accurate documentation of the diagnosis and laterality supports correct coding and billing [^d495525c].
+The correct ICD-10-CM code for a hydrocele of the canal of Nuck in a 23-year-old female is **N94.89** (Other specified conditions associated with female genital organs and menstrual cycle). This code applies to female hydroceles and should be used when the condition is not congenital; if congenital, use **Q52.4** (Congenital cyst of canal of Nuck). Accurate documentation of the diagnosis and laterality supports correct coding and billing [^notfound].
 
 ---
 

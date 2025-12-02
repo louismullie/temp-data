@@ -35,7 +35,7 @@ Is knee aspiration appropriate for hematoma
 
 ---
 
-Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, tense, and causing significant pain or restricted motion, as it provides rapid relief and improves function [^eea6bc86] [^4cf9db2d]. It is also indicated when the diagnosis is unclear — to distinguish hemarthrosis from infection, crystal arthropathy, or other causes — and when anticoagulation is present, after correcting coagulopathy to reduce pain and enable rehabilitation [^8d6946d1] [^48288623]. Routine aspiration of small, non-tense hemarthroses is not recommended, and **ultrasound guidance** improves accuracy and safety, especially in obese patients or when landmarks are obscured [^f1e1f49e] [^70a6a7ca]. The main risks are infection and rebleeding, which are minimized with aseptic technique and careful patient selection [^ed8cf11d] [^48288623].
+Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, tense, and causing significant pain or restricted motion, as it provides rapid relief and improves function [^eea6bc86] [^4cf9db2d]. It is also indicated when the diagnosis is unclear — to distinguish hemarthrosis from infection, crystal arthropathy, or other causes — and when anticoagulation is present, after correcting coagulopathy to reduce pain and enable rehabilitation [^8d6946d1] [^48288623]. Routine aspiration of small, non-tense hemarthroses is not recommended, and **ultrasound guidance** improves accuracy and safety, especially in obese patients or when landmarks are obscured [^f1e1c49e] [^70a6a7ca]. The main risks are infection and rebleeding, which are minimized with aseptic technique and careful patient selection [^ed8cf11d] [^48288623].
 
 ---
 

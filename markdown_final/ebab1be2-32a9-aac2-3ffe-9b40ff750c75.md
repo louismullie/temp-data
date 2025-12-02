@@ -43,7 +43,7 @@ Post void amount
 
 ---
 
-Post-void residual (PVR) is the **volume of urine remaining in the bladder after voiding** [^bca36dd5], typically measured by ultrasound or catheterization [^51c1ec24] [^9b2478f0]. PVR is used to assess bladder emptying and guide management of LUTS, incontinence, and neurogenic bladder [^8e6ce9e4] [^4d5ce8b3]. Normal PVR is **generally < 50 mL** [^420cea7d]; 50–100 mL is borderline, and > 100 mL is considered abnormal and may indicate retention or voiding dysfunction [^7dd6c7df]. Elevated PVR increases risks of UTI, renal damage, and retention [^4d5ce8b3]; management depends on cause and may include bladder training, medications, or catheterization [^7ec73c33]. Always confirm a single elevated PVR with repeat measurement before acting [^a50cd7c5] [^547bc919].
+Post-void residual (PVR) is the **volume of urine remaining in the bladder after voiding** [^bca36dd5], typically measured by ultrasound or catheterization [^51c1ec24] [^9b2478f0]. PVR is used to assess bladder emptying and guide management of LUTS, incontinence, and neurogenic bladder [^8e6ce9e4] [^4d5ce8b3]. Normal PVR is **generally < 50 mL** [^420cea7d]; 50–100 mL is borderline, and > 100 mL is considered abnormal and may indicate retention or voiding dysfunction [^53eafec4]. Elevated PVR increases risks of UTI, renal damage, and retention [^4d5ce8b3]; management depends on cause and may include bladder training, medications, or catheterization [^7ec73c33]. Always confirm a single elevated PVR with repeat measurement before acting [^a50cd7c5] [^547bc919].
 
 ---
 

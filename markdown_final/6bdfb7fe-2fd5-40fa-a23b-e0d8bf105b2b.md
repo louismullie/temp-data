@@ -47,7 +47,7 @@ Medication help auditory hallcinaion
 
 ---
 
-Antipsychotics are the **first-line pharmacologic treatment** for auditory hallucinations, with second-generation agents (e.g. risperidone, olanzapine, aripiprazole) preferred for their favorable side-effect profiles [^112uHKDR]. Clozapine is the **gold standard for treatment-resistant cases** [^112uHKDR] [^115b8oTW]. If antipsychotics are insufficient, consider adjunctive **rTMS** [^1176xNfg] or **tDCS** [^115YaVkH]. Benzodiazepines may be used short-term for acute distress or agitation, but not as primary therapy. Treatment should be individualized, with close monitoring for side effects and adherence [^11399zHL].
+Antipsychotics are the **first-line pharmacologic treatment** for auditory hallucinations, with second-generation agents (e.g. risperidone, olanzapine, aripiprazole) preferred for their favorable side-effect profiles [^112uHKDR]. Clozapine is the **gold standard for treatment-resistant cases** [^112uHKDR] [^115b8oTW]. If antipsychotics are insufficient, consider adjunctive **rTMS** [^115UDAz9] or **tDCS** [^115YaVkH]. Benzodiazepines may be used short-term for acute distress or agitation, but not as primary therapy. Treatment should be individualized, with close monitoring for side effects and adherence [^11399zHL].
 
 ---
 

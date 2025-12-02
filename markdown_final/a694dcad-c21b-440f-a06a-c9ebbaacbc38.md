@@ -35,7 +35,7 @@ Pathophysiology of ADHD does it involves serotonin?
 
 ---
 
-Yes, serotonin is involved in ADHD pathophysiology, but its role is **modulatory and indirect** rather than primary [^112Yjn6X]. Serotonin helps regulate impulsivity, emotional control, and executive function via interactions with dopamine and norepinephrine [^112aYdx9]; **dysregulation of serotonin likely contributes to ADHD symptoms**, especially impulsivity and emotional dysregulation [^114J6pEq]. Evidence includes genetic associations (e.g. HTR1B, SLC6A4) [^117FG1CM], altered serotonin transporter binding [^notfound], and modulation of fronto-striatal circuits [^11544SSy]. However, serotonin is not the main driver; dopamine and norepinephrine remain central, and serotonin's contribution is best viewed as part of a broader monoaminergic imbalance [^1143NGZ3].
+Yes, serotonin is involved in ADHD pathophysiology, but its role is **modulatory and indirect** rather than primary [^112Yjn6X]. Serotonin helps regulate impulsivity, emotional control, and executive function via interactions with dopamine and norepinephrine [^112aYdx9]; **dysregulation of serotonin likely contributes to ADHD symptoms**, especially impulsivity and emotional dysregulation [^114J6pEq]. Evidence includes genetic associations (e.g. HTR1B, SLC6A4) [^117FG1CM], altered serotonin transporter binding [^116hPDPt], and modulation of fronto-striatal circuits [^11544SSy]. However, serotonin is not the main driver; dopamine and norepinephrine remain central, and serotonin's contribution is best viewed as part of a broader monoaminergic imbalance [^1143NGZ3].
 
 ---
 

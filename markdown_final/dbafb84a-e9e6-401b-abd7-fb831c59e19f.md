@@ -37,7 +37,7 @@ HPV vaccination recommendation
 
 ---
 
-HPV vaccination is **recommended for all adolescents at age 11–12 years** [^113gXKx3], but can start at age 9 [^115bJgXr]. A **2-dose schedule is sufficient** if started before age 15, with doses 6–12 months apart [^113gXKx3]; if the interval is shorter than 5 months, a third dose is needed [^111GqQsK]. For those starting at age 15 or older, or for immunocompromised individuals, a **3-dose schedule** (0, 1–2, 6 months) is required [^113gXKx3] [^114JH6B7]. Catch-up vaccination is recommended through age 26 for all who are not adequately vaccinated [^116cr7qi]; for ages 27–45, use shared clinical decision-making given lower effectiveness [^116BC19n] [^115bJgXr]. The 9-valent vaccine is preferred [^notfound] and vaccination should occur before sexual debut for optimal protection [^116Uyo7b].
+HPV vaccination is **recommended for all adolescents at age 11–12 years** [^113gXKx3], but can start at age 9 [^115bJgXr]. A **2-dose schedule is sufficient** if started before age 15, with doses 6–12 months apart [^113gXKx3]; if the interval is shorter than 5 months, a third dose is needed [^111GqQsK]. For those starting at age 15 or older, or for immunocompromised individuals, a **3-dose schedule** (0, 1–2, 6 months) is required [^113gXKx3] [^114JH6B7]. Catch-up vaccination is recommended through age 26 for all who are not adequately vaccinated [^116cr7qi]; for ages 27–45, use shared clinical decision-making given lower effectiveness [^116BC19n] [^115bJgXr]. The 9-valent vaccine is preferred [^117GtUtk] and vaccination should occur before sexual debut for optimal protection [^116Uyo7b].
 
 ---
 

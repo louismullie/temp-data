@@ -37,7 +37,7 @@ Inpatient treatment for patient with tachycardia
 
 > I will now examine anticoagulation decisions; for atrial flutter, I should align antithrombotic therapy with atrial fibrillation protocols, and for cardioversion of atrial arrhythmias, I need to ensure appropriate anticoagulation per AF guidelines or use transesophageal echocardiography if early cardioversion is planned, documenting CHA2DS2-VASc stroke risk assessment [^115boMrw].
 
-> Let me think about rhythm-control strategies and ablation candidacy; for recurrent AVNRT or AVRT, catheter ablation offers high success and durable results, and I should discuss this early during inpatient care, arranging EP consultation and scheduling ablation before discharge when feasible to reduce recurrence and readmissions [^notfound].
+> Let me think about rhythm-control strategies and ablation candidacy; for recurrent AVNRT or AVRT, catheter ablation offers high success and durable results, and I should discuss this early during inpatient care, arranging EP consultation and scheduling ablation before discharge when feasible to reduce recurrence and readmissions [^112b9Mas].
 
 > I should confirm special-population nuances; in pregnancy, vagal maneuvers and adenosine remain first-line and synchronized cardioversion is safe if needed, in older adults management should be individualized to comorbidities and frailty, and in patients with adult congenital heart disease, I need to consider anticoagulation and tailored antiarrhythmic choices with EP involvement [^1142q9dQ] [^113XtroL] [^112ntLnu].
 
