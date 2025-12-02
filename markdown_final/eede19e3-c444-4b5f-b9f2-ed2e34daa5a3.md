@@ -35,7 +35,7 @@ R breast ulcer with -Moderate Morganella morganii isolated - how should I treat?
 
 > I should confirm special factors that increase management complexity, especially hardware and biofilm. If the ulcer overlies or communicates with foreign material (e.g., mesh, drains, or other hardware), I need to consider that Morganella can participate in biofilm and that hardware removal may be required for cure; this is particularly relevant in refractory infections where routine debridement and antibiotics fail [^116jnTHs].
 
-> Hold on, I should verify agent-specific pitfalls to avoid suboptimal choices. Tigecycline has unreliable activity against Morganella morganii and should not be relied upon for definitive therapy, and aminoglycosides like tobramycin are active but best reserved as adjuncts in severe infections due to toxicity and limited tissue penetration when used alone [^11721ws3] [^112AqXCL].
+> Hold on, I should verify agent-specific pitfalls to avoid suboptimal choices. Tigecycline has unreliable activity against Morganella morganii and should not be relied upon for definitive therapy, and aminoglycosides like tobramycin are active but best reserved as adjuncts in severe infections due to toxicity and limited tissue penetration when used alone [^11721ws3] [^116ThMvG].
 
 > Finally, I need to ensure prevention and stewardship steps are explicit. Reviewing the antibiotic course by 48 hours to confirm source control, culture-directed narrowing, and the shortest effective duration helps reduce resistance selection, while standard precautions and local infection prevention policies for multidrug-resistant organisms help minimize spread in healthcare settings [^113AY9fb] [^117RnVZk].
 

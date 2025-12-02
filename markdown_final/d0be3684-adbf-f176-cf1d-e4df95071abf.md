@@ -35,7 +35,7 @@ Rash
 
 ---
 
-A rash is a **change in skin appearance** with color, texture, or elevation, and can reflect infection, allergy, drug reaction, autoimmune disease, or systemic illness [^36efc081]. Evaluation relies on **history, morphology, and distribution** [^57b64ad2] to build a prioritized differential and guide testing and treatment [^36efc081]. Red flags (fever, mucosal involvement, rapid progression, immunocompromise) [^7565e82b] require **urgent care** [^ee7d974c] to exclude life-threatening causes such as SJS/TEN, meningococcemia, or RMSF [^739412c2]. Most rashes are benign and self-limited, but persistent, atypical, or severe cases warrant dermatology referral and possible biopsy [^36efc081].
+A rash is a **change in skin appearance** with color, texture, or elevation, and can reflect infection, allergy, drug reaction, autoimmune disease, or systemic illness. Evaluation relies on **history, morphology, and distribution** [^57b64ad2] to build a prioritized differential and guide testing and treatment [^36efc081]. Red flags (fever, mucosal involvement, rapid progression, immunocompromise) [^7565e82b] require **urgent care** [^ee7d974c] to exclude life-threatening causes such as SJS/TEN, meningococcemia, or RMSF [^739412c2]. Most rashes are benign and self-limited, but persistent, atypical, or severe cases warrant dermatology referral and possible biopsy [^36efc081].
 
 ---
 

@@ -37,7 +37,7 @@ hyponatremia workup
 
 ---
 
-The hyponatremia workup centers on **confirming true hypotonic hyponatremia** with measured serum osmolality and corrected sodium for glucose, then **classifying by volume status** (hypovolemic, euvolemic, hypervolemic) using clinical assessment and urine sodium/osmolality [^0632c300] [^5c2976a5]. Next, **identify the cause** with targeted tests: TSH/cortisol for euvolemic cases; uric acid, CXR, CT/MRI, or medications for SIADH; and evaluation for heart failure, cirrhosis, or nephrotic syndrome in hypervolemic cases [^68a56514] [^90dd948b]. Always **assess symptom severity and acuity** to guide urgency, and monitor sodium closely to avoid rapid correction and osmotic demyelination [^90e56399] [^8623e8d2].
+The hyponatremia workup centers on **confirming true hypotonic hyponatremia** with measured serum osmolality and corrected sodium for glucose, then **classifying by volume status** (hypovolemic, euvolemic, hypervolemic) using clinical assessment and urine sodium/osmolality [^0632c300] [^5c2976a5]. Next, **identify the cause** with targeted tests: TSH/cortisol for euvolemic cases; uric acid, CXR, CT/MRI, or medications for SIADH; and evaluation for heart failure, cirrhosis, or nephrotic syndrome in hypervolemic cases [^68a56514] [^90dd948b]. Always **assess symptom severity and acuity** to guide urgency, and monitor sodium closely to avoid rapid correction and osmotic demyelination [^90dd948b] [^8623e8d2].
 
 ---
 

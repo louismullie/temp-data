@@ -27,7 +27,7 @@ Is guselkumab q4 week dosing approved?
 
 ---
 
-Guselkumab is **not approved for every-4-week maintenance dosing** in plaque psoriasis or psoriatic arthritis; the approved maintenance is 100 mg every 8 weeks after loading at weeks 0 and 4 [^a8be5660] [^45461fd0] [^f700df2e]. In Crohn's disease and ulcerative colitis, **200 mg every 4 weeks is an approved maintenance option** alongside 100 mg every 8 weeks, based on phase 3 trials showing sustained remission and endoscopic response [^9ada09a0] [^e3cb6494] [^e7e09be7]. Every-4-week dosing is not recommended for psoriasis or psoriatic arthritis due to lack of evidence and potential overtreatment.
+Guselkumab is **not approved for every-4-week maintenance dosing** in plaque psoriasis or psoriatic arthritis; the approved maintenance is 100 mg every 8 weeks after loading at weeks 0 and 4 [^a8be5660] [^45461fd0] [^f700df2e]. In Crohn's disease and ulcerative colitis, **200 mg every 4 weeks is an approved maintenance option** alongside 100 mg every 8 weeks, based on phase 3 trials showing sustained remission and endoscopic response [^9ada09a0] [^de878700] [^59dd5a19]. Every-4-week dosing is not recommended for psoriasis or psoriatic arthritis due to lack of evidence and potential overtreatment.
 
 ---
 

@@ -41,7 +41,7 @@ D. Perform a diagnostic peritoneal lavage
 
 ---
 
-The correct answer is **B. Take the patient to the OR for an exploratory laparotomy**. In a hemodynamically unstable trauma patient with persistent hypotension despite fluids and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate operative exploration** to identify and control the source of bleeding [^b2ec683f]. Retroperitoneal fluid in this context suggests a major retroperitoneal hemorrhage — often from renal or pelvic vessels — which can be rapidly fatal if not addressed surgically [^d12e1c4e]. CT scan is contraindicated in unstable patients because it delays definitive care, and DPL is not indicated when FAST is already positive [^15552ceb]. A retrograde urethrogram is not urgent and should not delay hemorrhage control [^532e1451].
+The correct answer is **B. Take the patient to the OR for an exploratory laparotomy**. In a hemodynamically unstable trauma patient with persistent hypotension despite fluids and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate operative exploration** to identify and control the source of bleeding [^b2ec683f]. Retroperitoneal fluid in this context suggests a major retroperitoneal hemorrhage — often from renal or pelvic vessels — which can be rapidly fatal if not addressed surgically [^d12e1c4e]. CT scan is contraindicated in unstable patients because it delays definitive care, and DPL is not indicated when FAST is already positive [^3eef03ac]. A retrograde urethrogram is not urgent and should not delay hemorrhage control [^532e1451].
 
 ---
 

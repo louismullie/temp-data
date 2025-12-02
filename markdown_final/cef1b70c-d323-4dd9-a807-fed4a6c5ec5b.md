@@ -35,7 +35,7 @@ is celecoxib safe in chronic kidney disease
 
 ---
 
-Celecoxib is **not safe for patients with chronic kidney disease (CKD)** because it can cause acute kidney injury, worsen renal function, and lead to hyperkalemia, especially in those with eGFR < 30 mL/min/1.73 m² or on RAAS inhibitors, diuretics, or SGLT2 inhibitors [^113c171i] [^111rWUiu] [^11366CiG]. If absolutely necessary, use the **lowest effective dose for the shortest duration** with close monitoring of renal function and electrolytes, and avoid in advanced CKD or dialysis [^114DiXVj] [^111NimAT]. Prefer alternatives such as acetaminophen, topical NSAIDs, or non-NSAID options whenever possible [^115gRSjH] [^1158fgCQ].
+Celecoxib is **not safe for patients with chronic kidney disease (CKD)** because it can cause acute kidney injury, worsen renal function, and lead to hyperkalemia, especially in those with eGFR < 30 mL/min/1.73 m² or on RAAS inhibitors, diuretics, or SGLT2 inhibitors [^113c171i] [^111rWUiu] [^11366CiG]. If absolutely necessary, use the **lowest effective dose for the shortest duration** with close monitoring of renal function and electrolytes, and avoid in advanced CKD or dialysis [^114DiXVj] [^116qndvw]. Prefer alternatives such as acetaminophen, topical NSAIDs, or non-NSAID options whenever possible [^115gRSjH] [^1158fgCQ].
 
 ---
 

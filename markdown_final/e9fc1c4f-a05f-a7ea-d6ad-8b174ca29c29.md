@@ -24,7 +24,7 @@ question.
 
 > Let's see… What do we have here? The user is asking which imaging test to use to confirm suspected pulmonary edema in a 56-year-old man with hypertension, edema, and basal crackles, and whether smoking cessation will help his symptoms. Let's break this down step-by-step. First, I need to think about the clinical syndrome and pretest probability. Then, I should verify the diagnostic performance of chest radiography versus lung ultrasound and echocardiography. Next, I will align the choice with contemporary guidelines and the patient's hemodynamic context. After that, I should consider the differential diagnosis and how imaging shifts it. Finally, I will address the smoking cessation question with evidence and counseling points, and close with a practical, prioritized recommendation.
 
-> Let me first confirm the clinical syndrome and pretest probability. The combination of severe hypertension, peripheral edema, and bibasilar crackles in a patient with prior MI makes acute decompensated heart failure with pulmonary congestion highly likely, so I should not jump to conclusions but I should proceed with a high-suspicion workup that includes imaging and biomarkers rather than relying on exam alone [^126485cc].
+> Let me first confirm the clinical syndrome and pretest probability. The combination of severe hypertension, peripheral edema, and bibasilar crackles in a patient with prior MI makes acute decompensated heart failure with pulmonary congestion highly likely, so I should not jump to conclusions but I should proceed with a high-suspicion workup that includes imaging and biomarkers rather than relying on exam alone [^0d75641a].
 
 > Wait, let me verify the diagnostic performance of chest radiography. Chest X-ray can show cardiomegaly, vascular redistribution, interstitial edema, pleural effusions, and alveolar edema, but its sensitivity for pulmonary edema is limited, with pooled estimates around 0.73 and frequent false negatives early in decompensation or in obese patients, so a normal CXR does not exclude cardiogenic pulmonary edema and should not be used as the sole determinant of HF presence or cause [^3956e55e] [^11d407fc] [^e0d3dba0].
 
@@ -48,7 +48,7 @@ question.
 
 ---
 
-For suspected pulmonary edema in a 56-year-old male with hypertension, edema, and crackles, **chest X-ray is the first-line test** to rapidly confirm pulmonary edema and guide initial management [^0d75641a]. Echocardiography is essential within 48 hours to define cardiac function, valve disease, and ischemia, and to direct long-term therapy [^0d75641a] [^b17afe9c]. If bedside ultrasound is available, **lung ultrasound can detect B-lines** and pleural effusions earlier than CXR, aiding early diagnosis and monitoring [^3956e55e] [^4cf461a1]. Smoking cessation is critical and reduces dyspnea, hospitalizations, and mortality in heart failure and COPD [^notfound].
+For suspected pulmonary edema in a 56-year-old male with hypertension, edema, and crackles, **chest X-ray is the first-line test** to rapidly confirm pulmonary edema and guide initial management [^0d75641a]. Echocardiography is essential within 48 hours to define cardiac function, valve disease, and ischemia, and to direct long-term therapy [^0d75641a] [^notfound]. If bedside ultrasound is available, **lung ultrasound can detect B-lines** and pleural effusions earlier than CXR, aiding early diagnosis and monitoring [^3956e55e] [^4cf461a1]. Smoking cessation is critical and reduces dyspnea, hospitalizations, and mortality in heart failure and COPD [^notfound].
 
 ---
 

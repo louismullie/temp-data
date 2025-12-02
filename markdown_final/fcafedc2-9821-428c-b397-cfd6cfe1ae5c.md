@@ -35,7 +35,7 @@ Allowable mme state of Florida
 
 ---
 
-Florida does not have a **statutory MME limit** for opioid prescriptions. The state's main restriction is a **3-day supply limit** for acute pain prescriptions, extendable to 7 days with documentation [^b4a4924f] [^e9a8152b]. For chronic pain, there is **no legal MME cap**, but prescribers should follow clinical guidelines that recommend caution at or above 50 MME/day and avoid exceeding 90 MME/day without strong justification [^3fdd4290] [^05e434d4]. Prescribers must also consult the PDMP and document medical necessity for higher doses [^9e968d6f].
+Florida does not have a **statutory MME limit** for opioid prescriptions. The state's main restriction is a **3-day supply limit** for acute pain prescriptions, extendable to 7 days with documentation [^b4a4924f] [^e9a8152b]. For chronic pain, there is **no legal MME cap**, but prescribers should follow clinical guidelines that recommend caution at or above 50 MME/day and avoid exceeding 90 MME/day without strong justification [^3fdd4290] [^05e434d4]. Prescribers must also consult the PDMP and document medical necessity for higher doses [^notfound].
 
 ---
 
