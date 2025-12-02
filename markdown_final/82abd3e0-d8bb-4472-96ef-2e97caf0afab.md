@@ -41,7 +41,7 @@ how do I evaluate eye twitching
 
 ---
 
-Eye twitching is usually **benign and self-limited** [^113cXV26], most often due to fatigue, stress, or caffeine [^113cXV26]. Evaluate with a focused history and exam to confirm **simple myokymia** and exclude red flags (facial weakness, diplopia, ptosis, or systemic symptoms) [^112kyft6]. No routine labs or imaging are needed for isolated eyelid twitching; **reassure, reduce triggers, and treat only if persistent or bothersome** [^notfound]. Consider botulinum toxin for chronic cases [^113cXV26]; avoid quinine/tonic water due to limited benefit and safety concerns [^115AYkzP].
+Eye twitching is usually **benign and self-limited** [^113cXV26], most often due to fatigue, stress, or caffeine [^113cXV26]. Evaluate with a focused history and exam to confirm **simple myokymia** and exclude red flags (facial weakness, diplopia, ptosis, or systemic symptoms) [^112kyft6]. No routine labs or imaging are needed for isolated eyelid twitching; **reassure, reduce triggers, and treat only if persistent or bothersome** [^113cXV26]. Consider botulinum toxin for chronic cases [^113cXV26]; avoid quinine/tonic water due to limited benefit and safety concerns [^115AYkzP].
 
 ---
 

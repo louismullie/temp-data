@@ -37,7 +37,7 @@ NYHA functional class
 
 ---
 
-The NYHA functional class is a **four-tier system** [^11157Hvm] (I–IV) that **grades symptom severity and activity limitation** in heart failure, guiding therapy selection, risk stratification, and trial eligibility [^112b7rxM] [^114db97g]. Class I: no symptoms with ordinary activity; II: slight limitation with ordinary activity; III: marked limitation with less-than-ordinary activity; IV: symptoms at rest or with any activity. It is widely used in practice and research [^111VrqjW], but has **subjective, inconsistent** [^117HzPDu] assignment and limited discrimination in mild disease, so it should be complemented by objective measures (6-minute walk, CPET, biomarkers) [^116MRwgu] and patient-reported outcomes (KCCQ) [^116haMd3] for more precise assessment and monitoring [^114db97g].
+The NYHA functional class is a **four-tier system** (I–IV) that **grades symptom severity and activity limitation** in heart failure, guiding therapy selection, risk stratification, and trial eligibility [^112b7rxM] [^114db97g]. Class I: no symptoms with ordinary activity; II: slight limitation with ordinary activity; III: marked limitation with less-than-ordinary activity; IV: symptoms at rest or with any activity. It is widely used in practice and research [^111VrqjW], but has **subjective, inconsistent** [^117HzPDu] assignment and limited discrimination in mild disease, so it should be complemented by objective measures (6-minute walk, CPET, biomarkers) [^116MRwgu] and patient-reported outcomes (KCCQ) [^116haMd3] for more precise assessment and monitoring [^114db97g].
 
 ---
 

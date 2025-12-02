@@ -33,7 +33,7 @@ Best diet for uncomplicated diverticulitis
 
 ---
 
-The best diet for uncomplicated diverticulitis is a **clear liquid diet for 2–3 days** [^113WZBLt] during the acute phase for comfort, then advance to low-fiber solids as tolerated, and transition to a **high-fiber diet** [^1164Qsgz] after recovery to reduce recurrence risk [^1164Qsgz]. There is **no need to avoid nuts, seeds, popcorn, or fruits with small seeds** [^1135Rqvq]; these are not linked to increased risk [^116N6JqG]. Fiber intake should be individualized — increase gradually to minimize bloating, and use supplements if dietary fiber is inadequate [^117GhTpD]. Maintain hydration, limit red meat [^114GvXvx], and avoid NSAIDs to further lower recurrence risk [^115yxekC].
+The best diet for uncomplicated diverticulitis is a **clear liquid diet for 2–3 days** [^113WZBLt] during the acute phase for comfort, then advance to low-fiber solids as tolerated, and transition to a **high-fiber diet** [^115yxekC] after recovery to reduce recurrence risk [^1164Qsgz]. There is **no need to avoid nuts, seeds, popcorn, or fruits with small seeds** [^1135Rqvq]; these are not linked to increased risk [^116N6JqG]. Fiber intake should be individualized — increase gradually to minimize bloating, and use supplements if dietary fiber is inadequate [^117GhTpD]. Maintain hydration, limit red meat [^114GvXvx], and avoid NSAIDs to further lower recurrence risk [^115yxekC].
 
 ---
 

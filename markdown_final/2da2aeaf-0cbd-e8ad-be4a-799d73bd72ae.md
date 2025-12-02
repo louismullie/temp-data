@@ -19,13 +19,13 @@ is blood 90% water
 
 > Now, I should verify the water content of plasma itself. Multiple authoritative sources state that plasma is about 90% water, which aligns with standard teaching and pathophysiology references; for example, a high-quality review notes that blood plasma consists of about 90% water, and this figure is echoed in discussions of dehydration physiology and exercise-related hemoconcentration, where plasma water content is central to viscosity and volume changes.
 
-> Hold on, let's not jump to conclusions about whole blood being 90% water just because plasma is 90% water. I need to check the water content of whole blood, which includes the cellular fraction that is not predominantly water. The same high-quality review clarifies that whole blood is approximately 60% water, reflecting the dilution of plasma's high water content by the formed elements that contain less water per unit volume [^notfound].
+> Hold on, let's not jump to conclusions about whole blood being 90% water just because plasma is 90% water. I need to check the water content of whole blood, which includes the cellular fraction that is not predominantly water. The same high-quality review clarifies that whole blood is approximately 60% water, reflecting the dilution of plasma's high water content by the formed elements that contain less water per unit volume.
 
 > Wait, let me verify the math so I don't overgeneralize. If plasma is ~90% water and comprises ~55% of blood volume, while red cells and other solids comprise ~45% and contain less water, the weighted average for whole-blood water content falls around 60%, which matches the statement above; this also aligns with clinical physiology texts that describe whole-blood water content in the 55–65% range depending on hematocrit and measurement method [^notfound].
 
 > I should double-check for any conflicting claims. Some lay summaries or non-peer-reviewed sources occasionally assert that blood is 90% water, but that conflates plasma with whole blood; the peer-reviewed and authoritative sources consistently distinguish that plasma is ~90% water, whereas whole blood is ~60% water, so the 90% figure applies to plasma, not to whole blood [^notfound].
 
-> Putting this together, I need to ensure the answer is precise. Blood is not 90% water; plasma, the liquid portion of blood, is about 90% water, while whole blood is approximately 60% water, with the exact percentage varying with hematocrit and individual factors [^8b50dc5e].
+> Putting this together, I need to ensure the answer is precise. Blood is not 90% water; plasma, the liquid portion of blood, is about 90% water, while whole blood is approximately 60% water, with the exact percentage varying with hematocrit and individual factors [^notfound].
 
 ---
 

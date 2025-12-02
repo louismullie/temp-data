@@ -39,7 +39,7 @@ Ketamine v Etomidate and adrenal suppression and sepsis
 
 ---
 
-Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate causes **transient adrenal suppression** [^63189c28] that can worsen shock and increase mortality [^f7c9d496] [^32319b08], whereas ketamine does not suppress the adrenal axis and offers hemodynamic stability [^f3fc689b]. Multiple RCTs and meta-analyses show etomidate increases adrenal insufficiency [^06a2ac6d] [^f3fc689b] and is associated with higher mortality in sepsis [^f7c9d496] [^32319b08], while ketamine shows no such effects [^f3fc689b]. Guidelines recommend **avoiding etomidate in sepsis** and using ketamine or other alternatives [^c5c79807]; if etomidate is used, do not routinely give steroids to counter adrenal suppression, as this does not improve outcomes [^5018b4b6] [^7794b179].
+Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate causes **transient adrenal suppression** [^63189c28] that can worsen shock and increase mortality [^f7c9d496] [^3e9cbdb9], whereas ketamine does not suppress the adrenal axis and offers hemodynamic stability [^f3fc689b]. Multiple RCTs and meta-analyses show etomidate increases adrenal insufficiency [^06a2ac6d] [^f3fc689b] and is associated with higher mortality in sepsis [^f7c9d496] [^3e9cbdb9], while ketamine shows no such effects [^f3fc689b]. Guidelines recommend **avoiding etomidate in sepsis** and using ketamine or other alternatives [^c5c79807]; if etomidate is used, do not routinely give steroids to counter adrenal suppression, as this does not improve outcomes [^5018b4b6] [^7794b179].
 
 ---
 

@@ -49,7 +49,7 @@ Depakote dosing for siezures
 
 ---
 
-Depakote (divalproex sodium) dosing for seizures is **10–15 mg/kg/day** [^31385aa8] orally in divided doses, titrated by 5–10 mg/kg/week [^ec0d8407] to a usual maintenance of 30–60 mg/kg/day [^dabedc0a], not exceeding 60 mg/kg/day [^7061407f]. For absence seizures, start at **15 mg/kg/day** [^4ca0799b] and titrate similarly. Monitor trough valproate levels [^fdfe851e] to guide dosing, targeting 50–100 mcg/mL [^ec0d8407]; adjust for clinical response and tolerability. In elderly patients, start lower and titrate more slowly due to increased sensitivity [^5dc008e1]. Avoid abrupt discontinuation to prevent status epilepticus [^4ca0799b].
+Depakote (divalproex sodium) dosing for seizures is **10–15 mg/kg/day** [^31385aa8] orally in divided doses, titrated by 5–10 mg/kg/week [^ec0d8407] to a usual maintenance of 30–60 mg/kg/day [^dabedc0a], not exceeding 60 mg/kg/day [^7061407f]. For absence seizures, start at **15 mg/kg/day** [^4ca0799b] and titrate similarly. Monitor trough valproate levels [^ec0d8407] to guide dosing, targeting 50–100 mcg/mL [^ec0d8407]; adjust for clinical response and tolerability. In elderly patients, start lower and titrate more slowly due to increased sensitivity [^5dc008e1]. Avoid abrupt discontinuation to prevent status epilepticus [^4ca0799b].
 
 ---
 

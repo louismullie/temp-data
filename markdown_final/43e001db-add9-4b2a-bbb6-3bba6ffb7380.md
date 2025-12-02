@@ -43,7 +43,7 @@ What are symptoms of congenital adrenal hyperplasia
 
 Congenital adrenal hyperplasia (CAH) presents with symptoms due to **cortisol deficiency**, **androgen excess**, and variable aldosterone deficiency [^115L4XZZ]. The most common form is **21-hydroxylase deficiency** [^113gTaHn], which has classic and non-classic variants [^1114eNNi].
 
-- **Classic CAH (severe)**: Neonatal salt-wasting crisis (vomiting, dehydration, hyponatremia, hyperkalemia, shock) [^1114eNNi], ambiguous genitalia in 46, XX infants [^112Go9s2] [^111jpiuH], and early virilization in both sexes [^113gTaHn].
+- **Classic CAH (severe)**: Neonatal salt-wasting crisis (vomiting, dehydration, hyponatremia, hyperkalemia, shock) [^1114eNNi], ambiguous genitalia in 46, XX infants [^112Go9s2] [^1114eNNi], and early virilization in both sexes [^113gTaHn].
 
 - **Non-classic CAH (mild)**: Later-onset hyperandrogenism [^116hDdRN] (hirsutism, acne, irregular menses, infertility in females [^113PTKDT]; early pubarche, rapid growth, advanced bone age in children) [^113gTaHn].
 

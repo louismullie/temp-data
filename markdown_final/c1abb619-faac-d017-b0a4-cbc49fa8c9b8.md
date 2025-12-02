@@ -37,7 +37,7 @@ UTI symptoms with hematuria, but you have a negative UA￼
 
 ---
 
-UTI symptoms with hematuria but a negative urinalysis can occur due to **early or low-count infection** [^5124ac8e], **contamination or improper collection** [^6b3a8ffd], or **noninfectious causes** such as stones, malignancy, or glomerular disease [^966b6000] [^46be03bc]. A negative urinalysis **does not exclude UTI**, especially if symptoms are classic or risk factors are present [^5124ac8e] [^abb92430]. If suspicion remains, **obtain a urine culture** [^68b5e22b] and consider imaging or cystoscopy if hematuria persists or risk factors for malignancy exist [^83275ef5] [^03cefe05].
+UTI symptoms with hematuria but a negative urinalysis can occur due to **early or low-count infection** [^5124ac8e], **contamination or improper collection** [^6b3a8ffd], or **noninfectious causes** such as stones, malignancy, or glomerular disease [^966b6000] [^46be03bc]. A negative urinalysis **does not exclude UTI**, especially if symptoms are classic or risk factors are present [^5124ac8e] [^abb92430]. If suspicion remains, **obtain a urine culture** [^5124ac8e] and consider imaging or cystoscopy if hematuria persists or risk factors for malignancy exist [^83275ef5] [^03cefe05].
 
 ---
 

@@ -19,7 +19,7 @@ Which of the following is least sensitive to the effect of Radiation: a) Ovarian
 
 > Now, I will examine the ovarian follicles. Oocytes and granulosa cells are highly proliferative and dependent on intact DNA repair, so they are classic early-responding radiosensitive tissues, with radiation commonly causing follicular depletion and infertility, which aligns with the principle of mitotic radiosensitivity [^notfound].
 
-> Next, I should review the small intestinal epithelium. Enterocytes and crypt stem cells renew rapidly, making the gut mucosa one of the most radiosensitive tissues, explaining early radiation enteritis and the need for dose constraints in abdominal radiotherapy, so this is clearly early-responding and highly sensitive [^notfound].
+> Next, I should review the small intestinal epithelium. Enterocytes and crypt stem cells renew rapidly, making the gut mucosa one of the most radiosensitive tissues, explaining early radiation enteritis and the need for dose constraints in abdominal radiotherapy, so this is clearly early-responding and highly sensitive.
 
 > I will now examine erythropoietic bone marrow. Hematopoietic stem and progenitor cells divide frequently, so marrow is prototypically radiosensitive, with clinically important cytopenias reflecting early-responding tissue injury, which again fits the high mitotic activity paradigm [^notfound].
 

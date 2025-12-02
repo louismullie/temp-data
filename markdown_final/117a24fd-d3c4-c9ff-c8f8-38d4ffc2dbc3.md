@@ -19,7 +19,7 @@ A 23-year-old woman presents with a painless, transilluminant swelling in the ri
 
 > Now, I need to check the ICD-10-CM index and code set for the most specific match. Wait, let me verify the exact phrasing: the Index to Diseases directs "Hydrocele, canal of Nuck" to code N94.89, which is the most specific available code for this entity in ICD-10-CM, and there is no more granular subcategory listed for canal of Nuck hydrocele specifically [^notfound].
 
-> Hold on, I should verify whether laterality is required for this code. N94.89 sits within the N94 category, which does not carry a 7th-character requirement for laterality; laterality is not built into N94.89, so I should not append a side indicator or placeholder X here, even though ICD-10-CM supports laterality in other categories where it is explicitly required [^notfound] [^notfound].
+> Hold on, I should verify whether laterality is required for this code. N94.89 sits within the N94 category, which does not carry a 7th-character requirement for laterality; laterality is not built into N94.89, so I should not append a side indicator or placeholder X here, even though ICD-10-CM supports laterality in other categories where it is explicitly required.
 
 > But wait, what if I considered a hernia code instead, given the inguinolabial location? Let me reconsider: a hydrocele of the canal of Nuck is a cystic fluid collection from a patent processus vaginalis rather than a hernia with solid content, so using an inguinal hernia code would be inaccurate; the correct approach is to stay with the hydrocele-specific code rather than forcing a hernia diagnosis code for billing purposes [^ea29e29b] [^3243e6c9].
 

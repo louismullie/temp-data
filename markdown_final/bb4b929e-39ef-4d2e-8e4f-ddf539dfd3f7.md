@@ -35,7 +35,7 @@ What to do with TSH of 0.08? next step
 
 ---
 
-A TSH of 0.08 mIU/L is suppressed [^116uLLpr]; the next step is to **confirm with repeat TSH, free T4, and free T3** [^1128JKhP] to distinguish subclinical from overt hyperthyroidism. If free T4 and T3 are normal, this indicates subclinical hyperthyroidism [^111trvZ4]; if elevated, it is overt hyperthyroidism. Then **evaluate the etiology with TRAb and thyroid ultrasound** [^1128JKhP]; if TRAb is negative or the etiology remains unclear, consider a radioactive iodine uptake scan [^116z1K3j]. Management is risk-based [^1128JKhP]: treat if age ≥ 65, cardiac disease, osteoporosis, or symptoms; otherwise, monitor TSH every 3–6 months [^1128JKhP].
+A TSH of 0.08 mIU/L is suppressed; the next step is to **confirm with repeat TSH, free T4, and free T3** [^1128JKhP] to distinguish subclinical from overt hyperthyroidism. If free T4 and T3 are normal, this indicates subclinical hyperthyroidism [^111trvZ4]; if elevated, it is overt hyperthyroidism. Then **evaluate the etiology with TRAb and thyroid ultrasound** [^1128JKhP]; if TRAb is negative or the etiology remains unclear, consider a radioactive iodine uptake scan [^116z1K3j]. Management is risk-based [^1128JKhP]: treat if age ≥ 65, cardiac disease, osteoporosis, or symptoms; otherwise, monitor TSH every 3–6 months [^1128JKhP].
 
 ---
 

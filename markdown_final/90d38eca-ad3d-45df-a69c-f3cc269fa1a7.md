@@ -51,7 +51,7 @@ CKD management overview
 
 ---
 
-CKD management centers on **early detection** with eGFR and albuminuria [^114MUoHU], **risk stratification** using the Kidney Failure Risk Equation [^114MUoHU], and **blood pressure control** to < 130/80 mmHg with ACEi/ARBs for albuminuria [^114KV17y]. SGLT2 inhibitors are first-line for CKD with albuminuria, with GLP-1 RAs and MRAs added as indicated [^115dGtHR] [^113hL7bJ]. Lifestyle measures include sodium restriction, plant-forward diets, weight management, and smoking cessation [^113FAqMC]. Monitor for complications — anemia, CKD-MBD, hyperkalemia, and metabolic acidosis — and refer to nephrology when eGFR < 30 mL/min/1.73 m² or ESKD risk > 40% at 2 years [^115ouhJr]. Use a **multidisciplinary team** and patient education to optimize adherence and outcomes [^112gNvW4] [^115rMqTN].
+CKD management centers on **early detection** with eGFR and albuminuria [^114MUoHU], **risk stratification** using the Kidney Failure Risk Equation [^114MUoHU], and **blood pressure control** to < 130/80 mmHg with ACEi/ARBs for albuminuria [^117NcuD9]. SGLT2 inhibitors are first-line for CKD with albuminuria, with GLP-1 RAs and MRAs added as indicated [^115dGtHR] [^113hL7bJ]. Lifestyle measures include sodium restriction, plant-forward diets, weight management, and smoking cessation [^113FAqMC]. Monitor for complications — anemia, CKD-MBD, hyperkalemia, and metabolic acidosis — and refer to nephrology when eGFR < 30 mL/min/1.73 m² or ESKD risk > 40% at 2 years [^115ouhJr]. Use a **multidisciplinary team** and patient education to optimize adherence and outcomes [^112gNvW4] [^115rMqTN].
 
 ---
 

@@ -15,7 +15,7 @@ What condition is represented by ICD-10 code F50.2?
 
 > Let's see… What do we have here? The user is asking what condition is represented by ICD-10 code F50.2. Let's break this down step-by-step. First, I need to think about the ICD-10 category structure to confirm where F50.2 sits. Then, I should verify the exact diagnostic label assigned to F50.2. Next, I will review how F50.2 is used in epidemiologic and clinical studies to ensure consistency. Finally, I will consider related codes and any nuances that might confuse F50.2 with nearby subtypes, and then synthesize a concise, accurate answer.
 
-> Let me first confirm the category. F50 falls under the Mental, Behavioral and Neurodevelopmental Disorders chapter, specifically the F50–F59 block for behavioral syndromes associated with physiological disturbances and physical factors, with F50 designated for eating disorders, so F50.2 is an eating disorder code within that block [^c57e51b9] [^53104356].
+> Let me first confirm the category. F50 falls under the Mental, Behavioral and Neurodevelopmental Disorders chapter, specifically the F50–F59 block for behavioral syndromes associated with physiological disturbances and physical factors, with F50 designated for eating disorders, so F50.2 is an eating disorder code within that block [^eb4e1b12] [^53104356].
 
 > Wait, let me verify the exact label for F50.2. Multiple authoritative sources consistently map F50.2 to bulimia nervosa, including nutrition practice guidance that lists F50.2 as bulimia nervosa and large epidemiologic studies that operationalize bulimia nervosa using F50.2 and its atypical variant F50.3, which aligns with standard ICD-10 usage in research and clinical settings [^53104356] [^793c7a87] [^e279564e].
 
@@ -29,7 +29,7 @@ What condition is represented by ICD-10 code F50.2?
 
 ---
 
-ICD-10 code F50.2 denotes **bulimia nervosa** [^53104356], an eating disorder characterized by recurrent binge eating followed by compensatory behaviors (vomiting, laxatives, fasting, or excessive exercise). It is distinct from anorexia nervosa (F50.0–F50.1) and is used in clinical and research settings to identify cases for diagnosis, treatment, and epidemiology [^793c7a87] [^e279564e]. Accurate coding supports care pathways, reimbursement, and public health surveillance [^cd4941f1] [^439852f4].
+ICD-10 code F50.2 denotes **bulimia nervosa** [^53104356], an eating disorder characterized by recurrent binge eating followed by compensatory behaviors (vomiting, laxatives, fasting, or excessive exercise). It is distinct from anorexia nervosa (F50.0–F50.1) and is used in clinical and research settings to identify cases for diagnosis, treatment, and epidemiology [^793c7a87] [^e279564e]. Accurate coding supports care pathways, reimbursement, and public health surveillance [^681631bc] [^439852f4].
 
 ---
 

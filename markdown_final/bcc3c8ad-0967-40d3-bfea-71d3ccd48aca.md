@@ -47,7 +47,7 @@ Multi-fibroid uterus
 
 ---
 
-A multi-fibroid uterus is defined by the presence of **multiple benign leiomyomas** within the uterus [^114uZPjf], often causing **heavy menstrual bleeding, pelvic pressure, and infertility** [^111VPovU]. Diagnosis relies on **pelvic ultrasound and MRI** for detailed mapping and treatment planning [^117PKinh] [^113DMLrF]. Management is **individualized** [^112DATDu], with medical therapy (e.g. GnRH analogs, tranexamic acid) [^116Qmaq4] for symptom control; myomectomy for fertility preservation [^111Q1bUe] [^1158h8mj]; uterine artery embolization or high-intensity focused ultrasound for minimally invasive symptom relief [^117GFEmX] [^111KMGww]; and hysterectomy as definitive therapy when childbearing is complete [^117PcFxm]. Recurrence is common [^115VMZBi], so ongoing surveillance and patient counseling are essential [^114zqnR1].
+A multi-fibroid uterus is defined by the presence of **multiple benign leiomyomas** within the uterus, often causing **heavy menstrual bleeding, pelvic pressure, and infertility** [^111VPovU]. Diagnosis relies on **pelvic ultrasound and MRI** for detailed mapping and treatment planning [^117PKinh] [^113DMLrF]. Management is **individualized** [^112DATDu], with medical therapy (e.g. GnRH analogs, tranexamic acid) [^116Qmaq4] for symptom control; myomectomy for fertility preservation [^111Q1bUe] [^1158h8mj]; uterine artery embolization or high-intensity focused ultrasound for minimally invasive symptom relief [^117GFEmX] [^111KMGww]; and hysterectomy as definitive therapy when childbearing is complete [^117PcFxm]. Recurrence is common [^115VMZBi], so ongoing surveillance and patient counseling are essential [^114zqnR1].
 
 ---
 

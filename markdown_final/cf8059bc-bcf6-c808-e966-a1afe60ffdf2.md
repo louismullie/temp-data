@@ -31,7 +31,7 @@ What is a sitz bath
 
 ---
 
-A sitz bath is a **warm-water immersion** of the perineal and perineal area, typically used after childbirth, surgery, or for conditions such as hemorrhoids, anal fissures, or infections [^2c84a5cf]. It provides **symptom relief** by reducing pain, swelling, and irritation, and supports hygiene and wound healing [^b352c010] [^12b6a90d]. Sitz baths are generally safe, but patients should use clean water, avoid harsh additives, and consult a clinician if symptoms persist or worsen [^d393f4e6].
+A sitz bath is a **warm-water immersion** of the perineal and perineal area, typically used after childbirth, surgery, or for conditions such as hemorrhoids, anal fissures, or infections. It provides **symptom relief** by reducing pain, swelling, and irritation, and supports hygiene and wound healing [^b352c010] [^12b6a90d]. Sitz baths are generally safe, but patients should use clean water, avoid harsh additives, and consult a clinician if symptoms persist or worsen [^d393f4e6].
 
 ---
 

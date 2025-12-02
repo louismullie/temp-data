@@ -41,7 +41,7 @@ D. Pulmonary sequestration
 
 ---
 
-The most likely cause of pneumonia in this 50-year-old man with AIDS and right lower lobe consolidation is **community-acquired bacterial pneumonia** [^111upusP] (Streptococcus pneumoniae or Haemophilus influenzae) [^111upusP]. This is supported by the **acute presentation** with productive cough and fever, focal consolidation on exam and chest radiograph [^1176Aqvb], and the high incidence of bacterial pneumonia in HIV [^114SJdWx]. Pneumocystis pneumonia typically presents with diffuse interstitial infiltrates and a nonproductive cough [^112PPoP9], while tuberculosis and aspiration are less likely given the clinical and radiographic pattern [^113AHhyj].
+The most likely cause of pneumonia in this 50-year-old man with AIDS and right lower lobe consolidation is **community-acquired bacterial pneumonia** [^111upusP] (Streptococcus pneumoniae or Haemophilus influenzae) [^111upusP]. This is supported by the **acute presentation** with productive cough and fever, focal consolidation on exam and chest radiograph [^1176Aqvb], and the high incidence of bacterial pneumonia in HIV [^114SJdWx]. Pneumocystis pneumonia typically presents with diffuse interstitial infiltrates and a nonproductive cough [^112PPoP9], while tuberculosis and aspiration are less likely given the clinical and radiographic pattern [^notfound].
 
 ---
 

@@ -35,7 +35,7 @@ Metronidazole for Legionella pneumonia
 
 ---
 
-Metronidazole is **ineffective for Legionella pneumonia** because it has no activity against Legionella species, aerobic intracellular bacteria [^notfound]. The recommended first-line treatments are **fluoroquinolones** (e.g. levofloxacin) [^116mcFFM] [^114NQhP1] or **macrolides** (e.g. azithromycin) [^1116XZgB], which have demonstrated efficacy and intracellular penetration [^114eApR7] [^114hgaXj]. Metronidazole should not be used for Legionella pneumonia; it is reserved for anaerobic or protozoal infections [^116pkJ49].
+Metronidazole is **ineffective for Legionella pneumonia** because it has no activity against Legionella species, aerobic intracellular bacteria [^116pkJ49]. The recommended first-line treatments are **fluoroquinolones** (e.g. levofloxacin) [^116mcFFM] [^114NQhP1] or **macrolides** (e.g. azithromycin) [^1116XZgB], which have demonstrated efficacy and intracellular penetration [^114eApR7] [^114YfSkz]. Metronidazole should not be used for Legionella pneumonia; it is reserved for anaerobic or protozoal infections [^116pkJ49].
 
 ---
 

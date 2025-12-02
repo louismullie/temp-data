@@ -17,7 +17,7 @@ How much Aldactone will drop the bp
 
 > Let me first confirm the clinical context matters. In resistant hypertension, defined as uncontrolled blood pressure despite maximally tolerated ACEi/ARB, CCB, and thiazide(-like) diuretic, spironolactone is typically the fourth-line agent and achieves larger blood pressure reductions than in treatment-naïve essential hypertension, where monotherapy effects are more modest, so I need to keep that distinction front and center [^116M3vAi] [^1116iDo5].
 
-> I should confirm the dose–response and ceiling effect before estimating magnitudes. The FDA labeling notes that doses above 100 mg/day generally do not provide additional blood pressure reduction, which aligns with older monotherapy data suggesting diminishing returns beyond 50–100 mg/day, so I should avoid overestimating effects at very high doses [^114opmDt] [^114hRui1] [^114tVnfi].
+> I should confirm the dose–response and ceiling effect before estimating magnitudes. The FDA labeling notes that doses above 100 mg/day generally do not provide additional blood pressure reduction, which aligns with older monotherapy data suggesting diminishing returns beyond 50–100 mg/day, so I should avoid overestimating effects at very high doses [^114opmDt] [^114tVnfi] [^114tVnfi].
 
 > Now, let me review the pivotal randomized evidence in resistant hypertension. In PATHWAY-2, a double-blind crossover trial, spironolactone 25–50 mg/day reduced home systolic BP by about 8.7 mmHg versus placebo and outperformed bisoprolol and doxazosin by roughly 4–5 mmHg; clinic SBP fell by about 9.9 mmHg versus placebo, and approximately 58% of patients achieved home SBP less than 135 mmHg, which is clinically meaningful control in this population [^117UjTv8] [^113TDUJC] [^112F3BpB].
 
