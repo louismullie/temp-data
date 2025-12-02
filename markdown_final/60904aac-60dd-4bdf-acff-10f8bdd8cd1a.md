@@ -35,7 +35,7 @@ What is the recommended initial sildenafil dose for erectile dysfunction?
 
 ---
 
-The recommended starting dose of sildenafil for erectile dysfunction is **50 mg taken approximately 1 hour before sexual activity** [^114xYUWu] [^notfound]. Adjust the dose based on efficacy and tolerability [^117DtUMB]: **increase to 100 mg** if needed [^114xYUWu], or **decrease to 25 mg** if adverse effects occur or in patients with renal or hepatic impairment [^116CrvkC] [^111HhjaS]. The **maximum recommended dose is 100 mg per day**, and sildenafil **should not be used with nitrates** due to the risk of severe hypotension [^114xYUWu] [^1179DQLF] [^113Q9QyU].
+The recommended starting dose of sildenafil for erectile dysfunction is **50 mg taken approximately 1 hour before sexual activity** [^114xYUWu]. Adjust the dose based on efficacy and tolerability [^117DtUMB]: **increase to 100 mg** if needed [^114xYUWu], or **decrease to 25 mg** if adverse effects occur or in patients with renal or hepatic impairment [^116CrvkC] [^111HhjaS]. The **maximum recommended dose is 100 mg per day**, and sildenafil **should not be used with nitrates** due to the risk of severe hypotension [^114xYUWu] [^1179DQLF] [^113Q9QyU].
 
 ---
 

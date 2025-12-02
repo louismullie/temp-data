@@ -35,7 +35,7 @@ Can you give acetaminophen to patients before getting an egd?
 
 ---
 
-Patients can receive **acetaminophen before EGD** for mild pain or fever, as it does not increase bleeding risk or interact with sedation [^111nT54K] [^notfound]. It should be given **≥ 2 hours pre-procedure** to meet fasting guidelines and avoid aspiration risk [^1124g94P] [^114W1MDg]. Use standard adult dosing (650–1,000 mg PO/IV) and avoid exceeding 3,000–4,000 mg/day; reduce dose in liver disease or chronic alcohol use [^1157AYGH] [^116tuJdq]. Acetaminophen is preferred over NSAIDs pre-EGD because it does not increase gastrointestinal bleeding risk [^111nT54K].
+Patients can receive **acetaminophen before EGD** for mild pain or fever, as it does not increase bleeding risk or interact with sedation [^111nT54K]. It should be given **≥ 2 hours pre-procedure** to meet fasting guidelines and avoid aspiration risk [^1124g94P] [^114W1MDg]. Use standard adult dosing (650–1,000 mg PO/IV) and avoid exceeding 3,000–4,000 mg/day; reduce dose in liver disease or chronic alcohol use [^1157AYGH] [^116tuJdq]. Acetaminophen is preferred over NSAIDs pre-EGD because it does not increase gastrointestinal bleeding risk [^111nT54K].
 
 ---
 

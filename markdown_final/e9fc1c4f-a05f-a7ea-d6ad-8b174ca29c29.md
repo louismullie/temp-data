@@ -48,7 +48,7 @@ question.
 
 ---
 
-For suspected pulmonary edema in a 56-year-old male with hypertension, edema, and crackles, **chest X-ray is the first-line test** to rapidly confirm pulmonary edema and guide initial management [^0d75641a]. Echocardiography is essential within 48 hours to define cardiac function, valve disease, and ischemia, and to direct long-term therapy [^0d75641a] [^notfound]. If bedside ultrasound is available, **lung ultrasound can detect B-lines** and pleural effusions earlier than CXR, aiding early diagnosis and monitoring [^3956e55e] [^4cf461a1]. Smoking cessation is critical and reduces dyspnea, hospitalizations, and mortality in heart failure and COPD [^notfound].
+For suspected pulmonary edema in a 56-year-old male with hypertension, edema, and crackles, **chest X-ray is the first-line test** to rapidly confirm pulmonary edema and guide initial management [^0d75641a]. Echocardiography is essential within 48 hours to define cardiac function, valve disease, and ischemia, and to direct long-term therapy [^0d75641a]. If bedside ultrasound is available, **lung ultrasound can detect B-lines** and pleural effusions earlier than CXR, aiding early diagnosis and monitoring [^3956e55e] [^4cf461a1]. Smoking cessation is critical and reduces dyspnea, hospitalizations, and mortality in heart failure and COPD [^notfound].
 
 ---
 

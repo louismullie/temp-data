@@ -35,7 +35,7 @@ Candida treatment diaper
 
 ---
 
-For diaper candidiasis, use **topical antifungals** such as nystatin, miconazole, clotrimazole, or ketoconazole applied at every diaper change for 7–14 days [^113sbrwj] [^114bWszB] [^1151tFF5]. Combine with **barrier creams** (zinc oxide or petrolatum) and frequent diaper changes to keep the area dry [^116a4e6i] [^117G83X7]. Avoid **corticosteroids** unless clearly indicated, as they can worsen infection or cause atrophy [^113f4CGC] [^113WtMBs]. If the rash persists or recurs, confirm the diagnosis with a KOH prep or culture and consider oral fluconazole for severe or refractory cases [^1168cD8Y] [^notfound].
+For diaper candidiasis, use **topical antifungals** such as nystatin, miconazole, clotrimazole, or ketoconazole applied at every diaper change for 7–14 days [^113sbrwj] [^114bWszB] [^1151tFF5]. Combine with **barrier creams** (zinc oxide or petrolatum) and frequent diaper changes to keep the area dry [^116a4e6i] [^117G83X7]. Avoid **corticosteroids** unless clearly indicated, as they can worsen infection or cause atrophy [^113f4CGC] [^113WtMBs]. If the rash persists or recurs, confirm the diagnosis with a KOH prep or culture and consider oral fluconazole for severe or refractory cases [^1168cD8Y].
 
 ---
 
