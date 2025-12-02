@@ -33,7 +33,7 @@ Dermovate cream in hypertrophic scar post mammoplastic
 
 ---
 
-Dermovate (clobetasol propionate 0.05%) is **not recommended as first-line therapy** for hypertrophic scars after mammoplasty because of limited evidence and potential adverse effects [^115rKLqU]. Silicone gel or sheeting remains the **gold standard** for prevention and treatment, with intralesional corticosteroids reserved for refractory cases [^111BcZJw]. If clobetasol is used, apply a thin layer once or twice daily for up to 2–4 weeks, then reassess; monitor for atrophy, telangiectasia, and systemic absorption. For best results, combine with silicone therapy and consider intralesional triamcinolone or 5-FU for persistent scars [^117AA9xG] [^113X3h5a].
+Dermovate (clobetasol propionate 0.05%) is **not recommended as first-line therapy** for hypertrophic scars after mammoplasty because of limited evidence and potential adverse effects [^117AA9xG]. Silicone gel or sheeting remains the **gold standard** for prevention and treatment, with intralesional corticosteroids reserved for refractory cases [^111BcZJw]. If clobetasol is used, apply a thin layer once or twice daily for up to 2–4 weeks, then reassess; monitor for atrophy, telangiectasia, and systemic absorption. For best results, combine with silicone therapy and consider intralesional triamcinolone or 5-FU for persistent scars [^117AA9xG] [^113X3h5a].
 
 ---
 

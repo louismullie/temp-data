@@ -17,7 +17,7 @@ What is the ICD-10-CM code for Rubinstein-Taybi syndrome?
 
 > Let me first confirm the existence of a specific ICD-10-CM code for Rubinstein-Taybi syndrome. Wait, let me verify in the CDC's official ICD-10-CM browser, which is the most authoritative source for U.S. clinical coding. I should search for "Rubinstein-Taybi" directly in the browser to see if a dedicated code exists and what it is mapped to, because this will anchor the answer reliably.
 
-> Hold on, let's not jump to conclusions; I should also check the peer-reviewed literature for direct mentions of ICD-10-CM codes in RTS cohorts or case series. I will now examine studies that explicitly cite ICD-10-CM codes for RTS, as that provides real-world validation of the code used in administrative datasets and research, which strengthens confidence in the assignment [^20c2c21c].
+> Hold on, let's not jump to conclusions; I should also check the peer-reviewed literature for direct mentions of ICD-10-CM codes in RTS cohorts or case series. I will now examine studies that explicitly cite ICD-10-CM codes for RTS, as that provides real-world validation of the code used in administrative datasets and research, which strengthens confidence in the assignment.
 
 > Hmm, wait a minute, I initially thought RTS might be coded under Q87.0, which is a generic "other specified congenital malformation syndromes" bucket, but that would be imprecise. Let me reconsider and verify whether RTS has its own named code. On checking the CDC browser and the literature, I find that RTS is indeed assigned a specific ICD-10-CM code, not a generic Q87.0 placeholder, which corrects my initial assumption [^notfound].
 

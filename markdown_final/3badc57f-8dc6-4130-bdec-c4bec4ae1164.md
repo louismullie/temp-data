@@ -33,7 +33,7 @@ How much protein is + 1 in Urine analysis
 
 ---
 
-Urine protein 1+ on dipstick corresponds to **30–100 mg/dL** of protein in urine [^115BTMaM] [^115x69LH]. This is a **semiquantitative estimate** and should be confirmed with a spot urine protein-to-creatinine ratio (UPCR) or a 24-hour collection [^1175ZuJn] [^117D9Xtv], as dipsticks can give false positives/negatives due to urine concentration, pH, or non-albumin proteins [^117D9Xtv]. In pregnancy, 1+ proteinuria warrants **confirmatory testing** for preeclampsia [^113G9ta7] [^112AeHE2]; in CKD, it should prompt quantification and further evaluation [^1175ZuJn] [^116DFttY].
+Urine protein 1+ on dipstick corresponds to **30–100 mg/dL** of protein in urine [^115BTMaM] [^115x69LH]. This is a **semiquantitative estimate** and should be confirmed with a spot urine protein-to-creatinine ratio (UPCR) or a 24-hour collection [^1175ZuJn] [^117D9Xtv], as dipsticks can give false positives/negatives due to urine concentration, pH, or non-albumin proteins [^117D9Xtv]. In pregnancy, 1+ proteinuria warrants **confirmatory testing** for preeclampsia [^112fVC2m] [^112AeHE2]; in CKD, it should prompt quantification and further evaluation [^1175ZuJn] [^116DFttY].
 
 ---
 

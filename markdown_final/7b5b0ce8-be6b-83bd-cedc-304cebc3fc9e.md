@@ -39,7 +39,7 @@ I have a pt whose diabetes is not managed oh long acting insulin and a low inten
 
 ---
 
-Stop the sliding scale and **start basal-bolus insulin** with a long-acting basal (e.g. glargine) and rapid-acting bolus before meals, plus correction doses [^f8c67e87] [^da90ce27]. Sliding scale alone is reactive, causes glycemic swings, and is linked to more complications and longer stays [^c8ad0911] [^ae5cf092]. Use **0.4–0.5 units/kg/day total**, split 50% basal and 50% prandial, and titrate every 2–3 days to 140–180 mg/dL [^da90ce27] [^ffaa2cda]. If intake is poor, use basal plus correction; if persistent hyperglycemia occurs, add prandial insulin [^da90ce27] [^b6d19b83]. Monitor premeal and bedtime glucose, and adjust based on trends to reduce hypoglycemia and variability [^da90ce27] [^8e236907].
+Stop the sliding scale and **start basal-bolus insulin** with a long-acting basal (e.g. glargine) and rapid-acting bolus before meals, plus correction doses [^f8c67e87] [^da90ce27]. Sliding scale alone is reactive, causes glycemic swings, and is linked to more complications and longer stays [^c8ad0911] [^8e236907]. Use **0.4–0.5 units/kg/day total**, split 50% basal and 50% prandial, and titrate every 2–3 days to 140–180 mg/dL [^da90ce27] [^ffaa2cda]. If intake is poor, use basal plus correction; if persistent hyperglycemia occurs, add prandial insulin [^da90ce27] [^b6d19b83]. Monitor premeal and bedtime glucose, and adjust based on trends to reduce hypoglycemia and variability [^da90ce27] [^8e236907].
 
 ---
 

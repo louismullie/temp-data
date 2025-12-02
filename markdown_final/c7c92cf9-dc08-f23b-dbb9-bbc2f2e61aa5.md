@@ -39,7 +39,7 @@ According to current guidelines, what is the most appropriate next step in coagu
 
 ---
 
-The most appropriate next step is to **give fibrinogen concentrate 2 g IV now** [^4c44fa40] because the patient has fibrinogen 1.2 g/L, which is below the 1.5–2.0 g/L threshold linked to impaired clot formation and higher mortality in trauma [^aa528d96]. Early fibrinogen replacement restores clot strength and reduces bleeding, and is recommended by current European trauma guidelines as part of a goal-directed, concentrate-based strategy [^e14679d9] [^715144b2]. If fibrinogen concentrate is not available, **cryoprecipitate 10 units** is an alternative [^e14679d9] [^0f8581fa]. Plasma is not the priority here because it will not reliably correct fibrinogen and risks volume overload; reserve plasma for ongoing coagulopathy after fibrinogen repletion or if INR remains > 1.5 with active bleeding [^aa528d96] [^ea7dc900].
+The most appropriate next step is to **give fibrinogen concentrate 2 g IV now** [^4c44fa40] because the patient has fibrinogen 1.2 g/L, which is below the 1.5–2.0 g/L threshold linked to impaired clot formation and higher mortality in trauma [^aa528d96]. Early fibrinogen replacement restores clot strength and reduces bleeding, and is recommended by current European trauma guidelines as part of a goal-directed, concentrate-based strategy [^e14679d9] [^715144b2]. If fibrinogen concentrate is not available, **cryoprecipitate 10 units** is an alternative [^e14679d9] [^e14679d9]. Plasma is not the priority here because it will not reliably correct fibrinogen and risks volume overload; reserve plasma for ongoing coagulopathy after fibrinogen repletion or if INR remains > 1.5 with active bleeding [^aa528d96] [^ea7dc900].
 
 ---
 

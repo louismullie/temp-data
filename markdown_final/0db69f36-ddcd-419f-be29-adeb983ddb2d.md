@@ -17,7 +17,7 @@ Which antihypertensive medication is indicated for renal hypertension?
 
 > Let me first clarify the term, because I need to ensure we're treating the right entity and not talking past each other; "renal hypertension" can mean hypertension in CKD, or renovascular hypertension due to renal artery stenosis, and that distinction changes risk, drug selection, and the role of revascularization, so I should confirm which phenotype fits the patient before committing to a plan.
 
-> Next, I should review first-line therapy for hypertension in CKD with albuminuria, because that's where the renoprotective choice really matters; guidelines consistently prioritize RAAS blockade with an ACE inhibitor or an ARB to lower BP, reduce albuminuria, and slow CKD progression, and this applies across diabetes and non-diabetes with A2–A3 albuminuria, so ACEi or ARB is my initial anchor unless there's a contraindication [^112jEytt] [^115eF8X2] [^117Qk1GA] [^116VhNKh] [^113hhZjA].
+> Next, I should review first-line therapy for hypertension in CKD with albuminuria, because that's where the renoprotective choice really matters; guidelines consistently prioritize RAAS blockade with an ACE inhibitor or an ARB to lower BP, reduce albuminuria, and slow CKD progression, and this applies across diabetes and non-diabetes with A2–A3 albuminuria, so ACEi or ARB is my initial anchor unless there's a contraindication [^notfound] [^115eF8X2] [^117Qk1GA] [^116VhNKh] [^113hhZjA].
 
 > Wait, let me verify choice within the RAAS class; ACE inhibitors and ARBs are both acceptable, and I might be tempted to combine them for added proteinuria reduction, but hold on, I should not jump to that because dual RAAS blockade increases hyperkalemia, hypotension, and AKI without mortality benefit, so I should pick one class and avoid ACEi + ARB together [^111Z3zt7] [^111LLsb8].
 
@@ -35,7 +35,7 @@ Which antihypertensive medication is indicated for renal hypertension?
 
 ---
 
-For renal hypertension, ACE inhibitors or ARBs are **first-line** [^1131CjHu] because they lower blood pressure and provide renal protection, especially in proteinuric CKD [^113hhZjA]. Monitor for a **≥ 30% rise in creatinine or hyperkalemia** after starting therapy [^112jEytt], and avoid dual ACEi/ARB use [^111Z3zt7]. Add a **calcium channel blocker or thiazide diuretic** if needed [^116Uiyap], and use loop diuretics in advanced CKD [^115qWDuQ]. Beta-blockers or mineralocorticoid receptor antagonists are options for resistant hypertension [^113ehTpj]. Revascularization is reserved for refractory cases or rapid renal decline [^112jEytt], and renal denervation is considered only in resistant hypertension with eGFR > 40 mL/min/1.73 m² [^111b7tZD].
+For renal hypertension, ACE inhibitors or ARBs are **first-line** [^1131CjHu] because they lower blood pressure and provide renal protection, especially in proteinuric CKD [^113hhZjA]. Monitor for a **≥ 30% rise in creatinine or hyperkalemia** after starting therapy [^112jEytt], and avoid dual ACEi/ARB use [^111Z3zt7]. Add a **calcium channel blocker or thiazide diuretic** if needed [^116Uiyap], and use loop diuretics in advanced CKD [^notfound]. Beta-blockers or mineralocorticoid receptor antagonists are options for resistant hypertension [^113ehTpj]. Revascularization is reserved for refractory cases or rapid renal decline [^112jEytt], and renal denervation is considered only in resistant hypertension with eGFR > 40 mL/min/1.73 m² [^111b7tZD].
 
 ---
 

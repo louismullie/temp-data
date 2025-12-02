@@ -19,7 +19,7 @@ Inpatient treatment for patient with tachycardia
 
 > Wait, let me verify the ECG acquisition step before anything else when the patient is stable; a 12-lead ECG during tachycardia is essential to distinguish narrow-complex (QRS < 120 ms) from wide-complex (QRS ≥ 120 ms) tachycardias, and I should also obtain a baseline ECG in sinus rhythm if available to help with mechanism diagnosis and aberrancy patterns [^1166JbEB] [^1152t553] [^111j5qd5].
 
-> I will now examine the narrow-complex pathway for stable patients; vagal maneuvers are first-line and can be augmented by using a modified Valsalva with leg elevation and passive repositioning, which improves success, and I should ensure continuous ECG and blood pressure monitoring during these maneuvers [^113Cggyu] [^112PRmGD] [^111te4zr].
+> I will now examine the narrow-complex pathway for stable patients; vagal maneuvers are first-line and can be augmented by using a modified Valsalva with leg elevation and passive repositioning, which improves success, and I should ensure continuous ECG and blood pressure monitoring during these maneuvers [^1125UJZG] [^112PRmGD] [^111te4zr].
 
 > Hold on, I should verify adenosine dosing and administration details; the standard approach is 6 mg rapid IV push with a 12 mg repeat if needed, delivered through a proximal IV with immediate saline flush, and if still refractory, a third 12 mg dose is reasonable, with continuous ECG recording to distinguish termination from immediate recurrence; in rare refractory cases, escalation to 24–36 mg has been reported, but I need to ensure cardiology consultation before exceeding standard dosing [^111xstQ6] [^112q5YKG].
 

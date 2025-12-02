@@ -35,7 +35,7 @@ After a CVA successfully treated with tPA, how long should Brilinta be continued
 
 ---
 
-Brilinta (ticagrelor) is **not recommended after tPA-treated stroke** [^1129PSqf] because patients receiving thrombolysis were excluded from the THALES trial [^111P4SpK] and from the FDA-approved indication. If used off-label, the duration is **30 days** (90 mg twice daily with aspirin 75–100 mg daily) [^111P4SpK] [^114Unmk1], but this is not guideline-supported [^115GgZv4] and carries increased bleeding risk [^112tEvPk]. Standard practice is to use aspirin alone after tPA, and ticagrelor should be avoided in this setting [^1129PSqf].
+Brilinta (ticagrelor) is **not recommended after tPA-treated stroke** [^1129PSqf] because patients receiving thrombolysis were excluded from the THALES trial [^111P4SpK] and from the FDA-approved indication. If used off-label, the duration is **30 days** (90 mg twice daily with aspirin 75–100 mg daily) [^111P4SpK] [^114Unmk1], but this is not guideline-supported [^115GgZv4] and carries increased bleeding risk [^1115oNuX]. Standard practice is to use aspirin alone after tPA, and ticagrelor should be avoided in this setting [^1129PSqf].
 
 ---
 

@@ -37,7 +37,7 @@ What does left anterior fascicular block mean?
 
 ---
 
-Left anterior fascicular block (LAFB) is a conduction delay in the left anterior fascicle of the left bundle branch, producing a characteristic ECG pattern: **left axis deviation** (−45° to −90°) [^114X1HN7], **small q in I/aVL** with **small r in II/III/aVF**, and a normal or slightly prolonged QRS (≤ 120 ms) [^111mSCsT]. It is **often incidental and benign**, but in older adults or with structural heart disease, it may signal underlying pathology or progression to higher-grade block [^116LjvBy] [^113RL6Z9]. Management focuses on identifying and treating underlying causes; isolated LAFB rarely requires intervention, but new LAFB in patients over 40 warrants evaluation for coronary artery disease [^113RL6Z9] [^113E7QHT].
+Left anterior fascicular block (LAFB) is a conduction delay in the left anterior fascicle of the left bundle branch, producing a characteristic ECG pattern: **left axis deviation** (−45° to −90°) [^114X1HN7], **small q in I/aVL** with **small r in II/III/aVF**, and a normal or slightly prolonged QRS (≤ 120 ms) [^111mSCsT]. It is **often incidental and benign**, but in older adults or with structural heart disease, it may signal underlying pathology or progression to higher-grade block [^116LjvBy] [^113RL6Z9]. Management focuses on identifying and treating underlying causes; isolated LAFB rarely requires intervention, but new LAFB in patients over 40 warrants evaluation for coronary artery disease [^113RL6Z9] [^notfound].
 
 ---
 

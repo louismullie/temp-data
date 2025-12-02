@@ -33,7 +33,7 @@ How does methotrexate work for ectopic pregnancy?
 
 ---
 
-Methotrexate treats ectopic pregnancy by **inhibiting dihydrofolate reductase** [^f2322706], blocking DNA synthesis in rapidly dividing trophoblastic cells, which stops growth and leads to resorption [^151a5c11]. It is given as a **single 50 mg/m² IM dose** [^b3ccaf9d], with a second dose if hCG does not fall by ≥ 15% from day 4 to 7 [^8d18492f]; success is ~88–92% [^e011fc2b] and is lower with higher initial hCG or fetal cardiac activity [^040dc40e]. Methotrexate is for hemodynamically stable patients with unruptured ectopic pregnancy and no contraindications [^95a8e000]; it preserves fertility [^f97d885f] and is less invasive than surgery, but requires close hCG monitoring [^7f0449ba] and has side effects such as nausea, stomatitis, and transient liver enzyme elevation [^08ea484d].
+Methotrexate treats ectopic pregnancy by **inhibiting dihydrofolate reductase** [^f2322706], blocking DNA synthesis in rapidly dividing trophoblastic cells, which stops growth and leads to resorption [^151a5c11]. It is given as a **single 50 mg/m² IM dose** [^b3ccaf9d], with a second dose if hCG does not fall by ≥ 15% from day 4 to 7 [^8d18492f]; success is ~88–92% [^bbc94418] and is lower with higher initial hCG or fetal cardiac activity [^040dc40e]. Methotrexate is for hemodynamically stable patients with unruptured ectopic pregnancy and no contraindications [^95a8e000]; it preserves fertility [^f97d885f] and is less invasive than surgery, but requires close hCG monitoring [^7f0449ba] and has side effects such as nausea, stomatitis, and transient liver enzyme elevation [^08ea484d].
 
 ---
 

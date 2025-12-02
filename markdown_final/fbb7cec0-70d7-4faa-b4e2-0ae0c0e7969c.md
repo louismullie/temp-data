@@ -13,7 +13,7 @@ Is it appropriate to insert an estrogen-progesterone IUD in a patient with migra
 
 ## Answer
 
-> Let's see… What do we have here? The user is asking whether an "estrogen-progesterone IUD" is appropriate for a patient with migraine with aura. Let's break this down step-by-step. First, I need to think about clarifying the terminology around IUDs and whether any IUD actually contains estrogen. Then, I should evaluate the vascular risk profile of migraine with aura and how estrogen exposure modifies that risk. Next, I will review guideline-based contraceptive contraindications, especially for combined hormonal contraception, and confirm the safety of progestin-only methods, including levonorgestrel-releasing IUDs, as well as the copper IUD. Finally, I'll synthesize a clear recommendation and counseling points with supporting evidence from AAFP, ACOG, FDA labeling, and stroke literature [^116hxHpe] [^114Yvuko] [^113daFXA] [^117C3vcA].
+> Let's see… What do we have here? The user is asking whether an "estrogen-progesterone IUD" is appropriate for a patient with migraine with aura. Let's break this down step-by-step. First, I need to think about clarifying the terminology around IUDs and whether any IUD actually contains estrogen. Then, I should evaluate the vascular risk profile of migraine with aura and how estrogen exposure modifies that risk. Next, I will review guideline-based contraceptive contraindications, especially for combined hormonal contraception, and confirm the safety of progestin-only methods, including levonorgestrel-releasing IUDs, as well as the copper IUD. Finally, I'll synthesize a clear recommendation and counseling points with supporting evidence from AAFP, ACOG, FDA labeling, and stroke literature.
 
 > Wait, let me verify the terminology before anything else. There is no such thing as an "estrogen-progesterone IUD"; currently available IUDs are either nonhormonal copper devices or levonorgestrel-releasing devices that contain only a progestin and no estrogen, so the phrase "estrogen-progesterone IUD" is a misnomer and likely reflects confusion with combined estrogen-progestin methods such as pills, patches, or rings [^114Yvuko] [^1172NS8g] [^115Vj6ag].
 
@@ -31,7 +31,7 @@ Is it appropriate to insert an estrogen-progesterone IUD in a patient with migra
 
 ---
 
-No — estrogen-progestin IUDs are not available or approved [^114Yvuko]; only progestin-only IUDs exist [^112WSCvt]. In migraine with aura, **estrogen-containing contraceptives are contraindicated** [^113daFXA] due to increased ischemic stroke risk [^114LjaY2]. Progestin-only (levonorgestrel) IUDs are **safe and recommended** [^114Yvuko], as they do not increase stroke risk or exacerbate aura [^112DZNVe]. If estrogen is needed, use the lowest effective dose and monitor closely; nonetheless, avoid estrogen-containing contraceptives in migraine with aura [^116hxHpe].
+No — estrogen-progestin IUDs are not available or approved [^114Yvuko]; only progestin-only IUDs exist [^1172NS8g]. In migraine with aura, **estrogen-containing contraceptives are contraindicated** [^113daFXA] due to increased ischemic stroke risk [^114LjaY2]. Progestin-only (levonorgestrel) IUDs are **safe and recommended** [^114Yvuko], as they do not increase stroke risk or exacerbate aura [^112DZNVe]. If estrogen is needed, use the lowest effective dose and monitor closely; nonetheless, avoid estrogen-containing contraceptives in migraine with aura [^116hxHpe].
 
 ---
 

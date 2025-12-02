@@ -35,7 +35,7 @@ can tramadol be used in cirrhosis
 
 ---
 
-Tramadol can be used in cirrhosis with **cautious dose adjustment** and close monitoring, but it is not first-line due to risks of hepatic encephalopathy, respiratory depression, and serotonin syndrome [^1118N8rf] [^112TA27V]. For Child-Pugh A/B, use the lowest effective dose and extend intervals; for Child-Pugh C, **avoid tramadol** if possible, or limit to 50 mg once daily with close monitoring [^113Nd3ia] [^115QkuD8]. Prefer acetaminophen (≤ 2 g/day) or topical NSAIDs [^113v4r41]; if an opioid is needed, use low-dose oxycodone or hydromorphone with extended intervals [^112TA27V]. Monitor for sedation, confusion, constipation, and respiratory depression, and avoid serotonergic or CNS depressant co-medications [^112jwbSD].
+Tramadol can be used in cirrhosis with **cautious dose adjustment** and close monitoring, but it is not first-line due to risks of hepatic encephalopathy, respiratory depression, and serotonin syndrome [^1118N8rf] [^112TA27V]. For Child-Pugh A/B, use the lowest effective dose and extend intervals; for Child-Pugh C, **avoid tramadol** if possible, or limit to 50 mg once daily with close monitoring [^113Nd3ia] [^112jwbSD]. Prefer acetaminophen (≤ 2 g/day) or topical NSAIDs [^113v4r41]; if an opioid is needed, use low-dose oxycodone or hydromorphone with extended intervals [^112TA27V]. Monitor for sedation, confusion, constipation, and respiratory depression, and avoid serotonergic or CNS depressant co-medications [^112jwbSD].
 
 ---
 

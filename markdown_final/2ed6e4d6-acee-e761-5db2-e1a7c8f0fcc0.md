@@ -41,7 +41,7 @@ Guidelines for diagnosis and management of varicose veins
 
 ---
 
-Varicose veins are diagnosed by **clinical examination plus duplex ultrasound** [^0ff39353] to confirm reflux and map anatomy, with CEAP classification and VCSS for severity and outcomes tracking [^2f804ba7] [^9778760e]. Management is **individualized**: compression for symptomatic relief or when intervention is unsuitable [^5413fbff], and endovenous ablation (radiofrequency/laser) or ultrasound-guided foam sclerotherapy for symptomatic reflux, with phlebectomy for tributaries [^d65ed8b6] [^b39de07c]. Surgery is reserved for large veins or failed endovenous therapy, and patients should be counseled on risks, benefits, and recurrence [^07544c18]. Follow-up with clinical assessment and duplex is recommended at 3–6 months and as needed for recurrence or complications [^a3b36160].
+Varicose veins are diagnosed by **clinical examination plus duplex ultrasound** [^0ff39353] to confirm reflux and map anatomy, with CEAP classification and VCSS for severity and outcomes tracking [^2f804ba7] [^9778760e]. Management is **individualized**: compression for symptomatic relief or when intervention is unsuitable [^5413fbff], and endovenous ablation (radiofrequency/laser) or ultrasound-guided foam sclerotherapy for symptomatic reflux, with phlebectomy for tributaries [^d65ed8b6] [^b39de07c]. Surgery is reserved for large veins or failed endovenous therapy, and patients should be counseled on risks, benefits, and recurrence [^notfound]. Follow-up with clinical assessment and duplex is recommended at 3–6 months and as needed for recurrence or complications [^a3b36160].
 
 ---
 

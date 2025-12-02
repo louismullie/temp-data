@@ -31,7 +31,7 @@ When ordering an MRI for an 11-year-old with questionable focal seizure do we wa
 
 ---
 
-For an 11-year-old with questionable focal seizure, **start with a non-contrast MRI** as the initial study [^117WZsVD] [^115qWu4D]. Contrast is reserved for **specific indications** such as suspected tumor, infection, vascular malformation, or prior abnormal MRI findings [^113fZtHP] [^1168Si9b]. A non-contrast epilepsy protocol (3D T1, T2, FLAIR, DWI, SWI) is usually sufficient to detect the most common epileptogenic lesions in children [^112bw482] [^111uYsaR]. If the initial MRI is abnormal or clinical suspicion remains high, **contrast can be added later** [^113H2ZHa].
+For an 11-year-old with questionable focal seizure, **start with a non-contrast MRI** as the initial study [^notfound] [^115qWu4D]. Contrast is reserved for **specific indications** such as suspected tumor, infection, vascular malformation, or prior abnormal MRI findings [^113fZtHP] [^1168Si9b]. A non-contrast epilepsy protocol (3D T1, T2, FLAIR, DWI, SWI) is usually sufficient to detect the most common epileptogenic lesions in children [^112bw482] [^111uYsaR]. If the initial MRI is abnormal or clinical suspicion remains high, **contrast can be added later** [^113H2ZHa].
 
 ---
 

@@ -39,7 +39,7 @@ pediatric lab workup for abdominal pain
 
 ---
 
-The pediatric lab workup for abdominal pain should be **guided by history, exam, and risk** [^85c06970], not routine panels. Order **CBC, urinalysis, and pregnancy test** when appendicitis, UTI, or pregnancy is suspected [^85c06970] [^b87db431]; add CRP/ESR, stool studies, or pancreatic enzymes only when indicated by specific concerns [^ca81ec2a] [^42bd0a22]. Avoid **routine labs** in stable, afebrile children with nonspecific pain, as they rarely change management [^8a70fada] [^e4f012b4]. Use clinical judgment and reserve imaging for persistent or severe cases [^88e1d68e] [^5cf33b39].
+The pediatric lab workup for abdominal pain should be **guided by history, exam, and risk** [^85c06970], not routine panels. Order **CBC, urinalysis, and pregnancy test** when appendicitis, UTI, or pregnancy is suspected [^85c06970] [^b87db431]; add CRP/ESR, stool studies, or pancreatic enzymes only when indicated by specific concerns [^ca81ec2a] [^42bd0a22]. Avoid **routine labs** in stable, afebrile children with nonspecific pain, as they rarely change management [^8a70fada] [^e4f012b4]. Use clinical judgment and reserve imaging for persistent or severe cases [^88e1d68e] [^205718c0].
 
 ---
 

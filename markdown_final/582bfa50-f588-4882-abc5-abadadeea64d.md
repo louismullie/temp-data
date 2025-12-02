@@ -43,7 +43,7 @@
 
 ---
 
-In a 32-year-old man with 3 months of intermittent dysuria and urinary frequency, the most likely causes are **chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS)** [^112J8bVt], **interstitial cystitis/bladder pain syndrome (IC/BPS)** [^111yMtX3], or **urethral stricture** [^113LW9Y9]. Less common considerations include chronic bacterial prostatitis [^113nudkf], bladder stones, or malignancy. Essential next steps are **urinalysis, urine culture, and a focused exam** (including digital rectal exam and post-void residual) [^111Gwqad] [^115ncMVd]. If initial tests are inconclusive, obtain **uroflowmetry, renal/bladder ultrasound, and cystoscopy** [^114zCQCy]. Management is diagnosis-specific: CP/CPPS and IC/BPS require multimodal therapy [^111Zm9LC]; strictures may need dilation or urethroplasty [^113LW9Y9].
+In a 32-year-old man with 3 months of intermittent dysuria and urinary frequency, the most likely causes are **chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS)** [^112J8bVt], **interstitial cystitis/bladder pain syndrome (IC/BPS)** [^111yMtX3], or **urethral stricture** [^113LW9Y9]. Less common considerations include chronic bacterial prostatitis [^113nudkf], bladder stones, or malignancy. Essential next steps are **urinalysis, urine culture, and a focused exam** (including digital rectal exam and post-void residual) [^111Gwqad] [^115ncMVd]. If initial tests are inconclusive, obtain **uroflowmetry, renal/bladder ultrasound, and cystoscopy** [^114zCQCy]. Management is diagnosis-specific: CP/CPPS and IC/BPS require multimodal therapy [^112J8bVt]; strictures may need dilation or urethroplasty [^113LW9Y9].
 
 ---
 

@@ -39,7 +39,7 @@ Opioid use disorder in females and during pregnancy
 
 ---
 
-Opioid use disorder (OUD) in females during pregnancy requires **MOUD as first-line therapy** (buprenorphine preferred, methadone acceptable) [^0eeb519a] [^33a5d356] to reduce maternal relapse/overdose and improve neonatal outcomes [^5e5408a7]; **avoid tapering or detoxification** unless carefully planned, as withdrawal increases relapse and fetal risk [^c74491ee] [^3215c077]. Pregnant patients with OUD have higher pain requirements and benefit from **early anesthesia consultation**, multimodal analgesia, and continued MOUD through delivery and postpartum [^b51df2b6] [^71be5b7e]. Universal screening, coordinated prenatal care, and postpartum relapse prevention are essential [^4890f242] [^546443f7]; **breastfeeding is encouraged** when stable on MOUD and not using illicit drugs [^0eeb519a] [^7deabef6].
+Opioid use disorder (OUD) in females during pregnancy requires **MOUD as first-line therapy** (buprenorphine preferred, methadone acceptable) [^0eeb519a] [^fd1977ad] to reduce maternal relapse/overdose and improve neonatal outcomes [^5e5408a7]; **avoid tapering or detoxification** unless carefully planned, as withdrawal increases relapse and fetal risk [^c74491ee] [^3215c077]. Pregnant patients with OUD have higher pain requirements and benefit from **early anesthesia consultation**, multimodal analgesia, and continued MOUD through delivery and postpartum [^b51df2b6] [^71be5b7e]. Universal screening, coordinated prenatal care, and postpartum relapse prevention are essential [^4890f242] [^546443f7]; **breastfeeding is encouraged** when stable on MOUD and not using illicit drugs [^0eeb519a] [^7deabef6].
 
 ---
 

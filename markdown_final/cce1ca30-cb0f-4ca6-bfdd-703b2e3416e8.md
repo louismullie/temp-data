@@ -37,7 +37,7 @@ How frequently should the RSV vaccine be administered?
 
 ---
 
-RSV vaccination is given as a **single dose** for each target group, timed to maximize protection during the RSV season. In older adults, administer one dose before the season, with **no routine revaccination** at this time [^115wnmhF] [^113u1Hg4]. In pregnant individuals, give one dose at **32–36 weeks' gestation** [^116Du5DQ] [^115Tkz9s], ideally September–January, to protect infants through age 6 months [^113izciN]. In infants and young children, give a single dose of nirsevimab before the first RSV season [^113yQUKN]; a second dose is reserved for high-risk children entering a second season [^11155iDL]. Palivizumab is reserved for select high-risk infants and is administered monthly [^111eW3Ek] during the RSV season.
+RSV vaccination is given as a **single dose** for each target group, timed to maximize protection during the RSV season. In older adults, administer one dose before the season, with **no routine revaccination** at this time [^115wnmhF] [^113u1Hg4]. In pregnant individuals, give one dose at **32–36 weeks' gestation** [^116Du5DQ] [^115Tkz9s], ideally September–January, to protect infants through age 6 months [^116Du5DQ]. In infants and young children, give a single dose of nirsevimab before the first RSV season [^113yQUKN]; a second dose is reserved for high-risk children entering a second season [^11155iDL]. Palivizumab is reserved for select high-risk infants and is administered monthly [^111eW3Ek] during the RSV season.
 
 ---
 

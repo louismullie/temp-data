@@ -17,19 +17,19 @@
 
 > Let me first confirm the problem setup. A seven-digit number ranges from 1,000,000 to 9,999,999, so the first digit cannot be zero, and the sum of all seven digits must equal 2. I need to ensure that any solution respects the non-zero constraint on the leading digit while allowing the remaining digits to be zero or positive integers that keep the total sum at 2.
 
-> Now, I will think about the combinatorial framing. The problem reduces to finding the number of integer solutions to d₁ + d₂ + d₃ + d₄ + d₅ + d₆ + d₇ = 2, with d₁ ≥ 1 and 0 ≤ dᵢ ≤ 9 for i = 2, …,7. Wait, let me verify the upper bounds; since the total sum is only 2, no individual digit can exceed 2, so the dᵢ ≤ 9 constraint is automatically satisfied and I can ignore it for counting purposes, which simplifies the analysis to a stars-and-bars problem with a lower bound on d₁ [^notfound].
+> Now, I will think about the combinatorial framing. The problem reduces to finding the number of integer solutions to d₁ + d₂ + d₃ + d₄ + d₅ + d₆ + d₇ = 2, with d₁ ≥ 1 and 0 ≤ dᵢ ≤ 9 for i = 2, …,7. Wait, let me verify the upper bounds; since the total sum is only 2, no individual digit can exceed 2, so the dᵢ ≤ 9 constraint is automatically satisfied and I can ignore it for counting purposes, which simplifies the analysis to a stars-and-bars problem with a lower bound on d₁.
 
-> I will now examine the feasible cases. Because the total digit sum is 2 and d₁ ≥ 1, the only possible distributions are: (1) d₁ = 2 and all other digits are 0, or (2) d₁ = 1 and exactly one of the remaining six digits is 1 while the rest are 0. Hold on, I should verify that these are indeed the only possibilities; yes, any other combination would either violate the leading-digit constraint or exceed the total sum of 2 [^notfound].
+> I will now examine the feasible cases. Because the total digit sum is 2 and d₁ ≥ 1, the only possible distributions are: (1) d₁ = 2 and all other digits are 0, or (2) d₁ = 1 and exactly one of the remaining six digits is 1 while the rest are 0. Hold on, I should verify that these are indeed the only possibilities; yes, any other combination would either violate the leading-digit constraint or exceed the total sum of 2.
 
-> Let me count Case 1 precisely. If d₁ = 2 and d₂ through d₇ are all 0, there is exactly one such number: 2,000,000. I should confirm that this is the only arrangement in this case; indeed, fixing the first digit to 2 forces all other digits to be 0 to meet the sum constraint, so the count is 1 [^notfound].
+> Let me count Case 1 precisely. If d₁ = 2 and d₂ through d₇ are all 0, there is exactly one such number: 2,000,000. I should confirm that this is the only arrangement in this case; indeed, fixing the first digit to 2 forces all other digits to be 0 to meet the sum constraint, so the count is 1.
 
-> Next, I should count Case 2. If d₁ = 1, then I need exactly one of the remaining six digits to be 1 and the other five to be 0. The number of ways to choose which of the six positions gets the 1 is C(6,1) = 6. Wait, let me double-check that calculation; yes, choosing 1 position out of 6 gives 6 distinct numbers, such as 1,100,000 and 1,010,000, and so on [^notfound].
+> Next, I should count Case 2. If d₁ = 1, then I need exactly one of the remaining six digits to be 1 and the other five to be 0. The number of ways to choose which of the six positions gets the 1 is C(6,1) = 6. Wait, let me double-check that calculation; yes, choosing 1 position out of 6 gives 6 distinct numbers, such as 1,100,000 and 1,010,000, and so on.
 
-> I will now sum the cases to get the total. Case 1 contributes 1 number and Case 2 contributes 6 numbers, so the total is 1 + 6 = 7. Hold on, I should verify that I'm not missing any other valid configurations; given the constraints and the small total sum, these are the only possibilities, so the final answer is 7 [^notfound].
+> I will now sum the cases to get the total. Case 1 contributes 1 number and Case 2 contributes 6 numbers, so the total is 1 + 6 = 7. Hold on, I should verify that I'm not missing any other valid configurations; given the constraints and the small total sum, these are the only possibilities, so the final answer is 7.
 
 ---
 
-There are **7** seven-digit numbers whose digits sum to 2. These are: 1000001, 1000010, 1000100, 1001000, 1010000, 1100000, and 2000000. The solution follows from the constraint that the first digit must be at least 1, so the only ways to achieve a digit sum of 2 are either a 2 in the first position with six 0s, or a 1 in the first position with a single 1 in one of the remaining six positions [^notfound].
+There are **7** seven-digit numbers whose digits sum to 2. These are: 1000001, 1000010, 1000100, 1001000, 1010000, 1100000, and 2000000. The solution follows from the constraint that the first digit must be at least 1, so the only ways to achieve a digit sum of 2 are either a 2 in the first position with six 0s, or a 1 in the first position with a single 1 in one of the remaining six positions.
 
 ---
 

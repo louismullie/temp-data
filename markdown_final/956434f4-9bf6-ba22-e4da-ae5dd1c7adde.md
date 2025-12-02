@@ -27,21 +27,21 @@ J. 3.47
 
 > Let's see… What do we have here? The user is asking for the pH of a 0.3 M acetic acid solution, given Kₐ = 1.8 × 10⁻⁵, and to select the correct option from the provided choices. Let's break this down step-by-step. First, I need to think about the acid dissociation equilibrium and the expression for Ka. Then, I should set up an ICE table and make a reasonable approximation for the small dissociation. Next, I will solve for the hydrogen ion concentration and calculate pH. After that, I should verify the approximation and, if needed, iterate or use the quadratic formula. Finally, I will compare the result to the answer choices and confirm the closest match.
 
-> Let me first confirm the equilibrium and the Ka expression. Acetic acid dissociates as CH3COOH ⇌ H+ + CH3COO−, so Kₐ = [H⁺] [CH₃COO⁻]/[CH₃COOH] = 1.8 × 10⁻⁵, and I should remember that the initial concentration of acetic acid is 0.3 M, with [H+] and [CH3COO−] initially zero [^cd7c14f4].
+> Let me first confirm the equilibrium and the Ka expression. Acetic acid dissociates as CH3COOH ⇌ H+ + CH3COO−, so Kₐ = [H⁺] [CH₃COO⁻]/[CH₃COOH] = 1.8 × 10⁻⁵, and I should remember that the initial concentration of acetic acid is 0.3 M, with [H+] and [CH3COO−] initially zero.
 
-> I will now examine the ICE table setup. Let x be the concentration of H+ and CH3COO− at equilibrium; then [CH3COOH] at equilibrium is 0.3 − x, and Kₐ = x²/(0.3 − x). Wait, let me verify the assumption before proceeding: because acetic acid is a weak acid and Ka is small, I can reasonably assume x is much less than 0.3, so 0.3 − x ≈ 0.3, which simplifies the equation to x²/0.3 ≈ 1.8 × 10⁻⁵ [^cd7c14f4].
+> I will now examine the ICE table setup. Let x be the concentration of H+ and CH3COO− at equilibrium; then [CH3COOH] at equilibrium is 0.3 − x, and Kₐ = x²/(0.3 − x). Wait, let me verify the assumption before proceeding: because acetic acid is a weak acid and Ka is small, I can reasonably assume x is much less than 0.3, so 0.3 − x ≈ 0.3, which simplifies the equation to x²/0.3 ≈ 1.8 × 10⁻⁵.
 
-> Next, I should solve for x. Multiplying both sides by 0.3 gives x² ≈ 5.4 × 10⁻⁶, so x ≈ √(5.4 × 10⁻⁶) ≈ 2.32 × 10⁻³ M. Hold on, I should verify the magnitude: yes, 2.3 × 10⁻³ is indeed much smaller than 0.3, so the approximation is justified here [^cd7c14f4].
+> Next, I should solve for x. Multiplying both sides by 0.3 gives x² ≈ 5.4 × 10⁻⁶, so x ≈ √(5.4 × 10⁻⁶) ≈ 2.32 × 10⁻³ M. Hold on, I should verify the magnitude: yes, 2.3 × 10⁻³ is indeed much smaller than 0.3, so the approximation is justified here.
 
-> Now I will calculate pH. pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63. Let me double-check the logarithm: log₁₀(2.32) is about 0.365, so −(0.365 − 3) = 2.635, which rounds to 2.63 [^cd7c14f4].
+> Now I will calculate pH. pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63. Let me double-check the logarithm: log₁₀(2.32) is about 0.365, so −(0.365 − 3) = 2.635, which rounds to 2.63.
 
-> But wait, what if the approximation is too coarse? I should confirm by checking the percent dissociation. x/0.3 ≈ 0.0077, or about 0.77%, which is well under 5%, so the assumption that x ≪ 0.3 is valid and no quadratic solution is necessary here. If I were to use the quadratic, x² + 1.8 × 10⁻⁵x − 5.4 × 10⁻⁶ = 0, the positive root would be essentially identical to 2.32 × 10⁻³, confirming the approximation is fine [^cd7c14f4].
+> But wait, what if the approximation is too coarse? I should confirm by checking the percent dissociation. x/0.3 ≈ 0.0077, or about 0.77%, which is well under 5%, so the assumption that x ≪ 0.3 is valid and no quadratic solution is necessary here. If I were to use the quadratic, x² + 1.8 × 10⁻⁵x − 5.4 × 10⁻⁶ = 0, the positive root would be essentially identical to 2.32 × 10⁻³, confirming the approximation is fine.
 
-> Finally, I need to match the calculated pH to the options. 2.63 corresponds to option B. Hold on, let's not jump to conclusions; I should ensure no rounding or transcription error occurred. Rechecking the math, the closest choice is indeed B. 2.63 [^cd7c14f4].
+> Finally, I need to match the calculated pH to the options. 2.63 corresponds to option B. Hold on, let's not jump to conclusions; I should ensure no rounding or transcription error occurred. Rechecking the math, the closest choice is indeed B. 2.63.
 
 ---
 
-The pH of a 0.3 M acetic acid solution with Ka = 1.8 × 10⁻⁵ is **2.63**. This is calculated using the weak acid approximation [^cd7c14f4], where [H⁺] = √(Kₐ × [HA]) = √(1.8 × 10⁻⁵ × 0.3) ≈ 2.32 × 10⁻³ M, giving pH ≈ 2.63. The approximation is valid because [H⁺] is much less than 5% of the initial acid concentration.
+The pH of a 0.3 M acetic acid solution with Ka = 1.8 × 10⁻⁵ is **2.63**. This is calculated using the weak acid approximation, where [H⁺] = √(Kₐ × [HA]) = √(1.8 × 10⁻⁵ × 0.3) ≈ 2.32 × 10⁻³ M, giving pH ≈ 2.63. The approximation is valid because [H⁺] is much less than 5% of the initial acid concentration.
 
 ---
 

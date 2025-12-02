@@ -35,7 +35,7 @@ Is leflunomide an appropriate treatment for a deep neck space infection?
 
 ---
 
-No, leflunomide is **not indicated** for deep neck space infections (DNSIs) because it is an immunosuppressive DMARD without antibacterial activity [^116Crjms] [^115B5X3F]. DNSIs require **prompt antibiotics and surgical drainage** to prevent life-threatening complications [^114yLHCg] [^115w2pAU]. Leflunomide use in DNSIs could worsen outcomes by increasing infection risk and delaying healing [^1159ucuZ]; it is contraindicated in severe infections and should be discontinued if a serious infection occurs. Management should follow standard care with broad-spectrum antibiotics, surgical drainage, and close monitoring [^112H1VzX].
+No, leflunomide is **not indicated** for deep neck space infections (DNSIs) because it is an immunosuppressive DMARD without antibacterial activity [^116Crjms] [^115B5X3F]. DNSIs require **prompt antibiotics and surgical drainage** to prevent life-threatening complications [^114yLHCg] [^115w2pAU]. Leflunomide use in DNSIs could worsen outcomes by increasing infection risk and delaying healing [^115B5X3F]; it is contraindicated in severe infections and should be discontinued if a serious infection occurs. Management should follow standard care with broad-spectrum antibiotics, surgical drainage, and close monitoring [^112H1VzX].
 
 ---
 

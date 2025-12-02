@@ -27,7 +27,7 @@ What is the drug used for cardiac stress test?
 
 > But wait, what if the user is thinking about exercise testing itself rather than a drug? I should double-check that nuance. Exercise stress testing does not involve a pharmacologic agent; it uses treadmill or bicycle exercise to achieve target heart rate and assess ischemia, symptoms, and functional capacity, and it remains the preferred initial modality when feasible, with pharmacologic stress reserved for those who cannot exercise adequately [^1d4cfea6] [^f0253bf4].
 
-> Putting this together, I should confirm the most precise answer. The drug most commonly used for pharmacologic cardiac stress testing is regadenoson, with adenosine and dipyridamole as approved alternatives for vasodilator stress, and dobutamine as an option when vasodilators are contraindicated or for viability assessment; selection should be individualized based on patient factors, imaging modality, and local expertise [^d6d6b723] [^78b954ce] [^916e2016].
+> Putting this together, I should confirm the most precise answer. The drug most commonly used for pharmacologic cardiac stress testing is regadenoson, with adenosine and dipyridamole as approved alternatives for vasodilator stress, and dobutamine as an option when vasodilators are contraindicated or for viability assessment; selection should be individualized based on patient factors, imaging modality, and local expertise [^2a1b49c4] [^78b954ce] [^916e2016].
 
 ---
 
