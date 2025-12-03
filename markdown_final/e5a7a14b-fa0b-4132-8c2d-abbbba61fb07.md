@@ -45,7 +45,7 @@ A 3-year-old with cellulitis
 
 ---
 
-Cellulitis in a 3-year-old is a clinical diagnosis of acute bacterial infection of the dermis and subcutaneous tissue [^1119mx9Q], most often due to **β-hemolytic streptococci or Staphylococcus aureus** [^113L84Tc]. Management is guided by severity: **oral cephalexin or amoxicillin-clavulanate** for mild cases, and **IV cefazolin or clindamycin** for severe or MRSA-suspected cases [^112AAE7s] [^112cLfcS] [^1118k8ze] [^114LP8SG]. Hospitalize if there are **systemic signs**, **rapid progression**, **immunocompromise**, or **failure of outpatient therapy** [^115UecZb]. Most children improve within 48–72 hours [^notfound]; monitor for complications such as abscess, necrotizing fasciitis, or bacteremia [^112cLfcS], and address predisposing factors to reduce recurrence [^115fTU2J].
+Cellulitis in a 3-year-old is a clinical diagnosis of acute bacterial infection of the dermis and subcutaneous tissue [^1119mx9Q], most often due to **β-hemolytic streptococci or Staphylococcus aureus** [^113L84Tc]. Management is guided by severity: **oral cephalexin or amoxicillin-clavulanate** for mild cases, and **IV cefazolin or clindamycin** for severe or MRSA-suspected cases [^112AAE7s] [^112cLfcS] [^1118k8ze] [^114LP8SG]. Hospitalize if there are **systemic signs**, **rapid progression**, **immunocompromise**, or **failure of outpatient therapy** [^115UecZb]. Most children improve within 48–72 hours [^115ZLcDr]; monitor for complications such as abscess, necrotizing fasciitis, or bacteremia [^112cLfcS], and address predisposing factors to reduce recurrence [^115fTU2J].
 
 ---
 
