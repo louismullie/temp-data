@@ -17,40 +17,40 @@ How should you counsel an unvaccinated, at-risk outpatient about expected sympto
 
 > Let's see… What do we have here? The user is asking how to counsel an unvaccinated, at-risk outpatient about the expected symptom course if they start molnupiravir versus no antiviral, based on MOVe-OUT's patient-reported outcomes. Let's break this down step-by-step. First, I need to think about the trial population and design to ensure applicability. Then, I should verify the patient-reported outcome definitions and analytic methods. Next, I will extract the key symptom endpoints and quantify the differences. After that, I need to check the clinical significance and translate it into practical counseling. Finally, I should consider limitations, external validity, and safety counseling, and close with a concise, patient-centered summary anchored to the data.
 
-> Let me first confirm the trial context and whether it matches the patient in question. MOVe-OUT enrolled nonhospitalized, unvaccinated adults with mild-to-moderate, laboratory-confirmed COVID-19 and at least one risk factor for progression, treating within 5 days of symptom onset; the PRO analyses were prespecified secondary endpoints using a 15-item daily symptom diary through day 29, which aligns with the scenario of an unvaccinated, at-risk outpatient considering molnupiravir [^e5d02dcf] [^3893e876].
+> Let me first confirm the trial context and whether it matches the patient in question. MOVe-OUT enrolled nonhospitalized, unvaccinated adults with mild-to-moderate, laboratory-confirmed COVID-19 and at least one risk factor for progression, treating within 5 days of symptom onset; the PRO analyses were prespecified secondary endpoints using a 15-item daily symptom diary through day 29, which aligns with the scenario of an unvaccinated, at-risk outpatient considering molnupiravir [^116si6Bp] [^112SszGD].
 
-> I need to verify the PRO endpoints and analytic approach so I don't misstate the results. The key measures were time to sustained resolution or improvement (three consecutive days of reduced severity without relapse), time to first symptom resolution, time to first alleviation, and time to progression (two consecutive days of worsening severity); analyses used Kaplan-Meier estimates and stratified Cox models, with diary completion rates exceeding 92% through day 29, which supports reliability of the PRO data [^dff41bcb] [^be0f3a3b].
+> I need to verify the PRO endpoints and analytic approach so I don't misstate the results. The key measures were time to sustained resolution or improvement (three consecutive days of reduced severity without relapse), time to first symptom resolution, time to first alleviation, and time to progression (two consecutive days of worsening severity); analyses used Kaplan-Meier estimates and stratified Cox models, with diary completion rates exceeding 92% through day 29, which supports reliability of the PRO data [^116j2ETk] [^115rmmCW].
 
-> Now, let me extract the quantitative differences for the five distinctive symptoms emphasized in the analyses: cough, fatigue, shortness of breath, loss of smell, and loss of taste. Median time to first resolution was 18 days with molnupiravir versus 20 days with placebo, and median time to first alleviation was 13 days versus 15 days, respectively; hazard ratios favored molnupiravir for both endpoints, indicating faster improvement, though confidence intervals crossed 1 for some comparisons, reflecting modest effect sizes [^7e16f6f1] [^1aa6b736].
+> Now, let me extract the quantitative differences for the five distinctive symptoms emphasized in the analyses: cough, fatigue, shortness of breath, loss of smell, and loss of taste. Median time to first resolution was 18 days with molnupiravir versus 20 days with placebo, and median time to first alleviation was 13 days versus 15 days, respectively; hazard ratios favored molnupiravir for both endpoints, indicating faster improvement, though confidence intervals crossed 1 for some comparisons, reflecting modest effect sizes [^114Dw9tt] [^111gWgDB].
 
-> Hold on, I should verify the broader symptom set, not just the five distinctive symptoms. For all 15 targeted symptoms, median time to alleviation of all symptoms was 8 days with molnupiravir versus 10 days with placebo, and median time to sustained alleviation was 15 days versus 16 days; again, hazard ratios favored molnupiravir, suggesting a modest but consistent acceleration of symptom improvement across the constellation of COVID-19 symptoms [^7e16f6f1] [^1aa6b736].
+> Hold on, I should verify the broader symptom set, not just the five distinctive symptoms. For all 15 targeted symptoms, median time to alleviation of all symptoms was 8 days with molnupiravir versus 10 days with placebo, and median time to sustained alleviation was 15 days versus 16 days; again, hazard ratios favored molnupiravir, suggesting a modest but consistent acceleration of symptom improvement across the constellation of COVID-19 symptoms [^114Dw9tt] [^111gWgDB].
 
-> Let me consider clinical significance and how to translate this into counseling. A 2-day reduction in time to first resolution or alleviation, and a 2-day reduction in time to alleviation of all symptoms, is modest but meaningful at the patient level, particularly for those with higher symptom burden or occupational needs; importantly, molnupiravir also reduced the likelihood of symptom progression at early time points, which reinforces a clinically perceptible benefit in symptom trajectory even if absolute differences are small [^be0f3a3b] [^a580e572].
+> Let me consider clinical significance and how to translate this into counseling. A 2-day reduction in time to first resolution or alleviation, and a 2-day reduction in time to alleviation of all symptoms, is modest but meaningful at the patient level, particularly for those with higher symptom burden or occupational needs; importantly, molnupiravir also reduced the likelihood of symptom progression at early time points, which reinforces a clinically perceptible benefit in symptom trajectory even if absolute differences are small [^115rmmCW] [^115ENFbo].
 
-> But wait, what if the patient asks about absolute risk changes or "how much better will I feel"? I should confirm that MOVe-OUT's PRO analyses report medians and hazard ratios rather than absolute risk differences for symptom endpoints, so I cannot provide a precise absolute risk reduction for symptom resolution; I should explain that the benefit is best framed as a modest acceleration of improvement and a lower chance of symptom worsening, rather than a guarantee of faster recovery for everyone [^7e16f6f1] [^be0f3a3b].
+> But wait, what if the patient asks about absolute risk changes or "how much better will I feel"? I should confirm that MOVe-OUT's PRO analyses report medians and hazard ratios rather than absolute risk differences for symptom endpoints, so I cannot provide a precise absolute risk reduction for symptom resolution; I should explain that the benefit is best framed as a modest acceleration of improvement and a lower chance of symptom worsening, rather than a guarantee of faster recovery for everyone [^114Dw9tt] [^115rmmCW].
 
-> Next, I should review limitations and external validity so counseling is balanced. The PRO analyses were prespecified but not the primary endpoint, and some post hoc explorations were conducted; the population was unvaccinated and largely pre-Omicron, so effects in vaccinated or Omicron-era patients may differ; nonetheless, convergent data from PANORAMIC in largely vaccinated participants show faster recovery with molnupiravir despite no reduction in hospitalizations, supporting symptom benefits across eras, albeit with smaller absolute effects in lower-risk populations [^8f805cc7] [^3f6550a3].
+> Next, I should review limitations and external validity so counseling is balanced. The PRO analyses were prespecified but not the primary endpoint, and some post hoc explorations were conducted; the population was unvaccinated and largely pre-Omicron, so effects in vaccinated or Omicron-era patients may differ; nonetheless, convergent data from PANORAMIC in largely vaccinated participants show faster recovery with molnupiravir despite no reduction in hospitalizations, supporting symptom benefits across eras, albeit with smaller absolute effects in lower-risk populations [^114fkLzz] [^112czFXg].
 
-> I need to ensure safety counseling is accurate. Molnupiravir was generally well tolerated in MOVe-OUT, with adverse event rates similar to placebo and low discontinuation; however, I should confirm reproductive counseling: it is not recommended in pregnancy, and contraception is advised during treatment and for 4 days after in females and for 3 months after in males, given theoretical mutagenesis concerns; I should also note that viral RNA rebound can occur after treatment but was not associated with increased hospitalization or death in MOVe-OUT [^a1cb84e1] [^797373b7] [^1f40cd01].
+> I need to ensure safety counseling is accurate. Molnupiravir was generally well tolerated in MOVe-OUT, with adverse event rates similar to placebo and low discontinuation; however, I should confirm reproductive counseling: it is not recommended in pregnancy, and contraception is advised during treatment and for 4 days after in females and for 3 months after in males, given theoretical mutagenesis concerns; I should also note that viral RNA rebound can occur after treatment but was not associated with increased hospitalization or death in MOVe-OUT [^1158sNF2] [^11474HHY] [^111oLPA8].
 
-> Let me synthesize a patient-centered message. If you start molnupiravir within 5 days of symptom onset, you can expect your symptoms to begin improving a few days sooner on average, with about a 2-day reduction in time to first alleviation and to sustained improvement across common COVID-19 symptoms; you are also less likely to experience symptom progression in the first week, and the medicine is generally well tolerated, though we will avoid use in pregnancy and ensure contraception is in place as needed [^7e16f6f1] [^be0f3a3b] [^a1cb84e1].
+> Let me synthesize a patient-centered message. If you start molnupiravir within 5 days of symptom onset, you can expect your symptoms to begin improving a few days sooner on average, with about a 2-day reduction in time to first alleviation and to sustained improvement across common COVID-19 symptoms; you are also less likely to experience symptom progression in the first week, and the medicine is generally well tolerated, though we will avoid use in pregnancy and ensure contraception is in place as needed [^114Dw9tt] [^115rmmCW] [^1158sNF2].
 
-> Finally, I should double-check that I'm not overstating certainty. The symptom benefits are modest and estimates come with confidence intervals that include no effect for some comparisons, so I should emphasize that individual experiences will vary; still, across multiple PRO endpoints in MOVe-OUT, molnupiravir consistently shortened symptom burden by about 1–2 days and reduced progression risk, which aligns with a clinically meaningful, though not dramatic, patient-perceived benefit in the intended population [^7e16f6f1] [^be0f3a3b].
+> Finally, I should double-check that I'm not overstating certainty. The symptom benefits are modest and estimates come with confidence intervals that include no effect for some comparisons, so I should emphasize that individual experiences will vary; still, across multiple PRO endpoints in MOVe-OUT, molnupiravir consistently shortened symptom burden by about 1–2 days and reduced progression risk, which aligns with a clinically meaningful, though not dramatic, patient-perceived benefit in the intended population [^114Dw9tt] [^115rmmCW].
 
 ---
 
-Molnupiravir shortens the time to symptom resolution by about 2 days in unvaccinated, high-risk outpatients with COVID-19, with a median time to first symptom resolution of **18 vs 20 days** versus placebo and a median time to first alleviation of **13 vs 15 days** [^7e16f6f1]. It also reduces the likelihood of symptom progression and accelerates sustained alleviation of all symptoms, with a median of **15 vs 16 days** versus placebo [^7e16f6f1]. These benefits are modest and should be weighed against limited efficacy versus alternatives and reproductive safety concerns; molnupiravir is reserved for patients who cannot use nirmatrelvir/ritonavir or remdesivir [^c02e783f] [^bd46158e].
+Molnupiravir shortens the time to symptom resolution by about 2 days in unvaccinated, high-risk outpatients with COVID-19, with a median time to first symptom resolution of **18 vs 20 days** versus placebo and a median time to first alleviation of **13 vs 15 days** [^114Dw9tt]. It also reduces the likelihood of symptom progression and accelerates sustained alleviation of all symptoms, with a median of **15 vs 16 days** versus placebo [^114Dw9tt]. These benefits are modest and should be weighed against limited efficacy versus alternatives and reproductive safety concerns; molnupiravir is reserved for patients who cannot use nirmatrelvir/ritonavir or remdesivir [^115uvEQn] [^115qcCcV].
 
 ---
 
 ## Patient-reported symptom outcomes in MOVe-OUT
 
-The MOVe-OUT trial included **1,408 nonhospitalized, unvaccinated adults** with mild-to-moderate COVID-19 and at least one risk factor for progression [^e5d02dcf]. Participants completed a 15-item symptom diary daily through day 29, rating severity as none, mild, moderate, or severe; loss of smell and taste were recorded as yes/no [^3893e876]. Key PRO endpoints included:
+The MOVe-OUT trial included **1,408 nonhospitalized, unvaccinated adults** with mild-to-moderate COVID-19 and at least one risk factor for progression [^116si6Bp]. Participants completed a 15-item symptom diary daily through day 29, rating severity as none, mild, moderate, or severe; loss of smell and taste were recorded as yes/no [^112SszGD]. Key PRO endpoints included:
 
-- **Time to sustained resolution/improvement**: Three consecutive days of reduced severity without relapse [^b3b210eb].
-- **Time to symptom progression**: Two consecutive days of worsening severity [^b3b210eb].
-- **Time to first resolution**: First day of three consecutive days with symptoms rated as none or mild [^b3b210eb].
-- **Time to first alleviation**: First day of three consecutive days with symptoms rated as none or mild after being moderate or severe at baseline [^b3b210eb].
+- **Time to sustained resolution/improvement**: Three consecutive days of reduced severity without relapse [^115bQbT8].
+- **Time to symptom progression**: Two consecutive days of worsening severity [^115bQbT8].
+- **Time to first resolution**: First day of three consecutive days with symptoms rated as none or mild [^115bQbT8].
+- **Time to first alleviation**: First day of three consecutive days with symptoms rated as none or mild after being moderate or severe at baseline [^115bQbT8].
 
 ---
 
@@ -60,43 +60,43 @@ Molnupiravir demonstrated **modest improvements** in symptom resolution and alle
 
 | **Endpoint** | **Molnupiravir** | **Placebo** | **Hazard ratio (hr)** |
 |-|-|-|-|
-| Median time to first resolution of symptoms | 18 days | 20 days | HR 1.18 (95% CI 1.03–1.34) [^7e16f6f1] |
-| Median time to first alleviation of symptoms | 13 days | 15 days | HR 1.16 (95% CI 1.03–1.32) [^7e16f6f1] |
-| Median time to sustained alleviation of all symptoms | 15 days | 16 days | HR 1.17 (95% CI 1.02–1.33) [^7e16f6f1] |
+| Median time to first resolution of symptoms | 18 days | 20 days | HR 1.18 (95% CI 1.03–1.34) [^114Dw9tt] |
+| Median time to first alleviation of symptoms | 13 days | 15 days | HR 1.16 (95% CI 1.03–1.32) [^114Dw9tt] |
+| Median time to sustained alleviation of all symptoms | 15 days | 16 days | HR 1.17 (95% CI 1.02–1.33) [^114Dw9tt] |
 
 ---
 
-These results indicate that molnupiravir accelerates symptom resolution and alleviation by approximately 2 days compared with placebo, with sustained alleviation occurring about 1 day earlier [^7e16f6f1].
+These results indicate that molnupiravir accelerates symptom resolution and alleviation by approximately 2 days compared with placebo, with sustained alleviation occurring about 1 day earlier [^114Dw9tt].
 
 ---
 
 ## Symptom progression and severity
 
-Molnupiravir also reduced the likelihood of symptom progression. Participants receiving molnupiravir were less likely to experience progression of symptoms, including cough, fatigue, shortness of breath, and loss of smell or taste, compared with placebo [^1aa6b736]. The proportion of participants reporting moderate-to-severe symptoms declined more rapidly in the molnupiravir group, particularly for the five distinctive COVID-19 symptoms (cough, fatigue, shortness of breath, loss of smell, and loss of taste) [^f4c33b39].
+Molnupiravir also reduced the likelihood of symptom progression. Participants receiving molnupiravir were less likely to experience progression of symptoms, including cough, fatigue, shortness of breath, and loss of smell or taste, compared with placebo [^111gWgDB]. The proportion of participants reporting moderate-to-severe symptoms declined more rapidly in the molnupiravir group, particularly for the five distinctive COVID-19 symptoms (cough, fatigue, shortness of breath, loss of smell, and loss of taste) [^117FsZB6].
 
 ---
 
 ## Clinical significance and patient counseling
 
-The observed reductions in symptom duration and progression are modest but clinically meaningful for patients seeking faster relief. Patients can expect symptoms to resolve approximately 2 days earlier with molnupiravir compared with no antiviral treatment, and they are less likely to experience symptom worsening during the acute phase of illness [^7e16f6f1]. However, it is essential to counsel patients that molnupiravir is less effective than nirmatrelvir/ritonavir in preventing hospitalization and death, and its use is generally reserved for those who cannot access or tolerate alternative therapies [^c02e783f] [^bd46158e].
+The observed reductions in symptom duration and progression are modest but clinically meaningful for patients seeking faster relief. Patients can expect symptoms to resolve approximately 2 days earlier with molnupiravir compared with no antiviral treatment, and they are less likely to experience symptom worsening during the acute phase of illness [^114Dw9tt]. However, it is essential to counsel patients that molnupiravir is less effective than nirmatrelvir/ritonavir in preventing hospitalization and death, and its use is generally reserved for those who cannot access or tolerate alternative therapies [^115uvEQn] [^115qcCcV].
 
 ---
 
 ## Limitations and considerations
 
-- **Generalizability**: The MOVe-OUT trial enrolled unvaccinated participants, so the applicability of PRO findings to vaccinated populations is uncertain [^8f805cc7].
-- **Modest effect size**: The observed symptom benefits are modest, and patients should be counseled accordingly [^7e16f6f1].
-- **Safety considerations**: Molnupiravir is not recommended during pregnancy due to potential fetal harm, and contraception is advised during treatment and for a period after completion [^797373b7].
+- **Generalizability**: The MOVe-OUT trial enrolled unvaccinated participants, so the applicability of PRO findings to vaccinated populations is uncertain [^114fkLzz].
+- **Modest effect size**: The observed symptom benefits are modest, and patients should be counseled accordingly [^114Dw9tt].
+- **Safety considerations**: Molnupiravir is not recommended during pregnancy due to potential fetal harm, and contraception is advised during treatment and for a period after completion [^11474HHY].
 
 ---
 
-Molnupiravir provides modest improvements in symptom resolution and alleviation in unvaccinated, high-risk outpatients with COVID-19, with a median reduction of about 2 days in symptom duration compared with placebo. These benefits should be balanced against limited efficacy versus alternatives and reproductive safety concerns, and molnupiravir is generally reserved for patients who cannot use nirmatrelvir/ritonavir or remdesivir [^c02e783f] [^bd46158e].
+Molnupiravir provides modest improvements in symptom resolution and alleviation in unvaccinated, high-risk outpatients with COVID-19, with a median reduction of about 2 days in symptom duration compared with placebo. These benefits should be balanced against limited efficacy versus alternatives and reproductive safety concerns, and molnupiravir is generally reserved for patients who cannot use nirmatrelvir/ritonavir or remdesivir [^115uvEQn] [^115qcCcV].
 
 ---
 
 ## References
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^7c5dd8ee]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^114BNzEq]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Background
 
@@ -116,7 +116,7 @@ Molnupiravir treatment in at-risk, unvaccinated patients resulted in improved cl
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^c55b48f4]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^1163bDtf]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can be asymptomatic or may develop into coronavirus disease 2019 (COVID-19) with a variable clinical course ranging from mild to critical illness. There is a need for more effective drugs against COVID-19 that not only improve patient outcomes but that can be self-administered in the outpatient setting to reduce the impact of SARS-CoV-2 infection. Molnupiravir is an orally administered prodrug of the small-molecule, nucleoside-analogue β-D-N4-hydroxycytidine (NHC), which has demonstrated broad-spectrum antiviral activity against SARS-CoV-2 and its variants. In the global phase 3, randomized, placebo-controlled, double-blind, multicenter MOVe-OUT trial assessing the safety and efficacy of molnupiravir in at-risk, unvaccinated, nonhospitalized adults with laboratory-confirmed COVID-19, molnupiravir demonstrated a clinically meaningful reduction in the risk of all-cause hospitalization or death.
 
@@ -126,7 +126,7 @@ The COVID-19 pandemic highlighted the importance of PRO endpoints that can addre
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^6b6e9969]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^113kGpoS]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Abstract
 
@@ -150,13 +150,13 @@ Clinical Trials Registration. ClinicalTrials.gov: NCT04575597.
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^7e16f6f1]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^114Dw9tt]. Clinical Infectious Diseases (2023). Medium credibility.
 
 The study MOVe-OUT (patient-reported symptom outcomes) was published by Yanfen Guan and colleagues in 2023 in the journal Clin Infect Dis. This study is related to the following diseases: COVID-19 infection. In the MOVe-OUT (patient-reported symptom outcomes) study, the trial question was: what is the role of molnupiravir in at-risk, unvaccinated patients with COVID-19? In the MOVe-OUT (patient-reported symptom outcomes) study, the study design was: multi-center, double blinded, RCT. In the MOVe-OUT (patient-reported symptom outcomes) study, the population was: 1408 patients (723 female, 685 male). The inclusion criteria were nonhospitalized, unvaccinated, at-risk adults with mild-to-moderate, laboratory-confirmed COVID-19 and symptom onset within 5 days before randomization. The key exclusion criteria were current hospitalization or an expected need for hospitalization due to COVID-19 within 48 hours of randomization; receipt of certain therapies indicated specifically for the treatment of COVID-19 or SARS-CoV-2 vaccination. In the MOVe-OUT (patient-reported symptom outcomes) study, the interventions were: n = 709 molnupiravir (oral dose of 800 mg BID for 5 days) n = 699 placebo (matching placebo BID for 5 days). In the MOVe-OUT (patient-reported symptom outcomes) study, the primary outcome was: significant increase in median time to first resolution of symptoms (18 days vs. 20 days; HR 1.18, 95% CI 1.03 to 1.34). In the MOVe-OUT (patient-reported symptom outcomes) study, the secondary outcomes were: significant increase in median time to first alleviation of symptoms (13 days vs. 15 days; HR 1.16, 95% CI 1.03 to 1.32) Significant increase in median time to alleviation of all symptoms through day 29 (8 days vs. 10 days; HR 1.24, 95% CI 1.09 to 1.4) Borderline significant increase in median time to sustained alleviation of all symptoms through day 29 (15 days vs. 16 days; HR 1.17, 95% CI 1.02 to 1.33). In the MOVe-OUT (patient-reported symptom outcomes) study, the conclusion was: in nonhospitalized, unvaccinated, at-risk adults with mild-to-moderate, laboratory-confirmed COVID-19 and symptom onset within 5 days before randomization, molnupiravir was superior to placebo with respect to median time to first resolution of symptoms.
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^e5d02dcf]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^116si6Bp]. Clinical Infectious Diseases (2023). Medium credibility.
 
 METHODS
 
@@ -170,7 +170,7 @@ Key inclusion criteria included having at least 1 risk factor for progression to
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^b5ecf99b]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^115eiMer]. Clinical Infectious Diseases (2023). Medium credibility.
 
 DISCUSSION
 
@@ -180,7 +180,7 @@ Recently published real-world evidence supports the impact of molnupiravir on pa
 
 ---
 
-### Molnupiravir versus placebo in unvaccinated and vaccinated patients with early SARS-CoV-2 infection in the UK (AGILE CST-2): a randomised, placebo-controlled, double-blind, phase 2 trial [^f22fd7e5]. The Lancet: Infectious Diseases (2023). High credibility.
+### Molnupiravir versus placebo in unvaccinated and vaccinated patients with early SARS-CoV-2 infection in the UK (AGILE CST-2): a randomised, placebo-controlled, double-blind, phase 2 trial [^117C45G8]. The Lancet: Infectious Diseases (2023). High credibility.
 
 Background
 
@@ -204,7 +204,7 @@ Ridgeback Biotherapeutics, the UK National Institute for Health and Care Researc
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^7101e4c5]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^113tYEje]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Conclusions
 
@@ -212,7 +212,7 @@ The PRO data from the phase 3 MOVe-OUT trial suggest that treatment with molnupi
 
 ---
 
-### Outpatient treatment for COVID-19… [^c02e783f]. JAMA Network (2023). Excellent credibility.
+### Outpatient treatment for COVID-19… [^115uvEQn]. JAMA Network (2023). Excellent credibility.
 
 Nirmatrelvir-ritonavir has US Food and Drug Administration approval for people aged 18 years or older and is available under Emergency Use Authorization for individuals aged 12 to 17 years who weigh at least 40 kg. Nirmatrelvir-ritonavir is taken orally, twice daily for 5 days, and should be started within 5 days of onset of COVID-19 symptoms. The most common side effects of nirmatrelvir-ritonavir are altered taste, nausea, diarrhea, and dizziness. Some patients experience a return of COVID-19 symptoms after completing a 5-day course of nirmatrelvir-ritonavir. This symptom "rebound" is not associated with an increased risk of developing severe disease and does not need to be treated with another course of nirmatrelvir-ritonavir. Remdesivir has FDA approval for treatment of COVID-19 in people aged 28 days or older who weigh at least 3 kg. For outpatients, remdesivir is given intravenously daily for 3 days and should be started within 7 days of COVID-19 symptoms.
 
@@ -222,19 +222,19 @@ Patients with weakened immune systems who have prolonged COVID-19 symptoms and p
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^ff5fdcd1]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^117Xc3R2]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir in COVID-19 — randomized controlled trial (RCT) evidence scope is as follows: Five RCTs informed the recommendation, with three RCTs in at least partially vaccinated participants comparing either 800 mg of molnupiravir or placebo, and the largest trial enrolled N = 26,411 in which 99% had at least one COVID-19 vaccine dose and 92%-93% had received three doses; two RCTs in unvaccinated patients evaluated either 800 mg of molnupiravir or placebo for five days, and treatment was given within five days after symptom onset or among patients with symptom duration < 7 days.
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^2db61688]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^112Amc3R]. Clinical Infectious Diseases (2024). High credibility.
 
 IDSA COVID-19 outpatient therapy — molnupiravir recommendation states that the guideline panel suggests the use of molnupiravir for ambulatory patients with mild-to-moderate COVID-19 at high risk for progression to severe disease who are within five days of symptom onset and have no other treatment options. More data are needed on the potential adverse effects of this medication. The evidence supporting this recommendation will be reassessed with the release of updated published information from newer trials. Outcomes had a high risk of bias so were not considered for making the recommendation.
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^dff41bcb]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^116j2ETk]. Clinical Infectious Diseases (2023). Medium credibility.
 
 The Platform Adaptive Trial of Novel Antivirals for Early Treatment of COVID-19 in the Community (PANORAMIC) study is an ongoing, UK-based, open-label, prospective, randomized, platform, adaptive, controlled clinical study that evaluated over 25 000 at-risk patients with COVID-19 and included PROs as key secondary outcome measures to evaluate the efficacy of molnupiravir plus usual care compared with usual care alone in the treatment of COVID-19. Since this study consisted of a large dataset and demonstrated use of symptom-based endpoints as outcome measures, we conducted similar post hoc analyses, including time to alleviation and time to sustained alleviation, of all 15 symptoms. Time to alleviation of all 15 symptoms was defined as the time from randomization to the first day that all 15 symptoms were alleviated (symptoms scored as "moderate" or "severe" at baseline and subsequently scored as "none" or "mild"; for loss of smell and loss of taste, symptoms scored as "yes" at baseline and subsequently scored as "no"). Time to sustained alleviation of all 15 symptoms was defined as the time from randomization to the first day that all 15 symptoms were alleviated (as defined above), without subsequently being reported as "moderate" or "severe" or subsequently reported as "yes" for loss of smell and loss of taste. For individual symptoms, participants who did not have symptom alleviation were censored at the last date they recorded that specific symptom. Participants who died were censored at day 29.
 
@@ -244,13 +244,13 @@ Time to sustained resolution/improvement and time to progression, and the additi
 
 ---
 
-### Molnupiravir: is It time to move in or move out? [^1b39cd4a]. NEJM Evidence (2022). Medium credibility.
+### Molnupiravir: is It time to move in or move out? [^111hN5gV]. NEJM Evidence (2022). Medium credibility.
 
 Molnupiravir: Is It Time to Move In or Move Out?With more than 250 million diagnosed cases and 5 million deaths, Covid-19 is our epoch-defining pandemic - and it is still ongoing. Despite the development of several effective Covid-19 vaccines, there are a limited number of antiviral treatments to reduce disease progression, risk of hospitalization, and death once the infection occurs. In this editorial, we examine the results of the phase 2 randomized, placebo-controlled, double-blind trials evaluating the safety and efficacy of molnupiravir,…
 
 ---
 
-### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^d3994dd1]. Nature Communications (2024). High credibility.
+### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^116Qht4g]. Nature Communications (2024). High credibility.
 
 Introduction
 
@@ -264,19 +264,19 @@ Here we report detailed results of the PANORAMICvirology sub-study, where a subs
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^ab48a8cc]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^115NwHi3]. Clinical Infectious Diseases (2023). Medium credibility.
 
 To assess the impact of molnupiravir treatment on COVID-19 symptoms reported directly from patients, we present participant-reported symptoms data from the phase 3 component of MOVe-OUT. Key secondary objectives of MOVe-OUT were to evaluate the efficacy of molnupiravir compared with placebo as assessed by time to sustained resolution/improvement, and time to progression, of targeted self-reported COVID-19 symptoms daily from baseline through day 29.
 
 ---
 
-### Real-world effectiveness of molnupiravir and nirmatrelvir / ritonavir as treatments for COVID-19 in patients at high risk [^3d03d0e8]. The Journal of Infectious Diseases (2023). Medium credibility.
+### Real-world effectiveness of molnupiravir and nirmatrelvir / ritonavir as treatments for COVID-19 in patients at high risk [^112ZTXXu]. The Journal of Infectious Diseases (2023). Medium credibility.
 
 The results of clinical trials, most notably MOVe-OUT, revealed that early use of molnupiravir (ie, within 5 days of symptom onset) reduced the RR of hospitalization or death by 30% among unvaccinated patients at mild to moderate risk for severe disease. Similarly, the EPIC-HR trial reported an 88% relative reduction of risk of hospitalization or death in patients treated with nirmatrelvir/ritonavir in 90.3% of the vaccinated population (3 doses). While both antivirals significantly reduced viral loads more effectively than placebo, the results presented in both trials revealed that the number needed to treat was higher for molnupiravir than nirmatrelvir/ritonavir, suggesting that the latter drug may have a more robust antiviral effect.
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^8f805cc7]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^114fkLzz]. Clinical Infectious Diseases (2023). Medium credibility.
 
 The PRO endpoints provide information on treatment efficacy that is not attained through objective markers or clinical assessments. The current SARS-CoV-2 variants and the increase in preexisting immunity from vaccination and/or prior SARS-CoV-2 infection have resulted in lower overall rates of hospitalization and mortality, emphasizing the importance of symptom data in informing the treatment benefits of new SARS-CoV-2 therapeutics. Although there have been efforts to develop disease-specific PROs to assess COVID-19 symptoms and treatment impact, there is still a lack of consensus on how to evaluate symptom-based endpoints in the dynamic landscape of COVID-19 therapeutics.
 
@@ -286,7 +286,7 @@ An important limitation is that some of the analyses were not predefined in the 
 
 ---
 
-### Molnupiravir for treating COVID-19 [^21366fab]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Molnupiravir for treating COVID-19 [^111rEsoY]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Rationale
 
@@ -338,13 +338,13 @@ Protocol available at https://doi.org/10.1002/14651858.CD015381.
 
 ---
 
-### Molnupiravir plus usual care versus usual care alone as early treatment for adults with COVID-19 at increased risk of adverse outcomes (PANORAMIC): an open-label, platform-adaptive randomised controlled trial [^3f6550a3]. Lancet (2023). Excellent credibility.
+### Molnupiravir plus usual care versus usual care alone as early treatment for adults with COVID-19 at increased risk of adverse outcomes (PANORAMIC): an open-label, platform-adaptive randomised controlled trial [^112czFXg]. Lancet (2023). Excellent credibility.
 
 The study PANORAMIC was published by Christopher C Butler and colleagues in 2023 in the journal Lancet. This study is related to the following diseases: COVID-19 infection. In the PANORAMIC study, the trial question was: what is the role of molnupiravir in high-risk vaccinated adults in the community with COVID-19? In the PANORAMIC study, the study design was: multi-center, open label, RCT. In the PANORAMIC study, the population was: 25708 patients (15053 female, 10655 male). The inclusion criteria were adult patients with relevant comorbidities with confirmed COVID-19 for ≤ 5 days in the community. The key exclusion criteria were pregnancy; lactation; receipt of molnupiravir; allergy to molnupiravir. In the PANORAMIC study, the interventions were: n = 12774 molnupiravir (molnupiravir at a dose of 800 mg BID for 5 days plus usual care) n = 12934 standard care only (management of symptoms with antipyretics; monoclonal antibodies and antivirals for very high-risk patients). In the PANORAMIC study, the primary outcome was: no significant difference in hospitalizations or death from all causes at day 28 (1% vs. 1%; OR 1.06, 95% CI 0.81 to 1.41). In the PANORAMIC study, the secondary outcomes were: significant decrease in days to first reported recovery (9 days vs. 15 days; HR 0.73, 95% CI 0.71 to 0.76) Significant increase in early sustained recovery (32% vs. 23%; OR 1.62, 95% CI 1.53 to 1.72) Significant increase in days to alleviation of all symptoms (4 days vs. 4 days; HR 1.18, 95% CI 1.15 to 1.22). In the PANORAMIC study, the safety outcomes were: no significant difference in serious adverse events. In the PANORAMIC study, the conclusion was: in adult patients with relevant comorbidities with confirmed COVID-19 for ≤ 5 days in the community, molnupiravir was not superior to standard care only with respect to hospitalizations or death from all causes at day 28.
 
 ---
 
-### Molnupiravir (Lagevrio) [^2a533566]. FDA (2025). Medium credibility.
+### Molnupiravir (Lagevrio) [^1125kRsT]. FDA (2025). Medium credibility.
 
 14 CLINICAL STUDIES
 
@@ -354,13 +354,13 @@ At baseline, in all randomized subjects, the median age was 43 years (range:18 t
 
 ---
 
-### IDSA guidelines on the treatment and management of patients with COVID-19 [^84895d82]. IDSA (2025). High credibility.
+### IDSA guidelines on the treatment and management of patients with COVID-19 [^114PVWHo]. IDSA (2025). High credibility.
 
 Regarding medical management for COVID-19 infection, more specifically with respect to molnupiravir, IDSA 2025 guidelines recommend to consider initiating molnupiravir (800 mg for 5 days) within 5 days of symptom onset in adult outpatients with mild-to-moderate COVID-19 at high risk for progression to severe disease if no other treatment options exist for the patient.
 
 ---
 
-### Molnupiravir for oral treatment of COVID-19 in nonhospitalized patients [^471d6de5]. The New England Journal of Medicine (2022). Excellent credibility.
+### Molnupiravir for oral treatment of COVID-19 in nonhospitalized patients [^112pS1LY]. The New England Journal of Medicine (2022). Excellent credibility.
 
 Background
 
@@ -380,25 +380,25 @@ Early treatment with molnupiravir reduced the risk of hospitalization or death i
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^bd46158e]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^115qcCcV]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir — Recommendation 28: In ambulatory patients (≥ 18 years) with mild-to-moderate COVID-19 at high risk for progression to severe disease who have no other treatment options, the IDSA guideline panel suggests molnupiravir initiated within five days of symptom onset rather than no molnupiravir, designated as a Conditional recommendation† with Low certainty of evidence; other options for treatment and management of ambulatory patients include nirmatrelvir/ritonavir and three-day treatment with remdesivir, and choice should be driven by patient-specific factors and product availability, with data for combination treatment not existing in this setting; † indicates the panel concluded that the desirable effects outweigh the undesirable effects, though uncertainty still exists, and most informed people would choose the suggested course of action while a substantial number would not.
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^1aa6b736]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^111gWgDB]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Post hoc analyses of the 5 distinctive COVID-19 symptoms demonstrated that the following were less common in the molnupiravir group compared with placebo through day 29: progression to moderate and severe symptoms for shortness of breath or difficulty breathing, fatigue, cough, and new occurrences of loss of smell and loss of taste (Figure 4). Furthermore, the median time to first resolution of symptoms, and first alleviation of symptoms, for the 5 distinctive COVID-19 symptoms was shorter in the molnupiravir group compared with placebo (18 d [95% CI: 17–19] vs 20 d [95% CI: 19–23] and 13 d [95% CI: 12–14] vs 15 d [95% CI: 14–16], respectively) (Figure 5). Finally, in the post hoc analyses similar to those of the PANORAMIC study, we observed reduced median time to alleviation, and sustained alleviation, of all 15 symptoms in the molnupiravir group compared with placebo (8 d [95% CI: 7–9] vs 10 d [95% CI: 9–11] and 15 d [95% CI: 13–16] vs 16 d [95% CI: 15–18], respectively) through day 29 (Figure 6).
 
 ---
 
-### Phase 2 / 3 trial of molnupiravir for treatment of COVID-19 in nonhospitalized adults [^37b8ea38]. NEJM Evidence (2022). Medium credibility.
+### Phase 2 / 3 trial of molnupiravir for treatment of COVID-19 in nonhospitalized adults [^112RcRw5]. NEJM Evidence (2022). Medium credibility.
 
 BACKGROUND: Safe and effective oral treatments are needed to improve clinical outcomes for nonhospitalized patients with Covid-19. Molnupiravir is an orally administered, small-molecule ribonucleoside prodrug shown to inhibit replication of severe acute respiratory syndrome coronavirus 2 in vitro and in animal models. METHODS: MOVe-OUT is an ongoing, phase 2/3, randomized, placebo-controlled, double-blind study evaluating the safety, efficacy, and pharmacokinetics of molnupiravir in nonhospitalized adults. In the phase 2 component, participants had mild or moderate, laboratory-confirmed Covid-19 with sign/symptom onset up to (and including) 7 days before randomization. Participants were randomly assigned 1:1:1:1 to receive 200, 400, or 800mg of molnupiravir or placebo twice daily for 5 days, stratified by time since sign/symptom onset and by being at increased risk for severe illness from Covid-19. The primary efficacy end point was the proportion of participants who were hospitalized and/or died through day 29. RESULTS: The phase 2 component randomly assigned 302 participants to treatment; baseline characteristics were comparable across treatment groups. Molnupiravir had no apparent dose-related effect on adverse events, and no clinically meaningful abnormalities in laboratory test results were observed in relation to dose or treatment. Eleven participants were hospitalized or died through day 29. Of 225 participants in the combined molnupiravir group, 7 (3.1%) were hospitalized or died, compared with 4 of 74 participants (5.4%) in the placebo group. Subgroup analyses suggested lower incidences of hospitalization and/or death in the molnupiravir versus placebo groups in participants older than 60 years of age, those with increased risk for severe illness, those with symptom onset up to (and including) 5 days before randomization, and those with both symptom onset up to (and including) 5 days before randomization and increased risk for severe illness. CONCLUSIONS: These interim study results support further evaluation of molnupiravir as a potential treatment to reduce hospitalizations and/or death in nonhospitalized patients with Covid-19. (Funded by Merck Sharp & Dohme Corp, a subsidiary of Merck & Co, Inc.; ClinicalTrials.gov number, NCT04575597.)
 
 ---
 
-### Molnupiravir and risk of hospital admission or death in adults with COVID-19: emulation of a randomized target trial using electronic health records [^ae3865dc]. BMJ (2023). Excellent credibility.
+### Molnupiravir and risk of hospital admission or death in adults with COVID-19: emulation of a randomized target trial using electronic health records [^115THnkj]. BMJ (2023). Excellent credibility.
 
 The number of people reinfected with SARS-CoV-2 globally is increasing. Reinfection is associated with increased risk of mortality and with serious adverse health outcomes in the acute and post-acute phase. Based on current evidence, it is unclear whether molnupiravir continues to show effectiveness in reducing the risk of hospital admission or death during the acute phase of reinfection. Our analyses supplement the evidence base and suggest that molnupiravir might retain similar effectiveness in people with and without previous SARS-CoV-2 infection.
 
@@ -406,7 +406,7 @@ In the MOVe-OUT trial, which included unvaccinated adults at high risk of progre
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^37632ec1]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^112R7djW]. Clinical Infectious Diseases (2023). Medium credibility.
 
 RESULTS
 
@@ -414,19 +414,19 @@ The MITT population in MOVe-OUT included 1408 participants: 709 received molnupi
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^df5e8025]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^116i9ys2]. Clinical Infectious Diseases (2024). High credibility.
 
 IDSA COVID-19 guideline — molnupiravir (Recommendation 28) states that in ambulatory adults (≥ 18 years) with mild-to-moderate COVID-19 at high risk for progression to severe disease who have no other treatment options, the Infectious Diseases Society of America (IDSA) guideline panel suggests molnupiravir initiated within five days of symptom onset rather than no molnupiravir (Conditional recommendation, Low certainty of evidence). Other options for ambulatory treatment include nirmatrelvir/ritonavir and three-day treatment with remdesivir, and patient-specific factors and product availability should drive decision-making; data for combination treatment do not exist in this setting. Patients who will most likely benefit from antivirals are those with risk factors for progression to severe disease, whereas those without risk factors are less likely to benefit. Patients who put a higher value on the putative mutagenesis, adverse events, or reproductive concerns and a lower value on the uncertain benefits would reasonably decline molnupiravir. Patients with mild-to-moderate COVID-19 at high risk of progression admitted to the hospital for reasons other than COVID-19 may also receive molnupiravir. Section last reviewed and updated 2/23/2023; last literature search conducted 1/31/2023.
 
 ---
 
-### Randomized trial of molnupiravir or placebo in patients hospitalized with COVID-19 [^4e5cc693]. NEJM Evidence (2022). Medium credibility.
+### Randomized trial of molnupiravir or placebo in patients hospitalized with COVID-19 [^1131BCQ2]. NEJM Evidence (2022). Medium credibility.
 
 BACKGROUND: Molnupiravir is an oral prodrug of β-D-N4-hydroxycytidine, active against SARS-CoV-2 in vitro and in animal models. We report data from the phase 2 component of MOVe-IN, a clinical trial evaluating molnupiravir in patients hospitalized with Covid-19. METHODS: We conducted a randomized, placebo-controlled, double-blind phase 2/3 trial in patients 18 years old and older requiring in-hospital treatment for laboratory-confirmed Covid-19 with symptom onset 10 or fewer days before randomization. Participants were randomly assigned to placebo or molnupiravir 200 mg, 400 mg, or 800 mg (1:1:1:1 ratio), twice daily for 5 days. Primary end points were safety and sustained recovery (participant alive and either not hospitalized or medically ready for discharge) through day 29. RESULTS: Of 304 randomly assigned participants, 218 received at least one dose of molnupiravir and 75 of placebo. At baseline, 74.0% had at least one risk factor for severe Covid-19. Adverse events were reported in 121 of 218 (55.5%) molnupiravir-treated and 46 of 75 (61.3%) placebo-treated participants, with no apparent dose effect on adverse event rates and no evidence of hematologic toxicity based on prespecified adverse events. Of 16 confirmed deaths, most were in participants with severe Covid-19 (75.0%), with underlying comorbidities (87.5%), older than 60 years of age (81.3%), and/or symptom duration longer than 5 days (75.0%) at randomization. Median time to sustained recovery was 9 days in all groups, with similar day 29 recovery rates ranging from 81.5% to 85.2%. CONCLUSIONS: In this phase 2 trial of patients hospitalized with Covid-19, a 5-day course of molnupiravir up to 800 mg twice daily was not associated with dose-limiting side effects or adverse events, but did not demonstrate clinical benefit. (Funded by Merck Sharp & Dohme; ClinicalTrials.gov NCT04575584.)
 
 ---
 
-### Real-world effectiveness of molnupiravir and nirmatrelvir / ritonavir as treatments for COVID-19 in patients at high risk [^cdcefb9b]. The Journal of Infectious Diseases (2023). Medium credibility.
+### Real-world effectiveness of molnupiravir and nirmatrelvir / ritonavir as treatments for COVID-19 in patients at high risk [^116G7z82]. The Journal of Infectious Diseases (2023). Medium credibility.
 
 Coronavirus disease 2019 (COVID-19) is caused by SARS-CoV-2 infection, which in most individuals is mild to moderate; however, older people and those with chronic diseases are at higher risk to develop severe disease. Although primary and boosted vaccination against SARS-CoV-2 has significantly reduced the risk of severe disease and death, COVID-19 remains a significant problem for highly vulnerable populations, including the elderly and those who are immunocompromised or have chronic diseases. Thus, the availability of oral antiviral agents that are effective against SARS-CoV-2 might further reduce the risk of hospitalization, disease progression, and death, particularly among patients at high risk. Remdesivir, which was the first antiviral agent approved for emergency treatment of COVID-19, has been shown to prevent disease progression in an outpatient setting, as well as in hospitalized patients with moderate to severe disease. Nirmatrelvir/ritonavir and molnupiravir are newer drugs that also exhibit antiviral activity against SARS-CoV-2 in vitro and in vivo. However, while remdesivir is an intravenous drug, molnupiravir and nirmatrelvir/ritonavir can be administered orally, which is advantageous in an outpatient setting.
 
@@ -434,7 +434,7 @@ In a randomized, double-blind, phase 3 clinical trial (MOVe-OUT), outpatient use
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^b3b210eb]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^115bQbT8]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Time to sustained resolution/improvement of symptoms was defined per protocol as the number of days from baseline to the first of 3 consecutive days of reduced severity, without subsequent relapse (ie, ≥ 2 consecutive days without returning to baseline severity, or worse than baseline severity) by day 29. Time to progression was defined per protocol as the number of days from baseline to the first of 2 consecutive days of worsening severity. Additionally, 5 distinctive symptoms commonly associated with COVID-19 at the time of trial conduct (ie, shortness of breath or difficulty breathing, cough, fatigue, loss of smell, and loss of taste) were evaluated post hoc to investigate the timing of symptom resolution/improvement, or symptom progression, early in the disease course and the proportion of participants reporting "moderate" and "severe" symptom severity over time.
 
@@ -442,7 +442,7 @@ Additional post hoc endpoints, including time to first symptom resolution (ie, t
 
 ---
 
-### Comparative effectiveness of sotrovimab and molnupiravir for prevention of severe COVID-19 outcomes in patients in the community: observational cohort study with the openSAFELY platform [^4342a3d2]. BMJ (2022). Excellent credibility.
+### Comparative effectiveness of sotrovimab and molnupiravir for prevention of severe COVID-19 outcomes in patients in the community: observational cohort study with the openSAFELY platform [^112iiZ8d]. BMJ (2022). Excellent credibility.
 
 Policy implications and interpretation
 
@@ -452,13 +452,13 @@ The COMET-ICE and MOVe-OUT trials recruited only patients who were not vaccinate
 
 ---
 
-### Outpatient treatment of confirmed COVID-19: living, rapid practice points from the American College of Physicians (version 1) [^7d45b13e]. Annals of Internal Medicine (2023). High credibility.
+### Outpatient treatment of confirmed COVID-19: living, rapid practice points from the American College of Physicians (version 1) [^114Cirwf]. Annals of Internal Medicine (2023). High credibility.
 
 Regarding medical management for COVID-19 infection, more specifically with respect to molnupiravir, ACP 2022 guidelines recommend to consider initiating molnupiravir for the treatment of ambulatory patients with confirmed mild-to-moderate COVID-19 presenting within 5–7 days of the onset of symptoms and at high risk for progressing to severe disease.
 
 ---
 
-### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^1ad6fba3]. Nature Communications (2024). High credibility.
+### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^111gntXt]. Nature Communications (2024). High credibility.
 
 Discussion
 
@@ -468,7 +468,7 @@ Our viral dynamic results conflict with those of the Phase II study, in which me
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^be0f3a3b]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^115rmmCW]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Table 1.
 Baseline Demographics and Clinical Characteristics in the MITT Population
@@ -480,7 +480,7 @@ For most COVID-19 symptoms, sustained resolution/improvement was more likely in 
 
 ---
 
-### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^7d22f9eb]. Nature Communications (2024). High credibility.
+### Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients [^114CXCcr]. Nature Communications (2024). High credibility.
 
 Modelling studies in SARS-CoV-2, and other acute viral infectionsshowed antivirals are most effective early in disease, and we were able to recruit participants within 2.5 days of symptom onset on average. Finding that male sex and increasing age associate with higher viral load correlates with these groups being most at risk of severe infectionand is in line with a previous study. Lower spike antibody correlating with higher viral loads underlines the evidence for spike antibody being a correlate of protection and control. The slower viral elimination rate post-treatment seen with molnupiravir maybe a result of greater numbers of target cells remaining to support ongoing infection, but lower spike antibody response due to initial viral suppression and/or viral genetic changes may contribute.
 
@@ -488,7 +488,7 @@ Anti-SARS-CoV-2 spike antibody titres were significantly lower with molnupiravir
 
 ---
 
-### Health outcomes 3 months and 6 months after molnupiravir treatment for COVID-19 for people at higher risk in the community (PANORAMIC): a randomised controlled trial [^b158cd6e]. The Lancet: Infectious Diseases (2025). High credibility.
+### Health outcomes 3 months and 6 months after molnupiravir treatment for COVID-19 for people at higher risk in the community (PANORAMIC): a randomised controlled trial [^115Xvdth]. The Lancet: Infectious Diseases (2025). High credibility.
 
 Background
 
@@ -512,7 +512,7 @@ UK Research and Innovation and National Institute for Health and Care Research.
 
 ---
 
-### Molnupiravir for treatment of adults with mild or moderate COVID-19: a systematic review and meta-analysis of randomized controlled trials [^d6376d83]. Clinical Microbiology and Infection (2023). Medium credibility.
+### Molnupiravir for treatment of adults with mild or moderate COVID-19: a systematic review and meta-analysis of randomized controlled trials [^116Uay8N]. Clinical Microbiology and Infection (2023). Medium credibility.
 
 Background
 
@@ -556,7 +556,7 @@ In adult patients with mild or moderate COVID-19, molnupiravir likely reduces mo
 
 ---
 
-### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^4da80a64]. Science Translational Medicine (2022). Medium credibility.
+### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^112z8VPq]. Science Translational Medicine (2022). Medium credibility.
 
 Clinical outcomes
 
@@ -568,13 +568,13 @@ Participants were tested for SARS-CoV-2 Spike protein–specific immunoglobulin 
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^ce97e4b8]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^116HHUB9]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir — evidence certainty, safety considerations, and timing — the panel agreed that the overall certainty of evidence for treatment of ambulatory patients was low. The use of molnupiravir presents additional considerations and potential concerns regarding viral mutagenesis in immunocompromised persons and safety in persons of reproductive age, and the FDA required the manufacturers to conduct additional animal studies on the impact of the drug on spermatogenesis and to establish a pregnancy registry if the drug was inadvertently administered during pregnancy. The evidence confirms that using molnupiravir early in the disease process when viral loads are high confers maximum benefit, and it is critical to make a rapid diagnosis and treat ambulatory patients with COVID-19 early in the disease course. More recent studies in mild-to-moderate COVID-19 have shown lower rates of progression to hospitalizations or death; given this observation, the panel discussed about the role of patient centered outcomes other than mortality and hospitalizations and agreed that such outcomes should be evaluated in double-blind placebo-controlled trials, measured using validated instruments, and coupled with measures of disability or quality of life.
 
 ---
 
-### FDA briefing document… [^f6485ad0]. FDA (2025). Medium credibility.
+### FDA briefing document… [^117J8Fuh]. FDA (2025). Medium credibility.
 
 SC subcutaneous 7 1. INTRODUCTION AND CHARGE TO THE ADVISORY COMMITTEE This Advisory Committee briefing document summarizes the data submitted to support the Emergency Use Authorization of molnupiravir for the treatment of mild-to-moderate coronavirus disease 2019 in adults who are at high risk. 8 The Agency's current assessment is that MOV should not be authorized for initiation of treatment in hospitalized patients because benefit of treatment with MOV was not observed in participants already hospitalized due to COVID-19. However, should a patient require hospitalization after starting treatment with MOV, the. age and older weighing at least 40 kg) with positive results of direct SARS-CoV-2 viral testing, and who are at high risk for progression to severe COVID-19. including hospitalization or death. Casirivimab 1200 mg and imdevimab 1200 mg were authorized.
 
@@ -585,13 +585,13 @@ Abbreviations: CI, confidence interval; COVID-19, coronavirus disease 2019; MOV,
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^28b12201]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^1123L16g]. Clinical Infectious Diseases (2024). High credibility.
 
 IDSA COVID-19 guideline — molnupiravir compared with no molnupiravir in ambulatory patients with mild-to-moderate COVID-19 at high risk for progression reports the following estimates: For mortality, RR 0.28 (0.10 to 0.86) with an absolute effect of 1 fewer per 1,000 (from 1 fewer to 0 fewer). For hospitalizations, RR 1.03 (0.78 to 1.35) with 1 fewer per 1,000 (from 2 fewer to 3 more). For hospitalization or death (all-cause), RR 0.92 (0.74 to 1.14) with 1 fewer per 1,000 (from 3 fewer to 2 more). For serious adverse events, RR 0.57 (0.22 to 1.52) with 2 fewer per 1,000 (from 4 fewer to 3 more). For adverse events, RR 0.81 (0.47 to 1.40) with 2 fewer per 1,000 (from 50 fewer to 48 more).
 
 ---
 
-### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^5581656c]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
+### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^113BmQo5]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
 
 Second, the processes by which exchange of information occurred between the study investigators and the DSMB were arguably not suitable for a relatively large-scale international COVID-19 trial during a rapidly evolving pandemic. The study protocol clearly states that the primary efficacy end point is the proportion of participants with either hospitalization (≥ 24 hours of acute care in a hospital or similar acute care facility, including emergency rooms or facilities created to address hospitalization needs during the COVID-19 pandemic) or death by day 29. The recommendation by the DSMB to stop the trial for efficacy (based on the first ∼50% of the data available) came at a time when ∼90% of the full sample had been recruited. The DSMB recommendation to stop early for efficacy and the investigators' adherence to this recommendation places unnecessary pressure on stakeholders to consider the interim data in their interpretation of the efficacy of molnupiravir. The conventional randomized controlled trial setup, during which DSMBs take weeks to convene and review the interim data, is not conducive to COVID-19 because of the rapidly evolving nature of the pandemic. The MOVe-OUT trial is only one of many examples of undue reliance on positive interim analysis as investigators have rushed to the media without critical assessment of the potential consequences.
 
@@ -599,7 +599,7 @@ Third, at a key FDA EUA Antiviral Advisory Committee meeting, Merck did not pres
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^f4c33b39]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^117FsZB6]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Figure 4.
 Proportion of participants with moderate to severe rating for distinctive COVID-19 symptoms through day 29 (MITT population). Participants with available data at each time point are shown. Distinctive symptoms = five symptoms commonly associated with COVID-19 at the time of trial conduct. For "loss of smell" and "loss of taste", the figure demonstrates proportion of participants who reported "yes" at each time point. Abbreviations: COVID-19, coronavirus disease 2019; MITT, modified intention-to-treat.
@@ -612,7 +612,7 @@ Median time to alleviation and time to sustained alleviation of all 15 targeted 
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^a580e572]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^115ENFbo]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Figure 1.
 Sustained resolution/improvement of COVID-19 symptoms through day 29 (MITT population). Abbreviations: CI, confidence interval; COVID-19, coronavirus disease 2019; MITT, modified intention-to-treat. *Number of participants eligible for sustained resolution/improvement (ie, those who had the corresponding symptom at baseline) in the MITT population. † From the product-limit (Kaplan-Meier) method for censored data. ‡ Based on stratified Cox regression model with Efron's method of tie handling with treatment as covariates and randomization stratum as the stratification factor. A hazard ratio > 1 favors the molnupiravir group.
@@ -628,7 +628,7 @@ Time to Sustained Resolution/Improvement of Distinctive COVID-19 Symptoms Throug
 
 ---
 
-### Antiviral efficacy of molnupiravir versus ritonavir-boosted nirmatrelvir in patients with early symptomatic COVID-19 (PLATCOV): an open-label, phase 2, randomised, controlled, adaptive trial [^153f0873]. The Lancet: Infectious Diseases (2024). High credibility.
+### Antiviral efficacy of molnupiravir versus ritonavir-boosted nirmatrelvir in patients with early symptomatic COVID-19 (PLATCOV): an open-label, phase 2, randomised, controlled, adaptive trial [^111YVuuC]. The Lancet: Infectious Diseases (2024). High credibility.
 
 Although widely purchased by governments and promoted in the private health sector, molnupiravir and nirmatrelvir have not been compared directly or compared with other COVID-19 therapeutics. As a result, current use largely depends on availability, cost, estimates of effect from preregistration studies conducted earlier in the pandemic, and perceptions regarding potential drawbacks (ie, tolerability and viral rebound vs mutant creation).
 
@@ -636,7 +636,7 @@ Clinical outcomes depend on the clinical and immune status of the study populati
 
 ---
 
-### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^3893e876]. Clinical Infectious Diseases (2023). Medium credibility.
+### Impact of molnupiravir treatment on patient-reported COVID-19 symptoms in the phase 3 MOVe-OUT trial: a randomized, placebo-controlled trial [^112SszGD]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Outcomes
 
@@ -646,7 +646,7 @@ On day 1, participants were required to complete the symptom diary prior to the 
 
 ---
 
-### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^5ff4ad15]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
+### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^113TG1St]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
 
 ABSTRACT.
 
@@ -654,19 +654,19 @@ Oral therapies for the early treatment of COVID-19 may prevent disease progressi
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^8f3b7759]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^114fMCo2]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir clinical benefits — across trials, COVID-19-related mortality may be lower with molnupiravir versus placebo (risk ratio [RR]: 0.28; 95% confidence interval [CI]: 0.09, 0.86; low CoE), but the reduction may not be clinically meaningful given the small baseline risk (Absolute effect: 1 fewer per 1,000 persons; 95% CI: from 1 fewer to 0 fewer), while COVID-19-related hospitalizations and the composite of all-cause hospitalization or death likely show little to no difference versus no molnupiravir (RR: 1.03; 95% CI: 0.78, 1.35; moderate CoE and RR: 0.92; 95% CI: 0.74, 1.14; moderate CoE, respectively).
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^0f02afcf]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^111PFia2]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir use limitations and eligibility — Patients with mild-to-moderate COVID-19 who are at high risk of progression to severe disease admitted to the hospital for reasons other than COVID-19 may also receive molnupiravir. Patients who put a higher value on the putative mutagenesis, adverse events, or reproductive concerns and a lower value on the uncertain benefits would reasonably decline molnupiravir. Molnupiravir is not authorized under the FDA EUA for use in patients < 18 years because it may affect bone and cartilage growth and is not recommended under the FDA EUA for use during pregnancy. Molnupiravir is not authorized under the FDA EUA for pre-exposure or post-exposure prevention of COVID-19 or for initiation of treatment in patients hospitalized due to COVID-19 because benefit of treatment has not been observed in individuals when treatment is started after hospitalization due to COVID-19. The guideline panel concluded that the desirable effects outweigh the undesirable effects, though uncertainty still exists, and most informed people would choose the suggested course of action, while a substantial number would not.
 
 ---
 
-### Molnupiravir (Lagevrio) [^57b944bd]. FDA (2025). Medium credibility.
+### Molnupiravir (Lagevrio) [^113F49qe]. FDA (2025). Medium credibility.
 
 Labeled indications for Molnupiravir (also known as Lagevrio) include:
 
@@ -674,7 +674,7 @@ Labeled indications for Molnupiravir (also known as Lagevrio) include:
 
 ---
 
-### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^80322bd8]. Science Translational Medicine (2022). Medium credibility.
+### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^114H4GVD]. Science Translational Medicine (2022). Medium credibility.
 
 This phase 2a clinical trial was designed to evaluate the antiviral efficacy and safety of molnupiravir and was not powered to evaluate clinical endpoints, such as symptom duration or hospitalization, nor was enrollment limited to participants with risk factors for severe COVID-19. However, a phase 2/3 study is ongoing to evaluate the effect of molnupiravir on symptom duration and severity, emergency department visits, and hospitalizations (identifier: NCT04575597).
 
@@ -682,13 +682,13 @@ An important limitation of our phase 2a trial was the imbalance in the randomiza
 
 ---
 
-### Factors influencing COVID-19 risk: insights from molnupiravir exposure-response modeling of clinical outcomes [^c124d039]. Clinical Pharmacology and Therapeutics (2023). Medium credibility.
+### Factors influencing COVID-19 risk: insights from molnupiravir exposure-response modeling of clinical outcomes [^115wLya8]. Clinical Pharmacology and Therapeutics (2023). Medium credibility.
 
 Molnupiravir (MOV) is an oral antiviral for the treatment of coronavirus disease 2019 (COVID-19) in outpatient settings. This analysis investigated the relationship between β-D-N4-hydroxycytidine (NHC) pharmacokinetics and clinical outcomes in patients with mild to moderate COVID-19 in the phase III part of the randomized, double-blind, placebo-controlled MOVe-OUT trial. Logistic regression models of the dependency of outcomes on exposures and covariates were constructed using a multistep process. Influential covariates were identified first using placebo arm data, followed by assessment of exposure-dependency in drug effect using data from both the placebo and MOV arms. The exposure-response (E-R) analysis included 1,313 participants; 630 received MOV and 683 received placebo. Baseline viral load, baseline disease severity, age, weight, viral clade, active cancer, and diabetes were identified as significant determinants of response using placebo data. Absolute measures of viral load on days 5 and 10 were strong on-treatment predictors of hospitalization. An additive area under the curve (AUC)-based maximum effect (E max) model with a fixed Hill coefficient of 1 best represented the exposure-dependency in drug effect and the AUC50 was estimated to be 19,900nMhour. Patients at 800mg achieved near maximal response, which was larger than for 200 or 400mg. The final E-R model was externally validated and predicted that the relative reduction in hospitalization with MOV treatment would vary with patient characteristics and factors in the population. In conclusion, the E-R results support the MOV dose of 800mg twice daily to treat COVID-19. Many patient characteristics and factors impacted outcomes beyond drug exposures.
 
 ---
 
-### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^9e3addf2]. Science Translational Medicine (2022). Medium credibility.
+### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^1153apM7]. Science Translational Medicine (2022). Medium credibility.
 
 DISCUSSION
 
@@ -696,7 +696,7 @@ In this phase 2a randomized, double-blind, placebo-controlled clinical trial, mo
 
 ---
 
-### Molnupiravir and risk of post-acute sequelae of COVID-19: cohort study [^8857984a]. BMJ (2023). Excellent credibility.
+### Molnupiravir and risk of post-acute sequelae of COVID-19: cohort study [^114V8jp5]. BMJ (2023). Excellent credibility.
 
 Conclusions
 
@@ -704,7 +704,7 @@ Among people with SARS-CoV-2 infection and at least one risk factor for progress
 
 ---
 
-### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^aeb927c1]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
+### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^115U339i]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
 
 Figure 2.
 Relative risk random effects meta-analysis of country-specific aggregate data.
@@ -715,7 +715,7 @@ Sixth, and last, there have been at least three other molnupiravir trials that h
 
 ---
 
-### A viroimmunologic model to characterize the antiviral effect of molnupiravir in outpatients infected with SARS-CoV-2: implication for treatment duration [^af6289f7]. The Journal of Infectious Diseases (2025). Medium credibility.
+### A viroimmunologic model to characterize the antiviral effect of molnupiravir in outpatients infected with SARS-CoV-2: implication for treatment duration [^115V1w1Y]. The Journal of Infectious Diseases (2025). Medium credibility.
 
 CONCLUSION
 
@@ -723,7 +723,7 @@ Our model suggests that molnupiravir achieves high-level efficacy in inhibiting 
 
 ---
 
-### Lagevrio (molnupiravir) clinical virology review analysis of post TX… [^8d1fd64e]. FDA (2025). Medium credibility.
+### Lagevrio (molnupiravir) clinical virology review analysis of post TX… [^114cDwyP]. FDA (2025). Medium credibility.
 
 This review summarizes post-hoc analyses conducted by the sponsor, and additional analyses independently conducted by FDA, to investigate the frequency, role of MOV treatment, and the potential clinical relevance of post-treatment SARS-CoV-2 RNA rebound using available virology, genotypic resistance and clinical data from the Phase 3 trial, MK-4482-002, Part 2. As noted. age with RT-PCR-confirmed COVID-19. MOV was dosed at 800 mg q12h for 5 days, and the primary clinical efficacy endpoint was the rate of hospitalization or death through Day
 29. SARS-CoV-2 RNA levels in nasopharyngeal swab samples were analyzed at baseline, Day 3. below) of at least 1 sign or symptom or hospitalization occurring within 1 visit relative to the visit in which the viral RNA rebound occurred, treatment with MOV was, on average, associated with a modestly more rapid decline in viral RNA levels compared to placebo, with a ~0. 3 log10 copies/mL greater mean decline in viral RNA levels. rebound, 9 subjects, including 6 placebo recipients and 3 MOV recipients, reached the clinical endpoint of hospitalization or death through Day 29, 2 of whom died. For comparison, the rate of hospitalization or death among subjects who did not experience. virologic rebound was 6%. There was no consistent pattern regarding the timing of hospitalization or death and post-treatment viral RNA rebound. 9 Reference ID:
@@ -737,7 +737,7 @@ severe acute respiratory syndrome coronavirus 2 viral testing, who are:
 
 ---
 
-### Favipiravir for treatment of outpatients with asymptomatic or uncomplicated coronavirus disease 2019: a double-blind, randomized, placebo-controlled, phase 2 trial [^a60c6e2c]. Clinical Infectious Diseases (2022). Medium credibility.
+### Favipiravir for treatment of outpatients with asymptomatic or uncomplicated coronavirus disease 2019: a double-blind, randomized, placebo-controlled, phase 2 trial [^115FB7wh]. Clinical Infectious Diseases (2022). Medium credibility.
 
 In contrast to our findings, a randomized placebo-controlled trial of molnupiravir reported an approximate 30% reduction in mortality and COVID-19–related hospitalizations. The overall hospitalization rates were higher than in our favipiravir study, possibly due to differences in standards of care and the predominance of SARS-CoV-2 B.1.617 (Delta variant) during the molnupiravir study. Of note, in vitro data suggest that molnupiravir may also be mutagenic to mammalian cells. Animal studies suggest that favipiravir administered in combination with molnupiravir may be an effective strategy to allow for lower molnupiravir doses and potentially avoid unintended consequences.
 
@@ -747,7 +747,7 @@ In conclusion, our data do not support favipiravir use at currently recommended 
 
 ---
 
-### Safety and efficacy of molnupiravir in SARS-CoV-2-infected patients: a real-life experience [^f05f3588]. Journal of Medical Virology (2022). Medium credibility.
+### Safety and efficacy of molnupiravir in SARS-CoV-2-infected patients: a real-life experience [^1179N1TV]. Journal of Medical Virology (2022). Medium credibility.
 
 Early treatment with molnupiravir was demonstrated to reduce significantly the risk of disease progression (odds ratio: 0.10; 95% confidence interval: 0.02–0.47; p = 0.004) in contrast with the MOVE‐OUT trial, where only people who started treatment after 4–5 days since the onset of the symptoms had better outcomes when compared with placebo. In our population, the effect of early treatment was evident also in complicated patients such as people who get the infection during hospitalization. Among them, four people did not receive early treatment, and two of them had a disease progression; on the contrary, among the 39 people who received early treatment, only 7 had a disease progression (50% vs. 17.9%).
 
@@ -763,13 +763,13 @@ Our study has some limitations that should be addressed. First, this is an obser
 
 ---
 
-### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^1325fcd7]. Science Translational Medicine (2022). Medium credibility.
+### A phase 2a clinical trial of molnupiravir in patients with COVID-19 shows accelerated SARS-CoV-2 RNA clearance and elimination of infectious virus [^111VPXQz]. Science Translational Medicine (2022). Medium credibility.
 
 There is an urgent need for an effective, oral, direct-acting therapeutic to block transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and prevent progression to severe coronavirus disease 2019 (COVID-19). In a phase 2a double-blind, placebo-controlled, randomized, multicenter clinical trial, we evaluated the safety, tolerability, and antiviral efficacy of the nucleoside analog molnupiravir in 202 unvaccinated participants with confirmed SARS-CoV-2 infection and symptom duration < 7 days. Participants were randomized 1:1 to receive molnupiravir (200 mg) or placebo and then 3:1 to receive molnupiravir (400 or 800 mg) or placebo, orally twice daily for 5 days. Antiviral activity was assessed by reverse transcriptase polymerase chain reaction (RT-PCR) for SARS-CoV-2 RNA in nasopharyngeal swabs. Infectious virus was assessed by inoculation of cultured Vero cells with samples from nasopharyngeal swabs and was detected by RT-PCR. Time to viral RNA clearance (primary endpoint) was decreased in the 800-mg molnupiravir group (median 14 days) compared to the placebo group (median 15 days) (log rank P value = 0.013). Of participants receiving 800 mg of molnupiravir, 92.5% achieved viral RNA clearance compared with 80.3% of placebo recipients by study end (4 weeks). Infectious virus (secondary endpoint) was detected in swabs from 1.9% of the 800-mg molnupiravir group compared with 16.7% of the placebo group at day 3 of treatment (P = 0.016). At day 5 of treatment, infectious virus was not isolated from any participants receiving 400 or 800 mg of molnupiravir compared with 11.1% of placebo recipients (P = 0.034 and 0.027, respectively). Molnupiravir was well tolerated across all doses.
 
 ---
 
-### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^e48ae260]. Communications Medicine (2023). Medium credibility.
+### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^116qppwH]. Communications Medicine (2023). Medium credibility.
 
 The way forward
 
@@ -779,37 +779,37 @@ As the pandemic evolves, it will become increasingly important for treatments to
 
 ---
 
-### Molnupiravir and nirmatrelvir-ritonavir: oral coronavirus disease 2019 antiviral drugs [^f7bedab4]. Clinical Infectious Diseases (2023). Medium credibility.
+### Molnupiravir and nirmatrelvir-ritonavir: oral coronavirus disease 2019 antiviral drugs [^117LJ3kP]. Clinical Infectious Diseases (2023). Medium credibility.
 
 At a crucial time with rapid spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant globally, the United States Food and Drug Administration has issued an emergency use authorization for 2 oral antivirals, molnupiravir (in persons aged ≥ 18 years) and nirmatrelvir-ritonavir (Paxlovid) (in persons aged ≥ 12 years weighing ≥ 40 kg), for the outpatient treatment of patients with mild to moderate coronavirus disease 2019 (COVID-19) who are at risk for progression. Molnupiravir is a nucleoside analogue, whereas nirmatrelvir is a SARS-CoV-2 main protease inhibitor, and ritonavir is a human immunodeficiency virus type 1 protease inhibitor. Drug interactions are a major concern for nirmatrelvir-ritonavir. Nirmatrelvir-ritonavir demonstrated a greater risk reduction in hospitalization and death than molnupiravir compared to placebo. Both drugs need to be started within 5 days of symptoms onset and given for 5 days' duration. This article reviews the 2 oral COVID-19 antiviral drugs including the mechanisms of action, antiviral activity, pharmacokinetics, drug interactions, clinical experience including trials, adverse events, recommended indications, and formulary considerations.
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^a3353161]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^115AxrDW]. Clinical Infectious Diseases (2024). High credibility.
 
 Why is molnupiravir considered for treatment — mechanism, early safety, and EUA context are summarized as follows: "Molnupiravir is an oral antiviral that targets the genetic machinery that is responsible for SARS COV-2 replication". It is "an oral pro-drug that is converted to β-D-N4-hydroxycytidine, which acts as a substrate for RNA-dependent RNA polymerase", and "after it is incorporated into the viral RNA, serial mutations develop, resulting in a virus that is less fit for ongoing viral replication". Early evaluation notes that "One phase I RCT evaluated the safety and tolerability of molnupiravir in healthy adults without COVID-19 [235]" and "The study reported molnupiravir to be well tolerated, with no increased reports of serious adverse events among persons in the molnupiravir arm compared to those receiving placebo". The regulatory summary states that "The FDA granted EUA to molnupiravir on December 23, 2021, for the treatment of mild-to-moderate COVID-19 in adults (≥ 18 years) who are at high risk for progression to severe COVID-19, including hospitalization or death".
 
 ---
 
-### Availability of oral antivirals against SARS-CoV-2 infection and the requirement for an ethical prescribing approach [^9b1aab49]. The Lancet: Infectious Diseases (2022). High credibility.
+### Availability of oral antivirals against SARS-CoV-2 infection and the requirement for an ethical prescribing approach [^114xx3Eg]. The Lancet: Infectious Diseases (2022). High credibility.
 
 The first two oral antivirals, molnupiravir and nirmatrelvir-ritonavir, are now becoming available in many countries. These medicines will be indicated to treat mild-to-moderate COVID-19 in non-hospitalised patients who are at high risk of progressing to severe COVID-19. These antivirals should be prescribed within 5 days of symptom onset, and after SARS-CoV-2 infection has been confirmed. However, the availability of these antivirals will be scarce for some time due to manufacturing constraints. Each country should establish a policy on the conditions under which these antivirals can be prescribed. Such a policy should be based on the fulfilment of five ethical elements: transparency, relevance, appeals, enforcement, and fairness. Following the principles of distributive justice, molnupiravir and nirmatrelvir-ritonavir should be prescribed according to a hierarchy of predicted efficacy, ideally on the basis of an evidence-based scoring system. The placebo-controlled randomised trials that supported the temporary authorisation of these two antivirals were conducted in unvaccinated patients with COVID-19, so an evidence-based prescription practice would only use these drugs for unvaccinated patients until further data become available. However, in the countries that authorised these antivirals in 2021 (the UK and the USA), both vaccinated and unvaccinated patients meeting particular requirements have access to these antivirals. Due to the complexity of prioritisation, national health authorities should start issuing their draft policies as soon as possible and these policies should be regularly updated. The effectiveness of these antivirals against the omicron variant of SARS-CoV-2 must be urgently assessed. Once implemented, molnupiravir and nirmatrelvir-ritonavir must show their effectiveness and safety in the real world, and health systems must be adequately adapted for the correct use of these antivirals.
 
 ---
 
-### CDC yellow book 2026: health information for international travel. chapter 4 travel-associated infections and diseases [^3bd76756]. CDC (2025). High credibility.
+### CDC yellow book 2026: health information for international travel. chapter 4 travel-associated infections and diseases [^112Xid2d]. CDC (2025). High credibility.
 
 COVID-19 treatments — outpatient use, eligibility, and timing are summarized as follows: Nirmatrelvir with ritonavir (Paxlovid) is for adults and children ages 12 years and older, should be started within 5 days of symptom onset, and is given orally twice a day for 5 days; remdesivir (Veklury) is for adults and children, started within 7 days of symptom onset, and given as intravenous infusions for 3 consecutive days; molnupiravir (Lagevrio) is for adults, started within 5 days of symptom onset, and given orally as 4 pills twice a day for 5 days. All should be started as soon as possible within the specified window. Emergency Use Authorization for nirmatrelvir with ritonavir is for ages 12 years and older at increased risk of severe illness, while full approval is only for adults.
 
 ---
 
-### Molnupiravir (Lagevrio) [^3572dc0c]. FDA (2025). Medium credibility.
+### Molnupiravir (Lagevrio) [^112NEvaf]. FDA (2025). Medium credibility.
 
 The dosage of molnupiravir PO for treatment of COVID-19 infection in adults (mild-to-moderate, at high risk for progession to severe disease, alternative approved treatment options are not accessible or clinically appropriate, emergency use) is 800 mg PO BID for 5 days
 
 ---
 
-### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^11ba6634]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
+### Making statistical sense of the molnupiravir MOVe-OUT clinical trial [^111THQ99]. The American Journal of Tropical Medicine and Hygiene (2022). Medium credibility.
 
 Figure 1.
 Subgroup forest plot of the interim data odds ratio versus the post-interim data (only) odds ratio with accompanying 95% CIs. Test-of-interaction subgroup effect yielded P < 0.01.
@@ -818,13 +818,13 @@ Fourth, at the FDA EUA advisory meeting, Merck presented their interim data acro
 
 ---
 
-### Therapeutics and COVID-19: living guideline, 10 November 2023 [^e3a763bb]. Geneva: World Health Organization (2023). High credibility.
+### Therapeutics and COVID-19: living guideline, 10 November 2023 [^116pWQyx]. Geneva: World Health Organization (2023). High credibility.
 
 Regarding medical management for COVID-19 infection, more specifically with respect to molnupiravir, WHO 2023 guidelines recommend to consider initiating molnupiravir in patients with non-severe COVID-19 at the highest risk of hospitalization (excluding pregnant, breastfeeding, and pediatric patients).
 
 ---
 
-### Effectiveness of molnupiravir vs nirmatrelvir-ritonavir in non-hospitalised and hospitalised patients with COVID-19: a target trial emulation study [^021a4567]. EClinicalMedicine (2023). Medium credibility.
+### Effectiveness of molnupiravir vs nirmatrelvir-ritonavir in non-hospitalised and hospitalised patients with COVID-19: a target trial emulation study [^11147oNE]. EClinicalMedicine (2023). Medium credibility.
 
 Discussion
 
@@ -834,7 +834,7 @@ Our study findings differ from a previous study conducted on the US Veterans pop
 
 ---
 
-### Antiviral efficacy of molnupiravir versus ritonavir-boosted nirmatrelvir in patients with early symptomatic COVID-19 (PLATCOV): an open-label, phase 2, randomised, controlled, adaptive trial [^9f01211a]. The Lancet: Infectious Diseases (2024). High credibility.
+### Antiviral efficacy of molnupiravir versus ritonavir-boosted nirmatrelvir in patients with early symptomatic COVID-19 (PLATCOV): an open-label, phase 2, randomised, controlled, adaptive trial [^1154jQos]. The Lancet: Infectious Diseases (2024). High credibility.
 
 Discussion
 
@@ -844,7 +844,7 @@ The main indication for oral antiviral treatment in patients with COVID-19 is pr
 
 ---
 
-### Molnupiravir… [^c5fb864c]. FDA (2025). Medium credibility.
+### Molnupiravir… [^1164X3cP]. FDA (2025). Medium credibility.
 
 mild-to-moderate COVID-19 in adults who are at high risk for progression to severe COVID-19, including hospitalization or death. However, given the modest benefit and the inconsistencies between the first and second half of trial MK-4482-002, MOV is only authorized for use for adults for whom alternative COVID-19 treatment options. those with impaired immune systems or who are extremely clinically vulnerable) were eligible to receive monoclonal antibodies, intravenous antivirals, and oral antivirals as "usual care. " Given the PANORAMIC trial design and study population, limited conclusions regarding. trials showed higher frequencies of SARS-CoV-2 mutations in MOV-treated subjects. As an example, Table 1 shows an analysis conducted by Merck of nucleotide changes detected in SARS-CoV-2 sequences from subjects in the Phase 3 outpatient trial, MK-4482-002 Part 2. Consistent.
 
@@ -854,7 +854,7 @@ Further, it is the review team's current position that the risk-benefit assessme
 
 ---
 
-### A viroimmunologic model to characterize the antiviral effect of molnupiravir in outpatients infected with SARS-CoV-2: implication for treatment duration [^a20a6bad]. The Journal of Infectious Diseases (2025). Medium credibility.
+### A viroimmunologic model to characterize the antiviral effect of molnupiravir in outpatients infected with SARS-CoV-2: implication for treatment duration [^1159EVfS]. The Journal of Infectious Diseases (2025). Medium credibility.
 
 Background
 
@@ -874,7 +874,7 @@ Our model suggests that molnupiravir acts primarily on viral replication, and do
 
 ---
 
-### Update of recommendations for the management of COVID-19 in patients with haematological malignancies, haematopoietic cell transplantation and CAR T therapy, from the 2022 European Conference on Infections in Leukaemia (ECIL 9) [^8a1e2c76]. Leukemia (2023). Medium credibility.
+### Update of recommendations for the management of COVID-19 in patients with haematological malignancies, haematopoietic cell transplantation and CAR T therapy, from the 2022 European Conference on Infections in Leukaemia (ECIL 9) [^114XmRim]. Leukemia (2023). Medium credibility.
 
 Antivirals are the cornerstone of therapy since their activity is not influenced by VOCs, and randomized trials demonstrated that, when administered within 5 or 7 days from symptom onset, they were effective in reducing the rate of hospitalization or death in unvaccinated outpatients with mild/moderate COVID-19 who had risk factors for severe COVID-19. Although few HM patients were included, this population is expected to gain maximum benefit from anti-viral treatment, as demonstrated in observational studies.
 
@@ -886,7 +886,7 @@ In severe or critical COVID-19 in HM, remdesivir treatment is recommended togeth
 
 ---
 
-### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^511f7dcf]. Communications Medicine (2023). Medium credibility.
+### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^1135GaL6]. Communications Medicine (2023). Medium credibility.
 
 Outpatient trials to evaluate COVID-19 therapies
 
@@ -894,13 +894,13 @@ Previous trials evaluating inhaled budesonide, oral fluvoxamine, and the oral an
 
 ---
 
-### Guidelines for the use of antiretroviral agents in adults and adolescents with HIV [^4beb8479]. HIV.gov (2025). High credibility.
+### Guidelines for the use of antiretroviral agents in adults and adolescents with HIV [^112wZBPN]. HIV.gov (2025). High credibility.
 
 Maraviroc drug interactions with SARS-CoV-2 antivirals — For molnupiravir, ↔ MVC expected and No dose adjustment needed; for remdesivir, ↔ MVC expected and No dose adjustment needed.
 
 ---
 
-### Molnupiravir (Lagevrio) [^a1cb84e1]. FDA (2025). Medium credibility.
+### Molnupiravir (Lagevrio) [^1158sNF2]. FDA (2025). Medium credibility.
 
 6.1 Adverse Reactions from Clinical Studies
 
@@ -920,7 +920,7 @@ Selected Grade 3 and 4 laboratory abnormalities in chemistry (alanine aminotrans
 
 ---
 
-### Safety and efficacy of inhaled interferon-β 1a (SNG001) in adults with mild-to-moderate COVID-19: a randomized, controlled, phase II trial [^eb119948]. EClinicalMedicine (2023). Medium credibility.
+### Safety and efficacy of inhaled interferon-β 1a (SNG001) in adults with mild-to-moderate COVID-19: a randomized, controlled, phase II trial [^1171W15R]. EClinicalMedicine (2023). Medium credibility.
 
 We observed a significant increase in the median fold change of inflammatory markers, CRP, LDH and fibrinogen, all of which are acute phase reactants, during treatment with SNG001 compared with those receiving placebo. The increase in these markers of inflammation and coagulation are consistent with the pro-inflammatory mechanism of action of interferon and could potentially explain the lack of benefit in time to symptom improvement between groups. The increases in CRP, LDH, and fibrinogen were transient however, and returned to similar levels as placebo by day 28.
 
@@ -932,7 +932,7 @@ In conclusion, orally inhaled nebulized SNG001 was safe and well tolerated but d
 
 ---
 
-### Nirmatrelvir-ritonavir for acute COVID-19 in patients with cardiovascular disease and postacute sequelae of SARS-CoV-2 infection [^fe2bdf42]. JACC: Advances (2024). Medium credibility.
+### Nirmatrelvir-ritonavir for acute COVID-19 in patients with cardiovascular disease and postacute sequelae of SARS-CoV-2 infection [^117VpbH3]. JACC: Advances (2024). Medium credibility.
 
 Advances in vaccination, therapies, and the impact of widespread immunity acquired from prior infection have markedly lowered the case-fatality rate of COVID-19. Additionally, the availability of effective outpatient therapeutics, including nirmatrelvir plus ritonavir (NMV-r), molnupiravir, remdesivir, and various monoclonal antibodies, are significant advances. While the efficacy of these treatments in lowering the risk of acute COVID-19 has been well-established, the published data in peer-reviewed literature regarding their effectiveness in reducing the frequency of PASC are limited, barring a recent Department of Veterans Affairs study meta-analysis showing an association of early treatment of COVID-19 and decreased risk of PASC.
 
@@ -942,7 +942,7 @@ Given the frequency and consequences of PASC in patients with high-risk factors,
 
 ---
 
-### Clinical antiviral efficacy of remdesivir in coronavirus disease 2019: an open-label, randomized controlled adaptive platform trial (PLATCOV) [^5b2d34f2]. The Journal of Infectious Diseases (2023). Medium credibility.
+### Clinical antiviral efficacy of remdesivir in coronavirus disease 2019: an open-label, randomized controlled adaptive platform trial (PLATCOV) [^113LB4Ly]. The Journal of Infectious Diseases (2023). Medium credibility.
 
 Remdesivir has been used extensively as a parenteral treatment for coronavirus disease 2019 (COVID-19) in some regions, although therapeutic recommendations have varied widely. The initial clinical trials of remdesivir suggested clinical benefit in reduced duration of hospitalization but did not demonstrate an in vivo antiviral effect. Until early 2022 the World Health Organization (WHO) recommended against use of remdesivir in treatment, largely based on lack of mortality reduction in the interim results from the WHO's multinational Solidarity trial, and many countries did not license remdesivir for use. The WHO recommendation against the use of remdesivir has now been reversed, with updated results from the WHO's Solidarity trial indicating a small benefit. It is now appreciated that antiviral medications are more effective early in COVID-19 infections when viral burdens are highest, and they provide less benefit later in the course of illness in hospitalized patients where anti-inflammatory interventions show life-saving benefit. In the majority of cases, hospitalization occurs after approximately 1 week from symptom onset (this was the population studied in the Solidarity trial) — administration of remdesivir early in the course of infection has been shown to prevent progression to severe disease in high-risk outpatients.
 
@@ -950,7 +950,7 @@ Large randomized controlled trials have since demonstrated the clinical efficacy
 
 ---
 
-### Outpatient treatment of confirmed COVID-19: a living, rapid review for the American College of Physicians [^4e06b008]. Annals of Internal Medicine (2023). Medium credibility.
+### Outpatient treatment of confirmed COVID-19: a living, rapid review for the American College of Physicians [^112zgHGT]. Annals of Internal Medicine (2023). Medium credibility.
 
 Background
 
@@ -990,7 +990,7 @@ American College of Physicians. (PROSPERO: CRD42022323440).
 
 ---
 
-### Molnupiravir (Lagevrio) [^1f40cd01]. FDA (2025). Medium credibility.
+### Molnupiravir (Lagevrio) [^111oLPA8]. FDA (2025). Medium credibility.
 
 In Vitro Cytotoxicity
 
@@ -1004,19 +1004,19 @@ Post-treatment viral RNA rebound was not associated with the primary clinical ou
 
 ---
 
-### Equipoise, standard of care and consent: responding to the authorisation of new COVID-19 treatments in randomised controlled trials [^964095a7]. Journal of Medical Ethics (2023). Medium credibility.
+### Equipoise, standard of care and consent: responding to the authorisation of new COVID-19 treatments in randomised controlled trials [^114qkqUr]. Journal of Medical Ethics (2023). Medium credibility.
 
 In response to the COVID-19 pandemic, large-scale research and pharmaceutical regulatory processes have proceeded at a dramatically increased pace with new and effective, evidence-based COVID-19 interventions rapidly making their way into the clinic. However, the swift generation of high-quality evidence and the efficient processing of regulatory authorisation have given rise to more specific and complex versions of well-known research ethics issues. In this paper, we identify three such issues by focusing on the authorisation of molnupiravir, a novel antiviral medicine aimed at reducing the ability of SARS-CoV-2 to multiply in the body, for clinical use by the National Health Service in England and the concomitant testing of molnupiravir through the large-scale Platform Adaptive trial of Novel antiviRals for eArly treatMent of COVID-19 In the Community randomised control trial. By analysing the ways in which the authorisation and clinical use of molnupiravir complicate standard approaches to clinical equipoise, standard of care and participant consent in the PANORAMIC randomised control trial, we will explain some of ethical implications for clinical trials that aim to study the efficacy and safety of new COVID-19 and other therapeutics when conditional authorisation has already been granted and when such treatments have already been made available to patients by national health providers.
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^08de4696]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^111E9ZY1]. Clinical Infectious Diseases (2024). High credibility.
 
 Patients with mild-to-moderate disease who are at high risk for progression to severe COVID-19 — One randomized controlled trial compared three days of intravenous remdesivir, given as 200 mg on day one followed by 100 mg on days two and three, initiated within 7 days of symptom onset, versus no remdesivir in unvaccinated patients; enrollment included high-risk individuals or those age 60 years or older who were symptomatic seven days or less without prior treatment and were not expected to receive oxygen at enrollment (> 94% on room air), and outcomes assessed were mortality, hospitalizations for any cause, and COVID-19-related medically as well as serious adverse events.
 
 ---
 
-### Analysis of all-cause hospitalization and death among nonhospitalized patients with type 2 diabetes and SARS-CoV-2 infection treated with molnupiravir or nirmatrelvir-ritonavir during the omicron wave in Hong Kong [^217f37f6]. JAMA Network Open (2023). High credibility.
+### Analysis of all-cause hospitalization and death among nonhospitalized patients with type 2 diabetes and SARS-CoV-2 infection treated with molnupiravir or nirmatrelvir-ritonavir during the omicron wave in Hong Kong [^111rfKid]. JAMA Network Open (2023). High credibility.
 
 Discussion
 
@@ -1026,13 +1026,13 @@ The landmark MOVe-OUT trial reported that molnupiravir use was associated with a
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^7223c1dd]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^113vDbja]. Clinical Infectious Diseases (2024). High credibility.
 
 IDSA COVID-19 guidelines — viral rebound with nirmatrelvir/ritonavir report that recurrence of symptoms associated with viral rebound has been estimated to occur in treated patients in 0.8% to 6.6% in various trials, with rebound also described with molnupiravir (5.8%) and with no antiviral treatment; observational evidence suggests hospitalization after nirmatrelvir/ritonavir treatment to be infrequent, ranging from 0.11% to 0.44%, and no direct evidence was found on the effect of repeat treatment.
 
 ---
 
-### Ensitrelvir for the treatment of nonhospitalized adults with COVID-19: results from the SCORPIO-HR, phase 3, randomized, double-blind, placebo-controlled trial [^26c91784]. Clinical Infectious Diseases (2025). Medium credibility.
+### Ensitrelvir for the treatment of nonhospitalized adults with COVID-19: results from the SCORPIO-HR, phase 3, randomized, double-blind, placebo-controlled trial [^111zW5J3]. Clinical Infectious Diseases (2025). Medium credibility.
 
 DISCUSSION
 
@@ -1042,7 +1042,7 @@ Several oral antivirals have demonstrated improvements in time to symptom resolu
 
 ---
 
-### Persistent SARS-CoV-2 PCR positivity despite anti-viral treatment in immunodeficient patients [^ac95304f]. Journal of Clinical Immunology (2023). Medium credibility.
+### Persistent SARS-CoV-2 PCR positivity despite anti-viral treatment in immunodeficient patients [^115QryuG]. Journal of Clinical Immunology (2023). Medium credibility.
 
 From December 2021, the NHS authorised additional COVID-19 treatments for the highest risk non-hospitalised patients. This policy enabled use of another nMab, Sotrovimab, or oral antiviral treatments (Molnupiravir or Paxlovid) to be prescribed to non-hospitalised patients with COVID-19 in clearly defined high risk groups. Treatment is delivered by hubs known as Covid Medicine Delivery Units (CMDUs) across the country within 5–7 days of symptom onset and with a positive COVID PCR or lateral flow test.
 
@@ -1052,13 +1052,13 @@ Despite promising immediate clinical outcomes with the use of Ronapreve, sotrovi
 
 ---
 
-### Molnupiravir or nirmatrelvir-ritonavir plus usual care versus usual care alone in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial [^b85f5245]. The Lancet: Infectious Diseases (2025). High credibility.
+### Molnupiravir or nirmatrelvir-ritonavir plus usual care versus usual care alone in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial [^115iLjs2]. The Lancet: Infectious Diseases (2025). High credibility.
 
 The study RECOVERY (molnupiravir) was published by RECOVERY Collaborative Group. and colleagues in 2025 in the journal Lancet Infect Dis. This study is related to the following diseases: COVID-19 infection. In the RECOVERY (molnupiravir) study, the trial question was: what is the role of molnupiravir in patients hospitalized with COVID-19? In the RECOVERY (molnupiravir) study, the study design was: multi-center, open label, RCT. In the RECOVERY (molnupiravir) study, the population was: 923 patients (376 female, 547 male). The inclusion criteria were patients hospitalized with COVID-19. The key exclusion criteria were pregnancy or lactation; receipt of molnupiravir during current illness. In the RECOVERY (molnupiravir) study, the interventions were: n = 445 molnupiravir (at a dose of 800 mg PO BID for 5 days plus standard of care) n = 478 usual care (standard of care only). In the RECOVERY (molnupiravir) study, the primary outcome was: no significant difference in death at day 28 (17% vs. 17%; HR 0.93, 95% CI 0.68 to 1.28). In the RECOVERY (molnupiravir) study, the secondary outcomes were: no significant difference in the rate of discharged alive within 28 days (72% vs. 74%; RR 0.96, 96% CI 0.82 to 1.12) No significant difference in invasive mechanical ventilation or death (17% vs. 17%; RR 0.96, 96% CI 0.73 to 1.25) No significant difference in receipt of ventilation (11% vs. 8%; RR 1.24, 95% CI 0.8 to 1.9). In the RECOVERY (molnupiravir) study, the safety outcomes were: no significant differences in new cardiac arrhythmia, thrombotic events, clinically significant bleeding, non-coronavirus infections, seizures, acute liver injury, and AKI. significant difference in hyperglycemia requiring insulin (7.4% vs. 3.1%). In the RECOVERY (molnupiravir) study, the conclusion was: in patients hospitalized with COVID-19, molnupiravir was not superior to usual care with respect to death at day 28.
 
 ---
 
-### Drug treatments for COVID-19: living systematic review and network meta-analysis [^52ab61a8]. BMJ (2020). Excellent credibility.
+### Drug treatments for COVID-19: living systematic review and network meta-analysis [^1137ZYtX]. BMJ (2020). Excellent credibility.
 
 Time to symptom resolution
 
@@ -1070,25 +1070,25 @@ Previous iterations of this living systematic review explored subgroup effects f
 
 ---
 
-### Favipiravir for treatment of outpatients with asymptomatic or uncomplicated coronavirus disease 2019: a double-blind, randomized, placebo-controlled, phase 2 trial [^0a935151]. Clinical Infectious Diseases (2022). Medium credibility.
+### Favipiravir for treatment of outpatients with asymptomatic or uncomplicated coronavirus disease 2019: a double-blind, randomized, placebo-controlled, phase 2 trial [^111GgMoE]. Clinical Infectious Diseases (2022). Medium credibility.
 
 Suboptimal dosing may also explain why we found no evidence of mutagenesis after at least 5 days of favipiravir exposure. Our findings differ from in vitro work demonstrating a 3-fold increase in the number of mutations and a 12-fold increase in C to T or G to A transitions in Vero cells infected with SARS-CoV-2 exposed to favipiravir compared to controls. This is also in contrast to an in vivo study of molnupiravir, a closely related nucleotide analogue, that found a 2-fold increase in SARS-CoV-2 RdRp gene mutations in the treatment group compared to the control group. A study that evaluated favipiravir dosing for Ebola infections in macaques found that viral mutational load was strongly associated with favipiravir dose and that viral mutation accumulation was associated with lower levels of plasma infectious viral particles. Based upon these findings, the authors suggested that an earlier clinical trial in humans may have used suboptimal favipiravir dosing. However, recent in vitro data suggest that even higher favipiravir doses may not be effective against SARS-CoV-2.
 
 ---
 
-### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^922344f9]. Communications Medicine (2023). Medium credibility.
+### The importance of appropriate selection of clinical endpoints in outpatient COVID-19 clinical trials [^114jf3FN]. Communications Medicine (2023). Medium credibility.
 
 An alternative to changing the focus to more frequently occurring outcomes could be to restrict enrollment to higher risk populations with low vaccine coverage or other vulnerabilities (e.g. elderly, immunocompromised patients, or those with comorbidities) who are expected to have a higher event rate. This, however, is insufficient, and raises potential questions regarding generalizability, especially for an agent that may be expected to be used in a population that was not included in the clinical trial. For example, older people with multiple co-morbidities may not be eligible for a clinical trial because they have received various doses of COVID-19 vaccines but would still be provided therapy in clinical practice. Furthermore, trials in largely unvaccinated populations would be nearly impossible to conduct given the widespread uptake of vaccination worldwide, and the resulting lack of generalizability of such a trial. Trials that enroll heterogenous populations increase the clinical applicability of effective therapies, so exclusions based on vaccination status, comorbidities, variant infection, location, and availability of therapies outside the trial should be avoided where possible. This highlights the challenge of maintaining traditional endpoints and increases the desirability of uniform and accurate measurement of outcomes that, while harder to assess accurately, remain relevant to patients and guideline developers and regulators.
 
 ---
 
-### Efficacy and safety of GST-HG171 in adult patients with mild to moderate COVID-19: a randomised, double-blind, placebo-controlled phase 2 / 3 trial [^8dd02d5d]. EClinicalMedicine (2024). Medium credibility.
+### Efficacy and safety of GST-HG171 in adult patients with mild to moderate COVID-19: a randomised, double-blind, placebo-controlled phase 2 / 3 trial [^114dFBMW]. EClinicalMedicine (2024). Medium credibility.
 
 Several drugs have undergone evaluation and shown significant clinical benefits in patients with COVID-19. Most previous trials used hospitalization or death as the primary endpoint, such as the MOVE-OUT trial for Molnupiravir, the EPIC-HR trial for Nirmatrelvir plus Ritonavir, and the TOGETHER trial for fluvoxamine. As the mortality rate has significantly decreased with the emergence of recent Omicron variants, however, there has been a shift in focus towards outcomes related to clinical symptoms. Among drugs evaluated for symptoms related outcomes, Nirmatrelvir plus Ritonavir (in the EPIC-SR trial) did not show benefits. The PANORAMIC trial and the PRINCIPLE trial exhibited benefits in symptom recovery for Molnupiravir and budesonide, respectively, yet both were evaluated in open-label trials. The SCORPIO-SR trial demonstrated efficacy for a 3C-like (3CL) protease inhibitor Ensitrelvir with the time to resolution of 5 characteristic symptoms shortened.VV116, an RNA-dependent RNA polymerase (RdRp) inhibitor approved in China, was evaluated among adults with mild-to-moderate COVID-19, establishing non-inferior efficacy to Nirmatrelvir plus Ritonavir and demonstrating superiority to placebo with respect to the time to sustained clinical recovery. Simnotrelvir and Leritrelvir are 3CL protease inhibitors recently approved in China, both of which shortened the time to sustained resolution of COVID-19 symptoms compared to placebo in their phase III trials. However, the trials mentioned above were all conducted before the 2023 Omicron XBB wave in China. To date, evidence of efficacy on symptom recovery for orally administrated antiviral drugs in mild-to-moderate COVID-19 remains limited, and no evidence of efficacy has been reported in patients infected with emerging XBB variants.
 
 ---
 
-### Efficacy and safety of 5-day oral ensitrelvir for patients with mild to moderate COVID-19: the SCORPIO-SR randomized clinical trial [^8622f8e6]. JAMA Network Open (2024). High credibility.
+### Efficacy and safety of 5-day oral ensitrelvir for patients with mild to moderate COVID-19: the SCORPIO-SR randomized clinical trial [^114Rs65T]. JAMA Network Open (2024). High credibility.
 
 Previous clinical trials, of oral antivirals for COVID-19 were conducted during the Delta phase of the pandemic in unvaccinated, high-risk adults and demonstrated a reduction in the risk of hospitalization or death as the primary end point. However, given the administration of COVID-19 vaccinations and the nature of the infection caused by the Omicron variant, these end points could no longer be a viable option. Indeed, published studies, report a significant reduction in the risk of death, hospitalization, or severe disease associated with the Omicron vs Delta infection. Moreover, community-based studies, suggest limited effectiveness of these antivirals for high-risk, vaccinated adults or patients infected with the Omicron variant in reducing the risk of severe COVID-19.
 
@@ -1098,13 +1098,13 @@ Ensitrelvir demonstrated clinical benefit for mild to moderate COVID-19 in terms
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^0c92a7ca]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^111Ke7Tf]. Clinical Infectious Diseases (2024). High credibility.
 
 Nirmatrelvir/ritonavir — renal dosing and ambulatory options are specified as follows: For eGFR ≤ 60 mL/min and ≥ 30 mL/min, use 150 mg nirmatrelvir/100 mg ritonavir every 12 hours for five days; for eGFR < 30 mL/min, it is not recommended. Patients with mild-to-moderate COVID-19 who are at high risk of progression to severe disease admitted to the hospital may also receive nirmatrelvir/ritonavir. Options for treatment and management of ambulatory patients include nirmatrelvir/ritonavir, remdesivir for a 3-day course, molnupiravir, and neutralizing monoclonal antibodies, and patient-specific factors and product availability should drive decision-making; data for combination treatment do not exist in this setting.
 
 ---
 
-### Incidence and predictors of clinical failure after early treatment for mild-to-moderate COVID-19 in high-risk individuals: a multicentric cohort study [^3f11fe6b]. Journal of Internal Medicine (2025). Medium credibility.
+### Incidence and predictors of clinical failure after early treatment for mild-to-moderate COVID-19 in high-risk individuals: a multicentric cohort study [^112cWGJW]. Journal of Internal Medicine (2025). Medium credibility.
 
 Methods
 
@@ -1116,7 +1116,7 @@ On the day of the first evaluation, demographic and clinical data were collected
 
 ---
 
-### Temporal changes in SARS-CoV-2 clearance kinetics and the optimal design of antiviral pharmacodynamic studies: an individual patient data meta-analysis of a randomised, controlled, adaptive platform study (PLATCOV) [^15a62512]. The Lancet: Infectious Diseases (2024). High credibility.
+### Temporal changes in SARS-CoV-2 clearance kinetics and the optimal design of antiviral pharmacodynamic studies: an individual patient data meta-analysis of a randomised, controlled, adaptive platform study (PLATCOV) [^111Z6YgR]. The Lancet: Infectious Diseases (2024). High credibility.
 
 The PLATCOV study characterised the effects of several antiviral drugs on viral clearance. with findings that were generally consistent with earlier clinical trials assessing their efficacy in the prevention of disease progression. Comparative estimates of in-vivo antiviral activity allow for rational selection of drugs now that comparisons based on clinical endpoints are no longer feasible because of the prohibitively large sample sizes required in clinical trials. In this analysis, using the observed differences in the viral clearance profiles between effective and ineffective drugs or the no treatment arm allowed determination of the sampling duration that best characterised these differences. The greatest differences between effective and ineffective (or no) drugs were observed for assessments made over 4–5 days. Although there was substantial inter-individual variation in clearance rates, and intra-individual variation between the serial viral density estimates, with current viral clearance rates daily sampling still has adequate discriminatory power.
 
@@ -1126,13 +1126,13 @@ These data emphasise the importance of fixed ratio (as opposed to response adapt
 
 ---
 
-### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^797373b7]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19 (September 2022) [^11474HHY]. Clinical Infectious Diseases (2024). High credibility.
 
 Molnupiravir — reproductive concerns and pregnancy: Molnupiravir is not recommended during pregnancy, and counseling is advised for contraception: Females — Advise individuals of childbearing potential to use a reliable method of contraception for the duration of treatment and for 4 days after the last dose of molnupiravir; Males — Advise sexually active individuals with partners of childbearing potential to use a reliable method of contraception during treatment and for at least 3 months after the last dose of molnupiravir.
 
 ---
 
-### Molnupiravir and risk of post-acute sequelae of COVID-19: cohort study [^c9796b97]. BMJ (2023). Excellent credibility.
+### Molnupiravir and risk of post-acute sequelae of COVID-19: cohort study [^1169hJ6r]. BMJ (2023). Excellent credibility.
 
 Findings in relation to other studies
 

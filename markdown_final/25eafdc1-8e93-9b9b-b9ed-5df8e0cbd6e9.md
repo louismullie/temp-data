@@ -67,7 +67,7 @@ The maximum number of chords that can have at least one common point with the li
 
 ## References
 
-### Quantitative lung morphology: semi-automated measurement of mean linear intercept [^fce1ecb8]. BMC Pulmonary Medicine (2019). Medium credibility.
+### Quantitative lung morphology: semi-automated measurement of mean linear intercept [^117TumPD]. BMC Pulmonary Medicine (2019). Medium credibility.
 
 Optimization of number of chords to sample to accurately estimate MLI actual
 
@@ -90,7 +90,7 @@ Dot Plot of MLI measured. Dot plot of intraclass correlation. We demonstrate hig
 
 ---
 
-### The subject-fixated coaxially sighted corneal light reflex: a clinical marker for centration of refractive treatments and devices [^4706e396]. American Journal of Ophthalmology (2014). Low credibility.
+### The subject-fixated coaxially sighted corneal light reflex: a clinical marker for centration of refractive treatments and devices [^112pJSDb]. American Journal of Ophthalmology (2014). Low credibility.
 
 Purpose
 
@@ -114,7 +114,7 @@ As a clinically defined reference marker, the subject-fixated coaxially sighted 
 
 ---
 
-### A flat anterior glenoid corresponds to subcritical glenoid bone loss [^c9e11859]. Arthroscopy (2019). Medium credibility.
+### A flat anterior glenoid corresponds to subcritical glenoid bone loss [^116AJ7rG]. Arthroscopy (2019). Medium credibility.
 
 Purpose
 
@@ -142,7 +142,7 @@ Level III, diagnostic study.
 
 ---
 
-### Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales [^19048d29]. Nature Communications (2024). High credibility.
+### Timbral effects on consonance disentangle psychoacoustic mechanisms and suggest perceptual origins for musical scales [^111e6DiQ]. Nature Communications (2024). High credibility.
 
 Generalizing to triads (Study 5)
 
@@ -154,7 +154,7 @@ Here we therefore use an alternative method called GSP. This method coordinates 
 
 ---
 
-### Morphology of travel routes and the organization of cities [^bf222a53]. Nature Communications (2017). Medium credibility.
+### Morphology of travel routes and the organization of cities [^115tN7RL]. Nature Communications (2017). Medium credibility.
 
 Fig. 2
 Data sampling and definition of inness I. a Thirty-six origin–destination (OD) pairs (spaced out at intervals of 10°) are assigned along the circumference of circles at a distance of 2, 5, 10, 15, 20, and 30 km from the city center C. b For each OD pair, we query the Open Source Map API and collect the shortest routes (red) and the fastest routes (blue) (shown here for a representative OD pair in Paris). c A typical OD pair with the straight line connecting them representing the geodesic distance s; r is the radial distance from the center and θ is the angular separation relative to the center. We define the inness (I) to be the difference between the inner travel area (polygon delineated by red inner point and straight line) and the outer travel area (polygon delineated by blue outer point and straight line). d Three possible route configurations between multiple OD pairs. One with an exclusively outer travel area (blue), one with an exclusively inner travel area (red), and one where there is some combination of both
@@ -163,7 +163,7 @@ The inness of a node in the road network is a result of aggregating characterist
 
 ---
 
-### Russian doll genes and complex chromosome rearrangements in… [^50fd727f]. G3 (2018). Low credibility.
+### Russian doll genes and complex chromosome rearrangements in… [^1135596W]. G3 (2018). Low credibility.
 
 Graphical representations of scrambled loci
 
@@ -174,7 +174,7 @@ Graphical representation of DNA rearrangements and their topologies. (a) A schem
 
 ---
 
-### Cubic splines to model relationships between continuous variables and outcomes: a guide for clinicians [^53933989]. Bone Marrow Transplantation (2020). Medium credibility.
+### Cubic splines to model relationships between continuous variables and outcomes: a guide for clinicians [^1138uRZS]. Bone Marrow Transplantation (2020). Medium credibility.
 
 Series Editors' Note
 
@@ -182,25 +182,25 @@ We are pleased to add this typescript to the Bone Marrow Transplantation Statist
 
 ---
 
-### Quantification of the shape of fiber tracts [^cbeacc43]. Magnetic Resonance in Medicine (2006). Low credibility.
+### Quantification of the shape of fiber tracts [^116DKMSS]. Magnetic Resonance in Medicine (2006). Low credibility.
 
 The fiber tracts generated using diffusion MRI are usually simply displayed and assessed visually for a specific clinical or medical research purpose. This paper proposes computational techniques that can be used to study the shape of the tracts and make interindividual comparisons. These methods make use of fundamental geometric invariants, such as curvatures and torsions, or Fourier descriptors, together with the link of a pair of curves. Intersubject comparisons only require that the starting and ending points of the tracts can be defined and do not require point-by-point correspondences such as obtained using image registration. Principal component analysis-based shape analysis is also investigated. The invariants are tested on simulations and in vivo datasets, and the scale dependence and noise sensitivity of the measures are assessed. The potential for these techniques to be used in neuroscience research and clinical applications is demonstrated.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^6a46fa06]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^113iZXcH]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic left ventricular (LV) volumes — Volume measurements are "usually based on tracings of the blood-tissue interface in the apical four- and two-chamber views", with the contour at the mitral valve level "closed by connecting the two opposite sections of the mitral ring with a straight line", and LV length "defined as the distance between the middle of this line and the most distant point of the LV contour". Techniques include biplane disk summation and area-length; biplane disk summation advantages are "Corrects for shape distortions" and "Less geometrical assumptions compared with linear dimensions", with limitations "Apex frequently foreshortened", "Endocardial dropout", and "Blind to shape distortions not visualized in the apical two- and four-chamber planes". For area-length, the advantage is "Partial correction for shape distortion", with limitations "Apex frequently foreshortened", "Heavily based on geometrical assumptions", and "Limited published data on normal population".
 
 ---
 
-### Reaching beyond the midline: why are human brains cross wired? [^c6a299ee]. The Lancet: Neurology (2005). Medium credibility.
+### Reaching beyond the midline: why are human brains cross wired? [^1165VAXX]. The Lancet: Neurology (2005). Medium credibility.
 
 The crossing of nerve tracts from one hemisphere in the brain to the contralateral sense organ or limb is a common pattern throughout the CNS, which occurs at specialised bridging points called decussations or commissures. Evolutionary and teleological arguments suggest that midline crossing emerged in response to distinct physiological and anatomical constraints. Several genetic and developmental disorders involve crossing defects or mirror movements, including Kallmann's and Klippel-Feil syndrome, and further defects can also result from injury. Crossed pathways are also involved in recovery after CNS lesions and may allow for compensation for damaged areas. The development of decussation is under the control of a host of signalling molecules. Growing understanding of the molecular processes underlying the formation of these structures offers hope for new diagnostic and therapeutic interventions.
 
 ---
 
-### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^e97e4fee]. Magnetic Resonance in Medicine (2026). Medium credibility.
+### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^116yAYRT]. Magnetic Resonance in Medicine (2026). Medium credibility.
 
 1 INTRODUCTION
 
@@ -210,13 +210,13 @@ A variant of the spiral trajectory, which follows the involute of a circle, was 
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^9a18e059]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^114wTT2g]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Left ventricular (LV) volume quantification by echocardiography — acquisition and measurement guidance are as follows: LV volumes should be measured from the apical four- and two-chamber views. Two-dimensional echocardiographic image acquisition should aim to maximize LV areas, while avoiding foreshortening of the left ventricle, which results in volume underestimation. Acquiring LV views at a reduced depth to focus on the LV cavity will reduce the likelihood of foreshortening and minimize errors in endocardial border tracings (Table 1). Because the issue of foreshortening is less relevant in 3D data sets, 3D image acquisition should focus primarily on including the entire left ventricle within the pyramidal data set. To ensure reasonably accurate identification of end-systole, the temporal resolution of 3D imaging should be maximized without compromising spatial resolution. At the mitral valve level, the contour is closed by connecting the two opposite sections of the mitral ring with a straight line. LV length is defined as the distance between the bisector of this line and the apical point of the LV contour, which is most distant to it. The use of the longer LV length between the apical two- and four-chamber views is recommended. Contrast agents should be used when needed to improve endocardial delineation when two or more contiguous LV endocardial segments are poorly visualized in apical views.
 
 ---
 
-### Fitness level-and sex-related differences in pulmonary limitations to maximal exercise in normoxia and hypoxia [^4534ca1b]. Medicine and Science in Sports and Exercise (2024). Medium credibility.
+### Fitness level-and sex-related differences in pulmonary limitations to maximal exercise in normoxia and hypoxia [^112mbssG]. Medicine and Science in Sports and Exercise (2024). Medium credibility.
 
 Pulmonary function
 
@@ -230,7 +230,7 @@ The maximal incremental test started with participants cycling at 20 W for 2 min
 
 ---
 
-### Using machine learning to impact on long-term clinical care: principles, challenges, and practicalities [^ab2fbf61]. Pediatric Research (2023). Medium credibility.
+### Using machine learning to impact on long-term clinical care: principles, challenges, and practicalities [^115NnvPS]. Pediatric Research (2023). Medium credibility.
 
 Clustering (hierarchical, k -means etc.)
 
@@ -244,19 +244,19 @@ Perhaps not considered a true form of machine learning, dimensionality reduction
 
 ---
 
-### Choice of artificial chordae length according to echocardiographic criteria [^d02fa106]. The Annals of Thoracic Surgery (2006). Low credibility.
+### Choice of artificial chordae length according to echocardiographic criteria [^116KeRWD]. The Annals of Thoracic Surgery (2006). Low credibility.
 
 A simple way to identify artificial chordae length is reported. The distance A between the edge of the prolapsing anterior leaflet and the plane of the mitral annulus is measured during perioperative transesophageal echocardiography. When the mitral valve is exposed, the elongated chorda, corresponding to the scallop previously evaluated, is measured with a ruler and A is subtracted. This is the length of the new chorda that is measured with a ruler and tied at that level after being properly positioned.
 
 ---
 
-### Preoperative determination of artificial chordae length [^c3e59d19]. The Annals of Thoracic Surgery (2007). Low credibility.
+### Preoperative determination of artificial chordae length [^1161RiBr]. The Annals of Thoracic Surgery (2007). Low credibility.
 
 We present a practical and accurate way to measure artificial chordae length in mitral valve repair. During preoperative transesophageal echocardiography, the distance between the head of the posterior papillary muscle and the mitral annulus plane at the coaptation of the leaflets is measured; this is the length of the new chorda. Every millimeter of braided 4–0 Gore-Tex (W.L. Gore & Assoc, Flagstaff, AZ) contains two tight reverse knots; therefore, the number of the knots determines the accurate length of the artificial chorda.
 
 ---
 
-### Automatic data-driven design and 3D printing of custom ocular prostheses [^6f718f3e]. Nature Communications (2024). High credibility.
+### Automatic data-driven design and 3D printing of custom ocular prostheses [^113rDmbj]. Nature Communications (2024). High credibility.
 
 Correspondence generation
 
@@ -268,19 +268,19 @@ A selection of 173 manually produced prostheses sourced from a stock at MEH were
 
 ---
 
-### Shall we use non-verbal fluency in schizophrenia? A pilot study [^cb1dd2b2]. Psychiatry Research (2014). Low credibility.
+### Shall we use non-verbal fluency in schizophrenia? A pilot study [^116C8WCy]. Psychiatry Research (2014). Low credibility.
 
 Over the last few years, numerous studies have attempted to explain fluency impairments in people with schizophrenia, leading to heterogeneous results. This could notably be due to the fact that fluency is often used in its verbal form where semantic dimensions are implied. In order to gain an in-depth understanding of fluency deficits, a non-verbal fluency task - the Five-Point Test (5PT) - was proposed to 24 patients with schizophrenia and to 24 healthy subjects categorized in terms of age, gender and schooling. The 5PT involves producing as many abstract figures as possible within 1min by connecting points with straight lines. All subjects also completed the Frontal Assessment Battery (FAB) while those with schizophrenia were further assessed using the Positive and Negative Syndrome Scale (PANSS). Results show that the 5PT evaluation differentiates patients from healthy subjects with regard to the number of figures produced. Patients׳ results also suggest that the number of figures produced is linked to the "overall executive functioning" and to some inhibition components. Although this study is a first step in the non-verbal efficiency research field, we believe that experimental psychopathology could benefit from the investigations on non-verbal fluency.
 
 ---
 
-### Computed tomography imaging in the context of transcatheter aortic valve implantation (TAVI) / transcatheter aortic valve replacement (TAVR): an expert consensus document of the Society of Cardiovascular Computed Tomography [^6e41ac5f]. Journal of Cardiovascular Computed Tomography (2019). High credibility.
+### Computed tomography imaging in the context of transcatheter aortic valve implantation (TAVI) / transcatheter aortic valve replacement (TAVR): an expert consensus document of the Society of Cardiovascular Computed Tomography [^113pThRG]. Journal of Cardiovascular Computed Tomography (2019). High credibility.
 
 Contouring tools for annular segmentation — Freehand tool or Hounsfield-based contour detection yields a "Non-smoothened, irregular line following path of cursor or detected attenuation threshold" and can cause "Systematic overestimation of perimeter due to non-smoothened contour; Smoothing algorithms, can allow for more realistic perimeter assessment". Polygon methods use "Manual placed segmentation points connected by straight line without interpolation" and "Depending on the number of dots, this may yield a closer estimate of perimeter than freehand contouring without smoothing", whereas spline methods use "Manual placed segmentation points connected by a cubic spline interpolation – 'elastic ruler'" enabling "Accurate quantification of annular perimeter".
 
 ---
 
-### Modeling the electrical resistivity of polymer composites with segregated structures [^06c2b58d]. Nature Communications (2019). High credibility.
+### Modeling the electrical resistivity of polymer composites with segregated structures [^111B2Kw2]. Nature Communications (2019). High credibility.
 
 Fig. 7
 Voronoi tessellations (represented in red solid lines). Voronoi geometries are constructed based on center points of silica fillers (gray circles) a with a diameter of 4 μm and b with a diameter of 20 nm over the 2D model illustrated in Supplementary Fig. 10(b) and (d), respectively. A straight line connecting the center points of the two nearest silica fillers (represented in black dashed line in a) in the normal direction of a red conducting path (the side of a Voronoi tessellation) is associated with a neck in the 2D model. c Average number of CNT crosses per neck/average neck length for micro- and nano-silica composites with respect to silica contents
@@ -289,7 +289,7 @@ The total resistance of the composite system can be determined by considering tw
 
 ---
 
-### Cone photoreceptor definition on adaptive optics retinal imaging [^d6ba0e27]. The British Journal of Ophthalmology (2014). Low credibility.
+### Cone photoreceptor definition on adaptive optics retinal imaging [^116VLqxS]. The British Journal of Ophthalmology (2014). Low credibility.
 
 Automated algorithm cone identification
 
@@ -302,13 +302,13 @@ Figure 3
 
 ---
 
-### What curves are parallel? The core feature of preschoolers' intuitive parallel category [^1a68bb22]. Child Development (2024). Medium credibility.
+### What curves are parallel? The core feature of preschoolers' intuitive parallel category [^111g9rem]. Child Development (2024). Medium credibility.
 
 Existing evidence has revealed that humans can spontaneously categorize many geometric shapes without formal education. Children around 4years could distinguish between intersecting lines and parallel lines. Three features can be used to identify parallel lines, namely "translational congruence", "never meet", and "constant distance". This study separated them by using pairs of curves that possess only one of these features. Two experiments across 2021–2023, respectively, compared the relative priority of "translational congruence" with "constant distance", and "never meet" with "constant distance" among 3- to 5-year-old Chinese preschoolers (N total = 314, 48% female). The results showed that preschoolers consistently grouped "constant distance" curves with parallel lines. This suggests that the core feature of intuitive parallel category is "constant distance" at this age.
 
 ---
 
-### Morphology of travel routes and the organization of cities [^ecc6c05b]. Nature Communications (2017). Medium credibility.
+### Morphology of travel routes and the organization of cities [^11742qVk]. Nature Communications (2017). Medium credibility.
 
 Fig. 1
 Biasing forces found in urban morphology. Three schematic urban street arrangements share similar topological structure, but different geometric layouts resulting in varying dynamics. a A grid structure where the shortest paths between points at the same radius show no directional bias. b Repulsive forces relative to the origin (marked in blue) emerge as we break the grid symmetry by relocating the four outer points on the inner equidistant ring line. Paths lying on this ring now have the shortest paths that traverse the periphery and avoid the center. c Further perturbing the topology by increasing connectivity to the center (marked as four green lines) now leads to shortest paths that go through the center as if an attractive force is present (marked in red)
@@ -317,31 +317,31 @@ To capture whether such an effect manifests itself at the scale of the city, or 
 
 ---
 
-### Recommendations on the echocardiographic assessment of aortic valve stenosis: a focused update from the European association of cardiovascular imaging and the American Society of Echocardiography [^d1beadff]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### Recommendations on the echocardiographic assessment of aortic valve stenosis: a focused update from the European association of cardiovascular imaging and the American Society of Echocardiography [^116MxTdx]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Aortic stenosis Doppler quantitation — Table 1 directs recording and measurement steps across data elements. For LVOT diameter, measure "Inner edge to inner edge", in "Mid-systole", "Parallel and adjacent to the aortic valve or at the site of velocity measurement", and note "Diameter is used to calculate a circular CSA". LVOT velocity recording includes "Velocity baseline and scale adjusted to maximize size of velocity curve" and a "Time axis (sweep speed) 50–100 mm/s", while measurement uses "Maximum velocity from peak of dense velocity curve" and "VTI traced from modal velocity". For AS jet velocity, use "CW Doppler (dedicated transducer)" with "Multiple acoustic windows (e.g. apical, suprasternal, right parasternal)" and "Report window where maximum velocity obtained"; measurement specifies "Maximum velocity at peak of dense velocity curve", "Avoid noise and fine linear signals", "VTI traced from outer edge of dense signal", and "Mean gradient calculated from traced velocity curve". Valve anatomy recording uses "Parasternal long- and short-axis views" and "Zoom mode", and measurement includes "Identify number of cusps in systole, raphe if present", "Assess cusp mobility and commissural fusion", and "Assess valve calcification".
 
 ---
 
-### Echocardiographic assessment of valve stenosis: EAE / ASE recommendations for clinical practice [^6285f7b1]. Journal of the American Society of Echocardiography (2009). Medium credibility.
+### Echocardiographic assessment of valve stenosis: EAE / ASE recommendations for clinical practice [^113X4nWt]. Journal of the American Society of Echocardiography (2009). Medium credibility.
 
 Mitral stenosis quantitation (Table 7) — standardized echocardiographic acquisition and measurements are outlined as follows: For planimetry, use "2D parasternal short-axis view" to "determine the smallest orifice by scanning from apex to base", then measure the "contour of the inner mitral orifice", "include commissures when opened", perform measurement "in mid-diastole (use cine-loop)", and "average measurements if atrial fibrillation". For mitral flow, record "continuous-wave Doppler" from "apical windows often suitable (optimize intercept angle)" with settings to "obtain well-defined flow contour", and measure "mean gradient from the traced contour of the diastolic mitral flow" and "pressure half-time from the descending slope of the E-wave (mid-diastole slope if not linear)", with "average measurements if atrial fibrillation". For systolic pulmonary artery pressure, use "continuous-wave Doppler" with "multiple acoustic windows to optimize intercept angle" and measure the "maximum velocity of tricuspid regurgitant flow" with "estimation of right atrial pressure according to inferior vena cava diameter". For valve anatomy, acquire "parasternal short-axis view", "parasternal long-axis view", and "apical two-chamber view", then assess "valve thickness (maximum and heterogeneity)", "commissural fusion", "extension and location of localized bright zones (fibrous nodules or calcification)", "valve pliability" and the "subvalvular apparatus (chordal thickening, fusion, or shortening)", and "Detail each component and summarize in a score".
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^6517cbfd]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^113ask4c]. Annals of the American Thoracic Society (2023). High credibility.
 
 Basic stereological measurements — first-order parameters and probes identify that "First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D])". Measurements "are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D)". These probes create countable events in the image, and "Raw counts provide ratios… that are multiplied by the reference space volume to obtain absolute measures for the lung or subcompartment".
 
 ---
 
-### Realization and topological properties of third-order exceptional lines embedded in exceptional surfaces [^d357310a]. Nature Communications (2023). High credibility.
+### Realization and topological properties of third-order exceptional lines embedded in exceptional surfaces [^116QKg6D]. Nature Communications (2023). High credibility.
 
 As the counterpart of Hermitian nodal structures, the geometry formed by exceptional points (EPs), such as exceptional lines (ELs), entails intriguing spectral topology. We report the experimental realization of order-3 exceptional lines (EL3) that are entirely embedded in order-2 exceptional surfaces (ES2) in a three-dimensional periodic synthetic momentum space. The EL3 and the concomitant ES2, together with the topology of the underlying space, prohibit the evaluation of their topology in the eigenvalue manifold by prevailing topological characterization methods. We use a winding number associated with the resultants of the Hamiltonian. This resultant winding number can be chosen to detect only the EL3 but ignores the ES2, allowing the diagnosis of the topological currents carried by the EL3, which enables the prediction of their evolution under perturbations. We further reveal the connection between the intersection multiplicity of the resultants and the winding of the resultant field around the EPs and generalize the approach for detecting and topologically characterizing higher-order EPs. Our work exemplifies the unprecedented topology of higher-order exceptional geometries and may inspire new non-Hermitian topological applications.
 
 ---
 
-### How accurate are subjective judgements of a continuum? [^7ae4189a]. Histopathology (2003). Low credibility.
+### How accurate are subjective judgements of a continuum? [^1149C73w]. Histopathology (2003). Low credibility.
 
 Aims
 
@@ -357,7 +357,7 @@ The experiment indicates that subjective judgements can be accurate but it is ne
 
 ---
 
-### Neochords: how long, how many, too many? [^3d0e916a]. JTCVS Techniques (2023). Medium credibility.
+### Neochords: how long, how many, too many? [^112ZX8zu]. JTCVS Techniques (2023). Medium credibility.
 
 Our final comment on location relates to the concept of avoiding the implantation of neochordae that would cross the midline or equator of the mitral valve. If the en face mitral valve is divided into 4 quadrants, the midline is defined as a vertical line extending from the center of the A2 segment on the anterior annulus to the center of P2 on the posterior annulus, and the equator is a horizontal line extending from the nadir between the anterior and posterior heads of each papillary muscle (Figure 2). Although we are actively studying the effect of neochordae crossing the midline and equator, our current practice is to use the posterior heads of each papillary muscle for neochordae to the posterior leaflet and the anterior papillary heads for anterior leaflet neochordae. Similarly, neochordae to A3 or P3 should be fixed to the posteromedial papillary muscle and A1 or P1 to the anterolateral papillary muscle.
 
@@ -366,7 +366,7 @@ The midline of the mitral valve is defined by a vertical line extending between 
 
 ---
 
-### Topological acoustic triple point [^53f31fe1]. Nature Communications (2021). High credibility.
+### Topological acoustic triple point [^1139Tdqa]. Nature Communications (2021). High credibility.
 
 Vorticity and nodal lines
 
@@ -376,7 +376,7 @@ This can be directly applied to the TATP: because the Euler number for the trans
 
 ---
 
-### 3D-FVS: construction and application of three-dimensional fundus vascular structure model based on single image features [^844c2c47]. Eye (2023). Medium credibility.
+### 3D-FVS: construction and application of three-dimensional fundus vascular structure model based on single image features [^114P8xAi]. Eye (2023). Medium credibility.
 
 Vascular structure surface model
 
@@ -386,13 +386,13 @@ This study utilized the Zhang-Suen thinning algorithm to skeletonize the segment
 
 ---
 
-### Echocardiographic assessment of valve stenosis: EAE / ASE recommendations for clinical practice [^2c2713d4]. Journal of the American Society of Echocardiography (2009). Medium credibility.
+### Echocardiographic assessment of valve stenosis: EAE / ASE recommendations for clinical practice [^1128Tah1]. Journal of the American Society of Echocardiography (2009). Medium credibility.
 
 Aortic stenosis quantitation — table-based acquisition and measurement standards specify LVOT diameter recording in 2D parasternal long-axis view using zoom with gain optimized to the blood–tissue interface, measured inner edge to inner edge in mid-systole, parallel and adjacent to the aortic valve or at the site of velocity measurement, with diameter used to calculate a circular CSA; LVOT velocity recording uses pulsed-wave Doppler from apical long axis or five-chamber view with sample volume just on the LV side, velocity baseline/scale maximized, time axis (sweep speed) 100 mm/s, low wall filter, and a smooth, well-defined peak, measured as maximum velocity from the peak of the dense curve with VTI traced from modal velocity; AS jet velocity recording uses CW Doppler with multiple acoustic windows, decreased gains/increased wall filter with baseline and scale adjustments, gray scale spectral display with expanded time scale, and range/baseline set so the signal fits but fills the vertical scale, measured as maximum velocity at the peak of the dense signal while avoiding noise and fine linear signals, with VTI traced from the outer edge, mean gradient calculated from the traced curve, and the window of maximum velocity reported; valve anatomy is recorded in parasternal long- and short-axis views with zoom, and measurements identify the number of cusps in systole (raphe if present), assess cusp mobility and commissural fusion, and assess valve calcification.
 
 ---
 
-### Nonverbal executive function is mediated by language: a study of deaf and hearing children [^05063595]. Child Development (2017). Low credibility.
+### Nonverbal executive function is mediated by language: a study of deaf and hearing children [^1118T2Np]. Child Development (2017). Low credibility.
 
 Executive Function
 
@@ -406,13 +406,13 @@ Children's Color Trails Test 1 and 2 (Llorente, Williams, Satz, & D'Elia, 2003) 
 
 ---
 
-### Realization and topological properties of third-order exceptional lines embedded in exceptional surfaces [^51c380af]. Nature Communications (2023). High credibility.
+### Realization and topological properties of third-order exceptional lines embedded in exceptional surfaces [^1136DfXU]. Nature Communications (2023). High credibility.
 
 Here, we report the experimental realization of EL3 entirely embedded on ES2. The EL3 (ES2) is formed by order-3 (order-2) defective EPs. Both the EL3 and ES2 run continuously through the entire 3D parameter space, which is homeomorphic to a 3-torus by design. Such geometry presents an unexpected difficulty for topological characterization. The prevailing methods that extract topological properties of nodal degeneracies are based on the principle of homotopy group. Under such an approach, topological invariants are evaluated either on a 2-sphere enclosing the entire nodal structure, with the topological charges of a Weyl point being an important case; or on a 1-sphere encircling the nodal structure, such as the characterization of topological nodal lines. and order-2 EP lines. However, any enclosing sphere of a single EL3 would encounter ill-behaved spectral singularity on the ES2, thus defying the continuous requirement for spectral winding. In a recent study, it is theoretically shown that the resultants of the Hamiltonian matrix can be viewed as auxiliary manifolds associated with but different from the eigenvalue manifolds. Here, based on the intersection multiplicity of the resultants determining the location of EPs, we further uncover that a "resultant vector field" can be uniquely chosen to vanish only at the EL3 and remain continuous at the ES2, leading to a resultant winding number for diagnosing the topology of the EL3 while ignoring the influence of the ES2. The validity of our approach is verified by successfully predicting the local evolution of a touching point (TP) of two EL3 under perturbation. Our study expands the understanding of non-Hermitian topology by unveiling novel topological scenarios exclusive to higher-order EP structures.
 
 ---
 
-### A deep-learning-based framework for identifying and localizing multiple abnormalities and assessing cardiomegaly in chest X-ray [^f4942464]. Nature Communications (2024). High credibility.
+### A deep-learning-based framework for identifying and localizing multiple abnormalities and assessing cardiomegaly in chest X-ray [^117FbjoZ]. Nature Communications (2024). High credibility.
 
 The CTR can be calculated using the convention of measuring the thoracic diameter (L) as the distance from the inner margin of the ribs at the level of the dome of the right hemidiaphragm and the cardiac diameter (L₁ + L₂) as the horizontal distance between the rightmost and leftmost margins of the cardiac shadow. In our study, the calculation of the CTR was based on the segmentation of both lungs and the heart in CXRs. In particular, we employed attention UNet to develop the deep model for the segmentation of both lungs and the heart, where the input image size was 512 × 512, the number of epochs was set to 100 and the batch size was set to 4. The initial learning rate was 0.00001; when the loss of the validation set increased for two consecutive epochs, the learning rate was reduced by half. Once the binary mask of both lungs and the heart was obtained, the thoracic diameter (L) and the cardiac diameter (L₁ + L₂) could be calculated by the proposed algorithm, where the process for doing so is described as follows.
 
@@ -426,7 +426,7 @@ Step 4: Traversing upwards from the lowest point of the right lung boundary usin
 
 ---
 
-### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^ced202c6]. Magnetic Resonance in Medicine (2026). Medium credibility.
+### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^116HczPo]. Magnetic Resonance in Medicine (2026). Medium credibility.
 
 2.4 Inner arc
 
@@ -438,7 +438,7 @@ We have extended the previous WHIRLED PEAS to include a quarter‐circle k‐spa
 
 ---
 
-### The effect of pelvic incidence on outcomes after hip arthroscopy for femoroacetabular impingement and acetabular labral tears [^2292690b]. The American Journal of Sports Medicine (2024). Medium credibility.
+### The effect of pelvic incidence on outcomes after hip arthroscopy for femoroacetabular impingement and acetabular labral tears [^111tFktJ]. The American Journal of Sports Medicine (2024). Medium credibility.
 
 FAI and Spinopelvic Imaging Parameters
 
@@ -448,13 +448,13 @@ Specifically, using separate sagittal cuts, the center points of circles outlini
 
 ---
 
-### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^0075abab]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1111gXQe]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Regarding diagnostic procedures for chordoma - NCCN, more specifically with respect to biopsy, NCCN 2025 guidelines recommend to ensure appropriate communication between the surgeon, musculoskeletal or interventional radiologist, and bone pathologist.
 
 ---
 
-### Theory of branching morphogenesis by local interactions and global guidance [^34973bae]. Nature Communications (2021). High credibility.
+### Theory of branching morphogenesis by local interactions and global guidance [^112Ly9uw]. Nature Communications (2021). High credibility.
 
 Comparison between analytical model and simulations
 
@@ -464,7 +464,7 @@ To summarize, the combination of analytical modelling and numerical simulations 
 
 ---
 
-### Novel flight style and light wings boost flight performance of tiny beetles [^4b3201a5]. Nature (2022). Excellent credibility.
+### Novel flight style and light wings boost flight performance of tiny beetles [^112vUsLg]. Nature (2022). Excellent credibility.
 
 Average wingbeat frequency was calculated as the mean of the wingbeat frequency in all recordings. In each recording, the number of frames was counted in several complete kinematic cycles, 104 cycles in total.
 
@@ -472,7 +472,7 @@ For the mathematical description of the kinematics of the wings and elytra, we u
 
 ---
 
-### Diffusion sampling schemes: a generalized methodology with nongeometric criteria [^59d3d131]. Magnetic Resonance in Medicine (2023). Medium credibility.
+### Diffusion sampling schemes: a generalized methodology with nongeometric criteria [^113JB3cU]. Magnetic Resonance in Medicine (2023). Medium credibility.
 
 Purpose
 
@@ -492,13 +492,13 @@ The versatility provided by WISH is supported by better results. Optimization in
 
 ---
 
-### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^10ea950e]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^111S5bYH]. Journal of the American College of Cardiology (2020). High credibility.
 
 Figure 6 — Underestimation of effective regurgitant orifice area (EROA) by two-dimensional proximal isovelocity surface area (2D PISA) in secondary mitral regurgitation (MR) is illustrated by a 2D PISA-calculated EROA of 0.17 cm² with regurgitant volume (Rvol) 22 mL, whereas proper continuous wave jet tracing yields EROA 0.21 cm² and Rvol 25 mL, and three-dimensional (3D) vena contracta reconstruction shows a vena contracta-derived area of 0.52 cm² with Rvol 64 mL (0.5 cm² × 128 cm); the discrepancy reflects the crescent-shaped MR jet that violates the circular orifice assumption of 2D PISA.
 
 ---
 
-### Real-time trajectory guide tracking for intraoperative MRI-guided neurosurgery [^9672911e]. Magnetic Resonance in Medicine (2023). Medium credibility.
+### Real-time trajectory guide tracking for intraoperative MRI-guided neurosurgery [^114r3dDP]. Magnetic Resonance in Medicine (2023). Medium credibility.
 
 2 METHODS
 
@@ -511,7 +511,7 @@ Computation of a refined pivot point. Manually selected pivot points are inheren
 
 ---
 
-### Anterior mitral leaflet mobility is limited by the basal stay chords [^d7acb891]. Circulation (2003). Low credibility.
+### Anterior mitral leaflet mobility is limited by the basal stay chords [^116WkMTv]. Circulation (2003). Low credibility.
 
 Background
 
@@ -527,7 +527,7 @@ Although the lateral movement of anterior mitral leaflet is limited by stay chor
 
 ---
 
-### Depth relationships and measures of tissue thickness in dorsal midbrain [^c9d8dce5]. Human Brain Mapping (2020). Medium credibility.
+### Depth relationships and measures of tissue thickness in dorsal midbrain [^116AFMUQ]. Human Brain Mapping (2020). Medium credibility.
 
 Third, for the intercollicular sulcus (ICS) of SC, we calculated the line between the peaks of left and right SC calculated as described above. The intersection point between this line with the plane‐of‐best‐fit through the CA was located, and the vertex of S 1 closest to this point, within 0.25 mm of the plane of best fit, was defined to be the center of the intercollicular sulcus. For the inferior sulcus, we repeated the same process with left and right peaks of IC.
 
@@ -535,7 +535,7 @@ Once we obtained the six points of interest, we measured each of their thickness
 
 ---
 
-### Deep learning-based CT radiomics for feature representation and analysis of aging characteristics of Asian bony orbit [^0bf8b467]. The Journal of Craniofacial Surgery (2021). Medium credibility.
+### Deep learning-based CT radiomics for feature representation and analysis of aging characteristics of Asian bony orbit [^111JkQFx]. The Journal of Craniofacial Surgery (2021). Medium credibility.
 
 Description Method of Connected Component Shape
 
@@ -551,7 +551,7 @@ The difference between the 2 object shapes is measured by the shape context dist
 
 ---
 
-### Adapting the dejour classification of trochlear dysplasia from qualitative radiograph-and CT-based assessments to quantitative MRI-based measurements [^2a2814e7]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Adapting the dejour classification of trochlear dysplasia from qualitative radiograph-and CT-based assessments to quantitative MRI-based measurements [^1125Vwgz]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 Trochlear measurement protocol
 
@@ -566,7 +566,7 @@ Four readers (ED, TP, AG, CT; orthopaedic surgeons qualified, and trained in the
 
 ---
 
-### Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton [^6ae7159f]. Nature Communications (2025). High credibility.
+### Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton [^113jVJm4]. Nature Communications (2025). High credibility.
 
 Results
 
@@ -583,13 +583,13 @@ To assess the effect of the CRS, it is necessary to define metrics to quantify c
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^139aca36]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^111W4kuT]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Parasternal long-axis (PLAX) view — left ventricle linear measurements specify that LV wall thickness and chamber dimension are measured at end-diastole, defined as the first video frame immediately after mitral leaflet closure, and if mitral motion is not visible, end-diastole may be identified as the peak of the R wave on the electrocardiogram; papillary muscles should not be visible in the PLAX view, the electronic caliper is positioned at the interface of the compacted myocardium of the interventricular septum and a line drawn perpendicular to the long axis of the left ventricle to the inner border of the compacted myocardium of the posterior wall, the measurement should be obtained at a level just below the MV leaflet tips, the interventricular septum and LV posterior wall should be measured at the same time and level as the LV end-diastolic dimension, only the compacted tissue of the septum should be included taking care to avoid including RV trabeculation, the insertion of the moderator band, or the TV apparatus, care must be taken to avoid including the MV apparatus, the echo loop should be advanced frame by frame to aid in differentiating posterior wall from leaflets and chordae tendineae, the LV end-systolic dimension should be obtained at the smallest cavity dimension usually the frame preceding the initial early diastolic opening of the MV just distal to the MV leaflet tips, and in the presence of isolated thickening of the basal septum the measurement location is LV apex to just beyond the septal bulge making all linear measurements at this level and these measurements should remain perpendicular to the long axis of the ventricle.
 
 ---
 
-### Geometric characteristics of bicuspid aortic valves [^0d823006]. JTCVS Techniques (2021). Medium credibility.
+### Geometric characteristics of bicuspid aortic valves [^111M2ZvV]. JTCVS Techniques (2021). Medium credibility.
 
 The following geometric parameters were measured:
 A. The length of the raphe (Figure 1, A and B).
@@ -603,7 +603,7 @@ H. Aortic dimensions. Aortic annulus, aortic root, sinotubular junction, ascendi
 
 ---
 
-### Haplotype sequence collection of ABO blood group alleles by long-read sequencing reveals putative A1-diagnostic variants [^ab6b00b4]. Blood Advances (2023). Medium credibility.
+### Haplotype sequence collection of ABO blood group alleles by long-read sequencing reveals putative A1-diagnostic variants [^115P8pmh]. Blood Advances (2023). Medium credibility.
 
 Table 3.
 Overview of genetic diversity among the 154 ABO haplotype sequences
@@ -623,7 +623,7 @@ We also observed 4 fixed SNVs, one 1-bp and one 12-bp indel in all ABO∗A1. 01 
 
 ---
 
-### Ultra-high dynamic range quantum measurement retaining its sensitivity [^63f3f730]. Nature Communications (2021). High credibility.
+### Ultra-high dynamic range quantum measurement retaining its sensitivity [^113ZBijR]. Nature Communications (2021). High credibility.
 
 Algorithm design
 
@@ -636,25 +636,25 @@ a For different relative numbers of iterations of the subsequences (written dire
 
 ---
 
-### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^099e1105]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111FFyvL]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Regarding surgical interventions for chordoma - NCCN, more specifically with respect to surgical resection, NCCN 2025 guidelines recommend to consider achieving local tumor control by either limb-sparing excision or limb amputation, individualized for a given patient.
 
 ---
 
-### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^e61ac135]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Bone cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116t993J]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Regarding diagnostic investigations for chordoma, more specifically with respect to imaging for staging, NCCN 2025 guidelines recommend to consider obtaining PET/CT from skull base to mid-thigh in patients with chordoma. Consider obtaining bone scan if PET/CT is negative.
 
 ---
 
-### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^097203dc]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^111F1BjH]. Journal of the American College of Cardiology (2020). High credibility.
 
 Table 5 — pathoanatomically directed techniques for secondary MR describes repair versus replacement approaches. A restrictive remodeling rigid annuloplasty ring may be used as primary modality for annular dilatation mechanism, may be used in conjunction with secondary or tertiary chordal cutting, and may be used with other adjunctive procedures (e.g., papillary muscle sling), but should be avoided as sole therapy in setting of Carpentier Type IIIB mechanism with left ventricular inferobasal aneurysm. Chord-sparing MV replacement may be used as primary modality for annular dilatation when severe leaflet tethering (i.e., > 10 mm tenting height) or presence of inferobasal aneurysm and is reasonable to consider in preference to MV repair for patients with severe ischemic MR.
 
 ---
 
-### Network community structure of substorms using superMAG magnetometers [^9dd9b34b]. Nature Communications (2021). High credibility.
+### Network community structure of substorms using superMAG magnetometers [^11532BPY]. Nature Communications (2021). High credibility.
 
 Fig. 1
 The community structure of a substorm on the 16/03/1997.
@@ -665,13 +665,13 @@ Figure 1 a, b visualizes the overall importance in the network, and physical loc
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^194fdbe5]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^111eXWpk]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Left atrial (LA) volume quantification by echocardiography is described using two-dimensional echocardiography (2DE) and three-dimensional (3D) approaches, with 2D volumetric measurements based on tracings from apical four- and two-chamber views; at the mitral valve level the contour is closed by a straight line, endocardial tracing excludes the atrial appendage and pulmonary veins, LA length L is the shortest long axis from apical two- and four-chamber views, and the two lengths should not differ more than 5 mm; volumes can be computed by an area-length approximation or by a disk summation technique, and 3D data sets are usually acquired from the apical approach using a multibeat full-volume acquisition. For the 2DE area-length technique, advantages include accurate assessment of asymmetric remodeling of the left atrium and being a more robust predictor of cardiovascular events than linear or area measurements, whereas limitations include geometric assumptions about LA shape, few accumulated data on normal population, and that single plane volume calculations are inaccurate because they assume A1 = A2. For 3D data sets, advantages are no geometrical assumption about LA shape and greater accuracy compared with 2D measurements, while limitations include dependence on adequate image quality, lower temporal resolution, limited data on normal values, and that patient's cooperation is required.
 
 ---
 
-### Context-dependent dynamics lead to the assembly of functionally distinct microbial communities [^2b520739]. Nature Communications (2020). High credibility.
+### Context-dependent dynamics lead to the assembly of functionally distinct microbial communities [^1127E2A4]. Nature Communications (2020). High credibility.
 
 Fig. 1
 Microcosm communities approach distinct equilibria.
@@ -680,13 +680,13 @@ a Relative abundances of the top 20 Amplicon Sequence Variants (ASVs) across the
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^9470949b]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^114o4yxE]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic left ventricular (LV) internal linear dimensions — Linear internal measurements of the LV "should be acquired in the parasternal long-axis view carefully obtained perpendicular to the LV long axis, and measured at the level of the mitral valve leaflet tips", and electronic calipers "should be positioned on the interface between myocardial wall and cavity and the interface between wall and pericardium". Techniques include M-mode tracing and 2D-guided linear measurements; M-mode advantages are "Reproducible", "High temporal resolution", and "Wealth of published data", with limitations "Beam orientation frequently off axis" and "Single dimension, i.e., representative only in normally shaped ventricles". For 2D-guided linear measurements, an advantage is "Facilitates orientation perpendicular to the ventricular long axis", with limitations "Lower frame rates than M-mode" and "Single dimension, i.e., representative only in normally shaped ventricles".
 
 ---
 
-### Morphology and microcirculation changes of the optic nerve head between simple high myopia and pathologic myopia [^f1e4c4c3]. BMC Ophthalmology (2023). Medium credibility.
+### Morphology and microcirculation changes of the optic nerve head between simple high myopia and pathologic myopia [^117Bcrgr]. BMC Ophthalmology (2023). Medium credibility.
 
 Parameters from Optos and SS-OCT measurements
 
@@ -697,7 +697,7 @@ Parameters by Optos. (A) The area of ONH was outlined manually. The tilt index w
 
 ---
 
-### What are the sex-based differences of acetabular coverage features in hip dysplasia? [^f9c4bfb2]. Clinical Orthopaedics and Related Research (2024). Medium credibility.
+### What are the sex-based differences of acetabular coverage features in hip dysplasia? [^117PJ19T]. Clinical Orthopaedics and Related Research (2024). Medium credibility.
 
 Fig. 3
 The variables related to innominate bone rotation have been depicted. (A) The superior iliac wing angle is determined as the point where a line connecting the inner edge of the anterior superior iliac spine and the front edge of the sacroiliac joint intersects with a horizontal line on the axial plane. (B) The inferior iliac wing angle is determined by the intersection of a line connecting the front part of the anterior inferior iliac spine and the rear part of the ilium with a horizontal line on the axial plane. (C) The ischiopubic angle is determined as an angle by the crossing of a line connecting the front upper edge of the pubic symphysis and the ischial spine, with a sagittal line on the axial plane; SIA = superior iliac wing angle; IIA = inferior iliac wing angle; IPA = ischiopubic angle.
@@ -707,7 +707,7 @@ Acetabular coverage parameters have been depicted. (A) Acetabular inclination wa
 
 ---
 
-### Cutting edge or blunt instrument: how to decide if a stepped wedge design is right for you [^471f52f2]. BMJ Quality & Safety (2021). High credibility.
+### Cutting edge or blunt instrument: how to decide if a stepped wedge design is right for you [^112pSeFT]. BMJ Quality & Safety (2021). High credibility.
 
 When might I consider doing a stepped wedge trial?
 
@@ -723,19 +723,19 @@ If implementation is to be staggered, is there a minimum 'step length'? If the s
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^1213731c]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^111ToJyy]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Left ventricular (LV) linear measurements and related timing — make linear LV measurements in the parasternal long‑axis (PLAX) view with the chamber optimally centered and as perpendicular as possible to the long axis, take LV dimension measurements just beyond the mitral valve (MV) leaflet tips while avoiding mitral chordal and papillary muscle apparatus and right‑sided structures, move measurements slightly apical if a basal septal bulge is present, measure the left atrial anterior‑posterior diameter using M‑mode or two‑dimensional (2D) imaging with 2D preferred, and use systolic timing for left ventricular outflow tract (LVOT) and aortic annulus diameters and diastolic timing for aortic measurements; define the outflow tract diameter by the septum and anterior mitral leaflet at the location yielding laminar flow just proximal to the AV.
 
 ---
 
-### Effective use of tables and figures in abstracts, presentations, and papers [^9d553efc]. Respiratory Care (2004). Low credibility.
+### Effective use of tables and figures in abstracts, presentations, and papers [^1152FgyH]. Respiratory Care (2004). Low credibility.
 
 In some situations, tables, graphs, and figures can present certain types of information (including complicated relationships and sequences of events) more clearly and in less space than the same information would require in sentence form. However, do not use tables, graphs, and figures for small amounts of data that could be conveyed clearly and succinctly in a sentence. Also, do not reiterate in sentences the data that are shown in a table, graph, or figure: the point of creating a table or graph or figure is to eliminate that type of sentence from your manuscript. In building a data table you must balance the necessity that the table be complete with the equally important necessity that it not be too complex. Sometimes it is helpful to break a large table into several smaller ones to allow the reader to identify important information easily, but, conversely, it is a common mistake of novice authors to split up into several tables data that belong in one table. In almost all cases, only one table or graph or figure should be included in an abstract, and then only if it can convey essential information in less space and in a more easily interpretable way than the sentence form. For a poster, in almost all instances you should use only one typeface and one font in a table, graph, or figure. In general, do not use bold, italics, or color unless you are presenting a great deal of data and you need to highlight certain data values and you are certain that using bold, italics, or color will improve readability, which is rare. Do not include identical information in a table and a graph/figure. In reporting a clinical trial you will need to include a patient flow chart that identifies the number of patients initially screened for the study, the number of patients who were excluded (and why) after initial screening or in the final analysis, and how many patients entered, exited early, and completed each arm of the study. A treatment protocol should also be described with a flow chart. In preparing a graph the most common error is to include a line that suggests an unsubstantiated extrapolation between or beyond the data points. In selecting the graph's axes, avoid truncating, enlarging, or compressing the axes in ways that might make the graph confusing or misleading. To prepare clear, accurate, easily interpretable tables, graphs, and figures, rely on the rules described in authoritative guides such as the Council of Science Editors' Scientific Style and Format and the American Medical Association's Manual of Style.
 
 ---
 
-### Artificial web of disclination lines in nematic liquid crystals [^11e593ab]. Nature Communications (2017). Medium credibility.
+### Artificial web of disclination lines in nematic liquid crystals [^111TXuJr]. Nature Communications (2017). Medium credibility.
 
 Disclination lines in nematic LCs appear when the director makes a continuous π rotation along a closed loop, converting n to − n. Because of the physical equivalence of n and − n, there is no discontinuity of the LC structure except along the line singularity running somewhere inside the loop. Depending on the sense of rotation of the director along the loop, there arise two subtypes referred to as 1/2 and −1/2-strength disclinations, although they are not topologically distinct. This type of disclination lines are densely formed at the phase transition, when the isotropic liquid is suddenly cooled down to the nematic phase, because of the nucleation of numerous nematic LC domains with random director orientations. The disclination lines thus formed, however, rapidly disappear through pair annihilation and loop shrinkage for the aforementioned equivalence of 1/2 and −1/2 disclinations. The time evolution of disclination lines at the phase transition has intrigued even cosmologists as a laboratory model of the early universe, based on the mathematical equivalence of fundamental equations governing these two entirely different systems. For the past decade, there have been attempts for artificial manipulation of disclination lines by means of topologically conflicted boundaries – and by use of topological objects like colloidal inclusions. Nevertheless, their inherent readiness for annihilation has hampered the realization of condensed array of free-standing disclination lines in nematic LCs as those involving line intersectoins.
 
@@ -743,7 +743,7 @@ We describe here a scheme to design and fabricate a free-standing network of twi
 
 ---
 
-### A selection and targeting framework of cortical locations for line-scanning fMRI [^7d5ce816]. Human Brain Mapping (2023). Medium credibility.
+### A selection and targeting framework of cortical locations for line-scanning fMRI [^114CrfC9]. Human Brain Mapping (2023). Medium credibility.
 
 3 RESULTS
 
@@ -756,31 +756,31 @@ Assessment of line‐placement accuracy using anatomical measures. The registrat
 
 ---
 
-### A critical edge number revealed for phase stabilities of two-dimensional ball-stick polygons [^9a5a5d21]. Nature Communications (2024). High credibility.
+### A critical edge number revealed for phase stabilities of two-dimensional ball-stick polygons [^114wqSpx]. Nature Communications (2024). High credibility.
 
 As the amorphous state is more stable than crystal at finite temperatures, we expect that, driven by entropy, the crystal state will spontaneously destabilize into the amorphous state. To check this, MD simulations starting from crystalline morphology are performed at pressureand various temperatures. As quantified by the bond-orientational order parameter(see Methods for the definition) plotted in Fig. 3b, which initially keeps a high value (larger than 0.8) corresponding to the rhombic crystal state, and then decays after certain simulation steps until a very low value due to its amorphous nature, the amorphization takes place at, lower than the melting pointmanifested by the sharp changes in the caloric and density curves plotted in Fig. 3c. The non-equilibrium amorphous state whose potential energy and density are close to those of crystal is featured by the mixing of two isotopes, as shown in the inset of Fig. 3b, in agreement with our theoretical prediction described above. At lower temperatures, the fact that amorphization does not occur within the finite simulation time should be attributed to the existence of relatively high energy barrier(s) between the crystalline and amorphous states. To verify this, we manually introduce a very small disordered region (about 30 monomers) into the crystalline configuration (see Methods for technical details) and run NPT simulations at, 2.86, and 2.88, respectively. The evolution of the two monomers in each unit-cell is traced by the unit-cell order parameter defined as, where the number of unit-cells n equals to half of the number of monomers, l (t) is the distance between the center-of-masses (COMs) of the two monomers originally in the same unit-cell at time t, = 5.77 is the cut-off value of l, andis the Heaviside step function. This order parameter quantifies the fraction of remaining unit-cells at time t, taking a value close to 1 in crystal and 0 in liquid. The time evolution of d insteps after a relaxation ofsteps is shown in Fig. 3d, demonstrating that, once the energy barrier is overcome, the system will rearrange into the amorphous state continuously. We expect that d would finally drop to approximately zero after sufficiently long time, as a result of reorganization of the whole system. Although regular MD simulations at much lower temperatures would suffer from very slow dynamics, we have managed to verify that the amorphous state is still more stable than the crystalline state even at a temperature as low as T = 1.5 by running an additional REMD simulation focusing on the low-temperature region (see Supplementary Fig. S 4 in SI). Moreover, we never observe an inverse pathway from the amorphous state back to the crystal, as appeared in the simulation for the hard-triangle system, in agreement with the fact that the amorphous state is more stable than the crystal benefiting from the large configurational entropy.
 
 ---
 
-### SNMMI procedure standard / EANM practice guideline for amyloid PET imaging of the brain 1.0 [^e640d942]. Journal of Nuclear Medicine (2016). Medium credibility.
+### SNMMI procedure standard / EANM practice guideline for amyloid PET imaging of the brain 1.0 [^116tMwAq]. Journal of Nuclear Medicine (2016). Medium credibility.
 
 Amyloid PET brain imaging — positive scan interpretation and regional patterns state that in patients with significant amounts of Aβ deposition in the brain, radiotracer uptake in gray matter blurs the distinction of the gray/white junction; a key feature for distinguishing Aβ 'positive' from 'negative' patients is loss of gray/white matter contrast with uptake extending to the edge of the cortex forming a smooth, regular boundary, and a convex outer surface may be outlined while gaps between the two hemispheres may no longer be defined or may appear as a thin regular line; abnormal uptake tends to be symmetrical, with most distinct accumulation in lateral temporal and frontal lobes, posterior cingulate cortex/precuneus, and parietal lobes while the sensorimotor and visual cortex can be relatively spared; striatal uptake (notable in the caudate head) is often found and may be decisive in subjects with major cortical atrophy, and in hereditary forms of AD particularly intense striatal uptake has been described; the cerebellar cortex does not usually show uptake in the majority of amyloid-positive subjects, thus the cerebellum can generally be used as a reference region for visual as well as for semi-quantitative interpretation; an intermediate (or indeterminate) scan pattern may also be encountered and package inserts should be consulted for the number of affected cortical regions required to define a "positive" scan.
 
 ---
 
-### Measurement of cortical thickness from MRI by minimum line integrals on soft-classified tissue [^0361785e]. Human Brain Mapping (2009). Low credibility.
+### Measurement of cortical thickness from MRI by minimum line integrals on soft-classified tissue [^11161hid]. Human Brain Mapping (2009). Low credibility.
 
 Estimating the thickness of the cerebral cortex is a key step in many brain imaging studies, revealing valuable information on development or disease progression. In this work, we present a framework for measuring the cortical thickness, based on minimizing line integrals over the probability map of the gray matter in the MRI volume. We first prepare a probability map that contains the probability of each voxel belonging to the gray matter. Then, the thickness is basically defined for each voxel as the minimum line integral of the probability map on line segments centered at the point of interest. In contrast to our approach, previous methods often perform a binary-valued hard segmentation of the gray matter before measuring the cortical thickness. Because of image noise and partial volume effects, such a hard classification ignores the underlying tissue class probabilities assigned to each voxel, discarding potentially useful information. We describe our proposed method and demonstrate its performance on both artificial volumes and real 3D brain MRI data from subjects with Alzheimer's disease and healthy individuals.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^75098a94]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^113zWkrP]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Table 5 — Echocardiographic assessment of LV mass (linear method, M‑mode tracing) emphasizes acquisition and use characteristics: linear internal measurements should be obtained from the parasternal approach, perpendicular to the LV long axis at the level of the mitral valve leaflet tips; M‑mode measurements should be from a targeted short‑axis (SAX) or parasternal long‑axis (LAX) view, and all measurements should be at end‑diastole. Advantages are that the method is fast and widely used, has demonstrated prognostic value, is fairly accurate in normally shaped ventricles (e.g., systemic hypertension, aortic stenosis), and is simple for screening large populations. Limitations include frequent off‑axis beam orientation, the cubed nature of linear measurements increasing error impact, overestimation of LV mass, and inaccuracy with asymmetric hypertrophy, dilated ventricles, and diseases with regional wall‑thickness variation.
 
 ---
 
-### Biologically encoded magnonics [^7420781c]. Nature Communications (2019). High credibility.
+### Biologically encoded magnonics [^113yAUEw]. Nature Communications (2019). High credibility.
 
 Spatial localization of spin-wave amplitude
 
@@ -790,7 +790,7 @@ As a general rule, we observe that coupled systems avoid line crossings and inst
 
 ---
 
-### Three-dimensional visualization improves the endoscopic diagnosis of superficial gastric neoplasia [^ba266de1]. BMC Gastroenterology (2021). Medium credibility.
+### Three-dimensional visualization improves the endoscopic diagnosis of superficial gastric neoplasia [^115kyc5W]. BMC Gastroenterology (2021). Medium credibility.
 
 Fig. 1
 Definition of the concordance rate of lesion extent. a Endoscopic image of a gastric neoplasia using NBI. A superficial protruded-type lesion (adenoma) is evident on the lesser curve of the lower gastric body. b Delineation of the tumor margin is performed. The blue line is the tumor extent line drawn by a participant. c According to the histopathological findings, the tumor extent (red lines) is reconstructed on an endoscopic image. The white lines are the cutting lines of a resected specimen. d The calculation of the concordance rate of lesion extent. Yellow circles and yellow cross marks show coincident and non-coincident evaluating points, respectively. In this case, 16 of the 18 evaluation points were coincident, indicating a coincident rate of lesion extent of 88.9% (16/18)
@@ -802,7 +802,7 @@ Twelve study participants were blinded to the endoscopic findings and histopatho
 
 ---
 
-### Unveiling magmatic structures and connectivity beneath the lunar oceanus procellarum region from GRAIL gravity data [^a042ed9e]. Nature Communications (2024). High credibility.
+### Unveiling magmatic structures and connectivity beneath the lunar oceanus procellarum region from GRAIL gravity data [^1156bVxR]. Nature Communications (2024). High credibility.
 
 a – c Horizontal slices at depths of 3.5, 5.5, and 10 km. d – g Vertical depth slices. The locations of the vertical depth slices are indicated by black dotted lines in (a)–(c). The blue dashed lines in (a)–(i) correlate with the 160 kg/m³ density contrast contour line, which is taken to be the magmatic body surface. The vertical axis is exaggerated by a factor of 10 relative to the horizontal axis. The symbols "I, II, III, IV, V" in (a)–(c) represent distinct magma chamber compartments.
 
@@ -810,7 +810,7 @@ Figures 2 c, 3 c, 4, and 5 exhibit distinct belt structures oriented NNW–SSE w
 
 ---
 
-### Impact and characterization of serial structural variations across humans and great apes [^7fb5239f]. Nature Communications (2024). High credibility.
+### Impact and characterization of serial structural variations across humans and great apes [^114GLGfY]. Nature Communications (2024). High credibility.
 
 Noise-reduction in pairwise alignments for subsequent segmentation
 
@@ -826,7 +826,7 @@ A custom algorithm converts the pairwise alignment returned by minimap2 into a s
 
 ---
 
-### On convex decision regions in deep network representations [^b0b918c2]. Nature Communications (2025). High credibility.
+### On convex decision regions in deep network representations [^115WzzaD]. Nature Communications (2025). High credibility.
 
 We now sample N s pairs of points within the given predicted class label and compute the shortest path in the graph between the pairs using Dijkstra's algorithm. For each path, we compute a score between 0 and 1. The path score is defined as the proportion of the number of nodes on the shortest path, without the endpoints, inside the decision region (i.e. with the same predicted label). If an edge directly connects the pair of nodes, the score is 1. If the points are not connected, the score is 0. We average the scores for all paths within one class to get a convexity score per class per layer. To get one convexity score per layer, we average over all paths regardless of class. Uncertainties are calculated as the standard error of the mean, where we set n as the number of points in the given class. This is likely a conservative estimate since the mean is based on many more pairs than there are points.
 
@@ -836,7 +836,7 @@ Euclidean convexity is also measured for each layer and class separately. To mea
 
 ---
 
-### Functional anatomy and surgical principles of mitral repair for the Barlow valve: past legacy guides the future [^2538126c]. JTCVS Techniques (2021). Medium credibility.
+### Functional anatomy and surgical principles of mitral repair for the Barlow valve: past legacy guides the future [^111xBNoD]. JTCVS Techniques (2021). Medium credibility.
 
 Barlow Valve Repair: Understanding Functional Prolapse
 
@@ -847,7 +847,7 @@ Abnormal annular motion causing functional prolapse in the Barlow valve. The pos
 
 ---
 
-### Cutting second-order chords does not prevent acute ischemic mitral regurgitation [^2583dcf9]. Circulation (2004). Low credibility.
+### Cutting second-order chords does not prevent acute ischemic mitral regurgitation [^111xcqL4]. Circulation (2004). Low credibility.
 
 Background
 
@@ -863,25 +863,25 @@ Cutting second-order chordae resulted in LV systolic dysfunction and neither pre
 
 ---
 
-### Guidelines and recommendations for performance of the fetal echocardiogram: an update from the American Society of Echocardiography [^15fb0e56]. Journal of the American Society of Echocardiography (2023). High credibility.
+### Guidelines and recommendations for performance of the fetal echocardiogram: an update from the American Society of Echocardiography [^111Zb4tD]. Journal of the American Society of Echocardiography (2023). High credibility.
 
 Fetal echocardiography — standard biometry at the four-chamber view includes calculating the cardiothoracic ratio from the inside circumference (or area) of the chest and the epicardial surface of the heart, and determining the cardiac angle by bisecting the chest with a line from the sternum to the spine and measuring the angle at which the ventricular septum would intersect that line.
 
 ---
 
-### Pelvic organ prolapse: ACOG practice bulletin, number 214 [^c527778a]. Obstetrics and Gynecology (2019). High credibility.
+### Pelvic organ prolapse: ACOG practice bulletin, number 214 [^1163HpPs]. Obstetrics and Gynecology (2019). High credibility.
 
 Pelvic organ prolapse (POP) staging — maximal extent relative to the hymen — is defined as follows: Stage 0: No prolapse; anterior and posterior points are all −3 cm, and C or D is between −TVL and − (TVL − 2) cm. Stage I: The criteria for stage 0 are not met, and the most distal prolapse is more than 1 cm above the level of the hymen (less than −1 cm). Stage II: The most distal prolapse is between 1 cm above and 1 cm below the hymen (at least one point is −1, 0, or +1). Stage III: The most distal prolapse is more than 1 cm below the hymen but no further than 2 cm less than TVL. Stage IV: Represents complete procidentia or vault eversion; the most distal prolapse protrudes to at least (TVL − 2) cm. Stages are based on the maximal extent of prolapse relative to the hymen, in one or more compartments.
 
 ---
 
-### Standardization of spirometry 2019 update. An official American Thoracic Society and European Respiratory Society technical statement [^df365e99]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
+### Standardization of spirometry 2019 update. An official American Thoracic Society and European Respiratory Society technical statement [^116hvW3i]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
 
 Back-extrapolated volume (BEV) on the volume–time curve — Time 0 is found by drawing a line with a slope equal to peak flow through the point of peak flow on the volume–time curve and setting Time 0 to the point where this line intersects the time axis. The BEV is equal to the volume of gas exhaled before Time 0, which, in these two examples from the same patient, is 0.136 L for the left panel (acceptable) and 0.248 L for the right panel (unacceptable). For this patient, the BEV limit is 5% FVC = 0.225 L.
 
 ---
 
-### Computing and visualising intra-voxel orientation-specific relaxation-diffusion features in the human brain [^001414c9]. Human Brain Mapping (2021). Medium credibility.
+### Computing and visualising intra-voxel orientation-specific relaxation-diffusion features in the human brain [^11117kDN]. Human Brain Mapping (2021). Medium credibility.
 
 Comparingpeak‐specificvalues against their respectivecoordinates did not reveal a clear relationship betweenand peak orientation (Figure S2). As detailed in the Supporting Information, the inability to detect a subtle variation ofwith varying fibre orientation is attributed to the relatively high uncertainty of the 5Ddistributions. Despite the fact that no globalbehaviour could be teased out, the proposed method allowed the detection of relaxation differences between distinct WM tracts. As shown in Figure 7, these differences are best visualised in ascale spanning a more constrained interval of values than thescale used in Figure 6. Inspection of Figure 7 reveals that both the CST and the forceps major tracts are characterised by considerablyvalues. These observations are in accordance with the results of Lampinen et al. (2020), where longervalues were consistently found in the CST. The longerof the CST is also observed in voxels containing fibre crossings, withdifferences being discerned between the ODF lobes corresponding to the CST and the lobes that capture fibre populations from other tracts (see bottom right panels of Figure 7). Moreover, inter‐trackdifferences can also be observed in the tractograms displayed in Figure S3 of the Supporting Information, where the spatial distribution ofstreamlines correlates well with theODFs of Figure 7. While the exact mechanisms driving the longvalues found in the CST and the forceps major are still unclear, it is worth mentioning that these tracts are known to feature higher‐than‐average fractions of large axons (Dell'Acqua et al. 2019), meaning that differences in surface relaxation might play a part in determining the inter‐tractdifferences.
 
@@ -890,7 +890,7 @@ Orientation Distribution Function (ODF) maps coloured according to the orientati
 
 ---
 
-### Tracing multiple scattering trajectories for deep optical imaging in scattering media [^4bc9fcd5]. Nature Communications (2023). High credibility.
+### Tracing multiple scattering trajectories for deep optical imaging in scattering media [^112wMvAx]. Nature Communications (2023). High credibility.
 
 Proof of concept with numerical simulation
 
@@ -903,19 +903,19 @@ a Schematic of the sample configuration. Four phase plates are placed on top of 
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^f4da9c21]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^117G1QdE]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Table 3 — two-dimensional linear measurements in the parasternal window PLAX view list core 2D grayscale metrics and illustrate alignment effects on values. In PLAX view, the listed measurements include IVS end-diastole thickness, LVIDd, LVPWd, and RV diameter end-diastole. Biplane imaging can assist with proper perpendicular alignment for the most accurate 2D measurements, with an example where LVIDd is 47.0 mm. When off-axis, biplane imaging shows the consequence of off-axis measurements: the LVIDd is decreased by 3.0 mm from 47.0 mm to 44.0 mm. With a sigmoid septum, when the measurement is moved slightly toward the LV apex just beyond the septal bulge, LVIDd is 53 mm and IVS is 7.0 mm; when the measurement is made at the MV leaflet tips, including the septal bulge, LVIDd is 38.0 mm and IVS is 17.0 mm.
 
 ---
 
-### International consensus statement on nomenclature and classification of the congenital bicuspid aortic valve and its aortopathy, for clinical, surgical, interventional and research purposes [^ce4e7ff0]. European Journal of Cardio-Thoracic Surgery (2021). High credibility.
+### International consensus statement on nomenclature and classification of the congenital bicuspid aortic valve and its aortopathy, for clinical, surgical, interventional and research purposes [^116GrpMM]. European Journal of Cardio-Thoracic Surgery (2021). High credibility.
 
 Congenital bicuspid aortic valve (BAV) diagnosis by transthoracic echocardiography and pathology — Parasternal short‑axis imaging can show 'the existence of only 2 commissures (asterisks) delimiting only 2 cusps', while parasternal long‑axis imaging 'shows systolic doming of the fused (conjoined) cusp (arrow), common for right-left coronary cusp fusion'. Pathology demonstrates 'the area of the raphe (dashed line) from the left ventricular perspective, forming an obtuse angle between the fused cusps', and a comparator shows 'a tricuspid aortic valve with acquired rheumatic fusion shows the cleavage plane with acute angle (yellow arrow)'.
 
 ---
 
-### Anatomical considerations regarding the location and boundary of the depressor anguli oris muscle with reference to botulinum toxin injection [^3329eb52]. Plastic and Reconstructive Surgery (2014). Low credibility.
+### Anatomical considerations regarding the location and boundary of the depressor anguli oris muscle with reference to botulinum toxin injection [^112JrT2R]. Plastic and Reconstructive Surgery (2014). Low credibility.
 
 Background
 
@@ -935,19 +935,19 @@ These results suggest that the fan-shaped area bounded by LP2, LP3, and the mand
 
 ---
 
-### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^e1f65020]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^116mzwyH]. Journal of the American College of Cardiology (2020). High credibility.
 
 Algorithm for determining eligibility for transcatheter mitral valve (MV) intervention — transthoracic echocardiography (TTE), clinical assessment, and transesophageal echocardiography (TEE) steps are specified, including anatomic thresholds. TTE directs to "Quantitation of MR using integrated methods†; confirm moderately severe or severe MR" and to "Distinguish mechanism of MR: primary versus secondary (versus mixed)". Clinical assessment should "Confirm NYHA status", "Assess adequacy of GDMT, as well as CRT and revascularization when indicated", and "Confirm MDT consensus recommendation for transcatheter treatment". TEE should "Confirm mechanism of MR and location of MR jet(s); exclude perforations and clefts" and "Assess for presence and location of calcification†", and then confirm favorable pathoanatomy. For primary MR, favorable features are "grasping zone ≥ 10 mm and without calcification", "flail width < 15 mm", "flail gap < 10 mm", and "single middle segment prolapse". For secondary MR, favorable features are "grasping zone ≥ 10 mm and without calcification", "coaptation depth < 11 mm", and "coaptation length (overlap length) > 2 mm". When calcification is uncertain, the page advises to "Consider cardiac CT if degree and location of calcification are unclear".
 
 ---
 
-### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^efc47fd8]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 focused update of the 2017 ACC expert consensus decision pathway on the management of mitral Regurgitation: a report of the American college of cardiology solution set oversight committee [^1178U3UB]. Journal of the American College of Cardiology (2020). High credibility.
 
 Mitral regurgitation severity assessment — comprehensive transthoracic echocardiography: Evaluation of MR severity requires a comprehensive TTE and no single echocardiographic parameter should be the sole arbiter; the effects of chronic MR on left ventricle (LV) and left atrium (LA) and pulmonary artery pressure must be considered in an integrative fashion. Clinicians often use color flow Doppler (CFD) to form an initial impression, which should only be a starting point requiring further confirmation using a Bayesian approach that integrates multiple factors. After the initial impression, one should consider whether LA and LV sizes are normal and whether MR is holosystolic; if MR appears severe from a large CFD jet but LA/LV sizes are normal and MR is limited to late systole, the impression is most likely an overestimate. One should consider common reasons for overestimation such as high MR driving velocity and MR duration limited to very early or very late systole. When multiple specific parameters for mild or severe MR align with the initial impression, MR can be correctly graded with high probability, a scenario relatively common in practice, especially with mild MR and a structurally normal mitral valve (MV).
 
 ---
 
-### Isentress [^58c6e69e]. FDA (2024). Medium credibility.
+### Isentress [^113Gcihb]. FDA (2024). Medium credibility.
 
 [Figure B]
 
@@ -975,7 +975,7 @@ Step 7. Swirl the mixing cup to mix using a gentle circular motion for 30–60 s
 
 ---
 
-### Deep learning-assisted comparative analysis of animal trajectories with deepHL [^c62158cc]. Nature Communications (2020). High credibility.
+### Deep learning-assisted comparative analysis of animal trajectories with deepHL [^1164jkSw]. Nature Communications (2020). High credibility.
 
 The maximum distance, which was derived from a finding of DeepHL, is more useful for evaluating the PD symptoms than conventional measures based on the movement speed. Note that the new feature is designed based on an insight drawn from an analysis by deep learning. These results suggest that DeepHL helps find a novel measure not directly linked to the movement speed, that is, a straight-line distance within a certain time window. When the aim of an animal is to visit all locations in an area, the travel distance over a short duration commonly becomes longer. Besides, it is well known that rodents, including mice and rats, spontaneously prefer to explore an environment, particularly in novel places. Thus, DeepHL may capture the fact that the abnormal behavior of the 6-OHDA lesion model of PD hinders such spontaneous behavioral traits of normal mice. Indeed, the 6-OHDA lesion mouse model appears to remain in the same place. Although this hypothesis should be verified based on the causality between behavioral traits and neural activity patterns underlying PD symptoms using neuronal recording together with its optogenetic manipulation in the basal ganglia and motor cortex, it is beyond the scope of this study.
 
@@ -989,13 +989,13 @@ Under isoflurane anesthesia, 6-OHDA (4 mg/ml; Sigma) was injected through the im
 
 ---
 
-### 3D visual guide to lines and stripes in chest radiography [^8deda201]. Radiographics (2023). Medium credibility.
+### 3D visual guide to lines and stripes in chest radiography [^114dR5CL]. Radiographics (2023). Medium credibility.
 
 Chest radiography continues to be the first-line imaging modality for evaluation of the chest. Interpretation is based on the understanding of complex three-dimensional (3D) structural relationships, which are translated into a two-dimensional (2D) plane. These 2D projections form multiple "lines and stripes" on chest radiographs, representing the interfaces between the pulmonary parenchyma, pleura, and normal mediastinal structures. Given the subtlety of overlying tissue and the need to mentally synthesize planar images into three dimensions, structural relationships may be difficult to appreciate. An understanding of these relationships forms the basis of recognizing pathologic conditions and providing an accurate differential diagnosis, which can assist in targeted appropriate further workup. On a 2D radiograph, this means recognizing the normal lines and stripes as well as their appearance when effaced or displaced. Once this abnormality is identified, a focused differential diagnosis can be generated, which can be further narrowed on the basis of other factors, such as patient history or ancillary findings. Three-dimensional cinematic rendering is an innovative tool that can help radiologists grasp these anatomic relationships and discern subtle findings at radiography. This technique allows improved visualization of structures such as the pleura that are difficult to appreciate with traditional imaging modalities. The authors provide an updated review of lines and stripes on chest radiographs, using 3D cinematic rendering as a teaching tool. © RSNA, 2023 Quiz questions for this article are available in the supplemental material.
 
 ---
 
-### Fluid migrations and volcanic earthquakes from depolarized ambient noise [^13ee79e6]. Nature Communications (2021). High credibility.
+### Fluid migrations and volcanic earthquakes from depolarized ambient noise [^111WYsFB]. Nature Communications (2021). High credibility.
 
 Fig. 1
 Maps of resultant lengths and azimuths from ambient noise at Campi Flegrei.
@@ -1004,19 +1004,19 @@ a The resultant length (R) is plotted with a squared interpolation from each sta
 
 ---
 
-### Optimal coil array design: the two-coil case [^202c1833]. Magnetic Resonance Imaging (2007). Low credibility.
+### Optimal coil array design: the two-coil case [^111phR3p]. Magnetic Resonance Imaging (2007). Low credibility.
 
 The optimization problem for coil arrays is largely unsolved, even for the case of a two-coil system. This paper reports a systematic computer simulation to investigate the maximal achievable signal-to-noise ratio (SNR) with a two-coil receiver system where, using cancellation circuitry, mutual inductance is made zero. Both symmetrical and asymmetrical solutions with respect to two-coil geometry are considered. SNR is measured at a single point at a certain depth and also along a longitudinal or transverse line at the same depth. The conducting medium containing these regions of interest is assumed to be an infinite half space, an infinite cylinder or a finite sphere. The previous coil array design using a "magical" overlap only approximates the optimal solution for the infinite half space. For the infinite cylinder and the finite sphere, optimal solutions can be quite different from the "magical" overlap.
 
 ---
 
-### Dynamic imaging of fibrin network formation correlated with other measures of polymerization [^8962ef54]. Blood (2008). Low credibility.
+### Dynamic imaging of fibrin network formation correlated with other measures of polymerization [^114WgY1q]. Blood (2008). Low credibility.
 
 Using deconvolution microscopy, we visualized in real time fibrin network formation in the hydrated state. Individual mobile fibers were observed before the gel point determined by eye. After gelation, an initial fibrin network was seen, which evolved over time by addition of new fibers and elongation and branching of others. Furthermore, some fibers in the network moved for a time. We quantified network formation by number of branch points, and longitudinal and lateral growth of fibers. Eighty percent of branch points were formed, and 70% of all fibers reached their maximum length at the gel point. In contrast, at the gel point, fiber diameter, measured as fluorescence intensity, was less than 25% and turbidity was less than 15% of the maximum values of the fully formed clot. The cumulative percentage of fibers reaching their final length and the number of branch points attained maximum values at 60% of maximum turbidity. Lateral fiber growth reached a plateau at the same time as turbidity. Measurements of clot mechanical properties revealed that the clots achieved maximum stiffness and minimum plasticity after the structural parameters reached their maxima. These results provide new information on the relative time sequence of events during fibrin network formation.
 
 ---
 
-### Theory of branching morphogenesis by local interactions and global guidance [^6de26efd]. Nature Communications (2021). High credibility.
+### Theory of branching morphogenesis by local interactions and global guidance [^113ouhzt]. Nature Communications (2021). High credibility.
 
 To determine how the morphology and shape of a branching structure is affected by local intrinsic vs. global extrinsic cues, we then asked whether the two key parameters of local self-avoidance f s and of external guidance f c could give rise to qualitatively different types of morphologies. Indeed, building a phase diagram of branching morphologies revealed key differences: in the presence of an external, axially oriented (linear) gradient, branched structures adopt triangular shapes, branching in a cone-shape with a well-defined angle that becomes smaller for increasing guidance strength f c (Fig. 1 c). On the other hand, changing the self-avoidance strength f s gave rise to denser branches with increased local alignment, but did not markedly change the overall shape.
 
@@ -1026,7 +1026,7 @@ To back the qualitative insights of the morphology diagram obtained from simulat
 
 ---
 
-### Geospatial mapping of distribution grid with machine learning and publicly-accessible multi-modal data [^c7745818]. Nature Communications (2023). High credibility.
+### Geospatial mapping of distribution grid with machine learning and publicly-accessible multi-modal data [^1166hceT]. Nature Communications (2023). High credibility.
 
 Road modeling and link prediction
 

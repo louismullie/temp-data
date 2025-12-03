@@ -15,51 +15,51 @@ What is the drug used for cardiac stress test?
 
 > Let's see… What do we have here? The user is asking what drug is used for a cardiac stress test. Let's break this down step-by-step. First, I need to think about whether the question refers to exercise-based testing or pharmacologic stress testing. Then, I should verify which pharmacologic agents are FDA-approved and for what indications. Next, I will compare the main drug classes and their mechanisms, and finally, I will synthesize a concise, clinically grounded answer with the most appropriate agent highlighted and caveats noted.
 
-> Let me first confirm the clinical context, because I need to ensure I'm not conflating exercise stress testing with pharmacologic stress testing. Exercise stress testing uses physical exertion and is preferred when patients can achieve adequate workload, whereas pharmacologic stress testing is reserved for those who cannot exercise adequately or have contraindications to exercise, and it relies on drugs to simulate ischemia or increase myocardial oxygen demand [^1d4cfea6] [^f0253bf4].
+> Let me first confirm the clinical context, because I need to ensure I'm not conflating exercise stress testing with pharmacologic stress testing. Exercise stress testing uses physical exertion and is preferred when patients can achieve adequate workload, whereas pharmacologic stress testing is reserved for those who cannot exercise adequately or have contraindications to exercise, and it relies on drugs to simulate ischemia or increase myocardial oxygen demand [^111kSW9j] [^11792Y1q].
 
-> Now, I should verify which drugs are actually approved for pharmacologic stress testing. Regadenoson is FDA-approved specifically for radionuclide myocardial perfusion imaging in patients unable to undergo adequate exercise stress, and it is the most commonly used vasodilator in contemporary practice due to its fixed-dose, rapid bolus administration and favorable operational profile [^2a1b49c4] [^c1e85025] [^2a1b49c4].
+> Now, I should verify which drugs are actually approved for pharmacologic stress testing. Regadenoson is FDA-approved specifically for radionuclide myocardial perfusion imaging in patients unable to undergo adequate exercise stress, and it is the most commonly used vasodilator in contemporary practice due to its fixed-dose, rapid bolus administration and favorable operational profile [^1125ReTD] [^115xUeDJ] [^1125ReTD].
 
-> Wait, let me verify the broader pharmacologic landscape so I don't overgeneralize. Vasodilators such as adenosine and dipyridamole are also FDA-approved for pharmacologic stress MPI and remain valid alternatives, though they require continuous infusion and longer monitoring, which can reduce throughput. Dobutamine is used when vasodilators are contraindicated or for viability assessment, but it is not a vasodilator and is typically reserved for specific scenarios like stress echocardiography or when A2A agonists are unsafe [^ab4b1bc4] [^78b954ce] [^916e2016].
+> Wait, let me verify the broader pharmacologic landscape so I don't overgeneralize. Vasodilators such as adenosine and dipyridamole are also FDA-approved for pharmacologic stress MPI and remain valid alternatives, though they require continuous infusion and longer monitoring, which can reduce throughput. Dobutamine is used when vasodilators are contraindicated or for viability assessment, but it is not a vasodilator and is typically reserved for specific scenarios like stress echocardiography or when A2A agonists are unsafe [^115Nx7RM] [^1145ymMw] [^114icCH3].
 
-> Hold on, I should verify mechanism and why regadenoson is often preferred. Regadenoson is a selective A2A adenosine receptor agonist that produces coronary vasodilation and flow heterogeneity to reveal perfusion defects, with a simpler administration protocol and generally better tolerability than nonselective agents; this operational advantage is reflected in real-world surveys and efficiency studies showing shorter staff time and faster same-day conversion after inadequate exercise [^9f3e01df] [^2a1b49c4] [^a606b37f].
+> Hold on, I should verify mechanism and why regadenoson is often preferred. Regadenoson is a selective A2A adenosine receptor agonist that produces coronary vasodilation and flow heterogeneity to reveal perfusion defects, with a simpler administration protocol and generally better tolerability than nonselective agents; this operational advantage is reflected in real-world surveys and efficiency studies showing shorter staff time and faster same-day conversion after inadequate exercise [^11555rop] [^1125ReTD] [^115F9CL6].
 
-> I need to check safety and contraindications so I don't omit important cautions. Regadenoson and other vasodilators can precipitate ischemia via coronary steal in patients with significant flow-limiting disease, and they are contraindicated in second- or third-degree AV block or sinus node dysfunction without a pacemaker; aminophylline is the appropriate reversal agent if adverse effects occur, and nitroglycerin should be avoided as a reversal because it can worsen steal physiology [^89b92cea] [^dfc7c420].
+> I need to check safety and contraindications so I don't omit important cautions. Regadenoson and other vasodilators can precipitate ischemia via coronary steal in patients with significant flow-limiting disease, and they are contraindicated in second- or third-degree AV block or sinus node dysfunction without a pacemaker; aminophylline is the appropriate reversal agent if adverse effects occur, and nitroglycerin should be avoided as a reversal because it can worsen steal physiology [^114XBW7j] [^116imLbq].
 
-> But wait, what if the user is thinking about exercise testing itself rather than a drug? I should double-check that nuance. Exercise stress testing does not involve a pharmacologic agent; it uses treadmill or bicycle exercise to achieve target heart rate and assess ischemia, symptoms, and functional capacity, and it remains the preferred initial modality when feasible, with pharmacologic stress reserved for those who cannot exercise adequately [^1d4cfea6] [^f0253bf4].
+> But wait, what if the user is thinking about exercise testing itself rather than a drug? I should double-check that nuance. Exercise stress testing does not involve a pharmacologic agent; it uses treadmill or bicycle exercise to achieve target heart rate and assess ischemia, symptoms, and functional capacity, and it remains the preferred initial modality when feasible, with pharmacologic stress reserved for those who cannot exercise adequately [^111kSW9j] [^11792Y1q].
 
-> Putting this together, I should confirm the most precise answer. The drug most commonly used for pharmacologic cardiac stress testing is regadenoson, with adenosine and dipyridamole as approved alternatives for vasodilator stress, and dobutamine as an option when vasodilators are contraindicated or for viability assessment; selection should be individualized based on patient factors, imaging modality, and local expertise [^2a1b49c4] [^78b954ce] [^916e2016].
+> Putting this together, I should confirm the most precise answer. The drug most commonly used for pharmacologic cardiac stress testing is regadenoson, with adenosine and dipyridamole as approved alternatives for vasodilator stress, and dobutamine as an option when vasodilators are contraindicated or for viability assessment; selection should be individualized based on patient factors, imaging modality, and local expertise [^1125ReTD] [^1145ymMw] [^114icCH3].
 
 ---
 
-The drugs used for cardiac stress testing are **vasodilators** (adenosine, dipyridamole, regadenoson) and **dobutamine**. Vasodilators are preferred for myocardial perfusion imaging because they increase coronary flow and reveal ischemia; regadenoson is the most commonly used due to its fixed-dose, single-bolus administration and favorable tolerability [^d6d6b723] [^2a1b49c4]. Dobutamine is used when vasodilators are contraindicated or for viability assessment, as it increases heart rate and contractility to induce ischemia [^916e2016] [^78b954ce]. Exercise stress testing is preferred when feasible; pharmacologic stress is reserved for patients who cannot exercise adequately [^1d4cfea6] [^f0253bf4].
+The drugs used for cardiac stress testing are **vasodilators** (adenosine, dipyridamole, regadenoson) and **dobutamine**. Vasodilators are preferred for myocardial perfusion imaging because they increase coronary flow and reveal ischemia; regadenoson is the most commonly used due to its fixed-dose, single-bolus administration and favorable tolerability [^116VWUJN] [^1125ReTD]. Dobutamine is used when vasodilators are contraindicated or for viability assessment, as it increases heart rate and contractility to induce ischemia [^114icCH3] [^1145ymMw]. Exercise stress testing is preferred when feasible; pharmacologic stress is reserved for patients who cannot exercise adequately [^111kSW9j] [^11792Y1q].
 
 ---
 
 ## Pharmacologic stress agents
 
-Pharmacologic stress agents are used when patients cannot achieve adequate exercise due to physical limitations, comorbidities, or baseline ECG abnormalities [^1bc2b129]. The main classes are **vasodilators** and **inotropes**.
+Pharmacologic stress agents are used when patients cannot achieve adequate exercise due to physical limitations, comorbidities, or baseline ECG abnormalities [^111iA4Wt]. The main classes are **vasodilators** and **inotropes**.
 
 ---
 
 ### Vasodilators
 
-Vasodilators increase coronary blood flow by activating adenosine receptors, creating a flow differential that reveals ischemia in stenosed arteries [^27ece19f].
+Vasodilators increase coronary blood flow by activating adenosine receptors, creating a flow differential that reveals ischemia in stenosed arteries [^1122C5p2].
 
 | **Agent** | **Mechanism of action** | **Administration** | **Clinical considerations** |
 |-|-|-|-|
-| Adenosine | Non-selective adenosine receptor agonist causing coronary vasodilation | Continuous IV infusion (140 µg/kg/min for 4–6 min) | - Short half-life (~10 s) <br/> - Rapid reversal with aminophylline <br/> - Contraindicated in severe bronchospastic disease and significant AV block [^9016193b] |
-| Dipyridamole | Indirectly increases adenosine by inhibiting its reuptake | IV infusion (0.84 mg/kg over 10 min) | - Longer half-life (~30 min) <br/> - Reversal with aminophylline <br/> - Similar contraindications to adenosine [^9016193b] |
-| Regadenoson | Selective A2A adenosine receptor agonist | Fixed-dose IV bolus (0.4 mg over 10 s) | - Single-dose administration <br/> - Weight-independent dosing <br/> - Lower incidence of bronchospasm <br/> - Preferred agent in many centers [^d6d6b723] [^2a1b49c4] |
+| Adenosine | Non-selective adenosine receptor agonist causing coronary vasodilation | Continuous IV infusion (140 µg/kg/min for 4–6 min) | - Short half-life (~10 s) <br/> - Rapid reversal with aminophylline <br/> - Contraindicated in severe bronchospastic disease and significant AV block [^114gce6W] |
+| Dipyridamole | Indirectly increases adenosine by inhibiting its reuptake | IV infusion (0.84 mg/kg over 10 min) | - Longer half-life (~30 min) <br/> - Reversal with aminophylline <br/> - Similar contraindications to adenosine [^114gce6W] |
+| Regadenoson | Selective A2A adenosine receptor agonist | Fixed-dose IV bolus (0.4 mg over 10 s) | - Single-dose administration <br/> - Weight-independent dosing <br/> - Lower incidence of bronchospasm <br/> - Preferred agent in many centers [^116VWUJN] [^1125ReTD] |
 
 ---
 
 ### Inotropes
 
-Inotropes increase myocardial oxygen demand by augmenting heart rate and contractility, thereby unmasking ischemia in patients with coronary artery disease [^78b954ce].
+Inotropes increase myocardial oxygen demand by augmenting heart rate and contractility, thereby unmasking ischemia in patients with coronary artery disease [^1145ymMw].
 
-- **Dobutamine**: Beta-agonist increasing heart rate and contractility; used when vasodilators are contraindicated or for viability assessment. Infusion protocol: 5–40 µg/kg/min with atropine as needed to reach target heart rate [^643fd41f] [^916e2016].
+- **Dobutamine**: Beta-agonist increasing heart rate and contractility; used when vasodilators are contraindicated or for viability assessment. Infusion protocol: 5–40 µg/kg/min with atropine as needed to reach target heart rate [^113ZdCfQ] [^114icCH3].
 
-- **Atropine**: Anticholinergic used with dobutamine to achieve target heart rate when chronotropic response is inadequate [^643fd41f].
+- **Atropine**: Anticholinergic used with dobutamine to achieve target heart rate when chronotropic response is inadequate [^113ZdCfQ].
 
 ---
 
@@ -67,10 +67,10 @@ Inotropes increase myocardial oxygen demand by augmenting heart rate and contrac
 
 Pharmacologic stress testing is indicated when patients cannot perform adequate exercise due to:
 
-- Physical limitations (e.g. orthopedic, neurological, peripheral vascular disease) [^1bc2b129].
-- Baseline ECG abnormalities (e.g. left bundle branch block, ventricular pacing, pre-excitation) [^1bc2b129].
-- Inability to achieve target heart rate or workload despite maximal effort [^1d4cfea6].
-- Specific clinical scenarios (e.g. viability assessment, preoperative evaluation) [^916e2016] [^f0253bf4].
+- Physical limitations (e.g. orthopedic, neurological, peripheral vascular disease) [^111iA4Wt].
+- Baseline ECG abnormalities (e.g. left bundle branch block, ventricular pacing, pre-excitation) [^111iA4Wt].
+- Inability to achieve target heart rate or workload despite maximal effort [^111kSW9j].
+- Specific clinical scenarios (e.g. viability assessment, preoperative evaluation) [^114icCH3] [^11792Y1q].
 
 ---
 
@@ -78,21 +78,21 @@ Pharmacologic stress testing is indicated when patients cannot perform adequate 
 
 Pharmacologic stress testing is generally safe, but clinicians must be aware of contraindications and potential adverse effects:
 
-- **Contraindications**: Severe bronchospastic disease, significant AV block, recent myocardial infarction, unstable angina, severe aortic stenosis, and hypersensitivity to the agent [^89b92cea] [^9016193b].
-- **Adverse effects**: Chest discomfort, dyspnea, flushing, headache, palpitations, hypotension, and rare serious events (myocardial infarction, arrhythmias) [^f4e01d58] [^0f26bf7f].
-- **Monitoring**: Continuous ECG, blood pressure, and symptom assessment are essential during testing [^e734a880].
+- **Contraindications**: Severe bronchospastic disease, significant AV block, recent myocardial infarction, unstable angina, severe aortic stenosis, and hypersensitivity to the agent [^114XBW7j] [^114gce6W].
+- **Adverse effects**: Chest discomfort, dyspnea, flushing, headache, palpitations, hypotension, and rare serious events (myocardial infarction, arrhythmias) [^117G3FsD] [^111PTq6n].
+- **Monitoring**: Continuous ECG, blood pressure, and symptom assessment are essential during testing [^116umpxo].
 
 ---
 
 ## Comparison with exercise stress testing
 
-Exercise stress testing remains the preferred initial modality when feasible because it provides functional capacity, hemodynamic response, and prognostic information [^1d4cfea6] [^f0253bf4]. Pharmacologic stress testing is reserved for patients unable to exercise adequately or when exercise testing is contraindicated [^1bc2b129].
+Exercise stress testing remains the preferred initial modality when feasible because it provides functional capacity, hemodynamic response, and prognostic information [^111kSW9j] [^11792Y1q]. Pharmacologic stress testing is reserved for patients unable to exercise adequately or when exercise testing is contraindicated [^111iA4Wt].
 
 ---
 
 ## Recent advancements and emerging agents
 
-Recent developments include selective A2A agonists (e.g. regadenoson) that improve tolerability and simplify administration, and ongoing research into novel agents and protocols to enhance diagnostic accuracy and patient comfort [^9f3e01df] [^ef7287c7].
+Recent developments include selective A2A agonists (e.g. regadenoson) that improve tolerability and simplify administration, and ongoing research into novel agents and protocols to enhance diagnostic accuracy and patient comfort [^11555rop] [^1177zWar].
 
 ---
 
@@ -102,31 +102,31 @@ The drugs used for cardiac stress testing are **vasodilators** (adenosine, dipyr
 
 ## References
 
-### Pharmacologic stress testing with myocardialPerfusion imaging [^ad385dc0]. Journal of Nuclear Medicine Technology (2017). Low credibility.
+### Pharmacologic stress testing with myocardialPerfusion imaging [^115Ronrb]. Journal of Nuclear Medicine Technology (2017). Low credibility.
 
 The preferred method for performing stress testing with myocardial perfusion imaging is physical exercise. However, many patients are unable to reach an adequate endpoint. As an alternative, various pharmacologic options are available, which are explored in this article.
 
 ---
 
-### Update on pharmacological cardiac stress testing: efficacy, risk stratification and patient selection [^ddf630dd]. The American Journal of Medicine (2014). Low credibility.
+### Update on pharmacological cardiac stress testing: efficacy, risk stratification and patient selection [^116g4xTv]. The American Journal of Medicine (2014). Low credibility.
 
 Despite greater control of risk factors and improved treatments, coronary heart disease (CHD) remains a significant cause of mortality with 1 in every 4 deaths in the United States due to this disorder.(1) Cardiac stress tests have long been one of the most often utilized testing modalities used to identify patients suspected of having CHD, specifically coronary artery disease (CAD). These tests allow for noninvasive assessment of the coronary circulation and its ability to augment flow in response to physiologic demand. As with any diagnostic testing however, potential health risks as well as the financial burden of cardiovascular stress testing, must be weighed against the benefits and utility of the data procured. Given the rapidly evolving field of cardiac stress testing with respect to new risk stratification guidelines, new agents, and new assessment methods, it is difficult for physicians to remain up to date on the latest research and the benefits and risks of different testing modalities. A recent survey of primary care physicians and cardiologists conducted by the Elsevier Office of Continuing Medical Education found that approximately one-quarter of the cardiologists and primary care physicians surveyed do not feel confident identifying the factors which should be considered before ordering a cardiac stress test as part of pre-operative screening for a patient. Additionally, this survey also reported that primary care physicians reported a high degree of confidence in ordering the appropriate cardiac screening tests for patients yet, cardiologists reported that they frequently/somewhat frequently felt the need to change the test ordered by the internist. This educational intervention focuses on patient selection, exercise vs. pharmacologic stress testing, pharmacologic agents, and the importance of patient and doctor communication in ensuring the right test is recommended for the right patient. This CME Multimedia Activity is also available through the Website of The American Journal of Cardiology (www.amjmed.com). Click on the Multimedia button in the navigation bar for full access. Or access: http://elseviercme.com/538.
 
 ---
 
-### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^643fd41f]. Journal of the American Society of Echocardiography (2007). Medium credibility.
+### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^113ZdCfQ]. Journal of the American Society of Echocardiography (2007). Medium credibility.
 
 Pharmacologic stress testing (dobutamine) — In patients who cannot exercise, dobutamine and vasodilator stress are alternatives, and although vasodilators may have advantages for assessment of myocardial perfusion, dobutamine is preferred when the test is based on assessment of regional wall motion. A graded dobutamine infusion starting at 5 μg/kg/min and increasing at 3-minute intervals to 10, 20, 30, and 40 μg/kg/min is the standard for dobutamine stress testing, and inclusion of low-dose stages facilitates recognition of viability and ischemia in segments with abnormal function at rest, even if viability assessment is not the main objective of the test. End points are achievement of target heart rate (defined as 85% of the age-predicted maximum heart rate), new or worsening wall-motion abnormalities of moderate degree, significant arrhythmias, hypotension, severe hypertension, and intolerable symptoms. Atropine, in divided doses of 0.25 to 0.5 mg to a total of 2.0 mg, should be used as needed to achieve target heart rate, increases the sensitivity of dobutamine echocardiography in patients receiving beta-blockers and in those with single-vessel disease, and the minimum cumulative dose needed should be used to avoid the rare complication of central nervous system toxicity. Patients given atropine at the 30-μg/kg/min stage reach target heart rate more quickly using lower doses of dobutamine and with fewer side effects; a beta-blocker may be administered to reverse the side effects of dobutamine, and administration of beta-blockers at peak stress or during recovery may increase test sensitivity. Both dobutamine and exercise echocardiography result in a marked increase of heart rate, but the increment in systolic blood pressure is much less with dobutamine compared with exercise.
 
 ---
 
-### Functional capacity and cardiovascular assessment: submaximal exercise testing and hidden candidates for pharmacologic stress [^a731904f]. The American Journal of Cardiology (2005). Low credibility.
+### Functional capacity and cardiovascular assessment: submaximal exercise testing and hidden candidates for pharmacologic stress [^115GsaeA]. The American Journal of Cardiology (2005). Low credibility.
 
 Submaximal exercise testing is often used to estimate functional capacity in non-athletes, to assess cardiovascular disease in elderly or frail patients, to demonstrate exercise equipment, or to risk-stratify patients after myocardial infarction. However, submaximal exercise testing is not sufficiently sensitive, specific, or predictive to have widespread clinical utility, except in post-myocardial infarction protocols. Many patients for whom submaximal exercise testing is not useful are unable to exercise sufficiently for maximal testing and are referred for imaging with pharmacologic stress. Although some patients who are unable to exercise adequately are easily recognized, many are not. The identification of such patients before they fail a maximal exercise test attempt is beneficial to both the patient and the imaging laboratory.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^27ece19f]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^1122C5p2]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Introduction
 
@@ -138,19 +138,19 @@ The objective of the current study was to evaluate how PSAs are currently used f
 
 ---
 
-### Considerations for stress testing performed in conjunction with myocardial perfusion imaging [^1d4cfea6]. Journal of Nuclear Medicine Technology (2020). Medium credibility.
+### Considerations for stress testing performed in conjunction with myocardial perfusion imaging [^111kSW9j]. Journal of Nuclear Medicine Technology (2020). Medium credibility.
 
 For myocardial perfusion imaging (MPI), the best test to evaluate hemodynamic changes during stress is an exercise treadmill test. It provides independent prognostic value, including evaluation of total exercise time, performance, and capacity; heart rate response during exercise, with ischemia, and in recovery; blood pressure response; myocardial oxygen demand; and assessment of symptoms. Combining these exercise data with perfusion imaging provides the best prognostic value and risk stratification for patients. Although exercise stress testing accompanied by MPI is preferential, it is not always possible since an increasing number of patients cannot exercise to a maximal (symptom-limited) level. Further, there is much evidence in the literature demonstrating a suboptimal, non-symptom-limited (not achieving at least 4–6 min or < 85% of maximum predicted heart rate) exercise test performed as part of an MPI study may result in a false-negative outcome. Therefore, pharmacologic stress agents provide an excellent alternative for those patients who cannot achieve an adequate heart rate response or adequately perform physical exercise. This article focuses on considerations for performing stress (exercise and pharmacologic) testing in conjunction with MPI. It is meant to provide a basic overview of the principles of exercise stress testing; discuss the indications, contraindications, patient preparation, and protocols for exercise stress testing; discuss the contraindications, administration protocols, and side effects for vasodilator (adenosine, dipyridamole, and regadenoson) stress testing; and discuss the contraindications, administration protocols, and side effects for dobutamine stress testing.
 
 ---
 
-### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^bafb846a]. Journal of the American Society of Echocardiography (2007). Medium credibility.
+### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^115nDBNH]. Journal of the American Society of Echocardiography (2007). Medium credibility.
 
 Stress echocardiography — reporting requirements and modality effects — the modality of stress and details of the stress test itself should be considered in interpretation, and the report must include baseline and stress systolic function and segmental wall motion, the protocol used, exercise time or dose of pharmacologic agent, maximum heart rate achieved, adequacy of stress, blood pressure response, reason for test termination, cardiac symptoms during the test, and electrocardiographic changes or significant arrhythmias. In similar extents of coronary artery disease (CAD), stress‑induced decrease in ejection fraction or increase in end‑systolic cavity size are more commonly seen with exercise than with dobutamine stress.
 
 ---
 
-### Adenosine information… [^1169e151]. FDA (2014). Low credibility.
+### Adenosine information… [^111SpMW8]. FDA (2014). Low credibility.
 
 Adenosine is a cardiac drug that is used for the treatment of paroxysmal supraventricular tachycardia including that associated with accessory bypass tracts. Adverse reactions or quality problems experienced with the use of this Product may be reported to the FDA's MedWatch Adverse Event Reporting program using the contact information at the bottom of this page. Related Information
 - **FDA Drug Safety Commnication**: FDA warns of rare but serious risk of heart attack and death with cardiac nuclear stress test drugs Lexiscan and Adenoscan
@@ -159,13 +159,13 @@ Adenosine is a cardiac drug that is used for the treatment of paroxysmal suprave
 
 ---
 
-### American Society of Nuclear Cardiology and Society of Nuclear Medicine and Molecular Imaging joint position statement on the clinical indications for myocardial perfusion PET [^bf11d7d5]. Journal of Nuclear Cardiology (2016). Medium credibility.
+### American Society of Nuclear Cardiology and Society of Nuclear Medicine and Molecular Imaging joint position statement on the clinical indications for myocardial perfusion PET [^115tGdSL]. Journal of Nuclear Cardiology (2016). Medium credibility.
 
 Clinical indications — preferred use: The recommendations "are general in intent and should not be interpreted as either inclusive or exclusive of specific clinical scenarios". Rest–stress myocardial perfusion PET "is a first line preferred test for patients with known or suspected CAD who meet appropriate criteria for a stress imaging test and are unable to complete a diagnostic level exercise stress imaging study", and "There are no clinical scenarios where PET should not be considered a preferred test for patients who meet appropriate criteria for a stress imaging test and who require pharmacologic stress".
 
 ---
 
-### Arm exercise stress testing: diagnostic options in stable coronary artery disease [^93627ab3]. Open Heart (2016). Low credibility.
+### Arm exercise stress testing: diagnostic options in stable coronary artery disease [^114mWFxW]. Open Heart (2016). Low credibility.
 
 Diagnostic and prognostic testing in coronary artery disease (CAD) is a rapidly expanding field and now includes a range of functional tests, imaging modalities and combinations of the two (stress imaging). For patients suspected of having occlusive CAD, current European Society of Cardiology and National Institute for Health and Clinical Excellence guidancerecommends an approach where the probability of obstructive disease and the risk of future events are estimated to determine the next steps. Those at low-risk on the basis of history, examination and basic investigations do not need further assessment, while those at high-risk can proceed directly to treatment, including invasive angiography, if needed. However, for intermediate risk patients, there are a number of options.
 
@@ -173,19 +173,19 @@ Ideally, investigations for this population should be non-invasive, acceptable a
 
 ---
 
-### Current methods of pharmacologic stress testing and the potential advantages of new agents [^ef7287c7]. Journal of Nuclear Medicine Technology (2009). Low credibility.
+### Current methods of pharmacologic stress testing and the potential advantages of new agents [^1177zWar]. Journal of Nuclear Medicine Technology (2009). Low credibility.
 
 This article presents the exciting advances made and ongoing in the area of pharmacologic cardiac stress testing. In particular, new A(2A)-specific receptor agonists work like adenosine but promise the delivery of uncomplicated vasodilator stress testing or the diagnosis and prognosis of coronary disease. These agents, although not perfect, do likely present a level of protection against the complications of bronchospasm and heart block. Phase III studies have shown that these agents promise a reduced symptom intensity and greater patient tolerance. One of these agents, regadenoson, is now Food and Drug Administration approved and will be delivered as the same single-dose bolus in all patients, regardless of weight, greatly simplifying the method and increasing its acceptability. Most widely applied with myocardial perfusion SPECT, these agents will find application with PET myocardial perfusion studies and likely MRI studies. Because of their effect on coronary supply rather than demand, they will not be applied with stress echocardiography. Before considering these agents, we will consider the principles and methods of stress testing, and particularly pharmacologic stress testing. The learning objectives of this article are to familiarize the reader with the methods and choices in stress testing for coronary disease diagnosis and prognosis, to present the advantages and disadvantages of pharmacologic stress testing, to review current pharmacologic stress-testing methods and their specific combination with imaging methods, to present the chemistry and effects of the new A(2a)-specific receptor agonists and their advantages compared with existing nonspecific agents, and to help the reader better understand the clinical role of the A(2a)-specific receptor agonists and their application.
 
 ---
 
-### Trials and tribulations of assessing new Imaging Protocols: combining vasodilator stress with exercise [^4f942d22]. JACC: Cardiovascular Imaging (2018). Low credibility.
+### Trials and tribulations of assessing new Imaging Protocols: combining vasodilator stress with exercise [^1132ynyF]. JACC: Cardiovascular Imaging (2018). Low credibility.
 
 Among all patients referred for stress myocardial perfusion imaging (MPI), a substantial proportion in contemporary practice cannot exercise. Another group of patients are those who are thought to be able to achieve an adequate workload with treadmill (or bicycle) exercise but do not achieve at least 85% of maximum predicted heart rate without developing symptoms. There has been substantial interest and literature on the adjunctive use of vasodilator stress during the same visit to generate best-quality results for patients who do not exercise adequately. Current American Society of Nuclear Cardiology Guidelines recommend the possible use of vasodilator stress agents to supplement exercise in those patients who do not achieve target heart rate. However, optimal timing of administration is not clear. Herein, we summarize literature to date on the combination of vasodilator and exercise stress testing in light of the recently published Exercise to Regadenoson in Recovery Trial (EXERRT).
 
 ---
 
-### Clinical and economic outcomes of pharmacological stress tests in patients with a history of COVID-19 [^b6223a57]. Clinical Cardiology (2023). Medium credibility.
+### Clinical and economic outcomes of pharmacological stress tests in patients with a history of COVID-19 [^115f2F6v]. Clinical Cardiology (2023). Medium credibility.
 
 1 INTRODUCTION
 
@@ -197,19 +197,19 @@ The aim of this study was to assess if a prior COVID‐19 infection was associat
 
 ---
 
-### Advances in pharmacologic stress agents: focus on regadenoson [^9f3e01df]. Journal of Nuclear Medicine Technology (2010). Low credibility.
+### Advances in pharmacologic stress agents: focus on regadenoson [^11555rop]. Journal of Nuclear Medicine Technology (2010). Low credibility.
 
 Myocardial perfusion imaging using radionuclides is a well-established protocol for determining the diagnosis, prognosis, and management of coronary artery disease. Pharmacologic stress agents are used to induce cardiac hyperemia in patients unable to achieve the target workload by physical exercise alone. The vasodilators adenosine and dipyridamole are most commonly used, with dobutamine used only when these agents are contraindicated. However, because of frequent and intense side effects, as well as complex procedures both for patients and the nuclear medicine staff, there is room for improvement in these traditional stress agents. An ideal stress agent would be effective, safe, and well tolerated; have a simple protocol; be suitable for use in patients with reactive airway disease; and have few restrictions for the patient to adhere to before the procedure. Neither adenosine nor dipyridamole are receptor-specific, and act on A(1), A(2A), A(2B), and A(3) adenosine receptors. As it is the A(2A) receptor that mediates the desired coronary vasodilation, the A(1), A(2B), and A(3) adenosine receptors are deemed responsible for most side effects associated with adenosine and dipyridamole. A(2A)-selective pharmacologic stress agents should mediate the required hyperemic response while reducing the frequency of adverse events. The only selective A(2A) adenosine receptor agonist currently approved for clinical use as a pharmacologic stress agent for myocardial perfusion imaging is regadenoson. Regadenoson has demonstrated non-inferiority to adenosine for detecting reversible myocardial perfusion defects in phase 3 trials, and patients were more comfortable during the regadenoson stress procedure than during an adenosine infusion. As regadenoson dosing is not dependent on patient weight or renal impairment and can be administered by rapid injection, it has the potential to simplify the stress procedure, reduce costs, and streamline the working day for the staff of the nuclear medicine department. In this review, the need to improve on older pharmacologic stress agents will be considered, along with an assessment of how A(2A) receptor agonists fulfill that potential. Practical aspects of regadenoson are reviewed, and the impact that A(2A) receptor agonist use may have on the nuclear medicine department is evaluated.
 
 ---
 
-### The role of pharmacological stress testing in women [^00d6554b]. Journal of Nuclear Cardiology (2016). Low credibility.
+### The role of pharmacological stress testing in women [^1112EzYi]. Journal of Nuclear Cardiology (2016). Low credibility.
 
 Pharmacological stress is an alternative method to dynamic exercise that combined with noninvasive imaging allows the detection of flow-limiting coronary artery disease (CAD). It represents the stress procedure of choice in patients who cannot exercise appropriately. In women, pharmacological stress combined with myocardial perfusion scintigraphy (MPS) has demonstrated to be highly accurate for the detection of obstructive CAD and a valuable tool that helps separate patients at low cardiac risk from those with an adverse prognosis. Pharmacological stress with positron emission tomographic (PET) imaging is increasingly used in the investigation of suspected obstructive CAD; available evidence shows that the diagnostic profile and prognostic value of stress PET imaging is similar to that of stress MPS in women.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^07ec2e60]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^111CkF9q]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 New Knowledge Gained
 
@@ -217,7 +217,7 @@ This article provides new information on the efficiency of PSA use for patients 
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^2a1b49c4]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^1125ReTD]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Background
 
@@ -237,55 +237,55 @@ The online version contains supplementary material available at 10.1007/s12350-0
 
 ---
 
-### ASNC imaging guidelines for SPECT nuclear cardiology procedures: stress, protocols, and tracers [^a199dfa9]. Journal of Nuclear Cardiology (2016). Medium credibility.
+### ASNC imaging guidelines for SPECT nuclear cardiology procedures: stress, protocols, and tracers [^1158ah5A]. Journal of Nuclear Cardiology (2016). Medium credibility.
 
 Exercise stress testing — limitations and minimum duration state that exercise stress testing has a lower diagnostic value in patients who cannot achieve an adequate heart rate and blood pressure (BP) response due to a noncardiac physical limitation, and these patients should be considered for pharmacologic stress testing with myocardial perfusion imaging; also, for a meaningful test evaluation, exercise should last at least 4 to 6 minutes.
 
 ---
 
-### Let's get physical: myocardial stress tests – A student's perspective [^8f1f7d77]. Journal of Nuclear Medicine Technology (2020). Medium credibility.
+### Let's get physical: myocardial stress tests – A student's perspective [^114fBomx]. Journal of Nuclear Medicine Technology (2020). Medium credibility.
 
 Myocardial perfusion imaging is a routine study that helps determine whether blood flow to the heart muscle is normal or abnormal. There are 3 parts to myocardial imaging: a resting scan with a radioactive tracer, stressing of the myocardium, and a stress scan with a radioactive tracer. For the resting scan, a radioactive tracer is injected into the patient to obtain a set of images of the myocardium at rest. After the resting scan comes stressing of the myocardium. There are 2 different ways to stress the myocardium. The first is to have the patient exercise on a treadmill following a specific exercise protocol, and the second is to use a pharmacologic stressing agent if the patient cannot exercise. Pharmacologic stressing agents produce coronary artery vasodilation and increased myocardial blood flow. During exercise stress, the heart rate should preferably reach 85% of the maximum heart rate and the patient should be symptomatic or fatigued. The technologist injects the patient with the radioactive tracer at peak stress and then obtains a second set of images. Of the 2 different ways to stress the myocardium, physical stress is preferred to pharmacologic stress.
 
 ---
 
-### Optimizing the assessment of patient clinical risk at the time of cardiac stress Testing [^0abdf42a]. JACC: Cardiovascular Imaging (2020). Medium credibility.
+### Optimizing the assessment of patient clinical risk at the time of cardiac stress Testing [^111GvgR7]. JACC: Cardiovascular Imaging (2020). Medium credibility.
 
 Due to a marked temporal decline in inducible myocardial ischemia over recent decades, most diagnostic patients now referred for cardiac stress testing have nonischemic studies. Among nonischemic patients, however, long-term risk is heterogeneous and highly influenced by a variety of clinical parameters. Herein, we review 8 factors that can govern long-term clinical risk: coronary risk factor burden; patient symptoms; exercise capacity and exercise test responses; the need for pharmacologic stress testing; autonomic function; musculoskeletal status; subclinical atherosclerosis; and psychosocial risk. To capture the clinical benefit provided by both assessing myocardial ischemia and these additional parameters, the authors propose that a cardiac stress tests report have an additional component beyond statements as to the likelihood of obstructive coronary artery disease and/or magnitude of ischemia. This added component could be a comment section designed to make referring physicians aware of aspects of long-term risk that may influence clinical management and potentially lead to changes in the intensity of risk factor management, frequency of follow-up, need for further testing, or other management decisions. In this manner, the increasingly frequent normal stress test result might more commonly influence treatment recommendations and even patient behavior, thus leading to improvement in patient outcomes even in the setting of normal stress test results.
 
 ---
 
-### Exercise stress testing: indications and common questions [^4eb0d7af]. American Family Physician (2017). Low credibility.
+### Exercise stress testing: indications and common questions [^1131fS9k]. American Family Physician (2017). Low credibility.
 
 Exercise stress testing is a validated diagnostic test for coronary artery disease in symptomatic patients, and is used in the evaluation of patients with known cardiac disease. Testing of asymptomatic patients is generally not indicated. It may be performed in select deconditioned adults before starting a vigorous exercise program, but no studies have compared outcomes from preexercise testing vs. encouraging light exercise with gradual increases in exertion. Preoperative exercise stress testing is helpful for risk stratification in patients undergoing vascular surgery or who have active cardiac symptoms before undergoing nonemergent noncardiac surgery. Exercise stress testing without imaging is the preferred initial choice for risk stratification in most women. Sensitivity and specificity increase with the use of adjunctive imaging such as echocardiography or myocardial perfusion imaging with single-photon emission computed tomography. Exercise stress testing is rarely an appropriate option to evaluate persons with known coronary artery disease who have no new symptoms less than two years after percutaneous intervention or less than five years after coronary artery bypass grafting. The Duke treadmill score has excellent prognostic value for exercise stress testing. Imaging is not necessary if patients are able to achieve more than 10 metabolic equivalents on exercise stress testing. Exercise stress testing is not indicated before noncardiac surgeries in patients who can achieve 4 metabolic equivalents without symptoms.
 
 ---
 
-### Update on exercise stress testing [^ac214118]. American Family Physician (2006). Low credibility.
+### Update on exercise stress testing [^115QC3KM]. American Family Physician (2006). Low credibility.
 
 Exercise stress testing is an important diagnostic tool for the evaluation of suspected or known cardiac disease. In 2002, the American College of Cardiology (ACC) and the American Heart Association (AHA) revised their guidelines for exercise testing. Ten categories from the ACC/ AHA 1997 guidelines were modified: ST heart rate adjustment, unstable angina, older patients, acute coronary syndromes, chest pain centers, acute myocardial infarction, asymptomatic patients, valvular heart disease, rhythm disturbances, and hypertension. Adjustment of the ST heart rate can identify myocardial ischemia in asymptomatic patients with elevated cardiac risk. Intermediate- and low-risk patients with unstable angina, acute coronary syndromes, or chest pain should undergo exercise stress testing when clinically stable. Provided they are stable, patients who have had acute myocardial infarction can undergo a submaximal exercise test before discharge or a symptom-limited exercise stress test any time after two to three weeks have elapsed. In asymptomatic patients with cardiac risk factors, the exercise stress test may provide valuable prognostic information. Aortic regurgitation is the only valvular heart disorder in which there is significant evidence that exercise stress testing is useful in management decisions. The stress test also can be used in older patients to identify the presence of coronary artery disease. However, because of other comorbidities, a pharmacologic stress test may be necessary. Exercise stress testing can help physicians successfully evaluate arrhythmia in patients with syncope. The exercise stress test also can help identify patients at risk of developing hypertension if they show an abnormal hypertensive response to exercise.
 
 ---
 
-### 2024 AHA / ACC / ACS / ASNC / HRS / SCA / SCCT / SCMR / SVM guideline for perioperative cardiovascular management for noncardiac surgery: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^f0253bf4]. Journal of the American College of Cardiology (2024). High credibility.
+### 2024 AHA / ACC / ACS / ASNC / HRS / SCA / SCCT / SCMR / SVM guideline for perioperative cardiovascular management for noncardiac surgery: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^11792Y1q]. Journal of the American College of Cardiology (2024). High credibility.
 
 Stress testing — functional capacity thresholds and modality selection: Functional capacity of < 4 METs (for example, patients unable to climb 1–2 flights of stairs or walk on a flat surface at ≥ 3 mph) is associated with increased risk for perioperative cardiac events; in patients with elevated risk for perioperative cardiovascular events and functional capacity < 4 METs or indeterminate functional capacity, a stress test may be considered when high-risk myocardial ischemia is suspected or when there is an indication for testing independent of planned surgery. In general, an exercise stress test is preferable to a pharmacological stress test if the patient is able to exercise, and in patients unable to exercise, selection of a pharmacological stress test modality should be based on patient factors and local availability and expertise; there is, however, limited evidence to support coronary revascularization before NCS in stable patients.
 
 ---
 
-### Non-invasive assessment of low-and intermediate-risk patients with chest pain [^26813bb7]. Trends in Cardiovascular Medicine (2017). Low credibility.
+### Non-invasive assessment of low-and intermediate-risk patients with chest pain [^111z5wNn]. Trends in Cardiovascular Medicine (2017). Low credibility.
 
 Coronary artery disease (CAD) remains a significant global public health burden despite advancements in prevention and therapeutic strategies. Common non-invasive imaging modalities, anatomic and functional, are available for the assessment of patients with stable chest pain. Exercise electrocardiography is a long-standing method for evaluation for CAD and remains the initial test for the majority of patients who can exercise adequately with a baseline interpretable electrocardiogram. The addition of cardiac imaging to exercise testing provides incremental benefit for accurate diagnosis for CAD and is particularly useful in patients who are unable to exercise adequately and/or have uninterpretable electrocardiograms. Radionuclide myocardial perfusion imaging and echocardiography with exercise or pharmacological stress provide high sensitivity and specificity in the detection and further risk stratification of patients with CAD. Recently, coronary computed tomography angiography has demonstrated its growing role to rule out significant CAD given its high negative predictive value. Although less available, stress cardiac magnetic resonance provides a comprehensive assessment of cardiac structure and function and provides a high diagnostic accuracy in the detection of CAD. The utilization of non-invasive testing is complex due to various advantages and limitations, particularly in the assessment of low- and intermediate-risk patients with chest pain, where no single study is suitable for all patients. This review will describe currently available non-invasive modalities, along with current evidence-based guidelines and appropriate use criteria in the assessment of low- and intermediate-risk patients with suspected, stable CAD.
 
 ---
 
-### Guidance and best practices for reestablishment of non-emergent care in nuclear cardiology laboratories during the coronavirus disease 2019 (COVID-19) pandemic: an information statement from ASNC, IAEA, and SNMMI: endorsed by the Infectious Diseases Society of America [^a746ad21]. Journal of Nuclear Cardiology (2020). High credibility.
+### Guidance and best practices for reestablishment of non-emergent care in nuclear cardiology laboratories during the coronavirus disease 2019 (COVID-19) pandemic: an information statement from ASNC, IAEA, and SNMMI: endorsed by the Infectious Diseases Society of America [^115Gzfwv]. Journal of Nuclear Cardiology (2020). High credibility.
 
 Stress laboratory considerations during COVID-19 emphasize droplet exposure reduction and pharmacologic stress: The goals are to perform a safe test for the patient and minimize droplet exposure to healthcare professionals and patients. If possible, consider pharmacologic testing preferably using vasodilator stress agents to decrease droplet exposure risk, especially in patients who are not known to be COVID-19 negative; pharmacologic testing is not inferior to exercise testing in terms of diagnostic performance. Regadenoson may be the preferred stress agent (if available and not contraindicated), since it requires a single 10 second infusion, after which providers can maintain a safe distance from the patient, and for adenosine and dipyridamole stress testing, extra-long tubing can be used to keep distance between staff and patients.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^a863392b]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^115JeFNS]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Results
 
@@ -297,7 +297,7 @@ Characteristics of the nuclear imaging staff and centers are summarized in Table
 
 ---
 
-### Comparison of the current reasons for undergoing pharmacologic stress during echocardiographic and radionuclide stress testing [^b476e207]. Journal of Nuclear Cardiology (2017). Low credibility.
+### Comparison of the current reasons for undergoing pharmacologic stress during echocardiographic and radionuclide stress testing [^115cYhka]. Journal of Nuclear Cardiology (2017). Low credibility.
 
 Background
 
@@ -317,31 +317,31 @@ We have applied a systematic approach for categorizing the reasons for pharmacol
 
 ---
 
-### Should simultaneous exercise become the standard for adenosine myocardial perfusion imaging? [^91432a25]. The American Journal of Cardiology (2004). Low credibility.
+### Should simultaneous exercise become the standard for adenosine myocardial perfusion imaging? [^114iMmLQ]. The American Journal of Cardiology (2004). Low credibility.
 
 Concomitant low-level treadmill exercise with adenosine pharmacologic stress (AdenoEx) during radionuclide myocardial perfusion imaging has become commonly used in recent years, particularly in large-volume laboratories. A number of studies have demonstrated a beneficial impact of AdenoEx protocols. These benefits include decreased side effects, improved safety and patient tolerance, improved target-to-background ratios because of less subdiaphragmatic activity, and improved sensitivity and defect reversibility. In light of these benefits, recent reviews and guidelines call for the addition of low-level exercise to adenosine stress whenever possible.
 
 ---
 
-### Cardiovascular disease and risk management: standards of care in diabetes – 2025 [^5774b2e3]. Diabetes Care (2025). High credibility.
+### Cardiovascular disease and risk management: standards of care in diabetes – 2025 [^113Ef7za]. Diabetes Care (2025). High credibility.
 
 Diabetes — candidates and modalities for cardiac testing: Candidates for advanced noninvasive cardiac testing include those with symptoms or signs of cardiac or vascular disease and an abnormal resting electrocardiogram (ECG). Exercise ECG testing without or with echocardiography may be used as the initial test. In adults with diabetes ≥ 40 years of age, measurement of coronary artery calcium is also reasonable for cardiovascular risk assessment. Pharmacologic stress echocardiography or nuclear imaging should be considered when resting ECG abnormalities preclude exercise stress testing, and individuals unable to exercise should undergo pharmacologic stress echocardiography or nuclear imaging.
 
 ---
 
-### CR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^e734a880]. SNMMI (2024). High credibility.
+### CR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^116umpxo]. SNMMI (2024). High credibility.
 
 Cardiac scintigraphy — physical exercise stress endpoints and medication considerations: For patients who are physically able to exercise, the desired endpoint is a heart rate of at least 85% of the age-predicted maximum predicted heart rate (MPHR) or a workload of at least 5 mets. The patient must be monitored frequently for abnormal change in blood pressure, marked ST changes on the electrocardiogram, development of serious arrhythmias, severe chest pain, or other signs or symptoms of myocardial ischemia. Beta-blocking and calcium-channel-blocking medications often prevent the patient from achieving the desired heart rate and may reduce the sensitivity of the test; depending on the clinical necessity or the clinical question, these agents may need to be discontinued by the patient's physician prior to examination for a time sufficient to obviate their pharmacologic effect.
 
 ---
 
-### ASNC imaging guidelines for nuclear cardiology procedures: standardized reporting of nuclear cardiology procedures [^cf2e776f]. Journal of Nuclear Cardiology (2017). Medium credibility.
+### ASNC imaging guidelines for nuclear cardiology procedures: standardized reporting of nuclear cardiology procedures [^116JA3aN]. Journal of Nuclear Cardiology (2017). Medium credibility.
 
 ASNC standardized reporting — stress testing data specifies core nuclear cardiology stress test fields, including 'Test type' (Text, Required) with responses 'Rest', 'Exercise', 'Pharmacologic', 'Pharmacologic conversion with prior attempted exercise', and 'Pharmacologic with fixed low-level exercise'. 'Pharmacologic stress agent' is recorded (Text, Required) with options 'Adenosine', 'Regadenoson', 'Dipyridamole', 'Dobutamine', 'Dobutamine and Atropine', and 'Other'. 'Indication for pharmacologic stress' captures the 'Reason exercise only is not appropriate' (Text, Required) with responses 'LBBB or pacemaker', 'Unable to exercise adequately', and 'Other'. Dose documentation includes 'Pharmacologic stress dose' (Number, Required; 'Units'). Use of concurrent exercise is documented via 'Adjunctive low-level exercise use' (Text, Required) with 'Yes' or 'No'. Functional capacity is listed as 'Estimated ability to exercise based on daily activities' (Text, Recommended) with response categories 'Less than 4 METS' and 'Greater than or equal to 4 METS' (metabolic equivalents, METS).
 
 ---
 
-### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^c5731637]. Journal of the American Heart Association (2019). Medium credibility.
+### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^1163jDb4]. Journal of the American Heart Association (2019). Medium credibility.
 
 Materials and Methods
 
@@ -357,13 +357,13 @@ The article or abstract was included in this meta‐analysis if it met the follo
 
 ---
 
-### ACR-ACNM-SNMMI-SPR-STR practice parameter for the performance of cardiac positron emission tomography computed tomography (PET / CT) [^2dc1af8c]. SPR/ACNM/STR/SNMMI/ACR (2023). High credibility.
+### ACR-ACNM-SNMMI-SPR-STR practice parameter for the performance of cardiac positron emission tomography computed tomography (PET / CT) [^112AqVz3]. SPR/ACNM/STR/SNMMI/ACR (2023). High credibility.
 
 Cardiac PET/CT practice parameter — goals, CT role, and preferred use — The primary goals of cardiac positron emission tomography/computed tomography (PET/CT) include evaluation of perfusion, function, viability, inflammation, anatomy, and risk stratification for cardiac-related events, and maximum diagnostic accuracy is achieved when images are interpreted with other relevant imaging, clinical information, and laboratory data. In cardiac PET/CT, CT is used for attenuation correction and anatomic coregistration of PET data and may be used for an assessment of coronary calcium most commonly through semi-quantitative analysis. Cardiac PET/CT is a preferred test for patients with suspected or known coronary artery disease who are appropriate for stress imaging and are unable to undergo exercise stress imaging, and it is the preferred test for all patients who are appropriate for pharmacological stress imaging.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^76fa0d9e]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^1143PXgZ]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Factors Related to the Conversion of Patients
 
@@ -380,7 +380,7 @@ Centers were asked about the complexity of administering a PSA following an inad
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^1ace9842]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^111gk57o]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Discussion
 
@@ -388,7 +388,7 @@ Using an online survey, this study sought to characterize the resources, best pr
 
 ---
 
-### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^22ebfde9]. Journal of Nuclear Cardiology (2010). Low credibility.
+### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^111tmr5E]. Journal of Nuclear Cardiology (2010). Low credibility.
 
 Introduction
 
@@ -396,13 +396,13 @@ Stress testing using single-photon emission computed tomography (SPECT) for myoc
 
 ---
 
-### Current advances in vasodilator pharmacological stress perfusion imaging [^94ead758]. Seminars in Nuclear Medicine (2009). Low credibility.
+### Current advances in vasodilator pharmacological stress perfusion imaging [^114on3nP]. Seminars in Nuclear Medicine (2009). Low credibility.
 
 More than 7 million stress perfusion studies are performed in the United States annually, 44% with pharmacological vasodilator stress agents. Both adenosine and dipyridamole are nonselective coronary vasodilators that are commonly used for stress perfusion imaging. These agents are safe and provide an effective means to diagnose coronary artery disease. A newer agent, regadenoson, is an adenosine receptor agonist that is selective for coronary vasodilation. Regadenoson is noninferior to adenosine for the detection of ischemia and is better tolerated by patients. Recent trials such as INSPIRE (Adenosine Sestamibi Post-Infarction Evaluation) and the COURAGE (Results from Clinical Outcomes Utilizing Revascularization and Aggressive Guideline-driven Drug Evaluation) Nuclear Imaging Substudy have established clearly that noninvasive risk stratification with vasodilator testing is an important and appropriate step in guiding medical therapy and invasive coronary intervention.
 
 ---
 
-### Regadenoson in Europe: first-year experience of regadenoson stress combined with submaximal exercise in patients undergoing myocardial perfusion scintigraphy [^1caf2920]. European Journal of Nuclear Medicine and Molecular Imaging (2014). Low credibility.
+### Regadenoson in Europe: first-year experience of regadenoson stress combined with submaximal exercise in patients undergoing myocardial perfusion scintigraphy [^111jXVJ7]. European Journal of Nuclear Medicine and Molecular Imaging (2014). Low credibility.
 
 Introduction
 
@@ -410,7 +410,7 @@ Although dynamic exercise is the preferred form of stress for myocardial perfusi
 
 ---
 
-### The EXERRT trial: "EXErcise to regadenoson in recovery trial": a phase 3b, open-label, parallel group, randomized, multicenter study to assess regadenoson administration following an inadequate exercise stress test as compared to regadenoson without exercise for myocardial perfusion imaging using a SPECT protocol [^1cef77f0]. Journal of Nuclear Cardiology (2017). Low credibility.
+### The EXERRT trial: "EXErcise to regadenoson in recovery trial": a phase 3b, open-label, parallel group, randomized, multicenter study to assess regadenoson administration following an inadequate exercise stress test as compared to regadenoson without exercise for myocardial perfusion imaging using a SPECT protocol [^111ju67Z]. Journal of Nuclear Cardiology (2017). Low credibility.
 
 Introduction
 
@@ -420,7 +420,7 @@ In order to investigate the assessment of reversible perfusion defects (RPDs) an
 
 ---
 
-### Cardiac stress imaging for the prediction of very long-term outcomes: dobutamine stress echocardiography or dobutamineTc-sestamibi SPECT? [^0f52bce8]. Journal of Nuclear Cardiology (2018). Low credibility.
+### Cardiac stress imaging for the prediction of very long-term outcomes: dobutamine stress echocardiography or dobutamineTc-sestamibi SPECT? [^111Pic6K]. Journal of Nuclear Cardiology (2018). Low credibility.
 
 A meta-analysis reported higher annualized cardiac events for patients with normal pharmacological SPECT (1.78%) compared to patients with normal exercise SPECT (0.65%). Several reasons have been attributed for these difference; patients who underwent pharmacological stress SPECT are older, have more co-morbidities and has an increased number of risk factors for CAD. In the current study, we found an annualized hard cardiac event rate of 1.3% for normal dobutamine stress MPI. From a clinical perspective, patients unable to perform exercise tests who have a normal MPI have a good prognosis and could be spared invasive evaluation of the coronary arteries. Based on the current findings, both a normal DSE and a normal stress MPI identified low- and high-risk patient groups. As a consequence, both stress modalities could be used interchangeably in identifying low-risk patient group.
 
@@ -430,13 +430,13 @@ This study has some limitations. First, the prognostic value of gated SPECT was 
 
 ---
 
-### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^9016193b]. Journal of the American Society of Echocardiography (2007). Medium credibility.
+### American Society of Echocardiography recommendations for performance, interpretation, and application of stress echocardiography [^114gce6W]. Journal of the American Society of Echocardiography (2007). Medium credibility.
 
 Vasodilator stress echocardiography — agents, dosing, effects, and contraindications: "Vasodilator stress testing may be performed with adenosine or dipyridamole", with atropine and handgrip used to enhance sensitivity. Typical physiologic responses include "a mild to moderate increase in heart rate and a mild decrease in blood pressure". High‑dose dipyridamole safety is documented at "up to 0.84 mg/kg over 10 minutes", with "significant side effects and minor but limiting side effects" in "about 1%", and hypotension and/or bradycardia treatable with aminophylline. Adenosine is used for contrast perfusion assessment but not widely as a clinical tool, and "both adenosine and dipyridamole are contraindicated in patients with reactive airway obstruction or significant conduction defects".
 
 ---
 
-### A pretest prognostic score to assess patients undergoing exercise or pharmacological stress testing [^a4d705cd]. Heart (2007). Low credibility.
+### A pretest prognostic score to assess patients undergoing exercise or pharmacological stress testing [^115DPCCL]. Heart (2007). Low credibility.
 
 Objective
 
@@ -468,7 +468,7 @@ A pretest score previously validated to stratify according to angiographic outco
 
 ---
 
-### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^a75be74b]. Journal of the American Heart Association (2019). Medium credibility.
+### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^115H7oVC]. Journal of the American Heart Association (2019). Medium credibility.
 
 Conclusions
 
@@ -476,25 +476,25 @@ Results from this meta‐analysis suggest that hs‐cTn rising patterns after ex
 
 ---
 
-### ACC / AHA / ESC 2006 guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force and the European Society of Cardiology committee for practice guidelines (writing committee to develop guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death) [^5d7a6186]. Journal of the American College of Cardiology (2006). Medium credibility.
+### ACC / AHA / ESC 2006 guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force and the European Society of Cardiology committee for practice guidelines (writing committee to develop guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death) [^113PaxP7]. Journal of the American College of Cardiology (2006). Medium credibility.
 
 Stress imaging for silent ischemia in ventricular arrhythmias — recommendations state that exercise testing with an imaging modality (echocardiography or nuclear perfusion single-photon emission computed tomography [SPECT]) is recommended to detect silent ischemia in patients with ventricular arrhythmias who have an intermediate probability of having coronary heart disease (CHD) and in whom ECG assessment is less reliable because of factors including digoxin use, LVH, and greater than 1-mm ST-segment depression at rest, Wolff-Parkinson-White (WPW) syndrome, or left bundle-branch block (LBBB) (Level of Evidence: B); pharmacological stress testing with an imaging modality (echocardiography or myocardial perfusion SPECT) is recommended in similar patients who are physically unable to perform a symptom-limited exercise test (Level of Evidence: B).
 
 ---
 
-### Initial diagnostic evaluation of stable coronary artery disease: the Need for a patient-centered strategy [^5ea3dafd]. Journal of the American Heart Association (2017). Low credibility.
+### Initial diagnostic evaluation of stable coronary artery disease: the Need for a patient-centered strategy [^113RJsek]. Journal of the American Heart Association (2017). Low credibility.
 
 The authors do quote existing guidelines but do not stress that these guidelines offer specific scenarios for some of the recommendations; they also seem to overstate the impact of their findings. It is clear that not all patients with suspected CAD are the same and risk factors, pre‐existing diagnoses, ability to exercise, the interpretability of an ECG, and the purpose of the evaluation should be considered in the selection of noninvasive testing. The European Society of Cardiology Guidelines clearly base noninvasive test selection for the initial diagnosis of CAD on the pretest likelihood of CAD and actually make a Class I recommendation for GXT in patients with an intermediate likelihood of CAD who have an interpretable ECG and can exercise. 3 A virtually identical recommendation is made by the 2012 American College of Cardiology/American Heart Association guidelines, as supported by the appropriate use criteria. 4, 5 Thus, it appears that no guidelines recommend cardiac imaging procedures as the initial test in this population, although the European Society of Cardiology document does indicate that stress imaging is an initial testing option depending on local expertise. Both guidelines suggest stress imaging when the pretest likelihood is higher than intermediate or when the resting ECG is uninterpretable. It also is obvious that GXT cannot be considered the initial testing option when patients are unable to exercise and pharmacologic stress imaging or CCTA would clearly be rational and appropriate. 3, 4 Thus, while GXT may well serve as the first‐line test in some patients, all guidelines indicate that cardiac imaging (stress echocardiography, stress cardiac magnetic resonance, stress radionuclide myocardial perfusion imaging, and CCTA) may be selected and in fact preferable in many patients.
 
 ---
 
-### ACR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^1fe235c2]. STR/NASCI/SPR/ACNM/ACR/SNMMI (2024). High credibility.
+### ACR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^111pGbfP]. STR/NASCI/SPR/ACNM/ACR/SNMMI (2024). High credibility.
 
 Cardiac scintigraphy — patients and preparation states that patients should be evaluated for appropriateness of the test and their ability to undergo physical or pharmacologic stress safely, and that patients who are unable to exercise may be stressed pharmacologically, although pharmacologic stress may also be contraindicated if physical stress is not tolerated for cardiac reasons. All patients undergoing stress should have intravenous access, wear comfortable clothing and shoes, and external attenuating objects should be removed, if possible. Patients should fast for at least 4 hours before stress; they may have sugar‑free beverages before the redistribution phase of a thallium examination but otherwise should remain fasting and not exercise more than is absolutely necessary. Because xanthines interfere with dipyridamole and adenosine, they must be discontinued for 24–48 hours before the examination if these agents are to be used.
 
 ---
 
-### FDA approves imaging drug for evaluation of myocardial ischemia… [^f4e01d58]. FDA (2024). Medium credibility.
+### FDA approves imaging drug for evaluation of myocardial ischemia… [^117G3FsD]. FDA (2024). Medium credibility.
 
 The U. S. Food and Drug Administration has approved Flyrcado in adult patients with known or suspected coronary artery disease to evaluate for myocardial ischemia and infarction. Flyrcado is a cyclotron-produced radioactive diagnostic drug for positron emission tomography myocardial perfusion imaging under rest or stress. Flyrcado is administered by intravenous injection. Effectiveness The efficacy and safety of Flyrcado were evaluated in two prospective, multicenter, open-label clinical studies in adults with either suspected CAD or known or suspected CAD.
 
@@ -504,25 +504,25 @@ Safety Information The most common adverse reactions were dyspnea, headache, ang
 
 ---
 
-### ASNC imaging guidelines for SPECT nuclear cardiology procedures: stress, protocols, and tracers [^1bc2b129]. Journal of Nuclear Cardiology (2016). Medium credibility.
+### ASNC imaging guidelines for SPECT nuclear cardiology procedures: stress, protocols, and tracers [^111iA4Wt]. Journal of Nuclear Cardiology (2016). Medium credibility.
 
 Indications for pharmacologic and vasodilator stress perfusion imaging — The indications for pharmacologic stress testing are similar to those for exercise stress testing except that exercise cannot be adequately performed, and the indications for vasodilator stress perfusion imaging are the same for exercise myocardial perfusion imaging in the presence of the following: (1) inability to perform adequate exercise due to noncardiac physical limitations or due to lack of motivation; (2) baseline electrocardiographic abnormalities including LBBB, ventricular pre-excitation (WPW syndrome), and permanent ventricular pacing; (3) risk stratification of clinically stable patients into low- and high-risk groups after acute myocardial infarction; and (4) diagnosis or risk stratification after emergency department presentation with presumptive acute coronary syndrome excluded by serial clinical evaluation, ECGs, and serum markers. As with exercise testing, anti-ischemic cardiac medications (including β-blockers, nitrates, and calcium antagonists) have been reported to decrease the diagnostic accuracy of vasodilator stress testing.
 
 ---
 
-### Guidelines for the standardization of adult echocardiography reporting: recommendations from the American Society of Echocardiography [^4d539bbe]. Journal of the American Society of Echocardiography (2025). High credibility.
+### Guidelines for the standardization of adult echocardiography reporting: recommendations from the American Society of Echocardiography [^112ye8XF]. Journal of the American Society of Echocardiography (2025). High credibility.
 
 Stress echocardiography report — The report "should include the study date, type of stress test performed (i.e., exercise treadmill, supine bike, pharmacologic), and indication for the test". "The test indication should describe the clinical question being addressed". It specifies that "the imaging protocol should be stated, as well as the exercise time, pharmacologic peak dose, maximum heart rate, systolic blood pressure (BP) response to stress, and if the appropriate level of stress was achieved", and "the adequacy of the workload, such as rate pressure product (RPP), based on age and sex should be included in the report". Additionally, "If cardiac symptoms, electrocardiogram (ECG) changes, or arrhythmias are present and/or if the test needs to be terminated early, the report should note these events", and "At each protocol stage [exercise baseline, post-exercise and pharmacologic (baseline and low, intermediate, and peak dose)], relevant changes in structure, function, and physiology should be reported". The summary statement "should include the presence or absence of myocardial ischemia, ECG evidence of ischemia or dysrhythmia, patient's symptoms during stress, and pertinent baseline echocardiographic findings".
 
 ---
 
-### ACR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^27d236b3]. STR/ACNM/ACR/SNMMI/SPR/NASCI (2024). High credibility.
+### ACR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^112238HQ]. STR/ACNM/ACR/SNMMI/SPR/NASCI (2024). High credibility.
 
 Cardiac scintigraphy — patients and preparation: Patients should be evaluated for appropriateness and ability to undergo physical or pharmacologic stress safely, noting that if a patient is unable to tolerate physical stress for cardiac reasons, pharmacologic stress may also be contraindicated. All patients undergoing stress should have intravenous access, wear comfortable clothing and shoes, and external attenuating objects should be removed if possible. Patients should fast for at least 4 hours before exercise or pharmacologic stress; they may have sugar-free beverages before the redistribution phase of a thallium examination but otherwise should remain fasting and not exercise more than is absolutely necessary. Because xanthines interfere with the pharmacologic effect of dipyridamole and adenosine, they must be discontinued for 24–48 hours before the examination if these agents are to be used.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^9a9d8109]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^114xDzpp]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Regadenoson administration was considered "not at all complex" by a majority of nuclear imaging center staff, who further benefited with respect to reductions in total staff time for each step of the conversion process relative to adenosine and dipyridamole. Compared to adenosine and dipyridamole, use of regadenoson required less nuclear imaging center staff time, which may be due to its convenient administration and rapid onset of action. As a time saving agent, regadenoson is associated with operational efficiency for nuclear imaging staff. This may also impact the overall costs to the center, and the experience of the patient during SPECT-MPI testing.
 
@@ -530,7 +530,7 @@ Observed benefits of regadenoson are consistent with and supplement findings fro
 
 ---
 
-### Comparison of risk stratification with pharmacologic and exercise stress myocardial perfusion imaging: a meta-analysis [^da7b04e3]. Journal of Nuclear Cardiology (2004). Low credibility.
+### Comparison of risk stratification with pharmacologic and exercise stress myocardial perfusion imaging: a meta-analysis [^116aud3G]. Journal of Nuclear Cardiology (2004). Low credibility.
 
 Background
 
@@ -546,13 +546,13 @@ This meta-analysis shows that exercise stress MPI and pharmacologic stress MPI a
 
 ---
 
-### ACR-ACNM-SNMMI-SPR-STR practice parameter for the performance of cardiac positron emission tomography computed tomography (PET / CT) [^3bfc9893]. SPR/STR/ACNM/ACR/SNMMI (2023). High credibility.
+### ACR-ACNM-SNMMI-SPR-STR practice parameter for the performance of cardiac positron emission tomography computed tomography (PET / CT) [^112Xw7bQ]. SPR/STR/ACNM/ACR/SNMMI (2023). High credibility.
 
 ACR–ACNM–SNMMI–SPR–STR cardiac PET/CT — goals and preferred use — The primary goals of cardiac positron emission tomography computed tomography (PET/CT) include evaluation of perfusion, function, viability, inflammation, anatomy, and risk stratification for cardiac-related events such as myocardial infarction and death. Maximum diagnostic accuracy is achieved when images are interpreted in conjunction with other relevant imaging, clinical information, and laboratory data. Cardiac PET/CT is a preferred test for patients with suspected or known coronary artery disease (CAD) who are appropriate for stress imaging and are unable to undergo exercise stress imaging, and it is the preferred test for all patients who are appropriate for pharmacological stress imaging.
 
 ---
 
-### EANM procedural guidelines for radionuclide myocardial perfusion imaging with SPECT and SPECT / CT: 2015 revision [^4eb66d0a]. European Journal of Nuclear Medicine and Molecular Imaging (2015). Low credibility.
+### EANM procedural guidelines for radionuclide myocardial perfusion imaging with SPECT and SPECT / CT: 2015 revision [^1131hJvd]. European Journal of Nuclear Medicine and Molecular Imaging (2015). Low credibility.
 
 Indications
 
@@ -574,13 +574,13 @@ Timeline of regadenoson plus low-level exercise testing. BPM beats per minute
 
 ---
 
-### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^63f82f9e]. Journal of the American Society of Echocardiography (2020). High credibility.
+### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^113ZD8xD]. Journal of the American Society of Echocardiography (2020). High credibility.
 
 Vasodilator stress testing — Stress testing with vasodilators (dipyridamole or adenosine) may be performed for assessment of ischemia, myocardial perfusion, and myocardial viability, but these agents are contraindicated in patients with reactive airway obstruction or severe hypotension. Dipyridamole is safely given up to 0.84 mg/kg over 6 to 10 minutes, and atropine administration or handgrip exercise at peak infusion increases test sensitivity.
 
 ---
 
-### Adenosine to facilitate the clipping of cerebral aneurysms: literature review [^a34080cf]. Stroke and Vascular Neurology (2017). Low credibility.
+### Adenosine to facilitate the clipping of cerebral aneurysms: literature review [^115B2eZL]. Stroke and Vascular Neurology (2017). Low credibility.
 
 Contraindications
 
@@ -592,7 +592,7 @@ Adenosine-induced AV block is due to a direct adenosine effect rather than a man
 
 ---
 
-### A prognostic scoring system for arm exercise stress testing [^dfdb1a3d]. Open Heart (2016). Low credibility.
+### A prognostic scoring system for arm exercise stress testing [^116isqJc]. Open Heart (2016). Low credibility.
 
 Discussion
 
@@ -600,7 +600,7 @@ For the ≥ 50% of patients unable to perform treadmill or other leg exercise, w
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^9a7b153d]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^114x2SFN]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 We acknowledge the limitations of this study. First, obtaining data via an online survey may limit the generalizability of the findings. For example, the nuclear imaging center staff who agreed to participate may have provided responses that are not representative of all US nuclear imaging centers that perform SPECT-MPI using PSAs after inadequate ESTs. Roles varied among survey respondents, and some groups were more represented (e.g. nuclear technicians) than others (e.g. physicians). As a result, the findings may not be broadly generalizable to the less represented roles. Surveying nuclear lab directors only may have produced more generalizable results considering the purpose of this study was to assess resource use in the nuclear lab setting. Regadenoson use was highly represented among survey respondents, while a smaller number of centers that reported using adenosine or dipyridamole responded to the survey. For example, one would expect that adenosine's post-monitoring period would be comparatively short due to the short half-life of the agent. However, the small sample size (only 3 sites collected data for adenosine monitoring time) prevented us from drawing conclusions regarding this counter-intuitive observation. Given this, results associated with adenosine and dipyridamole use should be interpreted carefully, as trends could differ with a larger sample. Additionally, there may be other factors related to the efficiency of PSAs during SPECT-MPI that were not specified in the survey.
 
@@ -608,7 +608,7 @@ In conclusion, regadenoson is preferred by nuclear imaging center staff and asso
 
 ---
 
-### Arm exercise stress testing: diagnostic options in stable coronary artery disease [^a514e3b7]. Open Heart (2016). Low credibility.
+### Arm exercise stress testing: diagnostic options in stable coronary artery disease [^115DjyTc]. Open Heart (2016). Low credibility.
 
 Xie et al recognised that a large proportion of patients referred for stress testing were unable to perform the required exercise for the test due to common comorbidities such as peripheral vascular disease and arthritis. In a previous paperthey demonstrated that, in this population, measures derived from arm exercise ECG stress testing (figure 1) were a feasible alternative to physiological and pharmacological stress imaging with SPECT. In the current paper, published in Open Heart, they used the same retrospective cohort to produce a risk stratification score analogous to that commonly used for treadmill stress testing. The equations produced, incorporating arm exercise capacity, 1 min heart rate recovery and ST segment depression ≥ 1 mm, perform well in predicting future cardiovascular events, cardiovascular mortality and total mortality, especially once adjusted to account for common adverse clinical characteristics.
 
@@ -623,7 +623,7 @@ Finally, the current study is retrospective and the scores created need refineme
 
 ---
 
-### Cardiac stress imaging for the prediction of very long-term outcomes: dobutamine stress echocardiography or dobutamineTc-sestamibi SPECT? [^bab42fa5]. Journal of Nuclear Cardiology (2018). Low credibility.
+### Cardiac stress imaging for the prediction of very long-term outcomes: dobutamine stress echocardiography or dobutamineTc-sestamibi SPECT? [^115moDj2]. Journal of Nuclear Cardiology (2018). Low credibility.
 
 New Knowledge Gained
 
@@ -631,7 +631,7 @@ Dobutamine stress echocardiography and dobutamine stress 99m Tc-sestamibi SPECT 
 
 ---
 
-### Use of downstream stress imaging tests for risk stratification of patients presenting to the emergency department with chest pain and low HEART score [^34c8336e]. Open Heart (2024). Medium credibility.
+### Use of downstream stress imaging tests for risk stratification of patients presenting to the emergency department with chest pain and low HEART score [^112MFbt9]. Open Heart (2024). Medium credibility.
 
 Study design and population
 
@@ -648,13 +648,13 @@ SE results were assessed according to the American Society of Echocardiography g
 
 ---
 
-### CR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^f3559e35]. SNMMI (2024). High credibility.
+### CR-ACNM-NASCI-SNMMI-SPR-STR practice parameter for the performance of cardiac scintigraphy [^117DkkTE]. SNMMI (2024). High credibility.
 
 Cardiac scintigraphy — patient preparation for stress testing includes safety evaluation and fasting: Patients should be evaluated prior to the study for their ability to undergo physical or pharmacologic stress safely. Patients who are unable to exercise may be stressed pharmacologically; however, if a patient is unable to tolerate physical stress for cardiac reasons, pharmacologic stress may also be contraindicated. All patients undergoing stress should have intravenous access and should wear comfortable clothing and shoes, and external attenuating objects should be removed, if possible. Patients should fast for at least 4 hours prior to exercise or pharmacologic stress; they may have sugar-free beverages prior to the redistribution phase of a thallium study but otherwise should remain NPO and not exercise more than is absolutely necessary.
 
 ---
 
-### Regadenoson [^d6d6b723]. FDA (2025). Medium credibility.
+### Regadenoson [^116VWUJN]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -664,19 +664,19 @@ Regadenoson is a pharmacologic stress agent indicated for radionuclide myocardia
 
 ---
 
-### Role of noninvasive testing in the clinical evaluation of women with suspected ischemic heart disease: a consensus statement from the American Heart Association [^bee33ff7]. Circulation (2014). Medium credibility.
+### Role of noninvasive testing in the clinical evaluation of women with suspected ischemic heart disease: a consensus statement from the American Heart Association [^115szyjC]. Circulation (2014). Medium credibility.
 
 Stress myocardial perfusion imaging (MPI) — test selection and radiation considerations in women specify that for rest and stress single photon emission computed tomography (SPECT), the lower-exposure radiotracer Tc-99m should be used, and dual-isotope (rest Tl 201/stress Tc-99m) MPI generally should not be performed in women because of the higher radiation exposure; women capable of maximal exercise should have an exercise MPI, whereas those who are functionally incapable should undergo a pharmacological stress test with 1 of several vasodilator agents (ie, dipyridamole, adenosine, or regadenoson), and when using Rb-82 or [13N]ammonia positron emission tomography (PET), absolute blood flow at rest and stress may be ascertained to provide measurements of myocardial flow reserve.
 
 ---
 
-### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^78b954ce]. Journal of the American Society of Echocardiography (2020). High credibility.
+### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^1145ymMw]. Journal of the American Society of Echocardiography (2020). High credibility.
 
 Stress testing modalities (Table 2) — exercise (bicycle/treadmill), dobutamine, and dipyridamole/adenosine — are contrasted by physiology, test selection, hemodynamics, and contraindications. Exercise preserves integrity of the electro-mechanical response and is the preferred stress for patients who can attain an adequate level of exercise for known or suspected CAD, with systolic blood pressure ↑↑ by 50%. Dobutamine stimulates beta-1 adrenoceptors with the effect of increased heart rate and/or contractility; contraindications include hemodynamically significant LV outflow tract obstruction and severe systemic hypertension (resting systolic blood pressure > 180 mmHg). Vasodilators increase coronary blood flow through effects on adenosine A2A receptors, and myocardial blood flow may be ↑ 3 to 5 times that of resting blood flow; they are the preferred test for myocardial perfusion, with contraindications including pronounced active bronchospastic airway disease.
 
 ---
 
-### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^a606b37f]. Journal of Nuclear Cardiology (2022). Medium credibility.
+### Evaluating the use of pharmacological stress agents during single-photon emission computed tomography myocardial perfusion imaging tests after inadequate exercise stress test [^115F9CL6]. Journal of Nuclear Cardiology (2022). Medium credibility.
 
 Resource use and time
 
@@ -696,13 +696,13 @@ b Administration refers to the process from the start of PSA administration to t
 
 ---
 
-### Preoperative stress testing: new guidelines [^a9a0b345]. Journal of Clinical Anesthesia (2002). Low credibility.
+### Preoperative stress testing: new guidelines [^115LUtKW]. Journal of Clinical Anesthesia (2002). Low credibility.
 
 To date, there are no well controlled trials in the literature that demonstrate an outcome benefit using stress testing as a screening procedure before noncardiac surgery. Perioperative beta-blockade significantly decreases morbidity and mortality, and thus reduces any potential benefit stress testing may have in identifying patients who may advance to more invasive treatment. Preoperative percutaneous coronary intervention has unproven perioperative benefit, and coronary artery bypass graft carries risks that often offset the risk of noncardiac surgery. Unless an outcome benefit from cardiac testing and procedures can be demonstrated in a properly designed trial, their use should generally be restricted to situations in which symptoms or other cardiac findings warrant cardiac evaluation and treatment, regardless of upcoming surgery.
 
 ---
 
-### Liraglutide to improve corONary haemodynamics during exercise streSS (LIONESS): a double-blind randomised placebo-controlled crossover trial [^89a7284f]. Diabetology & Metabolic Syndrome (2021). Medium credibility.
+### Liraglutide to improve corONary haemodynamics during exercise streSS (LIONESS): a double-blind randomised placebo-controlled crossover trial [^114X5T6e]. Diabetology & Metabolic Syndrome (2021). Medium credibility.
 
 Limitations
 
@@ -714,13 +714,13 @@ Pharmacological agents used to replicate exercise stress are more likely to achi
 
 ---
 
-### Multimodality imaging guidelines of patients with transposition of the great arteries: a report from the American Society of Echocardiography developed in Collaboration with the Society for Cardiovascular Magnetic Resonance and the Society of Cardiovascular Computed Tomography [^1b79c90b]. Journal of the American Society of Echocardiography (2016). Medium credibility.
+### Multimodality imaging guidelines of patients with transposition of the great arteries: a report from the American Society of Echocardiography developed in Collaboration with the Society for Cardiovascular Magnetic Resonance and the Society of Cardiovascular Computed Tomography [^111hjaBL]. Journal of the American Society of Echocardiography (2016). Medium credibility.
 
 Exercise and stress echocardiography — overview and practical considerations: The exercise or pharmacologic stress test can be a useful adjunct to the postoperative assessment of a patient with TGA, and stress testing necessitates administering a stressor and evaluating the effects with a sensor such as electrocardiography, echocardiography, SPECT, or CMR. The value of stress echocardiography is assessment of myocardial perfusion, contractile reserve, and general hemodynamics in a nonresting state, but obtaining adequate images during exercise can be challenging; strategies include having the patient hold an exhalation or obtaining images during the immediate recovery phase, and for patients without residual shunts, contrast agents can be given to enhance cardiac opacification. Finally, pharmacologic stress can be used as a surrogate for exercise and will avoid motion and respiratory artifact associated with exercise testing.
 
 ---
 
-### FDA warns of rare but serious risk of heart attack and death with… [^0f26bf7f]. FDA (2016). Low credibility.
+### FDA warns of rare but serious risk of heart attack and death with… [^111PTq6n]. FDA (2016). Low credibility.
 
 The U. S. Food and Drug Administration is warning health care professionals of the rare but serious risk of heart attack and death with use of the cardiac nuclear stress test agents Lexiscan and Adenoscan. We have approved changes to the drug labels to reflect these serious events and updated our recommendations for use of these agents. Health care professionals should avoid using these drugs in patients with signs or symptoms of unstable angina or cardiovascular instability, as these patients may be at greater risk for serious cardiovascular adverse reactions. Lexiscan and Adenoscan are FDA approved for use during cardiac nuclear stress tests in patients who cannot exercise adequately. Lexiscan and Adenoscan help identify coronary artery disease. They do this by dilating the arteries of the heart and increasing blood flow to help identify blocks or obstructions in the heart's arteries.
 
@@ -735,19 +735,19 @@ Lexiscan and Adenoscan cause blood to flow preferentially to the healthier, unbl
 
 ---
 
-### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^5679d7b6]. Journal of the American Society of Echocardiography (2020). High credibility.
+### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^113DCrvR]. Journal of the American Society of Echocardiography (2020). High credibility.
 
 Table 12 — Recommendations for stress echocardiography in patients with symptoms or suspected stable coronary artery disease — non-invasive testing for ischemic heart disease (IHD) states that in suspected stable coronary artery disease (CAD) with intermediate pretest probability and preserved ejection fraction, stress imaging, such as stress echocardiography, is preferred as the initial test option; in patients without typical angina, an imaging stress test is recommended as the initial test for diagnosing stable CAD if the pretest probability is high or if left ventricular ejection fraction (LVEF) is reduced; with resting electrocardiogram (ECG) abnormalities that prevent accurate interpretation of ECG changes during stress, an imaging stress test is recommended; with left bundle branch block (LBBB) and symptoms consistent with IHD, stress echocardiography (either exercise stress echocardiography [ESE] or dobutamine stress echocardiography [DSE]) is preferred over SPECT imaging because of greater specificity and versatility for detecting other cardiac conditions associated with LBBB; for women with an indication for a noninvasive imaging test for known or suspected CAD, stress echocardiography is the preferred test because of safety and greater specificity; for children with suspected IHD, ESE is the preferred imaging stress test because of the absence of radiation, the absence of need for an intravenous line, and the assessment of exercise capacity; a pharmacologic stress test such as DSE is recommended when patients who meet these indications are unable to exercise; in exertional dyspnea of uncertain etiology, stress echocardiography is the preferred test and tricuspid regurgitation velocity and diastolic function should be assessed at rest and with stress; an imaging stress test should be considered in patients with prior percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) and new cardiac symptoms; and an imaging stress test should be considered to assess the functional severity of intermediate lesions on coronary arteriography.
 
 ---
 
-### 2020 ACC clinical competencies for nurse practitioners and physician Assistants in adult Cardiovascular medicine: a report of the ACC competency management committee [^bef59875]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 ACC clinical competencies for nurse practitioners and physician Assistants in adult Cardiovascular medicine: a report of the ACC competency management committee [^115t798Y]. Journal of the American College of Cardiology (2020). High credibility.
 
 Ambulatory and consultative care — patient care and procedural skills additionally cover: Skill to counsel patients about levels of physical activity appropriate to their cardiovascular health status; Skill to counsel patients about cardiovascular disease prevention strategies; Skill to manage patients with chronic ischemic heart disease and associated risk factors; Skill to provide preoperative risk assessment for patients with cardiovascular disease undergoing noncardiac surgery; Skill to recognize ECG and rhythm strip abnormalities; Skills to interpret exercise and pharmacological stress test reports with or without imaging and apply results to clinical decision making; Skill to supervise exercise and pharmacological stress tests with or without imaging, including cardiopulmonary exercise tests; Skill to obtain point-of-care echocardiographic images, including those for assessment of left ventricular function, pericardial effusion, central venous pressure estimation, aortic dimensions, and significant valvular dysfunction.
 
 ---
 
-### Regadenoson (Lexiscan) [^5a9f0263]. FDA (2018). Low credibility.
+### Regadenoson (Lexiscan) [^113KMJ7c]. FDA (2018). Low credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -757,7 +757,7 @@ LEXISCAN®is a pharmacologic stress agent indicated for radionuclide myocardial 
 
 ---
 
-### Clinical and economic outcomes of pharmacological stress tests in patients with a history of COVID-19 [^794bbb6a]. Clinical Cardiology (2023). Medium credibility.
+### Clinical and economic outcomes of pharmacological stress tests in patients with a history of COVID-19 [^1146pwUm]. Clinical Cardiology (2023). Medium credibility.
 
 4 DISCUSSION
 
@@ -767,19 +767,19 @@ In a much smaller single‐center study of 15 patients undergoing SPECT MPI (4 e
 
 ---
 
-### Society of Cardiovascular Computed Tomography expert consensus document on myocardial computed tomography perfusion imaging [^ab4b1bc4]. Journal of Cardiovascular Computed Tomography (2019). High credibility.
+### Society of Cardiovascular Computed Tomography expert consensus document on myocardial computed tomography perfusion imaging [^115Nx7RM]. Journal of Cardiovascular Computed Tomography (2019). High credibility.
 
 Use of pharmacologic stress agents and nitroglycerin in CTP — Only vasodilator stress agents are used; their application in CTP is off‑label, and agent‑specific logistics and tolerability differ, while sublingual nitroglycerin is generally avoided close to stress. Myocardial CTP stress testing uses only vasodilator stress agents at present. Exercise and dobutamine are not practical options for CTP due to the elevated heart rates that would preclude diagnostic imaging with most currently available CT platforms. While there are no agents approved for myocardial CTP, adenosine, dipyridamole, and regadenoson are FDA approved for radionuclide myocardial perfusion imaging. Therefore, their use in CTP imaging is off‑label. Specific considerations for vasodilator stress CTP include the need for two IV's for both continuous infusion of adenosine and contrast injection, while regadenoson and dipyridamole require only one IV for alternating injections. A potential disadvantage of regadenoson is the higher heart rate compared with other vasodilators, which may lead to more motion artifacts during CTP acquisition. However, regadenoson tends to be better tolerated and has been tested in single center CTP studies and a randomized diagnostic accuracy study that compared CTP and SPECT myocardial perfusion imaging. Overall, regadenoson was similarly tolerated in regards to adverse events between CTP and SPECT imaging. Nitroglycerin is commonly used prior to coronary CTA to dilate the coronary arteries and improve image quality and detection of plaque. As it is also a vasodilator, simultaneous administration of nitroglycerin and a vasodilator stress agent can lead to hypotension. A 10–20 min separation between nitroglycerin and vasodilator stress agent administration is recommended to avoid this. As CTP aims to induce a vasodilatory stress physiology in the myocardium, sublingual nitroglycerin is most often avoided prior to stress CTP.
 
 ---
 
-### The clinical use of stress echocardiography in non-ischaemic heart disease: recommendations from the European association of cardiovascular imaging and the American Society of Echocardiography [^3fea4a84]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### The clinical use of stress echocardiography in non-ischaemic heart disease: recommendations from the European association of cardiovascular imaging and the American Society of Echocardiography [^112dkv7V]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Dobutamine stress haemodynamics — systemic, LV, and contractile effects: Dobutamine increases determinants of myocardial oxygen consumption with heart rate "two‑ to three‑fold", end‑diastolic volume "1.2‑fold", and systolic arterial pressure "1.5‑ to 2.0‑fold". Myocardial contractility "increases over four‑fold in normal subjects and much less (so less than two‑fold) in patients with dilated cardiomyopathy". β‑2 receptor activation contributes to "the mild decrease in blood pressure common at higher dobutamine dose". During infusion, left ventricle (LV) end‑systolic volume decreases more than LV end‑diastolic volume while cardiac output rises, and "LV volumes and wall stress increase less with dobutamine" than with exercise.
 
 ---
 
-### Choices in noninvasive cardiac stress testing… [^36ea8895]. AAFP (2002). Low credibility.
+### Choices in noninvasive cardiac stress testing… [^112QR7JL]. AAFP (2002). Low credibility.
 
 Exercise electrocardiography is the most widely available method of cardiac stress testing and the least expensive option, and has been the most extensively researched. Certain subgroups of patients are not appropriate candidates for treadmill testing. Use of beta blockers or other anti-ischemic medications by patients undergoing treadmill testing can lead to erroneous results related to blunting of normal exercise-induced blood pressure and pulse changes, or masking of underlying cardiac ischemia. Ideally, these medications should be stopped several days before testing, although this step may not always be prudent or possible. |Angina and a history of revascularization| Radionuclide imaging is the next most commonly employed modality to screen for cardiac ischemia.
 
@@ -789,25 +789,25 @@ Cost-effectiveness analyses are available but have had conflicting results becau
 
 ---
 
-### Prognostic usefulness of cardiac stress test modalities in patients with type 2 diabetes mellitus who underwent myocardial perfusion scintigraphy (from the basel asymptomatic high-risk diabetics' outcome trial) [^dfca3e11]. The American Journal of Cardiology (2017). Low credibility.
+### Prognostic usefulness of cardiac stress test modalities in patients with type 2 diabetes mellitus who underwent myocardial perfusion scintigraphy (from the basel asymptomatic high-risk diabetics' outcome trial) [^116inAqv]. The American Journal of Cardiology (2017). Low credibility.
 
 Our study aimed to assess predictors of the stress test technique used and to evaluate the impact of exercise level achieved on risk stratification in patients with asymptomatic type 2 diabetes without a previous coronary artery disease. Little is known whether co-morbidities of these patients predict the stress technique and whether physical performance provides risk stratification: 400 patients underwent clinical evaluation and myocardial perfusion scintigraphy (MPS) using physical or pharmacological stress. Physical patients were divided into 2 groups: achieving < 6 and ≥ 6 METs, respectively. The mean follow-up time was 2 years. Major cardiac events (MACEs) included myocardial infarction and/or cardiac death. Independent predictors of pharmacological stress were a body mass index of > 30kg/m 2 (hazard ratio 1.076, 95% confidence interval 1.027 to 1.127, p = 0.002) and a peripheral arterial disease (hazard ratio 2.888, 95% confidence interval 1.446 to 5.769, p = 0.003). Pharmacological patients had more MACE than physical patients (3.2% vs 1.0%, p = 0.03). Patients achieving < 6 METs had a similar MACE rate as pharmacological patients (3.0% vs 3.2%, p = not significant) and more MACE than patients achieving ≥ 6 METs (3.0% vs 0.4%, p = 0.01). In patients achieving < 6 METs and in pharmacological patients, MPS added an incremental prognostic value to pretest information (p values for global chi-square 0.012 and 0.04, respectively). In high-risk asymptomatic diabetic patients, co-morbidities were predictive of the stress technique used. Pharmacological patients had more MACE, similar to those unable to achieve 6 METs. MPS provided an incremental prognostic value in pharmacological patients and in patients with < 6METs. In contrast, patients who were able to achieve ≥ 6 METs were at low risk and do not need further risk stratification.
 
 ---
 
-### Noninvasive cardiac testing [^2268fa76]. American Family Physician (2024). Medium credibility.
+### Noninvasive cardiac testing [^111t1qj3]. American Family Physician (2024). Medium credibility.
 
 For patients with chest discomfort, noninvasive cardiac testing can be used for the diagnosis of acute coronary syndrome and for the evaluation of the risk of future cardiovascular events and disease severity in patients with known coronary artery disease. Clinical prediction rules can guide risk assessment for patients with acute or stable chest discomfort. For acute chest discomfort, patients with low risk do not need urgent testing, and those at high risk should have invasive coronary angiography. For acute chest discomfort in patients at intermediate risk, exercise stress testing can provide useful prognostic information on the likelihood of future mortality and survival despite modest sensitivity and specificity for coronary artery disease. Exercise or pharmacologic stress testing with imaging allows dynamic assessment of ventricular function and perfusion. For stable chest discomfort in patients with low risk, coronary artery calcium scoring can be used to exclude calcified plaque or exercise stress testing can be used for the evaluation of future cardiac risk and prognosis. For stable chest discomfort in patients with intermediate or high risk, exercise stress testing or stress testing with imaging (ie, echocardiography, myocardial perfusion imaging, or cardiac magnetic resonance imaging) may be used for the evaluation for myocardial ischemia.
 
 ---
 
-### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^916e2016]. Journal of the American Society of Echocardiography (2020). High credibility.
+### Guidelines for performance, interpretation, and application of stress echocardiography in ischemic heart disease: from the American Society of Echocardiography [^114icCH3]. Journal of the American Society of Echocardiography (2020). High credibility.
 
 Assessment of contractile reserve for viability — information on viability provided by the resting echocardiogram is often insufficient for clinical decision making, so stress echocardiographic methods that utilize agents to stimulate contraction in dysfunctional but viable myocardium provide more accurate information on the potential for functional recovery. The most widely used method assesses functional responses to dobutamine stimulation, and at low doses the potent inotropic effect of dobutamine can stimulate contraction without a substantial increase in heart rate and oxygen consumption. Dobutamine is the preferred agent for viability assessment, although other agents can be utilized depending on the clinical setting, and excessive increases in myocardial oxygen demand or significant declines in aortic diastolic pressure and coronary driving pressure should be avoided.
 
 ---
 
-### Nuclear cardiology in China: 2017 [^1888aae2]. Journal of Nuclear Cardiology (2017). Low credibility.
+### Nuclear cardiology in China: 2017 [^111dNcG9]. Journal of Nuclear Cardiology (2017). Low credibility.
 
 Pharmacological Stress Tests
 
@@ -815,13 +815,13 @@ Adenosine and regadenoson have not been approved by the China Food and Drug Admi
 
 ---
 
-### Atlas for reporting PET myocardial perfusion imaging and myocardial blood flow in clinical practice: an information statement from the American Society of Nuclear Cardiology [^9a582a4c]. Journal of Nuclear Cardiology (2023). High credibility.
+### Atlas for reporting PET myocardial perfusion imaging and myocardial blood flow in clinical practice: an information statement from the American Society of Nuclear Cardiology [^114wphzj]. Journal of Nuclear Cardiology (2023). High credibility.
 
 Stress testing data — reports should capture required fields with specified datatypes and response options. Test type (text; required) responses include Rest, Exercise, Pharmacologic, Pharmacologic conversion with prior attempt at exercise, Pharmacologic with fixed low-level exercise, and Other. Pharmacologic stress agent (text; required) options include Adenosine, Atropine, Dipyridamole, Dobutamine, Dobutamine and atropine, Regadenoson, Adenosine triphosphate*, and Other. Pharmacologic stress dose is text and required with Units recorded. Pharmacologic stress time is numerical and required with entry format XX:XX min:sec. Exercise protocol (text; required) options include Arm ergometry, Bicycle ergometer, Bruce, Fixed low-level for use in combination with vasodilating agents, Modified Bruce, Modified Naughton, Naughton, Ramp, and Other.
 
 ---
 
-### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^cbed8e5a]. Journal of the American Heart Association (2019). Medium credibility.
+### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^116DLHAy]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background
 
@@ -837,7 +837,7 @@ hs‐cTn rising patterns after exercise and pharmacological stress testing appea
 
 ---
 
-### Factors that impact a patient's experience when undergoing single-photon emission computed tomography myocardial perfusion imaging (SPECT-MPI) in the US: a survey of patients, imaging center staff, and physicians [^7e6e0c48]. Journal of Nuclear Cardiology (2021). Medium credibility.
+### Factors that impact a patient's experience when undergoing single-photon emission computed tomography myocardial perfusion imaging (SPECT-MPI) in the US: a survey of patients, imaging center staff, and physicians [^114ESQR5]. Journal of Nuclear Cardiology (2021). Medium credibility.
 
 Design of survey questionnaire
 
@@ -847,7 +847,7 @@ The order of rating questions within each category and the order of the five cat
 
 ---
 
-### Ischemic heart disease: noninvasive imaging techniques and findings [^b202f5ad]. Radiographics (2021). Medium credibility.
+### Ischemic heart disease: noninvasive imaging techniques and findings [^115Yunpc]. Radiographics (2021). Medium credibility.
 
 Although originally used in research settings, PET MPI usage in clinical practice has increased over the years, secondary to increased radiotracer availability, new camera technologies, and data demonstrating its advantages over other MPI techniques. Unfortunately, despite its increased availability, PET still remains limited and is an expensive examination.
 
@@ -859,19 +859,19 @@ As with other stress perfusion methods, SPECT MPI involves obtaining ECG-gated i
 
 ---
 
-### Guidelines for the management of patients with chronic stable angina: diagnosis and risk stratification [^ac961124]. Annals of Internal Medicine (2001). Low credibility.
+### Guidelines for the management of patients with chronic stable angina: diagnosis and risk stratification [^115QsH1d]. Annals of Internal Medicine (2001). Low credibility.
 
 Patients with suspected chronic stable angina can be evaluated in three stages. In stage one, the clinician uses information from the history, physical examination, laboratory tests for diabetes and hyperlipidemia, and resting electrocardiography to estimate the patient's probability of coronary artery disease (CAD). In stage two, additional testing for patients with a low probability of CAD focuses on diagnosing noncoronary causes of chest pain. Patients with a high probability of CAD have stress tests to assess their risk from CAD, and patients with an intermediate probability of CAD have stress tests to estimate the probability of CAD and assess their risk from CAD. Most patients with new-onset angina can start stress testing with exercise electrocardiography. The initial stress test should be a stress imaging procedure for patients with rest ST-segment depression greater than 1 mm, complete left bundle-branch block, ventricular paced rhythm, preexcitation syndrome, or previous revascularization with percutaneous coronary angioplasty or coronary artery bypass grafting. Patients who cannot exercise can have an imaging procedure with stress induced by pharmacologic agents. In stage three, patients with a predicted average annual cardiac mortality rate between 1% and 3% should have a stress imaging study or coronary angiography with left ventriculography. Those with a known left ventricular dysfunction should have cardiac catheterization. Patients with CAD who have an estimated annual mortality rate greater than 3% should have cardiac catheterization to determine whether their anatomy is suitable for revascularization. Patients with an estimated annual mortality rate less than 1% can begin to receive medical therapy.
 
 ---
 
-### Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation [^20b0f2c0]. Hepatology (2014). Medium credibility.
+### Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation [^111qU3FM]. Hepatology (2014). Medium credibility.
 
 Coronary artery disease (CAD) assessment before liver transplantation (LT) specifies that "noninvasive testing with echocardiography is indicated for all adult LT candidates". Because "patients with advanced liver disease may be unable to achieve the target heart rate during a standard exercise test", "these patients should undergo pharmacological stress with adenosine, dipyridamole, or dobutamine", with catheterization "if CAD cannot be confidently excluded", and "Dobutamine stress echocardiography is frequently used as the initial screening test". Risks are noted: "Cardiac catheterization in a patient with cirrhosis is more likely to result in vascular complications such as bleeding compared to controls without liver disease", and many decompensated patients have "tenuous renal function, increasing the risk of contrast-induced nephropathy". If "significant coronary artery stenosis (> 70% stenosis) is detected, revascularization may be attempted prior to LT, although rigorous proof of benefit in asymptomatic recipients is lacking", and "Cardiac surgery carries an increased risk in patients with cirrhosis, especially with more decompensated disease".
 
 ---
 
-### Regadenoson anhydrous (regadenoson) [^86b50459]. FDA (2025). Medium credibility.
+### Regadenoson anhydrous (regadenoson) [^114Si9Fv]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -881,7 +881,7 @@ Regadenoson injection is a pharmacologic stress agent indicated for radionuclide
 
 ---
 
-### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^05694bc6]. Journal of Nuclear Cardiology (2010). Low credibility.
+### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^11192Jjw]. Journal of Nuclear Cardiology (2010). Low credibility.
 
 Clinical Significance
 
@@ -891,7 +891,7 @@ Our findings also indicate the need for further prospective study to identify th
 
 ---
 
-### Is the dyspnea during adenosine cardiac stress test caused by bronchospasm? [^3cf18815]. American Heart Journal (2001). Low credibility.
+### Is the dyspnea during adenosine cardiac stress test caused by bronchospasm? [^112ZMPKi]. American Heart Journal (2001). Low credibility.
 
 Background
 
@@ -911,7 +911,7 @@ Conclusions
 
 ---
 
-### Lexiscan (r) (regadenoson) [^c1e85025]. FDA (2024). Medium credibility.
+### Lexiscan (r) (regadenoson) [^115xUeDJ]. FDA (2024). Medium credibility.
 
 1 INDICATIONS & USAGE
 
@@ -919,7 +919,7 @@ LEXISCAN® (regadenoson) injection is a pharmacologic stress agent indicated for
 
 ---
 
-### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^c1ab2356]. Journal of the American Heart Association (2019). Medium credibility.
+### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^115x86Rj]. Journal of the American Heart Association (2019). Medium credibility.
 
 Selection of Articles
 
@@ -936,31 +936,31 @@ We applied the NHLBI quality assessment tool for before–after (pre–post) stu
 
 ---
 
-### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^6b3f204f]. Journal of the American Heart Association (2019). Medium credibility.
+### High-sensitivity cardiac troponin after cardiac stress test: a Systematic review and meta-analysis [^113jzsxA]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background The recent introduction of high-sensitivity cardiac troponin (hs-cTn) assays has allowed clinicians to measure hs-cTn before and after cardiac stress testing, but the hs-cTn release pattern and potential utility in identifying inducible myocardial ischemia are unclear. We thus conducted a systematic review and meta-analysis to improve our understanding of hs-cTn release associated with exercise and pharmacological stress testing. Methods and Results Studies published between January 2008 and July 2016 that reported hs-cTn change values (high-sensitivity cardiac troponin T [hs-cTnT] or high-sensitivity cardiac troponin I [hs-cTnI]) in relation to cardiac stress testing were searched and reviewed by 2 independent screeners. Primary outcomes were pooled estimates of absolute and relative hs-cTn changes after cardiac stress test, stratified by the presence of inducible myocardial ischemia. This meta-analysis included 11 studies (n = 2432 patients). After exercise stress testing, hs-cTnT increased by 0.5 ng/L or 11% (6 studies, n = 406) and hs-cTnI by 2.4 ng/L or 41% (4 studies, n = 365) in patients with inducible myocardial ischemia versus hs-cTnT by 1.1 ng/L or 18% (8 studies, n = 629; P = 0.29) and hs-cTnI by 1.8 ng/L or 72% (4 studies, n = 831; P = 0.61) in patients who did not develop inducible myocardial ischemia. After pharmacological stress test, hs-cTnT changed by -0.1 ng/L or -0.4% (6 studies, n = 251) and hs-cTnI by 2.4 ng/L or 32% (2 studies, n = 108) in patients with inducible myocardial ischemia versus hs-cTnT by 0.7 ng/L or 11% (5 studies, n = 443, P = 0.44) and hs-cTnI by 1.7 ng/L or 38% (2 studies, n = 116; P = 0.62) in patients who did not develop inducible myocardial ischemia. Conclusions hs-cTn rising patterns after exercise and pharmacological stress testing appear inconsistent and comparably small, and do not appear to be correlated with inducible myocardial ischemia.
 
 ---
 
-### Cardiac positron emission tomography and the role of adenosine pharmacologic stress [^96f33bb4]. The American Journal of Cardiology (2004). Low credibility.
+### Cardiac positron emission tomography and the role of adenosine pharmacologic stress [^114rnqqV]. The American Journal of Cardiology (2004). Low credibility.
 
 Although single-photon emission computed tomography (SPECT) provides excellent diagnostic and prognostic value in the evaluation of coronary artery disease, its progress has slowed relative to emerging modalities, such as cardiac positron emission tomography (PET). PET imaging provides certain advantages versus SPECT, including higher spatial resolution, improved attenuation correction, and the capability to perform quantitative measurements at the peak of stress. Cardiac PET scanning is a well-validated, reimbursable means to noninvasively assess myocardial perfusion, left ventricular function, and viability by dynamically imaging positron-labeled radiopharmaceuticals in vivo. For the stress portion of rubidium-82 (Rb-82) PET protocols, pharmacologic agents are commonly used because of the short half-life of Rb-82. In light of recent advances in cardiac PET equipment, the expansion of PET/computed tomography scanners, and the resulting potential for streamlined protocols, adenosine may become widely used in electrocardiographic-gated rest-stress acquisition protocols with Rb-82 cardiac PET. With the resolution of technical issues, cardiac PET has an opportunity to become the standard for evaluation of myocardial perfusion in the coming years.
 
 ---
 
-### Detrimental effects of nitroglycerin use during regadenoson vasodilator stress testing: a cautionary tale [^dfc7c420]. Journal of Nuclear Cardiology (2018). Low credibility.
+### Detrimental effects of nitroglycerin use during regadenoson vasodilator stress testing: a cautionary tale [^116imLbq]. Journal of Nuclear Cardiology (2018). Low credibility.
 
 Vasodilator agents such as adenosine and regadenoson are commonly used pharmacologic stressors to assess for ischemia in patients undergoing myocardial perfusion studies. The recommended reversal agent for this mode of stress is aminophylline, although nitroglycerin is commonly administered as an attempt to reverse the symptoms or electrocardiographic (EKG) changes during the stress test. We demonstrate through two cases that incorrect administration of nitroglycerin can induce hypotension and worsen coronary steal, whereas appropriate administration of aminophylline can reverse the effects of pharmacologic vasodilators. While nitroglycerin is often used in patients with organic angina, it has the potential to worsen ischemia in the setting of pharmacologic vasodilator administration. These cases underscore the importance of administering the correct reversal agent for pharmacologic stress tests.
 
 ---
 
-### The clinical use of stress echocardiography in non-ischaemic heart disease: recommendations from the European association of cardiovascular imaging and the American Society of Echocardiography [^c33c0a07]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### The clinical use of stress echocardiography in non-ischaemic heart disease: recommendations from the European association of cardiovascular imaging and the American Society of Echocardiography [^115zSkcN]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Vasodilator stress agents — administration options are detailed: dipyridamole 0.84 mg/kg over 6 min or the same dose over 10 min, or an initial dose of 0.56 mg/kg over 4 min sometimes followed by 4 min of no dose and additional 0.28 mg/kg over 2 min; adenosine 140 μg/kg/min over 4–6 min to a maximum of 60 mg; or regadenoson 0.4 mg over 10 s; these are performed without the administration of atropine.
 
 ---
 
-### Moving toward the optimal test for the assessment of myocardial ischemia [^b1b32597]. Journal of the American Heart Association (2016). Low credibility.
+### Moving toward the optimal test for the assessment of myocardial ischemia [^115YSywc]. Journal of the American Heart Association (2016). Low credibility.
 
 Second, the authors stressed the importance of exercise stress testing to allow reproduction of symptoms and their correlation with ECG and imaging findings, comparison of functional capacity to the extent of ischemia, and use of the Duke treadmill score for prognostication. Unfortunately, they did not provide data on the additional (if any) information obtained by either of the 2 imaging tests on top of the pure exercise information or the contribution of the exercise information (if any) to the results of the imaging tests. In a previous study with incremental testing using an exercise tolerance test and CMR perfusion imaging, 13 the imaging test provided independent value in patients with high pretest likelihood and incremental value in patients with low pretest likelihood and positive exercise tolerance test (ST segments or symptoms) as well as in patients with intermediate pretest likelihood and a negative exercise tolerance test or only positive by symptoms or ST segments. Patients with low pretest likelihood and normal exercise tolerance test or intermediate likelihood and symptomatic and ST‐segment–positive exercise tolerance test did not require additional imaging testing. Performing such an algorithm in the combined setting might be an effective approach. In general, the question of whether pharmacological or physical stress is the better approach remains scientifically unanswered.
 
@@ -970,7 +970,7 @@ In summary, the current study adds multicenter feasibility and reasonable accura
 
 ---
 
-### Lexiscan (r) (regadenoson) [^89b92cea]. FDA (2024). Medium credibility.
+### Lexiscan (r) (regadenoson) [^114XBW7j]. FDA (2024). Medium credibility.
 
 HIGHLIGHTS OR PRESCRIBING INFORMATION
 
@@ -1014,7 +1014,7 @@ WARNINGS AND PRECAUTIONS
 
 ---
 
-### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^c5c1e4ec]. Journal of Nuclear Cardiology (2010). Low credibility.
+### Comparison of long-term mortality risk following normal exercise vs adenosine myocardial perfusion SPECT [^1164Bgt3]. Journal of Nuclear Cardiology (2010). Low credibility.
 
 Background
 

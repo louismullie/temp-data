@@ -61,7 +61,7 @@ A 34-sided polygon has **527 diagonals**, calculated as 34 × 31 / 2 = **527**.
 
 ## References
 
-### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^3bf44056]. Nature Communications (2021). High credibility.
+### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^112XtK2V]. Nature Communications (2021). High credibility.
 
 We observe that in some instances for frustrated odd-numbered polygons, the condensates do not successfully "agree" with each other on which direction to form a current. This leads to a state that does not have a single central vortex but rather forms a vortex–antivortex pair as shown in Fig. 5. Figure 5a, b shows the experimental real-space magnitude of the PL and phase, respectively. The diagonal dashed lines are guide to the eye marking a split in density across the condensate polygon. Figure 5c shows a zoomed-in region corresponding to the black dashed square. A vortex–antivortex pair can be observed with cores separated by ~1 μm. Figure 5d–g shows a corresponding numerical simulation of a condensate steady state with a vortex–antivortex pair, obtained by displacing pump spot number 4 in the pentagon by 2.8 μm radially outwards. Figure 5h shows that the measured phase difference between the vertices 0–1, 1–2, 2–3, and 0–3 is equal to π, whereas the phase of condensate 4 is not well defined due to destructive interference, fracturing it into two parts. Line profiles taken along the black circles in Fig. 5c, f unveil an opposite 2 π phase winding about each of the vortex cores (see Fig. 5i).
 
@@ -72,7 +72,7 @@ Pentagon condensate with a charge m = 2 vortex. a Experimental real-space PL and
 
 ---
 
-### Selective phase separation of transcription factors is driven by orthogonal molecular grammar [^9a1ece60]. Nature Communications (2025). High credibility.
+### Selective phase separation of transcription factors is driven by orthogonal molecular grammar [^114wVSYw]. Nature Communications (2025). High credibility.
 
 Contact map definition
 
@@ -82,7 +82,7 @@ When the contact information is presented based on residue type in a molecule (F
 
 ---
 
-### Prevalence of positional skull deformities in 530 premature infants with a corrected age of up to 6 months: a multicenter study [^81980f66]. BMC Pediatrics (2019). Medium credibility.
+### Prevalence of positional skull deformities in 530 premature infants with a corrected age of up to 6 months: a multicenter study [^114K8Uiy]. BMC Pediatrics (2019). Medium credibility.
 
 Comparison of the incidence of left- and right-sided plagiocephaly
 
@@ -101,13 +101,13 @@ CI, cranial index; DD, diagonal difference; N, number of cases; PD, positional d
 
 ---
 
-### The emergence of geometric order in proliferating metazoan epithelia [^48beb717]. Nature (2006). Excellent credibility.
+### The emergence of geometric order in proliferating metazoan epithelia [^112rrAir]. Nature (2006). Excellent credibility.
 
 The predominantly hexagonal cell pattern of simple epithelia was noted in the earliest microscopic analyses of animal tissues, a topology commonly thought to reflect cell sorting into optimally packed honeycomb arrays. Here we use a discrete Markov model validated by time-lapse microscopy and clonal analysis to demonstrate that the distribution of polygonal cell types in epithelia is not a result of cell packing, but rather a direct mathematical consequence of cell proliferation. On the basis of in vivo analysis of mitotic cell junction dynamics in Drosophila imaginal discs, we mathematically predict the convergence of epithelial topology to a fixed equilibrium distribution of cellular polygons. This distribution is empirically confirmed in tissue samples from vertebrate, arthropod and cnidarian organisms, suggesting that a similar proliferation-dependent cell pattern underlies pattern formation and morphogenesis throughout the metazoa.
 
 ---
 
-### Genome-wide fine-mapping identifies pleiotropic and functional variants that predict many traits across global cattle populations [^677a18e5]. Nature Communications (2021). High credibility.
+### Genome-wide fine-mapping identifies pleiotropic and functional variants that predict many traits across global cattle populations [^113eQjfz]. Nature Communications (2021). High credibility.
 
 Fig. 3
 The estimation of the indictive number of pleiotropic QTL across 34 traits (tr01–tr34) for each chromosome segments.
@@ -120,7 +120,7 @@ We wish to identify a reduced panel of variants that could be used to predict th
 
 ---
 
-### Integrating genetic regulation and single-cell expression with GWAS prioritizes causal genes and cell types for glaucoma [^645aed56]. Nature Communications (2024). High credibility.
+### Integrating genetic regulation and single-cell expression with GWAS prioritizes causal genes and cell types for glaucoma [^113ZnJaq]. Nature Communications (2024). High credibility.
 
 Fig. 2
 Enrichment and colocalization analysis of eQTLs and sQTLs with POAG and IOP associations.
@@ -129,7 +129,7 @@ Quantile-quantile (Q-Q) plots of POAG cross-ancestry (a) and IOP (b) GWAS -log 1
 
 ---
 
-### A universal state and its relaxation mechanisms of long-range interacting polygons [^8b86753c]. Nature Communications (2019). High credibility.
+### A universal state and its relaxation mechanisms of long-range interacting polygons [^114ZrSd9]. Nature Communications (2019). High credibility.
 
 Methods
 
@@ -141,13 +141,13 @@ We confine the particles between two glass plates to form a single-layer 2D syst
 
 ---
 
-### Vigorous convection as the explanation for pluto's polygonal terrain [^f3ee2dfc]. Nature (2016). Excellent credibility.
+### Vigorous convection as the explanation for pluto's polygonal terrain [^117EdzbM]. Nature (2016). Excellent credibility.
 
 Pluto's surface is surprisingly young and geologically active. One of its youngest terrains is the near-equatorial region informally named Sputnik Planum, which is a topographic basin filled by nitrogen (N2) ice mixed with minor amounts of CH4 and CO ices. Nearly the entire surface of the region is divided into irregular polygons about 20–30 kilometres in diameter, whose centres rise tens of metres above their sides. The edges of this region exhibit bulk flow features without polygons. Both thermal contraction and convection have been proposed to explain this terrain, but polygons formed from thermal contraction (analogous to ice-wedges or mud-crack networks) of N2 are inconsistent with the observations on Pluto of non-brittle deformation within the N2-ice sheet. Here we report a parameterized convection model to compute the Rayleigh number of the N2 ice and show that it is vigorously convecting, making Rayleigh-Bénard convection the most likely explanation for these polygons. The diameter of Sputnik Planum's polygons and the dimensions of the 'floating mountains' (the hills of of water ice along the edges of the polygons) suggest that its N2 ice is about ten kilometres thick. The estimated convection velocity of 1.5 centimetres a year indicates a surface age of only around a million years.
 
 ---
 
-### Danger zone assessment in small-sided recreational football: providing data for consideration in relation to COVID-19 transmission [^01df355b]. BMJ Open Sport & Exercise Medicine (2021). High credibility.
+### Danger zone assessment in small-sided recreational football: providing data for consideration in relation to COVID-19 transmission [^1113mxjU]. BMJ Open Sport & Exercise Medicine (2021). High credibility.
 
 What are the new findings?
 
@@ -163,7 +163,7 @@ As football is the most popular sport in the world, reopening of grassroots foot
 
 ---
 
-### Data-driven identification of distinct pain drawing patterns and their association with clinical and psychological factors: a study of 21, 123 patients with spinal pain [^402f99d4]. Pain (2024). Medium credibility.
+### Data-driven identification of distinct pain drawing patterns and their association with clinical and psychological factors: a study of 21, 123 patients with spinal pain [^112eACNo]. Pain (2024). Medium credibility.
 
 2.3.2. Pain drawing characteristics
 
@@ -171,7 +171,7 @@ We identified the following pain drawing characteristics: number of anatomical r
 
 ---
 
-### Clustering by measuring local direction centrality for data with heterogeneous density and weak connectivity [^fcddd465]. Nature Communications (2022). High credibility.
+### Clustering by measuring local direction centrality for data with heterogeneous density and weak connectivity [^117TtPc8]. Nature Communications (2022). High credibility.
 
 Estimation of the number of boundary points for determining T DCM
 
@@ -183,7 +183,7 @@ However, the number of initial boundary points in the whole TIN is not equal to 
 
 ---
 
-### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^f34bd15d]. Nature Communications (2021). High credibility.
+### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^117DhTXi]. Nature Communications (2021). High credibility.
 
 Fig. 2
 Extraction of the g (1) from stationary and circulating states in both a hexagon and heptagon.
@@ -192,7 +192,7 @@ a, b Real- and Fourier-space PL imaging of a hexagon and heptagon in different c
 
 ---
 
-### Invariant and smooth limit of discrete geometry folded from bistable origami leading to multistable metasurfaces [^e4527d16]. Nature Communications (2019). High credibility.
+### Invariant and smooth limit of discrete geometry folded from bistable origami leading to multistable metasurfaces [^116qVtG5]. Nature Communications (2019). High credibility.
 
 Closer examinations in Fig. 5e–i reveal that each panel displays a dominant diagonal about which the panel bends more than the other diagonal. Figure 5f, g is a schematic that shows the difference between an isometrically deformed origami panel and a non-isometrically deformed origami panel, assuming that straight creases remain straight. An isometrically deformed origami panel will display a single curvature because the Gaussian curvature is zero everywhere inside the panel. On the other hand, a non-isometrically deformed origami panel displays double curvature (negative Gaussian curvature) because this deformation mode stores less elastic energy. For the thinner panels as shown in Fig. 5h, by comparing the depth of bending (the black lines), we identify obvious dominant diagonals (AE and E′C) that align with the alternating asymmetric triangulation. In Fig. 5i, we also see that the dominant diagonals are AE and E′C for the thicker hypar model; however, the more in-plane deformation makes the dominant out-of-plane bending diagonals less distinguishable as in the thinner panels.
 
@@ -200,7 +200,7 @@ We collect positional information from the 3D images to compare with the analyti
 
 ---
 
-### Machine learning model for predicting the conversion to dementia using the cube copying test [^cec799ee]. Journal of Alzheimer's Disease (2025). Medium credibility.
+### Machine learning model for predicting the conversion to dementia using the cube copying test [^116HZVbj]. Journal of Alzheimer's Disease (2025). Medium credibility.
 
 Our findings suggest that very early signs of constructional apraxia-like symptoms are already present during the preclinical or MCI stages in individuals who will eventually convert to AD, DLB, or FTD and that these subtle changes can be detected using high-precision AI technology. Visuospatial dysfunction in patients with dementia encompasses difficulties in object recognition, spatial orientation, figure-ground discrimination, visual integration, and visual attention. – These impairments are often reflected in CCT drawings as inappropriate sizes, inaccurate line lengths and shapes, failures in connecting lines or positioning, lack of parallelism, missing elements, unnecessary lines, and distortions or simplifications of three-dimensional structures.–
 
@@ -213,7 +213,7 @@ Characteristics of converters' drawings. (a) Multiple discontinuous, wavy lines 
 
 ---
 
-### Flat square knots: are 3 throws enough? [^b21be78c]. American Journal of Obstetrics and Gynecology (2007). Low credibility.
+### Flat square knots: are 3 throws enough? [^115Z4AnX]. American Journal of Obstetrics and Gynecology (2007). Low credibility.
 
 Objective
 
@@ -233,7 +233,7 @@ Knot failure is decreased by increasing the number of throws for poliglecaprone 
 
 ---
 
-### Principal component analysis revisited: fast multitrait genetic evaluations with smooth convergence [^07cd4d1d]. G3 (2024). Medium credibility.
+### Principal component analysis revisited: fast multitrait genetic evaluations with smooth convergence [^111CZsZe]. G3 (2024). Medium credibility.
 
 Standard singular value decomposition-based PCA
 
@@ -241,7 +241,7 @@ PCA reduces the dimensionality of data while preserving its essential informatio
 
 ---
 
-### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^6de4c478]. Nature Communications (2021). High credibility.
+### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^113ovVU3]. Nature Communications (2021). High credibility.
 
 We provide further evidence on the formation of a circulating polariton current by investigating condensation in the single shot regime where a single instance of the condensate polygon is excited and measured. Figure 3a shows the experimental real-space PL of a frustrated pentagon (N = 5), wherein we observe an even number of interference fringes between neighbouring condensates. Figure 3b shows the Fourier-space PL where we observe an absence of radial nodal lines in contrast to Fig. 1k. We point out that the presence of radial nodal lines in the Fourier space PL would evidence anti-phase locked condensates, corresponding to standing wave formation along the polygon and a zero-net current. Here, however, the lack of nodal lines suggests the presence of a net particle current along the polygons edge. For comparison, we show numerical simulations in Fig. 3e, f of the real- and Fourier-space density of the condensate wavefunction resulting in a stable discrete vortex solution with a winding m = −1. We note that the winding number sign in simulation is stochastically determined from random initial conditions.
 
@@ -252,7 +252,7 @@ Pentagon condensate with a charge m = − 1 vortex. a Experimental real-space PL
 
 ---
 
-### Effect of video monitor size on polyp detection: a prospective, randomized, controlled trial [^cb918bf3]. Gastrointestinal Endoscopy (2019). Medium credibility.
+### Effect of video monitor size on polyp detection: a prospective, randomized, controlled trial [^116CoNgi]. Gastrointestinal Endoscopy (2019). Medium credibility.
 
 Background and Aims
 
@@ -272,13 +272,13 @@ The results of this trial do not support the notion that larger video monitors i
 
 ---
 
-### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^5ef65e9f]. Nature Communications (2021). High credibility.
+### Geometric frustration in polygons of polariton condensates creating vortices of varying topological charge [^113RnbA6]. Nature Communications (2021). High credibility.
 
 Although the frustrated vortex regime can be classified from the nontrivial interference patterns appearing in the real- and Fourier-space PL, it does not concretely verify the presence of a vortex state. We therefore resolve the spatial phase distribution of the vortex using off-axis digital holography(see "Experimental techniques" in "Methods"). During condensation, the vortex formation stochastically results in either clock- or anticlock-wise winding of the phase along the polygon edge. Averaging over several condensate instances would therefore skew direct measurement of the phase. Instead, in order to view the vortex state, we utilise a single condensate realisation detection scheme, whereby each image of the polygon is the result of a single instance of the condensate formation. Figure 3c shows the experimental phase of the condensates with a m = −1 vortex, extracted from its interferogram, where it can be seen to spiral about the polygon's centre. Figure 3d shows a zoomed-in region corresponding to the black dashed square in Fig. 3c. Figure 3g, h show a corresponding real-space phase map from the simulation in Fig. 3e, f. To further verify that the entire condensate possesses a circulating current, we directly measure the phase coming from the bright emission spots at the polygon vertices where most of the condensate resides. The experimentally measured relative phase between neighbouring condensates is demonstrated with black dots in Fig. 3i, which are extracted from the regions denoted by black circles in Fig. 3c. The relative phases are close to the expected vortex value of θ i, i +1 = 2 π /5 (red line) with a maximal deviation of 0.6 radians (blue and green dash-dotted lines). Line profiles taken along the black circles in Fig. 3d, h are shown in Fig. 3j and unveil a full 2 π phase winding about the vortex core, where the experimental data are represented by the coloured disks and the numerical simulation by the black-dotted curve.
 
 ---
 
-### Localized detection and classification of abnormalities on FFDM and tomosynthesis examinations rated under an FROC paradigm [^85d0e35d]. AJR: American Journal of Roentgenology (2011). Low credibility.
+### Localized detection and classification of abnormalities on FFDM and tomosynthesis examinations rated under an FROC paradigm [^114RPWx4]. AJR: American Journal of Roentgenology (2011). Low credibility.
 
 Objective
 
@@ -298,7 +298,7 @@ We showed that DBT-based breast imaging in combination with FFDM could result in
 
 ---
 
-### Higher-order triadic interactions: insights into the multiscale network organization in schizophrenia [^ceb54832]. Human Brain Mapping (2025). Medium credibility.
+### Higher-order triadic interactions: insights into the multiscale network organization in schizophrenia [^116HTLiD]. Human Brain Mapping (2025). Medium credibility.
 
 Compared to pairwise interactions, the number of triple interactions increases by a factor ofif all triple interactions are considered, and the number of triple interactions increases by a factor ofif all unique triple interactions are considered. The computation of all triple interactions for each subject is highly computationally intensive and requires significant time, even when utilizing large cluster servers. For our experiments, we utilized a high‐performance computing system equipped with NVIDIA GTX 1080 Ti GPUs, dual AMD EPYC 7551 32‐core processors (totaling 64 threads), and 350GB of RAM.
 
@@ -311,7 +311,7 @@ Multiscale triadic interactions in brain networks. The higher‐order triadic in
 
 ---
 
-### ScConfluence: single-cell diagonal integration with regularized inverse optimal transport on weakly connected features [^37de2316]. Nature Communications (2024). High credibility.
+### ScConfluence: single-cell diagonal integration with regularized inverse optimal transport on weakly connected features [^112Rpw5X]. Nature Communications (2024). High credibility.
 
 Seurat
 
@@ -323,7 +323,7 @@ We compare scConfluence to Liger using the R package rliger v1.0.0. Liger relies
 
 ---
 
-### Evaluation of clinical prediction models (part 2): how to undertake an external validation study [^4f4df74a]. BMJ (2024). Excellent credibility.
+### Evaluation of clinical prediction models (part 2): how to undertake an external validation study [^1132aDAR]. BMJ (2024). Excellent credibility.
 
 The calibration curve's confidence interval is important to reveal the precision of the calibration assessment. It also quantifies the uncertainty of the actual risk in a group of individuals defined by a particular predicted value. For example, for the group of individuals with an estimated risk of 0.8 in figure 5, the 95% confidence interval around the curve suggests that this group's actual risk is likely between 0.78 to 1.
 
@@ -333,19 +333,19 @@ Calibration plots with calibration curves should also be supplemented with stati
 
 ---
 
-### Multifetal gestations: twin, triplet, and higher-order multifetal pregnancies: ACOG practice bulletin, number 231 [^cc52f840]. Obstetrics and Gynecology (2021). High credibility.
+### Multifetal gestations: twin, triplet, and higher-order multifetal pregnancies: ACOG practice bulletin, number 231 [^116DvLsR]. Obstetrics and Gynecology (2021). High credibility.
 
 Death of one fetus in twin gestation — incidence, risks, and management: In the first trimester, a substantial number of women with multifetal gestations undergo spontaneous reduction of one or more fetuses, commonly referred to as the "vanishing twin", and the probability of this reduction increases with the number of gestational sacs: 36% for twins, 53% for triplets, and 65% for quadruplets; in the second trimester and third trimester, up to 5% of twins and 17% of triplets undergo death of one or more fetuses. Subsequent to the demise of one twin after 14 weeks of gestation, the risk of death of the co-twin is 15% in monochorionic gestations and 3% for dichorionic gestations, and the risk of neurologic abnormality in the surviving twin is greater in monochorionic gestations (18%) versus dichorionic gestations (1%). Although immediate delivery of the co-twin has not been demonstrated to be of benefit, in monochorionic twin gestations in which death of one fetus is identified before 34 weeks of gestation, management should be based on the condition of the mother or surviving fetus; in the absence of another indication, delivery before 34 weeks of gestation is not recommended, and care should be individualized with consultation with a physician with training in maternal–fetal medicine is recommended.
 
 ---
 
-### The expected behaviour of random fields in high dimensions: contradictions in the results of bansal and peterson [^657f9d59]. Magnetic Resonance Imaging (2022). Medium credibility.
+### The expected behaviour of random fields in high dimensions: contradictions in the results of bansal and peterson [^113bUcba]. Magnetic Resonance Imaging (2022). Medium credibility.
 
 Bansal and Peterson (2018) found that in simple stationary Gaussian simulations Random Field Theory incorrectly estimates the number of clusters of a Gaussian field that lie above a threshold. Their results contradict the existing literature and appear to have arisen due to errors in their code. Using reproducible code we demonstrate that in their simulations Random Field Theory correctly predicts the expected number of clusters and therefore that many of their results are invalid.
 
 ---
 
-### What is the best surgeon's knot? Evaluation of the security of the different laparoscopic knot combinations [^80bd5066]. Journal of Minimally Invasive Gynecology (2018). Low credibility.
+### What is the best surgeon's knot? Evaluation of the security of the different laparoscopic knot combinations [^114Hs1Cy]. Journal of Minimally Invasive Gynecology (2018). Low credibility.
 
 Study Objective
 
@@ -373,7 +373,7 @@ A traditional surgical knot (H2H1s) occasionally opens with little force and thu
 
 ---
 
-### Towards a data-integrated cell [^72145394]. Nature Communications (2019). High credibility.
+### Towards a data-integrated cell [^113v8R7q]. Nature Communications (2019). High credibility.
 
 Fixing the number of clusters
 
@@ -387,19 +387,19 @@ The idea is to choose the value of k such that the obtained clusters are the mos
 
 ---
 
-### VA / DoD clinical practice guideline for management of bipolar disorder [^127e0c9a]. DoD/VA (2023). High credibility.
+### VA / DoD clinical practice guideline for management of bipolar disorder [^111UR7i9]. DoD/VA (2023). High credibility.
 
 VA/DoD Clinical Practice Guideline — bipolar disorder algorithm structure and legend define a step-by-step decision tree with standardized symbols and arrows connecting numbered boxes indicating the order in which the steps should be followed; it includes steps of care in an ordered sequence, decisions to be considered, decision criteria recommended, and actions to be taken. Rounded rectangles represent a clinical state or condition; hexagons represent a decision point in the process of care, formulated as a question that can be answered "Yes" or "No".; rectangles represent an action in the process of care; and ovals represent a link to another section within the algorithm. Sidebars 1–7 provide more detailed information to assist in defining and interpreting elements in the boxes, and Appendix M contains alternative text descriptions of the algorithm.
 
 ---
 
-### The management of major depressive disorder: synopsis of the 2022 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^3528b93a]. Annals of Internal Medicine (2022). High credibility.
+### The management of major depressive disorder: synopsis of the 2022 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^112Mp2J5]. Annals of Internal Medicine (2022). High credibility.
 
 Algorithm for major depressive disorder (MDD) — this CPG's algorithm is designed to facilitate understanding of the clinical pathway and decision making process used in managing patients with MDD; it represents a simplified flow of the management of patients with MDD and helps foster efficient decision making by providers; it includes an ordered sequence of steps of care, decisions to be considered, recommended decision criteria, and actions to be taken; the algorithm is a step-by-step decision tree with standardized symbols and arrows connecting numbered boxes indicating the order in which steps should be followed, and sidebars provide more detailed information; shape legend: rounded rectangles represent a clinical state or condition, hexagons represent a decision point formulated as a question that can be answered "Yes" or "No", rectangles represent an action in the process of care, and ovals represent a link to another section within the algorithm; Appendix G contains alternative text descriptions of the algorithm.
 
 ---
 
-### An exact arithmetic toolbox for a consistent and reproducible structural analysis of metabolic network models [^a0e79d55]. Nature Communications (2014). Medium credibility.
+### An exact arithmetic toolbox for a consistent and reproducible structural analysis of metabolic network models [^1157YpJg]. Nature Communications (2014). Medium credibility.
 
 Essential and synthetic lethal reactions
 
@@ -409,14 +409,14 @@ A pair of reactions is called synthetic lethal if neither of them is essential, 
 
 ---
 
-### Mono-planar T-Hex: speed and flexibility for high-resolution 3D imaging [^e6b14d76]. Magnetic Resonance in Medicine (2022). Medium credibility.
+### Mono-planar T-Hex: speed and flexibility for high-resolution 3D imaging [^116u1hx1]. Magnetic Resonance in Medicine (2022). Medium credibility.
 
 FIGURE 1
 A, Gray dots depict part of the hexagonal grid in a transverse section of a stack of spirals or echo‐planar readouts. Blue dots mark the revolutions acquired within a shot for N = 1, 2, and 3 shots per k‐space plane. B, The hexagonal grid is described by oblique coordinates. All existing distances between grid points are represented in distances of the origin to points in one dodecant (yellow wedge), including its edges. Blue rings mark the distances reflected in (A), and the red ring highlights a distance not available with integer N. C, This distance is used when tilting the grid with respect to the rotational axis of the stack. The FE lines or spiral revolutions acquired in three subsequent shots are highlighted in red, orange, and yellow. D, The hexagonal grid is tilted as shown in (C). Red and yellow dots mark the points of the hexagonal grid that are covered by two subsequent shots. Green lines in the background show that all points of the hexagonal grid lie on nodes of a finer, rectilinear lattice, from which the starting angle of each spiral shot can be derived. Subsequent shots start with linearly progressing angles. The pattern is repetitive. E, Background: An entire mono‐planar T‐Hex stack of spirals cut open. The uppermost shot and the sites of puncture of the spirals are marked in dark gray. The resulting hexagonal grid shows the tilt as visualized in (C) and (D). In a representative patch, grid points that belong to spiral shots with the same phasing are colored the same. Foreground: Cross‐section corresponding to the stack in the upper panel, the acquisition time point is color‐coded, indicating a smoothfilter. Owing to the cross‐sectional depiction, "holes" appear on the central k‐space axis. In fact, this region is equally uniformly sampled, since all spirals start from the rotational axis of the cylinder
 
 ---
 
-### Finding defects in glasses through machine learning [^fb0d1f69]. Nature Communications (2023). High credibility.
+### Finding defects in glasses through machine learning [^117RCJPJ]. Nature Communications (2023). High credibility.
 
 We conclude that even though the number of recorded transitions is the most important feature to predict which pair forms a double well, as seen in Fig. 5 b, a filter based solely on them still misses many pairs of interest and therefore is not the most efficient.
 
@@ -426,13 +426,13 @@ Finally, if one is interested in identifying TLS in a 'quick and dirty' way, we 
 
 ---
 
-### Parafermions in moiréminibands [^9d4a5fca]. Nature Communications (2025). High credibility.
+### Parafermions in moiréminibands [^1152C3Aq]. Nature Communications (2025). High credibility.
 
 In this work, we provide numerical evidence showing that the non-Abelian RR FCI at 3/5 filling can be realized in a moiré system. In particular, we perform many-body exact diagonalization on an exemplary moiré flat band based on a double twisted bilayer graphene (dTBG) model with tunable quantum geometry. First, we obtain the expected number of degenerate ground states appearing at momenta fulfilling the generalized Haldane statistics. After that, we verify the persistence of the many-body energy gap upon insertion of magnetic flux (i.e. twisted boundary conditions) and find that, on average, each ground state has a many-body Chern number of 3/5. More strikingly, we show that the state counting in the low-energy sector of the particle-cut entanglement spectrum (PES) exactly matches the number of allowed quasi-hole excitations. In addition, we find that the RR phase is destroyed when the average quantum metric of the considered flat band approaches asymptotically the ideal value for the second Landau level (LL), highlighting both the usefulness and the limitations of this quantity as a heuristic indicator for the emergence of non-Abelian phases. Finally, we show that the RR phase is less stable at 2/5 filling but still present — as reflected in the quasi-particle excitations accessed through the hole entanglement spectrum —, signaling the robustness of moiré-based parafermion FCIs.
 
 ---
 
-### Realizing tight-binding hamiltonians using site-controlled coupled cavity arrays [^111523e9]. Nature Communications (2023). High credibility.
+### Realizing tight-binding hamiltonians using site-controlled coupled cavity arrays [^111SKtdv]. Nature Communications (2023). High credibility.
 
 Note that, we assume thatis translationally invariant, and hence the number of functional parametersandneeded to model the device behavior can be restricted to 3 and 12 respectively.
 
@@ -445,7 +445,7 @@ a Visualization of the optimization process depicting how the model takes in the
 
 ---
 
-### Finding spatially variable ligand-receptor interactions with functional support from downstream genes [^77717180]. Nature Communications (2025). High credibility.
+### Finding spatially variable ligand-receptor interactions with functional support from downstream genes [^11445dbD]. Nature Communications (2025). High credibility.
 
 Methods
 
@@ -457,7 +457,7 @@ We first evaluate the interaction capacity for spot by the total expression of l
 
 ---
 
-### Predicting the frequencies of drug side effects [^0d801a96]. Nature Communications (2020). High credibility.
+### Predicting the frequencies of drug side effects [^111M1sL1]. Nature Communications (2020). High credibility.
 
 The objective function and decomposition algorithm
 
@@ -471,7 +471,7 @@ Following the guidelines to implement NMF, a small number ε = 10⁻¹⁶ was ad
 
 ---
 
-### FDA oral history interview, trepagnier-FDA and hurricane katrina… [^88b5cb6b]. FDA (2025). Medium credibility.
+### FDA oral history interview, trepagnier-FDA and hurricane katrina… [^114VgNyG]. FDA (2025). Medium credibility.
 
 stilts, so they were like eight feet, 10 feet above the water, regular water line. But the water had come up so high, it had totally just washed them all — every last one of them were gone along. And this was like not a major hurricane. This was just like a 1 or 2. say, like the late '50s and '60s were raised. They were on piers up off the ground. And our house was probably like two feet, two and a half feet on piers. And then I had, during the course of living there, I had bought the house next door. when the old lady died, because it was a rental double, and when she died, I bought that house, and it was a ranch-style flat right on the ground. And I had a friend of mine living on one side, and this old lady that had been living there for years was living on the other. JS: The 29th is when it made landfall, on Monday, Monday the 29th. TT: Twenty-seventh. So this was the 27th, that night.
 
@@ -481,7 +481,7 @@ I'd gone to her house after the hurricane, several months later, and it was pret
 
 ---
 
-### Task-induced brain state manipulation improves prediction of individual traits [^e515be89]. Nature Communications (2018). Medium credibility.
+### Task-induced brain state manipulation improves prediction of individual traits [^116rdU9W]. Nature Communications (2018). Medium credibility.
 
 Finally, to explicitly explore the macroscale networks related to gF and perturbed by each task, we assigned each edge in m +, int and m −, int to a pair of canonical networks (i.e. edge (i, j) would be assigned to the network that includes node i and the network that includes node j; see Functional parcellation and network definition for an explanation of the canonical networks). Edge counts were normalized to account for network sizes as follows:whereandrepresent the relative contributions of connections between canonical networks A and B to the intersection CN and AN, respectively; andare the numbers of edges between A and B in the intersection CN and AN, respectively; andare the total numbers of edges in the intersection CN and AN, respectively; E A, B is the number of edges between A and B in the whole brain; and E tot is the total number of edges in the whole brain. Because these analyses do not evaluate network overlap and sparse networks facilitate interpretation of results, these steps were performed on networks generated with an edge-selection threshold of P < 0.001. Assignments are visualized in a 10 × 10 matrix. These are diagonally symmetric matrices, and therefore we only display the bottom triangle of each HCP matrix and the upper triangle of each PNC matrix (Fig. 2d).
 
@@ -495,19 +495,19 @@ The HCP data that support the findings of this study are publicly available on t
 
 ---
 
-### Healthy housing reference manual [^4530c378]. CDC (2006). Medium credibility.
+### Healthy housing reference manual [^112maXSF]. CDC (2006). Medium credibility.
 
 Healthy housing — exterior walls and siding materials note that in frame construction the base material of exterior walls is called sheathing, which may be square-edge, shiplap, tongue-and-groove boards, or plywood or oriented strand board (OSB), and that sheathing stiffens the frame to resist sway; for this reason it is applied diagonally to brace walls against racking. In older homes, asbestos-cement siding shingles can still be found, and asbestos and cement shingles used until the early 1970s are fire resistant but also a health hazard. Vinyl siding is manufactured from polyvinyl chloride (PVC), which has provided impact-resistance, rigidity, and strength, but the use of vinyl siding is not without controversy because PVC is known to cause cancer in humans; accidental fires in vinyl-sided buildings are more dangerous because vinyl produces toxic vapors when heated. Cedar wood shingles and aluminum are manufactured with a backer board that gives insulation and fire-resistant qualities.
 
 ---
 
-### Approximations to the expectations and variances of ratios of tree properties under the coalescent [^cf6c6a02]. G3 (2022). Medium credibility.
+### Approximations to the expectations and variances of ratios of tree properties under the coalescent [^116JWrQq]. G3 (2022). Medium credibility.
 
 We have found that approximations for fixed n and in the limit asare quite accurate in predicting the expected values seen in coalescent simulations of the ratios (Fig. 2). For the variances, the approximations are generally less accurate, although in most cases, graphs of the approximations and simulated values have similar shape (Fig. 4). These approximations are obtained from a Taylor approximation for the variance of a ratio (equation 4), and higher-order approximations of this variance could potentially be applied by use of Taylor's theorem; as the order of the approximation increases, however, the complexity of the resulting formula also increases. For those variances for which the approximation and simulation are not close in Fig. 4, we advise caution in using the variances in settings in which a precise approximation is needed.
 
 ---
 
-### Universality in long-distance geometry and quantum complexity [^47f080b3]. Nature (2023). Excellent credibility.
+### Universality in long-distance geometry and quantum complexity [^112qeuNz]. Nature (2023). Excellent credibility.
 
 A careful analysis, confirms this picture and shows that the very largest additive discrepancy from thedistance is found near the cut locus, so for all U and, As, theandBerger spheres agree on distances to within a picometre. (A two-dimensional example that shows the same phenomenon is given in Supplementary Information 3).
 
@@ -521,7 +521,7 @@ The unicycle starts facing parallel to the curb and ends facing parallel to the 
 
 ---
 
-### Lattice-free prediction of three-dimensional structure of programmed DNA assemblies [^f682273c]. Nature Communications (2014). Medium credibility.
+### Lattice-free prediction of three-dimensional structure of programmed DNA assemblies [^117JTfv3]. Nature Communications (2014). Medium credibility.
 
 Tile-based assemblies with non-parallel four-way junctions
 
@@ -529,7 +529,7 @@ Next, we tested the ability of our approach to model extended, repeating tile-ba
 
 ---
 
-### The definition and measurement of heterogeneity [^cd67f037]. Translational Psychiatry (2020). Medium credibility.
+### The definition and measurement of heterogeneity [^116FXNer]. Translational Psychiatry (2020). Medium credibility.
 
 Methods that do not require a priori stratification
 
@@ -546,31 +546,31 @@ Panel a illustrates the basic concept of a convex hull on synthetic 2-dimensiona
 
 ---
 
-### A design principle of polymers processable into 2D homeotropic order [^a9d31e4f]. Nature Communications (2016). Medium credibility.
+### A design principle of polymers processable into 2D homeotropic order [^115LmpYW]. Nature Communications (2016). Medium credibility.
 
 How to orient polymers homeotropically in thin films has been a long-standing issue in polymer science because polymers intrinsically prefer to lie down. Here we provide a design principle for polymers that are processable into a 2D homeotropic order. The key to this achievement was a recognition that cylindrical polymers can be designed to possess oppositely directed local dipoles in their cross-section, which possibly force polymers to tightly connect bilaterally, affording a 2D rectangular assembly. With a physical assistance of the surface grooves on Teflon sheets that sandwich polymer samples, homeotropic ordering is likely nucleated and gradually propagates upon hot-pressing towards the interior of the film. Consequently, the 2D rectangular lattice is constructed such that its b axis (side chains) aligns along the surface grooves, while its c axis (polymer backbone) aligns homeotropically on a Teflon sheet. This finding paves the way to molecularly engineered 2D polymers with anomalous functions.
 
 ---
 
-### Three-dimensional echocardiography in congenital heart disease: an expert consensus document from the European association of Cardiovascular imaging and the American Society of Echocardiography [^10c6a8b3]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### Three-dimensional echocardiography in congenital heart disease: an expert consensus document from the European association of Cardiovascular imaging and the American Society of Echocardiography [^111RsXhU]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Summation of disc method — The semi-automated summation of disc method is the least constrained by geometry and should be included with post-processing software particularly for ventricles of abnormal morphology.
 
 ---
 
-### Multifetal gestations: twin, triplet, and higher-order multifetal pregnancies: ACOG practice bulletin, number 231 [^e67f15e2]. Obstetrics and Gynecology (2021). High credibility.
+### Multifetal gestations: twin, triplet, and higher-order multifetal pregnancies: ACOG practice bulletin, number 231 [^116tiqe9]. Obstetrics and Gynecology (2021). High credibility.
 
 Multifetal gestations — antenatal corticosteroids: In singleton gestations at risk of delivery between 24 weeks and 34 weeks of gestation, antenatal corticosteroids decrease neonatal death, respiratory distress syndrome, intraventricular hemorrhage, and necrotizing enterocolitis, and although benefit in multifetal gestations needs further research, the National Institutes of Health recommends that, unless a contraindication exists, a course of antenatal corticosteroids should be administered to all patients who are at risk of delivery within 7 days and who are between 24 weeks and 34 weeks of gestation, irrespective of the fetal number. During the periviable period, use should be considered in the context of a family's decision regarding resuscitation. Regularly scheduled repeat courses or serial courses (more than two) are not recommended; a single repeat course should be considered in women with a gestation of less than 34 weeks who have an imminent risk of preterm delivery within the next 7 days and whose prior course was administered more than 14 days previously, and rescue-course corticosteroids could be provided as early as 7 days from the prior dose.
 
 ---
 
-### Hourly step recommendations to achieve daily goals for working and older adults [^588d8957]. Communications Medicine (2024). Medium credibility.
+### Hourly step recommendations to achieve daily goals for working and older adults [^113GHT9p]. Communications Medicine (2024). Medium credibility.
 
 Figure 3 shows the predicted mean step counts and 95% CI for the rest of the day, given the step counts accumulated from 6 p.m. to 11 p.m. adjusting for age group, BMI group and sex. Overall, there was little difference in the conditional predicted mean step counts for the rest of the days between the weekdays and the weekends. On weekdays, participants who accumulated 6000 steps by 6 p.m. had a 0.692 probability of achieving 10,000 steps (all the goals) by the end of the day (refer to the Goal 3 diagonal line in Fig. 3, Table 3, and Supplementary Table S2). Similarly, participants who had accumulated 7000 steps by 7 p.m. 8000 steps by 8 p.m. 8500 steps by 9 p.m. and 9500 steps by 10 p.m. achieved 10,000 mean steps by the end of the day with a probability of 0.910, 0.982, 0.700, and 1, respectively. On weekends, participants who had accumulated 6500 steps by 6 p.m. 7000 steps by 7 p.m. 8000 steps by 8 p.m. 8500 steps by 9 p.m. and 9500 steps by 10 p.m. achieved 10,000 mean steps by the end of the day with probability 0.852, 0.583, 0.947, 0.717 and 1, respectively. The step counts required to achieve 5000 and 7500 steps by the end of the day can be found in Supplementary Tables S3 and S4, respectively.
 
 ---
 
-### Integer topological defects offer a methodology to quantify and classify active cell monolayers [^094b9046]. Nature Communications (2025). High credibility.
+### Integer topological defects offer a methodology to quantify and classify active cell monolayers [^111EnGdj]. Nature Communications (2025). High credibility.
 
 To test the relation between cellular flows and active forces from experimental data, we decomposed each of them into parallel and perpendicular components relative to the principal axis of local Q in regions outside defect cores (Supplementary Fig. 5). In Fig. 4 b–d, we have shown parallel components on asters and spirals (θ 0 = π /4) and perpendicular components on targets and spirals (θ 0 = π /4), as they represent the primary components associated with inward flows on the corresponding patterns. Concerning the ∇ ⋅ ρ Q term, the parallel components exhibited negative correlations with net velocity, while the perpendicular components showed positive correlations (Fig. 4 b), another indication that the linear theory cannot completely explain the observed phenomena. However, these components showed a consistent negative correlation (Fig. 4 c) for the ρ Q ⋅ (∇ ⋅ ρ Q) term and a consistent positive correlation (Fig. 4 d) for the (ρ Q ⋅ ∇) ⋅ ρ Q term. These results provided evidence for the relevance of the two nonlinear active forces to cellular flows.
 
@@ -580,13 +580,13 @@ From the experimental data, we extracted the value of each term in Eq. (2), (5) 
 
 ---
 
-### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^f59ef754]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^117H9MxF]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Left ventricular volume calculation by short-axis summation — example and method show that sequential short-axis slices from the mitral annular plane (base) to the apex are summed using volume = area × thickness to compute LV end-diastolic volume (LVEDV) and LV end-systolic volume (LVESV); in the example, LV EDV = 41 mL + 41 mL + 38 mL + 34 mL + 28 mL + 19 mL + 5 mL = 206 mL and LV ESV = 0 mL + 30 mL + 27 mL + 24 mL + 18 mL + 3 mL + 0 mL = 102 ml; this methodology requires no geometric assumptions.
 
 ---
 
-### Improved prediction of protein-protein interactions using alphaFold2 [^936b4ccc]. Nature Communications (2022). High credibility.
+### Improved prediction of protein-protein interactions using alphaFold2 [^114mZDoH]. Nature Communications (2022). High credibility.
 
 MSA block diagonalization
 
@@ -610,7 +610,7 @@ We calculated the Neff scores separately for paired and AF2 MSAs.
 
 ---
 
-### Deep neural networks using a single neuron: folded-in-time architecture using feedback-modulated delay loops [^5fd7166a]. Nature Communications (2021). High credibility.
+### Deep neural networks using a single neuron: folded-in-time architecture using feedback-modulated delay loops [^113T651s]. Nature Communications (2021). High credibility.
 
 It has been shown that dynamic sparsity, can outperform dense networks and, fundamentally, Fit-DNNs are intrinsically compatible with certain kinds of sparsity. However, in our approach, removing or adding a delay loop would change an entire diagonal in the hidden weight matrices. Therefore, sparsity training algorithms such as those discussed in refs. and related works are not directly applicable to the Fit-DNN. Our preliminary tests have shown that removing the weights of a diagonal at the same time disturbs the previous training too much, so the method fails. Nevertheless, we expect that it is possible to find a suitable method to optimize the choice of delays. Therefore, further investigation of specific sparsity training methods for the Fit-DNN would be very welcome. One candidate for such a method could be pruning by slowly fading diagonals that contain weaker connections on average.
 
@@ -618,13 +618,13 @@ Even with a fixed sparse connectivity, we can perform image classification using
 
 ---
 
-### Mean-field theory of random close packings of axisymmetric particles [^90ce5be7]. Nature Communications (2013). Medium credibility.
+### Mean-field theory of random close packings of axisymmetric particles [^114hgXn6]. Nature Communications (2013). Medium credibility.
 
 Finding the optimal random packing of non-spherical particles is an open problem with great significance in a broad range of scientific and engineering fields. So far, this search has been performed only empirically on a case-by-case basis, in particular, for shapes like dimers, spherocylinders and ellipsoids of revolution. Here we present a mean-field formalism to estimate the packing density of axisymmetric non-spherical particles. We derive an analytic continuation from the sphere that provides a phase diagram predicting that, for the same coordination number, the density of monodisperse random packings follows the sequence of increasing packing fractions: spheres < oblate ellipsoids < prolate ellipsoids < dimers < spherocylinders. We find the maximal packing densities of 73.1% for spherocylinders and 70.7% for dimers, in good agreement with the largest densities found in simulations. Moreover, we find a packing density of 73.6% for lens-shaped particles, representing the densest random packing of the axisymmetric objects studied so far.
 
 ---
 
-### Effects of effective stereotactic radiosurgery for brain metastases on the adjacent brain parenchyma [^f492b163]. British Journal of Cancer (2020). Medium credibility.
+### Effects of effective stereotactic radiosurgery for brain metastases on the adjacent brain parenchyma [^117FbFa2]. British Journal of Cancer (2020). Medium credibility.
 
 Interestingly, NAA values correlate positively in all three locations (r = 0.7); for example, when the value at the contrast-enhancing part is significantly lower than at the opposite side at a certain time point, it is the same for the first and the second ring (Fig. 4). This also applies to a lesser degree to Cr (r = 0.35). In the case of Cho, the enhancing part behaves differently than the respective rings (r = −0.01). Cho and Cr develop in a similar way and interact positively for the core of the lesion (r = 0.49) and the second ring (r = 0.42), while NAA develops independently of all other values.
 
@@ -639,7 +639,7 @@ rCBV in the entire lesion (P < 0.001) and in the contrast-enhancing rim (P < 0.0
 
 ---
 
-### Cutting edge or blunt instrument: how to decide if a stepped wedge design is right for you [^471f52f2]. BMJ Quality & Safety (2021). High credibility.
+### Cutting edge or blunt instrument: how to decide if a stepped wedge design is right for you [^112pSeFT]. BMJ Quality & Safety (2021). High credibility.
 
 When might I consider doing a stepped wedge trial?
 
@@ -655,7 +655,7 @@ If implementation is to be staggered, is there a minimum 'step length'? If the s
 
 ---
 
-### Relative, local and global dimension in complex networks [^59592537]. Nature Communications (2022). High credibility.
+### Relative, local and global dimension in complex networks [^113HTqmp]. Nature Communications (2022). High credibility.
 
 It is then natural to define the local dimension of a node i by averaging the relative dimension of the nodes displaying a peak in their transient responses relative to i before a given time τ aswhereis the indicator function. Whilst the local dimension can be likened to a measure of centrality, it also directly captures the dimension of the local embedding space. In Fig. 1 c we observe the increasing effect of the boundaries on local dimension as we increase the scale. Near the centre of the line, and when considering nearby nodes (at short scales), one can expect to estimate a dimension near 1, or equivalently 2 for the grid shown in Fig. 1 d. We observe in Fig. 1 c a central region withthat becomes increasingly smaller as scale τ increases; at short scales, the central region is insensitive to the boundaries since the diffusion has not yet reached them. This 'boundary insensitive central region' collapses at τ = 1 (corresponding to the spectral gap of the graph) when all nodes have aggregated information about the boundaries of the line graph.
 
@@ -665,13 +665,13 @@ Whilst the periodic equivalents do not contain boundaries, they are still constr
 
 ---
 
-### Shape morphing of plastic films [^835f8daf]. Nature Communications (2022). High credibility.
+### Shape morphing of plastic films [^114MmUSz]. Nature Communications (2022). High credibility.
 
 Through discrete peeling of the film belt, local curvature can be programmed and thus different polygonal shapes such as triangle, quadrangle, pentagon and hexagon were also obtained by simply arranging the adhesive layers with predetermined widths and intervals according to the interior angles and side lengths of the targeted shape and peeling the film under the according parameters (Fig. 3e and Supplementary Movie 7). Taking right triangle with an interior angle of 60° and shortest side of 10 mm and the 80 μm thick PTFE film at a peeling angle of 180° as an example, the diameter of the peeled film, d is ~2 mm and thus the widths of adhesive tapes (w a = (180 - θ)π d /360, θ is the interior angle) are 2.62 mm, 1.57 mm and 2.09 mm for interior angles of 30°, 90°, and 60°, respectively and intervals are 17.3, 10 and 20 mm, respectively (Fig. 3e, left). When peeling the film at peeling angle of 180°, the default right triangle was obtained (Supplementary Movie 7). Furthermore, complex 3D structures can be designed and fabricated through a multistep peeling process. For example, a two-step peeling process with orthogonal peeling directions and opposite curling directions can form hyperboloids (Fig. 3f and Supplementary Movie 8). In step I, a PTFE film (4 cm × 2 cm) was attached on two separated adhesive tapes (1 cm × 2 cm with an interval of 2 cm) and peeled off along the red line (Fig. 3f, left); in step II, the other side of the PTFE film was adhered on the adhesive tape (2 cm × 2 cm) and peeled off along the blue line with different peeling angles for the hyperboloids and semi-hyperboloids, before which the parts adhered in the first step were cut into parallel strips along their curling direction. More complex final 3D geometries can also be programmed by designing the layout of the 2D precursors and peeling them along the default routes (adhered regions, peeling direction, and peeling angle). Using this method, we obtained seventeen highly complex 3D geometries from ten 2D precursors and remarkably good agreement between experimental results and FEA predictions further verified the versatility of this shape-morphing strategy and the accuracy of the models (Fig. 4). Apart from the polymer films, the peeling-induced shape morphing strategy is also applicable to other materials capable of plastic deformation, such as metals (copper, silver, aluminum, nickel, titanium, and iron), semiconductor polymer films (poly(3-hexylthiophene-2,5-diyl), P3HT), filter paper, and composite films ranging from centimeter to micrometer (Supplementary Fig. 18).
 
 ---
 
-### Biomechanical evaluation of double-strand (looped) and single-strand polyamide multifilament suture: influence of knot and suture size [^ee70ce2b]. Hand (2015). Low credibility.
+### Biomechanical evaluation of double-strand (looped) and single-strand polyamide multifilament suture: influence of knot and suture size [^1176VwhL]. Hand (2015). Low credibility.
 
 Background
 
@@ -695,7 +695,7 @@ This paper provides a description of a model to evaluate various suture material
 
 ---
 
-### A compendium of genetic regulatory effects across pig tissues [^de1981b8]. Nature Genetics (2024). High credibility.
+### A compendium of genetic regulatory effects across pig tissues [^116gGpUP]. Nature Genetics (2024). High credibility.
 
 Fig. 2
 molQTL discovery.
@@ -704,19 +704,19 @@ a, Pearson's r between the proportion of detectable eGenes and sample size acros
 
 ---
 
-### Nuclear fission modes and fragment mass asymmetries in a five-dimensional deformation space [^6c6f5020]. Nature (2001). Excellent credibility.
+### Nuclear fission modes and fragment mass asymmetries in a five-dimensional deformation space [^113mm3zF]. Nature (2001). Excellent credibility.
 
 Nuclei undergoing fission can be described by a multi-dimensional potential-energy surface that guides the nuclear shape evolution — from the ground state, through intermediate saddle points and finally to the configurations of separated fission fragments. Until now, calculations have lacked adequate exploration of the shape parameterization of sufficient dimensionality to yield features in the potential-energy surface (such as multiple minima, valleys, saddle points and ridges) that correspond to characteristic observables of the fission process. Here we calculate and analyse five-dimensional potential-energy landscapes based on a grid of 2,610,885 deformation points. We find that observed fission features — such as the distributions of fission fragment mass and kinetic energy, and the different energy thresholds for symmetric and asymmetric fission — are very closely related to topological features in the calculated five-dimensional energy landscapes.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^08aae061]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^111DrJCQ]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Left atrial (LA) linear and area measurements — the most widely used linear dimension is the anteroposterior (AP) measurement in the parasternal long-axis using M-mode or, preferably, two-dimensional echocardiography (2DE), but the AP linear dimension should not be used as the sole measure of LA size; LA area can be planimetered in apical four- and two-chamber views, and optimal contours should be obtained while avoiding foreshortening.
 
 ---
 
-### Danger zone assessment in small-sided recreational football: providing data for consideration in relation to COVID-19 transmission [^11855778]. BMJ Open Sport & Exercise Medicine (2021). High credibility.
+### Danger zone assessment in small-sided recreational football: providing data for consideration in relation to COVID-19 transmission [^111SyaVm]. BMJ Open Sport & Exercise Medicine (2021). High credibility.
 
 During the COVID-19 pandemic, physical inactivity has increased, and a wide range of sporting activities locked down, with possible long-term implications for public health. Football is the most popular sport worldwide, and recreational football training leads to broad-spectrum health effects. Football is, however, deemed a contact sport with frequent close contact important to consider during COVID-19 pandemic.
 
@@ -738,13 +738,13 @@ This study demonstrated that during small-sided football limited time is spent w
 
 ---
 
-### EAE / ASE recommendations for image acquisition and display using three-dimensional echocardiography [^c42d2a11]. Journal of the American Society of Echocardiography (2012). Medium credibility.
+### EAE / ASE recommendations for image acquisition and display using three-dimensional echocardiography [^1161qk7A]. Journal of the American Society of Echocardiography (2012). Medium credibility.
 
 Three-dimensional stress echocardiography — orientation and display: Conventional 2D stress echocardiograms are usually analyzed side by side, and new 3D stress software allows the same multiview format; it is recommended to use this display methodology when available. There is a limit to the number of views that can be simultaneously displayed on a monitor, and an alternative is to select one view and display it simultaneously with the same view obtained at other stages.
 
 ---
 
-### Expert gaze as a usability indicator of medical AI decision support systems: a preliminary study [^a4e9fb8e]. NPJ Digital Medicine (2024). Medium credibility.
+### Expert gaze as a usability indicator of medical AI decision support systems: a preliminary study [^115DVZZo]. NPJ Digital Medicine (2024). Medium credibility.
 
 Fig. 3
 Visual attention to relevant regions (AOIs) of the AI support interface.
@@ -762,7 +762,7 @@ As we are interested in gaze transitions from one AOI to another, we exclude gaz
 
 ---
 
-### High-dimensional topographic organization of visual features in the primate temporal lobe [^ad111b4d]. Nature Communications (2023). High credibility.
+### High-dimensional topographic organization of visual features in the primate temporal lobe [^115Rac1z]. Nature Communications (2023). High credibility.
 
 Clustering analysis using a Gaussian mixture model
 
@@ -780,7 +780,7 @@ Then we used the same approach as described above (Selection of representative i
 
 ---
 
-### Progress towards health equity in Vietnam: evidence from nationwide official health statistics, 2010–2020 [^42adb639]. BMJ Global Health (2024). High credibility.
+### Progress towards health equity in Vietnam: evidence from nationwide official health statistics, 2010–2020 [^112hrXn8]. BMJ Global Health (2024). High credibility.
 
 The concentration curve is used to represent the relative inequality between groups in natural order. The independent variable is the cumulative percentage of regions sorted by economic level, with a value range of (0,1). The dependent variable is the cumulative percentage of observed indicators for the corresponding provinces, with a value range of (0,1). If the health status of provinces with different economic levels is equal, the concentration curve is on the diagonal. If the health indicators in low-income provinces have lower values, the concentration curve is located below the diagonal, and if they have higher values, the concentration curve is located above the diagonal. The further the curve is from the diagonal, the more unequal the values. The Concentration Index is a quantification of the concentration curve, the absolute value of which is twice the area between the concentration curve and the diagonal, with the Concentration Index values in a range of (–1,1). If the health status related to the economic level is equal, the Concentration Index value is 0. When the concentration curve is above the diagonal, the Concentration Index value is negative, indicating that the indicator is more inclined towards impoverished provinces. When the concentration curve is below the diagonal, the Concentration Index value is positive, indicating that the indicator is more inclined towards affluent provinces. The Concentration Index formula is as follows:
 
@@ -792,7 +792,7 @@ whereis the intergroup difference, is the intragroup difference, G is 6, represe
 
 ---
 
-### Enhancing detection of topological order by local error correction [^a888c506]. Nature Communications (2024). High credibility.
+### Enhancing detection of topological order by local error correction [^115JrrqB]. Nature Communications (2024). High credibility.
 
 Computing the probabilities requires contracting a 2D tensor network (Fig. 6), which is in general # P -hard. In practice, however, the states we encounter have finite correlation length, and the computation becomes remarkably efficient throughout much of the phase diagram. In particular, we work on a strip of finite height L x and infinite length L y, and introduce boundary matrix product states (MPS) to efficiently capture the effect of the environment — that is, the sites different from the one currently being sampled. Because singular-value decomposition truncation is used at each step to prevent the bond dimension of the boundary MPS from growing exponentially, the method is approximate; however, we only discard singular values < 10⁻⁸, so truncation errors are insignificant. Details of the boundary conditions and contraction ordering are discussed in the Supplementary Information.
 
@@ -805,13 +805,13 @@ In our simulations, we choose L x = 300 unit cells and sample 1000 columns, givi
 
 ---
 
-### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^4ba32a38]. Nature Communications (2022). High credibility.
+### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^112w8sqy]. Nature Communications (2022). High credibility.
 
 Triply-periodic networks are among the most complex and functionally valuable self-assembled morphologies, yet they form in nearly every class of biological and synthetic soft matter building blocks. In contrast to simpler assembly motifs – spheres, cylinders, layers – networks require molecules to occupy variable local environments, confounding attempts to understand their formation. Here, we examine the double-gyroid network phase by using a geometric formulation of the strong stretching theory of block copolymer melts, a prototypical soft self-assembly system. The theory establishes the direct link between molecular packing, assembly thermodynamics and the medial map, a generic measure of the geometric center of complex shapes. We show that "medial packing" is essential for stability of double-gyroid in strongly-segregated melts, reconciling a long-standing contradiction between infinite- and finite-segregation theories. Additionally, we find a previously unrecognized non-monotonic dependence of network stability on the relative entropic elastic stiffness of matrix-forming to tubular-network forming blocks. The composition window of stable double-gyroid widens for both large and small elastic asymmetry, contradicting intuitive notions that packing frustration is localized to the tubular domains. This study demonstrates the utility of optimized medial tessellations for understanding soft-molecular assembly and packing frustration via an approach that is readily generalizable far beyond gyroids in neat block copolymers.
 
 ---
 
-### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^f77b759f]. Nature Communications (2022). High credibility.
+### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^117KuQnr]. Nature Communications (2022). High credibility.
 
 Fig. 2
 Subdomain tessellations for strong-segregation chain packing.
@@ -824,7 +824,7 @@ To model this thermodynamic competition and test how closely physical assemblies
 
 ---
 
-### Diffusion tensor subspace imaging of double diffusion-encoded MRI delineates small fibers and gray-matter microstructure not visible with single encoding techniques [^80fc0fbd]. Magnetic Resonance in Medicine (2025). Medium credibility.
+### Diffusion tensor subspace imaging of double diffusion-encoded MRI delineates small fibers and gray-matter microstructure not visible with single encoding techniques [^114JE5dE]. Magnetic Resonance in Medicine (2025). Medium credibility.
 
 3.2 MRI acquisition
 
@@ -834,13 +834,13 @@ For DDE, a similar 3D spin‐echo EPI pulse sequence was used to collect images 
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^79b1194c]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^1147QzGB]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic assessment of right atrial (RA) size — volume by 2D describes that "2D volumetric measurements are usually based on tracings of the blood-tissue interface on the apical four-chamber view" and that "At the tricuspid valve level, the contour is closed by connecting the two opposite sections of the tricuspid ring with a straight line". It adds, "Volumes can be computed by using either the single plane area-length" or "the disks summation technique", performed in a "2D view". The listed advantage is "More representative of actual RA size than linear dimensions", while limitations include "Assumes a symmetrical shape of the cavity", "Single plane volume calculation may be inaccurate since it assumes that RA enlargement is symmetrical", and "Normal values not well established".
 
 ---
 
-### Dual communities in spatial networks [^80bf37aa]. Nature Communications (2022). High credibility.
+### Dual communities in spatial networks [^114HseHf]. Nature Communications (2022). High credibility.
 
 Creation of dual graphs: planar networks
 
@@ -860,31 +860,31 @@ Repeat the process m times
 
 ---
 
-### Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents: summary report [^a7f90d07]. Pediatrics (2011). Medium credibility.
+### Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents: summary report [^115J2axv]. Pediatrics (2011). Medium credibility.
 
 Figure 2–3 — Atherosclerosis maps of the right coronary artery show PDAY males by age 15–24 and 25–34 stratified by number of risk factors (0, 1, 2, 3+), with sample sizes for 15–24 of n = 149, n = 219, n = 93, and n = 31 and for 25–34 of n = 87, n = 208, n = 172, and n = 59, respectively; these computerized images are prevalence maps of fatty streaks and raised lesions with color intensity reflecting lesion density and grade, and severity/extent increased as the number of risk factors increased.
 
 ---
 
-### Efficient classical sampling from gaussian boson sampling distributions on unweighted graphs [^7b2529aa]. Nature Communications (2025). High credibility.
+### Efficient classical sampling from gaussian boson sampling distributions on unweighted graphs [^1149Zxem]. Nature Communications (2025). High credibility.
 
 Gaussian Boson Sampling (GBS) is a promising candidate for demonstrating quantum computational advantage and can be applied to solving graph-related problems. In this work, we propose Markov chain Monte Carlo-based algorithms to sample from GBS distributions on undirected, unweighted graphs. Our main contribution is a double-loop variant of Glauber dynamics, whose stationary distribution matches the GBS distribution. We further prove that it mixes in polynomial time for dense graphs using a refined canonical path argument. Numerically, we conduct experiments on unweighted graphs with 256 vertices, larger than the scales in former GBS experiments as well as classical simulations. In particular, we show that both the single-loop and double-loop Glauber dynamics improve the performance of original random search and simulated annealing algorithms for the max-Hafnian and densest k-subgraph problems up to 10 ×. Overall, our approach offers both theoretical guarantees and practical advantages for efficient classical sampling from GBS distributions on unweighted graphs.
 
 ---
 
-### Trametinib (Mekinist) [^44317672]. FDA (2025). Medium credibility.
+### Trametinib (Mekinist) [^112k6mms]. FDA (2025). Medium credibility.
 
 The dosage of trametinib dimethyl sulfoxide PO for treatment of melanoma in adults with BRAF V600E or V600K mutation (unresectable or metastatic) is 2 mg PO daily until disease recurrence or unacceptable toxicity
 
 ---
 
-### Combinatorial summation of feynman diagrams [^42481276]. Nature Communications (2024). High credibility.
+### Combinatorial summation of feynman diagrams [^112hGPgH]. Nature Communications (2024). High credibility.
 
 Feynman's diagrammatic series is a common language for a formally exact theoretical description of systems of infinitely-many interacting quantum particles, as well as a foundation for precision computational techniques. Here we introduce a universal framework for efficient summation of connected or skeleton Feynman diagrams for generic quantum many-body systems. It is based on an explicit combinatorial construction of the sum of the integrands by dynamic programming, at a computational cost that can be made only exponential in the diagram order on a classical computer and potentially polynomial on a quantum computer. We illustrate the technique by an unbiased diagrammatic Monte Carlo calculation of the equation of state of the 2DSU(N) Hubbard model in an experimentally relevant regime, which has remained challenging for state-of-the-art numerical methods.
 
 ---
 
-### A soft photopolymer cuboid that computes with binary strings of white light [^998e393d]. Nature Communications (2019). High credibility.
+### A soft photopolymer cuboid that computes with binary strings of white light [^114vesrc]. Nature Communications (2019). High credibility.
 
 Fig. 4
 Output generated by pairs of two-bit strings. a Expected and corresponding b experimental results of the 16 (2² × 2²) patterns generated at the polymer cuboid output (yz plane) by all combinations of a pair of 2-bit binary strings introduced along the y and z axis. Each output pattern comprises different combinations of carrier configurations 0D (red), 1DH (blue), 1DV (green), and 2D (gray), which can be quantified through c corresponding FFT spectra of experimental results. (Bits 0 and 1 are represented by white and black bars, respectively; scale bar in b = 200 μm; in b, c, blue (minimum) to red (maximum) intensity scales are provided.)
@@ -893,19 +893,19 @@ Most significantly, its quaternary output enables the system to perform two fund
 
 ---
 
-### Trametinib (Mekinist) [^7f25adc1]. FDA (2025). Medium credibility.
+### Trametinib (Mekinist) [^114FW5qA]. FDA (2025). Medium credibility.
 
 The dosage of trametinib dimethyl sulfoxide PO for treatment of solid tumors in adults with BRAF V600E mutation (unresectable or metastatic, progressed following prior treatment, no satisfactory alternative therapy) is 2 mg PO daily until disease recurrence or unacceptable toxicity
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^6a46fa06]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^113iZXcH]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic left ventricular (LV) volumes — Volume measurements are "usually based on tracings of the blood-tissue interface in the apical four- and two-chamber views", with the contour at the mitral valve level "closed by connecting the two opposite sections of the mitral ring with a straight line", and LV length "defined as the distance between the middle of this line and the most distant point of the LV contour". Techniques include biplane disk summation and area-length; biplane disk summation advantages are "Corrects for shape distortions" and "Less geometrical assumptions compared with linear dimensions", with limitations "Apex frequently foreshortened", "Endocardial dropout", and "Blind to shape distortions not visualized in the apical two- and four-chamber planes". For area-length, the advantage is "Partial correction for shape distortion", with limitations "Apex frequently foreshortened", "Heavily based on geometrical assumptions", and "Limited published data on normal population".
 
 ---
 
-### Shadows of anyons and the entanglement structure of topological phases [^5e2aae4c]. Nature Communications (2015). Medium credibility.
+### Shadows of anyons and the entanglement structure of topological phases [^113QcAyq]. Nature Communications (2015). Medium credibility.
 
 Discussion
 
@@ -917,7 +917,7 @@ This technique holds a powerful potential for studying fundamental questions of 
 
 ---
 
-### An analytical theory of balanced cellular growth [^98f39440]. Nature Communications (2020). High credibility.
+### An analytical theory of balanced cellular growth [^114ukw91]. Nature Communications (2020). High credibility.
 
 Without dependent reactants, A is a square matrix with a unique inverse A⁻¹, and x ≡ [P, a] T is the corresponding vector of independent concentrations. Multiplying both sides of the mass balance constraint (1) by A⁻¹, we obtain (Theorem 5)The right-hand side of the mass balance constraint (1) quantifies how much of each component x i needs to be produced to offset the dilution that would otherwise occur through the exponential volume increase at rate μ.quantifies the proportion of flux v j invested into offsetting the dilution of component i, and we thus name A⁻¹ the investment (or dilution) matrix; see Supplementary Fig. 1 for examples. In contrast to the mass-normalized stoichiometric matrix A, which describes local mass balances, A⁻¹ describes the structural allocation of reaction fluxes into offsetting the dilution of all downstream cellular components, carrying global, systems-level information.
 
@@ -927,7 +927,7 @@ As detailed in "Methods" (Theorems 5–7), a corresponding result also holds for
 
 ---
 
-### Symbiosis limits establishment of legumes outside their native range at a global scale [^b1ba5e30]. Nature Communications (2017). Medium credibility.
+### Symbiosis limits establishment of legumes outside their native range at a global scale [^115YVQcw]. Nature Communications (2017). Medium credibility.
 
 To convert the geographic names in the ILDIS database into usable geographic coordinate data, we downloaded a shapefile containing the standardized TDWG geographic regions as polygons, then matched these polygons to ILDIS geographic names. Where TDWG polygons and ILDIS geographic names could not be matched, we used the next available polygon in the geographic hierarchy (for example, if we could not find a polygon corresponding to an area name, we used the region name instead). Moving up to the next geographic level was only necessary for less than 10% of recorded regions and did not exceed one level. Once all geographic areas were matched to polygons, we only retained those at the lowest available hierarchical scale.
 
@@ -937,13 +937,13 @@ We checked the accuracy of the polygon occurrences by comparing our polygon data
 
 ---
 
-### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^136613e3]. Nature Communications (2022). High credibility.
+### Medial packing and elastic asymmetry stabilize the double-gyroid in block copolymers [^111Vm3zJ]. Nature Communications (2022). High credibility.
 
 Triply-periodic networks are among the most complex and functionally valuable self-assembled morphologies, yet they form in nearly every class of biological and synthetic soft matter building blocks. In contrast to simpler assembly motifs - spheres, cylinders, layers - networks require molecules to occupy variable local environments, confounding attempts to understand their formation. Here, we examine the double-gyroid network phase by using a geometric formulation of the strong stretching theory of block copolymer melts, a prototypical soft self-assembly system. The theory establishes the direct link between molecular packing, assembly thermodynamics and the medial map, a generic measure of the geometric center of complex shapes. We show that "medial packing" is essential for stability of double-gyroid in strongly-segregated melts, reconciling a long-standing contradiction between infinite- and finite-segregation theories. Additionally, we find a previously unrecognized non-monotonic dependence of network stability on the relative entropic elastic stiffness of matrix-forming to tubular-network forming blocks. The composition window of stable double-gyroid widens for both large and small elastic asymmetry, contradicting intuitive notions that packing frustration is localized to the tubular domains. This study demonstrates the utility of optimized medial tessellations for understanding soft-molecular assembly and packing frustration via an approach that is readily generalizable far beyond gyroids in neat block copolymers.
 
 ---
 
-### Quantifying entanglement in a 68-billion-dimensional quantum state space [^b339b52f]. Nature Communications (2019). High credibility.
+### Quantifying entanglement in a 68-billion-dimensional quantum state space [^115aiAgW]. Nature Communications (2019). High credibility.
 
 Adaptive sampling algorithm
 
@@ -957,7 +957,7 @@ The probability distributionis computed by uniformly distributing the estimated 
 
 ---
 
-### As-3 [^4f47e930]. FDA (2025). Medium credibility.
+### As-3 [^1132YBCb]. FDA (2025). Medium credibility.
 
 Statement of idenity
 
@@ -965,7 +965,7 @@ ADDITIVE SOLUTION FORMULA 3 (AS-3), 250 mL
 
 ---
 
-### The conserved microRNA miR-34 regulates synaptogenesis via coordination of distinct mechanisms in presynaptic and postsynaptic cells [^a696d247]. Nature Communications (2020). High credibility.
+### The conserved microRNA miR-34 regulates synaptogenesis via coordination of distinct mechanisms in presynaptic and postsynaptic cells [^115Fyc22]. Nature Communications (2020). High credibility.
 
 miR-34 plays different roles on the two sides of the synapse
 
@@ -973,7 +973,7 @@ Although we observed significant structural phenotypes on both sides of the syna
 
 ---
 
-### An interplay between cellular growth and atypical fusion defines morphogenesis of a modular glial niche in drosophila [^f8aa5ec3]. Nature Communications (2022). High credibility.
+### An interplay between cellular growth and atypical fusion defines morphogenesis of a modular glial niche in drosophila [^117Mf9y4]. Nature Communications (2022). High credibility.
 
 Quantification of clone volumes for Raeppli-CAAX
 
@@ -993,31 +993,31 @@ Z stacks of Raeppli - NLS clones induced in CG were visualised in Icy v2.1.4.0 (
 
 ---
 
-### Trametinib (Mekinist) [^694c6afd]. FDA (2025). Medium credibility.
+### Trametinib (Mekinist) [^113h7NLC]. FDA (2025). Medium credibility.
 
 The dosage of trametinib dimethyl sulfoxide PO for treatment of anaplastic thyroid cancer in adults with BRAF V600E mutation (locally advanced or metastatic) is 2 mg PO daily until disease recurrence or unacceptable toxicity
 
 ---
 
-### Trametinib (Mekinist) [^9f1d60cc]. FDA (2025). Medium credibility.
+### Trametinib (Mekinist) [^1154tu95]. FDA (2025). Medium credibility.
 
 The dosage of trametinib dimethyl sulfoxide PO for treatment of melanoma in adults with BRAF V600E or V600K mutation (unresectable or metastatic, BRAF-inhibitor treatment-naive, monotherapy) is 2 mg PO daily until disease recurrence or unacceptable toxicity
 
 ---
 
-### Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents: summary report [^8714414c]. PES (2012). Medium credibility.
+### Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents: summary report [^114TG8eP]. PES (2012). Medium credibility.
 
 Atherosclerosis lesion mapping in youth — In 15- to 24-year old and 25- to 34-year-old subjects, increasing numbers of cardiovascular (CV) risk factors are linked to both the presence and severity of lesions, and the absence of identified risk factors is associated with a virtual absence of advanced atherosclerotic lesions (American Heart Association Grades IV and V) in 15- to 34-year olds.
 
 ---
 
-### Six is enough? Comparison of diffusion parameters measured using six or more diffusion-encoding gradient directions with deterministic tractography [^7b765bb5]. Magnetic Resonance in Medicine (2012). Low credibility.
+### Six is enough? Comparison of diffusion parameters measured using six or more diffusion-encoding gradient directions with deterministic tractography [^114A3EU4]. Magnetic Resonance in Medicine (2012). Low credibility.
 
 Diffusion tensor imaging tractography is commonly used to quantify white matter tracts in the human brain via parameters such as fractional anisotropy and mean diffusivity. Simulation studies recommend the use of more than six directions for robust parameter estimates; however, no study has examined the impact of the number of gradient directions on deterministic tractography-derived diffusion parameters in human brain. Here, for 10 major white matter tracts in 11 healthy volunteers at 1.5 T, six-direction diffusion tensor imaging data were compared to 30- or 60-direction data, keeping scan time and number of b = 0 images constant within each test. Mean diffusivity was systematically lower for six-direction protocols (20/40 comparisons); six-direction data had higher fractional anisotropy in the superior longitudinal fasciculus and smaller tract volume for the genu of the corpus callosum. In general, parameter differences due to the number of directions were smaller than those from intersubject variation or signal-to-noise ratio. Despite some absolute differences, standard deviations were significantly different for only one of 160 comparisons. Thus, six-direction data provide diffusion measures with comparable robustness to 30- or 60-direction data and yield appropriate parameter values for most white matter tracts, although there are clear advantages in acquiring higher angular resolution data.
 
 ---
 
-### A need to improve the assessment of environmental hazards for falls on stairs and in bathrooms: results of a scoping review [^67f916f4]. BMC Geriatrics (2018). Low credibility.
+### A need to improve the assessment of environmental hazards for falls on stairs and in bathrooms: results of a scoping review [^113f9Pgf]. BMC Geriatrics (2018). Low credibility.
 
 Grab bars
 
@@ -1031,19 +1031,19 @@ Thirty-nine checklists included items on stairs and/or steps. Most (n = 22, 63%)
 
 ---
 
-### Pulsed accretion in a variable protostar [^1d284ba0]. Nature (2013). Excellent credibility.
+### Pulsed accretion in a variable protostar [^111kEBC3]. Nature (2013). Excellent credibility.
 
 Periodic increases in luminosity arising from variable accretion rates have been predicted for some pre-main-sequence close binary stars as they grow from circumbinary disks. The phenomenon is known as pulsed accretion and can affect the orbital evolution and mass distribution of young binaries, as well as the potential for planet formation. Accretion variability is a common feature of young stars, with a large range of amplitudes and timescales as measured from multi-epoch observations at optical and infrared wavelengths. Periodic variations consistent with pulsed accretion have been seen in only a few young binaries via optical accretion tracers, albeit intermittently with accretion luminosity variations ranging from zero to 50 per cent from orbit to orbit. Here we report that the infrared luminosity of a young protostar (of age about 10(5) years) increases by a factor of ten in roughly one week every 25.34days. We attribute this to pulsed accretion associated with an unseen binary companion. The strength and regularity of this accretion signal is surprising; it may be related to the very young age of the system, which is a factor of ten younger than the other pulsed accretors previously studied.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^194fdbe5]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^111eXWpk]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Left atrial (LA) volume quantification by echocardiography is described using two-dimensional echocardiography (2DE) and three-dimensional (3D) approaches, with 2D volumetric measurements based on tracings from apical four- and two-chamber views; at the mitral valve level the contour is closed by a straight line, endocardial tracing excludes the atrial appendage and pulmonary veins, LA length L is the shortest long axis from apical two- and four-chamber views, and the two lengths should not differ more than 5 mm; volumes can be computed by an area-length approximation or by a disk summation technique, and 3D data sets are usually acquired from the apical approach using a multibeat full-volume acquisition. For the 2DE area-length technique, advantages include accurate assessment of asymmetric remodeling of the left atrium and being a more robust predictor of cardiovascular events than linear or area measurements, whereas limitations include geometric assumptions about LA shape, few accumulated data on normal population, and that single plane volume calculations are inaccurate because they assume A1 = A2. For 3D data sets, advantages are no geometrical assumption about LA shape and greater accuracy compared with 2D measurements, while limitations include dependence on adequate image quality, lower temporal resolution, limited data on normal values, and that patient's cooperation is required.
 
 ---
 
-### Lomotil [^bfcb0fa6]. FDA (2022). Medium credibility.
+### Lomotil [^115uLqmw]. FDA (2022). Medium credibility.
 
 HOW SUPPLIED
 
@@ -1067,12 +1067,12 @@ A plastic dropper calibrated in increments of 1/2 mL (1/4 mg) with a capacity of
 
 ---
 
-### Tretinoin [^5e84ee25]. FDA (2024). Medium credibility.
+### Tretinoin [^113R8VBS]. FDA (2024). Medium credibility.
 
 The dosage of tretinoin PO for treatment of acute promyelocytic leukemia in adults (consolidation therapy) is 45 mg/m² PO daily, in 2 divided doses, 2 weeks on and 2 weeks off, for 7 courses
 
 ---
 
-### Sample sizes based on three popular indices of risks [^4a61a58f]. General Psychiatry (2018). Low credibility.
+### Sample sizes based on three popular indices of risks [^112uGtAa]. General Psychiatry (2018). Low credibility.
 
 Sample size justification is a very crucial part in the design of clinical trials. In this paper, the authors derive a new formula to calculate the sample size for a binary outcome given one of the three popular indices of risk difference. The sample size based on the absolute difference is the fundamental one, which can be easily used to derive sample size given the risk ratio or OR.

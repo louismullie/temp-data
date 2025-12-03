@@ -15,49 +15,49 @@ How would you counsel a patient with mild calcific aortic stenosis who asks whet
 
 > Let's see… What do we have here? The user is asking whether starting atorvastatin will slow the progression of mild calcific aortic stenosis, and how the SALTIRE trial informs follow-up planning. Let's break this down step-by-step. First, I need to think about the highest-quality randomized evidence on statins for aortic stenosis progression. Then, I should verify what contemporary guidelines say about statins in calcific aortic stenosis. Next, I will consider mechanistic explanations for why statins might fail despite lowering LDL. After that, I should outline practical follow-up and risk-factor management, including what SALTIRE did and did not show. Finally, I will synthesize a clear recommendation and address any lingering uncertainties or exceptions.
 
-> Let me first confirm the pivotal randomized evidence. The SALTIRE trial randomized 155 patients with calcific aortic stenosis to atorvastatin 80 mg daily versus placebo and found no difference in the annual increase in aortic-jet velocity (0.199 m/s/year with atorvastatin vs 0.203 m/s/year with placebo; adjusted mean difference −0.002 m/s/year, 95% CI −0.07 to 0.07; P = 0.95), and no difference in progression of valvular calcification (22.3%/year vs 21.7%/year; ratio 0.998, 99% CI 0.95–1.05; P = 0.93), despite a 53% reduction in LDL cholesterol in the statin arm [^5cc8a8a2] [^9eac6a13].
+> Let me first confirm the pivotal randomized evidence. The SALTIRE trial randomized 155 patients with calcific aortic stenosis to atorvastatin 80 mg daily versus placebo and found no difference in the annual increase in aortic-jet velocity (0.199 m/s/year with atorvastatin vs 0.203 m/s/year with placebo; adjusted mean difference −0.002 m/s/year, 95% CI −0.07 to 0.07; P = 0.95), and no difference in progression of valvular calcification (22.3%/year vs 21.7%/year; ratio 0.998, 99% CI 0.95–1.05; P = 0.93), despite a 53% reduction in LDL cholesterol in the statin arm [^113NZG5F] [^1154ExRp].
 
-> Wait, let me verify whether larger, longer trials align with SALTIRE. The ASTRONOMER trial in 269 patients with mild-to-moderate AS showed no reduction in hemodynamic progression with rosuvastatin 40 mg over a median 3.5 years, and the SEAS trial in 1,873 patients likewise found no reduction in AS progression or valve events with simvastatin plus ezetimibe, despite substantial LDL lowering, although ischemic events were reduced, which is a separate issue [^aea5a10d] [^9d2cf98a]. Hold on, I should also check meta-analyses; a Cochrane review of four RCTs including SALTIRE and ASTRONOMER concluded there was no significant effect of statins on valve hemodynamics or clinical outcomes, reinforcing that statins do not slow AS progression [^3b5fd7be].
+> Wait, let me verify whether larger, longer trials align with SALTIRE. The ASTRONOMER trial in 269 patients with mild-to-moderate AS showed no reduction in hemodynamic progression with rosuvastatin 40 mg over a median 3.5 years, and the SEAS trial in 1,873 patients likewise found no reduction in AS progression or valve events with simvastatin plus ezetimibe, despite substantial LDL lowering, although ischemic events were reduced, which is a separate issue [^115TvUkU] [^11522ARX]. Hold on, I should also check meta-analyses; a Cochrane review of four RCTs including SALTIRE and ASTRONOMER concluded there was no significant effect of statins on valve hemodynamics or clinical outcomes, reinforcing that statins do not slow AS progression [^112X2To3].
 
-> Next, I should review guidelines to ensure my interpretation matches current standards. The 2020 ACC/AHA guideline states that statins are indicated for primary and secondary prevention of atherosclerotic cardiovascular disease in patients with calcific AS, but they are not indicated to prevent hemodynamic progression of AS, which is a Class 3 "no benefit" recommendation with Level A evidence, reflecting the negative RCTs [^ab8da454] [^56bf808e]. I need to ensure I communicate that clearly: statins are appropriate for ASCVD risk reduction, but not for slowing the valve disease itself [^c8d2df03].
+> Next, I should review guidelines to ensure my interpretation matches current standards. The 2020 ACC/AHA guideline states that statins are indicated for primary and secondary prevention of atherosclerotic cardiovascular disease in patients with calcific AS, but they are not indicated to prevent hemodynamic progression of AS, which is a Class 3 "no benefit" recommendation with Level A evidence, reflecting the negative RCTs [^115PLTbZ] [^113DcFzu]. I need to ensure I communicate that clearly: statins are appropriate for ASCVD risk reduction, but not for slowing the valve disease itself [^1168jMTp].
 
-> I will now examine why statins might fail mechanistically despite lowering LDL. Let me think about the disease biology: calcific AS progresses from an initiation phase with lipid deposition and inflammation to a propagation phase dominated by fibrosis and calcification; once the latter is established, LDL lowering may be too late to reverse the osteogenic programming of valve interstitial cells, explaining the neutral RCT results despite marked LDL reductions [^9cfa7e65] [^f037aa08]. But wait, what if Lp(a) is the real culprit? Observational and genetic data implicate Lp(a) and oxidized phospholipids in faster progression, and statins do not lower Lp(a), which may blunt any potential benefit and even raise Lp(a) in some studies, though the cardiovascular net benefit of statins remains favorable for ASCVD risk reduction [^7be800e7] [^6d60ebfa] [^c85e9dd0].
+> I will now examine why statins might fail mechanistically despite lowering LDL. Let me think about the disease biology: calcific AS progresses from an initiation phase with lipid deposition and inflammation to a propagation phase dominated by fibrosis and calcification; once the latter is established, LDL lowering may be too late to reverse the osteogenic programming of valve interstitial cells, explaining the neutral RCT results despite marked LDL reductions [^1151jCyS] [^11798j4T]. But wait, what if Lp(a) is the real culprit? Observational and genetic data implicate Lp(a) and oxidized phospholipids in faster progression, and statins do not lower Lp(a), which may blunt any potential benefit and even raise Lp(a) in some studies, though the cardiovascular net benefit of statins remains favorable for ASCVD risk reduction [^114AhQTQ] [^113oACuX] [^11684Je3].
 
-> Let me consider the clinical implications for follow-up. SALTIRE did not establish a disease-modifying role for statins, but it did illustrate that patients with calcific AS can be safely monitored with periodic echocardiography and that aggressive LDL lowering is feasible without altering valve outcomes, which supports standard surveillance rather than statin therapy to modify valve progression [^5cc8a8a2]. I should confirm progression benchmarks: in moderate AS, average annual progression is about +0.3 m/s in jet velocity, +7 mm Hg in mean gradient, and −0.1 cm² in valve area, which helps frame expectations during follow-up [^fcc50776].
+> Let me consider the clinical implications for follow-up. SALTIRE did not establish a disease-modifying role for statins, but it did illustrate that patients with calcific AS can be safely monitored with periodic echocardiography and that aggressive LDL lowering is feasible without altering valve outcomes, which supports standard surveillance rather than statin therapy to modify valve progression [^113NZG5F]. I should confirm progression benchmarks: in moderate AS, average annual progression is about +0.3 m/s in jet velocity, +7 mm Hg in mean gradient, and −0.1 cm² in valve area, which helps frame expectations during follow-up [^117Tk4TF].
 
-> Next, I should review practical management and surveillance. For mild calcific AS, I would reassess clinically and with echocardiography about every 1–2 years, escalating frequency if there are signs of progression or new symptoms, and I would treat hypertension, diabetes, and other ASCVD risk factors per guideline-directed medical therapy, while emphasizing smoking cessation and physical activity, because these steps reduce overall cardiovascular risk even if they do not slow valve progression [^ab8da454]. Hold on, I should verify that I'm not overstating surveillance intervals; patient-level progression varies, so individualized follow-up based on severity and trajectory is prudent [^fcc50776].
+> Next, I should review practical management and surveillance. For mild calcific AS, I would reassess clinically and with echocardiography about every 1–2 years, escalating frequency if there are signs of progression or new symptoms, and I would treat hypertension, diabetes, and other ASCVD risk factors per guideline-directed medical therapy, while emphasizing smoking cessation and physical activity, because these steps reduce overall cardiovascular risk even if they do not slow valve progression [^115PLTbZ]. Hold on, I should verify that I'm not overstating surveillance intervals; patient-level progression varies, so individualized follow-up based on severity and trajectory is prudent [^117Tk4TF].
 
-> I should double-check whether any subgroup or exception changes the calculus. Post hoc analyses from SEAS suggested a signal of slower progression only in patients with mild AS and high baseline LDL, but this was hypothesis-generating and not a prespecified endpoint, so it should not override the overall negative RCTs and guideline stance; similarly, observational studies suggesting benefit are confounded and should not guide practice [^38776d43] [^9d2cf98a]. Let me reconsider: if the patient has very high Lp(a), I would discuss emerging evidence and consider measuring Lp(a), but I would not start a statin for the valve; instead, I would optimize global risk and consider referral if Lp(a) is markedly elevated, recognizing that Lp(a)-lowering trials are ongoing and not yet practice-changing for AS [^c85e9dd0] [^7be800e7].
+> I should double-check whether any subgroup or exception changes the calculus. Post hoc analyses from SEAS suggested a signal of slower progression only in patients with mild AS and high baseline LDL, but this was hypothesis-generating and not a prespecified endpoint, so it should not override the overall negative RCTs and guideline stance; similarly, observational studies suggesting benefit are confounded and should not guide practice [^112SiRQN] [^11522ARX]. Let me reconsider: if the patient has very high Lp(a), I would discuss emerging evidence and consider measuring Lp(a), but I would not start a statin for the valve; instead, I would optimize global risk and consider referral if Lp(a) is markedly elevated, recognizing that Lp(a)-lowering trials are ongoing and not yet practice-changing for AS [^11684Je3] [^114AhQTQ].
 
-> Putting this together, I would counsel the patient as follows: Starting atorvastatin will not slow the progression of your mild calcific aortic stenosis, based on high-quality randomized trials including SALTIRE, ASTRONOMER, and SEAS, and this is reflected in current ACC/AHA guidelines that recommend statins only for ASCVD risk reduction, not to modify valve disease progression [^5cc8a8a2] [^aea5a10d] [^9d2cf98a] [^ab8da454]. I should confirm that we will continue standard surveillance with periodic echocardiography and aggressive management of blood pressure and other risk factors, and I will reassess symptoms at each visit because progression to severe AS is unpredictable and intervention is driven by symptoms and ventricular response rather than lipid levels [^fcc50776] [^e5cba831].
+> Putting this together, I would counsel the patient as follows: Starting atorvastatin will not slow the progression of your mild calcific aortic stenosis, based on high-quality randomized trials including SALTIRE, ASTRONOMER, and SEAS, and this is reflected in current ACC/AHA guidelines that recommend statins only for ASCVD risk reduction, not to modify valve disease progression [^113NZG5F] [^115TvUkU] [^11522ARX] [^115PLTbZ]. I should confirm that we will continue standard surveillance with periodic echocardiography and aggressive management of blood pressure and other risk factors, and I will reassess symptoms at each visit because progression to severe AS is unpredictable and intervention is driven by symptoms and ventricular response rather than lipid levels [^117Tk4TF] [^116sga6L].
 
 ---
 
-Starting atorvastatin **does not slow progression** of mild calcific aortic stenosis [^5cc8a8a2]. The SALTIRE randomized trial showed no reduction in aortic-jet velocity or valve calcification with high-dose atorvastatin over 25 months [^9eac6a13], and this finding is supported by larger trials (SEAS, ASTRONOMER) and meta-analyses [^3b5fd7be] [^8e8c32b8]. Statins remain important for ASCVD risk reduction, but **should not be used to modify valve progression** in mild AS [^ab8da454]. Follow-up should focus on symptom surveillance and periodic echocardiography every 1–2 years, with earlier reassessment if symptoms or new findings arise [^e5cba831].
+Starting atorvastatin **does not slow progression** of mild calcific aortic stenosis [^113NZG5F]. The SALTIRE randomized trial showed no reduction in aortic-jet velocity or valve calcification with high-dose atorvastatin over 25 months [^1154ExRp], and this finding is supported by larger trials (SEAS, ASTRONOMER) and meta-analyses [^112X2To3] [^114eLLJB]. Statins remain important for ASCVD risk reduction, but **should not be used to modify valve progression** in mild AS [^115PLTbZ]. Follow-up should focus on symptom surveillance and periodic echocardiography every 1–2 years, with earlier reassessment if symptoms or new findings arise [^116sga6L].
 
 ---
 
 ## Evidence from SALTIRE and other randomized trials
 
-- **SALTIRE trial**: 155 patients with calcific AS randomized to atorvastatin 80 mg vs placebo for 25 months; no difference in aortic-jet velocity progression (0.199 vs 0.203 m/s/year; P = 0.95) or calcification (22.3% vs 21.7%/year; P = 0.93) [^5cc8a8a2] [^9eac6a13].
+- **SALTIRE trial**: 155 patients with calcific AS randomized to atorvastatin 80 mg vs placebo for 25 months; no difference in aortic-jet velocity progression (0.199 vs 0.203 m/s/year; P = 0.95) or calcification (22.3% vs 21.7%/year; P = 0.93) [^113NZG5F] [^1154ExRp].
 
-- **SEAS trial**: 1,873 patients with mild-to-moderate AS; simvastatin/ezetimibe reduced LDL by 54% but did not slow hemodynamic progression or reduce valve events, though ischemic events fell [^9d2cf98a].
+- **SEAS trial**: 1,873 patients with mild-to-moderate AS; simvastatin/ezetimibe reduced LDL by 54% but did not slow hemodynamic progression or reduce valve events, though ischemic events fell [^11522ARX].
 
-- **ASTRONOMER trial**: 269 patients with mild-to-moderate AS; rosuvastatin 40 mg did not reduce progression over 3.5 years [^aea5a10d].
+- **ASTRONOMER trial**: 269 patients with mild-to-moderate AS; rosuvastatin 40 mg did not reduce progression over 3.5 years [^115TvUkU].
 
-- **Meta-analyses**: Consistently show no benefit of statins on AS progression or clinical outcomes [^3b5fd7be] [^8e8c32b8].
+- **Meta-analyses**: Consistently show no benefit of statins on AS progression or clinical outcomes [^112X2To3] [^114eLLJB].
 
 ---
 
 ## Mechanistic considerations
 
-Statins lower LDL and have anti-inflammatory effects, but calcific AS progresses via **fibrocalcific remodeling** driven by osteogenic differentiation of valve interstitial cells; once established, this process is largely irreversible and not responsive to LDL lowering [^9cfa7e65] [^f037aa08]. Lipoprotein(a) and oxidized phospholipids may drive progression, and statins do not meaningfully lower Lp(a), limiting their impact on valve disease [^7be800e7] [^6d60ebfa].
+Statins lower LDL and have anti-inflammatory effects, but calcific AS progresses via **fibrocalcific remodeling** driven by osteogenic differentiation of valve interstitial cells; once established, this process is largely irreversible and not responsive to LDL lowering [^1151jCyS] [^11798j4T]. Lipoprotein(a) and oxidized phospholipids may drive progression, and statins do not meaningfully lower Lp(a), limiting their impact on valve disease [^114AhQTQ] [^113oACuX].
 
 ---
 
 ## Current guideline recommendations
 
-Guidelines advise statins for **ASCVD risk reduction** in calcific AS, but explicitly recommend against statins to prevent hemodynamic progression of AS (Class III, No Benefit) [^ab8da454] [^56bf808e]. This aligns with the negative RCTs and meta-analyses.
+Guidelines advise statins for **ASCVD risk reduction** in calcific AS, but explicitly recommend against statins to prevent hemodynamic progression of AS (Class III, No Benefit) [^115PLTbZ] [^113DcFzu]. This aligns with the negative RCTs and meta-analyses.
 
 ---
 
@@ -65,11 +65,11 @@ Guidelines advise statins for **ASCVD risk reduction** in calcific AS, but expli
 
 Given the lack of disease-modifying benefit, follow-up should prioritize:
 
-- **Symptom surveillance**: Educate patients to report dyspnea, chest pain, syncope, or reduced exercise tolerance promptly [^e5cba831].
+- **Symptom surveillance**: Educate patients to report dyspnea, chest pain, syncope, or reduced exercise tolerance promptly [^116sga6L].
 
-- **Periodic echocardiography**: Reassess every 1–2 years in mild AS, or sooner if symptoms or new findings emerge [^e5cba831].
+- **Periodic echocardiography**: Reassess every 1–2 years in mild AS, or sooner if symptoms or new findings emerge [^116sga6L].
 
-- **Risk factor management**: Treat hypertension, diabetes, and hyperlipidemia per guidelines to reduce overall cardiovascular risk, recognizing statins are for ASCVD prevention, not AS modification [^ab8da454].
+- **Risk factor management**: Treat hypertension, diabetes, and hyperlipidemia per guidelines to reduce overall cardiovascular risk, recognizing statins are for ASCVD prevention, not AS modification [^115PLTbZ].
 
 ---
 
@@ -77,10 +77,10 @@ Given the lack of disease-modifying benefit, follow-up should prioritize:
 
 | **Study** | **Intervention** | **Outcome** | **Result** |
 |-|-|-|-|
-| SALTIRE | Atorvastatin 80 mg | Aortic-jet velocity progression | No difference vs placebo [^5cc8a8a2] |
-| SEAS | Simvastatin/ezetimibe | Hemodynamic progression | No difference vs placebo [^9d2cf98a] |
-| ASTRONOMER | Rosuvastatin 40 mg | AS progression | No difference vs placebo [^aea5a10d] |
-| Meta-analyses | Statins | AS progression | No benefit [^3b5fd7be] [^8e8c32b8] |
+| SALTIRE | Atorvastatin 80 mg | Aortic-jet velocity progression | No difference vs placebo [^113NZG5F] |
+| SEAS | Simvastatin/ezetimibe | Hemodynamic progression | No difference vs placebo [^11522ARX] |
+| ASTRONOMER | Rosuvastatin 40 mg | AS progression | No difference vs placebo [^115TvUkU] |
+| Meta-analyses | Statins | AS progression | No benefit [^112X2To3] [^114eLLJB] |
 
 ---
 
@@ -90,13 +90,13 @@ Starting atorvastatin **does not slow progression** of mild calcific aortic sten
 
 ## References
 
-### A randomized trial of intensive lipid-lowering therapy in calcific aortic stenosis [^9eac6a13]. The New England Journal of Medicine (2005). Excellent credibility.
+### A randomized trial of intensive lipid-lowering therapy in calcific aortic stenosis [^1154ExRp]. The New England Journal of Medicine (2005). Excellent credibility.
 
 The study SALTIRE was published by Cowell SJ and colleagues in 2005 in the journal N Engl J Med. This study is related to the following diseases: Aortic stenosis. In the SALTIRE study, the trial question was: what is the role of intensive lipid-lowering therapy in patients with calcific aortic stenosis? In the SALTIRE study, the study design was: single center, double blinded, RCT. In the SALTIRE study, the population was: 155 patients (47 female, 108 male). The inclusion criteria were patients with calcific aortic stenosis. The key exclusion criteria were active or chronic liver disease, a history of alcohol or drug abuse, severe mitral-valve stenosis, severe mitral or aortic regurgitation, LV dysfunction, a planned aortic-valve replacement, or intolerance of statins. In the SALTIRE study, the interventions were: n = 77 atorvastatin (80 mg daily) n = 78 placebo (matching placebo once daily). In the SALTIRE study, the primary outcome was: no significant difference in change in aortic-jet velocity (0.199 m/s/y vs. 0.203 m/s/y; MD -0.002, 95% CI -0.07 to 0.07). In the SALTIRE study, the secondary outcomes were: no significant difference in progression in valvular calcification (22.3%/y vs. 21.7%/y; RR 0.998, 99% CI 0.95 to 1.05). In the SALTIRE study, the safety outcomes were: no significant difference in adverse events. In the SALTIRE study, the conclusion was: in patients with calcific aortic stenosis, atorvastatin was not superior to placebo with respect to change in aortic-jet velocity.
 
 ---
 
-### Post-stenotic aortic dilatation [^41e05ce9]. Journal of Cardiothoracic Surgery (2006). Low credibility.
+### Post-stenotic aortic dilatation [^112gfZG4]. Journal of Cardiothoracic Surgery (2006). Low credibility.
 
 Aortic stenosis (AS)
 
@@ -104,25 +104,25 @@ Aortic stenosis is the most common valvular heart disease and the third most com
 
 ---
 
-### Plasma lipids and risk of aortic valve stenosis: a mendelian randomization study [^2ee4bad4]. European Heart Journal (2020). Medium credibility.
+### Plasma lipids and risk of aortic valve stenosis: a mendelian randomization study [^112CXFym]. European Heart Journal (2020). Medium credibility.
 
 To the best of our knowledge, no RCT has yet assessed the effect of lipid modification for primary prevention of aortic stenosis. However, three randomized trials have investigated the effects of statins in patients with mild to moderate aortic stenosis. Although these trials failed to show a clear benefit for LDL-lowering therapy in delaying the progression of aortic stenosis to eventually require aortic valve replacement, they were mostly limited by a short follow-up duration and insufficient statistical power. Indeed, detecting a relatively small treatment effect on a slowly progressive disease will likely require a substantially large sample size. In addition, our MR analysis reflects the impact of lifelong exposure to higher levels of cholesterol and triglycerides, capturing long-term risks that may not be modifiable by short-term lipid-lowering treatment. Indeed, it is possible that cholesterol-induced atherosclerosis plays a more important role in initiation than in progression of aortic stenosis, which, for practical reasons, has been the main outcome of earlier RCTs. It is possible that an initial damage to the aortic cups disturbs valve function and flow, setting in motion an irreversible cycle of disturbed flow, abnormal pressure, endothelial damage, and calcification that eventually leads to severe stenosis requiring valve replacement. Once a certain threshold of valve damage has been crossed, cholesterol-lowering treatment might not be able to halt progression of aortic valve disease. As aortic stenosis has a long, silent clinically asymptomatic phase, it is plausible that treatment initiation after clinical manifestation might be too late to revert the pathologic process that has been triggered by prolonged exposure to raised lipid levels. A large randomized prospective, placebo vs. high-dose statin clinical trial in patients with subclinical aortic sclerosis or mild aortic stenosis would need to be conducted to test whether statin treatment can slow progression to overt aortic stenosis.
 
 ---
 
-### Emerging medical treatments for aortic stenosis: statins, angiotensin converting enzyme inhibitors, or both? [^26c6b46c]. Heart (2006). Low credibility.
+### Emerging medical treatments for aortic stenosis: statins, angiotensin converting enzyme inhibitors, or both? [^111zVGno]. Heart (2006). Low credibility.
 
 Aortic stenosis is the most common adult heart valve condition seen in the Western world and its incidence continues to rise. No established disease modifying treatments retard progression of the stenotic process. Recent insights into the pathogenesis of calcific aortic stenosis suggest that the disease mimics atherosclerosis. The natural history and progression of calcific aortic stenosis are described with particular emphasis on new and emerging medical treatments that may modify the disease process. In particular, statins and angiotensin converting enzyme inhibitors appear to hold promise but definitive evidence from large clinical trials is awaited.
 
 ---
 
-### Is it time to prescribe statins to patients with calcified aortic stenosis? [^9ed37b74]. American Heart Journal (2005). Low credibility.
+### Is it time to prescribe statins to patients with calcified aortic stenosis? [^1154U5Xq]. American Heart Journal (2005). Low credibility.
 
 Aortic stenosis (AS) is a common disease especially in the older population. It is associated with high mortality and morbidity. Recent data suggest that coronary artery disease and AS share common risk factors. Retrospective studies suggest that statins might slow the progression of AS but there are no randomized clinical trial data available. It would seem that statins can be considered for medical treatment of AS; however, this needs to be investigated in future randomized clinical trials.
 
 ---
 
-### A randomized trial of intensive lipid-lowering therapy in calcific aortic stenosis [^5cc8a8a2]. The New England Journal of Medicine (2005). Excellent credibility.
+### A randomized trial of intensive lipid-lowering therapy in calcific aortic stenosis [^113NZG5F]. The New England Journal of Medicine (2005). Excellent credibility.
 
 Background
 
@@ -142,7 +142,7 @@ Intensive lipid-lowering therapy does not halt the progression of calcific aorti
 
 ---
 
-### Do statins improve outcomes and delay the progression of non-rheumatic calcific aortic stenosis? [^8e8c32b8]. Heart (2011). Low credibility.
+### Do statins improve outcomes and delay the progression of non-rheumatic calcific aortic stenosis? [^114eLLJB]. Heart (2011). Low credibility.
 
 Context
 
@@ -170,13 +170,13 @@ Currently available data do not support the use of statins to improve outcomes a
 
 ---
 
-### Intensive lipid-lowering therapy for patients with aortic stenosis [^70112593]. The American Journal of Cardiology (2008). Low credibility.
+### Intensive lipid-lowering therapy for patients with aortic stenosis [^113s9NcJ]. The American Journal of Cardiology (2008). Low credibility.
 
 It has been suggested by several retrospective studies that lipid-lowering therapy (compared with treatment with medications other than statins) retards the progression of aortic stenosis. Additional evidence for this has emerged from the prospective (nonrandomized) Rosuvastatin Affecting Aortic Valve Endothelium (RAAVE) study, although not from findings of the randomized, double-blind Scottish Aortic Stenosis and Lipid Lowering Trial, Impact on Regression (SALTIRE). Currently, 2 larger randomized studies of aortic stenosis are in progress. These studies have longer durations than SALTIRE. The Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) study, with 1,873 patients, is the largest study with the longest planned length of treatment (4 to 7 years) that will assess whether lipid-lowering therapy slows the progression of aortic stenosis and the degradation of the aortic valve, thereby potentially reducing the urgency for surgery or at least delaying the need for surgery, relieving adverse hemodynamic consequences of aortic stenosis, and possibly decreasing mortality and morbidity in these patients. The Aortic Stenosis Progression Observation: Measuring Effects of Rosuvastatin (ASTRONOMER) trial, a study of disease progression, involves 272 patients with aortic stenosis, with treatment arms of rosuvastatin 40 mg/d and placebo for 3 to 5 years. In conclusion, the SEAS and ASTRONOMER studies will help resolve the contradictory findings of SALTIRE and RAAVE on the benefit of intensive lipid-lowering treatment in aortic stenosis.
 
 ---
 
-### Disease drivers in aortic stenosis vs atherosclerosis… [^1c94a029]. JAMA Network (2025). Excellent credibility.
+### Disease drivers in aortic stenosis vs atherosclerosis… [^111jNaMN]. JAMA Network (2025). Excellent credibility.
 
 Aortic stenosis due to fibrosis and calcification of the aortic valve is a hazardous component of cardiovascular disease burden — after developing symptomatic AS, patients survive for an average of less than 2 years without treatment. Alongside the shared presence of many traditional cardiometabolic risk factors, the earliest comparisons of AS and atherosclerotic lesions suggested gross morphological and histological similarities 1 and led to the belief that AS might be an atherosclerosislike disease of the aortic valve. However, the preponderance of basic, clinical, and translational research over the 30 years that followed has shown that this is not entirely true. Fewer than half of patients with valvular calcification also develop vascular calcification, suggesting differential modes of pathogenesis.
 
@@ -184,7 +184,7 @@ Furthermore, prospective clinical trials of statin-mediated lipid lowering have 
 
 ---
 
-### Rationale and design of the EPISODE trial: a randomized controlled trial on the effect of PCSK9 inhibitors in calcific aortic valve stenosis [^2604e487]. Journal of the American Heart Association (2025). Medium credibility.
+### Rationale and design of the EPISODE trial: a randomized controlled trial on the effect of PCSK9 inhibitors in calcific aortic valve stenosis [^111yNB2W]. Journal of the American Heart Association (2025). Medium credibility.
 
 Background
 
@@ -204,7 +204,7 @@ URL: https://www.clinicaltrials.gov; Unique Identifier: NCT04968509.
 
 ---
 
-### Quest for pharmacotherapy in aortic valve stenosis: the lipid hypothesis [^f037aa08]. Heart (2020). Medium credibility.
+### Quest for pharmacotherapy in aortic valve stenosis: the lipid hypothesis [^11798j4T]. Heart (2020). Medium credibility.
 
 Aortic stenosis was first described by the French surgeon and anatomist Lazare Riviere in 1663. While the last decade has seen impressive advances in our ability to treat aortic valve stenosis invasively and percutaneously, significant issues remain with regards to the optimal timing of valve replacement, periprocedural risks and long-term durability. There therefore remains major interest in developing medical treatments to halt or slow progression of aortic stenosis, which could obviate the need for surgical intervention altogether. A stitch in time saves nine; however, no pharmacotherapies are currently proven to be effective for the treatment of calcific aortic valve stenosis (CAVS).
 
@@ -212,7 +212,7 @@ Atherogenic apolipoprotein B-containing lipoproteins, such as low-density lipopr
 
 ---
 
-### Progressive coronary calcification despite intensive lipid-lowering treatment: a randomised controlled trial [^6aac1c81]. Heart (2006). Low credibility.
+### Progressive coronary calcification despite intensive lipid-lowering treatment: a randomised controlled trial [^113j9VsW]. Heart (2006). Low credibility.
 
 Objectives
 
@@ -232,13 +232,13 @@ In contrast to previous observational studies, this randomised controlled trial 
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^9d2cf98a]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^11522ARX]. Circulation (2021). High credibility.
 
 Aortic stenosis — medical therapy and comorbidities: In asymptomatic aortic stenosis (AS), hypertension (n = 1340) was associated with a 56% higher rate of ischemic cardiovascular events and a 2-fold higher mortality rate (both P < 0.01), while medical therapy for hypertension follows standard guidelines with low-dose initiation and titration; there are no studies addressing specific antihypertensive medications in AS, diuretics may reduce stroke volume, ACE inhibitors may be advantageous, and consideration should be given to a higher target blood pressure for AS. Concurrent coronary artery disease (CAD) is common and all patients should be screened and treated for hypercholesterolemia with guideline-directed medical therapy (GDMT); in randomized controlled trials (RCTs) of statin therapy for mild to moderate AS, ischemic events were reduced by about 20% despite no reduction in aortic valve event rates. After transcatheter aortic valve implantation (TAVI), renin–angiotensin system blocker therapy was associated with a lower 1-year mortality with a relative risk reduction of about 20% to 50% and an absolute risk reduction between 2.4% and 5.0%, with benefit among patients with preserved left ventricular ejection fraction (LVEF) but not among those with reduced LVEF. Despite experimental and retrospective signals, 3 large well-designed RCTs failed to show benefit of statins for calcific AS progression, and there are no data to support the use of statins for prevention of progression of AS.
 
 ---
 
-### Lipoprotein (a) has no major impact on calcification activity in patients with mild to moderate aortic valve stenosis [^ca6ba915]. Heart (2022). Medium credibility.
+### Lipoprotein (a) has no major impact on calcification activity in patients with mild to moderate aortic valve stenosis [^116B6fKa]. Heart (2022). Medium credibility.
 
 Lp(a) and progression of established AS
 
@@ -246,19 +246,19 @@ In previous studies, Lp(a) has also been associated with faster AS progression. 
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^5f06767c]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113RszgK]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
 
 Regarding medical management for aortic stenosis, more specifically with respect to statin therapy, ACC/AHA 2021 guidelines recommend to initiate statins for primary and secondary prevention of atherosclerosis on the basis of standard risk scores in all patients with calcific AS.
 
 ---
 
-### Statin therapy of calcific aortic stenosis: hype or hope? [^5318ca03]. European Heart Journal (2006). Low credibility.
+### Statin therapy of calcific aortic stenosis: hype or hope? [^1138CJKc]. European Heart Journal (2006). Low credibility.
 
 Calcific aortic stenosis, with a prevalence of 3–9%, is the most frequent heart valve disease and the main cause for valve replacement in patients over 60 years of age. Once thought to be caused by a passive calcium precipitate within the aortic valve leaflets, there is now increasing evidence that development and progression of calcific aortic valve disease may be triggered by underlying genetic and cardiovascular risk factors, and is regulated by an active cellular process involving inflammatory pathways. Targeted drug therapy to prevent the progression of calcific aortic valve disease should ideally be based on the knowledge of risk factors and the molecular pathogenesis of the disease. Conflicting data exists on the potency of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (i.e. statins) to influence both risk factors and inflammatory pathways by lowering lipid levels and exerting anti-inflammatory properties, respectively. In this review, various aspects of the molecular pathogenesis of calcific aortic stenosis will be summarized and connected with recent experimental and clinical studies that address the potential benefit of the targeted drug therapy by statins in order to prevent the progression of the disease.
 
 ---
 
-### Effect of hydroxymethylglutaryl coenzyme a reductase inhibitors on the progression of calcific aortic stenosis [^49573840]. Circulation (2001). Low credibility.
+### Effect of hydroxymethylglutaryl coenzyme a reductase inhibitors on the progression of calcific aortic stenosis [^112sjPkT]. Circulation (2001). Low credibility.
 
 Background
 
@@ -274,13 +274,13 @@ Statin-treated patients, despite a higher risk profile for progression, had redu
 
 ---
 
-### PCSK9 and calcific aortic valve stenosis: moving beyond lipids [^60926e10]. JACC: Basic to Translational Science (2020). Medium credibility.
+### PCSK9 and calcific aortic valve stenosis: moving beyond lipids [^113UAzjq]. JACC: Basic to Translational Science (2020). Medium credibility.
 
 Although not posited by the study directly, it is difficult to believe that lower LDL-C levels correlated with the PCSK9 loss-of-function variant were the sole explanation for protection from CAVS for several reasons. First, interventional studies of the effect statins on CAVS, such as the double-blind, placebo-controlled SALTIRE (Scottish Aortic Stenosis and Lipid Lowering Trial, Impact on Regression) study, demonstrated a > 50% reduction in LDL-C yet found no difference in the progression of valvular calcification in the statin-treated arm. Second, although it is critically important to lower and maintain guideline-directed LDL-C levels, at the cellular and molecular level, it is the oxidized form of LDL (ox-LDL) that increases the calcification potential of human VICs. Cells exposed to ox-LDL increase expression of the phosphate transporter Pit1 and the pro-calcific mediator bone morphogenetic protein-2, both of which were shown to promote transition of VICs to osteoblast-like calcifying cells. The idea that an oxidant-rich milieu promotes calcification may also explain, in part, the link between Lp(a) and CAVS because Lp(a) is the major lipoprotein carrier of oxidized phospholipids. Clinical studies showed that the top tertile of Lp(a) was associated with the highest aortic valve calcification activity by 15 F-NaF positron emission tomography imaging. Thus, to understand the role of PCSK9 in mediating CAVS, it is necessary to look at the biological activity of PCSK9 beyond its effects on regulating lipid levels.
 
 ---
 
-### Statins and progression of calcified aortic stenosis [^c603352b]. The Annals of Pharmacotherapy (2006). Low credibility.
+### Statins and progression of calcified aortic stenosis [^1164ZdHk]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Objective
 
@@ -304,7 +304,7 @@ An association between statin use and a delay in AS progression has been observe
 
 ---
 
-### Effect of lipid lowering with rosuvastatin on progression of aortic stenosis: results of the aortic stenosis progression observation: measuring effects of rosuvastatin (ASTRONOMER) trial [^aea5a10d]. Circulation (2010). Low credibility.
+### Effect of lipid lowering with rosuvastatin on progression of aortic stenosis: results of the aortic stenosis progression observation: measuring effects of rosuvastatin (ASTRONOMER) trial [^115TvUkU]. Circulation (2010). Low credibility.
 
 Background
 
@@ -324,19 +324,19 @@ ISRCTN 32424163.
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: executive summary: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^c8d2df03]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: executive summary: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1168jMTp]. Circulation (2021). High credibility.
 
 Aortic stenosis — medical therapy recommendations are: In patients at risk of developing AS (Stage A) and in patients with asymptomatic AS (Stages B and C), hypertension should be treated according to standard GDMT, started at a low dose, and gradually titrated upward as needed, with appropriate clinical monitoring. In all patients with calcific AS, statin therapy is indicated for primary and secondary prevention of atherosclerosis on the basis of standard risk scores. In patients who have undergone TAVI, renin-angiotensin system blocker therapy (ACE inhibitor or ARB) may be considered to reduce the long-term risk of all-cause mortality. In patients with calcific AS (Stages B and C), statin therapy is not indicated for prevention of hemodynamic progression of AS.
 
 ---
 
-### Prognosis and risk factors in patients with asymptomatic aortic stenosis and their modulation by atorvastatin (20 mg) [^c2b85bb2]. The American Journal of Cardiology (2008). Low credibility.
+### Prognosis and risk factors in patients with asymptomatic aortic stenosis and their modulation by atorvastatin (20 mg) [^115ygXFw]. The American Journal of Cardiology (2008). Low credibility.
 
 The aim of the prospective, randomized, placebo-controlled Tyrolean Aortic Stenosis Study (TASS) was to characterize the natural history and risk factors and their possible modulation by new-onset atorvastatin treatment (20 mg/day vs placebo) in patients with asymptomatic calcified aortic stenosis. Forty-seven patients without previous lipid-lowering therapy or indications for it according to guidelines at study entry were randomized to atorvastatin treatment or placebo and prospectively followed for a mean study period of 2.3 ± 1.2 years. Patients' prognoses were worse than expected, with 24 (51%) experiencing major adverse clinical events, in most cases the new onset of symptoms followed by aortic valve replacement. In multivariate regression analysis, independent risk factors for worse clinical outcomes were aortic valve calcification, as assessed by multidetector computed tomography, and plasma levels of C-reactive protein. In univariate analysis, mean systolic pressure gradient or an increased N-terminal-pro-B-type natriuretic peptide plasma level allowed the prediction of major adverse clinical events as well, whereas concomitant coronary calcification, age, and the initiation of atorvastatin treatment had no significant prognostic implication. As shown in a subgroup of 35 patients (19 randomly assigned to atorvastatin and 16 to placebo), annular progression in aortic valve calcification and hemodynamic deterioration were similar in both treatment groups. In conclusion, TASS could demonstrate a poor clinical outcome in patients with asymptomatic calcified aortic stenosis which can be predicted by new risk factors such as strong AVC or increased plasma levels of CRP or NT-proBNP. The study does not support the concept that treatment with a HMG-CoA reductase inhibitor (20 mg atorvastatin once daily) halts the progression of calcified aortic stenosis.
 
 ---
 
-### Association of mild to moderate aortic valve stenosis progression with higher lipoprotein (a) and oxidized phospholipid levels: secondary analysis of a randomized clinical trial [^43b425b7]. JAMA Cardiology (2018). Medium credibility.
+### Association of mild to moderate aortic valve stenosis progression with higher lipoprotein (a) and oxidized phospholipid levels: secondary analysis of a randomized clinical trial [^112jNgSA]. JAMA Cardiology (2018). Medium credibility.
 
 Importance
 
@@ -372,7 +372,7 @@ ClinicalTrials.gov Identifier: NCT00800800.
 
 ---
 
-### Dipeptidyl peptidase-4 inhibition to prevent progression of calcific aortic stenosis [^3fd0639e]. Heart (2020). Medium credibility.
+### Dipeptidyl peptidase-4 inhibition to prevent progression of calcific aortic stenosis [^112dcDW5]. Heart (2020). Medium credibility.
 
 Discussion
 
@@ -382,7 +382,7 @@ AS is a progressive condition characterised by long asymptomatic phase; accordin
 
 ---
 
-### Traditional cardiovascular risk factors and their relation to future surgery for valvular heart disease or ascending aortic disease: a Case-referent study [^140bbb3b]. Journal of the American Heart Association (2017). Low credibility.
+### Traditional cardiovascular risk factors and their relation to future surgery for valvular heart disease or ascending aortic disease: a Case-referent study [^111WihBY]. Journal of the American Heart Association (2017). Low credibility.
 
 Aortic Stenosis
 
@@ -392,13 +392,13 @@ In this study, with a focus on traditional risk factors, we found that hypertens
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^56bf808e]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113DcFzu]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
 
 Regarding medical management for aortic stenosis, more specifically with respect to statin therapy, ACC/AHA 2021 guidelines recommend to do not use statins for the prevention of hemodynamic progression of AS in patients with calcific AS (stages B and C).
 
 ---
 
-### Calcific aortic valve stenosis: hard disease in the heart: a biomolecular approach towards diagnosis and treatment [^9cfa7e65]. European Heart Journal (2018). Low credibility.
+### Calcific aortic valve stenosis: hard disease in the heart: a biomolecular approach towards diagnosis and treatment [^1151jCyS]. European Heart Journal (2018). Low credibility.
 
 Statins
 
@@ -410,13 +410,13 @@ Lipoprotein(a), the preferential plasma carrier of oxidized phospholipids, is an
 
 ---
 
-### Effects of rosuvastatin on progression of stenosis in adult patients with congenital aortic stenosis (PROCAS trial) [^561622ff]. The American Journal of Cardiology (2011). Low credibility.
+### Effects of rosuvastatin on progression of stenosis in adult patients with congenital aortic stenosis (PROCAS trial) [^113CdNVc]. The American Journal of Cardiology (2011). Low credibility.
 
 Recent trials have failed to show that statin therapy halts the progression of calcific aortic stenosis (AS). We hypothesized that statin therapy in younger patients with congenital AS would be more beneficial, because the valve is less calcified. In the present double-blind, placebo-controlled trial, 63 patients with congenital AS (age 18 to 45 years) were randomly assigned to receive either 10 mg of rosuvastatin daily (n = 30) or matched placebo (n = 33). The primary end point was the progression of peak aortic valve velocity. The secondary end points were temporal changes in the left ventricular mass, ascending aortic diameter, and N-terminal pro-brain natriuretic peptide (NT-proBNP). The median follow-up was 2.4 years (interquartile range 1.9 to 3.0). The mean increase in peak velocity was 0.05 ± 0.21 m/s annually in the rosuvastatin group and 0.09 ± 0.24 m/s annually in the placebo group (p = 0.435). The annualized change in the ascending aorta diameter (0.4 ± 1.7 mm with rosuvastatin vs 0.5 ± 1.6 mm with placebo; p = 0.826) and left ventricular mass (1.1 ± 15.8 g with rosuvastatin vs -3.7 ± 30.9 g with placebo; p = 0.476) were not significantly different between the 2 groups. Within the statin group, the NT-proBNP level was 50 pg/ml (range 19 to 98) at baseline and 21 pg/ml (interquartile range 12 to 65) at follow-up (p = 0.638). NT-proBNP increased from 40 pg/ml (interquartile range 20 to 92) to 56 pg/ml (range 26 to 130) within the placebo group (p = 0.008). In conclusion, lipid-lowering therapy with rosuvastatin 10 mg did not reduce the progression of congenital AS in asymptomatic young adult patients. Interestingly, statins halted the increase in NT-proBNP, suggesting a potential positive effect of statins on cardiac function in young patients with congenital AS.
 
 ---
 
-### Lipoprotein (a) is robustly associated with aortic valve calcium [^6c1e0278]. Heart (2021). Medium credibility.
+### Lipoprotein (a) is robustly associated with aortic valve calcium [^113mHk55]. Heart (2021). Medium credibility.
 
 Lp(a) is considered to play a role during both the initiation and progression phase of AVS. However, as calcium begets calcium, Lp(a) lowering is less likely to abrogate the accelerated calcification phase towards clinically overt AVS. This notion is in line with previous trials which found low-density lipoprotein cholesterol (LDL-C) lowering with statins and/or ezetimibe to be an unsuccessful strategy to attenuate AVS progression, despite LDL-C being implicated in the development of AVS. Namely, a recent post-hoc subanalysis of the Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) trial indicated that simvastatin/ezetimibe seemed to impede aortic jet velocity progression in a subgroup of patients with mild stenosis and high baseline LDL-C levels, whereas those who already had moderate stenosis and low baseline LDL-C did not benefit. Similarly, we envision that those with elevated Lp(a) would benefit most from Lp(a) lowering at earlier stages of AVC.
 
@@ -424,13 +424,13 @@ We show that the individuals with Lp(a) concentrations above the 80th percentile
 
 ---
 
-### Bone modifiers and the quest to slow progression of aortic stenosis [^27060d82]. The American Journal of Cardiology (2009). Low credibility.
+### Bone modifiers and the quest to slow progression of aortic stenosis [^111zrYuf]. The American Journal of Cardiology (2009). Low credibility.
 
 Aortic stenosis (AS) will likely become increasingly frequent with the aging of the American population. The difficulties in treating elderly patients with critical AS emphasize the potential value of a strategy to slow the advancement of aortic valve calcification. Recent prospective trials of statins and angiotensin-converting enzyme inhibitors have been disappointing. New options are needed to achieve a truly effective strategy for retarding the advancement of AS. In this context, the observations of Skolnick et al appearing in this issue of The American Journal of Cardiology are particularly intriguing. In a retrospective review of patients followed for mild or moderate AS, these investigators found that 18 patients receiving treatment for osteoporosis had significantly less decrement in aortic valve area on follow-up echocardiography than 37 not receiving such treatment. The most attractive explanation is an action of drug therapy for osteoporosis, most often bisphosphonates, to retard aortic valve calcification. The mechanism for this action is not clear, although numerous possibilities can be postulated on the basis of the multiple complex processes controlling tissue calcification. In conclusion, the investigators' findings deserve further study to clarify drug impact on aortic valve calcification as well as confirm the clinical findings in a larger and more diverse population. Such investigation should also assess the role of vitamin D and calcium supplementation, common features of treatment for osteoporosis. Currently available results are too preliminary to justify the use of bisphosphonates or other osteoporosis therapies to slow the progression of AS.
 
 ---
 
-### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^769cfef2]. Journal of the American College of Cardiology (2019). Medium credibility.
+### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^1142rGnD]. Journal of the American College of Cardiology (2019). Medium credibility.
 
 Methods
 
@@ -453,7 +453,7 @@ Plasma Lp(a) and OxPL-apoB were measured in all patients in both cohorts using c
 
 ---
 
-### Atorvastatin effect on aortic dilatation and valvular calcification progression in bicuspid aortic valve (BICATOR): a randomized clinical trial [^60f789d4]. Circulation (2024). Medium credibility.
+### Atorvastatin effect on aortic dilatation and valvular calcification progression in bicuspid aortic valve (BICATOR): a randomized clinical trial [^113UkxVR]. Circulation (2024). Medium credibility.
 
 Background
 
@@ -477,13 +477,13 @@ URL: https://www.clinicaltrialsregister.eu; Unique identifier: 2015-001808-57. U
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^ab8da454]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115PLTbZ]. Circulation (2021). High credibility.
 
 Aortic stenosis (AS) medical therapy — hypertension in patients at risk of developing AS (Stage A) and in patients with asymptomatic AS (Stages B and C) should be treated according to standard guideline-directed medical therapy (GDMT), started at a low dose, and gradually titrated upward as needed, with appropriate clinical monitoring (COR 1, LOE B-NR). In all patients with calcific AS, statin therapy is indicated for primary and secondary prevention of atherosclerosis on the basis of standard risk scores (COR 1, LOE A). In patients who have undergone TAVI, renin–angiotensin system blocker therapy (ACE inhibitor or ARB) may be considered to reduce the long-term risk of all-cause mortality (COR 2b, LOE B-NR). In patients with calcific AS (Stages B and C), statin therapy is not indicated for prevention of hemodynamic progression of AS (COR 3: No Benefit, LOE A).
 
 ---
 
-### High-sensitivity troponin I concentrations are a marker of an advanced hypertrophic response and adverse outcomes in patients with aortic stenosis [^15ea219c]. European Heart Journal (2014). Low credibility.
+### High-sensitivity troponin I concentrations are a marker of an advanced hypertrophic response and adverse outcomes in patients with aortic stenosis [^111ZVPAT]. European Heart Journal (2014). Low credibility.
 
 Methods
 
@@ -501,7 +501,7 @@ The Outcome Cohort comprised patients recruited into the Scottish Aortic Stenosi
 
 ---
 
-### Pathophysiology, emerging techniques for the assessment and novel treatment of aortic stenosis [^b92fe5d2]. Open Heart (2023). Medium credibility.
+### Pathophysiology, emerging techniques for the assessment and novel treatment of aortic stenosis [^115jYoFw]. Open Heart (2023). Medium credibility.
 
 Conclusion
 
@@ -509,13 +509,13 @@ Our perspectives are shifting from passive monitoring to active management for t
 
 ---
 
-### Effect modifications of lipid-lowering therapy on progression of aortic stenosis (from the simvastatin and ezetimibe in aortic stenosis [SEAS] study) [^abe4fc78]. The American Journal of Cardiology (2018). Low credibility.
+### Effect modifications of lipid-lowering therapy on progression of aortic stenosis (from the simvastatin and ezetimibe in aortic stenosis [SEAS] study) [^115PqoCb]. The American Journal of Cardiology (2018). Low credibility.
 
 Observational studies indicate that low-density lipoprotein (LDL) cholesterol acts as a primary contributor to an active process leading to aortic stenosis (AS) development. However, randomized clinical trials have failed to demonstrate an effect of lipid lowering on impeding AS progression. This study explored if pretreatment LDL levels and AS severity altered the efficacy of lipid-lowering therapy. The study goal was evaluated in the analysis of surviving patients with baseline data in the Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) trial of 1,873 asymptomatic patients with mild-to-moderate AS. Serially measured peak aortic jet velocity was the primary effect estimate. Linear mixed model analysis adjusted by baseline peak jet velocity and pretreatment LDL levels was used to assess effect modifications of treatment. Data were available in 1,579 (84%) patients. In adjusted analyses, lower baseline peak aortic jet velocity and higher pretreatment LDL levels increased the effect of randomized treatment (p = 0.04 for interaction). As such, treatment impeded progression of AS in the highest quartile of LDL among patients with mild AS at baseline (0.06m/s per year slower progression vs placebo in peak aortic jet velocity, 95% confidence interval 0.01 to 0.11, p = 0.03), but not in the 3 other quartiles of LDL. Conversely, among patients with moderate AS, there was no detectable effect of treatment in any of the pretreatment LDL quartiles (all p ≥ 0.14). In conclusion, in a non-prespecified post hoc analysis, the efficacy of lipid-lowering therapy on impeding AS progression increased with higher pretreatment LDL and lower peak aortic jet velocity (SEAS study: NCT00092677).
 
 ---
 
-### Patient information: calcific aortic stenosis… [^e5cba831]. JAMA Network (2025). Excellent credibility.
+### Patient information: calcific aortic stenosis… [^116sga6L]. JAMA Network (2025). Excellent credibility.
 
 Patients with mild to moderate calcific aortic stenosis often have no symptoms, and even those with severe aortic stenosis can be symptom free for a few years. The most common early symptoms of aortic stenosis are decreased exercise tolerance and shortness of breath with physical activity. Patients with more severe aortic stenosis may have leg swelling, shortness of breath at rest and while lying flat, and extreme fatigue. Chest pain, lightheadedness, and fainting are less common but may occur with severe aortic stenosis. Due to the chronic progressive course of aortic stenosis, patients should promptly report new or worsening symptoms to avoid treatment delays. Asymptomatic patients with aortic stenosis should undergo clinical examination and echocardiography at intervals from every 6 months to every 5 years, depending on their disease severity.
 
@@ -525,7 +525,7 @@ Transcatheter AVR is a less invasive procedure in which a new aortic valve is in
 
 ---
 
-### Rationale, design, and baseline characteristics of a randomized trial to assess the effect of cholesterol lowering on the progression of aortic stenosis: the aortic stenosis progression observation: measuring effects of rosuvastatin (ASTRONOMER) trial [^545199ac]. American Heart Journal (2007). Low credibility.
+### Rationale, design, and baseline characteristics of a randomized trial to assess the effect of cholesterol lowering on the progression of aortic stenosis: the aortic stenosis progression observation: measuring effects of rosuvastatin (ASTRONOMER) trial [^113A1NNf]. American Heart Journal (2007). Low credibility.
 
 Background
 
@@ -545,7 +545,7 @@ Prevention of the development of severe AS needs to be tested in large randomize
 
 ---
 
-### Rosuvastatin affecting aortic valve endothelium to slow the progression of aortic stenosis [^f1fb1ed0]. Journal of the American College of Cardiology (2007). Low credibility.
+### Rosuvastatin affecting aortic valve endothelium to slow the progression of aortic stenosis [^117BkN8o]. Journal of the American College of Cardiology (2007). Low credibility.
 
 Objectives
 
@@ -569,7 +569,7 @@ Prospective treatment of aortic stenosis with rosuvastatin by targeting serum LD
 
 ---
 
-### Lipoprotein (a) and the apolipoprotein B / A1 ratio independently associate with surgery for aortic stenosis only in patients with concomitant coronary artery disease [^6f970586]. Journal of the American Heart Association (2017). Low credibility.
+### Lipoprotein (a) and the apolipoprotein B / A1 ratio independently associate with surgery for aortic stenosis only in patients with concomitant coronary artery disease [^113rSMRF]. Journal of the American Heart Association (2017). Low credibility.
 
 Lipids and Risk of AS
 
@@ -581,13 +581,13 @@ The development of AS is a complex process involving several pathways, including
 
 ---
 
-### Impact of high-dose atorvastatin therapy and clinical risk factors on incident aortic valve stenosis in patients with cardiovascular disease (from TNT, IDEAL, and SPARCL) [^31ed8b33]. The American Journal of Cardiology (2014). Low credibility.
+### Impact of high-dose atorvastatin therapy and clinical risk factors on incident aortic valve stenosis in patients with cardiovascular disease (from TNT, IDEAL, and SPARCL) [^112H2BXx]. The American Journal of Cardiology (2014). Low credibility.
 
 Clinical trials have not provided evidence for a role of statin therapy in reducing aortic valve stenosis (AVS) severity in patients with documented AVS. However, whether statin therapy could prevent the onset of AVS is unknown. Our objectives were (1) to compare the incidence rates of AVS among patients treated with high-dose versus usual-dose statin or placebo and (2) to identify clinical risk factors associated with the development of AVS. We conducted post hoc analyses in 23,508 participants from 3 large-scale multicenter atorvastatin randomized blinded clinical trials: Treating to New Targets, the Incremental Decrease in End Points Through Aggressive Lipid Lowering, and the Stroke Prevention by Aggressive Reduction in Cholesterol Levels. The main outcome measure was the incidence of clinical AVS over a median follow-up of 4.9 years (82 cases). Among patients who developed AVS, 39 (47.6%) were treated with atorvastatin 80 mg and 43 (52.4%) were treated with lower dose statin (atorvastatin 10 mg in Treating to New Targets, simvastatin 20 to 40 mg in Incremental Decrease in End Points Through Aggressive Lipid Lowering, or placebo in Stroke Prevention by Aggressive Reduction in Cholesterol Levels; hazard ratio [HR] 0.91, 95% confidence interval [CI] 0.59 to 1.41, p = 0.67). In multivariate analyses forcing treatment, sex, and race into the model, factors that were significantly associated with AVS included age (HR 2.17, 95% CI 1.61 to 2.93, p < 0.0001 per 1-SD increment), diabetes (HR 1.67, 95% CI 1.00 to 2.80, p = 0.05), vitamin K antagonist use (HR 3.25, 95% CI 2.06 to 5.16, p < 0.0001), and previous statin use (HR 2.65, 95% CI 1.54 to 4.60, p = 0.0008). In conclusion, random allocation to high-dose versus usual-dose statin therapy or placebo did not impact the incidence of AVS among patients without known AVS. Age, diabetes, vitamin K antagonists, and previous statin use were significant predictors of incident AVS in these high-risk patients.
 
 ---
 
-### Association of high-sensitivity troponin T with outcomes in asymptomatic non-severe aortic stenosis: a post-hoc substudy of the SEAS trial [^92632c0b]. EClinicalMedicine (2023). Medium credibility.
+### Association of high-sensitivity troponin T with outcomes in asymptomatic non-severe aortic stenosis: a post-hoc substudy of the SEAS trial [^114k2WAv]. EClinicalMedicine (2023). Medium credibility.
 
 Introduction
 
@@ -599,7 +599,7 @@ We, therefore, conducted an observational post-hoc analysis of the large, random
 
 ---
 
-### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^74345f18]. Circulation (2021). Medium credibility.
+### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^113yH9y9]. Circulation (2021). Medium credibility.
 
 Statistical Analysis
 
@@ -607,19 +607,19 @@ To be clinically meaningful, we posited that a disease-modifying therapy would n
 
 ---
 
-### HMG CoA reductase inhibitor (statin) and aortic valve calcium [^69450259]. Lancet (2002). Excellent credibility.
+### HMG CoA reductase inhibitor (statin) and aortic valve calcium [^113h4szp]. Lancet (2002). Excellent credibility.
 
 There is no known pharmacological therapy for calcific aortic valvular sclerosis or stenosis. Because leaflet calcification occurs in areas of lipoprotein deposition, we hypothesised that 3-hydroxy-3-methylglutaryl-coenzyme A (HMG COA) reductase inhibitors (statins) might slow aortic valve calcium (AVC) accumulation. We retrospectively identified 65 patients who had undergone two electron-beam computed tomography scans at a mean (SD) interval of 2.5 (1.6) years. 28 (43%) patients were receiving statins. Patients who were treated with statins had a 62–63% lower median rate of AVC accumulation (p = 0.006) and 44–49% fewer statin patients had definite AVC progression (p = 0.043). These findings suggest that statins may decrease AVC accumulation.
 
 ---
 
-### Is aortic stenosis a preventable disease? [^f04dd9c3]. Journal of the American College of Cardiology (2003). Low credibility.
+### Is aortic stenosis a preventable disease? [^1179GBHc]. Journal of the American College of Cardiology (2003). Low credibility.
 
 Aortic stenosis (AS) is the most common valvular disease requiring valve replacement. Its prevalence increases with age. When the severity of AS is only mild to moderate, it is well tolerated. When it becomes severe, AS confers significant morbidity and mortality. Adverse events can be avoided if it is possible to prevent or retard the progression from mild or moderate AS to severe AS. Progression of AS parallels the progression of sclerotic changes involving the aortic valve, which share histological and immunochemical similarities with the process of atherosclerosis. Far from being just a degenerative process, the development of AS is a complex and highly regulated process with a number of modifiable factors. One of the key factors appears to be lipoproteins, which are intimately involved in several pathways crucial to the development of AS. The importance of lipoproteins is further supported by epidemiological and clinical studies showing a strong association between lipoproteins and AS. The time has come to initiate prospective studies to assess the effect of cholesterol lowering on the progression of AS.
 
 ---
 
-### Oxidized phospholipids, lipoprotein (a), and progression of calcific aortic valve stenosis [^341b1fb9]. Journal of the American College of Cardiology (2015). Low credibility.
+### Oxidized phospholipids, lipoprotein (a), and progression of calcific aortic valve stenosis [^112LFU56]. Journal of the American College of Cardiology (2015). Low credibility.
 
 Background
 
@@ -643,13 +643,13 @@ Elevated Lp(a) and OxPL-apoB levels are associated with faster AS progression an
 
 ---
 
-### Stage-related effect of statin treatment on the progression of aortic valve sclerosis and stenosis [^ec78cf76]. The American Journal of Cardiology (2008). Low credibility.
+### Stage-related effect of statin treatment on the progression of aortic valve sclerosis and stenosis [^1173af5o]. The American Journal of Cardiology (2008). Low credibility.
 
 It has been suggested that statins could slow the progression of aortic stenosis (AS), but this hypothesis is still debated and has not been validated in large series of patients by long-term follow-up studies. Moreover, information about the role of statins in patients with different degrees of severity of AS is scarce. From our 1988 to 2007 echocardiographic database, we retrospectively identified all asymptomatic patients with aortic valve sclerosis (abnormal irregular thickening of the aortic valve with a peak aortic velocity [Vmax] ≥ 1.5 and < 2 m/s), mild AS (Vmax ≥ 2 and < 3 m/s), and moderate AS (Vmax ≥ 3 and < 4 m/s), age ≥ 50 years, and with ≥ 2 echocardiographic studies ≥ 2 years apart. Exclusion criteria were moderate/severe aortic regurgitation, bicuspid aortic valve, rheumatic valve disease, and ejection fraction < 40%. The final study population consisted of 1,046 patients (mean age 70 ± 8 years, 587 men); 309 were treated with statins. Mean follow-up duration was 5.6 ± 3.2 years (range 2 to 19). Progression of AS was slower in patients receiving statins compared with untreated patients in aortic sclerosis (0.04 ± 0.09 vs 0.07 ± 0.10 m/s/year, p = 0.01) and mild AS (0.09 ± 0.15 vs 0.15 ± 0.15 m/s/year, p = 0.001), but not in moderate AS (0.21 ± 0.18 vs 0.22 ± 0.15 m/s/year, p = 0.70). In multivariate analysis only statin therapy, initial Vmax, and dialysis were independently related to progression of aortic valve disease. In conclusion, in a large series of patients with long-term follow-up, statins were effective in slowing the progression of aortic valve disease in aortic sclerosis and mild AS, but not in moderate AS. These results suggest that statin therapy should be taken into consideration in the early stages of this common disease.
 
 ---
 
-### Thoracic aorticF-sodium fluoride activity and ischemic stroke in patients with established cardiovascular disease [^856e9338]. JACC: Cardiovascular Imaging (2022). Medium credibility.
+### Thoracic aorticF-sodium fluoride activity and ischemic stroke in patients with established cardiovascular disease [^114QpVf5]. JACC: Cardiovascular Imaging (2022). Medium credibility.
 
 Methods
 
@@ -659,7 +659,7 @@ In this post hoc analysis, the study population comprised patients with a primar
 
 ---
 
-### Lipoprotein (a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement [^c85e9dd0]. European Heart Journal (2022). Medium credibility.
+### Lipoprotein (a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement [^11684Je3]. European Heart Journal (2022). Medium credibility.
 
 Clinical guidance: What to do with the patient with high Lp(a)?
 
@@ -673,7 +673,7 @@ Niacin is not recommended given the lack of clinical benefit in two outcomes stu
 
 ---
 
-### Effect of denosumab or alendronate on vascular calcification: secondary analysis of SALTIRE2 randomized controlled trial [^b9e509ff]. Journal of the American Heart Association (2024). Medium credibility.
+### Effect of denosumab or alendronate on vascular calcification: secondary analysis of SALTIRE2 randomized controlled trial [^115kbeB8]. Journal of the American Heart Association (2024). Medium credibility.
 
 In the SALTIRE 2 randomized controlled trial, we used state of the art cardiovascular imaging to assess the effects of alendronate and denosumab on both aortic valve and vascular calcification in patients with aortic stenosis. As mentioned in the primary paper, a 50% reduction of serum C‐terminal telopeptide concentration in patients receiving denosumab or alendronic acid could be observed, reflecting the pharmacodynamic effect of these drugs on bone turnover and resorption, and thereby demonstrating that the treatment was effective. Opposed to this, we observed no effect of either drug on calcium scores or 18F‐NaF PET activity in either the aorta or coronary arteries, indicating no effect on either the burden of calcific atherosclerosis or vascular calcification activity. These results were consistent regardless of the measure of calcification used, further bolstering confidence in the outcome. Our results are also similar to other less sophisticated randomized trial data of bisphosphonates and denosumab which reported no differences between treatment and placebo groups in progression of aortic calcification assessed on plain x‐rays. Whilst there appears to be overlap between the pathophysiology of skeletal bone formation and vascular calcification, modulating bone metabolism with drugs, such as alendronate or denosumab, does not appear to have any harmful or beneficial effects on vascular calcification. This is reassuring for patients receiving treatment for osteoporosis, although the development of treatments capable of slowing calcification in the vasculature and heart valves remains an important clinical priority and unmet need.
 
@@ -683,7 +683,7 @@ In conclusion, in a randomized controlled trial of patients with asymptomatic ao
 
 ---
 
-### Optimization and reproducibility of aortic valve 18F-fluoride positron emission tomography in patients with aortic stenosis [^18abbd87]. Circulation: Cardiovascular Imaging (2016). Low credibility.
+### Optimization and reproducibility of aortic valve 18F-fluoride positron emission tomography in patients with aortic stenosis [^111daPY2]. Circulation: Cardiovascular Imaging (2016). Low credibility.
 
 Aortic stenosis is the most common form of valve disease in the Western world and a major healthcare burden that is set to treble by 2050. However, we currently lack any disease-modifying therapies. Calcification seems to be the predominant pathological process driving disease progression, leading to major interest in novel treatment strategies aimed at reducing calcification activity in the valve. However, assessing the efficacy of new therapies requires large trials with prolonged follow-up to demonstrate an impact on disease progression and clinical end points. A noninvasive imaging technique capable of measuring calcification activity in the valve would be highly desirable to assess treatment efficacy in phase 2 clinical trials.
 
@@ -697,19 +697,19 @@ Here, we sought to optimize 18F-fluoride PET scanning of the aortic valve, reduc
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^fcc50776]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^117Tk4TF]. Circulation (2021). High credibility.
 
 Aortic stenosis — Routine follow-up of asymptomatic disease and progression rates: When severe AS is present (aortic velocity ≥ 4.0 m/s), the rate of progression to symptoms is high, with an event-free survival rate of only 30% to 50% at 2 years. With moderate AS (aortic velocity 3.0–3.9 m/s), the average annual rate of progression is an increase in velocity of 0.3 m/s, increase in mean pressure gradient of 7 mm Hg, and decrease in valve area of 0.1 cm2. In patients with aortic sclerosis, defined as focal areas of valve calcification and leaflet thickening with an aortic velocity < 2.0 m/s, progression to severe AS occurs in about 10% of patients within 5 years.
 
 ---
 
-### Effect of statins on the progression of bioprosthetic aortic valve degeneration [^4d276631]. The American Journal of Cardiology (2003). Low credibility.
+### Effect of statins on the progression of bioprosthetic aortic valve degeneration [^112yPHFv]. The American Journal of Cardiology (2003). Low credibility.
 
 To date, there is no proved medical therapy able to significantly reduce the degenerative process of biologic prosthetic aortic valves. It has recently been suggested that statins may reduce the progression of native aortic valve stenosis. We examined the effect of statin treatment on bioprosthetic aortic valve degeneration and found a beneficial effect of statins in slowing bioprosthetic degeneration.
 
 ---
 
-### Interventions to attenuate cardiovascular calcification progression: a systematic review of randomized clinical trials [^a66011bc]. Journal of the American Heart Association (2023). Medium credibility.
+### Interventions to attenuate cardiovascular calcification progression: a systematic review of randomized clinical trials [^115FfDMu]. Journal of the American Heart Association (2023). Medium credibility.
 
 Lipid‐Lowering Agents
 
@@ -719,13 +719,13 @@ Thirteen of the 14 trials did not demonstrate significant cardiovascular calcifi
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^4fbdf7c2]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1133Dq8m]. Circulation (2021). High credibility.
 
 Top 10 take-home messages — Treatment of severe aortic stenosis with either a transcatheter or surgical valve prosthesis should be based primarily on symptoms or reduced ventricular systolic function, and earlier intervention may be considered if indicated by results of exercise testing, biomarkers, rapid progression, or the presence of very severe stenosis.
 
 ---
 
-### Lipoprotein (a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement [^087d2abd]. European Heart Journal (2022). Medium credibility.
+### Lipoprotein (a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement [^111Dawhn]. European Heart Journal (2022). Medium credibility.
 
 Promise of Lp(a) lowering in aortic valve disease
 
@@ -740,7 +740,7 @@ Niacin is not recommended for Lp(a) lowering.
 
 ---
 
-### Association of cholesterol levels, hydroxymethylglutaryl coenzyme – A reductase inhibitor treatment, and progression of aortic stenosis in the community [^433717d4]. Journal of the American College of Cardiology (2002). Low credibility.
+### Association of cholesterol levels, hydroxymethylglutaryl coenzyme – A reductase inhibitor treatment, and progression of aortic stenosis in the community [^112iegBV]. Journal of the American College of Cardiology (2002). Low credibility.
 
 Objectives
 
@@ -764,7 +764,7 @@ In the community, progression of AS shows no trend of association with cholester
 
 ---
 
-### Detecting native and bioprosthetic aortic valve disease usingF-sodium fluoride: clinical implications [^669703f8]. Journal of Nuclear Cardiology (2021). Medium credibility.
+### Detecting native and bioprosthetic aortic valve disease usingF-sodium fluoride: clinical implications [^113d6TmH]. Journal of Nuclear Cardiology (2021). Medium credibility.
 
 Calcification as the Driver of Disease in Native Aortic Valve Stenosis
 
@@ -774,7 +774,7 @@ To explore the relative contributions of inflammatory and calcific processes to 
 
 ---
 
-### Impact of metabolic syndrome on progression of aortic stenosis: influence of age and statin therapy [^d4a7087a]. Journal of the American College of Cardiology (2012). Low credibility.
+### Impact of metabolic syndrome on progression of aortic stenosis: influence of age and statin therapy [^116SGUp1]. Journal of the American College of Cardiology (2012). Low credibility.
 
 Objectives
 
@@ -798,7 +798,7 @@ MetS was found to be a powerful and independent predictor of faster AS progressi
 
 ---
 
-### Lipoprotein (a) and calcific aortic valve stenosis progression: a systematic review and meta-analysis [^7be800e7]. JAMA Cardiology (2024). High credibility.
+### Lipoprotein (a) and calcific aortic valve stenosis progression: a systematic review and meta-analysis [^114AhQTQ]. JAMA Cardiology (2024). High credibility.
 
 Importance
 
@@ -830,7 +830,7 @@ In this study, higher plasma lipoprotein(a) concentrations were associated with 
 
 ---
 
-### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^bb8b2dfe]. Circulation (2021). Medium credibility.
+### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^115o3S8u]. Circulation (2021). Medium credibility.
 
 Discussion
 
@@ -840,7 +840,7 @@ There remains a major unmet need for an effective disease-modifying noninvasive 
 
 ---
 
-### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^2f691107]. Journal of the American College of Cardiology (2019). Medium credibility.
+### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^112DHi78]. Journal of the American College of Cardiology (2019). Medium credibility.
 
 Our data support a post hoc analysis of the ASTRONOMER (Aortic Stenosis Progression Observation: Measuring Effects of Rosuvastatin) trial, in which patients with mild to moderate AS and elevated Lp(a) (top tertile > 58.5 mg/dl) or OxPL-apoB levels were reported to have faster AS progression. However, the ASTRONOMER trial only examined echocardiographic progression. Furthermore, the patient population was considerably younger than that encountered in routine clinical practice (mean age 57 years), and nearly one-half of patients had a bicuspid valve. This led many to question the relevance of Lp(a) as a therapeutic target in the majority of elderly patients seen clinically with AS. Here, we find that in a study population with a mean age of 70 years, elevated Lp(a) (using a cut-off of 35 mg/dl) and OxPL-apoB (> 2.8 nmol/l) were associated with a 2- to 3-fold faster rate of disease progression measured by echocardiography and CT calcium scoring. Our data therefore extend the generalizability of Lp(a) and its associated OxPL as independent risk factors driving AS progression to the wider clinical population and suggest that patients with elevated Lp(a) and OxPL-apoB levels might benefit from a reduction in these levels to slow disease progression.
 
@@ -848,13 +848,13 @@ What is the mechanism for these observations? Our in vitro data confirm that Lp(
 
 ---
 
-### Potential causality and emerging medical therapies for lipoprotein (a) and its associated oxidized phospholipids in calcific aortic valve stenosis [^bd74f0ab]. Circulation Research (2019). Medium credibility.
+### Potential causality and emerging medical therapies for lipoprotein (a) and its associated oxidized phospholipids in calcific aortic valve stenosis [^115qswSS]. Circulation Research (2019). Medium credibility.
 
 The prevalence of calcific aortic valve disease is increasing with aging of the population. Current treatment options for advanced or symptomatic aortic stenosis are limited to traditional surgical or percutaneous aortic valve replacement. Medical therapies that impact the progression of calcific aortic valve disease do not currently exist. New pathophysiological insights suggest that the processes leading to calcific aortic valve disease are metabolically active for many years before and during the clinical expression of disease. The identification of genetic and potentially causal mediators of calcific aortic valve disease allows opportunities for therapies that may slow progression to the point where aortic valve replacement can be avoided. Recent studies suggest that approximately one-third of aortic stenosis cases are associated with highly elevated lipoprotein(a) [Lp(a)] and pathways related to the metabolism of procalcifying oxidized phospholipids. Oxidized phospholipids can be carried by Lp(a) into valve leaflets but can also be formed in situ from cell membranes, lipoproteins, and apoptotic cells. This review will summarize the clinical data implicating the potential causality of Lp(a)/oxidized phospholipids, describe emerging therapeutic agents, and propose clinical trial designs to test the hypothesis that lowering Lp(a) will reduce progression aortic stenosis and the need for aortic valve replacement.
 
 ---
 
-### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^e9e2341d]. Journal of the American College of Cardiology (2019). Medium credibility.
+### Lipoprotein (a) and oxidized phospholipids promote valve calcification in patients with aortic Stenosis [^116yk6Tn]. Journal of the American College of Cardiology (2019). Medium credibility.
 
 Aortic valve stenosis (AS) is the commonest form of valvular heart disease in developed countries, and its disease burden is anticipated to double over the next 50 years. Following the failure of statins in reducing AS progression, effective medical therapies are lacking. The only treatment option is surgical or transcatheter aortic valve replacement (AVR), after patients develop severe stenosis and symptoms. Patients with AS are elderly, often have multiple comorbidities and are not well suited to major surgery or intervention. Moreover, these procedures are expensive and are associated with perioperative as well as long-term morbidity and mortality. There is, therefore, an unmet clinical need for novel therapies to slow AS progression, thereby obviating the requirement for AVR altogether.
 
@@ -862,13 +862,13 @@ Lipoprotein(a) (Lp[a]) is a major carrier of oxidized phospholipids (OxPL), and 
 
 ---
 
-### The 'wait for symptoms' strategy in asymptomatic severe aortic stenosis [^40cc7175]. Heart (2020). Medium credibility.
+### The 'wait for symptoms' strategy in asymptomatic severe aortic stenosis [^112f4sun]. Heart (2020). Medium credibility.
 
 Calcific aortic stenosis is a prevalent and worrisome healthcare problem. The therapeutic approach in asymptomatic aortic stenosis is not well established. We argue that the natural history of this disease is based on old incomplete studies with many limitations. Likewise, studies suggesting that replacement, either surgical or percutaneous, improves prognosis in asymptomatic patients with severe aortic stenosis have important drawbacks and do not support this strategy as the treatment of choice. Despite the lack of evidence, some groups recommend early valve replacement in patients with severe asymptomatic aortic stenosis. There are five ongoing randomised trials which will shed light on this topic. Our conclusion is that unless a randomised study changes the evidence, valve replacement cannot be recommended in asymptomatic patients with severe aortic stenosis.
 
 ---
 
-### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^62c8156d]. Circulation: Cardiovascular Imaging (2015). Low credibility.
+### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^113XSzZa]. Circulation: Cardiovascular Imaging (2015). Low credibility.
 
 Disclosures
 
@@ -876,13 +876,13 @@ Drs Pedersen, Rossebø, and Gerdts were members of the Scientific Steering Commi
 
 ---
 
-### Ideal cardiovascular health and the prevalence and severity of aortic stenosis in elderly patients [^63264be1]. Journal of the American Heart Association (2018). Low credibility.
+### Ideal cardiovascular health and the prevalence and severity of aortic stenosis in elderly patients [^113XzdyS]. Journal of the American Heart Association (2018). Low credibility.
 
 Our finding that better achievement of ideal cardiovascular health metrics through midlife to late life predicts a lower prevalence of AS and sclerosis in late life is particularly relevant given the growing public health burden of AS related to the aging population. The emerging importance of AV stenosis at the population level is highlighted by a recent meta‐analysis and simulation study that estimated that 290 000 people > 75 years of age in Europe and North America are candidates for transcatheter AV replacement, with 27 000 new candidates annually. 48 These findings argue forcefully for efforts to prevent progression of AV disease to hemodynamic significance in elderly individuals. Although several studies suggested potential for treatment with hydroxymethylglutaryl–coenzyme A reductase inhibitors (statins) in this regard, 49, 50 randomized clinical trials have failed to demonstrate efficacy of statin therapy to delay disease progression, assessed by either AV peak velocity or clinical outcomes, among people with mild‐to‐moderate AS. One potential explanation for the negative findings in these studies is the relatively advanced stage of disease process at the time of intervention. However, given the long time period over which calcific AV disease develops and the relatively low incidence of significant stenosis, a primary prevention intervention trial is likely not feasible. Indeed, there is no medical therapy available for primary or secondary prevention of calcific AV disease or AS. 21 More important, in our analysis, AV disease prevalence was associated with CVHS assessed over ≈25 years. Our findings suggest that up to 31% of AV dysfunction (sclerosis or stenosis) could be prevented if the percentage attained CVHS through midlife to late life were uniformly > 70%. Furthermore, our analysis of the relationship between trajectories of CVHS through midlife to late life and late life AV dysfunction demonstrate that worse CVHS trajectory is associated with a greater prevalence of AV dysfunction. More important, we also found that improvement in CVHS through midlife to late life (trajectory 5) was associated with a late‐life prevalence of aortic sclerosis similar to people with similar baseline CVHS who continued to decline (trajectory 3) but a significantly lower prevalence of AS, which more closely approximated the prevalence of AS in participants with a higher CVHS through most of midlife to late life (trajectory 2). These findings suggest that, although midlife CVHS is associated with progressive valve dysfunction, improvement in CVHS through late life may predict a lower prevalence of stenosis in late life. Although these findings are observational, they suggest that consistent attainment of ideal cardiovascular health metrics through midlife to late life has the potential to significantly affect the prevalence of calcific AV disease in late life, extending the importance of ideal cardiovascular health metrics to the primary prevention of AV disease.
 
 ---
 
-### Association between triglyceride-glucose-body mass index and risk of aortic stenosis progression in patients with non-severe aortic stenosis: a retrospective cohort study [^46499771]. Cardiovascular Diabetology (2025). Medium credibility.
+### Association between triglyceride-glucose-body mass index and risk of aortic stenosis progression in patients with non-severe aortic stenosis: a retrospective cohort study [^112oCrQY]. Cardiovascular Diabetology (2025). Medium credibility.
 
 In this study, we demonstrated that higher TyG-BMI index was significantly associated with higher risk of AS progression after fully adjusting for potential confounders in patients with non-severe AS. In subgroup analyses, results were consistent except for the use of lipid-lowering medication. In previous studies, it has been found that lipid-lowering medication have not shown good efficacy in combating calcific aortic valve stenosis. Given the key role of lipid peroxidation and infiltration, HMG-CoA reductase inhibitors are the most promising targets. Early animal studies found that atorvastatin inhibits osteogenesis in the aortic valve by increasing the expression and activity of endothelial nitric oxide synthase. However, in numerous large randomized controlled trials, statins have not slowed the progression of AS. The AHA/ACC guidelines do not recommend the use of statin therapy to prevent the hemodynamic progression of AS. In a secondary analysis of the FOURIER trial, PCSK9 inhibitors may reduce the risk of development or progression of AS, but this was a post-hoc analysis involving a small number of events and requires further validation by dedicated large randomized controlled trials. The use of other lipid-lowering treatments, including cholesteryl ester transfer protein (CETP) inhibitors and antisense oligonucleotides targeting apolipoprotein A and apolipoprotein B, in slowing or reversing AS has not yet been studied. In this result, it may be due to the short follow-up period, small sample size, and limited number of AS progression events. Further research with a larger sample size and longer follow-up time is needed to prove the reliability of our study results. In conclusion, TyG-BMI index was significantly associated with AS progression in patients with non-severe AS.
 
@@ -890,13 +890,13 @@ At present, the exact biological mechanism of IR and AS progression is not clear
 
 ---
 
-### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^3bd968f9]. European Heart Journal (2024). High credibility.
+### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^112XjJ7i]. European Heart Journal (2024). High credibility.
 
 Regarding medical management for aortic stenosis, more specifically with respect to antihypertensive therapy, ESC 2024 guidelines recommend to consider initiating renin-angiotensin system blockers as part of treatment in patients with a history of aortic valve stenosis requiring BP-lowering treatment.
 
 ---
 
-### Anemia, increased shear stress, and the progression of aortic stenosis [^0c0ecda1]. JACC: Basic to Translational Science (2024). Medium credibility.
+### Anemia, increased shear stress, and the progression of aortic stenosis [^111Jspmn]. JACC: Basic to Translational Science (2024). Medium credibility.
 
 Calcific aortic stenosis is increasingly prevalent and found at echocardiography in up to 2% of asymptomatic subjects older than 65 years of age. The rate at which aortic stenosis progresses in severity over time is highly variable and difficult to predict. Despite great interest in disease prevention, medical interventions such as statin therapy and bisphosphonates have not been shown to modify disease progression as compared with untreated controls. Thus, our current approach to manage asymptomatic patients with aortic stenosis uses close medical follow-up for the development of symptoms coupled with serial echocardiography at selected intervals to quantify aortic valve area and aortic outflow pressure gradients to identify the rate of change of aortic valve area as an index of the individual rate of progression of disease.
 
@@ -904,13 +904,13 @@ Anemia is common in patients with aortic stenosis, and it increases in severity 
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^87ab5684]. Circulation (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^114U8syd]. Circulation (2021). High credibility.
 
 Aortic stenosis — diagnosis and follow-up and diagnostic testing: initial diagnosis are presented as section headers on this page.
 
 ---
 
-### Valve interstitial cells: the key to understanding the pathophysiology of heart valve calcification [^911fbd7a]. Journal of the American Heart Association (2017). Low credibility.
+### Valve interstitial cells: the key to understanding the pathophysiology of heart valve calcification [^114i9sDB]. Journal of the American Heart Association (2017). Low credibility.
 
 The Statin Paradox
 
@@ -920,7 +920,7 @@ The data on statins remain highly controversial as 3 randomized clinical trials 
 
 ---
 
-### Higher left ventricular mass-wall stress-heart rate product and outcome in aortic valve stenosis [^0dd5e00e]. Heart (2019). Medium credibility.
+### Higher left ventricular mass-wall stress-heart rate product and outcome in aortic valve stenosis [^111MWgHj]. Heart (2019). Medium credibility.
 
 Methods
 
@@ -932,7 +932,7 @@ All patients signed informed consent prior to study enrolment.
 
 ---
 
-### The effect of statins on valve function and calcification in aortic stenosis: a meta-analysis [^fdf1f202]. Atherosclerosis (2016). Low credibility.
+### The effect of statins on valve function and calcification in aortic stenosis: a meta-analysis [^117VV8mo]. Atherosclerosis (2016). Low credibility.
 
 Background
 
@@ -948,7 +948,7 @@ Despite the consistent beneficial effect of statins on LDL-cholesterol levels, t
 
 ---
 
-### Effect of rosuvastatin on C-reactive protein and progression of aortic stenosis [^38d78283]. American Heart Journal (2011). Low credibility.
+### Effect of rosuvastatin on C-reactive protein and progression of aortic stenosis [^112TGhFY]. American Heart Journal (2011). Low credibility.
 
 Background
 
@@ -968,25 +968,25 @@ C-reactive protein does not predict severity, progression, and prognosis in pati
 
 ---
 
-### Ancient remedy for a modern disease: will celastrol become a treatment for aortic valve stenosis? [^011dbda8]. JACC: Basic to Translational Science (2020). Medium credibility.
+### Ancient remedy for a modern disease: will celastrol become a treatment for aortic valve stenosis? [^1112eygT]. JACC: Basic to Translational Science (2020). Medium credibility.
 
 As the population ages, developing medical therapies to prevent the development of CAVD is will be critically important, and cost-effective therapies will need to be directed toward preventing progression of disease. The early stage of CAVD, aortic sclerosis, has no hemodynamic consequences, but has a prevalence of 25% in individuals > 65 years of age. The risk of progression from aortic sclerosis to AS is only approximately 2% per year. However, once AS is established, the vast majority of patients experience hemodynamic progression and are at risk of developing severe AS. Therefore, the true test of a clinically useful therapy would be one that effectively prevents progression of established AS and not simply development of CAVD. Statins, although effective at low-density lipoprotein cholesterol lowering, failed to show efficacy in preventing progression of mild-to-moderate AS in randomized clinical trials. Whether celastrol will live up to the promise of being the first effective medical therapy for AS depends on whether it can: 1) prevent progression of established AS; 2) be effective for patients who have risk factors other than hypercholesterolemia; and 3) demonstrate safety. Because of the lack of currently available medical therapies for AS and the significant unmet clinical need that will become even more urgent as our population ages, this study provides an impetus to further evaluate celastrol preclinically to assess its safety and efficacy in the hope that it can eventually enter clinical trials.
 
 ---
 
-### Cholesterol crystal dissolution rate of serum predicts outcomes in patients with aortic stenosis undergoing transcatheter aortic valve replacement [^f5be3a3c]. Journal of the American Heart Association (2024). Medium credibility.
+### Cholesterol crystal dissolution rate of serum predicts outcomes in patients with aortic stenosis undergoing transcatheter aortic valve replacement [^117HKryR]. Journal of the American Heart Association (2024). Medium credibility.
 
 In general, lipid‐lowering strategies using β‐hydroxy β‐methylglutaryl‐CoA reductase and proprotein convertase subtilisin/kexin type 9 inhibitors to reduce LDL cholesterol levels are among the most effective interventions to modify the cardiovascular risk profile. According to the current guidelines of the European Society of Cardiology for the management of dyslipidemias, the greatest possible reduction of LDL levels is recommended to prevent cardiovascular diseases, especially in high‐risk and very high‐risk patients. However, in patients with mild‐to‐moderate AS, several randomized trials have failed to show a beneficial effect of a lipid‐lowering therapy in slowing the progression of the stenosis. This might be explained by the fact that new biomarkers of the cholesterol metabolism, such as the cholesterol efflux capacity, are more sensitive in predicting cardiovascular events and may be more promising targets for AS treatment. In our study, LDL‐cholesterol levels were similar in both low and high CCDR patients (P = 0.35). Interestingly, a statin treatment was associated with significantly reduced LDL‐ and total cholesterol levels only in the low CCDR group (P = 0.003).
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^70c50224]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113tBnbV]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
 
 Regarding medical management for aortic stenosis, more specifically with respect to antihypertensive therapy, ACC/AHA 2021 guidelines recommend to initiate antihypertensive therapy according to standard guideline-directed medical therapy, started at a low dose, and gradually titrated upward as needed, with appropriate clinical monitoring in patients at risk of developing AS (stage A) and in patients with asymptomatic AS (stages B and C).
 
 ---
 
-### Insights into aortic sclerosis and its relationship with coronary artery disease [^1432bda2]. Journal of the American Heart Association (2014). Low credibility.
+### Insights into aortic sclerosis and its relationship with coronary artery disease [^111Wwo9T]. Journal of the American Heart Association (2014). Low credibility.
 
 Retrospective investigations into the impact of statin use on the progression of AS have produced conflicting results (Table 3). Several studies ranging from 65 to 211 subjects showed a statistically significant trend toward slower evolution of AS with administration of statins.– However, a larger‐scale study of 1257 patients found no significant statin effect. In 1 analysis of people with existing AS, statins but not cholesterol levels affected the progression of AS. Thus, given the conflicting results and the inconsistencies in methodologies used in these studies, it is difficult to draw conclusions regarding the anti‐inflammatory, pleotrophic, or lipid‐lowering effects of statins on AS.
 
@@ -1000,7 +1000,7 @@ Prospective Studies on the Impact of Statins on AVS and AS
 
 ---
 
-### ApoB / apoA-I ratio is associated with faster hemodynamic progression of aortic stenosis: results from the PROGRESSA (metabolic determinants of the progression of aortic stenosis) study [^6b936fee]. Journal of the American Heart Association (2018). Low credibility.
+### ApoB / apoA-I ratio is associated with faster hemodynamic progression of aortic stenosis: results from the PROGRESSA (metabolic determinants of the progression of aortic stenosis) study [^113kVCTo]. Journal of the American Heart Association (2018). Low credibility.
 
 A recent study using a Mendelian randomization design reported an association between the genetic predisposition for elevated LDL‐C and the presence of aortic valve calcification as well as incident AS. 15 Previous studies have also reported an association of elevated serum LDL‐C with development and faster progression of AS. 6, 46, 47, 48 In the present study, higher apoB/apoA‐I ratio was associated with faster AS progression independently of the level of LDL‐C, which did not reach significance level. In patients with coronary artery disease, several studies reported that apoB/apoA‐I ratio is a powerful predictor of adverse events and is superior to conventional lipid parameters, especially in patients with LDL‐C within normal ranges. 29, 49, 50 In our study, the level of LDL‐C was within normal limits in the vast majority of patients, and apoB/apoA‐I ratio outweighed LDL‐C to predict disease progression in this series. This could be explained by the fact that apoB/apoA‐I ratio captures both dyslipidemia and a dysmetabolic state often typified by lower HDL levels.
 
@@ -1012,7 +1012,7 @@ In this context, the results of this study may have important clinical implicati
 
 ---
 
-### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^6fa34d4d]. Circulation: Cardiovascular Imaging (2015). Low credibility.
+### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^113rWUfE]. Circulation: Cardiovascular Imaging (2015). Low credibility.
 
 Sources of Funding
 
@@ -1020,7 +1020,7 @@ The Simvastatin Ezetimibe in Aortic Stenosis (SEAS) echocardiography core labora
 
 ---
 
-### Can statins slow the progression of aortic stenosis?… [^d90e3f0c]. AAFP (2003). Low credibility.
+### Can statins slow the progression of aortic stenosis?… [^116Yo6h9]. AAFP (2003). Low credibility.
 
 No proven medical treatment is currently available that can delay or reverse the progression of aortic stenosis. New insight into the development and progression of aortic stenosis has resulted in the hypothesis that cholesterol may play a role, implying that lipid-lowering agents may slow progression of the disease. This association between aortic stenosis and hyperlipidemia has been inconsistent in the literature, with some studies reporting a positive correlation and others reporting little or no correlation. Bellamy and associates conducted a community-based study to analyze the effect of hyperlipidemia on the progression of aortic stenosis and to evaluate the impact of lipid-lowering agents, particularly statins, on this progression. Participants in the study were obtained by screening all adults with aortic stenosis in one county from January 1987 to March 2000. Aortic stenosis was defined as an aortic mean gradient of at least 10 mm Hg and an aortic valve area of
 2. 0 cm.
@@ -1032,7 +1032,7 @@ The association between statin therapy and slower progression of aortic stenosis
 
 ---
 
-### Impact of lipoprotein (a) on valvular and cardiovascular outcomes in patients with calcific aortic valve stenosis [^e7cdf3a4]. Journal of the American Heart Association (2025). Medium credibility.
+### Impact of lipoprotein (a) on valvular and cardiovascular outcomes in patients with calcific aortic valve stenosis [^116vfKMu]. Journal of the American Heart Association (2025). Medium credibility.
 
 Our study has strengths and limitations. The strengths include the large data set, allowing us to identify 1962 patients with CAVS meeting a set of inclusion and exclusion criteria and Lp(a) results. The large sample size provided statistical power for valve replacement and other important composite outcomes and for subgroup analyses including by sex, age, and hs‐CRP level. However, this study has several limitations including the method for identifying CAVS using self‐report or electronic health records. The CAVS diagnosis was not confirmed by trained medical personnel through echocardiographic assessment, and it is possible that some participants may have had aortic sclerosis rather than CAVS; this might explain the relatively low event rate in this study compared with the randomized, controlled SEAS (Simvastatin and Ezetimibe in Aortic Stenosis) trial of patients with mild to moderate CAVS. Also, for some individual outcomes, there may have been limited power to assess for Lp(a) associations. Additionally, in the absence of randomization, it is possible that unmeasured baseline differences between those patients with high versus low Lp(a), including in severity of CAVS disease, may have biased the results. It is also possible that our results may underestimate the importance of Lp(a) in CAVS progression. The participants with lifelong low Lp(a) might have developed CAVS through a different pathogenesis than patients with disease resulting from high Lp(a). Finally, an overwhelming majority of the participants included in this study were of European ancestry, thus limiting the applicability of the results to other ethnicities.
 
@@ -1042,13 +1042,13 @@ In conclusion, this analysis from the UK Biobank showed that high Lp(a) was asso
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^b6cb9396]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115g18HB]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
 
 Regarding follow-up and surveillance for aortic stenosis, more specifically with respect to indications for referral, ACC/AHA 2021 guidelines recommend to evaluate patients with severe valvular heart disease by a multidisciplinary heart valve team when intervention is considered.
 
 ---
 
-### Lipoprotein (a) associated molecules are prominent components in plasma and valve leaflets in calcific aortic valve stenosis [^23ed56af]. JACC: Basic to Translational Science (2017). Low credibility.
+### Lipoprotein (a) associated molecules are prominent components in plasma and valve leaflets in calcific aortic valve stenosis [^111vGHbL]. JACC: Basic to Translational Science (2017). Low credibility.
 
 With the extension of lifespan and aging of the population in the 21st century, calcific aortic valve disease, which encompasses early lesions as well as stenotic disease (clinically seen as calcific aortic valve stenosis [CAVS]), is becoming an increasingly prevalent disorder. It is estimated that hemodynamically significant CAVS is present in > 1 million patients in the United States and that approximately 2.5 million cases will be present worldwide by 2020 and 4.5 million in 2030. Aortic valve replacement (AVR) is the only option for palliation of symptoms and prevention of complications. Unfortunately, by the time AVR is needed, patients are often octogenarians and a large percentage are not eligible for AVR due to advanced frailty and other significant comorbidities. For example, a recent report comparing surgical AVR versus transcatheter AVR revealed 33% to 39% all-cause mortality, 12% to 19% rate of stroke, and 40% to 48% major adverse cardiac event rate at 3-year follow-up in both groups.
 
@@ -1056,7 +1056,7 @@ Lipoprotein(a) (Lp[a]) is a genetically determined, likely causal, and independe
 
 ---
 
-### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^5e3f9d77]. Circulation (2021). Medium credibility.
+### Effect of denosumab or alendronic acid on the progression of aortic stenosis: a double-blind randomized controlled trial [^113QjCp6]. Circulation (2021). Medium credibility.
 
 Would a larger study in a population with less severe aortic stenosis demonstrate a difference? The majority (85%) of our trial population had mild or moderate disease. The natural history of aortic stenosis dictates that many years will elapse before mild aortic stenosis will become severe. Because the trial was powered for an effect size of 40%, it is possible that we failed to detect a smaller treatment effect that could delay surgery in the longer term. However, we have recently examined the contemporary use of aortic valve calcium scoring for assessing disease progression and demonstrated that modest sample sizes, not dissimilar to our present study, are needed to detect the desired effect size sought here.
 
@@ -1064,26 +1064,26 @@ Given that the trial intervention achieved its intended pharmacological effect a
 
 ---
 
-### Relation of lipid-lowering therapy to need for aortic valve replacement in patients with asymptomatic mild to moderate aortic stenosis [^38776d43]. The American Journal of Cardiology (2019). Medium credibility.
+### Relation of lipid-lowering therapy to need for aortic valve replacement in patients with asymptomatic mild to moderate aortic stenosis [^112SiRQN]. The American Journal of Cardiology (2019). Medium credibility.
 
 In this study, we aimed to determine if pretreatment low-density lipoprotein (LDL) levels and aortic stenosis (AS) severity alter the efficacy of lipid-lowering therapy on reducing aortic valve replacement (AVR). We used 1,687 patients with asymptomatic mild-to-moderate AS, who were randomly assigned (1:1) to 40/10 mg simvastatin/ezetimibe combination versus. placebo in the simvastatin and ezetimibe in aortic stenosis (SEAS) trial. Pretreatment LDL levels (> 4 mmol/L) and peak aortic jet velocity (3 m/s) were used to partition study participants into 4 groups, which were followed for a primary endpoint of AVR. Cox regression with tests for interaction was used to study the effect of randomized treatment in each subgroup. During a median follow-up of 4.3 years (IQR 4.2 to 4.7 years; total 7,396 patient-years of follow-up), 478 (28%) patients underwent AVR and 146 (9%) died. A significant risk dependency was detected between simvastatin/ezetimibe combination, LDL levels and mild versus moderate AS on rates of AVR (p = 0.01 for interaction). In stratified analyses, randomized treatment, therefore, reduced the rate of AVR in patients with LDL levels > 4 mmol and mild AS at baseline (HR 0.4; 95% CI: 0.2 to 0.9). There was no detectable effect of randomized treatment on the need for AVR in the 3 other participants subgroups. We conclude, that in a secondary analysis from a prospective randomized clinical trial, treatment with simvastatin/ezetimibe combination reduced the need for AVR in a subset of patients with mild AS and high pretreatment LDL levels (Unique identifier on clinicaltrials.gov: NCT00092677).
 
 ---
 
-### 2022 ACC / AHA guideline for the diagnosis and management of aortic disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^6e916611]. Circulation (2022). High credibility.
+### 2022 ACC / AHA guideline for the diagnosis and management of aortic disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^113pvUbS]. Circulation (2022). High credibility.
 
 Regarding medical management for thoracic aortic aneurysm, more specifically with respect to lipid-lowering therapy, ACC/AHA 2022 guidelines recommend to consider initiating moderate- or high-intensity statin therapy in patients with TAA and imaging or clinical evidence of atherosclerosis.
 Consider initiating statin therapy in patients with TAA with no evidence of atherosclerosis.
 
 ---
 
-### 2024 ESC guidelines for the management of peripheral arterial and aortic diseases [^2dac4fc1]. European Heart Journal (2024). High credibility.
+### 2024 ESC guidelines for the management of peripheral arterial and aortic diseases [^112AiKag]. European Heart Journal (2024). High credibility.
 
 Regarding medical management for thoracic aortic aneurysm, more specifically with respect to lipid-lowering therapy, ESC 2024 guidelines recommend to initiate a combination of statins and ezetimibe in patients with atherosclerotic aortic disease if the target LDL-C level is not achieved.
 
 ---
 
-### Insulin resistance and LVH progression in patients with calcific aortic stenosis: a substudy of the ASTRONOMER trial [^839df7f9]. JACC: Cardiovascular Imaging (2013). Low credibility.
+### Insulin resistance and LVH progression in patients with calcific aortic stenosis: a substudy of the ASTRONOMER trial [^114N8SPr]. JACC: Cardiovascular Imaging (2013). Low credibility.
 
 Objectives
 
@@ -1107,7 +1107,7 @@ In this ASTRONOMER substudy, insulin resistance was a powerful independent predi
 
 ---
 
-### Statins for aortic valve stenosis [^3b5fd7be]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Statins for aortic valve stenosis [^112X2To3]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -1139,7 +1139,7 @@ Result findings showed uncertainty surrounding the effect of statins for aortic 
 
 ---
 
-### High sensitivity C reactive protein as a prognostic marker in patients with mild to moderate aortic valve stenosis during lipid-lowering treatment: an SEAS substudy [^0bbc7432]. Open Heart (2015). Low credibility.
+### High sensitivity C reactive protein as a prognostic marker in patients with mild to moderate aortic valve stenosis during lipid-lowering treatment: an SEAS substudy [^111JQAUh]. Open Heart (2015). Low credibility.
 
 Conclusion
 
@@ -1147,13 +1147,13 @@ Although treatment with simvastatin 40 mg and ezetimibe 10 mg reduced both chole
 
 ---
 
-### 2022 ACC / AHA guideline for the diagnosis and management of aortic disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^582c6058]. Circulation (2022). High credibility.
+### 2022 ACC / AHA guideline for the diagnosis and management of aortic disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^113FipKZ]. Circulation (2022). High credibility.
 
 Atherosclerotic disease of the aorta — pharmacotherapy guidance: In patients with aortic atherosclerotic disease and concomitant coronary artery disease, peripheral artery disease (PAD), or both, it is recommended to prescribe antiplatelet therapy, anticoagulant therapy or both, guided by the clinical setting. In patients with aortic atherosclerotic disease and risk factors for confirmed coronary artery disease, it is reasonable to prescribe a moderate- or high-intensity statin. In patients with aortic atheromas of a thickness ≥ 4 mm, statin therapy may be reasonable.
 
 ---
 
-### Effect of denosumab or alendronate on vascular calcification: secondary analysis of SALTIRE2 randomized controlled trial [^29cac0f3]. Journal of the American Heart Association (2024). Medium credibility.
+### Effect of denosumab or alendronate on vascular calcification: secondary analysis of SALTIRE2 randomized controlled trial [^1124xbWr]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -1173,7 +1173,7 @@ https://www.clinicaltrials.gov; Unique identifier: NCT02132026.
 
 ---
 
-### Lipoprotein (a) associated molecules are prominent components in plasma and valve leaflets in calcific aortic valve stenosis [^6d60ebfa]. JACC: Basic to Translational Science (2017). Low credibility.
+### Lipoprotein (a) associated molecules are prominent components in plasma and valve leaflets in calcific aortic valve stenosis [^113oACuX]. JACC: Basic to Translational Science (2017). Low credibility.
 
 There are no effective medical therapies to prevent the development or progression of CAVS, and statins have failed to reduce progression of AVR in 4 randomized trials. Statins additionally may significantly raise plasma Lp(a) and OxPL-apoB, which may be counterproductive in preventing CAVS. For example, rosuvastatin raised Lp(a) levels 20% in the ASTRONOMER trial. However, novel Lp(a)-lowering agents may be used in the near future to test the hypothesis that lowering Lp(a) reduces progression of CAVS.
 
@@ -1181,7 +1181,7 @@ The objective of this study was 3-fold: 1) to develop plasma measures of autotax
 
 ---
 
-### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^698c6e96]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
+### 2020 ACC / AHA guideline for the management of patients with valvular heart disease: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113hUsRf]. The Journal of Thoracic and Cardiovascular Surgery (2021). High credibility.
 
 Regarding follow-up and surveillance for aortic stenosis, more specifically with respect to indications for referral, ACC/AHA 2021 guidelines recommend to consider consulting with or referring to a primary or comprehensive heart valve center when discussing treatment options for:
 
@@ -1193,7 +1193,7 @@ Regarding follow-up and surveillance for aortic stenosis, more specifically with
 
 ---
 
-### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^4776d0b4]. Circulation: Cardiovascular Imaging (2015). Low credibility.
+### Relation of left ventricular mass to prognosis in initially asymptomatic mild to moderate aortic valve stenosis [^112px2iX]. Circulation: Cardiovascular Imaging (2015). Low credibility.
 
 Background
 
@@ -1213,7 +1213,7 @@ URL: http://www.clinicaltrials.gov. Unique identifier: NCT00092677.
 
 ---
 
-### Association between calcific aortic stenosis and hypercholesterolemia: is there a need for a randomized controlled trial of cholesterol-lowering therapy? [^03c59f12]. Clinical Cardiology (2001). Low credibility.
+### Association between calcific aortic stenosis and hypercholesterolemia: is there a need for a randomized controlled trial of cholesterol-lowering therapy? [^1116bLpZ]. Clinical Cardiology (2001). Low credibility.
 
 Background
 

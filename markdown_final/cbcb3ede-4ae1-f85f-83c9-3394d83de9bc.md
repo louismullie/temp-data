@@ -15,72 +15,72 @@ What antiemetics are safe in pregnancy
 
 > Let's see… What do we have here? The user is asking which antiemetics are safe to use during pregnancy. Let's break this down step-by-step. First, I need to think about how to define "safe" in pregnancy and what outcomes matter most. Then, I should verify which agents are considered first-line versus second-line in contemporary guidelines. Next, I will examine the safety data for each class, especially H1 antihistamines, dopamine antagonists, and 5-HT3 antagonists. After that, I need to check special cautions, dosing, and route considerations. Finally, I will synthesize a practical, risk–benefit recommendation and note what to avoid or reserve for refractory cases, anchoring to RCOG, ACOG, SOGC, and high-quality cohort data.
 
-> Let me first confirm the clinical frame and definition of "safe". In pregnancy, safety must balance maternal benefit against fetal risk, with attention to major congenital malformations, spontaneous abortion, stillbirth, and maternal adverse effects; importantly, undertreatment of nausea and vomiting of pregnancy and hyperemesis gravidarum carries meaningful risks, including dehydration, weight loss, hospitalization, and even termination of wanted pregnancies, so I need to ensure I'm not overweighing theoretical risks at the expense of real maternal harm [^82926efd] [^87a2bb82].
+> Let me first confirm the clinical frame and definition of "safe". In pregnancy, safety must balance maternal benefit against fetal risk, with attention to major congenital malformations, spontaneous abortion, stillbirth, and maternal adverse effects; importantly, undertreatment of nausea and vomiting of pregnancy and hyperemesis gravidarum carries meaningful risks, including dehydration, weight loss, hospitalization, and even termination of wanted pregnancies, so I need to ensure I'm not overweighing theoretical risks at the expense of real maternal harm [^114LaaPe] [^114U5zL1].
 
-> Next, I should review first-line pharmacologic therapy. Wait, let me verify the hierarchy: multiple guidelines converge on H1 antihistamines and doxylamine/pyridoxine as foundational first-line options, with decades of accumulated safety data and no signal for increased major malformations. Phenothiazines such as promethazine and prochlorperazine are also considered first-line in many guidelines and have reassuring safety profiles when used appropriately [^b80b2bbe] [^25db0d5b] [^2f7ebc73].
+> Next, I should review first-line pharmacologic therapy. Wait, let me verify the hierarchy: multiple guidelines converge on H1 antihistamines and doxylamine/pyridoxine as foundational first-line options, with decades of accumulated safety data and no signal for increased major malformations. Phenothiazines such as promethazine and prochlorperazine are also considered first-line in many guidelines and have reassuring safety profiles when used appropriately [^115hrUUm] [^111y87uc] [^112DQzGJ].
 
-> I will now examine doxylamine/pyridoxine specifically. Hold on, I should verify the regulatory status and magnitude of evidence: the combination is FDA-approved for nausea and vomiting of pregnancy, supported by randomized trials and large observational datasets showing no increase in major malformations; ACOG gives this a Level A recommendation, and RCOG includes H1 antihistamines as first-line, which aligns with best practice for initial pharmacotherapy in NVP [^b80b2bbe] [^25db0d5b].
+> I will now examine doxylamine/pyridoxine specifically. Hold on, I should verify the regulatory status and magnitude of evidence: the combination is FDA-approved for nausea and vomiting of pregnancy, supported by randomized trials and large observational datasets showing no increase in major malformations; ACOG gives this a Level A recommendation, and RCOG includes H1 antihistamines as first-line, which aligns with best practice for initial pharmacotherapy in NVP [^115hrUUm] [^111y87uc].
 
-> For phenothiazines, let me consider the class effects and practical cautions. Promethazine and prochlorperazine have long-standing obstetric use and are generally considered safe in pregnancy; I should confirm maternal sedation and, in late pregnancy, potential neonatal effects, but overall teratogenic risk has not been demonstrated in the literature, supporting their first-line role in many protocols and their utility when combined with other agents in refractory cases [^25db0d5b] [^2f7ebc73].
+> For phenothiazines, let me consider the class effects and practical cautions. Promethazine and prochlorperazine have long-standing obstetric use and are generally considered safe in pregnancy; I should confirm maternal sedation and, in late pregnancy, potential neonatal effects, but overall teratogenic risk has not been demonstrated in the literature, supporting their first-line role in many protocols and their utility when combined with other agents in refractory cases [^111y87uc] [^112DQzGJ].
 
-> Now, I need to check dopamine antagonists, especially metoclopramide. The NEJM cohort of over 3,000 first-trimester exposures found no increased risk of major congenital malformations, low birth weight, preterm delivery, or perinatal death; however, I should double-check maternal adverse effects and duration limits, as extrapyramidal symptoms and tardive dyskinesia risks rise with prolonged use, prompting many guidelines to position metoclopramide as second-line and to limit courses when possible [^f7b5b532] [^940c2bb0] [^9efc7161].
+> Now, I need to check dopamine antagonists, especially metoclopramide. The NEJM cohort of over 3,000 first-trimester exposures found no increased risk of major congenital malformations, low birth weight, preterm delivery, or perinatal death; however, I should double-check maternal adverse effects and duration limits, as extrapyramidal symptoms and tardive dyskinesia risks rise with prolonged use, prompting many guidelines to position metoclopramide as second-line and to limit courses when possible [^117LEyZT] [^114nVFp3] [^1154hqWY].
 
-> Ondansetron is the most debated, so I should review the highest-quality comparative data. Large multinational cohorts comparing ondansetron to other antiemetics show no increased risk of fetal death, spontaneous abortion, stillbirth, or major congenital malformations overall; however, I need to acknowledge a small, debated signal for orofacial clefts in some analyses, with an absolute risk on the order of about 14 per 10,000 versus 11.4 per 10,000, which RCOG frames as a very small absolute increase to be balanced against the risks of undertreated HG [^0c19dc80] [^fd39e46c] [^175b8c10] [^0258cf79].
+> Ondansetron is the most debated, so I should review the highest-quality comparative data. Large multinational cohorts comparing ondansetron to other antiemetics show no increased risk of fetal death, spontaneous abortion, stillbirth, or major congenital malformations overall; however, I need to acknowledge a small, debated signal for orofacial clefts in some analyses, with an absolute risk on the order of about 14 per 10,000 versus 11.4 per 10,000, which RCOG frames as a very small absolute increase to be balanced against the risks of undertreated HG [^111JwYCf] [^117URK8X] [^111bdTxs] [^1114UojN].
 
-> Hold on, let's not jump to conclusions about ondansetron timing. I initially thought to avoid it entirely in the first trimester, but wait, I should correct that: RCOG explicitly states ondansetron is safe during pregnancy and should not be discouraged if first-line agents fail, with counseling about the very small absolute cleft risk; ACOG and SOGC position ondansetron as an adjunct for severe NVP/HG when other combinations fail, and contemporary cohorts using active comparators mitigate confounding by indication, strengthening reassurance when clinically indicated [^0258cf79] [^ea068d27] [^6cd1442c].
+> Hold on, let's not jump to conclusions about ondansetron timing. I initially thought to avoid it entirely in the first trimester, but wait, I should correct that: RCOG explicitly states ondansetron is safe during pregnancy and should not be discouraged if first-line agents fail, with counseling about the very small absolute cleft risk; ACOG and SOGC position ondansetron as an adjunct for severe NVP/HG when other combinations fail, and contemporary cohorts using active comparators mitigate confounding by indication, strengthening reassurance when clinically indicated [^1114UojN] [^116yxJaJ] [^113nKxGj].
 
-> I should confirm what to avoid or reserve. Corticosteroids are generally reserved for refractory cases after standard therapies fail, and if used, many guidelines advise avoiding first-trimester exposure when possible due to a small possible increase in oral clefts; NK1 antagonists like aprepitant lack sufficient pregnancy safety data and should not be used routinely; domperidone has limited safety data in pregnancy and is not recommended; and while ginger is a reasonable nonpharmacologic option for mild symptoms, it should not replace guideline-directed pharmacotherapy when symptoms are moderate to severe or persistent [^82a96c77] [^432d3d8f] [^3def52eb] [^f66e027f].
+> I should confirm what to avoid or reserve. Corticosteroids are generally reserved for refractory cases after standard therapies fail, and if used, many guidelines advise avoiding first-trimester exposure when possible due to a small possible increase in oral clefts; NK1 antagonists like aprepitant lack sufficient pregnancy safety data and should not be used routinely; domperidone has limited safety data in pregnancy and is not recommended; and while ginger is a reasonable nonpharmacologic option for mild symptoms, it should not replace guideline-directed pharmacotherapy when symptoms are moderate to severe or persistent [^114LiJGv] [^112ibNEi] [^112apdbY] [^117JLuVG].
 
-> Next, I should review practical administration and monitoring. When oral intake is unreliable, transdermal, rectal, or parenteral routes can improve absorption; for metoclopramide, slow IV administration reduces extrapyramidal effects; combination therapy from different classes is reasonable in refractory cases; and I need to ensure we screen for and treat dehydration, electrolyte disturbances, and thiamine deficiency in prolonged vomiting to prevent Wernicke encephalopathy, with thiamine supplementation during IV rehydration when vomiting has persisted beyond three weeks [^f9c5bb34] [^940c2bb0] [^a63aa342] [^ce3be8f8].
+> Next, I should review practical administration and monitoring. When oral intake is unreliable, transdermal, rectal, or parenteral routes can improve absorption; for metoclopramide, slow IV administration reduces extrapyramidal effects; combination therapy from different classes is reasonable in refractory cases; and I need to ensure we screen for and treat dehydration, electrolyte disturbances, and thiamine deficiency in prolonged vomiting to prevent Wernicke encephalopathy, with thiamine supplementation during IV rehydration when vomiting has persisted beyond three weeks [^117PJLHZ] [^114nVFp3] [^115FSe8q] [^116GkaCF].
 
-> Let me synthesize a risk–benefit hierarchy. First-line: doxylamine/pyridoxine and H1 antihistamines such as promethazine or dimenhydrinate are preferred for their strong safety record and effectiveness. Second-line: metoclopramide is reasonable when first-line agents are inadequate, with counseling on maternal adverse effects and attention to duration. Third-line: ondansetron is appropriate when prior therapies fail, with shared decision-making about the very small absolute cleft risk and the substantial maternal and fetal risks of untreated HG. Corticosteroids are last-resort for refractory cases, ideally after the first trimester when possible [^b80b2bbe] [^25db0d5b] [^4a92f135] [^0258cf79] [^82a96c77].
+> Let me synthesize a risk–benefit hierarchy. First-line: doxylamine/pyridoxine and H1 antihistamines such as promethazine or dimenhydrinate are preferred for their strong safety record and effectiveness. Second-line: metoclopramide is reasonable when first-line agents are inadequate, with counseling on maternal adverse effects and attention to duration. Third-line: ondansetron is appropriate when prior therapies fail, with shared decision-making about the very small absolute cleft risk and the substantial maternal and fetal risks of untreated HG. Corticosteroids are last-resort for refractory cases, ideally after the first trimester when possible [^115hrUUm] [^111y87uc] [^112uZSX6] [^1114UojN] [^114LiJGv].
 
-> Finally, I need to ensure the bottom line is clear and actionable. Safe, evidence-based antiemetics for pregnancy include H1 antihistamines and doxylamine/pyridoxine as first-line; phenothiazines as additional first-line options; metoclopramide as a second-line alternative with maternal monitoring; and ondansetron as a third-line option with reassuring comparative safety data and a very small, debated cleft signal that should be weighed against the harms of undertreatment; avoid routine first-trimester corticosteroids and agents with inadequate pregnancy safety data, and tailor route and combinations to severity and tolerance [^b80b2bbe] [^25db0d5b] [^f7b5b532] [^0c19dc80] [^0258cf79].
+> Finally, I need to ensure the bottom line is clear and actionable. Safe, evidence-based antiemetics for pregnancy include H1 antihistamines and doxylamine/pyridoxine as first-line; phenothiazines as additional first-line options; metoclopramide as a second-line alternative with maternal monitoring; and ondansetron as a third-line option with reassuring comparative safety data and a very small, debated cleft signal that should be weighed against the harms of undertreatment; avoid routine first-trimester corticosteroids and agents with inadequate pregnancy safety data, and tailor route and combinations to severity and tolerance [^115hrUUm] [^111y87uc] [^117LEyZT] [^111JwYCf] [^1114UojN].
 
 ---
 
-In pregnancy, **first-line antiemetics** (doxylamine/pyridoxine, H1 antihistamines, and phenothiazines) are safe and effective [^b80b2bbe] [^2f7ebc73]. Metoclopramide is a **second-line option** with no increased risk of major malformations, but limit use to ≤ 5 days due to extrapyramidal effects [^f7b5b532] [^4a92f135]. Ondansetron is **reasonable when first-line agents fail**, with a very small absolute risk of orofacial clefts (about 3 per 10,000) [^0258cf79] [^fd39e46c]; large comparative cohorts show no increase in major malformations or fetal death [^0c19dc80] [^175b8c10]. Avoid corticosteroids in the first trimester and reserve them for refractory cases after 10 weeks [^432d3d8f] [^82a96c77]. Use the lowest effective dose, monitor for adverse effects, and tailor therapy to symptom severity and patient preference [^a756e31c].
+In pregnancy, **first-line antiemetics** (doxylamine/pyridoxine, H1 antihistamines, and phenothiazines) are safe and effective [^115hrUUm] [^112DQzGJ]. Metoclopramide is a **second-line option** with no increased risk of major malformations, but limit use to ≤ 5 days due to extrapyramidal effects [^117LEyZT] [^112uZSX6]. Ondansetron is **reasonable when first-line agents fail**, with a very small absolute risk of orofacial clefts (about 3 per 10,000) [^1114UojN] [^117URK8X]; large comparative cohorts show no increase in major malformations or fetal death [^111JwYCf] [^111bdTxs]. Avoid corticosteroids in the first trimester and reserve them for refractory cases after 10 weeks [^112ibNEi] [^114LiJGv]. Use the lowest effective dose, monitor for adverse effects, and tailor therapy to symptom severity and patient preference [^115H67m5].
 
 ---
 
 ## First-line antiemetic therapies
 
-First-line antiemetics have the most robust safety data and are recommended by major guidelines [^b80b2bbe] [^25db0d5b].
+First-line antiemetics have the most robust safety data and are recommended by major guidelines [^115hrUUm] [^111y87uc].
 
 | **Medication class** | **Examples** | **Safety profile** |
 |-|-|-|
-| Doxylamine/pyridoxine | Diclegis (10 mg/10 mg or 20 mg/20 mg) | - FDA-approved for NVP <br/> - No increased risk of major malformations <br/> - Preferred first-line therapy [^b80b2bbe] [^2f7ebc73] |
-| H1 antihistamines | - Dimenhydrinate <br/> - Diphenhydramine <br/> - Meclizine <br/> - Promethazine | - Safe and effective <br/> - No increased risk of major malformations <br/> - First-line therapy [^25db0d5b] [^2f7ebc73] |
-| Phenothiazines | - Prochlorperazine <br/> - Chlorpromazine | - Safe and effective <br/> - No increased risk of major malformations <br/> - First-line therapy [^25db0d5b] [^2f7ebc73] |
+| Doxylamine/pyridoxine | Diclegis (10 mg/10 mg or 20 mg/20 mg) | - FDA-approved for NVP <br/> - No increased risk of major malformations <br/> - Preferred first-line therapy [^115hrUUm] [^112DQzGJ] |
+| H1 antihistamines | - Dimenhydrinate <br/> - Diphenhydramine <br/> - Meclizine <br/> - Promethazine | - Safe and effective <br/> - No increased risk of major malformations <br/> - First-line therapy [^111y87uc] [^112DQzGJ] |
+| Phenothiazines | - Prochlorperazine <br/> - Chlorpromazine | - Safe and effective <br/> - No increased risk of major malformations <br/> - First-line therapy [^111y87uc] [^112DQzGJ] |
 
 ---
 
 ## Second-line antiemetic therapies
 
-Second-line agents are considered when first-line therapies are ineffective or not tolerated [^4a92f135].
+Second-line agents are considered when first-line therapies are ineffective or not tolerated [^112uZSX6].
 
 | **Medication** | **Safety profile** |
 |-|-|
-| Metoclopramide | - No increased risk of major malformations <br/> - Extrapyramidal effects limit use to ≤ 5 days <br/> - Second-line therapy [^f7b5b532] [^4a92f135] |
-| Ondansetron | - Small absolute risk of orofacial clefts (≈3 per 10,000) <br/> - No increased risk of major malformations or fetal death in large cohorts <br/> - Use when first-line agents fail [^0258cf79] [^0c19dc80] [^175b8c10] |
+| Metoclopramide | - No increased risk of major malformations <br/> - Extrapyramidal effects limit use to ≤ 5 days <br/> - Second-line therapy [^117LEyZT] [^112uZSX6] |
+| Ondansetron | - Small absolute risk of orofacial clefts (≈3 per 10,000) <br/> - No increased risk of major malformations or fetal death in large cohorts <br/> - Use when first-line agents fail [^1114UojN] [^111JwYCf] [^111bdTxs] |
 
 ---
 
 ## Adjunctive and alternative therapies
 
-Adjunctive therapies may be considered for refractory cases or as alternatives when standard therapies are contraindicated [^9f989a08].
+Adjunctive therapies may be considered for refractory cases or as alternatives when standard therapies are contraindicated [^1155cHjD].
 
-- **Ginger**: Non-pharmacologic option with some evidence of benefit; safe in moderation [^f66e027f] [^9f989a08].
-- **Corticosteroids**: Reserve for refractory cases after 10 weeks; avoid in the first trimester due to cleft risk [^432d3d8f] [^82a96c77].
-- **Thiamine**: Essential for prolonged vomiting to prevent Wernicke encephalopathy [^ce3be8f8].
+- **Ginger**: Non-pharmacologic option with some evidence of benefit; safe in moderation [^117JLuVG] [^1155cHjD].
+- **Corticosteroids**: Reserve for refractory cases after 10 weeks; avoid in the first trimester due to cleft risk [^112ibNEi] [^114LiJGv].
+- **Thiamine**: Essential for prolonged vomiting to prevent Wernicke encephalopathy [^116GkaCF].
 
 ---
 
 ## Clinical considerations and precautions
 
-- **Timing**: Most antiemetics are initiated in the first trimester when NVP is most severe; early treatment prevents progression to hyperemesis gravidarum [^a756e31c].
-- **Dosing**: Use the lowest effective dose; monitor for adverse effects, especially with metoclopramide and ondansetron [^a756e31c].
-- **Patient preference**: Engage in shared decision-making, especially for second-line agents like ondansetron [^0258cf79].
+- **Timing**: Most antiemetics are initiated in the first trimester when NVP is most severe; early treatment prevents progression to hyperemesis gravidarum [^115H67m5].
+- **Dosing**: Use the lowest effective dose; monitor for adverse effects, especially with metoclopramide and ondansetron [^115H67m5].
+- **Patient preference**: Engage in shared decision-making, especially for second-line agents like ondansetron [^1114UojN].
 
 ---
 
@@ -93,19 +93,19 @@ Adjunctive therapies may be considered for refractory cases or as alternatives w
 
 ---
 
-Overall, **first-line antiemetics are safe and effective** in pregnancy, and second-line options like metoclopramide and ondansetron are supported by reassuring safety data when used appropriately [^b80b2bbe] [^0c19dc80].
+Overall, **first-line antiemetics are safe and effective** in pregnancy, and second-line options like metoclopramide and ondansetron are supported by reassuring safety data when used appropriately [^115hrUUm] [^111JwYCf].
 
 ---
 
 ## References
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^0258cf79]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^1114UojN]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to recognize that ondansetron is safe during pregnancy. Do not discourage ondansetron use if first-line antiemetics are ineffective. Reassure patients regarding a very small increase in the absolute risk of orofacial clefting with ondansetron use in the first trimester while balancing with the risks of poorly managed HG.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^0c19dc80]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^111JwYCf]. JAMA Network Open (2021). High credibility.
 
 Key Points
 
@@ -123,50 +123,50 @@ These findings suggest that ondansetron use during pregnancy is not associated w
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^e1e6d3c8]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^116mukHV]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to ask patients about previous adverse reactions to antiemetic therapies. Discontinue the medication promptly if adverse reactions occur.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^f9c5bb34]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^117PJLHZ]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to consider using the parenteral, transdermal, or rectal route in patients with persistent or severe HG.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^a63aa342]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^115FSe8q]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to offer combinations of different drugs in patients not responding to a single antiemetic.
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^7d11992f]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^114CRN54]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to consider offering H1RAs for the management of patients with acute or chronic symptoms of NVOP.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^4a92f135]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^112uZSX6]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to consider offering metoclopramide alone or in combination with other antiemetics as second-line therapy.
 Administer IV doses by slow bolus injection over at least 3 minutes to help minimize the risk of extrapyramidal effects.
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^6cd1442c]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^113nKxGj]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to consider offering ondansetron as an adjunctive therapy in patients with severe NVOP when other antiemetic combinations have failed.
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^3805b8bd]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^112S4EFN]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to evaluate for other potential causes when NVOP is refractory to initial pharmacotherapy.
 
 ---
 
-### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^2b1aff49]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^1126uY4p]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Conclusion
 
@@ -178,61 +178,61 @@ Our research also sheds light on how women interpret evidence and what kinds of 
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^c4697fde]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^1162C1Xj]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to consider offering metoclopramide as an adjunctive therapy in patients with NVOP.
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^85e7eb1b]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^114RXFce]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding preventative measures for nausea and vomiting of pregnancy, more specifically with respect to primary prevention, SOGC 2016 guidelines recommend to advise early use of lifestyle/dietary modifications and antiemetics that were found to be useful in the index pregnancy to reduce the risk of NVOP in the current pregnancy.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^bcb96239]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^115pnwYc]. BJOG (2024). High credibility.
 
 Regarding preventative measures for nausea and vomiting of pregnancy, more specifically with respect to primary prevention, RCOG 2024 guidelines recommend to advise early lifestyle/dietary modifications and offer antiemetics that were useful in the index pregnancy to reduce the risk of NVOP or HG in the current pregnancy.
 
 ---
 
-### The teratogenicity of drugs for nausea and vomiting of pregnancy: perceived versus true risk [^6449fd9f]. American Journal of Obstetrics and Gynecology (2002). Low credibility.
+### The teratogenicity of drugs for nausea and vomiting of pregnancy: perceived versus true risk [^113Zgcdt]. American Journal of Obstetrics and Gynecology (2002). Low credibility.
 
 Women and health care providers commonly overestimate the teratogenic risk of medications in pregnancy. With regard to nausea and vomiting of pregnancy, this leads to an underutilization of pharmacologic therapy. Pregnancy termination has even been elected in some circumstances when safe and effective alternatives for nausea have not been attempted. The misperception of teratogenic risk is partly the result of the way data on safety are presented. An awareness of this can lead to more balanced patient and physician educational materials. To facilitate rational use of medicinal and nonmedicinal therapy for nausea and vomiting of pregnancy, we have developed an algorithm based on a recent systematic review of safety and efficacy in management of the problem. The hierarchical use of medication is based on strength of evidence of fetal safety.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^25db0d5b]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^111y87uc]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, RCOG 2024 guidelines recommend to offer antiemetics, such as H1RAs, and phenothiazines, as first-line therapy in patients with NVOP or HG.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^82a96c77]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^114LiJGv]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to corticosteroids, RCOG 2024 guidelines recommend to reserve corticosteroids (in combination with antiemetics) for cases where standard therapies have failed.
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^c5417c2f]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^1163SZGa]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to offer phenothiazines as an adjunctive therapy in patients with severe NVOP.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^34f358f1]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^112MW6Sk]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to setting of care, RCOG 2024 guidelines recommend to manage patients with mild NVOP in an outpatient setting with antiemetics.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^1c284942]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^111ikBjF]. JAMA Network Open (2021). High credibility.
 
 Despite signals of harm in some studies, in particular for congenital malformations, evidence regarding the safety of ondansetron in pregnancy remains inconsistent and inconclusive. Health Canada submitted a query (Q16-08) regarding ondansetron and malformations to Canada's Drug Safety and Effectiveness Network, for which the Canadian Network for Observational Drug Effect Studies (CNODES) undertook a large, multicenter analysis of ondansetron and various adverse pregnancy outcomes. Ondansetron-exposed women in previous studies were largely compared with women who did not use antiemetics, including a studythat reported a protective association between ondansetron and spontaneous abortion. Further research on ondansetron vs other antiemetics in adverse fetal outcomes is thus warranted given that NVP has been associated with a decreased risk of spontaneous abortion.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^84ad727e]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^114PhdDw]. JAMA Network Open (2021). High credibility.
 
 Importance
 
@@ -264,7 +264,7 @@ In this large, multicenter cohort study, there was no association between ondans
 
 ---
 
-### Effectiveness and safety of ginger in the treatment of pregnancy-induced nausea and vomiting [^939d1c12]. Obstetrics and Gynecology (2005). Low credibility.
+### Effectiveness and safety of ginger in the treatment of pregnancy-induced nausea and vomiting [^114mqxAm]. Obstetrics and Gynecology (2005). Low credibility.
 
 Objective
 
@@ -292,7 +292,7 @@ I.
 
 ---
 
-### Evidence-based view of safety and effectiveness of pharmacologic therapy for nausea and vomiting of pregnancy (NVP) [^07a3f00b]. American Journal of Obstetrics and Gynecology (2002). Low credibility.
+### Evidence-based view of safety and effectiveness of pharmacologic therapy for nausea and vomiting of pregnancy (NVP) [^111CKyjg]. American Journal of Obstetrics and Gynecology (2002). Low credibility.
 
 Objective
 
@@ -312,7 +312,7 @@ Many medications, particularly H(1)-antagonists and phenothiazines, are safe and
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^6de24410]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^113ouejR]. JAMA Network Open (2021). High credibility.
 
 Strengths and Limitations
 
@@ -322,7 +322,7 @@ Several limitations of our analyses merit mention. The analysis of major congeni
 
 ---
 
-### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^cfe9eaad]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^116KF1Q8]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Introduction
 
@@ -330,7 +330,7 @@ About 80% of pregnant women experience nausea and/or vomiting during pregnancy �
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^fd39e46c]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^117URK8X]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 TABLE 1
 Antiemetics used in the treatment of hyperemesis gravidarum (HG).
@@ -343,31 +343,31 @@ Combination of drugs should be used in individuals who have not responded to sin
 
 ---
 
-### Use of prescription antiemetics among US commercially insured pregnant patients, 2005–2019 [^1394face]. JAMA Network Open (2024). High credibility.
+### Use of prescription antiemetics among US commercially insured pregnant patients, 2005–2019 [^111W2oiM]. JAMA Network Open (2024). High credibility.
 
 This cohort study investigates prescription antiemetic treatment patterns considering monotherapy, switching, and combination therapy during the first trimester of pregnancy and evaluates factors associated with ondansetron use.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^9e787654]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^1153wWKV]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin No. 189 — evidence grading and recommendation categories for nausea and vomiting of pregnancy are defined as follows: The MEDLINE database, the Cochrane Library, and ACOG resources were used to identify English-language articles published between January 2000 and September 2017; abstracts at symposia were not included, and when reliable research was not available, expert opinion was used. Studies were reviewed according to the U.S. Preventive Services Task Force method with levels I (evidence obtained from at least one properly designed randomized controlled trial), II-1 (evidence obtained from well-designed controlled trials without randomization), II-2 (evidence obtained from well-designed cohort or case–control analytic studies, preferably from more than one center or research group), II-3 (evidence obtained from multiple time series with or without the intervention; dramatic results in uncontrolled experiments also could be regarded as this type of evidence), and III (opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees). Based on the highest level of evidence, recommendations are graded as Level A (based on good and consistent scientific evidence), Level B (based on limited or inconsistent scientific evidence), and Level C (based primarily on consensus and expert opinion).
 
 ---
 
-### Ondansetron use in pregnancy [^50469662]. Obstetrics and Gynecology (2016). Low credibility.
+### Ondansetron use in pregnancy [^11341ihX]. Obstetrics and Gynecology (2016). Low credibility.
 
 The American College of Obstetricians and Gynecologists recommends early treatment of nausea and vomiting of pregnancy to stop progression to hyperemesis gravidarum. Nausea and vomiting and hyperemesis gravidarum typically occur during the first trimester, the sensitive time for exposure to teratogens because organogenesis is occurring in the embryo. An efficacious treatment used widely across the United States for both nausea and vomiting of pregnancy and hyperemesis gravidarum is ondansetron. Recent studies have provided conflicting findings on the safety of ondansetron during pregnancy. There are numerous limitations in the current literature on ondansetron safety including exposure to the medication is not limited to sensitive windows of organogenesis, there is a lack of information on dosing and compliance, self-reports of exposure are commonly used, an inadequate accounting exists for other factors that may explain the relationship between ondansetron exposure and the adverse outcome, and there exists a lack of biologic plausibility by which ondansetron might cause harm. It is the authors' opinion that current data do not support a reluctance to treat women with ondansetron in clinical practice.
 
 ---
 
-### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^8e859755]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^114eJ7ak]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Several studies have examined women's experiences with nausea and vomiting in pregnancy, more broadly. One study conducted focus groups with women and clinicians in Norway and found that women felt their experiences of nausea and vomiting were not taken seriously. Pregnant women and clinicians were reluctant to consider medication use because of concerns about harm to the baby. In Norway, women and clinicians relied heavily on the option of graded sick leave (part-time work), which is less available in the US. A study in Canada interviewed women calling a telephone counseling line to learn about treatment options for nausea and vomiting in pregnancy; the authors found that despite detailed counseling about Diclegis (doxylamine and pyridoxine), a medication widely regarded as safe in pregnancy, many women remained fearful and continued to believe it caused birth defects. This study took a quantitative approach, reporting survey results but not foregrounding women's voices or providing details of their experience. Finally, Locock et al. conducted qualitative interviews with 73 women from the UK. While this paper provides a rich and detailed view of women's experiences with nausea and vomiting more broadly, little information was provided about women's opinions and choices regarding medication use. No study has examined the perspectives of women in the US. The only study about women's perspectives came from Norway, where attitudes and practices may be very different from the US because of greater access to paid sick leave and part-time work. This paper will examine the perspectives of U.S. women who chose to fill an anti-nausea medication prescription to understand how they made decisions about whether to take anti-nausea medication during pregnancy, including their attitudes regarding medication use, how they weighed risks, what evidence they considered, and their experiences using anti-nausea medication.
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^6e83c310]. BJOG (2024). High credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^113pqtvs]. BJOG (2024). High credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to setting of care, RCOG 2024 guidelines recommend to consider offering inpatient care if there is at least one of the following:
 
@@ -381,7 +381,7 @@ Regarding medical management for nausea and vomiting of pregnancy, more specific
 
 ---
 
-### Prescription medication use during pregnancy in the United States from 2011 to 2020: trends and safety evidence [^f51d9c7b]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
+### Prescription medication use during pregnancy in the United States from 2011 to 2020: trends and safety evidence [^117GPuvA]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
 
 Background
 
@@ -405,13 +405,13 @@ There is a need for more drug research in pregnant patients. Future research sho
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^ce3be8f8]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^116GkaCF]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Nausea and vomiting of pregnancy — medication approvals, counseling, and supplementation — notes that "Some antiemetic medications have only been approved by the U.S. Food and Drug Administration for use in nonpregnant patients; however, off-label use is common", and clinicians "should counsel patients and document such discussions accordingly". It cautions, "Care should be exercised if multiple antiemetic medications are used simultaneously. Parallel use of some medications (see text) may result in an increased risk of adverse effects". Practical dosing guidance includes, "In the United States, doxylamine is available as the active ingredient in some over-the-counter sleep aids; one half of a scored 25-mg tablet can be used to provide a 12.5-mg dose of doxylamine". For prevention of Wernicke encephalopathy during rehydration, "Thiamine, intravenously, 100 mg with the initial rehydration fluid and 100 mg daily for the next 2–3 days (followed by intravenous multivitamins), is recommended for women who require intravenous hydration and have vomited for more than 3 weeks".
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^175b8c10]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^111bdTxs]. JAMA Network Open (2021). High credibility.
 
 Conclusion s
 
@@ -419,7 +419,7 @@ In this large, international, multicenter cohort study, there was no credible as
 
 ---
 
-### Cancer in pregnancy: FIGO best practice advice and narrative review [^55c2eaf2]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### Cancer in pregnancy: FIGO best practice advice and narrative review [^113C9RFw]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 4.4 Supportive and other treatments
 
@@ -431,25 +431,25 @@ Active malignancy is associated with a significantly increased risk of VTE in pr
 
 ---
 
-### Headaches in pregnancy and postpartum: ACOG clinical practice guideline no. 3 [^30e3ab5a]. Obstetrics and Gynecology (2022). High credibility.
+### Headaches in pregnancy and postpartum: ACOG clinical practice guideline no. 3 [^112FUstD]. Obstetrics and Gynecology (2022). High credibility.
 
 ACOG clinical practice guideline — persistent headache in pregnancy states that ACOG recommends metoclopramide 10 mg (intravenous or enteral), alone or in combination with diphenhydramine 25 mg (intravenous or enteral) as additional treatment for persistent headache in pregnancy (STRONG RECOMMENDATION, MODERATE-QUALITY EVIDENCE). Use of metoclopramide is particularly helpful for women with migraine-associated nausea, and although metoclopramide is preferred because of its better safety profile, other common antiemetics can also be used. Oral diphenhydramine 25 mg may be co-administered with metoclopramide to counter akathisia, and the sedating effects of the antihistamine may also help with migraine resolution.
 
 ---
 
-### NCCN guidelines® insights: breast cancer, version 5.2025 [^40e96925]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: breast cancer, version 5.2025 [^112fEcF6]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Guidelines Version 4.2025 — breast cancer during pregnancy systemic chemotherapy and FAC outcomes — Chemotherapy should "not be administered at any point during the first trimester of pregnancy", and if systemic therapy is initiated, "fetal monitoring prior to each chemotherapy cycle is appropriate". In later pregnancy, fetal malformation risk is low, with "approximately 1.3%" in the second and third trimesters, and timing restrictions apply: chemotherapy "should not be given after week 35 of pregnancy or within 3 weeks of planned delivery". A single-institution prospective study indicates FAC "(5-fluorouracil 500 mg/m2 IV days 1 and 4, doxorubicin 50 mg/m2 by IV infusion over 72 hours, and cyclophosphamide 500 mg/m2 IV day 1) may be given with relative safety during the second and third trimesters of pregnancy", with reported outcomes that the "median gestational age at delivery was 38 weeks, more than 50% of the patients had a vaginal delivery, and there were no fetal deaths", and an update describing "57 patients" with "57 live births" and a survey on "40 children". For supportive care, "Ondansetron, lorazepam, and dexamethasone can be used as part of the pre-chemotherapy antiemetic regimen".
 
 ---
 
-### Over-the-counter medications in pregnancy [^b53cce14]. American Family Physician (2014). Low credibility.
+### Over-the-counter medications in pregnancy [^115dhBas]. American Family Physician (2014). Low credibility.
 
 Many pregnant women take over-the-counter (OTC) medications despite the absence of randomized controlled trials to guide their use during pregnancy. Most data come from case-control and cohort studies. In 1979, the U.S. Food and Drug Administration began reviewing all prescription and OTC medications to develop risk categories for use in pregnancy. Most OTC medications taken during pregnancy are for allergy, respiratory, gastrointestinal, or skin conditions, as well as for general analgesia. Acetaminophen, which is used by about 65% of pregnant women, is generally considered safe during any trimester. Cold medications are also commonly used and are considered safe for short-term use outside of the first trimester. Many gastrointestinal medications are now available OTC. Histamine H2 blockers and proton pump inhibitors have not demonstrated significant fetal effects. Nonsteroidal anti-inflammatory drugs are generally not recommended in pregnancy, especially during organogenesis and in the third trimester. There are even fewer data regarding use of individual herbal supplements. Ginger is considered safe and effective for treating nausea in pregnancy. Topical creams are considered safe based on small studies and previous practice. All OTC medication use should be discussed with patients, and the effects of the symptoms should be balanced with the risks and benefits of each medication. Because of the expanding OTC market, formalized studies are warranted for patients to make a safe and informed decision about OTC medication use during pregnancy.
 
 ---
 
-### Ondansetron in pregnancy and risk of adverse fetal outcomes [^4bb3fbd3]. The New England Journal of Medicine (2013). Excellent credibility.
+### Ondansetron in pregnancy and risk of adverse fetal outcomes [^112wEXW2]. The New England Journal of Medicine (2013). Excellent credibility.
 
 Background
 
@@ -469,7 +469,7 @@ Ondansetron taken during pregnancy was not associated with a significantly incre
 
 ---
 
-### The pregnant patient: managing common acute medical problems… [^c977d048]. AAFP (2018). Low credibility.
+### The pregnant patient: managing common acute medical problems… [^1169gkoR]. AAFP (2018). Low credibility.
 
 Prescribed antiemetics such as metoclopramide and trimethobenzamide are reserved for severe or refractory cases. 9, 10 However, there are safety concerns with some prescribed antiemetics, such as promethazine, which has a risk of neonatal respiratory depression near term or during labor, and ondansetron, which physicians should consider avoiding in the first trimester because of conflicting data on the risk of teratogenicity. 9–11. 13 Initial therapies for gastroesophageal reflux of pregnancy include low-risk lifestyle interventions such as eating frequent small meals and avoiding smoking, caffeine, peppermint, and chocolate. Next choices generally include over-the-counter antacids that do not contain salicylates and over-the-counter cimetidine, famotidine, or ranitidine.
 
@@ -480,7 +480,7 @@ Intrahepatic cholestasis of pregnancy, which causes pruritus without a rash, has
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^d878b37f]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^116XvsKU]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -490,7 +490,7 @@ More research is available for ondansetron and congenital malformations; however
 
 ---
 
-### Prevention of nausea and vomiting during termination of pregnancy [^3477082d]. International Journal of Gynaecology and Obstetrics (2010). Low credibility.
+### Prevention of nausea and vomiting during termination of pregnancy [^112LnLap]. International Journal of Gynaecology and Obstetrics (2010). Low credibility.
 
 Background
 
@@ -522,25 +522,25 @@ All antiemetics used in the last 20 years to prevent PONV are effective (some mo
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^ea068d27]. Obstetrics and Gynecology (2018). Low credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^116yxJaJ]. Obstetrics and Gynecology (2018). Low credibility.
 
 Regarding the use of ondansetron PO in pregnant patients for all trimesters: use only if clearly needed. The ACOG and SOGC guidelines suggest ondansetron as an adjunctive therapy for severe nausea and vomiting of pregnancy when other antiemetic combinations have failed. The RCOG guidelines suggest reassuring pregnant women about the very small increase in the absolute risk of orofacial clefting with ondansetron use in the first trimester, while also considering the risks of poorly managed hyperemesis gravidarum. The drug ondansetron PO is classified under category B1 in the Australian categorisation system for prescribing medicines in pregnancy. This drug has been taken by only a limited number of pregnant women and women of childbearing age, without an increase in the frequency of malformation or other direct or indirect harmful effects on the human foetus having been observed. Studies in animals have not shown evidence of an increased occurrence of foetal damage.
 
 ---
 
-### Supportive medication in cancer during pregnancy [^fee3647b]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Supportive medication in cancer during pregnancy [^117WtEYS]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 While pregnancy-related malignancies are quite rare, their incidence is increasing and thus affecting more and more women nowadays. Their management, however, with both chemotherapy and supportive agents remains quite challenging and it seems crucial to define the optimal treatment for this special population. Concerning supportive medication, it is clinically significant to determine whether commonly used agents, including Granulocyte Colony-Stimulating Factors, Erythropoiesis-stimulating agents, Bisphosphonates, Anticoagulation agents, Antiemetics and Glucocorticoids are indeed effective in ameliorating chemotherapy side effects. Meanwhile, it is of great importance that the administration of any of these agents is safe for both mother and fetus. This review aims to provide a précis of the current literature regarding both safety and efficacy of all categories of supportive medication during pregnancy.
 
 ---
 
-### NCCN guidelines® insights: breast cancer, version 5.2025 [^c62a97ee]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: breast cancer, version 5.2025 [^1164nray]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Breast cancer during pregnancy — systemic chemotherapy indications, timing, and regimen data indicate that chemotherapy should not be administered at any point during the first trimester of pregnancy and that fetal malformation risks in the second and third trimester are approximately 1.3%, not different than that of fetuses not exposed to chemotherapy during pregnancy; if systemic therapy is initiated, fetal monitoring prior to each chemotherapy cycle is appropriate. Chemotherapy during pregnancy should not be given after week 35 of pregnancy or within 3 weeks of planned delivery to avoid potential hematologic complications during delivery. Data from a single-institution prospective study indicate that FAC chemotherapy (5-fluorouracil 500 mg/m2 IV days 1 and 4, doxorubicin 50 mg/m2 by IV infusion over 72 hours, and cyclophosphamide 500 mg/m2 IV day 1) may be given with relative safety during the second and third trimesters of pregnancy, with a median gestational age at delivery of 38 weeks, more than 50% vaginal delivery, and no fetal deaths; an update reported 57 patients treated with FAC and 57 live births, with survey data on 40 children including one child with Down syndrome and two with congenital abnormalities. Ondansetron, lorazepam, and dexamethasone can be used as part of the pre-chemotherapy antiemetic regimen.
 
 ---
 
-### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^6b01fb77]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^113jeLmk]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Background
 
@@ -560,7 +560,7 @@ During 2002–2019, the overall use of antiemetics in treatment of hyperemesis i
 
 ---
 
-### Nausea and vomiting in early pregnancy [^99a673b2]. BMJ Clinical Evidence (2014). Medium credibility.
+### Nausea and vomiting in early pregnancy [^114vo1ry]. BMJ Clinical Evidence (2014). Medium credibility.
 
 Introduction
 
@@ -580,7 +580,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Nausea and vomiting in early pregnancy [^823c09d4]. BMJ Clinical Evidence (2007). Medium credibility.
+### Nausea and vomiting in early pregnancy [^114L5ZH5]. BMJ Clinical Evidence (2007). Medium credibility.
 
 Introduction
 
@@ -600,13 +600,13 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^2f7ebc73]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^112DQzGJ]. Gastroenterology (2024). High credibility.
 
 Nausea and vomiting of pregnancy — antiemetic therapy recommendations specify that H1-receptor antagonists, such as doxylamine, promethazine, and dimenhydrinate, are considered safe first-line pharmacologic antiemetic therapies, if needed. Doxylamine is US Food and Drug Administration–approved and recommended by the American College of Obstetricians and Gynecologists (ACOG) for persistent NVP refractory to nonpharmacologic therapy. Doxylamine and pyridoxine are available in 10 mg/10 mg and 20 mg/20 mg combinations and are safe and well tolerated. Early intervention and treatment of NVP may help prevent progression to hyperemesis gravidarum (HG).
 
 ---
 
-### The safety of metoclopramide use in the first trimester of pregnancy [^f7b5b532]. The New England Journal of Medicine (2009). Excellent credibility.
+### The safety of metoclopramide use in the first trimester of pregnancy [^117LEyZT]. The New England Journal of Medicine (2009). Excellent credibility.
 
 Background
 
@@ -626,7 +626,7 @@ In this large cohort of infants, exposure to metoclopramide in the first trimest
 
 ---
 
-### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^82982fa2]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^114LcWTb]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Focus group 2, Participant 7: Some days I had to miss school because I couldn't get out of bed. I wasn't eating. So I had to get on the pills to eat at school. Sometimes I had to go home from school because I couldn't stomach watching everyone eat.
 
@@ -646,13 +646,13 @@ Focus Group 2, Participant 4: For Zofran [ondansetron], there's few studies, a h
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^87a2bb82]. Obstetrics and Gynecology (2018). Low credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^114U5zL1]. Obstetrics and Gynecology (2018). Low credibility.
 
 Nausea and vomiting of pregnancy is a common condition that affects the health of a pregnant woman and her fetus. It can diminish a woman's quality of life and also significantly contributes to health care costs and time lost from work (1, 2). Because morning sickness is common in early pregnancy, the presence of nausea and vomiting of pregnancy may be minimized by obstetricians, other obstetric care providers, and pregnant women and, thus, undertreated (1). Furthermore, some women do not seek treatment because of concerns about the safety of medications (3). Once nausea and vomiting of pregnancy progresses, it can become more difficult to control symptoms. Treatment in the early stages may prevent more serious complications, including hospitalization (4). Safe and effective treatments are available for more severe cases, and mild cases of nausea and vomiting of pregnancy may be resolved with lifestyle and dietary changes. The woman's perception of the severity of her symptoms plays a critical role in the decision of whether, when, and how to treat nausea and vomiting of pregnancy. Nausea and vomiting of pregnancy should be distinguished from nausea and vomiting related to other causes. The purpose of this document is to review the best available evidence about the diagnosis and management of nausea and vomiting of pregnancy.
 
 ---
 
-### Nausea and vomiting in early pregnancy [^b92b869d]. BMJ Clinical Evidence (2009). Medium credibility.
+### Nausea and vomiting in early pregnancy [^115jXL5z]. BMJ Clinical Evidence (2009). Medium credibility.
 
 Introduction
 
@@ -672,7 +672,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^7c341c7f]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^114B8y9x]. JAMA Network Open (2021). High credibility.
 
 Table 2.
 Characteristics of Pregnant Patients Exposed to an Antiemetic Medication During Pregnancy a
@@ -683,19 +683,19 @@ Counts of the primary and secondary outcomes are provided in Table 3. There were
 
 ---
 
-### Treating morning sickness in the United States – changes in prescribing are needed [^c87886b5]. American Journal of Obstetrics and Gynecology (2014). Low credibility.
+### Treating morning sickness in the United States – changes in prescribing are needed [^1168D1QG]. American Journal of Obstetrics and Gynecology (2014). Low credibility.
 
 Presently, 97.7% of prescriptions for the treatment of nausea and vomiting in pregnancy in the United States are with medications not labeled for use in pregnancy, not indicated for nausea and vomiting in pregnancy, and not classified as safe in pregnancy by the Food and Drug Administration. The use of ondansetron for nausea and vomiting in pregnancy has increased from 50,000 monthly prescriptions in 2008 to 110,000 at the end of 2013, despite unresolved issues regarding fetal safety and Food and Drug Administration warnings about serious dysrhythmias. In April 2013, the Food and Drug Administration approved the combination of doxylamine and pyridoxine, specifically for nausea and vomiting in pregnancy symptoms. Now that a safe and effective drug is available in the United States, there is no reason for women to be exposed to a drug of unproven maternal and fetal safety.
 
 ---
 
-### Practice bulletin summary no. 153: nausea and vomiting of pregnancy [^0f96befe]. Obstetrics and Gynecology (2015). Low credibility.
+### Practice bulletin summary no. 153: nausea and vomiting of pregnancy [^111Q7Szq]. Obstetrics and Gynecology (2015). Low credibility.
 
 Nausea and vomiting of pregnancy is a common condition that affects the health of the pregnant woman and her fetus. It can diminish the woman's quality of life and also significantly contributes to health care costs and time lost from work (1, 2). Because "morning sickness" is common in early pregnancy, the presence of nausea and vomiting of pregnancy may be minimized by obstetricians, other obstetric providers, and pregnant women and, thus, undertreated (1). Furthermore, some women do not seek treatment because of concerns about safety of medications (3). Once nausea and vomiting of pregnancy progresses, it can become more difficult to control symptoms; treatment in the early stages may prevent more serious complications, including hospitalization (4). Mild cases of nausea and vomiting of pregnancy may be resolved with lifestyle and dietary changes, and safe and effective treatments are available for more severe cases. The woman's perception of the severity of her symptoms plays a critical role in the decision of whether, when, and how to treat nausea and vomiting of pregnancy. In addition, nausea and vomiting of pregnancy should be distinguished from nausea and vomiting related to other causes. The purpose of this document is to review the best available evidence about the diagnosis and management of nausea and vomiting of pregnancy.
 
 ---
 
-### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^7b00f8c1]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^1149MobN]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Discussion
 
@@ -709,19 +709,19 @@ The steady increase in the use of ondansetron pre-, per-, and post-hospitalizati
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^432d3d8f]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^112ibNEi]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to corticosteroids, SOGC 2016 guidelines recommend to avoid using corticosteroids during the first trimester of pregnancy because of possible increased risk of oral clefting.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^9f989a08]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^1155cHjD]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Nausea and vomiting of pregnancy — The following recommendations are based on limited or inconsistent scientific evidence (Level B): Treatment of nausea and vomiting of pregnancy with ginger has shown some beneficial effects in reducing nausea symptoms and can be considered as a nonpharmacologic option. Treatment of severe nausea and vomiting of pregnancy or hyperemesis gravidarum with methylprednisolone may be efficacious in refractory cases; however, the risk profile of methylprednisolone suggests it should be a last-resort treatment.
 
 ---
 
-### Interventions for nausea and vomiting in early pregnancy [^f6c7f868]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Interventions for nausea and vomiting in early pregnancy [^117Js84X]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -753,13 +753,13 @@ Given the high prevalence of nausea and vomiting in early pregnancy, women and h
 
 ---
 
-### Practice bulletin no. 153: nausea and vomiting of pregnancy [^83c47eff]. Obstetrics and Gynecology (2015). Low credibility.
+### Practice bulletin no. 153: nausea and vomiting of pregnancy [^114NMNyC]. Obstetrics and Gynecology (2015). Low credibility.
 
 Nausea and vomiting of pregnancy is a common condition that affects the health of the pregnant woman and her fetus. It can diminish the woman's quality of life and also significantly contributes to health care costs and time lost from work (). Because "morning sickness" is common in early pregnancy, the presence of nausea and vomiting of pregnancy may be minimized by obstetricians, other obstetric providers, and pregnant women and, thus, undertreated (). Furthermore, some women do not seek treatment because of concerns about safety of medications (). Once nausea and vomiting of pregnancy progresses, it can become more difficult to control symptoms; treatment in the early stages may prevent more serious complications, including hospitalization (). Mild cases of nausea and vomiting of pregnancy may be resolved with lifestyle and dietary changes, and safe and effective treatments are available for more severe cases. The woman's perception of the severity of her symptoms plays a critical role in the decision of whether, when, and how to treat nausea and vomiting of pregnancy. In addition, nausea and vomiting of pregnancy should be distinguished from nausea and vomiting related to other causes. The purpose of this document is to review the best available evidence about the diagnosis and management of nausea and vomiting of pregnancy.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^453ac803]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^112mdtbc]. JAMA Network Open (2021). High credibility.
 
 Results
 
@@ -767,19 +767,19 @@ The main analysis of fetal death included 456 963 pregnancies exposed to ondanse
 
 ---
 
-### NCCN guidelines® insights: Hodgkin lymphoma, version 2.2022 [^0cd77b00]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
+### NCCN guidelines® insights: Hodgkin lymphoma, version 2.2022 [^111L3EHD]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
 
 Hodgkin lymphoma during pregnancy — supportive care and breastfeeding guidance specifies that G-CSF is category C in pregnancy; ondansetron and metoclopramide are the preferred antiemetics for patients who are pregnant; and breastfeeding should be avoided in patients receiving chemotherapy in the postpartum period.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^645aa892]. Obstetrics and Gynecology (2018). Low credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^113ZnDMK]. Obstetrics and Gynecology (2018). Low credibility.
 
 Regarding the use of ondansetron hydrochloride IV (also known as Zofran) in pregnant patients for all trimesters: use only if clearly needed. The ACOG and SOGC guidelines suggest ondansetron as an adjunctive therapy for severe nausea and vomiting of pregnancy when other antiemetic combinations have failed. The RCOG guidelines suggest reassuring pregnant women about the very small increase in the absolute risk of orofacial clefting with ondansetron use in the first trimester, while also considering the risks of poorly managed hyperemesis gravidarum. The drug ondansetron hydrochloride IV (also known as Zofran) is classified under category B1 in the Australian categorisation system for prescribing medicines in pregnancy. This drug has been taken by only a limited number of pregnant women and women of childbearing age, without an increase in the frequency of malformation or other direct or indirect harmful effects on the human foetus having been observed. Studies in animals have not shown evidence of an increased occurrence of foetal damage.
 
 ---
 
-### Pharmacogenetic predictors of nausea and vomiting of pregnancy severity and response to antiemetic therapy: a pilot study [^91e6f978]. BMC Pregnancy and Childbirth (2013). Low credibility.
+### Pharmacogenetic predictors of nausea and vomiting of pregnancy severity and response to antiemetic therapy: a pilot study [^114jJncF]. BMC Pregnancy and Childbirth (2013). Low credibility.
 
 Background
 
@@ -791,7 +791,7 @@ The objective of this study was to evaluate the role of serotonin receptor subun
 
 ---
 
-### Trends in the prevalence and pharmacological management of migraine during pregnancy in the UK, 2000–2018 [^4d96dff1]. Journal of Neurology, Neurosurgery, and Psychiatry (2024). Medium credibility.
+### Trends in the prevalence and pharmacological management of migraine during pregnancy in the UK, 2000–2018 [^112z2iye]. Journal of Neurology, Neurosurgery, and Psychiatry (2024). Medium credibility.
 
 Interpretation
 
@@ -803,13 +803,13 @@ Prescriptions were found to be more likely in women who are already at higher ri
 
 ---
 
-### NCCN guidelines® insights: Hodgkin lymphoma, version 2.2022 [^70cdf7d8]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
+### NCCN guidelines® insights: Hodgkin lymphoma, version 2.2022 [^113tEo9R]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
 
 Hodgkin lymphoma during pregnancy — supportive care and lactation guidance states that G-CSF is category C in pregnancy, ondansetron and metoclopramide are the preferred antiemetics for patients who are pregnant, and breastfeeding should be avoided in patients receiving chemotherapy in the postpartum period.
 
 ---
 
-### Gastrointestinal diseases during pregnancy: what does the gastroenterologist need to know? [^c60c0b16]. Annals of Gastroenterology (2018). Low credibility.
+### Gastrointestinal diseases during pregnancy: what does the gastroenterologist need to know? [^1164cbRP]. Annals of Gastroenterology (2018). Low credibility.
 
 The approach to nausea and vomiting entails the exclusion of other causes, especially if these symptoms persist during the second and third trimesters. Most women do not require pharmacological treatment and can be managed with alternative options and dietary modifications. Diet recommendations include fractionized meals and avoidance of fatty foods and fresh vegetables that can delay gastric emptying. Daily consumption of 1.5 L of water or drinks containing glucose, salt and potassium are recommended. Both thiamine (vitamin B1) and pyridoxine (vitamin B6) have proven their efficacy and are indicated as routine supplements in patients with protracted vomiting. A 2010 Cochrane review evaluated nine randomized trials involving ginger. Based on expert experience, ginger can be considered a non-pharmacologic option during pregnancy.
 
@@ -817,7 +817,7 @@ Concerning the pharmacological treatment, antiemetics can be an option for women
 
 ---
 
-### Treatment of nausea in pregnancy: a cross-sectional multinational web-based study of pregnant women and new mothers [^fcede069]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Treatment of nausea in pregnancy: a cross-sectional multinational web-based study of pregnant women and new mothers [^117TynE4]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Discussion
 
@@ -827,7 +827,7 @@ Canada, followed by France, Switzerland and Sweden, had the highest prevalence o
 
 ---
 
-### Knowledge and practice of community pharmacists regarding the safety of drugs during pregnancy: a cross-sectional study from a developing country [^4184f50a]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Knowledge and practice of community pharmacists regarding the safety of drugs during pregnancy: a cross-sectional study from a developing country [^112g8rXs]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Background
 
@@ -839,13 +839,13 @@ Drugs may be used during pregnancy to manage preexisting health conditions such 
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^81468162]. Obstetrics and Gynecology (2018). Low credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^114Jf5uj]. Obstetrics and Gynecology (2018). Low credibility.
 
 Regarding the use of ondansetron hydrochloride PO (also known as Zofran) in pregnant patients for all trimesters: use only if clearly needed. The ACOG and SOGC guidelines suggest ondansetron as an adjunctive therapy for severe nausea and vomiting of pregnancy when other antiemetic combinations have failed. The RCOG guidelines suggest reassuring pregnant women about the very small increase in the absolute risk of orofacial clefting with ondansetron use in the first trimester, while also considering the risks of poorly managed hyperemesis gravidarum. The drug ondansetron hydrochloride PO (also known as Zofran) is classified under category B1 in the Australian categorisation system for prescribing medicines in pregnancy. This drug has been taken by only a limited number of pregnant women and women of childbearing age, without an increase in the frequency of malformation or other direct or indirect harmful effects on the human foetus having been observed. Studies in animals have not shown evidence of an increased occurrence of foetal damage.
 
 ---
 
-### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^d2556269]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^116Nq5bv]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Background
 
@@ -857,7 +857,7 @@ First-line antiemetics for nausea and vomiting during pregnancy (NVP)/HG have tr
 
 ---
 
-### Supportive medication in cancer during pregnancy [^f2e83cec]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Supportive medication in cancer during pregnancy [^117D81ZM]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Antiemetics
 
@@ -865,19 +865,19 @@ Chemotherapy-Induced Nausea and Vomiting (CINV) constitute important adverse eff
 
 ---
 
-### Medicine safety in pregnancy and ambitions for the EU medicine regulatory framework [^81ded0bc]. Clinical Pharmacology and Therapeutics (2016). Low credibility.
+### Medicine safety in pregnancy and ambitions for the EU medicine regulatory framework [^114KYF9V]. Clinical Pharmacology and Therapeutics (2016). Low credibility.
 
 Is the European Union (EU) regulatory framework concerning pregnant women and women at risk of becoming pregnant fit for the purpose? This article discusses improvements in how medicines should be developed and monitored for safe and effective use by pregnant women and women at risk of becoming pregnant.
 
 ---
 
-### Supportive medication in cancer during pregnancy [^9efc7161]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Supportive medication in cancer during pregnancy [^1154hqWY]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Another agent which has been examined sufficiently as to its compatibility with pregnancy and its potency against nausea and vomiting is metoclopramide. In utero exposure to metoclopramide during the first trimester was not associated with significantly increased risks of major congenital malformations, LBW, pre-term delivery or perinatal death. In addition, a very large study comparing pregnancy outcomes between exposed and un-exposed mothers discovered no link between exposure and 20 individual major congenital malformation categories, spontaneous abortion or stillbirth. Despite unanimity regarding metoclopramide's safety during pregnancy, there are some serious issues concerning maternal side-effects. Although comparable to ondansetron, metoclopramide is associated with increased frequency of drowsiness and dry mouth. What is far more important though, is that prolonged administration -beyond 12 weeks- is correlated with the development of irreversible tardive dyskinesia (FDA black box warning), especially in females.
 
 ---
 
-### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^5820faa2]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^113FezHP]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Inclusivity statement
 
@@ -885,7 +885,7 @@ We have chosen to use the word 'woman' to describe the population included in th
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^36602a22]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^112Pcdey]. JAMA Network Open (2021). High credibility.
 
 Table 1.
 Pregnancies in Included Databases, by Pregnancy Outcome a
@@ -896,7 +896,7 @@ Baseline characteristics of the study cohort for the primary outcome are present
 
 ---
 
-### Ondansetron hydrochloride [^5d3ea4bd]. FDA (2024). Medium credibility.
+### Ondansetron hydrochloride [^113PEtbv]. FDA (2024). Medium credibility.
 
 8. Use in Specific Populations
 
@@ -916,13 +916,13 @@ Available data on ondansetron use in pregnant women from several published epide
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^57b90d4d]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^113F45cx]. Anesthesia and Analgesia (2025). High credibility.
 
 Postoperative nausea and vomiting (PONV) in pregnancy: In a retrospective study, 237 gravid women who underwent non-obstetric procedures with general anesthesia were compared with 474 non-gravid women, and there was no significant difference in the incidence of PONV amongst gravid patients compared to non-gravid patients; fewer prophylactic antiemetics were given among gravid than non-gravid patients.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^a73dae54]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^115Gwehq]. JAMA Network Open (2021). High credibility.
 
 Table 3.
 Adverse Pregnancy Outcomes in Patients Using Antiemetics
@@ -943,13 +943,13 @@ Abbreviations: HR, hazard ratio; NA, not applicable; OR, odds ratio.
 
 ---
 
-### Hyperemesis gravidarum [^82926efd]. Lancet (2025). Excellent credibility.
+### Hyperemesis gravidarum [^114LaaPe]. Lancet (2025). Excellent credibility.
 
 Hyperemesis gravidarum describes nausea and vomiting in pregnancy severe enough to cause weight loss, dehydration, electrolyte imbalance, and nutritional deficiencies. The condition can render women so physically and mentally unwell that they are at increased risk of terminating a wanted pregnancy and experiencing suicidal ideation. Concerns regarding prescribing in pregnancy and inaccurate assumptions that the condition is self-limiting result in women being dismissed and having difficulty accessing appropriate care. Over the past decade, a wealth of literature has been published that gives new insights into the causes of hyperemesis gravidarum, the safety of antiemetic therapy, and short-term and long-term consequences for women with the condition and their children. This Review summarises the findings of this literature with the aim of informing decisions about the care of these women and future research priorities.
 
 ---
 
-### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^940c2bb0]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^114nVFp3]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 In 2013, the European Medicines Agency (EMA) issued a warning regarding licensed use of the dopamine antagonist metoclopramide due to risk of extrapyramidal adverse effects limiting treatment duration to up to five days and reducing dose recommendations. These recommendations were issued as a general precaution for metoclopramide by the Norwegian Medicines Agency in July 2013. Even though risk and benefit associated with use of metoclopramide for NVP/HG was not a part of the EMA safety review, the five-day limit was implemented in the Norwegian HG treatment guidelines in the 2014 update and UK green top guidelines in 2016. Subsequently, despite a very good fetal safety profile, metoclopramide was considered a second-line option due to risk of maternal adverse effects. The dopamine antagonists prochlorperazine and chlorpromazine were preferred. Between 2004 and 2017, 60% of all antiemetic prescription fills during pregnancy in the Norwegian Prescription Database (NorPD) were for metoclopramide, but changes in treatment provision for patients with HG related to the metoclopramide warning has not previously been investigated.
 
@@ -957,13 +957,13 @@ The aim of this study was to describe the antiemetic treatment provided for pati
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^b80b2bbe]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^115hrUUm]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Nausea and vomiting of pregnancy — The following recommendations are based on good and consistent scientific evidence (Level A): Treatment of nausea and vomiting of pregnancy with vitamin B6 (pyridoxine) alone or vitamin B6 (pyridoxine) plus doxylamine in combination is safe and effective and should be considered first-line pharmacotherapy. The standard recommendation to take prenatal vitamins for 1 month before fertilization may reduce the incidence and severity of nausea and vomiting of pregnancy. The appropriate management of abnormal maternal thyroid tests attributable to gestational transient thyrotoxicosis, or hyperemesis gravidarum, or both, includes supportive therapy, and antithyroid drugs are not recommended.
 
 ---
 
-### Treatment of nausea in pregnancy: a cross-sectional multinational web-based study of pregnant women and new mothers [^828f8c51]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Treatment of nausea in pregnancy: a cross-sectional multinational web-based study of pregnant women and new mothers [^114LZcBJ]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Respondents who had a lower education were more likely to use medicines against nausea. This finding is in accordance with a Swedish study. Respondents working as health care professionals were also more likely to use medicines against nausea, which can be explained by this group being aware of safe and effective treatment options for nausea. Multiple pregnancy was associated with the use of medicines. This may indicate that use of medicines may act as a marker of severe forms of nausea, as it is previously found that multiple pregnancy increase the risk of nausea. In addition, the severity of NVP symptoms has been associated with the use of antiemetics.
 
@@ -971,7 +971,7 @@ We found a high burden of co-morbidity among respondents experiencing nausea dur
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^778e01f0]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^1144FE4o]. JAMA Network Open (2021). High credibility.
 
 Exposure Measurement
 
@@ -981,7 +981,7 @@ For the primary outcome and for the secondary outcomes of spontaneous abortion a
 
 ---
 
-### Comparison of antiemetics for nausea and vomiting of pregnancy in an emergency department setting [^53332045]. The American Journal of Emergency Medicine (2015). Low credibility.
+### Comparison of antiemetics for nausea and vomiting of pregnancy in an emergency department setting [^1138M9QY]. The American Journal of Emergency Medicine (2015). Low credibility.
 
 Objective
 
@@ -1001,7 +1001,7 @@ The use of ondansetron in the ED for nausea and vomiting of pregnancy was associ
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^c0fe3bc6]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^115w81yX]. JAMA Network Open (2021). High credibility.
 
 The stillbirth sensitivity analyses showed associations with ondansetron exposure during 4 to 10 weeks of gestation: harmful in Canada and protective in the US. These associations, which were closer to the null in the main analysis, are likely to be spurious and may be a consequence of selection bias from excluding women from the sensitivity analysis who used antiemetics before 4 weeks of gestation. In Canada, such patients were more likely to have used a reference antiemetic other than ondansetron, and in Canada ondansetron tends to be used after other antiemetics have been tried. Exclusion of patients in Canada using antiemetics in the first few weeks of pregnancy thus excluded more patients treated with a comparator than with ondansetron. The opposite was true in the US, where ondansetron is more likely to be used as first-line therapy for NVP.
 
@@ -1009,7 +1009,7 @@ Identification of some pregnancy outcomes in our claims databases was subject to
 
 ---
 
-### Supportive medication in cancer during pregnancy [^3def52eb]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Supportive medication in cancer during pregnancy [^112apdbY]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 In the same spirit, glucocorticoids have been studied as to their antiemetic values and their possible effect on pregnancy outcomes. Glucocorticoids have been used in the treatment of hyperemesis gravidarum with rather mixed results. Nonetheless, they are appropriate as monotherapy in low-emetogenicity regimens, while they appear to have a synergistic effect with 5-HT3 receptor antagonists and are thus part of the antiemetic treatment indicated for higher emetogenicity schemes. Similarly to metoclopramide, they have been associated with oral cavity abnormalities, but the risk seems to be elevated only when exposure has occurred during the first trimester of gestation.
 
@@ -1019,13 +1019,13 @@ Despite the rather reassuring profile of aprepitant and olanzapine, the present 
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^a756e31c]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^115H67m5]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Nausea and vomiting of pregnancy — pharmacologic therapies and delivery modalities emphasize early initiation, alternative routes when oral therapy is not tolerated, and limited support for subcutaneous pumps. Early treatment of nausea and vomiting of pregnancy is recommended to prevent progression to hyperemesis gravidarum, and in a randomized controlled trial (RCT) initiating antiemetic therapy before symptom onset was associated with reduced severity compared with starting a combination of doxylamine and vitamin B6 (pyridoxine) after onset. When oral medications are not tolerated, other administration modalities may be beneficial: some phenothiazines (promethazine, prochlorperazine) are available as rectal suppositories, and serotonin 5‑hydroxytryptamine type 3 (5‑HT3) receptor antagonists are available as an oral dissolvable tablet (ondansetron) or a transdermal patch (granisetron). Evidence for continuous subcutaneous microinfusion pumps to deliver metoclopramide or ondansetron is limited, adverse effects were seen in 11–31% of selected patients, and these pumps do not appear to be cost effective compared with conventional alternatives including periodic hospitalization.
 
 ---
 
-### Nausea, vomiting and poor appetite during pregnancy and adverse birth outcomes in rural Nepal: an observational cohort study [^907e7579]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Nausea, vomiting and poor appetite during pregnancy and adverse birth outcomes in rural Nepal: an observational cohort study [^114hDhCU]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Despite these limitations, the results suggest nausea, vomiting or poor appetite during pregnancy in this limited resource setting have a significant impact on birth outcomes, particularly in the second and third trimesters. These symptoms are often considered to be normal in pregnancy given that they are so common and generally self-limiting, but the effects of such symptoms in settings where resources and access to health care are limited need to be examined. Several studies have shown that women with nausea and vomiting of pregnancy tend to change their diet during pregnancy and steer away from certain foods. Limited resources may affect the woman's ability to adjust her diet accordingly. These results challenge the notion that nausea and vomiting are harmless symptoms of pregnancy, which can be used to raise awareness among pregnant women and health care workers in these settings. Of note, limited resource settings are not confined to rural areas of developing countries, which is where this study took place. Attention should be given as well to these issues in urban parts of developing countries and potentially in certain areas of higher income countries, which may be highly affected by poverty and health disparities as well.
 
@@ -1033,25 +1033,25 @@ While the evidence for efficacy is currently limited, there are several accepted
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^f66e027f]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^117JLuVG]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for nausea and vomiting of pregnancy, more specifically with respect to ginger, SOGC 2016 guidelines recommend to consider advising the use of ginger to mitigate the symptoms in patients with NVOP.
 
 ---
 
-### Re-analysis of safety data supporting doxylamine use for nausea and vomiting of pregnancy [^db949404]. American Journal of Perinatology (2014). Low credibility.
+### Re-analysis of safety data supporting doxylamine use for nausea and vomiting of pregnancy [^116cYCFd]. American Journal of Perinatology (2014). Low credibility.
 
 Antihistamines are commonly used to treat nausea and vomiting of pregnancy (NVP). We re-analyzed the 24 primary studies cited in a 1997 meta-analysis that concluded antihistamine use for NVP was safe as they had been studied in more than 200,000 participating women and the pooled odds ratio for congenital malformations was 0.76 (95% confidence interval [CI]: 0.60–0.94). Our analysis of this meta-analysis showed that 139,414 women were included in 22 original studies involving antihistamines, 129,108 of which were in studies involving doxylamine. In these studies, 23,485 women were exposed to antihistamines, 14,624 of which were exposed to doxylamine. The summary relative risk (cohort studies) and odds ratio (case-control studies) for congenital malformations from antihistamine exposure were 1.09 (95% CI: 1.01–1.18) and 1.04 (95% CI: 0.91–1.19), and for doxylamine exposure, the summary relative risk and odds ratio were 0.94 (95% CI: 0.80–1.10) and 1.07 (95% CI: 0.93–1.23), respectively. Although not a new systematic review, our re-analysis demonstrates that the safety data for antihistamines, and doxylamine in particular, are based on many fewer than 200,000 participating women and exposures, and that doxylamine use is not associated with a decreased risk of malformations as previously reported.
 
 ---
 
-### Warning on use of ondansetron in first trimester of pregnancy [^96284567]. Drug and Therapeutics Bulletin (2020). Medium credibility.
+### Warning on use of ondansetron in first trimester of pregnancy [^114qcfpJ]. Drug and Therapeutics Bulletin (2020). Medium credibility.
 
 Every month, DTB scans sources of information on treatments, disease management and other healthcare topics for key items to bring to our readers' attention and help them keep up to date. To do this, we produce succinct, contextualised summaries of the information concerned.
 
 ---
 
-### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^ff3303f0]. JAMA Network Open (2021). High credibility.
+### Comparison of pregnancy outcomes of patients treated with ondansetron vs alternative antiemetic medications in a multinational, population-based cohort [^117XLyio]. JAMA Network Open (2021). High credibility.
 
 Sensitivity and Subgroup Analyses
 
@@ -1059,7 +1059,7 @@ Several sensitivity and subgroup analyses were performed. First, the MarketScan 
 
 ---
 
-### Treating pregnancy-related nausea and vomiting with ginger [^8a70b23c]. The Annals of Pharmacotherapy (2005). Low credibility.
+### Treating pregnancy-related nausea and vomiting with ginger [^114YF9PZ]. The Annals of Pharmacotherapy (2005). Low credibility.
 
 Objective
 

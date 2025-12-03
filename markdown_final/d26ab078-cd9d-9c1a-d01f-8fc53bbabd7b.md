@@ -89,7 +89,7 @@ The sequence ({bₙ}) is a geometric sequence with a common ratio of (q³). Ther
 
 ## References
 
-### Mathematical biases in the calculation of the living planet index lead to overestimation of vertebrate population decline [^9a83596d]. Nature Communications (2024). High credibility.
+### Mathematical biases in the calculation of the living planet index lead to overestimation of vertebrate population decline [^114x5DHn]. Nature Communications (2024). High credibility.
 
 More formally, the global LPI is calculated as a hierarchical sequence of five geometric means: i.e. a geometric mean of n ratios (p) of population values (N) of two consecutive years of the x th species, i.e. a geometric mean of d species-specific s x of the q th taxon, i.e. a geometric mean of c taxon-specific t q of the b th realm, i.e. a geometric mean of f realm-specific r b, i.e. a geometric mean of h ecosystem-specific e y. The global LPI is then calculated as,
 
@@ -103,7 +103,7 @@ The shape of the LPI curve is mostly influenced by two parameters; the number of
 
 ---
 
-### Geometric phase magnetometry using a solid-state spin [^68b9b058]. Nature Communications (2018). Medium credibility.
+### Geometric phase magnetometry using a solid-state spin [^113gG5pT]. Nature Communications (2018). Medium credibility.
 
 In Fig. 3 we compare the measured sensitivity and field range for geometric-phase and dynamic-phase magnetometry. For each point displayed, the sensitivity is measured directly at small B (0.01 ~ 0.1 mT), whereas the field range is calculated from the measured values of N and Ω (for geometric-phase magnetometry) and T (for dynamic-phase magnetometry, with T limited by the dephasing time T 2 *), following the scaling laws give above. Since geometric-phase magnetometry has three independent control parameters (T, N, and Ω), B max can be increased without changing sensitivity by increasing N and Ω while keeping the ratio N / Ω fixed. Such "smart control" allows a tenfold improvement in geometric-phase sensitivity (compared to dynamic-phase measurements) for B max ~ 1 mT, and a 400-fold enhancement B max at a sensitivity of ~2 μT Hz −1/2. Similarly, the sensitivity can be improved without changing B max by decreasing the interaction time, with a limit set by the adiabaticity condition.
 
@@ -112,7 +112,7 @@ Decoupling of magnetic field sensitivity and maximum field range. Measured perfo
 
 ---
 
-### Modelling sequences and temporal networks with dynamic community structures [^7129d625]. Nature Communications (2017). Medium credibility.
+### Modelling sequences and temporal networks with dynamic community structures [^113tmetL]. Nature Communications (2017). Medium credibility.
 
 Bayesian Markov chains with communities
 
@@ -122,7 +122,7 @@ To accomplish this, we rewrite the model likelihood, using eqs. (1) and (5), asa
 
 ---
 
-### Hand grip strength as a physical biomarker of aging from the perspective of a fibonacci mathematical modeling [^1dd20d12]. BMC Geriatrics (2018). Low credibility.
+### Hand grip strength as a physical biomarker of aging from the perspective of a fibonacci mathematical modeling [^111mDCJD]. BMC Geriatrics (2018). Low credibility.
 
 Background
 
@@ -142,7 +142,7 @@ The common pattern of the relative HGS reduction between 55 and 89years, as expr
 
 ---
 
-### Abstract representations of events arise from mental errors in learning and memory [^5646fd8b]. Nature Communications (2020). High credibility.
+### Abstract representations of events arise from mental errors in learning and memory [^113CunEv]. Nature Communications (2020). High credibility.
 
 Methods
 
@@ -154,7 +154,7 @@ In order to make quantitative predictions about people's estimates of a transiti
 
 ---
 
-### Alignment-free population genomics: an efficient estimator of sequence diversity [^6c3f2b55]. G3 (2012). Low credibility.
+### Alignment-free population genomics: an efficient estimator of sequence diversity [^113mUt5A]. G3 (2012). Low credibility.
 
 Derivation of
 
@@ -164,13 +164,13 @@ First, we compute the distribution of X i, i, where we assume that position i in
 
 ---
 
-### Modelling sequences and temporal networks with dynamic community structures [^81172c1e]. Nature Communications (2017). Medium credibility.
+### Modelling sequences and temporal networks with dynamic community structures [^114JPBnd]. Nature Communications (2017). Medium credibility.
 
 The above priors make the model fully nonparametric with a joint and marginal probability P ({ x t }, b) = P ({ x t }, b, { e s }) = P ({ x t }| b, { e s }) P (b) P ({ e s }). This approach successfully finds the most appropriate number of groups according to statistical evidence, without overfitting. This nonparametric method can also detect the most appropriate order of the Markov chain, again without overfitting. However, in some ways it is still sub-optimal. The use of conjugate Dirichlet priors above was primarily for mathematical convenience, not because they closely represent the actual mechanisms believed to generate the data. Although the noninformative choice of the Dirichlet distribution (which yields flat priors for { e rs } and { e s }) can be well justified by maximum entropy arguments (see ref.), and are unbiased, it can in fact be shown that it can lead to underfitting of the data, where the maximum number of detectable groups scales sub-optimally as. As shown in ref. this limitation can be overcome by departing from the model with Dirichlet priors, and replacing directly the priors P ({ e rs }|{ e s }) and P ({ e s }) of the microcanonical model by a single prior P ({ e rs }), and noticing that { e rs } corresponds to the adjacency matrix of bipartite multigraph with E edges and B N + B M nodes. With this insight, we can write P ({ e rs }) as a Bayesian hierarchy of nested SBMs, which replaces the resolution limit above by N /ln N, and provides a multilevel description of the data, while remaining unbiased. Furthermore, the uniform prior in eq. (8) for the token frequencies P ({ k x }|{ e rs }, (b) intrinsically favours concentrated distributions of k x values. This distribution is often skewed. We therefore replace it by a two-level Bayesian hierarchy, withand, where q (m, n) is the number of restricted partitions of integer m into at most n parts (see ref.for details).
 
 ---
 
-### Accurately clustering biological sequences in linear time by relatedness sorting [^120d0aa3]. Nature Communications (2024). High credibility.
+### Accurately clustering biological sequences in linear time by relatedness sorting [^111TmA9G]. Nature Communications (2024). High credibility.
 
 Two different values of k-mer length (k) are computed: one for use with k-mer matching between sequences and the other for use with rare k-mers. The goal of selecting k for k-mer matching is to ensure that k-mer matches between two sequences happen infrequently by chance, while using only a single value of k across all sequences. Hence, k is calculated such that one in every 100 k-mers is expected to be found by chance in sequences at the 99th percentile of input sequence lengths using an alphabet with a given number of letters (x):
 
@@ -178,7 +178,7 @@ The reasoning behind this formula for k was previously described. In contrast, k
 
 ---
 
-### Accurately clustering biological sequences in linear time by relatedness sorting [^eb9669e1]. Nature Communications (2024). High credibility.
+### Accurately clustering biological sequences in linear time by relatedness sorting [^1172GcX2]. Nature Communications (2024). High credibility.
 
 As relatedness sorting progresses, the rank ordering (v) typically stabilizes, with some sequences stabilizing before others. When a sequence's rank order stabilizes below 1000 (i.e. parameter C /2), its partition is split into separate groups at this sequence (Fig. 1J), as long as each new group would contain at least 2000 sequences. Relatedness sorting is continued within each group until all of its sequences stabilize in rank order below 1000 or the maximum number of iterations (i.e. parameter B) is reached. In practice, most groups stabilize in rank order before 2000 iterations and, thus, parameter B is not a limiting factor. Rank order stability is defined as v ≤ 1000 because the sequences are moving within 2000 positions on average (i.e. ± 1000), which is the number of sequences considered in phase 3 of the algorithm (i.e. parameter C).
 
@@ -190,32 +190,32 @@ K-mer similarity is calculated to the cluster representatives corresponding to a
 
 ---
 
-### Molecular constraints on CDR3 for thymic selection of MHC-restricted TCRs from a random pre-selection repertoire [^9d7ffbdd]. Nature Communications (2019). High credibility.
+### Molecular constraints on CDR3 for thymic selection of MHC-restricted TCRs from a random pre-selection repertoire [^1152W3a4]. Nature Communications (2019). High credibility.
 
 Fig. 8
 Frequency scatter plots. a, c Frequency scatter plots among MHC-restricted TCRβ (a) and TCRα (c) repertoires from individual B6 mice. b, d Frequency scatter plots among MHCi TCRβ (b) and TCRα (d) repertoires from individual Quad ko sequences. Each panel contains the comparison of three independent sequence repertoires from each strain of mice with the horizontal axis representing the frequencies of the first repertoire sequences, vertical axis representing the frequencies of the second (red circle) and third (green circle) repertoires. Common sequences between repertoire 1 and 2 are shown as red circles in the first quadrant with horizontal and vertical coordinates representing their respective frequencies in repertoire 1 and 2. Common sequences between repertoire 1 and 3 are shown as green circles with horizontal and vertical coordinates representing their respective frequencies in repertoire 1 and 3. Non-overlapping sequences appear on their respective axes. Top 200 common sequences present in all three repertoires are shown as filled yellow circles. Linear regressions of the frequency distributions between B6 repertoires 1 and 2 are shown in red lines. e CDR3β length-dependent expansion of MHCr and MHCi sequences from pre-selection repertoires. The percentage of expanded TCRβ sequences during thymic selection were plotted according to their CDR3 length for B6, Quad ko and Quad ko Bcl-2 tg. The analysis included common sequences between pre-selection (B6_DN) and MHCr (B6) or MHCi (Q and QB mice) repertoires. Expansion is defined as sequences whose mature frequencies (normalized for all comparing repertoires) were higher than their pre-selection ones. f Charged amino acid usages of CDR3β FG-loop in common sequences between pre-selection and MHCr or MHCi repertoires. B6 (+ 5%), top 5% TCRβ sequences of B6 repertoires; B6 +, B6 −, Q +, and Q − represent mature sequences either expanded (+) or not expanded (−) in frequency compared to their pre-selection repertoire
 
 ---
 
-### Species abundance information improves sequence taxonomy classification accuracy [^31c457c8]. Nature Communications (2019). High credibility.
+### Species abundance information improves sequence taxonomy classification accuracy [^112GnLsq]. Nature Communications (2019). High credibility.
 
 Popular naive Bayes taxonomic classifiers for amplicon sequences assume that all species in the reference database are equally likely to be observed. We demonstrate that classification accuracy degrades linearly with the degree to which that assumption is violated, and in practice it is always violated. By incorporating environment-specific taxonomic abundance information, we demonstrate a significant increase in the species-level classification accuracy across common sample types. At the species level, overall average error rates decline from 25% to 14%, which is favourably comparable to the error rates that existing classifiers achieve at the genus level (16%). Our findings indicate that for most practical purposes, the assumption that reference species are equally likely to be observed is untenable. q2-clawback provides a straightforward alternative for samples from common environments.
 
 ---
 
-### Dissecting splicing decisions and cell-to-cell variability with designed sequence libraries [^92c9c73e]. Nature Communications (2019). High credibility.
+### Dissecting splicing decisions and cell-to-cell variability with designed sequence libraries [^114kcy6u]. Nature Communications (2019). High credibility.
 
 Most human genes are alternatively spliced, allowing for a large expansion of the proteome. The multitude of regulatory inputs to splicing limits the potential to infer general principles from investigating native sequences. Here, we create a rationally designed library of > 32,000 splicing events to dissect the complexity of splicing regulation through systematic sequence alterations. Measuring RNA and protein splice isoforms allows us to investigate both cause and effect of splicing decisions, quantify diverse regulatory inputs and accurately predict (R 2 = 0.73–0.85) isoform ratios from sequence and secondary structure. By profiling individual cells, we measure the cell-to-cell variability of splicing decisions and show that it can be encoded in the DNA and influenced by regulatory inputs, opening the door for a novel, single-cell perspective on splicing regulation.
 
 ---
 
-### Input-output maps are strongly biased towards simple outputs [^50fca0dd]. Nature Communications (2018). Medium credibility.
+### Input-output maps are strongly biased towards simple outputs [^11354s9E]. Nature Communications (2018). Medium credibility.
 
 Many systems in nature can be described using discrete input-output maps. Without knowing details about a map, there may seem to be no a priori reason to expect that a randomly chosen input would be more likely to generate one output over another. Here, by extending fundamental results from algorithmic information theory, we show instead that for many real-world maps, the a priori probability P(x) that randomly sampled inputs generate a particular output x decays exponentially with the approximate Kolmogorov complexity [Formula: see text] of that output. These input-output maps are biased towards simplicity. We derive an upper bound P(x)≲[Formula: see text], which is tight for most inputs. The constants a and b, as well as many properties of P(x), can be predicted with minimal knowledge of the map. We explore this strong bias towards simple outputs in systems ranging from the folding of RNA secondary structures to systems of coupled ordinary differential equations to a stochastic financial trading model.
 
 ---
 
-### Immunogenicity and safety of a quadrivalent live attenuated influenza vaccine in children [^d09e355a]. The Pediatric Infectious Disease Journal (2012). Low credibility.
+### Immunogenicity and safety of a quadrivalent live attenuated influenza vaccine in children [^116LHZmK]. The Pediatric Infectious Disease Journal (2012). Low credibility.
 
 Background
 
@@ -235,7 +235,7 @@ The immunogenicity of Q/LAIV was noninferior to that of T/LAIV in children aged 
 
 ---
 
-### Pneumococcal 13-valent conjugate vaccine (Prevnar 13) [^05d7fb30]. FDA (2018). Low credibility.
+### Pneumococcal 13-valent conjugate vaccine (Prevnar 13) [^1119fV4b]. FDA (2018). Low credibility.
 
 Children 5 Through 17 Years of Age
 
@@ -247,7 +247,7 @@ In children 10 through 17 years of age OPA GMTs, as measured by the mcOPA assay,
 
 ---
 
-### Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences [^4c951635]. Nature (2025). Excellent credibility.
+### Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences [^112xY8rx]. Nature (2025). Excellent credibility.
 
 Expected relationship with RR of contact
 
@@ -264,19 +264,19 @@ We end simulations after ten generations to minimize computational costs.
 
 ---
 
-### Determining sequencing depth in a single-cell RNA-seq experiment [^ce3ab87a]. Nature Communications (2020). High credibility.
+### Determining sequencing depth in a single-cell RNA-seq experiment [^116GkB2H]. Nature Communications (2020). High credibility.
 
 An underlying question for virtually all single-cell RNA sequencing experiments is how to allocate the limited sequencing budget: deep sequencing of a few cells or shallow sequencing of many cells? Here we present a mathematical framework which reveals that, for estimating many important gene properties, the optimal allocation is to sequence at a depth of around one read per cell per gene. Interestingly, the corresponding optimal estimator is not the widely-used plug-in estimator, but one developed via empirical Bayes.
 
 ---
 
-### The effect that genotyping errors have on the robustness of common linkage-disequilibrium measures [^f05eb605]. American Journal of Human Genetics (2001). Low credibility.
+### The effect that genotyping errors have on the robustness of common linkage-disequilibrium measures [^1179Mqkg]. American Journal of Human Genetics (2001). Low credibility.
 
 The rapid development of a dense single-nucleotide-polymorphism marker map has stimulated numerous studies attempting to characterize the magnitude and distribution of background linkage disequilibrium (LD) within and between human populations. Although genotyping errors are an inherent problem in all LD studies, there have been few systematic investigations documenting their consequences on estimates of background LD. Therefore, we derived simple deterministic formulas to investigate the effect that genotyping errors have on four commonly used LD measures-D', r, Q, and d-in studies of background LD. We have found that genotyping error rates as small as 3% can have serious affects on these LD measures, depending on the allele frequencies and the assumed error model. Furthermore, we compared the robustness of D', r, Q, and d, in the presence of genotyping errors. In general, Q and d are more robust than D' and r, although exceptions do exist. Finally, through stochastic simulations, we illustrate how genotyping errors can lead to erroneous inferences when measures of LD between two samples are compared.
 
 ---
 
-### Dynamics of fMRI patterns reflect sub-second activation sequences and reveal replay in human visual cortex [^160d037f]. Nature Communications (2021). High credibility.
+### Dynamics of fMRI patterns reflect sub-second activation sequences and reveal replay in human visual cortex [^111Zh6j8]. Nature Communications (2021). High credibility.
 
 Fig. 5
 Detecting sparse sequence events with lower SNR.
@@ -285,13 +285,13 @@ a Mean standard deviation of classifier probabilities in rest and sequence data 
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^ddc6fcf3]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^116fo6t2]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Clinical diagnostic genome sequencing — alignment workflows often use a tiered approach: sequences aligning on a subset of the read are assigned a quality score based on mismatches to the reference, nonplaced reads undergo multistep gapped alignment, and probability values are assigned across solutions with the best alignment kept and scored on the Q scale; this may require use of more than one aligner, and for clinical applications, conservative approaches are most appropriate because high confidence should exist when making a call.
 
 ---
 
-### Individual differences in belief updating and phasic arousal are related to psychosis proneness [^3118c4bd]. Communications Psychology (2024). Medium credibility.
+### Individual differences in belief updating and phasic arousal are related to psychosis proneness [^112FniLc]. Communications Psychology (2024). Medium credibility.
 
 Normative model for main behavioral task
 
@@ -305,13 +305,13 @@ We fit variants of the normative model to participants' behavior, assuming that 
 
 ---
 
-### Fast multi-planar gradient echo MR imaging: impact of variation in pulse sequence parameters on image quality and artifacts [^338d03ff]. Magnetic Resonance Imaging (2004). Low credibility.
+### Fast multi-planar gradient echo MR imaging: impact of variation in pulse sequence parameters on image quality and artifacts [^112KRjaW]. Magnetic Resonance Imaging (2004). Low credibility.
 
 The purpose of this investigation was to quantitatively evaluate the practical impact of alteration of key imaging parameters on image quality and artifacts in fast multi-planar gradient echo (GRE) pulse sequences. These include multi-planar GRASS (MPGR) and fast multi-planar spoiled GRASS (FMPSPGR). We developed a composite phantom with different T(1) and T(2) values comprising the range of common biological tissues, which was also subjected to periodic motion in order to evaluate motion effects. Magnetic resonance imaging was performed on a GE Signa 1.5-T system. Experimental variations in key parameters included excitation flip angle (FL), echo time (TE), repetition time (TR), and receive bandwidth (BW). Quantitative analysis consisted of signal-to-noise-ratio (SNR) and contrast (CN), image nonuniformity (NU), full-width-at-half-maximum (FWHM) (i.e., blurring or geometric distortion), and ghosting ratio (GR). We found that flip angle, TE, and TR play particularly critical roles in determining image signal, homogeneity, and ghosting artifact with these sequences. Optimum clinical application of these pulse sequences requires careful attention to these imaging parameters and to their complex interactions.
 
 ---
 
-### Metformin hydrochloride [^02b5e356]. FDA (2025). Medium credibility.
+### Metformin hydrochloride [^1115252d]. FDA (2025). Medium credibility.
 
 Specific Populations Renal Impairment
 
@@ -359,7 +359,7 @@ Table 6: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 ---
 
-### Probabilities of developing HIV-1 bNAb sequence features in uninfected and chronically infected individuals [^162051b8]. Nature Communications (2023). High credibility.
+### Probabilities of developing HIV-1 bNAb sequence features in uninfected and chronically infected individuals [^111Zoaq5]. Nature Communications (2023). High credibility.
 
 Global BCR repertoire features under chronic infections are similar to uninfected repertoires with marginal differences
 
@@ -372,7 +372,7 @@ a Cohort overview with age and sex distributions. Single dots in age distributio
 
 ---
 
-### Solving the where problem and quantifying geometric variation in neuroanatomy using generative diffeomorphic mapping [^fd44f32f]. Nature Communications (2025). High credibility.
+### Solving the where problem and quantifying geometric variation in neuroanatomy using generative diffeomorphic mapping [^117UV2Yv]. Nature Communications (2025). High credibility.
 
 The statistical interpretation allows us to accommodate images with non reference signals, such as missing tissue, tracer injection sites, or other anomalies. At each pixel, the identity of the signal type is modeled as missing data, and maximum likelihood estimators are computed using an Expectation Maximization algorithm, which alternates between the E step: compute posterior probability π i (x) that each pixel corresponds to the reference image rather than one of the non-reference types, and the M step: update parameters by solving a posterior weighted version of the above:As an EM algorithm, this approach is guaranteed to be monotonically increasing in likelihood. An example of posterior weights are shown in the right hand column of Fig. 2 b.
 
@@ -384,13 +384,13 @@ This registration problem is highly nonconvex, and allows for many local minima.
 
 ---
 
-### How do you design randomised trials for smaller populations? A framework [^45132483]. BMC Medicine (2016). Low credibility.
+### How do you design randomised trials for smaller populations? A framework [^112mQaNe]. BMC Medicine (2016). Low credibility.
 
 How should we approach trial design when we can get some, but not all, of the way to the numbers required for a randomised phase III trial?We present an ordered framework for designing randomised trials to address the problem when the ideal sample size is considered larger than the number of participants that can be recruited in a reasonable time frame. Staying with the frequentist approach that is well accepted and understood in large trials, we propose a framework that includes small alterations to the design parameters. These aim to increase the numbers achievable and also potentially reduce the sample size target. The first step should always be to attempt to extend collaborations, consider broadening eligibility criteria and increase the accrual time or follow-up time. The second set of ordered considerations are the choice of research arm, outcome measures, power and target effect. If the revised design is still not feasible, in the third step we propose moving from two- to one-sided significance tests, changing the type I error rate, using covariate information at the design stage, re-randomising patients and borrowing external information. We discuss the benefits of some of these possible changes and warn against others. We illustrate, with a worked example based on the Euramos-1 trial, the application of this framework in designing a trial that is feasible, while still providing a good evidence base to evaluate a research treatment. This framework would allow appropriate evaluation of treatments when large-scale phase III trials are not possible, but where the need for high-quality randomised data is as pressing as it is for common diseases.
 
 ---
 
-### Metformin hydrochloride tablet (metformin hydrochloride) [^005f9cc8]. FDA (2023). Medium credibility.
+### Metformin hydrochloride tablet (metformin hydrochloride) [^1111Z7gT]. FDA (2023). Medium credibility.
 
 eKinetic study done following dose 19, given fasting
 
@@ -438,7 +438,7 @@ Table 6: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 ---
 
-### How do you design randomised trials for smaller populations? A framework [^9ac3f0db]. BMC Medicine (2016). Low credibility.
+### How do you design randomised trials for smaller populations? A framework [^114xSudk]. BMC Medicine (2016). Low credibility.
 
 Exploring less common approaches to reducing sample size
 
@@ -458,7 +458,7 @@ Thus, if we take the societal perspective with the trials in Table 1 then, if ea
 
 ---
 
-### Improved haplotype inference by exploiting long-range linking and allelic imbalance in RNA-seq datasets [^7ff9bcd1]. Nature Communications (2020). High credibility.
+### Improved haplotype inference by exploiting long-range linking and allelic imbalance in RNA-seq datasets [^114GjK52]. Nature Communications (2020). High credibility.
 
 Let, the opposite of H +. We can now compare the likelihood of concordant (or equal) expression at s (H + [s]) with that of discordant (or equal) expression at s (H − [s].) For ease of notation, letand. Then:The rightmost equality results from the fact that, and hence v i = w 1− i. Since ϵ < 0.5, we have γ 0 > γ 1; by the definition of H +, which proves the inequality.
 
@@ -468,7 +468,7 @@ We remark for large N, the Binomial Distribution B(n, β) converges to the norma
 
 ---
 
-### Evidence that DNA polymerase δ contributes to initiating leading strand DNA replication in Saccharomyces cerevisiae [^ae44d269]. Nature Communications (2018). Medium credibility.
+### Evidence that DNA polymerase δ contributes to initiating leading strand DNA replication in Saccharomyces cerevisiae [^115TMxo2]. Nature Communications (2018). Medium credibility.
 
 Alignment and normalization
 
@@ -478,19 +478,19 @@ For the purpose of determining normalization factors, the reads mappable as pair
 
 ---
 
-### Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases [^8bc9a56b]. Nature Communications (2021). High credibility.
+### Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases [^114aF1ZC]. Nature Communications (2021). High credibility.
 
 While metagenomic sequencing has become the tool of preference to study host-associated microbial communities, downstream analyses and clinical interpretation of microbiome data remains challenging due to the sparsity and compositionality of sequence matrices. Here, we evaluate both computational and experimental approaches proposed to mitigate the impact of these outstanding issues. Generating fecal metagenomes drawn from simulated microbial communities, we benchmark the performance of thirteen commonly used analytical approaches in terms of diversity estimation, identification of taxon-taxon associations, and assessment of taxon-metadata correlations under the challenge of varying microbial ecosystem loads. We find quantitative approaches including experimental procedures to incorporate microbial load variation in downstream analyses to perform significantly better than computational strategies designed to mitigate data compositionality and sparsity, not only improving the identification of true positive associations, but also reducing false positive detection. When analyzing simulated scenarios of low microbial load dysbiosis as observed in inflammatory pathologies, quantitative methods correcting for sampling depth show higher precision compared to uncorrected scaling. Overall, our findings advocate for a wider adoption of experimental quantitative approaches in microbiome research, yet also suggest preferred transformations for specific cases where determination of microbial load of samples is not feasible.
 
 ---
 
-### Advocating for life support training of children, parents, caregivers, school personnel, and the public [^452b8497]. Pediatrics (2018). Medium credibility.
+### Advocating for life support training of children, parents, caregivers, school personnel, and the public [^112mYmF4]. Pediatrics (2018). Medium credibility.
 
 2010 AHA guidelines for CPR sequence and technique in children — In 2010, the AHA changed the sequence to compressions, airway, breathing/ventilation, with 30 chest compressions followed by 2 breaths for adults with either 1 or 2 rescuers, a ratio of 30:2 for children with 1 rescuer, and a ratio of 15:2 for children with 2 rescuers; the change addressed delays because the previous sequence had delayed the initiation of crucial chest compressions. In infants and children, the new sequence only delays the first breath by 18 seconds. A Japanese study showed traditional CPR (compressions followed by breathing) increased odds of a favorable neurologic outcome in children 1 month after an OHCA (adjusted OR, 2.30 vs 1.05) compared with chest compression–only CPR; therefore, although the AHA still recommends traditional CPR for children, if rescuers cannot provide rescue breaths, they should at least perform chest compressions.
 
 ---
 
-### Relative bioavailability of two formulations of venlafaxine extended-release 75-mg capsules in healthy Brazilian male volunteers: a single-dose, randomized-sequence, open-label, two-period crossover study in the fasting and fed States [^9261338a]. Clinical Therapeutics (2010). Low credibility.
+### Relative bioavailability of two formulations of venlafaxine extended-release 75-mg capsules in healthy Brazilian male volunteers: a single-dose, randomized-sequence, open-label, two-period crossover study in the fasting and fed States [^114k1qn9]. Clinical Therapeutics (2010). Low credibility.
 
 Background
 
@@ -514,37 +514,37 @@ In this single-dose study in healthy fasting and fed volunteers, the test formul
 
 ---
 
-### Prevention of pneumococcal disease among infants and children-use of 13-valent pneumococcal conjugate vaccine and 23-valent pneumococcal polysaccharide vaccine-recommendations of the advisory committee on immunization practices (ACIP) [^30523006]. MMWR: Recommendations and Reports (2010). Medium credibility.
+### Prevention of pneumococcal disease among infants and children-use of 13-valent pneumococcal conjugate vaccine and 23-valent pneumococcal polysaccharide vaccine-recommendations of the advisory committee on immunization practices (ACIP) [^112Ee1fs]. MMWR: Recommendations and Reports (2010). Medium credibility.
 
 Pneumococcal conjugate vaccines (PCV13 vs PCV7) — post-booster immunogenicity shows geometric mean concentrations (μg/mL) 1 month after the fourth dose with GMC ratios (PCV13/PCV7); for serotype 23F, PCV13 5.1 vs PCV7 7.8 with GMC ratio 0.7 (0.5–0.8), and for serotype 19F, PCV13 6.6 vs PCV7 5.6 with GMC ratio 1.2 (1.0–1.4); noninferiority was defined as a lower limit of the 2-sided 95% CI for the GMC ratio (PCV13 group/PCV7 group) > 0.5.
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^ac422a46]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^115QP6UM]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Clinical diagnostic genome sequencing — base-calling quality scoring uses a Phred score generated on a logarithmic scale (Q = − 10 log E) to estimate error probability, where a Phred of 10 corresponds to a 1/10 probability of error and a Phred of 20 corresponds to 1/100. For sequencing information, the Clinical Laboratory Standards Institute has recommended filtering on a Phred score of 20 to 30, resulting in an error rate of 1/100 to 1/1000, and when interrogating variants in population-level situations such as microbes or tumor samples, higher thresholds may be necessary.
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^d6563994]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^116UmK71]. Annals of the American Thoracic Society (2023). High credibility.
 
 Quantitative imaging (QI) — challenges and sources of error emphasize that advances in QI are crucially dependent on technology and computational power, with massive data sets run through "black box" algorithms and distilled into selected "biomarkers" to evaluate their ability to detect, stratify, and monitor lung disease. Numerous imaging modalities, manufacturers, platforms, and algorithms may not integrate smoothly, and emergent QI metrics vary among centers in the methods of acquisition, quantification, interpretation, and extrapolation; technological advances contribute to difficulty in standardization. Systematic errors may arise at each step of image acquisition, processing, and analysis, including 1) technical issues (e.g., depth of inspiration, acquisition protocol, signal-to-noise ratio, resolution), 2) nonrepresentative sampling of parts of interest (e.g., comparing regions, lobes, or airways), and 3) lack of a well-defined reference space, as well as 4) inaccurate landmark coregistration for evaluating paired images obtained at different lung volumes and 5) failure to consider basic physiology and/or biological or spatiotemporal heterogeneity.
 
 ---
 
-### An empirical study of the maximum degree of undersampling in compressed sensing for T-weighted MRI [^95dd53df]. Magnetic Resonance Imaging (2018). Low credibility.
+### An empirical study of the maximum degree of undersampling in compressed sensing for T-weighted MRI [^114qBVoL]. Magnetic Resonance Imaging (2018). Low credibility.
 
 Magnetic Resonance Imaging (MRI) is one of the most dynamic and safe imaging modalities used in clinical routine today. Yet, one major limitation to this technique resides in its long acquisition times. Over the last decade, Compressed Sensing (CS) has been increasingly used to address this issue and offers to shorten MR scans by reconstructing images from undersampled Fourier data. Nevertheless, a quantitative guide on the degree of acceleration applicable to a given acquisition scenario is still lacking today, leading in practice to a trial-and-error approach in the selection of the appropriate undersampling factor. In this study, we shortly point out the existing theoretical sampling results in CS and their limitations which motivate the focus of this work: an empirical and quantitative analysis of the maximum degree of undersampling allowed by CS in the specific context of T 2 * -weighted MRI. We make use of a generic method based on retrospective undersampling to quantitatively deduce the maximum acceleration factor R max which preserves a desired image quality as a function of the image resolution and the available signal-to-noise ratio (SNR). Our results quantify how larger acceleration factors can be applied to higher resolution images as long as a minimum SNR is guaranteed. In practice however, the maximum acceleration factor for a given resolution appears to be constrained by the available SNR inherent to the considered acquisition. Our analysis enables to take this a priori knowledge into account, allowing to derive a sequence-specific maximum acceleration factor adapted to the intrinsic SNR of any MR pipeline. These results obtained on an analytical T 2 * -weighted phantom image were corroborated by prospective experiments performed on MR data collected with radial trajectories on a 7 T scanner with the same contrast. The proposed framework allows to study other sequence weightings and therefore better optimize sequences when accelerated using CS.
 
 ---
 
-### Accurate assessment of mass, models and resolution by small-angle scattering [^6c6d4167]. Nature (2013). Excellent credibility.
+### Accurate assessment of mass, models and resolution by small-angle scattering [^113mkMuQ]. Nature (2013). Excellent credibility.
 
 Modern small-angle scattering (SAS) experiments with X-rays or neutrons provide a comprehensive, resolution-limited observation of the thermodynamic state. However, methods for evaluating mass and validating SAS-based models and resolution have been inadequate. Here we define the volume of correlation, Vc, a SAS invariant derived from the scattered intensities that is specific to the structural state of the particle, but independent of concentration and the requirements of a compact, folded particle. We show that Vc defines a ratio, QR, that determines the molecular mass of proteins or RNA ranging from 10 to 1,000 kilodaltons. Furthermore, we propose a statistically robust method for assessing model-data agreements (χ(2)free) akin to cross-validation. Our approach prevents over-fitting of the SAS data and can be used with a newly defined metric, RSAS, for quantitative evaluation of resolution. Together, these metrics (Vc, QR, χ(2)free and RSAS) provide analytical tools for unbiased and accurate macromolecular structural characterizations in solution.
 
 ---
 
-### Structure and inference in annotated networks [^535f823a]. Nature Communications (2016). Medium credibility.
+### Structure and inference in annotated networks [^1138c43s]. Nature Communications (2016). Medium credibility.
 
 Computationally, the most demanding part of the EM algorithm is calculating the sum in the denominator of equation (7), which has an exponentially large number of terms, making its direct evaluation intractable on all but the smallest of networks. Traditionally one gets around this problem by approximating the full distribution q (s) by Monte Carlo importance sampling. In our calculations, however, we instead use a recently proposed alternative method based on belief propagation, which is significantly faster, and fast enough in practice for applications to very large networks.
 
@@ -554,13 +554,13 @@ The EM algorithm always converges to a maximum of the likelihood but is not guar
 
 ---
 
-### Correcting for sequencing error in maximum likelihood phylogeny inference [^ce9f3999]. G3 (2014). Low credibility.
+### Correcting for sequencing error in maximum likelihood phylogeny inference [^116HKw1J]. G3 (2014). Low credibility.
 
 Accurate phylogenies are critical to taxonomy as well as studies of speciation processes and other evolutionary patterns. Accurate branch lengths in phylogenies are critical for dating and rate measurements. Such accuracy may be jeopardized by unacknowledged sequencing error. We use simulated data to test a correction for DNA sequencing error in maximum likelihood phylogeny inference. Over a wide range of data polymorphism and true error rate, we found that correcting for sequencing error improves recovery of the branch lengths, even if the assumed error rate is up to twice the true error rate. Low error rates have little effect on recovery of the topology. When error is high, correction improves topological inference; however, when error is extremely high, using an assumed error rate greater than the true error rate leads to poor recovery of both topology and branch lengths. The error correction approach tested here was proposed in 2004 but has not been widely used, perhaps because researchers do not want to commit to an estimate of the error rate. This study shows that correction with an approximate error rate is generally preferable to ignoring the issue.
 
 ---
 
-### On the mutational topology of the bacterial genome [^96a62de9]. G3 (2013). Low credibility.
+### On the mutational topology of the bacterial genome [^114rLxhv]. G3 (2013). Low credibility.
 
 Figure 2
 The distribution of the gaps between BPSs. Shown are the four quartiles of a quantile-quantile (Q-Q) plot of the observed sizes of the intervals (gaps) between BPSs vs. the sizes predicted by an exponential distribution. For this analysis, gaps that contained large repeat elements have been removed (see Materials and Methods); this procedure left 1581 BPSs distributed over 4284 kb of the chromosome, giving a mean gap size of 2.71 kb. The observed distribution is significantly different than expected (χ 2 ≈10 4; p ≪ 0.0001).
@@ -569,13 +569,13 @@ A more interesting departure from random is revealed by the locations of the mut
 
 ---
 
-### Selecting fitted models under epistemic uncertainty using a stochastic process on quantile functions [^aeeaae45]. Nature Communications (2025). High credibility.
+### Selecting fitted models under epistemic uncertainty using a stochastic process on quantile functions [^115UKfz4]. Nature Communications (2025). High credibility.
 
 Fitting models to data is an important part of the practice of science. Advances in machine learning have made it possible to fit more-and more complex-models, but have also exacerbated a problem: when multiple models fit the data equally well, which one(s) should we pick? The answer depends entirely on the modelling goal. In the scientific context, the essential goal is replicability: if a model works well to describe one experiment, it should continue to do so when that experiment is replicated tomorrow, or in another laboratory. The selection criterion must therefore be robust to the variations inherent to the replication process. In this work we develop a nonparametric method for estimating uncertainty on a model's empirical risk when replications are non-stationary, thus ensuring that a model is only rejected when another is reproducibly better. We illustrate the method with two examples: one a more classical setting, where the models are structurally distinct, and a machine learning-inspired setting, where they differ only in the value of their parameters. We show how, in this context of replicability or "epistemic uncertainty", it compares favourably to existing model selection criteria, and has more satisfactory behaviour with large experimental datasets.
 
 ---
 
-### A probable-acting genetic modifier of Huntington disease frequent in individuals with African ancestry [^da540007]. HGG Advances (2022). Medium credibility.
+### A probable-acting genetic modifier of Huntington disease frequent in individuals with African ancestry [^116agWtW]. HGG Advances (2022). Medium credibility.
 
 CAG somatic expansion
 
@@ -587,25 +587,25 @@ Potential modifiers of the HD phenotype
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^e8738f75]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^116wcwgG]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Clinical diagnostic genome sequencing — platform-specific error profiles and data representations require algorithmic handling: platforms may have insertion or deletion errors during homopolymer runs or increased sequence errors toward the end of the read; representations can be in color space (AA, AC, CC, GG, or TT) versus base space (A, C, G, T), and these differences must be addressed at the algorithmic level because some sequence errors are correctable.
 
 ---
 
-### Probabilistic alignment of multiple networks [^39aa70ac]. Nature Communications (2025). High credibility.
+### Probabilistic alignment of multiple networks [^112UVYWF]. Nature Communications (2025). High credibility.
 
 The network alignment problem appears in many areas of science and involves finding the optimal mapping between nodes in two or more networks, so as to identify corresponding entities across networks. We propose a probabilistic approach to the problem of network alignment, as well as the corresponding inference algorithms. Unlike heuristic approaches, our approach is transparent in that all model assumptions are explicit; therefore, it is susceptible of being extended and fine tuned by incorporating contextual information that is relevant to a given alignment problem. Also in contrast to current approaches, our method does not yield a single alignment, but rather the whole posterior distribution over alignments. We show that using the whole posterior leads to correct matching of nodes, even in situations where the single most plausible alignment mismatches them. Our approach opens the door to a whole new family of network alignment algorithms, and to their application to problems for which existing methods are perhaps inappropriate.
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^05d2857b]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^1119dehQ]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Analytical NGS considerations — regulation and validation note that before any new laboratory-developed test is used for patient care, a clinical laboratory undertakes analytical validation, but Food and Drug Administration–approved/cleared tests using next-generation sequencing (NGS) do not exist, so laboratories will for the foreseeable future rely on Clinical Laboratory Improvement Amendment regulations. The purpose of assay validation for a laboratory-developed test is to document that the targeted analyte(s) can be detected in a robust and consistent manner, and in accordance with Clinical Laboratory Improvement Amendment regulations the following analytical characteristics must be documented: accuracy, precision, analytical sensitivity, analytical specificity, reportable range, reference intervals, and any other required performance characteristic. Sequences from NGS are not truly complete because of gaps, GC-rich regions, and bioinformatic limitations regarding indel calling. For nucleic acid sequencing, the standard comparator is traditional Sanger sequencing whose technical capabilities are dwarfed by NGS, and it is practically not feasible to perform Sanger sequencing of whole genomes for reasons of reagent costs, labor, and efficiency of both testing and analysis. All steps of NGS need to be evaluated, including sample library preparation, clonal fragment amplification, the sequencing itself, and data analysis, and quality control metrics need to be determined. Open questions include whether sequencing and documenting representative portions or comparison to online reference sequences would suffice, and what reference materials (RMs) are needed to make validation efficient and meaningful.
 
 ---
 
-### Fast and accurate modeling of transient-state, gradient-spoiled sequences by recurrent neural networks [^de525b7e]. NMR in Biomedicine (2021). Medium credibility.
+### Fast and accurate modeling of transient-state, gradient-spoiled sequences by recurrent neural networks [^116gbv1j]. NMR in Biomedicine (2021). Medium credibility.
 
 3.2.1 Network structure specification
 
@@ -613,19 +613,19 @@ The RNN architecture described in Section 2.2 was selected for modeling gradient
 
 ---
 
-### Electron flow matching for generative reaction mechanism prediction [^3ecd344b]. Nature (2025). Excellent credibility.
+### Electron flow matching for generative reaction mechanism prediction [^112c7AB4]. Nature (2025). Excellent credibility.
 
 Central to our understanding of chemical reactivity is the principle of mass conservation 1, which is fundamental for ensuring physical consistency, balancing equations and guiding reaction design. However, data-driven computational models 2–9 for tasks such as reaction product prediction rarely abide by this most basic constraint 10–13. Here we recast the problem of reaction prediction as a problem of electron redistribution using the modern deep generative framework of flow matching 14–16, explicitly conserving both mass and electrons through the bond-electron (BE) matrix representation 17,18. Our model, FlowER, overcomes limitations inherent in previous approaches by enforcing exact mass conservation, resolving hallucinatory failure modes, recovering mechanistic reaction sequences for unseen substrate scaffolds and generalizing effectively to out-of-domain reaction classes with extremely data-efficient fine-tuning. FlowER also enables downstream estimation of thermodynamic or kinetic feasibility and manifests a degree of chemical intuition in reaction prediction tasks. This inherently interpretable framework represents an important step in bridging the gap between predictive accuracy and mechanistic understanding in data-driven reaction outcome prediction.
 
 ---
 
-### The SNMMI and EANM practice guideline for small-bowel and colon transit 1.0 [^ea6f1e8b]. Journal of Nuclear Medicine (2013). Medium credibility.
+### The SNMMI and EANM practice guideline for small-bowel and colon transit 1.0 [^116zZRir]. Journal of Nuclear Medicine (2013). Medium credibility.
 
 Colon transit reference values — delayed-release capsule method in healthy volunteers — include total number of healthy volunteers 211. The geometric center at 24 h is 2.4 ± 0.9 (n = 209) with 10th–90th percentile 1.47–3.87, with men 2.7 ± 0.9 (n = 72) and women 2.3 ± 0.9 (n = 137). At 48 h, the geometric center is 3.6 ± 1.1 (n = 191) with 10th–90th percentile 2.13–5.00, with men 4.1 ± 1.0 (n = 61) and women 3.4 ± 1.0 (n = 130).
 
 ---
 
-### Nivolumab and hyaluronidase-nvhy (Opdivo QVANTIG) [^3586a553]. FDA (2025). Medium credibility.
+### Nivolumab and hyaluronidase-nvhy (Opdivo QVANTIG) [^112NMa3k]. FDA (2025). Medium credibility.
 
 12.3	Pharmacokinetics
 
@@ -653,7 +653,7 @@ Body weight (35 to 153 kg), sex, eGFR (24 to 124 mL/min/1.73 m2), and performanc
 
 ---
 
-### Assessing pharmacokinetic interactions between the sodium glucose cotransporter 2 inhibitor empagliflozin and hydrochlorothiazide or torasemide in patients with type 2 diabetes mellitus: a randomized, open-label, crossover study [^01314d25]. Clinical Therapeutics (2015). Low credibility.
+### Assessing pharmacokinetic interactions between the sodium glucose cotransporter 2 inhibitor empagliflozin and hydrochlorothiazide or torasemide in patients with type 2 diabetes mellitus: a randomized, open-label, crossover study [^1112mYkU]. Clinical Therapeutics (2015). Low credibility.
 
 Purpose
 
@@ -673,13 +673,13 @@ No pharmacokinetic drug-drug interaction was observed between empagliflozin and 
 
 ---
 
-### Computational precision of mental inference as critical source of human choice suboptimality [^56c5b7cd]. Neuron (2016). Low credibility.
+### Computational precision of mental inference as critical source of human choice suboptimality [^113DeM6L]. Neuron (2016). Low credibility.
 
 Making decisions in uncertain environments often requires combining multiple pieces of ambiguous information from external cues. In such conditions, human choices resemble optimal Bayesian inference, but typically show a large suboptimal variability whose origin remains poorly understood. In particular, this choice suboptimality might arise from imperfections in mental inference rather than in peripheral stages, such as sensory processing and response selection. Here, we dissociate these three sources of suboptimality in human choices based on combining multiple ambiguous cues. Using a novel quantitative approach for identifying the origin and structure of choice variability, we show that imperfections in inference alone cause a dominant fraction of suboptimal choices. Furthermore, two-thirds of this suboptimality appear to derive from the limited precision of neural computations implementing inference rather than from systematic deviations from Bayes-optimal inference. These findings set an upper bound on the accuracy and ultimate predictability of human choices in uncertain environments.
 
 ---
 
-### Kinship networks of seed exchange shape spatial patterns of plant virus diversity [^1e9934a7]. Nature Communications (2021). High credibility.
+### Kinship networks of seed exchange shape spatial patterns of plant virus diversity [^111nN69C]. Nature Communications (2021). High credibility.
 
 Phylogenetic and clustering analysis
 
@@ -689,7 +689,7 @@ To evaluate the diversity of viral communities, Cluster Picker 1.3was used to me
 
 ---
 
-### Changes in semantic memory structure support successful problem-solving and analogical transfer [^5231072f]. Communications Psychology (2024). Medium credibility.
+### Changes in semantic memory structure support successful problem-solving and analogical transfer [^1136rTFc]. Communications Psychology (2024). Medium credibility.
 
 Introduction
 
@@ -699,7 +699,7 @@ Among the new problems we face each day, some are well-defined (e.g. playing a j
 
 ---
 
-### Dynamics of replication origin over-activation [^f204d022]. Nature Communications (2021). High credibility.
+### Dynamics of replication origin over-activation [^117Bocxq]. Nature Communications (2021). High credibility.
 
 Replication timing data was processed by the sequencing facility using the DRAGEN analysis pipeline (01.003.044.02.05.01.40152). Data received from the facility was then transformed into log 2 ratio coverage tracks using the BAMscale scale method and associated operation log 2 flag. Separation of replication timing regions from very early to very late was completed using the log 2 ratio of re-replication versus G1 (percentile of total ratio-range: 0–10% for Very Early; 10–30% for Early; 30–50% for Mid-Early; 50–70% for mid-Late; 70–90% for late and 90–100% for Very Late, Fig. 6d). R-scripts which were utilized for this task are available in the BAMscale GitHub page.
 
@@ -711,25 +711,25 @@ Further information on research design is available in the Nature Research Repor
 
 ---
 
-### Guidelines for validation of next-generation sequencing-based oncology panels: a joint consensus recommendation of the Association for Molecular Pathology and college of American pathologists [^59838d2f]. The Journal of Molecular Diagnostics (2017). Medium credibility.
+### Guidelines for validation of next-generation sequencing-based oncology panels: a joint consensus recommendation of the Association for Molecular Pathology and college of American pathologists [^113Hi5up]. The Journal of Molecular Diagnostics (2017). Medium credibility.
 
 Sample size metrics — tolerance intervals versus confidence intervals: Although performance is often stated in terms of confidence intervals (CI), the CI of the mean only gives an estimate of the population mean with a stated level of confidence and does not give an indication of the performance of any given sample; to estimate the distribution of the underlying population and the performance of individual samples, the tolerance intervals should be used, with the lower tolerance interval for a normally distributed population determined as x̄ ± k × s, where s is the sample standard deviation (SD) and k is a correction factor, and for two-sided 95% confidence with n = 20 the k value is 2.75, approaching the z-score as the number of samples increases.
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^434309ee]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^112iiguK]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Clinical diagnostic genome sequencing — consensus calling of heterozygous positions depends on sampling depth because each molecule is sequenced independently; the probability of detecting a second allele is dictated by the sampling probability, and if the second allele must be present in at least 20% of calls for a heterozygous consensus, the position needs to be sampled at least 18 times to be at least 99% confident of detecting both alleles.
 
 ---
 
-### Standards and guidelines for validating next-generation sequencing bioinformatics pipelines: a joint recommendation of the Association for Molecular Pathology and the college of American pathologists [^66ddee41]. The Journal of Molecular Diagnostics (2018). Medium credibility.
+### Standards and guidelines for validating next-generation sequencing bioinformatics pipelines: a joint recommendation of the Association for Molecular Pathology and the college of American pathologists [^113dWHJY]. The Journal of Molecular Diagnostics (2018). Medium credibility.
 
 Variant representation and normalization — left versus right alignment and required conversion: The guideline explains that the common VCF representation uses the left-most "(5') nucleotide base (left justification or left aligned)", whereas HGVS specifies the right-most "(3') nucleotide base position" (right justification), creating risk that automated algorithms using VCF coordinates will generate incorrect HGVS names if they do not convert left-to-right alignment. It emphasizes that "It is essential during assay optimization and subsequent validation" to ensure correct conversion, that a normalized VCF "requires that it be parsimonious and left aligned", that nonnormalized variants may yield incorrect HGVS nomenclature with a "high likelihood of misinterpretation and incorrect reporting", and that during validation "a variant normalization algorithm be incorporated" within the pipeline or annotation tools.
 
 ---
 
-### Otoplasty: sequencing the operation for improved results [^e72499ab]. Plastic and Reconstructive Surgery (2005). Low credibility.
+### Otoplasty: sequencing the operation for improved results [^116ugS8S]. Plastic and Reconstructive Surgery (2005). Low credibility.
 
 Learning Objectives
 
@@ -737,13 +737,13 @@ After studying this article, the participant should be able to: 1. Understand th
 
 ---
 
-### Testing for Hardy-Weinberg proportions: have we lost the plot? [^61bccd14]. The Journal of Heredity (2014). Low credibility.
+### Testing for Hardy-Weinberg proportions: have we lost the plot? [^113VuDUf]. The Journal of Heredity (2014). Low credibility.
 
 Testing for Hardy-Weinberg proportions (HWP) is routine in almost all genetic studies of natural populations, but many researchers do not demonstrate a full understanding of the purposes of these tests or how to interpret the results. Common problems include a lack of understanding of statistical power and the difference between statistical significance and biological significance, how to interpret results of multiple tests, and how to distinguish between various factors that can cause statistically significant departures. In this perspective, which focuses on analysis of genetic data for nonmodel species, I 1) review factors that can cause departures from HWP at individual loci and linkage disequilibrium (LD) at pairs of loci; 2) discuss commonly used tests for HWP and LD, with an emphasis on multiple-testing issues; 3) show how to distinguish among possible causes of departures from HWP; and 4) outline some simple steps to follow when significant test results are found. Finally, I 5) identify some issues that merit particular attention as we move into an era in which analysis of genomics-scale datasets for nonmodel species is commonplace.
 
 ---
 
-### Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences [^5848a77a]. Nature (2025). Excellent credibility.
+### Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences [^113FtKDb]. Nature (2025). Excellent credibility.
 
 Link between mutations and generations
 
@@ -773,7 +773,7 @@ We conduct a simulation study to evaluate how our RR framework performs under di
 
 ---
 
-### Abstract representations of events arise from mental errors in learning and memory [^748e9b84]. Nature Communications (2020). High credibility.
+### Abstract representations of events arise from mental errors in learning and memory [^113yoTud]. Nature Communications (2020). High credibility.
 
 Estimating parameters and making quantitative predictions
 
@@ -783,25 +783,25 @@ In total, our predictionscontain three parameters (β, r 0, and r 1), which must
 
 ---
 
-### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^b49db923]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
+### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^115cmkRQ]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
 
 AABIP guidelines — panel A meta-analysis comparing multiple-tool versus single-tool approaches reports pooled odds ratios (OR) as follows: common effect model OR 1.77 [1.49; 2.10] and random effects model OR 1.78 [1.49; 2.14], with prediction interval [1.36; 2.34]. Heterogeneity is I² = 6.5%, τ² = 0.0057, p = 0.3815. The scale is labeled "Favours Single" to "Favours Multiple" (Odds Ratio [95% CI]).
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^cb811e9e]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^116ChrfF]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Bioinformatics requirements — NGS computational workflow and outputs — are outlined: Only three major computations are performed with NGS data: i) data assembly within base calling at the level of individual reads, ii) alignment of the assembled sequence to a reference sequence, and iii) and variant calling. Considering these steps in greater detail, they can be delineated as follows: i) image processing, ii) base calling and quality scoring, iii) purity filtering, iv) quality control checks, v) alignment to a reference sequence or de novo assembly, vi) SNP-calling or application-specific steps (eg, chromatin immunoprecipitation or RNA sequencing), vii) packaging, and viii) archiving. Typically, analysis begins with a large set of tiled fluorescence or luminescence images of a flow-cell surface recorded after each iterative round of sequencing; the next step, base calling, converts images to sequence reads by localizing clusters or beads and using parameters such as intensity, background, and noise via platform-specific algorithms to generate read sequences and per-base quality scores. As a result of base calling, FASTQ files are generated and are usually platform specific and contain sequencing read data that combine both the sequence and an associated per base quality score; the sequence reads are then aligned to a known reference sequence or assembled de novo, with the appropriate alignment method depending on the sequencing platform, data type, and computational resources. Limitations and error properties are noted: one limitation of short-reads alignment and assembly is the inability to uniquely align much of a read set; error rates for individual NGS reads are higher than for Sanger sequencing, whereas overall accuracy is achieved by sequencing a given region numerous times via the massively parallel process.
 
 ---
 
-### Telemedicine for evaluation of retinopathy of prematurity [^f990fc0e]. Pediatrics (2015). Medium credibility.
+### Telemedicine for evaluation of retinopathy of prematurity [^117NzchT]. Pediatrics (2015). Medium credibility.
 
 Retinopathy of prematurity telemedicine — image sequence and standard set specifies that the image sequence for a complete image set of both eyes is listed in Table 2, additional images may be acquired to encompass all 12 clock-hours of the peripheral fundus, the sequence should be identical for all visits, and failure to achieve this standard image set may trigger unnecessary repeat fundus imaging or bedside examination; the ROP-TM image sequence comprises right anterior segment, iris; right disc; right fundus, temporal; right fundus, nasal; right fundus, superior; right fundus, inferior; and corresponding left eye views (left anterior segment, iris; left disc; left fundus, temporal; left fundus, nasal; left fundus, superior; left fundus, inferior).
 
 ---
 
-### Detection of partial deletions of the human papillomavirus 16 E6 gene in a subset of oropharyngeal and cervical cancers [^3b10aa78]. Virus Research (2025). Medium credibility.
+### Detection of partial deletions of the human papillomavirus 16 E6 gene in a subset of oropharyngeal and cervical cancers [^112WZsJf]. Virus Research (2025). Medium credibility.
 
 2.3 Sequence analysis of HPV16 E6
 
@@ -821,13 +821,13 @@ The ratio of intact to defective E6 sequences was measured by digital PCR using 
 
 ---
 
-### SARS-CoV-2 diagnostic testing rates determine the sensitivity of genomic surveillance programs [^6e383100]. Nature Genetics (2023). High credibility.
+### SARS-CoV-2 diagnostic testing rates determine the sensitivity of genomic surveillance programs [^113pQWhM]. Nature Genetics (2023). High credibility.
 
 The first step in SARS-CoV-2 genomic surveillance is testing to identify people who are infected. However, global testing rates are falling as we emerge from the acute health emergency and remain low in many low- and middle-income countries (mean = 27 tests per 100,000 people per day). We simulated COVID-19 epidemics in a prototypical low- and middle-income country to investigate how testing rates, sampling strategies and sequencing proportions jointly impact surveillance outcomes, and showed that low testing rates and spatiotemporal biases delay time to detection of new variants by weeks to months and can lead to unreliable estimates of variant prevalence, even when the proportion of samples sequenced is increased. Accordingly, investments in wider access to diagnostics to support testing rates of approximately 100 tests per 100,000 people per day could enable more timely detection of new variants and reliable estimates of variant prevalence. The performance of global SARS-CoV-2 genomic surveillance programs is fundamentally limited by access to diagnostic testing.
 
 ---
 
-### Quantifying the local adaptive landscape of a nascent bacterial community [^2c149d31]. Nature Communications (2023). High credibility.
+### Quantifying the local adaptive landscape of a nascent bacterial community [^1128MNzc]. Nature Communications (2023). High credibility.
 
 The two sources of noise–genetic drift and measurement noise–both arise from counting processes, so the combined noise will follow var (f t, i) ∝ 〈 f t, i 〉 (see section "Estimation of error parameters"). To account for the inherent discreteness of counting sequencing reads — especially important to accurately model deleterious genotypes that quickly drop to low frequencies — we modeled the observed counts at time t (always measured in generations) of barcode i inserted in a given gene, r t, i, as a negative binomial random variable,
 
@@ -841,19 +841,19 @@ As the majority of barcoded knockouts are neutral or nearly so (s ≈ 0), we mus
 
 ---
 
-### Accurate genotyping across variant classes and lengths using variant graphs [^4b562731]. Nature Genetics (2018). Medium credibility.
+### Accurate genotyping across variant classes and lengths using variant graphs [^112vh1Xv]. Nature Genetics (2018). Medium credibility.
 
 Genotype estimates from short-read sequencing data are typically based on the alignment of reads to a linear reference, but reads originating from more complex variants (for example, structural variants) often align poorly, resulting in biased genotype estimates. This bias can be mitigated by first collecting a set of candidate variants across discovery methods, individuals and databases, and then realigning the reads to the variants and reference simultaneously. However, this realignment problem has proved computationally difficult. Here, we present a new method (BayesTyper) that uses exact alignment of read k-mers to a graph representation of the reference and variants to efficiently perform unbiased, probabilistic genotyping across the variation spectrum. We demonstrate that BayesTyper generally provides superior variant sensitivity and genotyping accuracy relative to existing methods when used to integrate variants across discovery approaches and individuals. Finally, we demonstrate that including a 'variation-prior' database containing already known variants significantly improves sensitivity.
 
 ---
 
-### Considerations for severe acute respiratory syndrome coronavirus 2 genomic surveillance: a joint consensus recommendation of the Association for Molecular Pathology and association of public health laboratories [^5eff2814]. The Journal of Molecular Diagnostics (2025). High credibility.
+### Considerations for severe acute respiratory syndrome coronavirus 2 genomic surveillance: a joint consensus recommendation of the Association for Molecular Pathology and association of public health laboratories [^113RqYLj]. The Journal of Molecular Diagnostics (2025). High credibility.
 
 SARS-CoV-2 genomic surveillance — sampling strategy design: Unbiased sampling is a promising approach for detecting emerging variants, but sequencing all SARS-CoV-2–positive samples is unrealistic; moreover, universal sequencing does not necessarily provide better data than a well-planned sampling strategy that selects a subset of local samples. Sampling options include considering geographic distribution, travel history, clinical presentation, demographic-specific groups, age differences, and other conditions, or using random testing with a predetermined number of samples per day, week, or month.
 
 ---
 
-### Bayesian strategy selection identifies optimal solutions to complex problems using an example from GP prescribing [^d1a4b1f1]. NPJ Digital Medicine (2020). Medium credibility.
+### Bayesian strategy selection identifies optimal solutions to complex problems using an example from GP prescribing [^116MojRA]. NPJ Digital Medicine (2020). Medium credibility.
 
 Another aspect to be mindful of is that Thompson sampling trades between the type-1 error rate and statistical power, implying that to achieve a greater statistical power (relative to a same sample-size equal allocation trial), it is likely to inflate the type-1 error rate. By not trying the null strategy sufficiently, the type-1 error rate may exceed the acceptable threshold. Thus it is judicious to monitor the type-1 error rate and if it exceeds the significance level, adjustments may be required in the allocation algorithm. Recent workis starting to explore adaptive sampling approaches that can control the type-1 error rate, and further work is required to develop such techniques for a Thompson sampling setting.
 
@@ -867,7 +867,7 @@ The new frontier of public health is not what behaviours need to change, but rat
 
 ---
 
-### How I read an article that uses machine learning methods [^0f2f5676]. Blood Advances (2023). Medium credibility.
+### How I read an article that uses machine learning methods [^111PWiSZ]. Blood Advances (2023). Medium credibility.
 
 Step 1: Understand the problem being addressed. The first step in reading an ML paper is to understand the problem that the authors are trying to solve and, more importantly, understand the clinical or scientific impact of solving this problem. In other words, if the aim of the study is to solve a clinical problem, how does the answer or the recommendation provided by the algorithm help physicians or researchers in their day-to-day practice, and is this solution mature enough to be implemented in clinical workflows? Major clinical problems in health care can mainly affect either patient outcomes or operations (can I make the process easier and faster for the patient and the health care system?).
 
@@ -882,7 +882,7 @@ Step 2: Assess the quality of the data. The quality of the data used to build th
 
 ---
 
-### Effects of fecal microbiome transfer in adolescents with obesity: the gut bugs randomized controlled trial [^a8ac0754]. JAMA Network Open (2020). High credibility.
+### Effects of fecal microbiome transfer in adolescents with obesity: the gut bugs randomized controlled trial [^115K4hjR]. JAMA Network Open (2020). High credibility.
 
 Gut Microbiome Differences Between Donors and Participants at Baseline
 
@@ -897,19 +897,19 @@ Despite the difference in overall community structure, microbial diversity was s
 
 ---
 
-### VA / DoD clinical practice guideline for the management of type 2 diabetes mellitus [^8da629fa]. VA/DoD (2023). High credibility.
+### VA / DoD clinical practice guideline for the management of type 2 diabetes mellitus [^114d14sT]. VA/DoD (2023). High credibility.
 
 Algorithm — This clinical practice guideline's algorithm is designed to facilitate understanding of the clinical pathway and decision-making process used in managing patients with T2DM. It represents a simplified flow of the management of patients with T2DM and helps foster efficient decision making by providers, and it includes steps of care in an ordered sequence, decisions to be considered, decision criteria recommended, and actions to be taken. The algorithm is a step-by-step decision tree; standardized symbols display each step, arrows connect the numbered boxes indicating the order in which the steps should be followed, and sidebars 1–8 provide more detailed information to assist in defining and interpreting elements in the boxes.
 
 ---
 
-### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^e5f70036]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
+### American association for bronchology and interventional pulmonology (AABIP) evidence-based guidelines on bronchoscopic diagnosis and staging of lung cancer [^116sw8Vs]. Journal of Bronchology & Interventional Pulmonology (2025). High credibility.
 
 AABIP guidelines — panel B meta-analysis of multiple-tool versus single-tool approaches shows common effect model OR 1.63 [1.33; 2.00] and random effects model OR 1.64 [1.33; 2.02], with prediction interval [1.20; 2.24]. Heterogeneity is I² = 0.0%, τ² = 0.0031, p = 0.6847. The axis is labeled "Favours Single" and "Favours Multiple" (Odds Ratio [95% CI]).
 
 ---
 
-### Mitigating undersampling errors in MR fingerprinting by sequence optimization [^b078e757]. Magnetic Resonance in Medicine (2023). Medium credibility.
+### Mitigating undersampling errors in MR fingerprinting by sequence optimization [^115WdRzW]. Magnetic Resonance in Medicine (2023). Medium credibility.
 
 Purpose
 
@@ -929,7 +929,7 @@ The proposed method is able to optimize the MRF flip angle pattern such that sig
 
 ---
 
-### The problem with plan-Do-study-act cycles [^d75cda90]. BMJ Quality & Safety (2016). Medium credibility.
+### The problem with plan-Do-study-act cycles [^116WHXXV]. BMJ Quality & Safety (2016). Medium credibility.
 
 Just get on with it
 
@@ -944,7 +944,7 @@ The iterative nature of PDSA enables course corrections, but this feature of the
 
 ---
 
-### Temporal variability in quantitative human gut microbiome profiles and implications for clinical research [^c19b42f6]. Nature Communications (2021). High credibility.
+### Temporal variability in quantitative human gut microbiome profiles and implications for clinical research [^115x2m8R]. Nature Communications (2021). High credibility.
 
 Fig. 3
 Gains in accuracy in the estimation of the equilibrium abundance are highest for the first five samples for both RMP and QMP.
@@ -953,13 +953,13 @@ The availability of multiple timepoints allows improved estimation of the equili
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^b330d84f]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^115afC2A]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Next-generation sequencing (NGS) data analysis and storage — key challenges include variable coverage, interpretation steps, somatic versus germline considerations, and data volume. Beyond sequence errors, inadequate coverage can cause failure to accurately detect nucleotide variation, leading to false-positive and false-negative results, and depending on the sequencing application, the next step may involve quantification of reads, mutation calling, copy number analysis, and/or analysis of structural variations. Today, most users align the NGS reads to a known reference using SNP databases, and in mendelian conditions, use of unaffected family members provides a useful background to identify novel disease-causing mutations, whereas the calling of somatic mutations in malignancies is much more complicated because of the variance in ploidy and purity of the tumor DNA and dependence on the allelic fraction; comparison to nontumor tissue provides an important tool, and elimination of false positives can largely be achieved through verification by conventional PCR and Sanger sequencing, although minimizing false negatives is less straightforward. With respect to data storage, typically tens or hundreds of giga bp of short reads can be generated during one NGS run and the average NGS experiment generates terabytes of raw data, yet the extent of data that need to be retained for NGS assays has not been established, the retention of the complete data is costly and, in many instances, cost prohibitive, and the use of cloud computing is proposed as a potential way to avoid obtaining expensive servers.
 
 ---
 
-### Statistical combination schemes of repeated diagnostic test data [^5c639f39]. Academic Radiology (2006). Low credibility.
+### Statistical combination schemes of repeated diagnostic test data [^113MyKig]. Academic Radiology (2006). Low credibility.
 
 Rationale and Objectives
 
@@ -979,7 +979,7 @@ Scheme A is recommended for ruling in diagnoses, scheme O is recommended for rul
 
 ---
 
-### Probabilistic alignment of multiple networks [^5f6f5596]. Nature Communications (2025). High credibility.
+### Probabilistic alignment of multiple networks [^113SVDjs]. Nature Communications (2025). High credibility.
 
 Formally, we consider a blueprint L with binary edges (L i j ∈ {0, 1}) from which networks are copied with errors. Each entry A i j in an observed network is assumed to be independently generated from L i j with a copying error probability that depends on L i j. Edges in the blueprint (L i j = 1) are copied with error probability q, whereas non-edges (L i j = 0) are copied with error probability p (see Supplementary Material for the model with uniform copy error probability q = p). This approach shares some features with the approach in Ref. where the goal is to align a noisy network copy with the original network (the blueprint in our case) using a similar probabilistic framework. The crucial difference lies in that, in our case, the blueprint is unknown, so that we need to infer it. This difference is precisely what makes our approach symmetric (the alignment of two networks does not require that we choose one as reference) and what allows us to align multiple networks at the same time without the need to choose an arbitrary blueprint from the set of observed networks.
 
@@ -989,49 +989,49 @@ Since the probability of observing each edge is conditionally independent on the
 
 ---
 
-### Towards a reference genome that captures global genetic diversity [^45a4aac9]. Nature Communications (2020). High credibility.
+### Towards a reference genome that captures global genetic diversity [^112nFTRJ]. Nature Communications (2020). High credibility.
 
 The current human reference genome is predominantly derived from a single individual and it does not adequately reflect human genetic diversity. Here, we analyze 338 high-quality human assemblies of genetically divergent human populations to identify missing sequences in the human reference genome with breakpoint resolution. We identify 127,727 recurrent non-reference unique insertions spanning 18,048,877bp, some of which disrupt exons and known regulatory elements. To improve genome annotations, we linearly integrate these sequences into the chromosomal assemblies and construct a Human Diversity Reference. Leveraging this reference, an average of 402,573 previously unmapped reads can be recovered for a given genome sequenced to ~40X coverage. Transcriptomic diversity among these non-reference sequences can also be directly assessed. We successfully map tens of thousands of previously discarded RNA-Seq reads to this reference and identify transcription evidence in 4781 gene loci, underlining the importance of these non-reference sequences in functional genomics. Our extensive datasets are important advances toward a comprehensive reference representation of global human genetic diversity.
 
 ---
 
-### Clonal evolution in waldenstrom macroglobulinemia highlights functional role of B-cell receptor [^f54fbb23]. Blood (2001). Low credibility.
+### Clonal evolution in waldenstrom macroglobulinemia highlights functional role of B-cell receptor [^117GgkL2]. Blood (2001). Low credibility.
 
 The course of clonal evolution of 2 related clones in the blood of a patient with Waldenstrom macroglobulinemia (WM) indicates the functional importance for the expression of the B-cell receptor for the survival of these malignant cells. Protein and nucleotide sequencing of the paraproteins' variable regions revealed 2 predominant Vlambda and 2 VH sequences, each set comprised in the ratio 1:1.5. The 2 VH sequences and 2 Vlambda sequences shared the same VDJ and VJ junctional sequences, respectively, indicating that 2 malignant clones had evolved from a common ancestor. This is the first report on intraclonal heterogeneity in WM. Comparison of the Vlambda and VH sequences with the closest matching known germline genes showed that they contained approximately 10 somatic mutations each. The distribution and type of mutations demonstrate that mutations have continued to accumulate in the malignant clones and that selection has been operating to preserve immunoglobulin structure.
 
 ---
 
-### Spin dephasing under nonlinear gradients: implications for imaging and field mapping [^eaf2803c]. Magnetic Resonance in Medicine (2012). Low credibility.
+### Spin dephasing under nonlinear gradients: implications for imaging and field mapping [^1171KZF1]. Magnetic Resonance in Medicine (2012). Low credibility.
 
 This work examines the prototypical MR echo that would be expected for a voxel of spins evolving in a strong nonlinear field, specifically focusing on the quadratic z(2) - ½(x(2) + y(2)) field. Dephasing under nonlinear gradients is increasingly relevant given the growing interest in nonlinear imaging, and here, we report several notable differences from the linear case. Most notably, in addition to signal loss, intravoxel dephasing under gradients creating a wide and asymmetric frequency distribution across the voxel can cause skewed and nonlinear phase evolution. After presenting the qualitative and analytical origins of this difference, we experimentally demonstrate that neglecting these dynamics can lead to significant errors in sequences that assume phase evolution is proportional to voxel frequency, such as those used for field mapping. Finally, simplifying approximations to the signal equations are presented, which not only provide more intuitive forms of the exact expression but also result in simple rules to predict key features of the nonlinear evolution.
 
 ---
 
-### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^e400689e]. The Journal of Molecular Diagnostics (2012). Medium credibility.
+### Opportunities and challenges associated with clinical diagnostic genome sequencing: a report of the Association for Molecular Pathology [^116q2KDP]. The Journal of Molecular Diagnostics (2012). Medium credibility.
 
 Clinical utility of next-generation sequencing (NGS) is characterized by broad application potential, decision impact, and evaluation challenges: Aided by the rapidly decreasing cost of data generation, large-scale personal genome sequencing will be applied to diverse settings, and with proper interpretation NGS will permit a deeper understanding of disease mechanisms, allowing for more evidence-based medical interventions, influencing medical decisions including personalized treatment, monitoring of disease progression, and assessments of disease risk, prognosis, and reproductive matters. Some genome testing will inevitably be offered directly to consumers; in such a setting, consumers will decide independently whether they want to learn about topics ranging from ancestry to disease risks. Clinical utility is described as a measure of the net health benefits, reflected by the balance of benefit versus harm, and accurate evaluation considers factors such as test rationale, patient population, and clinical scenarios, following an individualized evidence-based approach for each patient to separate information with demonstrated medical utility from information with less clear or missing utility evidence. Given NGS data density, variants of unknown significance are encountered many times and our understanding of the biological, pathophysiological, and functional impact of certain genome regions and sequence changes remains limited; thus, the development of evidence-based, validated scientific standards to evaluate clinical utility with accurate genotype-based risk estimation is a considerable challenge, and there is a possibility of potential overinterpretation of results that could lead to unnecessary medical action.
 
 ---
 
-### Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis [^033871c3]. The Lancet: Psychiatry (2016). Medium credibility.
+### Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis [^1115mvUJ]. The Lancet: Psychiatry (2016). Medium credibility.
 
 Contemporary psychiatry faces major challenges. Its syndrome-based disease classification is not based on mechanisms and does not guide treatment, which largely depends on trial and error. The development of therapies is hindered by ignorance of potential beneficiary patient subgroups. Neuroscientific and genetics research have yet to affect disease definitions or contribute to clinical decision making. In this challenging setting, what should psychiatric research focus on? In two companion papers, we present a list of problems nominated by clinicians and researchers from different disciplines as candidates for future scientific investigation of mental disorders. These problems are loosely grouped into challenges concerning nosology and diagnosis (this Personal View) and problems related to pathogenesis and aetiology (in the companion Personal View). Motivated by successful examples in other disciplines, particularly the list of Hilbert's problems in mathematics, this subjective and eclectic list of priority problems is intended for psychiatric researchers, helping to re-focus existing research and providing perspectives for future psychiatric science.
 
 ---
 
-### Considerations for severe acute respiratory syndrome coronavirus 2 genomic surveillance: a joint consensus recommendation of the Association for Molecular Pathology and association of public health laboratories [^2f3fd16f]. The Journal of Molecular Diagnostics (2025). High credibility.
+### Considerations for severe acute respiratory syndrome coronavirus 2 genomic surveillance: a joint consensus recommendation of the Association for Molecular Pathology and association of public health laboratories [^112D3rXG]. The Journal of Molecular Diagnostics (2025). High credibility.
 
 SARS-CoV-2 genomic surveillance — sample de-identification and nomenclature emphasizes that if patient samples are sequenced, they must be de-identified before uploading to databases, and multiple nomenclature systems exist; it is prudent to use standardized nomenclature (for example SARS-CoV-2 Sequencing for Public Health Emergency Response, Epidemiology, and Surveillance) and example labeling for de-identified next-generation sequencing samples includes state identification, institute or health care organization identification, and randomized and unique identifiers.
 
 ---
 
-### EANM practice guideline / SNMMI procedure standard for dopaminergic imaging in parkinsonian syndromes 1.0 [^c1991a8e]. European Journal of Nuclear Medicine and Molecular Imaging (2020). High credibility.
+### EANM practice guideline / SNMMI procedure standard for dopaminergic imaging in parkinsonian syndromes 1.0 [^115x236D]. European Journal of Nuclear Medicine and Molecular Imaging (2020). High credibility.
 
 VOI strategies and alternative SBR methods — numeric parameters are dependent on acquisition and reconstruction parameters and on the correctness of placement of VOIs, and SBR differences also occur as the result of VOI strategy, with two approaches commonly employed: one incorporating regions for the caudate and putamen on left and right sides to capture anatomic bounds, and another using small regions of interest sampling the caudate, mid-putamen, and posterior putamen bilaterally. A different approach, the Southampton method, determines SBR from total counts from each striatum using geometrical VOIs sufficiently large to capture all striatal counts including those detected outside anatomical boundaries and a background region from the whole brain minus the striatal VOIs. Several approaches have been proposed to perform semiquantification of DAT SPECT, including individual CT or MRI–guided and machine-learning/textural methods as user-independent classifiers, although these methods still remain in the realm of promising research.
 
 ---
 
-### Bi-exponential T2 analysis of healthy and diseased achilles tendons: an in vivo preliminary magnetic resonance study and correlation with clinical score [^d2b26537]. European Radiology (2013). Low credibility.
+### Bi-exponential T2 analysis of healthy and diseased achilles tendons: an in vivo preliminary magnetic resonance study and correlation with clinical score [^116PNKbt]. European Radiology (2013). Low credibility.
 
 Objective
 
@@ -1058,7 +1058,7 @@ Key Points
 
 ---
 
-### Epidemiological inference for emerging viruses using segregating sites [^b9b63e0b]. Nature Communications (2023). High credibility.
+### Epidemiological inference for emerging viruses using segregating sites [^115kKvW6]. Nature Communications (2023). High credibility.
 
 a The number of sequences sampled over time, calculated using a 4-day time window. b The segregating site trajectory calculated from the binned sequences shown in panel (a). c Estimation of the per-genome, per-transmission mutation rate μ. The histogram shows the fraction of 87 analyzed transmission pairs with consensus sequences that differ from one another by the number of mutations shown on the x-axis. The mean number of mutations per transmission is μ = 0.33 (95% CI = 0.22–0.48). Black dots represent the probability of observing 0, 1, 2, and 3 mutations assuming a Poisson distribution with a mean of 0.33. Vertical black error bars span the probability of observing 0, 1, 2, and 3 mutations assuming Poisson distributions with mean values of 0.22 and 0.48.
 
@@ -1068,7 +1068,7 @@ Similar to the approach we undertook with our simulated data, we first attempted
 
 ---
 
-### Scalable spatiotemporal prediction with Bayesian neural fields [^c7f97742]. Nature Communications (2024). High credibility.
+### Scalable spatiotemporal prediction with Bayesian neural fields [^1167UL4q]. Nature Communications (2024). High credibility.
 
 Methods
 
@@ -1090,7 +1090,7 @@ Mean-field variational inference is known to underestimate posterior variance an
 
 ---
 
-### Probabilistic alignment of multiple networks [^f4880076]. Nature Communications (2025). High credibility.
+### Probabilistic alignment of multiple networks [^117FXfHo]. Nature Communications (2025). High credibility.
 
 Sampling the space of plausible alignments
 
@@ -1100,7 +1100,7 @@ In particular, by sampling alignments from the posterior distribution, we can es
 
 ---
 
-### Statistical modeling of RNA structure profiling experiments enables parsimonious reconstruction of structure landscapes [^f507fa1c]. Nature Communications (2018). Medium credibility.
+### Statistical modeling of RNA structure profiling experiments enables parsimonious reconstruction of structure landscapes [^117GGeSw]. Nature Communications (2018). Medium credibility.
 
 Design matrix
 
@@ -1110,7 +1110,7 @@ To estimate β and γ, we use maximum-likelihood estimates derived by Aviran et 
 
 ---
 
-### Bayesian genomic-enabled prediction as an inverse problem [^de34a538]. G3 (2014). Low credibility.
+### Bayesian genomic-enabled prediction as an inverse problem [^116gRwBD]. G3 (2014). Low credibility.
 
 A Bayesian inverse regression model
 
@@ -1126,7 +1126,7 @@ Because the magnitude of variance ofgrows with i, suggested applying a lower wei
 
 ---
 
-### The "hidden noise" problem in MR image reconstruction [^61adf3f6]. Magnetic Resonance in Medicine (2024). Medium credibility.
+### The "hidden noise" problem in MR image reconstruction [^113VpEDK]. Magnetic Resonance in Medicine (2024). Medium credibility.
 
 Purpose
 

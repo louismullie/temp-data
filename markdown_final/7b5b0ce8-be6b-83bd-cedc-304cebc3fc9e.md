@@ -15,31 +15,31 @@ I have a pt whose diabetes is not managed oh long acting insulin and a low inten
 
 > Let's see… What do we have here? The user is asking which insulin regimen to adjust for a hospitalized patient with diabetes who is currently on long-acting insulin plus a low-intensity sliding scale and is not achieving glycemic targets. Let's break this down step-by-step. First, I need to think about the current regimen and why it is failing. Then, I should verify what major guidelines recommend for inpatient non-ICU management. Next, I will examine the evidence comparing basal-bolus versus sliding scale and consider alternatives like basal-plus. After that, I need to check dosing strategies, including weight-based calculations and adjustments for age, renal function, and nutrition. Finally, I will outline a practical, stepwise plan with monitoring, hypoglycemia mitigation, and discharge considerations, and I will confirm whether any exceptions apply to this case.
 
-> Let me first confirm the problem with the current regimen. Long-acting basal insulin alone addresses fasting and interprandial hepatic glucose production but does not cover meal-related excursions, and relying on low-intensity sliding scale insulin as the only prandial strategy is reactive, treats hyperglycemia after it occurs, and is associated with worse glycemic control and more complications than scheduled prandial insulin, so the regimen is fundamentally incomplete for most inpatients with adequate intake [^8e236907] [^da90ce27] [^c8ad0911].
+> Let me first confirm the problem with the current regimen. Long-acting basal insulin alone addresses fasting and interprandial hepatic glucose production but does not cover meal-related excursions, and relying on low-intensity sliding scale insulin as the only prandial strategy is reactive, treats hyperglycemia after it occurs, and is associated with worse glycemic control and more complications than scheduled prandial insulin, so the regimen is fundamentally incomplete for most inpatients with adequate intake [^114dj8s8] [^116b2wUA] [^1168WeN4].
 
-> Wait, let me verify the guideline stance before jumping to changes. The ADA and AACE recommend scheduled subcutaneous insulin with basal, prandial, and correction components for non-critically ill inpatients with adequate nutrition, and they advise against using correction insulin alone without basal insulin; importantly, they also caution against prolonged use of sliding scale insulin as the sole method of control, which aligns with the evidence that SSI monotherapy is inferior and potentially harmful in type 1 diabetes and many type 2 scenarios [^f8c67e87] [^f0feb6c5] [^da90ce27] [^fb8878e9].
+> Wait, let me verify the guideline stance before jumping to changes. The ADA and AACE recommend scheduled subcutaneous insulin with basal, prandial, and correction components for non-critically ill inpatients with adequate nutrition, and they advise against using correction insulin alone without basal insulin; importantly, they also caution against prolonged use of sliding scale insulin as the sole method of control, which aligns with the evidence that SSI monotherapy is inferior and potentially harmful in type 1 diabetes and many type 2 scenarios [^117MpbsL] [^117AHarx] [^116b2wUA] [^117RujRr].
 
-> I will now examine the comparative evidence. Randomized trials and meta-analyses show that basal-bolus regimens improve glycemic control and reduce treatment failure compared with sliding scale alone, though they may increase mild hypoglycemia; for example, RABBIT 2 showed more patients achieving mean glucose less than 140 mg/dL with basal-bolus versus SSI, and the Cochrane review found lower mean glucose with basal-bolus at the expense of more hypoglycemia, underscoring the need for protocolized dosing and monitoring [^db71bef3] [^c8ad0911]. Hold on, I should also consider a less intensive alternative: basal-plus (basal once daily plus correction before meals) can achieve control comparable to full basal-bolus in some studies and may be reasonable when meal intake is unpredictable or staffing is constrained, though it still requires scheduled basal and correction rather than SSI alone [^b6d19b83] [^33462c33].
+> I will now examine the comparative evidence. Randomized trials and meta-analyses show that basal-bolus regimens improve glycemic control and reduce treatment failure compared with sliding scale alone, though they may increase mild hypoglycemia; for example, RABBIT 2 showed more patients achieving mean glucose less than 140 mg/dL with basal-bolus versus SSI, and the Cochrane review found lower mean glucose with basal-bolus at the expense of more hypoglycemia, underscoring the need for protocolized dosing and monitoring [^116cLVfY] [^1168WeN4]. Hold on, I should also consider a less intensive alternative: basal-plus (basal once daily plus correction before meals) can achieve control comparable to full basal-bolus in some studies and may be reasonable when meal intake is unpredictable or staffing is constrained, though it still requires scheduled basal and correction rather than SSI alone [^115g39mk] [^112K1wSr].
 
-> Next, I should review dosing strategy. For most non-critically ill adults with adequate intake, a total daily insulin dose of about 0.3–0.5 units/kg is reasonable, with roughly 50% as basal and 50% divided among premeal boluses; in older adults or those with eGFR less than 60 mL/min, I need to start lower, around 0.2–0.25 units/kg/day, and titrate cautiously to a fasting target of 140–180 mg/dL, balancing hypoglycemia risk [^da90ce27] [^ffaa2cda]. Let me double-check: yes, ADA/AACE endorse this split and recommend basal analogs with rapid-acting mealtime insulin for inpatient basal-bolus, with dose adjustments based on premeal glucose and clinical status [^da90ce27] [^fb8878e9].
+> Next, I should review dosing strategy. For most non-critically ill adults with adequate intake, a total daily insulin dose of about 0.3–0.5 units/kg is reasonable, with roughly 50% as basal and 50% divided among premeal boluses; in older adults or those with eGFR less than 60 mL/min, I need to start lower, around 0.2–0.25 units/kg/day, and titrate cautiously to a fasting target of 140–180 mg/dL, balancing hypoglycemia risk [^116b2wUA] [^117Y319B]. Let me double-check: yes, ADA/AACE endorse this split and recommend basal analogs with rapid-acting mealtime insulin for inpatient basal-bolus, with dose adjustments based on premeal glucose and clinical status [^116b2wUA] [^117RujRr].
 
-> But wait, what if the patient has poor or inconsistent oral intake? In that scenario, basal-only or basal plus correction is preferred, and prandial insulin should be held or reduced to mitigate hypoglycemia; I should confirm that basal is not withheld even if the patient is NPO, because hepatic glucose production continues and omission risks rebound hyperglycemia or ketosis in susceptible patients [^da90ce27] [^ffaa2cda]. I need to ensure the plan is reassessed daily as intake changes to avoid both hyper- and hypoglycemia [^da90ce27].
+> But wait, what if the patient has poor or inconsistent oral intake? In that scenario, basal-only or basal plus correction is preferred, and prandial insulin should be held or reduced to mitigate hypoglycemia; I should confirm that basal is not withheld even if the patient is NPO, because hepatic glucose production continues and omission risks rebound hyperglycemia or ketosis in susceptible patients [^116b2wUA] [^117Y319B]. I need to ensure the plan is reassessed daily as intake changes to avoid both hyper- and hypoglycemia [^116b2wUA].
 
-> I should confirm the practical steps to convert the regimen. First, calculate the total daily dose using 0.3–0.5 units/kg (or 0.2–0.25 units/kg if elderly or CKD), then divide 50% to basal glargine or degludec once daily and 50% to rapid-acting insulin (aspart, lispro, or glulisine) before each meal; if using basal-plus, give the full basal dose and add correction doses before meals using a standardized scale, with a low threshold to escalate to full basal-bolus if persistent hyperglycemia occurs [^da90ce27] [^b6d19b83]. Hold on, I should verify that correction insulin is layered on top of scheduled doses, not used alone; that is the key distinction from sliding scale monotherapy and is explicitly recommended by ADA/AACE [^f8c67e87] [^da90ce27].
+> I should confirm the practical steps to convert the regimen. First, calculate the total daily dose using 0.3–0.5 units/kg (or 0.2–0.25 units/kg if elderly or CKD), then divide 50% to basal glargine or degludec once daily and 50% to rapid-acting insulin (aspart, lispro, or glulisine) before each meal; if using basal-plus, give the full basal dose and add correction doses before meals using a standardized scale, with a low threshold to escalate to full basal-bolus if persistent hyperglycemia occurs [^116b2wUA] [^115g39mk]. Hold on, I should verify that correction insulin is layered on top of scheduled doses, not used alone; that is the key distinction from sliding scale monotherapy and is explicitly recommended by ADA/AACE [^117MpbsL] [^116b2wUA].
 
-> Next, I should review titration and monitoring. I need to order premeal and bedtime glucose checks, then titrate basal every 2–3 days to a fasting target of 140–180 mg/dL, and titrate prandial doses every 2–3 days based on premeal values, increasing by about 10–20% if above target and decreasing by 10–20% if hypoglycemia occurs; this cadence balances efficacy and safety in the hospital [^da90ce27] [^45de8d8e]. Let me reconsider whether less frequent checks suffice; no, for basal-bolus therapy, premeal and bedtime monitoring is standard to guide both basal and bolus adjustments and to detect nocturnal hypoglycemia [^da90ce27].
+> Next, I should review titration and monitoring. I need to order premeal and bedtime glucose checks, then titrate basal every 2–3 days to a fasting target of 140–180 mg/dL, and titrate prandial doses every 2–3 days based on premeal values, increasing by about 10–20% if above target and decreasing by 10–20% if hypoglycemia occurs; this cadence balances efficacy and safety in the hospital [^116b2wUA] [^112nau8H]. Let me reconsider whether less frequent checks suffice; no, for basal-bolus therapy, premeal and bedtime monitoring is standard to guide both basal and bolus adjustments and to detect nocturnal hypoglycemia [^116b2wUA].
 
-> I need to ensure hypoglycemia mitigation is built in. Define hypoglycemia as less than 70 mg/dL, treat with 15 g dextrose, and if it recurs, reduce the responsible insulin component by 10–20%; in older adults or those with high risk, I should individualize targets upward and consider less aggressive titration to avoid falls and cognitive injury from hypoglycemia [^da90ce27] [^8e236907]. Hold on, I should verify that this aligns with geriatric guidance; yes, AGS and endocrine society emphasize avoiding hypoglycemia and simplifying regimens in older adults, which supports cautious inpatient titration and discharge planning [^8e236907] [^84c561d1].
+> I need to ensure hypoglycemia mitigation is built in. Define hypoglycemia as less than 70 mg/dL, treat with 15 g dextrose, and if it recurs, reduce the responsible insulin component by 10–20%; in older adults or those with high risk, I should individualize targets upward and consider less aggressive titration to avoid falls and cognitive injury from hypoglycemia [^116b2wUA] [^114dj8s8]. Hold on, I should verify that this aligns with geriatric guidance; yes, AGS and endocrine society emphasize avoiding hypoglycemia and simplifying regimens in older adults, which supports cautious inpatient titration and discharge planning [^114dj8s8] [^114PqfWg].
 
-> Let me think about discharge and transitions. I should reconcile home medications, review A1C if unknown, and simplify to a regimen the patient can manage, often basal-only or basal-plus if intake is uncertain, with clear hypoglycemia education and follow-up; I should avoid carrying forward complex inpatient basal-bolus regimens unless the patient has the capacity and support to sustain them [^da90ce27] [^58a7e294]. I should double-check that this approach reduces overtreatment risk, which is well documented in older adults discharged on new insulins after transient inpatient hyperglycemia [^5987cf40].
+> Let me think about discharge and transitions. I should reconcile home medications, review A1C if unknown, and simplify to a regimen the patient can manage, often basal-only or basal-plus if intake is uncertain, with clear hypoglycemia education and follow-up; I should avoid carrying forward complex inpatient basal-bolus regimens unless the patient has the capacity and support to sustain them [^116b2wUA] [^113GSJTu]. I should double-check that this approach reduces overtreatment risk, which is well documented in older adults discharged on new insulins after transient inpatient hyperglycemia [^113HjWs9].
 
-> Hmm, wait a minute, are there any exceptions where SSI alone might be acceptable here? Observational data suggest that patients with mild hyperglycemia at admission (less than 180 mg/dL) may occasionally do okay with SSI alone, but that is not the scenario described, and guidelines still discourage SSI monotherapy; thus, I should not rely on that exception in this case [^71d4c17c] [^f8c67e87]. I should confirm that the balance of evidence and recommendations supports moving to scheduled basal-bolus or basal-plus rather than persisting with basal plus low-intensity SSI, which it does [^da90ce27] [^c8ad0911].
+> Hmm, wait a minute, are there any exceptions where SSI alone might be acceptable here? Observational data suggest that patients with mild hyperglycemia at admission (less than 180 mg/dL) may occasionally do okay with SSI alone, but that is not the scenario described, and guidelines still discourage SSI monotherapy; thus, I should not rely on that exception in this case [^113um4fM] [^117MpbsL]. I should confirm that the balance of evidence and recommendations supports moving to scheduled basal-bolus or basal-plus rather than persisting with basal plus low-intensity SSI, which it does [^116b2wUA] [^1168WeN4].
 
-> Putting this together, my recommendation is to intensify from basal plus low-intensity sliding scale to a scheduled basal-bolus regimen using 0.3–0.5 units/kg/day total, 50% basal and 50% divided among premeal rapid-acting insulin, with premeal and bedtime glucose checks and protocolized titration every 2–3 days; if meal intake is unpredictable, a basal-plus approach with correction only is reasonable, but I should monitor closely and escalate to full basal-bolus if hyperglycemia persists [^da90ce27] [^b6d19b83]. I should confirm that this plan aligns with ADA/AACE guidance and the evidence base, which it does, and I will reassess daily for changes in intake, renal function, and hypoglycemia risk to adjust dosing accordingly [^f8c67e87] [^da90ce27].
+> Putting this together, my recommendation is to intensify from basal plus low-intensity sliding scale to a scheduled basal-bolus regimen using 0.3–0.5 units/kg/day total, 50% basal and 50% divided among premeal rapid-acting insulin, with premeal and bedtime glucose checks and protocolized titration every 2–3 days; if meal intake is unpredictable, a basal-plus approach with correction only is reasonable, but I should monitor closely and escalate to full basal-bolus if hyperglycemia persists [^116b2wUA] [^115g39mk]. I should confirm that this plan aligns with ADA/AACE guidance and the evidence base, which it does, and I will reassess daily for changes in intake, renal function, and hypoglycemia risk to adjust dosing accordingly [^117MpbsL] [^116b2wUA].
 
 ---
 
-Stop the sliding scale and **start basal-bolus insulin** with a long-acting basal (e.g. glargine) and rapid-acting bolus before meals, plus correction doses [^f8c67e87] [^da90ce27]. Sliding scale alone is reactive, causes glycemic swings, and is linked to more complications and longer stays [^c8ad0911] [^8e236907]. Use **0.4–0.5 units/kg/day total**, split 50% basal and 50% prandial, and titrate every 2–3 days to 140–180 mg/dL [^da90ce27] [^ffaa2cda]. If intake is poor, use basal plus correction; if persistent hyperglycemia occurs, add prandial insulin [^da90ce27] [^b6d19b83]. Monitor premeal and bedtime glucose, and adjust based on trends to reduce hypoglycemia and variability [^da90ce27] [^8e236907].
+Stop the sliding scale and **start basal-bolus insulin** with a long-acting basal (e.g. glargine) and rapid-acting bolus before meals, plus correction doses [^117MpbsL] [^116b2wUA]. Sliding scale alone is reactive, causes glycemic swings, and is linked to more complications and longer stays [^1168WeN4] [^114dj8s8]. Use **0.4–0.5 units/kg/day total**, split 50% basal and 50% prandial, and titrate every 2–3 days to 140–180 mg/dL [^116b2wUA] [^117Y319B]. If intake is poor, use basal plus correction; if persistent hyperglycemia occurs, add prandial insulin [^116b2wUA] [^115g39mk]. Monitor premeal and bedtime glucose, and adjust based on trends to reduce hypoglycemia and variability [^116b2wUA] [^114dj8s8].
 
 ---
 
@@ -47,15 +47,15 @@ Stop the sliding scale and **start basal-bolus insulin** with a long-acting basa
 
 Sliding scale insulin (SSI) is reactive, treating hyperglycemia after it occurs, and is associated with:
 
-- **Increased hyperglycemia and glycemic variability**: SSI alone is inferior to basal-bolus for control and variability [^c8ad0911] [^54d0347f].
-- **Higher risk of complications**: SSI alone is linked to more infections, longer stays, and higher costs [^75ea783c] [^ae5cf092].
-- **Increased hypoglycemia risk**: Especially in older adults, SSI increases hypoglycemia without improving control [^d9839a82] [^a1be4b87].
+- **Increased hyperglycemia and glycemic variability**: SSI alone is inferior to basal-bolus for control and variability [^1168WeN4] [^113AjtqL].
+- **Higher risk of complications**: SSI alone is linked to more infections, longer stays, and higher costs [^1141pJou] [^115TW4eV].
+- **Increased hypoglycemia risk**: Especially in older adults, SSI increases hypoglycemia without improving control [^116ZUWzm] [^1158nvcn].
 
 ---
 
 ## Recommended insulin regimen adjustment
 
-Transition to a **basal-bolus regimen** with scheduled basal, prandial, and correction insulin [^f8c67e87] [^da90ce27]:
+Transition to a **basal-bolus regimen** with scheduled basal, prandial, and correction insulin [^117MpbsL] [^116b2wUA]:
 
 | **Component** | **Insulin type** | **Dose calculation** | **Timing** |
 |-|-|-|-|
@@ -65,7 +65,7 @@ Transition to a **basal-bolus regimen** with scheduled basal, prandial, and corr
 
 ---
 
-Total daily insulin: **0.4–0.5 units/kg/day**, split 50% basal and 50% prandial; adjust every 2–3 days to 140–180 mg/dL [^da90ce27] [^ffaa2cda].
+Total daily insulin: **0.4–0.5 units/kg/day**, split 50% basal and 50% prandial; adjust every 2–3 days to 140–180 mg/dL [^116b2wUA] [^117Y319B].
 
 ---
 
@@ -73,69 +73,69 @@ Total daily insulin: **0.4–0.5 units/kg/day**, split 50% basal and 50% prandia
 
 Multiple RCTs and meta-analyses show basal-bolus improves control and reduces complications versus SSI alone:
 
-- **RABBIT-2 trial**: Basal-bolus achieved target glucose more often than SSI (66% vs 38%) without more hypoglycemia [^db71bef3].
-- **Basal-plus trial**: Basal plus correction beat SSI for control and reduced treatment failure [^b6d19b83].
-- **Cochrane review**: Basal-bolus lowers mean glucose vs SSI but may increase mild hypoglycemia; overall outcomes favor basal-bolus [^c8ad0911].
+- **RABBIT-2 trial**: Basal-bolus achieved target glucose more often than SSI (66% vs 38%) without more hypoglycemia [^116cLVfY].
+- **Basal-plus trial**: Basal plus correction beat SSI for control and reduced treatment failure [^115g39mk].
+- **Cochrane review**: Basal-bolus lowers mean glucose vs SSI but may increase mild hypoglycemia; overall outcomes favor basal-bolus [^1168WeN4].
 
 ---
 
 ## Monitoring and titration strategy
 
 - **Glucose monitoring**: Check premeal and bedtime glucose daily.
-- **Titration**: Adjust basal and prandial doses every 2–3 days to 140–180 mg/dL; modify correction scale to the patient's sensitivity [^da90ce27] [^45de8d8e].
-- **Hypoglycemia management**: Treat < 70 mg/dL with 15 g dextrose and reduce insulin by 10–20% if recurrent [^da90ce27] [^45de8d8e].
+- **Titration**: Adjust basal and prandial doses every 2–3 days to 140–180 mg/dL; modify correction scale to the patient's sensitivity [^116b2wUA] [^112nau8H].
+- **Hypoglycemia management**: Treat < 70 mg/dL with 15 g dextrose and reduce insulin by 10–20% if recurrent [^116b2wUA] [^112nau8H].
 
 ---
 
 ## Special considerations
 
-- **Poor oral intake**: Use basal plus correction; avoid prandial insulin if not eating [^da90ce27] [^ffaa2cda].
-- **Renal impairment**: Start at 0.2–0.25 units/kg/day and titrate cautiously [^da90ce27] [^ffaa2cda].
-- **Older adults**: Individualize targets, prioritize avoiding hypoglycemia, and simplify regimens [^8e236907] [^84c561d1].
+- **Poor oral intake**: Use basal plus correction; avoid prandial insulin if not eating [^116b2wUA] [^117Y319B].
+- **Renal impairment**: Start at 0.2–0.25 units/kg/day and titrate cautiously [^116b2wUA] [^117Y319B].
+- **Older adults**: Individualize targets, prioritize avoiding hypoglycemia, and simplify regimens [^114dj8s8] [^114PqfWg].
 
 ---
 
 ## Summary of recommendations
 
-- **Stop sliding scale insulin**: Discontinue SSI as sole therapy [^f8c67e87] [^da90ce27].
-- **Start basal-bolus insulin**: Basal (long-acting) plus prandial (rapid-acting) with correction doses [^f8c67e87] [^da90ce27].
-- **Calculate total daily dose**: 0.4–0.5 units/kg/day, 50% basal, 50% prandial [^da90ce27] [^ffaa2cda].
-- **Titrate regularly**: Adjust every 2–3 days to 140–180 mg/dL [^da90ce27] [^ffaa2cda].
-- **Monitor closely**: Premeal and bedtime glucose; adjust based on trends and hypoglycemia [^da90ce27] [^8e236907].
+- **Stop sliding scale insulin**: Discontinue SSI as sole therapy [^117MpbsL] [^116b2wUA].
+- **Start basal-bolus insulin**: Basal (long-acting) plus prandial (rapid-acting) with correction doses [^117MpbsL] [^116b2wUA].
+- **Calculate total daily dose**: 0.4–0.5 units/kg/day, 50% basal, 50% prandial [^116b2wUA] [^117Y319B].
+- **Titrate regularly**: Adjust every 2–3 days to 140–180 mg/dL [^116b2wUA] [^117Y319B].
+- **Monitor closely**: Premeal and bedtime glucose; adjust based on trends and hypoglycemia [^116b2wUA] [^114dj8s8].
 
 ---
 
-Switching from sliding scale to basal-bolus insulin improves control, reduces complications, and is the **standard of care** for hospitalized patients with diabetes [^f8c67e87] [^da90ce27].
+Switching from sliding scale to basal-bolus insulin improves control, reduces complications, and is the **standard of care** for hospitalized patients with diabetes [^117MpbsL] [^116b2wUA].
 
 ---
 
 ## References
 
-### Sliding scale insulin use: myth or insanity? [^ae5cf092]. The American Journal of Medicine (2007). Low credibility.
+### Sliding scale insulin use: myth or insanity? [^115TW4eV]. The American Journal of Medicine (2007). Low credibility.
 
 Inpatient hyperglycemia in people with or without diabetes is associated with an increased risk of complications and mortality, a longer hospital stay, a higher admission rate to the intensive care unit, and higher hospitalization costs. Despite increasing evidence that supports intensive glycemic control in hospitalized patients, blood glucose control continues to be challenging, and sliding scale insulin coverage, a practice associated with limited therapeutic success, continues to be the most frequent insulin regimen in hospitalized patients. Sliding scale insulin has been in use for more than 80 years without much evidence to support its use as the standard of care. Several studies have revealed evidence of poor glycemic control and deleterious effects in sliding scale insulin use. To understand its wide use and acceptance, we reviewed the origin, advantages, and disadvantages of sliding scale insulin in the inpatient setting.
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^39ec0e1b]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^112Usane]. Endocrine Practice (2022). High credibility.
 
 Inpatient insulin regimen composition: For hospitalized persons with satisfactory meal intake, the insulin regimen should include basal, prandial, and correction doses, and exclusive use of "sliding-scale" insulin should only be used for those whose glucose values are in the target range most of the time and only occasionally exceed it.
 
 ---
 
-### American Geriatrics Society 2023 updated AGS beers criteria® for potentially inappropriate medication use in older adults [^d9839a82]. Journal of the American Geriatrics Society (2023). High credibility.
+### American Geriatrics Society 2023 updated AGS beers criteria® for potentially inappropriate medication use in older adults [^116ZUWzm]. Journal of the American Geriatrics Society (2023). High credibility.
 
 AGS Beers Criteria 2023 — Sliding scale insulin in older adults: Higher risk of hypoglycemia without improvement in hyperglycemia management regardless of care setting; sliding scale regimens rely on short- or rapid-acting insulin adjusted to current blood glucose levels without basal or long-acting insulin.
 
 ---
 
-### Less is more: backing off sliding scale insulin for hospitalized patients [^e2fa09b8]. Journal of the American Board of Family Medicine (2024). Medium credibility.
+### Less is more: backing off sliding scale insulin for hospitalized patients [^116oWBpb]. Journal of the American Board of Family Medicine (2024). Medium credibility.
 
 In hospitalized patients with type 2 diabetes (T2DM), a less aggressive supplemental insulin regimen is noninferior to a standard, more aggressive, supplemental regimen.
 
 ---
 
-### Hypoglycemia and diabetes: a report of a workgroup of the American diabetes association and the endocrine society [^a1be4b87]. Diabetes Care (2013). Low credibility.
+### Hypoglycemia and diabetes: a report of a workgroup of the American diabetes association and the endocrine society [^1158nvcn]. Diabetes Care (2013). Low credibility.
 
 Older adults with diabetes have a disproportionately high number of clinical complications and comorbidities, all of which can be exacerbated by and sometimes contribute to episodes of hypoglycemia. Older adults with diabetes are at much higher risk for the geriatric syndrome, which includes falls, incontinence, frailty, cognitive impairment, and depressive symptoms. The cognitive and executive dysfunction associated with the geriatric syndrome interferes with the patient's ability to perform self-care activities appropriately and follow the treatment regimen.
 
@@ -143,13 +143,13 @@ To minimize the risk of hypoglycemia in the elderly, careful education regarding
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^fb8878e9]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^117RujRr]. Endocrine Practice (2022). High credibility.
 
 Inpatient diabetes management — noncritically ill targets and insulin therapy: For most noncritically ill persons in the hospital setting, a glucose target of 140 to 180 mg/dL is recommended; a lower target range (100 to 140 mg/dL) may be reasonable when glycemic control can be achieved without hypoglycemia, whereas less stringent targets are appropriate for those with high clinical complexity, terminal illness, limited life expectancy, or high risk for hypoglycemia. Insulin therapy following approved protocols is recommended as the preferred therapy for managing hyperglycemia in the hospital, and for noncritically ill persons with T2D, an individualized approach is recommended and may include consideration of noninsulin agents alone or in combination with insulin. For hospitalized persons with satisfactory oral intake, the insulin regimen should include basal, prandial, and correction doses; for those without adequate food intake, basal, prandial, and correction doses should be used as necessary, and extensive use of "sliding-scale" insulin should only be used for those whose glucose are in the target range most of the time, and only occasionally exceed it.
 
 ---
 
-### Sliding scale insulin for non-critically ill hospitalised adults with diabetes mellitus [^c8ad0911]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### Sliding scale insulin for non-critically ill hospitalised adults with diabetes mellitus [^1168WeN4]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -181,19 +181,19 @@ We are uncertain which insulin strategy (SSI or basal-bolus insulin) is best for
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^da90ce27]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^116b2wUA]. Endocrine Practice (2022). High credibility.
 
 Hospitalized adults — non-ICU insulin therapy — scheduled subcutaneous insulin regimens with a combination of basal, nutritional, and correction components is recommended, and prolonged use of "sliding" scale insulin as the sole method of glucose control is strongly discouraged; clinicians should only consider using "sliding" scale insulin for persons whose glucoses are in the target range most of the time; RCTs have shown that treatment with a basal prandial regimen with insulin analogs improved glycemic control compared with sliding-scale regular insulin alone, and persons with T1D should be treated with basal-prandial insulin regimens to avoid severe hyperglycemia and DKA; in insulin-naïve persons with T2D, a starting insulin TDD between 0.3 and 0.5 units/kg/day is effective and safe, while in elderly persons with impaired kidney function a lower starting insulin TDD of 0.20 to 0.25 units/kg are recommended; for those whose glucose is controlled with insulin prior to admission, reducing the insulin TDD by 20% to 25% is recommended when caloric intake is poor, and persons with T2D receiving insulin therapy before admission are at risk for severe hyperglycemia in the hospital if insulin therapy is discontinued; in a single-center RCT, correctional insulin sliding scales did not improve glycemic control in persons with T2D.
 
 ---
 
-### Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update [^d2c12d25]. Journal of Clinical Oncology (2021). High credibility.
+### Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update [^116PTHZN]. Journal of Clinical Oncology (2021). High credibility.
 
 ASCO guideline update — Diabetes insulin therapy considerations during ICPi treatment note that insulin therapy should be used in any case with significant hyperglycemia pending additional diagnostic workup if mechanism of diabetes mellitus is not known, and long-acting insulin therapy alone is not sufficient for CIADM. Starting total daily requirement can be estimated at 0.3–0.4 units/kg/d, with half of daily requirements given as prandial coverage and half administered as a once-daily long-acting agent, requiring self-monitoring 4 or more times daily or the use of a continuous glucose monitor. Sliding scale insulin can be used with multiple daily injection regimens; decreased requirements after the initial acute admission for DKA are commonly seen in the so-called honeymoon period. Education is critical, early endocrinology consultation is a high priority for all patients, and steroids can exacerbate postprandial hyperglycemia so endocrinology consult should be considered for initiating or managing insulin in patients with T2DM being started on high-dose steroids, with insulin doses generally needing adjustment as steroids are tapered down.
 
 ---
 
-### Standards of medical care in diabetes – 2009 [^f79fc0da]. Diabetes Care (2009). Low credibility.
+### Standards of medical care in diabetes – 2009 [^117L7brR]. Diabetes Care (2009). Low credibility.
 
 b. Insulin
 
@@ -207,7 +207,7 @@ A recent study demonstrated the safety and efficacy of using basal-bolus insulin
 
 ---
 
-### Standards of medical care in diabetes – 2010 [^cd966456]. Diabetes Care (2010). Low credibility.
+### Standards of medical care in diabetes – 2010 [^116FnyeD]. Diabetes Care (2010). Low credibility.
 
 a. Intravenous insulin infusions.
 
@@ -225,7 +225,7 @@ A topic that deserves particular attention is the persistent overuse of what has
 
 ---
 
-### Is incretin-based therapy ready for the care of hospitalized patients with type 2 diabetes? insulin therapy has proven itself and is considered the mainstay of treatment [^9fe263c0]. Diabetes Care (2013). Low credibility.
+### Is incretin-based therapy ready for the care of hospitalized patients with type 2 diabetes? insulin therapy has proven itself and is considered the mainstay of treatment [^115635EX]. Diabetes Care (2013). Low credibility.
 
 Hyperglycemia is reported in one-third of general medicine and surgery patients with and without a known history of diabetes. The prevalence is even higher in intensive care unit (ICU) patients and following cardiac surgery, occurring in up to 80% of patients. While previously thought to be an epiphenomenon related to the acute underlying illness of the hospitalization itself, hyperglycemia is now recognized as a contributor to adverse outcomes in critical and noncritically ill patients, with higher mortality and disease-specific morbidity.
 
@@ -235,7 +235,7 @@ Improved glycemic control with insulin therapy is associated with amelioration o
 
 ---
 
-### Development of insulin and its pharmacology and perioperative use: a narrative review [^54d0347f]. British Journal of Anaesthesia (2025). Medium credibility.
+### Development of insulin and its pharmacology and perioperative use: a narrative review [^113AjtqL]. British Journal of Anaesthesia (2025). Medium credibility.
 
 'Sliding scale' insulin
 
@@ -255,25 +255,25 @@ There is some evidence that using long-acting insulins with an extra-long durati
 
 ---
 
-### Glycemic control in hospitalized patients not in intensive care: beyond sliding-scale insulin [^5f436b63]. American Family Physician (2010). Low credibility.
+### Glycemic control in hospitalized patients not in intensive care: beyond sliding-scale insulin [^113SEUD8]. American Family Physician (2010). Low credibility.
 
 Glycemic control in hospitalized patients who are not in intensive care remains unsatisfactory. Despite persistent expert recommendations urging its abandonment, the use of sliding-scale insulin remains pervasive in U.S. hospitals. Evidence for the effectiveness of sliding-scale insulin is lacking after more than 40 years of use. New physiologic subcutaneous insulin protocols use basal, nutritional, and correctional insulin. The initial total daily dose of subcutaneous insulin is calculated using a factor of 0.3 to 0.6 units per kg body weight, with one half given as long-acting insulin (the basal insulin dose), and the other one half divided daily over three meals as short-acting insulin doses (nutritional insulin doses). A correctional insulin dose provides a final insulin adjustment based on the preprandial glucose value. This correctional dose resembles a sliding scale, but is only a small fine-tuning of therapy, as opposed to traditional sliding-scale insulin alone. Insulin sensitivity, nutritional intake, and total daily dosing review can alter the physiologic insulin-dosing schedule. Prospective trials have demonstrated reductions in hyperglycemic measurements, hypoglycemia, and adjusted hospital length of stay when physiologic subcutaneous insulin protocols are used. Transitions in care require special considerations and attention to glycemic control medications. Changing the sliding-scale insulin culture requires a multidisciplinary effort to improve patient safety and outcomes.
 
 ---
 
-### Standards of care in diabetes – 2025 [^f8c67e87]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^117MpbsL]. Diabetes Care (2025). High credibility.
 
 Regarding inpatient care for diabetes mellitus type 2, more specifically with respect to management of hospitalized patients, insulin therapy, ADA 2025 guidelines recommend to do not use correction or supplemental insulin solely without basal insulin (formerly referred to as a sliding scale) in the inpatient setting.
 
 ---
 
-### Standards of care in diabetes – 2025 [^f0feb6c5]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^117AHarx]. Diabetes Care (2025). High credibility.
 
 Regarding inpatient care for diabetes mellitus type 1, more specifically with respect to management of hospitalized patients, insulin therapy, ADA 2025 guidelines recommend to do not use correction or supplemental insulin solely without basal insulin (formerly referred to as a sliding scale) in the inpatient setting.
 
 ---
 
-### Standards of medical care in diabetes – 2009 [^68e8d60a]. Diabetes Care (2009). Low credibility.
+### Standards of medical care in diabetes – 2009 [^113gXvKb]. Diabetes Care (2009). Low credibility.
 
 Recommendations
 
@@ -290,7 +290,7 @@ Patients with hyperglycemia in the hospital who do not have a diagnosis of diabe
 
 ---
 
-### Glycemic control in hospitalized patients not in intensive care… [^7633d0af]. AAFP (2010). Low credibility.
+### Glycemic control in hospitalized patients not in intensive care… [^1142EwhG]. AAFP (2010). Low credibility.
 
 15 Patients treated with sliding-scale insulin alone had blood glucose levels greater than 300 mg per dL three times more often than patients treated with other glucose-lowering therapies. Most patients treated with sliding-scale insulin in this study never had their regimens adjusted, despite poor glycemic control. The authors concluded that although sliding-scale insulin regimens were prescribed for the majority of general medical inpatients with diabetes, they appeared to provide no benefit and, when used without a standing dose of long- or intermediate-acting insulin, were associated with an increased rate of hyperglycemic episodes.
 15. Traditional sliding-scale insulin regimens measure blood glucose taken preprandially and at bedtime if the patient is eating, or on a schedule of every six hours if the patient is taking nothing by mouth. The amount of regular insulin given is based on the fingerstick glucose level.
@@ -302,7 +302,7 @@ Sliding-scale insulin does not take into account basal insulin needs, diet, and 
 
 ---
 
-### Screening and management of hospital hyperglycemia in non-critical patients: a position statement from the Brazilian diabetes society (SBD) [^17cb4d61]. Diabetology & Metabolic Syndrome (2025). Medium credibility.
+### Screening and management of hospital hyperglycemia in non-critical patients: a position statement from the Brazilian diabetes society (SBD) [^111cH18U]. Diabetology & Metabolic Syndrome (2025). Medium credibility.
 
 2022 American diabetes association updates
 
@@ -323,31 +323,31 @@ Pasquel et al. evaluated a group of 279 hospitalized patients with type 2 diabet
 
 ---
 
-### Diabetes mellitus in pregnancy: implications for obstetric anesthesia [^b1462217]. Anesthesiology (2025). Medium credibility.
+### Diabetes mellitus in pregnancy: implications for obstetric anesthesia [^115XpNBg]. Anesthesiology (2025). Medium credibility.
 
 The amount of insulin given in response to hyperglycemia is based on the patient's insulin sensitivity. To simplify correction in the hospital, sliding-scale short-acting insulin is prescribed premeal (or at regular 4-h intervals for patients who are fasting) with predefined or protocolized sliding scales. So-called low-, medium-, high-, or very high-intensity sliding scales are typical of most hospitals, with insulin sensitivity often empirically judged based on a patient's response to a chosen sliding scale. However, insulin sensitivity can also be calculated as an "insulin sensitivity factor" for each patient based on their total daily dose of insulin. Table 5 includes an example of calculating insulin sensitivity in this fashion. Additional insulin should be administered if betamethasone or dexamethasone is given during admission to accelerate fetal lung maturity, as glucocorticosteroids (and also beta-agonists such as terbutaline) can exacerbate maternal hyperglycemia and precipitate diabetic ketoacidosis (DKA). Among individuals with diabetes receiving betamethasone, glucose values are expected to rise at approximately 12 h after administration and peak 48 h after administration before returning to baseline levels approximately 1 week later. A recent RCT evaluating maternal glucose after betamethasone exposure showed that at least 80% of individuals without preexisting diabetes had evidence of hyperglycemia based on fasting or postprandial point-of-care testing. Interestingly, routine monitoring and treatment in this population do not change rates of neonatal hypoglycemia. Protocols have been proposed to guide empiric adjustment of subcutaneous insulin after betamethasone. Once active labor is achieved, transition to an IV insulin infusion is often made with guidance by preestablished hospital-specific protocols. Recent work demonstrates that the use of standard protocols improves maternal glucose control intrapartum (though such protocols may be associated with increases in neonatal hypoglycemia).
 
 ---
 
-### The transition from insulin infusions to long-term diabetes therapy: the argument for insulin analogs [^9b7aed92]. Seminars in Thoracic and Cardiovascular Surgery (2006). Low credibility.
+### The transition from insulin infusions to long-term diabetes therapy: the argument for insulin analogs [^114yWNWd]. Seminars in Thoracic and Cardiovascular Surgery (2006). Low credibility.
 
 After cardiac surgery, it is medical mismanagement to place an order for sliding scale insulin at the time of transitioning from intravenous insulin. Use of basal-prandial-correction therapy with insulin analogs constitutes a suitable transitioning regimen for inpatient management of hyperglycemia after heart surgery, to be ordered before interruption of intravenous insulin infusion, in conjunction with a program of blood glucose monitoring before meals, at bedtime, and midsleep. In the ambulatory setting, in comparison to neutral protamine Hagedorn, long-acting insulin analogs reduce hypoglycemia. In comparison to regular insulin, rapid-acting insulin analogs reduce hypoglycemia and improve postprandial control. A standardized approach to order entry for basal-prandial-correction therapy enhances safety and staff familiarity while preserving individualization of patient care. Proposed predictors of successful transition are described. Dose requirements during intravenous insulin infusion can be used to guide initial dose assignments of basal insulin therapy. As the patient approaches discharge, the total daily doses of subcutaneous insulin and basal insulin dose are decreased, and the proportion of prandial insulin approaches or exceeds 50% of the total daily dose as the absolute amount of prandial insulin increases. Before discharge, hyperglycemic patients not known to have diabetes should be advised of the need for outpatient reassessment, and those known to have diabetes but requiring intensification of therapy should participate in decision-making concerning their options for intensified treatment.
 
 ---
 
-### Standards of care in diabetes – 2025 [^70249232]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^113sFu2R]. Diabetes Care (2025). High credibility.
 
 Regarding medical management for in-hospital hyperglycemia, more specifically with respect to insulin therapy, ADA 2025 guidelines recommend to do not use correction or supplemental insulin solely without basal insulin (formerly referred to as a sliding scale) in the inpatient setting.
 
 ---
 
-### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^8e236907]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
+### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^114dj8s8]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
 
 Inpatient diabetes management in older adults — during continuous enteral or parenteral nutrition, glycemic targets are between 140 and 180 mg/dL (7.7 to 10 mmol/L), and aiming at glycemia targets below this range is dangerous; point-of-care glucose monitoring is helpful only when it is performed frequently with knowledgeable review and adjustments, and most hospitalized patients with diabetes are treated with insulin. Moderate (41 to 70 mg/dL) and severe (< 40 mg/dL) hypoglycemia is common in hospitalized patients with diabetes, including older patients, and hypoglycemia increases length of hospital stay and mortality. In older patients with T2D in LTCFs, an RCT found similar hypoglycemia frequency between oral agents and basal insulin, suggesting a low daily basal insulin dose is sufficient to achieve reasonable and safe glycemia, and patients with T1D in institutional settings should never be left without insulin. In general surgery patients with T2D, a randomized multicenter trial comparing basal-bolus insulin with glargine once daily and glulisine before meals (n = 104) to sliding scale regular insulin four times daily (n = 107) showed basal-bolus insulin improved glycemic control and significantly reduced hospital complications.
 
 ---
 
-### Inpatient glycemic control with sliding scale insulin in noncritical patients with type 2 diabetes: who can slide? [^71d4c17c]. Journal of Hospital Medicine (2021). Medium credibility.
+### Inpatient glycemic control with sliding scale insulin in noncritical patients with type 2 diabetes: who can slide? [^113um4fM]. Journal of Hospital Medicine (2021). Medium credibility.
 
 Objective
 
@@ -367,7 +367,7 @@ Most non-intensive care unit patients with admission BG < 180 mg/dL treated with
 
 ---
 
-### Glycemic control in medical inpatients with type 2 diabetes mellitus receiving sliding scale insulin regimens versus routine diabetes medications: a multicenter randomized controlled trial [^e52a76ec]. Annals of Family Medicine (2004). Low credibility.
+### Glycemic control in medical inpatients with type 2 diabetes mellitus receiving sliding scale insulin regimens versus routine diabetes medications: a multicenter randomized controlled trial [^116rkRoy]. Annals of Family Medicine (2004). Low credibility.
 
 Purpose
 
@@ -387,13 +387,13 @@ The use of the sliding scale insulin regimen in combination with routine diabete
 
 ---
 
-### Older adults: standards of care in diabetes – 2025 [^84c561d1]. Diabetes Care (2025). High credibility.
+### Older adults: standards of care in diabetes – 2025 [^114PqfWg]. Diabetes Care (2025). High credibility.
 
 Older adults with diabetes — treatment strategy definitions specify that treatment plan simplification refers to changing strategy to decrease the complexity of a medication plan (e.g., fewer administration times and fewer blood glucose checks) and decreasing the need for calculations (such as sliding-scale insulin calculations or insulin-carbohydrate ratio calculations), while deintensification/deprescribing refers to decreasing the dose or frequency of administration of a treatment or discontinuing a treatment altogether.
 
 ---
 
-### Brazilian guidelines on prevention of cardiovascular disease in patients with diabetes: a position statement from the Brazilian diabetes society (SBD), the Brazilian cardiology society (SBC) and the Brazilian endocrinology and metabolism society (SBEM) [^75ea783c]. Diabetology & Metabolic Syndrome (2017). Low credibility.
+### Brazilian guidelines on prevention of cardiovascular disease in patients with diabetes: a position statement from the Brazilian diabetes society (SBD), the Brazilian cardiology society (SBC) and the Brazilian endocrinology and metabolism society (SBEM) [^1141pJou]. Diabetology & Metabolic Syndrome (2017). Low credibility.
 
 16. A basal plus bolus correction insulin regimen (a strategy using multiple doses of long- and short-acting insulins) is a reasonable option for correcting hyperglycemia in hospitalized, non-critically ill diabetic patients. [IIa, B] The use of sliding-scale insulin in the inpatient hospital setting is discouraged. [III, C]
 
@@ -413,7 +413,7 @@ Metformin has a favorable efficacy and safety profile, with important metabolic 
 
 ---
 
-### Hospital management of hyperglycemia in the context of COVID-19: evidence-based clinical considerations [^ffaa2cda]. Diabetology & Metabolic Syndrome (2022). Medium credibility.
+### Hospital management of hyperglycemia in the context of COVID-19: evidence-based clinical considerations [^117Y319B]. Diabetology & Metabolic Syndrome (2022). Medium credibility.
 
 Therapeutic strategies in hospitalized patients with T2D or no previous diabetes
 
@@ -429,7 +429,7 @@ More intensive BG monitoring and supportive therapy to reduce the risk of metabo
 
 ---
 
-### Pathways to quality inpatient management of hyperglycemia and diabetes: a call to action [^5d5ca5ee]. Diabetes Care (2013). Low credibility.
+### Pathways to quality inpatient management of hyperglycemia and diabetes: a call to action [^113PQy97]. Diabetes Care (2013). Low credibility.
 
 Sliding scale versus nutritional/correctional scheduled insulin administration
 
@@ -445,7 +445,7 @@ Additional well-designed comparative effectiveness RCTs, similar to the RABBIT s
 
 ---
 
-### Efficacy and safety of intensive versus nonintensive supplemental insulin with a basal-bolus insulin regimen in hospitalized patients with type 2 diabetes: a randomized clinical study [^08d9b7c5]. Diabetes Care (2022). Medium credibility.
+### Efficacy and safety of intensive versus nonintensive supplemental insulin with a basal-bolus insulin regimen in hospitalized patients with type 2 diabetes: a randomized clinical study [^111E82jv]. Diabetes Care (2022). Medium credibility.
 
 Objective
 
@@ -465,7 +465,7 @@ Among non-ICU patients with type 2 diabetes on optimal basal-bolus insulin regim
 
 ---
 
-### 70 / 30 insulin algorithm versus sliding scale insulin [^00cde25d]. The Annals of Pharmacotherapy (2005). Low credibility.
+### 70 / 30 insulin algorithm versus sliding scale insulin [^1112C9wz]. The Annals of Pharmacotherapy (2005). Low credibility.
 
 Background
 
@@ -489,7 +489,7 @@ Glycemic control with the 70/30 insulin algorithm was superior to traditional SS
 
 ---
 
-### EADSG guidelines: insulin therapy in diabetes [^256adefc]. Diabetes Therapy (2018). Low credibility.
+### EADSG guidelines: insulin therapy in diabetes [^111xUSSf]. Diabetes Therapy (2018). Low credibility.
 
 Treatment for Non-critically Ill Patients
 
@@ -515,7 +515,7 @@ Perioperative management in T1DM and T2DM patients. I/G insulin–glucose infusi
 
 ---
 
-### Comparison of weight-based insulin titration (WIT) and glucose-based insulin titration using basal-bolus algorithm in hospitalized patients with type 2 diabetes: a multicenter, randomized, clinical study [^b95e0c94]. BMJ Open Diabetes Research & Care (2020). High credibility.
+### Comparison of weight-based insulin titration (WIT) and glucose-based insulin titration using basal-bolus algorithm in hospitalized patients with type 2 diabetes: a multicenter, randomized, clinical study [^115jpJMq]. BMJ Open Diabetes Research & Care (2020). High credibility.
 
 Introduction
 
@@ -529,25 +529,25 @@ Previously, we have designed a weight-based titration algorithm for long-acting 
 
 ---
 
-### Bariatric surgery, exercise, and inpatient glycemia treatment: the American diabetes association's 57th annual advanced postgraduate course [^1fb7a52d]. Diabetes Care (2010). Low credibility.
+### Bariatric surgery, exercise, and inpatient glycemia treatment: the American diabetes association's 57th annual advanced postgraduate course [^111p2JS8]. Diabetes Care (2010). Low credibility.
 
 What of patients outside critical care units? Hyperglycemia is associated with increase in mortality, and this is particularly so for those with new-onset hyperglycemia rather than for patients with established diabetes. During exacerbation of chronic obstructive lung disease, a stepwise increase in adverse outcome has been seen at glucose levels of < 108, 108–124, 125–160, and > 160 mg/dl. We need, then, to "identify reasonable, achievable, and safe glucose targets". A reasonable recommendation is that of the American Association of Clinical Endocrinologists and American Diabetes Association consensus statement on inpatient glycemic control, aiming for levels of 140–180 mg/dl in general and 110–140 mg/dl in cardiothoracic intensive care unit patients, with 100–140 mg/dl premeal and other levels < 180 mg/dl. Hospital hyperglycemia is currently being defined as any glucose > 140, with stress hyperglycemia refering to elevated glucose in patients without prior history of diabetes, for which one may use A1C < 6.5% in screening (with appropriate cautions as to factors affecting A1C). Hypoglycemia is defined as < 70 mg/dl and severe hypoglycemia < 40 mg/dl. "How", Korytkowski asked, "do we get there safely?" In non–critically ill patients, insulin is preferred as scheduled basal-bolus therapy with correctional components rather than treatment with sliding-scale insulin. Insulin is preferred because sulfonylureas cause hypoglycemia, particularly with variable meals, metformin is often contraindicated, thiazolidinediones cause edema and heart failure and require weeks to months for onset of glycemic action, α-glucosidase inhibitors are relatively weak, and pramlintide and glucagon-like peptide-1 agonists can cause nausea and exert greater postprandial effect. An approach is to institute treatment with a total daily dose of 0.2–0.4 units/kg body wt, with 50–60% as basal insulin, using correction insulin for glucose levels above goal and adjusting according to results of bedside glucose monitoring. Such regimens lead to better mean glycemia without increase in hypoglycemia compared with sliding scale–only treatment approaches, and the use of insulin analogs leads to less hypoglycemia than do human and NPH insulin.
 
 ---
 
-### Guidelines abstracted from the American Geriatrics Society guidelines for improving the care of older adults with diabetes mellitus: 2013 update [^9d78ab76]. Journal of the American Geriatrics Society (2013). Medium credibility.
+### Guidelines abstracted from the American Geriatrics Society guidelines for improving the care of older adults with diabetes mellitus: 2013 update [^1152Tb5f]. Journal of the American Geriatrics Society (2013). Medium credibility.
 
 Diabetes mellitus (DM) in older adults — antihyperglycemic medications: If an older adult is prescribed an oral antidiabetic agent, metformin, unless contraindicated, is the preferred first-line agent in combination with lifestyle therapy (IA). After the use of metformin, glucose-lowering medication therapy should be individualized, sulfonylureas have been associated with greater risk of hypoglycemia and the risk increases with age, glyburide should generally not be prescribed to older adults with type 2 DM because of the high risk of hypoglycemia, and chlorpropamide should be avoided; expert opinion supports the safety of insulin use with DM education, careful monitoring, and ongoing cognitive assessment and suggests the elimination of insulin sliding scale in nursing homes. Despite concern about lactic acidosis with metformin, recent data suggest that the risk is low.
 
 ---
 
-### Defining the role of basal and prandial insulin for optimal glycemic control [^b31dd19e]. Journal of the American College of Cardiology (2009). Low credibility.
+### Defining the role of basal and prandial insulin for optimal glycemic control [^115aYoMw]. Journal of the American College of Cardiology (2009). Low credibility.
 
 Type 2 diabetes mellitus is a progressive disease characterized by early impairment of beta-cell function and ultimately loss of beta-cell mass. Hence, a single daily injection of a long-acting insulin is commonly initiated after intensification of oral antihyperglycemic therapy. Hemoglobin A1C should be measured every 3 months and therapy adjusted if the target is not met. As beta-cell function continues to decline, it is often necessary to add exogenous bolus insulin therapy, using short-acting insulin analogs or regular insulin. Alternatively, the use of pre-mixed insulin preparations, combining both long-acting and short-acting insulins, may be used.
 
 ---
 
-### Executive summary: standards of medical care in diabetes – 2009 [^79962cbd]. Diabetes Care (2009). Low credibility.
+### Executive summary: standards of medical care in diabetes – 2009 [^1147Fwjr]. Diabetes Care (2009). Low credibility.
 
 Diabetes Care in the Hospital
 
@@ -564,7 +564,7 @@ Patients with hyperglycemia in the hospital who do not have a diagnosis of diabe
 
 ---
 
-### Eliminating inpatient sliding-scale insulin: a reeducation project with medical house staff [^5177a48e]. Diabetes Care (2005). Low credibility.
+### Eliminating inpatient sliding-scale insulin: a reeducation project with medical house staff [^1135nBf3]. Diabetes Care (2005). Low credibility.
 
 Objective
 
@@ -584,13 +584,13 @@ Medical history, blood glucose, and HbA(1c) testing can effectively identify pat
 
 ---
 
-### Glucose control in hospitalized patients [^a9d88ffe]. American Family Physician (2010). Low credibility.
+### Glucose control in hospitalized patients [^115Loebw]. American Family Physician (2010). Low credibility.
 
 Evidence indicates that hospitalized patients with hyperglycemia do not benefit from tight blood glucose control. Maintaining a blood glucose level of less than 180 mg per dL (9.99 mmol per L) will minimize symptoms of hyperglycemia and hypoglycemia without adversely affecting patient-oriented health outcomes. In the absence of modifying factors, physicians should continue patients' at-home diabetes mellitus medications and randomly check glucose levels once daily. Sulfonylureas should be withheld to avoid hypoglycemia in patients with limited caloric intake. Patients with cardiovascular conditions may benefit from temporarily stopping treatment with thiazolidinediones to avoid precipitating heart failure. Metformin should be temporarily withheld in patients who have worsening renal function or who will undergo an imaging study that uses contrast. When patients need to be treated with insulin in the short term, using a long-acting basal insulin combined with a short-acting insulin before meals (with the goal of keeping blood glucose less than 180 mg per dL) better approximates normal physiology and uses fewer nursing resources than sliding-scale insulin approaches. Most studies have found that infusion with glucose, insulin, and potassium does not improve mortality in patients with acute myocardial infarction. Patients admitted with acute myocardial infarction should have moderate control of blood glucose using home regimens or basal insulin with correctional doses.
 
 ---
 
-### Inpatient management of diabetic foot disorders: a clinical guide [^da248d1c]. Diabetes Care (2013). Low credibility.
+### Inpatient management of diabetic foot disorders: a clinical guide [^116aQaWX]. Diabetes Care (2013). Low credibility.
 
 Insulin is the preferred agent for reducing glucose levels in hospitalized patients. In patients with increased insulin resistance, such as those with sepsis, infection, or in the perioperative period, insulin needs are often greatly increased even in the presence of reduced or absent caloric intake. There is strong evidence that the use of sliding scale insulin regimens as monotherapy without basal insulin, is inappropriate and leads to poorer outcomes and increased hyperglycemia. Either basal/bolus insulin algorithms with supplemental or correction doses of intravenous insulin (i.e. sliding scale) may be required. In some cases the use of continuous, variable insulin infusions with appropriate algorithms are most appropriate, particularly with critically ill patients, those in the perioperative period, and in some patients with uncertain oral intake or very variable or large insulin requirements.
 
@@ -606,7 +606,7 @@ In each case, 50% of the insulin should be given as long-acting insulin as a bas
 
 ---
 
-### American Association of Clinical Endocrinologists and American diabetes association consensus statement on inpatient glycemic control [^3ea6c983]. Diabetes Care (2009). Low credibility.
+### American Association of Clinical Endocrinologists and American diabetes association consensus statement on inpatient glycemic control [^112btFkN]. Diabetes Care (2009). Low credibility.
 
 Subcutaneously administered insulin
 
@@ -620,25 +620,25 @@ Noninsulin agents are inappropriate in most hospitalized patients. Continued use
 
 ---
 
-### Spectro-spatial features in distributed human intracranial activity proactively encode peripheral metabolic activity [^08e6fc82]. Nature Communications (2023). High credibility.
+### Spectro-spatial features in distributed human intracranial activity proactively encode peripheral metabolic activity [^111ECVER]. Nature Communications (2023). High credibility.
 
 Predictive capabilities of blood glucose levels hours holds potential for augmenting current closed-loop insulin controllers for diabetes management, if our findings hold true for diabetic patients. One of the disadvantages of current implementation of closed-loop controllers (and sliding-scale insulin regimens used inpatient) is that they are reactive to currently measured glucose. Playing "catch-up" with boluses of fast-acting insulin is typically inferior to basal-bolus regimens which use a combination of long-acting basal insulin with correctional boluses of fast-acting insulin. However, optimal dosing of long-acting basal insulin takes weeks of close follow-up. This makes it difficult to achieve optimal glucose control in the outpatient setting and impractical in the inpatient setting. Being able to predict glucose proactively hours in advance, as demonstrated here, could potentially enable the use of long-acting basal insulin in closed-loop controllers to achieve tighter glucose control. Future studies in patients with diabetes mellitus will be needed to evaluate if similar findings observed here can be replicated when glucose homeostasis is already disturbed.
 
 ---
 
-### Joint SNMMI-ASNC expert consensus document on the role ofF-FDG PET / CT in cardiac sarcoid detection and therapy monitoring [^9fa01fba]. Journal of Nuclear Cardiology (2017). Medium credibility.
+### Joint SNMMI-ASNC expert consensus document on the role ofF-FDG PET / CT in cardiac sarcoid detection and therapy monitoring [^1155epGq]. Journal of Nuclear Cardiology (2017). Medium credibility.
 
 Expert panel recommendations — preparation of diabetic patients for 18F-FDG PET in cardiac sarcoidosis: The optimal preparation for diabetic patients has not been defined, and we currently recommend use of the above preparation whenever possible. Patients with type 1 diabetes should continue basal insulin, avoiding or minimizing rapid-acting insulin if safe to do so, and sliding-scale rapid-acting insulin may be necessary the day before the study but should be avoided the day of the study. Patients with type 2 diabetes should not take oral agents or noninsulin injections while fasting or on the morning of the test, and insulin should also be avoided or reduced as much as possible if safe to do so. In view of the limited data on preparing diabetic patients, the approach must currently be individualized.
 
 ---
 
-### Common standards of basal insulin titration in type 2 diabetes [^dc6a867a]. Journal of Diabetes Science and Technology (2013). Low credibility.
+### Common standards of basal insulin titration in type 2 diabetes [^116dn4H7]. Journal of Diabetes Science and Technology (2013). Low credibility.
 
 Type 2 diabetes mellitus has become a worldwide major health problem, and the number of people affected is steadily increasing. Thus, not all patients suffering from the disease can be treated by specialized diabetes centers or outpatient clinics, but by primary care physicians. The latter, however, might have time constraints and have to deal with many kinds of diseases or with multimorbid patients, so their focus is not so much on lowering high blood glucose values. Thus, the physicians, as well as the patients themselves, are often reluctant to initiate and adjust insulin therapy, although basal insulin therapy is considered the appropriate strategy after oral antidiabetic drug failure, according to the latest international guidelines. A substantial number of clinical studies have shown that insulin initiation and optimization can be managed successfully by using titration algorithms-even in cases where patients themselves are the drivers of insulin titration. Nevertheless, tools and strategies are needed to facilitate this process in the daily life of both primary health care professionals and patients with diabetes.
 
 ---
 
-### Basal insulin intensification in patients with type 2 diabetes: a review [^dd5fae4b]. Diabetes Therapy (2018). Low credibility.
+### Basal insulin intensification in patients with type 2 diabetes: a review [^116fCQHx]. Diabetes Therapy (2018). Low credibility.
 
 Beyond Basal Insulin
 
@@ -648,7 +648,7 @@ Efforts to improve lifestyle, however, should not delay changes in therapy; such
 
 ---
 
-### Efficacy of a new protocol of premixed 70 / 30 human insulin in Haitian youth with diabetes [^8970c1c5]. Diabetes Therapy (2021). Medium credibility.
+### Efficacy of a new protocol of premixed 70 / 30 human insulin in Haitian youth with diabetes [^114WmBHn]. Diabetes Therapy (2021). Medium credibility.
 
 A sliding scale was provided to all patients according to their randomization and TDD. For patients in G70, the front side displayed insulin correction doses (ICD) for different BG ranges (see Table 1) and were used to adjust or determine the 70/30 insulin doses shown in Table 2 when applicable (meal skipped and BG measure missed, or mid-day BG, when performed, > 240 mg/dL). The other cases were based on a retrospective algorithm (planned dose). For patients in GNR, the front side of the sliding scale displayed the ICD (Table 1) and the pre-meal insulin R doses (ICD + MID) related to 60 g of CHO for different BG ranges. However, adjustment of the twice-daily doses of NPH insulin was based on a retrospective algorithm (planned dose). Additional instructions were provided on pre-meal insulin R dose adjustment for estimated CHO loads other than 60 g. The corresponding part (G70 or GNR) of Table 2 was positioned on the back of the sliding scales to determine insulin doses based on the presence of pre-meal BG tests and meals.
 
@@ -672,13 +672,13 @@ SMBG and insulin were routinely administered before morning and evening meals. T
 
 ---
 
-### Perioperative management of diabetes [^e18f8d4b]. American Family Physician (2003). Low credibility.
+### Perioperative management of diabetes [^116mQS2N]. American Family Physician (2003). Low credibility.
 
 Maintaining glycemic and metabolic control is difficult in diabetic patients who are undergoing surgery. The preoperative evaluation of all patients with diabetes should include careful screening for asymptomatic cardiac or renal disease. Frequent self-monitoring of glucose levels is important in the week before surgery so that insulin regimens can be adjusted as needed. Oral agents and long-acting insulin are usually discontinued before surgery, although the newer long-acting insulin analog glargine may be appropriately administered for basal insulin coverage throughout the surgical period. The usual regimen of sliding scale subcutaneous insulin for perioperative glycemic control may be a less preferable method because it can have unreliable absorption and lead to erratic blood glucose levels. Intravenous insulin infusion offers advantages because of the more predictable absorption rates and ability to rapidly titrate insulin delivery up or down to maintain proper glycemic control. Insulin is typically infused at 1 to 2 U per hour and adjusted according to the results of frequent blood glucose checks. A separate infusion of dextrose prevents hypoglycemia. Potassium is usually added to the dextrose infusion at 10 to 20 mEq per L in patients with normal renal function and normal preoperative serum potassium levels. Frequent monitoring of electrolytes and acid-base status is important during the perioperative period, especially in patients with type 1 diabetes because ketoacidosis can develop at modest levels of hyperglycemia.
 
 ---
 
-### The effort required to achieve and maintain optimal glycemic control [^fce4a7d3]. Journal of Diabetes and Its Complications (2011). Low credibility.
+### The effort required to achieve and maintain optimal glycemic control [^117Tvgav]. Journal of Diabetes and Its Complications (2011). Low credibility.
 
 Background
 
@@ -698,7 +698,7 @@ Considerable effort was required to maintain optimal A1C levels in older patient
 
 ---
 
-### In-hospital management of hyperglycemia: the role of insulin degludec [^2db3dd4c]. Diabetes Therapy (2025). Medium credibility.
+### In-hospital management of hyperglycemia: the role of insulin degludec [^112Akriw]. Diabetes Therapy (2025). Medium credibility.
 
 Insulin remains the cornerstone of hyperglycemia management in hospitals, with basal–bolus regimens being the preferred approach. This regimen combines basal insulin, which provides continuous glucose control, with prandial (mealtime) and correction insulin to address postprandial spikes. The American Diabetes Association (ADA) 2025 guidelines recommend a basal insulin or basal plus bolus correction insulin regimen for noncritically ill hospitalized patients with poor oral intake or those with no oral consumption or oral intake restrictions. An insulin regimen with basal, prandial, and correction components is the preferred treatment for most noncritically ill hospitalized patients with adequate nutritional intake. Notably, the use of sliding scale insulin (SSI) without basal insulin is discouraged. Similarly, the Research Society for the Study of Diabetes in India (RSSDI) 2022 guidelines recommend using a basal–bolus regimen for patients undergoing surgery.
 
@@ -708,7 +708,7 @@ Long-acting insulins in a basal–bolus regimen play a vital role in managing hy
 
 ---
 
-### Insulin matters: a practical approach to basal insulin management in type 2 diabetes [^3bd6a32b]. Diabetes Therapy (2018). Low credibility.
+### Insulin matters: a practical approach to basal insulin management in type 2 diabetes [^112XiN6n]. Diabetes Therapy (2018). Low credibility.
 
 Conclusion
 
@@ -720,7 +720,7 @@ This article is based on previously conducted studies and does not contain any s
 
 ---
 
-### Prevalence of diabetes medication intensifications in older adults discharged from US veterans health administration hospitals [^5987cf40]. JAMA Network Open (2020). High credibility.
+### Prevalence of diabetes medication intensifications in older adults discharged from US veterans health administration hospitals [^113HjWs9]. JAMA Network Open (2020). High credibility.
 
 Discussion
 
@@ -730,7 +730,7 @@ In the hospital setting, many factors may cause blood glucose levels to fluctuat
 
 ---
 
-### Treat-to-target insulin titration algorithms when initiating long or intermediate acting insulin in type 2 diabetes [^6d150e3e]. Journal of Diabetes Science and Technology (2007). Low credibility.
+### Treat-to-target insulin titration algorithms when initiating long or intermediate acting insulin in type 2 diabetes [^113niiv1]. Journal of Diabetes Science and Technology (2007). Low credibility.
 
 Background
 
@@ -750,37 +750,37 @@ The recent introduction of rigorously implemented insulin titration algorithms w
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^236ca21d]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^111uX4DA]. Endocrine Practice (2023). High credibility.
 
 Prandial insulin dose adjustment — hyperglycemia: For pre-midday meal glucose > 110 mg/dL, increase the morning meal dose by 10% to 20%; for pre-evening glucose > 140 mg/dL, increase the midday meal dose by 10% to 20%; and for bedtime glucose > 140 mg/dL, increase the pre-evening meal dose by 10%. Fixed-dose insulin can be titrated by 2 units every 2 to 3 days relying on the morning FBG because of the presence of basal insulin.
 
 ---
 
-### Adjust to target in type 2 diabetes: comparison of a simple algorithm with carbohydrate counting for adjustment of mealtime insulin glulisine [^2475dbc9]. Diabetes Care (2008). Low credibility.
+### Adjust to target in type 2 diabetes: comparison of a simple algorithm with carbohydrate counting for adjustment of mealtime insulin glulisine [^111w49DS]. Diabetes Care (2008). Low credibility.
 
 In summary, having two effective approaches to deliver and adjust rapid-acting mealtime insulin (a simple algorithm and insulin-to-carbohydrate ratio) may increase patients' and clinicians' willingness to undertake basal:bolus insulin therapy, a step that is often needed to achieve optimal glucose control in type 2 diabetes.
 
 ---
 
-### Glucose management in hospitalized patients [^58a7e294]. American Family Physician (2017). Low credibility.
+### Glucose management in hospitalized patients [^113GSJTu]. American Family Physician (2017). Low credibility.
 
 Glucose management in hospitalized patients poses challenges to physicians, including identifying blood glucose targets, judicious use of oral diabetes mellitus medications, and implementing appropriate insulin regimens. Uncontrolled blood glucose levels can lead to deleterious effects on wound healing, increased risk of infection, and delays in surgical procedures or discharge from the hospital. Previously recommended strict blood glucose targets for hospitalized patients result in more cases of hypoglycemia without improvement in patient outcomes. The current target is 140 to 180 mg per dL. Use of oral diabetes medications, particularly metformin, in hospitalized patients is controversial. Multiple guidelines recommend stopping these medications at admission because of inpatient factors that can increase the risk of renal or hepatic failure. However, oral diabetes medications have important nonglycemic benefits and reduce the risk of widely fluctuating blood glucose levels. There is no proven risk of lactic acidosis from metformin in patients with normal kidney function, and it can be used safely in many hospitalized patients with diabetes. Insulin dosing depends on the patient's previous experience with insulin, baseline diabetes control, and renal function. Other considerations include the patient's current oral intake, comorbidities, and other medications. Many patients can be managed using only a basal insulin dose, whereas others benefit from additional short-acting premeal doses. Historically, sliding scale insulin regimens have been used, but they have no proven benefit, increase the risk of hypoglycemia and large fluctuations in blood glucose levels, and are not recommended. Discharge planning is an important opportunity to address diabetes control, medication adherence, and outpatient follow-up.
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^d0553d03]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^116Ks4CA]. Endocrine Practice (2022). High credibility.
 
 Recommendation 12.2.17 — intensive insulin therapy options state that basal–bolus insulin regimens or CSII (ie, insulin pump) allow for adjustment of insulin doses according to carbohydrate intake and activity levels and are recommended for intensive insulin therapy in persons with T2D (Grade B; BEL 1).
 
 ---
 
-### A practical approach and algorithm for intensifying beyond basal insulin in type 2 diabetes [^acd08074]. Diabetes, Obesity & Metabolism (2018). Low credibility.
+### A practical approach and algorithm for intensifying beyond basal insulin in type 2 diabetes [^115RCuQw]. Diabetes, Obesity & Metabolism (2018). Low credibility.
 
 Despite the availability of long-term data demonstrating the benefits of timely and aggressive intensification of antihyperglycaemic regimens among individuals with type 2 diabetes, intensification beyond basal insulin continues to be suboptimal and a global challenge. This review summarizes the evidence surrounding the various options of advancing glucose-lowering management beyond basal insulin and provides a practical algorithm to assist in optimizing patient care and enhancing glycaemic target achievements.
 
 ---
 
-### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^a0cd4a96]. Diabetes Care (2012). Low credibility.
+### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^1157PyVF]. Diabetes Care (2012). Low credibility.
 
 Although extensive dosing instructions for insulin are beyond the scope of this statement, most patients can be taught to uptitrate their own insulin dose based on several algorithms, each essentially involving the addition of a small dose increase if hyperglycemia persists. For example, the addition of 1–2 units (or, in those already on higher doses, increments of 5–10%) to the daily dose once or twice weekly if the fasting glucose levels are above the preagreed target is a reasonable approach. As the target is neared, dosage adjustments should be more modest and occur less frequently. Downward adjustment is advisable if any hypoglycemia occurs. During self-titration, frequent contact (telephone, e-mail) with the clinician may be necessary. Practitioners themselves can, of course, also titrate basal insulin, but this would involve more intensive contact with the patient than typically available in routine clinical practice. Daily self-monitoring of blood glucose is of obvious importance during this phase. After the insulin dose is stabilized, the frequency of monitoring should be reviewed.
 
@@ -788,7 +788,7 @@ Consideration should be given to the addition of prandial or mealtime insulin co
 
 ---
 
-### Efficacy of a new protocol of premixed 70 / 30 human insulin in Haitian youth with diabetes [^c2cfb9e1]. Diabetes Therapy (2021). Medium credibility.
+### Efficacy of a new protocol of premixed 70 / 30 human insulin in Haitian youth with diabetes [^115ypNW4]. Diabetes Therapy (2021). Medium credibility.
 
 Our findings suggest that in our population of youth who reside in a resource-limited, food-insecure setting, the use of sliding scales adjusted for missed SMBG and skipped meals can be a key factor in achieving better glycemic control, without severe hypoglycemia, at least in patients treated with premixed 70/30 human insulin. The beneficial effect was achieved in the presence of a minimum but essential clinical support package that included two rather than one clinic visits per month and a moderate increase in the length of each visit for better self-management education. In resource-limited settings where children and adolescents are considered autonomous at a much younger age and patients' families have a lower education level, these findings can provide important information to diabetes care teams who are often called upon to substitute for families in terms of providing the required care support to youth with diabetes. Further, healthcare providers may encourage the transfer from a self-mixed regimen to a premixed one when the former appears to be a factor contributing to poor treatment adherence.
 
@@ -796,25 +796,25 @@ Our study has a number of limitations. The small size of the sample and the shor
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^9ad9f5bd]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^114xaJbn]. Endocrine Practice (2022). High credibility.
 
 AACE 2022 — insulin initiation and titration in type 2 diabetes: Start basal (long-acting) insulin with A1C < 8% at 0.1 to 0.2 units/kg and with A1C ≥ 8% at 0.2 to 0.3 units/kg; consider discontinuing sulfonylurea (SU) therapy, basal analogs preferred over Neutral Protamine Hagedorn (NPH), and bedtime dose preferred. Titrate using a fixed regimen to increase by 2 units/d to reach glycemic goals, and monitor for hypoglycemia with dose reductions as follows: for blood glucose (BG) < 70 mg/dL reduce by 10% to 20% and for BG < 60 mg/dL reduce by 20% to 40%. For most persons with type 2 diabetes (T2D) taking insulin, glucose goals are A1C < 7% and fasting and premeal blood glucose < 110 mg/dL in the absence of hypoglycemia.
 
 ---
 
-### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^2589153b]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
+### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^111xeb22]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
 Clinical question on CGM for multiple daily injections in type 1 diabetes — the guideline poses the question, "Should continuous glucose monitoring vs self-monitoring of blood glucose be used for people with type 1 diabetes receiving multiple daily injections?" and notes in background that most individuals with T1D do not meet recommended glycemic targets.
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^070322b9]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^111BPy4U]. Endocrine Practice (2023). High credibility.
 
 AACE 2023 type 2 diabetes algorithm — glycemic targets and CGM metrics specify that for most patients an A1C of ≤ 6.5% should be targeted, which may require fasting plasma glucose (FPG) < 110 mg/dL and 2-hour postprandial glucose < 140 mg/dL; in continuous glucose monitoring (CGM), it is recommended that time in range (TIR; glucose range 70–180 mg/dL) be > 70% with time below range < 4% for < 70 mg/dL and < 1% for < 54 mg/dL; clinicians should get to goal as soon as possible (adjust ≤ 3 months), and hypoglycemia is defined as blood glucose < 70 mg/dL.
 
 ---
 
-### Best practices and tools for titrating basal insulins: expert opinion from an Indian panel via the modified Delphi consensus method [^0fb1750f]. Diabetes Therapy (2020). Medium credibility.
+### Best practices and tools for titrating basal insulins: expert opinion from an Indian panel via the modified Delphi consensus method [^111QGRNe]. Diabetes Therapy (2020). Medium credibility.
 
 Profile of Basal Insulin for Titration
 
@@ -824,19 +824,19 @@ Hypoglycemia during the first 3 months of basal insulin therapy is a predictor f
 
 ---
 
-### ACOG practice bulletin no. 201: pregestational diabetes mellitus [^8f5c57ee]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 201: pregestational diabetes mellitus [^114fYFJ5]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Postpartum insulin adjustment in pregestational diabetes — insulin requirements decrease rapidly after delivery; one third to one half of the predelivery dose of intermediate or long-acting insulin should be started after delivery as basal insulin and, after starting regular food intake, one third to one half of the short or rapid acting insulin dosages can be started as well. For women on insulin pumps, the continuous basal infusion generally should be reduced by approximately 50% to avoid hypoglycemic episodes.
 
 ---
 
-### Pharmacologic approaches to glycemic treatment: standards of care in diabetes – 2025 [^947acfb5]. Diabetes Care (2025). High credibility.
+### Pharmacologic approaches to glycemic treatment: standards of care in diabetes – 2025 [^114o8RGQ]. Diabetes Care (2025). High credibility.
 
 Type 2 diabetes — basal insulin initiation and titration: Initiation and titration of basal analog or bedtime NPH insulin specify to start 10 units per day OR 0.1–0.2 units/kg per day, then increase 2 units every 3 days to reach FPG goal without hypoglycemia, and for hypoglycemia determine cause; if no clear reason, lower dose by 10–20%. Assess adequacy of insulin dose at every visit.
 
 ---
 
-### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^ae6f8169]. Diabetes Care (2012). Low credibility.
+### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^115TcJLY]. Diabetes Care (2012). Low credibility.
 
 Initial drug therapy.
 
@@ -844,13 +844,13 @@ It is generally agreed that metformin, if not contraindicated and if tolerated, 
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^5a402152]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^113JoRih]. Endocrine Practice (2023). High credibility.
 
 Basal insulin titration — frequency and fasting target: Basal insulin should be titrated every 2 to 3 days to reach glycemic targets with a goal fasting blood glucose (FBG) of < 110 mg/dL without hypoglycemia, and because of the longer half-life of insulin degludec, slower titration every 3 to 5 days is recommended.
 
 ---
 
-### Randomized study comparing a basal-bolus with a basal plus correction insulin regimen for the hospital management of medical and surgical patients with type 2 diabetes: basal plus trial [^33462c33]. Diabetes Care (2013). Low credibility.
+### Randomized study comparing a basal-bolus with a basal plus correction insulin regimen for the hospital management of medical and surgical patients with type 2 diabetes: basal plus trial [^112K1wSr]. Diabetes Care (2013). Low credibility.
 
 Patients were randomized according a 2:2:1 ratio to one of three regimens: a basal-bolus regimen with insulin glargine given once daily and glulisine before meals plus corrective doses of glulisine by sliding scale for BG > 140 mg/dL (Lantus and Apidra; Sanofi), a basal plus regimen with a daily dose of glargine and corrective doses of glulisine by sliding scale before meals for BG > 140 mg/dL, or SSI for BG > 140 mg/dL (Novolin R; Novo Nordisk). Patients in the basal-bolus group were started at a total daily dose (TDD) of 0.5 units/kg divided with half as insulin glargine once daily and half as insulin glulisine before meals. Patients in the basal plus group received 0.25 units/kg of glargine plus corrective doses of glulisine before meals. In patients ≥ 70 years of age and those with a serum creatinine ≥ 2.0 mg/dL, the starting TDD in the basal-bolus group was reduced to 0.3 units/kg in the basal-bolus, and TDD of glargine was reduced to 0.15 units/kg in the basal plus regimen. The goal of insulin therapy was to maintain fasting and premeal glucose concentrations between 100 and 140 mg/dL. The doses of insulin were adjusted daily according to protocol. During treatment, treatment failure was arbitrarily defined as a mean daily BG level > 240 mg/dL or two consecutive values > 240 mg/dL. In case of treatment failure, patients in the basal plus and SSI groups were switched to a basal-bolus regimen starting at a TDD of 0.5 units/kg.
 
@@ -858,7 +858,7 @@ This study was conducted at Grady Memorial Hospital, Emory University Hospital, 
 
 ---
 
-### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^00652fa9]. Diabetes Care (2012). Low credibility.
+### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^1111azGQ]. Diabetes Care (2012). Low credibility.
 
 Transitions to and titrations of insulin.
 
@@ -869,13 +869,13 @@ Sequential insulin strategies in type 2 diabetes. Basal insulin alone is usually
 
 ---
 
-### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^2b09e597]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
+### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^1126onva]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
 
 Insulin therapy for type 2 diabetes (T2D) is usually initiated when oral agents do not provide sufficient glycemic control, and self-monitoring of blood glucose must be performed for insulin to be used safely and effectively. Initially, a single long-acting insulin analog can be added as basal insulin therapy with dose adjustment to maintain fasting glucose in the desired range. Insulin glargine U300 and insulin degludec, compared with insulin glargine U100, showed overall similar levels of glycemic control but with less variability and hypoglycemia. If fasting glucose is near goal but the HbA1c remains above goal, rapid-acting insulin can be added first prior to the largest meal and then prior to other meals as necessary. Premixed insulins given twice daily may be a simpler approach, but the lack of flexibility, especially in patients who may skip or delay meals, may increase the risk of hypoglycemia; moving from one to three or four injections per day increases regimen complexity, and assistive appliances such as insulin pens can be helpful. Fixed doses of GLP-1 receptor agonists with basal insulin — insulin degludec and liraglutide (IDegLira) or insulin glargine and lixisenatide (LixiLan) — are available in a single syringe so only one injection is needed; a low dose is started with gradual titration, and studies have reported excellent reduction in HbA1c with less hypoglycemia and weight loss compared with increased titration of basal insulin alone or intensification with basal/bolus insulin.
 
 ---
 
-### Safely converting an entire academic medical center from sliding scale to basal bolus insulin via implementation of the eGlycemic management system [^aa9c519a]. Journal of Diabetes Science and Technology (2018). Low credibility.
+### Safely converting an entire academic medical center from sliding scale to basal bolus insulin via implementation of the eGlycemic management system [^115MwQF3]. Journal of Diabetes Science and Technology (2018). Low credibility.
 
 Objective
 
@@ -895,13 +895,13 @@ Glycemic management improved with use of eGMS. The conversion from SSI to BBI en
 
 ---
 
-### The usage of a simplified self-titration dosing guideline (303 algorithm) for insulin detemir in patients with type 2 diabetes – results of the randomized, controlled PREDICTIVE 303 study [^6558e3f6]. Diabetes, Obesity & Metabolism (2007). Low credibility.
+### The usage of a simplified self-titration dosing guideline (303 algorithm) for insulin detemir in patients with type 2 diabetes – results of the randomized, controlled PREDICTIVE 303 study [^113bFcBw]. Diabetes, Obesity & Metabolism (2007). Low credibility.
 
 The Predictable Results and Experience in Diabetes through Intensification and Control to Target: An International Variability Evaluation 303 (PREDICTIVE 303) Study (n = 5604) evaluated the effectiveness of insulin detemir, a long-acting basal insulin analogue, using a simplified patient self-adjusted dosing algorithm (303 Algorithm group) compared with standard-of-care physician-driven adjustments (Standard-of-care group) in a predominantly primary care setting, over a period of 6 months. Insulin detemir was to be started once-daily as add-on therapy to any other glucose-lowering regimens or as a replacement of prestudy basal insulin in patients with type 2 diabetes. Investigator sites rather than individual patients were randomized to either the 303 Algorithm group or the Standard-of-care group. Patients from the 303 Algorithm group sites were instructed to adjust their insulin detemir dose every 3 days based on the mean of three 'adjusted' fasting plasma glucose (aFPG) values (capillary blood glucose calibrated to equivalent plasma glucose values) using a simple algorithm: mean aFPG < 80 mg/dl (< 4.4 mmol/l), reduce dose by 3 U; aFPG between 80 and 110 mg/dl (4.4–6.1 mmol/l), no change; and aFPG > 110 mg/dl (> 1.1 mmol/l), increase dose by 3 U. The insulin detemir dose for patients in the Standard-of-care group was adjusted by the investigator according to the standard of care. Mean A1C decreased from 8.5% at baseline to 7.9% at 26 weeks for the 303 Algorithm group and from 8.5 to 8.0% for the Standard-of-care group (p = 0.0106 for difference in A1C reduction between the two groups). Mean FPG values decreased from 175 mg/dl (9.7 mmol/l) at baseline to 141 mg/dl (7.8 mmol/l) for the 303 Algorithm group and decreased from 174 mg/dl (9.7 mmol/l) to 152 mg/dl (8.4 mmol/l) for the Standard-of-care group (p < 0.0001 for difference in FPG reduction between the two groups). Mean body weight remained the same at 26 weeks in both groups (change from baseline 0.1 and -0.2 kg for the 303 Algorithm group and the Standard-of-care group respectively). At 26 weeks, 91% of the patients in the 303 Algorithm group and 85% of the patients in the Standard-of-care group remained on once-daily insulin detemir administration. The rates of overall hypoglycaemia (events/patient/year) decreased significantly from baseline in both groups [from 9.05 to 6.44 for the 303 Algorithm group (p = 0.0039) and from 9.53 to 4.95 for the Standard-of-care group (p < 0.0001)]. Major hypoglycaemic events were rare in both groups (0.26 events/patient/year for the 303 Algorithm group and 0.20 events/patient/year for the Standard-of-care group; p = 0.2395). In conclusion, patients in the 303 Algorithm group achieved comparable glycaemic control with higher rate of hypoglycaemia as compared with patients in the Standard-of-care group, possibly because of more aggressive insulin dose adjustments. The vast majority of the patients in both groups were effectively treated with once-daily insulin detemir therapy. The use of insulin detemir in this predominantly primary care setting achieved significant improvements in glycaemic control with minimal risk of hypoglycaemia and no weight gain.
 
 ---
 
-### Update on the management of diabetes in long-term care facilities [^9c67a754]. BMJ Open Diabetes Research & Care (2022). High credibility.
+### Update on the management of diabetes in long-term care facilities [^114zstJF]. BMJ Open Diabetes Research & Care (2022). High credibility.
 
 Table 2
 Guideline recommendations for key clinical outcomes for older people with diabetes
@@ -914,7 +914,7 @@ Recent developments in antidiabetic drugs portfolio provide an opportunity to op
 
 ---
 
-### Development of insulin and its pharmacology and perioperative use: a narrative review [^7d19c363]. British Journal of Anaesthesia (2025). Medium credibility.
+### Development of insulin and its pharmacology and perioperative use: a narrative review [^114CU78n]. British Journal of Anaesthesia (2025). Medium credibility.
 
 Basal-bolus insulin regimen for inpatient glycaemic control
 
@@ -932,13 +932,13 @@ The original multicentre study described recruiting surgical and medical patient
 
 ---
 
-### Clinical decision support to improve management of diabetes and dysglycemia in the hospital: a path to optimizing practice and outcomes [^bef7788b]. BMJ Open Diabetes Research & Care (2021). High credibility.
+### Clinical decision support to improve management of diabetes and dysglycemia in the hospital: a path to optimizing practice and outcomes [^115t7mfY]. BMJ Open Diabetes Research & Care (2021). High credibility.
 
 We observed fewer cases of inappropriate use of SSI as monotherapy during the active period observed among type 1 and type 2 diabetes patients with recurrent hyperglycemia. However, in type 1 diabetes this did not retain statistical significance in the adjusted analysis likely due to the small absolute numbers. The count of gap in care events for inappropriate use of SSI as monotherapy among patient with stress hyperglycemia was larger during the active period. This CDS tool aimed to convey a sense of urgency by alerting providers about the risk for DKA in patients with type 1 diabetes receiving SSI monotherapy. Similarly, it intended to heighten the interest in improving glycemic control among patients with stress hyperglycemia who were receiving only ISS. In trying to explain the higher number of innapropriate SSI in stress hyperglycemia patients, we speculate that the low response to the messages advocating avoidance of sliding scales as monotherapy among patients with stress hyperglycemia could be related to the tendency of providers to omit stress hyperglycemia and fear of hypoglycemia when scheduling insulin. It is possible that our message promoting improvement of glucose control could have been less impactful than if it had actually stated outcome benefits from reducing stress hyperglycemia. However, it is not completely understood why the number of events corresponding the use insulin monotherapy in stress hyperglycemia was significantly larger during the ON period. A possible explanation is that by alerting about stress hyperglycemia provider opted to only prescribe correctional insulin in some cases thus increasing the number if events recognizing SSI monotherapy. Clinical guidelines strongly discourage the use of SSI monotherapy in the management of persistent hyperglycemia of any origin and recommend scheduled insulin either basal or basal/prandial as clinically applicable. A Cochrane study suggests that the evidence in favor of either SSI or basal-bolus therapy is equivocal. Sliding scale monotherapy was inferior to basal-bolus insulin in controlling glycemia and was associated with worse clinical outcomes among surgical patients with hyperglycemia. Using SSI alone is strongly discouraged for patients with type 2 diabetes or those with stress hyperglycemia given association with increased risk of hospital complications. Basal-bolus insulin therapy is the standard of care for patients with type 1 diabetes, and SSI monotherapy is contraindicated in patients with type 1 diabetes due to their absolute insulin dependency and risk for diabetic ketoacidosis.
 
 ---
 
-### Inpatient management of diabetes and hyperglycemia among general medicine patients at a large teaching hospital [^1be921af]. Journal of Hospital Medicine (2006). Low credibility.
+### Inpatient management of diabetes and hyperglycemia among general medicine patients at a large teaching hospital [^111iNyNv]. Journal of Hospital Medicine (2006). Low credibility.
 
 Background
 
@@ -974,7 +974,7 @@ Management of diabetes and hyperglycemia on a general medicine service showed se
 
 ---
 
-### Practical guidance on the use of premix insulin analogs in initiating, intensifying, or switching insulin regimens in type 2 diabetes [^46383a4e]. Diabetes Therapy (2015). Low credibility.
+### Practical guidance on the use of premix insulin analogs in initiating, intensifying, or switching insulin regimens in type 2 diabetes [^112o728d]. Diabetes Therapy (2015). Low credibility.
 
 Switching from Basal–Bolus to Premix Insulin Analog Therapy in Primary Care
 
@@ -1004,7 +1004,7 @@ In such patients, it is important to be conservative, and insulin requirements m
 
 ---
 
-### Which patients will benefit from a switch in therapy from premixed insulin to insulin glargine plus oral antidiabetic drugs? Further analysis of the lantus registry study [^4f73e597]. Diabetes Therapy (2017). Low credibility.
+### Which patients will benefit from a switch in therapy from premixed insulin to insulin glargine plus oral antidiabetic drugs? Further analysis of the lantus registry study [^1132nx7g]. Diabetes Therapy (2017). Low credibility.
 
 Introduction
 
@@ -1012,7 +1012,7 @@ The selection of appropriate therapy for the treatment of type 2 diabetes mellit
 
 ---
 
-### Addition of a single short-acting insulin bolus to basal insulin-supported oral therapy: a systematic review of data on the basal-plus regimen [^7afb92a7]. BMJ Open Diabetes Research & Care (2019). High credibility.
+### Addition of a single short-acting insulin bolus to basal insulin-supported oral therapy: a systematic review of data on the basal-plus regimen [^1149KzR4]. BMJ Open Diabetes Research & Care (2019). High credibility.
 
 Figure 1
 Suggested algorithm for the stepwise initiation and titration of rapid-acting insulin (adapted from Owens et al).D, day; FBG, fasting blood glucose; HbA1c, glycosylated hemoglobin; OAD, oral antidiabetic drug; PPBG, postprandial blood glucose; U, international units of insulin.
@@ -1021,7 +1021,7 @@ In recent years, a number of studies have been published that compare the basal-
 
 ---
 
-### Sliding scale insulin use in a national cohort study of nursing home residents with type 2 diabetes [^0afb38ae]. Journal of the American Geriatrics Society (2022). Medium credibility.
+### Sliding scale insulin use in a national cohort study of nursing home residents with type 2 diabetes [^111HHG1K]. Journal of the American Geriatrics Society (2022). Medium credibility.
 
 Background
 
@@ -1041,25 +1041,25 @@ SSI is the most common method of administering short-acting insulin in NH reside
 
 ---
 
-### Clinical decision support to improve management of diabetes and dysglycemia in the hospital: a path to optimizing practice and outcomes [^65568197]. BMJ Open Diabetes Research & Care (2021). High credibility.
+### Clinical decision support to improve management of diabetes and dysglycemia in the hospital: a path to optimizing practice and outcomes [^113bEojt]. BMJ Open Diabetes Research & Care (2021). High credibility.
 
 Greater count of hypoglycemia or impending hypoglycemia events when the tool was active may suggest that more proactive management of hyperglycemia could have resulted in an increased rate of hypoglycemia during the ON period. To further evaluate this matter, we conducted a subsequent analysis to determine whether recommendations to treat elevated glucose or to avoid insulin sliding scales as monotherapy in patients with hyperglycemia could have directly predisposed to subsequent hypoglycemia and as a result evoked more gap in care events for hypoglycemia. We also analyzed whether having been identified with hypoglycemia or near hypoglycemia by the clinical decision support tool would result in fewer subsequent hypoglycemic events. We performed an analysis of the frequency and mean of hypoglycemia gap in care events in two different ways; (A) after an initial hypoglycemia alert to assess the contribution of the diabetes CDS tool in preventing subsequent hypoglycemia events and (B) after an initial non-hypoglycemia alert to determine whether it promoted subsequent hypoglycemia events. The mean of hypoglycemia events following a previous hypoglycemia alert was smaller in the ON (1.78) than in the OFF (1.87) but did not reach statistical significance (IRR = 1.09, 95% CI 0.91 to 1.30, p = 0.438) suggesting that alerting for hypoglycemia did not prevent subsequent hypoglycemic episodes. The mean of hypoglycemia events following a non-hypoglycemia alert was smaller in the ON (1.69) than in the OFF (1.70) period and not significantly different (IRR = 1.02, 95% CI 0.86 to 1.21, p = 0.846). This indicates that there was not an increase in hypoglycemic events after the CDS tool alerted for hyperglycemia or inappropriate insulin use. The values programed in the tool to alert for hypoglycemia or impending hypoglycemia were ≤ 3.9 and ≤ 4.4 mmol/L (≤ 70 and ≤ 80 mg/dL), respectively. Records of glucose values representing all first hypoglycemic events during the pilot were 660 (5.72%) corresponding to at risk or impending hypoglycemia values between 3.94 mmol/L and 4.4 mmol/L (71–80 mg/dL); 394 (3.42%) to mild hypoglycemia with values between to 2.28 mmol/L and 3.9 mmol/L (41–70 mg/dL); and 17 (0.15%) denoting severe hypoglycemia with values ≤ 2.2 mmol/L (≤ 40 mg/dL). Following initial events evoked, subsequent hypoglycemia events (recurrent hypoglycemia) accounted for 244 (2.23%) values between 3.94 mmol/L and 4.4 mmol/L (71–80 mg/dL); 202 (1.84%) values between 2.28 mmol/L and 3.9 mmol/L (41–70 mg/dL); and 13 (0.12%) values ≤ 2.2 mmol/L (40 mg/dL). This illustrates that the majority of events evoked for hypoglycemia either initial or recurrent corresponded to impending hypoglycemia, which is important although less concerning than established hypoglycemia.
 
 ---
 
-### Individualizing insulin therapy in the management of type 2 diabetes [^a46aa92a]. The American Journal of Medicine (2014). Low credibility.
+### Individualizing insulin therapy in the management of type 2 diabetes [^115Cko8u]. The American Journal of Medicine (2014). Low credibility.
 
 It is recognized that reducing hyperglycemia early on in disease progression has long-term benefits for patients with diabetes. Insulin therapy has greater potential to reduce hyperglycemia than other therapies; however, there is often a significant delay in insulin initiation and intensification. Insulin replacement therapy in type 2 diabetes should no longer be viewed as the treatment of last resort. With the development of modern insulin analogs, the field has evolved. Large clinical trials have improved our understanding of the potential benefits and risks associated with intensive glycemic control in different patient populations and highlighted the need for individualization of glycemic targets and treatment strategies. Current treatment guidelines recognize the important role of insulin therapy both early on and throughout the progression of type 2 diabetes.
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^6a6f0b6f]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^113inzCN]. Endocrine Practice (2023). High credibility.
 
 AACE algorithm for adding/intensifying insulin — consider glucagon-like peptide-1 receptor agonist (GLP-1 RA) therapy if not already in use, and if not at goal start basal insulin with A1C-stratified total daily dose (TDD) and scheduled titration: A1C ≥ 8% TDD 0.2–0.3 U/kg; A1C < 8% TDD 0.1–0.2 U/kg; insulin titration every 2–5 days to reach glycemic goal.
 
 ---
 
-### Randomized study comparing a basal-bolus with a basal plus correction insulin regimen for the hospital management of medical and surgical patients with type 2 diabetes: basal plus trial [^b6d19b83]. Diabetes Care (2013). Low credibility.
+### Randomized study comparing a basal-bolus with a basal plus correction insulin regimen for the hospital management of medical and surgical patients with type 2 diabetes: basal plus trial [^115g39mk]. Diabetes Care (2013). Low credibility.
 
 Objective
 
@@ -1079,7 +1079,7 @@ The use of a basal plus regimen with glargine once daily plus corrective doses w
 
 ---
 
-### Continuous glucose control in the ICU: report of a 2013 round table meeting [^f2949c43]. Critical Care (2014). Low credibility.
+### Continuous glucose control in the ICU: report of a 2013 round table meeting [^117CdvMx]. Critical Care (2014). Low credibility.
 
 Insulin algorithms
 
@@ -1087,13 +1087,13 @@ An algorithm can be defined as 'a formalized sequence of instructions for solvin
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^45de8d8e]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^112nau8H]. Endocrine Practice (2022). High credibility.
 
 Insulin therapy intensification when prandial control is needed (Table 18) — steps, doses, and titration: Begin prandial control with Step 1A for type 2 diabetes (T2D) and Step 1B for type 1 diabetes (T1D) ("Begin with Step 1A for T2D and Step 1B for T1D"). Step 1A adds noninsulin options ("GLP-1 RA, SGLT2 inhibitor, or DPP-4 inhibitor") with the caveat "If glucose goals remain unmet, add prandial insulin". Step 1B uses prandial insulin, with "Prandial insulin analogs preferred over (NPH + regular insulin) or premixed insulin", and an initial "TDD 0.3 to 0.5 units/kg (50% basal; 50% prandial)". Step 2 advises, "Titrate insulin every 2–3 days", using a fixed regimen to "Increase TDD by 2 units/d", or an adjustable regimen: "Elevated fasting BG Increase HS basal doses", "Elevated midday meal BG Increase breakfast prandial insulin doses", "Elevated pre-evening meal BG Increase midday prandial insulin dose", and "Elevated bedtime BG Increase dinner prandial insulin dose", with "Increase dose by 10% to 20% depending on severity of BG elevation"; for premixed insulin, "FBG/premeal BG > 180 mg/dL Increase AM or PM dose depending on times of BG elevation" and "Increase dose by 10% to 20%". Step 3 (hypoglycemia) adjusts down: "Low fasting BG Reduce HS basal dose" with "Decrease dose by 10% to 20% depending on severity of hypoglycemia", plus "Low midday meal BG Reduce breakfast prandial dose", "Low pre-evening meal BG Reduce midday prandial dose", and "Low bedtime BG Reduce evening prandial dose"; for premixed insulin, "Low BGs in AM or PM Reduce AM or PM dose" with "Reduce dose by 10% to 20% depending on severity of BG reduction". For most persons with T2D taking insulin, glycemic targets are stated as "A1C < 7% and fasting and premeal blood glucose < 110 mg/dL, in the absence of hypoglycemia".
 
 ---
 
-### Use of V-goInsulin delivery device in patients with sub-optimally controlled diabetes mellitus: a retrospective analysis from a large specialized diabetes system [^7fab5606]. Diabetes Therapy (2015). Low credibility.
+### Use of V-goInsulin delivery device in patients with sub-optimally controlled diabetes mellitus: a retrospective analysis from a large specialized diabetes system [^114GGygh]. Diabetes Therapy (2015). Low credibility.
 
 Data Collection
 
@@ -1105,19 +1105,19 @@ The principal investigator oversaw review of subject records to determine study 
 
 ---
 
-### Gestational diabetes mellitus: update on screening, diagnosis, and management [^3e73cc50]. American Family Physician (2023). Medium credibility.
+### Gestational diabetes mellitus: update on screening, diagnosis, and management [^112bb8QF]. American Family Physician (2023). Medium credibility.
 
 Gestational diabetes mellitus (GDM) is a common condition of pregnancy with increasing prevalence in the United States. GDM increases risks of complications, including operative delivery, hypertensive disorders, shoulder dystocia, fetal macrosomia, large-for-gestational-age infants, neonatal hypoglycemia, and neonatal respiratory distress. In patients who are overweight or obese, prepregnancy weight loss and lifestyle modifications during pregnancy may prevent GDM. First-trimester screening can identify preexisting diabetes and early-onset GDM for prompt implementation of glucose control measures. Treatment of GDM has been shown to reduce the risk of complications and should start with lifestyle modifications. For patients who are unable to maintain euglycemia with lifestyle modifications alone, insulin is the recommended first-line medication. For patients with poor glucose control or who require medications, fetal surveillance is suggested starting at 32 weeks of gestation. For all patients with GDM, physicians should assess for fetal macrosomia (estimated fetal weight more than 4,000 g) and discuss the risks and benefits of prelabor cesarean delivery if the estimated fetal weight is more than 4,500 g. Delivery during the 39th week of gestation may provide the best balance of maternal and fetal outcomes. The recommended delivery range for patients controlling their glucose levels with lifestyle modifications alone is 39/0 to 40/6 weeks of gestation, and the ideal range for those controlling glucose levels with medications is 39/0 to 39/6 weeks of gestation. Practice patterns vary, but evidence suggests that glucose management during labor can safely include decreased glucose testing and sliding-scale dosing of insulin as an alternative to a continuous intravenous drip. Insulin resistance typically resolves after delivery; however, patients with GDM have an increased risk of developing overt diabetes. Continued lifestyle modifications, breastfeeding, and use of metformin can reduce this risk.
 
 ---
 
-### Randomized study of basal-bolus insulin therapy in the inpatient management of patients with type 2 diabetes (RABBIT 2 trial) [^db71bef3]. Diabetes Care (2007). Low credibility.
+### Randomized study of basal-bolus insulin therapy in the inpatient management of patients with type 2 diabetes (RABBIT 2 trial) [^116cLVfY]. Diabetes Care (2007). Low credibility.
 
 The study RABBIT 2 was published by Umpierrez GE and colleagues in 2007 in the journal Diabetes Care. This study is related to the following diseases: Diabetes mellitus type 2 and In-hospital hyperglycemia. In the RABBIT 2 study, the trial question was: what is the effect of basal-bolus insulin therapy in the management of non-critically ill, hospitalized patients with T2DM? In the RABBIT 2 study, the study design was: multi-center, open label, RCT. In the RABBIT 2 study, the population was: 130 patients (67 female, 63 male). The inclusion criteria were non-critically ill, hospitalized patients with T2DM who are insulin-naive. The key exclusion criteria were without a known history of diabetes, ICU patients, the use of corticosteroid therapy, expected to undergo surgery during the hospitalization course, clinically relevant hepatic disease, serum creatinine ≥ 3.0 mg/dl, or pregnancy. In the RABBIT 2 study, the interventions were: n = 65 use of a basal-bolus insulin regimen (glargine once daily and glulisine before meals at a starting dose of 0.4 units x kg(-1) x day(-1) for blood glucose 140–200 mg/dl or 0.5 units x kg(-1) x day(-1) for blood glucose 201–400 mg/dl) n = 65 use of a standard sliding-scale insulin protocol (sliding-scale regular insulin four times per day for blood glucose > 140 mg/dL). In the RABBIT 2 study, the primary outcome was: significant increase in the percentage of patients achieving mean glucose target of < 140 mg/dL (66% vs. 38%; RR 1.74, 95% CI 0.42 to 3.06). In the RABBIT 2 study, the conclusion was: in non-critically ill, hospitalized patients with T2DM who are insulin-naive, use of a basal-bolus insulin regimen were superior to use of a standard sliding-scale insulin protocol with respect to the percentage of patients achieving mean glucose target of < 140 mg/dL.
 
 ---
 
-### Insulin glargine (Lantus) [^0043649d]. FDA (2023). Medium credibility.
+### Insulin glargine (Lantus) [^1111PdvU]. FDA (2023). Medium credibility.
 
 Regarding the use of insulin glargine SC (also known as Lantus, Toujeo, Toujeo MAX) in patients with intermittent hemodialysis:
 
@@ -1127,31 +1127,31 @@ Regarding the use of insulin glargine SC (also known as Lantus, Toujeo, Toujeo M
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^090e53a7]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^111ERheN]. Endocrine Practice (2023). High credibility.
 
 AACE algorithm for adding/intensifying insulin — if not at goal start prandial insulin; consider fixed-dose basal insulin/GLP-1 RA, and use of continuous glucose monitoring (CGM) is recommended to reach glycemic goals safely.
 
 ---
 
-### When basal insulin therapy in type 2 diabetes mellitus is not enough – what next? [^3c857c1d]. Diabetes/Metabolism Research and Reviews (2007). Low credibility.
+### When basal insulin therapy in type 2 diabetes mellitus is not enough – what next? [^112Yj6QL]. Diabetes/Metabolism Research and Reviews (2007). Low credibility.
 
 Type 2 diabetes mellitus (T2DM) is a progressive disease characterized by co-existing insulin deficiency (relative) and insulin insensitivity. Both fasting and post-prandial blood glucose are elevated, exposing the patient to acute and chronic complications due to micro- and macro-vascular angiopathy. Improving glycaemic control has been demonstrated to lower the risk of these complications. Owing to the progressive nature of the disease, an evolving treatment strategy is necessary to maintain glycaemic control. Insulin therapy is required when dietary and lifestyle modifications combined with oral hypoglycaemic agents fail to provide adequate glycaemic control. Adding an optimized dose of basal insulin to the existing oral therapy is a simple and widely used method for initiating insulin therapy. However, despite an effective control of fasting hyperglycaemia, further intervention to control post-prandial hyperglycaemia may become necessary to achieve HbA1c targets. Strategies for the addition of prandial insulin include administering short-acting (or rapid-acting) insulin analogues before each meal or twice-daily administration of pre-mixed insulin. As a single large meal often contributes to the greatest part of daytime hyperglycaemia, an alternative strategy is emerging with the addition of a single injection of prandial insulin prior to the meal that induces the largest post-prandial blood glucose excursion measured 2 h after the start of the meal. Over time, additional prandial boluses of insulin may be required to sustain daytime glycaemic control. This strategy offers a simple, stepwise approach to progress from basal insulin to a basal-bolus regimen. Studies are needed to validate this method and better define specific titration tactics.
 
 ---
 
-### Current treatment guidelines and glycated haemoglobin goals for type 2 diabetes: which patients are most likely to benefit from fixed-ratio basal insulin glucagon-like peptide-1 receptor agonist combinations? [^70050c79]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
+### Current treatment guidelines and glycated haemoglobin goals for type 2 diabetes: which patients are most likely to benefit from fixed-ratio basal insulin glucagon-like peptide-1 receptor agonist combinations? [^113s5JvL]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
 
 The ADA/EASD goal starts at an HbA1c of 7% or less, then suggests lower goals can be selected for patients in whom this can be achieved safely, without significant hypoglycaemia or other adverse effects. The recommendation aligns with the data presented herein, that use of medications which do not lead to hypoglycaemia is a hallmark of being able to achieve low HbA1c targets safely. Further, characteristics pointing toward achieving a benefit from tight control include younger age with long life expectancy and achieving that control without hypoglycaemia. Conversely, short life expectancy, frailty, advanced complications and poorly tolerating therapy point toward needing a more conservative patient‐specific HbA1c goal (e.g. < 8%). Advanced complications are important for two key reasons: patients such as these may have more difficulty safely managing medications and patients with extensive complications, including microvascular complications, have experienced the outcome tighter glycemic control would have attempted to prevent.
 
 ---
 
-### Standards of care in diabetes – 2025 [^ffe7b421]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^117YPfp4]. Diabetes Care (2025). High credibility.
 
 Regarding preventative measures for hypoglycemia, more specifically with respect to choice of insulin, ADA 2025 guidelines recommend to reevaluate insulin treatment plan and insulin-taking behavior at regular intervals (every 3–6 months) and adjust to incorporate specific factors impacting the choice of treatment and ensuring achievement of individualized glycemic goals.
 
 ---
 
-### Efficacy and safety of insulin degludec for hyperglycemia management in noncritical hospitalized patients with diabetes: an observational study [^f7c54c8f]. Diabetes Therapy (2017). Low credibility.
+### Efficacy and safety of insulin degludec for hyperglycemia management in noncritical hospitalized patients with diabetes: an observational study [^117LLDJW]. Diabetes Therapy (2017). Low credibility.
 
 Introduction
 
@@ -1163,6 +1163,6 @@ The GesTIO protocol — a subcutaneous insulin order set for the management of a
 
 ---
 
-### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^a7b0a7a4]. Endocrine Practice (2023). High credibility.
+### American association of clinical endocrinology consensus statement: comprehensive type 2 diabetes management algorithm-2023 update [^115HcGaP]. Endocrine Practice (2023). High credibility.
 
 Prandial insulin titration and monitoring: Goal premeal glucose targets are 110 to 140 mg/dL, and prandial insulin should be titrated every 2 to 3 days based on the premeal glucose of the meal until glycemic targets are met; use of CGM is recommended to reach glycemic goals safely.

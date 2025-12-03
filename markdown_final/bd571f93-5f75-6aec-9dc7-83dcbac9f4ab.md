@@ -15,39 +15,39 @@ What to do when a patient says that have a allergy to a local anesthetic
 
 > Let's see… What do we have here? The user is asking what to do when a patient reports an allergy to a local anesthetic. Let's break this down step-by-step. First, I need to think about the pretest probability and the differential diagnosis of adverse reactions to local anesthetics. Then, I should verify the key elements of the clinical history that separate immunologic from non-immunologic causes. Next, I will review when and how to pursue diagnostic testing, including skin testing and graded challenges, and I should double-check the timing and safety considerations. After that, I need to outline management pathways for negative testing, positive testing, and scenarios where testing is deferred. Finally, I should consider special populations, documentation, and follow-up, and I will continuously sanity-check claims against the literature as I go.
 
-> Let me first confirm the baseline probability and the differential. True IgE-mediated allergy to local anesthetics is extremely rare, generally less than 1% of adverse reactions, so most reports reflect vasovagal episodes, anxiety, systemic toxicity, or reactions to preservatives or excipients rather than the anesthetic itself, which means I should not jump to conclusions about allergy without corroborating details [^edc84a47] [^a2448177] [^516ed343].
+> Let me first confirm the baseline probability and the differential. True IgE-mediated allergy to local anesthetics is extremely rare, generally less than 1% of adverse reactions, so most reports reflect vasovagal episodes, anxiety, systemic toxicity, or reactions to preservatives or excipients rather than the anesthetic itself, which means I should not jump to conclusions about allergy without corroborating details [^1175XLkn] [^1159a1Fc] [^1135jDsp].
 
-> Wait, let me verify the key history elements I must capture to triage this properly. I need to ask about the exact agent and formulation, including whether epinephrine was present, the timing of symptoms relative to injection, the specific manifestations such as urticaria, angioedema, bronchospasm, hypotension, or syncope, whether there were palpitations or tremor suggesting systemic toxicity, and whether there were prior uneventful exposures to the same or different local anesthetics, because these features help distinguish immunologic reactions from vasovagal, toxic, or preservative-related events [^edc84a47] [^516ed343] [^e7c9e588].
+> Wait, let me verify the key history elements I must capture to triage this properly. I need to ask about the exact agent and formulation, including whether epinephrine was present, the timing of symptoms relative to injection, the specific manifestations such as urticaria, angioedema, bronchospasm, hypotension, or syncope, whether there were palpitations or tremor suggesting systemic toxicity, and whether there were prior uneventful exposures to the same or different local anesthetics, because these features help distinguish immunologic reactions from vasovagal, toxic, or preservative-related events [^1175XLkn] [^1135jDsp] [^116vdxMu].
 
-> Hold on, I should verify the role of preservatives and excipients. Methylparaben in multidose vials and metabisulfites in epinephrine-containing solutions are frequent culprits for hypersensitivity reactions that patients misattribute to the anesthetic, so I need to check whether the index reaction occurred with a preservative-containing preparation and whether preservative-free options have been tolerated since, because this can obviate the need for formal allergy testing in many cases [^e7c9e588] [^516ed343] [^3f83b9c8].
+> Hold on, I should verify the role of preservatives and excipients. Methylparaben in multidose vials and metabisulfites in epinephrine-containing solutions are frequent culprits for hypersensitivity reactions that patients misattribute to the anesthetic, so I need to check whether the index reaction occurred with a preservative-containing preparation and whether preservative-free options have been tolerated since, because this can obviate the need for formal allergy testing in many cases [^116vdxMu] [^1135jDsp] [^112dATyh].
 
-> Next, I should review when to pursue diagnostic evaluation. I need to ensure I reserve testing for patients with a convincing history of immediate hypersensitivity, such as urticaria, angioedema, bronchospasm, or hypotension within minutes of injection, or a compelling delayed reaction such as eczematous dermatitis, and I should avoid testing for vague symptoms like dizziness or palpitations without objective features, given the low yield and risk of false positives [^edc84a47] [^516ed343].
+> Next, I should review when to pursue diagnostic evaluation. I need to ensure I reserve testing for patients with a convincing history of immediate hypersensitivity, such as urticaria, angioedema, bronchospasm, or hypotension within minutes of injection, or a compelling delayed reaction such as eczematous dermatitis, and I should avoid testing for vague symptoms like dizziness or palpitations without objective features, given the low yield and risk of false positives [^1175XLkn] [^1135jDsp].
 
-> I will now examine the testing strategy. Skin testing remains the criterion standard to detect IgE-mediated allergy, starting with prick tests and proceeding to intradermal tests if negative, using nonirritant concentrations and standardized protocols; however, I should confirm that the gold standard for confirming local anesthetic allergy is a graded subcutaneous challenge, because skin tests alone can be falsely positive and do not prove tolerance in vivo [^ec638e70] [^516ed343] [^80e7cdcc].
+> I will now examine the testing strategy. Skin testing remains the criterion standard to detect IgE-mediated allergy, starting with prick tests and proceeding to intradermal tests if negative, using nonirritant concentrations and standardized protocols; however, I should confirm that the gold standard for confirming local anesthetic allergy is a graded subcutaneous challenge, because skin tests alone can be falsely positive and do not prove tolerance in vivo [^1173TX2F] [^1135jDsp] [^114J7GyZ].
 
-> Let me think about timing and safety. I should double-check that skin testing is generally deferred for 4 to 6 weeks after a severe reaction to avoid false negatives, but for local anesthetics, testing can often proceed earlier if clinically indicated, including during pregnancy when necessary; I need to ensure resuscitation capability and use incremental dosing with observation between steps during any challenge, and I should remember that preservative-containing test solutions may provoke false positives, so preservative-free agents are preferred for testing and challenges [^b83e5365] [^516ed343] [^e7c9e588].
+> Let me think about timing and safety. I should double-check that skin testing is generally deferred for 4 to 6 weeks after a severe reaction to avoid false negatives, but for local anesthetics, testing can often proceed earlier if clinically indicated, including during pregnancy when necessary; I need to ensure resuscitation capability and use incremental dosing with observation between steps during any challenge, and I should remember that preservative-containing test solutions may provoke false positives, so preservative-free agents are preferred for testing and challenges [^115i9f4G] [^1135jDsp] [^116vdxMu].
 
-> If testing is negative, I should confirm that the patient can safely receive local anesthetics going forward, typically using a different class or a preservative-free preparation for the first exposure; I need to ensure I document the negative evaluation and counsel the patient that the prior reaction was likely non-allergic, while still planning cautious administration with aspiration and incremental injection to mitigate toxicity risk [^516ed343] [^edc84a47] [^069b3b0e].
+> If testing is negative, I should confirm that the patient can safely receive local anesthetics going forward, typically using a different class or a preservative-free preparation for the first exposure; I need to ensure I document the negative evaluation and counsel the patient that the prior reaction was likely non-allergic, while still planning cautious administration with aspiration and incremental injection to mitigate toxicity risk [^1135jDsp] [^1175XLkn] [^111Ao4q3].
 
-> If testing is positive, I should verify cross-reactivity patterns. Immediate hypersensitivity to amides is rare and cross-reactivity within the amide class can occur, whereas esters share cross-reactivity via para-aminobenzoic acid metabolites; importantly, there is no cross-reactivity between amides and esters, so switching class is a rational strategy, and I should also consider alternatives such as diphenhydramine or bacteriostatic saline for small procedures when appropriate [^aea03db9] [^2bce60f8] [^00aadc0b].
+> If testing is positive, I should verify cross-reactivity patterns. Immediate hypersensitivity to amides is rare and cross-reactivity within the amide class can occur, whereas esters share cross-reactivity via para-aminobenzoic acid metabolites; importantly, there is no cross-reactivity between amides and esters, so switching class is a rational strategy, and I should also consider alternatives such as diphenhydramine or bacteriostatic saline for small procedures when appropriate [^115TtfnQ] [^1127wnhd] [^1111zPcW].
 
-> But wait, what if testing is deferred or not feasible. In urgent settings, I should consider using an agent from the opposite class with preservative-free formulation, employ a graded test dose with observation, and ensure full resuscitation readiness; if uncertainty remains high, I can use non-anesthetic alternatives like diphenhydramine or bacteriostatic saline for limited procedures, recognizing their slower onset and lower potency compared with conventional local anesthetics [^2bce60f8] [^00aadc0b].
+> But wait, what if testing is deferred or not feasible. In urgent settings, I should consider using an agent from the opposite class with preservative-free formulation, employ a graded test dose with observation, and ensure full resuscitation readiness; if uncertainty remains high, I can use non-anesthetic alternatives like diphenhydramine or bacteriostatic saline for limited procedures, recognizing their slower onset and lower potency compared with conventional local anesthetics [^1127wnhd] [^1111zPcW].
 
-> I need to ensure I address special populations. In pregnancy, preservative-free bupivacaine has been used safely for labor analgesia after appropriate evaluation, and in children, true local anesthetic allergy is exceedingly uncommon, so I should prioritize preservative-free amides and standard toxicity-prevention practices; in patients with clonal mast cell disorders, amide local anesthetics are generally considered low risk for degranulation, though I should still individualize based on history and consider perioperative planning if there has been prior mediator-related symptoms [^9bb47483] [^d02c12a9].
+> I need to ensure I address special populations. In pregnancy, preservative-free bupivacaine has been used safely for labor analgesia after appropriate evaluation, and in children, true local anesthetic allergy is exceedingly uncommon, so I should prioritize preservative-free amides and standard toxicity-prevention practices; in patients with clonal mast cell disorders, amide local anesthetics are generally considered low risk for degranulation, though I should still individualize based on history and consider perioperative planning if there has been prior mediator-related symptoms [^114yqhEJ] [^116KdEE4].
 
-> Next, I should review documentation and follow-up. I must record the exact agent, formulation, and reaction details, the results of any testing and challenges, and provide the patient with a clear allergy label that distinguishes true allergy from preservative sensitivity or non-allergic reactions; I should also communicate with future providers to avoid unnecessary avoidance of local anesthetics when testing is negative, and I should arrange follow-up if testing is deferred or if new exposures are planned [^2015a5ef] [^edc84a47].
+> Next, I should review documentation and follow-up. I must record the exact agent, formulation, and reaction details, the results of any testing and challenges, and provide the patient with a clear allergy label that distinguishes true allergy from preservative sensitivity or non-allergic reactions; I should also communicate with future providers to avoid unnecessary avoidance of local anesthetics when testing is negative, and I should arrange follow-up if testing is deferred or if new exposures are planned [^111pZskz] [^1175XLkn].
 
-> Hold on, I should verify that my plan aligns with the evidence hierarchy. The approach of careful history to triage, selective skin testing, and confirmatory graded challenge is supported by contemporary reviews and practice parameters, and the rarity of true IgE-mediated local anesthetic allergy is consistently reported across large series, reinforcing the need to avoid overcalling allergy without objective confirmation [^edc84a47] [^a2448177] [^516ed343].
+> Hold on, I should verify that my plan aligns with the evidence hierarchy. The approach of careful history to triage, selective skin testing, and confirmatory graded challenge is supported by contemporary reviews and practice parameters, and the rarity of true IgE-mediated local anesthetic allergy is consistently reported across large series, reinforcing the need to avoid overcalling allergy without objective confirmation [^1175XLkn] [^1159a1Fc] [^1135jDsp].
 
 ---
 
-When a patient reports a local anesthetic "allergy", the priority is to **clarify the reaction history** [^edc84a47] and distinguish true allergy from vasovagal, toxic, or preservative-related reactions [^516ed343]. True IgE-mediated allergy to amide local anesthetics is **extremely rare** (< 1%) [^a2448177], and most reactions are due to preservatives (methylparaben, sulfites) [^e7c9e588], anxiety, or systemic toxicity [^516ed343]. If the history suggests a true immediate hypersensitivity, refer for **allergy testing** (skin prick/intradermal) [^ec638e70] followed by a graded challenge [^516ed343] to confirm or exclude allergy. If allergy is confirmed, use an alternative class (amide vs ester) [^aea03db9] or preservative-free formulations [^e7c9e588]; if not confirmed, proceed with standard local anesthetics using aspiration and incremental dosing to mitigate toxicity risk [^069b3b0e].
+When a patient reports a local anesthetic "allergy", the priority is to **clarify the reaction history** [^1175XLkn] and distinguish true allergy from vasovagal, toxic, or preservative-related reactions [^1135jDsp]. True IgE-mediated allergy to amide local anesthetics is **extremely rare** (< 1%) [^1159a1Fc], and most reactions are due to preservatives (methylparaben, sulfites) [^116vdxMu], anxiety, or systemic toxicity [^1135jDsp]. If the history suggests a true immediate hypersensitivity, refer for **allergy testing** (skin prick/intradermal) [^1173TX2F] followed by a graded challenge [^1135jDsp] to confirm or exclude allergy. If allergy is confirmed, use an alternative class (amide vs ester) [^115TtfnQ] or preservative-free formulations [^116vdxMu]; if not confirmed, proceed with standard local anesthetics using aspiration and incremental dosing to mitigate toxicity risk [^111Ao4q3].
 
 ---
 
 ## Clinical significance of reported local anesthetic allergy
 
-True IgE-mediated allergy to local anesthetics is **rare** [^a2448177], accounting for < 1% of adverse reactions [^edc84a47]. Most reported "allergies" are **non-allergic** — vasovagal reactions, anxiety, systemic toxicity, or reactions to preservatives (methylparaben, sulfites) [^e7c9e588] [^516ed343].
+True IgE-mediated allergy to local anesthetics is **rare** [^1159a1Fc], accounting for < 1% of adverse reactions [^1175XLkn]. Most reported "allergies" are **non-allergic** — vasovagal reactions, anxiety, systemic toxicity, or reactions to preservatives (methylparaben, sulfites) [^116vdxMu] [^1135jDsp].
 
 ---
 
@@ -55,10 +55,10 @@ True IgE-mediated allergy to local anesthetics is **rare** [^a2448177], accounti
 
 A detailed history is essential to **characterize the reaction** and guide next steps:
 
-- **Agent and formulation**: Identify the specific local anesthetic and whether it contained preservatives or epinephrine [^e7c9e588].
-- **Timing and symptoms**: Determine onset, duration, and specific symptoms (e.g. urticaria, angioedema, bronchospasm, hypotension, syncope) [^ec638e70].
-- **Risk factors**: Assess for anxiety, vasovagal tendencies, or prior similar reactions [^516ed343].
-- **Cross-reactivity**: Amides (lidocaine, bupivacaine, ropivacaine) do not cross-react with esters (procaine, tetracaine, benzocaine) [^aea03db9].
+- **Agent and formulation**: Identify the specific local anesthetic and whether it contained preservatives or epinephrine [^116vdxMu].
+- **Timing and symptoms**: Determine onset, duration, and specific symptoms (e.g. urticaria, angioedema, bronchospasm, hypotension, syncope) [^1173TX2F].
+- **Risk factors**: Assess for anxiety, vasovagal tendencies, or prior similar reactions [^1135jDsp].
+- **Cross-reactivity**: Amides (lidocaine, bupivacaine, ropivacaine) do not cross-react with esters (procaine, tetracaine, benzocaine) [^115TtfnQ].
 
 ---
 
@@ -68,13 +68,13 @@ If the history suggests a true immediate hypersensitivity reaction, **allergy te
 
 | **Test** | **Indication** | **Procedure** |
 |-|-|-|
-| Skin prick test (SPT) | Immediate hypersensitivity | Undiluted or 1:10 dilution; read at 15–20 minutes [^ec638e70] |
-| Intradermal test (IDT) | Negative SPT | 1:10,000 to 1:1,000 dilution; incremental titration [^ec638e70] |
-| Graded challenge | Negative skin tests | 0.1 mL → 0.5 mL → 1 mL; 15–20 minute intervals [^516ed343] |
+| Skin prick test (SPT) | Immediate hypersensitivity | Undiluted or 1:10 dilution; read at 15–20 minutes [^1173TX2F] |
+| Intradermal test (IDT) | Negative SPT | 1:10,000 to 1:1,000 dilution; incremental titration [^1173TX2F] |
+| Graded challenge | Negative skin tests | 0.1 mL → 0.5 mL → 1 mL; 15–20 minute intervals [^1135jDsp] |
 
 ---
 
-The **gold standard** is a graded subcutaneous challenge [^516ed343], which confirms or excludes true allergy when skin tests are negative [^e2f5caa0].
+The **gold standard** is a graded subcutaneous challenge [^1135jDsp], which confirms or excludes true allergy when skin tests are negative [^116oUm6P].
 
 ---
 
@@ -82,9 +82,9 @@ The **gold standard** is a graded subcutaneous challenge [^516ed343], which conf
 
 ### Confirmed true allergy
 
-- **Alternative class**: Use an ester if the allergy is to an amide, or vice versa [^aea03db9].
-- **Preservative-free**: Use preservative-free formulations to avoid methylparaben or sulfite reactions [^e7c9e588].
-- **Emergency preparedness**: Have epinephrine and resuscitation equipment available during administration [^0ff697ca].
+- **Alternative class**: Use an ester if the allergy is to an amide, or vice versa [^115TtfnQ].
+- **Preservative-free**: Use preservative-free formulations to avoid methylparaben or sulfite reactions [^116vdxMu].
+- **Emergency preparedness**: Have epinephrine and resuscitation equipment available during administration [^111QfeFB].
 
 ---
 
@@ -92,33 +92,33 @@ The **gold standard** is a graded subcutaneous challenge [^516ed343], which conf
 
 If allergy is not confirmed, **standard local anesthetics** can be used with precautions:
 
-- **Aspiration**: Always aspirate before injection to avoid intravascular injection [^069b3b0e].
-- **Incremental dosing**: Administer in small increments and monitor for toxicity [^069b3b0e].
-- **Patient education**: Explain the nature of the prior reaction and reassure about safety [^edc84a47].
+- **Aspiration**: Always aspirate before injection to avoid intravascular injection [^111Ao4q3].
+- **Incremental dosing**: Administer in small increments and monitor for toxicity [^111Ao4q3].
+- **Patient education**: Explain the nature of the prior reaction and reassure about safety [^1175XLkn].
 
 ---
 
 ## Special considerations
 
-- **Pregnancy**: Preservative-free bupivacaine can be used safely for labor analgesia after appropriate evaluation [^9bb47483].
-- **Pediatrics**: True allergy is rare; standard pediatric dosing and monitoring apply [^8ea768be].
-- **Mast cell disorders**: Amide local anesthetics are generally safe; avoid histamine-releasing agents [^baa5297c].
+- **Pregnancy**: Preservative-free bupivacaine can be used safely for labor analgesia after appropriate evaluation [^114yqhEJ].
+- **Pediatrics**: True allergy is rare; standard pediatric dosing and monitoring apply [^114eVUQm].
+- **Mast cell disorders**: Amide local anesthetics are generally safe; avoid histamine-releasing agents [^115miB2s].
 
 ---
 
 ## Documentation and communication
 
-Record the **detailed reaction history**, results of any testing, and the final diagnosis. Communicate clearly with the patient and other clinicians to avoid mislabeling and unnecessary avoidance of local anesthetics [^2015a5ef].
+Record the **detailed reaction history**, results of any testing, and the final diagnosis. Communicate clearly with the patient and other clinicians to avoid mislabeling and unnecessary avoidance of local anesthetics [^111pZskz].
 
 ---
 
 ## Summary of recommendations
 
-- **History**: Clarify the reaction details and identify potential non-allergic causes [^edc84a47].
-- **Testing**: Use skin testing and graded challenge when indicated [^ec638e70].
-- **Alternatives**: Use a different class or preservative-free formulation if allergy is confirmed [^aea03db9].
-- **Precautions**: Use aspiration and incremental dosing when re-administering local anesthetics [^069b3b0e].
-- **Documentation**: Record findings and communicate clearly to prevent mislabeling [^2015a5ef].
+- **History**: Clarify the reaction details and identify potential non-allergic causes [^1175XLkn].
+- **Testing**: Use skin testing and graded challenge when indicated [^1173TX2F].
+- **Alternatives**: Use a different class or preservative-free formulation if allergy is confirmed [^115TtfnQ].
+- **Precautions**: Use aspiration and incremental dosing when re-administering local anesthetics [^111Ao4q3].
+- **Documentation**: Record findings and communicate clearly to prevent mislabeling [^111pZskz].
 
 ---
 
@@ -128,25 +128,25 @@ Most reported local anesthetic "allergies" are **not true allergies**; careful h
 
 ## References
 
-### Allergy to local anesthetics is a rarity: review of diagnostics and strategies for clinical management [^edc84a47]. Clinical Reviews in Allergy & Immunology (2023). Medium credibility.
+### Allergy to local anesthetics is a rarity: review of diagnostics and strategies for clinical management [^1175XLkn]. Clinical Reviews in Allergy & Immunology (2023). Medium credibility.
 
 Local anesthetics (LA) are commonly used in procedures and in topical agents for pain management. With the increasing use of LA drugs, the management of LA reactions is more frequently encountered in the office and in operating rooms. True allergic reactions involving IgE-mediated reactions and anaphylaxis are rare; they have only been identified in case reports and account for less than 1% of adverse LA reactions. Most reactions are non-allergic or are a result of hypersensitivity to other culprits such as preservatives, excipients, or other exposures. LA reactions that are misclassified as true allergies can lead to unnecessary avoidance of LA drugs or delays in surgical procedures that require their use. A detailed history of prior LA reactions is the first and most crucial step for understanding the nature of the reaction. Reactions that are suspicious for an immediate hypersensitivity reaction can be evaluated with skin prick and intradermal testing with subsequent graded challenge. Reactions that are suspicious for a delayed hypersensitivity reaction can be evaluated with patch testing.
 
 ---
 
-### A critical review of local anesthetic sensitivity [^d1cb6e5d]. Clinical Reviews in Allergy & Immunology (2007). Low credibility.
+### A critical review of local anesthetic sensitivity [^116N2k4C]. Clinical Reviews in Allergy & Immunology (2007). Low credibility.
 
 With their ability to block pain signals to the brain, local anesthetics (LAs) have made possible many surgical procedures and interventions once thought impossible. LAs are generally safe and well tolerated when used correctly by trained professionals. However, adverse reactions do occur, and may generate a referral to an Allergist for evaluation of LA allergy. LA structure, classification, and metabolism will be briefly reviewed. A critical analysis of the studies and case reports involving LA allergy found via PubMed search for "local anesthetic allergy" and "local anesthetic hypersensitivity" will be discussed. In addition, the clinical evaluation of a patient with concern for a LA allergy will be examined.
 
 ---
 
-### Hypersensitivity to local anaesthetics – update and proposal of evaluation algorithm [^9414afe7]. Contact Dermatitis (2008). Low credibility.
+### Hypersensitivity to local anaesthetics – update and proposal of evaluation algorithm [^114nY7j4]. Contact Dermatitis (2008). Low credibility.
 
 Local anaesthetics (LA) are widely used drugs. Adverse reactions are rare but may be caused by delayed-type hypersensitivity reactions and probably also immediate-type reactions. As it is not always easy to clinically differ between these subtypes, allergy skin testing should be considered. Although numerous test protocols have been published, how patients with hypersensitivity reactions to LA are ideally evaluated remains a topic of discussion. This review attempts to generate a comprehensive update on allergic reactions to LA and to present an algorithm that can be used for the evaluation of patients suspected with immediate- and delayed-type immune reactions. Literature was examined using PubMed-Medline, EMBASE, Biosis and Science Citation Index. Based on the literature, the proposed algorithm may safely and rapidly distinguish between immediate-type and delayed-type allergic immune reactions.
 
 ---
 
-### Management of a parturient with a history of local anesthetic allergy [^9bb47483]. Anesthesia and Analgesia (2003). Low credibility.
+### Management of a parturient with a history of local anesthetic allergy [^114yqhEJ]. Anesthesia and Analgesia (2003). Low credibility.
 
 Implications
 
@@ -154,37 +154,37 @@ The management of parturients with a strong history of allergy to local anesthet
 
 ---
 
-### Allergy diagnostic testing: an updated practice parameter [^516ed343]. Annals of Allergy, Asthma & Immunology (2008). Medium credibility.
+### Allergy diagnostic testing: an updated practice parameter [^1135jDsp]. Annals of Allergy, Asthma & Immunology (2008). Medium credibility.
 
 Local anesthetics — diagnostic testing and provocation challenge: Skin testing for diagnosis of local anesthetic allergy is limited by false-positive reactions, and the gold standard for establishing a diagnosis of local anesthetic allergy is the provocative challenge (C). Local anesthetics are commonly used and reactions to injections are often due to vasovagal, anxiety, psychosomatic, or toxic effects, whereas IgE-mediated or anaphylactoid reactions are extremely rare. In patients who subsequently tolerate a provocative challenge without an adverse reaction, false-positive intracutaneous test results occur in approximately 1% and 9% of history-negative and history-positive patients, respectively, and given the low pretest probability and false positives, it is unclear whether intracutaneous tests have any diagnostic benefit. Subcutaneous local anesthetic challenges using a graded incremental approach after skin tests were reported as safe in a study of 236 patients with histories of adverse reactions, and rechallenge without prior skin tests was reported to be an easy and cheap alternative to skin testing, although the possibility of a rare systemic reaction must be kept in mind.
 
 ---
 
-### Local and general anesthetics immediate hypersensitivity reactions [^8af15451]. Immunology and Allergy Clinics of North America (2014). Low credibility.
+### Local and general anesthetics immediate hypersensitivity reactions [^114YzMN8]. Immunology and Allergy Clinics of North America (2014). Low credibility.
 
 Intraoperative anaphylaxis and hypersensitivity reactions in the setting of anesthesia contribute significantly to the morbidity and mortality of surgeries and surgical procedures. Because multiple medications and products are given in a short period of time, identifying the specific cause can be difficult. Neuromuscular blocking agents, antibiotics, and latex are the most common causes of anesthesia-related reactions, though other medications or exposures could be involved. Careful review of anesthetic charts and allergy testing can help identify the underlying cause. The identification of the cause and subsequent prevention of reactions are critical to reduce overall mortality and morbidity related to anesthesia.
 
 ---
 
-### The science of local anesthesia: basic research, clinical application, and future directions [^968667c7]. Anesthesia and Analgesia (2018). Low credibility.
+### The science of local anesthesia: basic research, clinical application, and future directions [^114rAHhY]. Anesthesia and Analgesia (2018). Low credibility.
 
 Local anesthetics have been used clinically for more than a century, but new insights into their mechanisms of action and their interaction with biological systems continue to surprise researchers and clinicians alike. Next to their classic action on voltage-gated sodium channels, local anesthetics interact with calcium, potassium, and hyperpolarization-gated ion channels, ligand-gated channels, and G protein-coupled receptors. They activate numerous downstream pathways in neurons, and affect the structure and function of many types of membranes. Local anesthetics must traverse several tissue barriers to reach their site of action on neuronal membranes. In particular, the perineurium is a major rate-limiting step. Allergy to local anesthetics is rare, while the variation in individual patient's response to local anesthetics is probably larger than previously assumed. Several adjuncts are available to prolong sensory block, but these typically also prolong motor block. The 2 main research avenues being followed to improve action of local anesthetics are to prolong duration of block, by slow-release formulations and on-demand release, and to develop compounds and combinations that elicit a nociception-selective blockade.
 
 ---
 
-### IgE-mediated allergy to local anaesthetics: separating fact from perception: a UK perspective [^a2448177]. British Journal of Anaesthesia (2012). Low credibility.
+### IgE-mediated allergy to local anaesthetics: separating fact from perception: a UK perspective [^1159a1Fc]. British Journal of Anaesthesia (2012). Low credibility.
 
 Local anaesthetic (LA) agents have been routinely used in dentistry, ophthalmology, minor surgery, and obstetrics since the late nineteenth century. Reports relating to adverse reactions and LA allergy have appeared in the published literature for several years. However, the incidence of true, IgE-mediated LA allergy remains uncertain and is presumed to be very low. We critically reviewed the English language literature on suspected LA allergy and its investigation with the aim of estimating the reported prevalence and analysing the role of different tests currently used to identify and confirm LA allergy. Twenty-three case series involving 2978 patients were identified and analysed. Twenty-nine of these patients had true IgE-mediated allergy to LA, thus confirming the reported prevalence of LA allergy in large series to be < 1% (0.97%). The protocols used in the investigation of these patients have also been discussed. Evidence from this review confirms the rarity of IgE-mediated allergy to LA and supports an investigation strategy based on using the clinical history to select patients for skin testing and challenge. We believe that such a triage process would alleviate pressures on allergy services without compromising patient safety.
 
 ---
 
-### Practical application of local anesthetics [^1bf87e23]. Journal of Vascular and Interventional Radiology (2011). Low credibility.
+### Practical application of local anesthetics [^111iU8dx]. Journal of Vascular and Interventional Radiology (2011). Low credibility.
 
 Local anesthetics are widely used in the practice of medicine, particularly within the field of interventional radiology. When used properly, these agents are safe and effective in preventing procedural pain and treating postprocedural pain. The clinician should be aware of proper dosing regimens, techniques, and applications and the methods of preventing and treating complications of systemic toxicity, allergy, and methemoglobinemia. This review provides an introduction to the pharmacology and optimal use of local anesthetics and current strategies for minimizing and managing their potential risks.
 
 ---
 
-### Identifying and managing local anesthetic allergy in dermatologic surgery [^21b2217e]. Dermatologic Surgery (2016). Low credibility.
+### Identifying and managing local anesthetic allergy in dermatologic surgery [^111rxRZw]. Dermatologic Surgery (2016). Low credibility.
 
 Background
 
@@ -208,7 +208,7 @@ True IgE-mediated anaphylaxis to local anesthesia is very rare. Dermatologic sur
 
 ---
 
-### Polocaine (mepivacaine hcl) [^06f1b609]. FDA (2024). Medium credibility.
+### Polocaine (mepivacaine hcl) [^111BJ7bv]. FDA (2024). Medium credibility.
 
 Mepivacaine should be used with caution in patients with known allergies and sensitivities.
 
@@ -220,7 +220,7 @@ Many drugs used during the conduct of anesthesia are considered potential trigge
 
 ---
 
-### Evaluation of adverse reactions to local anesthetics: experience with 236 patients [^e2f5caa0]. Annals of Allergy, Asthma & Immunology (2003). Low credibility.
+### Evaluation of adverse reactions to local anesthetics: experience with 236 patients [^116oUm6P]. Annals of Allergy, Asthma & Immunology (2003). Low credibility.
 
 Background
 
@@ -244,7 +244,7 @@ Allergic reactions were not reproduced during testing and challenge with LA prep
 
 ---
 
-### Twenty years' experience with anaphylaxis-like reactions to local anesthetics: genuine allergy is Rare [^3ecf5a03]. The Journal of Allergy and Clinical Immunology: In Practice (2018). Low credibility.
+### Twenty years' experience with anaphylaxis-like reactions to local anesthetics: genuine allergy is Rare [^112c7t1Q]. The Journal of Allergy and Clinical Immunology: In Practice (2018). Low credibility.
 
 Background
 
@@ -268,49 +268,49 @@ Skin testing and provocative LA challenge are useful to exclude LA allergy, and 
 
 ---
 
-### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^00aadc0b]. Journal of the American Academy of Dermatology (2016). Medium credibility.
+### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^1111zPcW]. Journal of the American Academy of Dermatology (2016). Medium credibility.
 
 Local infiltrative anesthesia in office-based dermatologic surgery — indications, combination use, dosing limits, alternatives for allergy, and toxicity reduction — is summarized as follows: Infiltrative anesthesia is safe and recommended for office-based dermatologic procedures, including but not limited to obtaining a biopsy specimen, excision, wound closure, tissue rearrangement, skin grafting, cauterization, nonablative laser, and ablative skin resurfacing. It may be combined with other forms of local anesthesia for larger or more complex cutaneous procedures, including full-face ablative laser resurfacing combined with topical and nerve block anesthesia and follicular unit hair transplantation combined with tumescent local anesthesia. The maximum safe dose of local infiltrated anesthesia is unknown. Dose limits specify that for adults, no more than 4.5 mg/kg of lidocaine and 7.0 mg/kg of lidocaine with epinephrine should be administered in a single treatment, and for children, no more than 1.5–2.0 mg/kg of lidocaine and 3.0–4.5 mg/kg of lidocaine with epinephrine should be administered in a single treatment. For a multistage procedure such as Mohs micrographic surgery, a maximum dose of 50 mL of 1% lidocaine solution (500 mg) delivered over several hours is recommended. For patients with true allergy to lidocaine, use of either ester-type local anesthetics, bacteriostatic normal saline, or 1% diphenhydramine is suggested as an alternate form of local infiltration anesthesia. Steps recommended to decrease the risk of local anesthetic systemic toxicity include using the lowest effective dose, aspirating prior to each injection, using incremental injections, and continually assessing and communicating with the patient to monitor for signs of early toxicity.
 
 ---
 
-### Society of Interventional Radiology IR pre-procedure patient safety checklist by the safety and health committee [^c6e5c33c]. Journal of Vascular and Interventional Radiology (2016). Medium credibility.
+### Society of Interventional Radiology IR pre-procedure patient safety checklist by the safety and health committee [^1165siwD]. Journal of Vascular and Interventional Radiology (2016). Medium credibility.
 
 Patient allergies — various agents used during IR (local anesthetics, opioids, anxiolytics, contrast agents, prophylactic antibiotics) are frequently administered, and latex glove use is common unless the institution is latex‑free; the most common agents responsible for anaphylactic reactions during surgical and medical procedures are muscle relaxants and latex, followed by antibiotics and induction agents. The major emphasis on managing a patient's allergies is prevention, and reviewing allergies before the start of the procedure can help avoid minor or major reactions with potential morbidity.
 
 ---
 
-### BSACI guidelines for the investigation of suspected anaphylaxis during general anaesthesia [^b889331c]. Clinical and Experimental Allergy (2010). Low credibility.
+### BSACI guidelines for the investigation of suspected anaphylaxis during general anaesthesia [^115iaoib]. Clinical and Experimental Allergy (2010). Low credibility.
 
 Investigation of anaphylaxis during general anaesthesia requires an accurate record of events including information on timing of drug administration provided by the anaesthetist, as well as timed acute tryptase measurements. Referrals should be made to a centre with the experience and ability to investigate reactions to a range of drug classes/substances including neuromuscular blocking agents (NMBAs) intravenous (i.v.) anaesthetics, antibiotics, opioid analgesics, non-steroidal anti-inflammatory drugs (NSAIDs), local anaesthetics, colloids, latex and other agents. About a third of cases are due to allergy to NMBAs. Therefore, investigation should be carried out in a dedicated drug allergy clinic to allow seamless investigation of all suspected drug classes as a single day-case. This will often require skin prick tests, intra-dermal testing and/or drug challenge. Investigation must cover the agents administered, but should also include most other commonly used NMBAs and i.v. anaesthetics. The outcome should be to identify the cause and a range of drugs/agents likely to be safe for future use. The allergist is responsible for a detailed report to the referring anaesthetist and to the patient's GP as well as the surgeon/obstetrician. A shorter report should be provided to the patient, adding an allergy alert to the case notes and providing an application form for an alert-bracelet indicating the wording to be inscribed. The MHRA should be notified. Investigation of anaphylaxis during general anaesthesia should be focussed in major allergy centres with a high throughput of cases and with experience and ability as described above. We suggest this focus since there is a distinct lack of validated data for testing, thus requiring experience in interpreting tests and because of the serious consequences of diagnostic error.
 
 ---
 
-### Systemic anaphylaxis following local lidocaine administration during a dental procedure [^0ff697ca]. Pediatric Emergency Care (2004). Low credibility.
+### Systemic anaphylaxis following local lidocaine administration during a dental procedure [^111QfeFB]. Pediatric Emergency Care (2004). Low credibility.
 
 We report a 4-year-old child who developed systemic anaphylactic reaction to lidocaine hydrochloride within 15 minutes after a dental procedure. Hypersensitivity to local anesthetics is not common; however, if anaphylaxis did happen, it required emergent and immediate resuscitation. To prevent such complications, complete medical history including drug allergy should be taken. Prompt administration of epinephrine and other resuscitative measures are life saving in such circumstance. All emergency room physicians should consider systemic anaphylaxis in patients with rapid vascular collapse and respiratory failure immediately following lidocaine administration for minor outpatient procedures.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^ec638e70]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^1173TX2F]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Skin testing for anesthetics — criterion standard and procedure: Skin testing remains the criterion standard for detecting IgE-mediated allergy versus nonallergic immediate hypersensitivity, and all drugs to which the patient was exposed within minutes before the clinical reaction must be skin tested. Investigation is performed by prick tests (PTs) followed by intradermal tests (IDTs) using solutions undiluted or diluted without exceeding maximum nonirritant concentrations; PTs may be false negative, IDTs are more sensitive but less specific, and should be performed only if PT results are negative. Tests should be read within 15 to 20 minutes; if PT is negative, IDT uses 0.03 to 0.05 mL, beginning at 1:10,000 or 1:1,000 dilution, then increases 10-fold with incremental 15- to 20-minute intervals until positive or the highest nonirritant concentration is reached.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^1011e7b6]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^111QppL5]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Local and general anesthetics and opiates — perioperative immediate hypersensitivity epidemiology and presentation show that the overall incidence of perioperative immediate hypersensitivity was estimated to be 1 in 5,000 to 13,000 in Australia, 1 in 4,600 in France, 1 in 1,250 to 5,000 in New Zealand, and 1 in 3,500 in the United Kingdom; by the end of the 1990s the overall incidence of perioperative IgE-mediated anaphylaxis was 1 in 1,000 to 20,000 in Australia and 1 in 13,000 in France. Recently, the combined allergic and nonallergic anaphylaxis rate with an anesthetic was estimated to be 1 in 11,000 in Western Australia and 1 in 10,000 in the United Kingdom, and an IgE-mediated mechanism has been involved in half and up to two-thirds of cases. Perioperative IgE-mediated allergy mainly occurs after anesthetic induction and is primarily linked to neuromuscular-blocking agents (NMBAs) and antibiotics such as β-lactam drugs; a female predominance has been reported and immediate IgE-mediated drug allergy is uncommon in children. The latest National Audit Project reported a mortality rate of 3.8% among 266 reports of anaphylaxis over 1 year, whereas a Western Australian retrospective study suggested mortality within the range of 0% to 1.4% and that higher rates, that is, 3% and up to 10%, may be an overestimate. Perioperative immediate hypersensitivity mainly occurs within minutes after anesthetic induction and is primarily linked to agents administered intravenously, and the emergency management of perioperative immediate hypersensitivity is guided by the clinical expression of the reaction.
 
 ---
 
-### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^b07c879d]. Journal of the American Academy of Dermatology (2016). Medium credibility.
+### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^115Weedi]. Journal of the American Academy of Dermatology (2016). Medium credibility.
 
 Hyaluronidase as an adjunct: Hyaluronidase may be added to infiltrative anesthesia to enhance diffusion, with safety demonstrated by 1 controlled trial and adverse events not cited aside from hypersensitivity reactions; cross-reactivity with bee venom exists and hyaluronidase should not be administered to patients with a history of bee sting allergy, with prick testing usable for confirmation when allergy is in question; reports describe mixing 7.2 IU of hyaluronidase with local anesthetic for various skin surgeries.
 
 ---
 
-### Risk of immediate-type allergy to local anesthetics is overestimated-results from 5 Years of provocation testing in a Danish allergy Clinic [^beb4faf0]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
+### Risk of immediate-type allergy to local anesthetics is overestimated-results from 5 Years of provocation testing in a Danish allergy Clinic [^115sjSKh]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
 
 Background
 
@@ -334,31 +334,31 @@ None of the 164 patients with suspected immediate-type allergy to LAs reacted on
 
 ---
 
-### Perioperative hypersensitivity evaluation and management: a practical approach [^c857ae50]. The Journal of Allergy and Clinical Immunology: In Practice (2023). Medium credibility.
+### Perioperative hypersensitivity evaluation and management: a practical approach [^11681yXM]. The Journal of Allergy and Clinical Immunology: In Practice (2023). Medium credibility.
 
 Perioperative hypersensitivity (POH) is an uncommon, potentially life-threatening event. Identification of POH can be difficult given the lack of familiarity, physiological effects of anesthesia, draping of the patient during surgery, and potential nonimmunological factors contributing to signs and symptoms. Given the unique nature and large number of medications administered in the perioperative setting, evaluation of POH can be challenging. In this paper, we present a practical approach to management with an emphasis on understanding what happens in the operating room, the overlap of signs and symptoms between nonimmunological and immunological reactions, acute management, and subsequent evaluation. In addition, we provide a strategy for further review of an initially negative evaluation and emphasize the importance of establishing management plans for the patient as well as providing recommendations to the medical, anesthesia, and surgical teams for future surgeries. A critical factor for successful management at all points in the process is a close collaboration between the anesthesia and the allergy teams.
 
 ---
 
-### Allergy diagnostic testing: an updated practice parameter [^80e7cdcc]. Annals of Allergy, Asthma & Immunology (2008). Medium credibility.
+### Allergy diagnostic testing: an updated practice parameter [^114J7GyZ]. Annals of Allergy, Asthma & Immunology (2008). Medium credibility.
 
 Perioperative and drug-specific skin testing — Skin testing is a useful diagnostic tool in cases of perioperative anaphylaxis, and when skin testing is used to guide subsequent anesthetic agents, the risk of recurrent anaphylaxis to anesthesia is low; skin testing is not helpful in cases of taxane-induced anaphylactoid reactions; skin testing to carboplatin yields favorable predictive values; skin testing with asparaginase before treatment is recommended but does not identify all patients at risk of reactions; for local anesthetic allergy, skin testing is limited by false-positive reactions and the gold standard for establishing a diagnosis of local anesthetic allergy is the provocative challenge; for systemic corticosteroid allergy, the specificity and sensitivity of skin tests are unknown and cases with negative skin test results to the implicated corticosteroid have been reported; for most allergic reactions to additives, skin tests are of no diagnostic value and placebo-controlled oral challenges are required.
 
 ---
 
-### Drug allergy [^0c7d558e]. The Journal of Allergy and Clinical Immunology (2010). Low credibility.
+### Drug allergy [^111KWx69]. The Journal of Allergy and Clinical Immunology (2010). Low credibility.
 
 Drug allergy is one type of adverse reaction to drugs and encompasses a spectrum of hypersensitivity reactions with heterogeneous mechanisms and clinical presentations. A thorough history is essential to the management of drug allergy. Laboratory testing has a very limited role in the management of drug allergy. Graded dose challenges and procedures to induce drug tolerance might be required in patients with drug allergy when there is a definite need for a particular agent. Management of reactions to specific agents, including beta-lactam antibiotics, sulfonamides, local anesthetics, radiocontrast media, angiotensin-converting enzyme inhibitors, nonsteroidal anti-inflammatory drugs, and biologic modifiers, will be discussed in further detail.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^aea03db9]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^115TtfnQ]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Local anesthetics — group classification, metabolites, and cross-reactivity patterns are distinct for esters versus amides. Local anesthetics (LAs) belong to the ester or amide groups (Table LXXII). Para-aminobenzoic acid is the common metabolite of ester LAs inducing immediate and delayed hypersensitivity reactions, and cross-reactivity is the rule among esters due to para-aminobenzoic acid. IgE-mediated allergy to amide LAs is extremely rare relative to their widespread use, cross-reactivity in the amide group has been established for immediate and delayed hypersensitivity reactions, and there is no cross-reactivity between amide and ester LAs.
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^7a2ab90a]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^11487qgu]. Anaesthesia (2009). Low credibility.
 
 Later investigations to identify the causative agent
 
@@ -368,13 +368,13 @@ The patient should be referred to a specialist Allergy or Immunology centre that
 
 ---
 
-### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^d02c12a9]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
+### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^116KdEE4]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
 
 Adverse drug reactions during anesthesia in mastocytosis (Box 1) are addressed with risk identification and perioperative planning, noting that patients at greater risk of adverse reactions during anesthesia are those with a history of anaphylaxis, those who have undergone major surgeries, and those who have been exposed to general anesthesia. The benefit of administration of prophylactic antimediator therapy before anesthetic procedures has not been thoroughly evaluated, and there is no consensus about their routine administration, and premedication is recommended in patients with previous perioperative anaphylaxis in need of future general anesthesia if the culprit agent has not been identified. A reasonable approach is to choose those drugs with low capacity to elicit mast cell (MC) degranulation in each pharmacologic group and to use drugs with known tolerance by individual patients, with examples including aminosteroids, neuromuscular blockers, short-acting synthetic opioids, and amide derivatives among local anesthetics. After perioperative anaphylaxis, obtain a serum tryptase value 15 to 60 minutes after the acute episode and 24 or more hours after resolution of the episode. A complete allergic work-up before anesthesia is recommended for patients with mastocytosis who have experienced perioperative mediator-related symptoms in the past; however, routine preoperative skin testing with drugs to be used is not recommended.
 
 ---
 
-### Local anesthesia and anxiolytic techniques for oculoplastic surgery [^3f83b9c8]. Clinical Ophthalmology (2019). Medium credibility.
+### Local anesthesia and anxiolytic techniques for oculoplastic surgery [^112dATyh]. Clinical Ophthalmology (2019). Medium credibility.
 
 Precautions
 
@@ -388,25 +388,25 @@ Third, periocular injections can cause injury to the globe. Several cases of glo
 
 ---
 
-### Local anaesthetics in interventional radiology: a primer for radiologists on applications and management of complications [^40e87297]. Clinical Radiology (2025). Medium credibility.
+### Local anaesthetics in interventional radiology: a primer for radiologists on applications and management of complications [^112fEHUr]. Clinical Radiology (2025). Medium credibility.
 
 Local anaesthetics (LAs) allow a range of procedures to be performed in interventional radiology (IR) through improving patient comfort and reducing pain. This review serves as a primer for interventional radiologists, providing an overview of commonly used LAs and practical tips for their implementation. With its quick onset time and moderate duration of action, the amide lidocaine is the most used and applicable to a variety of procedures such as biopsies and embolization. In contrast, bupivacaine and ropivacaine (both amides) have longer durations of action, and are therefore suitable for lengthy procedures and pain control post-procedurally. Procaine, an ester, may be used in cases of amide anaesthetic allergies. This review examines the clinical applications of LAs in radiology and management of their adverse effects including local anaesthetic systemic toxicity (LAST) and allergic reactions. It concludes with a discussion of LAST, emphasising techniques for early intervention and management. The role of lipid emulsion therapy and modifications to the advanced cardiac life support (ACLS) protocol are highlighted, including a discussion of other aspects such as airway management. By presenting the latest strategies to manage LAST and adverse effects, this research aims to help standardise anaesthetic management in radiology. It provides actionable steps for selecting and injecting anaesthetics, and management of complications that will be beneficial for interventional radiologists performing a diverse array of procedures.
 
 ---
 
-### A pregnant woman with previous anaphylactic reaction to local anesthetics: a case report [^a3c6fb95]. American Journal of Obstetrics and Gynecology (2001). Low credibility.
+### A pregnant woman with previous anaphylactic reaction to local anesthetics: a case report [^115BopRz]. American Journal of Obstetrics and Gynecology (2001). Low credibility.
 
 A 43-year-old woman with a history of lidocaine allergy required dermatologic surgery during pregnancy. To accomplish this without the use of general anesthesia, intradermal allergy testing was performed. This information enabled appropriate anesthetic care for a tissue biopsy at 29 weeks' gestation and subsequent labor analgesia and obstetric management at term.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^be5697d8]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^115sBjWo]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Anesthetic agents — nonreactive concentrations for skin testing are tabulated for prick tests (PTs) and intradermal tests (IDTs). For lidocaine, PTs list 10 mg/mL (undiluted) with maximal concentration 10 mg/mL, and IDTs list a dilution of 1/10 with maximal concentration 1000 µg/mL.
 
 ---
 
-### Bupivacaine hydrochloride (Sensorcaine MPF) [^881da93f]. FDA (2024). Medium credibility.
+### Bupivacaine hydrochloride (Sensorcaine MPF) [^114UoHAv]. FDA (2024). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -436,13 +436,13 @@ www.fresenius-kabi.com/us
 
 ---
 
-### Allergy electronic health record documentation: a 2022 work group report of the AAAAI adverse reactions to drugs, biologicals, and latex committee [^2015a5ef]. The Journal of Allergy and Clinical Immunology: In Practice (2022). High credibility.
+### Allergy electronic health record documentation: a 2022 work group report of the AAAAI adverse reactions to drugs, biologicals, and latex committee [^111pZskz]. The Journal of Allergy and Clinical Immunology: In Practice (2022). High credibility.
 
 Referral to a drug allergy specialist — indications note that "There are specific situations in which referral to a drug allergy specialist should occur", including when an essential drug allergy "cannot be resolved through history or reconciliation"; specialists have shown that "many patients can safely take medications to which they are considered to be allergic", including penicillins and other antibiotics "to which most are proven tolerant" and drugs such as NSAIDs, corticosteroids, and anesthetics, for which "there is a high accuracy of diagnosis from specialist assessment"; specialists "can also give indicated drugs despite proven IgE-mediated allergy through desensitization procedures", and patients with multiple documented drug allergies are "most likely to have multiple drug intolerance syndrome,7 which warrants a referral to an allergist", while those with similar reactions to multiple unrelated drugs "need to be evaluated by an allergist to assess for chronic spontaneous urticaria".
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^436e5b2d]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^112iyEnx]. Anaesthesia (2009). Low credibility.
 
 Objectives
 
@@ -457,7 +457,7 @@ To make recommendations about the reporting and collection of data on anaestheti
 
 ---
 
-### Tramadol use in a patient with Brugada syndrome and morphine allergy: a case report [^286a30a7]. Journal of Pain Research (2018). Low credibility.
+### Tramadol use in a patient with Brugada syndrome and morphine allergy: a case report [^1122vB2E]. Journal of Pain Research (2018). Low credibility.
 
 Conclusion
 
@@ -465,13 +465,13 @@ Brugada syndrome is a rare rhythm disorder which may cause serious arrhythmias i
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^0e787264]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^111NTHST]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Diagnosis — perioperative immediate hypersensitivity evaluation relies on a triad that integrates history and testing. The etiologic diagnosis of perioperative immediate hypersensitivity is linked to a triad including clinical evidence along with biological and allergologic results. The interpretation of the biological and allergologic assessment should always be correlated to the careful and complete review of the clinical history including the management care, and the joint analysis of these elements helps to determine the pathomechanism involved (allergic vs nonallergic), identify the culprit agent, and provide subsequent and appropriate advice for further anesthetic.
 
 ---
 
-### Ultrasound-guided superior cluneal nerve block: a narrative review [^5e16a905]. Journal of Pain Research (2024). Medium credibility.
+### Ultrasound-guided superior cluneal nerve block: a narrative review [^113QVSwv]. Journal of Pain Research (2024). Medium credibility.
 
 Complications
 
@@ -485,7 +485,7 @@ During the process of blockade, repeated punctures or inadvertent injection of l
 
 ---
 
-### Benzocaine, butamben, and tetracaine hydrochloride (cetacaine anesthetic) [^1f31ff19]. FDA (2025). Medium credibility.
+### Benzocaine, butamben, and tetracaine hydrochloride (cetacaine anesthetic) [^111oFQkG]. FDA (2025). Medium credibility.
 
 PATIENT COUNSELING INFORMATION
 
@@ -503,13 +503,13 @@ Safe use of Cetacaine has not been established with respect to possible adverse 
 
 ---
 
-### Sustained intraoperative allergic reaction to chlorhexidine: a case report [^8ff33c93]. The Journal of Allergy and Clinical Immunology: Global (2024). Medium credibility.
+### Sustained intraoperative allergic reaction to chlorhexidine: a case report [^114gQvvv]. The Journal of Allergy and Clinical Immunology: Global (2024). Medium credibility.
 
 Physicians should be prepared for the presentation and treatment of an anaphylactic reaction in a patient who has been exposed to chlorhexidine perioperatively and consider a sustained source of allergic exposure when faced with a refractory response to treatment.
 
 ---
 
-### Anaphylactic-like reaction to methylene blue: case report and review of perioperative hypersensitivity reactions [^d040d782]. Plastic and Reconstructive Surgery (2012). Low credibility.
+### Anaphylactic-like reaction to methylene blue: case report and review of perioperative hypersensitivity reactions [^116KkCqX]. Plastic and Reconstructive Surgery (2012). Low credibility.
 
 Background
 
@@ -533,7 +533,7 @@ Therapeutic, V.
 
 ---
 
-### Preventing the complications associated with the use of dermal fillers in facial aesthetic procedures: an expert group consensus report [^c74abae5]. Aesthetic Plastic Surgery (2017). Low credibility.
+### Preventing the complications associated with the use of dermal fillers in facial aesthetic procedures: an expert group consensus report [^1166TdwS]. Aesthetic Plastic Surgery (2017). Low credibility.
 
 Anaesthesia
 
@@ -550,19 +550,19 @@ The cannula should be kept in its cap when not in use (it is recommended that an
 
 ---
 
-### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^2bce60f8]. Journal of the American Academy of Dermatology (2016). Medium credibility.
+### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^1127wnhd]. Journal of the American Academy of Dermatology (2016). Medium credibility.
 
 Dermatologic surgery — management of lidocaine allergy and alternatives: Allergy to lidocaine is rare, with a genuine immunologic reaction representing only 1% of adverse reactions, and for patients with a true allergy an ester type local anesthetic is an option because cross-reaction is rare and often related to paraben allergy in preservative-containing amide preparations or cosensitization. Injection of 1% diphenhydramine has been suggested but has a longer onset of action (5 min vs 1 min for lidocaine) and limited efficacy. Bacteriostatic saline (0.9% benzyl alcohol in normal saline) is another alternative, and 1 study suggests injection of this agent with epinephrine may be less painful than diphenhydramine. Based on the work group's experience, injection of diphenhydramine or bacteriostatic normal saline may be useful as an anesthetic for small excisions and biopsies in patients with sensitivity or allergy to lidocaine.
 
 ---
 
-### Peri-anesthetic anaphylaxis [^d3ab2ac7]. Immunology and Allergy Clinics of North America (2007). Low credibility.
+### Peri-anesthetic anaphylaxis [^116Qot4n]. Immunology and Allergy Clinics of North America (2007). Low credibility.
 
 General anesthesia and anaphylaxis cause profound physiologic changes. When both occur simultaneously, it is often difficult to recognize and identify the medication or product responsible for the latter. Following such an event, the proper assessment, diagnosis, and recommendations are essential to prevent future reactions. This article reviews the more common causes of anaphylaxis during anesthesia.
 
 ---
 
-### Radio contrast imaging for continuous epidural infusion in humans: a report of three cases [^bc8a3a1d]. Journal of Pain Research (2019). Medium credibility.
+### Radio contrast imaging for continuous epidural infusion in humans: a report of three cases [^115pX6rp]. Journal of Pain Research (2019). Medium credibility.
 
 Patients and methods
 
@@ -582,19 +582,19 @@ If Step 1 could not be successfully performed, Step 2 would be performed, and if
 
 ---
 
-### ACOG practice bulletin no. 209: obstetric analgesia and anesthesia [^e7c9e588]. Obstetrics and Gynecology (2019). High credibility.
+### ACOG practice bulletin no. 209: obstetric analgesia and anesthesia [^116vdxMu]. Obstetrics and Gynecology (2019). High credibility.
 
 Local anesthetics — epinephrine adjuncts, allergy, and toxicity management are summarized: epinephrine may be added to local anesthetic solutions to delay absorption and increase duration of blockade by inducing vasoconstriction, but epinephrine should not be used in women with medical conditions, such as cardiac disorders, that necessitate the avoidance of maternal tachycardia. Risks of local anesthetics include allergic reaction and toxicity; anaphylaxis may occur with use of chloroprocaine and tetracaine but is unlikely with bupivacaine, lidocaine, and ropivacaine, and allergic reactions to preservatives (methylparaben) or antioxidants (sulfites) in prepared local anesthetic solutions are possible. Toxicity may be manifested with neurologic symptoms (eg, seizures, coma) or cardiac symptoms (eg, arrhythmias, myocardial depression), and hypoxemia and acidosis, which potentiate local anesthetic systemic toxicity, should be corrected quickly with intravenous lipid emulsion administered by an anesthesiologist.
 
 ---
 
-### Adverse reactions and alleged allergy to local anesthetics: analysis of 331 patients [^84c9e536]. The Journal of Dermatology (2013). Low credibility.
+### Adverse reactions and alleged allergy to local anesthetics: analysis of 331 patients [^114PsBSM]. The Journal of Dermatology (2013). Low credibility.
 
 The aim of this study was to determine the prevalence of true local anesthetic (LA) allergy among patients referred for suspected hypersensitivity and to describe the main characteristics of adverse drug reactions (ADR) induced by LA in our population. We retrospectively analyzed the medical files of patients referred to the Department of Dermatovenereology, University Hospital Center Rijeka, Rijeka, Croatia, for the investigation of LA hypersensitivity in the period between January 2000 and December 2012. A total of 331 patients underwent skin testing and, in cases of negative results, subcutaneous exposition to LA. In patients with suspected delayed reaction, patch test was performed. Altogether, 331 patients reported 419 independent ADR occurring during 346 procedures. Most commonly, patients reported having only one ADR, but 41 (12.4%) of them had two reactions, 14 (4.2%) had three, five (1.5%) had four and in one patient (0.3%) five ADR to LA were observed. The majority of reactions occurred during dental procedures when most commonly lidocaine and articaine were used. Local reactions were reported in 44 patients, whereas 490 general symptoms occurred during 375 independent ADR in 287 patients. The most common symptoms were cardiovascular system reactions in 89 patients (18.2%). Allergic reaction was detected in three patients (0.91%). One patient showed immediate-type reaction to bupivacaine and two patients had a delayed-type reaction to lidocaine. Adverse reactions to LA are common and are mostly due to their pharmacological properties and drug combinations or psychogenic origin. Allergic accidents to LA are rare.
 
 ---
 
-### Marcaine, lidocaine, kenalog, povidone iodine (MLK kit F2) [^8d463bb4]. FDA (2025). Medium credibility.
+### Marcaine, lidocaine, kenalog, povidone iodine (MLK kit F2) [^114cSqzK]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -616,7 +616,7 @@ Inform patients that use of local anesthetics may cause methemoglobinemia, a ser
 
 ---
 
-### Lidocaine hydrochloride (anestacon) [^5d7c1b5e]. FDA (2014). Low credibility.
+### Lidocaine hydrochloride (anestacon) [^113PbY1K]. FDA (2014). Low credibility.
 
 Allergic
 
@@ -624,7 +624,7 @@ Allergic reactions are characterized by cutaneous lesions, urticaria, edema, or 
 
 ---
 
-### Preventing the complications associated with the use of dermal fillers in facial aesthetic procedures: an expert group consensus report [^7d94aaeb]. Aesthetic Plastic Surgery (2017). Low credibility.
+### Preventing the complications associated with the use of dermal fillers in facial aesthetic procedures: an expert group consensus report [^114DBPWJ]. Aesthetic Plastic Surgery (2017). Low credibility.
 
 Medical History
 
@@ -645,7 +645,7 @@ Minimum requirements demanded to the medical records in aesthetic procedures
 
 ---
 
-### Consensus recommendations for paediatric airway topicalisation using lidocaine [^8ea768be]. Anaesthesia (2025). Medium credibility.
+### Consensus recommendations for paediatric airway topicalisation using lidocaine [^114eVUQm]. Anaesthesia (2025). Medium credibility.
 
 Adverse reactions
 
@@ -664,7 +664,7 @@ Departments carrying out topicalisation should have a standard operating procedu
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^d99b2bec]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^116ZcS91]. Anaesthesia (2009). Low credibility.
 
 Criteria for referral to a specialist centre for investigation
 
@@ -691,7 +691,7 @@ A standard referral proforma is useful (see Appendix S1 in Supporting Informatio
 
 ---
 
-### Benzocaine, butamben, and tetracaine hydrochloride (cetacaine topical anesthetic) [^ac8251e8]. FDA (2022). Medium credibility.
+### Benzocaine, butamben, and tetracaine hydrochloride (cetacaine topical anesthetic) [^115QkeJs]. FDA (2022). Medium credibility.
 
 PATIENT COUNSELING INFORMATION
 
@@ -707,7 +707,7 @@ Safe use of Cetacaine Topical Anesthetic Gel has not been established with respe
 
 ---
 
-### Allergic reactions in anaesthesia: are suspected causes confirmed on subsequent testing? [^bfa7f4c9]. British Journal of Anaesthesia (2005). Low credibility.
+### Allergic reactions in anaesthesia: are suspected causes confirmed on subsequent testing? [^115u93sn]. British Journal of Anaesthesia (2005). Low credibility.
 
 Background
 
@@ -727,13 +727,13 @@ An informed guess is not a reliable way of determining the cause of a supposed a
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^bbb1129a]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^115oGAMP]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Perioperative anaphylaxis (POA) — Recommendation 45 (CBS): We suggest that challenges be performed, when feasible, to all potential culprit agents to which skin and/or in vitro testing is negative, before or in conjunction with use of these agents for a future surgical procedure. Strength of Recommendation: Conditional. Certainty of Evidence: Very Low. Graded challenge with suspected agents for which skin testing result is negative may also be carried out in collaboration with an anesthesiologist, and if necessary and feasible, in the operating room in conjunction with a planned procedure; in cases for which challenge with a NMBA is indicated, this can be accomplished through administration of a 10% "test dose" before the procedure; if tolerated without untoward reaction after a period of observation, full dosing can then be administered as indicated.
 
 ---
 
-### Lidocaine viscous [^b494d39e]. FDA (2020). Medium credibility.
+### Lidocaine viscous [^115cim6u]. FDA (2020). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -741,13 +741,13 @@ Lidocaine Viscous (Lidocaine Hydrochloride Oral Topical Solution USP) is contrai
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^1fc4f256]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^111p6mZo]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Perioperative anaphylaxis — testing, timing, and re-exposure: We suggest that immediate hypersensitivity skin testing (percutaneous and intradermal) and/or in vitro–specific IgE testing be performed, when available, to all potential pharmacologic and nonpharmacologic culprits used during the perioperative period. If testing is not possible, we suggest referral to another center or, if necessary, use of the most efficacious agents structurally dissimilar from the most likely culprit. We suggest that immediate hypersensitivity testing to suspected culprit (and alternative) agents be delayed after POA, unless repeat surgery cannot be postponed. If surgery with general anesthesia is needed sooner, then testing may be performed when needed. We suggest that challenges be performed, when feasible, to all potential culprit agents to which skin and/or in vitro testing is negative, before or in conjunction with the use of these agents for a future surgical procedure. We suggest that repeat anesthesia may proceed in the context of shared decision-making and as directed by history and results of diagnostic evaluation.
 
 ---
 
-### Contraindications to injection… [^7d84c6d5]. AAFP (2002). Low credibility.
+### Contraindications to injection… [^114D63vc]. AAFP (2002). Low credibility.
 
 Contraindications to Injection Anesthetics There are few absolute contraindications for local injection anesthetics. Allergy to amide anesthetics such as lidocaine is rare, and when it does occur, it is usually caused by the preservative methylparaben. 1 One way to circumvent a potential allergic reaction is to use preservative-free lidocaine, which is available in single-dose vials. History of an allergy to an ester anesthetic such as procaine is not a contraindication to the use of lidocaine, 1 because they are chemically different, and cross-reaction is rare. Another approach includes using 1 percent diphenhydramine, which has proved effective in randomized studies.
 2. Choosing a Local Anesthetic for Injection Local anesthetics are divided into amide and ester classes.
@@ -758,7 +758,7 @@ The signs and symptoms of CNS toxicity induced by local anesthetic resemble vaso
 
 ---
 
-### Prilocaine hydrochloride (citanest plain) [^c5d35566]. FDA (2021). Medium credibility.
+### Prilocaine hydrochloride (citanest plain) [^1164HYdK]. FDA (2021). Medium credibility.
 
 Allergic
 
@@ -770,25 +770,25 @@ The incidences of adverse reactions (e.g., persistent neurologic deficit) associ
 
 ---
 
-### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^baa5297c]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
+### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^115miB2s]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
 
 Opioids, local anesthetics, and adjuncts in mastocytosis — histamine release and allergy risk: It is generally believed that most opioids directly induce histamine release; however, fentanyl did not induce either histamine or tryptase release, and in vivo microdialysis showed only codeine and pethidine induced MC activation. Vasodilatation and hypotension from opioids are reported to be less prominent with fentanyl and sufentanil than with morphine because fentanyl and sufentanil did not induce histamine release during use. For local anesthetics, lidocaine and other amide‑type agents rarely lead to allergic responses and have in vitro immunomodulatory effects; true IgE‑mediated allergy among suspicious cases is described as less than 1%. Guidance also notes limited information on colloid fluid therapy, recommending gelatin and hydroxyethyl starch if needed, and that randomized controlled trials and meta‑analyses are not available; recommendations generally emphasize avoiding histamine‑releasing drugs. Skin testing to anesthetic drugs in mastocytosis before procedures is not routinely recommended.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^05ef0c2a]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^1119oERw]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 NMBAs, sugammadex, neostigmine, hypnotic agents, opioids, local anesthetics (LAs), chlorhexidine, and latex — skin testing and challenge guidance includes that for neuromuscular blocking agents (NMBAs) the sensitivity of skin tests in NMBA anaphylaxis is greater than 95%, testing should be done by PTs followed by IDTs, and when a test is positive, investigation for cross-reactivity with other available NMBAs should be performed to identify a safe alternative. Sugammadex and neostigmine may be skin tested undiluted by PTs followed by IDTs if PT is negative using nonirritant dilutions up to 1/10 and up to 1/100, respectively. Hypnotic agents may be skin tested undiluted by PTs, followed by IDTs up to 1/10 dilution if PT results are negative. For opioids, phenylpiperidines may be skin tested undiluted by PTs followed by IDTs if PT results are negative and 1/10 dilution should not be exceeded; additionally, 1/10 and 1/1000 morphine dilutions are recommended for PT and IDT, respectively. For LAs (without epinephrine), PTs may be performed undiluted followed by IDTs if PT is negative and 1/10 dilution should not be exceeded; a subcutaneous incremental challenge uses a single-blind saline step 15 to 20 minutes after the skin PT, then undiluted injections of 0.1 mL, 0.5 mL, and 1 mL, and it is ideal to wait 15 to 20 minutes between steps. Chlorhexidine (without alcohol) may be skin tested up to 5 mg/mL by PTs followed by IDTs up to 0.002 mg/mL if PT is negative, and in Europe latex allergy investigation is performed by PTs using commercial extracts with excellent sensitivity of skin tests.
 
 ---
 
-### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^611f3d8b]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
+### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^113UzHwx]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
 
 Regarding preventative measures for local anesthetic systemic toxicity, more specifically with respect to prevention, ASRA 2018 guidelines recommend to include local anesthetic dosing parameters and at-risk patient concerns as part of the preincisional surgical pause.
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^1fa0083e]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^111otNR3]. Anaesthesia (2009). Low credibility.
 
 Introduction
 
@@ -800,31 +800,31 @@ These guidelines apply only to suspected anaphylactic reactions associated with 
 
 ---
 
-### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^eeffed58]. Journal of the American Academy of Dermatology (2016). Medium credibility.
+### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^1177L1w5]. Journal of the American Academy of Dermatology (2016). Medium credibility.
 
 Local infiltrative anesthesia — strength of recommendations and evidence levels — are as follows: Use of local infiltrative anesthesia for obtaining a biopsy specimen, excision, wound closure, tissue rearrangement, skin grafting, cauterization, nonablative laser, and ablative skin resurfacing has Strength of recommendation C and Level of evidence III. Combining methods of local anesthesia for full-face ablative laser and follicular unit hair transplantation has Strength of recommendation C and Level of evidence III. Maximum dose guidance for adults of 4.5 mg/kg of lidocaine and 7.0 mg/kg of lidocaine with epinephrine carries Strength of recommendation C and Level of evidence III, and the pediatric maximum dose of 1.5–2.0 mg/kg of lidocaine and 3.0–4.5 mg/kg of lidocaine with epinephrine is Strength of recommendation C and Level of evidence III. The maximum dose of 500 mg of lidocaine for a multistage Mohs micrographic surgery is graded Strength of recommendation B and Level of evidence II. For patients with lidocaine allergy, use of ester type local anesthetics, diphenhydramine, or bacteriostatic normal saline each has Strength of recommendation C and Level of evidence III. Prevention of local anesthetic systemic toxicity is rated Strength of recommendation A with Level of evidence I, II.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^f92064dd]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^117NLoFr]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Inhaled anesthetics — halogenated agents in current use do not have documented IgE-mediated hypersensitivity. The chemical structures of these agents include fluorinated methyl-ethyl-ethers (desflurane, isoflurane) and a poly-fluorinated isopropyl-methyl-ether (sevoflurane), and there is no report of IgE-mediated allergic hypersensitivity to these volatile anesthetics.
 
 ---
 
-### Prevention of local anesthetic systemic toxicity [^069b3b0e]. Regional Anesthesia and Pain Medicine (2010). Low credibility.
+### Prevention of local anesthetic systemic toxicity [^111Ao4q3]. Regional Anesthesia and Pain Medicine (2010). Low credibility.
 
 Although new drugs and techniques may improve outcomes when unintended high blood levels of local anesthetics occur, the primary focus of daily practice should remain the prevention of such events. Although adoption of no single "safety step" will reliably prevent systemic toxicity, the combination of several procedures seems to have reduced the frequency of systemic toxicity since 1981. These include the use of minimum effective doses, careful aspiration, and incremental injection, coupled with the use of intravascular markers when large doses are used. Epinephrine remains the most widely used and studied marker, but its reliability is impaired in the face of beta-blockade, anesthesia, advanced age, and active labor. As an alternative, the use of subtoxic doses of local anesthetics themselves can produce subjective symptoms in unpremedicated patients. Fentanyl has also been confirmed to produce sedation in pregnant women when used as an alternative. The use of ultrasound observation of needle placement and injection may be useful, but has also been reported as not completely reliable. Constant vigilance and suspicion are still needed along with a combination of as many of these safety steps as practical.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^b83e5365]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^115i9f4G]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Skin testing timing and special conditions — post-reaction interval, modifiers, and pregnancy: It is usually recommended that skin testing be done at least 4 to 6 weeks after the clinical reaction to avoid false-negative results; dialysis and heavy tobacco smoking may lead to a decreased response, dermographism may increase reactivity, and skin testing can be performed at any point during pregnancy, especially for local anesthetics (LAs) and neuromuscular blocking agents (NMBAs).
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^c4b4fe82]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^1162dNHX]. Anaesthesia (2009). Low credibility.
 
 Local anaesthetics
 
@@ -848,13 +848,13 @@ There are no published reports of anaphylaxis to halogenated volatile anaestheti
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^48a22f8d]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^112rgavY]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Perioperative anaphylaxis (POA) — Recommendation 44 (CBS): We suggest that immediate hyper- sensitivity testing to suspected culprit (and alternative) agents be delayed after POA, unless repeat surgery cannot be postponed. If surgery with general anesthesia is needed sooner, then testing may be performed when needed. Strength of Recommendation: Conditional. Certainty of Evidence: Very Low. Delaying immediate hypersensitivity skin testing for 4 to 6 weeks after anaphylaxis is generally suggested.
 
 ---
 
-### Methylprednisolone acetate, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine, sodium chloride, isopropyl alcohol (dyural 80 kit) [^8738d123]. FDA (2024). Medium credibility.
+### Methylprednisolone acetate, lidocaine hydrochloride, bupivacaine hydrochloride, povidine iodine, sodium chloride, isopropyl alcohol (dyural 80 kit) [^114TUQvn]. FDA (2024). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -876,25 +876,25 @@ Inform patients that use of local anesthetics may cause methemoglobinemia, a ser
 
 ---
 
-### Case reports: type I hypersensitivity to lidocaine [^17d58bca]. Journal of Drugs in Dermatology (2007). Low credibility.
+### Case reports: type I hypersensitivity to lidocaine [^111cLShF]. Journal of Drugs in Dermatology (2007). Low credibility.
 
 Lidocaine hydrochloride is the most commonly used anesthetic agent in dermatology. Despite its widespread and frequent use, adverse reactions to lidocaine are uncommon. The majority of side effects include vasovagal reactions and local side effects consisting of bruising and edema at the injection site. Immunologically mediated allergic reactions are thought to account for only 1% of these adverse reactions. We report an extremely rare case of a true type I hypersensitivity allergy to lidocaine hydrochloride.
 
 ---
 
-### 2017 ACC expert consensus decision pathway for transcatheter aortic valve replacement in the management of adults with aortic Stenosis: a report of the American college of cardiology task force on clinical expert consensus documents [^0bf6928a]. Journal of the American College of Cardiology (2017). Medium credibility.
+### 2017 ACC expert consensus decision pathway for transcatheter aortic valve replacement in the management of adults with aortic Stenosis: a report of the American college of cardiology task force on clinical expert consensus documents [^111Jjgid]. Journal of the American College of Cardiology (2017). Medium credibility.
 
 Anesthetic considerations for TAVR emphasize that patients are at a high risk for procedural complications, including hemodynamic collapse; careful planning and intraoperative anesthetic management can mitigate this risk, and preventing prolonged hypotension is a key goal. Preoperative evaluation pays special attention to factors that may predict higher risk of intraprocedural instability, particularly depressed EF, elevated pulmonary pressures, significant mitral or tricuspid regurgitation, incomplete revascularization, collateral-dependent coronary and cerebral circulation, chronic lung disease, heart failure, and acute/chronic kidney disease. In patients least likely to tolerate rapid ventricular pacing and hypotension, preventive measures may be instituted and steps taken to allow for rapid institution of cardiopulmonary bypass, and rarely, elective bypass may be utilized. Of critical importance is a baseline evaluation of the airway with a focus on the ease or difficulty of emergently securing the airway during cardiovascular compromise or collapse, attention to possible equipment obstruction (such as from the c-arm) that often limits access, and a review of allergies, particularly to iodinated contrast, performed routinely.
 
 ---
 
-### American Society of Plastic Surgeons evidence-based clinical practice guideline revision: reduction mammaplasty [^370a87fe]. Plastic and Reconstructive Surgery (2022). High credibility.
+### American Society of Plastic Surgeons evidence-based clinical practice guideline revision: reduction mammaplasty [^112QbrfX]. Plastic and Reconstructive Surgery (2022). High credibility.
 
 Reduction mammaplasty — local anesthetic use recommendation states that the work group recommends that plastic surgeons should administer local anesthetic for postmenarche female patients undergoing reduction mammaplasty, with data strongly supporting local anesthetic as an adjunctive pain management modality and evidence that intraoperative or postoperative infiltration with local anesthetic (lidocaine or bupivacaine) significantly decreased postoperative narcotics, improved postoperative pain scores, decreased length of stay, and improved outcomes in postoperative nausea and vomiting and postoperative patient satisfaction; the table rates aggregate evidence quality High and strength of recommendation Strong, lists benefits to reduce postoperative narcotic use, reduce time in the PACU, improve pain scores immediately postoperatively, reduce PONV, and improve PRO/satisfaction, notes risks and harms including cost, allergy, toxicity, time in the OR, and small potential risk of pneumothorax, concludes a benefit-harm assessment of preponderance of benefit, specifies intentional vagueness on which type, anatomical location, and amount or vehicle of local anesthetic, and lists exclusions as patients with known adverse reaction to local anesthesia with no differences of opinion.
 
 ---
 
-### Improving mucosal anesthesia for awake endotracheal intubation with a novel method: a prospective, assessor-blinded, randomized controlled trial [^e1fa2a71]. BMC Anesthesiology (2020). Medium credibility.
+### Improving mucosal anesthesia for awake endotracheal intubation with a novel method: a prospective, assessor-blinded, randomized controlled trial [^116n2F2g]. BMC Anesthesiology (2020). Medium credibility.
 
 Background
 
@@ -908,25 +908,25 @@ In this prospective, assessor-blinded, randomized controlled trial, the authors 
 
 ---
 
-### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^23b1097b]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
+### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^111uv2pi]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
 
 Regarding preventative measures for local anesthetic systemic toxicity, more specifically with respect to prevention, ASRA 2018 guidelines recommend to use the lowest effective dose of local anesthetic.
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^c72790cb]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^1166Fpt2]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Regarding specific circumstances for anaphylaxis, more specifically with respect to patients with perioperative anaphylaxis, AAAAI 2024 guidelines recommend to consider proceeding with repeat anesthesia in the context of shared decision-making and as directed by the history and results of diagnostic evaluation.
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^4754c8ea]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^112pkbkV]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Perioperative anaphylaxis — culprit recognition and counseling explains that continued study of anaphylaxis during and after surgical anesthesia has improved the recognition of the most common culprits and the approach to counseling for future surgery and anesthesia.
 
 ---
 
-### Benzocaine (topical anesthetic) [^fa601f5f]. FDA (2018). Low credibility.
+### Benzocaine (topical anesthetic) [^117QCC54]. FDA (2018). Low credibility.
 
 4.	CONTRAINDICATIONS
 
@@ -934,7 +934,7 @@ Should not be used with individuals with a known sensitivity to benzocaine or PA
 
 ---
 
-### Fluorescein [^9f7e9ede]. FDA (2023). Medium credibility.
+### Fluorescein [^1155TZaM]. FDA (2023). Medium credibility.
 
 5. WARNINGS AND PRECAUTIONS
 
@@ -953,25 +953,25 @@ Extravasation during injection can result in severe local tissue damage due to h
 
 ---
 
-### Anaphylaxis in practice: a guide to the 2023 practice parameter update [^6ca627d1]. The Journal of Allergy and Clinical Immunology: In Practice (2024). High credibility.
+### Anaphylaxis in practice: a guide to the 2023 practice parameter update [^113n5UQY]. The Journal of Allergy and Clinical Immunology: In Practice (2024). High credibility.
 
 Perioperative anaphylaxis (POA) — post-testing management states that once testing is conducted as earlier, negative tests should ideally be confirmed with a challenge, but repeat anesthesia may proceed in the context of shared decision making (SDM). A challenge can be conducted before a future operation by anesthesia and, if desired, a 10% test dose can be given before the challenge if there is concern; when a challenge is not feasible, agents structurally unrelated to any agents used in the original POA event can be used, assuming the structurally unrelated agents are equally efficacious.
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^3cce5a42]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^112Z9Zys]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Perioperative anaphylaxis (POA) — risk, likely culprits, and post-event evaluation are described: POA has a greater risk of death than other anaphylaxis types and occurs at a rate of 1.53 per 100,000 cases; multiple agents are often given in close succession, and antibiotics and paralytics (neuromuscular blocking agents [NMBAs]) are more common culprits. After POA, repeat anesthesia may proceed with shared decision-making guided by history and diagnostic results; immediate hypersensitivity skin testing (percutaneous and intradermal, if available) and/or in vitro–specific IgE testing should be performed to all potential and prominent pharmacologic culprits, including alternatives available at the facility. Delaying immediate hypersensitivity skin testing for 4 to 6 weeks after anaphylaxis is generally recommended due to a refractory period; graded challenge of agents with negative test results can proceed safely, and if testing or challenge is not feasible, avoidance of culprit exposures may be considered if equally efficacious, structurally unrelated alternatives are available.
 
 ---
 
-### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^f658321b]. Journal of the American Academy of Dermatology (2016). Medium credibility.
+### Guidelines for the use of local anesthesia in office-based dermatologic surgery [^117JDaWv]. Journal of the American Academy of Dermatology (2016). Medium credibility.
 
 Local infiltrative anesthesia additives — hyaluronidase, buffering, and mixing agents guidance includes: Hyaluronidase may be used as an additive to local infiltration anesthesia to ease diffusion and reduce contour distortion, yet there are insufficient data to support a recommendation for its routine use in dermatologic surgery. Hyaluronidase should not be administered to patients with a known bee venom allergy. The addition of sodium bicarbonate to local anesthetic, particularly lidocaine with epinephrine, is recommended to decrease the pain of delivery by subcutaneous or intradermal infiltration. Preinjection of buffered lidocaine solution is suggested to reduce the pain of bupivacaine infiltration. It is unclear whether mixing multiple anesthetics for local infiltration poses further benefit over use of a single agent.
 
 ---
 
-### Procaine hydrochloride (novocain) [^9b6c3be1]. FDA (2007). Low credibility.
+### Procaine hydrochloride (novocain) [^114yRSFJ]. FDA (2007). Low credibility.
 
 Careful and constant monitoring
 of cardiovascular and respiratory (adequacy of ventilation) vital
@@ -1009,7 +1009,7 @@ the prolongation of AV conduction produced by these drugs.
 
 ---
 
-### Fluorescein (Ak-fluor) [^4348b6d1]. FDA (2024). Medium credibility.
+### Fluorescein (Ak-fluor) [^112ikbU4]. FDA (2024). Medium credibility.
 
 5 WARNINGS AND PRECAUTIONS
 
@@ -1028,13 +1028,13 @@ Extravasation during injection can result in severe local tissue damage due to h
 
 ---
 
-### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^4aa95597]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
+### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^112ugxke]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
 
 Regarding preventative measures for local anesthetic systemic toxicity, more specifically with respect to prevention, ASRA 2018 guidelines recommend to be aware of the additive nature of local anesthetic toxicity and adjust local anesthetic redosing and/or administration by different perioperative providers accordingly.
 
 ---
 
-### Causes of perioperative hypersensitivity reactions in the Netherlands from 2002 to 2014 [^9a0b7d3e]. Clinical and Experimental Allergy (2022). Medium credibility.
+### Causes of perioperative hypersensitivity reactions in the Netherlands from 2002 to 2014 [^114wNxE9]. Clinical and Experimental Allergy (2022). Medium credibility.
 
 Specific serum IgE could be measured for chlorhexidine (from 2007 onward), NRL and rocuronium using ImmunoCAP ® System fluorescence enzyme immunoassay. Results of all performed drug provocation tests (DPT, including antibiotics, NSAIDs, colloids, local anaesthetics, proton pump inhibitors and analgesics) were collected. If a patient was exposed to a suspected drug after the reaction without an allergic reaction, this was noted as a negative DPT. DPT were performed according to the local protocols, consisted of ≥ 3 incremental steps and were considered positive if consistent objective symptoms were reproduced as based on the interpretation of the attending allergist.
 
@@ -1055,13 +1055,13 @@ A specific causal agent could be identified (definite immediate hypersensitivity
 
 ---
 
-### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^243e3547]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
+### The third American Society of Regional Anesthesia and Pain Medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017 [^111vjT4J]. Regional Anesthesia and Pain Medicine (2018). Medium credibility.
 
 Regarding screening and diagnosis for local anesthetic systemic toxicity, more specifically with respect to clinical presentation, ASRA 2018 guidelines recommend to maintain a low threshold for considering the diagnosis of LAST in patients with atypical or unexpected presentation of CNS or cardiac signs and symptoms after receiving more than a minimal dose of local anesthetic based on the overall variability of LAST signs and symptoms, the timing of onset, and association with various disease states.
 
 ---
 
-### Management of refractory anaphylaxis: an overview of current guidelines [^2ababf58]. Clinical and Experimental Allergy (2024). Medium credibility.
+### Management of refractory anaphylaxis: an overview of current guidelines [^1126MCyD]. Clinical and Experimental Allergy (2024). Medium credibility.
 
 3.2.1 | Healthcare Professionals Should Be Trained to Recognise and Treat Severe Anaphylaxis
 
@@ -1069,13 +1069,13 @@ Given that RA is not a rare occurrence in either the community or hospital setti
 
 ---
 
-### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^1a90f8d2]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
+### Adverse reactions to drugs and biologics in patients with clonal mast cell disorders: a Work group report of the mast cells disorder committee, American Academy of Allergy, Asthma&Immunology [^111gPNcH]. The Journal of Allergy and Clinical Immunology (2019). High credibility.
 
 Perianesthetic mast cell (MC) mediator release–associated symptoms — adult cases table presents counts comparing asymptomatic (n = 665) and symptomatic (n = 11) patients out of n = 676, showing for selected features: general anesthesia 62 (9%) vs 4 (36%) (.02); local anesthesia 511 (77%) vs 4 (36%) (.005); PAT given 1 h before anesthesia 578 (87%) vs 5 (45%) (.002); H1-antihistamines 567 (85%) vs 4 (36%) (< .001); anaphylaxis the year before 96 (14%) vs 5 (45%) (.02); idiopathic 87 (13%) vs 4 (36%) (.048); drugs 86 (13%) vs 4 (36%) (.046).
 
 ---
 
-### Mepivacaine hydrochloride (scandonest 3% plain) [^194e62f0]. FDA (2025). Medium credibility.
+### Mepivacaine hydrochloride (scandonest 3% plain) [^111eX28w]. FDA (2025). Medium credibility.
 
 Clinically Significant Drug Interactions:
 
@@ -1101,19 +1101,19 @@ Great care must be exercised in adhering to safe concentrations and dosages for 
 
 ---
 
-### Anaphylaxis in practice: a guide to the 2023 practice parameter update [^42d97c0f]. The Journal of Allergy and Clinical Immunology: In Practice (2024). High credibility.
+### Anaphylaxis in practice: a guide to the 2023 practice parameter update [^112i7EYN]. The Journal of Allergy and Clinical Immunology: In Practice (2024). High credibility.
 
 Perioperative anaphylaxis (POA) — diagnostic testing, challenges, anesthesia planning, and pretreatment are addressed with suggestion-level language. We suggest that immediate hypersensitivity skin testing (percutaneous and intradermal) and/or in vitro specific-IgE testing be performed, when available, to all potential pharmacologic and nonpharmacologic culprits used during the perioperative period, and if testing is not possible, we suggest referral to another center or, if necessary, use of the most efficacious agents structurally dissimilar from the most likely culprit. We suggest that immediate hypersensitivity testing to suspected culprit (and alternative) agents should be delayed after POA, unless repeat surgery cannot be postponed, and if surgery with general anesthesia is needed sooner, testing should be performed when needed. We suggest that challenges be performed, when feasible, to all potential culprit agents to which skin and/or in vitro testing is negative, before or in conjunction with use of these agents for a future surgical procedure, and we suggest that repeat anesthesia may proceed in the context of shared decision-making and as directed by history and results of diagnostic evaluation. We suggest that avoidance of culprit pharmacologic and nonpharmacologic agents associated with POA may be considered, regardless of test results if challenge is not feasible and if equally efficacious, structurally unrelated alternatives are available, and we offer no recommendation for or against the use of pretreatment before return to the operating room in patients with negative cutaneous (percutaneous and intradermal) and/or in vitro specific-IgE testing (and challenge when possible) result to all suspected POA culprit agents.
 
 ---
 
-### Anaphylaxis: a 2023 practice parameter update [^85b7d0a7]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Anaphylaxis: a 2023 practice parameter update [^114RF6VC]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Regarding specific circumstances for anaphylaxis, more specifically with respect to patients with perioperative anaphylaxis, AAAAI 2024 guidelines recommend to consider obtaining immediate hypersensitivity skin testing (percutaneous and intradermal) and/or in vitro-specific IgE testing, when available, in all potential pharmacologic and nonpharmacologic culprits used during the perioperative period. Consider referring to another center if testing is not possible or, if necessary, use the most efficacious agents structurally dissimilar from the most likely culprit.
 
 ---
 
-### Local anesthetics systemic toxicity in children: analysis of the French pharmacovigilance database [^d6b7a977]. BMC Pediatrics (2023). Medium credibility.
+### Local anesthetics systemic toxicity in children: analysis of the French pharmacovigilance database [^116VL3LA]. BMC Pediatrics (2023). Medium credibility.
 
 What is already known on this topic?
 
@@ -1121,7 +1121,7 @@ Local anesthetics can cause severe systemic toxicity after intravenous absorptio
 
 ---
 
-### Fluorescein sodium (Ak-fluor) [^5ceea95a]. FDA (2022). Medium credibility.
+### Fluorescein sodium (Ak-fluor) [^113Nn2Ro]. FDA (2022). Medium credibility.
 
 5 	WARNINGS AND PRECAUTIONS
 
@@ -1140,13 +1140,13 @@ Extravasation during injection can result in severe local tissue damage due to h
 
 ---
 
-### Anaphylactic reaction to lidocaine… [^ce074f1b]. JAMA Network (2025). Excellent credibility.
+### Anaphylactic reaction to lidocaine… [^116GSuSi]. JAMA Network (2025). Excellent credibility.
 
 - Lidocaine hydrochloride is an amide-type local anesthetic, commonly used for facial plastic as well as other surgical procedures. In an unusual case of reproducible anaphylactic reaction to lidocaine, early treatment with epinephrine, oxygenation, and intravenous fluid resuscitation resulted in relief of the symptoms. This case demonstrates the importance of sensitivity testing and choosing an appropriate alternative local anesthetic in a patient with a history of possible allergy to lidocaine. Kennedy KS, Cave RH. Anaphylactic Reaction to Lidocaine. Arch Otolaryngol Head Neck Surg. 1986; 112: 671–673.
 
 ---
 
-### Suspected anaphylactic reactions associated with anaesthesia [^e4610fcf]. Anaesthesia (2009). Low credibility.
+### Suspected anaphylactic reactions associated with anaesthesia [^116qanAi]. Anaesthesia (2009). Low credibility.
 
 Recognition and clinical diagnosis of anaphylaxis
 
@@ -1160,13 +1160,13 @@ Anaphylaxis to amoxicillin and cephalosporins is commonest in asthmatic smokers 
 
 ---
 
-### Complications of local anesthesia used in oral and maxillofacial surgery [^b29ec920]. Oral and Maxillofacial Surgery Clinics of North America (2011). Low credibility.
+### Complications of local anesthesia used in oral and maxillofacial surgery [^115Zp8ZD]. Oral and Maxillofacial Surgery Clinics of North America (2011). Low credibility.
 
 Local anesthetics are used routinely in oral and maxillofacial surgery. Local anesthetics are safe and effective drugs but do have risks that practitioners need to be aware of. This article reviews the complications of local anesthesia. A brief history is provided and the regional and systemic complications that can arise from using local anesthesia are discussed. These complications include paresthesia, ocular complications, allergies, toxicity, and methemoglobinemia. Understanding the risks involved with local anesthesia decreases the chances of adverse events occurring and ultimately leads to improved patient care.
 
 ---
 
-### The importance of prolonged provocation in drug allergy-results from a Danish allergy clinic [^cbad14d0]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
+### The importance of prolonged provocation in drug allergy-results from a Danish allergy clinic [^116Cxd6w]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
 
 Background
 

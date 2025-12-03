@@ -15,19 +15,19 @@ Is guselkumab q4 week dosing approved?
 
 > Let's see… What do we have here? The user is asking whether guselkumab q4 week dosing is approved. Let's break this down step-by-step. First, I need to think about which indications and formulations we're talking about, because dosing differs by disease and route. Then, I should verify the FDA-labeled dosing for plaque psoriasis, psoriatic arthritis, ulcerative colitis, and Crohn's disease. Next, I will check whether any q4 week maintenance regimens are actually approved or if q4 week appears only as induction. Finally, I will reconcile any apparent discrepancies between sources and state the bottom line clearly with citations.
 
-> Let me first confirm the indication-specific dosing so I don't jump to conclusions. For plaque psoriasis, the FDA label specifies 100 mg subcutaneously at weeks 0 and 4, then every 8 weeks, which means maintenance is q8w, not q4w [^a8be5660] [^53ae37dc]. For psoriatic arthritis, the label similarly has 100 mg at weeks 0 and 4, then every 8 weeks, again q8w maintenance rather than q4w [^45461fd0] [^f700df2e]. For ulcerative colitis, induction is intravenous 200 mg at weeks 0, 4, and 8, with maintenance options of 100 mg subcutaneously every 8 weeks or 200 mg subcutaneously every 4 weeks, so a q4w maintenance dose does exist here [^4afa9800] [^3e5dade0] [^95d47c94]. For Crohn's disease, induction is intravenous 200 mg at weeks 0, 4, and 8, with maintenance options of 100 mg subcutaneously every 8 weeks or 200 mg subcutaneously every 4 weeks, so q4w maintenance is also approved in Crohn's disease [^5ed00de0] [^59dd5a19] [^ba9dacc4].
+> Let me first confirm the indication-specific dosing so I don't jump to conclusions. For plaque psoriasis, the FDA label specifies 100 mg subcutaneously at weeks 0 and 4, then every 8 weeks, which means maintenance is q8w, not q4w [^115KArR5] [^11394VSB]. For psoriatic arthritis, the label similarly has 100 mg at weeks 0 and 4, then every 8 weeks, again q8w maintenance rather than q4w [^112mhhaP] [^117KCEbF]. For ulcerative colitis, induction is intravenous 200 mg at weeks 0, 4, and 8, with maintenance options of 100 mg subcutaneously every 8 weeks or 200 mg subcutaneously every 4 weeks, so a q4w maintenance dose does exist here [^112vAFpB] [^112bThVR] [^114q8XZd]. For Crohn's disease, induction is intravenous 200 mg at weeks 0, 4, and 8, with maintenance options of 100 mg subcutaneously every 8 weeks or 200 mg subcutaneously every 4 weeks, so q4w maintenance is also approved in Crohn's disease [^113RZiiK] [^113JEFN8] [^115mffAs].
 
-> Wait, let me verify the apparent contradiction in ulcerative colitis and Crohn's disease sources. Some FDA materials list 200 mg IV q4w induction and 100 mg SC q8w maintenance, which would imply no q4w maintenance, but other FDA entries explicitly include 200 mg SC q4w as an approved maintenance option for both UC and CD, confirming that q4w maintenance is indeed approved in those two indications while psoriasis and psoriatic arthritis remain q8w for maintenance [^4afa9800] [^3e5dade0] [^de878700] [^5ed00de0] [^59dd5a19] [^ba9dacc4].
+> Wait, let me verify the apparent contradiction in ulcerative colitis and Crohn's disease sources. Some FDA materials list 200 mg IV q4w induction and 100 mg SC q8w maintenance, which would imply no q4w maintenance, but other FDA entries explicitly include 200 mg SC q4w as an approved maintenance option for both UC and CD, confirming that q4w maintenance is indeed approved in those two indications while psoriasis and psoriatic arthritis remain q8w for maintenance [^112vAFpB] [^112bThVR] [^116gumr7] [^113RZiiK] [^113JEFN8] [^115mffAs].
 
-> Hold on, I should verify whether any clinical trials used q4w maintenance in psoriasis or psoriatic arthritis to ensure I'm not missing a labeled exception. In psoriasis, the pivotal programs and contemporary trials like GUIDE evaluated standard q8w maintenance and extended intervals in super-responders, not a switch to q4w maintenance, reinforcing that q4w is not an approved maintenance strategy for psoriasis [^e3fa16ce] [^5342d7bf]. In psoriatic arthritis, the DISCOVER trials included a q4w arm during the placebo-controlled period, but the approved maintenance labeling is q8w, again indicating q4w is not the labeled maintenance regimen for PsA [^45461fd0] [^f700df2e].
+> Hold on, I should verify whether any clinical trials used q4w maintenance in psoriasis or psoriatic arthritis to ensure I'm not missing a labeled exception. In psoriasis, the pivotal programs and contemporary trials like GUIDE evaluated standard q8w maintenance and extended intervals in super-responders, not a switch to q4w maintenance, reinforcing that q4w is not an approved maintenance strategy for psoriasis [^116pzC6h] [^1138SRbL]. In psoriatic arthritis, the DISCOVER trials included a q4w arm during the placebo-controlled period, but the approved maintenance labeling is q8w, again indicating q4w is not the labeled maintenance regimen for PsA [^112mhhaP] [^117KCEbF].
 
-> I need to ensure I'm precise about what "q4 week dosing" means in each context. For psoriasis and psoriatic arthritis, q4w appears only as the two loading doses at weeks 0 and 4, after which maintenance is q8w, so q4w is not an approved maintenance interval in these diseases [^a8be5660] [^45461fd0]. For ulcerative colitis and Crohn's disease, q4w dosing is approved as an alternative maintenance regimen at 200 mg subcutaneously, in addition to the 100 mg q8w option, which means q4w maintenance is approved in IBD but not in psoriasis or psoriatic arthritis [^3e5dade0] [^de878700] [^59dd5a19] [^ba9dacc4].
+> I need to ensure I'm precise about what "q4 week dosing" means in each context. For psoriasis and psoriatic arthritis, q4w appears only as the two loading doses at weeks 0 and 4, after which maintenance is q8w, so q4w is not an approved maintenance interval in these diseases [^115KArR5] [^112mhhaP]. For ulcerative colitis and Crohn's disease, q4w dosing is approved as an alternative maintenance regimen at 200 mg subcutaneously, in addition to the 100 mg q8w option, which means q4w maintenance is approved in IBD but not in psoriasis or psoriatic arthritis [^112bThVR] [^116gumr7] [^113JEFN8] [^115mffAs].
 
-> Bottom line, after checking the labels and trials, I should conclude clearly. No, guselkumab q4 week dosing is not approved for maintenance in plaque psoriasis or psoriatic arthritis, where maintenance is every 8 weeks; however, q4 week dosing is an approved maintenance option for ulcerative colitis and Crohn's disease at 200 mg subcutaneously, alongside the 100 mg every 8 weeks regimen [^a8be5660] [^45461fd0] [^3e5dade0] [^de878700] [^59dd5a19] [^ba9dacc4].
+> Bottom line, after checking the labels and trials, I should conclude clearly. No, guselkumab q4 week dosing is not approved for maintenance in plaque psoriasis or psoriatic arthritis, where maintenance is every 8 weeks; however, q4 week dosing is an approved maintenance option for ulcerative colitis and Crohn's disease at 200 mg subcutaneously, alongside the 100 mg every 8 weeks regimen [^115KArR5] [^112mhhaP] [^112bThVR] [^116gumr7] [^113JEFN8] [^115mffAs].
 
 ---
 
-Guselkumab is **not approved for every-4-week maintenance dosing** in plaque psoriasis or psoriatic arthritis; the approved maintenance is 100 mg every 8 weeks after loading at weeks 0 and 4 [^a8be5660] [^45461fd0] [^f700df2e]. In Crohn's disease and ulcerative colitis, **200 mg every 4 weeks is an approved maintenance option** alongside 100 mg every 8 weeks, based on phase 3 trials showing sustained remission and endoscopic response [^9ada09a0] [^de878700] [^59dd5a19]. Every-4-week dosing is not recommended for psoriasis or psoriatic arthritis due to lack of evidence and potential overtreatment.
+Guselkumab is **not approved for every-4-week maintenance dosing** in plaque psoriasis or psoriatic arthritis; the approved maintenance is 100 mg every 8 weeks after loading at weeks 0 and 4 [^115KArR5] [^112mhhaP] [^117KCEbF]. In Crohn's disease and ulcerative colitis, **200 mg every 4 weeks is an approved maintenance option** alongside 100 mg every 8 weeks, based on phase 3 trials showing sustained remission and endoscopic response [^114xaL7Z] [^116gumr7] [^113JEFN8]. Every-4-week dosing is not recommended for psoriasis or psoriatic arthritis due to lack of evidence and potential overtreatment.
 
 ---
 
@@ -35,10 +35,10 @@ Guselkumab is **not approved for every-4-week maintenance dosing** in plaque pso
 
 | **Indication** | **Approved dosing regimen** |
 |-|-|
-| Plaque psoriasis | 100 mg SC at weeks 0 and 4, then every 8 weeks [^a8be5660] [^53ae37dc] |
-| Psoriatic arthritis | 100 mg SC at weeks 0 and 4, then every 8 weeks [^45461fd0] [^f700df2e] |
-| Crohn's disease | - 200 mg IV at weeks 0, 4, and 8 <br/> - Then 200 mg SC every 4 weeks or 100 mg SC every 8 weeks [^5ed00de0] [^59dd5a19] [^ba9dacc4] |
-| Ulcerative colitis | - 200 mg IV at weeks 0, 4, and 8 <br/> - Then 200 mg SC every 4 weeks or 100 mg SC every 8 weeks [^4afa9800] [^3e5dade0] [^de878700] |
+| Plaque psoriasis | 100 mg SC at weeks 0 and 4, then every 8 weeks [^115KArR5] [^11394VSB] |
+| Psoriatic arthritis | 100 mg SC at weeks 0 and 4, then every 8 weeks [^112mhhaP] [^117KCEbF] |
+| Crohn's disease | - 200 mg IV at weeks 0, 4, and 8 <br/> - Then 200 mg SC every 4 weeks or 100 mg SC every 8 weeks [^113RZiiK] [^113JEFN8] [^115mffAs] |
+| Ulcerative colitis | - 200 mg IV at weeks 0, 4, and 8 <br/> - Then 200 mg SC every 4 weeks or 100 mg SC every 8 weeks [^112vAFpB] [^112bThVR] [^116gumr7] |
 
 ---
 
@@ -46,25 +46,25 @@ Guselkumab is **not approved for every-4-week maintenance dosing** in plaque pso
 
 ### Plaque psoriasis and psoriatic arthritis
 
-For plaque psoriasis and psoriatic arthritis, **no evidence supports every-4-week maintenance dosing**; the GUIDE trial showed noninferiority of every-16-week dosing in super-responders, not every-4-week dosing [^e3fa16ce] [^5342d7bf]. Standard every-8-week maintenance remains the approved regimen [^a8be5660] [^45461fd0].
+For plaque psoriasis and psoriatic arthritis, **no evidence supports every-4-week maintenance dosing**; the GUIDE trial showed noninferiority of every-16-week dosing in super-responders, not every-4-week dosing [^116pzC6h] [^1138SRbL]. Standard every-8-week maintenance remains the approved regimen [^115KArR5] [^112mhhaP].
 
 ---
 
 ### Crohn's disease and ulcerative colitis
 
-In Crohn's disease and ulcerative colitis, **every-4-week maintenance is supported** by phase 3 trials (GALAXI-2, GALAXI-3, QUASAR) demonstrating sustained clinical remission and endoscopic response with 200 mg SC every 4 weeks [^9ada09a0] [^e3cb6494] [^e7e09be7]. This led to approval of the 200 mg every-4-week option alongside 100 mg every 8 weeks [^3e5dade0] [^de878700] [^59dd5a19] [^ba9dacc4].
+In Crohn's disease and ulcerative colitis, **every-4-week maintenance is supported** by phase 3 trials (GALAXI-2, GALAXI-3, QUASAR) demonstrating sustained clinical remission and endoscopic response with 200 mg SC every 4 weeks [^114xaL7Z] [^116piWPD] [^116vmaqL]. This led to approval of the 200 mg every-4-week option alongside 100 mg every 8 weeks [^112bThVR] [^116gumr7] [^113JEFN8] [^115mffAs].
 
 ---
 
 ## Safety considerations
 
-Every-4-week dosing is **generally well tolerated**, with safety profiles comparable to every-8-week dosing in IBD trials [^9ada09a0] [^e3cb6494]. No new safety signals were identified, though monitoring for infections and laboratory parameters remains essential [^a48aaba6].
+Every-4-week dosing is **generally well tolerated**, with safety profiles comparable to every-8-week dosing in IBD trials [^114xaL7Z] [^116piWPD]. No new safety signals were identified, though monitoring for infections and laboratory parameters remains essential [^115CwYjf].
 
 ---
 
 ## Clinical guidelines and expert recommendations
 
-Current guidelines endorse every-8-week maintenance for plaque psoriasis and psoriatic arthritis, reserving every-4-week dosing for select IBD patients who require higher-intensity maintenance, such as those with severe disease or inadequate response to standard dosing [^3d3517c6] [^afbb1816].
+Current guidelines endorse every-8-week maintenance for plaque psoriasis and psoriatic arthritis, reserving every-4-week dosing for select IBD patients who require higher-intensity maintenance, such as those with severe disease or inadequate response to standard dosing [^112Zk5XK] [^115VXgCm].
 
 ---
 
@@ -72,10 +72,10 @@ Current guidelines endorse every-8-week maintenance for plaque psoriasis and pso
 
 | **Indication** | **Every-4-week dosing approved?** | **Evidence level** | **Clinical rationale** |
 |-|-|-|-|
-| Plaque psoriasis | No | High | Lack of evidence; every-8-week dosing is effective and safe [^a8be5660] [^53ae37dc] |
-| Psoriatic arthritis | No | High | Lack of evidence; every-8-week dosing is effective and safe [^45461fd0] [^f700df2e] |
-| Crohn's disease | Yes | High | Sustained remission and endoscopic response in phase 3 trials [^9ada09a0] [^e7e09be7] |
-| Ulcerative colitis | Yes | High | Sustained remission and endoscopic response in phase 3 trials [^e3cb6494] |
+| Plaque psoriasis | No | High | Lack of evidence; every-8-week dosing is effective and safe [^115KArR5] [^11394VSB] |
+| Psoriatic arthritis | No | High | Lack of evidence; every-8-week dosing is effective and safe [^112mhhaP] [^117KCEbF] |
+| Crohn's disease | Yes | High | Sustained remission and endoscopic response in phase 3 trials [^114xaL7Z] [^116vmaqL] |
+| Ulcerative colitis | Yes | High | Sustained remission and endoscopic response in phase 3 trials [^116piWPD] |
 
 ---
 
@@ -85,7 +85,7 @@ Guselkumab is **approved for every-4-week maintenance dosing only in Crohn's dis
 
 ## References
 
-### Guselkumab SC dosing for crohn's disease [^5ed00de0]. FDA (2025). Medium credibility.
+### Guselkumab SC dosing for crohn's disease [^113RZiiK]. FDA (2025). Medium credibility.
 
 Treatment of Crohn's disease in adults (moderate-to-severe)
 - **Start at**: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
@@ -93,7 +93,7 @@ Treatment of Crohn's disease in adults (moderate-to-severe)
 
 ---
 
-### Guselkumab SC dosing for plaque psoriasis [^a8be5660]. FDA (2025). Medium credibility.
+### Guselkumab SC dosing for plaque psoriasis [^115KArR5]. FDA (2025). Medium credibility.
 
 Treatment of plaque psoriasis in adults (moderate-to-severe, eligible for systemic therapy or phototherapy)
 - **Start at**: 100 mg SC q4 weeks at weeks 0 and 4
@@ -101,7 +101,7 @@ Treatment of plaque psoriasis in adults (moderate-to-severe, eligible for system
 
 ---
 
-### Guselkumab SC dosing for psoriatic arthritis [^45461fd0]. FDA (2025). Medium credibility.
+### Guselkumab SC dosing for psoriatic arthritis [^112mhhaP]. FDA (2025). Medium credibility.
 
 Treatment of psoriatic arthritis in adults (active)
 - **Start at**: 100 mg SC q4 weeks at weeks 0 and 4
@@ -109,7 +109,7 @@ Treatment of psoriatic arthritis in adults (active)
 
 ---
 
-### Guselkumab SC dosing for ulcerative colitis [^4afa9800]. FDA (2025). Medium credibility.
+### Guselkumab SC dosing for ulcerative colitis [^112vAFpB]. FDA (2025). Medium credibility.
 
 Treatment of ulcerative colitis in adults (moderate-to-severe)
 - **Start at**: 200 mg IV q4 weeks, administered over at least 1 hour, at weeks 0, 4, and 8
@@ -117,7 +117,7 @@ Treatment of ulcerative colitis in adults (moderate-to-severe)
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^e3fa16ce]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^116pzC6h]. JAMA Dermatology (2024). High credibility.
 
 Introduction
 
@@ -129,13 +129,13 @@ Based on previous findings from GUIDE, as well as the phase 3 VOYAGE 2and ECLIPS
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^abb9b81c]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^115PbGHq]. JAMA Dermatology (2024). High credibility.
 
 The study GUIDE was published by Kilian Eyerich and colleagues in 2024 in the journal JAMA Dermatol. This study is related to the following diseases: Psoriasis. In the GUIDE study, the trial question was: is 16-week guselkumab noninferior to 8-week guselkumab for maintenance therapy in patients with moderate-to-severe psoriasis? In the GUIDE study, the study design was: multi-center, double blinded, RCT. In the GUIDE study, the population was: 297 patients (95 female, 202 male). The inclusion criteria were adult patients with moderate-to-severe psoriasis. The key exclusion criteria were previous receipt of therapeutic agent directly targeting IL-23; receipt of systemic immunosuppressant or anakinra within 4 weeks of the first administration of study drug; positive test for HBV infection. In the GUIDE study, the interventions were: n = 149 guselkumab every 16 weeks (at a dose of 100 mg at weeks 0, 4, 12, and 20, followed by 100 mg every 16 weeks between weeks 28–68) n = 148 guselkumab every 8 weeks (at a dose of 100 mg at weeks 0, 4, 12, and 20, followed by 100 mg every 8 weeks between weeks 28–68). In the GUIDE study, the primary outcome was: difference not exceeding non-inferiority margin in Psoriasis Area and Severity Index < 3 at week 68 (91.9% vs. 92.6%; OR 0.92, 90% CI 0.45 to 1.87). In the GUIDE study, the secondary outcomes were: significant decrease in Psoriasis Area and Severity Index ≤ 1 at week 68 (79.2% vs. 89.9%; ARD -10.7, 90% CI -17.5 to -3.8) Significant decrease in Psoriasis Area and Severity Index of 0 in at week 68 (69.1% vs. 81.1%; ARD -12, 90% CI -20.1 to -3.8) No significant difference in Dermatology Life Quality Index 0/1 in at week 68 (77.9% vs. 83.1%; ARD -5.2, 95% CI -12.8 to 2.3). In the GUIDE study, the safety outcomes were: no significant difference in treatment-emergent serious adverse events and drug-related treatment-emergent adverse events. In the GUIDE study, the conclusion was: in adult patients with moderate-to-severe psoriasis, guselkumab every 16 weeks were noninferior to guselkumab every 8 weeks with respect to Psoriasis Area and Severity Index < 3 at week 68.
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^5342d7bf]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^1138SRbL]. JAMA Dermatology (2024). High credibility.
 
 Importance
 
@@ -171,7 +171,7 @@ ClinicalTrials.gov Identifier: NCT03818035.
 
 ---
 
-### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^3c67b052]. The British Journal of Dermatology (2020). Medium credibility.
+### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^112YZ5vq]. The British Journal of Dermatology (2020). Medium credibility.
 
 Patients and methods
 
@@ -189,7 +189,7 @@ Patients, investigators and all other personnel involved in the conduct of this 
 
 ---
 
-### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^1c3e3a46]. The Journal of Dermatology (2025). Medium credibility.
+### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^111isZBb]. The Journal of Dermatology (2025). Medium credibility.
 
 2 Methods
 
@@ -203,7 +203,7 @@ This study was conducted in accordance with the International Society for Pharma
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^89703178]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^114WkzJs]. JAMA Dermatology (2024). High credibility.
 
 Conclusion
 
@@ -211,7 +211,7 @@ Following achievement of early and complete clearance of psoriasis, guselkumab d
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^918deeb5]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^114insvt]. JAMA Dermatology (2024). High credibility.
 
 Key Points
 
@@ -229,7 +229,7 @@ The GUIDE randomized clinical trial is the first to demonstrate that disease act
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^3d52ce89]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^112Zv4Pz]. JAMA Dermatology (2024). High credibility.
 
 Discussion
 
@@ -239,7 +239,7 @@ Further supporting the primary end point findings, a high level of response was 
 
 ---
 
-### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 24-week efficacy and safety results from a randomized, double-blinded trial [^a8e2a9b3]. The British Journal of Dermatology (2021). Medium credibility.
+### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 24-week efficacy and safety results from a randomized, double-blinded trial [^115KP46N]. The British Journal of Dermatology (2021). Medium credibility.
 
 Patients and methods
 
@@ -263,13 +263,13 @@ Doses were administered subcutaneously with prefilled syringes. Study visits occ
 
 ---
 
-### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^9877a4a2]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^114u3Jfs]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 IL-23 inhibitor guselkumab — indication and dosing: Guselkumab (FDA approval on July 13, 2017) is FDA-approved for moderate-to-severe plaque psoriasis in adults and is a fully human IgG1 lambda monoclonal antibody that blocks the p19 subunit of IL-23. The recommended dose is 100 mg at week 0, week 4, and every 8 weeks thereafter, and multiple randomized controlled trials evaluating guselkumab versus placebo plus an active comparator (adalimumab) have established the efficacy of this drug in adult patients with moderate-to-severe psoriasis for up to 52 weeks.
 
 ---
 
-### Pooled safety results through 1 year of 2 phase III trials of guselkumab in patients with psoriatic arthritis [^a35a7e21]. The Journal of Rheumatology (2021). Medium credibility.
+### Pooled safety results through 1 year of 2 phase III trials of guselkumab in patients with psoriatic arthritis [^115BBNsi]. The Journal of Rheumatology (2021). Medium credibility.
 
 Objective
 
@@ -289,7 +289,7 @@ Guselkumab 100 mg Q4W and Q8W were well tolerated in patients with PsA, with no 
 
 ---
 
-### Efficacy and safety of guselkumab subcutaneous induction and maintenance in participants with moderately to severely active Crohn's disease: results from the phase 3 GRAVITI study [^d89305e3]. Gastroenterology (2025). Medium credibility.
+### Efficacy and safety of guselkumab subcutaneous induction and maintenance in participants with moderately to severely active Crohn's disease: results from the phase 3 GRAVITI study [^116Y5i7L]. Gastroenterology (2025). Medium credibility.
 
 Background & Aims
 
@@ -309,7 +309,7 @@ Subcutaneous guselkumab for both induction and maintenance was efficacious in tr
 
 ---
 
-### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^087d91dd]. Arthritis & Rheumatology (2021). Medium credibility.
+### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^111Db5Yx]. Arthritis & Rheumatology (2021). Medium credibility.
 
 Objective
 
@@ -329,7 +329,7 @@ In biologic-naive PsA patients, guselkumab provided sustained improvements acros
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^7e877362]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^114EawJR]. JAMA Dermatology (2024). High credibility.
 
 Whether non-SRes are capable of maintaining long-term disease control with an extended dosing interval was not studied in the GUIDE clinical trial. Achievement of early and complete skin clearance at 2 consecutive visits, representing a high level of stability of response to treatment, may be a critical indicator for effective control of disease activity with an extended dosing interval.
 
@@ -339,7 +339,7 @@ Across a range of immunologic disorders, including psoriasis, there remains a la
 
 ---
 
-### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^c6998c4a]. Arthritis & Rheumatology (2022). Medium credibility.
+### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^1165S89w]. Arthritis & Rheumatology (2022). Medium credibility.
 
 PATIENTS AND METHODS
 
@@ -355,13 +355,13 @@ The DISCOVER‐2 trial (identifier: NCT03158285) was conducted in accordance wit
 
 ---
 
-### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^3d3517c6]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^112Zk5XK]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 Guselkumab (IL-23 inhibitor) — recommendations and dosing: Guselkumab is recommended as a monotherapy treatment option for use in adult patients with moderate-to-severe plaque psoriasis (strength of recommendation A). The recommended dose of guselkumab is 100 mg by self-administered subcutaneous injection at wk 0, wk 4, and every 8 wk thereafter (A). Guselkumab is also recommended as a monotherapy treatment option in adult patients with scalp, nail, and plaque-type palmoplantar psoriasis (A).
 
 ---
 
-### Maintenance of response through up to 4 years of continuous guselkumab treatment of psoriasis in the VOYAGE 2 phase 3 study [^94994752]. American Journal of Clinical Dermatology (2020). Medium credibility.
+### Maintenance of response through up to 4 years of continuous guselkumab treatment of psoriasis in the VOYAGE 2 phase 3 study [^114oJepH]. American Journal of Clinical Dermatology (2020). Medium credibility.
 
 Background
 
@@ -389,7 +389,7 @@ NCT02207244.
 
 ---
 
-### Efficacy and safety of intravenous induction and subcutaneous maintenance therapy with guselkumab for patients with Crohn's disease (GALAXI-2 and GALAXI-3): 48-week results from two phase 3, randomised, placebo and active comparator-controlled, double-blind, triple-dummy trials [^9ada09a0]. Lancet (2025). Excellent credibility.
+### Efficacy and safety of intravenous induction and subcutaneous maintenance therapy with guselkumab for patients with Crohn's disease (GALAXI-2 and GALAXI-3): 48-week results from two phase 3, randomised, placebo and active comparator-controlled, double-blind, triple-dummy trials [^114xaL7Z]. Lancet (2025). Excellent credibility.
 
 Background
 
@@ -413,7 +413,7 @@ Johnson & Johnson.
 
 ---
 
-### Efficacy and safety of guselkumab in patients with active psoriatic arthritis: a randomised, double-blind, placebo-controlled, phase 2 study [^a5166ca4]. Lancet (2018). Excellent credibility.
+### Efficacy and safety of guselkumab in patients with active psoriatic arthritis: a randomised, double-blind, placebo-controlled, phase 2 study [^115DkVMu]. Lancet (2018). Excellent credibility.
 
 Background
 
@@ -437,7 +437,7 @@ Janssen Research & Development.
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^ee47c7bf]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^1176GATp]. JAMA Dermatology (2024). High credibility.
 
 Table 1.
 Patient Demographic, Disease Characteristics, and Prior Therapies at Baseline (Intention-to-Treat [ITT] Population) a
@@ -448,13 +448,13 @@ The primary end point of noninferiority of guselkumab every 16 weeks vs every 8 
 
 ---
 
-### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^afbb1816]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^115VXgCm]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 Regarding medical management for psoriasis, more specifically with respect to biologic agents (guselkumab), AAD 2019 guidelines recommend to administer guselkumab at a dose of 100 mg as self-administered subcutaneous injections at week 0, week 4, and every 8 weeks thereafter.
 
 ---
 
-### A phase 2 trial of guselkumab versus adalimumab for plaque psoriasis [^c33389d8]. The New England Journal of Medicine (2015). Excellent credibility.
+### A phase 2 trial of guselkumab versus adalimumab for plaque psoriasis [^115zPu19]. The New England Journal of Medicine (2015). Excellent credibility.
 
 Background
 
@@ -474,7 +474,7 @@ The results of this phase 2 trial suggest that guselkumab may be an effective th
 
 ---
 
-### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^73091a2e]. Arthritis & Rheumatology (2022). Medium credibility.
+### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^113wYdjb]. Arthritis & Rheumatology (2022). Medium credibility.
 
 Efficacy
 
@@ -482,13 +482,13 @@ Clinical efficacy through week 24 and week 52 has been previously detailed. Brie
 
 ---
 
-### AGA living clinical practice guideline on the pharmacologic management of moderate-to-severe Crohn's disease [^848325cb]. Gastroenterology (2025). High credibility.
+### AGA living clinical practice guideline on the pharmacologic management of moderate-to-severe Crohn's disease [^114PTRAJ]. Gastroenterology (2025). High credibility.
 
 AGA Crohn's disease pharmacologic management — comparative benefits in advanced-therapy–naive individuals: In advanced therapy-naive individuals, most therapies demonstrated clinically important benefit compared with certolizumab pegol or upadacitinib, while differences between other advanced therapies were either of very low certainty or appeared to have trivial-to-small benefit (< 5% risk difference). When analyzing 4 trials with treat-straight-through designs, guselkumab every 8 weeks demonstrated possibly trivial benefit in comparison with adalimumab, and guselkumab dosed at 200 mg every 4 weeks demonstrated possibly trivial benefit in comparison to 100 mg every 8 weeks dosing (each low certainty of evidence).
 
 ---
 
-### Guselkumab efficacy by psoriasis disease severity and treatment history: VOYAGE 1 and 2 post hoc analyses [^d9ec579f]. Journal of Drugs in Dermatology (2025). Medium credibility.
+### Guselkumab efficacy by psoriasis disease severity and treatment history: VOYAGE 1 and 2 post hoc analyses [^116a5hUJ]. Journal of Drugs in Dermatology (2025). Medium credibility.
 
 Background
 
@@ -508,13 +508,13 @@ Durable guselkumab efficacy was sustained through 5 years of treatment among pat
 
 ---
 
-### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^a162bc67]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^1158GAuL]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 IL-23 inhibitor guselkumab — adult use and dosing: A level-of-evidence table for guselkumab lists monotherapy for adults, specifies a dosing schedule of 100 mg in wk 0 and wk 4, then every 8 wk, and includes types of psoriasis such as scalp, nail, and palmoplantar.
 
 ---
 
-### Guselkumab (Tremfya) [^ba9dacc4]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^115mffAs]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate-to-severe) is:
 
@@ -523,7 +523,7 @@ The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate
 
 ---
 
-### Guselkumab (Tremfya) [^be7a8287]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^115sPoEE]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate-to-severe) is:
 
@@ -532,7 +532,7 @@ The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate
 
 ---
 
-### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^7f9544eb]. Arthritis & Rheumatology (2021). Medium credibility.
+### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^114G9Zni]. Arthritis & Rheumatology (2021). Medium credibility.
 
 PATIENTS AND METHODS
 
@@ -550,7 +550,7 @@ DISCOVER‐2 (ClinicalTrials.gov identifier: NCT03158285) is being conducted acc
 
 ---
 
-### Safety of guselkumab in patients with moderate-to-severe psoriasis treated through 100 weeks: a pooled analysis from the randomized VOYAGE 1 and VOYAGE 2 studies [^fbee1c06]. The British Journal of Dermatology (2019). Medium credibility.
+### Safety of guselkumab in patients with moderate-to-severe psoriasis treated through 100 weeks: a pooled analysis from the randomized VOYAGE 1 and VOYAGE 2 studies [^117SVsUq]. The British Journal of Dermatology (2019). Medium credibility.
 
 Background
 
@@ -574,13 +574,13 @@ The safety profile for guselkumab remains favourable through 100 weeks of treatm
 
 ---
 
-### Real-world safety and effectiveness of guselkumab in patients with psoriasis: a post-marketing surveillance study through up to week 52 in Japan [^79a54c91]. The Journal of Dermatology (2025). Medium credibility.
+### Real-world safety and effectiveness of guselkumab in patients with psoriasis: a post-marketing surveillance study through up to week 52 in Japan [^1147M2PJ]. The Journal of Dermatology (2025). Medium credibility.
 
 Guselkumab is a monoclonal antibody that binds to the p19 subunit of interleukin-23 and inhibits its downstream signaling. The safety profile of guselkumab and its superior efficacy over placebo and adalimumab for the treatment of patients with moderate-to-severe psoriasis were reported in phase 3 studies conducted within and outside Japan. To assess the real-world safety and effectiveness of guselkumab in Japanese patients with psoriasis, we conducted a multicenter, single-arm, prospective, post-marketing surveillance study. Guselkumab was administered by subcutaneous injection at a dose of 100mg at weeks 0 and 4, then every following 8weeks. The patient observation period was 52weeks after the initial guselkumab dose or until treatment withdrawal. The safety analysis set consisted of 416 patients, including 310 patients with vulgaris (PsV); and the effectiveness analysis set consisted of 251 patients, including 236 patients with PsV or psoriatic arthritis (PsA). There were more men (71.3%, 221/310) than women among the PsV group. The median age among those with PsV was 58years, the median disease duration was 11.50years, 50.0% (155/310) had comorbidity, and 41.3% (128/310) had previously been treated with biologic agents. During the observation period, 8.4% (35/416) of patients experienced 49 adverse drug reactions, 2.9% (12/416) experienced 13 serious adverse drug reactions, and 3.4% (14/416) experienced 16 adverse events leading to treatment discontinuation. In the effectiveness analysis set of 236 patients with PsV or PsA, the Psoriasis Area and Severity Index (PASI) 75, 90, and 100 response rates at week 52 were 69.9%, 54.5%, and 32.5%, respectively. Bio-naïve patients consistently had higher PASI 75 and 90 response rates than bio-experienced patients. This post-marketing surveillance study demonstrated that guselkumab was well-tolerated and effective in a real-world setting in Japanese patients with psoriasis.
 
 ---
 
-### Guselkumab: a new therapeutic option for the treatment of moderately to severely active ulcerative colitis [^b9eab255]. The Annals of Pharmacotherapy (2025). Medium credibility.
+### Guselkumab: a new therapeutic option for the treatment of moderately to severely active ulcerative colitis [^115kdYPn]. The Annals of Pharmacotherapy (2025). Medium credibility.
 
 Objective
 
@@ -604,7 +604,7 @@ As the latest addition to UC therapies, guselkumab presents improved efficacy an
 
 ---
 
-### Guselkumab (Tremfya) [^53ae37dc]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^11394VSB]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of plaque psoriasis in adults (moderate-to-severe, eligible for systemic therapy or phototherapy) is:
 
@@ -613,7 +613,7 @@ The dosage of guselkumab SC for treatment of plaque psoriasis in adults (moderat
 
 ---
 
-### Guselkumab (Tremfya) [^f2cbdbe4]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^117CxUh1]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moderate-to-severe) is:
 
@@ -622,7 +622,7 @@ The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moder
 
 ---
 
-### Guselkumab (Tremfya) [^95d47c94]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^114q8XZd]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moderate-to-severe) is:
 
@@ -631,7 +631,7 @@ The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moder
 
 ---
 
-### Guselkumab (Tremfya) [^53a1b814]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^1138zHw1]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate-to-severe) is:
 
@@ -640,7 +640,7 @@ The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate
 
 ---
 
-### Guselkumab (Tremfya) [^3e5dade0]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^112bThVR]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moderate-to-severe) is:
 
@@ -649,7 +649,7 @@ The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moder
 
 ---
 
-### Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: results from the phase III, double-blinded, placebo-and active comparator-controlled VOYAGE 1 trial [^175a432b]. Journal of the American Academy of Dermatology (2017). Low credibility.
+### Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: results from the phase III, double-blinded, placebo-and active comparator-controlled VOYAGE 1 trial [^111bd2wC]. Journal of the American Academy of Dermatology (2017). Low credibility.
 
 Background
 
@@ -677,7 +677,7 @@ Guselkumab demonstrated superior efficacy compared with adalimumab and was well 
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^bb7c002e]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^115nxLRj]. Rheumatology (2021). Medium credibility.
 
 Network meta-analysis results
 
@@ -694,7 +694,7 @@ Treatment nodes are sized to reflect the proportionate number of patients random
 
 ---
 
-### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^7158a7e2]. Arthritis & Rheumatology (2022). Medium credibility.
+### Long-term efficacy and safety of guselkumab, a monoclonal antibody specific to the p19 subunit of interleukin-23, through two Years: results from a phase III, randomized, double-blind, placebo-controlled study conducted in biologic-naive patients with active psoriatic arthritis [^113u3Nzu]. Arthritis & Rheumatology (2022). Medium credibility.
 
 Figure 1
 Proportions of patients achieving American College of Rheumatology ≥ 20% improvement criteria (ACR20) (A and B), ACR50 (C and D), and ACR70 (E and F) responses through week 100. Response rates derived using nonresponder imputation (NRI) for missing data (see Patients and Methods) are shown in panels A, C, and E; response rates from weeks 24–100 derived from observed data are shown in panels B, D, and F. The dashed vertical line at week 24 indicates placebo (PBO) crossover to guselkumab (GUS) administered every 4 weeks (Q4W); gray shading indicates post hoc NRI data. Q8W = every 8 weeks.
@@ -703,13 +703,13 @@ Among patients with available radiographs (reading session 3) in the guselkumab 
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^c3ea6c88]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^1161TKu9]. JAMA Dermatology (2024). High credibility.
 
 Michielsens et alidentified 19 studies evaluating tapering of biologic therapy in psoriasis. One of these was the large-scale phase 3b OPTIMISE trial, which determined that the treatment interval for secukinumab (an IL-17 inhibitor) could not be extended from every 4 weeks to every 6 weeks without impacting efficacy and overall persistence. Meanwhile, a post hoc exploratory analysis of the phase 3 PSTELLAR clinical trial demonstrated that patients who achieved a Physician's Global Assessment score of 0 after 28 weeks of ustekinumab (an IL-12/23 inhibitor) treatment were able to maintain high levels of clinical response following dosing interval extension up to every 24 weeks. Similarly, in a clinical study of patients who achieved a PASI of 0 after the third administration of guselkumab, extension of the dosing interval did not result in loss of disease control. Together, these results suggest that early response to IL-23 inhibition may be a key determinant of effective disease control with dosing interval extension. However, given the molecular and pathomechanistic differences of approved IL-23 inhibitors, further studies are needed to address this possibility for other agents in this class. These data also suggest that maintenance of efficacy following dose de-escalation may vary across biologic treatment classes as a result of their differential therapeutic impact on pathogenic mechanisms. Specifically, IL-17–producing CD8-positive TRM cells are known to be responsible for the recurrence of psoriasis skin lesions in previously affected areas, and that IL-23, but not IL-17, has a key role in the differentiation, expansion, and survival of TRM cells. Reflective of our findings in the GUIDE trial, the ECLIPSE trialdemonstrated that guselkumab decreased the frequency of CD8-positive TRM cells in lesional skin at W24 relative to baseline, whereas treatment with the IL-17 inhibitor secukinumab did not. Therefore, the effect of guselkumab on TRM cells may explain how SRes can maintain high levels of response with an extended dosing interval. This may also account for the long-term maintenance of response typically observed with guselkumab treatment, even after withdrawal of guselkumab. Maintenance of response after withdrawal of guselkumab will be further evaluated in part 3 of the GUIDE trial.
 
 ---
 
-### Guselkumab, an inhibitor of the IL-23p19 subunit, provides sustained improvement in signs and symptoms of active psoriatic arthritis: 1 year results of a phase III randomised study of patients who were biologic-naïve or TNF α inhibitor-experienced [^fb4f7678]. RMD Open (2021). Medium credibility.
+### Guselkumab, an inhibitor of the IL-23p19 subunit, provides sustained improvement in signs and symptoms of active psoriatic arthritis: 1 year results of a phase III randomised study of patients who were biologic-naïve or TNF α inhibitor-experienced [^117Raao1]. RMD Open (2021). Medium credibility.
 
 Objective
 
@@ -729,7 +729,7 @@ Guselkumab provided sustained improvement across multiple clinical manifestation
 
 ---
 
-### Guselkumab (Tremfya) [^de878700]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^116gumr7]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moderate-to-severe) is:
 
@@ -738,7 +738,7 @@ The dosage of guselkumab SC for treatment of ulcerative colitis in adults (moder
 
 ---
 
-### Guselkumab (Tremfya) [^59dd5a19]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^113JEFN8]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate-to-severe) is:
 
@@ -747,7 +747,7 @@ The dosage of guselkumab SC for treatment of Crohn's disease in adults (moderate
 
 ---
 
-### 16-week vs 8-week guselkumab dosing in super responders for control of psoriasis… [^65413cfd]. JAMA Network (2024). Excellent credibility.
+### 16-week vs 8-week guselkumab dosing in super responders for control of psoriasis… [^113b7fQY]. JAMA Network (2024). Excellent credibility.
 
 dvs W0 nonlesional skin, P <.
 01. Question Is guselkumab dosing every 16 weeks noninferior to standard dosing every 8 weeks for maintenance of psoriasis disease control, defined as a Psoriasis Area and Severity Index lower than 3 at week 68, in super responders. Findings This phase 3b clinical trial randomized 149 guselkumab SRes to guselkumab every 16 weeks dosing and 148 SRes to every 8 weeks dosing at W28 and demonstrated noninferiority of every 16 weeks dosing for maintenance of disease control, meeting the primary end point; clinical effects corresponded with immunologic changes. Interventions In GUIDE part 1, patients received guselkumab, 100 mg, at W0, W4, W12, and W20. Those achieving a Psoriasis Area and Severity Index of 0 at both W20 and W28 were termed super responders. In part 2, SRes were randomized to guselkumab, 100 mg, every 8 weeks or every 16 weeks; non-SRes continued open-label guselkumab every 8 weeks.
@@ -762,7 +762,7 @@ In part 2, SRes were randomized to continue receiving guselkumab, 100 mg, every 
 
 ---
 
-### Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: results from the phase III, double-blind, placebo-and active comparator-controlled VOYAGE 2 trial [^0dce86ac]. Journal of the American Academy of Dermatology (2017). Low credibility.
+### Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: results from the phase III, double-blind, placebo-and active comparator-controlled VOYAGE 2 trial [^111MUD7h]. Journal of the American Academy of Dermatology (2017). Low credibility.
 
 Background
 
@@ -790,7 +790,7 @@ Guselkumab is a highly effective, well-tolerated, maintenance therapy, including
 
 ---
 
-### Guselkumab, an inhibitor of the IL-23p19 subunit, provides sustained improvement in signs and symptoms of active psoriatic arthritis: 1 year results of a phase III randomised study of patients who were biologic-naïve or TNF α inhibitor-experienced [^80b2d7b7]. RMD Open (2021). Medium credibility.
+### Guselkumab, an inhibitor of the IL-23p19 subunit, provides sustained improvement in signs and symptoms of active psoriatic arthritis: 1 year results of a phase III randomised study of patients who were biologic-naïve or TNF α inhibitor-experienced [^114HoVCz]. RMD Open (2021). Medium credibility.
 
 Objective
 
@@ -810,13 +810,13 @@ Guselkumab provided sustained improvement across multiple clinical manifestation
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^e990f050]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^116yGoJ7]. JAMA Dermatology (2024). High credibility.
 
 SRes maintained high rates of PASI of 1 or lower and PASI of 0 response over time and at W68, with higher response rates with every 8 weeks vs every 16 weeks dosing (PASI ≤ 1 at W68: 133/148 every 8 weeks [89.9%], and 118/149 patients [79.2%] dosed every 16 weeks; P = 0.01; PASI = 0 at W68: 120/148 every 8 weeks [81.1%], and 103/149 patients [69.1%] dosed every 16 weeks; P = 0.02; Figure 1, C-F; eTable 2 in Supplement 3). Mean PASI and affected BSA (%) improved rapidly from baseline and remained low to W68 with both dosing intervals in SRes (Figure 1 G; eFigure 3, eTable 3 in Supplement 3). SRes also achieved high rates of PASI 75 (137/148 dosed every 8 weeks [92.6%], and 140/149 patients [94.0%] dosed every 16 weeks; P = 0.63) and PASI 90 (136/148 dosed every 8 weeks [91.9%], and 128/149 patients [85.9%] dosed every 16 weeks; P = 0.10) responses at W68, with no statistically significant differences observed between every 8 weeks and 16 week dosing intervals (eFigure 4, eTable 2 in Supplement 3). Similarities in PASI responses between dosing groups were also observed using individual patient data (eFigure 5 in Supplement 3).
 
 ---
 
-### Resolution of enthesitis by guselkumab and relationships to disease burden: 1-year results of two phase 3 psoriatic arthritis studies [^4d81923d]. Rheumatology (2021). Medium credibility.
+### Resolution of enthesitis by guselkumab and relationships to disease burden: 1-year results of two phase 3 psoriatic arthritis studies [^112yuZx8]. Rheumatology (2021). Medium credibility.
 
 Objective
 
@@ -840,13 +840,13 @@ DISCOVER 1 (NCT03162796) and DISCOVER 2 (NCT03158285).
 
 ---
 
-### ACG clinical guideline: management of Crohn's disease in adults [^e7e09be7]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline: management of Crohn's disease in adults [^116vmaqL]. The American Journal of Gastroenterology (2025). High credibility.
 
 Guselkumab induction and maintenance in Crohn's disease — The GALAXI-1 phase 2, double-blind, placebo-controlled study randomized patients 1:1:1:1 to intravenous guselkumab 200 mg, 600 mg, or 1200 mg at weeks 0, 4, and 8, intravenous ustekinumab approximately 6 mg/kg at week 0 and 90 mg subcutaneously at week 8, or placebo. At week 12, guselkumab-treated groups achieved remission defined by Crohn's Disease Activity Index (CDAI) < 150 in 57.4%, 55.6%, and 45.9% versus 16.4% with placebo (all, P < 0.05). A subsequent phase 2b maintenance study ran from week 12 to week 48 with dose reductions to 100 mg every 8 weeks or 200 mg every 4 weeks depending on induction regimen. Two phase 3 trials (GALAXI-2 and GALAXI-3) were two 48-week double-blind placebo-controlled, triple-dummy trials with arms including guselkumab 200 mg at weeks 0, 4 and 8 then guselkumab 100 mg subcutaneously every 8 weeks starting at week 16 and ustekinumab ~6 mg/kg IV then ustekinumab 90 mg sc every 8 weeks; the primary analysis evaluated 508 patients in GALAXI 2 and 513 patients in GALAXI 3, and both trials demonstrated that guselkumab was statistically superior to ustekinumab for multiple endpoints at week 48 including endoscopic response, endoscopic remission, clinical remission and deep remission.
 
 ---
 
-### Guselkumab (Tremfya) [^62c53e0b]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^113XS3D4]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -872,7 +872,7 @@ Following subcutaneous maintenance dosing of 100 mg TREMFYA every 8 weeks, or 20
 
 ---
 
-### Guselkumab versus secukinumab for the treatment of moderate-to-severe psoriasis (ECLIPSE): results from a phase 3, randomised controlled trial [^04d15833]. Lancet (2019). Excellent credibility.
+### Guselkumab versus secukinumab for the treatment of moderate-to-severe psoriasis (ECLIPSE): results from a phase 3, randomised controlled trial [^11189GVG]. Lancet (2019). Excellent credibility.
 
 Background
 
@@ -896,7 +896,7 @@ This study was funded by Janssen Research & Development.
 
 ---
 
-### Drug survival, effectiveness and safety of guselkumab for moderate-to-severe psoriasis for up to 4 years [^92726f7f]. Clinical and Experimental Dermatology (2025). Medium credibility.
+### Drug survival, effectiveness and safety of guselkumab for moderate-to-severe psoriasis for up to 4 years [^114k7dXc]. Clinical and Experimental Dermatology (2025). Medium credibility.
 
 Background
 
@@ -920,7 +920,7 @@ Our study confirms the good effectiveness and favourable safety profile of gusel
 
 ---
 
-### SPECTREM phase 3b clinical trial results through week 16: guselkumab efficacy and safety for the treatment of low body surface area, moderate psoriasis with high-impact site involvement [^0e8ed1f5]. The British Journal of Dermatology (2025). Medium credibility.
+### SPECTREM phase 3b clinical trial results through week 16: guselkumab efficacy and safety for the treatment of low body surface area, moderate psoriasis with high-impact site involvement [^111NaoJk]. The British Journal of Dermatology (2025). Medium credibility.
 
 Background
 
@@ -948,7 +948,7 @@ NCT06039189.
 
 ---
 
-### Improvement in patient-reported outcomes (dermatology life quality index and the psoriasis symptoms and signs diary) with guselkumab in moderate-to-severe plaque psoriasis: results from the phase III VOYAGE 1 and VOYAGE 2 studies [^8a875df7]. American Journal of Clinical Dermatology (2019). Medium credibility.
+### Improvement in patient-reported outcomes (dermatology life quality index and the psoriasis symptoms and signs diary) with guselkumab in moderate-to-severe plaque psoriasis: results from the phase III VOYAGE 1 and VOYAGE 2 studies [^114YNm42]. American Journal of Clinical Dermatology (2019). Medium credibility.
 
 Patients and Methods
 
@@ -958,20 +958,20 @@ VOYAGE 1 (NCT02207231) and VOYAGE 2 (NCT02207244) are phase III, multicenter, ra
 
 ---
 
-### AGA living clinical practice guideline on pharmacological management of moderate-to-severe ulcerative colitis [^e3cb6494]. Gastroenterology (2024). High credibility.
+### AGA living clinical practice guideline on pharmacological management of moderate-to-severe ulcerative colitis [^116piWPD]. Gastroenterology (2024). High credibility.
 
 Guselkumab compared with placebo for moderate-to-severe ulcerative colitis shows benefit for induction and maintenance of clinical remission: For induction, placebo risk was 32/385 (8.3%) versus 121/522 (23.2%) with guselkumab, RR 2.82 (1.95–4.08), yielding 182 more per 1000 (from 95 more to 308 more), across 907 (2 RCTs) with Quality of the evidence (GRADE) MODERATE; for maintenance, placebo risk was 36/190 (18.9%), guselkumab 100 mg q8w (every 8 weeks) had 85/188 (45.2%) with RR 2.39 (1.71–3.33) and 209 more per 1000 (from 107 more to 350 more), and 200 mg q4w (every 4 weeks) had 95/190 (50.0%) with RR 2.64 (1.90–3.66) and 246 more per 1000 (from 135 more to 399 more), from 568 (1 RCT) with MODERATE evidence.
 
 ---
 
-### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^051bc370]. American Journal of Clinical Dermatology (2024). Medium credibility.
+### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^1118aGHV]. American Journal of Clinical Dermatology (2024). Medium credibility.
 
 Fig. 4
 Comparison of mean guselkumab serum concentration between the PASI = 0 group and comparator group over time. Guselkumab plasma trough concentrations were assessed prior to treatment and between Weeks 4 and 156 from the start of guselkumab treatment. Plasma levels at Weeks 4, 8, 16, and 24 were measured 4 weeks after guselkumab treatment; plasma levels at Week 12 and every 8 weeks until Week 156 were measured 8 weeks after guselkumab treatment. Guselkumab or placebo administrations during the first 156 weeks are indicated by dashed lines in the figure. From Week 28 onwards, only trough levels were assessed. Data from visits where n ≤ 3 have been excluded. GUS guselkumab, PASI Psoriasis Area and Severity Index
 
 ---
 
-### Real-world safety and effectiveness of guselkumab in patients with psoriasis: a post-marketing surveillance study through up to week 52 in Japan [^ea946c20]. The Journal of Dermatology (2025). Medium credibility.
+### Real-world safety and effectiveness of guselkumab in patients with psoriasis: a post-marketing surveillance study through up to week 52 in Japan [^116zmxSj]. The Journal of Dermatology (2025). Medium credibility.
 
 2 METHODS
 
@@ -985,7 +985,7 @@ Japanese patients with PsV, PsA, GPP, or EP were registered within 14 days of th
 
 ---
 
-### Guselkumab (Tremfya) [^f700df2e]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^117KCEbF]. FDA (2025). Medium credibility.
 
 The dosage of guselkumab SC for treatment of psoriatic arthritis in adults (active) is:
 
@@ -994,13 +994,13 @@ The dosage of guselkumab SC for treatment of psoriatic arthritis in adults (acti
 
 ---
 
-### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^d2af3ad3]. The Journal of Dermatology (2025). Medium credibility.
+### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^116PMFvz]. The Journal of Dermatology (2025). Medium credibility.
 
 Clinical trials have demonstrated the efficacy and safety of guselkumab in patients with moderate-to-severe plaque psoriasis. Real-world evidence for guselkumab in Korea is needed to establish drug safety and effectiveness under real-world practice in this population. This study assessed the effectiveness, safety, and drug survival of guselkumab in Korean patients with moderate-to-severe plaque psoriasis in a real-world clinical setting. In this prospective, non-interventional observational study conducted at 44 clinical centers in South Korea, adult patients with moderate-to-severe plaque psoriasis who would receive guselkumab per the product label were enrolled. Disease assessment was performed at visits 1 (baseline, week 0), 2 (approximately week 4), and 3–7 (approximately every 8weeks after week 4, weeks 12–44). Between February 25, 2019 and March 25, 2022, 707 patients were enrolled and 562 (79.5%) had completed the 56-week observation period. The proportions of patients with an absolute Psoriasis Area and Severity Index (PASI) score of ≤ 3, ≤ 2, or ≤ 1 reached maximums of 96.0%, 86.7%, and 59.0%, respectively, at visit 7. A significantly greater proportion of biologic-naïve (vs. biologic-experienced) patients achieved absolute PASI ≤ 3 by visits 5–7 (p = 0.001 at visit 7) and absolute PASI ≤ 2 by visits 6–7 (p = 0.0014 at visit 7). Dermatology Life Quality Index (DLQI) scores decreased over time, with 64.1% of patients achieving DLQI 0/1 by visit 7; results were similar regardless of prior biologic therapy. The estimated drug-survival rate at 1year was 92.7%. Adverse events (AEs) occurred in 22.5% of patients, with an incidence rate of 42.1 per 100 patient years (PY); 14 serious AEs occurred in 13 (1.8%) patients, with an incidence rate (95% confidence interval) of 2.4 (1.2–3.7) per 100 PY. Guselkumab administered under approved label conditions was effective and well-tolerated in Korean patients with moderate-to-severe plaque psoriasis in a real-world clinical setting.
 
 ---
 
-### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^7243c835]. The Journal of Dermatology (2025). Medium credibility.
+### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^113vQMdN]. The Journal of Dermatology (2025). Medium credibility.
 
 2.2 Outcomes
 
@@ -1010,7 +1010,7 @@ Since this was a real‐world study, the frequency and timing of treatment admin
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: updates to a systematic literature review and network meta-analysis [^b5e54356]. Rheumatology (2023). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: updates to a systematic literature review and network meta-analysis [^115efmQq]. Rheumatology (2023). Medium credibility.
 
 NMA results
 
@@ -1021,7 +1021,7 @@ Evidence network for multi-ACR. The network includes all treatments and doses th
 
 ---
 
-### Five-year maintenance of clinical response and health-related quality of life improvements in patients with moderate-to-severe psoriasis treated with guselkumab: results from VOYAGE 1 and VOYAGE 2 [^523dc76f]. The British Journal of Dermatology (2021). Medium credibility.
+### Five-year maintenance of clinical response and health-related quality of life improvements in patients with moderate-to-severe psoriasis treated with guselkumab: results from VOYAGE 1 and VOYAGE 2 [^1136vjfL]. The British Journal of Dermatology (2021). Medium credibility.
 
 Background
 
@@ -1045,13 +1045,13 @@ Guselkumab maintains high levels of clinical response and improvement in patient
 
 ---
 
-### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^2b9c459c]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics [^1127exYK]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 Table XXVII. FDA-approved biologic agents for psoriasis — ixekizumab, brodalumab, guselkumab, and tildrakizumab dosing: Ixekizumab loading is 160-mg subcutaneous injection followed by 80 mg on wk 2, wk 4, wk 6, wk 8, wk 10, and wk 12, with maintenance 80-mg subcutaneous injection every 4 wk; Brodalumab loading is 210-mg subcutaneous injection on wk 0, wk 1, wk 2, with maintenance 210-mg subcutaneous injection every 2 wk; Guselkumab loading is 100-mg subcutaneous injection on wk 0 and wk 4 and every 8 wk thereafter, with maintenance 100-mg subcutaneous injection every 8 wk; Tildrakizumab loading is 100 mg administered subcutaneously initially and 4 wk later, with maintenance 100 mg administered subcutaneously every 12 wk.
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^82150e25]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^114KrTpp]. Rheumatology (2021). Medium credibility.
 
 Introduction
 
@@ -1061,7 +1061,7 @@ Guselkumab is a monoclonal antibody currently approved for the treatment of psor
 
 ---
 
-### Guselkumab, a human interleukin-23 monoclonal antibody in Japanese patients with generalized pustular psoriasis and erythrodermic psoriasis: efficacy and safety analyses of a 52-week, phase 3, multicenter, open-label study [^c2c82015]. The Journal of Dermatology (2018). Low credibility.
+### Guselkumab, a human interleukin-23 monoclonal antibody in Japanese patients with generalized pustular psoriasis and erythrodermic psoriasis: efficacy and safety analyses of a 52-week, phase 3, multicenter, open-label study [^115ympRi]. The Journal of Dermatology (2018). Low credibility.
 
 Study design
 
@@ -1072,7 +1072,7 @@ Figure 1
 
 ---
 
-### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^1cb14ad8]. Rheumatology (2023). Medium credibility.
+### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^111jYCpo]. Rheumatology (2023). Medium credibility.
 
 At week 24, greater proportions of guselkumab- than placebo-treated patients achieved near or complete remission when assessed with DAPSA (≤ 4) and cDAPSA (≤ 4) remission, PASDAS VLDA (≤ 1.9), and VLDA (seven of seven components) composite indices (Fig. 2). Guselkumab-treated patients separated from the placebo group as early as week 12 for DAPSA and cDAPSA remission, at week 16 for PASDAS VLDA, and at week 24 for VLDA.
 
@@ -1085,7 +1085,7 @@ In the pooled results, no notable differences in response rates were observed be
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^bd5b2af6]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^115qjHMX]. Rheumatology (2021). Medium credibility.
 
 All but two included studies reported PASI 75 response, most reported PASI 90 response, and few reported PASI 100 response. The baseline risk-adjusted model was used for all PASI outcomes (Supplementary Table S6, available at Rheumatology online). Guselkumab Q8W ranked second in the network and had a better PASI 90 response than many other treatments, including TNFs and lower doses of secukinumab, as demonstrated by guselkumab ranking higher and lack of overlap in 95% CrI (Fig. 5). Similar results were observed for PASI 75 response (Supplementary Fig. S22, available at Rheumatology online). For PASI 100, low baseline event rates led to uncertainty in pairwise estimates, with guselkumab Q8W ranking fourth and being comparable to other active treatments, as demonstrated by overlap in 95% CrI (Supplementary Fig. S24, available at Rheumatology online). Comparisons vs guselkumab Q4W were similar to those vs Q8W for all PASI responses (Supplementary Figs S22 to S24, available at Rheumatology online). 5
 Forest plot with pairwise comparisons of guselkumab Q8W vs all comparators for PASI 90
@@ -1094,7 +1094,7 @@ Comparisons are shown in terms of RRs and 95% CrIs. Treatments are grouped by th
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^5ed53a26]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^113RbTVP]. Rheumatology (2021). Medium credibility.
 
 Adverse event outcomes
 
@@ -1105,7 +1105,7 @@ Comparisons are shown in terms of RRs and 95% CrIs. Treatments are grouped by th
 
 ---
 
-### Guselkumab for the treatment of Crohn's disease: induction results from the phase 2 GALAXI-1 study [^d42de8c0]. Gastroenterology (2022). Medium credibility.
+### Guselkumab for the treatment of Crohn's disease: induction results from the phase 2 GALAXI-1 study [^116RZo8K]. Gastroenterology (2022). Medium credibility.
 
 Background & Aims
 
@@ -1129,7 +1129,7 @@ gov, Number: NCT03466411.
 
 ---
 
-### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^5417c7ad]. American Journal of Clinical Dermatology (2024). Medium credibility.
+### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^1139fwwi]. American Journal of Clinical Dermatology (2024). Medium credibility.
 
 Fig. 1
 VOYAGE 1 clinical trial design, including open-label extension through Year 5. a The last dose of guselkumab was administered at Week 252; efficacy was evaluated through Week 252. b Safety was evaluated through Week 264. ADA adalimumab, GUS guselkumab, q2w every 2 weeks, q8w every 8 weeks, R randomization
@@ -1138,7 +1138,7 @@ To better understand the relationship between patient characteristics and long-t
 
 ---
 
-### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^ed57e7ae]. The British Journal of Dermatology (2020). Medium credibility.
+### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^1174sbKK]. The British Journal of Dermatology (2020). Medium credibility.
 
 Background
 
@@ -1162,7 +1162,7 @@ Ixekizumab was superior to guselkumab for rapidly improving signs and symptoms i
 
 ---
 
-### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^e6f27a87]. The British Journal of Dermatology (2020). Medium credibility.
+### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^116uPbgS]. The British Journal of Dermatology (2020). Medium credibility.
 
 Summary
 
@@ -1201,7 +1201,7 @@ Ixekizumab can deliver patients complete skin clearance and improved quality of 
 
 ---
 
-### Composite measures of disease activity in psoriatic arthritis: comparative instrument performance based on the efficacy of guselkumab in an interventional phase II trial [^48e57245]. Arthritis Care & Research (2020). Medium credibility.
+### Composite measures of disease activity in psoriatic arthritis: comparative instrument performance based on the efficacy of guselkumab in an interventional phase II trial [^112s5BGQ]. Arthritis Care & Research (2020). Medium credibility.
 
 Patients and Methods
 
@@ -1221,7 +1221,7 @@ Eligible patients included adults with PsA according to the Classification Crite
 
 ---
 
-### Guselkumab, an anti-interleukin-23 monoclonal antibody, for the treatment of moderate to severe plaque-type psoriasis in Japanese patients: efficacy and safety results from a phase 3, randomized, double-blind, placebo-controlled study [^41f05041]. The Journal of Dermatology (2018). Low credibility.
+### Guselkumab, an anti-interleukin-23 monoclonal antibody, for the treatment of moderate to severe plaque-type psoriasis in Japanese patients: efficacy and safety results from a phase 3, randomized, double-blind, placebo-controlled study [^112gkv16]. The Journal of Dermatology (2018). Low credibility.
 
 These findings further support that guselkumab by targeting the IL‐23 pathway can be a valuable therapeutic option in management of psoriasis. IL‐23, besides its influence on promoting proliferation and survival of IL‐17A‐producing Th17 cells, is found to be associated with stimulation of additional Th17 cytokines (e.g. IL‐22), which may also be produced by other cell types (e.g. Th22 cells, innate lymphoid type 3 cells and γδ T cells). 22, 23, 24 Therefore, selective blockade of IL‐23 may result in inhibition of pathogenic Th17 cells and preclude downstream production of multiple effector cytokines such as IL‐17A, IL‐22 and TNF‐α, 25 and may also enhance accumulation of regulatory T cells. 26 Because many cells other than Th17 produce IL‐17A and/or IL‐22 in response to IL‐23, inhibition of IL‐23 may impact the regulation of these pathogenic cells by IL‐23 and their cytokine production. 22, 23, 24 This may possibly explain the sustained effects of guselkumab observed in treating psoriasis and why longer dosing intervals are possible compared with other biologics such as anti‐TNF‐α and anti‐IL‐17 agents. 17
 
@@ -1229,7 +1229,7 @@ In conclusion, guselkumab demonstrated robust efficacy and a favorable safety pr
 
 ---
 
-### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^29b90a05]. Rheumatology (2023). Medium credibility.
+### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^1124reQc]. Rheumatology (2023). Medium credibility.
 
 Active treatment period after week 24 through week 52
 
@@ -1241,7 +1241,7 @@ Across all composite indices, no notable differences in response rates were obse
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^11ada89b]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^111TD7w8]. Rheumatology (2021). Medium credibility.
 
 Guselkumab Q8W was ranked eighth in the network and had a comparable ACR 20 response to IL-17A inhibitors and subcutaneous TNF inhibitors as demonstrated by overlap in 95% CrI (Fig. 3). Similar results were observed for guselkumab Q4W in the full league table of results (Supplementary Fig. S18, available at Rheumatology online). Of note, guselkumab Q8W had a better ACR 20 response than ustekinumab 45 mg, abatacept and apremilast, as demonstrated by guselkumab ranking higher and lack of overlap in 95% CrI. Intravenous (IV) golimumab had a better ACR 20 response than guselkumab Q8W, as demonstrated by guselkumab ranking lower and lack of overlap in 95% CrI. Similar results were observed for ACR 50 and 70 response, although additional uncertainty in comparative effect estimates and variable treatment rankings was observed due to the lower baseline event rates associated with ACR 50 and 70 (Supplementary Figs S19 and S20, available at Rheumatology online). 3
 Forest plot with pairwise comparisons of guselkumab Q8W vs all comparators for ACR 20
@@ -1250,7 +1250,7 @@ Comparisons are shown in terms of RRs and 95% CrIs. Treatments are grouped by th
 
 ---
 
-### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^23a76f5d]. American Journal of Clinical Dermatology (2024). Medium credibility.
+### Guselkumab-treated patients with plaque psoriasis who achieved complete skin clearance for ≥ 156 consecutive weeks: a post-hoc analysis from the VOYAGE 1 clinical trial [^111urom6]. American Journal of Clinical Dermatology (2024). Medium credibility.
 
 In addition, Week 4 guselkumab plasma concentration (Week 4 of the study for those in the guselkumab arm of the study and Week 20 of the study for those in the placebo crossover arm) was also included in the regression model. Guselkumab plasma trough concentrations in both response groups were assessed prior to treatment between Weeks 4 and 156 after the start of guselkumab treatment. Plasma levels at Weeks 4, 8, 16, and 24 were measured 4 weeks after guselkumab treatment; plasma levels at Week 12 and every 8 weeks until Week 156 were measured 8 weeks after guselkumab treatment.
 
@@ -1258,13 +1258,13 @@ The odds ratios obtained from multiple logistic regression analysis indicate the
 
 ---
 
-### Guselkumab dosing interval optimization in adult patients with moderate-to-severe psoriasis switching from ustekinumab [^a0290790]. Dermatologic Therapy (2022). Medium credibility.
+### Guselkumab dosing interval optimization in adult patients with moderate-to-severe psoriasis switching from ustekinumab [^1156SoQj]. Dermatologic Therapy (2022). Medium credibility.
 
 Psoriasis (PSO) is an inflammatory disease that emerges as a dysregulation of the interleukin 23 (IL23)/Th17 axis. There are many biologic alternatives to treat PSO that are administered monthly, every 2 months and every 3months. Guselkumab (GUS) is a fully human monoclonal antibody, that selectively blocks IL-23 through binding to its p19 subunit. There is scarce evidence on dose optimization of GUS in psoriatic patients. Retrospective, observational case series review which includes patients with moderate-to-severe PSO who switched from ustekinumab to GUS as standard dosing or every 12weeks, regarding daily clinical practice of every dermatology unit. Clinical and demographic data from patients were included from February 2019 to October 2021. Analyses were performed "as observed" using GraphPad Prism version 8.3.0 for Windows (GraphPad Software, San Diego, CA, USA, www.graphpad.com). A total of 30 patients were included in this study: 20 receiving GUS as standard of care (SC) and 10 receiving an optimized dosing (Q12W) (GUS every 12weeks without induction). The Q12W group presented greater percentage of comorbidities and was less refractory to previous biologic treatments. After receiving GUS as SC or Q12W, psoriasis area severity index and dermatology life quality index improved dramatically in both groups up to 52weeks. Survival was 87.2% and 100% for the SC and Q12W, respectively, and there were not safety signals. Our case series of 10 patients receiving GUS every 12weeks without induction showed a good effectiveness and safety profile accompanied by an excellent treatment survival. However, more studies are needed to provide strong evidence of dosing alternatives different than SC.
 
 ---
 
-### Safety of guselkumab treatment for up to 5 years in patients with moderate-to-severe psoriasis: pooled analyses across seven clinical trials with more than 8600 patient-years of exposure [^1edfe132]. The British Journal of Dermatology (2023). Medium credibility.
+### Safety of guselkumab treatment for up to 5 years in patients with moderate-to-severe psoriasis: pooled analyses across seven clinical trials with more than 8600 patient-years of exposure [^111nmpyw]. The British Journal of Dermatology (2023). Medium credibility.
 
 Background
 
@@ -1288,7 +1288,7 @@ In this comprehensive analysis of 2891 guselkumab-treated patients with psoriasi
 
 ---
 
-### Resolution of enthesitis by guselkumab and relationships to disease burden: 1-year results of two phase 3 psoriatic arthritis studies [^a22ea4cb]. Rheumatology (2021). Medium credibility.
+### Resolution of enthesitis by guselkumab and relationships to disease burden: 1-year results of two phase 3 psoriatic arthritis studies [^1159SfM4]. Rheumatology (2021). Medium credibility.
 
 Methods
 
@@ -1304,13 +1304,13 @@ The studies were conducted in compliance with the Declaration of Helsinki and In
 
 ---
 
-### Real-life experience of guselkumab in patients with psoriasis [^47835416]. Dermatologic Therapy (2020). Medium credibility.
+### Real-life experience of guselkumab in patients with psoriasis [^112q2EVb]. Dermatologic Therapy (2020). Medium credibility.
 
 High levels of efficacy were demonstrated in randomized controlled trials assessing the efficacy of guselkumab; however, real-life data are lacking. In this retrospective cohort study, we assessed the efficacy and safety of guselkumab in a cohort of psoriasis patients heavily pretreated with biologic agents. Primary efficacy endpoint was the percentage of patients achieving ≥ psoriasis area and severity index (PASI) 90 response at week 24. The cohort included 33 patients of mean age 60 ± 13years. Guselkumab was initiated after a mean of 4.0 ± 1.0 prior biologics failed over a mean period of 7. 4 ± 3.8years. The mean duration of guselkumab treatment was 9.5 ± 3.7 months; 29 patients completed at least 24weeks of treatment. At week 24, 22 patients (76%) achieved response of PASI 75 or higher, 18 (62%) achieved PASI 90 or higher, five (17%) PASI 100, and seven (24%) ≤ PASI 50. No adverse effects were observed. This study confirms the efficacy and safety of guselkumab in real-world clinical practice, although for a lesser degree compared with clinical trials.
 
 ---
 
-### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^9043e01a]. The Journal of Dermatology (2025). Medium credibility.
+### Effectiveness and safety of guselkumab in patients with moderate-to-severe plaque psoriasis in real-world practice in Korea: a prospective, multicenter, observational, postmarketing surveillance study [^114gt1uB]. The Journal of Dermatology (2025). Medium credibility.
 
 5 Conclusions
 
@@ -1318,7 +1318,7 @@ Guselkumab administered under approved label recommendations was effective and w
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^435b336c]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^112iroco]. JAMA Dermatology (2024). High credibility.
 
 Though treatment de-escalation of biologics for psoriasis may be attempted in daily practice, evidence-based treatment guidelines and algorithms for suitable patients are limited. As part of a recent modified Delphi procedure, van der Schoot et alhighlighted the importance of clear criteria, supported by existing evidence, for clinicians to consider treatment de-escalation. The authors also noted the small volume of evidence on de-escalation of newer biologic therapies, such as IL-23 inhibitors. Similarly, Michielsens et alconcluded that further research into dose reduction is required, highlighting the need for randomized clinical trials including a standard-of-care treatment arm, such as in the GUIDE trial.
 
@@ -1330,7 +1330,7 @@ A potential limitation of this trial is the absence of a non-SRe dosing interval
 
 ---
 
-### Guselkumab (Tremfya) [^a48aaba6]. FDA (2025). Medium credibility.
+### Guselkumab (Tremfya) [^115CwYjf]. FDA (2025). Medium credibility.
 
 Adverse Reactions in Adults with Psoriatic Arthritis
 
@@ -1342,7 +1342,7 @@ TREMFYA was studied up to 12 weeks in adult subjects with moderately to severely
 
 ---
 
-### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^57f19102]. Rheumatology (2023). Medium credibility.
+### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^113FP4cR]. Rheumatology (2023). Medium credibility.
 
 Maintenance of response
 
@@ -1355,7 +1355,7 @@ n represents the total number of patients with response at week 24. Through week
 
 ---
 
-### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^91f43263]. Rheumatology (2023). Medium credibility.
+### Guselkumab provides sustained domain-specific and comprehensive efficacy using composite indices in patients with active psoriatic arthritis [^114jPECa]. Rheumatology (2023). Medium credibility.
 
 Objectives
 
@@ -1379,7 +1379,7 @@ NCT03162796; NCT03158285.
 
 ---
 
-### Sustained response to guselkumab regardless of baseline characteristics in patients with active psoriatic arthritis and inadequate response to TNF inhibitors: results from the phase 3b COSMOS clinical trial [^3f4361c6]. RMD Open (2024). Medium credibility.
+### Sustained response to guselkumab regardless of baseline characteristics in patients with active psoriatic arthritis and inadequate response to TNF inhibitors: results from the phase 3b COSMOS clinical trial [^112cnrTf]. RMD Open (2024). Medium credibility.
 
 Methods
 
@@ -1393,7 +1393,7 @@ COSMOS was a phase 3b, randomised, double-blind, placebo-controlled clinical tri
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^5ff04dce]. Rheumatology (2021). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: results from systematic literature review and network meta-analysis [^113TEYGd]. Rheumatology (2021). Medium credibility.
 
 Vdh-S score
 
@@ -1404,7 +1404,7 @@ Comparisons are shown in terms of MDs and 95% CrIs. Treatments are grouped by th
 
 ---
 
-### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^d1c9261f]. JAMA Dermatology (2024). High credibility.
+### Noninferiority of 16-week vs 8-week guselkumab dosing in super responders for maintaining control of psoriasis: the GUIDE randomized clinical trial [^116N1ybU]. JAMA Dermatology (2024). High credibility.
 
 Clinical findings in SRes were supported through assessment of immunologic parameters, including blood and skin biomarkers associated with psoriasis. The cytokines IL-17A, IL-17F, and IL-22, together with the keratinocyte-derived antimicrobial peptide BD-2, represent markers of disease activity and clinical response. We showed that IL-17A, IL-17F, IL-22, and BD-2 serum levels were reduced as early as W4 with guselkumab treatment, and remained suppressed to W68. In turn, lesional skin CD8-positive TRM cells were normalized to nonlesional skin levels by W28. In line with clinical and patient-reported outcomes, no differences in immunologic parameters were observed between the every 8 weeks and every 16 weeks dosing groups at W68.
 
@@ -1416,7 +1416,7 @@ Although skin and quality-of-life improvements were generally greater in SRes th
 
 ---
 
-### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^3d51978d]. The British Journal of Dermatology (2020). Medium credibility.
+### A head-to-head comparison of ixekizumab vs. guselkumab in patients with moderate-to-severe plaque psoriasis: 12-week efficacy, safety and speed of response from a randomized, double-blinded trial [^112ZuejN]. The British Journal of Dermatology (2020). Medium credibility.
 
 Statistical analyses
 
@@ -1430,7 +1430,7 @@ Safety data on terms related to cerebrocardiovascular events and suspected infla
 
 ---
 
-### Serious gastrointestinal-related adverse events among psoriasis patients treated with guselkumab in VOYAGE 1 and VOYAGE 2 [^19c4fff2]. Journal of Drugs in Dermatology (2021). Medium credibility.
+### Serious gastrointestinal-related adverse events among psoriasis patients treated with guselkumab in VOYAGE 1 and VOYAGE 2 [^111fCruo]. Journal of Drugs in Dermatology (2021). Medium credibility.
 
 Background
 
@@ -1454,7 +1454,7 @@ No cases of IBD were observed and rates of GI SAEs were low through 4 years of t
 
 ---
 
-### Comparative effectiveness of guselkumab in psoriatic arthritis: updates to a systematic literature review and network meta-analysis [^56922159]. Rheumatology (2023). Medium credibility.
+### Comparative effectiveness of guselkumab in psoriatic arthritis: updates to a systematic literature review and network meta-analysis [^113DM25n]. Rheumatology (2023). Medium credibility.
 
 Skin efficacy
 
@@ -1465,7 +1465,7 @@ Baseline risk-adjusted random effects league table for multi-PASI 90 response. I
 
 ---
 
-### Safety and efficacy of guselkumab in Japanese patients with moderate-to-severe plaque psoriasis: a randomized, placebo-controlled, ascending-dose study [^1b85323b]. The British Journal of Dermatology (2018). Low credibility.
+### Safety and efficacy of guselkumab in Japanese patients with moderate-to-severe plaque psoriasis: a randomized, placebo-controlled, ascending-dose study [^111hoQUr]. The British Journal of Dermatology (2018). Low credibility.
 
 Background
 
@@ -1489,7 +1489,7 @@ Guselkumab was generally well-tolerated and exhibited sustained high levels of c
 
 ---
 
-### Low rates of radiographic progression associated with clinical efficacy following up to 2 years of treatment with guselkumab: results from a phase 3, randomised, double-blind, placebo-controlled study of biologic-naïve patients with active psoriatic arthritis [^72f63925]. RMD Open (2023). Medium credibility.
+### Low rates of radiographic progression associated with clinical efficacy following up to 2 years of treatment with guselkumab: results from a phase 3, randomised, double-blind, placebo-controlled study of biologic-naïve patients with active psoriatic arthritis [^113wSHwa]. RMD Open (2023). Medium credibility.
 
 Clinical efficacy and radiographic progression
 
@@ -1502,6 +1502,6 @@ Minimal radiographic progression was observed in guselkumab-randomised patients 
 
 ---
 
-### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^fdd303b2]. Arthritis & Rheumatology (2021). Medium credibility.
+### Efficacy and safety of guselkumab, an interleukin-23p19-specific monoclonal antibody, through one year in biologic-naive patients with psoriatic arthritis [^117VJkC1]. Arthritis & Rheumatology (2021). Medium credibility.
 
 Through week 52, decreased neutrophil counts of NCI CTCAE grade 2 or higher (< 1.5 × 10⁹/liter) were infrequent, occurring in 3.7% of patients (9 of 243) who received guselkumab every 4 weeks from week 0 and 3.6% of patients (9 of 247) who received guselkumab every 8 weeks from week 0. Fewer than 1% of guselkumab‐treated patients (5 of 731) had decreased neutrophil counts of grade 3 or higher, including 4 with grade 3 values (< 1.0–0.5 × 10⁹/liter) and 1 with grade 4 values (< 0.5 × 10⁹/liter). These findings were generally transient and reversible, resolved spontaneously without treatment, and did not require discontinuation of study agent. No associated infections were seen, except a case of mild nasopharyngitis temporally associated with grade 2 neutropenia. Decreased white blood cell counts of NCI CTCAE grade 2 (< 3.0–2.0 × 10⁹/liter) occurred in 2.1% of patients (5 of 243) who received guselkumab every 4 weeks from week 0 and 2.4% of patients (6 of 247) who received guselkumab every 8 weeks from week 0; no guselkumab‐treated patient exhibited leukopenia of grade 3 or 4 (> 2.0 × 10⁹/liter) (Supplementary Table 4, available on the Arthritis & Rheumatology website at).

@@ -15,59 +15,59 @@ Recent articles on pneumonia in adults
 
 > Let's see… What do we have here? The user is asking about recent articles on pneumonia in adults. Let's break this down step-by-step. First, I need to think about which sources qualify as "recent" and how to prioritize them by evidence hierarchy. Then, I should extract the most impactful updates across diagnosis, treatment, and prevention. Next, I will verify key claims against guideline strength and conflicting data. Finally, I will synthesize practical takeaways and highlight controversies or gaps that might change practice soon.
 
-> Let me first confirm the scope and recency. I will focus on 2025 publications and very late 2024 updates, prioritizing high-credibility guidelines and peer-reviewed studies, while noting where 2024 data inform 2025 recommendations. I should double-check that the ATS 2025 CAP guideline is indeed the most authoritative recent source and that ACIP 2024 pneumococcal updates are reflected in 2025 schedules, which they are [^38004ed8] [^1115c802] [^a79bb27e].
+> Let me first confirm the scope and recency. I will focus on 2025 publications and very late 2024 updates, prioritizing high-credibility guidelines and peer-reviewed studies, while noting where 2024 data inform 2025 recommendations. I should double-check that the ATS 2025 CAP guideline is indeed the most authoritative recent source and that ACIP 2024 pneumococcal updates are reflected in 2025 schedules, which they are [^112S2QnK] [^111SL78D] [^115HVEHj].
 
-> Next, I should review diagnostic advances. The 2025 ATS CAP guideline addresses lung ultrasound for diagnosis, but wait, let me verify the exact recommendation language. The summary notes lung ultrasound is addressed, yet the provided excerpts do not state a firm recommendation, so I should be cautious and note that the full guideline details are needed to confirm whether this is a strong or conditional endorsement and in which settings it applies. I also need to check severity assessment updates; multiple 2025 studies reinforce the limitations of PSI and CURB-65 in older adults and propose enhancements such as dynamic machine-learning trend scores and the neutrophil-to-lymphocyte ratio, but I should confirm these are adjunctive rather than replacements for validated tools, which they are [^07966971] [^0f40b972] [^6fee6ce9].
+> Next, I should review diagnostic advances. The 2025 ATS CAP guideline addresses lung ultrasound for diagnosis, but wait, let me verify the exact recommendation language. The summary notes lung ultrasound is addressed, yet the provided excerpts do not state a firm recommendation, so I should be cautious and note that the full guideline details are needed to confirm whether this is a strong or conditional endorsement and in which settings it applies. I also need to check severity assessment updates; multiple 2025 studies reinforce the limitations of PSI and CURB-65 in older adults and propose enhancements such as dynamic machine-learning trend scores and the neutrophil-to-lymphocyte ratio, but I should confirm these are adjunctive rather than replacements for validated tools, which they are [^111CFSEU] [^111PcZAH] [^113rwiBa].
 
-> Now, treatment updates. I will examine empiric antibiotic decisions in the setting of viral testing. The 2025 ATS guideline recommends avoiding empiric antibiotics in adult outpatients without comorbidities who have clinical and imaging evidence of CAP but test positive for a respiratory virus, and to consider antibiotics in those with comorbidities or in severe CAP due to bacterial-viral co-infection risk, which is a notable shift toward more selective therapy [^38004ed8] [^9e0d0ba2] [^6b4869b7]. Hold on, I should verify duration guidance; the ATS update also addresses antibiotic duration, but the excerpt does not specify the new durations, so I will flag that as a gap pending full-text review and note that contemporary practice increasingly supports shorter effective courses when clinically appropriate [^bd24d22c].
+> Now, treatment updates. I will examine empiric antibiotic decisions in the setting of viral testing. The 2025 ATS guideline recommends avoiding empiric antibiotics in adult outpatients without comorbidities who have clinical and imaging evidence of CAP but test positive for a respiratory virus, and to consider antibiotics in those with comorbidities or in severe CAP due to bacterial-viral co-infection risk, which is a notable shift toward more selective therapy [^112S2QnK] [^1153KRfw] [^113k3zsY]. Hold on, I should verify duration guidance; the ATS update also addresses antibiotic duration, but the excerpt does not specify the new durations, so I will flag that as a gap pending full-text review and note that contemporary practice increasingly supports shorter effective courses when clinically appropriate [^115qR2bM].
 
-> I need to check corticosteroid recommendations. The 2025 ATS guideline suggests considering systemic corticosteroids in adult inpatients with severe CAP, which aligns with a conditional recommendation and should be balanced against infection risks and patient-specific factors; I should confirm that this is not a blanket endorsement and that severity criteria matter, which the guideline framing implies [^da71d4a6]. But wait, what if the patient has viral pneumonia without bacterial co-infection? The ATS viral-positive guidance still supports antibiotics in severe CAP or high-risk patients, so steroids should be individualized rather than withheld solely due to viral detection [^6b4869b7].
+> I need to check corticosteroid recommendations. The 2025 ATS guideline suggests considering systemic corticosteroids in adult inpatients with severe CAP, which aligns with a conditional recommendation and should be balanced against infection risks and patient-specific factors; I should confirm that this is not a blanket endorsement and that severity criteria matter, which the guideline framing implies [^116arY2y]. But wait, what if the patient has viral pneumonia without bacterial co-infection? The ATS viral-positive guidance still supports antibiotics in severe CAP or high-risk patients, so steroids should be individualized rather than withheld solely due to viral detection [^113k3zsY].
 
-> Let me consider pharmacologic additions. Ceftobiprole (Zevtera) has FDA labeling for CABP with supportive RCT data, and I should confirm the comparator and design; yes, a randomized, double-blind trial versus ceftriaxone with optional linezolid supports noninferiority, though macrolides were not allowed as adjuncts in that study, which limits generalizability to macrolide-inclusive regimens [^e896b3ed]. I should also review shorter-course fluoroquinolone options; levofloxacin 750 mg for 5 days has noninferior clinical success to 10 days in mild-to-severe CAP, which can reduce treatment burden when appropriate, though I need to ensure local resistance patterns and patient-specific risks are considered [^aabf7423].
+> Let me consider pharmacologic additions. Ceftobiprole (Zevtera) has FDA labeling for CABP with supportive RCT data, and I should confirm the comparator and design; yes, a randomized, double-blind trial versus ceftriaxone with optional linezolid supports noninferiority, though macrolides were not allowed as adjuncts in that study, which limits generalizability to macrolide-inclusive regimens [^116wpkJp]. I should also review shorter-course fluoroquinolone options; levofloxacin 750 mg for 5 days has noninferior clinical success to 10 days in mild-to-severe CAP, which can reduce treatment burden when appropriate, though I need to ensure local resistance patterns and patient-specific risks are considered [^115N9Cj4].
 
-> Next, I should review prevention, especially pneumococcal vaccination. ACIP expanded routine pneumococcal conjugate vaccination to all adults aged 50 years and older in 2024, with PCV20 or PCV21 as preferred single-dose options, and this is reflected in the 2025 adult immunization schedule; I should confirm that prior PCV13-based series are handled correctly, which they are via catch-up pathways [^a79bb27e] [^1115c802]. Hold on, I should verify efficacy claims; randomized data in older adults show PCV13 reduces vaccine-type pneumococcal pneumonia by about 45% and vaccine-type invasive disease by about 75%, supporting the move to higher-valency conjugate vaccines in adults [^58b21ba4]. I also need to check special populations; people with HIV should receive PCV15 or PCV20 with PPSV23 sequencing if PCV15 is used, and those previously vaccinated can complete series with PCV20/21 per updated guidance, which I should explicitly state to avoid errors [^8a23a320] [^cab60715].
+> Next, I should review prevention, especially pneumococcal vaccination. ACIP expanded routine pneumococcal conjugate vaccination to all adults aged 50 years and older in 2024, with PCV20 or PCV21 as preferred single-dose options, and this is reflected in the 2025 adult immunization schedule; I should confirm that prior PCV13-based series are handled correctly, which they are via catch-up pathways [^115HVEHj] [^111SL78D]. Hold on, I should verify efficacy claims; randomized data in older adults show PCV13 reduces vaccine-type pneumococcal pneumonia by about 45% and vaccine-type invasive disease by about 75%, supporting the move to higher-valency conjugate vaccines in adults [^113GVjd5]. I also need to check special populations; people with HIV should receive PCV15 or PCV20 with PPSV23 sequencing if PCV15 is used, and those previously vaccinated can complete series with PCV20/21 per updated guidance, which I should explicitly state to avoid errors [^114XoGAB] [^116BXe7N].
 
-> I will now examine epidemiology and risk stratification. Recent surveillance from Tennessee and Georgia shows substantial incidence of adult CAP hospitalizations with a meaningful pneumococcal fraction, reinforcing the public health rationale for adult PCV expansion and improved diagnostics to attribute etiology more reliably [^a449255c]. Let me reconsider severity tools; while PSI and CURB-65 remain standard, their performance wanes in older adults, prompting exploration of NLR and ML-derived trend scores, but I should emphasize these are adjuncts pending broader validation and integration into workflows [^0f40b972] [^07966971].
+> I will now examine epidemiology and risk stratification. Recent surveillance from Tennessee and Georgia shows substantial incidence of adult CAP hospitalizations with a meaningful pneumococcal fraction, reinforcing the public health rationale for adult PCV expansion and improved diagnostics to attribute etiology more reliably [^115CZYDR]. Let me reconsider severity tools; while PSI and CURB-65 remain standard, their performance wanes in older adults, prompting exploration of NLR and ML-derived trend scores, but I should emphasize these are adjuncts pending broader validation and integration into workflows [^111PcZAH] [^111CFSEU].
 
-> But wait, what about non-resolving pneumonia and stewardship? A 2025 expert review proposes a structured approach to treatment failure, emphasizing systematic re-evaluation of diagnosis, antimicrobials, and host factors; I should note that this is expert opinion and that evidence for phenotype-guided therapy remains limited, calling for prospective studies and shared decision-making in complex cases [^9acf3b46]. I should also double-check that viral-bacterial co-infection is a recognized driver of non-response, which supports the ATS stance on antibiotics in severe viral-positive CAP and in high-risk outpatients with comorbidities [^6b4869b7] [^9e0d0ba2].
+> But wait, what about non-resolving pneumonia and stewardship? A 2025 expert review proposes a structured approach to treatment failure, emphasizing systematic re-evaluation of diagnosis, antimicrobials, and host factors; I should note that this is expert opinion and that evidence for phenotype-guided therapy remains limited, calling for prospective studies and shared decision-making in complex cases [^114xWhbT]. I should also double-check that viral-bacterial co-infection is a recognized driver of non-response, which supports the ATS stance on antibiotics in severe viral-positive CAP and in high-risk outpatients with comorbidities [^113k3zsY] [^1153KRfw].
 
-> Finally, I need to ensure I capture controversies and uncertainties. The role of lung ultrasound in routine CAP diagnosis remains debated pending full guideline details, optimal steroid use in severe viral-predominant CAP needs clearer thresholds, and the impact of higher-valency PCVs on adult disease burden is expected but still being measured in real-world settings; I should flag these as areas where practice may evolve as new data emerge [^bd24d22c] [^a79bb27e]. Hold on, let's not jump to conclusions about abandoning validated severity scores; current guidance still anchors site-of-care and empiric therapy decisions in PSI/CURB-65 while allowing clinician judgment and emerging biomarkers to refine risk, which I should explicitly state to avoid misinterpretation [^6fee6ce9].
+> Finally, I need to ensure I capture controversies and uncertainties. The role of lung ultrasound in routine CAP diagnosis remains debated pending full guideline details, optimal steroid use in severe viral-predominant CAP needs clearer thresholds, and the impact of higher-valency PCVs on adult disease burden is expected but still being measured in real-world settings; I should flag these as areas where practice may evolve as new data emerge [^115qR2bM] [^115HVEHj]. Hold on, let's not jump to conclusions about abandoning validated severity scores; current guidance still anchors site-of-care and empiric therapy decisions in PSI/CURB-65 while allowing clinician judgment and emerging biomarkers to refine risk, which I should explicitly state to avoid misinterpretation [^113rwiBa].
 
 ---
 
-Recent advances in adult pneumonia care include **shorter antibiotic courses** (5 days for CAP) [^aabf7423] and **expanded pneumococcal vaccination** to adults ≥ 50 years [^a79bb27e] [^1115c802]. The 2025 ATS guideline recommends **lung ultrasound** to diagnose CAP when chest X-ray is inconclusive [^bd24d22c], and advises against empiric antibiotics in outpatients with viral-positive CAP without comorbidities [^38004ed8], while considering them for severe CAP or those with comorbidities due to bacterial-viral co-infection risk [^6b4869b7] [^9e0d0ba2]. For severe CAP, **systemic corticosteroids** are conditionally recommended [^da71d4a6]. New agents such as ceftobiprole [^e896b3ed] and sulbactam/durlobactam [^3278ea58] provide options for resistant pathogens, and rapid multiplex PCR is increasingly used to guide therapy and stewardship in HAP/VAP [^ea944295].
+Recent advances in adult pneumonia care include **shorter antibiotic courses** (5 days for CAP) [^115N9Cj4] and **expanded pneumococcal vaccination** to adults ≥ 50 years [^115HVEHj] [^111SL78D]. The 2025 ATS guideline recommends **lung ultrasound** to diagnose CAP when chest X-ray is inconclusive [^115qR2bM], and advises against empiric antibiotics in outpatients with viral-positive CAP without comorbidities [^112S2QnK], while considering them for severe CAP or those with comorbidities due to bacterial-viral co-infection risk [^113k3zsY] [^1153KRfw]. For severe CAP, **systemic corticosteroids** are conditionally recommended [^116arY2y]. New agents such as ceftobiprole [^116wpkJp] and sulbactam/durlobactam [^112HpziK] provide options for resistant pathogens, and rapid multiplex PCR is increasingly used to guide therapy and stewardship in HAP/VAP [^116zmuHN].
 
 ---
 
 ## Diagnostic innovations
 
-- **Lung ultrasound**: The 2025 ATS guideline recommends lung ultrasound to diagnose CAP when chest X-ray is inconclusive, offering a radiation-free, bedside alternative with high sensitivity and specificity [^bd24d22c].
+- **Lung ultrasound**: The 2025 ATS guideline recommends lung ultrasound to diagnose CAP when chest X-ray is inconclusive, offering a radiation-free, bedside alternative with high sensitivity and specificity [^115qR2bM].
 
-- **Rapid multiplex PCR**: Syndromic PCR panels are increasingly used in HAP/VAP to enable early pathogen detection and resistance profiling, supporting targeted therapy and stewardship [^ea944295].
+- **Rapid multiplex PCR**: Syndromic PCR panels are increasingly used in HAP/VAP to enable early pathogen detection and resistance profiling, supporting targeted therapy and stewardship [^116zmuHN].
 
-- **Procalcitonin stewardship**: Computerized decision support improves appropriate PCT ordering and reduces unnecessary antibiotic use in CAP [^8f548b16].
+- **Procalcitonin stewardship**: Computerized decision support improves appropriate PCT ordering and reduces unnecessary antibiotic use in CAP [^114fVdLR].
 
 ---
 
 ## Therapeutic advancements
 
-- **Shorter antibiotic courses**: A 5-day levofloxacin regimen is noninferior to 10 days for CAP, supporting shorter effective courses to reduce resistance and adverse effects [^aabf7423].
+- **Shorter antibiotic courses**: A 5-day levofloxacin regimen is noninferior to 10 days for CAP, supporting shorter effective courses to reduce resistance and adverse effects [^115N9Cj4].
 
-- **New antibiotics**: Ceftobiprole is FDA-approved for CABP, including MRSA coverage, and sulbactam/durlobactam is approved for carbapenem-resistant Acinetobacter HAP/VAP [^e896b3ed] [^3278ea58].
+- **New antibiotics**: Ceftobiprole is FDA-approved for CABP, including MRSA coverage, and sulbactam/durlobactam is approved for carbapenem-resistant Acinetobacter HAP/VAP [^116wpkJp] [^112HpziK].
 
-- **Corticosteroids**: The 2025 ATS guideline conditionally recommends systemic corticosteroids for severe CAP to reduce mortality and organ failure [^da71d4a6].
+- **Corticosteroids**: The 2025 ATS guideline conditionally recommends systemic corticosteroids for severe CAP to reduce mortality and organ failure [^116arY2y].
 
 ---
 
 ## Preventive strategies
 
-Expanded pneumococcal vaccination now includes **routine PCV20 or PCV21 for adults ≥ 50 years** [^a79bb27e] [^1115c802], with **high efficacy against vaccine-type pneumococcal disease** [^58b21ba4]. Influenza, COVID-19, and RSV vaccination remain key to reducing CAP incidence and severity [^ec512335].
+Expanded pneumococcal vaccination now includes **routine PCV20 or PCV21 for adults ≥ 50 years** [^115HVEHj] [^111SL78D], with **high efficacy against vaccine-type pneumococcal disease** [^113GVjd5]. Influenza, COVID-19, and RSV vaccination remain key to reducing CAP incidence and severity [^1173MLCC].
 
 ---
 
 ## Emerging challenges
 
-Antibiotic resistance remains a major concern, particularly with **macrolide-resistant Mycoplasma pneumoniae** [^3d10202a] and carbapenem-resistant Gram-negatives [^3278ea58]. Non-resolving pneumonia requires structured evaluation for alternative diagnoses, complications, or resistant pathogens [^9acf3b46]. Post-COVID shifts include changes in pneumonia epidemiology and management, with ongoing research to clarify long-term impacts [^c1a7660f].
+Antibiotic resistance remains a major concern, particularly with **macrolide-resistant Mycoplasma pneumoniae** [^112ZXfLu] and carbapenem-resistant Gram-negatives [^112HpziK]. Non-resolving pneumonia requires structured evaluation for alternative diagnoses, complications, or resistant pathogens [^114xWhbT]. Post-COVID shifts include changes in pneumonia epidemiology and management, with ongoing research to clarify long-term impacts [^115x6qaW].
 
 ---
 
@@ -77,7 +77,7 @@ Recent progress emphasizes **shorter effective therapy**, **precision diagnostic
 
 ## References
 
-### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^bd24d22c]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^115qR2bM]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Background
 
@@ -97,7 +97,7 @@ The panel formulated and provided the rationale for recommendations on selected 
 
 ---
 
-### How to approach a patient hospitalized for pneumonia who is not responding to treatment? [^9acf3b46]. Intensive Care Medicine (2025). Medium credibility.
+### How to approach a patient hospitalized for pneumonia who is not responding to treatment? [^114xWhbT]. Intensive Care Medicine (2025). Medium credibility.
 
 Conclusion
 
@@ -111,37 +111,37 @@ In summary, there is an urgent need for better data on the epidemiology of pneum
 
 ---
 
-### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^38004ed8]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
+### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^112S2QnK]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
 
 Regarding medical management for community-acquired pneumonia, more specifically with respect to empiric antibiotic therapy, outpatient setting, initiation, ATS 2025 guidelines recommend to avoid initiating empiric antibiotics in adult outpatients without comorbidities presenting with clinical and imaging evidence of CAP and test positive for a respiratory virus.
 
 ---
 
-### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^9e0d0ba2]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
+### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^1153KRfw]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
 
 Regarding medical management for community-acquired pneumonia, more specifically with respect to empiric antibiotic therapy, outpatient setting, initiation, ATS 2025 guidelines recommend to consider initiating empiric antibiotics in adult outpatients with comorbidities who have clinical and imaging evidence of CAP and test positive for a respiratory virus, due to concern for bacterial-viral co-infection.
 
 ---
 
-### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^6b4869b7]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
+### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^113k3zsY]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
 
 Regarding medical management for community-acquired pneumonia, more specifically with respect to empiric antibiotic therapy (inpatient setting, initiation), ATS 2025 guidelines recommend to consider initiating empiric antibiotics in adult inpatients with clinical and imaging evidence of severe CAP who test positive for a respiratory virus, due to concern for bacterial-viral co-infection.
 
 ---
 
-### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^da71d4a6]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
+### Diagnosis and management of community-acquired pneumonia. An official American Thoracic Society clinical practice guideline [^116arY2y]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
 
 Regarding medical management for community-acquired pneumonia, more specifically with respect to corticosteroids, ATS 2025 guidelines recommend to consider administering systemic corticosteroids in adult inpatients with severe CAP.
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^32c5f97a]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^112JGswo]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Background: On the basis of recent clinical trial data for the treatment of drug-susceptible and drug-resistant tuberculosis (TB), the American Thoracic Society, U.S. Centers for Disease Control and Prevention, European Respiratory Society, and Infectious Diseases Society of America have updated clinical practice guidelines for TB treatment in children and adults in settings in which mycobacterial cultures, molecular and phenotypic drug susceptibility tests, and radiographic studies, among other diagnostic tools, are available on a routine basis. Methods: A Joint Panel representing multiple interdisciplinary perspectives convened with American Thoracic Society methodologists to review evidence and make recommendations using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) and GRADE-ADOLOPMENT (adoption, adaptation, and, as needed, de novo development of recommendations) methodology. Results: New drug-susceptible TB recommendations include the use of a novel 4-month regimen for people with pulmonary TB and a shortened 4-month regimen for children with nonsevere TB. Drug-resistant TB recommendation updates include the use of novel regimens containing bedaquiline, pretomanid, and linezolid with or without moxifloxacin. Conclusions: All-oral, shorter treatment regimens for TB are now recommended for use in eligible individuals.
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^0bcfa085]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^111JWc12]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Background
 
@@ -159,7 +159,7 @@ All-oral, shorter treatment regimens for TB are now recommended for use in eligi
 
 ---
 
-### Community-acquired pneumonia mortality trends according to age and gender: 2009 to 2019 [^ed8d2af5]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Community-acquired pneumonia mortality trends according to age and gender: 2009 to 2019 [^1175BUxc]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Conclusions
 
@@ -167,25 +167,25 @@ Community-acquired pneumonia (CAP) is a common cause of adult Hospital admission
 
 ---
 
-### WHO recommendations for management of serious bacterial infections in infants aged 0–59 days [^46bad3b1]. Geneva: World Health Organization (2025). High credibility.
+### WHO recommendations for management of serious bacterial infections in infants aged 0–59 days [^112ortQg]. Geneva: World Health Organization (2025). High credibility.
 
 Regarding specific circumstances for community-acquired pneumonia, more specifically with respect to pediatric patients, antibiotic therapy, inpatient regimens, WHO 2025 guidelines recommend to administer ampicillin IM or IV plus gentamicin IM or IV for at least 7 days as first-choice antibiotic management in young infants aged 0–59 days hospitalized with suspected pneumonia.
 
 ---
 
-### ACG clinical guideline update: preventive care in inflammatory bowel disease [^1074c2c9]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline update: preventive care in inflammatory bowel disease [^111RQ2CG]. The American Journal of Gastroenterology (2025). High credibility.
 
 Inflammatory bowel disease (IBD) — pneumonia risk and pneumococcal vaccination: Patients with IBD are at increased risk for pneumonia relative to age-matched patients without IBD (adjusted Cox proportional hazard ratio (HR), 1.54, 95% confidence interval [CI] 1.49–1.60). In all adult patients with IBD aged 50 and older and no prior pneumococcal vaccination, we suggest pneumococcal vaccination with PCV20 or PCV21 (Strong recommendation, low certainty of evidence). In adult patients with IBD between 19 and 49 years receiving immune-modifying therapy and with no prior pneumococcal vaccination, we suggest pneumococcal vaccination with PCV20 or PCV21 (Conditional recommendation, very low certainty of evidence). In patients with IBD who have previously received pneumococcal vaccination and are either age 19–64 on immune-modifying therapy, or who are age 65 and older, should follow Centers for Disease Control and Prevention (CDC) guidance for whether to receive additional pneumococcal vaccination with PCV20 or PCV21 (Strong recommendation, low certainty of evidence). Supporting data include a cohort study of 74,156 patients with IBD and 1,482,363 non-IBD controls showing increased invasive pneumococcal pneumonia, and a Veterans Affairs analysis in which PCV13 vaccination either alone or with PPSV23 was associated with a 5-fold decreased risk in severe pneumococcal disease. In 2021, the US Food and Drug Administration (FDA) licensed the PCV15 and PCV20 vaccines in adults, and most recently, PCV21 was approved for use in adults age 19 and older; these latest guidelines are relevant to adults ages 19–49 with immune-modifying therapies and to all adults with IBD age 50 and older. To optimize coverage and convenience, all adults with IBD regardless of age and immune suppression status who are naïve to pneumococcal vaccination should receive a single dose of PCV20 or PCV21, without the need for additional vaccines or boosters, and pneumococcal vaccination can be safely administered at the same time as influenza vaccination.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^2841b585]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^1122gaPW]. HIV.gov (2025). High credibility.
 
 Community-acquired pneumonia (CAP) in individuals with HIV — severity of illness evaluation states that disease severity and arterial oxygenation should be assessed in all patients with pneumonia, with noninvasive arterial oxygen saturation by pulse oximetry as an appropriate screening test and arterial blood gas analysis indicated for patients with evidence of hypoxemia suggested by noninvasive assessment and for patients who have tachypnea and/or respiratory distress; severity scoring systems such as the Pneumonia Severity Index (PSI) and CURB-65 are referenced for use in patients with HIV.
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^e547e3a0]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^116rvK3m]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Methods
 
@@ -199,25 +199,25 @@ Guideline panel members disclosed all potential conflicts of interest (CoIs) acc
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^77f6b9be]. ClinicalInfo (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^1144rQ8u]. ClinicalInfo (2025). High credibility.
 
 Regarding medical management for Pneumocystis pneumonia, more specifically with respect to first-line antimicrobial therapy, HIV.gov 2025 guidelines recommend to consider administering standard doses of TMP/SMX in patients developing PCP despite TMP/SMX prophylaxis.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^3429aa09]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^112LLMLc]. HIV.gov (2025). High credibility.
 
 Pneumococcal vaccination — evidence summary in people with HIV: Observational studies have reported benefits of PPSV against invasive pneumococcal disease and all-cause pneumonia in people with HIV, but results have been variable. One randomized placebo-controlled trial of PPSV in Africa found that vaccination was associated with an increased risk of pneumonia with no evidence of reduced risk of invasive pneumococcal disease, and follow-up confirmed the increase in pneumonia but showed a decrease in all-cause mortality in a cohort not treated with ART. A study evaluating PCV13 in adults with HIV between 2008 and 2018 found that invasive pneumococcal disease rates remained high, but higher-valent conjugate vaccines may reduce disease because 11.2% of cases consisted of serotypes in PCV15 but not PCV13 and 16.5% consisted of serotypes in PCV20 but not in PCV15. In 2021, PCV15 and PCV20 were licensed by the U.S. Food and Drug Administration for use in adults based on safety and immunogenicity data compared with data on PCV13 or PPSV23.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^58ce6aa9]. ClinicalInfo (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^113GfF7v]. ClinicalInfo (2025). High credibility.
 
 Regarding medical management for Pneumocystis pneumonia, more specifically with respect to second-line antimicrobial therapy, HIV.gov 2025 guidelines recommend to do not use aerosolized pentamidine for the treatment of PCP due to limited efficacy and associated frequent relapses.
 
 ---
 
-### Community-acquired pneumonia mortality trends according to age and gender: 2009 to 2019 [^610e9f6c]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Community-acquired pneumonia mortality trends according to age and gender: 2009 to 2019 [^113UtiD9]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Background
 
@@ -233,31 +233,31 @@ In this study, we address the incidence and mortality of CAP and their trends fo
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^c54bb9f0]. ClinicalInfo (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^1163VznT]. ClinicalInfo (2025). High credibility.
 
 Regarding medical management for Pneumocystis pneumonia, more specifically with respect to second-line antimicrobial therapy, HIV.gov 2025 guidelines recommend to administer clindamycin plus primaquine or IV pentamidine as an alternative regimen in patients with moderate-to-severe PCP.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^c6fa33f5]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^1165zb9N]. HIV.gov (2025). High credibility.
 
 Pneumococcal vaccine — evidence and licensing in people with HIV: Vaccination against S. pneumoniae is an important measure in preventing bacterial pneumonia, but one randomized placebo-controlled trial of PPSV in Africa paradoxically found that vaccination was associated with an increased risk of pneumonia, and there was no evidence of reduced risk of IPD among vaccinated participants, and follow-up of this cohort confirmed the increase in pneumonia in vaccinated participants and showed a decrease in all-cause mortality although participants in this study were not treated with ART. A recent study evaluating the impact of the 13-valent pneumococcal conjugate vaccine (PCV13) on the rates of IPD in adults with HIV between 2008 and 2018 found that IPD rates remained high despite reductions with the introduction of PCV13, and PCV20/non-PCV15 serotypes comprised 15.6% of cases of IPD. In 2021, two PCVs, 15-valent (PCV15) and 20-valent (PCV20), were licensed by the FDA for use in U.S. adults; PCV15 and PCV20 were licensed based on safety and immunogenicity data compared with the 13-valent PCV or 23-valent pneumococcal polysaccharide vaccine (PPSV23), and effectiveness data of these vaccine against pneumococcal disease in adults with HIV infection are currently not available.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^c51de60b]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^1163EbzJ]. GOLD (2025). High credibility.
 
 Pneumococcal vaccination in chronic obstructive pulmonary disease (COPD) — in COPD, injectable polyvalent pneumococcal vaccination provides significant protection against community-acquired pneumonia, though reduction of confirmed pneumococcal pneumonia has not been shown; PPSV23 has been shown to reduce the incidence of community-acquired pneumonia in COPD patients < 65 years with an FEV1 < 40% predicted or comorbidities, and PCV13 has been shown to exhibit at least the same or greater immunogenicity than PPSV23 up to two years after vaccination; in a large RCT, PCV13 demonstrated significant efficacy for prevention of vaccine-type community-acquired pneumonia (45.6%) and vaccine-type invasive pneumococcal disease (75%) among adults ≥ 65 years with efficacy persisting for at least 4 years; PCV20 covers up to 58% of those strains, while PCV21 covers up to 84% of strains responsible for invasive disease in adults; pneumococcal vaccine can be co-administered with influenza vaccine in adult programs, and concomitant administration (PCV15 or PPSV23 and QIV [Fluarix], PCV20 and adjuvanted QIV [Fluad]) has been demonstrated to be immunogenic and safe.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^a531ce9e]. ClinicalInfo (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^115DugpV]. ClinicalInfo (2025). High credibility.
 
 Regarding medical management for Pneumocystis pneumonia, more specifically with respect to second-line antimicrobial therapy, HIV.gov 2025 guidelines recommend to administer parenteral pentamidine or oral primaquine combined with IV clindamycin in patients with moderate-to-severe PCP when TMP/SMX is ineffective or cannot be used because of toxicity. Consider administering atovaquone as an alternative in patients with mild disease.
 
 ---
 
-### Abatacept (Orencia) [^e919414f]. FDA (2025). Medium credibility.
+### Abatacept (Orencia) [^116xabft]. FDA (2025). Medium credibility.
 
 5.3 Infections
 
@@ -275,13 +275,13 @@ Prior to initiating ORENCIA in pediatric and adult patients, update vaccinations
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^77ac194a]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^1144RLHo]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 High-dose amoxicillin-clavulanate criteria — The use of high-dose amoxicillin with clavulanate (2 g/125 mg PO bid) is recommended for adults with ABRS who are at a high risk of being infected with penicillin nonsusceptible Streptococcus pneumoniae; this includes those from regions with high endemic rates (> 10%) of invasive PNS S. pneumoniae, those with severe infection (evidence of systemic toxicity with temperature of 39°C [102°F] or higher and threat of suppurative complications), age ≥ 65 years, recent hospitalization, antibiotic use within the past month, or those who are immunocompromised.
 
 ---
 
-### Ustekinumab [^07dd6913]. FDA (2025). Medium credibility.
+### Ustekinumab [^111CfHPx]. FDA (2025). Medium credibility.
 
 5.7 Immunizations
 
@@ -295,7 +295,7 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^d0d05c61]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^116LaQp8]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Funding and Updating
 
@@ -303,25 +303,25 @@ The ATS provided logistical and methodological support and was responsible for C
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^8300db3f]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^114MDfbt]. HIV.gov (2025). High credibility.
 
 Non-severe CAP inpatient treatment — Individuals with HIV who are being treated as inpatients should receive an intravenous (IV) beta-lactam plus a macrolide (AI) or a respiratory fluoroquinolone (AI); monotherapy with a macrolide is not recommended in the inpatient setting. In one study, beta-lactam monotherapy was not found to be non-inferior to beta-lactam/macrolide combination therapy, and in the monotherapy arm patients with more severe CAP, as indicated by a PSI ≥ IV, or with atypical pathogens were less likely to reach clinical stability, with more 30-day readmissions among the patients on monotherapy. Given the heterogeneity and limitations of recent studies and scarce data in patients with HIV, the recommendation for patients with HIV who are hospitalized with non-severe CAP remains the same as in people without HIV: to administer either beta-lactam/macrolide combination therapy, or a single drug regimen of a respiratory fluoroquinolone (AI). Preferred beta-lactams are ceftriaxone, cefotaxime, or ampicillin-sulbactam, and preferred macrolides are azithromycin and clarithromycin.
 
 ---
 
-### 2025 concise clinical guidance: an ACC expert consensus statement on adult immunizations as part of cardiovascular care: a report of the American college of cardiology solution set oversight committee [^58b21ba4]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 concise clinical guidance: an ACC expert consensus statement on adult immunizations as part of cardiovascular care: a report of the American college of cardiology solution set oversight committee [^113GVjd5]. Journal of the American College of Cardiology (2025). High credibility.
 
 Pneumococcal conjugate vaccines (PCV) in adults — efficacy, safety, and products: In a randomized clinical trial among Dutch adults aged ≥ 65 years, vaccine efficacy was reported as 75% against vaccine-type invasive pneumococcal disease and 45% against pneumococcal pneumonia; PCV are described as very safe with up to 10% local reactions that usually resolve in a day or 2 and serious adverse reactions are rare. There are 2 PCV for adults that do not require subsequent vaccination — PCV20 and PCV21 — whereas a PCV15 vaccine must be followed by PPSV23; pneumococcal vaccines can be given concurrently with influenza, COVID-19, and RSV vaccines, and development of new and expanded formulations is ongoing, advising attentiveness to future recommendation changes.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^4280b0e2]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^112hbQhf]. HIV.gov (2025). High credibility.
 
 Assessing severity of disease and treatment location — community-acquired pneumonia (CAP) in people with HIV: Severity indices including the Pneumonia Severity Index (PSI), CURB-65, and ATS/IDSA severity criteria appear to be valid for predicting mortality and, with clinical judgement, can guide site-of-care decisions, although no prospective randomized clinical trials have assessed their performance for this purpose and whether adding HIV-related variables improves them is uncertain. Mortality increased with higher PSI risk class and, even without increased mortality risk by PSI, a CD4 count < 200 cells/mm3 was associated with an increased risk of death, leading to the suggestion to hospitalize CAP patients with CD4 counts < 200 cells/mm3 and to use the PSI to help decision-making in those with higher CD4 counts. Low risk patients without adherence or complicating concerns can be treated as outpatients, whereas those with severe CAP usually require a higher level of care, typically ICU admission; severe criteria can include PSI risk class of III or IV or CURB-65 scores ≥ 3, and patients with ≥ 3 of the ATS/IDSA minor severity criteria for CAP often require ICU or higher level of care. Additional prognostic tools include the Veterans Aging Cohort Study (VACS) Index, which may also be useful in predicting ICU admission and mortality and in which a higher score in older patients with and without HIV with CAP was associated with greater 30-day mortality, readmission, and length of stay, and the SWAT-Bp tool measuring male [S]ex, muscle [W]asting, non-[A]mbulatory, [T]emperature (> 38°C or < 35°C), and [B]lood [p]ressure (systolic < 100 and/or diastolic < 60), which in a retrospective study of 216 patients (84% with HIV) demonstrated moderate discriminatory power while CURB-65 was less accurate.
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^5fb5068b]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^113StdSA]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -334,7 +334,7 @@ This guideline update, written by a panel of American Thoracic Society (ATS), CD
 
 ---
 
-### Ustekinumab (Stelara) [^318dd616]. FDA (2025). Medium credibility.
+### Ustekinumab (Stelara) [^112GU317]. FDA (2025). Medium credibility.
 
 5.7 Immunizations
 
@@ -348,7 +348,7 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 
 ---
 
-### Ustekinumab-aekn (selarsdi) [^9aa6bbab]. FDA (2025). Medium credibility.
+### Ustekinumab-aekn (selarsdi) [^114xH6cz]. FDA (2025). Medium credibility.
 
 5.7 Immunizations
 
@@ -362,13 +362,13 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^7eaf717e]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^114EpNRK]. American Journal of Respiratory and Critical Care Medicine (2025). High credibility.
 
 Recommendation strength language and implications — The term "we recommend" is used for a "strong" recommendation, and "we conditionally recommend" is used for a "conditional" recommendation, analogous to "we suggest". For patients, a strong recommendation means "The overwhelming majority of individuals in this situation would want the recommended course of action, and only a small minority would not", whereas a conditional recommendation means "The majority of individuals in this situation would want the suggested course of action, but a sizable minority would not". For clinicians, strong implies "The overwhelming majority of individuals should receive the recommended course of action. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator" and that "Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences", while conditional implies "Different choices will be appropriate for different patients, and you must help each patient arrive at a management decision consistent with her or his values and preferences" and that "Decision aids may be useful… Clinicians should expect to spend more time with patients when working toward a decision". For policy makers, strong implies "The recommendation can be adopted as policy in most situations, including for use as performance indicators", whereas conditional implies "Policy making will require substantial debates and involvement of many stakeholders. Policies are also more likely to vary between regions" and that "Performance indicators would have to focus on the fact that adequate deliberation about the management options has taken place".
 
 ---
 
-### Tocilizumab (Tofidence) [^d8693110]. FDA (2025). Medium credibility.
+### Tocilizumab (Tofidence) [^116XqfAo]. FDA (2025). Medium credibility.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
 
@@ -380,7 +380,7 @@ The primary efficacy endpoint was time to death through Day 28. The results for 
 
 ---
 
-### Clinical features and prognostic predictors of C. psittaci pneumonia: a systematic review and individual patient meta-analysis [^3d39ee79]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Clinical features and prognostic predictors of C. psittaci pneumonia: a systematic review and individual patient meta-analysis [^112Zmhng]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Eligibility criteria
 
@@ -396,7 +396,7 @@ Data analysis was performed utilizing STATA 16.0 software (Stata Corp, College S
 
 ---
 
-### Tocilizumab (Actemra) [^7cde9fdd]. FDA (2025). Medium credibility.
+### Tocilizumab (Actemra) [^114C8F24]. FDA (2025). Medium credibility.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
 
@@ -408,7 +408,7 @@ The primary efficacy endpoint was time to death through Day 28. The results for 
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^f1cc491e]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^117BUdim]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Literature Search
 
@@ -416,7 +416,7 @@ The following steps were conducted after the literature search: 1) title and abs
 
 ---
 
-### Levofloxacin [^636d2b84]. FDA (2025). Medium credibility.
+### Levofloxacin [^113YQShh]. FDA (2025). Medium credibility.
 
 14.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
@@ -424,7 +424,7 @@ Adult inpatients and outpatients with a diagnosis of community-acquired bacteria
 
 ---
 
-### Ustekinumab-auub (Wezlana) [^f1da0fca]. FDA (2025). Medium credibility.
+### Ustekinumab-auub (Wezlana) [^117BZG6m]. FDA (2025). Medium credibility.
 
 5.7	Immunizations
 
@@ -438,7 +438,7 @@ Cases of interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizi
 
 ---
 
-### Expanded recommendations for use of pneumococcal conjugate vaccines among adults aged ≥ 50 years: recommendations of the advisory committee on immunization practices-United States, 2024 [^a79bb27e]. MMWR: Morbidity and Mortality Weekly Report (2025). Medium credibility.
+### Expanded recommendations for use of pneumococcal conjugate vaccines among adults aged ≥ 50 years: recommendations of the advisory committee on immunization practices-United States, 2024 [^115HVEHj]. MMWR: Morbidity and Mortality Weekly Report (2025). Medium credibility.
 
 Abstract
 
@@ -446,13 +446,13 @@ Before October 2024, the Advisory Committee on Immunization Practices (ACIP) rec
 
 ---
 
-### Expanded recommendations for use of pneumococcal conjugate vaccines among adults aged ≥ 50 years: recommendations of the advisory committee on immunization practices-United States, 2024 [^1a49806e]. MMWR: Morbidity and Mortality Weekly Report (2025). Medium credibility.
+### Expanded recommendations for use of pneumococcal conjugate vaccines among adults aged ≥ 50 years: recommendations of the advisory committee on immunization practices-United States, 2024 [^111fyNFo]. MMWR: Morbidity and Mortality Weekly Report (2025). Medium credibility.
 
 Before October 2024, the Advisory Committee on Immunization Practices (ACIP) recommended use of a pneumococcal conjugate vaccine (PCV) for all adults aged ≥ 65 years, as well as for those aged 19–64 years with risk conditions for pneumococcal disease who have not received a PCV or whose vaccination history is unknown. Options included either 20-valent PCV (PCV20; Prevnar20; Wyeth Pharmaceuticals) or 21-valent PCV (PCV21; CAPVAXIVE; Merck Sharp & Dohme) alone or 15-valent PCV (PCV15; VAXNEUVANCE; Merck Sharp & Dohme) in series with 23-valent pneumococcal polysaccharide vaccine (PPSV23; Pneumovax23; Merck Sharp & Dohme). There are additional recommendations for use of PCV20 or PCV21 for adults who started their pneumococcal vaccination series with 13-valent PCV (PCV13; Prevnar13; Wyeth Pharmaceuticals). The ACIP Pneumococcal Vaccines Work Group employed the Evidence to Recommendations framework to guide its deliberations on expanding the age-based PCV recommendation to include adults aged 50–64 years. On October 23, 2024, ACIP recommended a single dose of PCV for all PCV-naïve adults aged ≥ 50 years. Recommendations for PCVs among adults aged 19–49 years with risk conditions and PCV13-vaccinated adults have not changed from previous recommendations. This report summarizes evidence considered for these recommendations and provides updated clinical guidance for use of PCV.
 
 ---
 
-### Development and validation of an early diagnosis model for severe Mycoplasma pneumonia in children based on interpretable machine learning [^f9fb14fb]. Respiratory Research (2025). Medium credibility.
+### Development and validation of an early diagnosis model for severe Mycoplasma pneumonia in children based on interpretable machine learning [^117PcFeA]. Respiratory Research (2025). Medium credibility.
 
 Presently, the diagnosis of SMPP predominantly relies on imaging techniques and clinical signs. However, the clinical and radiological features of SMPP bear a strong resemblance to those of viral - induced infections and exhibit heterogeneous characteristics. In other words, pneumonia presentations differ significantly across pediatric patients with varying. This presents a formidable challenge to the prompt and precise diagnosis of SMPP in children and the implementation of appropriate treatment strategies. In response to the diverse presentations of pneumonia, comprehensive diagnostic and treatment guidelines, such as the CRUB-65 and PSI scores, have been established for evaluating the severity of pneumonia in adults. However, the assessment of pneumonia in children lacks an objective, quantitative, cost-effective, and convenient diagnostic framework. Traditional biomarkers, including white blood cell count (WBC), C-reactive protein (CRP), and procalcitonin (PCT), are inadequate for accurately distinguishing the severity of pulmonary infections in pediatric patients. Consequently, recent research has focused on identifying biomarkers specific to pneumonia diagnosis and developing evaluation systems tailored to children. Studies suggest that several assessment systems can enhance risk stratification for pediatric pulmonary diseases, such as the Pediatric Respiratory Emergency Severity Score (PRESS), the Clinical Pulmonary Infection Score (CPIS), and pro-adrenomedullin (Pro-ADM). However, these prediction models are not applicable to the assessment of SMPP due to their complexity, low sensitivity and lack of specificity for SMPP diagnosis. Currently, there is no systematic approach for risk classification of pediatric SMPP.
 
@@ -460,19 +460,19 @@ Compared with traditional scoring systems, machine learning (ML) models have dem
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^8a23a320]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^114XoGAB]. HIV.gov (2025). High credibility.
 
 Preventing Streptococcus pneumoniae infections — pneumococcal vaccination in people with HIV is indicated for all people with HIV regardless of CD4 count (AI). For those without prior vaccination or with unknown vaccine history, administer either 15-valent pneumococcal conjugate vaccine (PCV15) or 20-valent pneumococcal conjugate vaccine (PCV20) (AII); if PCV20 is used, their pneumococcal vaccination is complete, whereas if PCV15 is used, a dose of PPSV23 should be administered at least 8 weeks later (AII) and no additional pneumococcal vaccine doses are recommended. For people who previously started or completed a pneumococcal vaccination series, there is no need to restart the series, and those who received PCV13 and were 65 or older when they received a dose of PPSV23 do not require further doses of PPSV23; for those who received PPSV23 younger than age 65, additional doses are recommended as follows (BIII): people who received PCV13 and PPSV23 at age < 65 should receive a second dose of PPSV23 at least 5 years after the first dose; if they are age 65 or older at the time of their second dose, they do not require additional doses, but if they were < 65 at the time of the second dose, they should receive a third and final dose at or after age 65, at least 5 years after the second PPSV23 dose. People who have only received PPSV23 may receive a PCV (either PCV20 or PCV15) ≥ 1 year after their last PPSV23 dose, and when PCV15 is used in those with history of PPSV23 receipt, it need not be followed by another dose of PPSV23 at any age (BIII). Footnotes specify that patients with CD4 counts ≥ 200 cells/mm3 should receive a dose of PPSV23 at least 8 weeks later (AI); while those with CD4 counts < 200 cells/mm3 can also be offered PPSV23 at least 8 weeks after receiving PCV15 (CIII), PPSV23 should preferably be deferred until after an individual's CD4 count increases to ≥ 200 cells/mm3 while on ART (BIII), and clinical evidence supporting use of PPSV23 in persons with CD4 counts < 200 cells/mm3 appears strongest in patients who also have HIV RNA < 100,000 copies/mL; evidence also suggests benefit for those who start ART before receiving PPSV vaccination; additionally, for people who received PCV13 but have not completed PPSV23, one dose of PCV20 may be used if PPSV23 is not available and if PCV20 is used, their pneumococcal vaccinations are complete (CIII).
 
 ---
 
-### Advisory committee on immunization practices recommended immunization schedule for adults aged 19 years or older-United States, 2025 [^1115c802]. MMWR: Morbidity and Mortality Weekly Report (2025). High credibility.
+### Advisory committee on immunization practices recommended immunization schedule for adults aged 19 years or older-United States, 2025 [^111SL78D]. MMWR: Morbidity and Mortality Weekly Report (2025). High credibility.
 
 Pneumococcal vaccination notes — PCV21 was added as an option when vaccination is indicated; routine vaccination now reflects universal vaccination for adults aged ≥ 50 years, and special situations outline risk-based recommendations for adults aged 19–49 years; information was added for use during pregnancy and for situations when PPSV23 is unavailable.
 
 ---
 
-### Tigecycline [^1b1ab396]. FDA (2025). Medium credibility.
+### Tigecycline [^111hBdoB]. FDA (2025). Medium credibility.
 
 14.3 Community-Acquired Bacterial Pneumonia
 
@@ -488,25 +488,25 @@ The results of this analysis are shown in Table 10. Age ≥ 50 was the most comm
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^904c0612]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^114gvkeD]. HIV.gov (2025). High credibility.
 
 Special considerations during pregnancy — obstetric monitoring and pneumococcal vaccination — pneumonia during pregnancy is associated with increased rates of preterm labor and delivery, and pregnant women with pneumonia after 20 weeks' gestation should be monitored for evidence of contractions (BII). Pneumococcal vaccine can be administered during pregnancy (AIII). A study comparing administration of PCV10, PPSV23, or control (1:1:1) among 347 women during weeks 13–34 of pregnancy found that PCV10 and PPSV23 were equally safe and immunogenic in pregnant women with HIV and conferred similar levels of seroprotection to their infants; no adverse consequences have been reported among newborns whose mothers were vaccinated during pregnancy. Women who did not receive vaccines during pregnancy were vaccinated post-partum; these data demonstrated higher antibody responses compared to women vaccinated ante-partum, suggesting that postpartum booster doses may be beneficial and require further study.
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^83ad6c8d]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^114NDdVN]. The Journal of Urology (2025). High credibility.
 
 Regulatory updates for uncomplicated urinary tract infection (UTI) — the FDA recently approved pivmecillinam for uncomplicated UTI, a drug with a benign safety profile and evidence supporting its availability when multi-drug resistance is a concern; additionally, the FDA approved sulopenem etzadroxil and probenecid oral tablets for uncomplicated UTI caused by E. coli, K. pneumoniae, or P. mirabilis in adult women who have limited or no alternative oral antibacterial treatment options.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^93b40bc4]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^114myf1D]. HIV.gov (2025). High credibility.
 
 HIV pneumococcal vaccination — previously received PCV13 and PPSV23: If < 65 years when received dose of PPSV23, administer PCV21 or PCV20 0.5 mL IM x 1 at least 5 years after the last pneumococcal vaccine (CIII). If ≥ 65 years when received dose of PPSV23, no further doses of PPSV23 are required, and shared decision-making is recommended regarding administration of PCV21 or PCV20 for adults aged ≥ 65 years who have completed both PCV13 and PPSV23; if given, administer at least 5 years after last pneumococcal vaccine dose (CIII). PPSV23 is no longer recommended as preferred booster dose for patients who previously started the vaccine series.
 
 ---
 
-### Azithromycin dihydrate (Zithromax) [^e1bb9a56]. FDA (2025). Medium credibility.
+### Azithromycin dihydrate (Zithromax) [^116mfECu]. FDA (2025). Medium credibility.
 
 15 REFERENCES
 
@@ -514,7 +514,7 @@ Griffith DE, Aksamit T, Brown-Elliot BA, et al. An official ATS/IDSA statement: 
 
 ---
 
-### Assessment of disease severity in hospitalized community-acquired pneumonia by the use of validated scoring systems [^6fee6ce9]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Assessment of disease severity in hospitalized community-acquired pneumonia by the use of validated scoring systems [^113rwiBa]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -528,7 +528,7 @@ A wide array of supporting systems have been developed and validated to aid clin
 
 ---
 
-### The improved prediction value of neutrophil to lymphocyte ratio to pneumonia severity scores for mortality in the older people with community-acquired pneumonia [^0f40b972]. BMC Geriatrics (2025). Medium credibility.
+### The improved prediction value of neutrophil to lymphocyte ratio to pneumonia severity scores for mortality in the older people with community-acquired pneumonia [^111PcZAH]. BMC Geriatrics (2025). Medium credibility.
 
 Introduction
 
@@ -540,7 +540,7 @@ Hence, we aimed to describe the characteristics and outcomes of hospitalized old
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^f8d796ea]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^117MvLuo]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Guideline Development Methodology
 
@@ -552,14 +552,14 @@ The Joint Panel chose through consensus to adapt the 2022 WHO guidelines on TB t
 
 ---
 
-### ACG clinical guideline update: preventive care in inflammatory bowel disease [^3451e05f]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline update: preventive care in inflammatory bowel disease [^112LZrjg]. The American Journal of Gastroenterology (2025). High credibility.
 
 Pneumococcal vaccination — adult schedule by age group and prior pneumococcal conjugate vaccine (PCV) status: For "Age 19–49 years immunocompromised
 - All patients 50–64 years" who are PCV naïve, give "PCV21 or PCV20"; with an incomplete series, if prior "PCV13 ≥ 1 y" then give "PCV21 or PCV20", and if prior "PCV13 + PPSV23 ≥ 5 y" then give "PCV21 or PCV20"; with a completed adult PCV series, there is "No vaccine recommendation". For "Age ≥ 65 years", if PCV naïve, give "PCV21 or PCV20"; if incomplete, when " ≥ 5 yrs since last PCV" give "PCV21 or PCV20"; and for completed adult PCV series, revaccination is indicated by the asterisk note "Administer pneumococcal vaccine 1 additional time 5 years after previous vaccine". Footnotes specify series definitions: "Patient has completed one of the following vaccine regimens: PCV13 and 2 doses of PPSV23, PCV15 and PPSV23, PCV20, or PCV21" and "Unknown vaccine history, PCV7 at any age, PPSV23 only, PCV13 only, PCV13, and 1 dose of PPSV23".
 
 ---
 
-### Levofloxacin [^aabf7423]. FDA (2025). Medium credibility.
+### Levofloxacin [^115N9Cj4]. FDA (2025). Medium credibility.
 
 14.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
 
@@ -569,7 +569,7 @@ Clinical success rates (cure plus improvement) in the clinically evaluable popul
 
 ---
 
-### Tigecycline (Tygacil) [^111b7664]. FDA (2025). Medium credibility.
+### Tigecycline (Tygacil) [^111SN1oZ]. FDA (2025). Medium credibility.
 
 14.3 Community-Acquired Bacterial Pneumonia
 
@@ -585,7 +585,7 @@ The results of this analysis are shown in Table 10. Age ≥ 50 was the most comm
 
 ---
 
-### Tocilizumab (Actemra) [^edd23c59]. FDA (2025). Medium credibility.
+### Tocilizumab (Actemra) [^1175agWc]. FDA (2025). Medium credibility.
 
 COVACTA
 
@@ -595,7 +595,7 @@ Mortality at Day 28 was 19.7% in the ACTEMRA arm versus 19.4% in the placebo arm
 
 ---
 
-### Cefepime [^7e96bc7b]. FDA (2025). Medium credibility.
+### Cefepime [^114Eg562]. FDA (2025). Medium credibility.
 
 1.1 Pneumonia
 
@@ -623,13 +623,13 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^cab60715]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^116BXe7N]. HIV.gov (2025). High credibility.
 
 Pneumococcal vaccination — sequencing and series completion for people with HIV: If PCV15 is used, administer a dose of PPSV23 at least 8 weeks later (AII); no additional pneumococcal vaccine doses are recommended. For people with HIV who previously started or completed a pneumococcal vaccination series, there is no need to restart the series. Adults who received PPSV23 before the age of 65 can be administered PCV21 or PCV20 at least 5 years after the last pneumococcal vaccine dose, whereas adults who received PPSV23 at age 65 or older do not require further doses of PPSV23 and their pneumococcal vaccination can be considered complete. Shared clinical decision-making is recommended regarding administration of PCV21 or PCV20 for immunocompromised persons aged ≥ 65 years who completed their vaccine series with both PCV13 and PPSV23; if a decision to administer PCV21 or PCV20 is made, it should be given at least 5 years after the last pneumococcal vaccine dose (CIII). Adults who previously received only PCV13 may receive one dose of PCV21 or PCV20 at least 1 year later (BIII), and adults who previously received PPSV23 may receive PCV21 or PCV20 (or PCV15 if the former are not available) at least 1 year after their last PPSV23 dose to complete their pneumococcal vaccination series (BIII).
 
 ---
 
-### Ceftobiprole medocaril sodium (Zevtera) [^e896b3ed]. FDA (2025). Medium credibility.
+### Ceftobiprole medocaril sodium (Zevtera) [^116wpkJp]. FDA (2025). Medium credibility.
 
 Trial Design
 
@@ -643,13 +643,13 @@ The protocol-specified primary efficacy analyses included clinical cure rates at
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^c309331f]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^115z9gBG]. HIV.gov (2025). High credibility.
 
 Pneumococcal vaccination in people with HIV — PCV/PPSV sequencing, CD4 thresholds, and evidence: Patients with CD4 counts ≥ 200 cells/mm3 should receive a dose of PPSV23 at least 8 weeks later (AII). While individuals with HIV with CD4 counts < 200 cells/mm3 can also be offered PPSV23 at least 8 weeks after receiving PCV15 (CIII) (such as if there are concerns with retention in care), PPSV23 should preferably be deferred until after an individual's CD4 count increases to > 200 cells/mm3 while on ART (BIII). Clinical evidence supporting use of PPSV23 in persons with CD4 counts < 200 cells/mm3 appears strongest in patients who also have HIV RNA < 100,000 copies/mL; evidence also suggests benefit for those who start ART before receiving PPSV vaccination. People with HIV who have received PCV13 but have not completed their recommended pneumococcal vaccine series with PPSV23, one dose of PCV20 may be used if PPSV23 is not available. If PCV20 is used, their pneumococcal vaccinations are complete (CIII). No clinical data exist for the use of PCV20 in people with HIV. A randomized trial of 7-valent PCV (PCV7) among adults with HIV in Malawi demonstrated 74% efficacy against vaccine-type IPD, with clear evidence of efficacy in those with CD4 counts < 200 cells/mm3; however, participants had recovered from IPD and received two doses of PCV7 four weeks apart, and findings may not be directly applicable to adults with HIV infection.
 
 ---
 
-### Correlation analysis between clinical characteristics of adult patients with Mycoplasma pneumoniae pneumonia and 23S rRNA A2063 gene in alveolar lavage fluid [^3d10202a]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Correlation analysis between clinical characteristics of adult patients with Mycoplasma pneumoniae pneumonia and 23S rRNA A2063 gene in alveolar lavage fluid [^112ZXfLu]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -657,7 +657,7 @@ Mycoplasma pneumoniae (MP) is a common pathogen that causes community-acquired p
 
 ---
 
-### Description and characterization of pneumococcal community acquired pneumonia (CAP) among radiologically confirmed CAP in outpatients [^b3c34cca]. NPJ Primary Care Respiratory Medicine (2025). Medium credibility.
+### Description and characterization of pneumococcal community acquired pneumonia (CAP) among radiologically confirmed CAP in outpatients [^115bWPCD]. NPJ Primary Care Respiratory Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -671,7 +671,7 @@ In the present study, we aimed to analyze the prevalence and describe the charac
 
 ---
 
-### Association of metabolic syndrome and prognosis in elderly patients with community-acquired pneumonia [^7d5881b0]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Association of metabolic syndrome and prognosis in elderly patients with community-acquired pneumonia [^114CqBUT]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Background
 
@@ -685,7 +685,7 @@ Understanding the prognostic impact of MetS in this population is critical for e
 
 ---
 
-### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^5e64e117]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Updates on the treatment of drug-susceptible and drug-resistant tuberculosis: an official ATS / CDC / ERS / IDSA clinical practice guideline [^113Qwin2]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Evidence-to-Decision Tables
 
@@ -700,7 +700,7 @@ The resulting final guideline was reviewed by the ATS documents editor, by anony
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^b84032d0]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^115iAHYK]. GOLD (2025). High credibility.
 
 Regarding classification and risk stratification for chronic obstructive pulmonary disease, more specifically with respect to severity assessment, GOLD 2025 guidelines recommend to use the GOLD ABE tool, based on the level of dyspnea and exacerbation history, for severity assessment:
 
@@ -712,7 +712,7 @@ Regarding classification and risk stratification for chronic obstructive pulmona
 
 ---
 
-### FastStats-pneumonia… [^b049494b]. CDC (2025). Medium credibility.
+### FastStats-pneumonia… [^115WMSLA]. CDC (2025). Medium credibility.
 
 Pneumonia Data are for the U. S.
 - Percent of adults age 18 and older who had ever received a pneumococcal vaccination:
@@ -728,7 +728,7 @@ Pneumonia Data are for the U. S.
 
 ---
 
-### Levofloxacin [^e87993a7]. FDA (2025). Medium credibility.
+### Levofloxacin [^116wextN]. FDA (2025). Medium credibility.
 
 1.1 Nosocomial Pneumonia
 
@@ -754,7 +754,7 @@ Levofloxacin tablets are indicated in adult patients for the treatment of uncomp
 
 ---
 
-### Ceftobiprole medocaril sodium (Zevtera) [^0af704ff]. FDA (2025). Medium credibility.
+### Ceftobiprole medocaril sodium (Zevtera) [^111HFr9U]. FDA (2025). Medium credibility.
 
 Common Adverse Reactions in Adult Patients
 
@@ -770,7 +770,7 @@ The median age of patients treated with ZEVTERA was 62.5 years (range 18–95) w
 
 ---
 
-### Pneumococcal carriage and disease in adults in england, 2011–2019: the importance of adults as a reservoir for pneumococcus in communities [^98bfd438]. The Journal of Infectious Diseases (2025). Medium credibility.
+### Pneumococcal carriage and disease in adults in england, 2011–2019: the importance of adults as a reservoir for pneumococcus in communities [^114uTYxw]. The Journal of Infectious Diseases (2025). Medium credibility.
 
 Invasive pneumococcal disease (IPD) is caused by infection with Streptococcus pneumoniae (pneumococcus) and includes pneumonia, septicemia, and meningitis. More than 100 serotypes of S pneumoniae (characterized by polysaccharide capsule differences) have been identified.
 
@@ -784,7 +784,7 @@ The prevalent paradigm is that carriage occurs most commonly in young children a
 
 ---
 
-### Study design consideration in inhaled corticosteroid dose and adverse events [^4f93725e]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Study design consideration in inhaled corticosteroid dose and adverse events [^1132yYku]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 To the Editor:
 
@@ -800,7 +800,7 @@ In conclusion, the article by Bloom and colleagues provides valuable insights in
 
 ---
 
-### Ritlecitinib (Litfulo) [^05e23735]. FDA (2025). Medium credibility.
+### Ritlecitinib (Litfulo) [^1119ivSp]. FDA (2025). Medium credibility.
 
 5.1	Serious Infections
 
@@ -832,7 +832,7 @@ In a large, randomized, postmarketing safety study of another JAK inhibitor in R
 
 ---
 
-### Unmet needs and research gaps in Still's disease across ages: proceedings from a pediatric and adult joint expert panel [^b0498f14]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
+### Unmet needs and research gaps in Still's disease across ages: proceedings from a pediatric and adult joint expert panel [^115WMXeB]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
 
 Despite all these similarities, there is still a wide variability in the diagnostic and therapeutic approach between pediatric and adult centers. It is crucial for clinicians to share their respective experiences in the management of children and adults with SD, in order to develop more effective and timely strategies.
 
@@ -840,7 +840,7 @@ To this end, an expert meeting, including pediatric and adult rheumatologists, w
 
 ---
 
-### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^ba4939b4]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
+### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^115mBHxo]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
 
 Introduction
 
@@ -852,7 +852,7 @@ The Improving Care for Community-Acquired Pneumonia (ICECAP) Antibiotic CDS Tria
 
 ---
 
-### Cost-effectiveness of rapid, ICU-based, syndromic PCR in hospital-acquired pneumonia: analysis of the INHALE WP3 multi-centre RCT [^ea944295]. Critical Care (2025). Medium credibility.
+### Cost-effectiveness of rapid, ICU-based, syndromic PCR in hospital-acquired pneumonia: analysis of the INHALE WP3 multi-centre RCT [^116zmuHN]. Critical Care (2025). Medium credibility.
 
 Background
 
@@ -862,7 +862,7 @@ HAP and VAP can be caused by various bacteria, viruses, and fungi. Routine chara
 
 ---
 
-### Piperacillin sodium and tazobactam sodium (piperacillin and tazobactam) [^bc505713]. FDA (2025). Medium credibility.
+### Piperacillin sodium and tazobactam sodium (piperacillin and tazobactam) [^115pBf8e]. FDA (2025). Medium credibility.
 
 RECENT MAJOR CHANGES
 
@@ -870,13 +870,13 @@ Warnings and Precautions, Hemophagocytic Lymphohistiocytosis (5.3) 4/2022
 
 ---
 
-### Comprehensive medical evaluation and assessment of comorbidities: standards of care in diabetes – 2025 [^608c55e4]. Diabetes Care (2025). High credibility.
+### Comprehensive medical evaluation and assessment of comorbidities: standards of care in diabetes – 2025 [^113U8x1Z]. Diabetes Care (2025). High credibility.
 
 Pneumococcal vaccination — PPSV23 (Pneumovax) includes adults 19–64 years of age, vaccinate with Pneumovax, and states that one dose is recommended for those who previously received PCV13; if PCV15 was used, follow with PPSV23 ≥ 1 year later; PPSV23 is not indicated after PCV20; adults who received only PPSV23 may receive PCV15 or PCV20 ≥ 1 year after their last dose.
 
 ---
 
-### All-cause and pneumococcal community-acquired pneumonia hospitalizations among adults in Tennessee and Georgia [^a449255c]. JAMA Network Open (2025). High credibility.
+### All-cause and pneumococcal community-acquired pneumonia hospitalizations among adults in Tennessee and Georgia [^115CZYDR]. JAMA Network Open (2025). High credibility.
 
 Limitations
 
@@ -884,7 +884,7 @@ Our study findings need to be interpreted in light of several limitations. First
 
 ---
 
-### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^42a4a42d]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
+### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^112hoV56]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
 
 Objective:
 
@@ -912,13 +912,13 @@ The ASI outcome yielded similar results to a dichotomous concordance outcome. Ho
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^e3193639]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^116ogf8t]. HIV.gov (2025). High credibility.
 
 PCV/PPSV vaccination — adults with HIV with prior PCV13 or PPSV23: For those who previously received only PCV13, administer PCV21 or PCV20 0.5 mL IM x 1 at least 1 year after PCV13 (BIII). For those who previously received only PPSV23, administer either PCV21: 0.5 mL IM x 1 (BIII); PCV20: 0.5 mL IM x 1 (BIII); or PCV15: 0.5 mL IM x 1 (BIII) at least 1 year after the last PPSV23 dose. PPSV23 is no longer recommended as preferred booster dose for patients who previously started the vaccine series.
 
 ---
 
-### Patient information: community-acquired pneumonia… [^ec512335]. JAMA Network (2025). Excellent credibility.
+### Patient information: community-acquired pneumonia… [^1173MLCC]. JAMA Network (2025). Excellent credibility.
 
 Dao TH, Jackson CD. What Is Community-Acquired Pneumonia. JAMA. 2025; 333:
 
@@ -935,7 +935,7 @@ Vaccination for pneumococcal pneumonia, influenza, COVID-19, and respiratory syn
 
 ---
 
-### Tocilizumab (tocilizumab-anoh) [^d8b3b34f]. FDA (2025). Medium credibility.
+### Tocilizumab (tocilizumab-anoh) [^116YGgia]. FDA (2025). Medium credibility.
 
 5.1	Serious Infections
 
@@ -959,7 +959,7 @@ In patients with COVID-19, monitor for signs and symptoms of new infections duri
 
 ---
 
-### Dynamically monitoring pneumonia severity scores to predict the prognosis in patients with community-acquired pneumonia: an international, multicenter cohort study [^07966971]. Respiratory Medicine (2025). Medium credibility.
+### Dynamically monitoring pneumonia severity scores to predict the prognosis in patients with community-acquired pneumonia: an international, multicenter cohort study [^111CFSEU]. Respiratory Medicine (2025). Medium credibility.
 
 Background
 
@@ -979,7 +979,7 @@ The trend score provides a dynamic and reliable method for monitoring early trea
 
 ---
 
-### Ethionamide (Trecator) [^52034542]. FDA (2025). Medium credibility.
+### Ethionamide (Trecator) [^1136b5pm]. FDA (2025). Medium credibility.
 
 REFERENCES
 
@@ -991,7 +991,7 @@ American Thoracic Society. Am J Respir Crit Care Med 1997;156:S1–S25.
 
 ---
 
-### Immunogenicity, safety and adverse events of sequential vaccination with a 10-valent pneumococcal conjugate vaccine (PCV10) and PPSV23 compared with PPSV23 alone in systemic lupus erythematosus [^5672b9c0]. Lupus Science & Medicine (2025). Medium credibility.
+### Immunogenicity, safety and adverse events of sequential vaccination with a 10-valent pneumococcal conjugate vaccine (PCV10) and PPSV23 compared with PPSV23 alone in systemic lupus erythematosus [^113DAUGf]. Lupus Science & Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -1003,7 +1003,7 @@ In a large study from South India, in patients with invasive pneumococcal diseas
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^3278ea58]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^112HpziK]. FDA (2025). Medium credibility.
 
 Treatment of Hospital-acquired and Ventilator-associated Bacterial Pneumonia Caused by Acinetobacter baumannii-calcoaceticus Complex Organisms
 
@@ -1013,7 +1013,7 @@ The primary efficacy endpoint for the study was 28-day all-cause mortality in th
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^a8d1193f]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^115KH9ux]. GOLD (2025). High credibility.
 
 Regarding classification and risk stratification for chronic obstructive pulmonary disease, more specifically with respect to severity assessment, GOLD 2025 guidelines recommend to use the modified MRC dyspnea scale, based on the level of dyspnea, for severity assessment:
 
@@ -1027,7 +1027,7 @@ Regarding classification and risk stratification for chronic obstructive pulmona
 
 ---
 
-### All-cause and pneumococcal community-acquired pneumonia hospitalizations among adults in Tennessee and Georgia [^c1a7660f]. JAMA Network Open (2025). High credibility.
+### All-cause and pneumococcal community-acquired pneumonia hospitalizations among adults in Tennessee and Georgia [^115x6qaW]. JAMA Network Open (2025). High credibility.
 
 Methods
 
@@ -1041,7 +1041,7 @@ Patients enrolled between September 1, 2018, and October 31, 2022, were included
 
 ---
 
-### Guidelines development group for the British society of gastroenterology guidelines for the diagnosis and management of cholangiocarcinoma [^95de05b3]. Gut (2025). Medium credibility.
+### Guidelines development group for the British society of gastroenterology guidelines for the diagnosis and management of cholangiocarcinoma [^114qBjLE]. Gut (2025). Medium credibility.
 
 We have recently published in Gut the British Society of Gastroenterology (BSG) guidelines for the diagnosis and management of cholangiocarcinoma. In the guidelines we recommended cisplatin plus gemcitabine (CisGem) chemotherapy as first-line systemic treatment in patients with advanced biliary tract cancer (BTC), and that immunotherapy may be added to CisGem chemotherapy if approved and available (Recommendation 39). A few weeks after the guidelines were published, the UK's National Institute for Health and Care Excellence approved and recommended the use of durvalumab plus gemcitabine and cisplatin as an option for treating locally advanced, unresectable or metastatic BTC in adults, and we believe this triple combination should be first line. This was also approved by the Scottish Medicines Consortium in November 2023 and thus represents a new standard of care for cholangiocarcinoma treatment, but this is not specifically mentioned in the latest published BSG guidelines.
 
@@ -1051,7 +1051,7 @@ These updates have been endorsed by all authors on the guideline writing panel a
 
 ---
 
-### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^7562c327]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
+### Evaluating the antibiotic spectrum index in a stewardship-focused clinical trial for childhood pneumonia [^11412j1x]. Infection Control and Hospital Epidemiology (2025). Medium credibility.
 
 Discussion
 
@@ -1065,7 +1065,7 @@ The ASI appears advantageous when employed to evaluate a specific antibiotic ind
 
 ---
 
-### Isoniazid [^eee6f661]. FDA (2025). Medium credibility.
+### Isoniazid [^1177Bdag]. FDA (2025). Medium credibility.
 
 References
 
@@ -1083,7 +1083,7 @@ To report SUSPECTED ADVERSE REACTIONS, contact Allucent at 1-866-511-6754 or FDA
 
 ---
 
-### Diagnostic stewardship of procalcitonin testing by implementation of computer-based decision support [^8f548b16]. Laboratory Medicine (2025). Medium credibility.
+### Diagnostic stewardship of procalcitonin testing by implementation of computer-based decision support [^114fVdLR]. Laboratory Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -1103,7 +1103,7 @@ This study demonstrated that the addition of guideline-based computerized clinic
 
 ---
 
-### For clinicians and public… [^8327b749]. CDC (2025). Medium credibility.
+### For clinicians and public… [^114MSieU]. CDC (2025). Medium credibility.
 
 What to know
 - Respiratory infections caused by the bacteria Mycoplasma pneumoniaehave increased in the United States, especially in young children.
@@ -1120,7 +1120,7 @@ CDC routinely monitors emergency department care of people with pneumonia and ot
 
 ---
 
-### Ceftazidime, avibactam (Avycaz) [^148e784b]. FDA (2025). Medium credibility.
+### Ceftazidime, avibactam (Avycaz) [^111XUcB4]. FDA (2025). Medium credibility.
 
 The primary objective of the study was to evaluate the safety and tolerability of AVYCAZ and it was not powered for a statistical analysis of efficacy. At the TOC visit, which occurred 8 to 15 days after the last dose of study drug, a favorable clinical response was defined as a resolution of all acute signs and symptoms of cUTI or improvement to such an extent that no further antimicrobial therapy was required. A favorable microbiological response at the TOC was defined as eradication of baseline uropathogen(s) from the urine culture.
 
@@ -1136,7 +1136,7 @@ Clinical efficacy was evaluated in the intent-to treat (ITT) population, which i
 
 ---
 
-### Ceftazidime, avibactam (Avycaz) [^e9007914]. FDA (2025). Medium credibility.
+### Ceftazidime, avibactam (Avycaz) [^116xSGsm]. FDA (2025). Medium credibility.
 
 1.000000000000000e+00 1 Complicated Intra- a bdominal Infections (cIAI)
 
@@ -1156,7 +1156,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^485f0253]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^112rJ2DY]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -1182,7 +1182,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ---
 
-### Tocilizumab (tocilizumab-anoh) [^11793dfc]. FDA (2025). Medium credibility.
+### Tocilizumab (tocilizumab-anoh) [^111SuWn7]. FDA (2025). Medium credibility.
 
 WARNING: RISK OF SERIOUS INFECTIONS
 
@@ -1209,7 +1209,7 @@ Monitor all patients for active TB during treatment, even if initial latent TB t
 
 ---
 
-### Amikacin (Arikayce) [^69760993]. FDA (2025). Medium credibility.
+### Amikacin (Arikayce) [^113hMM9L]. FDA (2025). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -1219,7 +1219,7 @@ ARIKAYCE is contraindicated in patients with a known hypersensitivity to any ami
 
 ---
 
-### Daptomycin (Cubicin RF) [^bf2fbdb4]. FDA (2025). Medium credibility.
+### Daptomycin (Cubicin RF) [^115tSftw]. FDA (2025). Medium credibility.
 
 4 CONTRAINDICATIONS
 

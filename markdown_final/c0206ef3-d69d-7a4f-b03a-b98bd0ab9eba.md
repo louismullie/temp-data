@@ -17,63 +17,63 @@ HPV vaccine
 
 > Let me first confirm the clinical question and PICO elements. The overarching question is who should receive HPV vaccination, which vaccine, what schedule, and why, with outcomes including infection, precancerous lesions, cancer, and adverse events. Population spans adolescents and adults, including males, females, and people living with HIV. Interventions include 2-, 4-, and 9-valent vaccines given as 1-, 2-, or 3-dose schedules. Comparators include placebo, other vaccines, or different schedules. Outcomes include persistent HPV infection, CIN2+/CIN3+, cervical and other HPV-attributable cancers, anogenital warts, immunogenicity, and serious adverse events, which I should verify against RCTs, systematic reviews, and population studies.
 
-> Next, I should review the evidence hierarchy and classify sources. Systematic reviews and meta-analyses, especially Cochrane, provide the highest level of evidence for efficacy and safety comparisons, followed by randomized controlled trials, then observational cohort and case-control studies, and finally case series and expert opinion. I need to ensure I weigh population-level effectiveness data alongside RCTs because cancer endpoints are rare and long-term, making observational data essential for real-world impact estimates [^63e69aab] [^45839215] [^4eb73827].
+> Next, I should review the evidence hierarchy and classify sources. Systematic reviews and meta-analyses, especially Cochrane, provide the highest level of evidence for efficacy and safety comparisons, followed by randomized controlled trials, then observational cohort and case-control studies, and finally case series and expert opinion. I need to ensure I weigh population-level effectiveness data alongside RCTs because cancer endpoints are rare and long-term, making observational data essential for real-world impact estimates [^113Z7ERx] [^112n4LeY] [^1131haP8].
 
-> I will now examine efficacy and immunogenicity by outcome, starting with cervical precancers and cancer. Wait, let me verify the magnitude of benefit. High-certainty evidence shows HPV vaccination reduces CIN3+ by about 74% in those vaccinated at or before age 16, and cervical cancer incidence by about 80% in the same group, with consistent reductions across multiple cohorts and countries. Nonavalent vaccine efficacy against high-grade disease attributable to the five additional types is 96.7% in per-protocol analyses, supporting broader type coverage, and these findings align with earlier RCTs showing near-complete protection against vaccine-type persistent infection when given before exposure [^45839215] [^91fc6e96] [^4eb73827].
+> I will now examine efficacy and immunogenicity by outcome, starting with cervical precancers and cancer. Wait, let me verify the magnitude of benefit. High-certainty evidence shows HPV vaccination reduces CIN3+ by about 74% in those vaccinated at or before age 16, and cervical cancer incidence by about 80% in the same group, with consistent reductions across multiple cohorts and countries. Nonavalent vaccine efficacy against high-grade disease attributable to the five additional types is 96.7% in per-protocol analyses, supporting broader type coverage, and these findings align with earlier RCTs showing near-complete protection against vaccine-type persistent infection when given before exposure [^112n4LeY] [^114jRzdj] [^1131haP8].
 
-> Hold on, I should verify dose-schedule questions because this often drives practice. In adolescents initiating vaccination before age 15, two doses yield noninferior immunogenicity to three doses, and real-world data suggest high effectiveness even with one or two doses when given at younger ages. However, three doses remain indicated for those who start at age 15 or older or who are immunocompromised, and I need to emphasize that immunogenicity bridging supports noninferiority but long-term cancer endpoints are still being accrued for reduced-dose schedules [^3885a40a] [^289aee57] [^63e69aab].
+> Hold on, I should verify dose-schedule questions because this often drives practice. In adolescents initiating vaccination before age 15, two doses yield noninferior immunogenicity to three doses, and real-world data suggest high effectiveness even with one or two doses when given at younger ages. However, three doses remain indicated for those who start at age 15 or older or who are immunocompromised, and I need to emphasize that immunogenicity bridging supports noninferiority but long-term cancer endpoints are still being accrued for reduced-dose schedules [^112SoCKB] [^1123CYaA] [^113Z7ERx].
 
-> Let me consider males and non-cervical outcomes. Moderate-certainty evidence shows the quadrivalent vaccine reduces external genital lesions and anogenital warts in males, and systematic reviews indicate meaningful efficacy against persistent anogenital HPV16/18 and high-grade anal lesions, especially in HPV-naïve men. I should confirm that these data underpin routine male vaccination recommendations and that the 9-valent vaccine is expected to broaden protection against anal and other HPV-attributable cancers in men [^63e69aab] [^80e7f4af] [^d5e144da].
+> Let me consider males and non-cervical outcomes. Moderate-certainty evidence shows the quadrivalent vaccine reduces external genital lesions and anogenital warts in males, and systematic reviews indicate meaningful efficacy against persistent anogenital HPV16/18 and high-grade anal lesions, especially in HPV-naïve men. I should confirm that these data underpin routine male vaccination recommendations and that the 9-valent vaccine is expected to broaden protection against anal and other HPV-attributable cancers in men [^113Z7ERx] [^114J7KwC] [^116U62cq].
 
-> I need to check special populations, particularly people living with HIV. Immunogenicity is robust in children and adolescents with HIV, though clinical outcome data are limited and certainty is low. Given higher risks of HPV-related disease, vaccination through age 26 is recommended, and I should note that ongoing studies are evaluating fewer-dose regimens and durability in this group, so recommendations may evolve as more data accrue [^63e69aab] [^531db176].
+> I need to check special populations, particularly people living with HIV. Immunogenicity is robust in children and adolescents with HIV, though clinical outcome data are limited and certainty is low. Given higher risks of HPV-related disease, vaccination through age 26 is recommended, and I should note that ongoing studies are evaluating fewer-dose regimens and durability in this group, so recommendations may evolve as more data accrue [^113Z7ERx] [^1138Dwru].
 
-> Next, I should review safety comprehensively. Serious adverse events are not increased versus comparators across RCTs and large post-licensure surveillance, with the most common effects being injection-site pain, redness, and swelling. A Bayesian network meta-analysis found more systemic adverse events with the bivalent vaccine versus quadrivalent or nonavalent formulations, but no differences in serious adverse events, and CDC monitoring of over 100 million doses shows a reassuring safety profile. I should double-check that this aligns with patient counseling points about expected local reactions and the absence of signals for major safety concerns [^4b2d8083] [^58c29034] [^26c3f334].
+> Next, I should review safety comprehensively. Serious adverse events are not increased versus comparators across RCTs and large post-licensure surveillance, with the most common effects being injection-site pain, redness, and swelling. A Bayesian network meta-analysis found more systemic adverse events with the bivalent vaccine versus quadrivalent or nonavalent formulations, but no differences in serious adverse events, and CDC monitoring of over 100 million doses shows a reassuring safety profile. I should double-check that this aligns with patient counseling points about expected local reactions and the absence of signals for major safety concerns [^112vTMaz] [^113GbGCT] [^111zUM87].
 
-> But wait, what about adult vaccination beyond age 26. I should confirm the balance of benefit and cost-effectiveness. Modeling and guideline appraisals indicate minimal incremental benefit and poor cost-effectiveness when extending routine vaccination to adults 27–45, with ACIP adopting shared clinical decision-making rather than a routine recommendation. The ACS explicitly does not endorse routine catch-up in this group due to low effectiveness and limited cancer prevention potential, so I need to ensure I frame this as individualized discussion rather than a blanket recommendation [^daa0364b] [^dbc9f0d9] [^b3a076c1].
+> But wait, what about adult vaccination beyond age 26. I should confirm the balance of benefit and cost-effectiveness. Modeling and guideline appraisals indicate minimal incremental benefit and poor cost-effectiveness when extending routine vaccination to adults 27–45, with ACIP adopting shared clinical decision-making rather than a routine recommendation. The ACS explicitly does not endorse routine catch-up in this group due to low effectiveness and limited cancer prevention potential, so I need to ensure I frame this as individualized discussion rather than a blanket recommendation [^116b87cn] [^116cr7qi] [^115bJgXr].
 
-> I will now integrate guideline positions to ensure consistency. ACIP recommends routine vaccination at age 11–12, starting as early as 9, with catch-up through age 26 for all persons, and shared decision-making for some adults 27–45. ACOG aligns with ACIP and emphasizes strong clinician recommendation and catch-up through 26. The ACS encourages starting at 9–12 to maximize on-time completion and cancer prevention, and does not endorse routine vaccination beyond 26, which I should reinforce in counseling about diminishing returns with age [^17949483] [^cd759357] [^b3a076c1].
+> I will now integrate guideline positions to ensure consistency. ACIP recommends routine vaccination at age 11–12, starting as early as 9, with catch-up through age 26 for all persons, and shared decision-making for some adults 27–45. ACOG aligns with ACIP and emphasizes strong clinician recommendation and catch-up through 26. The ACS encourages starting at 9–12 to maximize on-time completion and cancer prevention, and does not endorse routine vaccination beyond 26, which I should reinforce in counseling about diminishing returns with age [^111bxd4E] [^116FbxKx] [^115bJgXr].
 
-> Let me translate this into practical, age-specific recommendations. For ages 9–14, a 2-dose schedule at 0 and 6–12 months is preferred if initiated before the 15th birthday, with the option to start at 9–10 to improve series completion. For ages 15–26, use a 3-dose schedule at 0, 1–2, and 6 months, and do not restart if delayed. For adults 27–45, engage in shared decision-making considering sexual risk, prior exposure likelihood, and limited incremental benefit, and avoid routine vaccination beyond 45. I should confirm that no prevaccination testing is needed and that pregnancy is a temporary deferral, not a contraindication [^68e71260] [^16aff043] [^0da03180].
+> Let me translate this into practical, age-specific recommendations. For ages 9–14, a 2-dose schedule at 0 and 6–12 months is preferred if initiated before the 15th birthday, with the option to start at 9–10 to improve series completion. For ages 15–26, use a 3-dose schedule at 0, 1–2, and 6 months, and do not restart if delayed. For adults 27–45, engage in shared decision-making considering sexual risk, prior exposure likelihood, and limited incremental benefit, and avoid routine vaccination beyond 45. I should confirm that no prevaccination testing is needed and that pregnancy is a temporary deferral, not a contraindication [^113gXKx3] [^111adpkz] [^111MCeUw].
 
-> Hold on, I should verify vaccine product considerations. In the U.S., only the 9-valent vaccine is distributed, covering HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58, which prevents about 92% of HPV-attributable cancers. Nonavalent efficacy against disease due to the five additional types is high, and immunogenicity bridging supports noninferiority to quadrivalent for shared types, which supports using the 9-valent formulation for all eligible recipients [^f572aa2d] [^91fc6e96] [^1687e738].
+> Hold on, I should verify vaccine product considerations. In the U.S., only the 9-valent vaccine is distributed, covering HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58, which prevents about 92% of HPV-attributable cancers. Nonavalent efficacy against disease due to the five additional types is high, and immunogenicity bridging supports noninferiority to quadrivalent for shared types, which supports using the 9-valent formulation for all eligible recipients [^117GtUtk] [^114jRzdj] [^111aQNoq].
 
-> I should double-check implementation pearls that affect uptake. Strong, presumptive clinician recommendation is the single most important predictor of vaccination, and addressing safety concerns directly improves acceptance. Real-world data show substantial declines in vaccine-type HPV prevalence and genital warts after program implementation, with herd effects evident even among unvaccinated individuals, reinforcing the public health rationale for adolescent-focused programs [^44d5f11e] [^6b973093] [^68394738].
+> I should double-check implementation pearls that affect uptake. Strong, presumptive clinician recommendation is the single most important predictor of vaccination, and addressing safety concerns directly improves acceptance. Real-world data show substantial declines in vaccine-type HPV prevalence and genital warts after program implementation, with herd effects evident even among unvaccinated individuals, reinforcing the public health rationale for adolescent-focused programs [^112m4261] [^113kWTZt] [^113fWxBH].
 
-> Let me reconsider uncertainties and future directions so I don't overstate conclusions. Long-term durability beyond 10 years appears strong, but continued surveillance is warranted, especially for reduced-dose schedules. One-dose regimens are under active investigation and could transform delivery in low-resource settings, and ongoing trials are evaluating use in immunocompromised hosts, postpartum populations, and for preventing oropharyngeal cancer, so recommendations may evolve as these data mature [^186c9610] [^0feb41c2] [^45839215].
+> Let me reconsider uncertainties and future directions so I don't overstate conclusions. Long-term durability beyond 10 years appears strong, but continued surveillance is warranted, especially for reduced-dose schedules. One-dose regimens are under active investigation and could transform delivery in low-resource settings, and ongoing trials are evaluating use in immunocompromised hosts, postpartum populations, and for preventing oropharyngeal cancer, so recommendations may evolve as these data mature [^111dDBCB] [^111QbqQD] [^112n4LeY].
 
-> In summary, I need to ensure the bottom line is clear and evidence-aligned. HPV vaccination is highly effective at preventing infection and HPV-related disease, with the greatest cancer prevention when given in early adolescence before sexual exposure. Two doses suffice if started before age 15, three doses are indicated for older initiators or immunocompromised persons, males should be vaccinated routinely, adults 27–45 may be considered case-by-case with limited benefit, and safety is excellent across millions of doses. These conclusions are supported by high-quality systematic reviews, population studies, and convergent guidelines [^45839215] [^63e69aab] [^17949483] [^b3a076c1].
+> In summary, I need to ensure the bottom line is clear and evidence-aligned. HPV vaccination is highly effective at preventing infection and HPV-related disease, with the greatest cancer prevention when given in early adolescence before sexual exposure. Two doses suffice if started before age 15, three doses are indicated for older initiators or immunocompromised persons, males should be vaccinated routinely, adults 27–45 may be considered case-by-case with limited benefit, and safety is excellent across millions of doses. These conclusions are supported by high-quality systematic reviews, population studies, and convergent guidelines [^112n4LeY] [^113Z7ERx] [^111bxd4E] [^115bJgXr].
 
 ---
 
-The HPV vaccine is **highly effective** at preventing HPV infections and related cancers, with > 99% efficacy against cervical precancers when given before exposure [^c8b1e324] [^4eb73827]. It is **safe**, with no serious safety signals in large trials and post-licensure surveillance [^58c29034] [^26c3f334]. Routine vaccination at **ages 11–12** (can start at 9) with a 2-dose schedule is recommended; catch-up through age 26 is advised, and adults 27–45 may consider vaccination via shared decision-making [^17949483] [^b3a076c1]. The 9-valent vaccine covers 90% of HPV-related cancers, and population impact includes marked declines in HPV infections, genital warts, and cervical precancers [^f572aa2d] [^6b973093] [^45839215].
+The HPV vaccine is **highly effective** at preventing HPV infections and related cancers, with > 99% efficacy against cervical precancers when given before exposure [^1168YGtK] [^1131haP8]. It is **safe**, with no serious safety signals in large trials and post-licensure surveillance [^113GbGCT] [^111zUM87]. Routine vaccination at **ages 11–12** (can start at 9) with a 2-dose schedule is recommended; catch-up through age 26 is advised, and adults 27–45 may consider vaccination via shared decision-making [^111bxd4E] [^115bJgXr]. The 9-valent vaccine covers 90% of HPV-related cancers, and population impact includes marked declines in HPV infections, genital warts, and cervical precancers [^117GtUtk] [^113kWTZt] [^112n4LeY].
 
 ---
 
 ## Vaccine types and composition
 
-Three HPV vaccines are available: **bivalent (2vHPV)** targets HPV 16 and 18; **quadrivalent (4vHPV)** targets HPV 6, 11, 16, and 18; and **nonavalent (9vHPV)** targets HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58. The 9-valent vaccine is the only HPV vaccine currently distributed in the U.S. and prevents about 90% of HPV-related cancers [^f572aa2d].
+Three HPV vaccines are available: **bivalent (2vHPV)** targets HPV 16 and 18; **quadrivalent (4vHPV)** targets HPV 6, 11, 16, and 18; and **nonavalent (9vHPV)** targets HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58. The 9-valent vaccine is the only HPV vaccine currently distributed in the U.S. and prevents about 90% of HPV-related cancers [^117GtUtk].
 
 ---
 
 ## Mechanism of action
 
-HPV vaccines are **prophylactic** and composed of virus-like particles (VLPs) assembled from the L1 major capsid protein; they are noninfectious and induce strong neutralizing antibody responses that prevent infection with vaccine-covered HPV types [^6499a257].
+HPV vaccines are **prophylactic** and composed of virus-like particles (VLPs) assembled from the L1 major capsid protein; they are noninfectious and induce strong neutralizing antibody responses that prevent infection with vaccine-covered HPV types [^113a9NDU].
 
 ---
 
 ## Clinical efficacy
 
-- **Cervical cancer**: > 99% efficacy against cervical precancers caused by HPV 16/18 when given before exposure; population studies show substantial reductions in cervical cancer incidence [^c8b1e324] [^45839215].
-- **Other cancers**: Reduces incidence of vaginal, vulvar, anal, penile, and oropharyngeal cancers linked to vaccine-covered types [^d5e144da].
-- **Genital warts**: Quadrivalent and nonavalent vaccines prevent ~90% of genital warts caused by HPV 6/11 [^72c395f2].
+- **Cervical cancer**: > 99% efficacy against cervical precancers caused by HPV 16/18 when given before exposure; population studies show substantial reductions in cervical cancer incidence [^1168YGtK] [^112n4LeY].
+- **Other cancers**: Reduces incidence of vaginal, vulvar, anal, penile, and oropharyngeal cancers linked to vaccine-covered types [^116U62cq].
+- **Genital warts**: Quadrivalent and nonavalent vaccines prevent ~90% of genital warts caused by HPV 6/11 [^113w9HSh].
 
 ---
 
 ## Safety profile
 
-- **Common adverse effects**: Injection-site pain, redness, and swelling; mild systemic symptoms (fever, headache) are common but transient [^10c424c1].
-- **Serious adverse events**: No increased risk of serious adverse events, autoimmune diseases, or infertility in large trials and post-licensure surveillance [^58c29034] [^26c3f334].
-- **Pregnancy**: Not recommended during pregnancy; no evidence of adverse pregnancy outcomes if inadvertently administered [^16aff043].
+- **Common adverse effects**: Injection-site pain, redness, and swelling; mild systemic symptoms (fever, headache) are common but transient [^111RrghE].
+- **Serious adverse events**: No increased risk of serious adverse events, autoimmune diseases, or infertility in large trials and post-licensure surveillance [^113GbGCT] [^111zUM87].
+- **Pregnancy**: Not recommended during pregnancy; no evidence of adverse pregnancy outcomes if inadvertently administered [^111adpkz].
 
 ---
 
@@ -81,33 +81,33 @@ HPV vaccines are **prophylactic** and composed of virus-like particles (VLPs) as
 
 | **Age group** | **Recommended schedule** |
 |-|-|
-| 9–14 years | 2 doses at 0 and 6–12 months; if the interval is < 5 months, a third dose is needed [^68e71260] |
-| 15–26 years | 3 doses at 0, 1–2, and 6 months [^16aff043] |
-| ≥ 27 years | Shared clinical decision-making for some adults 27–45 years; not routinely recommended [^dbc9f0d9] |
+| 9–14 years | 2 doses at 0 and 6–12 months; if the interval is < 5 months, a third dose is needed [^113gXKx3] |
+| 15–26 years | 3 doses at 0, 1–2, and 6 months [^111adpkz] |
+| ≥ 27 years | Shared clinical decision-making for some adults 27–45 years; not routinely recommended [^116cr7qi] |
 
 ---
 
 ## Impact of HPV vaccination programs
 
-Population-level benefits include **declines in HPV infections** — with vaccine-type HPV prevalence down 88% among females aged 14–19 and 81% among those aged 20–24 since vaccine introduction — as well as reductions in genital warts and cervical precancers, with substantial decreases in anogenital warts and CIN2+ observed in vaccinated populations [^6b973093] [^45839215].
+Population-level benefits include **declines in HPV infections** — with vaccine-type HPV prevalence down 88% among females aged 14–19 and 81% among those aged 20–24 since vaccine introduction — as well as reductions in genital warts and cervical precancers, with substantial decreases in anogenital warts and CIN2+ observed in vaccinated populations [^113kWTZt] [^112n4LeY].
 
 ---
 
 ## Barriers to vaccination and strategies to improve uptake
 
-Barriers include vaccine hesitancy, misinformation, and logistical challenges. Strategies to improve uptake include **provider recommendation** — the strongest predictor of vaccination — school-based programs, and public education campaigns [^44d5f11e] [^4eb73827].
+Barriers include vaccine hesitancy, misinformation, and logistical challenges. Strategies to improve uptake include **provider recommendation** — the strongest predictor of vaccination — school-based programs, and public education campaigns [^112m4261] [^1131haP8].
 
 ---
 
 ## Global perspectives and disparities
 
-High-income countries have achieved greater coverage and earlier impact, whereas **low- and middle-income countries** face supply constraints, cost, and infrastructure barriers. WHO initiatives support equitable access, including single-dose strategies and Gavi support [^0feb41c2] [^4eb73827].
+High-income countries have achieved greater coverage and earlier impact, whereas **low- and middle-income countries** face supply constraints, cost, and infrastructure barriers. WHO initiatives support equitable access, including single-dose strategies and Gavi support [^111QbqQD] [^1131haP8].
 
 ---
 
 ## Future directions
 
-Research is evaluating **single-dose regimens**, extended age ranges, and novel vaccine formulations, while ongoing surveillance monitors long-term effectiveness and safety [^186c9610] [^3897419d].
+Research is evaluating **single-dose regimens**, extended age ranges, and novel vaccine formulations, while ongoing surveillance monitors long-term effectiveness and safety [^111dDBCB] [^112Su7VW].
 
 ---
 
@@ -117,7 +117,7 @@ The HPV vaccine is **highly effective and safe**, with broad cancer prevention b
 
 ## References
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^63e69aab]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^113Z7ERx]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -149,19 +149,19 @@ The immunogenicity of two-dose and three-dose HPV vaccine schedules, measured us
 
 ---
 
-### HPV vaccines: their pathology-based discovery, benefits, and adverse effects [^123e9de0]. Annals of Diagnostic Pathology (2015). Low credibility.
+### HPV vaccines: their pathology-based discovery, benefits, and adverse effects [^111U3owm]. Annals of Diagnostic Pathology (2015). Low credibility.
 
 The discovery of the human papillomavirus (HPV) vaccine illustrates the power of in situ-based pathologic analysis in better understanding and curing diseases. The 2 available HPV vaccines have markedly reduced the incidence of cervical intraepithelial neoplasias, genital warts, and cervical cancer throughout the world. Concerns about HPV vaccine safety have led some physicians, health care officials, and parents to refuse providing the recommended vaccination to the target population. The aims of the study were to discuss the discovery of HPV vaccine and review scientific data related to measurable outcomes from the use of HPV vaccines. The strong type-specific immunity against HPV in humans has been known for more than 25 years. Multiple studies confirm the positive risk benefit of HPV vaccination with minimal documented adverse effects. The most common adverse effect, injection site pain, occurred in about 10% of girls and was less than the rate reported for other vaccines. Use of HPV vaccine should be expanded into more diverse populations, mainly in low-resource settings.
 
 ---
 
-### Human papillomavirus vaccination: current indications and future directions [^baf01e71]. Obstetrics and Gynecology Clinics of North America (2013). Low credibility.
+### Human papillomavirus vaccination: current indications and future directions [^115n9MJx]. Obstetrics and Gynecology Clinics of North America (2013). Low credibility.
 
 Human papillomavirus (HPV) is one of the most common sexually transmitted infections affecting both men and women worldwide. The development of the prophylactic HPV vaccines is a significant pharmaceutical innovation with potential to reduce HPV-related morbidity. However, barriers to the universal use and acceptability of the HPV vaccines continue to exist in both economically privileged and disadvantaged countries. It may be decades before the impact of preventive vaccines on HPV-related diseases caused by the considerable burden of HPV infections will be seen. Collaborative efforts must continue to promote vaccine implementation.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^7055adfc]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^113sYPjh]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 What is currently recommended?
 
@@ -177,7 +177,7 @@ What are the new recommendations?
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^56f7a0c5]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^113Dw7RE]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Abstract
 
@@ -231,7 +231,7 @@ The immunogenicity of two‐dose and three‐dose HPV vaccine schedules, measure
 
 ---
 
-### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^45839215]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^112n4LeY]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Abstract
 
@@ -281,7 +281,7 @@ There are now long‐term outcome data from different countries and from differe
 
 ---
 
-### HPV vaccination: for providers… [^62ccc2a4]. CDC (2023). Medium credibility.
+### HPV vaccination: for providers… [^113XUZfq]. CDC (2023). Medium credibility.
 
 Human Papillomavirus Vaccination Information for Clinicians CDC recommends HPV vaccination for children at ages 11 or 12 years to protect against HPV infections that can cause some cancers later in life. Vaccination can be started at age 9 and is recommended through age 26 years for those who did not get adequately vaccinated when they were younger. Research shows that healthcare professionals are parents' most trusted source of information about the HPV vaccine. CDC encourages healthcare professionals to recommend HPV vaccination in the same way and on the same day that they recommend other vaccines for adolescents. ACIP recommendations, general precautions and contraindications, pregnancy precautions, safety of HPV vaccine HPV vaccine composition, immunogenicity, and efficacy Best practices for HPV vaccine Dosage and schedule, preparation and administration, and co-administration with other vaccines Summary of safety, effectiveness, and duration of protection data.
 
@@ -289,79 +289,79 @@ The Vaccines for Children program Vaccine package inserts and additional materia
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^b3a076c1]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^115bJgXr]. CA (2020). High credibility.
 
 American Cancer Society human papillomavirus (HPV) vaccination recommendations — The ACS recommends routine HPV vaccination between ages 9 and 12 years to achieve higher on-time vaccination rates. Health care providers are encouraged to start offering the HPV vaccine series at age 9 or 10 years. Catch-up HPV vaccination is recommended for all persons through age 26 years who are not adequately vaccinated, and providers should inform individuals aged 22 to 26 years who have not been previously vaccinated or who have not completed the series that vaccination at older ages is less effective in lowering cancer risk. Catch-up HPV vaccination is not recommended for adults aged older than 26 years. The ACS does not endorse the 2019 Advisory Committee on Immunization Practices recommendation for shared clinical decision making for some adults aged 27 through 45 years who are not adequately vaccinated because of the low effectiveness and low cancer prevention potential of vaccination in this age group, the burden of decision making on patients and clinicians, and the lack of sufficient guidance on the selection of individuals who might benefit.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^35a4ea33]. CA (2020). Medium credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^112NXjjg]. CA (2020). Medium credibility.
 
 The American Cancer Society (ACS) presents an adaptation of the current Advisory Committee on Immunization Practices recommendations for human papillomavirus (HPV) vaccination. The ACS recommends routine HPV vaccination between ages 9 and 12 years to achieve higher on-time vaccination rates, which will lead to increased numbers of cancers prevented. Health care providers are encouraged to start offering the HPV vaccine series at age 9 or 10 years. Catch-up HPV vaccination is recommended for all persons through age 26 years who are not adequately vaccinated. Providers should inform individuals aged 22 to 26 years who have not been previously vaccinated or who have not completed the series that vaccination at older ages is less effective in lowering cancer risk. Catch-up HPV vaccination is not recommended for adults aged older than 26 years. The ACS does not endorse the 2019 Advisory Committee on Immunization Practices recommendation for shared clinical decision making for some adults aged 27 through 45 years who are not adequately vaccinated because of the low effectiveness and low cancer prevention potential of vaccination in this age group, the burden of decision making on patients and clinicians, and the lack of sufficient guidance on the selection of individuals who might benefit.
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^dbc9f0d9]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^116cr7qi]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Vaccination against human papillomavirus (HPV) is recommended to prevent new HPV infections and HPV-associated diseases, including some cancers. The Advisory Committee on Immunization Practices (ACIP)* routinely recommends HPV vaccination at age 11 or 12 years; vaccination can be given starting at age 9 years. Catch-up vaccination has been recommended since 2006 for females through age 26 years, and since 2011 for males through age 21 years and certain special populations through age 26 years. This report updates ACIP catch-up HPV vaccination recommendations and guidance published in 2014, 2015, and 2016 (1–3). Routine recommendations for vaccination of adolescents have not changed. In June 2019, ACIP recommended catch-up HPV vaccination for all persons through age 26 years. ACIP did not recommend catch-up vaccination for all adults aged 27 through 45 years, but recognized that some persons who are not adequately vaccinated might be at risk for new HPV infection and might benefit from vaccination in this age range; therefore, ACIP recommended shared clinical decision-making regarding potential HPV vaccination for these persons.
 
 ---
 
-### Age considerations when vaccinating against HPV [^9172cf5f]. Gynecologic Oncology (2008). Low credibility.
+### Age considerations when vaccinating against HPV [^114idmYS]. Gynecologic Oncology (2008). Low credibility.
 
 Human papillomavirus (HPV) vaccines have been shown to be both highly effective and safe, and there is now considerable enthusiasm among healthcare providers to use the vaccines to reduce the burden of HPV-associated disease in women. When considering who should be vaccinated, it is important that providers understand the complex relationships between age and HPV infections. HPV infections and cervical cancer have a widespread impact on society. Cervical cancer is the cause of a significant amount of morbidity and mortality throughout the world, making it crucial to implement prophylactic HPV vaccines to prevent cervical cancer. Nationally, the target group for vaccination is pre-adolescent females who have not been sexually active or who have recently become sexually active. In the United States, the Advisory Committee on Immunization Practices recommends HPV vaccination for females aged 11 to 12 years. "Catch-up" vaccination of females aged 13 to 26 years who have not been previously vaccinated or who have missed a vaccination is also recommended, as females within this age group have the highest prevalence of HPV infection. Vaccination can still benefit females over the age of 26 years who have not been previously exposed to HPV 6, 11, 16, or 18 and those who may have new sexual partners in the future. This review discusses the various considerations that should be addressed when making recommendations of who should be vaccinated against HPV.
 
 ---
 
-### Use of a 2-dose schedule for human papillomavirus vaccination-updated recommendations of the advisory committee on immunization practices [^68e71260]. MMWR: Morbidity and Mortality Weekly Report (2016). Low credibility.
+### Use of a 2-dose schedule for human papillomavirus vaccination-updated recommendations of the advisory committee on immunization practices [^113gXKx3]. MMWR: Morbidity and Mortality Weekly Report (2016). Low credibility.
 
 Vaccination against human papillomavirus (HPV) is recommended to prevent HPV infections and HPV-associated diseases, including cancers. Routine vaccination at age 11 or 12 years has been recommended by the Advisory Committee on Immunization Practices (ACIP) since 2006 for females and since 2011 for males (1,2). This report provides recommendations and guidance regarding use of HPV vaccines and updates ACIP HPV vaccination recommendations previously published in 2014 and 2015 (1,2). This report includes new recommendations for use of a 2-dose schedule for girls and boys who initiate the vaccination series at ages 9 through 14 years. Three doses remain recommended for persons who initiate the vaccination series at ages 15 through 26 years and for immunocompromised persons.
 
 ---
 
-### Human papillomavirus vaccination: recommendations of the advisory committee on immunization practices (ACIP) [^f4cb7a8a]. MMWR: Recommendations and Reports (2014). Low credibility.
+### Human papillomavirus vaccination: recommendations of the advisory committee on immunization practices (ACIP) [^117FvKr1]. MMWR: Recommendations and Reports (2014). Low credibility.
 
 This report summarizes the epidemiology of human papillomavirus (HPV) and associated diseases, describes the licensed HPV vaccines, provides updated data from clinical trials and postlicensure safety studies, and compiles recommendations from CDC's Advisory Committee on Immunization Practices (ACIP) for use of HPV vaccines. Persistent infection with oncogenic HPV types can cause cervical cancer in women as well as other anogenital and oropharyngeal cancers in women and men. HPV also causes genital warts. Two HPV vaccines are licensed in the United States. Both are composed of type-specific HPV L1 protein, the major capsid protein of HPV. Expression of the L1 protein using recombinant DNA technology produces noninfectious virus-like particles (VLPs). Quadrivalent HPV vaccine (HPV4) contains four HPV type-specific VLPs prepared from the L1 proteins of HPV 6, 11, 16, and 18. Bivalent HPV vaccine (HPV2) contains two HPV type-specific VLPs prepared from the L1 proteins of HPV 16 and 18. Both vaccines are administered in a 3-dose series. ACIP recommends routine vaccination with HPV4 or HPV2 for females aged 11 or 12 years and with HPV4 for males aged 11 or 12 years. Vaccination also is recommended for females aged 13 through 26 years and for males aged 13 through 21 years who were not vaccinated previously. Males aged 22 through 26 years may be vaccinated. ACIP recommends vaccination of men who have sex with men and immunocompromised persons (including those with HIV infection) through age 26 years if not previously vaccinated. As a compendium of all current recommendations for use of HPV vaccines, information in this report is intended for use by clinicians, vaccination providers, public health officials, and immunization program personnel as a resource. ACIP recommendations are reviewed periodically and are revised as indicated when new information and data become available.
 
 ---
 
-### Human papillomavirus vaccines [^6499a257]. The Journal of Infectious Diseases (2021). Medium credibility.
+### Human papillomavirus vaccines [^113a9NDU]. The Journal of Infectious Diseases (2021). Medium credibility.
 
 Human papillomavirus (HPV) vaccines are among the most effective vaccines available, the first to prevent infection by a mucosatropic sexually transmitted infectious agent and to do so without specific induction of mucosal immunity. Currently available prophylactic HPV vaccines are based on virus-like particles that self-assemble spontaneously from the L1 major capsid protein. The first HPV vaccine was licensed in 2006. All vaccines target HPV-16 and HPV-18, types which cause the majority of HPV-attributable cancers. As of 2020, HPV vaccines had been introduced into national immunization programs in more than 100 countries. Vaccination polices have evolved; most programs target vaccination of young adolescent girls, with an increasing number also including boys. The efficacy and safety found in prelicensure trials have been confirmed by data from national immunization programs. The dramatic impact and effectiveness observed has stimulated interest in ambitious disease reduction goals.
 
 ---
 
-### Human papillomavirus vaccine trials and tribulations: clinical perspectives [^98af9396]. Journal of the American Academy of Dermatology (2015). Low credibility.
+### Human papillomavirus vaccine trials and tribulations: clinical perspectives [^114uN6Lm]. Journal of the American Academy of Dermatology (2015). Low credibility.
 
 Human papillomavirus (HPV) affects hundreds of millions of people worldwide and is associated with both benign and malignant neoplasms in men and women. It is a double-stranded DNA virus with an icosahedral capsid. Forty HPV types are known to infect mucosal keratinocytes. If not cured by the immune system, the infection can lead to genital warts, mucosal dysplasia, or cancer. The most common oncogenic types are 16 and 18. The vaccine to prevent HPV and its associated morbidity and mortality has existed since 2006. Several variations protect against an increasing number of HPV types. The recommended vaccination age is before sexual exposure; administration of the vaccine to children has been controversial. This continuing medical education review evaluates the current HPV vaccines available to clinicians. Part I focuses on the debate over who should be vaccinated, at what age, and in which populations.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^eb9c2ccd]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^1172JYm2]. CA (2020). High credibility.
 
 American Cancer Society (ACS) adapted human papillomavirus (HPV) vaccination recommendations — age indications and adult decision-making — state that HPV vaccination is routinely recommended at age 11 or 12 y; vaccination can be given starting at age 9 y, with an ACS qualifying statement that routine HPV vaccination between ages 9–12 y is expected to achieve higher on-time vaccination rates, resulting in increased numbers of cancers prevented, and health care providers are encouraged to start offering the HPV vaccine at age 9 or 10 y. Vaccination is recommended for all persons through age 26 y who are not adequately vaccinated, and the ACS qualifying statement specifies that providers should inform individuals aged 22–26 y who have not been previously vaccinated or who have not completed the series that vaccination at older ages is less effective in lowering cancer risk. For adults, catch-up HPV vaccination is not recommended for all aged > 26 y and instead shared clinical decision making is recommended for some adults aged 27–45 y who are not adequately vaccinated; however, the ACS does not endorse the recommendation for shared clinical decision making for adults aged 27–45 y because of the low effectiveness and low cancer prevention potential of vaccination in this age group, the burden of decision making on patients and clinicians, and the lack of sufficient guidance on selection of individuals who might benefit.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^0da03180]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^111MCeUw]. CA (2020). High credibility.
 
 Advisory Committee on Immunization Practices (ACIP) 2019 human papillomavirus (HPV) vaccination — For children and adults aged 9–26 y, HPV vaccination is routinely recommended at age 11 or 12 y; vaccination can be given starting at age 9 y, and vaccination is recommended for all persons through age 26 y who are not adequately vaccinated. For adults aged > 26 y, catch-up HPV vaccination is not recommended for all adults aged > 26 y; instead, shared clinical decision making regarding HPV vaccination is recommended for some adults aged 27–45 y who are not adequately vaccinated, and HPV vaccines are not licensed for use in adults aged > 45 y. Administration guidance states that dosing schedules, intervals, and definitions of persons considered adequately vaccinated have not changed and that no prevaccination testing (eg, Pap or HPV testing) is recommended to establish the appropriateness of HPV vaccination. Cervical cancer screening guidelines and recommendations should be followed. These recommendations for children and adults aged 9–26 y and for adults aged > 26 y apply to all persons, regardless of behavioral or medical risk factors; for persons who are pregnant, HPV vaccination should be delayed until after pregnancy, however, pregnancy testing is not needed before vaccination, and persons who are breastfeeding or lactating can receive HPV vaccine.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^292844bd]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^1124223n]. CA (2020). High credibility.
 
 Human papillomavirus (HPV) vaccination — adults older than 26 years: ACIP indicates that catch-up HPV vaccination is not recommended for all adults aged > 26 years; instead, shared clinical decision making is recommended for some adults aged 27 through 45 years who are not adequately vaccinated, and HPV vaccines are not licensed for use in adults aged > 45 years. The ACS does not endorse the recommendation for shared clinical decision making for adults aged 27 through 45 years because of the low effectiveness and low cancer prevention potential of vaccination in this age group, the burden on patients and clinicians, and the lack of sufficient guidance on selecting individuals who might benefit. Supporting context notes that HPV vaccination is most effective in early adolescence, with effectiveness decreasing dramatically by age 18 years and minimal benefit noted by age 20 or 21 years, and that compared with vaccination through age 26 years, extending to adults through age 45 years was estimated to prevent only an additional 0.5% cases of cancer, 0.4% cases of cervical precancer, and 0.3% cases of genital warts over the next 100 years.
 
 ---
 
-### Quadrivalent human papillomavirus vaccine: recommendations of the advisory committee on immunization practices (ACIP) [^d35501b8]. MMWR: Recommendations and Reports (2007). Low credibility.
+### Quadrivalent human papillomavirus vaccine: recommendations of the advisory committee on immunization practices (ACIP) [^116QJwXV]. MMWR: Recommendations and Reports (2007). Low credibility.
 
 These recommendations represent the first statement by the Advisory Committee on Immunization Practices (ACIP) on the use of a quadrivalent human papillomavirus (HPV) vaccine licensed by the U.S. Food and Drug Administration on June 8, 2006. This report summarizes the epidemiology of HPV and associated diseases, describes the licensed HPV vaccine, and provides recommendations for its use for vaccination among females aged 9–26 years in the United States. Genital HPV is the most common sexually transmitted infection in the United States; an estimated 6.2 million persons are newly infected every year. Although the majority of infections cause no clinical symptoms and are self-limited, persistent infection with oncogenic types can cause cervical cancer in women. HPV infection also is the cause of genital warts and is associated with other anogenital cancers. Cervical cancer rates have decreased in the United States because of widespread use of Papanicolaou testing, which can detect precancerous lesions of the cervix before they develop into cancer; nevertheless, during 2007, an estimated 11,100 new cases will be diagnosed and approximately 3,700 women will die from cervical cancer. In certain countries where cervical cancer screening is not routine, cervical cancer is a common cancer in women. The licensed HPV vaccine is composed of the HPV L1 protein, the major capsid protein of HPV. Expression of the L1 protein in yeast using recombinant DNA technology produces noninfectious virus-like particles (VLP) that resemble HPV virions. The quadrivalent HPV vaccine is a mixture of four HPV type-specific VLPs prepared from the L1 proteins of HPV 6, 11, 16, and 18 combined with an aluminum adjuvant. Clinical trials indicate that the vaccine has high efficacy in preventing persistent HPV infection, cervical cancer precursor lesions, vaginal and vulvar cancer precursor lesions, and genital warts caused by HPV types 6, 11, 16, or 18 among females who have not already been infected with the respective HPV type. No evidence exists of protection against disease caused by HPV types with which females are infected at the time of vaccination. However, females infected with one or more vaccine HPV types before vaccination would be protected against disease caused by the other vaccine HPV types. The vaccine is administered by intramuscular injection, and the recommended schedule is a 3-dose series with the second and third doses administered 2 and 6 months after the first dose. The recommended age for vaccination of females is 11–12 years. Vaccine can be administered as young as age 9 years. Catch-up vaccination is recommended for females aged 13–26 years who have not been previously vaccinated. Vaccination is not a substitute for routine cervical cancer screening, and vaccinated females should have cervical cancer screening as recommended.
 
 ---
 
-### Vaccination against human papillomavirus [^788fa9b7]. JAMA Dermatology (2020). High credibility.
+### Vaccination against human papillomavirus [^1145jmbc]. JAMA Dermatology (2020). High credibility.
 
 Clinical Question
 
@@ -373,19 +373,19 @@ Catch-up vaccination is now recommended for all persons through age 26 years. Fo
 
 ---
 
-### Human papillomavirus vaccination guideline update: American cancer society guideline endorsement [^10fdc023]. CA (2016). Low credibility.
+### Human papillomavirus vaccination guideline update: American cancer society guideline endorsement [^111SC2y8]. CA (2016). Low credibility.
 
 Answer questions and earn CME/CNE The American Cancer Society (ACS) reviewed and updated its guideline on human papillomavirus (HPV) vaccination based on a methodologic and content review of the Advisory Committee on Immunization Practices (ACIP) HPV vaccination recommendations. A literature review was performed to supplement the evidence considered by the ACIP and to address new vaccine formulations and recommendations as well as new data on population outcomes since publication of the 2007 ACS guideline. The ACS Guideline Development Group determined that the evidence supports ACS endorsement of the ACIP recommendations, with one qualifying statement related to late vaccination. The ACS recommends vaccination of all children at ages 11 and 12 years to protect against HPV infections that lead to several cancers and precancers. Late vaccination for those not vaccinated at the recommended ages should be completed as soon as possible, and individuals should be informed that vaccination may not be effective at older ages. CA Cancer J Clin 2016;66:375–385. © 2016 American Cancer Society.
 
 ---
 
-### Global delivery of human papillomavirus vaccines [^6dc20571]. Pediatric Clinics of North America (2016). Low credibility.
+### Global delivery of human papillomavirus vaccines [^113oipZE]. Pediatric Clinics of North America (2016). Low credibility.
 
 Worldwide, cervical cancer is the fourth most common cancer among women. Human papillomavirus (HPV) vaccination, if broadly implemented, has the potential to significantly reduce global rates of morbidity and mortality associated with cervical and other HPV-related cancers. More than 100 countries around the world have licensed HPV vaccines. As of February, 2015, there were an estimated 80 national HPV immunization programs and 37 pilot programs. This article discusses global implementation of HPV vaccination programs and issues such as vaccine financing and different approaches to HPV vaccine delivery.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^d1fbcb81]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^116NJzFz]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Methods
 
@@ -393,7 +393,7 @@ From October 2013 to February 2015, the ACIP HPV Vaccine Work Group reviewed cli
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^17949483]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^111bxd4E]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Introduction
 
@@ -401,7 +401,7 @@ Vaccination against human papillomavirus (HPV) is recommended to prevent new HPV
 
 ---
 
-### Human papillomavirus (HPV) vaccine safety… [^58c29034]. CDC (2025). Medium credibility.
+### Human papillomavirus (HPV) vaccine safety… [^113GbGCT]. CDC (2025). Medium credibility.
 
 CDC is aware of public concern about the safety of HPV vaccine. Since the vaccine's introduction in 2006, vaccine safety monitoring and studies conducted by CDC, FDA, and other organizations have documented a reassuring safety record. Available vaccines & manufacturer package inserts Gardasil 9 and manufacturer insert
 - Gardasil 9 was approved by FDA for use in 2014.
@@ -419,37 +419,37 @@ These safety efforts continue, now focusing on Gardasil 9.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^17933071]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^111bx9xc]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 Use of 9-valent human papillomavirus (HPV) vaccine — The Advisory Committee on Immunization Practices (ACIP) recommended 9-valent HPV vaccine (9vHPV) as one of three HPV vaccines that can be used for routine vaccination, and HPV vaccine is recommended for routine vaccination at age 11 or 12 years. ACIP also recommends vaccination for females aged 13 through 26 years and males aged 13 through 21 years not vaccinated previously, and vaccination is also recommended through age 26 years for men who have sex with men and for immunocompromised persons (including those with HIV infection) if not vaccinated previously. 9vHPV was licensed by the Food and Drug Administration on December 10, 2014 for use in females aged 9 through 26 years and males aged 9 through 15 years, and for these recommendations ACIP reviewed additional data on 9vHPV in males aged 16 through 26 years. 9vHPV and 4vHPV are licensed for use in females and males, whereas bivalent HPV vaccine (2vHPV), which contains HPV 16, 18 VLPs, is licensed for use in females.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^3885a40a]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^112SoCKB]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 HPV vaccine administration and series completion specify that 2vHPV, 4vHPV, and 9vHPV are each administered in a 3-dose schedule, with the second dose administered at least 1 to 2 months after the first dose and the third dose at least 6 months after the first dose; minimum intervals are 1 month between the first and second dose, 3 months between the second and third dose, and 6 months between the first and third dose; if the vaccine schedule is interrupted, the vaccination series does not need to be restarted; if vaccination providers do not know or do not have available the HPV vaccine product previously administered, or are in settings transitioning to 9vHPV, any available HPV vaccine product may be used to continue or complete the series for females for protection against HPV 16 and 18, and 9vHPV or 4vHPV may be used to continue or complete the series for males; there are no data on efficacy of fewer than 3 doses of 9vHPV.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^a7ab3d9f]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^115HaT6n]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 During its February 2015 meeting, the Advisory Committee on Immunization Practices (ACIP) recommended 9-valent human papillomavirus (HPV) vaccine (9vHPV) (Gardasil 9, Merck and Co, Inc.) as one of three HPV vaccines that can be used for routine vaccination. HPV vaccine is recommended for routine vaccination at age 11 or 12 years. ACIP also recommends vaccination for females aged 13 through 26 years and males aged 13 through 21 years not vaccinated previously. Vaccination is also recommended through age 26 years for men who have sex with men and for immunocompromised persons (including those with HIV infection) if not vaccinated previously. 9vHPV is a noninfectious, virus-like particle (VLP) vaccine. Similar to quadrivalent HPV vaccine (4vHPV), 9vHPV contains HPV 6, 11, 16, and 18 VLPs. In addition, 9vHPV contains HPV 31, 33, 45, 52, and 58 VLPs. 9vHPV was approved by the Food and Drug Administration (FDA) on December 10, 2014, for use in females aged 9 through 26 years and males aged 9 through 15 years. For these recommendations, ACIP reviewed additional data on 9vHPV in males aged 16 through 26 years. 9vHPV and 4vHPV are licensed for use in females and males. Bivalent HPV vaccine (2vHPV), which contains HPV 16, 18 VLPs, is licensed for use in females. This report summarizes evidence considered by ACIP in recommending 9vHPV as one of three HPV vaccines that can be used for vaccination and provides recommendations for vaccine use.
 
 ---
 
-### Human papillomavirus vaccination: ongoing challenges and future directions [^baff7fd8]. Gynecologic Oncology (2020). Medium credibility.
+### Human papillomavirus vaccination: ongoing challenges and future directions [^115nEWwq]. Gynecologic Oncology (2020). Medium credibility.
 
 Studies with prophylactic HPV vaccination have demonstrated impressive efficacy, immunogenicity, and safety results; however, the implementation and uptake in both low and high-income countries continues to be challenging. Since 2006, administration guidelines have undergone multiple updates regarding age, dosing schedule, and gender. Despite these changes, the basic tenet remains the same: prioritize immunization before initiation of sexual activity and subsequent exposure to HPV. The importance of immunizing males and females equally and the role for catch-up vaccination in late adolescent and adulthood has also been supported by subsequent research. Very recently, the FDA approved to expand the range of eligible patients for the nonavalent (9vHPV) vaccine to women and men from age 27 to 45 for the prevention of HPV-related cancers and diseases. Furthermore, members of the ACIP voted to recommend that individuals between ages 27 and 45 who have not yet been vaccinated discuss the option with their physician. This review will highlight the history of the vaccine, barriers to vaccination, current recommendations, and future directions for success.
 
 ---
 
-### Committee opinion no. 588: human papillomavirus vaccination [^cdff8250]. Obstetrics and Gynecology (2014). Low credibility.
+### Committee opinion no. 588: human papillomavirus vaccination [^116GQHVH]. Obstetrics and Gynecology (2014). Low credibility.
 
 The Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention recommends that human papillomavirus (HPV) vaccination routinely be targeted to females and males aged 11 years or 12 years as part of the adolescent immunization platform to help reduce the incidence of anogenital cancers and genital warts associated with HPV infection. The quadrivalent HPV vaccine is approved for use in males and females, whereas the bivalent HPV vaccine is approved for use only in females. For those not vaccinated at the target age, catch-up vaccination is recommended up to age 26 years. The American College of Obstetricians and Gynecologists endorses these recommendations. Although obstetrician-gynecologists are not likely to care for many patients in the initial HPV vaccination target group, they have the opportunity to educate mothers about the importance of vaccinating their children at the recommended age and are critical to vaccinating adolescent girls and young women during the catch-up period. Obstetrician-gynecologists should advise patients and parents that HPV vaccines are most effective in preventing genital cancers when administered before the onset of sexual activity. However, sexually active individuals can receive some benefit from the vaccination because exposure to all HPV types prevented by the vaccines is unlikely in persons aged 13 years through 26 years. Although HPV vaccination in pregnancy is not recommended, neither is routine pregnancy testing before vaccination. Lactating women can receive either HPV vaccine. The need for ongoing cervical cytology screening should be emphasized in all women aged 21 years and older, even those who received HPV vaccination before the onset of sexual activity.
 
 ---
 
-### Human papillomavirus vaccine and men: what are the obstacles and challenges? [^3ce142ed]. Current Opinion in Infectious Diseases (2012). Low credibility.
+### Human papillomavirus vaccine and men: what are the obstacles and challenges? [^112ZFvMa]. Current Opinion in Infectious Diseases (2012). Low credibility.
 
 Purpose Of Review
 
@@ -465,7 +465,7 @@ Men are at high risk for HPV infection and can benefit from vaccination, but vac
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^cdb630ef]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^116Fyf98]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Methods
 
@@ -475,7 +475,7 @@ Scientific literature published during January 1, 2006–October 18, 2018, was s
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^ca7b9075]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^116BC19n]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Recommendations
 
@@ -499,13 +499,13 @@ HPV vaccines are prophylactic (i.e. they prevent new HPV infections). They do no
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^3cd9639d]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^112ZDGzQ]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 During its February 2015 meeting, the Advisory Committee on Immunization Practices (ACIP) recommended 9-valent human papillomavirus (HPV) vaccine (9vHPV) (Gardasil 9, Merck and Co. Inc.) as one of three HPV vaccines that can be used for routine vaccination (Table 1). HPV vaccine is recommended for routine vaccination at age 11 or 12 years. ACIP also recommends vaccination for females aged 13 through 26 years and males aged 13 through 21 years not vaccinated previously. Vaccination is also recommended through age 26 years for men who have sex with men and for immunocompromised persons (including those with HIV infection) if not vaccinated previously. 9vHPV is a noninfectious, virus-like particle (VLP) vaccine. Similar to quadrivalent HPV vaccine (4vHPV), 9vHPV contains HPV 6, 11, 16, and 18 VLPs. In addition, 9vHPV contains HPV 31, 33, 45, 52, and 58 VLPs. 9vHPV was approved by the Food and Drug Administration (FDA) on December 10, 2014, for use in females aged 9 through 26 years and males aged 9 through 15 years. For these recommendations, ACIP reviewed additional data on 9vHPV in males aged 16 through 26 years. 9vHPV and 4vHPV are licensed for use in females and males. Bivalent HPV vaccine (2vHPV), which contains HPV 16, 18 VLPs, is licensed for use in females. This report summarizes evidence considered by ACIP in recommending 9vHPV as one of three HPV vaccines that can be used for vaccination and provides recommendations for vaccine use.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^b2c3bf31]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^115a2Ycp]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Recommendations for Use of HPV Vaccines
 
@@ -515,7 +515,7 @@ ACIP recommends that routine HPV vaccination be initiated at age 11 or 12 years.
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^e5a5854d]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^116sTm8x]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Methods
 
@@ -549,37 +549,37 @@ Types of outcome measures
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^5537f137]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^113BLjoC]. CA (2020). High credibility.
 
 American Cancer Society (ACS) HPV vaccination guideline context and 2019 ACIP update — In 2019, the ACIP recommended catch-up HPV vaccination for all persons through age 26 years and adopted a recommendation for shared clinical decision making for adults aged 27 through 45 years, while acknowledging that most adults aged 27 through 45 years would not benefit from vaccination and emphasizing that adolescents remain the most important focus of the HPV vaccination program.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^8300608d]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^114MDWGL]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 ACIP HPV Vaccine Work Group methods and recommendation strength — From October 2013 to February 2015 the Work Group reviewed clinical trial data on 9vHPV efficacy, immunogenicity, and safety, plus modeling on cost-effectiveness and U.S. disease burden, and recommendations were approved by ACIP in February 2015. Evidence supporting 9vHPV was evaluated using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) framework and determined to be type 2 (moderate level of evidence) among benefits and 3 (low level of evidence) among harms; the recommendation was categorized as a Category A recommendation (for all persons in an age- or risk-factor–based group).
 
 ---
 
-### Ten years of human papillomavirus vaccination in the United States [^04909f33]. Academic Pediatrics (2018). Low credibility.
+### Ten years of human papillomavirus vaccination in the United States [^1117mXb8]. Academic Pediatrics (2018). Low credibility.
 
 Since human papillomavirus (HPV) vaccine was first introduced for females in the United States in 2006, vaccination policy has evolved as additional HPV vaccines were licensed and new data became available. The United States adopted a gender neutral routine HPV immunization policy in 2011, the first country to do so. Vaccination coverage is increasing, although it remains lower than for other vaccines recommended for adolescents. There are various reasons for low coverage, and efforts are ongoing to increase vaccine uptake. The safety profile of HPV vaccine has been well established from 10 years of postlicensure monitoring. Despite low coverage, the early effects of the HPV vaccination program have exceeded expectations.
 
 ---
 
-### Committee opinion no. 467: human papillomavirus vaccination [^740eaf70]. Obstetrics and Gynecology (2010). Low credibility.
+### Committee opinion no. 467: human papillomavirus vaccination [^113y4VnP]. Obstetrics and Gynecology (2010). Low credibility.
 
 The U.S. Food and Drug Administration has approved both a bivalent and quadrivalent human papillomavirus (HPV) vaccine. The Advisory Committee on Immunization Practices has recommended that HPV vaccination routinely be given to girls when they are 11 years or 12 years old. The vaccine can be given to individuals as young as 9 years; catch-up vaccination is recommended in females aged 13 years through 26 years. The American College of Obstetricians and Gynecologists endorses these recommendations. Although obstetrician-gynecologists are not likely to care for many girls in the initial vaccination target group, they are critical to the catch-up vaccination period. Both HPV vaccines are most effective if given before any exposure to HPV infection (ie, before sexual activity). However, sexually active girls and women can receive some benefit from the vaccination because exposure to all HPV types prevented by the vaccines is unlikely in females aged 13 years through 26 years. Vaccination with either HPV vaccine is not recommended for pregnant women. It can be provided to women who are breastfeeding. The need for booster vaccination has not been established but appears unnecessary. Health care providers are encouraged to discuss with their patients the benefits and limitations of the HPV vaccine and the need for routine cervical cytology screening for those aged 21 years and older.
 
 ---
 
-### Human papillomavirus vaccines [^27440514]. Dermatologic Therapy (2009). Low credibility.
+### Human papillomavirus vaccines [^1121DN8B]. Dermatologic Therapy (2009). Low credibility.
 
 Cervical and other cancers linked to the human papillomavirus (HPV) are a cause of significant morbidity and mortality. Since the discovery of HPV as a cause of these cancers, there has been much research and development in the field of HPV vaccination. Two current prophylactic vaccines have proved highly effective in preventing disease because of the vaccine types. Recent advances in prophylactic and therapeutic vaccines are discussed.
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^453f9297]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^112mfVwU]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Background
 
@@ -591,13 +591,13 @@ In October 2018, using results from 4vHPV clinical trials in women aged 24 throu
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^61becce7]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^113VutRk]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 While RCTs can identify adverse events that take place during the study period, post‐marketing surveillance is needed to continue monitoring harms associated with HPV vaccines in the population, and will be incorporated in future updates of this review.
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^59bf6877]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^113J4C1c]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Data synthesis
 
@@ -607,7 +607,7 @@ To assess the harms associated with the HPV vaccine comparisons in this review, 
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^c9ee8137]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^116ANd6E]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Why it is important to do this review
 
@@ -623,79 +623,79 @@ This review aims to extend the evidence base on the efficacy and harms of HPV va
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^ff8d5564]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^117XsKG7]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 ACIP 9-valent HPV vaccine recommendations — routine schedule and product options state that the Advisory Committee on Immunization Practices (ACIP) recommends routine HPV vaccination at age 11 or 12 years and the vaccination series can be started beginning at age 9 years; vaccination is also recommended for females aged 13 through 26 years and for males aged 13 through 21 years who have not been vaccinated previously or who have not completed the 3-dose series, and males aged 22 through 26 years may be vaccinated; 9vHPV, 4vHPV or 2vHPV can be used for routine vaccination of females aged 11 or 12 years and females through age 26 years who have not been vaccinated previously or who have not completed the 3-dose series, and 9vHPV or 4vHPV can be used for routine vaccination of males aged 11 or 12 years and males through age 21 years who have not been vaccinated previously or who have not completed the 3-dose series.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^fda9e25a]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^117V4vuf]. CA (2020). High credibility.
 
 Human papillomavirus (HPV) vaccination — catch-up through age 26 years: ACIP states that catch-up HPV vaccination is recommended for all persons through age 26 years who are not adequately vaccinated. The ACS qualifying statement specifies that providers should inform individuals aged 22 to 26 years who have not been previously vaccinated or who have not completed the series that vaccination at older ages is less effective in lowering cancer risk. The document notes that before the June 2019 ACIP update, recommendations for men ages 22 to 26 years differed from those for women, and that catch-up vaccination recommendations are now harmonized for all persons through age 26 years.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^dfe8cb69]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^116ixS3i]. CA (2020). High credibility.
 
 American Cancer Society (ACS) human papillomavirus (HPV) vaccination implementation — This funding has supported 2 initiatives at the ACS; the ACS convenes and leads the National HPV Vaccination Roundtable, a national coalition of over 70 organizations working to prevent HPV-associated cancers and precancers by increasing and sustaining US HPV vaccination. Through the Vaccinate Adolescents against Cancer (VACs) program, ACS staff across the country work with health systems to increase provider awareness and education and to improve system-wide processes that can increase HPV vaccination uptake, with a focus on integrated delivery systems, large hospital systems, federally qualified health centers, and state health coalitions. In 2018, the ACS launched Mission: HPV Cancer Free, a national public health campaign to reduce vaccine-preventable HPV cancers by increasing HPV vaccination rates, and the campaign leverages high-impact public health partnerships to drive vaccination rate improvement and reduce barriers to vaccination.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^f572aa2d]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^117GtUtk]. CA (2020). High credibility.
 
 United States human papillomavirus (HPV)–attributable cancer burden and vaccine uptake — For the period from 2012 to 2016, an average of 34,800 cancers annually in the United States were attributable to HPV infection, and ninety-two percent of these cases (32,100) were attributable to the types targeted by the 9-valent HPV vaccine, the only vaccine formulation distributed in the United States since 2016. According to the National Immunization Survey-Teen, in 2018, 68.1% of adolescents (male and female) aged 13 to 17 years had received at least 1 dose of HPV vaccine, and 51.1% were up to date with the HPV vaccine series.
 
 ---
 
-### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^cd759357]. Obstetrics and Gynecology (2020). High credibility.
+### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^116FbxKx]. Obstetrics and Gynecology (2020). High credibility.
 
 Human papillomavirus vaccination — regulatory scope and core recommendations — notes that three vaccines covering 2, 4, or 9 HPV serotypes have been approved, with bivalent and quadrivalent vaccines approved for women and men aged 9–26 years, the 9‑valent vaccine approved for women and men aged 9–45 years, and the 9‑valent vaccine currently the only HPV vaccine available in the United States. The Advisory Committee on Immunization Practices and ACOG recommend routine HPV vaccination for girls and boys at 11–12 years, but it may be given from the age of 9 years. Obstetrician–gynecologists should assess and vaccinate adolescent girls and young women during the catch‑up period (ages 13–26 years) regardless of sexual activity, prior exposure to HPV, or sexual orientation if they were not vaccinated at 11–12 years. For previously unvaccinated women aged 27–45 years, clinicians may use shared clinical decision making regarding HPV vaccination.
 
 ---
 
-### Moving forward: human papillomavirus vaccination and the prevention of cervical cancer [^cc67bfc0]. Journal of Women's Health (2007). Low credibility.
+### Moving forward: human papillomavirus vaccination and the prevention of cervical cancer [^116E3Kgb]. Journal of Women's Health (2007). Low credibility.
 
 In June 2006, the Food and Drug Administration (FDA) approved the first human papillomavirus (HPV) vaccine. The vaccine was subsequently recommended by the Centers for Disease Control and Prevention's (CDC) Advisory Committee for Immunization Practices (ACIP) for routine vaccination of 11-12-year-old girls and catch-up vaccination of females 13–26 years of age. With the approval of the first HPV vaccine, cervical cancer now has a primary prevention tool. However, the availability of an HPV vaccine will not change the course of cervical cancer in this country unless there is both widespread demand by and access for the targeted populations. Demand will require recognition of the need for protection against HPV infection as well as a positive perception of the vaccine as safe and efficacious. General knowledge of HPV and its relationship to cervical cancer is limited; some parents and healthcare providers are hesitant to vaccinate preadolescent girls. Access to the expensive vaccine will not be increased without addressing financial constraints. Although the Vaccines for Children (VFC) program has added HPV to its vaccine plan, not all private insurers have approved coverage, and the uninsured and underinsured may have limited access. Moving forward will require a well-planned and executed public information campaign by trusted sources and the development of a comprehensive vaccine administration program. Although mandates would assure the broadest coverage, controversies surrounding mandates may deter work toward broad coverage. States should focus on developing a comprehensive program and then return to the mandate issue if coverage does not meet public health objectives.
 
 ---
 
-### HPV vaccine recommendations [^1b78e208]. Pediatrics (2012). Low credibility.
+### HPV vaccine recommendations [^111hjGbh]. Pediatrics (2012). Low credibility.
 
 On October 25, 2011, the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention recommended that the quadrivalent human papillomavirus vaccine (Gardasil; Merck & Co, Inc, Whitehouse Station, NJ) be used routinely in males. The American Academy of Pediatrics has reviewed updated data provided by the Advisory Committee on Immunization Practices on vaccine efficacy, safety, and cost-effectiveness as well as programmatic considerations and supports this recommendation. This revised statement updates recommendations for human papillomavirus immunization of both males and females.
 
 ---
 
-### Human papillomavirus vaccine update [^fa4baf06]. Pediatric Clinics of North America (2017). Low credibility.
+### Human papillomavirus vaccine update [^117Q5KtZ]. Pediatric Clinics of North America (2017). Low credibility.
 
 Rates of cancers attributable to human papillomavirus (HPV) are rising. A safe and extremely effective vaccine is available to prevent many of these cancers. Studies have shown that health care providers' recommendation to immunize is the most important factor in parents' decision. Parents of all adolescent boys and girls should receive a strong and unequivocal recommendation to vaccinate their child against HPV at the 11- or 12-year-old well child visit. Ideally, adolescents complete their HPV vaccine series by their 13th birthday, leading to greater immune response and protection before most adolescents are exposed to sexually transmitted HPV.
 
 ---
 
-### An update on human papillomavirus vaccination in the United States [^678d14b1]. Obstetrics and Gynecology (2023). Medium credibility.
+### An update on human papillomavirus vaccination in the United States [^113eX7W8]. Obstetrics and Gynecology (2023). Medium credibility.
 
 Cervical cancer remains a significant disease in the United States. Although the human papillomavirus (HPV) vaccine has been approved for those aged 9–26 years and for some individuals up to age 45 years, there are many circumstances in which health care professionals may not know whether the vaccine should be recommended, such as for patients with previous infection, health care workers, and those older than age 26 years. This article highlights the evidence that the HPV vaccine is a safe and highly effective way to prevent cervical cancer, with the strongest predictor of vaccine uptake being practitioner recommendation.
 
 ---
 
-### Understanding and learning from the success of prophylactic human papillomavirus vaccines [^d7744eb2]. Nature Reviews: Microbiology (2012). Medium credibility.
+### Understanding and learning from the success of prophylactic human papillomavirus vaccines [^116WRQSV]. Nature Reviews: Microbiology (2012). Medium credibility.
 
 An estimated 5% of human cancers are caused by human papillomavirus (HPV) infections, and most of these cancers are of the cervix. Two prophylactic HPV vaccines that target the two most oncogenic virus types, HPV16 and HPV18, are now commercially available. In controlled clinical trials, the vaccines proved to be effective at preventing incident anogenital infection and the associated neoplastic disease that is induced by these virus types. Here, we highlight the specific aspects of HPV biology and vaccine composition that are likely to contribute to the efficacy of these vaccines, and we discuss how these particular features might or might not be relevant for the development of effective vaccines against other sexually transmitted viruses such as HIV and herpes simplex virus (HSV).
 
 ---
 
-### Recent advances in human papillomavirus vaccines [^5a76709c]. Current Oncology Reports (2006). Low credibility.
+### Recent advances in human papillomavirus vaccines [^113K7fkw]. Current Oncology Reports (2006). Low credibility.
 
 The human papillomavirus (HPV) is one of the most common sexually transmitted infections and the etiologic agent of cervical dysplasia and cancer. Recent research on the safety and efficacy of prophylactic vaccines against HPV has shown promising results with nearly 100% efficacy in preventing persistent infections and cervical dysplasia. Several approaches are being tested in therapeutic vaccine clinical trials whereby E6, E7, or both agents are administered in live viral vectors, as proteins, or in nucleic acid form. Cell-based therapeutic vaccines are also being tested. HPV vaccines have the potential to eradicate a major cancer and source of morbidity around the world.
 
 ---
 
-### Development of therapeutic HPV vaccines [^c89f99bb]. The Lancet: Oncology (2009). Medium credibility.
+### Development of therapeutic HPV vaccines [^1168S8dY]. The Lancet: Oncology (2009). Medium credibility.
 
 At least 15% of human malignant diseases are attributable to the consequences of persistent viral or bacterial infection. Chronic infection with oncogenic human papillomavirus (HPV) types is a necessary, but insufficient, cause in the development of more cancers than any other virus. Currently available prophylactic vaccines have no therapeutic effect for established infection or for disease. Early disease is characterised by tissue sequestration. However, because a proportion of intraepithelial HPV-associated disease undergoes immune-mediated regression, the development of immunotherapeutic strategies is an opportunity to determine proof-of-principle for therapeutic vaccines. In this Review, we discuss recent progress in this field and priorities for future clinical investigations.
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^2a79f560]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^1125ySnB]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 With regard to serious adverse events, there is a large degree of uncertainty in the evidence comparing different HPV vaccines and different dose schedules. The 'Summary of findings' tables show low numbers of serious adverse events and deaths in most included studies. Even when the total number of events is high (e.g. Joura 2015), specific events of clinical relevance are still too rare for meaningful comparative analyses. In this review, we used a composite outcome, that is, the overall frequency of serious adverse events, for each comparison, however, analyses based on a composite outcome can produce results that are difficult to interpret for several reasons. This outcome can include events that are not clinically relevant or are not biologically related to the vaccine (Lineberry 2016), occur outside a plausible time frame relative to vaccine exposure (Huang 2011), or are not based on standardised definitions (Bonhoeffer 2002). In addition, trials measure serious adverse events at different time points and there is a large variation in duration of follow‐up, which could produce misleading summary estimates (Huang 2011). Finally, there is heterogeneity among trials with regard to the age and gender of participants and clinical measurements of serious adverse events (Appendix 4). Meta‐analyses of serious adverse events, such as those presented in this review, should be considered exploratory rather than confirmatory as the analyses are not planned in advance (i.e. when the included studies were designed) (Huang 2011). Despite the uncertainty in the evidence about harms when comparing different HPV vaccines and dose schedules, a previous systematic review reported similar rates of serious adverse events when HPV vaccines were compared to control (Arbyn 2018).
 
@@ -705,7 +705,7 @@ The risk of bias of the included studies in this review is generally low. We rat
 
 ---
 
-### Trends in human papillomavirus vaccine safety concerns and adverse event reporting in the United States [^26c3f334]. JAMA Network Open (2021). High credibility.
+### Trends in human papillomavirus vaccine safety concerns and adverse event reporting in the United States [^111zUM87]. JAMA Network Open (2021). High credibility.
 
 Key Points
 
@@ -723,43 +723,43 @@ These findings suggest an urgent need to combat safety concerns about the HPV va
 
 ---
 
-### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^3c1748ef]. Obstetrics and Gynecology (2020). High credibility.
+### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^112Y65Y2]. Obstetrics and Gynecology (2020). High credibility.
 
 Adults (27–45 years) — the HPV vaccine is licensed in the United States for women and men through age 45 years. Although administration is safe in patients aged 27–45 and can prevent new infections in women not previously exposed, most women in this age range will already have been exposed to HPV, and the overall public health benefit in women aged 27–45 years is markedly diminished compared with use in the target age range. For previously unvaccinated women aged 27–45 years, clinicians may use shared clinical decision making regarding HPV vaccination.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^684ee074]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^113feCxB]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 Advisory Committee on Immunization Practices (ACIP) recommendations — ACIP recommends that routine HPV vaccination be initiated at age 11 or 12 years; the vaccination series can be started beginning at age 9 years; vaccination is also recommended for females aged 13 through 26 years and for males aged 13 through 21 years who have not been vaccinated previously or who have not completed the 3‑dose series, and males aged 22 through 26 years may be vaccinated; vaccination of females is recommended with 2vHPV, 4vHPV (as long as this formulation is available), or 9vHPV, and vaccination of males is recommended with 4vHPV (as long as this formulation is available) or 9vHPV; 2vHPV, 4vHPV, and 9vHPV all protect against HPV 16 and 18, types that cause about 66% of cervical cancers, 9vHPV targets five additional cancer causing types which account for about 15% of cervical cancers, and 4vHPV and 9vHPV also protect against HPV 6 and 11; vaccination is also recommended through age 26 years for men who have sex with men and for immunocompromised persons (including those with HIV infection) if not vaccinated previously.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^72c395f2]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^113w9HSh]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 HPV disease burden targeted by vaccine types — HPV 6 or 11 cause 90% of anogenital warts and most cases of recurrent respiratory papillomatosis, supporting inclusion of these types in multivalent vaccines.
 
 ---
 
-### Sexually transmitted infections treatment guidelines, 2021 [^16aff043]. MMWR: Recommendations and Reports (2021). High credibility.
+### Sexually transmitted infections treatment guidelines, 2021 [^111adpkz]. MMWR: Recommendations and Reports (2021). High credibility.
 
 Human papillomavirus (HPV) vaccination — Recommendations include "Routine HPV vaccination for all adolescents at age 11 or 12 years", with "Catch-up vaccination through age 26 years for those not vaccinated previously". For adults, "shared clinical decision-making… is recommended for certain adults aged 27–45 years not vaccinated previously", and "HPV vaccination for all adults aged > 26 years" is not routine. Schedule guidance states, "A 2-dose vaccine schedule (at 0- and 6–12-month intervals) is recommended for persons who initiate vaccination before their 15th birthday", and "A 3-dose vaccine schedule (at 0-, 1–2-, and 6-month intervals) for immunocompromised persons regardless of age of initiation". Additional cautions and access notes include "HPV vaccines are not recommended for use in pregnant women", availability "for eligible children and adolescents aged < 19 years through the Vaccines for Children (VFC) program", strong safety data with " > 120 million doses of HPV vaccines distributed in the United States", and that "HPV vaccination has not been associated with initiation of sexual activity or sexual risk behaviors".
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^68394738]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^113fWxBH]. CA (2020). High credibility.
 
 HPV vaccination impact and elimination targets: It reports that since its introduction in 2006, HPV vaccination has led to substantial population-wide decreases in genital warts, recurrent respiratory papillomatosis, cervical precancers, and cervical cancers, and cites a World Health Organization strategy to eliminate cervical cancer by vaccinating 90% of girls, screening 70% of women, and treating 90% of women identified as having precancerous cervical disease, while noting that U.S. HPV vaccination rates lag behind those in other high-income countries and other adolescent vaccines.
 
 ---
 
-### Current and future vaccine clinical research with the licensed 2-, 4-, and 9-valent VLP HPV vaccines: what's ongoing, what's needed? [^186c9610]. Preventive Medicine (2021). Medium credibility.
+### Current and future vaccine clinical research with the licensed 2-, 4-, and 9-valent VLP HPV vaccines: what's ongoing, what's needed? [^111dDBCB]. Preventive Medicine (2021). Medium credibility.
 
 Prophylactic HPV vaccination has been a great public health success. For > 20 years, clinical trials were conducted with the 2-, 4-, and/or 9-valent vaccines in young-adult females, mid-adult women, males, and adolescents. In all studies, the vaccines were highly efficacious, immunogenic, and well tolerated. Following vaccine licensure and utilization in national vaccine programs globally (real-world settings primarily in high income countries), numerous studies demonstrated that the vaccines continue to have an excellent safety profile and have dramatically reduced the incidence of genital warts, HPV vaccine-type prevalence, and precancerous lesions. Thirty-eight clinical trials with the currently licensed HPV vaccines are ongoing. Key questions being addressed in new trials include: efficacy against persistent infection and immunogenicity of a 1-dose regimen; efficacy of 3 doses in 20-45-year-old females; use in postpartum women and immunocompromised individuals (HIV, liver and kidney transplants); dose sparing via intradermal administration; use in combination with a PD1 monoclonal antibody in patients with cervical cancer; impact on recurrent disease in women undergoing cervical conization; persistence of protection; and use to prevent oropharyngeal cancer. Additional clinical research that should be conducted includes: long-term follow-up, particularly of 1- and 2-dose regimens; further evaluation of flexible 2-dose regimens; immunogenicity of 1- or 2-dose regimens in persons ≥ 15 years old and immunocompromised populations; safety and immunogenicity of 1 or 2 doses in children < 9 years old; assessment of the vaccine in the prevention of transmission; interchangeability with newer HPV vaccines; additional concomitant use studies; and prevention of penile cancer and recurrent respiratory papillomatosis.
 
 ---
 
-### Monitoring effect of human papillomavirus vaccines in US population, emerging infections program, 2008–2012 [^bcdb4dd4]. Emerging Infectious Diseases (2015). Low credibility.
+### Monitoring effect of human papillomavirus vaccines in US population, emerging infections program, 2008–2012 [^115pzLNF]. Emerging Infectious Diseases (2015). Low credibility.
 
 Human papillomavirus (HPV) vaccines are primarily designed to prevent HPV-associated cancers that typically occur years to decades after exposure to HPV-16 and -18. Three prophylactic HPV vaccines are available in the United States: bivalent, quadrivalent, and 9-valent vaccines. The bivalent vaccine protects against HPV-16 and -18, the most common oncogenic HPV types, which are responsible for ≈70% of HPV-associated cervical cancers and a large proportion of other HPV-related cancers. The quadrivalent vaccine also protects against HPV-16 and -18 and against HPV-6 and -11, two nononcogenic HPV types that cause genital warts and respiratory papillomatosis. The 9-valent vaccine also protects against HPV-6, -11, -16, and -18 and against 5 other oncogenic types: HPV-31, -33, -45, -52, and -58.
 
@@ -769,7 +769,7 @@ Postlicensure surveillance activities include a range of early, mid, and late bi
 
 ---
 
-### Human papillomavirus vaccine effectiveness against HPV infection: evaluation of one, two, and three doses [^289aee57]. The Journal of Infectious Diseases (2020). Medium credibility.
+### Human papillomavirus vaccine effectiveness against HPV infection: evaluation of one, two, and three doses [^1123CYaA]. The Journal of Infectious Diseases (2020). Medium credibility.
 
 Background
 
@@ -789,7 +789,7 @@ Among women who received their first dose at age ≤ 18, estimated HPV vaccine e
 
 ---
 
-### Optimal human papillomavirus vaccination strategies in the context of vaccine supply constraints in 100 countries [^0feb41c2]. EClinicalMedicine (2024). Medium credibility.
+### Optimal human papillomavirus vaccination strategies in the context of vaccine supply constraints in 100 countries [^111QbqQD]. EClinicalMedicine (2024). Medium credibility.
 
 Background
 
@@ -813,19 +813,19 @@ WHO, Bill & Melinda Gates Foundation.
 
 ---
 
-### Human papillomavirus vaccine: progress and the future [^00d17deb]. Expert Opinion on Biological Therapy (2007). Low credibility.
+### Human papillomavirus vaccine: progress and the future [^1112DNEN]. Expert Opinion on Biological Therapy (2007). Low credibility.
 
 A vaccine to prevent infection by human papillomavirus is available in the US. This article reviews the biology of human papillomavirus that allows for the development of both therapeutic and prophylactic vaccines. Issues that may delay the acceptance of the vaccine are discussed.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^9fddb297]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^11561Vpr]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 Cervical cancer screening and future policy statements indicate that cervical cancer screening is recommended beginning at age 21 years and continuing through age 65 years for both vaccinated and unvaccinated women, and HPV vaccination should not be delayed pending availability of 9vHPV or of future clinical trial data.
 
 ---
 
-### Efficacy, effectiveness and safety of vaccination against human papillomavirus in males: a systematic review [^80e7f4af]. BMC Medicine (2018). Low credibility.
+### Efficacy, effectiveness and safety of vaccination against human papillomavirus in males: a systematic review [^114J7KwC]. BMC Medicine (2018). Low credibility.
 
 Background
 
@@ -849,19 +849,19 @@ Prospective Register for Systematic Reviews (PROSPERO) registration CRD420160389
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^70a2db05]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^113szKFA]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 HPV-associated disease burden in the United States — HPV is associated with cervical, vulvar, and vaginal cancer in females, penile cancer in males, and anal cancer and oropharyngeal cancer in both females and males, and the burden also includes cervical precancers such as cervical intraepithelial neoplasia grade 2 or 3 and adenocarcinoma in situ (≥ CIN2). In the United States, approximately 64% of invasive HPV-associated cancers are attributable to HPV 16 or 18 (65% for females; 63% for males; approximately 21,300 cases annually) and 10% are attributable to the five additional types in 9vHPV: HPV 31, 33, 45, 52, and 58 (14% for females; 4% for males; approximately 3,400 cases annually). HPV 16 or 18 account for 66% and the five additional types for about 15% of cervical cancers, and approximately 50% of ≥ CIN2 are caused by HPV 16 or 18 and 25% by the five additional types.
 
 ---
 
-### Human papillomavirus vaccine trials and tribulations: vaccine efficacy [^aa0a2452]. Journal of the American Academy of Dermatology (2015). Low credibility.
+### Human papillomavirus vaccine trials and tribulations: vaccine efficacy [^115M6JVF]. Journal of the American Academy of Dermatology (2015). Low credibility.
 
 As of December 2014, there were 3 approved vaccines for human papillomavirus (HPV): bivalent Cervarix (GlaxoSmithKline, New York, NY), quadrivalent Gardasil (Merck and Co, Kenilworth, NJ), and 9-valent Gardasil-9 (Merck and Co). The average cost per dose is $120, with a recommended 3-dose course. The quadrivalent vaccine is the most widely administered worldwide. As with the bivalent and 9-valent vaccines, the vaccine is considered safe, although concerns have been raised. In addition to immunization against the targeted HPV types, there is evidence that there is cross protection against other types of HPV. This continuing medical education review evaluates the differences in vaccines that are currently on the market; part II focuses on the cost-effectiveness of vaccination, the HPV vaccination programs currently instituted around the globe, efficacy, and safety.
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^d67b6386]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^116Uyo7b]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Rationale
 
@@ -871,13 +871,13 @@ Because HPV acquisition generally occurs soon after first sexual activity, vacci
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^ce044182]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^116GRsxu]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Recommendations for routine use of vaccines in children, adolescents and adults are developed by the Advisory Committee on Immunization Practices (ACIP). ACIP is chartered as a federal advisory committee to provide expert external advice and guidance to the Director of the Centers for Disease Control and Prevention (CDC) on use of vaccines and related agents for the control of vaccine-preventable diseases in the civilian population of the United States. Recommendations for routine use of vaccines in children and adolescents are harmonized to the greatest extent possible with recommendations made by the American Academy of Pediatrics (AAP), the American Academy of Family Physicians (AAFP), and the American College of Obstetricians and Gynecologists (ACOG). Recommendations for routine use of vaccines in adults are harmonized with recommendations of AAFP, ACOG, and the American College of Physicians (ACP). ACIP recommendations approved by the CDC Director become agency guidelines on the date published in the Morbidity and Mortality Weekly Report (MMWR). Additional information about ACIP is available at.
 
 ---
 
-### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^644300cb]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^113ZeGWN]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Objectives
 
@@ -885,19 +885,19 @@ We aimed to assess population‐level effects of human papillomavirus (HPV) vacc
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^531db176]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^1138Dwru]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 HPV vaccination in special populations notes that HPV vaccination is recommended through age 26 years for men who have sex with men and for immunocompromised persons including those with HIV infection who have not been vaccinated previously or have not completed the 3-dose series, and ACIP recommends either 9vHPV or 4vHPV vaccination for men who have sex with men and immunocompromised persons including those with HIV infection through age 26 years if not vaccinated previously.
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^34be841e]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^112MCMCy]. CA (2020). High credibility.
 
 Adult HPV vaccination 27 through 45 years — public health impact and focus: The guideline notes that HPV vaccination for adults aged 27 through 45 years is expected to provide minimal public health benefits and that adult vaccination is unlikely to prevent a significant number of cancers, precancers, or genital warts; it states that the ACS chose not to endorse the ACIP recommendation and urges organizations, health systems, and health care providers to continue to focus HPV vaccination efforts on preteens, acknowledging it continues to be challenging, even after more than 13 years since the first recommendation, to raise HPV vaccination rates to the level of other adolescent vaccines.
 
 ---
 
-### Cross-protective efficacy of two human papillomavirus vaccines: a systematic review and meta-analysis [^c72c980b]. The Lancet: Infectious Diseases (2012). Medium credibility.
+### Cross-protective efficacy of two human papillomavirus vaccines: a systematic review and meta-analysis [^1166HWqg]. The Lancet: Infectious Diseases (2012). Medium credibility.
 
 Background
 
@@ -921,7 +921,7 @@ Public Health Agency of Canada.
 
 ---
 
-### Effectiveness and cost-effectiveness of human papillomavirus vaccination through age 45 years in the United States [^daa0364b]. Annals of Internal Medicine (2020). Medium credibility.
+### Effectiveness and cost-effectiveness of human papillomavirus vaccination through age 45 years in the United States [^116b87cn]. Annals of Internal Medicine (2020). Medium credibility.
 
 Background
 
@@ -981,13 +981,13 @@ Centers for Disease Control and Prevention.
 
 ---
 
-### Human papillomavirus vaccination and cervical cancer risk [^4eb73827]. BMJ (2022). Excellent credibility.
+### Human papillomavirus vaccination and cervical cancer risk [^1131haP8]. BMJ (2022). Excellent credibility.
 
 Persistent human papillomavirus infection is the central cause of cervical cancer, the leading cause of cancer death among women worldwide. Clear evidence from both randomized trials and population based studies shows that vaccination against human papillomavirus reduces the incidence of cervical pre-cancer. These data suggest that the vaccine reduces the incidence of cervical cancer. However, human papillomavirus vaccine coverage is inadequate in all countries, especially in low and middle income countries where disease burden is highest. Supply side strategies to improve coverage include increasing the availability of low cost vaccines, school located delivery, single dose vaccine schedules, and development of vaccines that do not need refrigeration. Demand side strategies include enhancing provider recommendations, correcting misinformation, and public awareness campaigns. The near elimination of cervical cancer is achievable through increased uptake of human papillomavirus vaccination and efforts to increase screening for cervical cancer, especially when enacted to reduce disparities in across the world.
 
 ---
 
-### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^3897419d]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices [^112Su7VW]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 Future Research and Monitoring Priorities
 
@@ -997,13 +997,13 @@ Summary
 
 ---
 
-### Human papillomavirus vaccinations: provider education to enhance vaccine uptake [^44d5f11e]. Clinical Pediatrics (2023). Medium credibility.
+### Human papillomavirus vaccinations: provider education to enhance vaccine uptake [^112m4261]. Clinical Pediatrics (2023). Medium credibility.
 
 Human papillomavirus (HPV) is the number one sexually transmitted infection (STI) worldwide. The Centers for Disease Control and Prevention (CDC) approximated that 92% of HPV-related cancers might be prevented by receiving the HPV 9-valent vaccine (Gardasil 9). The 2-dose HPV vaccine for children ages 11 to 12 years provides almost 100% protection against strains affiliated with cervical, vaginal, and vulvar cancers. Provider education is essential to decrease clinical knowledge deficits and increase vaccination uptake. Evidence-based provider recommendations expressed to eligible individuals improves vaccination rates. Evidence-based approaches for vaccine-hesitant parents involve using the presumptive announcement approach, asking for and addressing main concerns, and trying again if the parent initially declines. Seventy percent of parents who initially decide not to get their child vaccinated later agree to the vaccine or schedule a follow-up appointment. The CDC guidelines for HPV vaccinations, including the catch-up and adult guidelines, are reviewed. A clinical vignette with case scenarios and a Q&A quiz are included.
 
 ---
 
-### Human papillomavirus vaccines [^10c424c1]. The Annals of Pharmacotherapy (2006). Low credibility.
+### Human papillomavirus vaccines [^111RrghE]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Objective
 
@@ -1027,7 +1027,7 @@ Cervarix and Gardasil are effective for prevention of HPV infection and cervical
 
 ---
 
-### The comparative safety of human papillomavirus vaccines: a Bayesian network meta-analysis [^4b2d8083]. Journal of Medical Virology (2022). Medium credibility.
+### The comparative safety of human papillomavirus vaccines: a Bayesian network meta-analysis [^112vTMaz]. Journal of Medical Virology (2022). Medium credibility.
 
 Background and Aims
 
@@ -1047,25 +1047,25 @@ The 2vHPV vaccine resulted in more systemic adverse events than other vaccines a
 
 ---
 
-### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^c8b1e324]. Obstetrics and Gynecology (2020). High credibility.
+### Human papillomavirus vaccination: ACOG committee opinion, number 809 [^1168YGtK]. Obstetrics and Gynecology (2020). High credibility.
 
 Human papillomavirus vaccination — routine and catch-up guidance emphasizes early adolescent initiation and strong clinician recommendation. The Advisory Committee on Immunization Practices and ACOG recommend routine human papillomavirus (HPV) vaccination for girls and boys at the target age of 11–12 years (but it may be given from the age of 9 years) as part of the adolescent immunization platform, and obstetrician–gynecologists should assess and vaccinate adolescent girls and young women during the catch-up period (ages 13–26 years) if not vaccinated at 11–12 years. Unvaccinated women age 26 years and younger should receive the HPV vaccine series regardless of sexual activity, prior exposure to HPV, or sexual orientation. Obstetrician–gynecologists and other health care professionals should strongly recommend HPV vaccination, should educate parents in their decision making for daughters and sons, and are encouraged to stock and administer HPV vaccines when feasible. HPV vaccines are characterized as among the most effective available, with data demonstrating greater than 99% efficacy when given before exposure to that HPV type.
 
 ---
 
-### FDA licensure of bivalent human papillomavirus vaccine (HPV2, cervarix) for use in females and updated HPV vaccination recommendations from the advisory committee on immunization practices (ACIP) [^c6a44abf]. MMWR: Morbidity and Mortality Weekly Report (2010). Low credibility.
+### FDA licensure of bivalent human papillomavirus vaccine (HPV2, cervarix) for use in females and updated HPV vaccination recommendations from the advisory committee on immunization practices (ACIP) [^1165VjTt]. MMWR: Morbidity and Mortality Weekly Report (2010). Low credibility.
 
 On October 16, 2009, the Food and Drug Administration (FDA) licensed bivalent human papillomavirus vaccine (HPV2; Cervarix, GlaxoSmithKline) for use in females aged 10 through 25 years. Cervarix is the second human papillomavirus (HPV) vaccine licensed for use in females in the United States. Quadrivalent HPV vaccine (HPV4; Gardasil, Merck & Co, Inc.) was licensed in 2006 for use in females aged 9 through 26 years, and the Advisory Committee on Immunization Practices (ACIP) recommended routine HPV4 vaccination of females aged 11 or 12 years, and catch-up vaccination for females aged 13 through 26 years. This report provides updated recommendations for routine and catch-up vaccination of females with either HPV2 or HPV4.
 
 ---
 
-### Prevention of human papillomavirus infection: provisional recommendations for immunization of girls and women with quadrivalent human papillomavirus vaccine [^3e80931f]. Pediatrics (2007). Low credibility.
+### Prevention of human papillomavirus infection: provisional recommendations for immunization of girls and women with quadrivalent human papillomavirus vaccine [^112bfRJv]. Pediatrics (2007). Low credibility.
 
 This policy statement contains provisional recommendations for use of the quadrivalent human papillomavirus vaccine in girls and women. A full policy statement from the American Academy of Pediatrics is forthcoming.
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^72823537]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^113vmKnE]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 We reported relative risks (ORs or RRs) in the Effects of interventions section for all relevant outcomes, but where the evidence was of very low‐certainty we reported the number of events in each group only.
 
@@ -1079,31 +1079,31 @@ We carried out one post‐hoc sensitivity analysis for outcomes using a Mantel�
 
 ---
 
-### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^028b9cff]. CA (2020). High credibility.
+### Human papillomavirus vaccination 2020 guideline update: American cancer society guideline adaptation [^1114msT4]. CA (2020). High credibility.
 
 ACIP routine HPV vaccination ages and ACS qualifying statement with rationale indicate that ACIP recommends HPV vaccination at age 11 or 12 years and that vaccination can be given starting at age 9 years, and ACS states that routine HPV vaccination between ages 9 and 12 years is expected to achieve higher on-time vaccination rates and encourages providers to start the series at age 9 or 10 years. The ACIP basis included that the vaccine can be administered as young as age 9 years, high antibody titers after vaccination at age 11 or 12 years, and the established young adolescent visit at age 11 or 12 years. Evidence summarized notes that HPV vaccination has been shown to be more effective at younger ages, that vaccinating at age 12 or 13 years is significantly more effective than vaccinating at age 14 or 15 years, that vaccinating at ages 9 to 11 years will be at least as effective and will likely result in a stronger immune response, and that vaccination has shown no sign of protection waning over time.
 
 ---
 
-### Anal carcinoma, version 2.2023, NCCN clinical practice guidelines in oncology [^d5e144da]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### Anal carcinoma, version 2.2023, NCCN clinical practice guidelines in oncology [^116U62cq]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 Human papillomavirus (HPV) vaccination — prevention and recommendations: A 9-valent HPV vaccine protecting against HPV-6, -11, -16, -18, -31, -33, -45, -52, and -58 is available, and targeting the additional strains over the quadrivalent vaccine is predicted to prevent an additional 464 cases of anal cancer annually. Compared with the quadrivalent vaccine, the 9-valent vaccine was noninferior for antibody response to HPV-6, -11, -16, and -18, and its calculated efficacy was 96.7% (95% CI, 80.9–99.8) for prevention of high-grade cervical, vulvar, or vaginal disease related to these strains, with sustained efficacy and immunogenicity aiding prevention of HPV incidence after 10 years post-vaccination. The Advisory Committee on Immunization Practices (ACIP) recommends routine use of the 9-valent vaccine in children aged 11 and 12 years and catch-up vaccination through 26 years of age for those not previously vaccinated; the U.S. Food and Drug Administration expanded use to individuals aged 27 through 45 years, and in 2019 the ACIP voted to recommend vaccination based on shared clinical decision-making for individuals in this age range who are not adequately vaccinated.
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^1687e738]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^111aQNoq]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 9vHPV immunogenicity across ages — Geometric mean antibody titers (GMTs) 1 month after the third dose were noninferior for HPV 6, 11, 16, and 18, and in the 9vHPV group, > 99% seroconverted to all nine HPV vaccine types. Two immunobridging trials included approximately 2,400 females and males aged 9 through 15 years versus approximately 400 females aged 16 through 26 years with over 99% seroconversion; another trial comparing 4vHPV with 9vHPV in approximately 600 adolescent females aged 9 through 15 years showed 100% seroconversion to HPV 6, 11, 16, and 18 in both groups with noninferior GMTs for 9vHPV. In males aged 16 through 26 years, > 99% seroconverted and GMTs were noninferior to those in females. Noninferior immunogenicity of 9vHPV compared with 4vHPV was used to infer efficacy for HPV 6, 11, 16, and 18.
 
 ---
 
-### Declines in prevalence of human papillomavirus vaccine-type infection among females after introduction of vaccine-United States, 2003–2018 [^6b973093]. MMWR: Morbidity and Mortality Weekly Report (2021). Medium credibility.
+### Declines in prevalence of human papillomavirus vaccine-type infection among females after introduction of vaccine-United States, 2003–2018 [^113kWTZt]. MMWR: Morbidity and Mortality Weekly Report (2021). Medium credibility.
 
 Human papillomavirus (HPV) is the most common sexually transmitted infection in the United States (1). Although most infections resolve without clinical sequalae, persistent HPV infection can cause cervical, other anogenital, and oropharyngeal cancers and anogenital warts. HPV vaccination has been recommended in the United States at age 11–12 years since 2006 for females and since 2011 for males. Catch-up vaccination is recommended through age 26 years.* A quadrivalent vaccine (4vHPV) targeting types 6, 11, 16, and 18 was mainly used until 2015, when a 9-valent vaccine (9vHPV), targeting the same four types as 4vHPV and five additional types (31, 33, 45, 52, and 58), was introduced; 9vHPV has been the only vaccine available in the United States since the end of 2016 (2). HPV vaccination coverage has increased but remains lower than that of other vaccinations recommended for adolescents (3). A decrease in prevalence of 4vHPV types detected in cervicovaginal swabs among young females from the prevaccine era (2003–2006) to 2007–2010 in the National Health and Nutrition Examination Survey (NHANES) was an early indicator of vaccine impact (2) and was also observed in later periods (4,5). NHANES data from 2017–2018 were included in this analysis to update HPV prevalence estimates among females aged 14–34 years. From the prevaccine era to 2015–2018, significant decreases in 4vHPV-type prevalence occurred among females aged 14–19 years (88%) and 20–24 years (81%). In sexually experienced females, 4vHPV-type prevalence decreased in those who reported receiving ≥ 1 HPV vaccine dose (97% among those aged 14–19 years, 86% among those aged 20–24 years) and in those who reported no vaccination (87% among those aged 14–19 years, 65% among those aged 20–24 years). Significant declines among unvaccinated females suggest herd effects. These data show increasing impact of HPV vaccination in the United States. HPV vaccination is a critical prevention tool against HPV infection, anogenital warts, and HPV-attributable precancers and cancers. HPV vaccination is highly effective and is recommended routinely at age 11–12 years and through 26 years for persons not already vaccinated.
 
 ---
 
-### Efficacy, effectiveness and safety of vaccination against human papillomavirus in males: a systematic review [^07742f2d]. BMC Medicine (2018). Low credibility.
+### Efficacy, effectiveness and safety of vaccination against human papillomavirus in males: a systematic review [^111C3wRe]. BMC Medicine (2018). Low credibility.
 
 Data extraction
 
@@ -1121,13 +1121,13 @@ Abstracted data were aggregated in tables. Risk ratios, odds ratios, risk differ
 
 ---
 
-### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^e9e050ef]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Comparison of different human papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV-related disease in females and males [^116yjTh8]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Two studies found that two doses of HPV vaccine resulted in little to no difference in pain at the injection site compared with three doses of HPV vaccine (RR 0.96, 95% CI 0.91 to 1.03; 2 studies; 1189 participants; Analysis 1.1), but reduced swelling (RR 0.76, 95% CI 0.65 to 0.89; 2 studies; 1189 participants; Analysis 1.2) and redness (RR 0.85, 95% CI 0.75 to 0.96; 2 studies; 1189 participants; Analysis 1.3) at the injection site at up to seven days follow‐up. The comparative evidence about serious adverse events was considered to be of very low‐certainty (risk with two doses 36/1158, risk with three doses 35/1159; 4 studies; 2317 participants; Analysis 1.4). We downgraded certainty for imprecision and indirectness of the composite measure of all serious adverse events, which may or may not be clinically relevant, may or may not be related to the vaccine, and may occur outside a biologically plausible time frame relative to vaccine exposure. Two of the studies reported on withdrawals from the study and reported that no participants had withdrawn because of adverse events. One death was reported in the three‐dose group (1/898) and no deaths (0/899) in the two‐dose group (OR 0.33, 95% CI 0.01 to 8.19; 3 studies; 1797 participants; low‐certainty evidence; Analysis 1.5).
 
 ---
 
-### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^3ba0bdac]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination [^112XQG7V]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Data synthesis
 
@@ -1149,6 +1149,6 @@ We were unable to perform our planned subgroup analysis by time since vaccinatio
 
 ---
 
-### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^91fc6e96]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
+### Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices [^114jRzdj]. MMWR: Morbidity and Mortality Weekly Report (2015). Medium credibility.
 
 9-valent human papillomavirus (HPV) vaccine (9vHPV) — Phase III efficacy versus quadrivalent vaccine (4vHPV) in the per protocol population of females aged 16 through 26 years shows high efficacy against HPV 31, 33, 45, 52, 58 outcomes: for ≥ CIN2, VIN2/3, VaIN2/3 efficacy was 96.7 (95% CI 80.9–99.8) with 9vHPV cases 1 among 6,016 participants versus 30 among 6,017 with 4vHPV; for ≥ CIN2 efficacy was 96.3 (95% CI 79.5–99.8) with cases 1 among 5,948 versus 27 among 5,943; for 6‑month persistent infection efficacy was 96.0 (95% CI 94.4–97.2) with cases 35 among 5,939 versus 810 among 5,953; participants were from 18 countries with median follow‑up of 40 months.

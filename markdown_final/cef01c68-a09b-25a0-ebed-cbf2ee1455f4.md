@@ -15,53 +15,53 @@ percent iron saturation
 
 > Let's see… What do we have here? The user is asking about percent iron saturation, specifically transferrin saturation, including its definition, normal ranges, how to calculate it, how to interpret it in different clinical contexts, and how guidelines recommend using it for diagnosis and treatment decisions. Let's break this down step-by-step. First, I need to think about defining transferrin saturation and its physiologic basis. Then, I should verify normal reference ranges and how they vary by age and sex. Next, I will examine how to calculate it and what pitfalls affect accuracy. After that, I need to interpret TSAT in iron deficiency, iron overload, and inflammatory states. Finally, I will integrate guideline-based thresholds for diagnosis and treatment across conditions and highlight special populations and monitoring considerations.
 
-> Let me first confirm the definition and physiologic basis. Transferrin saturation (TSAT) is the percentage of iron-binding sites on transferrin that are occupied by iron, reflecting circulating iron availability to tissues. It is calculated as serum iron divided by total iron-binding capacity (TIBC) times 100, or equivalently from serum iron and transferrin using a correction factor, and it is the most informative single marker of iron availability in plasma [^3391ebae] [^3391ebae].
+> Let me first confirm the definition and physiologic basis. Transferrin saturation (TSAT) is the percentage of iron-binding sites on transferrin that are occupied by iron, reflecting circulating iron availability to tissues. It is calculated as serum iron divided by total iron-binding capacity (TIBC) times 100, or equivalently from serum iron and transferrin using a correction factor, and it is the most informative single marker of iron availability in plasma [^112KTP8q] [^112KTP8q].
 
-> I need to check the normal reference range. Under physiologic conditions, TSAT typically falls between about 16% and 45%, with many adult references citing 20% to 45% as typical, and values below about 16% indicate suboptimal iron supply for erythropoiesis. In pediatrics, a normal range of 16% to 45% is commonly cited, and values above 50% raise concern for iron overload risk [^9ef1bfec] [^3391ebae].
+> I need to check the normal reference range. Under physiologic conditions, TSAT typically falls between about 16% and 45%, with many adult references citing 20% to 45% as typical, and values below about 16% indicate suboptimal iron supply for erythropoiesis. In pediatrics, a normal range of 16% to 45% is commonly cited, and values above 50% raise concern for iron overload risk [^1154eFBy] [^112KTP8q].
 
-> Hold on, I should verify the calculation and potential pitfalls. TSAT equals serum iron divided by TIBC times 100, or serum iron divided by transferrin times 1.42, and results can be confounded by diurnal variation, recent iron intake, inflammation, and laboratory assay differences. Therefore, I need to ensure consistent timing, consider fasting when feasible, and interpret results alongside ferritin and inflammatory markers to avoid misclassification [^db4581c6].
+> Hold on, I should verify the calculation and potential pitfalls. TSAT equals serum iron divided by TIBC times 100, or serum iron divided by transferrin times 1.42, and results can be confounded by diurnal variation, recent iron intake, inflammation, and laboratory assay differences. Therefore, I need to ensure consistent timing, consider fasting when feasible, and interpret results alongside ferritin and inflammatory markers to avoid misclassification [^116c5dpZ].
 
-> Next, I will interpret TSAT in iron deficiency. Let me think about thresholds: TSAT less than about 20% is widely used to indicate insufficient iron delivery for erythropoiesis, with sensitivity around 50% to 88% and specificity around 63% to 78% depending on the population. In inflammatory states, TSAT may be low despite adequate stores, so I should pair TSAT with ferritin and CRP to distinguish absolute from functional iron deficiency [^9ef1bfec] [^279cff9f] [^db4581c6].
+> Next, I will interpret TSAT in iron deficiency. Let me think about thresholds: TSAT less than about 20% is widely used to indicate insufficient iron delivery for erythropoiesis, with sensitivity around 50% to 88% and specificity around 63% to 78% depending on the population. In inflammatory states, TSAT may be low despite adequate stores, so I should pair TSAT with ferritin and CRP to distinguish absolute from functional iron deficiency [^1154eFBy] [^1121jFZx] [^116c5dpZ].
 
-> I should confirm how guidelines operationalize this. In chronic kidney disease, functional iron deficiency is commonly defined by TSAT less than 20% with ferritin greater than 100 ng/mL, and in heart failure, TSAT less than 20% is a key criterion for iron deficiency, particularly when ferritin is 100 to 299 ng/mL. In preoperative pathways, ferritin 30 to 100 ng/mL with TSAT less than 20% suggests iron-restricted erythropoiesis that may benefit from IV iron [^07c4d638] [^823ad5f3] [^97b23988].
+> I should confirm how guidelines operationalize this. In chronic kidney disease, functional iron deficiency is commonly defined by TSAT less than 20% with ferritin greater than 100 ng/mL, and in heart failure, TSAT less than 20% is a key criterion for iron deficiency, particularly when ferritin is 100 to 299 ng/mL. In preoperative pathways, ferritin 30 to 100 ng/mL with TSAT less than 20% suggests iron-restricted erythropoiesis that may benefit from IV iron [^111CX2fR] [^114L59rA] [^114stzej].
 
-> Now, I will examine TSAT in iron overload. Wait, let me verify the thresholds: TSAT above about 45% is abnormal and above 50% is concerning for hereditary hemochromatosis, with many guidelines using TSAT greater than 45% in women and greater than 50% in men as diagnostic triggers. Importantly, TSAT elevation often precedes ferritin rise by years, and TSAT may remain elevated even after phlebotomy if iron avidity persists, so I should interpret persistent TSAT elevation in context and consider repeat testing or alternative markers when discordant [^4a99ef5f] [^3391ebae] [^ca1a6ca6].
+> Now, I will examine TSAT in iron overload. Wait, let me verify the thresholds: TSAT above about 45% is abnormal and above 50% is concerning for hereditary hemochromatosis, with many guidelines using TSAT greater than 45% in women and greater than 50% in men as diagnostic triggers. Importantly, TSAT elevation often precedes ferritin rise by years, and TSAT may remain elevated even after phlebotomy if iron avidity persists, so I should interpret persistent TSAT elevation in context and consider repeat testing or alternative markers when discordant [^112ubnkW] [^112KTP8q] [^116AdNiR].
 
-> But wait, what if TSAT is high and ferritin is normal. I should double-check that this pattern can occur early in HFE hemochromatosis or with other causes of hyperferritinemia, so a normal ferritin does not exclude iron overload. In such cases, repeating TSAT, assessing liver enzymes, and considering HFE testing is appropriate, especially in patients of Northern European ancestry or with suggestive features [^bbbc53cd] [^4a99ef5f] [^c522047e].
+> But wait, what if TSAT is high and ferritin is normal. I should double-check that this pattern can occur early in HFE hemochromatosis or with other causes of hyperferritinemia, so a normal ferritin does not exclude iron overload. In such cases, repeating TSAT, assessing liver enzymes, and considering HFE testing is appropriate, especially in patients of Northern European ancestry or with suggestive features [^115oKwcQ] [^112ubnkW] [^1163FzER].
 
-> Next, I should review TSAT in inflammatory states. Inflammation elevates hepcidin, which reduces iron export and lowers serum iron, often yielding low TSAT despite adequate or increased stores. Thus, low TSAT plus high ferritin and elevated CRP supports functional iron deficiency, and in such settings, reticulocyte hemoglobin content or percentage hypochromic red cells may better predict response to IV iron than TSAT alone [^db826852] [^1a917753] [^0d6fd09e].
+> Next, I should review TSAT in inflammatory states. Inflammation elevates hepcidin, which reduces iron export and lowers serum iron, often yielding low TSAT despite adequate or increased stores. Thus, low TSAT plus high ferritin and elevated CRP supports functional iron deficiency, and in such settings, reticulocyte hemoglobin content or percentage hypochromic red cells may better predict response to IV iron than TSAT alone [^116cS6G1] [^111gPYEe] [^111LvPzd].
 
-> I will now integrate guideline-based diagnostic and treatment thresholds. For iron deficiency anemia, TSAT less than 20% supports the diagnosis, particularly when ferritin is equivocal or elevated by inflammation. For hereditary hemochromatosis, TSAT greater than 45% to 50% prompts evaluation and often HFE testing. For CKD and heart failure, TSAT less than 20% guides iron therapy decisions, and in oncology or perioperative care, TSAT less than 20% with ferritin greater than 100 ng/mL identifies functional iron deficiency where IV iron can improve outcomes [^279cff9f] [^4a99ef5f] [^07c4d638] [^ea01443d] [^97b23988].
+> I will now integrate guideline-based diagnostic and treatment thresholds. For iron deficiency anemia, TSAT less than 20% supports the diagnosis, particularly when ferritin is equivocal or elevated by inflammation. For hereditary hemochromatosis, TSAT greater than 45% to 50% prompts evaluation and often HFE testing. For CKD and heart failure, TSAT less than 20% guides iron therapy decisions, and in oncology or perioperative care, TSAT less than 20% with ferritin greater than 100 ng/mL identifies functional iron deficiency where IV iron can improve outcomes [^1121jFZx] [^112ubnkW] [^111CX2fR] [^116yvXcp] [^114stzej].
 
-> Hold on, I should verify special populations and monitoring. In pediatrics, TSAT interpretation follows adult principles but must be contextualized by age and inflammation. In cyanotic congenital heart disease, TSAT less than 20% indicates iron deficiency that warrants repletion. During IV iron therapy, I should monitor ferritin and TSAT periodically to avoid overload, with many nephrology guidelines cautioning when ferritin exceeds 800 ng/mL or TSAT exceeds 40% [^9ef1bfec] [^12a7ea7c] [^d697e824].
+> Hold on, I should verify special populations and monitoring. In pediatrics, TSAT interpretation follows adult principles but must be contextualized by age and inflammation. In cyanotic congenital heart disease, TSAT less than 20% indicates iron deficiency that warrants repletion. During IV iron therapy, I should monitor ferritin and TSAT periodically to avoid overload, with many nephrology guidelines cautioning when ferritin exceeds 800 ng/mL or TSAT exceeds 40% [^1154eFBy] [^111UfBLf] [^116V9Nh1].
 
-> Let me reconsider the practical takeaways. TSAT is a dynamic marker of iron availability that complements ferritin; values below 20% indicate insufficient iron supply and support treatment in appropriate contexts, whereas values above 45% to 50% raise concern for iron overload and should trigger further evaluation. Because TSAT is influenced by inflammation, diurnal variation, and nutrition, I need to interpret it alongside ferritin, CRP, and the clinical picture to avoid both under- and over-treatment [^279cff9f] [^279cff9f].
+> Let me reconsider the practical takeaways. TSAT is a dynamic marker of iron availability that complements ferritin; values below 20% indicate insufficient iron supply and support treatment in appropriate contexts, whereas values above 45% to 50% raise concern for iron overload and should trigger further evaluation. Because TSAT is influenced by inflammation, diurnal variation, and nutrition, I need to interpret it alongside ferritin, CRP, and the clinical picture to avoid both under- and over-treatment [^1121jFZx] [^1121jFZx].
 
 ---
 
-Percent iron saturation, or transferrin saturation (TSAT), is the **percentage of transferrin bound to iron** [^059d1a54], calculated as serum iron divided by total iron-binding capacity (TIBC) times 100. Normal TSAT is **20–45%** [^3391ebae]; values < 20% indicate iron deficiency [^279cff9f], while > 45% suggest iron overload [^ca1a6ca6] or hereditary hemochromatosis [^4a99ef5f]. TSAT is essential for diagnosing iron deficiency [^279cff9f] and overload [^4a99ef5f], guiding therapy [^2c41ece6], and monitoring response, but should be interpreted with ferritin and clinical context because inflammation and diurnal variation can affect results [^db4581c6].
+Percent iron saturation, or transferrin saturation (TSAT), is the **percentage of transferrin bound to iron** [^1119Ki27], calculated as serum iron divided by total iron-binding capacity (TIBC) times 100. Normal TSAT is **20–45%** [^112KTP8q]; values < 20% indicate iron deficiency [^1121jFZx], while > 45% suggest iron overload [^116AdNiR] or hereditary hemochromatosis [^112ubnkW]. TSAT is essential for diagnosing iron deficiency [^1121jFZx] and overload [^112ubnkW], guiding therapy [^1128cbjK], and monitoring response, but should be interpreted with ferritin and clinical context because inflammation and diurnal variation can affect results [^116c5dpZ].
 
 ---
 
 ## Physiological basis and calculation
 
-Transferrin, the main iron carrier, binds iron in circulation; TSAT reflects the **proportion of transferrin saturated with iron** [^059d1a54]. TSAT is calculated as:
+Transferrin, the main iron carrier, binds iron in circulation; TSAT reflects the **proportion of transferrin saturated with iron** [^1119Ki27]. TSAT is calculated as:
 
-- **TSAT (%) = (serum iron / TIBC) × 100** [^059d1a54]
+- **TSAT (%) = (serum iron / TIBC) × 100** [^1119Ki27]
 
-Alternatively, TSAT can be estimated from serum iron and transferrin using a correction factor (multiply transferrin by 1.42 to approximate TIBC) [^3391ebae].
+Alternatively, TSAT can be estimated from serum iron and transferrin using a correction factor (multiply transferrin by 1.42 to approximate TIBC) [^112KTP8q].
 
 ---
 
 ## Normal reference ranges
 
-Normal TSAT typically ranges from **20% to 45%** [^3391ebae], though slight lab-to-lab variation occurs. Values outside this range indicate altered iron status:
+Normal TSAT typically ranges from **20% to 45%** [^112KTP8q], though slight lab-to-lab variation occurs. Values outside this range indicate altered iron status:
 
 | **Tsat value** | **Clinical interpretation** |
 |-|-|
-| < 20% | Iron deficiency or functional iron deficiency [^279cff9f] [^07c4d638] |
-| 20–45% | Normal iron status [^3391ebae] |
-| > 45% | Iron overload or hereditary hemochromatosis [^ca1a6ca6] [^4a99ef5f] |
+| < 20% | Iron deficiency or functional iron deficiency [^1121jFZx] [^111CX2fR] |
+| 20–45% | Normal iron status [^112KTP8q] |
+| > 45% | Iron overload or hereditary hemochromatosis [^116AdNiR] [^112ubnkW] |
 
 ---
 
@@ -69,13 +69,13 @@ Normal TSAT typically ranges from **20% to 45%** [^3391ebae], though slight lab-
 
 ### Iron deficiency
 
-Low TSAT (< 20%) indicates **insufficient iron supply** for erythropoiesis [^279cff9f] and supports iron deficiency anemia or functional iron deficiency [^07c4d638]. It is especially useful when ferritin is normal or elevated due to inflammation, as ferritin is an acute-phase reactant [^d293ab36].
+Low TSAT (< 20%) indicates **insufficient iron supply** for erythropoiesis [^1121jFZx] and supports iron deficiency anemia or functional iron deficiency [^111CX2fR]. It is especially useful when ferritin is normal or elevated due to inflammation, as ferritin is an acute-phase reactant [^116PBzzy].
 
 ---
 
 ### Iron overload
 
-Elevated TSAT (> 45%) suggests **iron overload**, as in hereditary hemochromatosis [^4a99ef5f] or secondary iron overload [^ca1a6ca6]. Persistent TSAT > 45% warrants evaluation for hemochromatosis and possible genetic testing [^4a99ef5f].
+Elevated TSAT (> 45%) suggests **iron overload**, as in hereditary hemochromatosis [^112ubnkW] or secondary iron overload [^116AdNiR]. Persistent TSAT > 45% warrants evaluation for hemochromatosis and possible genetic testing [^112ubnkW].
 
 ---
 
@@ -83,10 +83,10 @@ Elevated TSAT (> 45%) suggests **iron overload**, as in hereditary hemochromatos
 
 Several factors can **alter TSAT independent of true iron status**:
 
-- **Inflammation**: Lowers serum iron and TSAT, masking iron deficiency [^db826852].
-- **Diurnal variation**: Morning values are higher; consistency in timing improves interpretation [^69736b19].
-- **Oral contraceptives**: Increase transferrin, lowering TSAT [^db4581c6].
-- **Liver disease**: Alters transferrin synthesis, affecting TSAT [^810f3cfc].
+- **Inflammation**: Lowers serum iron and TSAT, masking iron deficiency [^116cS6G1].
+- **Diurnal variation**: Morning values are higher; consistency in timing improves interpretation [^113hLU7z].
+- **Oral contraceptives**: Increase transferrin, lowering TSAT [^116c5dpZ].
+- **Liver disease**: Alters transferrin synthesis, affecting TSAT [^114JLXDd].
 
 ---
 
@@ -94,44 +94,44 @@ Several factors can **alter TSAT independent of true iron status**:
 
 TSAT is integral to diagnosis and management across settings:
 
-- **Iron deficiency anemia**: TSAT < 20% supports the diagnosis, especially with ferritin < 30 ng/mL [^279cff9f] [^d293ab36].
-- **Chronic kidney disease**: TSAT < 20% with ferritin > 100 ng/mL indicates functional iron deficiency; guides IV iron use [^07c4d638] [^300662c8].
-- **Heart failure**: TSAT < 20% identifies iron deficiency amenable to IV iron therapy [^823ad5f3] [^14248845].
-- **Hereditary hemochromatosis**: TSAT > 45% prompts genetic testing and phlebotomy [^4a99ef5f] [^ca1a6ca6].
+- **Iron deficiency anemia**: TSAT < 20% supports the diagnosis, especially with ferritin < 30 ng/mL [^1121jFZx] [^116PBzzy].
+- **Chronic kidney disease**: TSAT < 20% with ferritin > 100 ng/mL indicates functional iron deficiency; guides IV iron use [^111CX2fR] [^112ECYw9].
+- **Heart failure**: TSAT < 20% identifies iron deficiency amenable to IV iron therapy [^114L59rA] [^111Ws2Lt].
+- **Hereditary hemochromatosis**: TSAT > 45% prompts genetic testing and phlebotomy [^112ubnkW] [^116AdNiR].
 
 ---
 
 ## Limitations and considerations
 
-- **Inflammation**: Can lower TSAT, causing false positives for iron deficiency [^db826852].
-- **Diurnal variation**: Requires consistent sampling timing [^69736b19].
-- **Not specific**: Elevated TSAT can occur in liver disease or with recent iron intake [^810f3cfc].
+- **Inflammation**: Can lower TSAT, causing false positives for iron deficiency [^116cS6G1].
+- **Diurnal variation**: Requires consistent sampling timing [^113hLU7z].
+- **Not specific**: Elevated TSAT can occur in liver disease or with recent iron intake [^114JLXDd].
 
 ---
 
 ## Summary of key points
 
-- **Definition**: TSAT is the percentage of transferrin saturated with iron [^059d1a54].
-- **Normal range**: 20–45% [^3391ebae].
-- **Low TSAT**: Indicates iron deficiency or functional iron deficiency [^279cff9f] [^07c4d638].
-- **High TSAT**: Suggests iron overload or hemochromatosis [^4a99ef5f] [^ca1a6ca6].
-- **Clinical use**: Essential for diagnosing iron deficiency, guiding therapy, and monitoring response, but must be interpreted with ferritin and clinical context [^d293ab36] [^2c41ece6].
+- **Definition**: TSAT is the percentage of transferrin saturated with iron [^1119Ki27].
+- **Normal range**: 20–45% [^112KTP8q].
+- **Low TSAT**: Indicates iron deficiency or functional iron deficiency [^1121jFZx] [^111CX2fR].
+- **High TSAT**: Suggests iron overload or hemochromatosis [^112ubnkW] [^116AdNiR].
+- **Clinical use**: Essential for diagnosing iron deficiency, guiding therapy, and monitoring response, but must be interpreted with ferritin and clinical context [^116PBzzy] [^1128cbjK].
 
 ---
 
-Percent iron saturation (TSAT) is a **key marker of iron availability** [^059d1a54], with normal values of 20–45% [^3391ebae]. Values < 20% indicate iron deficiency, while > 45% suggest iron overload [^4a99ef5f]; interpretation should consider ferritin, inflammation, and clinical context to guide diagnosis and therapy [^d293ab36].
+Percent iron saturation (TSAT) is a **key marker of iron availability** [^1119Ki27], with normal values of 20–45% [^112KTP8q]. Values < 20% indicate iron deficiency, while > 45% suggest iron overload [^112ubnkW]; interpretation should consider ferritin, inflammation, and clinical context to guide diagnosis and therapy [^116PBzzy].
 
 ---
 
 ## References
 
-### Should serum transferrin saturation Be included as a therapeutic target in addition to serum ferritin in treating HFE-hemochromatosis? [^58fc2d1d]. American Journal of Hematology (2025). Medium credibility.
+### Should serum transferrin saturation Be included as a therapeutic target in addition to serum ferritin in treating HFE-hemochromatosis? [^113Gvcb6]. American Journal of Hematology (2025). Medium credibility.
 
 In HFE-hemochromatosis, transferrin saturation (TSAT) indirectly reflects plasma non-transferrin-bound iron (NTBI), which drives iron overload and tissue damage. TSAT above ~75% suggests harmful NTBI levels. Despite its clinical relevance, NTBI remains understudied due to the limitations of current assays. High TSAT levels persist during maintenance therapy, yet some guidelines omit TSAT monitoring, though it correlates with symptoms like fatigue and joint pain. Monitoring TSAT may improve outcomes. Randomized trials comparing ferritin-only versus ferritin-plus-TSAT-guided treatment are needed. Consideration should be given to approaches that minimize plasma NTBI in managing and monitoring patients with hemochromatosis. Until reliable NTBI testing has been established, TSAT should be included in the management of HFE-hemochromatosis.
 
 ---
 
-### Transferrin saturation, dietary iron intake, and risk of cancer [^072a688f]. Annals of Family Medicine (2005). Low credibility.
+### Transferrin saturation, dietary iron intake, and risk of cancer [^111BdAA2]. Annals of Family Medicine (2005). Low credibility.
 
 Purpose
 
@@ -151,13 +151,13 @@ Among persons with increased transferrin saturation, a daily intake of dietary i
 
 ---
 
-### Iron deficiency anaemia revisited [^82eb6e84]. Journal of Internal Medicine (2020). Medium credibility.
+### Iron deficiency anaemia revisited [^114M6UDR]. Journal of Internal Medicine (2020). Medium credibility.
 
 Iron deficiency anaemia is a global health concern affecting children, women and the elderly, whilst also being a common comorbidity in multiple medical conditions. The aetiology is variable and attributed to several risk factors decreasing iron intake and absorption or increasing demand and loss, with multiple aetiologies often coexisting in an individual patient. Although presenting symptoms may be nonspecific, there is emerging evidence on the detrimental effects of iron deficiency anaemia on clinical outcomes across several medical conditions. Increased awareness about the consequences and prevalence of iron deficiency anaemia can aid early detection and management. Diagnosis can be easily made by measurement of haemoglobin and serum ferritin levels, whilst in chronic inflammatory conditions, diagnosis may be more challenging and necessitates consideration of higher serum ferritin thresholds and evaluation of transferrin saturation. Oral and intravenous formulations of iron supplementation are available, and several patient and disease-related factors need to be considered before management decisions are made. This review provides recent updates and guidance on the diagnosis and management of iron deficiency anaemia in multiple clinical settings.
 
 ---
 
-### Management of iron deficiency anemia in inflammatory bowel disease-a practical approach [^db4581c6]. Annals of Gastroenterology (2013). Low credibility.
+### Management of iron deficiency anemia in inflammatory bowel disease-a practical approach [^116c5dpZ]. Annals of Gastroenterology (2013). Low credibility.
 
 Transferrin saturation
 
@@ -165,31 +165,31 @@ Transferrin saturation (TfS) is a measure for the iron load of circulating trans
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^db58b627]. Gut (2021). High credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^116cC5xS]. Gut (2021). High credibility.
 
 Regarding diagnostic investigations for iron deficiency anemia, more specifically with respect to iron studies, BSG 2021 guidelines recommend to consider obtaining other blood tests (such as transferrin saturation) if a false-normal ferritin is suspected.
 
 ---
 
-### Error in methods [^c5f12e99]. JAMA Network Open (2024). High credibility.
+### Error in methods [^1164Ta7z]. JAMA Network Open (2024). High credibility.
 
 In the Original Investigation titled "Absolute and Functional Iron Deficiency in the US, 2017–2020", published September 24, 2024, there was an error in the definition of functional iron deficiency in the Methods. The threshold should have been transferrin saturation less than 20%, not less than 30%. This article has been corrected.
 
 ---
 
-### Guideline for the laboratory diagnosis of functional iron deficiency [^336dab3a]. British Journal of Haematology (2013). Medium credibility.
+### Guideline for the laboratory diagnosis of functional iron deficiency [^112KFCtq]. British Journal of Haematology (2013). Medium credibility.
 
 Regarding diagnostic investigations for anemia of chronic kidney disease, more specifically with respect to evaluation for functional iron deficiency, BCSH 2013 guidelines recommend to do not measure the percentage saturation of transferrin in isolation to predict responsiveness to IV iron therapy in patients with CKD. Consider assessing the percentage saturation of transferrin to monitor response to ESAs and/or iron therapy in patients with CKD. Consider measuring the percentage saturation of transferrin in combination with either the serum ferritin concentration or measurements such as the percentage of hypochromic red cells and reticulocyte hemoglobin content for the diagnosis of functional iron deficiency.
 
 ---
 
-### Assessing iron status: beyond serum ferritin and transferrin saturation [^cc54970b]. Clinical Journal of the American Society of Nephrology (2006). Low credibility.
+### Assessing iron status: beyond serum ferritin and transferrin saturation [^116DvtSE]. Clinical Journal of the American Society of Nephrology (2006). Low credibility.
 
 The increasing prevalence of multiple comorbidities among anemic patients with chronic kidney disease has made the use of serum ferritin and transferrin saturation more challenging in diagnosing iron deficiency. Because serum ferritin is an acute-phase reactant and because the inflammatory state may inhibit the mobilization of iron from reticuloendothelial stores, the scenario of patients with serum ferritin > 800 ng/ml, suggesting iron overload, and transferrin saturation < 20%, suggesting iron deficiency, has become more common. This article revisits the basis for the Kidney Disease Outcomes Quality Initiative recommendations regarding the use of serum ferritin and transferrin saturation in guiding iron therapy, then explores some of the newer alternative markers for iron status that may be useful when serum ferritin and transferrin saturation are insufficient. These newer tests include reticulocyte hemoglobin content, percentage of hypochromic red cells, and soluble transferrin receptor, all of which have shown some promise in limited studies. Finally, the role of hepcidin, a hepatic polypeptide, in the pathophysiology of iron mobilization is reviewed briefly.
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^b39cea74]. Gut (2021). Medium credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^115bHVQo]. Gut (2021). Medium credibility.
 
 Executive summary of recommendations and practice statements
 
@@ -206,7 +206,7 @@ We recommend that a good response to iron therapy (Hb rise ≥ 10 g/L within a 2
 
 ---
 
-### Iron deficiency anaemia: pathophysiology, assessment, practical management [^279cff9f]. BMJ Open Gastroenterology (2022). High credibility.
+### Iron deficiency anaemia: pathophysiology, assessment, practical management [^1121jFZx]. BMJ Open Gastroenterology (2022). High credibility.
 
 Assessment and diagnosis
 
@@ -221,19 +221,19 @@ Patients with IDA should be treated with the aim of replenishing iron stores and
 
 ---
 
-### KDIGO clinical practice guideline for anemia in chronic kidney disease [^cef7e553]. KDIGO (2012). Medium credibility.
+### KDIGO clinical practice guideline for anemia in chronic kidney disease [^116HqiTC]. KDIGO (2012). Medium credibility.
 
 KDIGO anemia in chronic kidney disease — iron status assessment emphasizes ferritin and transferrin saturation (TSAT) for storage and availability of iron. Serum ferritin values ≤ 30 ng/ml (≤ 30 μg/l) indicate severe iron deficiency, whereas values > 30 ng/ml (> 30 μg/l) do not necessarily indicate adequate stores. Most CKD patients, including those on hemodialysis, will have normal marrow iron stores when ferritin is ≥ 300 ng/ml (≥ 300 μg/l), and even at 100 ng/ml (100 μg/l) most have stainable stores. TSAT (serum iron x 100 divided by total iron binding capacity) is the most commonly used measure of iron availability, while ferritin is an acute phase reactant requiring caution in interpretation, especially in dialysis. Other tests such as percentage of hypochromic red blood cells and reticulocyte hemoglobin content may be used instead of, or in addition to, TSAT and ferritin if available, and hepcidin measurement has not been shown to be clinically useful or superior to standard iron status tests in CKD.
 
 ---
 
-### Iron deficiency anaemia [^a97d6fd3]. Lancet (2016). Excellent credibility.
+### Iron deficiency anaemia [^115LH3LE]. Lancet (2016). Excellent credibility.
 
 Anaemia affects roughly a third of the world's population; half the cases are due to iron deficiency. It is a major and global public health problem that affects maternal and child mortality, physical performance, and referral to health-care professionals. Children aged 0–5 years, women of childbearing age, and pregnant women are particularly at risk. Several chronic diseases are frequently associated with iron deficiency anaemia — notably chronic kidney disease, chronic heart failure, cancer, and inflammatory bowel disease. Measurement of serum ferritin, transferrin saturation, serum soluble transferrin receptors, and the serum soluble transferrin receptors-ferritin index are more accurate than classic red cell indices in the diagnosis of iron deficiency anaemia. In addition to the search for and treatment of the cause of iron deficiency, treatment strategies encompass prevention, including food fortification and iron supplementation. Oral iron is usually recommended as first-line therapy, but the most recent intravenous iron formulations, which have been available for nearly a decade, seem to replenish iron stores safely and effectively. Hepcidin has a key role in iron homoeostasis and could be a future diagnostic and therapeutic target. In this Seminar, we discuss the clinical presentation, epidemiology, pathophysiology, diagnosis, and acute management of iron deficiency anaemia, and outstanding research questions for treatment.
 
 ---
 
-### Iron deficiency and heart failure: diagnostic dilemmas and therapeutic perspectives [^810f3cfc]. European Heart Journal (2013). Low credibility.
+### Iron deficiency and heart failure: diagnostic dilemmas and therapeutic perspectives [^114JLXDd]. European Heart Journal (2013). Low credibility.
 
 Circulating iron bound to transferrin (TIBC, total iron binding capacity — by transferrin) reflects the amount of iron available for metabolizing target cells. Importantly, neither serum iron nor serum transferrin alone should be used as biomarkers of iron status. Instead, transferrin saturation (Tsat), the per cent of transferrin that has iron bound to it (ratio of serum iron and TIBC × 100), is recommended. Reduced Tsat (< 20%) is considered a surrogate of insufficient iron available for metabolizing cells. With malnutrition accompanying chronic diseases, liver synthesis and blood transferrin levels may be low, which can artificially increase Tsat disproportionate to the iron content.
 
@@ -241,67 +241,67 @@ When serum ferritin is between 100 and 300 µg/L (which is frequent in patients 
 
 ---
 
-### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^44a745d9]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^112knLuE]. Gastroenterology (2020). High credibility.
 
 AGA Clinical Practice Guidelines — ferritin cutoff for diagnosing iron deficiency in anemia states: In patients with anemia, the AGA recommends using a cutoff of 45 ng/mL over 15 ng/mL when using ferritin to diagnose iron deficiency. This is a Strong recommendation, high-quality evidence. In patients with inflammatory conditions or chronic kidney disease, other laboratory tests such as C-reactive protein, transferrin saturation, or soluble transferrin receptor may be needed in conjunction with ferritin to diagnose iron deficiency anemia.
 
 ---
 
-### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^97b23988]. British Journal of Haematology (2024). High credibility.
+### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^114stzej]. British Journal of Haematology (2024). High credibility.
 
 Regarding specific circumstances for iron deficiency anemia, more specifically with respect to patients undergoing surgery (thresholds), BSH 2024 guidelines recommend to view ferritin levels of 30–100 mcg/L with a low transferrin saturation (< 20%) as indicative of possible iron depletion or deficiency in the context of inflammation that may benefit from iron supplementation.
 
 ---
 
-### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^07c4d638]. BMC Nephrology (2025). High credibility.
+### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^111CX2fR]. BMC Nephrology (2025). High credibility.
 
 Regarding screening and diagnosis for anemia of chronic kidney disease, more specifically with respect to diagnostic criteria, UKKA 2025 guidelines recommend to consider using a transferrin saturation < 20% and a normal or elevated ferritin level to define functional iron deficiency in patients with non-dialysis-dependent CKD or maintained on peritoneal dialysis and in those receiving hemodialysis. Recognize that normal or high serum ferritin values do not exclude iron deficiency, as it could be due to other causes such as infection or inflammation.
 
 ---
 
-### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^85106541]. British Journal of Haematology (2018). Medium credibility.
+### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^114QGrtg]. British Journal of Haematology (2018). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to genetic testing, BSH 2018 guidelines recommend to test for HFE hemochromatosis in all adult patients of North European ancestry with raised serum ferritin of unclear etiology (> 300 mcg/L in males or > 200 mcg/L in females) and elevated random transferrin saturation (> 50% in males or > 40% in females), and normal CBC.
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^83669e03]. Journal of Hepatology (2022). High credibility.
+### EASL clinical practice guidelines on haemochromatosis [^114Mor4a]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, EASL 2022 guidelines recommend to assess serum iron parameters, including transferrin saturation and serum ferritin, as the first step in testing for hemochromatosis.
 
 ---
 
-### EASL clinical practice guidelines for HFE hemochromatosis [^5b32dc19]. Journal of Hepatology (2010). Medium credibility.
+### EASL clinical practice guidelines for HFE hemochromatosis [^113LCxUQ]. Journal of Hepatology (2010). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, EASL 2010 guidelines recommend to measure fasting transferrin saturation and serum ferritin in patients with suspected iron overload.
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^c45a97eb]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^1162718v]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding specific circumstances for iron deficiency anemia, more specifically with respect to patients with IBD (diagnosis), ECCO 2015 guidelines recommend to diagnose anemia of chronic disease in the presence of serum ferritin > 100 mcg/L and transferrin saturation < 20% in patients with biochemical or clinical evidence of inflammation.
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^b7602805]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^115gs2r8]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding specific circumstances for iron deficiency anemia, more specifically with respect to patients with IBD, evaluation, ECCO 2015 guidelines recommend to obtain anemia workup (including at least RBC indices such as red cell distribution width and MCV, reticulocyte count, differential blood cell count, serum ferritin, transferrin saturation, and CRP concentration) if the hemoglobin is below normal. Include the following in a more extensive workup: serum concentrations of vitamin B12, folic acid, haptoglobin, the percentage of hypochromic red cells, reticulocyte hemoglobin, LDH, soluble transferrin receptor, creatinine, and urea.
 
 ---
 
-### Management of cancer-associated anemia with erythropoiesis-stimulating agents: ASCO / ASH clinical practice guideline update [^2c41ece6]. Journal of Clinical Oncology (2019). High credibility.
+### Management of cancer-associated anemia with erythropoiesis-stimulating agents: ASCO / ASH clinical practice guideline update [^1128cbjK]. Journal of Clinical Oncology (2019). High credibility.
 
 ASCO/ASH ESA guideline update — Clinical Question 10 (iron with ESA): Iron replacement may be used to improve hemoglobin response and reduce RBC transfusions for patients receiving ESA with or without iron deficiency, and baseline and periodic monitoring of iron, total iron binding capacity, transferrin saturation, or ferritin levels is recommended. (Type of recommendation: evidence based; Evidence quality: intermediate; Strength of recommendation: weak).
 
 ---
 
-### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^ce0ba136]. British Journal of Haematology (2024). High credibility.
+### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^116GUMcq]. British Journal of Haematology (2024). High credibility.
 
 Regarding preventative measures for red blood cell transfusion, more specifically with respect to correction of preoperative anemia (thresholds), BSH 2024 guidelines recommend to view ferritin levels of 30–100 mcg/L with a low transferrin saturation (< 20%) as indicative of possible iron depletion or deficiency in the context of inflammation that may benefit from iron supplementation.
 
 ---
 
-### Dysregulated iron metabolism in polycythemia vera: etiology and consequences [^6c6cdd15]. Leukemia (2018). Low credibility.
+### Dysregulated iron metabolism in polycythemia vera: etiology and consequences [^113mkEGc]. Leukemia (2018). Low credibility.
 
 Iron metabolism and its regulation
 
@@ -309,37 +309,37 @@ Since most of the body iron is destined for hemoglobin synthesis, erythropoiesis
 
 ---
 
-### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^bb0dffec]. British Journal of Haematology (2018). Medium credibility.
+### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^115nKPSB]. British Journal of Haematology (2018). Medium credibility.
 
 Regarding medical management for hereditary hemochromatosis, more specifically with respect to treatment targets, BSH 2018 guidelines recommend to target serum ferritin levels of approximately 20–30 mcg/L and transferrin saturation < 50% with phlebotomy. Monitor CBC weekly and serum ferritin and/or transferrin saturation monthly during phlebotomy.
 
 ---
 
-### A diagnostic approach to hyperferritinemia with a non-elevated transferrin saturation [^86756324]. Journal of Hepatology (2011). Low credibility.
+### A diagnostic approach to hyperferritinemia with a non-elevated transferrin saturation [^114SLmej]. Journal of Hepatology (2011). Low credibility.
 
 Elevated serum ferritin concentrations are common in clinical practice. In this review, we provide an approach to interpreting the serum ferritin elevation in relationship to other clinical parameters including the patient history, transferrin saturation, serum concentrations of alanine, and aspartate aminotransferases (ALT, AST), testing for HFE mutations, liver imaging, liver biopsy, and liver iron concentration. We used observations from a large series of patients with hepatic iron overload documented by liver iron concentration measurement from two referral practices as a gold standard to guide the interpretation of the predictive values of non-invasive iron tests. Three case studies illustrate common problems in interpreting iron blood tests.
 
 ---
 
-### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^d25c3489]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^116NsNUx]. Gastroenterology (2020). High credibility.
 
 AGA iron deficiency anemia diagnosis — In patients with anemia, the AGA recommends using a cutoff of 45 ng/mL over 15 ng/mL when using ferritin to diagnose iron deficiency, and in patients with inflammatory conditions or chronic kidney disease, other laboratory tests such as C-reactive protein, transferrin saturation, or soluble transferrin saturation, may be needed in conjunction with ferritin to diagnose iron deficiency anemia.
 
 ---
 
-### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^7b77cea1]. British Journal of Haematology (2018). Medium credibility.
+### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^114A3ihE]. British Journal of Haematology (2018). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, BSH 2018 guidelines recommend to obtain a CBC, LFTs, serum ferritin and transferrin saturation in patients of North European ancestry with clinical features suggestive of genetic hemochromatosis.
 
 ---
 
-### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^9ef1bfec]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
+### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^1154eFBy]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
 
 Transferrin, transferrin saturation (TSAT), and total iron-binding capacity (TIBC) — key diagnostic parameters: transferrin normal values can vary between 200 and 400 mg/dL, and TSAT reflects iron availability with normal transferrin saturation ranging from 16% to 45%; a saturation below 16% indicates suboptimal iron for erythropoiesis and levels above 50% suggest iron overload. TSAT performance for iron deficiency shows sensitivity of 50% to 88% and specificity of 63% to 78%. TIBC is the amount of iron needed to saturate plasma transferrin and, while high in functional or true iron deficiency, has reported diagnostic sensitivity of 34% and specificity of 97%.
 
 ---
 
-### Screening, diagnosis and treatment of iron deficiency in chronic heart failure: putting the 2016 European Society of Cardiology heart failure guidelines into clinical practice [^823ad5f3]. European Journal of Heart Failure (2018). Low credibility.
+### Screening, diagnosis and treatment of iron deficiency in chronic heart failure: putting the 2016 European Society of Cardiology heart failure guidelines into clinical practice [^114L59rA]. European Journal of Heart Failure (2018). Low credibility.
 
 Practical recommendations on the screening and diagnosis of iron deficiency in patients with heart failure
 
@@ -351,19 +351,19 @@ The 2016 ESC HF guidelines recommend treating iron deficiency based on a serum f
 
 ---
 
-### How we diagnose and treat iron deficiency anemia [^a04bc3d2]. American Journal of Hematology (2016). Low credibility.
+### How we diagnose and treat iron deficiency anemia [^1156eU7K]. American Journal of Hematology (2016). Low credibility.
 
 It is estimated that one-third of the world's population is anemic, the majority being due to iron deficiency (ID). In adults, ID is associated with fatigue in the absence of anemia, restless legs syndrome, pica and, in neonates, delayed growth and development. In adolescents, ID is associated with decrements in learning and behavioral abnormalities. In the absence of a clear cause, search for a source of bleeding is indicated. No single test is diagnostic of ID unless the serum ferritin is low or the percent transferrin saturation is low with an elevated total iron binding capacity. Oral iron is considered front line therapy except for conditions such as gastric bypass, heavy uterine bleeding, inflammatory bowel disease, and hereditary hemorrhagic telangiectasia. Oral iron has many unpleasant side effects, resulting in low patient adherence. For patients intolerant of, or unresponsive to, oral iron, intravenous (IV) administration is the preferred route. While early formulations were associated with a high incidence of serious adverse events (SAEs), newer formulations are much safer with SAEs occurring very infrequently. Full replacement doses can be administered in a matter of minutes to a few hours. Nevertheless, there remains a reluctance to use IV iron due to a misunderstanding of the safety of the available formulations. IV iron is safe and effective in all clinical circumstances including pregnancy. The preponderance of published evidence suggests IV iron therapy is underutilized and we believe that IV iron should be moved forward in the treatment of ID and iron deficiency anemia (IDA).
 
 ---
 
-### Management of cancer-associated anemia with erythropoiesis-stimulating agents: ASCO / ASH clinical practice guideline update [^9fcd4e4f]. Blood Advances (2019). High credibility.
+### Management of cancer-associated anemia with erythropoiesis-stimulating agents: ASCO / ASH clinical practice guideline update [^1155uzVL]. Blood Advances (2019). High credibility.
 
 ASCO/ASH clinical practice guideline update — iron supplementation with ESAs for chemotherapy-associated anemia: Iron replacement may be used to improve Hgb response and reduce RBC transfusions for patients receiving ESAs, with or without iron deficiency, and baseline and periodic monitoring of iron, total iron-binding capacity, transferrin saturation, or ferritin levels is recommended (Type: evidence based; Evidence quality: intermediate; Strength of recommendation: weak).
 
 ---
 
-### Elevated transferrin saturation and risk of diabetes: three population-based studies [^4c672828]. Diabetes Care (2011). Low credibility.
+### Elevated transferrin saturation and risk of diabetes: three population-based studies [^112xGi5M]. Diabetes Care (2011). Low credibility.
 
 CONCLUSIONS
 
@@ -373,7 +373,7 @@ Because the risk of developing diabetes observed in this study increased with th
 
 ---
 
-### Multivariate genomic scan implicates novel loci and haem metabolism in human ageing [^df74d196]. Nature Communications (2020). High credibility.
+### Multivariate genomic scan implicates novel loci and haem metabolism in human ageing [^116iHUey]. Nature Communications (2020). High credibility.
 
 Mendelian randomisation of iron traits
 
@@ -381,19 +381,19 @@ We hypothesised that the effect of haem metabolism and chemical homeostasis on h
 
 ---
 
-### EASL clinical practice guidelines for HFE hemochromatosis [^b6f5f392]. Journal of Hepatology (2010). Medium credibility.
+### EASL clinical practice guidelines for HFE hemochromatosis [^115gFMow]. Journal of Hepatology (2010). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, EASL 2010 guidelines recommend to obtain a CBC, LFTs, serum ferritin, and transferrin saturation in all confirmed C282Y homozygotes.
 
 ---
 
-### Iron deficiency anemia-clinical preventive service recommendation… [^c264a992]. AAFP (2019). Medium credibility.
+### Iron deficiency anemia-clinical preventive service recommendation… [^115yCQjT]. AAFP (2019). Medium credibility.
 
 The AAFP supports the U. S. Preventive Services Task Force clinical preventive service recommendations on this topic. Go To USPSTF Recommendation Go To USPSTF Recommendation. These recommendations are provided only as assistance for physicians making clinical decisions regarding the care of their patients. As such, they cannot substitute for the individual judgment brought to each clinical situation by the patient's family physician. As with all clinical reference resources, they reflect the best understanding of the science of medicine at the time of publication, but they should be used with the clear understanding that continued research may result in new knowledge and recommendations. These recommendations are only one element in the complex process of improving the health of America. To be effective, the recommendations must be implemented.
 
 ---
 
-### Iron dextran (Infed) [^ff8f5eb8]. FDA (2024). Medium credibility.
+### Iron dextran (Infed) [^117Xszw9]. FDA (2024). Medium credibility.
 
 2 DOSAGE AND ADMINISTRATION
 
@@ -421,37 +421,37 @@ Dose (mL) = 0.0442 (Desired Hb - Observed Hb) x LBW + (0.26 x LBW)
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^eaaf9315]. Journal of Hepatology (2022). Medium credibility.
+### EASL clinical practice guidelines on haemochromatosis [^116zw5Qp]. Journal of Hepatology (2022). Medium credibility.
 
 Haemochromatosis is characterised by elevated transferrin saturation (TSAT) and progressive iron loading that mainly affects the liver. Early diagnosis and treatment by phlebotomy can prevent cirrhosis, hepatocellular carcinoma, diabetes, arthropathy and other complications. In patients homozygous for p. Cys282Tyr in HFE, provisional iron overload based on serum iron parameters (TSAT > 45% and ferritin > 200 μg/L in females and TSAT > 50% and ferritin > 300 μg/L in males and postmenopausal women) is sufficient to diagnose haemochromatosis. In patients with high TSAT and elevated ferritin but other HFE genotypes, diagnosis requires the presence of hepatic iron overload on MRI or liver biopsy. The stage of liver fibrosis and other end-organ damage should be carefully assessed at diagnosis because they determine disease management. Patients with advanced fibrosis should be included in a screening programme for hepatocellular carcinoma. Treatment targets for phlebotomy are ferritin < 50 μg/L during the induction phase and < 100 μg/L during the maintenance phase.
 
 ---
 
-### Current diagnostic and treatment strategies for specific dilated cardiomyopathies: a scientific statement from the American Heart Association [^26685ae5]. Circulation (2016). Medium credibility.
+### Current diagnostic and treatment strategies for specific dilated cardiomyopathies: a scientific statement from the American Heart Association [^111ywai8]. Circulation (2016). Medium credibility.
 
 Key diagnostic strategies for iron-overload cardiomyopathy — when evaluating a new cardiomyopathy, screening for iron overload should include serum ferritin and transferrin saturation (Level of Evidence B). In the setting of transferrin saturation > 45% or ferritin > 250 µg/L (males) or > 200 µg/L (females), cardiac MRI should be performed (Level of Evidence B).
 
 ---
 
-### The problem with transferrin saturation as an indicator of iron' sufficiency' in chronic kidney disease [^5c54f599]. Nephrology, Dialysis, Transplantation (2021). Medium credibility.
+### The problem with transferrin saturation as an indicator of iron' sufficiency' in chronic kidney disease [^113MtQ4x]. Nephrology, Dialysis, Transplantation (2021). Medium credibility.
 
 After a brief review of physiological iron metabolism, we describe diagnostic tests for iron status and iron deficiency anemia in patients without chronic kidney disease (CKD) or inflammation. Thereafter we review the dysregulation of iron metabolism in CKD. Specific emphasis is placed on the role of the 'inflammatory' state that develops with the progression of CKD. It invokes changes in iron metabolism that are the exact opposite of those occurring during pure iron deficiency. As a result, transferrin saturation (TSAT) becomes a poorer index of iron availability to the bone marrow and serum ferritin no longer represents iron that can be used during erythropoiesis. We argue that serum iron may provide more information to guide iron therapy than TSAT. In other words, the emphasis on TSAT is misplaced. With the development of a number of hypoxia-inducible factor prolyl hydroxylase inhibitors, which restore iron metabolism toward the 'physiologic state', the iron indices indicating sufficient iron availability to avoid functional iron deficiency during therapy of CKD-associated anemia are likely to change. We summarize these changes in the section 'A peek into things to come!', citing the available data.
 
 ---
 
-### Intravenous iron: from anathema to standard of care [^9f3498d8]. American Journal of Hematology (2008). Low credibility.
+### Intravenous iron: from anathema to standard of care [^11552hUs]. American Journal of Hematology (2008). Low credibility.
 
 A growing body of literature supports the use of intravenous iron as a compliment to erythropoiesis stimulatory therapy and in a significant number of disease states where iron is necessary and oral iron is ineffective or not tolerated. The differences in efficacy, safety, and clinical nature of serious adverse events that occur with the various iron preparations are poorly understood. Misinterpretation of adverse events leads to underutilization of this important treatment modality. Understanding the history of the development and use of intravenous iron is crucial to appreciate its importance in the management of anemias of dialysis, cancer, and cancer chemotherapy and properly assess side effects and toxicity. The benefits seen with intravenous iron therapy are independent of the pretreatment levels of serum ferritin, iron, total iron binding capacity, and percent transferrin saturation. Intravenous iron has been shown to overcome hepcidin induced iron restricted erythropoiesis in iron-replete patients. Available clinical and experimental data suggest that increased utilization of intravenous iron should be considered.
 
 ---
 
-### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^04473ccc]. British Journal of Haematology (2018). Medium credibility.
+### Diagnosis and therapy of genetic haemochromatosis (review and 2017 update) [^1117Lswq]. British Journal of Haematology (2018). Medium credibility.
 
 Regarding therapeutic procedures for hereditary hemochromatosis, more specifically with respect to therapeutic phlebotomy, BSH 2018 guidelines recommend to perform weekly phlebotomy in all fit patients with genetic hemochromatosis with biochemical evidence of iron loading, until serum ferritin is approximately 20–30 mcg/L and transferrin saturation < 50%. Monitor CBC weekly and serum ferritin and/or transferrin saturation monthly during this phase of phlebotomy.
 
 ---
 
-### Is it time to offer routine screening for iron deficiency in healthy adolescent females? [^48683eb4]. British Journal of Haematology (2025). Medium credibility.
+### Is it time to offer routine screening for iron deficiency in healthy adolescent females? [^112rM89R]. British Journal of Haematology (2025). Medium credibility.
 
 DIAGNOSIS OF IRON DEFICIENCY
 
@@ -466,7 +466,7 @@ Pros and cons of the different tests used for the diagnosis of iron deficiency (
 
 ---
 
-### GI cancer associated with iron deficiency anemia… [^0a7ae76f]. AAFP (2003). Low credibility.
+### GI cancer associated with iron deficiency anemia… [^111GYABY]. AAFP (2003). Low credibility.
 
 Clinical Question: Are patients with iron deficiency anemia at increased risk of also having a gastrointestinal malignancy. Setting: Population-based Study Design: Cohort. Synopsis: The investigators started with 9, 024 adults who were enrolled in a general study of health and nutrition. Eight percent of these patients had iron deficiency, and 1. 6 percent of the total group also was anemic. A GI malignancy was identified during the following two years in 18 patients. None of the premenopausal women with iron deficiency was anemic. Among patients with iron deficiency anemia, one in 16 was diagnosed with a GI malignancy during the subsequent two years. Of patients older than 65 years, 9 percent with anemia had a malignancy.
 
@@ -474,19 +474,19 @@ Only 1 percent of the patients with iron deficiency but without anemia developed
 
 ---
 
-### Management of anaemia and iron deficiency in patients with cancer: ESMO clinical practice guidelines [^cd18ae45]. Annals of Oncology (2018). Medium credibility.
+### Management of anaemia and iron deficiency in patients with cancer: ESMO clinical practice guidelines [^116F4kbE]. Annals of Oncology (2018). Medium credibility.
 
 Regarding medical management for cancer-related anemia, more specifically with respect to iron replacement, ESMO 2018 guidelines recommend to consider administering IV iron without additional anemia therapy in patients with functional iron deficiency (transferrin saturation < 20% and serum ferritin > 100 ng/mL).
 
 ---
 
-### Diagnosis and management of hemochromatosis: 2011 practice guideline by the American Association for the Study of Liver Diseases [^1bf98cb7]. Hepatology (2011). Medium credibility.
+### Diagnosis and management of hemochromatosis: 2011 practice guideline by the American Association for the Study of Liver Diseases [^111iUVEE]. Hepatology (2011). Medium credibility.
 
 Hemochromatosis — initial diagnostic markers and transferrin saturation (TS) thresholds are outlined: the initial approach to diagnosis is by indirect markers of iron stores, namely TS or unsaturated iron-binding capacity and serum ferritin, and a recent study using fasting samples showed no improvement in sensitivity or specificity in the detection of C282Y homozygotes; accordingly, this prior recommendation is no longer absolutely necessary, although it is advisable to confirm an elevated TS with a second determination and it is not unreasonable in our opinion to do this on a fasting specimen. Although a cutoff TS value of 45% is often chosen for its high sensitivity for detecting C282Y homozygotes, it has a lower specificity and positive predictive value compared to higher cutoff values, and using a cutoff TS of 45% will also identify persons with minor secondary iron overload as well as some C282Y/wild-type heterozygotes, requiring further evaluation.
 
 ---
 
-### Elevated serum transferrin saturation and mortality [^413016ae]. Annals of Family Medicine (2004). Low credibility.
+### Elevated serum transferrin saturation and mortality [^112feMAD]. Annals of Family Medicine (2004). Low credibility.
 
 Background
 
@@ -506,25 +506,25 @@ In this nationally representative cohort of adults, those with elevated serum tr
 
 ---
 
-### Diagnosis and management of iron deficiency in CKD: a summary of the NICE guideline recommendations and their rationale [^9de70b19]. American Journal of Kidney Diseases (2016). Low credibility.
+### Diagnosis and management of iron deficiency in CKD: a summary of the NICE guideline recommendations and their rationale [^11536fLC]. American Journal of Kidney Diseases (2016). Low credibility.
 
 The UK-based National Institute for Health and Care Excellence (NICE) has updated its guidance on iron deficiency and anemia management in chronic kidney disease. This report outlines the recommendations regarding iron deficiency and their rationale. Serum ferritin alone or transferrin saturation alone are no longer recommended as diagnostic tests to assess iron deficiency. Red blood cell markers (percentage hypochromic red blood cells, reticulocyte hemoglobin content, or reticulocyte hemoglobin equivalent) are better than ferritin level alone at predicting responsiveness to intravenous iron. When red blood cell markers are not available, a combination of transferrin saturation < 20% and ferritin level < 100ng/mL is an alternative. In comparisons of the cost-effectiveness of different iron status testing and treatment strategies, using percentage hypochromic red blood cells > 6% was the most cost-effective strategy for both hemodialysis and nonhemodialysis patients. A trial of oral iron replacement is recommended in people not receiving an erythropoiesis-stimulating agent (ESA) and not on hemodialysis therapy. For children receiving ESAs, but not treated by hemodialysis, oral iron should be considered. In adults and children receiving ESAs and/or on hemodialysis therapy, intravenous iron should be offered. When giving intravenous iron, high-dose low-frequency administration is recommended. For all children and for adults receiving in-center hemodialysis, low-dose high-frequency administration may be more appropriate.
 
 ---
 
-### Investigation and management of a raised serum ferritin [^e0f70a82]. British Journal of Haematology (2018). Low credibility.
+### Investigation and management of a raised serum ferritin [^116kXCsb]. British Journal of Haematology (2018). Low credibility.
 
 Serum ferritin level is one of the most commonly requested investigations in both primary and secondary care. Whilst low serum ferritin levels invariably indicate reduced iron stores, raised serum ferritin levels can be due to multiple different aetiologies, including iron overload, inflammation, liver or renal disease, malignancy, and the recently described metabolic syndrome. A key test in the further investigation of an unexpected raised serum ferritin is the serum transferrin saturation. This guideline reviews the investigation and management of a raised serum ferritin level. The investigation and management of genetic haemochromatosis is not dealt with however and is the subject of a separate guideline.
 
 ---
 
-### ACG clinical guideline: hereditary hemochromatosis [^ca1a6ca6]. The American Journal of Gastroenterology (2019). High credibility.
+### ACG clinical guideline: hereditary hemochromatosis [^116AdNiR]. The American Journal of Gastroenterology (2019). High credibility.
 
 Hereditary hemochromatosis — iron studies for diagnostic evaluation: Transferrin saturation (TS) is the preferred initial screening test, and fasting is not required to accurately determine TS. A TS of greater than 45% identifies 97.9%–100% of C282Y homozygotes, although a small proportion of patients with HH such as young individuals at an earlier stage may have TS of < 45%. Serum ferritin (SF) is an excellent predictor of advanced fibrosis; in C282Y homozygotes, a SF of > 1,000 ng/mL, in combination with elevated aminotransferase levels and/or low platelet count, predicts cirrhosis in more than 80% of patients. A normal SF, defined as less than 200 ng/mL in premenopausal women or 300 ng/mL in men and postmenopausal women, in combination with a TS of < 45%, has a negative predictive value of 97% for excluding iron overload. A unsaturated iron-binding capacity (UIBC) below 26 μmol/L has a sensitivity of 90% and a specificity of 50% for detecting C282Y homozygosity.
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^86313727]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^114RwsZG]. BMJ (2024). Excellent credibility.
 
 We observed no convincing difference in relative risk estimates for diabetes between C282Y homozygotes aged 20–65 years and those aged ≥ 66 years (supplementary figure S9). Relative risk estimates were similar for men and women when we stratified the analysis on risk of diabetes according to sex by comparing C282Y homozygous men with non-carrier men and C282Y homozygous women with non-carrier women (supplementary figure S10).
 
@@ -532,7 +532,7 @@ As plasma iron and transferrin saturation can change over time, we examined leve
 
 ---
 
-### Iron dextran [^5bc98c29]. FDA (2025). Medium credibility.
+### Iron dextran [^113M5a7A]. FDA (2025). Medium credibility.
 
 DOSAGE & ADMINISTRATION
 
@@ -550,13 +550,13 @@ Although there are significant variations in body build and weight distribution 
 
 ---
 
-### EASL clinical practice guidelines for HFE hemochromatosis [^3fdcdd11]. Journal of Hepatology (2010). Medium credibility.
+### EASL clinical practice guidelines for HFE hemochromatosis [^112dgQXJ]. Journal of Hepatology (2010). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, EASL 2010 guidelines recommend to evaluate C282Y/H63D compound heterozygotes and H63D homozygotes presenting with increased serum ferritin (> 200 mg/L in females, > 300 mg/L in males), increased transferrin saturation (> 45% in females, > 50% in males) or increased liver iron for other causes of hyperferritinemia.
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^7b660aec]. Gut (2021). Medium credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^1149wkcb]. Gut (2021). Medium credibility.
 
 Definitions
 
@@ -574,25 +574,25 @@ There is little consensus as to the level of anaemia that requires investigation
 
 ---
 
-### Current diagnostic and treatment strategies for specific dilated cardiomyopathies: a scientific statement from the American Heart Association [^780d4c88]. Circulation (2016). Medium credibility.
+### Current diagnostic and treatment strategies for specific dilated cardiomyopathies: a scientific statement from the American Heart Association [^1144yyuH]. Circulation (2016). Medium credibility.
 
 Regarding specific circumstances for dilated cardiomyopathy, more specifically with respect to patients with iron-overload cardiomyopathy, AHA 2016 guidelines recommend to obtain cardiac MRI in the setting of transferrin saturation > 45% or ferritin > 250 mcg/L (males) or > 200 mcg/L (females).
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^3bd41ec1]. Journal of Hepatology (2022). High credibility.
+### EASL clinical practice guidelines on haemochromatosis [^112XhX4U]. Journal of Hepatology (2022). High credibility.
 
 Regarding screening and diagnosis for hereditary hemochromatosis, more specifically with respect to indications for testing, EASL 2022 guidelines recommend to obtain clinical assessment and biochemical testing for hemochromatosis (serum ferritin and transferrin saturation) in patients with increased liver iron evident on liver biopsy or MRI.
 
 ---
 
-### Iron deficiency anemia [^a06e018d]. American Family Physician (2007). Low credibility.
+### Iron deficiency anemia [^1156qyBS]. American Family Physician (2007). Low credibility.
 
 The prevalence of iron deficiency anemia is 2 percent in adult men, 9 to 12 percent in non-Hispanic white women, and nearly 20 percent in black and Mexican-American women. Nine percent of patients older than 65 years with iron deficiency anemia have a gastrointestinal cancer when evaluated. The U.S. Preventive Services Task Force currently recommends screening for iron deficiency anemia in pregnant women but not in other groups. Routine iron supplementation is recommended for high-risk infants six to 12 months of age. Iron deficiency anemia is classically described as a microcytic anemia. The differential diagnosis includes thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning. Serum ferritin is the preferred initial diagnostic test. Total iron-binding capacity, transferrin saturation, serum iron, and serum transferrin receptor levels may be helpful if the ferritin level is between 46 and 99 ng per mL (46 and 99 mcg per L); bone marrow biopsy may be necessary in these patients for a definitive diagnosis. In children, adolescents, and women of reproductive age, a trial of iron is a reasonable approach if the review of symptoms, history, and physical examination are negative; however, the hemoglobin should be checked at one month. If there is not a 1 to 2 g per dL (10 to 20 g per L) increase in the hemoglobin level in that time, possibilities include malabsorption of oral iron, continued bleeding, or unknown lesion. For other patients, an endoscopic evaluation is recommended beginning with colonoscopy if the patient is older than 50.
 
 ---
 
-### Recommendations for the management of the haematological and onco-haematological aspects of gaucher disease [^5c9b7eba]. British Journal of Haematology (2007). Low credibility.
+### Recommendations for the management of the haematological and onco-haematological aspects of gaucher disease [^113NJ6DP]. British Journal of Haematology (2007). Low credibility.
 
 Serum iron, ferritin and transferrin levels should all be measured to assess iron status in Gaucher patients. Perls' stain on bone marrow aspirate to assess available iron stores should be performed in all Gaucher patients undergoing bone marrow aspiration as part of the diagnostic work-up. Levels of serum soluble transferrin receptor are also valuable in assessing iron status in chronic disease. Serum iron alone is not a useful measurement parameter as it is too easily affected by diet. Similarly, serum ferritin alone cannot be used as a marker of iron status in Gaucher disease as ferritin is often elevated due to chronic inflammation and compromised iron mobilization. Indeed, ferritin levels can be very high in Gaucher patients, mimicking those seen in genetic haemachromatosis. However, in Gaucher disease, iron storage is confined to Gaucher cells and does not occur in other organs. Treatment of raised ferritin with phlebotomy (as in genetic haemachromatosis) in a Gaucher patient is likely, therefore, to exacerbate anaemia.
 
@@ -602,7 +602,7 @@ Although ferritin levels would be expected to decrease with enzyme treatment, th
 
 ---
 
-### Iron as an emerging therapeutic target in critically ill patients [^782406b5]. Critical Care (2023). Medium credibility.
+### Iron as an emerging therapeutic target in critically ill patients [^11457cfW]. Critical Care (2023). Medium credibility.
 
 Higher plasma iron levels correlate with poor outcomes in the ICU
 
@@ -610,25 +610,25 @@ NTBI is released during acute crises observed in the ICU, leading to the saturat
 
 ---
 
-### ACG clinical guideline: hereditary hemochromatosis [^059d1a54]. The American Journal of Gastroenterology (2019). High credibility.
+### ACG clinical guideline: hereditary hemochromatosis [^1119Ki27]. The American Journal of Gastroenterology (2019). High credibility.
 
 Hereditary hemochromatosis — definitions for key terms: Hepcidin is defined as a hormone synthesized and secreted by the liver in response to circulating iron levels, which inhibits iron absorption from the intestinal mucosal cells by degradation of ferroportin-1. Ferroportin-1 is a transmembrane protein found predominantly in the intestinal epithelial cells, hepatocytes, and macrophages, which facilitates iron export from the cells. Transferrin is a glycoprotein synthesized by the liver which exists in 3 forms (apo, monomeric, and dimeric); it carries iron in the circulation. Unsaturated iron-binding capacity is the portion of iron-binding sites on transferrin that are not occupied by iron, and a low unsaturated iron-binding capacity raises the suspicion for hemochromatosis. Total iron-binding capacity is the sum of the serum iron and unsaturated iron-binding capacity. Transferrin saturation is the percentage of iron bound to transferrin and is calculated by dividing serum iron by total iron-binding capacity. Ferritin is an intracellular protein that stores and releases intracellular iron.
 
 ---
 
-### Hereditary hemochromatosis [^a0d2818e]. American Family Physician (2013). Low credibility.
+### Hereditary hemochromatosis [^1157Rj5X]. American Family Physician (2013). Low credibility.
 
 Hereditary hemochromatosis is an autosomal recessive disorder that disrupts the body's regulation of iron. It is the most common genetic disease in whites. Men have a 24-fold increased rate of iron-overload disease compared with women. Persons who are homozygous for the HFE gene mutation C282Y comprise 85 to 90 percent of phenotypically affected persons. End-organ damage or clinical manifestations of hereditary hemochromatosis occur in approximately 10 percent of persons homozygous for C282Y. Symptoms of hereditary hemochromatosis are nonspecific and typically absent in the early stages. If present, symptoms may include weakness, lethargy, arthralgias, and impotence. Later manifestations include arthralgias, osteoporosis, cirrhosis, hepatocellular cancer, cardiomyopathy, dysrhythmia, diabetes mellitus, and hypogonadism. Diagnosis requires confirmation of increased serum ferritin levels and transferrin saturation, with or without symptoms. Subtyping is based on genotypic expression. Serum ferritin measurement is the most useful prognostic indicator of disease severity. Liver biopsy is performed to stage the degree of fibrosis with severe ferritin elevation or transaminitis, or to diagnose nonclassical hereditary hemochromatosis in patients with other genetic defects. Treatment of hereditary hemochromatosis requires phlebotomy, and the frequency is guided by serial measurements of serum ferritin levels and transferrin saturation. Iron avidity can result from overtreatment. If iron avidity is not suspected, it may mimic undertreatment with persistently elevated transferrin saturation. Dietary modification is generally unnecessary. Universal screening for hereditary hemochromatosis is not recommended, but testing should be performed in first-degree relatives of patients with classical HFE-related hemochromatosis, those with evidence of active liver disease, and patients with abnormal iron study results. Screening for hepatocellular carcinoma is reserved for those with hereditary hemochromatosis and cirrhosis.
 
 ---
 
-### Management of anaemia and iron deficiency in patients with cancer: ESMO clinical practice guidelines [^ea01443d]. Annals of Oncology (2018). Medium credibility.
+### Management of anaemia and iron deficiency in patients with cancer: ESMO clinical practice guidelines [^116yvXcp]. Annals of Oncology (2018). Medium credibility.
 
 Regarding medical management for cancer-related anemia, more specifically with respect to iron replacement, ESMO 2018 guidelines recommend to administer iron therapy before initiation of and/or during ESAs in patients with functional iron deficiency (transferrin saturation < 20% and serum ferritin > 100 ng/mL).
 
 ---
 
-### Hemochromatosis classification: update and recommendations by the BIOIRON society [^3391ebae]. Blood (2022). Medium credibility.
+### Hemochromatosis classification: update and recommendations by the BIOIRON society [^112KTP8q]. Blood (2022). Medium credibility.
 
 The current clinical scenario
 
@@ -640,19 +640,19 @@ The glycoprotein transferrin is the extracellular carrier of iron that is detect
 
 ---
 
-### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^4caae876]. British Journal of Haematology (2024). High credibility.
+### Identification and management of preoperative anaemia in adults: a British Society for Haematology guideline update [^112xfTyX]. British Journal of Haematology (2024). High credibility.
 
 Regarding perioperative care for perioperative bleeding, more specifically with respect to management of preoperative anemia (thresholds), BSH 2024 guidelines recommend to view ferritin levels of 30–100 mcg/L with a low transferrin saturation (< 20%) as indicative of possible iron depletion or deficiency in the context of inflammation that may benefit from iron supplementation.
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^4a99ef5f]. Journal of Hepatology (2022). High credibility.
+### EASL clinical practice guidelines on haemochromatosis [^112ubnkW]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to genetic testing, EASL 2022 guidelines recommend to obtain genotyping for p.C282Y in HFE in patients of European origin with biochemical evidence of iron overload (females with transferrin saturation > 45% and serum ferritin > 200 mcg/L and males with transferrin saturation > 50% and ferritin > 300 mcg/L, or otherwise unexplained persistently elevated transferrin saturation) with or without clinical signs or symptoms suggestive of hemochromatosis.
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^bd1722d6]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^115qLRzM]. BMJ (2024). Excellent credibility.
 
 Possible explanations and implications for clinicians and policy makers
 
@@ -660,14 +660,14 @@ Several guidelines on testing for haemochromatosis recommend genotyping patients
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^527bed86]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^1137HcRB]. BMJ (2024). Excellent credibility.
 
 Fig 3
 Relative risk of diabetes for C282Y homozygotes (C282Y/C282Y) compared with non-carriers for both C282Y and H63D (non-carrier/non-carrier) stratified according to levels of plasma iron, transferrin saturation, and ferritin at study enrolment, adjusted for age and sex. Diabetes was defined as any hospital contact with diabetes (inpatient admission, emergency department visit, or outpatient visit) at any time before or after study enrolment. Analysis excludes individuals (n = 11 C282Y homozygotes) with diagnosis of haemochromatosis at study enrolment to exclude that levels of iron, transferrin saturation, or ferritin in blood samples obtained at study enrolment were affected by previous therapeutic phlebotomy. Normal iron was defined as iron 9–34 µmol/L and high iron as > 34 µmol/L. Normal transferrin saturation was defined as 10–45% for women aged ≤ 50 years and 15–45% for women > 50 and men regardless of age. High transferrin saturation was defined as > 45% for both sexes. Normal ferritin was defined as ferritin 12–200 µg/L for women and 12–300 µg/L for men and high ferritin as > 200 µg/L for women and > 300 µg/L for men. As very few C282Y homozygotes had low levels of iron, transferrin saturation, or ferritin, individuals with low levels of iron, transferrin saturation, or ferritin were excluded from analysis stratified for specific parameter that was low. Owing to Danish regulations on data privacy, fewer than 3 individuals with diabetes in a column is reported as " < 3" but risk estimates were calculated using exact numbers. CI = confidence interval
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^61bba39a]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^113Vtpqf]. BMJ (2024). Excellent credibility.
 
 Introduction
 
@@ -677,13 +677,13 @@ Previous studies have found increased risk of liver cirrhosis, liver cancer, and
 
 ---
 
-### Diagnosis and management of hemochromatosis: 2011 practice guideline by the American Association for the Study of Liver Diseases [^c522047e]. Hepatology (2011). Medium credibility.
+### Diagnosis and management of hemochromatosis: 2011 practice guideline by the American Association for the Study of Liver Diseases [^1163FzER]. Hepatology (2011). Medium credibility.
 
 Hemochromatosis diagnostic and initial management algorithm (Fig. 3) outlines stepwise testing beginning with serum transferrin saturation (TS) and ferritin; patients with "TS < 45% and normal ferritin" have "No further evaluation", whereas "TS ≥ 45% and/or elevated ferritin" prompts genotyping and branching such that "Ferritin < 1000 μg/L and normal liver enzymes" leads to "Therapeutic phlebotomy", while "Ferritin > 1000 μg/L or elevated liver enzymes" leads to "Liver biopsy for HIC (hepatic iron concentration) and histopathology"; for the alternative genotype pathway labeled "Compound heterozygote C282Y/H63D C282Y heterozygote or non-C282Y", the action is to "Exclude other liver or hematologic diseases. ± Liver biopsy".
 
 ---
 
-### Iron deficiency resolution and time to resolution in an American health system [^9628a1b4]. Blood Advances (2024). Medium credibility.
+### Iron deficiency resolution and time to resolution in an American health system [^114qcnqh]. Blood Advances (2024). Medium credibility.
 
 Introduction
 
@@ -695,7 +695,7 @@ These structural challenges likely contribute to a high prevalence of clinically
 
 ---
 
-### Iron deficiency across chronic inflammatory conditions: international expert opinion on definition, diagnosis, and management [^018ca84b]. American Journal of Hematology (2017). Low credibility.
+### Iron deficiency across chronic inflammatory conditions: international expert opinion on definition, diagnosis, and management [^1113JEWW]. American Journal of Hematology (2017). Low credibility.
 
 Figure 2
 Diagnostic algorithm: iron deficiency in chronic heart failure. *Look for other causes of anemia and treat accordingly. Hb, haemoglobin; IV, intravenous; NYHA, New York Heart Association; SF, serum ferritin; TSAT, transferrin saturation
@@ -708,31 +708,31 @@ Diagnostic algorithm: iron deficiency in inflammatory bowel disease. *Look for o
 
 ---
 
-### 2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure [^d110eb2d]. European Heart Journal (2021). High credibility.
+### 2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure [^116Lx6Vz]. European Heart Journal (2021). High credibility.
 
 Regarding diagnostic investigations for heart failure, more specifically with respect to laboratory evaluation, ESC 2021 guidelines recommend to obtain periodic screening for anemia and iron deficiency with a CBC, serum ferritin concentration, and transferrin saturation in all patients with HF.
 
 ---
 
-### Disorders of iron metabolism. part II: iron deficiency and iron overload [^db826852]. Journal of Clinical Pathology (2011). Low credibility.
+### Disorders of iron metabolism. part II: iron deficiency and iron overload [^116cS6G1]. Journal of Clinical Pathology (2011). Low credibility.
 
 MAIN DISORDERS OF IRON METABOLISM: Increased iron requirements, limited external supply, and increased blood loss may lead to iron deficiency (ID) and iron deficiency anaemia. In chronic inflammation, the excess of hepcidin decreases iron absorption and prevents iron recycling, resulting in hypoferraemia and iron restricted erythropoiesis, despite normal iron stores (functional iron deficiency), and finally anaemia of chronic disease (ACD), which can evolve to ACD plus true ID (ACD+ID). In contrast, low hepcidin expression may lead to hereditary haemochromatosis (HH type I, mutations of the HFE gene) and type II (mutations of the hemojuvelin and hepcidin genes). Mutations of transferrin receptor 2 lead to HH type III, whereas those of the ferroportin gene lead to HH type IV. All these syndromes are characterised by iron overload. As transferrin becomes saturated in iron overload states, non-transferrin bound iron appears. Part of this iron is highly reactive (labile plasma iron), inducing free radical formation. Free radicals are responsible for the parenchymal cell injury associated with iron overload syndromes. ROLE OF LABORATORY TESTING IN DIAGNOSIS: In iron deficiency status, laboratory tests may provide evidence of iron depletion in the body or reflect iron deficient red cell production. Increased transferrin saturation and/or ferritin levels are the main cues for further investigation of iron overload. The appropriate combination of different laboratory tests with an integrated algorithm will help to establish a correct diagnosis of iron overload, iron deficiency and anaemia. REVIEW OF TREATMENT OPTIONS: Indications, advantages and side effects of the different options for treating iron overload (phlebotomy and iron chelators) and iron deficiency (oral or intravenous iron formulations) will be discussed.
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^ad8d52c4]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^115SJKxF]. BMJ (2024). Excellent credibility.
 
 To examine whether current clinical guidelines on testing for haemochromatosis adequately identify C282Y homozygotes at increased risk of diabetes by recommending testing only in individuals with high transferrin saturation and/or high ferritin, we examined risk of diabetes stratified by levels of iron, transferrin saturation, and ferritin. For this stratified analysis, we excluded individuals (n = 11 C282Y homozygotes) with a diagnosis of haemochromatosis at study enrolment to exclude that levels of iron, transferrin saturation, or ferritin in the blood samples obtained at study enrolment were affected by previous therapeutic phlebotomy. Importantly, we found an increased risk of diabetes even in C282Y homozygotes with normal levels of transferrin saturation (hazard ratio for diabetes 2.00 (95% CI 1.04 to 3.84) when comparing C282Y homozygotes with normal transferrin saturation and non-carriers with normal transferrin saturation), normal concentrations of ferritin (3.76, 1.41 to 10.05), or normal levels of both ferritin and transferrin saturation (6.49, 2.09 to 20.18) (fig 3). For C282Y homozygotes with normal iron, risk of diabetes was less pronounced (hazard ratio 1.38, 0.91 to 2.09). Results were similar to those described above if we excluded not only individuals with a diagnosis of haemochromatosis before study enrolment but instead those (n = 78 C282Y homozygotes) with a diagnosis of haemochromatosis at any time before or after study enrolment (data not shown). As diabetes could be diagnosed either before or after blood samples were obtained at study enrolment, figure 4 illustrates when diabetes was diagnosed and the median time between study enrolment and diagnosis of diabetes in C282Y homozygotes and non-carriers with normal levels of iron, transferrin saturation, and ferritin. When we restricted the analysis to C282Y homozygotes, the median time from diabetes to study enrolment for C282Y homozygotes with a diagnosis of diabetes before study enrolment was 4.9 years and the median time from study enrolment to diabetes for C282Y homozygotes with a diagnosis of diabetes after study enrolment was 4.2 years.
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^9168f25f]. Journal of Hepatology (2022). High credibility.
+### EASL clinical practice guidelines on haemochromatosis [^114iaTPc]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to genetic testing, EASL 2022 guidelines recommend to obtain genetic testing for hemochromatosis, after informed consent for genetic testing has been obtained, in patients with clinical and biochemical signs of hemochromatosis, elevated transferrin saturation and high serum ferritin concentrations, or otherwise unexplained persistently elevated transferrin saturation.
 
 ---
 
-### EMQN best practice guidelines for molecular and haematology methods for carrier identification and prenatal diagnosis of the haemoglobinopathies [^0bbef3fc]. European Journal of Human Genetics (2015). Low credibility.
+### EMQN best practice guidelines for molecular and haematology methods for carrier identification and prenatal diagnosis of the haemoglobinopathies [^111JR1Ab]. European Journal of Human Genetics (2015). Low credibility.
 
 Iron (Fe) status
 
@@ -742,7 +742,7 @@ The interpretation of all three parameters should be done with some caution. Mea
 
 ---
 
-### Guidelines on the diagnosis and treatment of iron deficiency across indications: a systematic review [^e471c185]. The American Journal of Clinical Nutrition (2015). Low credibility.
+### Guidelines on the diagnosis and treatment of iron deficiency across indications: a systematic review [^116qgPPz]. The American Journal of Clinical Nutrition (2015). Low credibility.
 
 Background
 
@@ -766,19 +766,19 @@ It appears that for the diagnosis of ID, a cutoff of 100 μg/L for serum ferriti
 
 ---
 
-### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^d697e824]. BMC Nephrology (2025). High credibility.
+### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^116V9Nh1]. BMC Nephrology (2025). High credibility.
 
 Regarding medical management for anemia of chronic kidney disease, more specifically with respect to iron therapy, monitoring, UKKA 2025 guidelines recommend to monitor iron status every 1–3 months in patients receiving IV iron to avoid toxicity (serum ferritin of > 800 mcg/L or transferrin saturation > 40%). View serum ferritin consistently > 800 mcg/L with no evidence of inflammation (normal CRP) as suggestive of iron overload. (1B).
 
 ---
 
-### Critical re-evaluation of the identification of iron deficiency States and effective iron repletion strategies in patients with chronic heart failure [^14248845]. European Journal of Heart Failure (2024). Medium credibility.
+### Critical re-evaluation of the identification of iron deficiency States and effective iron repletion strategies in patients with chronic heart failure [^111Ws2Lt]. European Journal of Heart Failure (2024). Medium credibility.
 
 According to current guidelines, iron deficiency is defined by a serum ferritin level < 100ng/ml or a transferrin saturation (TSAT) < 20% if the serum ferritin level is 100–299μg/L. These criteria were developed to encourage the use of intravenous iron as an adjunct to erythropoiesis-stimulating agents in the treatment of renal anaemia. However, in patients with heart failure, these criteria are not supported by any pathophysiological or clinical evidence that they identify an absolute or functional iron deficiency state. A low baseline TSAT-but not serum ferritin level-appears to be a reliable indicator of the effect of intravenous iron to reduce major heart failure events. In randomized controlled trials, intravenous iron decreased the risk of cardiovascular death or total heart failure hospitalization in patients with a TSAT < 20% (risk ratio 0.67 [0.49–0.92]) but not in patients with a TSAT ≥ 20% (risk ratio 0.99 [0.74–1.30]), with the magnitude of the risk reduction being proportional to the severity of hypoferraemia. Patients who were enrolled in clinical trials solely because they had a serum ferritin level < 100μg/L showed no significant benefit on heart failure outcomes, and it is noteworthy that serum ferritin levels of 20–300μg/L lie entirely within the range of normal values for healthy adults. Current guidelines reflect the eligibility criteria of clinical trials, which inadvertently adopted unvalidated criteria to define iron deficiency. Reliance on these guidelines would lead to the treatment of many patients who are not iron deficient (serum ferritin level < 100μg/L but normal TSAT) and ignores the possibility of iron deficiency in patients with a low TSAT but with serum ferritin level of > 300μg/L. Importantly, analyses of benefit based on trial eligibility-driven guidelines substantially underestimate the magnitude of heart-failure-event risk reduction with intravenous iron in patients who are truly iron deficient. Based on all available data, we recommend a new mechanism-based and trial-tested approach that reflects the totality of evidence more faithfully than the historical process adopted by clinical investigators and by the guidelines. Until additional evidence is forthcoming, an iron deficiency state in patients with heart failure should be defined by a TSAT < 20% (as long as the serum ferritin level is < 400μg/L), and furthermore, the use of a serum ferritin level < 100μg/L alone as a diagnostic criterion should be discarded.
 
 ---
 
-### Screening primary care patients for hereditary hemochromatosis with transferrin saturation and serum ferritin level: systematic review for the American College of Physicians [^f1a8dbdd]. Annals of Internal Medicine (2005). Low credibility.
+### Screening primary care patients for hereditary hemochromatosis with transferrin saturation and serum ferritin level: systematic review for the American College of Physicians [^117BGjYx]. Annals of Internal Medicine (2005). Low credibility.
 
 Background
 
@@ -814,50 +814,50 @@ The available evidence does not demonstrate that benefits outweigh the risks and
 
 ---
 
-### Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline [^69736b19]. Journal of Clinical Sleep Medicine (2025). High credibility.
+### Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline [^113hLU7z]. Journal of Clinical Sleep Medicine (2025). High credibility.
 
 Regarding diagnostic investigations for restless legs syndrome, more specifically with respect to serum iron tests, AASM 2025 guidelines recommend to obtain serum iron studies, including ferritin and transferrin saturation (calculated from iron and total iron binding capacity), ideally in the morning, avoiding all iron-containing supplements and foods for at least 24 hours befrore the blood draw, in all patients with clinically significant RLS.
 
 ---
 
-### Early detection of type 1 haemochromatosis: a case of normal ferritin levels with elevated transferrin saturation [^bbbc53cd]. BMJ Case Reports (2025). High credibility.
+### Early detection of type 1 haemochromatosis: a case of normal ferritin levels with elevated transferrin saturation [^115oKwcQ]. BMJ Case Reports (2025). High credibility.
 
 Haemochromatosis is marked by excessive iron accumulation leading to damage to various organs. Although haemochromatosis dates to 1865, diagnosing the condition remains challenging due to its non-specific symptoms and due to its quiescent course, it often leads to significant delay in recognition. A woman in her 50s who presented with arthralgia was found to have raised transferrin saturation with normal ferritin. She underwent human homeostatic iron regulator protein (HFE) genetic screening test which showed H63D type 1 haemochromatosis. This report aims to draw attention to the pitfalls in diagnosing haemochromatosis as normal ferritin does not exclude hereditary haemochromatosis.
 
 ---
 
-### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^c8cedb7c]. BMJ (2024). Excellent credibility.
+### Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosisC282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study [^1168i1GX]. BMJ (2024). Excellent credibility.
 
 Fig 4
 Graphical curves illustrating risk of diabetes by showing proportion of individuals without diabetes as function of time for C282Y homozygotes (C282Y/C282Y) and non-carriers (non-carrier/non-carrier) with normal levels of iron, transferrin saturation, or ferritin and for C282Y homozygotes and non-carriers with normal levels of both ferritin and transferrin saturation. Curves depict proportion of individuals without diabetes estimated using Cox proportional hazards model on risk of diabetes. Diabetes was defined as any hospital contact with diabetes (inpatient admission, emergency department visit, or outpatient visit) at any time before or after study enrolment. Analysis excludes individuals with diagnosis of haemochromatosis at study enrolment to exclude that levels of iron, transferrin saturation, or ferritin in blood samples obtained at study enrolment were affected by previous therapeutic phlebotomy. Arrows on x axis mark median time from diabetes to study enrolment for individuals with diagnosis of diabetes before study enrolment and median time from study enrolment to diabetes for individuals with diagnosis of diabetes after study enrolment. P values are from log-rank test comparing C282Y homozygotes (C282Y/C282Y) with non-carriers for both C282Y and H63D (non-carrier/non-carrier)
 
 ---
 
-### Iron deficiency screening is a key issue in chronic inflammatory diseases: a call to action [^06ecb830]. Journal of Internal Medicine (2022). Medium credibility.
+### Iron deficiency screening is a key issue in chronic inflammatory diseases: a call to action [^111BGSMm]. Journal of Internal Medicine (2022). Medium credibility.
 
 Iron deficiency is frequent in patients with chronic inflammatory conditions (e.g., chronic heart failure, chronic kidney disease, cancers, and bowel inflammatory diseases). Indeed, high concentrations of inflammatory cytokines increase hepcidin concentrations that lead to the sequestration of iron in cells of the reticuloendothelial system (functional iron deficiency). Iron parameters are often assessed only in the context of anemia, but iron deficiency, even without anemia, is present in about half of patients with inflammatory conditions. Iron deficiency worsens underlying chronic diseases and is an independent factor of morbidity and mortality. In daily practice, the most effective biomarkers of iron status are serum ferritin, which reflects iron storage, and transferrin saturation, which reflects the transport of iron. Serum ferritin is increased in an inflammatory context, and there is still no consensus on the threshold to be used in chronic inflammatory conditions. Nevertheless, recent recommendations of international guidelines agreed to define iron deficiency by serum ferritin < 100 µg/L and/or transferrin saturation < 20%. Iron parameters remain, however, insufficiently assessed in patients with chronic inflammatory conditions. Indeed, clinical symptoms of iron deficiency, such as fatigue, are not specific and often confused with those of the primary disease. Iron repletion, preferably by the intravenous route to bypass tissue sequestration, improves clinical signs and quality of life. Because of the negative impact of iron deficiency on chronic inflammatory diseases and the efficacy of intravenous iron repletion, screening of iron parameters should be part of the routine examination of all patients with chronic inflammatory diseases.
 
 ---
 
-### 2018 AHA / ACC guideline for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^44d35610]. Circulation (2019). High credibility.
+### 2018 AHA / ACC guideline for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^112m39Km]. Circulation (2019). High credibility.
 
 Adults with congenital heart disease — cyanosis, iron deficiency, and erythrocytosis management: The guideline clarifies usage that "cyanosis" is used to denote hypoxemia from right-to-left shunting and emphasizes hematologic assessment in cyanotic patients: "Iron deficiency is frequently encountered in cyanotic individuals", and "Iron deficiency requires assessment of serum iron, ferritin, and transferrin levels, because mean corpuscular volume is not a reliable screening test". Limited evidence supports iron repletion when "treatment of transferrin saturation < 20% with iron supplementation until iron stores are replete can be done safely". Regarding hyperviscosity management, "Phlebotomy is, therefore, rarely necessary in patients with secondary erythrocytosis, and routine phlebotomy is not supported by data".
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^1f207872]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^111o9XK7]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding diagnostic investigations for Crohn's disease, more specifically with respect to evaluation of anemia, ECCO 2015 guidelines recommend to diagnose anemia of chronic disease in the presence of serum ferritin > 100 mcg/L and transferrin saturation < 20% in patients with biochemical or clinical evidence of inflammation.
 
 ---
 
-### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^d293ab36]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^116PBzzy]. Gastroenterology (2020). High credibility.
 
 Iron deficiency anemia — ferritin thresholds and adjunctive testing: Based on a systematic review of 55 studies, a ferritin threshold value of < 45 ng/mL has a sensitivity for iron deficiency of 85% (95% confidence interval [CI] 82%–87%) with a specificity of 92% (95% CI, 91%–94%), whereas a ferritin value of < 15 ng/mL has a sensitivity of 59% (95% CI, 55%–62%) and specificity of 99% (95% CI, 98%–99%). A ferritin threshold value of < 45 ng/mL was believed to maximize sensitivity for the diagnosis of IDA with an acceptable number of false-positive diagnoses, and the tradeoff between higher sensitivity and lower specificity using a threshold of 45 ng/mL instead of 15 ng/mL was believed to provide an acceptable balance of benefits of fewer missed diagnoses compared with potential harms of additional diagnostic evaluations. In some patients, such as those with chronic inflammatory conditions or chronic kidney disease, ferritin levels may not accurately reflect body iron stores and other clinical tests, such as the serum iron, transferrin saturation, soluble transferrin receptor, or C-reactive protein, may be useful adjunctive tests to assist in the diagnosis of iron deficiency.
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^1a917753]. Gut (2021). Medium credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^111gPYEe]. Gut (2021). Medium credibility.
 
 Functional iron deficiency
 
@@ -873,26 +873,26 @@ Given that chronic inflammatory conditions are common and that SF values may the
 
 ---
 
-### 2018 AHA / ACC guideline for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^12a7ea7c]. Journal of the American College of Cardiology (2019). High credibility.
+### 2018 AHA / ACC guideline for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^111UfBLf]. Journal of the American College of Cardiology (2019). High credibility.
 
 Cyanosis in adult congenital heart disease (ACHD) — definition, evaluation, and iron management: The definition of cyanosis is "bluish discoloration of the skin and/or mucous membranes resulting from inadequate oxygenation of the blood", and for cyanosis to be visible, at least 5 g/L of unsaturated hemoglobin in tissue is needed. Cyanotic heart disease encompasses a widely heterogeneous group; therefore, an individualized approach is needed for each patient according to the clinical details. Secondary erythrocytosis and polycythemia are fundamentally different conditions that require different treatments. Iron deficiency is frequently encountered in cyanotic individuals; consequences may include stroke and myocardial ischemia, and iron deficiency requires assessment of serum iron, ferritin, and transferrin levels because mean corpuscular volume is not a reliable screening test. Limited data suggest that treatment of transferrin saturation < 20% with iron supplementation until iron stores are replete can be done safely.
 
 ---
 
-### EASL clinical practice guidelines on haemochromatosis [^0514c49d]. Journal of Hepatology (2022). High credibility.
+### EASL clinical practice guidelines on haemochromatosis [^1118Xv1A]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to iron panel, EASL 2022 guidelines recommend to consider obtaining serum iron and transferrin or TIBC for additional information for the differential diagnosis.
 
 ---
 
-### EASL clinical practice guidelines for HFE hemochromatosis [^9e8a5cac]. Journal of Hepatology (2010). Medium credibility.
+### EASL clinical practice guidelines for HFE hemochromatosis [^11543X31]. Journal of Hepatology (2010). Medium credibility.
 
 Regarding diagnostic investigations for hereditary hemochromatosis, more specifically with respect to genetic testing, EASL 2010 guidelines recommend to obtain HFE testing for the C282Y and H63D polymorphism in all patients with otherwise unexplained increased serum ferritin and increased transferrin saturation.
 Obtain HFE testing only in patients with increased transferrin saturation.
 
 ---
 
-### The mortality risk of elevated serum transferrin saturation and consumption of dietary iron [^51a9d83b]. Annals of Family Medicine (2004). Low credibility.
+### The mortality risk of elevated serum transferrin saturation and consumption of dietary iron [^113653fg]. Annals of Family Medicine (2004). Low credibility.
 
 Background
 
@@ -912,19 +912,19 @@ Ingestion of large quantities of dietary iron and red meat in persons with high 
 
 ---
 
-### How can sodium-glucose cotransporter 2 inhibitors stimulate erythrocytosis in patients who are iron-deficient? Implications for understanding iron homeostasis in heart failure [^00002e76]. European Journal of Heart Failure (2022). Medium credibility.
+### How can sodium-glucose cotransporter 2 inhibitors stimulate erythrocytosis in patients who are iron-deficient? Implications for understanding iron homeostasis in heart failure [^111114Y5]. European Journal of Heart Failure (2022). Medium credibility.
 
 In addition to their effects of hepcidin, activation of oxidative stress and proinflammatory pathways in heart failure can promote the synthesis of ferritin, independent of the level of cytosolic iron. Additionally, the suppression of sirtuin‐1 (SIRT1) in heart failurecan impair autophagic flux, thus limiting the ability of ferritinophagy to replete cytosolic Fe 2+ levels. As a result, the expected relationship between cytosolic Fe 2+ and ferritin levels is disrupted, leading to ferritin levels that are disproportionately higher than the level of cytosolic Fe 2+, and undermining their ability to identify patients with iron depletion. Accordingly, the threshold for serum ferritin used for the diagnosis of iron‐deficiency anaemia is shifted to a substantially higher level in patients with heart failure (to 300–600 ng/ml), and it is coupled with the requirement for a transferrin saturation < 20%. However, the adequacy of this criterion adjustment for serum ferritin has been questioned. In one study, patients with heart failure and an absolute iron deficiency often had normal serum levels of ferritin, and in other reports, myocardial (but not serum) levels of ferritin reflected the presence of cardiac iron deficiency in experimental and clinical heart failure. Furthermore, inflammation and nutritional status can influence transferrin levels, thus complicating the interpretation of transferrin saturation in heart failure.
 
 ---
 
-### Screening of iron deficiency anaemia in early childhood [^6e7f0331]. BMC Pediatrics (2021). Medium credibility.
+### Screening of iron deficiency anaemia in early childhood [^113ppJQG]. BMC Pediatrics (2021). Medium credibility.
 
 According to USPSTF review, there is a lack of data evaluating the sensitivity and specificity of other single tests for the detection of iron deficiency, such as serum ferritin, transferrin saturation, erythrocyte protoporphyrin, and CRP. Serum ferritin and CRP are acute phase reactants, and should therefore be measured in absence of infection or inflammation to avoid false positive results. Serum ferritin is however considered as a 'useful laboratory measure of iron status, with a low value being diagnostic of iron deficiency'. In 2007, the WHO and the CDC published a report on the assessment of the iron status in populations. This document was the result of a consultation that aimed to review and select the best indicators available to assess the iron status of populations and to evaluate the impact of interventions to control ID. The authors reviewed the literature on indicators of iron status, 'including red blood cell parameters, ferritin, free erythrocyte protoporphyrin, serum and plasma iron, total iron binding capacity, transferrin saturation and serum transferrin receptor' and on the interpretation of indicators of iron status during an acute phase response. The authors reached the conclusions for recommendations that 'measurements of serum ferritin and transferrin receptor provide the best approach to measuring the iron status of populations', although 'in places where infectious diseases are common, serum ferritin is not a useful indicator because inflammation leads to a rise in the concentration of serum ferritin as a result of the acute phase response to disease'. Also, 'serum ferritin is the best indicator of a response to an intervention to control iron deficiency and should be measured with the haemoglobin concentration in all programme evaluations'. Although this review and recommendations were focused to assess the iron status in populations, findings might be considered for application to IDA screening.
 
 ---
 
-### Renal association clinical practice guideline on anaemia of chronic kidney disease [^0d6fd09e]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline on anaemia of chronic kidney disease [^111LvPzd]. BMC Nephrology (2017). Low credibility.
 
 When adequate iron status is achieved, CKD patients on ESA therapy should be given maintenance iron treatment.
 Several studies have reported that the dose of ESA required to achieve and maintain a given Hb level is inversely related to iron stores. Iron deficiency (absolute or functional) was the main cause of ESA resistance in the UK but this has now been solved by parenteral iron replacement strategies. The evidence behind the statement that TSAT generally should be maintained at greater than 20% stems from a single RCT comparing higher to lower TSAT targets; patients randomized to a target TSAT of 30% to 50% demonstrated a 40% reduction in ESA dose compared with those assigned to a target of 20% to 30%.
@@ -942,13 +942,13 @@ NICE guidelines on anaemia management in CKD patients suggest to:
 
 ---
 
-### KDIGO clinical practice guideline for anemia in chronic kidney disease [^300662c8]. KDIGO (2012). Medium credibility.
+### KDIGO clinical practice guideline for anemia in chronic kidney disease [^112ECYw9]. KDIGO (2012). Medium credibility.
 
 KDIGO anemia in chronic kidney disease — initiation of iron therapy: For anemic chronic kidney disease (CKD) patients who have not been receiving iron, we suggest iron administration when transferrin saturation (TSAT) is < 30% and serum ferritin is < 500 ng/ml (< 500 μg/l) if an increase in hemoglobin (Hb) level is desired, particularly to avoid transfusions, reduce anemia-related symptoms, and/or reduce erythropoiesis-stimulating agent (ESA) dose after considering risks. In patients receiving iron, exclude the presence of active infection before embarking on a course of intravenous (IV) iron treatment.
 
 ---
 
-### Iron deficiency across chronic inflammatory conditions: international expert opinion on definition, diagnosis, and management [^7f7d9730]. American Journal of Hematology (2017). Low credibility.
+### Iron deficiency across chronic inflammatory conditions: international expert opinion on definition, diagnosis, and management [^114G1cVV]. American Journal of Hematology (2017). Low credibility.
 
 1.8 Diagnosis of iron deficiency in chronic inflammatory conditions
 

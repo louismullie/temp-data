@@ -15,29 +15,29 @@ Best anxiety med for hospice outside of Ativan
 
 > Let's see… What do we have here? The user is asking which medication is the best alternative to lorazepam (Ativan) for treating anxiety in hospice care. Let's break this down step-by-step. First, I need to think about the clinical context and why lorazepam is typically used. Then, I should verify what high-quality guidelines and evidence say about alternatives. Next, I will examine the pharmacologic options with rapid onset and practical routes, especially midazolam. After that, I need to weigh risks, including respiratory depression and delirium, and consider special populations like dementia. Finally, I will synthesize a recommendation and outline dosing, monitoring, and when to avoid benzodiazepines altogether.
 
-> Let me first confirm the clinical context and why lorazepam is common in hospice. Anxiety in hospice is often acute, severe, and intertwined with dyspnea, delirium, or existential distress, so clinicians prioritize rapid-onset, titratable agents with multiple routes; lorazepam fits this profile with SL, IV, and IM options and a relatively intermediate half-life, which is why it appears frequently in hospice order sets and prehospital protocols [^5bbffb83] [^db974b85].
+> Let me first confirm the clinical context and why lorazepam is common in hospice. Anxiety in hospice is often acute, severe, and intertwined with dyspnea, delirium, or existential distress, so clinicians prioritize rapid-onset, titratable agents with multiple routes; lorazepam fits this profile with SL, IV, and IM options and a relatively intermediate half-life, which is why it appears frequently in hospice order sets and prehospital protocols [^113M2MmL] [^116cZ7BS].
 
-> Wait, let me verify the evidence base for pharmacologic treatment of anxiety specifically in palliative care. The Cochrane reviews repeatedly conclude there is insufficient evidence to draw firm conclusions about drug therapy for anxiety in adult palliative care, underscoring that practice is largely consensus- and guideline-driven rather than supported by robust RCTs, which means I need to be cautious and align with guideline consensus rather than overstate any single agent's superiority [^2b0b801f] [^3cbfe70d] [^8a5bea98].
+> Wait, let me verify the evidence base for pharmacologic treatment of anxiety specifically in palliative care. The Cochrane reviews repeatedly conclude there is insufficient evidence to draw firm conclusions about drug therapy for anxiety in adult palliative care, underscoring that practice is largely consensus- and guideline-driven rather than supported by robust RCTs, which means I need to be cautious and align with guideline consensus rather than overstate any single agent's superiority [^1126pLAa] [^112Z4iUL] [^114Y8AZm].
 
-> I will now examine the most plausible alternative with rapid onset and flexible routes: midazolam. Guidelines and practice patterns consistently list midazolam as a first-line anxiolytic in hospice alongside lorazepam, with dosing such as 4 mg IV every 30 minutes PRN for anxiety or respiratory distress, and infusion options for refractory symptoms; its water solubility, rapid IV/SC/IM onset, and short half-life make it highly titratable at end of life, including for dyspnea-related anxiety and palliative sedation when indicated [^db974b85] [^cd4241ee] [^e9fbf2b6] [^a872edd1].
+> I will now examine the most plausible alternative with rapid onset and flexible routes: midazolam. Guidelines and practice patterns consistently list midazolam as a first-line anxiolytic in hospice alongside lorazepam, with dosing such as 4 mg IV every 30 minutes PRN for anxiety or respiratory distress, and infusion options for refractory symptoms; its water solubility, rapid IV/SC/IM onset, and short half-life make it highly titratable at end of life, including for dyspnea-related anxiety and palliative sedation when indicated [^116cZ7BS] [^116FJia9] [^116ytk1K] [^115JjXLk].
 
-> Hold on, let's not jump to conclusions about efficacy. I initially thought midazolam had stronger evidence for anxiety per se, but I should double-check. The ASCO dyspnea guideline supports short-acting benzodiazepines for dyspnea-related anxiety after opioids and nonpharmacologic measures, and ESMO suggests benzodiazepines with caution for breathlessness with anxiety; however, a randomized intranasal midazolam trial for dyspnea showed no benefit over placebo, reminding me that evidence is mixed and patient selection matters, especially regarding baseline anxiety and the anxiolytic component of breathlessness relief [^e9fbf2b6] [^50544b5d] [^d1beeef4].
+> Hold on, let's not jump to conclusions about efficacy. I initially thought midazolam had stronger evidence for anxiety per se, but I should double-check. The ASCO dyspnea guideline supports short-acting benzodiazepines for dyspnea-related anxiety after opioids and nonpharmacologic measures, and ESMO suggests benzodiazepines with caution for breathlessness with anxiety; however, a randomized intranasal midazolam trial for dyspnea showed no benefit over placebo, reminding me that evidence is mixed and patient selection matters, especially regarding baseline anxiety and the anxiolytic component of breathlessness relief [^116ytk1K] [^11346KjS] [^116MxYaf].
 
-> Next, I should review safety and drug–drug interactions. Benzodiazepines carry boxed warnings with opioids for profound sedation and respiratory depression; thus, if used with opioids, I need to use the lowest effective doses, minimize duration, and monitor closely, which is particularly salient in frail older adults and those with compromised respiration; observational data in hospice cohorts suggest combined use can be safe when carefully titrated, but I must balance this against guideline cautions and individual risk [^8b6edab3] [^7e3e4122] [^a7362874].
+> Next, I should review safety and drug–drug interactions. Benzodiazepines carry boxed warnings with opioids for profound sedation and respiratory depression; thus, if used with opioids, I need to use the lowest effective doses, minimize duration, and monitor closely, which is particularly salient in frail older adults and those with compromised respiration; observational data in hospice cohorts suggest combined use can be safe when carefully titrated, but I must balance this against guideline cautions and individual risk [^114ZiWne] [^114EAMKf] [^115Gu89R].
 
-> But wait, what if the patient has dementia or is not imminently dying. I need to ensure I consider mortality and functional trade-offs. Recent high-quality data associate benzodiazepine initiation in hospice-enrolled patients with dementia with increased 180-day mortality, and clinicians report that sedation can impair communication and independence earlier in the trajectory; therefore, I should prefer nonpharmacologic strategies and reserve benzodiazepines for refractory distress or the final days, documenting goals of care and revisiting decisions frequently [^61f1dc88] [^4c675973] [^30c9d5e8].
+> But wait, what if the patient has dementia or is not imminently dying. I need to ensure I consider mortality and functional trade-offs. Recent high-quality data associate benzodiazepine initiation in hospice-enrolled patients with dementia with increased 180-day mortality, and clinicians report that sedation can impair communication and independence earlier in the trajectory; therefore, I should prefer nonpharmacologic strategies and reserve benzodiazepines for refractory distress or the final days, documenting goals of care and revisiting decisions frequently [^113WD3BD] [^112xGmpv] [^112FLCbq].
 
-> Let me consider other pharmacologic options when benzodiazepines are undesirable or ineffective. Haloperidol is often used for agitation and delirium and can be combined with lorazepam for severe agitated delirium; gabapentin may help anxiety with neuropathic pain or restlessness; and in selected cases, low-dose antipsychotics or even psychostimulants can be considered for comorbid symptoms, though evidence in terminal-phase anxiety is limited and onset may be too slow for acute relief, so these are second- or third-line adjuncts rather than replacements for rapid-onset anxiolysis [^403ed111] [^c441fb59].
+> Let me consider other pharmacologic options when benzodiazepines are undesirable or ineffective. Haloperidol is often used for agitation and delirium and can be combined with lorazepam for severe agitated delirium; gabapentin may help anxiety with neuropathic pain or restlessness; and in selected cases, low-dose antipsychotics or even psychostimulants can be considered for comorbid symptoms, though evidence in terminal-phase anxiety is limited and onset may be too slow for acute relief, so these are second- or third-line adjuncts rather than replacements for rapid-onset anxiolysis [^112eFJoa] [^1161xjfW].
 
-> I should confirm practical dosing and monitoring if midazolam is chosen. Typical PRN dosing uses 2–5 mg IV/SC/IM every 30–60 minutes with careful titration, and for refractory symptoms, continuous infusions around 2 mg/hour IV can be used with close observation; given rapid onset and redistribution, I need to reassess frequently, avoid stacking doses, and de-escalate as soon as symptoms permit, especially in combination with opioids [^db974b85] [^cd4241ee].
+> I should confirm practical dosing and monitoring if midazolam is chosen. Typical PRN dosing uses 2–5 mg IV/SC/IM every 30–60 minutes with careful titration, and for refractory symptoms, continuous infusions around 2 mg/hour IV can be used with close observation; given rapid onset and redistribution, I need to reassess frequently, avoid stacking doses, and de-escalate as soon as symptoms permit, especially in combination with opioids [^116cZ7BS] [^116FJia9].
 
-> Putting this together, I need to ensure the recommendation matches the clinical realities. Outside of lorazepam, midazolam is the most defensible first-line alternative for rapid anxiolysis in hospice because of its pharmacokinetics, guideline endorsement, and real-world utility, but I should frame this as a consensus-based choice with limited direct comparative evidence and emphasize nonpharmacologic measures, careful opioid co-prescribing, and individualized risk–benefit review, particularly in dementia or when prognosis extends beyond weeks [^db974b85] [^e9fbf2b6] [^8a5bea98].
+> Putting this together, I need to ensure the recommendation matches the clinical realities. Outside of lorazepam, midazolam is the most defensible first-line alternative for rapid anxiolysis in hospice because of its pharmacokinetics, guideline endorsement, and real-world utility, but I should frame this as a consensus-based choice with limited direct comparative evidence and emphasize nonpharmacologic measures, careful opioid co-prescribing, and individualized risk–benefit review, particularly in dementia or when prognosis extends beyond weeks [^116cZ7BS] [^116ytk1K] [^114Y8AZm].
 
-> Final synthesis: Midazolam is the best-supported alternative to lorazepam for anxiety in hospice when rapid-onset, titratable anxiolysis is needed, with typical PRN dosing of 2–5 mg IV/SC/IM every 30–60 minutes or infusion at 2 mg/hour for refractory symptoms, used cautiously with opioids and reserved for significant distress or the final days of life; I should document goals, monitor for oversedation and delirium, and pivot to nonpharmacologic strategies whenever feasible, especially in patients with dementia or longer expected survival [^db974b85] [^cd4241ee] [^e9fbf2b6] [^61f1dc88].
+> Final synthesis: Midazolam is the best-supported alternative to lorazepam for anxiety in hospice when rapid-onset, titratable anxiolysis is needed, with typical PRN dosing of 2–5 mg IV/SC/IM every 30–60 minutes or infusion at 2 mg/hour for refractory symptoms, used cautiously with opioids and reserved for significant distress or the final days of life; I should document goals, monitor for oversedation and delirium, and pivot to nonpharmacologic strategies whenever feasible, especially in patients with dementia or longer expected survival [^116cZ7BS] [^116FJia9] [^116ytk1K] [^113WD3BD].
 
 ---
 
-Midazolam is the **best alternative to lorazepam** for anxiety in hospice, with rapid onset, short duration, and multiple routes (IV, SC, IM, SL, buccal) for flexible titration [^db974b85] [^c8c83253]. It is **first-line in many hospice protocols** for anxiety and dyspnea-related anxiety, especially when rapid effect is needed [^db974b85] [^e9fbf2b6]. Diazepam is less favored due to longer half-life and active metabolites, and haloperidol is reserved for agitation or delirium rather than pure anxiety. Non-benzodiazepine options (e.g. gabapentin, hydroxyzine) are slower and less effective for acute anxiety, so midazolam remains the preferred alternative when lorazepam is not suitable [^c441fb59].
+Midazolam is the **best alternative to lorazepam** for anxiety in hospice, with rapid onset, short duration, and multiple routes (IV, SC, IM, SL, buccal) for flexible titration [^116cZ7BS] [^1168fmWJ]. It is **first-line in many hospice protocols** for anxiety and dyspnea-related anxiety, especially when rapid effect is needed [^116cZ7BS] [^116ytk1K]. Diazepam is less favored due to longer half-life and active metabolites, and haloperidol is reserved for agitation or delirium rather than pure anxiety. Non-benzodiazepine options (e.g. gabapentin, hydroxyzine) are slower and less effective for acute anxiety, so midazolam remains the preferred alternative when lorazepam is not suitable [^1161xjfW].
 
 ---
 
@@ -55,9 +55,9 @@ Key characteristics of benzodiazepine alternatives:
 
 ### Midazolam
 
-- **Pharmacokinetics**: Rapid onset (1–3 min IV), short duration (20–30 min), minimal active metabolites, and multiple routes (IV, SC, IM, SL, buccal) [^c8c83253].
-- **Clinical use**: First-line in hospice for anxiety and dyspnea-related anxiety; titratable infusion for refractory symptoms [^db974b85] [^cd4241ee].
-- **Guideline support**: Strong endorsement in hospice protocols and dyspnea guidelines for anxiety-related breathlessness [^db974b85] [^e9fbf2b6].
+- **Pharmacokinetics**: Rapid onset (1–3 min IV), short duration (20–30 min), minimal active metabolites, and multiple routes (IV, SC, IM, SL, buccal) [^1168fmWJ].
+- **Clinical use**: First-line in hospice for anxiety and dyspnea-related anxiety; titratable infusion for refractory symptoms [^116cZ7BS] [^116FJia9].
+- **Guideline support**: Strong endorsement in hospice protocols and dyspnea guidelines for anxiety-related breathlessness [^116cZ7BS] [^116ytk1K].
 
 ---
 
@@ -81,9 +81,9 @@ Non-benzodiazepine options such as gabapentin and hydroxyzine have **slower onse
 
 ## Clinical considerations and recommendations
 
-- **Patient-specific factors**: Renal/hepatic function, respiratory status, and comorbidities guide selection and dosing [^74a12c8c].
-- **Monitoring**: Close observation for sedation, respiratory depression, and delirium, especially with opioids or other CNS depressants [^8b6edab3].
-- **Nonpharmacologic interventions**: Environmental modifications, reassurance, and mindfulness should be used alongside medications [^5bbffb83].
+- **Patient-specific factors**: Renal/hepatic function, respiratory status, and comorbidities guide selection and dosing [^113yuhcX].
+- **Monitoring**: Close observation for sedation, respiratory depression, and delirium, especially with opioids or other CNS depressants [^114ZiWne].
+- **Nonpharmacologic interventions**: Environmental modifications, reassurance, and mindfulness should be used alongside medications [^113M2MmL].
 
 ---
 
@@ -93,7 +93,7 @@ Midazolam is the **preferred alternative to lorazepam** for anxiety in hospice d
 
 ## References
 
-### Lorazepam [^e4eec8e9]. FDA (2025). Medium credibility.
+### Lorazepam [^116rQP9z]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -103,19 +103,19 @@ The effectiveness of lorazepam in long-term use, that is, more than 4 months, ha
 
 ---
 
-### Palliative care best practices guidelines [^db974b85]. ACS (2017). Medium credibility.
+### Palliative care best practices guidelines [^116cZ7BS]. ACS (2017). Medium credibility.
 
 Palliative care best practices — anxiolysis/dyspnea injections allow either option: Lorazepam injection 1 mg IV every 1 hour as needed for anxiety or respiratory distress OR Midazolam injection 4 mg IV every 30 minutes as needed for anxiety or respiratory distress.
 
 ---
 
-### Best practices guidelines for acute pain management in trauma patients [^e490f1ae]. ACS (2020). High credibility.
+### Best practices guidelines for acute pain management in trauma patients [^116qrrzR]. ACS (2020). High credibility.
 
 Table 17 — anxiety management for opioid-naïve patients lists first-line lorazepam 1 mg IV q1hr PRN or midazolam 4 mg IV q30min PRN; special considerations advise to consider psychotherapy and complementary therapies and ensure prior psychiatric medications (or equivalent) are continued.
 
 ---
 
-### Drug therapy for anxiety in palliative care [^2b0b801f]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Drug therapy for anxiety in palliative care [^1126pLAa]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -147,7 +147,7 @@ There remains insufficient evidence to draw a conclusion about the effectiveness
 
 ---
 
-### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^7657a94d]. Journal of the American Geriatrics Society (2025). Medium credibility.
+### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^1142Sz2x]. Journal of the American Geriatrics Society (2025). Medium credibility.
 
 Theme 3: Discrepancies in perceived effectiveness of benzodiazepines and antipsychotics in treating behavioral symptoms
 
@@ -167,13 +167,13 @@ In contrast, most clinicians described benzodiazepines and antipsychotics as onl
 
 ---
 
-### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^50544b5d]. ESMO Open (2021). High credibility.
+### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^11346KjS]. ESMO Open (2021). High credibility.
 
 Regarding medical management for palliative care in patients with cancer, more specifically with respect to management of dyspnea, benzodiazepines, ESMO 2021 guidelines recommend to consider offering benzodiazepines with caution for relief of breathlessness with associated with anxiety if opioids are not effective.
 
 ---
 
-### Drug therapy for symptoms associated with anxiety in adult palliative care patients [^3cbfe70d]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Drug therapy for symptoms associated with anxiety in adult palliative care patients [^112Z4iUL]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -205,25 +205,25 @@ There remains insufficient evidence to draw a conclusion about the effectiveness
 
 ---
 
-### Should benzodiazepines be used for reducing dyspnea in patients with advanced illnesses? [^125a6267]. Journal of Pain and Symptom Management (2023). Medium credibility.
+### Should benzodiazepines be used for reducing dyspnea in patients with advanced illnesses? [^111UD8uL]. Journal of Pain and Symptom Management (2023). Medium credibility.
 
 Dyspnea is a common and highly distressing symptom in patients with advanced illnesses. Many patients continue to experience chronic dyspnea despite optimal management of underlying disease(s) and various non-pharmacologic interventions, necessitating the consideration of pharmacologic therapies for palliation of dyspnea. One commonly asked question by clinicians is whether benzodiazepines have a role in the palliation of dyspnea. In this "Controversies in Palliative Care" article, three groups of thought leaders independently answer this question. Specifically, each group provides a synopsis of the key studies that inform their thought processes, share practical advice on their clinical approach, and highlight the opportunities for future research. All three groups suggest that benzodiazepines alone do not confer a benefit for dyspnea in advanced illnesses based on existing data. They also expressed concerns about the potential adverse effects such as delirium and drowsiness and recommended against benzodiazepines as first line pharmacologic therapy. Some groups suggest that benzodiazepines may be used in highly selected patients with severe anxiety associated with dyspnea. Some investigators may also consider the adjunctive use of benzodiazepines in patients with severe dyspnea despite opioids, particularly if life expectancy is limited. Benzodiazepines also have a role in palliative sedation for refractory dyspnea in the last days of life. More research is needed to confirm the benefit of benzodiazepines in these populations.
 
 ---
 
-### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^75352077]. ESMO Open (2021). High credibility.
+### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^113zmPxz]. ESMO Open (2021). High credibility.
 
 Regarding medical management for dyspnea in palliative care, more specifically with respect to benzodiazepines, ESMO 2021 guidelines recommend to consider offering benzodiazepines with caution for relief of breathlessness with associated with anxiety if opioids are not effective.
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^5bbffb83]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^113M2MmL]. Academic Emergency Medicine (2012). Medium credibility.
 
 End-of-life care/hospice care — prehospital management outlines anxiolysis, agitation/delirium options, secretion control, and hydration. Anxiolytic if needed for anxiety, lorazepam 1 mg SL (pediatric 0.1 mg/kg); if not avail, consider the administration of diazepam or midazolam. If the patient has nausea [See Nausea-Vomiting Guideline]. If the patient has excessive secretions or aspiration, provide suctioning. If the patient is anxious or has delirium, in addition to nonpharmacologic interventions such as creating a quiet environment, frequent reassurance, touch and verbal orientation, consider benzodiazepines (diazepam, lorazepam, midazolam) or haloperidol 5 mg PO/IM/IV (pediatric: 0.5–1 mg) or ziprasidone 20 mg IM (pediatric 5 years old or older 0.2 mg/kg IM). If the patient appears dehydrated, encourage PO fluid intake if patient can swallow, if available offer ice chips and swabs soaked in ice water, and consider administration of normal saline at 10–20 mL/kg IV. In collaboration with hospice or end-of-life care clinician, coordinate with guardian, power of attorney, or other accepted healthcare proxy if non-transport is considered.
 
 ---
 
-### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^30c9d5e8]. JAMA Network Open (2025). High credibility.
+### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^112FLCbq]. JAMA Network Open (2025). High credibility.
 
 Introduction
 
@@ -233,7 +233,7 @@ This uncertainty is particularly relevant to decisions about medication use at t
 
 ---
 
-### Dyspnoea associated with anxiety – symptomatic therapy with opioids in combination with lorazepam and its effect on ventilation in palliative care patients [^a8aefb0b]. Supportive Care in Cancer (2011). Low credibility.
+### Dyspnoea associated with anxiety – symptomatic therapy with opioids in combination with lorazepam and its effect on ventilation in palliative care patients [^115K5hEz]. Supportive Care in Cancer (2011). Low credibility.
 
 Purpose
 
@@ -253,49 +253,49 @@ Our results showed that the use of O + A was a safe and effective treatment opti
 
 ---
 
-### Best practices guidelines for acute pain management in trauma patients [^68e03416]. ACS (2020). High credibility.
+### Best practices guidelines for acute pain management in trauma patients [^113gV29K]. ACS (2020). High credibility.
 
 Table 17 — dyspnea management for opioid-naïve patients lists first-line morphine 5 mg PO/SL q4hr with 2.5 mg PRN or morphine 2.5 mg IV q15min PRN, with second-line benzodiazepine (e.g., midazolam or lorazepam) for anxiety; special considerations state that other opioids may be considered, but limited data exists, and 'Do not use benzodiazepines for treatment of dyspnea that is not due to anxiety'.
 
 ---
 
-### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^06a1f17c]. ESMO Open (2021). High credibility.
+### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^111AqKbq]. ESMO Open (2021). High credibility.
 
 Regarding medical management for palliative care in patients with cancer, more specifically with respect to management of delirium, ESMO 2021 guidelines recommend to administer benzodiazepines for sedation and potential anxiolysis for acute management of severe symptomatic distress associated with delirium.
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^3318806c]. Journal of General Internal Medicine (2025). High credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^112Jkbhm]. Journal of General Internal Medicine (2025). High credibility.
 
 Background — benzodiazepines (BZDs) are FDA‑approved for conditions such as anxiety and panic disorders, social phobia, insomnia, and seizures but are associated with increased risks including falls, motor vehicle accidents, cognitive impairment, delirium, overdose, and death, particularly with concurrent central nervous system depressants like alcohol or opioids; physical dependence is expected and abrupt discontinuation can cause serious and potentially life‑threatening withdrawal symptoms, and the risk–benefit balance of prescribing may shift as patients and co‑medications change, while clinicians in palliative and end‑of‑life care are not the intended audience for this guideline.
 
 ---
 
-### Palliative care best practices guidelines [^cd4241ee]. ACS (2017). Medium credibility.
+### Palliative care best practices guidelines [^116FJia9]. ACS (2017). Medium credibility.
 
 Palliative care best practices — additional anxiolysis lists midazolam infusion 2 mg/hour IV and titrate to patient comfort.
 
 ---
 
-### Management of dyspnea in advanced cancer: ASCO guideline [^e9fbf2b6]. Journal of Clinical Oncology (2021). High credibility.
+### Management of dyspnea in advanced cancer: ASCO guideline [^116ytk1K]. Journal of Clinical Oncology (2021). High credibility.
 
 Regarding medical management for palliative care in patients with cancer, more specifically with respect to management of dyspnea, benzodiazepines, ASCO 2021 guidelines recommend to consider offering short-acting benzodiazepines in patients experiencing dyspnea-related anxiety and continuing to experience dyspnea despite opioids and other nonpharmacologic measures.
 
 ---
 
-### Management of dyspnea in advanced cancer: ASCO guideline [^e56f2084]. Journal of Clinical Oncology (2021). High credibility.
+### Management of dyspnea in advanced cancer: ASCO guideline [^116s9VTq]. Journal of Clinical Oncology (2021). High credibility.
 
 Regarding medical management for dyspnea in palliative care, more specifically with respect to benzodiazepines, ASCO 2021 guidelines recommend to consider offering short-acting benzodiazepines in patients experiencing dyspnea-related anxiety and continuing to experience dyspnea despite opioids and other nonpharmacologic measures.
 
 ---
 
-### Palliative care best practices guidelines [^c1d4110d]. ACS (2017). Medium credibility.
+### Palliative care best practices guidelines [^115xMqnC]. ACS (2017). Medium credibility.
 
 Adult comfort care order set — sedation and analgesia directives treat both anxiety and pain. Begin (or continue) analgesia/anxiolytic medications at current rate (if patient is comfortable and calm) and increase as needed by 10% every 15 minutes. For analgesia/dyspnea, Morphine injection: 4mg IV every 15 minutes push as needed for pain or respiratory distress; give first dose prior to extubation if applicable OR Fentanyl injection: 100 mcg IV push every 15 minutes as needed for pain or respiratory distress.
 
 ---
 
-### Benzodiazepines for cancer dyspnoea: a nationwide survey of palliative care physicians [^cdd2f803]. BMJ Supportive & Palliative Care (2020). High credibility.
+### Benzodiazepines for cancer dyspnoea: a nationwide survey of palliative care physicians [^116G9Kmt]. BMJ Supportive & Palliative Care (2020). High credibility.
 
 Objectives
 
@@ -315,7 +315,7 @@ Patients with anxiety or receiving a high baseline opioid dose could be potentia
 
 ---
 
-### Drug therapy for symptoms associated with anxiety in adult palliative care patients [^8a5bea98]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Drug therapy for symptoms associated with anxiety in adult palliative care patients [^114Y8AZm]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -347,7 +347,7 @@ There is a lack of evidence to draw a conclusion about the effectiveness of drug
 
 ---
 
-### Symptom management in people dying with COVID-19: multinational observational study [^d1beeef4]. BMJ Supportive & Palliative Care (2022). High credibility.
+### Symptom management in people dying with COVID-19: multinational observational study [^116MxYaf]. BMJ Supportive & Palliative Care (2022). High credibility.
 
 Palliative care services that prescribed oxygen were less likely to have hospital palliative care teams (χ² = 9.16, p = 0.002).
 
@@ -367,7 +367,7 @@ Further, services reported reluctance to prescribe opioids.
 
 ---
 
-### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^14b64617]. Journal of the American Geriatrics Society (2025). Medium credibility.
+### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^111Xhyci]. Journal of the American Geriatrics Society (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -377,19 +377,19 @@ Despite the growth in Medicare beneficiaries receiving hospice care for dementia
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^2904e241]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^1123p8hW]. Critical Care Medicine (2025). High credibility.
 
 ICU anxiety management — There is insufficient evidence to make a recommendation for the use of benzodiazepines to treat anxiety in adult patients admitted to the ICU.
 
 ---
 
-### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^df627077]. European Journal of Neurology (2012). Medium credibility.
+### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^116iBJbY]. European Journal of Neurology (2012). Medium credibility.
 
 Regarding medical management for amyotrophic lateral sclerosis, more specifically with respect to palliative care, EFNS 2012 guidelines recommend to administer opioids alone or in combination with benzodiazepines for the symptomatic treatment of dyspnea and/or intractable pain, if anxiety is present. Recognize that titrating the dosages against the clinical symptoms will rarely if ever result in life-threatening respiratory depression.
 
 ---
 
-### Part I. benzodiazepines-side effects, abuse risk and… [^2eb2acf1]. AAFP (2000). Low credibility.
+### Part I. benzodiazepines-side effects, abuse risk and… [^112CESqv]. AAFP (2000). Low credibility.
 
 There is little doubt of the therapeutic efficacy of benzodiazepines in reducing anxiety, inducing sleep and quelling panic symptoms. As noted in a 1990 report by the American Psychiatric Association on benzodiazepine dependence, toxicity and abuse, 1 the anxiolytic and hypnotic efficacy of benzodiazepines has been well established by numerous placebo-controlled studies. Benzodiazepine Alternatives The problems with benzodiazepine dependence, tolerance, withdrawal, rebound and abuse limit their use for long-term treatment of anxiety disorders in patients with alcohol or drug addiction. A growing body of literature now supports the anxiolytic efficacy of numerous other agents. Antidepressants, anticonvulsants, buspirone, certain antihypertensive agents and newer neuroleptics all have been shown to be effective in subsets of patients with anxiety.
 32.
@@ -400,19 +400,19 @@ Final Comment Although benzodiazepines are effective in a wide range of medical 
 
 ---
 
-### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^7dfb64fd]. Geneva: World Health Organization (2023). High credibility.
+### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^114DmtnY]. Geneva: World Health Organization (2023). High credibility.
 
 Regarding medical management for generalized anxiety disorder, more specifically with respect to benzodiazepines, WHO 2023 guidelines recommend to consider offering short-term (3–7 days) benzodiazepines for emergency management of acute and severe anxiety symptoms.
 
 ---
 
-### Management of dyspnea in advanced cancer: ASCO guideline [^1f150e53]. Journal of Clinical Oncology (2021). High credibility.
+### Management of dyspnea in advanced cancer: ASCO guideline [^111o5gwU]. Journal of Clinical Oncology (2021). High credibility.
 
 ASCO guideline — benzodiazepines for dyspnea in advanced cancer: The use of benzodiazepines in patients with advanced cancer should be minimized, and benzodiazepines should not be offered as first-line treatment of dyspnea; concurrent use with opioids or other psychotropic medications may increase adverse effects including respiratory depression. For patients with severe anxiety or distress related to dyspnea despite other interventions, some may benefit from a trial of benzodiazepines, and short-acting benzodiazepines such as midazolam 2–5 mg q4h have been used in clinical trials.
 
 ---
 
-### Lorazepam (Ativan) [^e2884ef5]. FDA (2025). Medium credibility.
+### Lorazepam (Ativan) [^116nqzC4]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -422,61 +422,61 @@ The effectiveness of Ativan (lorazepam) in long-term use, that is, more than 4 m
 
 ---
 
-### Management of dyspnea in advanced cancer: ASCO guideline [^a872edd1]. Journal of Clinical Oncology (2021). High credibility.
+### Management of dyspnea in advanced cancer: ASCO guideline [^115JjXLk]. Journal of Clinical Oncology (2021). High credibility.
 
 ASCO guideline — pharmacologic management of dyspnea in advanced cancer specifies that systemic opioids should be offered to patients with dyspnea when nonpharmacologic interventions are insufficient to provide dyspnea relief (type: evidence-based; evidence quality: low; strength of recommendation: moderate). Short-acting benzodiazepines may be offered to patients who experience dyspnea-related anxiety and continue to experience dyspnea despite opioids and other nonpharmacologic measures (type: evidence-based; evidence quality: low; strength of recommendation: weak). Systemic corticosteroids may be offered to select patients with airway obstruction or when inflammation is likely a key contributor of dyspnea (type: evidence-based; evidence quality: low; strength of recommendation: weak). Bronchodilators should be used for palliation of dyspnea when patients have established obstructive pulmonary disorders or evidence of bronchospasm (type: evidence-based; evidence quality: low; strength of recommendation: weak). Evidence remains insufficient for a recommendation for or against the use of antidepressants, neuroleptics, or inhaled furosemide for dyspnea. Continuous palliative sedation should be offered to patients with dyspnea that is refractory to all standard treatment options and all applicable palliative options, and who have an expected life expectancy of days (type: informal consensus; evidence quality: low; strength of recommendation: moderate).
 
 ---
 
-### Management of dyspnea in advanced cancer: ASCO guideline [^5b9645e7]. Journal of Clinical Oncology (2021). High credibility.
+### Management of dyspnea in advanced cancer: ASCO guideline [^113LnMCa]. Journal of Clinical Oncology (2021). High credibility.
 
 ASCO guideline — pharmacologic palliation of dyspnea in advanced cancer — states that pharmacologic measures should be considered when treatment of underlying conditions and nonpharmacologic therapies do not yield patient relief, and that for acute severe dyspnea a concurrent pharmacologic and nonpharmacologic approach is warranted; Recommendation 5.1 states systemic opioids should be offered when nonpharmacologic interventions are insufficient (type: evidence-based; evidence quality: low; strength of recommendation: moderate); Recommendation 5.2 states short-acting benzodiazepines may be offered to patients who experience dyspnea-related anxiety and who continue to have dyspnea despite opioids and other nonpharmacologic measures (type: evidence-based; evidence quality: low; strength of recommendation: weak); Recommendation 5.3 states systemic corticosteroids may be offered to select patients with airway obstruction or when inflammation is likely a key contributor of dyspnea (type: evidence-based; evidence quality: low; strength of recommendation: weak); Recommendation 5.4 states bronchodilators should be used for palliation of dyspnea when patients have established obstructive pulmonary disorders or evidence of bronchospasm (type: evidence-based; evidence quality: low; strength of recommendation: weak); Recommendation 5.5 states evidence remains insufficient for or against antidepressants, neuroleptics, or inhaled furosemide; Recommendation 5.6 states continuous palliative sedation should be offered for dyspnea that is refractory to all standard treatment options and applicable palliative options, in those with an expected life expectancy of days (type: informal consensus; evidence quality: low; strength of recommendation: moderate).
 
 ---
 
-### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^ace0d2ac]. Journal of Psychopharmacology (2014). Medium credibility.
+### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^115RJPNj]. Journal of Psychopharmacology (2014). Medium credibility.
 
 Regarding medical management for generalized anxiety disorder, more specifically with respect to benzodiazepines, BAP 2014 guidelines recommend to consider offering benzodiazepines in patients with anxiety disorders only for short-term.
 
 ---
 
-### Delirium in older persons: prevention, evaluation, and management [^403ed111]. American Family Physician (2023). High credibility.
+### Delirium in older persons: prevention, evaluation, and management [^112eFJoa]. American Family Physician (2023). High credibility.
 
 Regarding medical management for palliative care in patients with cancer, more specifically with respect to management of delirium, AAFP 2023 guidelines recommend to offer haloperidol combined with lorazepam over haloperidol alone for reducing agitated delirium in patients with advanced cancer.
 
 ---
 
-### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^3ca46003]. Journal of Psychopharmacology (2014). Medium credibility.
+### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^112YuUCA]. Journal of Psychopharmacology (2014). Medium credibility.
 
 Regarding medical management for generalized anxiety disorder, more specifically with respect to benzodiazepines, BAP 2014 guidelines recommend to consider offering benzodiazepines in patients not responding to other treatment approaches.
 
 ---
 
-### Repurposing medications for hospice / palliative care symptom control is No longer sufficient: a manifesto for change [^660bc79c]. Journal of Pain and Symptom Management (2017). Low credibility.
+### Repurposing medications for hospice / palliative care symptom control is No longer sufficient: a manifesto for change [^113cHhET]. Journal of Pain and Symptom Management (2017). Low credibility.
 
 The World Health Organization essential medications list for hospice/palliative care reflects that, with the judicious use of currently available medications, the majority of symptoms can be lessened, and some controlled completely. Even with optimal use of current medications, symptom control is still unacceptable for many people. Currently available medications offer great benefit to a minority of patients, some benefit to an additional group, and no benefit or harms to others. In symptom control, development of new drugs is advancing at a glacial pace, contrasting to the rapid advances seen in many other disciplines. Specialists in palliative care should agree on several principles consequently: 1) Access to symptom-control drugs codified in the World Health Organization Essential Medicines list deserves the strongest support from national policies and professional guidelines, especially in resource-challenged countries. 2) The optimal use of currently available symptom-control drugs cannot yield acceptably high rates of net benefits. 3) There is a compelling need to identify patient subgroups that are likely to benefit from available medications and provide rigorous empirical support for indications, dosing, and route of administration for clinical practice. 4) New therapies are needed requiring an accelerated effort to investigate further the pathophysiology, neurobiology, and pharmacogenetics of distressing symptoms, and factors contributing to variations in drug response. This development requires a lengthy lead time. 5) Smarter ways to promote new knowledge into practice are needed as no drug will be suitable for all patients. We need to improve clinical characterization and biomarker technology to bring the best drugs to the right patients every time.
 
 ---
 
-### Alternative treatments to selected medications in the 2023 American Geriatrics Society beers criteria ® [^9225dc1e]. Journal of the American Geriatrics Society (2025). High credibility.
+### Alternative treatments to selected medications in the 2023 American Geriatrics Society beers criteria ® [^114jfuiM]. Journal of the American Geriatrics Society (2025). High credibility.
 
 Benzodiazepines — often used to treat anxiety and sleep disorders as well as other conditions, including alprazolam (Xanax), lorazepam (Ativan), and diazepam (Valium) — list alternatives to discuss with your healthcare provider such as, for moderate or severe anxiety, selective serotonin reuptake inhibitors (SSRIs) including citalopram (Celexa) and sertraline (Zoloft), and for sleep or anxiety, asking about anxiety management techniques and other strategies to improve sleep.
 
 ---
 
-### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^3786b786]. European Journal of Neurology (2012). Medium credibility.
+### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^112RKZzm]. European Journal of Neurology (2012). Medium credibility.
 
 Regarding medical management for amyotrophic lateral sclerosis, more specifically with respect to management of depression and anxiety, EFNS 2012 guidelines recommend to offer bupropion or benzodiazepines (such as diazepam or lorazepam) for the management of anxiety in patients with ALS.
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^da2256cf]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^116aPqQz]. Critical Care Medicine (2025). High credibility.
 
 Anxiety in adult ICU patients — the PICO question examines benzodiazepine administered for anxiety compared with no benzodiazepine in adults admitted to the ICU who are anxious, with outcomes including occurrence of anxiety and agitation, occurrence of delirium, duration of mechanical ventilation, occurrence of post-ICU PTSD and post-ICU anxiety, quality of life post-ICU/functional/cognitive abilities, mortality, and adverse events.
 
 ---
 
-### Lorazepam stimulates IL6 production and is associated with poor survival outcomes in pancreatic cancer [^e2a51868]. Clinical Cancer Research (2023). Medium credibility.
+### Lorazepam stimulates IL6 production and is associated with poor survival outcomes in pancreatic cancer [^116o1f1H]. Clinical Cancer Research (2023). Medium credibility.
 
 The role of palliative care medicine in influencing the TME and cancer patient outcomes is also vitally important. Cancer is a devastating diagnosis, associated with emotional distress, anxiety, and depression. Harsh surgical, radiologic, and chemotherapeutic interventions can induce numerous side effects, including nausea, anxiety, fatigue, and insomnia. To combat these cancer-associated effects, patients are frequently prescribed an array of palliative care drugs such as aspirin, cannabinoids, antihistamines, selective serotonin reuptake inhibitors, opioids, and benzodiazepines (BZD). There is a growing appreciation that many commonly prescribed drugs can either positively or negatively impact cancer risk, tumor progression, and chemotherapeutic efficacy. Many of these interactions are being tested experimentally, providing insight into clinical observations, and opening new avenues to improve patient outcomes. This is a highly significant problem due to the vast majority of patients who are taking these medications, and our general lack of knowledge regarding their impact on the cancer phenotype.
 
@@ -484,7 +484,7 @@ In this study, we report the novel discovery that lorazepam (LOR, Ativan) and al
 
 ---
 
-### Lorazepam [^8b6edab3]. FDA (2025). Medium credibility.
+### Lorazepam [^114ZiWne]. FDA (2025). Medium credibility.
 
 BOXED WARNING
 
@@ -500,7 +500,7 @@ Follow patients for signs and symptoms of respiratory depression and sedation.
 
 ---
 
-### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^4c675973]. JAMA Network Open (2025). High credibility.
+### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^112xGmpv]. JAMA Network Open (2025). High credibility.
 
 Conclusions
 
@@ -508,7 +508,7 @@ In this case-control study, initiation of benzodiazepine and antipsychotic use a
 
 ---
 
-### Palliative pharmacological sedation for terminally ill adults [^15fca90e]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Palliative pharmacological sedation for terminally ill adults [^111Zbc93]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -540,7 +540,7 @@ There was insufficient evidence about the efficacy of palliative sedation in ter
 
 ---
 
-### End-of-life care in patients with cancer 16–24 years of age [^c441fb59]. Current Oncology Reports (2022). Medium credibility.
+### End-of-life care in patients with cancer 16–24 years of age [^1161xjfW]. Current Oncology Reports (2022). Medium credibility.
 
 Opiates are considered the first-line medication for end-of-life dyspnea. Psychostimulants (modafinil and methylphenidate) are sometimes used and may be beneficial for end-of-life fatigue. Steroids are another viable option; however, neither class of medication has been extensively studied for this indication. Blood transfusions can also be used to increase energy levels in those with low platelets.
 
@@ -552,7 +552,7 @@ Benzodiazepines can be effectively used in patients with seizures, catatonia, ai
 
 ---
 
-### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^61f1dc88]. JAMA Network Open (2025). High credibility.
+### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^113WD3BD]. JAMA Network Open (2025). High credibility.
 
 Discussion
 
@@ -562,13 +562,13 @@ Benzodiazepines and antipsychotics are commonly used in hospice to manage agitat
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^b9be08e3]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^115kNYJv]. Critical Care Medicine (2025). High credibility.
 
 Regarding medical management for ICU delirium, more specifically with respect to management of anxiety, SCCM 2025 guidelines recommend to insufficient evidence support the use of benzodiazepines for the treatment of anxiety in adult patients admitted to the ICU.
 
 ---
 
-### State variation in antipsychotic and benzodiazepine prescribing among hospice beneficiaries in the United States [^457c9e60]. Journal of the American Geriatrics Society (2022). Medium credibility.
+### State variation in antipsychotic and benzodiazepine prescribing among hospice beneficiaries in the United States [^112n21DH]. Journal of the American Geriatrics Society (2022). Medium credibility.
 
 INTRODUCTION
 
@@ -578,7 +578,7 @@ Given a clear lack of clear evidence to inform antipsychotic and benzodiazepine 
 
 ---
 
-### Enhancing communication related to symptom management through plain language [^d22fd921]. Journal of Pain and Symptom Management (2015). Low credibility.
+### Enhancing communication related to symptom management through plain language [^116NcULY]. Journal of Pain and Symptom Management (2015). Low credibility.
 
 Context
 
@@ -602,7 +602,7 @@ Provider training with the tool produced increased plain language. Use of the to
 
 ---
 
-### Lorazepam (Ativan) [^026bc0eb]. FDA (2025). Medium credibility.
+### Lorazepam (Ativan) [^1114bAmp]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -624,7 +624,7 @@ To reduce the risk of withdrawal reactions, use a gradual taper to discontinue A
 
 ---
 
-### Lorazepam [^7e3e4122]. FDA (2025). Medium credibility.
+### Lorazepam [^114EAMKf]. FDA (2025). Medium credibility.
 
 WARNINGS
 
@@ -638,7 +638,7 @@ Pre-existing depression may emerge or worsen during use of benzodiazepines inclu
 
 ---
 
-### Acute adverse effects of therapeutic doses of psilocybin: a systematic review and meta-analysis [^78d42cee]. JAMA Network Open (2024). High credibility.
+### Acute adverse effects of therapeutic doses of psilocybin: a systematic review and meta-analysis [^11468nL5]. JAMA Network Open (2024). High credibility.
 
 Anxiety
 
@@ -646,13 +646,13 @@ Three studies identified anxiety as an adverse effect. According to 1 study, anx
 
 ---
 
-### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^05e7cc3f]. European Journal of Neurology (2012). Medium credibility.
+### EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force [^1119koCJ]. European Journal of Neurology (2012). Medium credibility.
 
 Regarding medical management for amyotrophic lateral sclerosis, more specifically with respect to management of dyspnea, EFNS 2012 guidelines recommend to relieve anxiety and offer lorazepam (0.5–2.5 mg sublingually) for the management of short dyspneic bouts. Offer morphine (2.5 mg PO or SC) for longer phases of dyspnoea (> 30 minutes).
 
 ---
 
-### Drug therapy for delirium in terminally ill adult patients [^19e5e17f]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Drug therapy for delirium in terminally ill adult patients [^111fPuV8]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -684,13 +684,13 @@ There remains insufficient evidence to draw conclusions about the role of drug t
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^8e3d0368]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^114dsjeo]. Pain Physician (2023). High credibility.
 
 ASIPP opioid prescribing guidelines — patients with mental health conditions and concurrent benzodiazepine use: Patients with mental health conditions may require therapy of comorbidities with anti-anxiety medications as well as antidepressants, but patients taking benzodiazepines for anxiety should be warned of the elevated risks for respiratory depression with concomitant opioid use, and physicians should be judicious with opioid initiation and monitoring in these patients. Due to established risks with the combination of opioids and benzodiazepines and psychiatric instability including suicide risk, clinicians should cautiously provide chronic opioid therapy with or without benzodiazepines and antidepressant therapy in this group, and clinicians should consider behavioral health consultations, specifically in those with uncontrolled psychological disorders and suicide risk. Cognitive behavioral therapy has been shown to be useful in patients on long term opioid therapy to reduce opioid exposure and associated risks to patients, families, and communities while offering patients an alternative for managing pain.
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^c03281aa]. Journal of General Internal Medicine (2025). Medium credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^115uwb45]. Journal of General Internal Medicine (2025). Medium credibility.
 
 SUMMARY OF RECOMMENDATIONS
 
@@ -718,19 +718,19 @@ This table summarizes estimates of risk of experiencing clinically significant w
 
 ---
 
-### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^34a2480e]. The American Journal of Psychiatry (2007). Medium credibility.
+### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^112M2s9o]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Dementia — agitation and psychosis management emphasizes first addressing reversible causes [I], using environmental measures if symptoms are not causing significant danger or distress [I], and considering behavioral measures [III]; if these are unsuccessful or behaviors are dangerous or distressing, judicious pharmacologic treatment may be used [II] with ongoing reevaluation and documentation [I]. Antipsychotic medications are recommended for psychosis [II] and agitation [II], can provide modest improvement in behavioral symptoms [I], and have evidence based mostly on 6–12-week trials with limited research beyond 12 weeks though clinical experience supports use [II]. Antipsychotics must be used with caution at the lowest effective dosage [I], with patients and families advised about potential benefits and risks, particularly mortality [I]; second-generation agents have a black box warning for increased mortality in elderly patients and first-generation agents carry at least a similar risk, with selection based on side-effect profile and patient characteristics [I]. Benzodiazepine benefit is modest but they may have a role for prominent anxiety [III] or on an as-needed basis for infrequent agitation or procedural sedation [II], with lorazepam and oxazepam preferable to longer half-life agents such as diazepam or chlordiazepoxide [III]. Anticonvulsants, lithium, and beta-blockers have minimal evidence and are generally not recommended except after other treatments have failed [III]; trazodone and selective serotonin reuptake inhibitors (SSRIs) are not well studied for non-depressive symptoms but may be appropriate for nonpsychotic patients with agitation, especially with mild agitation or prior antipsychotic sensitivity [III].
 
 ---
 
-### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^b033b7eb]. Thorax (2016). Medium credibility.
+### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^115WEC9x]. Thorax (2016). Medium credibility.
 
 Anxiety in relation to medical procedures — management of moderate-to-severe episodic anxiety that has not responded to behavioural approaches may include the benzodiazepine lorazepam, which may be considered for short-term use, with benzodiazepines preferable to SSRIs primarily when rapid onset of action is needed or when serotonergic agents are contraindicated. Use of benzodiazepines requires additional caution and monitoring for those with a history of substance abuse, depression or an elevated risk for respiratory depression. Lorazepam is available in both oral and intravenous forms, its duration of action is short enough to avoid a prolonged period of sedation following a procedure, and it is renally excreted with no hepatic metabolism, which reduces medication interactions and may be useful in the context of CF liver disease; however, dose reduction may be necessary in patients who develop renal insufficiency.
 
 ---
 
-### Benzodiazepines for treatment of patients with delirium excluding those who are cared for in an intensive care unit [^066335da]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Benzodiazepines for treatment of patients with delirium excluding those who are cared for in an intensive care unit [^111AUFTw]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -762,13 +762,13 @@ There is no enough evidence to determine whether benzodiazepines are effective w
 
 ---
 
-### The ASAM / AAAP clinical practice guideline on the management of stimulant use disorder [^6851fba6]. Journal of Addiction Medicine (2024). High credibility.
+### The ASAM / AAAP clinical practice guideline on the management of stimulant use disorder [^113ffFU1]. Journal of Addiction Medicine (2024). High credibility.
 
 Appendix N — medications for managing intoxication: Benzodiazepines (BZDs) (first line) are GABAergic and indicated for excitatory symptoms, anxiety/agitation, neuromuscular excitation, and seizures. Initial dosing includes lorazepam 1–2 mg IV based on clinical signs and symptoms and duration of effects; diazepam 5–10 mg PO for less severe symptoms based on patient parameters; and midazolam 5 mg IM or 0.01–0.05 mg/kg IV for acute agitation in adult patients, and redosing frequency and dose should be guided by the degree and duration of the clinical effects of the initial dose. Other considerations note parenteral vs. PO administration based on signs and symptom severity and drug availability (eg, parenteral BZD shortages), and IM administration allows for administration in agitated patients without IV access; lorazepam has very slow IM onset (15–30 min); midazolam has very rapid IV onset, allowing for easy titration, and a relatively fast IM onset; if psychosis is primary symptom, antipsychotics should be considered primarily or adjunctively.
 
 ---
 
-### Lorazepam (Loreev xr) [^93bd895c]. FDA (2025). Medium credibility.
+### Lorazepam (Loreev xr) [^114n2qtw]. FDA (2025). Medium credibility.
 
 5.1 Risks from Concomitant Use with Opioids
 
@@ -780,25 +780,25 @@ Advise both patients and caregivers about the risks of respiratory depression an
 
 ---
 
-### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^e6447dc8]. Journal of Huntington's Disease (2018). Medium credibility.
+### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^116tPA8o]. Journal of Huntington's Disease (2018). Medium credibility.
 
 Regarding medical management for Huntington's disease, more specifically with respect to management of depression and anxiety, HD-EG 2018 guidelines recommend to inform of potential short-term exacerbation of anxiety when SSRIs are initiated. Consider adding a short-term course (1–2 weeks) of a benzodiazepine if exacerbation occurs.
 
 ---
 
-### Delirium in older persons: prevention, evaluation, and management [^49bac8c0]. American Family Physician (2023). High credibility.
+### Delirium in older persons: prevention, evaluation, and management [^112tJqRR]. American Family Physician (2023). High credibility.
 
 Regarding medical management for cancer pain, more specifically with respect to management of delirium, AAFP 2023 guidelines recommend to offer haloperidol combined with lorazepam over haloperidol alone for reducing agitated delirium in patients with advanced cancer.
 
 ---
 
-### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^0fc62dbb]. ESMO Open (2021). High credibility.
+### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^111QPP4N]. ESMO Open (2021). High credibility.
 
 Regarding medical management for palliative care in patients with cancer, more specifically with respect to management of dyspnea, benzodiazepines, ESMO 2021 guidelines recommend to consider offering benzodiazepines for palliative sedation in patients in the last days of life with refractory breathlessness despite other treatments.
 
 ---
 
-### Symptom management in people dying with COVID-19: multinational observational study [^2731e9aa]. BMJ Supportive & Palliative Care (2022). High credibility.
+### Symptom management in people dying with COVID-19: multinational observational study [^11217HNR]. BMJ Supportive & Palliative Care (2022). High credibility.
 
 Breathlessness
 
@@ -816,13 +816,13 @@ Prescribing of benzodiazepines for breathlessness was significantly higher in th
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^9944a8be]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^114vEAhs]. Critical Care Medicine (2025). High credibility.
 
 Research agenda for PADIS and patient-important outcomes — priorities include anxiety studies with further development and testing of instruments to detect and quantify anxiety in critically ill adults; RCTs testing the safety and effectiveness of benzodiazepines and other medications for anxiety in critically ill adults; and RCTs examining nonpharmacologic and/or multimodal approaches. Sedation priorities include the role of dexmedetomidine in alcohol withdrawal; the role of sedative medications in an analgesia-first approach or to supplement analgesia-sedation; studies evaluating the value of patient communication with family members during ICU care and patient perceptions while on propofol vs. dexmedetomidine; the role of dexmedetomidine in patients requiring deep sedation; and RCTs addressing possible heterogeneity of dexmedetomidine treatment effect by age (over or under 65 yr old). Delirium priorities include RCTs examining the use of an antipsychotic in hypoactive delirium, hyperactive delirium, and other subtypes; RCTs examining long-term cognitive effects of antipsychotics in ICU patients with delirium; and RCTs examining the use of antipsychotics in progressive delirium severities.
 
 ---
 
-### Pharmacologic interventions for breathlessness in patients with advanced cancer: a systematic review and meta-analysis [^9db59e2e]. JAMA Network Open (2021). High credibility.
+### Pharmacologic interventions for breathlessness in patients with advanced cancer: a systematic review and meta-analysis [^1152p4Sq]. JAMA Network Open (2021). High credibility.
 
 Discussion
 
@@ -836,7 +836,7 @@ Third, the included studies differed widely in the patient populations (medical 
 
 ---
 
-### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^6dbe3cb7]. JAMA Network Open (2025). High credibility.
+### Benzodiazepine or antipsychotic use and mortality risk among patients with dementia in hospice care [^113ohYqU]. JAMA Network Open (2025). High credibility.
 
 Our results suggest more standardized hospice prescribing guidance in ADRD may be useful. Hospice prescribing varies significantly across hospice agencies: benzodiazepine prescribing rates range from 12% to 80%, and antipsychotic prescribing rates range from 6% to 62%, even after adjusting for patient characteristics. Whether a patient receives a benzodiazepine or an antipsychotic in hospice may depend more on agency practice norms than clinical presentation, which is concerning, especially in light of our findings that such exposure may adversely affect survival. Hospice clinicians have conflicting views about the effectiveness and appropriateness of these medications; in a national survey of hospice clinicians, 40% of hospice physicians believed that benzodiazepines were overused in their hospice, compared with only 8% of hospice nurses. Establishing national guidelines for hospice prescribing in ADRD could help to reduce unwarranted variation, promote safer practices, and ensure consistent care.
 
@@ -846,7 +846,7 @@ From 2014 to 2018, Medicare briefly required hospice agencies to report medicati
 
 ---
 
-### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^acc70d93]. Journal of the American Geriatrics Society (2025). Medium credibility.
+### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^115R9jLW]. Journal of the American Geriatrics Society (2025). Medium credibility.
 
 CONCLUSION
 
@@ -854,7 +854,7 @@ Study findings can help to inform dialogue between hospice clinicians and caregi
 
 ---
 
-### Palliative use of midazolam in acute geriatric units: a multicenter ambispective study [^eb4575ee]. BMC Geriatrics (2025). Medium credibility.
+### Palliative use of midazolam in acute geriatric units: a multicenter ambispective study [^1171oRRo]. BMC Geriatrics (2025). Medium credibility.
 
 Introduction
 
@@ -866,13 +866,13 @@ Although midazolam prescribing has been investigated in EOL situations such as o
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^4d85bdce]. Journal of General Internal Medicine (2025). High credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^112yvyC9]. Journal of General Internal Medicine (2025). High credibility.
 
 Regarding medical management for benzodiazepine use disorder, more specifically with respect to adjunctive therapy, AAFP/AAN/AANP/AAPA/AAPP/ACMT/ACOG/AGS/APA/ASAM 2025 guidelines recommend to consider pausing or slowing the pace of the benzodiazepine taper when patients experience symptoms that significantly interfere with the taper, such as sleep difficulty or anxiety. Additionally, consider using adjunctive medications.
 
 ---
 
-### State variation in antipsychotic and benzodiazepine prescribing among hospice beneficiaries in the United States [^c4733174]. Journal of the American Geriatrics Society (2022). Medium credibility.
+### State variation in antipsychotic and benzodiazepine prescribing among hospice beneficiaries in the United States [^1162FGNw]. Journal of the American Geriatrics Society (2022). Medium credibility.
 
 DISCUSSION
 
@@ -884,31 +884,31 @@ Future work is needed to understand the sources of state variation and the assoc
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^63496ced]. Journal of General Internal Medicine (2025). High credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^113YCSLt]. Journal of General Internal Medicine (2025). High credibility.
 
 Benzodiazepine tapering — post-discontinuation follow-up states that a patient's adjustment to benzodiazepine discontinuation and need for clinician support may last well beyond the time it takes for the drug to be eliminated; although gradual dose reductions and slow tapers may help prevent protracted withdrawal, clinicians should follow up after discontinuation to monitor for and manage symptoms; patients with long-term use may struggle to avoid returning to use and may benefit from ongoing monitoring; clinicians should educate patients with protracted withdrawal symptoms and reassure them that symptoms are likely to resolve as their brains adjust, which may take months; psychosocial support may be helpful; clinicians should avoid reinstating the benzodiazepine but can consider prescribing non-benzodiazepine medications for symptom management when patients are unable to tolerate withdrawal management.
 
 ---
 
-### Clinical guidance in neuropalliative care: an AAN position statement [^8623e0b9]. Neurology (2022). High credibility.
+### Clinical guidance in neuropalliative care: an AAN position statement [^114RsPig]. Neurology (2022). High credibility.
 
 End-of-life management — severe refractory symptoms and proportional medication use states that once a decision is made to forgo life-sustaining treatment, physicians have an ethical obligation to minimize subsequent suffering; in some cases symptoms may require doses that result in unconsciousness (palliative sedation) or respiratory depression, and under the principle of double effect and proportionate reason, it is ethical to treat pain or suffering for relief and not to hasten death; under such circumstances, physicians should be willing to administer adequate doses of opiates or benzodiazepines to reduce distress, conferring with specialist palliative care clinicians for titration and dosing advice, while physicians may not initiate or escalate morphine or other medications out of proportion to symptoms with the intention of speeding up dying, and it is critical to educate patients and families on this point.
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^00fe1b21]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^1112UMPE]. Critical Care Medicine (2025). High credibility.
 
 Benzodiazepines for anxiety in adult ICU patients — Recommendation 1 states: "There is insufficient evidence to make a recommendation on the use of benzodiazepines to treat anxiety in adult patients admitted to the ICU", and the panel adds, "Due to a lack of evidence, the panel cannot currently make a recommendation regarding the use of benzodiazepines for the treatment of anxiety in ICU patients", noting that "no studies directly answered our PICO with the exception of one before-and-after cohort study conducted in burn patients which presented limited evidence". Special considerations report that "Severe anxiety is experienced by more than one quarter of intubated patients 6 hours after the interruption of midazolam or propofol, while ten of 16 patients reported anxiety about the endotracheal tube at hospital discharge regardless of sedation", and caution that "abrupt cessation of benzodiazepines prescribed for baseline chronic anxiety may precipitate acute withdrawal; hence, continuation of the chronic benzodiazepines upon admission to the ICU should be considered".
 
 ---
 
-### Guidance for pediatric end-of-life care [^0cfbefab]. Pediatrics (2022). High credibility.
+### Guidance for pediatric end-of-life care [^111LFUVg]. Pediatrics (2022). High credibility.
 
 Symptom management in pediatric end-of-life care emphasizes recognizing common symptoms, partnering with families, and balancing treatments with goals of care. Most pediatric research regarding end-of-life symptoms is from oncology, with most common symptoms being pain, dyspnea, anxiety, agitation or delirium, fatigue, nausea or vomiting, and poor appetite. Parents and some patients may benefit from hearing which physical signs are part of the natural dying process and which suggest pain or distress, and concerns can be explored with questions like "Please tell me if anything you are seeing makes you worried". Pharmacologic and nonpharmacologic techniques can be combined to reduce suffering and mitigate adverse effects, and opioids and benzodiazepines are useful classes of medications to address symptoms at the end of life for children of all ages. Some families and clinicians may worry that medications will cause oversedation or hasten death, while other families and patients may request medication administration to expedite the dying process, so the balance of adequate symptom control with sedation side effects should be routinely assessed and discussed in relation to the patient and family's goals. Whenever possible, the preferences of children and adolescents regarding symptom control and sedation should be elicited and prioritized.
 
 ---
 
-### Comparative effectiveness of interventions to facilitate deprescription of benzodiazepines and other sedative hypnotics: systematic review and meta-analysis [^d8f1f6b9]. BMJ (2025). Excellent credibility.
+### Comparative effectiveness of interventions to facilitate deprescription of benzodiazepines and other sedative hypnotics: systematic review and meta-analysis [^116Ydbhr]. BMJ (2025). Excellent credibility.
 
 To facilitate interpretation, we calculated the risk differences per 1000 patients for all dichotomous outcomes by multiplying the risk ratio obtained from meta-analyses with an estimate of the risk of the outcome in the control group. For the control group risk, we used the median risk reported in standard care groups across trials. The parallel BMJ Rapid Recommendations guideline panel provided input on the applicability of the control group risks.
 
@@ -920,7 +920,7 @@ The parallel BMJ Rapid Recommendations guideline panel, which included three pat
 
 ---
 
-### Lorazepam [^74a12c8c]. FDA (2025). Medium credibility.
+### Lorazepam [^113yuhcX]. FDA (2025). Medium credibility.
 
 PRECAUTIONS
 
@@ -938,13 +938,13 @@ In patients where gastrointestinal or cardiovascular disorders coexist with anxi
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^492907ec]. Journal of General Internal Medicine (2025). High credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^112sTsvK]. Journal of General Internal Medicine (2025). High credibility.
 
 Benzodiazepine–opioid co-prescribing — core recommendations: Because all patients co-prescribed benzodiazepines (BZD) and opioids are at increased risk of respiratory depression, clinicians should assess the risks and benefits of continued BZD prescribing with every related clinical encounter or prescription renewal and at least every 3 months (Clinical Consensus, Strong Recommendation). Clinicians should offer to provide or prescribe opioid overdose reversal medication (e.g., naloxone) for all patients co-prescribed BZDs and opioids (Clinical Consensus, Strong Recommendation). Clinicians should consider additional strategies for mitigating risks, including using the lowest effective doses of BZD and opioid analgesic medications and optimizing non-opioid interventions to manage pain.
 
 ---
 
-### The impact of combined use of opioids, antipsychotics, and anxiolytics on survival in the hospice setting [^a7362874]. Journal of Pain and Symptom Management (2018). Low credibility.
+### The impact of combined use of opioids, antipsychotics, and anxiolytics on survival in the hospice setting [^115Gu89R]. Journal of Pain and Symptom Management (2018). Low credibility.
 
 Context
 
@@ -968,13 +968,13 @@ This research supports the safety of opioids, anxiolytics, and antipsychotics in
 
 ---
 
-### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^563ea471]. Journal of the American Geriatrics Society (2025). Medium credibility.
+### Behavioral symptoms and treatment challenges for patients living with dementia: hospice clinician and caregiver perspectives [^113CrycC]. Journal of the American Geriatrics Society (2025). Medium credibility.
 
 Additional findings of this study, namely clinicians' attention to physical safety and approach to sedation as a means to maintain safety, potentially explain the nationwide high prescribing rates among patients with dementia in hospice across the United States, with decedents with dementia enrolled in hospice more than twice as likely to receive benzodiazepines and antipsychotics compared to those not hospice enrolled. However, one may wonder why prescription rates remain so high despite clinicians reporting low perceived effectiveness of the pharmacologic treatment options, a belief consistent with empiric data showing limited or no efficacy of psychotropic medications in behavioral symptom management in dementia and end‐of‐life settings, with adverse effects at times offsetting potential benefit of treatment. One explanation for the high prescription rates could be that clinicians' awareness of the caregivers' distress prompts them to prescribe benzodiazepines and antipsychotics for agitation and other behavioral symptoms of dementia, with sedation as a potential intended outcome. Many of the clinician responses in this study highlighted maintaining physical safety and minimizing psychological stress of caregivers as a significant factor influencing prescription practices, which is consistent with previous work. However, clinicians should always consider that the need for maintaining safety using pharmacological interventions can be mitigated with the use of noninvasive behavioral techniques and environmental interventions, while caregiver distress can be reduced with psychoeducation, empathic listening, or referral to appropriate resources in the community. Moreover, hospice clinicians should actively collaborate with family caregivers, assess their values, needs and concerns, and treat them as co‐decision‐makers whenever introducing significant changes to the care plan.
 
 ---
 
-### Pain care for patients with epidermolysis bullosa: best care practice guidelines [^7a118e11]. BMC Medicine (2014). Low credibility.
+### Pain care for patients with epidermolysis bullosa: best care practice guidelines [^1147yPNx]. BMC Medicine (2014). Low credibility.
 
 Breakthrough pain medication at the end of life
 
@@ -988,7 +988,7 @@ Pruritus
 
 ---
 
-### A randomised, double-blind controlled trial of intranasal midazolam for the palliation of dyspnoea in patients with life-limiting disease [^c8c83253]. Supportive Care in Cancer (2016). Low credibility.
+### A randomised, double-blind controlled trial of intranasal midazolam for the palliation of dyspnoea in patients with life-limiting disease [^1168fmWJ]. Supportive Care in Cancer (2016). Low credibility.
 
 Purpose
 
@@ -1008,7 +1008,7 @@ Intranasal midazolam had no clinical benefit over intranasal placebo for the con
 
 ---
 
-### Suitable support for anxious hospice patients: what do nurses' know", do' and' need'? An explanatory mixed method study [^c77fc8b3]. BMJ Supportive & Palliative Care (2020). High credibility.
+### Suitable support for anxious hospice patients: what do nurses' know", do' and' need'? An explanatory mixed method study [^1166mTWi]. BMJ Supportive & Palliative Care (2020). High credibility.
 
 Objective
 
@@ -1028,19 +1028,19 @@ This study highlights the struggles of nurses caring for anxious patients in HC.
 
 ---
 
-### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^4e7d83b2]. The American Journal of Psychiatry (2007). Medium credibility.
+### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^1131NCCZ]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Regarding medical management for behavioral and psychological symptoms of dementia, more specifically with respect to anticonvulsants, APA 2007 guidelines recommend to prefer lorazepam and oxazepam over agents with a longer half-life, such as diazepam or clonazepam.
 
 ---
 
-### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^2d0a4c49]. ESMO Open (2021). High credibility.
+### Care of the adult cancer patient at the end of life: ESMO clinical practice guidelines [^1129muJY]. ESMO Open (2021). High credibility.
 
 Regarding medical management for dyspnea in palliative care, more specifically with respect to benzodiazepines, ESMO 2021 guidelines recommend to consider offering benzodiazepines for palliative sedation in patients in the last days of life with refractory breathlessness despite other treatments.
 
 ---
 
-### Deprescribing benzodiazepines among hospitalised older adults: quality improvement initiative [^baed38d0]. BMJ Open Quality (2019). High credibility.
+### Deprescribing benzodiazepines among hospitalised older adults: quality improvement initiative [^115n8NsZ]. BMJ Open Quality (2019). High credibility.
 
 Conclusion
 
@@ -1050,7 +1050,7 @@ The most commonly encountered side effects were worsening anxiety; better screen
 
 ---
 
-### What are the best medications for panic disorder?… [^6f711504]. AAFP (2022). Medium credibility.
+### What are the best medications for panic disorder?… [^113rDcJF]. AAFP (2022). Medium credibility.
 
 Jennifer Middleton, MD, MPH Posted on February 28, 2022 The COVID-19 pandemic is continuing to worsen mental health around the world; early studies from 2020 were already showing an increased prevalence of depression, anxiety, and panic disorder, and studies from 2021 demonstrate continued increasing rates of these mental health disorders. With several Food and Drug Administration approved medications for panic disorder currently available in the United States, choosing an initial medication for patients with a new diagnosis can feel overwhelming. A newly published systematic review and network meta-analysis sought to identify the most effective medications for panic disorder and found that sertraline and escitalopram had the best balance of benefit and adverse events. They identified 87 studies with a total of 12, 800 participants and followed appropriate systematic review methodology to extract and synthesize the data.
 
@@ -1062,37 +1062,37 @@ Medications are a useful tool for treating panic disorder, but cognitive behavio
 
 ---
 
-### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^45e8c4b3]. Journal of General Internal Medicine (2025). High credibility.
+### Joint clinical practice guideline on benzodiazepine tapering: considerations when risks outweigh benefits [^112neL8z]. Journal of General Internal Medicine (2025). High credibility.
 
 Benzodiazepine tapering guideline — intended audience and implementation notes that the intended audience is clinicians — including behavioral health professionals, physicians, advanced practice providers, and pharmacists — who prescribe BZDs or provide or support treatment for indications for which BZDs are often prescribed, and it is relevant to diverse settings such as primary care offices, ambulatory care clinics, EDs, hospitals, and outpatient and residential addiction and mental health treatment settings. It adds that some recommendations only apply to specific settings and that clinicians in palliative and end-of-life care are not the intended audience. It clarifies that this Guideline is not intended to be a source of rigid laws, regulations, or policies related to BZD prescribing or tapering and that the recommendations support flexible, patient-centered care. It also states that clinicians should make every effort to promote patients' understanding of and adherence to prescribed and recommended treatment services to improve outcomes, that patients should be informed of the risks, benefits, and alternative treatment options and welcomed as active partners to shared decision-making, and that recommendations in this Guideline do not supersede any federal or state regulations.
 
 ---
 
-### Management of anxiety and depression in adult survivors of cancer: ASCO guideline update [^9aee2461]. Journal of Clinical Oncology (2023). High credibility.
+### Management of anxiety and depression in adult survivors of cancer: ASCO guideline update [^114xh5nG]. Journal of Clinical Oncology (2023). High credibility.
 
 ASCO guideline — Recommendation 3.4 (anxiety, pharmacologic options) states that treating clinicians may offer a pharmacologic regimen for anxiety in patients without access to first-line treatment, those expressing a preference for pharmacotherapy, or those who do not improve following first-line psychological or behavioral management. Type: Evidence based; benefits outweigh harms; Evidence quality: Low; Strength of recommendation: Weak.
 
 ---
 
-### Psychopharmacology in supportive care of cancer: a review for the clinician. IV. other psychotropic agents [^c08240ef]. Supportive Care in Cancer (2001). Low credibility.
+### Psychopharmacology in supportive care of cancer: a review for the clinician. IV. other psychotropic agents [^115vQNer]. Supportive Care in Cancer (2001). Low credibility.
 
 Besides benzodiazepine, antidepressant and neuroleptic agents, all of which have established roles in supportive care, other psychotropic drugs deserve consideration in selected conditions affecting patients with advanced cancer. This article briefly reviews relevant aspects of miscellaneous psychotropics available for secondline treatment, including nonbenzodiazepine sedative, hypnotic and anxiolytic drugs, anaesthetic agents, stimulants, and analgesic adjuvants acting on the central nervous system. The proper use of such subsidiary psychotropic agents requires that both their specificities and the particular characteristics of palliative care patients are taken into account.
 
 ---
 
-### Anxiety in medically ill patients [^61357092]. Current Psychiatry Reports (2006). Low credibility.
+### Anxiety in medically ill patients [^113V7kRf]. Current Psychiatry Reports (2006). Low credibility.
 
 Anxiety disorders and anxiety symptoms are highly prevalent in the general population and more so in the medically ill. They have a number of negative consequences for these patients and may worsen the outcome of the medical illness and increase health care utilization. In the evaluation of these patients, it is of paramount importance to identify the etiology of the anxiety and, in particular, to differentiate primary from secondary anxiety. Management includes medications (especially benzodiazepines and selective serotonin reuptake inhibitors) and psychotherapy (particularly cognitive-behavioral therapy).
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^7d27d4c7]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^114CYqCa]. Critical Care Medicine (2025). High credibility.
 
 SCCM PADIS guideline update — scope and domains describes prior guidance in the 2013 Pain, Agitation, and Delirium guidelines and the 2018 Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption (PADIS) guidelines, and explains that this update focuses on anxiety, agitation/sedation, delirium, immobility, and sleep disruption in adult ICU patients; the objective was to update elements of the 2018 PADIS guidelines with new evidence and include both pharmacologic and nonpharmacologic interventions, noting that anxiety management was not specifically addressed in 2018 and the "Pain" subpanel focused on anxiety to address this gap.
 
 ---
 
-### Zopiclone versus placebo for short-term treatment of insomnia in patients with advanced cancer-a double-blind, randomized placebo-controlled clinical multicenter phase IV trial [^640e5c54]. Supportive Care in Cancer (2022). Medium credibility.
+### Zopiclone versus placebo for short-term treatment of insomnia in patients with advanced cancer-a double-blind, randomized placebo-controlled clinical multicenter phase IV trial [^113ZLax3]. Supportive Care in Cancer (2022). Medium credibility.
 
 Introduction
 
@@ -1104,7 +1104,7 @@ Several classes of sleep medications are used to treat sleep disturbances in can
 
 ---
 
-### Hospice agency characteristics associated with benzodiazepine and antipsychotic prescribing [^20a88f75]. Journal of the American Geriatrics Society (2023). Medium credibility.
+### Hospice agency characteristics associated with benzodiazepine and antipsychotic prescribing [^111qRDqe]. Journal of the American Geriatrics Society (2023). Medium credibility.
 
 Background:
 
@@ -1124,19 +1124,19 @@ Prescribing in hospice settings varies markedly across factors other than the cl
 
 ---
 
-### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^458a559c]. Critical Care Medicine (2025). High credibility.
+### A focused update to the clinical practice guidelines for the prevention and management of pain, anxiety, agitation / sedation, delirium, immobility, and sleep disruption in adult patients in the ICU [^112n6cR9]. Critical Care Medicine (2025). High credibility.
 
 Agitation and sedation in mechanically ventilated adult ICU patients — the PICO question considers dexmedetomidine, propofol, or any sedative compared with propofol for patients admitted to the ICU who are mechanically ventilated and require sedation, with outcomes including occurrence of delirium and agitation, duration of mechanical ventilation, ICU or hospital length of stay, use of additional rescue medications within ICU, mortality, quality of life post-ICU/functional/cognitive abilities, and adverse events.
 
 ---
 
-### Terminal sedation in palliative medicine – definition and review of the literature [^56d30c3a]. Supportive Care in Cancer (2001). Low credibility.
+### Terminal sedation in palliative medicine – definition and review of the literature [^113Dipn5]. Supportive Care in Cancer (2001). Low credibility.
 
 This paper reviews the reported use of nonopioid medications for terminal sedation. To provide a summary of the available literature, an electronic database search was performed. Thirteen series and 1 4 case reports were identified. Various symptoms, including agitation, pain, and confusion, required terminal sedation. Eleven drugs were used in 342 patients. Most patients were also treated with concurrent opioids and received terminal sedation in an inpatient hospice unit. Midazolam was the most common sedative employed. A good response — defined as adequate sedation — ranged between 75% and 100%. The median time to death following the introduction of terminal sedation was greater than 1 day. No agent appears to have superior efficacy or limiting toxicity.
 
 ---
 
-### Symptom management in people dying with COVID-19: multinational observational study [^ac2dd4e8]. BMJ Supportive & Palliative Care (2022). High credibility.
+### Symptom management in people dying with COVID-19: multinational observational study [^115QGGLw]. BMJ Supportive & Palliative Care (2022). High credibility.
 
 Limitations
 
@@ -1148,6 +1148,6 @@ Furthermore, there may be non-response, sample and other biases. We cannot tell 
 
 ---
 
-### Management of anxiety and depression in adult survivors of cancer: ASCO guideline update [^5431ec83]. Journal of Clinical Oncology (2023). High credibility.
+### Management of anxiety and depression in adult survivors of cancer: ASCO guideline update [^1139pjGW]. Journal of Clinical Oncology (2023). High credibility.
 
 Depression — Recommendation 2.4 (pharmacologic management): Treating clinicians may offer a pharmacologic regimen for depression in patients without access to first-line treatment, those expressing a preference for pharmacotherapy, or those who do not improve following first-line psychological or behavioral management; pharmacotherapy should also be considered for patients with a history of treatment response to medications, severe symptoms, or accompanying psychotic features (Type: Evidence based; benefits outweigh harms; Evidence quality: Low; Strength of recommendation: Weak). Qualifying statement: Despite the limitations and weak evidence for pharmacologic management, empirically there is some evidence of benefit to warrant their inclusion as an alternative option.

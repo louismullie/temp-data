@@ -17,27 +17,27 @@ What antibiotics can be used to treat colitis
 
 > Let me first confirm the clinical frame: "colitis" is not a single disease but an umbrella term encompassing infectious colitis (notably C. difficile), inflammatory colitis (ulcerative colitis and Crohn's disease), ischemic colitis, drug-induced colitis, and microscopic colitis. Antibiotics are relevant in some of these but not all, so I need to ensure I match therapy to etiology rather than use antibiotics indiscriminately.
 
-> For ulcerative colitis, I should double-check the highest-certainty evidence. The 2022 Cochrane review of 12 RCTs found high-certainty evidence that antibiotics are no better than placebo for inducing remission in UC, and low-certainty evidence for no difference in clinical response or serious adverse events, so routine antibiotics are not recommended for induction or maintenance in UC [^f1cb89d1]. Hold on, let's not jump to conclusions — some older or smaller studies suggested signals with broad-spectrum regimens, but the Cochrane synthesis overrides those exploratory findings, and contemporary guidelines align with this, advising against antibiotics for induction or maintenance in moderate-to-severe UC and in acute severe UC without infection [^70926eb9] [^a247db76] [^36da822c] [^ec30528e].
+> For ulcerative colitis, I should double-check the highest-certainty evidence. The 2022 Cochrane review of 12 RCTs found high-certainty evidence that antibiotics are no better than placebo for inducing remission in UC, and low-certainty evidence for no difference in clinical response or serious adverse events, so routine antibiotics are not recommended for induction or maintenance in UC [^117BUPAQ]. Hold on, let's not jump to conclusions — some older or smaller studies suggested signals with broad-spectrum regimens, but the Cochrane synthesis overrides those exploratory findings, and contemporary guidelines align with this, advising against antibiotics for induction or maintenance in moderate-to-severe UC and in acute severe UC without infection [^113stoJG] [^1159b8Yd] [^112QKj79] [^1173AJuT].
 
-> Wait, let me verify the nuance for acute severe UC. Guidelines allow that if there is systemic toxicity or suspected extracolonic infection, antibiotics may be used for the infection, but not to treat the underlying UC inflammatory process itself; otherwise, routine broad-spectrum antibiotics should be avoided in ASUC without infection, and four trials in ASUC showed no benefit from adjunctive antibiotics on response or colectomy rates [^b5c7fe74] [^08ba65be]. I should confirm that this applies even when patients are on immunosuppression; yes, the recommendation stands regardless of concomitant steroids or biologics, with antibiotics reserved for documented infection or systemic toxicity concerns [^70926eb9].
+> Wait, let me verify the nuance for acute severe UC. Guidelines allow that if there is systemic toxicity or suspected extracolonic infection, antibiotics may be used for the infection, but not to treat the underlying UC inflammatory process itself; otherwise, routine broad-spectrum antibiotics should be avoided in ASUC without infection, and four trials in ASUC showed no benefit from adjunctive antibiotics on response or colectomy rates [^115eVwCo] [^111DwWa1]. I should confirm that this applies even when patients are on immunosuppression; yes, the recommendation stands regardless of concomitant steroids or biologics, with antibiotics reserved for documented infection or systemic toxicity concerns [^113stoJG].
 
-> For Clostridioides difficile colitis, I need to check first-line therapy and severity stratification. Current guidelines recommend oral vancomycin or fidaxomicin as first-line for initial CDI, with vancomycin preferred in severe disease and fidaxomicin associated with lower recurrence; metronidazole is no longer first-line in adults due to lower efficacy, though it may be considered for mild cases if access is limited [^f037355f] [^b0ae6c74]. Hold on, I should verify the strength of evidence: multiple RCTs and meta-analyses show vancomycin superiority over metronidazole overall, and fidaxomicin superiority to vancomycin for sustained cure, which supports choosing vancomycin or fidaxomicin up front when available [^86aeccbe] [^c78f4879].
+> For Clostridioides difficile colitis, I need to check first-line therapy and severity stratification. Current guidelines recommend oral vancomycin or fidaxomicin as first-line for initial CDI, with vancomycin preferred in severe disease and fidaxomicin associated with lower recurrence; metronidazole is no longer first-line in adults due to lower efficacy, though it may be considered for mild cases if access is limited [^11798aBY] [^115WwQeP]. Hold on, I should verify the strength of evidence: multiple RCTs and meta-analyses show vancomycin superiority over metronidazole overall, and fidaxomicin superiority to vancomycin for sustained cure, which supports choosing vancomycin or fidaxomicin up front when available [^114Sg48u] [^1166rfTe].
 
-> I will now examine fulminant C. difficile colitis. In severe or fulminant disease with ileus or systemic toxicity, dual therapy with high-dose oral or rectal vancomycin plus intravenous metronidazole is recommended, with early surgical consultation and consideration of colectomy or diverting loop ileostomy with lavage if medical therapy fails; this approach is consistently endorsed by surgical and infectious disease guidelines [^21521990] [^150d858c] [^6fc90925]. Let me reconsider whether IV vancomycin helps; no, IV vancomycin is not effective for colonic CDI because it does not reach the lumen, so oral or rectal vancomycin is required for local effect [^e6fab019].
+> I will now examine fulminant C. difficile colitis. In severe or fulminant disease with ileus or systemic toxicity, dual therapy with high-dose oral or rectal vancomycin plus intravenous metronidazole is recommended, with early surgical consultation and consideration of colectomy or diverting loop ileostomy with lavage if medical therapy fails; this approach is consistently endorsed by surgical and infectious disease guidelines [^111rQAjZ] [^111YDHLo] [^113rj9mn]. Let me reconsider whether IV vancomycin helps; no, IV vancomycin is not effective for colonic CDI because it does not reach the lumen, so oral or rectal vancomycin is required for local effect [^116uSMcL].
 
-> For pouchitis after ileal pouch-anal anastomosis, I should confirm that antibiotics are actually indicated. Yes, guidelines suggest antibiotics for acute pouchitis, with ciprofloxacin or metronidazole for 2–4 weeks as first-line; combination therapy may be used if single-agent therapy fails, and chronic antibiotic-dependent pouchitis may warrant chronic or rotating antibiotics with the lowest effective dose and intermittent breaks to mitigate resistance risk [^255899e1] [^9259e026] [^7c4d736e]. Hold on, I should verify the evidence base: small RCTs and observational data support antibiotic benefit in acute pouchitis, though certainty is low, which is why recommendations are conditional and emphasize individualized risk–benefit assessment [^9259e026].
+> For pouchitis after ileal pouch-anal anastomosis, I should confirm that antibiotics are actually indicated. Yes, guidelines suggest antibiotics for acute pouchitis, with ciprofloxacin or metronidazole for 2–4 weeks as first-line; combination therapy may be used if single-agent therapy fails, and chronic antibiotic-dependent pouchitis may warrant chronic or rotating antibiotics with the lowest effective dose and intermittent breaks to mitigate resistance risk [^111xNJWt] [^114jyP4Z] [^114BHUow]. Hold on, I should verify the evidence base: small RCTs and observational data support antibiotic benefit in acute pouchitis, though certainty is low, which is why recommendations are conditional and emphasize individualized risk–benefit assessment [^114jyP4Z].
 
-> But wait, what if the "colitis" is microscopic colitis or drug-induced colitis? I need to ensure I don't overgeneralize. For microscopic colitis, guidelines state insufficient evidence to recommend antibiotics, so antibiotics are not indicated. For drug-induced colitis, management is withdrawal of the offending agent and supportive care, not antibiotics. And for ischemic colitis, antibiotics are not routinely indicated unless there is superinfection or perforation risk, so I should avoid reflex antibiotic use in these scenarios [^ef6db616] [^13aae27e].
+> But wait, what if the "colitis" is microscopic colitis or drug-induced colitis? I need to ensure I don't overgeneralize. For microscopic colitis, guidelines state insufficient evidence to recommend antibiotics, so antibiotics are not indicated. For drug-induced colitis, management is withdrawal of the offending agent and supportive care, not antibiotics. And for ischemic colitis, antibiotics are not routinely indicated unless there is superinfection or perforation risk, so I should avoid reflex antibiotic use in these scenarios [^1177xthb] [^111WAATX].
 
-> Let me synthesize a practical, etiology-specific approach. Do not use antibiotics for ulcerative colitis flares in the absence of infection. Treat C. difficile colitis with vancomycin or fidaxomicin, escalate to combination therapy with high-dose oral/rectal vancomycin plus IV metronidazole if fulminant, and involve surgery early if failing. Treat pouchitis with ciprofloxacin or metronidazole for 2–4 weeks, consider combinations if refractory, and reserve chronic or rotating antibiotics for chronic antibiotic-dependent disease. Otherwise, avoid antibiotics unless there is a documented infection or a guideline-supported indication, given risks of dysbiosis and resistance [^f1cb89d1] [^f037355f] [^21521990] [^255899e1].
+> Let me synthesize a practical, etiology-specific approach. Do not use antibiotics for ulcerative colitis flares in the absence of infection. Treat C. difficile colitis with vancomycin or fidaxomicin, escalate to combination therapy with high-dose oral/rectal vancomycin plus IV metronidazole if fulminant, and involve surgery early if failing. Treat pouchitis with ciprofloxacin or metronidazole for 2–4 weeks, consider combinations if refractory, and reserve chronic or rotating antibiotics for chronic antibiotic-dependent disease. Otherwise, avoid antibiotics unless there is a documented infection or a guideline-supported indication, given risks of dysbiosis and resistance [^117BUPAQ] [^11798aBY] [^111rQAjZ] [^111xNJWt].
 
-> I should double-check dosing details I'm implying. For CDI, vancomycin 125 mg orally four times daily for 10–14 days is standard, with 500 mg every 6 hours orally or by enema plus IV metronidazole 500 mg every 8 hours for fulminant disease; fidaxomicin 200 mg twice daily for 10 days is an alternative with lower recurrence. For pouchitis, ciprofloxacin 500 mg twice daily or metronidazole 500 mg twice daily for 2–4 weeks is typical, with combination regimens such as ciprofloxacin plus metronidazole or ciprofloxacin plus tinidazole considered if response is suboptimal, and chronic regimens individualized with intermittent breaks to limit resistance [^f037355f] [^21521990] [^255899e1] [^7c4d736e].
+> I should double-check dosing details I'm implying. For CDI, vancomycin 125 mg orally four times daily for 10–14 days is standard, with 500 mg every 6 hours orally or by enema plus IV metronidazole 500 mg every 8 hours for fulminant disease; fidaxomicin 200 mg twice daily for 10 days is an alternative with lower recurrence. For pouchitis, ciprofloxacin 500 mg twice daily or metronidazole 500 mg twice daily for 2–4 weeks is typical, with combination regimens such as ciprofloxacin plus metronidazole or ciprofloxacin plus tinidazole considered if response is suboptimal, and chronic regimens individualized with intermittent breaks to limit resistance [^11798aBY] [^111rQAjZ] [^111xNJWt] [^114BHUow].
 
-> Finally, I need to ensure safety and stewardship are front and center. Antibiotics can precipitate or worsen C. difficile, so I should minimize unnecessary exposure, reassess the need for concomitant non-CDI antibiotics in patients with CDI, and prefer agents with less microbiome disruption when treating CDI, such as fidaxomicin when available. In UC, avoid antibiotics unless there is a clear infectious indication, and in pouchitis, use the lowest effective dose with drug holidays to reduce resistance and adverse effects [^7d1e93ea] [^f037355f] [^7c4d736e].
+> Finally, I need to ensure safety and stewardship are front and center. Antibiotics can precipitate or worsen C. difficile, so I should minimize unnecessary exposure, reassess the need for concomitant non-CDI antibiotics in patients with CDI, and prefer agents with less microbiome disruption when treating CDI, such as fidaxomicin when available. In UC, avoid antibiotics unless there is a clear infectious indication, and in pouchitis, use the lowest effective dose with drug holidays to reduce resistance and adverse effects [^114CVivu] [^11798aBY] [^114BHUow].
 
 ---
 
-Antibiotics are not routinely used for colitis unless there is a specific infection or complication. For **ulcerative colitis**, antibiotics are not recommended for induction or maintenance of remission [^f1cb89d1] [^a247db76] [^36da822c]; reserve them for severe flares with systemic toxicity or suspected infection [^b5c7fe74] [^ebe74ade]. For **C. difficile colitis**, use oral vancomycin or fidaxomicin as first-line therapy [^f037355f] [^b0ae6c74]; metronidazole is an alternative only if first-line agents are unavailable [^b0ae6c74]. For **pouchitis**, short courses of ciprofloxacin or metronidazole are first-line [^255899e1] [^9259e026]; chronic or recurrent cases may need rotating antibiotics or advanced therapies [^544e43f6] [^2ac27f39]. Avoid routine antibiotics in microscopic colitis [^ef6db616] and ischemic colitis unless infection is suspected.
+Antibiotics are not routinely used for colitis unless there is a specific infection or complication. For **ulcerative colitis**, antibiotics are not recommended for induction or maintenance of remission [^117BUPAQ] [^1159b8Yd] [^112QKj79]; reserve them for severe flares with systemic toxicity or suspected infection [^115eVwCo] [^1172jnAZ]. For **C. difficile colitis**, use oral vancomycin or fidaxomicin as first-line therapy [^11798aBY] [^115WwQeP]; metronidazole is an alternative only if first-line agents are unavailable [^115WwQeP]. For **pouchitis**, short courses of ciprofloxacin or metronidazole are first-line [^111xNJWt] [^114jyP4Z]; chronic or recurrent cases may need rotating antibiotics or advanced therapies [^1139zFQZ] [^1126Powe]. Avoid routine antibiotics in microscopic colitis [^1177xthb] and ischemic colitis unless infection is suspected.
 
 ---
 
@@ -45,9 +45,9 @@ Antibiotics are not routinely used for colitis unless there is a specific infect
 
 Antibiotics are **not routinely indicated** for colitis; their use is limited to specific scenarios:
 
-- **Infectious colitis**: Particularly C. difficile infection (CDI) [^f037355f], which is a common and serious complication in patients with colitis [^ce026dcc].
-- **Severe ulcerative colitis (UC) flares**: Antibiotics may be considered in severe UC with systemic toxicity or suspected infection, but routine use is not recommended [^b5c7fe74] [^70926eb9].
-- **Pouchitis**: Antibiotics are first-line therapy for acute pouchitis following ileal pouch-anal anastomosis (IPAA) [^255899e1] [^9259e026].
+- **Infectious colitis**: Particularly C. difficile infection (CDI) [^11798aBY], which is a common and serious complication in patients with colitis [^116GRGNX].
+- **Severe ulcerative colitis (UC) flares**: Antibiotics may be considered in severe UC with systemic toxicity or suspected infection, but routine use is not recommended [^115eVwCo] [^113stoJG].
+- **Pouchitis**: Antibiotics are first-line therapy for acute pouchitis following ileal pouch-anal anastomosis (IPAA) [^111xNJWt] [^114jyP4Z].
 
 ---
 
@@ -55,32 +55,32 @@ Antibiotics are **not routinely indicated** for colitis; their use is limited to
 
 ### Ulcerative colitis (UC)
 
-- **Routine use**: Not recommended for induction or maintenance of remission [^f1cb89d1] [^a247db76] [^36da822c].
-- **Severe flares**: Consider antibiotics only if there is systemic toxicity or suspected infection [^b5c7fe74] [^ebe74ade].
-- **Evidence**: High-certainty evidence shows no benefit of antibiotics over placebo for induction of remission [^f1cb89d1].
+- **Routine use**: Not recommended for induction or maintenance of remission [^117BUPAQ] [^1159b8Yd] [^112QKj79].
+- **Severe flares**: Consider antibiotics only if there is systemic toxicity or suspected infection [^115eVwCo] [^1172jnAZ].
+- **Evidence**: High-certainty evidence shows no benefit of antibiotics over placebo for induction of remission [^117BUPAQ].
 
 ---
 
 ### Clostridioides difficile infection (CDI)
 
-- **First-line therapy**: Oral vancomycin or fidaxomicin [^f037355f] [^b0ae6c74].
-- **Alternative**: Metronidazole only if first-line agents are unavailable [^b0ae6c74].
-- **Fulminant disease**: High-dose vancomycin (oral or rectal) plus intravenous metronidazole [^21521990] [^150d858c].
-- **Recurrent CDI**: Fidaxomicin or vancomycin taper; consider fecal microbiota transplantation (FMT) [^f037355f] [^78f27519].
+- **First-line therapy**: Oral vancomycin or fidaxomicin [^11798aBY] [^115WwQeP].
+- **Alternative**: Metronidazole only if first-line agents are unavailable [^115WwQeP].
+- **Fulminant disease**: High-dose vancomycin (oral or rectal) plus intravenous metronidazole [^111rQAjZ] [^111YDHLo].
+- **Recurrent CDI**: Fidaxomicin or vancomycin taper; consider fecal microbiota transplantation (FMT) [^11798aBY] [^1146JxGY].
 
 ---
 
 ### Pouchitis
 
-- **First-line therapy**: Ciprofloxacin or metronidazole for 2–4 weeks [^255899e1] [^9259e026].
-- **Chronic or recurrent pouchitis**: Rotating antibiotics or advanced immunosuppressive therapies (e.g. vedolizumab) [^544e43f6] [^2ac27f39].
-- **Evidence**: Moderate evidence supports antibiotic efficacy in acute pouchitis [^9259e026].
+- **First-line therapy**: Ciprofloxacin or metronidazole for 2–4 weeks [^111xNJWt] [^114jyP4Z].
+- **Chronic or recurrent pouchitis**: Rotating antibiotics or advanced immunosuppressive therapies (e.g. vedolizumab) [^1139zFQZ] [^1126Powe].
+- **Evidence**: Moderate evidence supports antibiotic efficacy in acute pouchitis [^114jyP4Z].
 
 ---
 
 ### Microscopic colitis and ischemic colitis
 
-Routine antibiotics are **not recommended** unless infection is suspected or confirmed [^ef6db616].
+Routine antibiotics are **not recommended** unless infection is suspected or confirmed [^1177xthb].
 
 ---
 
@@ -88,9 +88,9 @@ Routine antibiotics are **not recommended** unless infection is suspected or con
 
 Antibiotic use in colitis carries risks, including:
 
-- **Clostridioides difficile infection**: Antibiotics can disrupt the gut microbiota, increasing CDI risk [^74e7b5ae].
-- **Antibiotic resistance**: Prolonged or inappropriate use can promote resistance [^e086aef0].
-- **Adverse effects**: Gastrointestinal upset, allergic reactions, and rare severe reactions [^86aeccbe].
+- **Clostridioides difficile infection**: Antibiotics can disrupt the gut microbiota, increasing CDI risk [^113zKPky].
+- **Antibiotic resistance**: Prolonged or inappropriate use can promote resistance [^116jsTy9].
+- **Adverse effects**: Gastrointestinal upset, allergic reactions, and rare severe reactions [^114Sg48u].
 
 ---
 
@@ -112,7 +112,7 @@ Antibiotics are **not routinely used** for colitis and should be reserved for sp
 
 ## References
 
-### Antibiotics for the induction and maintenance of remission in ulcerative colitis [^f1cb89d1]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+### Antibiotics for the induction and maintenance of remission in ulcerative colitis [^117BUPAQ]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
 
 Background
 
@@ -144,73 +144,73 @@ There is high certainty evidence that there is no difference between antibiotics
 
 ---
 
-### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^1907f3ca]. Clinical Nutrition (2023). High credibility.
+### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^111e7MyB]. Clinical Nutrition (2023). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of acute severe UC, antibiotics, ESPEN 2023 guidelines recommend to insufficient evidence to recommend an antibiotic regimen for the treatment of active disease, including acute severe disease, in patients with UC.
 
 ---
 
-### Treatment of inflammatory bowel disease with antibiotics [^45db398c]. Gastroenterology Clinics of North America (2004). Low credibility.
+### Treatment of inflammatory bowel disease with antibiotics [^112nZnHh]. Gastroenterology Clinics of North America (2004). Low credibility.
 
 Although antibiotics are clearly recognized as having a role in treating the infectious complications of inflammatory bowel diseases (IBD), their impact in the primary treatment of IBD has long been an area of speculation. Over the past decade there is increasing evidence that luminal gut bacteria play a role in the pathogenesis of IBD, particularly Crohn's disease. Compelling evidence that normal commensal bacteria induce chronic intestinal inflammation in susceptible rodents provides an excellent rationale for treatment of human IBD with antibiotics. This article summarizes published studies of antibiotics in IBD patients and reviews available data for the use of antibiotic therapy in Crohn's disease and ulcerative colitis.
 
 ---
 
-### Antibiotics in IBD: still a role in the biological era? [^58f83e39]. Inflammatory Bowel Diseases (2018). Low credibility.
+### Antibiotics in IBD: still a role in the biological era? [^113GuHxt]. Inflammatory Bowel Diseases (2018). Low credibility.
 
 Despite compelling evidence pointing to a critical role of gut microflora in inflammatory bowel disease (IBD) pathogenesis, the role of antibiotics in clinical practice remains limited, largely due to heterogeneous trials with often conflicting evidence. In this review, we revisit previous randomized controlled trials and high-quality uncontrolled studies in an effort to better elucidate the role of antibiotics in contemporary treatment algorithms. The most established role of antibiotics is in perianal Crohn's disease (CD), utilizing ciprofloxacin with or without metronidazole often as an adjunct to biological therapy. Evidence also points to a likely modest role of various antibiotic classes in mild to moderate luminal CD, including ciprofloxacin, metronidazole, azithromycin, and rifaximin. The benefit of metronidazole in preventing postoperative recurrence in CD is well reported; however, the long-term benefit of this intervention remains uncertain. The use of antibiotics in ulcerative colitis (UC) is even more controversial, but studies using broad-spectrum oral antibiotic cocktails have reported a possible role in acute severe colitis and chronic persistent UC. Similarly, the role of oral vancomycin and gentamicin in very early-onset IBD has interesting preliminary results. Adverse events of antibiotics, the resulting alterations in the microbiome with its associated unknown long-term sequela, and the emergence of antibiotic-resistant strains must be carefully balanced. Therefore, although antibiotics may be underused in the treatment of IBD, their integration into clinical practice must be approached judiciously and individually.
 
 ---
 
-### European guidelines on microscopic colitis: United European Gastroenterology and European Microscopic Colitis Group statements and recommendations [^ef6db616]. United European Gastroenterology Journal (2021). High credibility.
+### European guidelines on microscopic colitis: United European Gastroenterology and European Microscopic Colitis Group statements and recommendations [^1177xthb]. United European Gastroenterology Journal (2021). High credibility.
 
 Regarding medical management for microscopic colitis, more specifically with respect to antibiotics, EMCG/UEG 2021 guidelines recommend to insufficient evidence to recommend antibiotics for the treatment of patients with microscopic colitis.
 
 ---
 
-### AGA clinical practice guidelines on the management of moderate to severe ulcerative colitis [^70926eb9]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the management of moderate to severe ulcerative colitis [^113stoJG]. Gastroenterology (2020). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of acute severe UC, antibiotics, AGA 2020 guidelines recommend to avoid using adjunctive antibiotics in hospitalized adult patients with acute severe UC without infections.
 
 ---
 
-### British society of gastroenterology guidelines on inflammatory bowel disease in adults: 2025 [^36da822c]. Gut (2025). High credibility.
+### British society of gastroenterology guidelines on inflammatory bowel disease in adults: 2025 [^112QKj79]. Gut (2025). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to maintenance of remission, antibiotics, BSG 2025 guidelines recommend to avoid using antibiotics for the maintenance of remission in patients with moderate-to-severe UC.
 
 ---
 
-### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^6b1d2983]. Clinical Nutrition (2023). High credibility.
+### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^113joUH8]. Clinical Nutrition (2023). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to maintenance of remission, antibiotics, ESPEN 2023 guidelines recommend to insufficient evidence to recommend an antibiotic regimen for the maintenance of remission in patients with UC.
 
 ---
 
-### Use of antibiotics in the treatment of inflammatory bowel disease [^b6265bce]. Inflammatory Bowel Diseases (2006). Low credibility.
+### Use of antibiotics in the treatment of inflammatory bowel disease [^115f3daM]. Inflammatory Bowel Diseases (2006). Low credibility.
 
 An increasing amount of evidence suggests that enteric flora may have a role in the pathogenesis of inflammatory bowel disease (IBD). Patients with IBD appear to have an altered composition of luminal bacteria that may provide the stimulus for the chronic inflammation characterizing IBD. The suspected role of bacteria in the pathogenesis of IBD provides the rationale for using agents, such as antibiotics, that alter the intestinal flora. However, there remains much uncertainty about the optimal use of antibiotics in the treatment of Crohn's disease, ulcerative colitis, and pouchitis. This article reviews the literature and presents a clinical model for the use of antibiotics in IBD.
 
 ---
 
-### British society of gastroenterology guidelines on inflammatory bowel disease in adults: 2025 [^a247db76]. Gut (2025). High credibility.
+### British society of gastroenterology guidelines on inflammatory bowel disease in adults: 2025 [^1159b8Yd]. Gut (2025). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to induction of remission (moderate-to-severe disease, antibiotics), BSG 2025 guidelines recommend to avoid using antibiotics for the induction of remission in patients with moderate-to-severe UC.
 
 ---
 
-### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^4e0d14ba]. Clinical Nutrition (2023). High credibility.
+### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^112ziRpV]. Clinical Nutrition (2023). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of pouchitis, antibiotics, ESPEN 2023 guidelines recommend to insufficient evidence to recommend an antibiotic regimen for the prevention or management of chronic resistant pouchitis.
 
 ---
 
-### ACG clinical guideline update: ulcerative colitis in adults [^ec30528e]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline update: ulcerative colitis in adults [^1173AJuT]. The American Journal of Gastroenterology (2025). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of acute severe UC, antibiotics, ACG 2025 guidelines recommend to do not use broad-spectrum antibiotics routinely in the management of acute severe UC.
 
 ---
 
-### Antibiotics and probiotics in inflammatory bowel disease: why, when, and how [^fc114fca]. Current Opinion in Gastroenterology (2009). Low credibility.
+### Antibiotics and probiotics in inflammatory bowel disease: why, when, and how [^117ShhGu]. Current Opinion in Gastroenterology (2009). Low credibility.
 
 Purpose Of Review
 
@@ -226,7 +226,7 @@ Recent literature provides increasing support for the use of antibiotics in Croh
 
 ---
 
-### Study of antibiotics in the treatment of colonic Crohn's disease… [^171ee67e]. ClinicalTrials (2005). Low credibility.
+### Study of antibiotics in the treatment of colonic Crohn's disease… [^111bH6UD]. ClinicalTrials (2005). Low credibility.
 
 Among such strategies is the use of a combination of metronidazole and ciprofloxacin. These broad-spectrum antibiotics control CD symptoms by acting on the intestinal bacteria that can contribute to chronic inflammation. More investigation is needed to firmly establish the usefulness of this therapy because previous clinical trials have given mixed results, although they have suggested that antibiotics can be particularly useful in cases of Crohn's colitis. Because these earlier studies have lacked a large enough patient population with colonic involvement, a trial focusing on this CD subgroup with a sufficient number of subjects will help to clarify the value of combining metronidazole and ciprofloxacin. The proposed study will test the hypothesis that combination antibiotic therapy is effective in the treatment of CD involving the colon.
 
@@ -237,25 +237,25 @@ Eligible patients will be randomly assigned to receive one of two treatment regi
 
 ---
 
-### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^ebe74ade]. World Journal of Emergency Surgery (2021). High credibility.
+### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^1172jnAZ]. World Journal of Emergency Surgery (2021). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of acute complications, AAST/WSES 2021 guidelines recommend to administer antibiotics according to the epidemiology (against Gram-negative aerobic and facultative bacilli and Gram-positive Streptococci and obligate anaerobic bacilli) and resistance of the setting in duration depending on the patient's clinical and biochemical findings (such as CRP).
 
 ---
 
-### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^6d02229e]. Clinical Nutrition (2023). High credibility.
+### ESPEN guideline on clinical nutrition in inflammatory bowel disease [^113ncNKF]. Clinical Nutrition (2023). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of pouchitis, antibiotics, ESPEN 2023 guidelines recommend to consider administering ciprofloxacin (first-line choice) or metronidazole as initial therapy in patients with acute pouchitis.
 
 ---
 
-### ACG clinical guideline update: ulcerative colitis in adults [^b5c7fe74]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline update: ulcerative colitis in adults [^115eVwCo]. The American Journal of Gastroenterology (2025). High credibility.
 
 Acute severe ulcerative colitis (ASUC) — antibiotics: Four clinical trials of adjuvant antibiotics in hospitalized ASUC found no difference in response to medical therapy or need for surgery, so the use of antibiotics should be restricted to those with suspected extracolonic complications or systemic toxicity; agents studied included metronidazole, tobramycin, ciprofloxacin, and vancomycin.
 
 ---
 
-### Antibiotic treatment for Clostridium difficile-associated diarrhea in adults [^4e4b9077]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
+### Antibiotic treatment for Clostridium difficile-associated diarrhea in adults [^11315R6N]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
 
 Background
 
@@ -287,13 +287,13 @@ Current evidence leads to uncertainty whether mild CDAD needs to be treated. The
 
 ---
 
-### An update on diagnosis, treatment, and prevention of Clostridium difficile-associated disease [^1336d417]. Gastroenterology Clinics of North America (2006). Low credibility.
+### An update on diagnosis, treatment, and prevention of Clostridium difficile-associated disease [^111VVBVx]. Gastroenterology Clinics of North America (2006). Low credibility.
 
 Clostridium difficile is an important cause of nosocomial morbidity and mortality and is implicated in recent epidemics. Data support the treatment of colitis with oral metronidazole in a dose of 1.0 to 1.5 g/d, with oral vancomycin as a second-line agent, not because its efficacy is questioned but because of environmental concerns. Nitazoxanide and other drugs are currently under intense study as alternatives. Treatment of asymptomatic patients is not recommended. Current management strategies appear to be increasingly ineffective, especially for patients who experience multiple recurrences. Biotherapy and vaccination are currently being explored as treatment options for patients who have recurrent disease. Greater attention should be paid to hospital infection control policies and restriction of broad-spectrum antibiotics.
 
 ---
 
-### Antibiotic treatment for Clostridium difficile-associated diarrhea in adults [^c8f2de42]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
+### Antibiotic treatment for Clostridium difficile-associated diarrhea in adults [^1168v6pH]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
 
 Background
 
@@ -325,13 +325,13 @@ Current evidence leads to uncertainty whether mild CDAD needs to be treated. Pat
 
 ---
 
-### AGA clinical practice guidelines on the management of moderate to severe ulcerative colitis [^08ba65be]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the management of moderate to severe ulcerative colitis [^111DwWa1]. Gastroenterology (2020). High credibility.
 
 Hospitalized adults with acute severe ulcerative colitis (ASUC) — steroids, antibiotics, and rescue therapy: The AGA suggests using intravenous methylprednisolone dose equivalent of 40–60 mg/d rather than higher doses of intravenous corticosteroids and suggests against adjunctive antibiotics in acute severe UC without infection. For steroid-refractory ASUC, the AGA suggests using infliximab or cyclosporine. In those being treated with infliximab, the AGA makes no recommendation on routine use of intensive vs standard infliximab dosing.
 
 ---
 
-### Antibiotic treatment for Clostridium difficile-associated diarrhoea in adults [^86aeccbe]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Antibiotic treatment for Clostridium difficile-associated diarrhoea in adults [^114Sg48u]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -363,19 +363,19 @@ No firm conclusions can be drawn regarding the efficacy of antibiotic treatment 
 
 ---
 
-### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^9e9c05ad]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
+### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^11549T5n]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
 
 Regarding specific circumstances for ulcerative colitis, more specifically with respect to patients with C. difficile infection, antibiotic therapy, AGA 2017 guidelines recommend to consider hospitalizing for close monitoring and aggressive management in patients with IBD with C. difficile infection having profuse diarrhea, severe abdominal pain, a markedly increased peripheral WBC count, or other evidence of sepsis.
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^544e43f6]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^1139zFQZ]. Gastroenterology (2024). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of pouchitis, antibiotics, AGA 2024 guidelines recommend to consider initiating chronic antibiotic therapy in patients with UC experiencing recurrent pouchitis after ileal pouch-anal anastomosis responding to antibiotics but relapsing shortly after discontinuing antibiotics, also known as chronic antibiotic-dependent pouchitis.
 
 ---
 
-### Antibiotic treatment induces long-lasting changes in the fecal microbiota that protect against colitis [^7b8e5c22]. Inflammatory Bowel Diseases (2016). Low credibility.
+### Antibiotic treatment induces long-lasting changes in the fecal microbiota that protect against colitis [^114ABJ4H]. Inflammatory Bowel Diseases (2016). Low credibility.
 
 Background
 
@@ -395,49 +395,49 @@ Antibiotic exposure protects against colitis, and this effect is transferable wi
 
 ---
 
-### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^2b8a5d36]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
+### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^1127Ywfj]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
 
 Regarding specific circumstances for ulcerative colitis, more specifically with respect to patients with C. difficile infection, antibiotic therapy, AGA 2017 guidelines recommend to consider administering vancomycin rather than metronidazole for the treatment of C. difficile infection in patients with IBD.
 
 ---
 
-### Clostridioides difficile colitis [^08f48aeb]. The Surgical Clinics of North America (2024). Medium credibility.
+### Clostridioides difficile colitis [^111EH3L6]. The Surgical Clinics of North America (2024). Medium credibility.
 
 Clostridioides difficile colitis is an important source of hospital-acquired diarrhea associated with antibiotic use. Symptoms are profuse watery diarrhea, typically following a course of antibiotics; however, some cases of fulminant disease may manifest with shock, ileus, or megacolon. Nonfulminant colitis is treated with oral fidaxomicin. C difficile colitis has a high potential for recurrence, and recurrent episodes are also treated with fidaxomicin. Bezlotoxumab is another medication that may be used in populations at high risk for further recurrence. Fulminant disease is treated with maximal medical therapy and early surgical consultation. Antibiotic stewardship is critical to preventing C difficile colitis.
 
 ---
 
-### Clostridium difficile colitis [^44bbc851]. The Surgical Clinics of North America (2009). Low credibility.
+### Clostridium difficile colitis [^112kuETi]. The Surgical Clinics of North America (2009). Low credibility.
 
 Clostridium difficile is the most common cause of infectious diarrhea in hospitalized patients. Its effects are mediated by C difficile toxins A and B. Recent outbreaks of severe colitis have been associated with a new strain of the bacterium that produces large amounts of the toxins. Although oral metronidazole and oral vancomycin can be used to treat C difficile-associated disease, intraluminal vancomycin is preferable for more severe C difficile colitis. Early surgical intervention can improve outcomes with fulminant colitis, although overall mortality remains high.
 
 ---
 
-### ACG clinical guidelines: prevention, diagnosis, and treatment of Clostridioides difficile infections [^f037355f]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: prevention, diagnosis, and treatment of Clostridioides difficile infections [^11798aBY]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding specific circumstances for ulcerative colitis, more specifically with respect to patients with C. difficile infection, antibiotic therapy, ACG 2021 guidelines recommend to consider administering oral vancomycin (125 mg QID for a minimum of 14 days) in patients with IBD and C. difficile infection.
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^d9226a67]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^116Yusd8]. Gastroenterology (2024). High credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of pouchitis, antibiotics, AGA 2024 guidelines recommend to consider administering antibiotics in patients with UC experiencing infrequent symptoms of pouchitis after ileal pouch-anal anastomosis.
 
 ---
 
-### Practice parameters for the surgical treatment of ulcerative colitis [^02bd6b98]. Diseases of the Colon and Rectum (2014). Medium credibility.
+### Practice parameters for the surgical treatment of ulcerative colitis [^11154bmZ]. Diseases of the Colon and Rectum (2014). Medium credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of pouchitis, antibiotics, ASCRS 2014 guidelines recommend to administer antibiotics in patients developing pouchitis after ileal pouch-anal anastomosis.
 
 ---
 
-### The role of probiotics in the prevention and treatment of antibiotic-associated diarrhea and Clostridium difficile colitis [^530ae94f]. Gastroenterology Clinics of North America (2012). Low credibility.
+### The role of probiotics in the prevention and treatment of antibiotic-associated diarrhea and Clostridium difficile colitis [^11387dxi]. Gastroenterology Clinics of North America (2012). Low credibility.
 
 Clostridium difficile colitis is the most common gastrointestinal infection, exceeding all other gastrointestinal infections combined. There has been a dramatic increase in Clostridium difficile infection (CDI) worldwide during the past decade. Antibiotic therapy is a trigger precipitating antibiotic-associated diarrhea (AAD), which may lead to CDI. The antibiotic alters the protective, diverse bacteria allowing pathogenic bacteria to cause disease. Probiotics have been effective in reducing AAD and preventing CDI.
 
 ---
 
-### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^3e29fdf0]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
+### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^112bALYP]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
 
 Conclusions
 
@@ -445,7 +445,7 @@ Treatment with antibiotics having anaerobic activity was associated with an incr
 
 ---
 
-### A systematic review of vedolizumab in treating pediatric ulcerative colitis: efficacy and safety insights [^a06e5876]. Therapeutic Advances in Gastroenterology (2025). Medium credibility.
+### A systematic review of vedolizumab in treating pediatric ulcerative colitis: efficacy and safety insights [^1156r5o3]. Therapeutic Advances in Gastroenterology (2025). Medium credibility.
 
 Introduction
 
@@ -453,43 +453,43 @@ Antibiotics, biologics, corticosteroids (CS), immunomodulators, probiotics, and 
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^948d660d]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^114oEfNk]. Gastroenterology (2024). High credibility.
 
 AGA guideline — advanced immunosuppressive therapies for chronic antibiotic-dependent pouchitis — In patients with ulcerative colitis who have undergone IPAA and experience recurrent pouchitis that responds to antibiotics but relapses shortly after stopping antibiotics, the AGA suggests using advanced immunosuppressive therapies to treat recurrent pouchitis (Conditional recommendation, low certainty of evidence for vedolizumab and very low certainty of evidence for other advanced immunosuppressive therapies). Implementation considerations note that the panel suggests endoscopic evaluation of the pouch with confirmation of inflammation and ruling out alternative etiologies in patients with recurrent pouchitis, and that advanced immunosuppressive therapies approved for treatment of UC or CD may be used.
 
 ---
 
-### 2019 update of the WSES guidelines for management of () infection in surgical patients [^21521990]. World Journal of Emergency Surgery (2019). High credibility.
+### 2019 update of the WSES guidelines for management of () infection in surgical patients [^111rQAjZ]. World Journal of Emergency Surgery (2019). High credibility.
 
 Regarding medical management for Clostridioides difficile infection, more specifically with respect to antibiotic therapy, fulminant disease, WSES 2019 guidelines recommend to administer high-dose vancomycin (500 mg every 6 hours), oral and/or by enema, in combination with IV metronidazole (500 mg every 8 hours) in patients with fulminant colitis.
 
 ---
 
-### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^eac45144]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
+### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^117143Ws]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
 
 Importantly, a portion of our cohort received empiric antibiotic therapy at the onset of IMDC without confirmation of an active infection. The infectious workup, including multiplex study, in these patients was negative for infection at time of IMDC onset. Similarly, endoscopy with biopsy was performed in a few of them and confirmed IMDC. This approach was pursued more often in patients with severe IMDC disease course reflected by high grades of IMDC, frequent hospitalization with long hospital stays, and frequent use of immunosuppressive therapy, including intravenous steroids and infliximab/vedolizumab. Of note, these patients were likely to experience recurrence of IMDC. The causative correlation between severity of IMDC and antibiotic use (i.e. antibiotic use led to more severe IMDC versus severe IMDC symptoms led to more frequent use of antibiotics) could not be determined based on findings of this study given its retrospective design and the presence of most severity indicators before antibiotic treatment initiation. There was no beneficial impact from empiric antibiotic use on IMDC outcomes. These observations stress the importance of careful evaluation of patients for active infection before starting antibiotic therapy. Before implementation of the current treatment guidelines and with limited awareness of these toxic effects, physicians commonly used antibiotic therapy empirically to manage diarrhea. Our findings reinforce the recommendation of avoiding empiric antibiotic therapy in patients who suffer from gastrointestinal symptoms following immunotherapy unless they have clear infections.
 
 ---
 
-### Microbiological and immunological strategies for treatment of inflammatory bowel disease [^2e53b696]. Microbes and Infection (2001). Low credibility.
+### Microbiological and immunological strategies for treatment of inflammatory bowel disease [^112BgYq3]. Microbes and Infection (2001). Low credibility.
 
 Chronic inflammatory bowel diseases such as Crohn's disease or ulcerative colitis, affect around 1 in every 1000 individuals in western countries. They probably result from an inappropriate reaction towards the commensal microflora and are currently treated with anti-inflammatory drugs or surgery. Novel strategies aim at blocking lymphocyte recruitment and activation, improved targeting of therapeutics and modification of gut microflora.
 
 ---
 
-### Infection in patients with inflammatory bowel disease [^0002fd77]. Annals of Gastroenterology (2011). Low credibility.
+### Infection in patients with inflammatory bowel disease [^111121Fc]. Annals of Gastroenterology (2011). Low credibility.
 
 The use of alternate antibiotics has been researched extensively, but no consensus has been reached. Nelson comprehensively reviewed twelve randomized, controlled trials (1157 participants) of antibiotic treatment for C. difficile associated diarrhea involving patients who had recently taken antibiotics for other infections. Eight antibiotics were studied, including vancomycin, metronidazole, fusidic acid, nitazoxanide, teicoplanin, rifampin, rifaximin and bacitracin. In paired comparisons, no single antibiotic was superior to others, though teicoplanin, a costly antibiotic of limited availability, showed in some trials a significant benefit over vancomycin and fusidic acid, and a trend towards benefit compared with metronidazole. The combination of metronidazole and rifampin had no advantage over metronidazole alone. Teicoplanin is not readily available but was somewhat better than vancomycin for bacteriologic cure. Bacitracin was less effective. Nitazoxamide has been shown in a prospective, randomized, double-blind study (N = 74) to be as effective as metronidazole in treating C. difficile colitis. Fidaxomicin is a bactericidal macrocyclic antibiotic that has been found to reduce C. difficile counts while, unlike vancomycin, maintaining Bacteriodes species, a major constituent of normal flora. A phase III trial in 128 subjects who had experienced a single prior C. difficile infection episode and had recurred within three months, showed fewer recurrences and higher global cure rates in comparison to fidaxomicin with vancomycin. It is as safe and as well tolerated as standard vancomycin treatment. The search for the ideal antibiotic regime continues, given that recurrence of C. difficile colitis after cessation of therapy is common, occurring in 15–30% of patients. One reason for this may be that the antibiotic treatment administered for C. difficile colitis does not permit the restoration of the normal bowel flora. Some patients have multiple recurrences. Among non-antibiotics, cholestyramine has been used with dubious results in patients that were unresponsive to antibiotics. The drastic step of total colectomy can only be considered in the context of life-saving surgery for unresponsive ulcerative colitis. Here it is important to operate before life-threatening metabolic changes occur, such as hypoalbuminemia and lactic acidosis, and before the leukocyte count exceeds 16,000.
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^7c4d736e]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^114BHUow]. Gastroenterology (2024). High credibility.
 
 AGA pouchitis guideline — management of chronic antibiotic-dependent pouchitis after ileal pouch-anal anastomosis (IPAA) in ulcerative colitis (UC) states that in patients who experience recurrent pouchitis that responds to antibiotics but relapses shortly after stopping antibiotics (commonly referred to as "chronic antibiotic-dependent pouchitis"), the AGA suggests using chronic antibiotic therapy to treat recurrent pouchitis (Conditional recommendation, very low certainty of evidence). The panel suggests endoscopic evaluation of the pouch with confirmation of inflammation and ruling out alternative etiologies in patients with recurrent pouchitis, and lowest effective dose of antibiotics (eg, ciprofloxacin 500 mg daily or 250 mg twice daily) with intermittent gap periods (such as approximately 1 week per month), or use of cyclical antibiotics (such as rotating between ciprofloxacin, metronidazole, and vancomycin every 1–2 weeks) may be considered to decrease risk of antimicrobial resistance.
 
 ---
 
-### Antimicrobials: a global alliance for optimizing their rational use in intra-abdominal infections (AGORA) [^74e7b5ae]. World Journal of Emergency Surgery (2016). Low credibility.
+### Antimicrobials: a global alliance for optimizing their rational use in intra-abdominal infections (AGORA) [^113zKPky]. World Journal of Emergency Surgery (2016). Low credibility.
 
 Antibiotics and C. difficile infection
 
@@ -511,7 +511,7 @@ In 2015, the WSES published guidelines for management of C. difficile infection 
 
 ---
 
-### Targeting enteric bacteria in treatment of inflammatory bowel diseases: why, how, and when [^dc89b0f6]. Current Opinion in Gastroenterology (2003). Low credibility.
+### Targeting enteric bacteria in treatment of inflammatory bowel diseases: why, how, and when [^116dxXSV]. Current Opinion in Gastroenterology (2003). Low credibility.
 
 Purpose
 
@@ -527,7 +527,7 @@ Normal, nonpathogenic enteric bacteria induce and perpetuate chronic intestinal 
 
 ---
 
-### British society of gastroenterology consensus guidelines on the management of inflammatory bowel disease in adults [^f501ec4e]. Gut (2019). Medium credibility.
+### British society of gastroenterology consensus guidelines on the management of inflammatory bowel disease in adults [^117GEcWR]. Gut (2019). Medium credibility.
 
 FMT can be used to treat Clostridium difficile infection in the context of ulcerative colitis when first line antibiotics are ineffective. There is currently no place for FMT in the management of IBD unless complicated by C. difficile infection outside of the clinical trial setting.
 
@@ -541,7 +541,7 @@ Chronic pouchitis or chronic refractory pouchitis is defined as occurring when p
 
 ---
 
-### Evolution of clinical guidelines for antimicrobial management ofinfection [^4a39113f]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
+### Evolution of clinical guidelines for antimicrobial management ofinfection [^112u3Fci]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
 
 Guideline overview
 
@@ -549,19 +549,19 @@ C. difficile is a unique disease in that both infectious disease providers and g
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^255899e1]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^111xNJWt]. Gastroenterology (2024). High credibility.
 
 AGA pouchitis guideline — treatment of infrequent symptomatic pouchitis after ileal pouch-anal anastomosis (IPAA) in ulcerative colitis (UC) states that the AGA suggests using antibiotics for treatment of pouchitis (Conditional recommendation, very low certainty of evidence). Based on available evidence, ciprofloxacin and/or metronidazole are the preferred antibiotics for treatment of pouchitis, the typical duration of antibiotic therapy for the treatment of pouchitis is 2–4 weeks, an approach using a combination of antibiotics may be more effective in patients who do not respond to single-antibiotic therapy, and alternative antibiotic regimens, such as oral vancomycin, may be considered in patients who do not respond to the initial course of antibiotics or have allergies or intolerance to ciprofloxacin and/or metronidazole.
 
 ---
 
-### Drug-induced colitis [^13aae27e]. Clinical Gastroenterology and Hepatology (2021). Medium credibility.
+### Drug-induced colitis [^111WAATX]. Clinical Gastroenterology and Hepatology (2021). Medium credibility.
 
 Drug-induced colitis encompasses a wide spectrum of colon disorders that can manifest microscopically or macroscopically. Patients present with new-onset colitis or exacerbations of inflammatory bowel diseases; in some cases, colitis resolves with discontinuation of medication. Mucosal injury can be focal or extensive, involving the entire colonic mucosa, and sometimes involves other parts of the gastrointestinal tract. It has been a challenge to determine the proportion of new-onset colitis caused by medication and there are few data on the overall prevalence. We review the drugs that have been linked with development of drug-induced colitis and strategies for physicians who believe their patients have this disorder-usually discontinuation of the drug believed to cause colitis and treatment with steroids or immune-modulating therapies. Physicians must be aware of medications that can cause colitis.
 
 ---
 
-### New developments in chemotherapeutic options for Clostridium difficile colitis [^e4953906]. Current Opinion in Infectious Diseases (2013). Low credibility.
+### New developments in chemotherapeutic options for Clostridium difficile colitis [^116qtJM3]. Current Opinion in Infectious Diseases (2013). Low credibility.
 
 Purpose Of Review
 
@@ -577,31 +577,31 @@ A variety of promising new treatment options for Clostridium difficile are under
 
 ---
 
-### Pouchitis unveiled: exploring clinical features, diagnosis, and cutting-edge treatments [^a6145d75]. Therapeutic Advances in Gastroenterology (2025). Medium credibility.
+### Pouchitis unveiled: exploring clinical features, diagnosis, and cutting-edge treatments [^115FDnXN]. Therapeutic Advances in Gastroenterology (2025). Medium credibility.
 
 Last decades led to a revolution in the management of ulcerative colitis (UC), due to the development of novel advanced therapies and the identification of increasingly ambitious therapeutic goals. Nevertheless, a subset of patients, refractory to available therapies, still requires proctocolectomy with ileal pouch-anal anastomosis (IPAA). Pouchitis, an inflammatory condition of the ileal pouch, is the most common long-term complication of IPAA, affecting almost one-half of patients in the first 10 years after surgery. Symptoms of pouchitis include increased stool frequency, urgency, and abdominal discomfort, significantly affecting patients' quality of life. Traditionally the mainstay treatment of acute pouchitis involves the use of antibiotics, but one-fifth of patients develop chronic pouchitis (CP), which may be dependent or resistant to antibiotics, posing significant challenges in the management of this condition. Currently, there is still no consensus on the optimal management for CP, though recent progress in understanding the pathophysiology of pouchitis has paved the way for innovative therapeutic approaches, based on biological therapies and small molecules. This review aims to discuss the recent advanced therapies available for pouchitis and provide a comprehensive review on the topic to guide physicians in their clinical practice.
 
 ---
 
-### A comparison of vancomycin and metronidazole for the treatment of Clostridium difficile-associated diarrhea, stratified by disease severity [^c78f4879]. Clinical Infectious Diseases (2007). Low credibility.
+### A comparison of vancomycin and metronidazole for the treatment of Clostridium difficile-associated diarrhea, stratified by disease severity [^1166rfTe]. Clinical Infectious Diseases (2007). Low credibility.
 
 The study Vancomycin vs. metronidazole for C. difficile colitis was published by Zar FA and colleagues in 2007 in the journal Clin Infect Dis. This study is related to the following diseases: Clostridioides difficile infection. In the Vancomycin vs. metronidazole for C. difficile colitis study, the trial question was: what is the effect of vancomycin in patients with C. difficile-associated diarrhea? In the Vancomycin vs. metronidazole for C. difficile colitis study, the study design was: single center, double blinded, RCT. In the Vancomycin vs. metronidazole for C. difficile colitis study, the population was: 150 patients (68 female, 82 male). The inclusion criteria were patients with C. difficile-associated diarrhea were stratified according to whether they had mild or severe disease based on clinical criteria. The key exclusion criteria were perforated viscus or bowel obstruction; prior failure of C. difficile-associated diarrhea to respond to either study drug; pregnancy; history of allergy to either study drug; or treatment with oral vancomycin or parenteral or oral metronidazole during the previous 14 days. In the Vancomycin vs. metronidazole for C. difficile colitis study, the interventions were: n = 71 vancomycin (125 mg QID PO for 10 days) n = 79 metronidazole (250 mg QID PO for 10 days). In the Vancomycin vs. metronidazole for C. difficile colitis study, the primary outcome was: significant increase in cure rate (97% vs. 84%; RR 1.15, 95% CI 0.33 to 1.97). In the Vancomycin vs. metronidazole for C. difficile colitis study, the secondary outcomes were: no significant difference in cure in patients with mild disease (98% vs. 90%; RR 1.09, 95% CI -1.22 to 3.4) Significant increase in cure in patients with severe disease (97% vs. 76%; RR 1.28, 95% CI 0.2 to 2.36). In the Vancomycin vs. metronidazole for C. difficile colitis study, the conclusion was: in patients with C. difficile-associated diarrhea were stratified according to whether they had mild or severe disease based on clinical criteria, vancomycin was superior to metronidazole with respect to cure rate.
 
 ---
 
-### Treatment of an initial infection with Clostridium difficile in patients with inflammatory bowel disease [^ff0ae73a]. Inflammatory Bowel Diseases (2013). Low credibility.
+### Treatment of an initial infection with Clostridium difficile in patients with inflammatory bowel disease [^117X7WGq]. Inflammatory Bowel Diseases (2013). Low credibility.
 
 Although the incidence of Clostridium difficile-associated diarrhea in the general population has increased dramatically over the past decade, an even greater rate of infection exists in patients with inflammatory bowel disease. Susceptibility in this population is likely inherent to the pathophysiology and treatment of these diseases. C. difficile infection can cause serious complications and death. Consequently, early diagnosis and initiation of effective antibacterial therapy is imperative. This article evaluates treatment recommendations for an initial episode of C. difficile infection in patients with inflammatory bowel disease based on the current guidelines and a Cochrane systematic review.
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^9259e026]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^114jyP4Z]. Gastroenterology (2024). High credibility.
 
 AGA guideline — intermittent pouchitis after ileal pouch–anal anastomosis (IPAA): In patients with ulcerative colitis (UC) who have undergone IPAA and experience infrequent episodes of pouchitis, the AGA suggests using antibiotics for treatment of pouchitis (Conditional recommendation, very low quality of evidence). Based on available evidence, ciprofloxacin and/or metronidazole are the preferred antibiotics, the typical duration of antibiotic therapy is 2–4 weeks, a combination of antibiotics may be more effective in patients who do not respond to single-antibiotic therapy, and alternative antibiotic regimens, such as oral vancomycin, may be considered in patients who do not respond to the initial course of antibiotics or have allergies or intolerance to ciprofloxacin and/or metronidazole. Evidence included 4 small RCTs evaluating antibiotics for treatment of pouchitis, of which 2 were placebo-controlled; in these 2 trials, 11 of 19 antibiotic-treated patients vs 3 of 21 placebo-treated patients had clinical improvement (RR, 3.45; 95% CI, 0.29–41.82). On pooled analysis from RCT arms and observational studies, 160 of 239 patients treated with antibiotics had marked improvement in symptoms (pooled response, 65%; 95% CI, 52–75). With assumed spontaneous improvement rates of 40% (range, 30%-50%), antibiotics were associated with 67% higher risk of clinical response (RR, 1.67; 95% CI, 1.34–2.01), and the overall body of evidence from these observational studies led to overall very low certainty of evidence.
 
 ---
 
-### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^67f08b0e]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
+### Impact of antibiotic therapy on the development and response to treatment of immune checkpoint inhibitor-mediated diarrhea and colitis [^113f6XBj]. Journal for Immunotherapy of Cancer (2019). Medium credibility.
 
 Overview of antibiotic therapy
 
@@ -621,13 +621,13 @@ Additional file 1: Table S5. A summarizes the clinical features of patients who 
 
 ---
 
-### ACG clinical guideline update: ulcerative colitis in adults [^57cdadc8]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline update: ulcerative colitis in adults [^113FB1Tu]. The American Journal of Gastroenterology (2025). High credibility.
 
 Ulcerative colitis — therapeutic management guidance: Therapeutic management in UC should be guided by the extent of bowel involvement, an assessment of disease activity and disease prognosis; patients with moderate-to-severely active UC or with high risk of hospitalization or colectomy should be treated with therapies that have evidence for efficacy based on clinical trials and real world studies. We recommend that prognosis should guide choice of therapy as much as activity of inflammation at the time of acute illness.
 
 ---
 
-### Erythromycin (Ery) [^4d548813]. FDA (2024). Medium credibility.
+### Erythromycin (Ery) [^112yeSWN]. FDA (2024). Medium credibility.
 
 WARNINGS
 
@@ -639,7 +639,7 @@ After the diagnosis of pseudomembranous colitis has been established, therapeuti
 
 ---
 
-### Inflammatory bowel disease andinfection: clinical presentation, diagnosis, and management [^dc25648d]. Therapeutic Advances in Gastroenterology (2023). Medium credibility.
+### Inflammatory bowel disease andinfection: clinical presentation, diagnosis, and management [^116dNqU8]. Therapeutic Advances in Gastroenterology (2023). Medium credibility.
 
 How to manage medications for IBD
 
@@ -649,31 +649,31 @@ It is confirmed that whether to stop the use of immunosuppressants or not in IBD
 
 ---
 
-### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of Clostridioides difficile infection [^6fc90925]. Diseases of the Colon and Rectum (2021). High credibility.
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of Clostridioides difficile infection [^113rj9mn]. Diseases of the Colon and Rectum (2021). High credibility.
 
 Surgical therapy for C difficile colitis — the guideline states, "Surgery for C difficile colitis should typically be reserved for patients with colonic perforation or severe colitis who do not improve with medical therapy. Grade of recommendation: Strong recommendation based on low-quality evidence, 1C".
 
 ---
 
-### Clostridium difficile infection: a review of current and emerging therapies [^42403079]. Annals of Gastroenterology (2016). Low credibility.
+### Clostridium difficile infection: a review of current and emerging therapies [^112hDk7J]. Annals of Gastroenterology (2016). Low credibility.
 
 Clostridium difficile (C. difficile) infection (CDI) is the most common cause of -healthcare-associated infections in US hospitals. The epidemic strain NAP1/BI/ribotype 027 accounts for outbreaks worldwide, with increasing mortality and severity. CDI is acquired from an endogenous source or from spores in the environment, most easily acquired during the hospital stay. The use of antimicrobials disrupts the intestinal microflora enabling C. difficile to proliferate in the colon and produce toxins. Clinical diagnosis in symptomatic patients requires toxin detection from stool specimens and rarely in combination with stool culture to increase sensitivity. However, stool culture is essential for epidemiological studies. Oral metronidazole is the recommended therapy for milder cases of CDI and oral vancomycin or fidaxomicin for more severe cases. Treatment of first recurrence involves the use of the same therapy used in the initial CDI. In the event of a second recurrence oral vancomycin often given in a tapered dose or intermittently, or fidaxomicin may be used. Fecal transplantation is playing an immense role in therapy of recurrent CDI with remarkable results. Fulminant colitis and toxic megacolon warrant surgical intervention. Novel approaches including new antibiotics and immunotherapy against CDI or its toxins appear to be of potential value.
 
 ---
 
-### Detecting and treating Clostridium difficile infections in patients with inflammatory bowel disease [^0375d51c]. Gastroenterology Clinics of North America (2012). Low credibility.
+### Detecting and treating Clostridium difficile infections in patients with inflammatory bowel disease [^11168YQb]. Gastroenterology Clinics of North America (2012). Low credibility.
 
 The prevalence of CDI in patients with IBD has increased over the last decade. The excess morbidity and mortality associated with CDI appears to be greater in patients with IBD than in those without preexisting bowel disease. The risk factors for CDI in IBD and non-IBD populations appear similar; unique IBD-related risk factors are use of maintenance immunosuppression and extent and severity of prior colitis. Nevertheless, a significant proportion of CDI-IBD patients may have the disease without traditional risk factors (ie, antibiotic use, recent hospitalization). The absence of such risk factors must not preclude considering CDI in the differential diagnosis of IBD patients presenting with a disease flare. Vancomycin and metronidazole appear to have similar efficacy with vancomycin being the preferred agent for severe disease. Early surgical consultation is key for improving outcomes of patients with severe disease. Several gaps in research exist; prospective multicenter cohorts of CDI-IBD are essential to improve our understanding of the impact of CDI on IBD patients and define appropriate therapeutic regimens to improve patient outcomes.
 
 ---
 
-### A review of the therapeutic management of ulcerative colitis [^1b22bc40]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
+### A review of the therapeutic management of ulcerative colitis [^111hELJs]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
 
 Ulcerative colitis (UC) is a chronic relapsing and remitting gastrointestinal disorder of uncertain aetiology. The last two decades have seen an expansion in the therapeutic arsenal used to treat UC. This has resulted in improved clinical remission and response rates. Nonetheless, staples in our current medical management originate from trials conducted in the early 20th century. In this review article, we aim to outline the key milestones in the history of the medical management of UC in addition to highlighting promising therapeutic developments for the future.
 
 ---
 
-### Host immunity modulates the efficacy of microbiota transplantation for treatment of Clostridioides difficile infection [^78f27519]. Nature Communications (2021). High credibility.
+### Host immunity modulates the efficacy of microbiota transplantation for treatment of Clostridioides difficile infection [^1146JxGY]. Nature Communications (2021). High credibility.
 
 Introduction
 
@@ -683,13 +683,13 @@ C. difficile, a gram positive, spore-forming, obligate anaerobe is currently the
 
 ---
 
-### Clostridioides difficile infection: update on management [^b0ae6c74]. American Family Physician (2020). Medium credibility.
+### Clostridioides difficile infection: update on management [^115WwQeP]. American Family Physician (2020). Medium credibility.
 
 Guidelines for the diagnosis and treatment of Clostridioides difficile infection have recently been updated. Risk factors include recent exposure to health care facilities or antibiotics, especially clindamycin. C. difficile infection is characterized by a wide range of symptoms, from mild or moderate diarrhea to severe disease with pseudomembranous colitis, colonic ileus, toxic megacolon, sepsis, or death. C. difficile infection should be considered in patients who are not taking laxatives and have three or more episodes of unexplained, unformed stools in 24 hours. Testing in these patients should start with enzyme immunoassays for glutamate dehydrogenase and toxins A and B or nucleic acid amplification testing. In children older than 12 months, testing is recommended only for those with prolonged diarrhea and risk factors. Treatment depends on whether the episode is an initial vs. recurrent infection and on the severity of the infection based on white blood cell count, serum creatinine level, and other clinical signs and symptoms. For an initial episode of nonsevere C. difficile infection, oral vancomycin or oral fidaxomicin is recommended. Metronidazole is no longer recommended as first-line therapy for adults. Fecal microbiota transplantation is a reasonable treatment option with high cure rates in patients who have had multiple recurrent episodes and have received appropriate antibiotic therapy for at least three of the episodes. Good antibiotic stewardship is a key strategy to decrease rates of C. difficile infection. In routine or endemic settings, hands should be cleaned with either soap and water or an alcohol-based product, but during outbreaks soap and water is superior. The Infectious Diseases Society of America does not recommend the use of probiotics for prevention of C. difficile infection.
 
 ---
 
-### Erythromycin and benzoyl peroxide [^cb0711bc]. FDA (2025). Medium credibility.
+### Erythromycin and benzoyl peroxide [^116Bzrvo]. FDA (2025). Medium credibility.
 
 WARNINGS
 
@@ -701,7 +701,7 @@ After the diagnosis of pseudomembranous colitis has been established, therapeuti
 
 ---
 
-### 2019 update of the WSES guidelines for management of () infection in surgical patients [^e6fab019]. World Journal of Emergency Surgery (2019). Medium credibility.
+### 2019 update of the WSES guidelines for management of () infection in surgical patients [^116uSMcL]. World Journal of Emergency Surgery (2019). Medium credibility.
 
 However, recent data have suggested an overall superiority of vancomycin to metronidazole for the treatment of patients with CDI and oral vancomycin 125 mg four times per day for 10 days is recommended as first choice antibiotic also for moderate cases.
 
@@ -718,7 +718,7 @@ Trans-stoma vancomycin may also be effective in surgical patients with Hartmann 
 
 ---
 
-### Management of ulcerative colitis [^47cca3a2]. Archives of Disease in Childhood (2016). Low credibility.
+### Management of ulcerative colitis [^112qSrhf]. Archives of Disease in Childhood (2016). Low credibility.
 
 Conclusion
 
@@ -726,7 +726,7 @@ The guidelines referenced in this review offer a useful summary for how to manag
 
 ---
 
-### Cefoxitin sodium (cefoxitin) [^e086aef0]. FDA (2023). Medium credibility.
+### Cefoxitin sodium (cefoxitin) [^116jsTy9]. FDA (2023). Medium credibility.
 
 General:
 
@@ -754,7 +754,7 @@ Increased nephrotoxicity has been reported following concomitant administration 
 
 ---
 
-### WSES guidelines for management of Clostridium difficile infection in surgical patients [^29650710]. World Journal of Emergency Surgery (2015). Low credibility.
+### WSES guidelines for management of Clostridium difficile infection in surgical patients [^1124NRjM]. World Journal of Emergency Surgery (2015). Low credibility.
 
 Antimicrobial therapy
 
@@ -796,13 +796,13 @@ Recurrent C. difficile infection (RCDI)
 
 ---
 
-### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^2ac27f39]. Gastroenterology (2024). High credibility.
+### AGA clinical practice guideline on the management of pouchitis and inflammatory pouch disorders [^1126Powe]. Gastroenterology (2024). High credibility.
 
 AGA pouchitis guideline — advanced immunosuppressive therapy for chronic antibiotic-dependent pouchitis after ileal pouch-anal anastomosis (IPAA) in ulcerative colitis (UC) states that the AGA suggests using advanced immunosuppressive therapies to treat recurrent pouchitis (Conditional recommendation, low certainty of evidence for vedolizumab and very low certainty of evidence for other advanced immunosuppressive therapies). The panel suggests endoscopic evaluation of the pouch with confirmation of inflammation and ruling out alternative etiologies in patients with recurrent pouchitis. Advanced immunosuppressive therapies approved for treatment of UC or CD may be used, including TNF–α antagonists (ie, infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, and upadacitinib. Advanced immunosuppressive therapies may be used in lieu of chronic, continuous antibiotic therapy, particularly in patients who are intolerant to antibiotics or when patients and/or providers are concerned about risks of long-term antibiotic therapy, and advanced immunosuppressive therapies that patients had used before colectomy may be reconsidered.
 
 ---
 
-### Association between antibiotic treatment and outcomes in patients hospitalized with acute exacerbation of COPD treated with systemic steroids [^9b067b5b]. Chest (2013). Low credibility.
+### Association between antibiotic treatment and outcomes in patients hospitalized with acute exacerbation of COPD treated with systemic steroids [^114xqFxW]. Chest (2013). Low credibility.
 
 Background
 
@@ -822,25 +822,25 @@ Our results suggest that the addition of antibiotics to a regimen that includes 
 
 ---
 
-### How would you manage this patient withInfection? grand rounds discussion from beth Israel deaconess medical center [^a6969757]. Annals of Internal Medicine (2023). Medium credibility.
+### How would you manage this patient withInfection? grand rounds discussion from beth Israel deaconess medical center [^115FyXXt]. Annals of Internal Medicine (2023). Medium credibility.
 
 The Infectious Diseases Society of America/Society for Healthcare Epidemiology of America and the American College of Gastroenterology recently released updated guidelines on management of patients with Clostridioides difficile infection. Although these 2 guidelines generally agree, there are a few important differences in their advice to clinicians. In these rounds, 2 experts, an infectious diseases specialist and a gastroenterologist, discuss antibiotic treatment options for nonsevere disease, the role of fecal microbiota transplantation for fulminant disease, and the use of bezlotoxumab to prevent recurrence in the context of Ms. C, a 48-year-old woman with fulminant C difficile infection.
 
 ---
 
-### Update in medical therapy of ulcerative colitis: a practical approach [^2713106c]. Journal of Clinical Gastroenterology (2002). Low credibility.
+### Update in medical therapy of ulcerative colitis: a practical approach [^111zvvPd]. Journal of Clinical Gastroenterology (2002). Low credibility.
 
 The bewildering array of medications in the therapy of inflammatory bowel disease (IBD) often confounds the clinician in the choice of specific agents regarding the balance between safety and efficacy. This review surveys and evaluates currently available IBD therapies as well as those used in clinical trials of ulcerative colitis. The primary purpose is to provide the busy clinician with a practical guide to the use of established and newly emerging medical therapies of IBD.
 
 ---
 
-### How can patients with Clostridioides difficile infection on concomitant antibiotic treatment be best managed? [^7d1e93ea]. The Lancet: Infectious Diseases (2022). High credibility.
+### How can patients with Clostridioides difficile infection on concomitant antibiotic treatment be best managed? [^114CVivu]. The Lancet: Infectious Diseases (2022). High credibility.
 
 Antibiotics are modifiable risk factors for Clostridioides difficile infection (CDI), driving pathogenesis via gut microbiome disruption. The management of patients with CDI prescribed concomitant non-CDI antibiotics is problematic and influences CDI outcome and recurrence risk. Though an assessment of the ongoing requirement for concomitant antibiotics is essential, discontinuation is often not possible. Antibiotics for other reasons might also need to be commenced during CDI therapy. Attempts to minimise the number and duration of antibiotics with a change to a low-risk class are recommended. Fidaxomicin might be preferable to vancomycin due to it having less effect on the gut microbiome; however, vancomycin is also acceptable. Metronidazole should be avoided and proton pump inhibitors discontinued. Access to fidaxomicin might be limited; hence, it should be prioritised for patients at high risk of recurrence. There is insufficient evidence to support extending anti-CDI therapy duration and concerns regarding microbiome effect remain. The addition of bezlotoxumab might be considered if multiple additional risk factors for recurrent CDI exist, though the amount of evidence is low. Investigational approaches to reduce the effect of concomitant antibiotics on the gut microbiome could further optimise CDI treatment in the presence of concomitant antibiotic use in the future.
 
 ---
 
-### Safety analysis of fidaxomicin in comparison with oral vancomycin for Clostridium difficile infections [^c3fe3be6]. Clinical Infectious Diseases (2012). Low credibility.
+### Safety analysis of fidaxomicin in comparison with oral vancomycin for Clostridium difficile infections [^1161Zyq7]. Clinical Infectious Diseases (2012). Low credibility.
 
 Clostridium difficile was recognized as the causative agent for antibiotic-associated colitis in 1978, first observed in conjunction with clindamycin treatment. Since then, C. difficile infection (CDI) has become an increasingly challenging nosocomial infection with severe medical consequences.
 
@@ -856,7 +856,7 @@ In 2 phase 3 trials, fidaxomicin demonstrated noninferiority to vancomycin for c
 
 ---
 
-### Clostridium difficile in inflammatory bowel disease [^ce026dcc]. Current Opinion in Gastroenterology (2023). Medium credibility.
+### Clostridium difficile in inflammatory bowel disease [^116GRGNX]. Current Opinion in Gastroenterology (2023). Medium credibility.
 
 Purpose Of Review
 
@@ -872,13 +872,13 @@ Clinicians must remain vigilant in the prompt diagnosis and treatment of CDI in 
 
 ---
 
-### Treatment of Clostridium difficile-associated disease: old therapies and new strategies [^50ea0406]. The Lancet: Infectious Diseases (2005). Medium credibility.
+### Treatment of Clostridium difficile-associated disease: old therapies and new strategies [^1134xcYD]. The Lancet: Infectious Diseases (2005). Medium credibility.
 
 Clostridium difficile-associated disease (CDAD) causes substantial morbidity and mortality. The pathogenesis is multifactorial, involving altered bowel flora, production of toxins, and impaired host immunity, often in a nosocomial setting. Current guidelines recommend treatment with metronidazole; vancomycin is a second-line agent because of its potential effect on the hospital environment. We present the data that led to these recommendations and explore other therapeutic options, including antimicrobials, antibody to toxin A, probiotics, and vaccines. Treatment of CDAD has increasingly been associated with failure and recurrence. Recurrent disease may reflect relapse of infection due to the original infecting organism or infection by a new strain. Poor antibody responses to C difficile toxins have a permissive role in recurrent infection. Hospital infection control and pertinent use of antibiotics can limit the spread of CDAD. A vaccine directed against C difficile toxin may eventually offer a solution to the CDAD problem.
 
 ---
 
-### Clostridioides difficile infections; new treatments and future perspectives [^393b6661]. Current Opinion in Gastroenterology (2024). Medium credibility.
+### Clostridioides difficile infections; new treatments and future perspectives [^112TrFGU]. Current Opinion in Gastroenterology (2024). Medium credibility.
 
 CONCLUSION
 
@@ -886,13 +886,13 @@ CDI is mediated through antibiotic-induced intestinal dysbiosis that is exacerba
 
 ---
 
-### Pouchitis: what every gastroenterologist needs to know [^cf52d324]. Clinical Gastroenterology and Hepatology (2013). Low credibility.
+### Pouchitis: what every gastroenterologist needs to know [^116JNFtf]. Clinical Gastroenterology and Hepatology (2013). Low credibility.
 
 Pouchitis is the most common complication among patients with ulcerative colitis who have undergone restorative proctocolectomy with ileal pouch-anal anastomosis. Pouchitis is actually a spectrum of diseases that vary in etiology, pathogenesis, phenotype, and clinical course. Although initial acute episodes typically respond to antibiotic therapy, patients can become dependent on antibiotics or develop refractory disease. Many factors contribute to the course of refractory pouchitis, such as the use of nonsteroidal anti-inflammatory drugs, infection with Clostridium difficile, pouch ischemia, or concurrent immune-mediated disorders. Identification of these secondary factors can help direct therapy.
 
 ---
 
-### Cefotetan disodium (cefotetan) [^2996a019]. FDA (2025). Medium credibility.
+### Cefotetan disodium (cefotetan) [^1124f5yS]. FDA (2025). Medium credibility.
 
 General
 
@@ -916,19 +916,19 @@ Increases in serum creatinine have occurred when cefotetan was given alone. If c
 
 ---
 
-### ACG clinical guideline: diagnosis, treatment, and prevention of acute diarrheal infections in adults [^25a8df8d]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: diagnosis, treatment, and prevention of acute diarrheal infections in adults [^111xqGLt]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 Antibiotic self-treatment risks in traveler's diarrhea — Antibacterial drugs appear to complicate enteric disease caused by Shiga-like toxin-producing E. coli, although in adults with E. coli O157:H7 a meta-analysis did not show an association with hemolytic uremic syndrome. For non-typhoidal Salmonella, antibiotic therapy does not appear to reduce the length of illness and increases the period of stool detection. Self-treatment increased colonization by resistant Enterobacteriaceae: travel alone carried a 21% rate of colonization, whereas fluoroquinolone treatment increased extended spectrum β-lactamase-producing Enterobacteriaceae colonization to 80% of those who self-medicated with a fluoroquinolone. C. difficile colitis has been reported after ciprofloxacin, but this does not appear to be a common adverse outcome associated with treated TD.
 
 ---
 
-### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^4915b8f6]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
+### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^112sMPm7]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
 
 Clinical evaluation for CDI in IBD — Patients with IBD who present with symptoms or signs suggesting a colitis flare should be evaluated for the presence of toxigenic C difficile in their stool, and a history of recent antibiotic use is not a requirement for testing. The article also notes that CDI arising in IBD may have several atypical features.
 
 ---
 
-### Clindamycin phosphate (clindacin) [^55b914cc]. FDA (2022). Medium credibility.
+### Clindamycin phosphate (clindacin) [^113C67dM]. FDA (2022). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -938,7 +938,7 @@ Clindacin Foam is contraindicated in individuals with a history of regional ente
 
 ---
 
-### A review of the therapeutic management of ulcerative colitis [^3b9c09d8]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
+### A review of the therapeutic management of ulcerative colitis [^112XNgW3]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
 
 Introduction
 
@@ -948,7 +948,7 @@ Unprecedented advances in the understanding of the aetiopathogenesis of IBD in t
 
 ---
 
-### Therapeutic effects of roxithromycin in interleukin-10-deficient colitis [^bdfae9ab]. Inflammatory Bowel Diseases (2007). Low credibility.
+### Therapeutic effects of roxithromycin in interleukin-10-deficient colitis [^115rewSJ]. Inflammatory Bowel Diseases (2007). Low credibility.
 
 Background
 
@@ -968,7 +968,7 @@ The anti-inflammatory changes observed in IL-10-deficient mice resulted from the
 
 ---
 
-### Management ofcolitis: insights for the gastroenterologist [^71c4df96]. Therapeutic Advances in Gastroenterology (2019). Medium credibility.
+### Management ofcolitis: insights for the gastroenterologist [^113ufjFK]. Therapeutic Advances in Gastroenterology (2019). Medium credibility.
 
 Conclusion
 
@@ -976,25 +976,25 @@ The therapeutic landscape against CDI is rapidly evolving with accumulation of e
 
 ---
 
-### Management of ulcerative colitis [^21efda16]. Archives of Disease in Childhood (2016). Low credibility.
+### Management of ulcerative colitis [^111sK9zV]. Archives of Disease in Childhood (2016). Low credibility.
 
 Ulcerative colitis (UC) in children is increasing. The range of treatments available has also increased too but around 1 in 4 children still require surgery to control their disease. An up-to-date understanding of treatments is essential for all clinicians involved in the care of UC patients to ensure appropriate and timely treatment while minimising the risk of complications and side effects.
 
 ---
 
-### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^a3e0d695]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
+### Management of Clostridium difficile infection in inflammatory bowel disease: expert review from the clinical practice updates committee of the AGA institute [^115BxW8t]. Clinical Gastroenterology and Hepatology (2017). Medium credibility.
 
 Clostridium difficile infection (CDI) in inflammatory bowel disease (IBD) — antibiotics and severity: According to treatment guidelines, a first and a second episode of mild–moderate CDI is treated with metronidazole 500 mg 3 times a day for 10 to 14 days (off-label), but failure rates have risen from 9.6% to as high as 22% to 26% and vancomycin was significantly more effective overall than metronidazole in randomized subgroup analysis. Vancomycin has been approved by the US Food and Drug Administration for CDI and is first-line for severe (monotherapy) and severe complicated (in combination with intravenous metronidazole), is superior to metronidazole for CDI, and is noninferior to fidaxomicin for initial clinical response; fidaxomicin trials showed fewer recurrences compared with vancomycin. In adults with IBD, vancomycin use versus metronidazole has been associated with a decreased colectomy rate, significantly fewer re-admissions, and an approximately 50% shorter length of hospital stay. In an open-label study of fidaxomicin in IBD (n = 21), all patients responded, with resolution of diarrhea (81%) or improvement but not resolution (19%), and recurrent CDI occurred in 19% with a median time to recurrence of 29 days. Severe CDI is defined either by an increased leukocyte count, increased creatinine level, or low albumin level, and when CDI complicates underlying IBD it is associated with prolonged hospitalization, need for surgery, escalation of IBD therapy, and increased mortality; the authors state that IBD can be considered as another CDI severity marker indicating the need for more aggressive management and, in their opinion, vancomycin or fidaxomicin, but not metronidazole, should be used for the management of CDI in IBD.
 
 ---
 
-### Management ofcolitis: insights for the gastroenterologist [^0f5f4c8d]. Therapeutic Advances in Gastroenterology (2019). Medium credibility.
+### Management ofcolitis: insights for the gastroenterologist [^111PnpoW]. Therapeutic Advances in Gastroenterology (2019). Medium credibility.
 
 To summarize, it seems prudent at this time to treat patients with CDI and IBD with vancomycin or fidaxomicin; FMT may be preferred in recurrent CDI. The decision regarding immunosuppression needs to be individualized. Above all, as patients with CDI and IBD are at an elevated risk of adverse outcomes, close monitoring and a low threshold for escalating therapy is essential. Ongoing clinical trials of FMT in this population will add much needed high-quality evidence (ClinicalTrials.gov identifiers: NCT03106844, NCT03829475).
 
 ---
 
-### A phase 2 extension study evaluating the immunogenicity, safety, and tolerability of 3 or 4 doses of a Clostridioides difficile vaccine in healthy US adults aged 65 to 85 years [^99c89b46]. The Journal of Infectious Diseases (2024). Medium credibility.
+### A phase 2 extension study evaluating the immunogenicity, safety, and tolerability of 3 or 4 doses of a Clostridioides difficile vaccine in healthy US adults aged 65 to 85 years [^114vzVFK]. The Journal of Infectious Diseases (2024). Medium credibility.
 
 Clostridioides difficile (previously Clostridium difficile) is a major cause of health care– and community-associated diarrhea. Symptoms can range from mild to severe outcomes, including colitis, toxic megacolon, intestinal perforation, and death. Risk factors for C difficile infection (CDI) include recent antibiotic treatment, older age, and certain comorbidities. Recurrence is a key challenge to treating CDI, occurring in up to 25% of patients given a traditional course of antibiotics to manage a primary infection.
 
@@ -1002,7 +1002,7 @@ Traditionally associated with health care facilities, the burden of community-as
 
 ---
 
-### Hemidesmosome integrity protects the colon against colitis and colorectal cancer [^061bf678]. Gut (2017). Low credibility.
+### Hemidesmosome integrity protects the colon against colitis and colorectal cancer [^111A4KT5]. Gut (2017). Low credibility.
 
 Figure 5
 Colitis in α6 ΔIEC mice is partially improved by antibiotic treatment. (A–C) Scattered dot plot representations showing the quantification of cytokine levels measured by ELISA starting from colon explants (A), of the CD11b + and CD4 + cells infiltrating the colonic mucosa (B), and of histological scores (C), in 9-week-old WT and α6 ΔIEC mice treated with antibiotics (+ATB) or not. In each scattered dot plot, error bars represent SD; ✱ p < 0.05, ✱✱ p < 0.01, ✱✱ p < 0.001. (A) ELISA quantification of IL-1β and IL-18 levels. (B) Quantification of CD11b + and CD4 + infiltrating cells per surface of colon. (C) Colitis histological scores established in the proximal and distal colons. +ATB, with antibiotics; ns, not significant.
@@ -1011,7 +1011,7 @@ Overall, our results show that bacteria play a role in worsening colitis in α6 
 
 ---
 
-### Early-life microbial restitution reduces colitis risk promoted by antibiotic-induced gut dysbiosis in interleukin 10Mice [^c08e2641]. Gastroenterology (2021). Medium credibility.
+### Early-life microbial restitution reduces colitis risk promoted by antibiotic-induced gut dysbiosis in interleukin 10Mice [^115vUNQG]. Gastroenterology (2021). Medium credibility.
 
 Background & Aims
 
@@ -1031,13 +1031,13 @@ Restitution of a keystone microbial strain missing in the early-life antibiotic-
 
 ---
 
-### Clinical characteristics of colitis induced by taxane-based chemotherapy [^87c36451]. Annals of Gastroenterology (2019). Medium credibility.
+### Clinical characteristics of colitis induced by taxane-based chemotherapy [^114UGxat]. Annals of Gastroenterology (2019). Medium credibility.
 
 Patients with diarrhea, abdominal pain, or vomiting were more likely to receive antibiotic treatment (P = 0.002, 0.004, and < 0.001 respectively; Table 4). These were administered either as monotherapy or combination therapy, with a median duration of 12 days (Table 1 and). Patients with abdominal pain or vomiting were more likely to be treated with intravenous fluids (P = 0.013 and < 0.001 respectively) than patients without these symptoms. Hospitalized patients were also more likely to be treated with antibiotics and intravenous fluids (P = 0.006 and < 0.001 respectively) than were patients who did not require hospitalization. In our cohort, 9 patients received both antibiotics and intravenous fluids. Patients who received antibiotics had a shorter duration of symptoms, with a mean duration of 24 days, while those who did not receive antibiotics had a mean duration of 63 days (P = 0.025). Likewise, patients who received intravenous fluids had a shorter duration of symptoms compared with those who did not (P = 0.037). More patients who received antibiotics for taxane-induced colitis were able to resume taxane therapy after resolution of colitis, but this difference was not significant (P = 0.080).
 
 ---
 
-### Evolution of clinical guidelines for antimicrobial management ofinfection [^c201f332]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
+### Evolution of clinical guidelines for antimicrobial management ofinfection [^115xdFfF]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
 
 Introduction
 
@@ -1047,7 +1047,7 @@ The CDI epidemic essentially began in the mid-1990s and continues to this day. A
 
 ---
 
-### Muc5ac expression protects the colonic barrier in experimental colitis [^c28f3891]. Inflammatory Bowel Diseases (2020). Medium credibility.
+### Muc5ac expression protects the colonic barrier in experimental colitis [^115yShqi]. Inflammatory Bowel Diseases (2020). Medium credibility.
 
 Background
 
@@ -1067,13 +1067,13 @@ MUC5AC/Muc5ac induction in the acutely inflamed colon controls injury by reducin
 
 ---
 
-### Clinical practice guidelines for Clostridium difficile infection in adults and children: 2017 update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA) [^150d858c]. Clinical Infectious Diseases (2018). Medium credibility.
+### Clinical practice guidelines for Clostridium difficile infection in adults and children: 2017 update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA) [^111YDHLo]. Clinical Infectious Diseases (2018). Medium credibility.
 
 Regarding medical management for Clostridioides difficile infection, more specifically with respect to antibiotic therapy, fulminant disease, IDSA/SHEA 2018 guidelines recommend to administer IV metronidazole 500 mg every 8 hours in addition to oral or rectal vancomycin, particularly in patients with ileus.
 
 ---
 
-### Comparison of the 2010 and 2017 Infectious Diseases Society of America guidelines on the diagnosis and treatment of Clostridium difficile infection [^7564b085]. Current Opinion in Gastroenterology (2019). Medium credibility.
+### Comparison of the 2010 and 2017 Infectious Diseases Society of America guidelines on the diagnosis and treatment of Clostridium difficile infection [^11413NZa]. Current Opinion in Gastroenterology (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -1089,6 +1089,6 @@ Updated, evidence guidelines allow optimization of the diagnosis of CDI and the 
 
 ---
 
-### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^c22f0d1d]. Diseases of the Colon and Rectum (2021). High credibility.
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^115xtQJY]. Diseases of the Colon and Rectum (2021). High credibility.
 
 Ulcerative colitis (UC) — initial intensive medical therapy timeframe: This initial 7-day treatment window is typically recommended with colectomy reserved for patients who do not respond appropriately or clinically worsen during this interval.

@@ -15,37 +15,37 @@ What's the dosing regimen for Valtrex when treating Bell's Palsy?
 
 > Let's see… What do we have here? The user is asking about the dosing regimen for Valtrex (valacyclovir) when treating Bell's palsy. Let's break this down step-by-step. First, I need to think about whether valacyclovir is indicated for Bell's palsy and in what context. Then, I should verify the exact dose, frequency, and duration from authoritative sources. Next, I will check for conflicting dosing statements and reconcile them. After that, I need to consider timing relative to symptom onset and whether it should be combined with corticosteroids. Finally, I should review special populations, safety, and summarize a practical recommendation with caveats about evidence quality.
 
-> Let me first confirm the indication and context. Valacyclovir for Bell's palsy is an off-label, adjunctive therapy considered primarily when combined with corticosteroids within 72 hours of symptom onset; antiviral monotherapy is not recommended because it lacks benefit over placebo and is inferior to steroids alone, so I need to ensure I'm not implying standalone antiviral use here [^e74b3482] [^7afc7c5a].
+> Let me first confirm the indication and context. Valacyclovir for Bell's palsy is an off-label, adjunctive therapy considered primarily when combined with corticosteroids within 72 hours of symptom onset; antiviral monotherapy is not recommended because it lacks benefit over placebo and is inferior to steroids alone, so I need to ensure I'm not implying standalone antiviral use here [^116uuQDF] [^1149LJCZ].
 
-> Now, I should verify the exact regimen. Multiple FDA sources consistently state the adult dose for adjunctive treatment of Bell's palsy is 1,000 mg orally twice daily for 7 days, which aligns with the 2025 FDA update and earlier labels, so the core regimen is 1 g PO BID for 7 days [^74a4d502] [^2078caf0].
+> Now, I should verify the exact regimen. Multiple FDA sources consistently state the adult dose for adjunctive treatment of Bell's palsy is 1,000 mg orally twice daily for 7 days, which aligns with the 2025 FDA update and earlier labels, so the core regimen is 1 g PO BID for 7 days [^113yvvss] [^111q9BFV].
 
-> Wait, let me verify a potential conflict. One FDA excerpt lists 1 g PO TID for 7 days, which would be 3 g/day rather than 2 g/day; hold on, I should verify which source is more authoritative and whether this reflects a different indication or a typographical discrepancy. Given that the most recent FDA entries and multiple prior labels consistently specify 1 g BID for 7 days, and no guideline endorses TID for Bell's palsy, I should treat the TID statement as an outlier or a labeling inconsistency and default to the BID regimen supported by the weight of evidence and labeling consensus [^74a4d502] [^2078caf0] [^befcae6d].
+> Wait, let me verify a potential conflict. One FDA excerpt lists 1 g PO TID for 7 days, which would be 3 g/day rather than 2 g/day; hold on, I should verify which source is more authoritative and whether this reflects a different indication or a typographical discrepancy. Given that the most recent FDA entries and multiple prior labels consistently specify 1 g BID for 7 days, and no guideline endorses TID for Bell's palsy, I should treat the TID statement as an outlier or a labeling inconsistency and default to the BID regimen supported by the weight of evidence and labeling consensus [^113yvvss] [^111q9BFV] [^115t9XB2].
 
-> Next, I should review timing and combination therapy. The benefit of any antiviral addition is modest at best and likely limited to patients treated within 72 hours of onset; therefore, if used, valacyclovir should be paired with a corticosteroid such as prednisone 50–60 mg daily for 5 days followed by a 5-day taper, or prednisolone 50 mg daily for 10 days, recognizing that steroids are the mainstay with proven benefit and antivirals are optional adjuncts [^7afc7c5a] [^ab59a100] [^f71d6452].
+> Next, I should review timing and combination therapy. The benefit of any antiviral addition is modest at best and likely limited to patients treated within 72 hours of onset; therefore, if used, valacyclovir should be paired with a corticosteroid such as prednisone 50–60 mg daily for 5 days followed by a 5-day taper, or prednisolone 50 mg daily for 10 days, recognizing that steroids are the mainstay with proven benefit and antivirals are optional adjuncts [^1149LJCZ] [^115P2zJT] [^117KMpCy].
 
-> I need to check special populations and dose adjustments. In renal impairment, valacyclovir requires dose reduction; for CrCl 30–50 mL/min, limit to 1 g once daily and avoid more frequent dosing, for CrCl 10–30 mL/min, reduce to 500 mg once daily, and for CrCl < 10 mL/min, reduce to 500 mg every 48 hours, with additional caution in older adults who may have reduced renal function and higher adverse event risk; no adjustment is needed for hepatic disease, and pregnancy decisions should be individualized with shared decision-making given limited safety data in this context [^2e94880b] [^0f49d4c5].
+> I need to check special populations and dose adjustments. In renal impairment, valacyclovir requires dose reduction; for CrCl 30–50 mL/min, limit to 1 g once daily and avoid more frequent dosing, for CrCl 10–30 mL/min, reduce to 500 mg once daily, and for CrCl < 10 mL/min, reduce to 500 mg every 48 hours, with additional caution in older adults who may have reduced renal function and higher adverse event risk; no adjustment is needed for hepatic disease, and pregnancy decisions should be individualized with shared decision-making given limited safety data in this context [^112C4Kb8] [^111PfcaG].
 
-> Hold on, let's not jump to conclusions about efficacy. I should confirm the strength of evidence. High-quality randomized trials and meta-analyses show no consistent added benefit of valacyclovir over steroids alone for complete recovery, though some analyses suggest a possible reduction in long-term sequelae like synkinesis; thus, if used, it should be framed as an optional adjunct with modest, uncertain benefit and discussed using shared decision-making, especially in patients with severe paralysis at presentation where a small signal for benefit has been explored [^9be28789] [^6f846455] [^7afc7c5a] [^cd918616].
+> Hold on, let's not jump to conclusions about efficacy. I should confirm the strength of evidence. High-quality randomized trials and meta-analyses show no consistent added benefit of valacyclovir over steroids alone for complete recovery, though some analyses suggest a possible reduction in long-term sequelae like synkinesis; thus, if used, it should be framed as an optional adjunct with modest, uncertain benefit and discussed using shared decision-making, especially in patients with severe paralysis at presentation where a small signal for benefit has been explored [^114z7Aq6] [^113rL6V2] [^1149LJCZ] [^116FmLoX].
 
-> Putting this together, my final, clinically actionable answer is: for adults with Bell's palsy, the valacyclovir regimen is 1,000 mg orally twice daily for 7 days, ideally started within 72 hours of symptom onset and combined with a corticosteroid regimen such as prednisone 50–60 mg daily for 5 days followed by a 5-day taper, or prednisolone 50 mg daily for 10 days; adjust dosing for renal impairment as above, and avoid antiviral monotherapy [^74a4d502] [^ab59a100] [^0f49d4c5].
+> Putting this together, my final, clinically actionable answer is: for adults with Bell's palsy, the valacyclovir regimen is 1,000 mg orally twice daily for 7 days, ideally started within 72 hours of symptom onset and combined with a corticosteroid regimen such as prednisone 50–60 mg daily for 5 days followed by a 5-day taper, or prednisolone 50 mg daily for 10 days; adjust dosing for renal impairment as above, and avoid antiviral monotherapy [^113yvvss] [^115P2zJT] [^111PfcaG].
 
 ---
 
-The standard adult dose of Valtrex (valacyclovir) for Bell's palsy is **1,000 mg orally twice daily for 7 days** [^74a4d502] [^2078caf0], typically started within 72 hours of symptom onset and combined with corticosteroids [^7afc7c5a] [^ab59a100]. Antiviral monotherapy is **not recommended** [^0f49d4c5] because it is ineffective [^6f846455]; valacyclovir should only be used with steroids, and the benefit is modest at best [^cd918616]. Adjust the dose for renal impairment [^30991fcd] and monitor for adverse effects such as nausea, headache, and rare neuropsychiatric symptoms.
+The standard adult dose of Valtrex (valacyclovir) for Bell's palsy is **1,000 mg orally twice daily for 7 days** [^113yvvss] [^111q9BFV], typically started within 72 hours of symptom onset and combined with corticosteroids [^1149LJCZ] [^115P2zJT]. Antiviral monotherapy is **not recommended** [^111PfcaG] because it is ineffective [^113rL6V2]; valacyclovir should only be used with steroids, and the benefit is modest at best [^116FmLoX]. Adjust the dose for renal impairment [^112F3qdN] and monitor for adverse effects such as nausea, headache, and rare neuropsychiatric symptoms.
 
 ---
 
 ## Recommended dosing regimen
 
-- **Standard adult dose**: 1,000 mg orally twice daily (every 12 hours) for 7 days [^74a4d502] [^2078caf0].
-- **Timing**: Initiate within 72 hours of symptom onset for optimal benefit [^7afc7c5a] [^ab59a100].
-- **Combination therapy**: Always administer with corticosteroids (e.g. prednisone 50–60 mg daily for 5 days, then taper over 5 days) [^ab59a100] [^f71d6452].
+- **Standard adult dose**: 1,000 mg orally twice daily (every 12 hours) for 7 days [^113yvvss] [^111q9BFV].
+- **Timing**: Initiate within 72 hours of symptom onset for optimal benefit [^1149LJCZ] [^115P2zJT].
+- **Combination therapy**: Always administer with corticosteroids (e.g. prednisone 50–60 mg daily for 5 days, then taper over 5 days) [^115P2zJT] [^117KMpCy].
 
 ---
 
 ## Clinical evidence supporting the dosing regimen
 
-Evidence from randomized controlled trials and meta-analyses supports the use of valacyclovir with corticosteroids, showing a **modest reduction in incomplete recovery and synkinesis** compared with steroids alone [^6f846455] [^e06ef00e]. However, valacyclovir monotherapy is ineffective and should not be used [^0f49d4c5] [^6f846455].
+Evidence from randomized controlled trials and meta-analyses supports the use of valacyclovir with corticosteroids, showing a **modest reduction in incomplete recovery and synkinesis** compared with steroids alone [^113rL6V2] [^116jjVND]. However, valacyclovir monotherapy is ineffective and should not be used [^111PfcaG] [^113rL6V2].
 
 ---
 
@@ -57,16 +57,16 @@ Dose adjustments are **required** based on creatinine clearance (CrCl):
 
 | **Creatinine clearance (crcl)** | **Recommended dose adjustment** |
 |-|-|
-| > 50 mL/min | No adjustment required [^00374ba9] |
-| 30–50 mL/min | Maximum 1 g orally every 24 hours [^0024beb8] |
-| 10–30 mL/min | 500 mg orally every 24 hours [^30991fcd] |
-| < 10 mL/min | 500 mg orally every 48 hours [^6f63783c] |
+| > 50 mL/min | No adjustment required [^1111KaFA] |
+| 30–50 mL/min | Maximum 1 g orally every 24 hours [^1111DLrK] |
+| 10–30 mL/min | 500 mg orally every 24 hours [^112F3qdN] |
+| < 10 mL/min | 500 mg orally every 48 hours [^113r9379] |
 
 ---
 
 ### Hepatic impairment
 
-No dose adjustment is **required** for hepatic impairment [^2e94880b].
+No dose adjustment is **required** for hepatic impairment [^112C4Kb8].
 
 ---
 
@@ -91,7 +91,7 @@ Rare adverse effects include **neuropsychiatric symptoms** (confusion, agitation
 
 ## Comparison with alternative antiviral agents
 
-Valacyclovir is preferred over acyclovir due to **higher oral bioavailability and less frequent dosing** [^2b6595e3]. Famciclovir is an alternative, but evidence supporting its use is less robust than for valacyclovir [^76010fe7].
+Valacyclovir is preferred over acyclovir due to **higher oral bioavailability and less frequent dosing** [^1127LbAS]. Famciclovir is an alternative, but evidence supporting its use is less robust than for valacyclovir [^1141wtwp].
 
 ---
 
@@ -99,9 +99,9 @@ Valacyclovir is preferred over acyclovir due to **higher oral bioavailability an
 
 Current guidelines from the American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) and the American Academy of Neurology (AAN) recommend:
 
-- **Corticosteroids**: Strongly recommended for all patients with new-onset Bell's palsy [^c5f54c6c] [^157c9159].
-- **Antivirals**: May be considered as an adjunct to corticosteroids, particularly in severe cases, but the benefit is modest [^7afc7c5a] [^cd918616].
-- **Antiviral monotherapy**: Not recommended [^0f49d4c5] [^bd0cfaa6].
+- **Corticosteroids**: Strongly recommended for all patients with new-onset Bell's palsy [^1164UxKM] [^111YrahE].
+- **Antivirals**: May be considered as an adjunct to corticosteroids, particularly in severe cases, but the benefit is modest [^1149LJCZ] [^116FmLoX].
+- **Antiviral monotherapy**: Not recommended [^111PfcaG] [^115qH27f].
 
 ---
 
@@ -109,10 +109,10 @@ Current guidelines from the American Academy of Otolaryngology-Head and Neck Sur
 
 | **Clinical scenario** | **Recommended treatment** |
 |-|-|
-| Standard adult patient | Valacyclovir 1,000 mg orally twice daily for 7 days + corticosteroids [^74a4d502] [^ab59a100] |
-| Renal impairment (CrCl 30–50 mL/min) | Valacyclovir 1,000 mg orally once daily for 7 days + corticosteroids [^0024beb8] |
-| Renal impairment (CrCl 10–30 mL/min) | Valacyclovir 500 mg orally once daily for 7 days + corticosteroids [^30991fcd] |
-| Renal impairment (CrCl < 10 mL/min) | Valacyclovir 500 mg orally every 48 hours for 7 days + corticosteroids [^6f63783c] |
+| Standard adult patient | Valacyclovir 1,000 mg orally twice daily for 7 days + corticosteroids [^113yvvss] [^115P2zJT] |
+| Renal impairment (CrCl 30–50 mL/min) | Valacyclovir 1,000 mg orally once daily for 7 days + corticosteroids [^1111DLrK] |
+| Renal impairment (CrCl 10–30 mL/min) | Valacyclovir 500 mg orally once daily for 7 days + corticosteroids [^112F3qdN] |
+| Renal impairment (CrCl < 10 mL/min) | Valacyclovir 500 mg orally every 48 hours for 7 days + corticosteroids [^113r9379] |
 | Pediatric patients | Not routinely recommended; consult pediatric specialist |
 
 ---
@@ -123,26 +123,26 @@ The standard adult dose of Valtrex for Bell's palsy is **1,000 mg orally twice d
 
 ## References
 
-### Valacyclovir hydrochloride PO dosing for bell's palsy [^74a4d502]. FDA (2025). Medium credibility.
+### Valacyclovir hydrochloride PO dosing for bell's palsy [^113yvvss]. FDA (2025). Medium credibility.
 
 Adjunctive treatment for Bell's palsy in adults
 - 1,000 mg PO BID for 7 days
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^0f49d4c5]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^111PfcaG]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — antiviral monotherapy: Clinicians should not prescribe oral antiviral therapy alone for patients with new-onset Bell's palsy. Strong recommendation (against) based on high-quality randomized controlled trials with a preponderance of benefit over harm. Aggregate evidence quality: Grade A and Level of confidence in evidence: High. Evidence shows that antiviral therapy alone is no better than placebo with regard to facial nerve recovery in Bell's palsy and is inferior to steroid therapy with regard to facial nerve recovery rate, with acyclovir and valacyclovir the most extensively studied antivirals. The most comprehensive randomized controlled trial failed to find an improved rate of facial nerve recovery in 207 patients treated with valacyclovir alone, compared with 209 patients treated with placebo alone. Reported harms note gastrointestinal side effects (nausea, vomiting, diarrhea) with rare severe reactions (hives, bronchospasm, angioedema, hepatic or renal failure), no serious adverse events were noted in the Bell's palsy literature, and antiviral therapy may carry an increased risk for pregnant patients. In summary, antiviral therapy alone (acyclovir or valacyclovir) is not recommended in the treatment of Bell's palsy due to lack of effectiveness of currently available drugs, unnecessary cost, and the potential for drug-related complications.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^2078caf0]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^111q9BFV]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for adjunctive treatment for Bell's palsy in adults is 1,000 mg PO BID for 7 days
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^e74b3482]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^116uuQDF]. FDA (2022). Medium credibility.
 
 Labeled indications for Valacyclovir hydrochloride (also known as Valtrex) include:
 
@@ -166,13 +166,13 @@ Off-label indications for Valacyclovir hydrochloride (also known as Valtrex) inc
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^b7eed12d]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^115hgx6x]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — antiviral monotherapy: Clinicians should not prescribe oral antiviral therapy alone for patients with new-onset Bell's palsy; strength: Strong recommendation (against).
 
 ---
 
-### Bell's palsy: a review of treatment using antiviral agents [^46e15e84]. The Annals of Pharmacotherapy (2006). Low credibility.
+### Bell's palsy: a review of treatment using antiviral agents [^112p5qGo]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Objective
 
@@ -196,13 +196,13 @@ The use of acyclovir in the treatment of Bell's palsy remains controversial. Add
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^befcae6d]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^115t9XB2]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for adjunctive treatment for Bell's palsy in adults is 1 g PO TID for 7 days
 
 ---
 
-### Do either corticosteroids or antiviral agents reduce the risk of long-term facial paresis in patients with new-onset Bell's palsy? [^a2904df5]. The Journal of Emergency Medicine (2010). Low credibility.
+### Do either corticosteroids or antiviral agents reduce the risk of long-term facial paresis in patients with new-onset Bell's palsy? [^115A1Tw2]. The Journal of Emergency Medicine (2010). Low credibility.
 
 Background
 
@@ -226,19 +226,19 @@ Current evidence suggests that prednisolone, an inexpensive and readily availabl
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^7afc7c5a]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^1149LJCZ]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — combination antiviral therapy with steroids (Statement 5B) may be offered within 72 hours of symptom onset as an option for patients with Bell's palsy, with aggregate evidence quality Grade B, a small potential improvement in facial nerve function, treatment side effects and cost as risks, and an equilibrium of benefit and harm; exceptions include diabetes, morbid obesity, previous steroid intolerance, and individualized management in pregnancy. Trial data include 221 patients showing higher full facial nerve recovery at 6 months with valacyclovir plus prednisolone versus placebo plus prednisolone (96.5% vs 89.7%); a meta-analysis of 18 trials found a 25% reduced risk of incomplete nerve recovery with combination therapy versus steroids alone (relative risk [RR], 0.75; 95% confidence interval [CI] 0.56–1.00), with an estimate that 26 patients would require treatment to achieve 1 better facial nerve outcome than with steroid therapy alone, and an additional large trial of 829 patients within 72 hours of onset has been published. Due to the potential of a small benefit and relatively low risk, the guideline development group concluded that patients may be offered combination therapy if treated within 72 hours of onset of Bell's palsy, with a large role for shared decision making.
 
 ---
 
-### Prednisolone – but not antiviral drugs – improves outcome in patients with Bell's palsy [^8b0189c8]. Nature Clinical Practice: Neurology (2009). Medium credibility.
+### Prednisolone – but not antiviral drugs – improves outcome in patients with Bell's palsy [^114Z5o91]. Nature Clinical Practice: Neurology (2009). Medium credibility.
 
 Randomized, double-blind, placebo-controlled trials have provided compelling evidence that treatment with prednisolone improves outcome in patients with acute idiopathic peripheral facial (Bell's) palsy. The low rate of adverse effects, the small number needed to treat, and the modest cost of therapy indicate that prednisolone should be used in all patients with facial palsy of < 72 h duration who do not have contraindications to steroid therapy. By contrast, the best-designed recent clinical trials have failed to suggest any significant beneficial effect on Bell's palsy of treatment with acyclovir or valacyclovir, either as single agents or in combination with prednisolone. Antiviral therapy should not, therefore, be routinely used in the treatment of Bell's palsy.
 
 ---
 
-### The "Mirror effect plus protocol" for acute Bell's palsy: a randomized controlled trial with 1-year follow-up [^ef397bfd]. Clinical Rehabilitation (2022). Medium credibility.
+### The "Mirror effect plus protocol" for acute Bell's palsy: a randomized controlled trial with 1-year follow-up [^1177fMEk]. Clinical Rehabilitation (2022). Medium credibility.
 
 Methods
 
@@ -248,13 +248,13 @@ All patients were recruited from either the Emergency or the Otorhinolaryngology
 
 ---
 
-### Bell palsy: rapid evidence review [^bd0cfaa6]. American Family Physician (2023). High credibility.
+### Bell palsy: rapid evidence review [^115qH27f]. American Family Physician (2023). High credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to antiviral therapy, AAFP 2023 guidelines recommend to do not treat patients with Bell's palsy with antivirals alone.
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^24e96b4a]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^111wixWu]. BMJ (2009). Excellent credibility.
 
 Methods
 
@@ -266,13 +266,13 @@ We included all randomised controlled trials that compared steroids with the com
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^db041eda]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^116bhfzR]. Neurology (2012). Medium credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to antiviral therapy, AAN 2012 guidelines recommend to consider initiating antiviral agents in combination with corticosteroids in patients with new-onset Bell's palsy because of the possibility of a modest increase in recovery.
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^da456f3a]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^116abd8M]. BMJ (2009). Excellent credibility.
 
 Results
 
@@ -294,13 +294,13 @@ Timing of treatment, outcome definitions, and quality of the six studies include
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^93a372d7]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^114mt5fL]. Neurology (2012). Medium credibility.
 
 Bell palsy — antiviral agents alone or added to steroids did not show significant benefit in high-quality trials. The Class I studies compared outcomes in patients randomized to antivirals and placebo and also compared antivirals plus steroids with steroids alone; Class II studies compared antivirals plus steroids with steroids alone. Valacyclovir was used in one study whereas acyclovir was used in the others, and the majority were enrolled within 3 days of onset. None of the Class I studies demonstrated improvement with antivirals vs placebo (random-effects Mantel-Haenszel pooled RD 0, 95% CI −8% favoring steroids alone to 7% favoring antivirals plus steroids), and no significant benefit of antivirals added to steroids was observed in the Class I and II studies. When added to steroids, acyclovir showed significant benefit in only one Class III study, with analysis pooled RD 4% favoring steroids plus antivirals, 95% CI −4% to 12%. No study demonstrated a significant increase in any adverse event with antiviral agents.
 
 ---
 
-### Antiviral agents added to corticosteroids for early treatment of adults with acute idiopathic facial nerve paralysis (Bell palsy) [^e06ef00e]. JAMA (2016). Excellent credibility.
+### Antiviral agents added to corticosteroids for early treatment of adults with acute idiopathic facial nerve paralysis (Bell palsy) [^116jjVND]. JAMA (2016). Excellent credibility.
 
 Clinical Question
 
@@ -312,31 +312,31 @@ Compared with oral corticosteroids alone, the addition of acyclovir, valacyclovi
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^90a4770b]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^114hSTcn]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — combination antiviral therapy: Clinicians may offer oral antiviral therapy in addition to oral steroids within 72 hours of symptom onset for patients with Bell's palsy; strength: Option.
 
 ---
 
-### Bell palsy: rapid evidence review [^a81fa8f4]. American Family Physician (2023). Medium credibility.
+### Bell palsy: rapid evidence review [^115JFZ8X]. American Family Physician (2023). Medium credibility.
 
 Bell palsy should be suspected in patients with acute onset of unilateral facial weakness or paralysis involving the forehead in the absence of other neurologic abnormalities. The overall prognosis is good. More than two-thirds of patients with typical Bell palsy have a complete spontaneous recovery. For children and pregnant women, the rate of complete recovery is up to 90%. Bell palsy is idiopathic. Laboratory testing and imaging are not required for diagnosis. When other causes of facial weakness are being considered, laboratory testing may identify a treatable cause. An oral corticosteroid regimen (prednisone, 50 to 60 mg per day for five days followed by a five-day taper) is the first-line treatment for Bell palsy. Combination therapy with an oral corticosteroid and antiviral may reduce rates of synkinesis (misdirected regrowth of facial nerve fibers manifesting as involuntary co-contraction of certain facial muscles). Recommended antivirals include valacyclovir (1 g three times per day for seven days) or acyclovir (400 mg five times per day for 10 days). Treatment with antivirals alone is ineffective and not recommended. Physical therapy may be beneficial in patients with more severe paralysis.
 
 ---
 
-### Acyclovir [^dfa862db]. FDA. Low credibility.
+### Acyclovir [^116iaoGe]. FDA. Low credibility.
 
 The dosage of acyclovir PO for adjunctive treatment for Bell's palsy in adults is 400 mg PO 5× per day for 10 days
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^25e6532f]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^111yBuX4]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to antiviral therapy (AAO-HNSF), AAO-HNS 2013 guidelines recommend to avoid initiating oral antiviral therapy alone (without corticosteroids) in patients with new-onset Bell's palsy.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^30991fcd]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^112F3qdN]. FDA (2022). Medium credibility.
 
 Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in patients with crCl 10–30 mL/min:
 
@@ -356,7 +356,7 @@ If usual recommended dose is 2 g every 12 hours for 2 doses: Reduce dose to 500 
 
 ---
 
-### Corticosteroids vs corticosteroids plus antiviral agents in the treatment of Bell palsy… [^3235228e]. JAMA Network (2009). Excellent credibility.
+### Corticosteroids vs corticosteroids plus antiviral agents in the treatment of Bell palsy… [^112HSEF7]. JAMA Network (2009). Excellent credibility.
 
 Nowadays, the treatment of choice for Bell palsy has not yet been established. The therapeutic drug choices for the treatment of the idiopathic facial paralysis are corticosteroids, antiviral therapy, and a combination of corticosteroids with an antiviral agent. To perform the intention-to-treat analysis, all patients who were initially allocated to each treatment group were analyzed together, regardless of whether they completed or received that treatment. Subgroup analyses were performed depending on the duration between disease onset and the start of therapy, the type and dosage of the corticosteroid and antiviral agent used in each study group, and studies in which physicians who performed assessments of the outcomes were actually aware of allocated treatment.
 
@@ -366,7 +366,7 @@ In the study by Hato et al, 14 treatment started within 7 days of disease onset,
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^6a2cbaf5]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^113iQiHi]. BMJ (2009). Excellent credibility.
 
 Conclusions and future research
 
@@ -374,31 +374,31 @@ In patients with Bell's palsy, adding antivirals to steroids does not provide an
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^c5f54c6c]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^1164UxKM]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — strong recommendations (Action Statements) specify that the development group made a strong recommendation that clinicians should assess the patient using history and physical examination to exclude identifiable causes in acute-onset unilateral facial paresis or paralysis; clinicians should prescribe oral steroids within 72 hours of symptom onset for Bell's palsy patients 16 years and older; clinicians should not prescribe oral antiviral therapy alone for patients with new-onset Bell's palsy; and clinicians should implement eye protection for Bell's palsy patients with impaired eye closure.
 
 ---
 
-### Bell palsy: rapid evidence review [^6bbfcd0f]. American Family Physician (2023). High credibility.
+### Bell palsy: rapid evidence review [^113kk6jp]. American Family Physician (2023). High credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to antiviral therapy, AAFP 2023 guidelines recommend to consider initiating combination therapy with oral corticosteroids and antivirals in patients with Bell's palsy to reduce rates of synkinesis.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^c8124d3c]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^1167cfud]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to antiviral therapy (AAO-HNSF), AAO-HNS 2013 guidelines recommend to consider initiating antiviral therapy in addition to oral corticosteroids within 72 hours of symptom onset for patients with Bell's palsy.
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^fcaf2b6d]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^117TcibW]. Neurology (2012). Medium credibility.
 
 Bell palsy — subgroup evidence (severe palsy and zoster sine herpete): We found limited evidence of the efficacy of steroids and antivirals in important subgroups, including severe palsy at presentation and possible zoster sine herpete. In one Class I study, severe palsy defined by a Sunnybrook Scale score of 0 to 25 showed no significant difference in 12-month recovery between prednisolone alone and prednisolone plus valacyclovir (RD 0.2% favoring valacyclovir 95% CI, −18% to 17.6%). A Class IV study observed a significant improvement in recovery (RD 26.6%) with prednisone plus famciclovir versus prednisone alone in severe Bell palsy (House-Brackmann Scale score of 5 or 6), but this study had a high risk of bias because of pseudo-randomized treatment allocation and unmasked outcome assessment. Another Class IV study observed no significant difference in a subgroup of 28 patients with evidence of zoster reactivation, reporting a hazard ratio for recovery 1.6 favoring prednisone plus valacyclovir, 95% CI 0.4 to 6.1.
 
 ---
 
-### Aciclovir or valaciclovir for Bell's palsy (idiopathic facial paralysis) [^5239b80f]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Aciclovir or valaciclovir for Bell's palsy (idiopathic facial paralysis) [^1136uNZk]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -430,13 +430,13 @@ More data are needed from a large multicentre randomised controlled and blinded 
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^44d9424b]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^112m58i6]. Neurology (2012). Medium credibility.
 
 Bell palsy — recommendations for future research: It is unlikely that additional research regarding the efficacy of steroids will change the current estimate of its effect, and large randomized trials comparing outcomes in patients with Bell palsy receiving steroids with or without antivirals would help in determining whether the addition of antivirals to steroid treatment results in a modest benefit. Such trials should be powered to allow pre-specified subgroup analyses, and further research efforts should be directed toward determining the optimal dose and timing of steroids, the effect of other therapeutic modalities, and the identification of the effect of steroids in specific populations, such as in children.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^6f63783c]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^113r9379]. FDA (2022). Medium credibility.
 
 Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in patients with crCl < 10 mL/min:
 
@@ -451,7 +451,7 @@ If usual recommended dose is 2 g every 12 hours for 2 doses: Reduce dose to 500 
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^0024beb8]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^1111DLrK]. FDA (2022). Medium credibility.
 
 Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in patients with crCl 30–50 mL/min:
 
@@ -466,7 +466,7 @@ If usual recommended dose is 2 g every 12 hours for 2 doses: Reduce dose to 1 g 
 
 ---
 
-### Valacyclovir and prednisolone treatment for Bell's palsy: a multicenter, randomized, placebo-controlled study [^f7f3eb3c]. Otology & Neurotology (2007). Low credibility.
+### Valacyclovir and prednisolone treatment for Bell's palsy: a multicenter, randomized, placebo-controlled study [^117LbsXh]. Otology & Neurotology (2007). Low credibility.
 
 Objective
 
@@ -502,13 +502,13 @@ The valacyclovir and prednisolone therapy was more effective in treating Bell's 
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^7da1f737]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^114DFraA]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes simplex virus infection in adults (meningitis) is 1 g PO TID for 10–14 days, after an initial successful treatment with IV acyclovir
 
 ---
 
-### WITHDRAWN: aciclovir or valaciclovir for Bell's palsy (idiopathic facial paralysis) [^334f8830]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
+### WITHDRAWN: aciclovir or valaciclovir for Bell's palsy (idiopathic facial paralysis) [^112K55nF]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
 
 Background
 
@@ -540,13 +540,13 @@ More data are needed from a large multicentre randomised controlled and blinded 
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^e3e1bc0e]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^116pr1do]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes zoster ophthalmicus in adults is 1 g PO TID for 7–10 days
 
 ---
 
-### Effectiveness comparisons of antiviral treatments for Bell palsy: a systematic review and network meta-analysis [^76010fe7]. Journal of Neurology (2022). Medium credibility.
+### Effectiveness comparisons of antiviral treatments for Bell palsy: a systematic review and network meta-analysis [^1141wtwp]. Journal of Neurology (2022). Medium credibility.
 
 Objectives
 
@@ -574,13 +574,13 @@ According to pairwise and network comparisons, famciclovir could be better than 
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^cd918616]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^116FmLoX]. Neurology (2012). Medium credibility.
 
 Bell palsy — treatment recommendations: For patients with new-onset Bell palsy, oral steroids should be offered to increase the probability of recovery of facial nerve function (Level A). For patients with new-onset Bell palsy, antivirals (in addition to steroids) might be offered to increase the probability of recovery of facial function (Level C). Patients offered antivirals should be counseled that a benefit from antivirals has not been established, and, if there is a benefit, it is likely that it is modest at best (RD < 7%).
 
 ---
 
-### Valacyclovir (valacyclovir hydrochloride) [^c4a3a369]. FDA (2025). Medium credibility.
+### Valacyclovir (valacyclovir hydrochloride) [^1162XYAc]. FDA (2025). Medium credibility.
 
 Trial 3 was a single-dose pharmacokinetic, multiple-dose safety trial in 28 pediatric subjects aged 1 to less than 12 years with clinically suspected HSV infection. None of the subjects enrolled in this trial had genital herpes. Each subject was dosed with valacyclovir oral suspension 10 mg/kg twice daily for 3 to 5 days. Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes. The mean projected daily acyclovir systemic exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (Cmax: ↓ 20%, AUC: ↓ 33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: ↑ 16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily. Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age-group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible. Moreover, valacyclovir has not been studied in children aged 1 to less than 12 years with recurrent genital herpes.
 
@@ -594,13 +594,13 @@ Dosage reduction is recommended when administering valacyclovir tablets to patie
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^7a9abce0]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^1148mTv7]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for prevention of herpes simplex virus infection in adults with immunocompromising conditions is 500 mg PO BID
 
 ---
 
-### Comparing the use of high-dose to standard-dose corticosteroids for the treatment of Bell's palsy in adults – A systematic review and meta-analysis [^0d4481ff]. Otology & Neurotology (2023). Medium credibility.
+### Comparing the use of high-dose to standard-dose corticosteroids for the treatment of Bell's palsy in adults – A systematic review and meta-analysis [^111LfrJa]. Otology & Neurotology (2023). Medium credibility.
 
 Objective
 
@@ -624,13 +624,13 @@ Our analysis shows a favorable effect of high-dose corticosteroid in the treatme
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^01b725c2]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^1113YWHP]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Natural history and therapies — most patients with Bell's palsy show some recovery without intervention within 2 to 3 weeks after onset of symptoms and completely recover within 3 to 4 months; even without treatment, facial function is completely restored in approximately 70% of patients with complete paralysis within 6 months and as high as 94% of patients with incomplete paralysis, with as many as 30% not recovering completely; corticosteroids and antiviral medications are the most commonly used medical therapies, and the benefit of surgical decompression of the facial nerve remains relatively controversial.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^00374ba9]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^1111KaFA]. FDA (2022). Medium credibility.
 
 Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in patients with crCl > 50 mL/min:
 
@@ -639,31 +639,31 @@ Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in pa
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^3e5731e8]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^112bRXAf]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for adjunctive treatment for acute retinal necrosis in adults with human immunodeficiency virus infection (caused by varicella zoster virus) is 1 g PO TID for at least 14 weeks
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^140297c6]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^111Wfd9f]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline options and non-recommendations — The development group provided the following options: clinicians may offer oral antiviral therapy in addition to oral steroids within 72 hours of symptom onset for patients with Bell's palsy, and clinicians may offer electrodiagnostic testing to Bell's palsy patients with complete facial paralysis; the development group offered the following no recommendations: no recommendation can be made regarding surgical decompression, no recommendation can be made regarding the effect of acupuncture, and no recommendation can be made regarding the effect of physical therapy.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^5251409e]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^11373H2u]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes simplex virus infection in adults (ocular) is 500–1,000 mg PO q8-24h
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^c4ffe703]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^11634Xce]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes zoster in adults with human immunodeficiency virus infection is 1 g PO TID for 7–10 days
 
 ---
 
-### Valacyclovir hydrochloride (valacyclovir) [^1ebbd66d]. FDA (2019). Medium credibility.
+### Valacyclovir hydrochloride (valacyclovir) [^111nZipt]. FDA (2019). Medium credibility.
 
 Study 3 was a single-dose pharmacokinetic, multiple-dose safety study in 28 pediatric patients 1 to < 12 years of age with clinically suspected HSV infection. None of the children enrolled in this study had genital herpes. Each subject was dosed with valacyclovir oral suspension, 10 mg/kg twice daily for 3 to 5 days. Acyclovir systemic exposures in pediatric patients following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes. The mean projected daily acyclovir systemic exposures in pediatric patients across all age-groups (1 to < 12 years of age) were lower (Cmax: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily, but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily. Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age-group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible. Moreover, valacyclovir has not been studied in children 1 to < 12 years of age with recurrent genital herpes.
 
@@ -677,7 +677,7 @@ Dosage reduction is recommended when administering valacyclovir hydrochloride to
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^6c16fd9b]. FDA (2025). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^113mFPL6]. FDA (2025). Medium credibility.
 
 Trial 3 was a single‑dose pharmacokinetic, multiple‑dose safety trial in 28 pediatric subjects aged 1 to less than 12 years with clinically suspected HSV infection. None of the subjects enrolled in this trial had genital herpes. Each subject was dosed with valacyclovir oral suspension 10 mg/kg twice daily for 3 to 5 days. Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes. The mean projected daily acyclovir systemic exposures in pediatric subjects across all age‑groups (1 to less than 12 years) were lower (Cmax: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily. Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age‑group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible. Moreover, valacyclovir has not been studied in children aged 1 to less than 12 years with recurrent genital herpes.
 
@@ -691,49 +691,49 @@ Dosage reduction is recommended when administering VALTREX to patients with rena
 
 ---
 
-### A small effect of adding antiviral agents in treating patients with severe Bell palsy [^d72ad7b4]. Otolaryngology — Head and Neck Surgery (2012). Low credibility.
+### A small effect of adding antiviral agents in treating patients with severe Bell palsy [^116VzjEK]. Otolaryngology — Head and Neck Surgery (2012). Low credibility.
 
 In this evidence-based case report, the authors studied the following clinical question: What is the effect of adding antiviral agents to corticosteroids in the treatment of patients with severe or complete Bell palsy? The search yielded 250 original research articles. The 6 randomized trials of these that could be used all reported low-quality data for answering the clinical question; apart from apparent flaws, they did not primarily include patients with severe or complete Bell palsy. Complete functional facial nerve recovery was seen in 75% of the patients receiving prednisolone only and in 83% with additional antiviral treatment. The pooled risk difference of 7% (95% confidence interval, -1% to 15%) results in a number needed to treat of 14 (ie, slightly favors adding an antiviral agent). The authors conclude that although a strong recommendation for adding antiviral agents to corticosteroids to further improve the recovery of patients with severe Bell palsy is precluded by the lack of robust evidence, it should be discussed with the patient.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^56254481]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^113CiTGU]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — algorithm of guideline key action statements: For a patient presenting with acute onset, unilateral facial paresis or paralysis, assess with history & physical exam to exclude identifiable causes of facial paresis/paralysis, prescribe oral steroids, and offer oral antiviral therapy in addition to oral steroids. If the Bell's palsy patient has incomplete eye closure, implement eye protection. If the Bell's palsy patient has complete facial paralysis, offer electrodiagnostic testing. When any of the following are present — new or worsening neurologic findings at any point, ocular symptoms developing at any point, or incomplete facial recovery 3 months after initial onset — reassess or refer to a facial nerve specialist or ocular specialist for ocular symptoms; if none apply, acute management of patient complete.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^335f13e0]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^112KAJdm]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes simplex virus infection in adults (orolabial) is 2 g PO BID for 1 day
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^6d33b242]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^113nu1qs]. Neurology (2012). Medium credibility.
 
 Bell palsy guideline analytic process and outcome definitions — Studies were included if they assessed facial functional outcomes after at least 3 months of follow-up in at least 20 patients with new-onset Bell palsy in controlled trials comparing steroids or antiviral agents with no such medications. Outcomes used the House–Brackmann grading, defining good recovery as grade I or II and complete recovery as grade I. Effect size was the risk difference (RD) with 95% confidence intervals, and an RD ≥ 10% was considered clinically meaningful. The search spanned Medline and the Cochrane databases from June 2000 through January 2012 and yielded 340 citations; 38 full texts were reviewed and 9 articles met inclusion criteria.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^f1ba6be6]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^117BNdhX]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — research needs and trial priorities include the following: Consolidated Standards of Reporting Trials (CONSORT) recommendations should be followed in all randomized controlled trials (RCTs), with evaluation of patients before, during, immediately after, and months later and collection of quality-of-life data; the timing and outcomes for patients with and without surgical facial nerve decompression need to be compared, including surgical approach (ie, middle fossa), age (young vs old), and time to improvement compared with traditional medical management groups (ie, steroids and/or antivirals); future clinical trials should compare eye care tactics; the benefits and risks of steroid use in children with Bell's palsy need to be better elucidated; further study is needed to compare concurrent combined steroids and antiviral therapy with designs allowing subgroup analysis; more rigorous randomized controlled trials are needed to address the effectiveness of acupuncture; and the efficacy of different physical therapy modalities on asymmetry, symmetry of voluntary movement, and synkinesis needs to be elucidated.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^af646e6c]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^115V2Zsq]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes simplex virus infection in adults with human immunodeficiency virus infection (orolabial, recurrent) is 1 g PO BID for 5 to 10 days
 
 ---
 
-### Antivirals for Bell's palsy? [^7626f852]. Drug and Therapeutics Bulletin (2013). Low credibility.
+### Antivirals for Bell's palsy? [^1142AdT7]. Drug and Therapeutics Bulletin (2013). Low credibility.
 
 Each year in the UK around 1 in 5,000 people develop Bell's palsy-idiopathic unilateral lower motor neurone facial weakness of rapid onset. Although about 70% recover spontaneously, the remaining 30% are at risk of complications;(1) 13% have residual slight weakness and about 16% have persistent moderate to severe weakness if not treated.(2) As we have discussed in two previous articles there has been longstanding controversy about the best form of treatment.(2,3) In 2006 we concluded that published trials on the efficacy of drug treatments have been poor and no firm conclusions can be drawn about the benefit of any single drug;(2) in 2008 we noted that evidence suggests oral prednisolone started within 72 hours of symptom onset makes recovery more likely and that there was little good evidence that an antiviral drug helps.(3) The place of antivirals in the management of Bell's palsy remains a controversial issue. In this article we review the evidence for antiviral therapy alone or in conjunction with corticosteroid treatment.
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^3bd8f3d0]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^112Xj9Cb]. BMJ (2009). Excellent credibility.
 
 Discussion
 
@@ -745,31 +745,31 @@ There are, however, more subtle differences between the included studies that ne
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^7a4b33f2]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^1148JkTB]. Neurology (2012). Medium credibility.
 
 Bell palsy — overall effect of antivirals: For patients with acute-onset Bell palsy, it is highly likely that antivirals do not moderately (RD > 7%) increase the likelihood of improved facial functional recovery (2 Class I studies). The pooled results of studies with a low risk of bias lack the statistical precision to exclude a modest benefit (RD favoring antivirals ≤ 7%) or modest harm (RD favoring steroids alone ≤ 8%).
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^f71d6452]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^117KMpCy]. Neurology (2012). Medium credibility.
 
 Bell palsy — steroids for new-onset facial weakness improved complete recovery in randomized trials. Both studies enrolled patients within 3 days of the onset of facial weakness, used prednisone regimens of 60 mg/d for 5 days followed by a 5-day taper or 25 mg BID for 10 days, and employed masked outcome assessment with high follow-up. The 2 Class I studies demonstrated a significant increase in the probability of complete recovery in patients randomized to steroids (RD favoring steroids 12.8% and 15%), translating to a number needed to treat (NNT) of 6 to 8, and it is highly likely that steroids are effective in increasing the probability of complete facial recovery. Adverse events (AEs) from steroids were generally minor and temporary, with insomnia and dyspepsia most commonly reported.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^50cc9a13]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^1134njWa]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — key action statement format specifies presentation and accompanying profiles: Each evidence-based statement is organized in a similar fashion, with an evidence-based key action statement in bold followed by the strength of the recommendation in italics, and each key action statement is followed by an action statement profile of aggregate evidence quality, level of confidence in the evidence, and benefit-harm assessment.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^acce27b8]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^115RC7hR]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of genital herpes in adults with human immunodeficiency virus infection is 1 g PO BID for 7–10 days (initial episode) or 5–10 days (recurrent episode)
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^30b49bb0]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^112FD54K]. BMJ (2009). Excellent credibility.
 
 Secondly, the definition of the primary end point, facial muscle recovery, was slightly different in the six studies. The two highest quality studies used complete facial recovery (House-Brackmann grade of 1) as their primary end point, whereas the remainder of the studies used partial facial recovery (House-Brackmann grade of ≥ 2). It is unclear how this disparity would change the final results, but if the increment of benefit of antivirals was small then using partial facial muscle recovery as the end point could show more favourable results for combination therapy. This issue also introduces the question of the best end point to use for a disease in which a very high proportion of patients recover with current standard therapy (steroids alone). Time to facial muscle recovery may be a more sensitive end point. This end point was analysed by Engstrom et al and no differences were observed between treatment arms. Moreover, three other prospective studies that were not included in our analysis owing to the fact that they used time to facial muscle recovery as the outcome measure showed no statistically significant difference in recovery rates with combination therapy. These studies were small, however, and may have been underpowered to show a significant difference in time to recovery.
 
@@ -779,7 +779,7 @@ Finally, the type of antiviral used also varied between studies, and the newer a
 
 ---
 
-### High-dose corticosteroids for adult Bell's palsy: systematic review and meta-analysis [^9f163d43]. Otology & Neurotology (2019). Medium credibility.
+### High-dose corticosteroids for adult Bell's palsy: systematic review and meta-analysis [^1154rW4i]. Otology & Neurotology (2019). Medium credibility.
 
 Objectives
 
@@ -811,7 +811,7 @@ High-dose corticosteroids reduce nonrecovery in patients with Bell's palsy. The 
 
 ---
 
-### The effect of study design and analysis methods on recovery rates in Bell's palsy [^96e88656]. The Laryngoscope (2009). Low credibility.
+### The effect of study design and analysis methods on recovery rates in Bell's palsy [^114rjFDf]. The Laryngoscope (2009). Low credibility.
 
 Objectives/Hypothesis
 
@@ -835,7 +835,7 @@ Recovery rates in a Bell's palsy study are substantially affected by the choice 
 
 ---
 
-### Valacyclovir (valacyclovir hydrochloride) [^f88a4d97]. FDA (2025). Medium credibility.
+### Valacyclovir (valacyclovir hydrochloride) [^117MUPFU]. FDA (2025). Medium credibility.
 
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open-label trials. No efficacy evaluations were conducted in any of the 3 trials.
 
@@ -845,13 +845,13 @@ Trial 2 was a single-dose pharmacokinetic and safety trial in pediatric subjects
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^47ace4c5]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^112qGCFN]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — evidence-based statement categories and clinician implications define four levels: A strong recommendation means the benefits of the recommended approach clearly exceed the harms, and clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. A recommendation means the benefits exceed the harms but the quality of evidence is not as strong; clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences. An option means that either the quality of evidence that exists is suspect or that well-done studies show little clear advantage to one approach vs another; clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives, and patient preference should have a substantial influencing role. No recommendation means there is both a lack of pertinent evidence and an unclear balance between benefits and harms; clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit vs harm, and patient preference should have a substantial influencing role.
 
 ---
 
-### Valacyclovir hydrochloride (valacyclovir) [^ab778043]. FDA (2019). Medium credibility.
+### Valacyclovir hydrochloride (valacyclovir) [^115PD2Ft]. FDA (2019). Medium credibility.
 
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children < 12 years of age were studied in 3 open-label studies. No efficacy evaluations were conducted in any of the 3 studies.
 
@@ -861,7 +861,7 @@ Study 2 was a single-dose pharmacokinetic and safety study in pediatric patients
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^6dff2ee6]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^113p5N61]. BMJ (2009). Excellent credibility.
 
 Subgroup analyses
 
@@ -869,13 +869,13 @@ We performed subgroup analyses related to the sources of heterogeneity we determ
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^157c9159]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^111YrahE]. Neurology (2012). Medium credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to corticosteroids, AAN 2012 guidelines recommend to administer steroids to patients with new-onset Bell's palsy to increase the probability of recovery of facial nerve function.
 
 ---
 
-### Acyclovir [^4f6fcb64]. FDA (2025). Medium credibility.
+### Acyclovir [^1132maCK]. FDA (2025). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -883,19 +883,19 @@ Acyclovir tablets are contraindicated for patients who develop hypersensitivity 
 
 ---
 
-### Bell palsy: rapid evidence review [^bf46e71c]. American Family Physician (2023). High credibility.
+### Bell palsy: rapid evidence review [^115taT87]. American Family Physician (2023). High credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to corticosteroids, AAFP 2023 guidelines recommend to administer oral corticosteroids in patients with Bell's palsy.
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^49b2f40c]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^112tGCs5]. Neurology (2012). Medium credibility.
 
 Bell palsy — clinical context for steroid use and timing: Although there is strong evidence that steroid use increases the probability of good facial functional recovery in patients with Bell palsy, it does not necessarily follow that all patients with Bell palsy need to take steroids. For example, it would be reasonable for a clinician to opt not to use steroids in a patient with brittle diabetes mellitus, and because the studies included only patients presenting early after palsy onset, it is difficult to determine the effect of steroid or antiviral treatment in patients presenting later in the course of their illness (e.g., 1 week after the onset of facial weakness).
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^2e94880b]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^112C4Kb8]. FDA (2022). Medium credibility.
 
 Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in patients with chronic liver disease, any severity:
 
@@ -904,7 +904,7 @@ Regarding the use of valacyclovir hydrochloride PO (also known as Valtrex) in pa
 
 ---
 
-### Prednisolone and valaciclovir in Bell's palsy: a randomised, double-blind, placebo-controlled, multicentre trial [^9be28789]. The Lancet: Neurology (2008). Medium credibility.
+### Prednisolone and valaciclovir in Bell's palsy: a randomised, double-blind, placebo-controlled, multicentre trial [^114z7Aq6]. The Lancet: Neurology (2008). Medium credibility.
 
 Background
 
@@ -924,7 +924,7 @@ Prednisolone shortened the time to complete recovery in patients with Bell's pal
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^71a1333d]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^113uTkH2]. BMJ (2009). Excellent credibility.
 
 Introduction
 
@@ -936,31 +936,31 @@ The neuronal inflammation associated with Bell's palsy is thought to be secondar
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^ab59a100]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^115P2zJT]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — oral corticosteroid regimen specifies a 10-day course of oral steroids with at least 5 days at a high dose (either prednisolone 50 mg for 10 days or prednisone 60 mg for 5 days with a 5-day taper) initiated within 72 hours of symptom onset, and the benefit of treatment after 72 hours is less clear.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^8f195000]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^114f9jRh]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — topics considered in guideline development include Alternative/Complementary Medicine; Pain Management; Combination therapy vs monotherapy; Electrodiagnostic testing; Eye care; House-Brackmann scale; Hyperbaric oxygen therapy; Imaging; Steroid/antiviral therapy; and Surgical decompression, with the note that not all items listed were ultimately included or discussed in the guideline.
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^3d56a08b]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^112ZwLpi]. Neurology (2012). Medium credibility.
 
 American Academy of Neurology guideline update — steroids and antivirals for Bell palsy reports that for patients with new-onset Bell palsy, steroids are highly likely to be effective and should be offered to increase the probability of recovery of facial nerve function (2 Class I studies, Level A) (risk difference 12.8%–15%). For patients with new-onset Bell palsy, antiviral agents in combination with steroids do not increase the probability of facial functional recovery by > 7%; because of the possibility of a small increase in recovery, patients might be offered antivirals (in addition to steroids) (Level C), and patients offered antivirals should be counseled that a benefit from antivirals has not been established, and, if there is a benefit, it is likely that it is modest at best. Results also note Nine studies published since June 2000 on patients with Bell palsy receiving steroids/antiviral agents were identified, with Two of these studies rated Class I.
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^de45ae9d]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^116gXf5W]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — purpose and target population state that the primary purpose of this guideline is to improve the accuracy of diagnosis for Bell's palsy, to improve the quality of care and outcomes for patients with Bell's palsy, and to decrease harmful variations in the evaluation and management of Bell's palsy; it addresses these needs by encouraging accurate and efficient diagnosis and treatment and, when applicable, facilitating patient follow-up to address long-term sequelae or evaluation of new or worsening symptoms not indicative of Bell's palsy; it is intended for all clinicians, and the target population is inclusive of both adults and children presenting with Bell's palsy.
 
 ---
 
-### Valacyclovir (valacyclovir hydrochloride) [^2b6595e3]. FDA (2025). Medium credibility.
+### Valacyclovir (valacyclovir hydrochloride) [^1127LbAS]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -986,7 +986,7 @@ The binding of valacyclovir to human plasma proteins ranges from 13.5% to 17.9%.
 
 ---
 
-### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^ec6419c1]. BMJ (2009). Excellent credibility.
+### The benefits of steroids versus steroids plus antivirals for treatment of Bell's palsy: a meta-analysis [^1173ThdA]. BMJ (2009). Excellent credibility.
 
 Objective To determine whether steroids plus antivirals provide a better degree of facial muscle recovery in patients with Bell's palsy than steroids alone.
 
@@ -1004,13 +1004,13 @@ Conclusions Antivirals did not provide an added benefit in achieving at least pa
 
 ---
 
-### Herpes simplex virus keratitis: a treatment guideline-2014 [^055273eb]. AAO (2014). Medium credibility.
+### Herpes simplex virus keratitis: a treatment guideline-2014 [^1118tdii]. AAO (2014). Medium credibility.
 
 Valacyclovir (Valtrex) and famciclovir (Famvir) oral antiviral regimens — initial dosing and taper notes: Valacyclovir is given as 1 g 3 times daily for 7–10 days or famciclovir as 500 mg twice daily for 7–10 days, after which the oral antiviral agent is reduced to prophylactic dose and maintained as long as topical corticosteroids are in use, prednisolone can be tapered slowly as disease comes under control, and there is no clinical trial data to support a specific recommendation for length of treatment.
 
 ---
 
-### Bell's palsy in children (bellPIC): protocol for a multicentre, placebo-controlled randomized trial [^c1c64262]. BMC Pediatrics (2017). Low credibility.
+### Bell's palsy in children (bellPIC): protocol for a multicentre, placebo-controlled randomized trial [^115xHCnu]. BMC Pediatrics (2017). Low credibility.
 
 Data management
 
@@ -1028,19 +1028,19 @@ The site PI is responsible for recording and reporting all serious adverse event
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^9549bbf7]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^114pKvSz]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — evidence levels for grades of evidence specify study designs by domain: For treatment and harm, grade A is well-designed randomized controlled trials performed on a population similar to the guideline's target population, and for diagnosis at grade A the evidence is a systematic review of cross-sectional studies with consistently applied reference standard and blinding. Grade B comprises randomized controlled trials or overwhelmingly consistent evidence from observational studies for treatment and harm, and individual cross-sectional studies with consistently applied reference standard and blinding for diagnosis. Grade C comprises observational studies (case control and cohort design) for treatment and harm, and nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards for diagnosis. Grade D is mechanism-based reasoning or case reports. Grade X applies to exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm; the scheme aligns with the American Academy of Pediatrics (AAP) classification scheme updated for consistency with current level of evidence definitions.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^edbe0ccb]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^1175TuG6]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of genital herpes in adults (recurrent episode) is 500 mg PO BID for 3 days
 
 ---
 
-### Acyclovir sodium [^045ac14b]. FDA (2025). Medium credibility.
+### Acyclovir sodium [^1117TSBL]. FDA (2025). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -1048,7 +1048,7 @@ Acyclovir Sodium Injection is contraindicated for patients who develop hypersens
 
 ---
 
-### Concurrent treatment with intratympanic dexamethasone for moderate-severe through severe Bell's palsy [^23352484]. Otology & Neurotology (2019). Medium credibility.
+### Concurrent treatment with intratympanic dexamethasone for moderate-severe through severe Bell's palsy [^111uCRAb]. Otology & Neurotology (2019). Medium credibility.
 
 Objective
 
@@ -1084,25 +1084,25 @@ The recovery rate was higher for concurrent intratympanic steroid therapy treatm
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^2e46f0ee]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^112BcG1T]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of herpes simplex virus infection in adults with cancer is 1 g PO TID
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^8d1f1530]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^114cDhH1]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Regarding medical management for Bell's palsy, more specifically with respect to corticosteroids (AAO-HNSF), AAO-HNS 2013 guidelines recommend to administer oral steroids within 72 hours of symptom onset in patients ≥ 16 years of age with Bell's palsy.
 
 ---
 
-### Valacyclovir hydrochloride (Valtrex) [^61df21f7]. FDA (2022). Medium credibility.
+### Valacyclovir hydrochloride (Valtrex) [^113W6kJz]. FDA (2022). Medium credibility.
 
 The dosage of valacyclovir hydrochloride PO for treatment of genital herpes in adults (suppressive therapy) is 1 g PO daily
 
 ---
 
-### Bell's palsy in children (bellPIC): protocol for a multicentre, placebo-controlled randomized trial [^f34e8406]. BMC Pediatrics (2017). Low credibility.
+### Bell's palsy in children (bellPIC): protocol for a multicentre, placebo-controlled randomized trial [^117DiN69]. BMC Pediatrics (2017). Low credibility.
 
 Data from the United Kingdom reported an incidence of Bell's palsy of more than 6 per 100,000 person-years in children under 14 years and more than 20 per 100,000 person-years in people aged 15–29 years, although the true incidence may be higher. In an emergency department based study of stroke mimics in children Bell's palsy was the third most frequent diagnosis in children with sudden onset neurological dysfunction. In adults, up to 30% of untreated patients fail to make a complete recovery. While in children up to 100% recover from Bell's palsy within 12 months, it often leaves them with a prolonged period of functional impairment, disfigurement and emotional distress.
 
@@ -1110,13 +1110,13 @@ The main agents used for the treatment of Bell's palsy are steroids. The anti-in
 
 ---
 
-### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^8151398d]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: steroids and antivirals for Bell palsy: report of the guideline development subcommittee of the American Academy of Neurology [^114Jigjv]. Neurology (2012). Medium credibility.
 
 Bell palsy antivirals plus steroids versus steroids alone — Class I and Class II controlled studies compare patients treated with antiviral agents and steroids relative to steroids alone and report risk difference (RD) outcomes. In Engström 2008, RD good recovery (CI) was 15% (8%–21%). In Sullivan 2007, RD complete recovery (CI) was 12.8% (7.2%–18.6%). RD is defined as risk difference, with positive values results favoring steroids.
 
 ---
 
-### Reactivation of herpes simplex virus type 1 and varicella-zoster virus and therapeutic effects of combination therapy with prednisolone and valacyclovir in patients with Bell's palsy [^ebc77051]. The Laryngoscope (2007). Low credibility.
+### Reactivation of herpes simplex virus type 1 and varicella-zoster virus and therapeutic effects of combination therapy with prednisolone and valacyclovir in patients with Bell's palsy [^1172Z5c4]. The Laryngoscope (2007). Low credibility.
 
 Objectives
 
@@ -1140,7 +1140,7 @@ Reactivation of HSV-1 or VZV was observed in 34% of the patients with Bell's pal
 
 ---
 
-### Antiviral treatment for Bell's palsy (idiopathic facial paralysis) [^6f846455]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Antiviral treatment for Bell's palsy (idiopathic facial paralysis) [^113rL6V2]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -1172,19 +1172,19 @@ The combination of antivirals and corticosteroids may have little or no effect o
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^38b99a2c]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^112T6ec3]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy — patient follow-up: Clinicians should reassess or refer to a facial nerve specialist those Bell's palsy patients with (1) new or worsening neurologic findings at any point, (2) ocular symptoms developing at any point, or (3) incomplete facial recovery 3 months after initial symptom onset. Aggregate evidence quality: Grade C, Level of confidence in evidence: High, Benefit-harm assessment: Preponderance of benefit over harm, and Policy level: Recommendation. Rationale includes that based on the natural history of Bell's palsy most patients will show complete recovery 3 months after onset, that failure to recover completely within 3 months warrants reevaluation to reconsider the initial diagnosis, and that the 3-month timeframe is an appropriate window to identify other causes.
 
 ---
 
-### Towards evidence based emergency medicine: best BETs from the manchester royal infirmary. Bell's palsy and acyclovir [^17656192]. Emergency Medicine Journal (2002). Low credibility.
+### Towards evidence based emergency medicine: best BETs from the manchester royal infirmary. Bell's palsy and acyclovir [^111bgmYd]. Emergency Medicine Journal (2002). Low credibility.
 
 A short cut review was carried out to establish whether acyclovir improves functional recovery in Bell's palsy. Altogether 49 papers were found using the reported search, of which two presented the best evidence to answer the clinical question. The author, date and country of publication, patient group studied, study type, relevant outcomes, results and study weaknesses of these papers are tabulated. A clinical bottom line is stated.
 
 ---
 
-### Antiviral therapy for Bell palsy… [^4f721d9a]. AAFP (2016). Low credibility.
+### Antiviral therapy for Bell palsy… [^1132nMR3]. AAFP (2016). Low credibility.
 
 Clinical Question Are antivirals effective therapy for Bell palsy. Evidence-Based Answer The combination of antiviral agents and corticosteroids is more effective than corticosteroids alone for the complete recovery of patients with Bell palsy and for the resolution of motor synkinesis and excessive tear production. Antivirals should not be used alone to treat Bell palsy. Practice Pointers Untreated idiopathic facial paralysis, or Bell palsy, leaves up to 30% of patients with some level of permanent facial asymmetry or pain. This Cochrane review included 10 trials with a total of 2, 280 participants. The authors used meta-analysis to compare several treatment regimens and a variety of outcomes.
 
@@ -1194,7 +1194,7 @@ The results of this review differ slightly from another meta-analysis that found
 
 ---
 
-### Initial treatment and referral patterns for acute facial palsy: insights from emergency department practices [^b2462d75]. The Laryngoscope (2025). Medium credibility.
+### Initial treatment and referral patterns for acute facial palsy: insights from emergency department practices [^115ZJNLC]. The Laryngoscope (2025). Medium credibility.
 
 Initiation of eye care is strongly recommended by AAO‐HNS and ACEP guidelines for those with lagophthalmos to prevent corneal damage, and the use of routine laboratory testing or diagnostic imaging in the absence of concerning history or physical exam findings is discouraged. All guidelines strongly recommend against antiviral monotherapy without the addition of steroids.
 

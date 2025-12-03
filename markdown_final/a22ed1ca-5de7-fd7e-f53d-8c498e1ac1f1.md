@@ -15,19 +15,19 @@ Does hypothermia cause bradycardia?
 
 > Let's see… What do we have here? The user is asking whether hypothermia causes bradycardia. Let's break this down step-by-step. First, I need to think about the pathophysiological mechanism by which low temperature affects cardiac conduction. Then, I should verify the strength of evidence across clinical contexts, including accidental hypothermia, therapeutic hypothermia, and neonatal hypothermia. Next, I will review guideline statements that list hypothermia as a reversible cause of bradycardia. After that, I should consider exceptions and confounders, such as drug interactions and the depth of hypothermia. Finally, I will synthesize a clinically actionable conclusion and note when bradycardia should be treated versus observed during rewarming.
 
-> Let me first confirm the mechanistic basis. Hypothermia slows sinus node automaticity and atrioventricular conduction via temperature-dependent reductions in ion-channel kinetics and metabolic rate, which produces sinus bradycardia and conduction delays. This is well described in reviews and supported by clinical observations of bradycardia that resolve with rewarming, consistent with a direct temperature effect rather than a primary myocardial pathology [^2d3bf307] [^ccabe915] [^e2f88ec9].
+> Let me first confirm the mechanistic basis. Hypothermia slows sinus node automaticity and atrioventricular conduction via temperature-dependent reductions in ion-channel kinetics and metabolic rate, which produces sinus bradycardia and conduction delays. This is well described in reviews and supported by clinical observations of bradycardia that resolve with rewarming, consistent with a direct temperature effect rather than a primary myocardial pathology [^112A4ab8] [^116ESDaL] [^116oVgz4].
 
-> Wait, let me verify the clinical evidence across settings. In accidental hypothermia, bradycardia is a hallmark finding that correlates with severity. Case series and reports repeatedly document marked sinus bradycardia that improves with rewarming, and prehospital guidance notes progressive bradycardia as core temperature falls, reinforcing causality in environmental hypothermia [^e2f88ec9] [^380210e7] [^610bb38c]. In therapeutic hypothermia after cardiac arrest, randomized and observational cohorts consistently show a high incidence of sinus bradycardia during cooling, with heart rates commonly dropping below 50–60 beats per minute and recovering with rewarming, again supporting a causal relationship rather than mere association [^9f435dcf] [^363c3a2b] [^7939b16c]. In neonates with hypoxic-ischemic encephalopathy treated with therapeutic hypothermia, randomized trials and systematic reviews report increased rates of benign sinus bradycardia that did not compromise perfusion, aligning with a predictable physiologic response to cooling [^109271c4] [^52581cb2] [^fa1ff4de].
+> Wait, let me verify the clinical evidence across settings. In accidental hypothermia, bradycardia is a hallmark finding that correlates with severity. Case series and reports repeatedly document marked sinus bradycardia that improves with rewarming, and prehospital guidance notes progressive bradycardia as core temperature falls, reinforcing causality in environmental hypothermia [^116oVgz4] [^112S312n] [^113UsjJB]. In therapeutic hypothermia after cardiac arrest, randomized and observational cohorts consistently show a high incidence of sinus bradycardia during cooling, with heart rates commonly dropping below 50–60 beats per minute and recovering with rewarming, again supporting a causal relationship rather than mere association [^11557fDG] [^112PQZYE] [^1146it3u]. In neonates with hypoxic-ischemic encephalopathy treated with therapeutic hypothermia, randomized trials and systematic reviews report increased rates of benign sinus bradycardia that did not compromise perfusion, aligning with a predictable physiologic response to cooling [^111RZzUb] [^11375afs] [^117Ppe1s].
 
-> I need to check guideline-level sources to ensure this is framed correctly. Major guidelines explicitly list hypothermia as a reversible cause of bradycardia and bradyarrhythmias, advising clinicians to identify and correct the underlying cause, which in this case is low core temperature, before escalating invasive therapies. This is consistent across adult and pediatric ALS guidance and the ACC/AHA/HRS bradycardia guideline [^25bc10b4] [^6bd46ae1] [^e6b76ca6] [^434295d7].
+> I need to check guideline-level sources to ensure this is framed correctly. Major guidelines explicitly list hypothermia as a reversible cause of bradycardia and bradyarrhythmias, advising clinicians to identify and correct the underlying cause, which in this case is low core temperature, before escalating invasive therapies. This is consistent across adult and pediatric ALS guidance and the ACC/AHA/HRS bradycardia guideline [^111xwiEX] [^113ks2P2] [^116u3mDF] [^112iiY4v].
 
-> Hold on, let's not jump to conclusions. I should consider exceptions and confounders. Bradycardia in hypothermia is typically physiologic and proportional to the degree of cooling, but concomitant factors can modulate the response: sedatives like dexmedetomidine, negative chronotropes, or autonomic dysfunction can accentuate bradycardia, and in profound hypothermia below roughly 28–30°C, the risk of ventricular fibrillation rises, so the observed rhythm may reflect both hypothermia and arrhythmic vulnerability rather than pure sinus slowing alone [^f9b817b3] [^5ef1e51f] [^5f70546d]. I should double-check that in moderate hypothermia, bradycardia is expected and often benign if perfusion is preserved, whereas in severe hypothermia, bradycardia may herald instability and warrants careful monitoring and rewarming rather than aggressive antiarrhythmic therapy [^2d3bf307] [^5ef1e51f].
+> Hold on, let's not jump to conclusions. I should consider exceptions and confounders. Bradycardia in hypothermia is typically physiologic and proportional to the degree of cooling, but concomitant factors can modulate the response: sedatives like dexmedetomidine, negative chronotropes, or autonomic dysfunction can accentuate bradycardia, and in profound hypothermia below roughly 28–30°C, the risk of ventricular fibrillation rises, so the observed rhythm may reflect both hypothermia and arrhythmic vulnerability rather than pure sinus slowing alone [^117PDkan] [^113Rm5z6] [^113SVZ8g]. I should double-check that in moderate hypothermia, bradycardia is expected and often benign if perfusion is preserved, whereas in severe hypothermia, bradycardia may herald instability and warrants careful monitoring and rewarming rather than aggressive antiarrhythmic therapy [^112A4ab8] [^113Rm5z6].
 
-> Let me synthesize the answer clearly. Yes, hypothermia causes bradycardia via direct suppression of sinus node automaticity and conduction system function, with the magnitude of bradycardia tracking the depth and duration of cooling. This is a predictable, reversible physiologic effect documented across accidental hypothermia, therapeutic hypothermia, and neonatal cooling, and it is recognized in high-quality guidelines as a reversible cause of bradycardia that should be managed primarily by correcting temperature while supporting perfusion and avoiding premature escalation to pacing or chronotropes unless there is hemodynamic compromise disproportionate to the degree of hypothermia [^b127f5cf] [^9f435dcf] [^109271c4] [^25bc10b4] [^e6b76ca6].
+> Let me synthesize the answer clearly. Yes, hypothermia causes bradycardia via direct suppression of sinus node automaticity and conduction system function, with the magnitude of bradycardia tracking the depth and duration of cooling. This is a predictable, reversible physiologic effect documented across accidental hypothermia, therapeutic hypothermia, and neonatal cooling, and it is recognized in high-quality guidelines as a reversible cause of bradycardia that should be managed primarily by correcting temperature while supporting perfusion and avoiding premature escalation to pacing or chronotropes unless there is hemodynamic compromise disproportionate to the degree of hypothermia [^115XeENJ] [^11557fDG] [^111RZzUb] [^111xwiEX] [^116u3mDF].
 
 ---
 
-Hypothermia causes **bradycardia** by slowing sinus node automaticity and atrioventricular conduction, producing a predictable, temperature-dependent reduction in heart rate that is typically benign and reversible with rewarming [^2d3bf307] [^b127f5cf]. Bradycardia is a hallmark of hypothermia and is commonly observed in both accidental and therapeutic settings, with heart rates often dropping below 60 bpm as core temperature falls below 35°C [^b127f5cf] [^9f435dcf]. Clinically, this bradycardia is usually managed conservatively unless there is hemodynamic compromise; pacing is reserved for unstable patients or when bradycardia persists despite rewarming and correction of reversible causes [^e6b76ca6] [^8d72aa8f].
+Hypothermia causes **bradycardia** by slowing sinus node automaticity and atrioventricular conduction, producing a predictable, temperature-dependent reduction in heart rate that is typically benign and reversible with rewarming [^112A4ab8] [^115XeENJ]. Bradycardia is a hallmark of hypothermia and is commonly observed in both accidental and therapeutic settings, with heart rates often dropping below 60 bpm as core temperature falls below 35°C [^115XeENJ] [^11557fDG]. Clinically, this bradycardia is usually managed conservatively unless there is hemodynamic compromise; pacing is reserved for unstable patients or when bradycardia persists despite rewarming and correction of reversible causes [^116u3mDF] [^114chmca].
 
 ---
 
@@ -35,11 +35,11 @@ Hypothermia causes **bradycardia** by slowing sinus node automaticity and atriov
 
 Hypothermia-induced bradycardia arises from **direct effects of low temperature on cardiac electrophysiology**:
 
-- **Sinus node suppression**: Lower temperatures reduce sinus node automaticity, slowing the spontaneous firing rate and causing sinus bradycardia [^2d3bf307].
+- **Sinus node suppression**: Lower temperatures reduce sinus node automaticity, slowing the spontaneous firing rate and causing sinus bradycardia [^112A4ab8].
 
-- **Atrioventricular conduction delay**: Hypothermia slows atrioventricular conduction, contributing to bradycardia and conduction blocks [^ccabe915].
+- **Atrioventricular conduction delay**: Hypothermia slows atrioventricular conduction, contributing to bradycardia and conduction blocks [^116ESDaL].
 
-- **Metabolic rate reduction**: Hypothermia lowers metabolic rate, decreasing oxygen demand and contributing to slower heart rates [^2d3bf307].
+- **Metabolic rate reduction**: Hypothermia lowers metabolic rate, decreasing oxygen demand and contributing to slower heart rates [^112A4ab8].
 
 ---
 
@@ -47,11 +47,11 @@ Hypothermia-induced bradycardia arises from **direct effects of low temperature 
 
 Multiple clinical studies and case reports document **bradycardia as a consistent feature of hypothermia**:
 
-- **Accidental hypothermia**: Patients with accidental hypothermia frequently present with sinus bradycardia, often with heart rates below 60 bpm, correlating with the severity of hypothermia [^b127f5cf] [^e2f88ec9].
+- **Accidental hypothermia**: Patients with accidental hypothermia frequently present with sinus bradycardia, often with heart rates below 60 bpm, correlating with the severity of hypothermia [^115XeENJ] [^116oVgz4].
 
-- **Therapeutic hypothermia**: In therapeutic hypothermia following cardiac arrest, bradycardia is a common and expected physiological response, with heart rates commonly dropping below 50 bpm during cooling [^9f435dcf] [^363c3a2b].
+- **Therapeutic hypothermia**: In therapeutic hypothermia following cardiac arrest, bradycardia is a common and expected physiological response, with heart rates commonly dropping below 50 bpm during cooling [^11557fDG] [^112PQZYE].
 
-- **Neonatal hypothermia**: Neonates undergoing therapeutic hypothermia for hypoxic-ischemic encephalopathy also exhibit bradycardia, typically managed conservatively without adverse outcomes [^109271c4] [^52581cb2].
+- **Neonatal hypothermia**: Neonates undergoing therapeutic hypothermia for hypoxic-ischemic encephalopathy also exhibit bradycardia, typically managed conservatively without adverse outcomes [^111RZzUb] [^11375afs].
 
 ---
 
@@ -59,11 +59,11 @@ Multiple clinical studies and case reports document **bradycardia as a consisten
 
 Bradycardia in hypothermia is **typically benign and reversible** with rewarming; however, clinicians should consider the following:
 
-- **Conservative management**: Bradycardia due to hypothermia is generally managed conservatively, with rewarming and supportive care as primary interventions [^e6b76ca6].
+- **Conservative management**: Bradycardia due to hypothermia is generally managed conservatively, with rewarming and supportive care as primary interventions [^116u3mDF].
 
-- **Indications for intervention**: Pacing or pharmacological interventions are reserved for patients with hemodynamic instability, significant hypotension, or persistent bradycardia despite rewarming and correction of reversible causes [^8d72aa8f].
+- **Indications for intervention**: Pacing or pharmacological interventions are reserved for patients with hemodynamic instability, significant hypotension, or persistent bradycardia despite rewarming and correction of reversible causes [^114chmca].
 
-- **Guideline recommendations**: The Wilderness Medical Society recommends considering transcutaneous pacing in hypothermic patients with bradycardia and hypotension disproportionate to core temperature, emphasizing individualized decision-making [^8d72aa8f] [^f3fb9458].
+- **Guideline recommendations**: The Wilderness Medical Society recommends considering transcutaneous pacing in hypothermic patients with bradycardia and hypotension disproportionate to core temperature, emphasizing individualized decision-making [^114chmca] [^117EiVeF].
 
 ---
 
@@ -71,11 +71,11 @@ Bradycardia in hypothermia is **typically benign and reversible** with rewarming
 
 While generally benign, **hypothermia-induced bradycardia** can lead to complications, particularly in severe cases:
 
-- **Hemodynamic instability**: Severe bradycardia can compromise cardiac output, leading to hypotension and organ hypoperfusion [^25bc10b4].
+- **Hemodynamic instability**: Severe bradycardia can compromise cardiac output, leading to hypotension and organ hypoperfusion [^111xwiEX].
 
-- **Arrhythmias**: Hypothermia increases the risk of atrial and ventricular arrhythmias, including atrial fibrillation and ventricular fibrillation, particularly as core temperature drops below 28°C [^5ef1e51f] [^c539c643].
+- **Arrhythmias**: Hypothermia increases the risk of atrial and ventricular arrhythmias, including atrial fibrillation and ventricular fibrillation, particularly as core temperature drops below 28°C [^113Rm5z6] [^1163Py46].
 
-- **Coagulopathy and electrolyte disturbances**: Hypothermia-induced bradycardia may coexist with coagulopathy and electrolyte imbalances, complicating clinical management [^2d3bf307].
+- **Coagulopathy and electrolyte disturbances**: Hypothermia-induced bradycardia may coexist with coagulopathy and electrolyte imbalances, complicating clinical management [^112A4ab8].
 
 ---
 
@@ -89,25 +89,25 @@ While generally benign, **hypothermia-induced bradycardia** can lead to complica
 
 ---
 
-Hypothermia causes **bradycardia** through direct suppression of sinus node automaticity and atrioventricular conduction, producing a predictable, temperature-dependent reduction in heart rate that is typically benign and reversible with rewarming. Clinically, this bradycardia is managed conservatively unless there is hemodynamic compromise, in which case pacing or pharmacological interventions may be considered [^e6b76ca6] [^8d72aa8f].
+Hypothermia causes **bradycardia** through direct suppression of sinus node automaticity and atrioventricular conduction, producing a predictable, temperature-dependent reduction in heart rate that is typically benign and reversible with rewarming. Clinically, this bradycardia is managed conservatively unless there is hemodynamic compromise, in which case pacing or pharmacological interventions may be considered [^116u3mDF] [^114chmca].
 
 ---
 
 ## References
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^25bc10b4]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^111xwiEX]. Circulation (2025). High credibility.
 
 Adult advanced life support — bradycardia definition and clinical assessment states that bradycardia has historically been defined as a ventricular heart rate of less than 60/min, and the 2018 ACC/AHA/HRS Guideline adopted a lower threshold of less than 50/min. Bradycardia can be a normal finding in healthy adults, athletes, or during sleep, and its clinical manifestation ranges from stable (asymptomatic) through symptomatic to unstable with signs of poor perfusion. Patients with symptomatic bradycardia can present with dizziness or light‑headedness, acute altered mental status, ischemic chest discomfort, acute heart failure, hypotension, or syncope due to decreased cardiac output and tissue hypoperfusion. Clinicians must evaluate whether bradycardia is a manifestation of another underlying disease process (eg, myocardial ischemia, hypoxia, electrolyte disturbance, acidosis, hypothermia) or the primary driver of the presentation. Immediate treatment of symptomatic bradycardia is focused on both supporting perfusion and identifying and reversing the underlying cause(s).
 
 ---
 
-### Part 8: pediatric advanced life support: 2025 American Heart Association and American Academy of Pediatrics guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^6bd46ae1]. Circulation (2025). High credibility.
+### Part 8: pediatric advanced life support: 2025 American Heart Association and American Academy of Pediatrics guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^113ks2P2]. Circulation (2025). High credibility.
 
 Management of bradycardia — initial evaluation and reversible causes: Bradycardia with a heart rate of less than 60 beats per minute in infants and children should prompt an evaluation for cardiopulmonary compromise, including acutely altered mental status, hypotension or other signs of shock, and correctable factors that contribute to bradycardia include hypoxia, hypotension, hypoglycemia, hypothermia, acidosis, and toxic ingestions.
 
 ---
 
-### Sinus bradycardia during hypothermia in comatose survivors of out-of-hospital cardiac arrest-a new early marker of favorable outcome? [^363c3a2b]. Resuscitation (2015). Low credibility.
+### Sinus bradycardia during hypothermia in comatose survivors of out-of-hospital cardiac arrest-a new early marker of favorable outcome? [^112PQZYE]. Resuscitation (2015). Low credibility.
 
 Background
 
@@ -127,19 +127,19 @@ Sinus bradycardia during therapeutic hypothermia is independently associated wit
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^8d72aa8f]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^114chmca]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding specific circumstances for sick sinus syndrome, more specifically with respect to patients with accidental hypothermia, WMS 2019 guidelines recommend to consider performing transcutaneous pacing in patients with hypothermia in the setting of bradycardia with hypotension disproportionate to the core temperature.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^e6b76ca6]. Circulation (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^116u3mDF]. Circulation (2019). High credibility.
 
 2018 ACC/AHA/HRS bradycardia guideline — transient/reversible causes of sinus bradycardia attributable to sinus node dysfunction (SND): Patients presenting with symptomatic SND secondary to a reversible cause should first be managed by directing the therapy at eliminating or mitigating the offending condition (I C-EO). When sinus bradycardia is the consequence of nonessential medications, permanent cardiac pacing should not be considered a first-line treatment, and withdrawal of offending drug or dosage reduction can improve the heart rate and symptoms; if the drug cannot be stopped, a simple dosage reduction may increase the heart rate and therefore improve symptoms. For medication-related bradycardia, a beta-blocking drug used solely for hypertension that is causing significant bradycardia could be switched to a diuretic, angiotensin converting enzyme inhibitor, or an angiotensin receptor blocking drug that are devoid of negative chronotropic effect, and other treatable contributors include elevated intracranial pressure, acute MI, severe hypothermia, and obstructive sleep apnea.
 
 ---
 
-### Bradycardia during targeted temperature management: an early marker of lower mortality and favorable neurologic outcome in comatose out-of-hospital cardiac arrest patients [^9f435dcf]. Critical Care Medicine (2016). Low credibility.
+### Bradycardia during targeted temperature management: an early marker of lower mortality and favorable neurologic outcome in comatose out-of-hospital cardiac arrest patients [^11557fDG]. Critical Care Medicine (2016). Low credibility.
 
 Objectives
 
@@ -171,31 +171,31 @@ This study confirms an independent association of bradycardia and lower mortalit
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^380210e7]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^112S312n]. Academic Emergency Medicine (2012). Medium credibility.
 
 NASEMSO National Model EMS Clinical Guidelines — clinical findings should be balanced with temperature categories, noting that mild hypothermia has vital signs not depressed, normal mental status, shivering is preserved, and the body maintains the ability to attempt to control temperature, whereas moderate/severe hypothermia involves progressive bradycardia, hypotension, and decreased respirations, alterations in mental status with eventual coma, and general slowing of bodily functions; the body loses the ability to thermo-regulate and shivering will be lost in moderate hypothermia.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^5f70546d]. Heart Rhythm (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^113SVZ8g]. Heart Rhythm (2019). High credibility.
 
 2018 ACC/AHA/HRS bradycardia guideline — transient/reversible causes of sinus node dysfunction (SND) states that patients presenting with symptomatic SND secondary to a reversible cause should first be managed by directing the therapy at eliminating or mitigating the offending condition (COR I, LOE C-EO). When sinus bradycardia is the consequence of nonessential medications, permanent cardiac pacing should not be considered a first-line treatment, and withdrawal of the offending drug or dosage reduction can improve the heart rate and symptoms; medications are frequent culprits, including negative chronotropic drugs such as beta blockers, calcium channel blockers, and digoxin. Additional reversible contributors noted include hypothyroidism with cardiovascular abnormalities that respond to thyroxine, metabolic abnormalities such as severe systemic acidosis or hypokalemia in acute settings, and other treatable conditions such as elevated intracranial pressure, acute MI, severe hypothermia, and obstructive sleep apnea.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^0161ba07]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^11133p9k]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding therapeutic procedures for accidental hypothermia, more specifically with respect to transcutaneous pacing, WMS 2019 guidelines recommend to consider performing transcutaneous pacing in patients with hypothermia in the setting of bradycardia with hypotension disproportionate to the core temperature.
 
 ---
 
-### The effects of mild induced hypothermia on the myocardium: a systematic review [^5827e315]. Anaesthesia (2010). Low credibility.
+### The effects of mild induced hypothermia on the myocardium: a systematic review [^113FhJrx]. Anaesthesia (2010). Low credibility.
 
 Mild induced hypothermia improves neurological outcome and reduces mortality among initially comatose survivors of out-of-hospital cardiac arrest. Similar pathological processes occur in the heart and the brain, namely ischaemia followed by reperfusion injury. Animal data indicate that mild induced hypothermia results in improved myocardial salvage, reduced infarct size, reduced left ventricular remodelling and better long-term left ventricular function. Several small human studies suggest that infarct size may be reduced by mild induced hypothermia, although this has not reached significance in any human study to date. There are variable reports of harm to the myocardium caused by mild induced hypothermia, including reduced myocardial contractility and cardiac output, electrocardiographic changes and arrhythmias, especially bradycardia. These harmful effects are reversible with rewarming.
 
 ---
 
-### Fetal bradycardia in response to maternal hypothermia [^ebb53be9]. Obstetrics and Gynecology (2020). Medium credibility.
+### Fetal bradycardia in response to maternal hypothermia [^1172Sxwz]. Obstetrics and Gynecology (2020). Medium credibility.
 
 Background
 
@@ -211,7 +211,7 @@ A possible cause for fetal bradycardia with a stable baseline and moderate varia
 
 ---
 
-### Mechanisms of action, physiological effects, and complications of hypothermia [^2d3bf307]. Critical Care Medicine (2009). Low credibility.
+### Mechanisms of action, physiological effects, and complications of hypothermia [^112A4ab8]. Critical Care Medicine (2009). Low credibility.
 
 Background
 
@@ -239,13 +239,13 @@ Therapeutic hypothermia is a highly promising treatment, but the potential side 
 
 ---
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^3be205a2]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^112XnBtd]. Circulation (2025). High credibility.
 
 Regarding medical management for cardiac arrest, more specifically with respect to management of bradycardia, pharmacotherapy, AHA 2025 guidelines recommend to obtain evaluation and perform treatment for reversible causes in adult patients presenting with acute symptomatic bradycardia.
 
 ---
 
-### Hypothermia… [^7856122a]. JAMA Network (2018). Excellent credibility.
+### Hypothermia… [^1145QRcd]. JAMA Network (2018). Excellent credibility.
 
 Peiris AN, Jaroudi S, Gavin M. Hypothermia. JAMA. 2018; 319:
 
@@ -257,7 +257,7 @@ If the affected person is conscious, provide a warm beverage. Avoid alcohol or c
 
 ---
 
-### Bradycardia during therapeutic hypothermia is associated with good neurologic outcome in comatose survivors of out-of-hospital cardiac arrest [^7939b16c]. Critical Care Medicine (2014). Low credibility.
+### Bradycardia during therapeutic hypothermia is associated with good neurologic outcome in comatose survivors of out-of-hospital cardiac arrest [^1146it3u]. Critical Care Medicine (2014). Low credibility.
 
 Objective
 
@@ -289,7 +289,7 @@ Bradycardia during therapeutic hypothermia was associated with good neurologic o
 
 ---
 
-### A systematic review of cooling for neuroprotection in neonates with hypoxic ischemic encephalopathy-are we there yet? [^52581cb2]. BMC Pediatrics (2007). Low credibility.
+### A systematic review of cooling for neuroprotection in neonates with hypoxic ischemic encephalopathy-are we there yet? [^11375afs]. BMC Pediatrics (2007). Low credibility.
 
 The frequency of sinus bradycardia following therapeutic hypothermia was significant. A borderline effect on thrombocytopenia was noted and there was a trend towards a higher risk of anemia, coagulopathy, and hypotension (Table 5). However, sinus bradycardia is a physiological response rather than a true adverse event and did not compromise perfusion, and thrombocytopenia was not reported as of clinical importance. The adverse events therefore may be outweighed by the potential benefits.
 
@@ -297,7 +297,7 @@ Given the overall encouraging results without significant adverse effects it is 
 
 ---
 
-### Mad honey poisoning-related hypothermia: a case series [^cfe9591b]. The Journal of Emergency Medicine (2016). Low credibility.
+### Mad honey poisoning-related hypothermia: a case series [^116KEpKc]. The Journal of Emergency Medicine (2016). Low credibility.
 
 Background
 
@@ -309,7 +309,7 @@ Three patients are reviewed. Patient 1 was a 66-year-old man who presented to th
 
 ---
 
-### A systematic review of cooling for neuroprotection in neonates with hypoxic ischemic encephalopathy-are we there yet? [^109271c4]. BMC Pediatrics (2007). Low credibility.
+### A systematic review of cooling for neuroprotection in neonates with hypoxic ischemic encephalopathy-are we there yet? [^111RZzUb]. BMC Pediatrics (2007). Low credibility.
 
 Background
 
@@ -329,19 +329,19 @@ In general, therapeutic hypothermia seems to have a beneficial effect on the out
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^f3fb9458]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^117EiVeF]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Accidental hypothermia — transcutaneous cardiac pacing: Two case reports suggest that transcutaneous pacing may be beneficial in the hypothermic patient, and it was instituted to increase blood pressure to facilitate arteriovenous rewarming rather than to control heart rate. Recommendation: It is the consensus of the panel that transcutaneous pacing may be beneficial in hypothermia in the setting of bradycardia with hypotension disproportionate to the core temperature (Evidence grade: 2C).
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^610bb38c]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^113UsjJB]. Academic Emergency Medicine (2012). Medium credibility.
 
 Hypothermia/Cold exposure — patient presentation includes that patients may suffer hypothermia due to exposure to a cold environment or from a primary illness or injury combined with cold exposure; patients may suffer systemic effects from cold (hypothermia) or localized effects (i.e., frostbite); mild hypothermia will have normal mental status, shivering, and may have normal vital signs, whereas moderate to severe hypothermia will manifest mental status changes, eventual loss of shivering and progressive bradycardia, hypotension, and decreased respiratory status; frostbite presents with numbness and a "clumsy" feeling with areas of blanched skin, with later findings including a "woody" sensation, decreased or loss of sensation, bruising or blister formation, or a white and waxy appearance to affected tissue.
 
 ---
 
-### Patient with altered mental status [^845899df]. Heart (2023). Medium credibility.
+### Patient with altered mental status [^114PD8Hc]. Heart (2023). Medium credibility.
 
 What action would you advise next?
 
@@ -355,19 +355,19 @@ Temperature obtained via bladder probe was 87.4 ○ F. The patient was rewarmed 
 
 ---
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^75aa2dd1]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^1141SiKr]. Circulation (2025). High credibility.
 
 Regarding medical management for cardiac arrest, more specifically with respect to management of bradycardia, pharmacotherapy, AHA 2025 guidelines recommend to consider administering atropine to increase HR in adult patients with acute bradycardia associated with hemodynamic compromise.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^1fdc2503]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^111pEZVt]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding nonpharmacologic interventions for accidental hypothermia, more specifically with respect to out-of-hospital management (active rewarming), WMS 2019 guidelines recommend to do not offer any treatment for atrial dysrhythmias in hemodynamically stable patients during rewarming.
 
 ---
 
-### Glycopyrrolate does not ameliorate hypothermia associated bradycardia in healthy individuals: a randomized crossover trial [^f9b817b3]. Resuscitation (2021). Medium credibility.
+### Glycopyrrolate does not ameliorate hypothermia associated bradycardia in healthy individuals: a randomized crossover trial [^117PDkan]. Resuscitation (2021). Medium credibility.
 
 Background
 
@@ -387,25 +387,25 @@ Glycopyrrolate did not prevent the bradycardic response to hypothermia and dexme
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^3c8d01cd]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^112Ymcwv]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding diagnostic investigations for accidental hypothermia, more specifically with respect to field assessment, WMS 2019 guidelines recommend to assess level of consciousness, alertness, shivering intensity, physical performance, and cardiovascular stability based on BP and cardiac rhythm to guide the treatment of patients with hypothermia. Do not base treatment solely on the measurement of core temperature, as it is difficult to accurately obtain in the field.
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^db7022e1]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^116cKxJk]. Academic Emergency Medicine (2012). Medium credibility.
 
 Cardiovascular bradycardia — EMS key considerations include observing for decreased end-organ perfusion signs such as chest pain, shortness of breath, decreased level of consciousness, syncope, or other signs of shock/hypotension. Patients who have undergone cardiac transplant will not respond to atropine. Consider potential culprit medications including beta-blockers, calcium channel blockers, sodium channel blockers/anti-depressants, digoxin, and clonidine, and consider hyperkalemia in the patient with wide complex bradycardia. The differential diagnosis includes myocardial infarction, hypoxia, pacemaker failure, hypothermia, sinus bradycardia, athletes, head injury with increased intracranial pressure, stroke, spinal cord lesion, sick sinus syndrome, AV blocks, overdose, and cholinergic nerve agents. Bradycardia should be managed via the least invasive manner possible, escalating care as needed. Third-degree heart block or the denervated heart (as in cardiac transplant) may not respond to atropine and in these cases, proceed quickly to chronotropic agents (such as epinephrine or dopamine) or transcutaneous pacing. Dopamine is not indicated for pediatric patients. Be aware of acute coronary syndrome as a cause of bradycardia in adult patients. When dosing medications for pediatric patients, dose should be weight-based for non-obese patients and based on ideal body weight for obese patients. Although dopamine is often recommended for the treatment of symptomatic bradycardia, recent research suggests that patients in cardiogenic or septic shock treated with norepinephrine have a lower mortality rate compared to those treated with dopamine. Caution: Norepinephrine can theoretically cause reflex bradycardia.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^434295d7]. Heart Rhythm (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112iiY4v]. Heart Rhythm (2019). High credibility.
 
 ACC/AHA/HRS 2018 bradycardia guideline — Common potentially reversible or treatable causes of sinus node dysfunction (SND) include acute myocardial ischemia or infarction, athletic training, atrial fibrillation, cardiac surgery (valve replacement; maze procedure; coronary artery bypass graft), drugs or toxins (toluene, organophosphates, tetrodotoxin, cocaine), electrolyte abnormality (hyperkalemia, hypokalemia, hypoglycemia), heart transplant (acute rejection, chronic rejection, remodeling), hypervagotonia, hypothermia (therapeutic or environmental exposure), hypothyroidism, hypovolemic shock, hypoxemia/hypercarbia/acidosis, sleep apnea or respiratory insufficiency (suffocation, drowning, stroke, drug overdose), infection (examples listed), and medications such as beta blockers, non-dihydropyridine calcium channel blockers, digoxin, antiarrhythmic drugs, lithium, methyldopa, risperidone, cisplatin, and interferon.
 
 ---
 
-### Targeted temperature management in critical care: a report and recommendations from five professional societies [^f5a5a584]. Critical Care Medicine (2011). Low credibility.
+### Targeted temperature management in critical care: a report and recommendations from five professional societies [^117HBc6f]. Critical Care Medicine (2011). Low credibility.
 
 Objective
 
@@ -425,13 +425,13 @@ Conclusions and Recommendations
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^c245bd69]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^115y22KA]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Accidental hypothermia — management of atrial dysrhythmias during rewarming: Atrial dysrhythmias in hypothermic patients during rewarming are common and resolve spontaneously once the patient has been sufficiently rewarmed. Recommendation: No treatment is indicated for atrial dysrhythmias in a hemodynamically stable patient during rewarming (Evidence grade: IB).
 
 ---
 
-### Early prognostication of neurological outcome by heart rate variability in adult patients with out-of-hospital sudden cardiac arrest [^22705410]. Critical Care (2019). Medium credibility.
+### Early prognostication of neurological outcome by heart rate variability in adult patients with out-of-hospital sudden cardiac arrest [^111t4Jv3]. Critical Care (2019). Medium credibility.
 
 Although hypothermia causes bradycardia physiologically, time-domain variables or frequency-domain variable of HRV during moderate hypothermia was enhanced in patients with poikilothermia or healthy volunteers. Tianien et al. reported that all HRV values based on 24-h RR intervals are higher in post-ROSC comatose patients treated with moderate hypothermia (33 °C) than those treated with normothermia (< 38 °C). In infants with hypoxic ischemic encephalopathy, increased HF power and AVNN during hypothermia were reported in infants with moderate brain injury or favorable outcome Thus, enhanced HRV produced by moderate hypothermia may counter-act the suppressive effects of mechanical ventilation with sedation in the present study.
 
@@ -441,43 +441,43 @@ Several limitations might affect the present findings. First, this study was con
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^e03569e2]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^116jQAhw]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Accidental hypothermia — effects of vasoactive and antidysrhythmic drugs: There is limited human evidence regarding drug effects in hypothermic cardiac arrest, and the panel states that no recommendation can be made at this time owing to the limited evidence available.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^62c75552]. Circulation (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^113XSjwf]. Circulation (2019). High credibility.
 
 2018 ACC/AHA/HRS bradycardia guideline — conditions associated with bradycardia and conduction disorders are categorized as intrinsic and extrinsic; intrinsic causes include cardiomyopathy (ischemic or nonischemic), congenital heart disease, degenerative fibrosis, infection/inflammation (Chagas disease, diphtheria, infectious endocarditis, Lyme disease, myocarditis, sarcoidosis, toxoplasmosis), infiltrative disorders (amyloidosis, hemochromatosis, lymphoma), ischemia/infarction, rheumatological conditions (rheumatoid arthritis, scleroderma, systemic lupus erythematosus), and surgical or procedural trauma (cardiac procedures such as ablation or cardiac catheterization, congenital heart disease surgery, septal myomectomy for hypertrophic obstructive cardiomyopathy, valve surgery [including percutaneous valve replacement]); extrinsic causes include autonomic perturbation (carotid sinus hypersensitivity, neurally-mediated syncope/presyncope, physical conditioning, situational syncope with cough, defecation, glottic stimulation, medical procedures, micturition, vomiting), sleep (with or without sleep apnea), and metabolic abnormalities (acidosis, hyperkalemia, hypokalemia, hypothermia, hypothyroidism, hypoxia).
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the Evaluation and management of Patients with bradycardia and cardiac Conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^71c4a538]. Journal of the American College of Cardiology (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the Evaluation and management of Patients with bradycardia and cardiac Conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^113ufeoh]. Journal of the American College of Cardiology (2019). High credibility.
 
 ACC/AHA/HRS bradycardia guideline — conditions associated with bradycardia and conduction disorders include intrinsic and extrinsic causes. Intrinsic causes include cardiomyopathy (ischemic or nonischemic), congenital heart disease, degenerative fibrosis, infection/inflammation with entities such as Chagas disease, diphtheria, infectious endocarditis, Lyme disease, myocarditis, sarcoidosis, and toxoplasmosis; infiltrative disorders including amyloidosis, hemochromatosis, and lymphoma; ischemia/infarction; rheumatological conditions including rheumatoid arthritis, scleroderma, and systemic lupus erythematosus; surgical or procedural trauma; and cardiac procedures such as ablation or cardiac catheterization. Additional surgical associations include congenital heart disease surgery, septal myomectomy for hypertrophic obstructive cardiomyopathy, and valve surgery (including percutaneous valve replacement). Extrinsic factors include autonomic perturbation, carotid sinus hypersensitivity, neurally-mediated syncope/presyncope, physical conditioning, situational syncope, cough, defecation, glottic stimulation, medical procedures, micturition, vomiting, sleep (with or without sleep apnea), and metabolic derangements such as acidosis, hyperkalemia, hypokalemia, hypothermia, hypothyroidism, and hypoxia.
 
 ---
 
-### Successful transcutaneous pacing in 2 severely hypothermic patients [^6685ea9a]. Annals of Emergency Medicine (2007). Low credibility.
+### Successful transcutaneous pacing in 2 severely hypothermic patients [^113czieV]. Annals of Emergency Medicine (2007). Low credibility.
 
 The clinical condition of profound hypothermia is well described in the medical literature. There have been many case reports and studies describing successful aspects of caring for this problem. Significant bradycardia is a known pathophysiologic consequence of profound hypothermia. Transcutaneous pacing for this condition is not a routine or recommended practice in the literature. This case report details 2 patients with profound hypothermia and resultant bradycardia with hypotension. In both cases, transcutaneous pacing was successfully applied and used as part of the resuscitation. In both cases, transcutaneous pacing was required to maintain an adequate blood pressure so that continuous arteriovenous rewarming could be used during the resuscitation. Both cases had successful outcomes, and the rewarming process was greatly assisted by the pacing procedure.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^44a82e17]. Heart Rhythm (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112kneaJ]. Heart Rhythm (2019). High credibility.
 
 2018 ACC/AHA/HRS bradycardia guideline — conditions associated with bradycardia and conduction disorders include intrinsic causes such as Cardiomyopathy (ischemic or nonischemic), Congenital heart disease, Degenerative fibrosis, Infection/inflammation with Chagas disease, Diphtheria, Infectious endocarditis, Lyme disease, Myocarditis, Sarcoidosis, and Toxoplasmosis; additional intrinsic categories include Infiltrative disorders (Amyloidosis, Hemochromatosis, Lymphoma), Ischemia/infarction, Rheumatological conditions (Rheumatoid arthritis, Scleroderma, Systemic lupus erythematosus), and Surgical or procedural trauma (Cardiac procedures such as ablation or cardiac catheterization, Congenital heart disease surgery, Septal myectomy for hypertrophic obstructive cardiomyopathy, Valve surgery (including percutaneous valve replacement)); extrinsic factors include Autonomic perturbation, Carotid sinus hypersensitivity, Neurally-mediated syncope/presyncope, Physical conditioning, Situational syncope, Cough, Defecation, Glottic stimulation, Medical procedures, Micturition, Vomiting, and Sleep (with or without sleep apnea); and metabolic factors include Acidosis, Hyperkalemia, Hypokalemia, Hypothermia, Hypothyroidism, and Hypoxia.
 
 ---
 
-### Accidental hypothermia [^7ceaf85b]. Pediatric Emergency Care (2012). Low credibility.
+### Accidental hypothermia [^114CCPXp]. Pediatric Emergency Care (2012). Low credibility.
 
 Accidental hypothermia has produced many cases of intact survival even after prolonged cardiac arrest, but it is also often fatal. In recent years, alterations in resuscitation care that sometimes confused or discouraged resuscitation teams have largely been supplanted by an emphasis on safe, rapid, effective rewarming. Rewarming decisions and even the simple recognition of hypothermia remain challenging. This review seeks to update and demystify some of these challenges.
 
 ---
 
-### Personalizing temperature targets after cardiac arrest: our neurologically driven approach [^a7383053]. JACC: Advances (2025). Medium credibility.
+### Personalizing temperature targets after cardiac arrest: our neurologically driven approach [^115Guoi2]. JACC: Advances (2025). Medium credibility.
 
 We acknowledge that our approach of using lower temperatures in patients with severe neurological injury warrants further robust evidence, particularly in specific subpopulations. This is supported by a patient-level meta-analysis from TTM/TTM2 demonstrating no interaction between risk profiles by MIRACLE-2 (Missed/ unwitnessed arrest; Initial rhythm; Reactive pupils; Age; Changing rhythm; Low pH; Epinephrine given) score and temperature selection. However, such findings may be limited by inclusion of relatively healthier cohorts. Consequently, while experts recognize the issue of limited CA phenotypes in major TTM trials, current American and European guidelines avoid temperature-specific recommendations based on arrest features and instead endorse a broad range of 32 to 37.5 °C (Class I, Level of Evidence: B).
 
@@ -487,25 +487,25 @@ Clinicians must balance the benefit of cooling against its risks, costs, and the
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines, and the Heart Rhythm Society [^aa42c223]. Circulation (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines, and the Heart Rhythm Society [^115MRKTx]. Circulation (2019). High credibility.
 
 ACC/AHA/HRS 2018 bradycardia guideline — conditions associated with bradycardia and conduction disorders span intrinsic causes such as cardiomyopathy (ischemic or nonischemic), congenital heart disease, degenerative fibrosis, infection/inflammation (Chagas disease, diphtheria, infectious endocarditis, Lyme disease, myocarditis, sarcoidosis, toxoplasmosis), infiltrative disorders (amyloidosis, hemochromatosis, lymphoma), ischemia/infarction, rheumatological conditions (rheumatoid arthritis, scleroderma, systemic lupus erythematosus), surgical or procedural trauma, and cardiac procedures such as ablation or cardiac catheterization; and also include entries listed under Table 5 continued: congenital heart disease surgery, septal myomectomy for hypertrophic obstructive cardiomyopathy, valve surgery (including percutaneous valve replacement), extrinsic factors such as autonomic perturbation, carotid sinus hypersensitivity, neurally-mediated syncope/presyncope, physical conditioning, situational syncope (cough, defecation, glottic stimulation, medical procedures, micturition, vomiting), sleep (with or without sleep apnea), and metabolic disturbances (acidosis, hyperkalemia, hypokalemia, hypothermia, hypothyroidism, hypoxia).
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^5ef1e51f]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^113Rm5z6]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Accidental hypothermia — physiologic changes with falling core temperature include brain activity beginning to decline at approximately 33 to 34°C, shivering ceasing at and below approximately 30°C, and cardiac output decreasing markedly as the heart cools below 30°C with susceptibility to ventricular fibrillation (VF) below 28°C. From 35 to 32°C thermoregulatory shivering control is functional and can still be strong at 31°C; below 32°C thermoregulation becomes less effective, rewarming is possible only with addition of exogenous heat, level of consciousness decreases, and below 28°C most patients are unconscious and not shivering with a high risk of VF or asystole.
 
 ---
 
-### Part 10: adult and pediatric special circumstances of resuscitation: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^e52ef6d9]. Circulation (2025). High credibility.
+### Part 10: adult and pediatric special circumstances of resuscitation: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^116rmwUL]. Circulation (2025). High credibility.
 
 Environmental hypothermia cardiac arrest — Antiarrhythmic medications and scope — In the absence of human evidence, these guidelines do not make a recommendation about the use of antiarrhythmic medications for patients in cardiac arrest from environmental hypothermia. These recommendations are specific to hypothermia management.
 
 ---
 
-### Apraclonidine [^f48de804]. FDA (2024). Medium credibility.
+### Apraclonidine [^117FZeKV]. FDA (2024). Medium credibility.
 
 OVERDOSAGE
 
@@ -517,7 +517,7 @@ Treatment of an oral overdose includes supportive and symptomatic therapy; a pat
 
 ---
 
-### The electrocardiogram in hypothermia [^e2b5ab74]. Wilderness & Environmental Medicine (2001). Low credibility.
+### The electrocardiogram in hypothermia [^116o7DuD]. Wilderness & Environmental Medicine (2001). Low credibility.
 
 Objective
 
@@ -537,31 +537,31 @@ This study confirms that the ECG is abnormal in the majority of patients sufferi
 
 ---
 
-### Accidental hypothermia [^b127f5cf]. The New England Journal of Medicine (2012). Excellent credibility.
+### Accidental hypothermia [^115XeENJ]. The New England Journal of Medicine (2012). Excellent credibility.
 
 The disease accidental hypothermia can be associated with ↓ body temperature, shivering, pallor, hyperkalemia, bradycardia, confusion, frostbite, slurred speech, premature atrial contractions, premature ventricular contractions, facial erythema, hyporeflexia, osborn wave, loss of appetite, homelessness, mydriasis, ↓ O2 saturation, frostnip, ↓ QRS complex amplitude, apathy, VF, altered mental status, ↑QT interval, hypotonia, bradypnea, somnolence, ↑ serum lactate, traumatic injury and cyanosis.
 
 ---
 
-### Extracorporeal membrane oxygenation rewarming in the ED: an opportunity for success [^c539c643]. The American Journal of Emergency Medicine (2015). Low credibility.
+### Extracorporeal membrane oxygenation rewarming in the ED: an opportunity for success [^1163Py46]. The American Journal of Emergency Medicine (2015). Low credibility.
 
 On average, approximately 1300 Americans die of hypothermia each year. Although accidental hypothermia is commonly associated with severely cold regions or mountain accident victims, hypothermia also commonly occurs in urban centers. Contributing factors often include homelessness, mental illness, and substance abuse. Hypothermia can profoundly affect the cardiovascular system. As the myocardium cools, the conduction system slows down, which results in prolongation of the QT interval as well as propensity for arrhythmias. Eventually, bradycardia, atrial fibrillation, and ventricular fibrillation (VF) can develop. The risk of cardiac arrest increases as the core temperature drops below 32°C and increases substantially when less than 28°C.
 
 ---
 
-### Hypothermia: evaluation, electrocardiographic manifestations, and management [^ccabe915]. The American Journal of Medicine (2006). Low credibility.
+### Hypothermia: evaluation, electrocardiographic manifestations, and management [^116ESDaL]. The American Journal of Medicine (2006). Low credibility.
 
 Hypothermia-related cases typically occur after exposure to low ambient temperatures; however, numerous cases occur in individuals with no history of exposure to cold environment. Hypothermia is associated with such complications as acidosis, impaired myocardial function, bleeding diathesis, and decreased kidney and liver function. The well-known electrocardiographic manifestations of hypothermia are the presence of J (Osborn) waves, prolonged PR, QRS, and QT intervals, and atrial arrhythmias. The choice of rewarming therapy is based on the degree of hypothermia. The evaluation, electrocardiographic manifestations, and management of hypothermia are reviewed.
 
 ---
 
-### Donor heart and lung procurement: a consensus statement [^2e47d7e0]. The Journal of Heart and Lung Transplantation (2020). High credibility.
+### Donor heart and lung procurement: a consensus statement [^112BcZao]. The Journal of Heart and Lung Transplantation (2020). High credibility.
 
 Donor heart arrhythmia management — Cardiac arrhythmias may occur in up to 20%–30% of donors. Therapy for arrhythmia should be initiated early, including the correction of any reversible factors, targeting a heart rate between 60 and 120 beats per minute. If a donor heart cannot be cardioverted out of atrial fibrillation, the procuring and transplanting surgeons should discuss organ suitability and likely decline the organ for transplantation. Tachyarrhythmias that trigger hemodynamic instability should be treated with synchronized electrical cardioversion, and internal defibrillator paddles should be readily available from the time of sternotomy. In brain-dead donors, clinically significant bradycardia may not respond to atropine; therefore, a direct-acting chronotropic agent, such as epinephrine, dopamine, isoproterenol, or dobutamine, may instead be used. Hypothermia, defined as core temperature < 36°C, is arrhythmogenic and should be avoided.
 
 ---
 
-### Thiazoline-related innate fear stimuli orchestrate hypothermia and anti-hypoxia via sensory TRPA1 activation [^32782600]. Nature Communications (2021). High credibility.
+### Thiazoline-related innate fear stimuli orchestrate hypothermia and anti-hypoxia via sensory TRPA1 activation [^112Hpjmh]. Nature Communications (2021). High credibility.
 
 Results
 
@@ -571,13 +571,13 @@ Avoidance and risk assessment behaviors relevant to innate fear induced by 2MT a
 
 ---
 
-### Hypothermia-related deaths – United States, 2003 [^ecf43654]. MMWR: Morbidity and Mortality Weekly Report (2004). Low credibility.
+### Hypothermia-related deaths – United States, 2003 [^1174J79M]. MMWR: Morbidity and Mortality Weekly Report (2004). Low credibility.
 
 Hypothermia, a preventable lowering of the core body temperature to < 95 degrees F (< 35 degrees C), causes approximately 600 deaths each year in the United States. Exposure to excessive cold (or excessive exposure to cold) slows enzymatic activity throughout the body, leading to potentially fatal rhabdomyolysis, coagulopathy, renal failure, and dysrhythmias. Alcohol intake, activity level, and type of clothing are among the modifiable factors associated with hypothermia. Understanding the epidemiology and pathophysiology of hypothermia is important to preventing hypothermia-related mortality. This report describes three cases of fatal hypothermia that occurred during 2003, reviews national statistics on mortality from cold exposure in 2001, and provides recommendations for the diagnosis, treatment, and prevention of hypothermia. Public health strategies tailored to U.S. populations at increased risk for exposure to excessive cold can help reduce mortality and morbidity from hypothermia.
 
 ---
 
-### Profound sinus bradycardia after intravenous nicardipine [^eff11337]. Anesthesia and Analgesia (2002). Low credibility.
+### Profound sinus bradycardia after intravenous nicardipine [^1178j1sc]. Anesthesia and Analgesia (2002). Low credibility.
 
 Implications
 
@@ -585,19 +585,19 @@ Nicardipine-induced bradycardia has been reported in experimental animals but no
 
 ---
 
-### Moderate hypothermia in neonatal encephalopathy: safety outcomes [^fa1ff4de]. Pediatric Neurology (2005). Low credibility.
+### Moderate hypothermia in neonatal encephalopathy: safety outcomes [^117Ppe1s]. Pediatric Neurology (2005). Low credibility.
 
 Hypoxic-ischemic injury may cause multisystem organ damage with significant aberrations in clotting, renal, and cardiac functions. Systemic hypothermia may aggravate these medical conditions, such as bradycardia and increased clotting times, and very little safety data in neonatal hypoxic-ischemic injury is available. This study reports a multicenter, randomized, controlled pilot trial of moderate systemic hypothermia (33 degrees C) vs normothermia (37 degrees C) for 48 hours in infants with neonatal encephalopathy instituted within 6 hours of birth or hypoxic-ischemic event. The best outcome measures of safety were determined, comparing rates of adverse events between normothermia and hypothermia groups. A total of 32 hypothermia and 33 normothermia neonates were enrolled in seven centers. Adverse events and serious adverse effects were collected by the study team during the hospital admission, monitored by an independent study monitor, and reported to Institutional Review Boards and the Data and Safety Monitoring Committee. The following adverse events were observed significantly more commonly in the hypothermia group: more frequent bradycardia and lower heart rates during the period of hypothermia, longer dependence on pressors, higher prothrombin times, and lower platelet counts with more patients requiring plasma and platelet transfusions. Seizures as an adverse event were more common in the hypothermia group. These observed side effects of 48 hours of moderate systemic hypothermia were of mild to moderate severity and manageable with minor interventions.
 
 ---
 
-### Severe hypothermia, bradycardia and cardiac arrest in association with risperidone [^3aed6882]. BMJ Case Reports (2020). High credibility.
+### Severe hypothermia, bradycardia and cardiac arrest in association with risperidone [^112WN2Rw]. BMJ Case Reports (2020). High credibility.
 
 Antipsychotic medications, including risperidone, are widely used in the treatment of psychiatric disorders, including schizophrenia. While hyperthermia is an establish adverse effect of these medications, less is known about the rare occurrence of hypothermia. We present two patients who developed hypothermia, bradycardia and cardiac arrest in association with risperidone. We briefly review previously similarly reported cases.
 
 ---
 
-### The effect of therapeutic hypothermia on heart rate variability [^88d25d61]. Journal of Perinatology (2017). Low credibility.
+### The effect of therapeutic hypothermia on heart rate variability [^114VqyZa]. Journal of Perinatology (2017). Low credibility.
 
 Objective
 
@@ -617,13 +617,13 @@ In general, the effect of hypothermia on measures of HRV is limited to changes i
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the Evaluation and management of patients with bradycardia and cardiac conduction delay: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines, and the Heart Rhythm Society [^0c6c14d3]. Journal of the American College of Cardiology (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the Evaluation and management of patients with bradycardia and cardiac conduction delay: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines, and the Heart Rhythm Society [^111KR9yc]. Journal of the American College of Cardiology (2019). High credibility.
 
 Bradycardia and conduction disorders — conditions associated with these rhythms include intrinsic cardiac disease and inflammation or infection (cardiomyopathy [ischemic or nonischemic], congenital heart disease, degenerative fibrosis, Chagas disease, diphtheria, infectious endocarditis, Lyme disease, myocarditis, sarcoidosis, toxoplasmosis), infiltrative disorders (amyloidosis, hemochromatosis, lymphoma), ischemia/infarction, rheumatological conditions (rheumatoid arthritis, scleroderma, systemic lupus erythematosus), and surgical or procedural trauma (cardiac procedures such as ablation or cardiac catheterization); additional associations include congenital heart disease surgery, septal myomectomy for hypertrophic obstructive cardiomyopathy, and valve surgery (including percutaneous valve replacement), as well as extrinsic and physiologic triggers (autonomic perturbation, carotid sinus hypersensitivity, neurally-mediated syncope/presyncope, physical conditioning, situational syncope with cough, defecation, glottic stimulation, medical procedures, micturition, vomiting), sleep (with or without sleep apnea), and metabolic states (acidosis, hyperkalemia, hypokalemia, hypothermia, hypothyroidism, hypoxia).
 
 ---
 
-### Children with infantile neuronal ceroid lipofuscinosis have an increased risk of hypothermia and bradycardia during anesthesia [^49abe318]. Anesthesia and Analgesia (2009). Low credibility.
+### Children with infantile neuronal ceroid lipofuscinosis have an increased risk of hypothermia and bradycardia during anesthesia [^112tDqCj]. Anesthesia and Analgesia (2009). Low credibility.
 
 Background
 
@@ -643,7 +643,7 @@ We report that patients with INCL have lower baseline body temperature and durin
 
 ---
 
-### Thiazoline-related innate fear stimuli orchestrate hypothermia and anti-hypoxia via sensory TRPA1 activation [^890b42b1]. Nature Communications (2021). High credibility.
+### Thiazoline-related innate fear stimuli orchestrate hypothermia and anti-hypoxia via sensory TRPA1 activation [^114WB5yr]. Nature Communications (2021). High credibility.
 
 Fig. 1
 Trpa1 mediates tFO-evoked hypothermia and bradycardia.
@@ -652,7 +652,7 @@ a, b Cutaneous temperature (a) and core body temperature (b) temporal analysis i
 
 ---
 
-### Outcome after resuscitation beyond 30 minutes in drowned children with cardiac arrest and hypothermia: Dutch nationwide retrospective cohort study [^3c0e2a07]. BMJ (2015). Excellent credibility.
+### Outcome after resuscitation beyond 30 minutes in drowned children with cardiac arrest and hypothermia: Dutch nationwide retrospective cohort study [^112Y31rE]. BMJ (2015). Excellent credibility.
 
 Season
 
@@ -668,7 +668,7 @@ We were able to retrieve data on the initial cardiac arrest rhythm from the medi
 
 ---
 
-### Apraclonidine hydrochloride (apraclonidine ophthalmic) [^7f0f72d7]. FDA (2022). Medium credibility.
+### Apraclonidine hydrochloride (apraclonidine ophthalmic) [^114FNcke]. FDA (2022). Medium credibility.
 
 OVERDOSAGE
 
@@ -680,7 +680,7 @@ Treatment of an oral overdose includes supportive and symptomatic therapy; a pat
 
 ---
 
-### Neurologic recovery from profound accidental hypothermia after 5 hours of cardiopulmonary resuscitation [^4a43b135]. Critical Care Medicine (2014). Low credibility.
+### Neurologic recovery from profound accidental hypothermia after 5 hours of cardiopulmonary resuscitation [^112u6pc4]. Critical Care Medicine (2014). Low credibility.
 
 Objective
 
@@ -712,7 +712,7 @@ With no evidence of trauma or asphyxia, profound accidental hypothermia with car
 
 ---
 
-### Late-onset post-lesional paroxysmal hypothermia: a case series and literature review [^ddf1eb00]. Journal of Neurology (2020). Medium credibility.
+### Late-onset post-lesional paroxysmal hypothermia: a case series and literature review [^116g3XDq]. Journal of Neurology (2020). Medium credibility.
 
 Background
 
@@ -728,13 +728,13 @@ Late-onset post-lesional PH is exceptional with only a single case hitherto repo
 
 ---
 
-### The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society [^df44c703]. Neurocritical Care (2017). Medium credibility.
+### The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society [^116i1Ljc]. Neurocritical Care (2017). Medium credibility.
 
 Targeted temperature management (TTM) — cardiac and thrombotic complications and monitoring: In adults, four RCTs failed to identify a statistically significant difference in the rate of arrhythmias between hypothermic patients and normal controls, while a fifth RCT identified a significantly greater incidence of bradycardia, premature ventricular contractions, and couplets during the first 24 h of TTM; however, these results are of questionable clinical significance. A study by De Georgia identified a 66% higher incidence of DVT with hypothermic patients. In high-quality neonatal and pediatric studies, no significant difference was seen in cardiac complication rates between hypothermia and normothermia, although Jacobs found a higher incidence of prolonged QT during hypothermia for HIE (p = 0.006), and Gluckman et al. found no difference in the incidence of DVT. We recommend cardiac monitoring during TTM, particularly focused on QT during the induction and maintenance of hypothermia. Because of the lack of evidence for increased risk, we do not recommend a change to routine monitoring for other complications, including renal failure, ARDS, GI-tract impairment, hypotension, DVT, days intubated and seizures.
 
 ---
 
-### Dynamicity of hypothermia-induced J waves and the mechanism involved [^a6444ba7]. Heart Rhythm (2019). Medium credibility.
+### Dynamicity of hypothermia-induced J waves and the mechanism involved [^115FVtHU]. Heart Rhythm (2019). Medium credibility.
 
 Background
 
@@ -758,19 +758,19 @@ J waves in severe hypothermia were augmented after short RR intervals in 7 patie
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^8adf70fb]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^114YtLst]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding specific circumstances for cardiac arrest, more specifically with respect to patients with accidental hypothermia, WMS 2019 guidelines recommend to perform chest compressions in patients with hypothermia and cardiac arrest at the same rate as for patients with normothermia. Consider using a mechanical compression device to decrease interruptions and reduce rescuer fatigue.
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^4a746d94]. Circulation (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112uPC4B]. Circulation (2019). High credibility.
 
 Symptomatic bradycardia — definition and attribution are described as a "documented bradyarrhythmia that is directly responsible for development of the clinical manifestations of syncope or pre-syncope, transient dizziness or lightheadedness, heart failure symptoms, or confusional states resulting from cerebral hypoperfusion attributable to slow heart rate", while noting that direct attribution of bradycardia as the sole source of symptoms is challenging; in patients with vasovagal syncope bradycardia is often accompanied by a significant vasodepressor effect, and nonspecific symptoms such as fatigue can be multifactorial and difficult to correlate with bradycardia particularly in the setting of modest resting sinus bradycardia or with exercise.
 
 ---
 
-### Esmolol hydrochloride [^c8532e83]. FDA (2025). Medium credibility.
+### Esmolol hydrochloride [^1167zTsY]. FDA (2025). Medium credibility.
 
 5.1 Hypotension
 
@@ -800,7 +800,7 @@ Beta-blockers may prevent early warning signsofhypoglycemia, such as tachycardia
 
 ---
 
-### Accidental hypothermia [^a075f714]. The New England Journal of Medicine (2012). Excellent credibility.
+### Accidental hypothermia [^1156teEf]. The New England Journal of Medicine (2012). Excellent credibility.
 
 The following constitutes key background information on accidental hypothermia:
 
@@ -812,37 +812,37 @@ The following constitutes key background information on accidental hypothermia:
 
 ---
 
-### 2024 American Heart Association and American red cross guidelines for first aid [^63de0fe1]. Circulation (2024). High credibility.
+### 2024 American Heart Association and American red cross guidelines for first aid [^113Z4N1v]. Circulation (2024). High credibility.
 
 Hypothermia — background and scope: Accidental hypothermia "is an environmental emergency that may be encountered in urban, rural, and austere settings", with "the very young, the very old, and people with impaired temperature perception, regulation, and ability to communicate" at increased risk. "In the United States, hypothermia is responsible for ≈1300 deaths annually". "Heat loss occurs through 4 methods: conduction, convection, radiation, and evaporation". "Hypothermia occurs when the core body temperature drops below the normal temperature range near 37°C", and individuals may be "'cold' or 'cold stressed' with temperatures of 35°C to 37°C". "Mild hypothermia begins when the core temperature falls below 35°C". Rewarming "may use passive measures… or active measures", and these recommendations "are not applicable to infants < 60 days of age and to cardiac arrest in all age groups". A literature search was performed in 2023.
 
 ---
 
-### Cardiac arrest and therapeutic hypothermia [^8eb22b88]. Trends in Cardiovascular Medicine (2016). Low credibility.
+### Cardiac arrest and therapeutic hypothermia [^114eZ63q]. Trends in Cardiovascular Medicine (2016). Low credibility.
 
 Therapeutic hypothermia for patients who remain comatose following resuscitation from a cardiac arrest improves both survival and neurologic outcomes. Although this therapy has been incorporated into the guidelines for routine post-resuscitation care and has been in clinical use for over a decade, significant questions and controversies remain. In this review, we discuss these questions in the context of the current evidence and provide a practical framework to help guide clinicians.
 
 ---
 
-### Physiology and clinical relevance of induced hypothermia [^7f23ec24]. Neurocritical Care (2004). Low credibility.
+### Physiology and clinical relevance of induced hypothermia [^114FVVcf]. Neurocritical Care (2004). Low credibility.
 
 Experimental evidence and clinical experience suggest that mild hypothermia protects numerous tissues from damage during ischemic insult. However, the extent to which hypothermia becomes a valued therapeutic option will depend on the clinician's ability to rapidly reduce core body temperature and safely maintain hypothermia. To date, general anesthesia is the best way to block autonomic defenses during induction of mild-to-moderate hypothermia; unfortunately, general anesthesia is not an option in most patients likely to benefit from therapeutic hypothermia. Induction of hypothermia in awake humans is complicated by both the technical difficulties related to thermal manipulation and the remarkable efficacy of thermoregulatory defenses, especially vasoconstriction and shivering. The most effective thermal manipulation devices are generally invasive and, therefore, more prone to complications than surface methods. In an effort to inhibit thermoregulation in awake humans, several agents have been tested either alone or in combination with each other. For example, the combination of meperidine and buspirone has already been applied to facilitate induction of hypothermia in human trials. However, pharmacological induction of thermoregulatory tolerance to cold without excessive sedation, respiratory depression, or other serious toxicity remains a major focus of current therapeutic hypothermia research.
 
 ---
 
-### 2024 American Heart Association and American red cross guidelines for first aid [^8b390fdf]. Circulation (2024). High credibility.
+### 2024 American Heart Association and American red cross guidelines for first aid [^114ZQSq4]. Circulation (2024). High credibility.
 
 Hypothermia first aid — showers and warm water immersion: People with simple cold stress were generally able to safely rewarm in a warm shower or warm water immersion, but in a single-patient experimental study of mild hypothermia with core temperature ≈36° C, warm bath rewarming was associated with transient core temperature drop, decreases in mean arterial pressure, and increases in heart rate and cardiac output; these effects can decrease perfusion and, in severe cases, cause arrhythmia, and attempting to manage a confused or less alert person with hypothermia in a shower or bathtub is potentially dangerous.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^12361985]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^111Tzx28]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Circumrescue collapse — definition and rescue handling emphasize horizontal positioning and limiting exertion to reduce hypotension and dysrhythmias. Circumrescue collapse refers to light-headedness, collapse, syncope, or sudden death around cold-water rescue, and can result from decreased catecholamines or sudden cardiac dysrhythmias. Keeping the patient horizontal mitigates decreased hydrostatic pressure and avoiding physical effort protects against afterdrop. Recommendations: "Rescuers should keep a hypothermic patient horizontal, especially during rescue from water or a crevasse (Evidence grade: 1B) and should limit physical effort by the patient during rescue (Evidence grade: 1B). A conscious patient should be encouraged to be attentive and focus on survival (Evidence grade: 1C)".
 
 ---
 
-### A systematic review of safety and adverse effects in the practice of therapeutic hypothermia [^0449fe04]. The American Journal of Emergency Medicine (2018). Low credibility.
+### A systematic review of safety and adverse effects in the practice of therapeutic hypothermia [^1117MocX]. The American Journal of Emergency Medicine (2018). Low credibility.
 
 Objective
 
@@ -862,13 +862,13 @@ Although adverse effects related to the practice of TH have been studied extensi
 
 ---
 
-### Electrocardiographic manifestations of hypothermia [^37e13b32]. The American Journal of Emergency Medicine (2002). Low credibility.
+### Electrocardiographic manifestations of hypothermia [^112RqyMj]. The American Journal of Emergency Medicine (2002). Low credibility.
 
 Hypothermia is generally defined as a core body temperature less than 35 degrees C (95 degrees F). Hypothermia is one of the most common environmental emergencies encountered by emergency physicians. Although the diagnosis will usually be evident after an initial check of vital signs, the diagnosis can sometimes be missed because of overreliance on normal or near-normal oral or tympanic thermometer readings. The classic and well-known electrocardiographic (ECG) manifestations of hypothermia include the presence of J (Osborn) waves, interval (PR, QRS, QT) prolongation, and atrial and ventricular dysrhythmias. There are also some less known (ECG) findings associated with hypothermia. For example, hypothermia can produce ECG signs that simulate those of acute myocardial ischemia or myocardial infarction. Hypothermia can also blunt the expected ECG findings associated with hyperkalemia. A thorough knowledge of these findings is important for prompt diagnosis and treatment of hypothermia. Six cases are presented that show these important ECG manifestations of hypothermia.
 
 ---
 
-### Esmolol hydrochloride (Brevibloc) [^e6e98c76]. FDA (2025). Medium credibility.
+### Esmolol hydrochloride (Brevibloc) [^116uLbiD]. FDA (2025). Medium credibility.
 
 5.1 Hypotension
 
@@ -898,7 +898,7 @@ Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycard
 
 ---
 
-### Hypothermia depth and duration and neonatal hypoxic-ischemic encephalopathy outcomes… [^5afff782]. JAMA Network (2017). Excellent credibility.
+### Hypothermia depth and duration and neonatal hypoxic-ischemic encephalopathy outcomes… [^113Kurzu]. JAMA Network (2017). Excellent credibility.
 
 or moderate is incomplete Moro reflex and severe is absent); and autonomic nervous system — either pupil, heart rate, or respiration. To obtain probability estimates of treatment effect for the 3 experimental groups, a Bayesian analysis of death or disability or death alone was conducted. A log binomial model with level of encephalopathy and main effects of cooling duration and depth and their interaction was used to estimate posterior median of the RRs and 95% credible intervals. The adjusted RRs for the primary outcome for duration or depth of cooling were not significantly different. The primary outcome was similar among infants with moderate or severe encephalopathy between the 120-hour and 72-hour groups and between the 32. 0°C and
 33. 5°C groups.
@@ -907,7 +907,7 @@ The Bayesian analyses of the posterior probabilities of reducing death or modera
 
 ---
 
-### Apraclonidine hydrochloride (Iopidine) [^541ec86b]. FDA (2021). Medium credibility.
+### Apraclonidine hydrochloride (Iopidine) [^1139iJNW]. FDA (2021). Medium credibility.
 
 OVERDOSAGE
 
@@ -915,13 +915,13 @@ Ingestion of IOPIDINE* 0.5% Ophthalmic Solution has been reported to cause brady
 
 ---
 
-### Body temperature regulates glucose metabolism and torpid behavior [^1977507e]. Nature Communications (2025). High credibility.
+### Body temperature regulates glucose metabolism and torpid behavior [^111ekmUh]. Nature Communications (2025). High credibility.
 
 Among the tissues used to measure 2DG uptake, only heart 2DG uptake was lower than that in the control at 34 °C, indicating that Qrfp POA directly control cardiac function rather than other tissues. Consistent with this, different populations of neurons in the POA increase or decrease heart rate and cardiovascular function. Although QIH mice had a markedly low heart rate, which was also noted in hypothermia induced by estrogen receptor-expressing neurons in the POA, whether bradycardia is controlled by these neurons or by hypothermia needs further studies. Besides body temperature, the POA regulates locomotor activity –. The locomotor activity of QIH mice, which was inhibited at 23 °C, was higher than that of the control at 34 °C, suggesting that Qrfp POA activation enhanced locomotion, and this enhancement was masked by hypothermia in QIH mice. Therefore, hypothermia may interfere with phenotypes of POA-regulated behaviors or physiology and complicate the interpretation of results. In recent decades, the POA has been reported to regulate physiology and behaviors, including sleep, feeding, and parental behavior. Disturbed body temperature can sometimes be induced by manipulating POA neurons and interferes with the actual functions of the POA. The extent to which POA-mediated hypothermia or hyperthermia disrupts these physiology and behaviors may be a question for future studies.
 
 ---
 
-### Endotoxemia causing fetal bradycardia during urosepsis [^3131978b]. Obstetrics and Gynecology (2001). Low credibility.
+### Endotoxemia causing fetal bradycardia during urosepsis [^112Fw3wQ]. Obstetrics and Gynecology (2001). Low credibility.
 
 Background
 
@@ -937,7 +937,7 @@ Fetal bradycardia in the presence of urosepsis might be due to the release of en
 
 ---
 
-### ST-segment elevation myocardial infarction vs. hypothermia-induced electrocardiographic changes: a case report and brief review of the literature [^35eb76c6]. The Journal of Emergency Medicine (2014). Low credibility.
+### ST-segment elevation myocardial infarction vs. hypothermia-induced electrocardiographic changes: a case report and brief review of the literature [^112NwS9K]. The Journal of Emergency Medicine (2014). Low credibility.
 
 Background
 
@@ -957,7 +957,7 @@ Obtaining a complete set of vital signs is key to making a correct diagnosis. Hy
 
 ---
 
-### Improved therapeutic benefits by combining physical cooling with pharmacological hypothermia after severe stroke in rats [^8c01c43d]. Stroke (2016). Low credibility.
+### Improved therapeutic benefits by combining physical cooling with pharmacological hypothermia after severe stroke in rats [^114aZrsN]. Stroke (2016). Low credibility.
 
 Discussion
 
@@ -969,19 +969,19 @@ Previous data from human and animal studies have shown that cooling can cause bo
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^4ac8e09f]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^112usZGA]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Initial defibrillation in hypothermia — defibrillation is only indicated for a shockable rhythm (pulseless ventricular tachycardia [VT] or ventricular fibrillation [VF]), and if a monitor/defibrillator shows VT or VF in a patient whose core temperature is thought to be below 30°C, a single shock should be given at maximum power (Evidence grade: 1C).
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^e7c8da1d]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^116vdc1a]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Field rewarming — The rewarming methods described in this section achieve the safe rewarming rate of 1 to 2°C h−1 and minimize the risk of afterdrop. Afterdrop can lead to hemodynamic instability and VF, and the risk of afterdrop is reduced by limiting limb movement and by keeping the patient horizontal. Most patients with altered consciousness will require active rewarming.
 
 ---
 
-### The TOBY study. whole body hypothermia for the treatment of perinatal asphyxial encephalopathy: a randomised controlled trial [^f8b4093d]. BMC Pediatrics (2008). Low credibility.
+### The TOBY study. whole body hypothermia for the treatment of perinatal asphyxial encephalopathy: a randomised controlled trial [^117MiQGt]. BMC Pediatrics (2008). Low credibility.
 
 Clinical trials of treatment with hypothermia
 
@@ -1003,31 +1003,31 @@ Although some experimental evidence suggests that selective head cooling may be 
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^d6ff484c]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^116Vk6cK]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding therapeutic procedures for accidental hypothermia, more specifically with respect to CPR, WMS 2019 guidelines recommend to perform chest compressions in patients with hypothermia and cardiac arrest at the same rate as for patients with normothermia. Consider using a mechanical compression device to decrease interruptions and reduce rescuer fatigue.
 
 ---
 
-### Advanced life support. post-cardiac arrest care [^4824d40f]. REDCROSS (2025). High credibility.
+### Advanced life support. post-cardiac arrest care [^112qxUmL]. REDCROSS (2025). High credibility.
 
 Post-cardiac arrest temperature control — evidence overview: The 2024 ILCOR systematic review found no difference in overall outcomes between hypothermia, normothermia, or fever prevention, and noted no evidence of worse outcomes with hypothermic temperature control. One trial reported better survival with favorable functional outcome in the hypothermic temperature control group among nonshockable cardiac arrest patients, but 90-day survival was not significantly different. Large trials have primarily included patients with an initial shockable rhythm and a primary cardiac cause, whereas in the U.S. the initial rhythm is more often nonshockable in noncardiac, respiratory events; additional studies are needed to determine whether patients with an initial nonshockable rhythm or noncardiac etiology may benefit from hypothermic temperature control.
 
 ---
 
-### Hypothermia-related deaths – United States, 2003–2004 [^566a2f9a]. MMWR: Morbidity and Mortality Weekly Report (2005). Low credibility.
+### Hypothermia-related deaths – United States, 2003–2004 [^113D7buT]. MMWR: Morbidity and Mortality Weekly Report (2005). Low credibility.
 
 Hypothermia, a reduction in the body's core temperature to < 95.0 degrees F (< 35.0 degrees C), is a preventable medical emergency usually caused by prolonged exposure to cold temperatures without adequate protective clothing. Warning signs and symptoms of hypothermia include lethargy, weakness and loss of coordination, confusion, uncontrollable shivering, and reduced respiratory or heart rate. Common risk factors are advanced age, substance abuse, altered mental status, and increased contact with substances that promote heat loss, such as water. This report describes three hypothermia-related deaths that occurred in the United States during 2003–2004, summarizes hypothermia-related mortality during 1979–2002, describes risk factors for and symptoms of hypothermia, and reviews measures to prevent hypothermia-related injury and death. Public health strategies tailored to persons at increased risk for exposure to excessive cold might help reduce hypothermia-related morbidity and mortality.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^12587a51]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^111UCVm2]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Automated external defibrillator (AED) triage in hypothermia — field CPR initiation should follow this directive: If shock is advised by the AED, rescuers should attempt defibrillation and start CPR. If no shock is advised on an AED, no carotid pulse is found after palpating for at least 1 min, normal breathing or other signs of life are not observed, and ultrasound is not available to verify cardiac activity or pulse, start CPR (Evidence grade: 1C).
 
 ---
 
-### Clinical practice recommendations on the management of perioperative cardiac arrest: a report from the PERIOPCA consortium [^13e54108]. Critical Care (2021). Medium credibility.
+### Clinical practice recommendations on the management of perioperative cardiac arrest: a report from the PERIOPCA consortium [^111WVmao]. Critical Care (2021). Medium credibility.
 
 Introduction
 
@@ -1041,49 +1041,49 @@ To date the ERC published relevant guidelines for this type of cardiac arrest, b
 
 ---
 
-### Hypothermia during the infusion of cryopreserved autologous peripheral stem cell causes electrocardiographical changes: report of two cases [^3b35f106]. American Journal of Hematology (2006). Low credibility.
+### Hypothermia during the infusion of cryopreserved autologous peripheral stem cell causes electrocardiographical changes: report of two cases [^112WnPVX]. American Journal of Hematology (2006). Low credibility.
 
 Currently, autologous peripheral stem cell transplantation used as a therapeutic modality in the treatment of various hematological malignancies is gaining more popularity day by day. In this method, the patient's own peripheral stem cells are collected by a proper method and stored at -80 degrees C until they are reinfused into the patient after being rewarmed in water bath at 37 degrees C. A number of complications have been reported related to reinfusion of the cryopreserved cells into the patient. These may include noncardiovascular complications such as nausea, vomiting, flushing, abdominal pain, chest discomfort, and headache, as well as cardiovascular complications like arrhythmias, hypotension, and hypertension. Hypothermia related to rapid infusion has been reported as the main factor underlying the cardiovascular complications. Electrocardiographic findings of hypothermia include sinusal bradycardia, prolonged QT and PR intervals, widened QRS complexes, and J wave, which is a ECG abnormality characterized by supraventricular and ventricular arrhythmias. We here present two cases of giant J wave caused by hypothermia during infusion of cryopreserved autologous peripheral stem cell that is detected by ECG and regressed after infusion ceased.
 
 ---
 
-### Spine injury [^8771ebb7]. ACS (2022). High credibility.
+### Spine injury [^114TobQA]. ACS (2022). High credibility.
 
 Spine injury management guideline education — key elements are summarized in Table 12 for the ACS TQIP Spine Injury Best Practices Guidelines, including resuscitation management with consideration of suspected spine injury, measures to prevent hypoperfusion and hypothermia, ICU care and coordination with early rehabilitation and mobilization, and bradycardia management and interventions. A highlighted element is the importance of maintaining a MAP between 85 and 90 mmHg. Additional elements include management for specific regional injuries: cervical, thoracolumbar, and sacral with and without spinal cord injury, respiratory therapist role in spine injury management, the role of the rehabilitation physician as well as the physical, occupational, and speech therapists, and the importance of consistent documentation to include the Spine Injury Classification System and "ASIA" Impairment Scale.
 
 ---
 
-### Idioventricular rhythm induced by therapeutic hypothermia [^6eb39ce7]. Resuscitation (2008). Low credibility.
+### Idioventricular rhythm induced by therapeutic hypothermia [^113q7y98]. Resuscitation (2008). Low credibility.
 
 We report the case of a 11-year-old girl with fulminant myocarditis and cardiogenic shock who received cardiopulmonary resuscitation and extracorporeal membrane oxygenation support. During the induction of hypothermia, her rhythm degenerated into idioventricular rhythm with extremely prolonged QRS duration. The hypothermia-induced bradycardia caused a drop of mixed venous oxygenation saturation and which was resolved by re-warming to normothermia. This finding suggested that hypothermia may compromise cardiac performance and physicians should be cautious about its application in patients with fulminant myocarditis.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^f662a6f3]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^117JH6Dx]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding therapeutic procedures for accidental hypothermia, more specifically with respect to CPR, WMS 2019 guidelines recommend to perform immediate, high-quality CPR in patients with hypothermia and cardiac arrest. Perform delayed or intermittent CPR if immediate and continuous CPR is impossible or unsafe. Do not delay compressions for > 10 minutes, a conservative interval based on the uncontrolled nature of the out-of-hospital hypothermic cardiac arrest. Perform compressions for a minimum of 5 minutes with interruptions between periods of compressions < 5 minutes, if continuous CPR is not possible.
 
 ---
 
-### The osborn wave in accidental hypothermia [^e2f88ec9]. The Journal of Emergency Medicine (2007). Low credibility.
+### The osborn wave in accidental hypothermia [^116oVgz4]. The Journal of Emergency Medicine (2007). Low credibility.
 
 Hypothermia is generally defined as a core body temperature less than 35 degrees C (95 degrees F), and is one of the most common environmental emergencies encountered by emergency physicians. A 32-year-old male hunter was admitted to the hospital with altered mental status. He remained unconscious, Glasgow Coma Scale (GCS) score was recorded as 5/15, and pupils were dilated and unreactive. His vital signs showed a heart rate of 48 beats/min, respiratory rate of 10 breaths/min, blood pressure of 95/50 mm Hg, and rectal temperature of 31 degrees C. An electrocardiogram (ECG) was obtained and showed marked sinus bradycardia and J waves. His finger-stick glucose was 85. He was intubated. After 3 h of active rewarming, his temperature was 34 degrees C, and the repeat ECG showed near-complete resolution of the J waves and acceleration of the sinus rate to 68 beats/min. At the same time, emergency head computed tomography (CT) scan showed subarachnoid hemorrhage (SAH) and subdural hemorrhage. The patient died on the third day of admission. In this case we want to indicate that J waves and obtunded state could be due to either SAH or hypothermia, and SAH could have been missed if initial obvious hypothermia had been believed to cause all symptoms.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^8e9cd836]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^114eRvbX]. Wilderness & Environmental Medicine (2019). High credibility.
 
 CPR initiation and pulse check in suspected hypothermic cardiac arrest — "Rescuers should make every effort to move the patient to a warm setting, such as a ground or air ambulance or a medical facility where cardiac monitoring is available to guide resuscitation and to start rewarming (Evidence grade: 1C)". "Prior to starting CPR, feel for a carotid pulse for 1 min. If a pulse is not palpated after 1 min, start CPR, including rescue breathing (Evidence grade: 1C)".
 
 ---
 
-### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^3b6dc559]. Circulation (2019). High credibility.
+### 2018 ACC / AHA / HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112X798t]. Circulation (2019). High credibility.
 
 ACC/AHA/HRS bradycardia guideline — class of recommendation and level of evidence framework defines: Class I (strong; Benefit > > > Risk) uses "is recommended", "is indicated/useful/effective/beneficial", and "should be performed/administered/other", with comparative options "Treatment/strategy A is recommended/indicated in preference to treatment B" or "Treatment A should be chosen over treatment B". Class IIa (moderate; Benefit > > Risk) uses "is reasonable", "can be useful/effective/beneficial", and comparative options "Treatment/Strategy A is probably recommended/indicated in preference to treatment B" or "It is reasonable to choose treatment A over treatment B". Class IIb (weak; Benefit ≥ Risk) uses "may/might be reasonable", "may/might be considered", and states usefulness/effectiveness is "unknown/unclear/uncertain or not well established". Class III: No Benefit (moderate; Benefit = Risk) states "is not recommended", "is not indicated/useful/effective/beneficial", and "should not be performed/administered/other", while Class III: Harm (strong; Risk > Benefit) states "Potentially harmful", "Causes harm", "Associated with excess morbidity/mortality", and "Should not be performed/administered/other". Level A evidence is "High-quality evidence from more than 1 RCT", meta-analyses of high-quality RCTs, or corroboration by high-quality registry studies; Level B-R is "Moderate-quality evidence from 1 or more RCTs" or meta-analyses of moderate-quality RCTs; Level B-NR is "Moderate-quality evidence; from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies" or meta-analyses of such studies; Level C-LD includes "Randomized or nonrandomized observational or registry studies with limitations of design or execution", meta-analyses of such studies, or "Physiological or mechanistic studies in human subjects"; Level C-EO is "Consensus of expert opinion based on clinical experience". The table notes that "COR and LOE are determined independently (any COR may be paired with any LOE)".
 
 ---
 
-### Sedation and anesthesia for imaging of the infant and neonate-a brief review [^e789c6bb]. Pediatric Radiology (2024). Medium credibility.
+### Sedation and anesthesia for imaging of the infant and neonate-a brief review [^116vGRCN]. Pediatric Radiology (2024). Medium credibility.
 
 Risks associated with anesthesia and sedation in infants are similar to those of other pediatric patients, the most significant being cardiorespiratory depression due to hypoventilation, hypoxemia, and/or hypotension and hypothermia. Adverse events occur more in infants than older children, and preterm infants are at the highest risk regardless of corrected gestational age. Respiratory complications such as apnea, oxygen desaturations, and airway obstruction are most frequently reported.
 
@@ -1095,7 +1095,7 @@ Some critically ill neonatal populations deserve special attention when consider
 
 ---
 
-### Metformin hydrochloride extended-release tablets (metformin hydrochloride) [^e0d0deaf]. FDA (2024). Medium credibility.
+### Metformin hydrochloride extended-release tablets (metformin hydrochloride) [^116kJPEn]. FDA (2024). Medium credibility.
 
 WARNING: LACTIC ACIDOSIS
 
@@ -1117,6 +1117,6 @@ If lactic acidosis is suspected, discontinue metformin hydrochloride extended-re
 
 ---
 
-### Part 10: adult and pediatric special circumstances of resuscitation: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^22c302ba]. Circulation (2025). High credibility.
+### Part 10: adult and pediatric special circumstances of resuscitation: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^111tY5hK]. Circulation (2025). High credibility.
 
 Hypothermia — adults and children with life-threatening environmental hypothermia may survive with good neurological outcomes even after prolonged cardiac arrest; patients should be rewarmed concurrently with resuscitation efforts, and ECLS can be used where available.

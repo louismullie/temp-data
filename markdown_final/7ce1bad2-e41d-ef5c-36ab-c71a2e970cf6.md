@@ -15,39 +15,39 @@ patello femoral syndrome
 
 > Let's see… What do we have here? The user is asking about patellofemoral syndrome, specifically seeking a synthesis of its definition, diagnosis, and management. Let's break this down step-by-step. First, I need to think about the correct terminology and diagnostic criteria. Then, I should verify the pathophysiology and risk factors. Next, I will review the differential diagnosis and when to image. After that, I need to examine first-line management, especially exercise therapy and adjuncts. Finally, I will consider prognosis, special populations, and evidence gaps, and I will double-check any numerical claims against the cited sources as I go.
 
-> Let me first confirm the terminology so I don't mislabel the condition. The preferred term is patellofemoral pain (PFP), historically called patellofemoral pain syndrome or "runner's knee", and it is defined by retropatellar or peripatellar pain aggravated by activities loading the patellofemoral joint in flexion, such as squatting, stairs, prolonged sitting, or running, with no structural cartilage defect on routine imaging, which distinguishes it from chondromalacia patellae [^130d4dc1] [^c081dddb] [^6dd237ea].
+> Let me first confirm the terminology so I don't mislabel the condition. The preferred term is patellofemoral pain (PFP), historically called patellofemoral pain syndrome or "runner's knee", and it is defined by retropatellar or peripatellar pain aggravated by activities loading the patellofemoral joint in flexion, such as squatting, stairs, prolonged sitting, or running, with no structural cartilage defect on routine imaging, which distinguishes it from chondromalacia patellae [^111VFEXr] [^115vQF7Y] [^113opG6u].
 
-> Wait, let me verify the diagnostic criteria before moving on. The clinical diagnosis rests on three pillars: pain around or behind the patella, reproduction of that pain with patellofemoral-loaded activities, and exclusion of other causes of anterior knee pain; the most sensitive physical exam maneuver is pain with squatting, and clinicians should also assess dynamic valgus and patellar mobility to contextualize management, while remembering that imaging is not required for diagnosis in typical cases [^130d4dc1] [^6b062f25] [^18bb9d5e].
+> Wait, let me verify the diagnostic criteria before moving on. The clinical diagnosis rests on three pillars: pain around or behind the patella, reproduction of that pain with patellofemoral-loaded activities, and exclusion of other causes of anterior knee pain; the most sensitive physical exam maneuver is pain with squatting, and clinicians should also assess dynamic valgus and patellar mobility to contextualize management, while remembering that imaging is not required for diagnosis in typical cases [^111VFEXr] [^113jfkda] [^111dfiny].
 
-> I need to check the pathophysiology and risk factors next. The dominant model is multifactorial, involving dynamic malalignment with excessive knee valgus, quadriceps imbalance, and hip abductor weakness, with contributions from foot mechanics and tissue-level nociception in the retinacula and Hoffa's fat pad; females are more often affected, likely due to higher prevalence of dynamic valgus, and symptoms can persist for years if not addressed, which underscores the need for targeted rehabilitation rather than passive modalities [^c081dddb] [^87491d8d] [^699d12a9].
+> I need to check the pathophysiology and risk factors next. The dominant model is multifactorial, involving dynamic malalignment with excessive knee valgus, quadriceps imbalance, and hip abductor weakness, with contributions from foot mechanics and tissue-level nociception in the retinacula and Hoffa's fat pad; females are more often affected, likely due to higher prevalence of dynamic valgus, and symptoms can persist for years if not addressed, which underscores the need for targeted rehabilitation rather than passive modalities [^115vQF7Y] [^114TZtSx] [^113haTck].
 
-> Hold on, let's not jump to conclusions about imaging. I should confirm when it is indicated. Routine imaging is not necessary for a classic, atraumatic presentation in patients under about 50 years; obtain radiographs if there was trauma, effusion, failure of conservative care, or suspicion of alternative pathology such as osteoarthritis, and reserve MRI for persistent symptoms with negative radiographs when internal derangement remains suspected or when surgical planning is needed [^a2341aef] [^3956e353] [^91552397].
+> Hold on, let's not jump to conclusions about imaging. I should confirm when it is indicated. Routine imaging is not necessary for a classic, atraumatic presentation in patients under about 50 years; obtain radiographs if there was trauma, effusion, failure of conservative care, or suspicion of alternative pathology such as osteoarthritis, and reserve MRI for persistent symptoms with negative radiographs when internal derangement remains suspected or when surgical planning is needed [^1159UVkA] [^112U1Un6] [^114iToWE].
 
-> Next, I should review first-line management, and I need to ensure I anchor this to the highest-quality guidance. Exercise therapy is the cornerstone and should be prioritized over passive modalities; combined hip- and knee-targeted strengthening yields superior short-, medium-, and long-term outcomes compared with knee-only programs, with early emphasis on posterolateral hip musculature to address dynamic valgus and patellar maltracking, and progression should follow ACSM principles with individualized dosing and adherence support [^8d6e5e3d] [^c2ef8934] [^fed9e9df].
+> Next, I should review first-line management, and I need to ensure I anchor this to the highest-quality guidance. Exercise therapy is the cornerstone and should be prioritized over passive modalities; combined hip- and knee-targeted strengthening yields superior short-, medium-, and long-term outcomes compared with knee-only programs, with early emphasis on posterolateral hip musculature to address dynamic valgus and patellar maltracking, and progression should follow ACSM principles with individualized dosing and adherence support [^114cgKsz] [^115z14D1] [^117Wq3st].
 
-> Let me consider adjuncts carefully, because I should not overstate their benefit. Patellar taping can provide short-term pain relief and may enhance exercise adherence in the first 4 weeks, but it should not be used long term or as a stand-alone; prefabricated foot orthoses can reduce pain in the short term, particularly in patients with excessive pronation, and should be paired with exercise; knee braces and sleeves have not shown clinically meaningful benefit and are not routinely recommended; manual therapy in isolation should be avoided, though selective patellar mobilizations may be considered within a multimodal plan [^3ced20ab] [^12362482] [^071eea62] [^116c0804].
+> Let me consider adjuncts carefully, because I should not overstate their benefit. Patellar taping can provide short-term pain relief and may enhance exercise adherence in the first 4 weeks, but it should not be used long term or as a stand-alone; prefabricated foot orthoses can reduce pain in the short term, particularly in patients with excessive pronation, and should be paired with exercise; knee braces and sleeves have not shown clinically meaningful benefit and are not routinely recommended; manual therapy in isolation should be avoided, though selective patellar mobilizations may be considered within a multimodal plan [^112ZKuXY] [^111Tzxrd] [^111BZJFs] [^111Sq5Qo].
 
-> I should double-check pharmacologic options and when they fit. Short courses of NSAIDs can be considered for pain relief, but they are adjuncts, not substitutes for exercise; evidence for NSAIDs is limited and mixed, so shared decision-making about risks and benefits is essential, and acetaminophen may be preferred when NSAIDs are contraindicated or not tolerated, acknowledging the lack of direct PFP-specific evidence for acetaminophen [^410af0a5] [^7ce9544b] [^1afe1727].
+> I should double-check pharmacologic options and when they fit. Short courses of NSAIDs can be considered for pain relief, but they are adjuncts, not substitutes for exercise; evidence for NSAIDs is limited and mixed, so shared decision-making about risks and benefits is essential, and acetaminophen may be preferred when NSAIDs are contraindicated or not tolerated, acknowledging the lack of direct PFP-specific evidence for acetaminophen [^112fRsSt] [^114CBqZk] [^111h22Qe].
 
-> But wait, what if symptoms persist despite structured rehabilitation? I need to ensure I outline escalation thoughtfully. If there is inadequate improvement after about 6 to 12 weeks of high-quality exercise therapy, consider adding taping or orthoses as a trial, reassess biomechanics and psychosocial drivers, and only consider surgical referral after at least 6 months of comprehensive conservative care; surgery is rarely indicated and should be reserved for identifiable structural pathology or refractory cases after shared decision-making, given variable outcomes and potential risks [^a8547560] [^bfb9345f] [^6b062f25].
+> But wait, what if symptoms persist despite structured rehabilitation? I need to ensure I outline escalation thoughtfully. If there is inadequate improvement after about 6 to 12 weeks of high-quality exercise therapy, consider adding taping or orthoses as a trial, reassess biomechanics and psychosocial drivers, and only consider surgical referral after at least 6 months of comprehensive conservative care; surgery is rarely indicated and should be reserved for identifiable structural pathology or refractory cases after shared decision-making, given variable outcomes and potential risks [^115JZHjD] [^115uEquG] [^113jfkda].
 
-> I will now examine prognosis and special populations, and I should verify the persistence data. Approximately 40% of patients still have symptoms at 2 years, and up to 90% may have symptoms at 4 years if not adequately managed, highlighting the importance of early, targeted rehabilitation and load management; adolescents and highly active individuals benefit from the same exercise-first approach, with attention to growth-related factors and sport-specific demands, and clinicians should screen for kinesiophobia and adherence barriers to optimize outcomes [^699d12a9] [^87491d8d] [^92230447].
+> I will now examine prognosis and special populations, and I should verify the persistence data. Approximately 40% of patients still have symptoms at 2 years, and up to 90% may have symptoms at 4 years if not adequately managed, highlighting the importance of early, targeted rehabilitation and load management; adolescents and highly active individuals benefit from the same exercise-first approach, with attention to growth-related factors and sport-specific demands, and clinicians should screen for kinesiophobia and adherence barriers to optimize outcomes [^113haTck] [^114TZtSx] [^114jexKp].
 
-> Let me reconsider the evidence quality so I don't overstate certainty. Much of the exercise literature is graded as low to very low quality due to heterogeneity and methodological limitations, yet multiple high-credibility guidelines converge on the same recommendation, and a living network meta-analysis suggests combined hip/knee exercise is among the most effective strategies despite low certainty; this means I should communicate benefits cautiously while emphasizing the strong consensus and the favorable risk–benefit profile of exercise compared with passive or invasive alternatives [^f3bd15fb] [^d2b19863] [^8d6e5e3d].
+> Let me reconsider the evidence quality so I don't overstate certainty. Much of the exercise literature is graded as low to very low quality due to heterogeneity and methodological limitations, yet multiple high-credibility guidelines converge on the same recommendation, and a living network meta-analysis suggests combined hip/knee exercise is among the most effective strategies despite low certainty; this means I should communicate benefits cautiously while emphasizing the strong consensus and the favorable risk–benefit profile of exercise compared with passive or invasive alternatives [^117EMWAn] [^116PN41p] [^114cgKsz].
 
-> Finally, I should confirm practical implementation details. Use validated patient-reported measures such as AKPS or KOOS-PF to track pain and function, classify patients into impairment-based categories to tailor exercise selection, and embed education on load management, activity modification, and adherence; reassess at 4 to 6 weeks to adjust the program and escalate only if goals are not being met, aligning with a patient-centered, shared decision-making approach [^b4062cf2] [^4d55d18e] [^ee33dc81].
+> Finally, I should confirm practical implementation details. Use validated patient-reported measures such as AKPS or KOOS-PF to track pain and function, classify patients into impairment-based categories to tailor exercise selection, and embed education on load management, activity modification, and adherence; reassess at 4 to 6 weeks to adjust the program and escalate only if goals are not being met, aligning with a patient-centered, shared decision-making approach [^115btr33] [^112yesad] [^11769UQp].
 
 ---
 
-Patellofemoral pain syndrome (PFPS) is a clinical diagnosis [^130d4dc1] characterized by **anterior knee pain** aggravated by activities loading the patellofemoral joint (squatting, stairs, prolonged sitting) [^c5fbcfd1], with no structural cartilage damage on imaging [^c081dddb]. It is common in adolescents and young adults, especially females, and often reflects multifactorial biomechanical and neuromuscular contributors [^c081dddb]. Management is **conservative**, with exercise therapy — particularly combined hip and knee strengthening — as first-line [^8d6e5e3d] [^c2ef8934]; short-term NSAIDs, taping, or foot orthoses may be added if needed [^410af0a5] [^3ced20ab] [^12362482]. Imaging is not routine unless red flags or refractory cases arise [^a2341aef] [^3956e353]. Prognosis varies: many improve with therapy, but symptoms can persist or recur without adherence [^699d12a9] [^87491d8d].
+Patellofemoral pain syndrome (PFPS) is a clinical diagnosis [^111VFEXr] characterized by **anterior knee pain** aggravated by activities loading the patellofemoral joint (squatting, stairs, prolonged sitting) [^1164X9Ct], with no structural cartilage damage on imaging [^115vQF7Y]. It is common in adolescents and young adults, especially females, and often reflects multifactorial biomechanical and neuromuscular contributors [^115vQF7Y]. Management is **conservative**, with exercise therapy — particularly combined hip and knee strengthening — as first-line [^114cgKsz] [^115z14D1]; short-term NSAIDs, taping, or foot orthoses may be added if needed [^112fRsSt] [^112ZKuXY] [^111Tzxrd]. Imaging is not routine unless red flags or refractory cases arise [^1159UVkA] [^112U1Un6]. Prognosis varies: many improve with therapy, but symptoms can persist or recur without adherence [^113haTck] [^114TZtSx].
 
 ---
 
 ## Clinical presentation and diagnosis
 
-- **Pain location**: Retropatellar or peripatellar, worsened by squatting, stairs, prolonged sitting, or running [^130d4dc1] [^c5fbcfd1].
-- **Physical exam**: Pain with squatting is ~91% sensitive and ~50% specific; assess patellar mobility, hip/knee strength, and dynamic valgus [^6b062f25] [^18bb9d5e].
-- **Imaging**: Not required for diagnosis; consider radiographs if trauma, effusion, age > 50, or refractory symptoms [^a2341aef] [^3956e353].
+- **Pain location**: Retropatellar or peripatellar, worsened by squatting, stairs, prolonged sitting, or running [^111VFEXr] [^1164X9Ct].
+- **Physical exam**: Pain with squatting is ~91% sensitive and ~50% specific; assess patellar mobility, hip/knee strength, and dynamic valgus [^113jfkda] [^111dfiny].
+- **Imaging**: Not required for diagnosis; consider radiographs if trauma, effusion, age > 50, or refractory symptoms [^1159UVkA] [^112U1Un6].
 
 ---
 
@@ -55,9 +55,9 @@ Patellofemoral pain syndrome (PFPS) is a clinical diagnosis [^130d4dc1] characte
 
 PFPS is **multifactorial**, with contributions from:
 
-- **Biomechanical factors**: Patellar maltracking, dynamic valgus, excessive Q-angle, foot pronation [^c081dddb] [^2060b5e8].
-- **Neuromuscular factors**: Quadriceps imbalance, hip abductor weakness, poor neuromuscular control [^c081dddb] [^b330bb15].
-- **Overuse**: Repetitive loading beyond tissue capacity, especially in runners and athletes [^c081dddb] [^d3ba3086].
+- **Biomechanical factors**: Patellar maltracking, dynamic valgus, excessive Q-angle, foot pronation [^115vQF7Y] [^111q166K].
+- **Neuromuscular factors**: Quadriceps imbalance, hip abductor weakness, poor neuromuscular control [^115vQF7Y] [^115af9oA].
+- **Overuse**: Repetitive loading beyond tissue capacity, especially in runners and athletes [^115vQF7Y] [^116Qtvj7].
 
 ---
 
@@ -65,21 +65,21 @@ PFPS is **multifactorial**, with contributions from:
 
 ### Conservative management (first-line)
 
-- **Exercise therapy**: Combined hip and knee strengthening is superior to knee-only programs; prioritize hip abductor/external rotator and quadriceps strengthening [^8d6e5e3d] [^c2ef8934] [^10569abb].
-- **Adjuncts**: Short-term NSAIDs, patellar taping, or foot orthoses may reduce pain and improve adherence to exercise [^410af0a5] [^3ced20ab] [^12362482].
-- **Education**: Load management, activity modification, and adherence strategies are essential [^92230447] [^17ca8730].
+- **Exercise therapy**: Combined hip and knee strengthening is superior to knee-only programs; prioritize hip abductor/external rotator and quadriceps strengthening [^114cgKsz] [^115z14D1] [^111RDthY].
+- **Adjuncts**: Short-term NSAIDs, patellar taping, or foot orthoses may reduce pain and improve adherence to exercise [^112fRsSt] [^112ZKuXY] [^111Tzxrd].
+- **Education**: Load management, activity modification, and adherence strategies are essential [^114jexKp] [^111cGk3h].
 
 ---
 
 ### Surgical management
 
-Surgery is **reserved for refractory cases** after ≥ 6 months of conservative care and confirmed structural abnormalities; outcomes are variable and unpredictable [^bfb9345f] [^a2341aef].
+Surgery is **reserved for refractory cases** after ≥ 6 months of conservative care and confirmed structural abnormalities; outcomes are variable and unpredictable [^115uEquG] [^1159UVkA].
 
 ---
 
 ## Prognosis
 
-Prognosis is **variable**: many patients improve with conservative therapy, but 40% have persistent symptoms at 2 years and 90% at 4 years if undertreated; recurrence is common without adherence [^699d12a9] [^87491d8d].
+Prognosis is **variable**: many patients improve with conservative therapy, but 40% have persistent symptoms at 2 years and 90% at 4 years if undertreated; recurrence is common without adherence [^113haTck] [^114TZtSx].
 
 ---
 
@@ -87,9 +87,9 @@ Prognosis is **variable**: many patients improve with conservative therapy, but 
 
 Prevention focuses on **addressing modifiable risk factors** through:
 
-- **Neuromuscular training**: Emphasizing hip and core strengthening, and movement pattern retraining [^c2ef8934] [^4d55d18e].
-- **Load management**: Gradual progression of activity and avoidance of sudden spikes in training volume [^92230447].
-- **Footwear**: Appropriate shoes and, when indicated, orthoses to correct excessive pronation [^12362482].
+- **Neuromuscular training**: Emphasizing hip and core strengthening, and movement pattern retraining [^115z14D1] [^112yesad].
+- **Load management**: Gradual progression of activity and avoidance of sudden spikes in training volume [^114jexKp].
+- **Footwear**: Appropriate shoes and, when indicated, orthoses to correct excessive pronation [^111Tzxrd].
 
 ---
 
@@ -99,13 +99,13 @@ PFPS is a common, multifactorial anterior knee pain syndrome with a **conservati
 
 ## References
 
-### Patellofemoral pain [^b5360a15]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^115deunC]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain clinical practice guideline — statement of intent clarifies scope and clinician judgment, stating "These guidelines are not intended to be construed or to serve as a standard of medical care" and that "These parameters of practice should be considered guidelines only". It notes "Adherence to them will not ensure a successful outcome in every patient", and that decisions "must be made based on clinical experience and expertise in light of the clinical presentation of the patient, the available evidence, available diagnostic and treatment options, and the patient's values, expectations, and preferences". Importantly, "we suggest that significant departures from accepted guidelines should be documented in the patient's medical records at the time the relevant clinical decision is made".
 
 ---
 
-### Exercise for treating patellofemoral pain syndrome [^9825b264]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Exercise for treating patellofemoral pain syndrome [^114tZnEF]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -137,7 +137,7 @@ This review has found very low quality but consistent evidence that exercise the
 
 ---
 
-### Patellofemoral pain syndrome… [^c081dddb]. AAFP (2019). Medium credibility.
+### Patellofemoral pain syndrome… [^115vQF7Y]. AAFP (2019). Medium credibility.
 
 Definition A 2016 consensus statement defines PFPS as pain occurring around or behind the patella that is aggravated by at least one activity that loads the patella during weight-bearing on a flexed knee. 4 Contributing activities include running, climbing stairs, jumping, and squatting. PFPS is also called runner's knee and anterior knee pain syndrome. 4 Although the term PFPS was formerly used interchangeably with chondromalacia patellae, the latter specifically refers to the finding of softened patellofemoral cartilage on plain radiography, magnetic resonance imaging, or knee arthroscopy. 6 Conversely, structural defects are absent in PFPS, and imaging is not required for the diagnosis. Anatomy and Pathophysiology The patellofemoral joint consists of the patella and the trochlea of the femur and is important in knee extension and deceleration.
 10. The Q angle is approximately 14 degrees in men and 17 degrees in women.
@@ -150,13 +150,13 @@ Dynamic valgus is more common in female athletes, which may account for the high
 
 ---
 
-### Management of patellofemoral pain syndrome [^a2341aef]. American Family Physician (2007). Low credibility.
+### Management of patellofemoral pain syndrome [^1159UVkA]. American Family Physician (2007). Low credibility.
 
 Patellofemoral pain syndrome (PFPS) is the most common cause of knee pain in the outpatient setting. It is caused by imbalances in the forces controlling patellar tracking during knee flexion and extension, particularly with overloading of the joint. Risk factors include overuse, trauma, muscle dysfunction, tight lateral restraints, patellar hypermobility, and poor quadriceps flexibility. Typical symptoms include pain behind or around the patella that is increased with running and activities that involve knee flexion. Findings in patients with PFPS range from limited patellar mobility to a hypermobile patella. To confirm the diagnosis, an examination of the knee focusing on the patella and surrounding structures is essential. For many patients with the clinical diagnosis of PFPS, imaging studies are not necessary before beginning treatment. Radiography is recommended in patients with a history of trauma or surgery, those with an effusion, those older than 50 years (to rule out osteoarthritis), and those whose pain does not improve with treatment. Recent research has shown that physical therapy is effective in treating PFPS. There is little evidence to support the routine use of knee braces or nonsteroidal anti-inflammatory drugs. Surgery should be considered only after failure of a comprehensive rehabilitation program. Educating patients about modification of risk factors is important in preventing recurrence.
 
 ---
 
-### Treatment… [^d3ba3086]. AAFP (1999). Low credibility.
+### Treatment… [^116Qtvj7]. AAFP (1999). Low credibility.
 
 Patellofemoral pain syndrome can be defined as retropatellar or peripatellar pain resulting from physical and biochemical changes in the patellofemoral joint. It should be distinguished from chondromalacia, which is actual fraying and damage to the underlying patellar cartilage. Patients with patellofemoral pain syndrome have anterior knee pain that typically occurs with activity and often worsens when they are descending steps or hills. It can also be triggered by prolonged sitting. One or both knees can be affected. Consensus is lacking regarding the cause and treatment of the syndrome.
 
@@ -168,43 +168,43 @@ Many theories have been proposed to explain the etiology of patellofemoral pain.
 
 ---
 
-### Patellofemoral pain [^92230447]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^114jexKp]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding patient education for patellofemoral pain syndrome, more specifically with respect to general counseling, APTA 2019 guidelines recommend to consider providing specific patient education on load management, body-weight management when appropriate, the importance of adherence to active treatments like exercise therapy, biomechanics contributing to relative overload of the patellofemoral joint, the evidence for various treatment options, and kinesiophobia, to improve compliance and adherence to active management and self-management strategies.
 
 ---
 
-### Patellofemoral pain [^4cee7efc]. British Journal of Sports Medicine (2016). Low credibility.
+### Patellofemoral pain [^112y4AhH]. British Journal of Sports Medicine (2016). Low credibility.
 
 Patellofemoral pain refers to pain behind or around the patella (also known as patellofemoral pain syndrome, anterior knee pain, runner's knee, and, formerly, chondromalacia patellae). Patellofemoral pain is common, accounting for 11–17% of all knee pain presentations to general practice.(1 2) While it typically occurs in physically active people aged < 40 years, it also affects people of all activity levels and ages.(1 2) Patellofemoral pain can be diagnosed in the clinic, and evidence based treatments can reduce pain and improve function, allowing patients to maintain a physically active lifestyle.
 
 ---
 
-### Patellofemoral pain syndrome [^410af0a5]. American Family Physician (2019). High credibility.
+### Patellofemoral pain syndrome [^112fRsSt]. American Family Physician (2019). High credibility.
 
 Regarding medical management for patellofemoral pain syndrome, more specifically with respect to NSAIDs, AAFP 2019 guidelines recommend to consider offering short courses of NSAIDs to improve pain in patients with PFPS.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^e5344a72]. British Journal of Sports Medicine (2016). Medium credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^116rojEy]. British Journal of Sports Medicine (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, iPFRN 2016 guidelines recommend to offer exercise therapy to reduce pain in the short, medium, and long term and improve function in the medium and long term.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^7f5a7e55]. British Journal of Sports Medicine (2016). Medium credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^114FopkC]. British Journal of Sports Medicine (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, iPFRN 2016 guidelines recommend to offer combined interventions to reduce pain in the short and medium term in adult patients with patellofemoral pain.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^10569abb]. British Journal of Sports Medicine (2016). Medium credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^111RDthY]. British Journal of Sports Medicine (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, iPFRN 2016 guidelines recommend to offer combining hip and knee exercises over knee exercises alone to reduce pain and improve function in the short, medium, and long term.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^9bc16eca]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^114yv449]. British Journal of Sports Medicine (2016). Low credibility.
 
 Discussion
 
@@ -212,31 +212,31 @@ The International Patellofemoral Research Retreat Consensus meeting resulted in 
 
 ---
 
-### Patellofemoral pain [^fce0421d]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^117TuCvG]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) — clinical signs, categorization, and psychosocial factors guide care, as "Clinical signs and symptoms have typically guided the clinical decision making of treatment interventions". These findings "guide the clinician to classify the patient with one of the proposed impairment-based categories of PFP". Given tissue stress tolerance, "clinicians should match the most appropriate intervention strategies to the irritability level of the patient's condition", and "clinicians should consider influences from psychosocial factors in patients with conditions in all stages of recovery".
 
 ---
 
-### Patellofemoral pain [^4d2bff94]. Physical Medicine and Rehabilitation Clinics of North America (2016). Low credibility.
+### Patellofemoral pain [^112yQprf]. Physical Medicine and Rehabilitation Clinics of North America (2016). Low credibility.
 
 Patellofemoral pain is characterized by insidious onset anterior knee pain that is exaggerated under conditions of increased patellofemoral joint stress. A variety of risk factors may contribute to the development of patellofemoral pain. It is critical that the history and physical examination elucidate those risk factors specific to an individual in order to prescribe an appropriate and customized treatment plan. This article aims to review the epidemiology, risk factors, diagnosis, and management of patellofemoral pain.
 
 ---
 
-### Patellofemoral pain [^c5fbcfd1]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^1164X9Ct]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) — scope and presentation is described as "a common knee-related condition that is characterized by insidious onset of poorly defined pain, localized to the anterior retropatellar and/or peripatellar region of the knee", with onset that "can be slow or acutely develop" and pain worsening during "lower-limb loading activities (eg, squatting, prolonged sitting, ascending/descending stairs, jumping, or running, especially with hills)". Symptoms "can restrict participation in physical activity, sports, and work", "can recur and can persist for years", "frequently present to health care professionals for diagnosis and treatment", and this CPG aims to help clinicians "make evidence-based treatment decisions".
 
 ---
 
-### Patellofemoral pain [^8d6e5e3d]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^114cgKsz]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, APTA 2019 guidelines recommend to offer exercise therapy with combined hip-targeted (targeting posterolateral hip musculature) and knee-targeted exercises (either weight-bearing exercises, such as resisted squats, or non-weight-bearing exercises, such as resisted knee extension; as both exercise techniques target the knee musculature) to reduce pain and improve patient-reported outcomes and functional performance in the short, medium, and long term. Prefer a combination of hip- and knee-targeted exercises over solely knee-targeted exercises to optimize outcomes. Consider preferring hip-targeted exercise over knee-targeted exercise in the early stages of treatment.
 
 ---
 
-### Supervised exercise therapy versus usual care for patellofemoral pain syndrome: an open label randomised controlled trial [^ac7d976c]. BMJ (2009). Excellent credibility.
+### Supervised exercise therapy versus usual care for patellofemoral pain syndrome: an open label randomised controlled trial [^115Qj4C3]. BMJ (2009). Excellent credibility.
 
 Introduction
 
@@ -250,43 +250,43 @@ The objective of the present study was to investigate in the short term as well 
 
 ---
 
-### Patellofemoral pain syndrome [^98b184bc]. American Family Physician (2019). High credibility.
+### Patellofemoral pain syndrome [^114uNkB5]. American Family Physician (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, AAFP 2019 guidelines recommend to offer exercise therapies to improve short- and long-term pain in patients with PFPS.
 
 ---
 
-### Patellofemoral syndrome a paradigm for current surgical strategies [^1b151625]. The Orthopedic Clinics of North America (2008). Low credibility.
+### Patellofemoral syndrome a paradigm for current surgical strategies [^111h9kQc]. The Orthopedic Clinics of North America (2008). Low credibility.
 
 The literature regarding suggested treatments for patellofemoral problems is often conflicting and confusing. In this discussion I present the approach I take in evaluating and considering surgery for patients with any of a wide variety of anterior knee pain problems. It has been useful to concentrate on the biomechanics — the mechanical consequence to each tissue affected by any surgical change. In the proposed paradigm, it is assumed that pain is the result of an abnormal load — related either to tension or compression — being applied to each tissue in question. The challenge is to understand how and why that abnormal load was generated. It is essential to make an independent assessment of the condition of the lower limb skeleton, the patellofemoral ligaments, and the trochlear and patellar articular cartilage in each patient. While only a long book can address this subject in detail, this discussion provides a guide for formulating an analysis of the key issues when planning the operative treatment of patellofemoral pain and dysfunction.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^3a3331e4]. British Journal of Sports Medicine (2016). Medium credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^112VHUhh]. British Journal of Sports Medicine (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to alternative and complementary therapies, manual therapy, iPFRN 2016 guidelines recommend to avoid offering patellofemoral, knee, and lumbar mobilizations in patients with PFPS.
 
 ---
 
-### Patellofemoral pain: using the evidence to guide physical therapist practice [^4dbd5f5d]. The Journal of Orthopaedic and Sports Physical Therapy (2019). Medium credibility.
+### Patellofemoral pain: using the evidence to guide physical therapist practice [^112zFeyS]. The Journal of Orthopaedic and Sports Physical Therapy (2019). Medium credibility.
 
 Kneecap pain, also known as anterior knee pain or patellofemoral pain, is the most common injury seen in sports medicine clinics. The goal of the clinical practice guidelines on patellofemoral pain, published in the September 2019 issue of the JOSPT, was to make recommendations based on best scientific evidence that help clinicians and patients make decisions about managing this pain. Clinicians can use these guidelines to combine the latest scientific evidence with their clinical expertise and the preferences of the patient to develop a tailored management plan. J Orthop Sports Phys Ther 2019;49(9):631–632. doi:10.2519/jospt.2019.0503.
 
 ---
 
-### ACR appropriateness criteriaChronic knee Pain [^3956e353]. Journal of the American College of Radiology (2018). Medium credibility.
+### ACR appropriateness criteriaChronic knee Pain [^112U1Un6]. Journal of the American College of Radiology (2018). Medium credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (chronic knee pain), ACR 2018 guidelines recommend to obtain knee X-ray as the initial imaging of chronic knee pain in patients aged ≥ 5 years.
 
 ---
 
-### Patellofemoral pain [^3ced20ab]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112ZKuXY]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to orthoses and taping, APTA 2019 guidelines recommend to consider offering tailored patellar taping in combination with exercise therapy to assist in immediate pain reduction, and to enhance outcomes of exercise therapy in the short term (4 weeks). Avoid using taping for the long term or with more intensive physical therapy. Do not offer taping with the aim of enhancing muscle function.
 
 ---
 
-### Pharmacotherapy for patellofemoral pain syndrome [^7ce9544b]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Pharmacotherapy for patellofemoral pain syndrome [^114CBqZk]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -318,13 +318,13 @@ There is only limited evidence for the effectiveness of NSAIDs for short term pa
 
 ---
 
-### Patellofemoral pain [^e58cbcb7]. Physical Medicine and Rehabilitation Clinics of North America (2007). Low credibility.
+### Patellofemoral pain [^116sKSKG]. Physical Medicine and Rehabilitation Clinics of North America (2007). Low credibility.
 
 Patellofemoral pain is an extremely common disorder, especially in female athletes. There is, however, no true consensus as to the cause and appropriate treatment for patellofemoral pain. This article reviews the epidemiology of patellofemoral pain as well as the proposed etiologies, including quadriceps dysfunction, static alignment disorders, and dynamic alignment disorders. The article also reviews both conservative and surgical treatment of patellofemoral pain.
 
 ---
 
-### Neuromuscular electrical stimulation (NMES) for patellofemoral pain syndrome [^3826b719]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Neuromuscular electrical stimulation (NMES) for patellofemoral pain syndrome [^112SFK1r]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -356,25 +356,25 @@ This review found insufficient and inconclusive evidence from randomised control
 
 ---
 
-### Patellofemoral pain [^fed9e9df]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^117Wq3st]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) — limitations and future directions note research gaps and offer practice guidance. The guideline states, "More research is needed to determine whether any long-term differences in pain or PROMs occur in patients with PFP who receive either hip- or knee-targeted exercise therapy", and also that "a standardized approach is needed for future research when delineating either knee- or hip-targeted exercise". In current practice, "clinicians treating PFP are encouraged to use accepted exercise prescription principles, as recommended by the American College of Sports Medicine, to guide exercise prescription targeting the hip and knee, based on individual deficits identified in each patient", and "the treating clinician should assess, consider, and address appropriate neuromotor control, along with muscular endurance, strength, and power". Although "there is little evidence for a validated approach", "the physical therapist is encouraged to use clinical reasoning to target interventions toward individuals when possible, and to use a shared decision-making process during plan-of-care development".
 
 ---
 
-### ACR appropriateness criteria® acute trauma to the knee [^f3c9c7c7]. Journal of the American College of Radiology (2020). High credibility.
+### ACR appropriateness criteria® acute trauma to the knee [^117ERmUi]. Journal of the American College of Radiology (2020). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (acute knee pain), ACR 2020 guidelines recommend to obtain knee radiography for the evaluation of acute trauma to the knee from an unknown mechanism in patients aged ≥ 5 years with focal tenderness, effusion, or ability to walk.
 
 ---
 
-### Prescribing quality patellofemoral rehabilitation before advocating operative care [^456bde72]. The Orthopedic Clinics of North America (2008). Low credibility.
+### Prescribing quality patellofemoral rehabilitation before advocating operative care [^112mvNuF]. The Orthopedic Clinics of North America (2008). Low credibility.
 
 In this article we discuss causes of patellofemoral dysfunction, the treatment algorithm of nonsurgical therapy modalities, and what constitutes a quality rehabilitation protocol for a patient with patellofemoral dysfunction.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^d59f636e]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^116ThuAM]. British Journal of Sports Medicine (2016). Low credibility.
 
 Methods
 
@@ -404,31 +404,31 @@ Low quality (LQ): ≤ 3
 
 ---
 
-### Patellofemoral pain [^773cb515]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^1143mvDA]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Appendix A — search strategies for all databases lists query strings for patellofemoral pain that include patellofemoral pain and related synonyms, together with terms for classification, epidemiology (prevalence and incidence), diagnosis and sensitivity and specificity plus measurement instruments/scales, prognosis and return to work, and interventions such as physical therapy modalities, recovery of function, rehabilitation, therapeutics, and physical therapy/physiotherapy.
 
 ---
 
-### Patellofemoral pain [^44661b4d]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112kQTMv]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) guideline — levels of evidence define study quality as: I Evidence obtained from high-quality diagnostic studies, prospective studies, randomized controlled trials, or systematic reviews; II Evidence obtained from lesser-quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up); III Case-control studies or retrospective studies; IV Case series; and V Expert opinion. Individual clinical research articles were graded according to criteria adapted from the Centre for Evidence-Based Medicine, Oxford, United Kingdom for diagnostic, prospective, and therapeutic studies.
 
 ---
 
-### Childhood and adolescent sports-related overuse injuries [^74b73260]. American Family Physician (2023). High credibility.
+### Childhood and adolescent sports-related overuse injuries [^113z36ej]. American Family Physician (2023). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, AAFP 2023 guidelines recommend to offer targeted physical therapy with hip and knee exercises in patients with PFPS.
 
 ---
 
-### Patellofemoral pain [^116c0804]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111Sq5Qo]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to alternative and complementary therapies, manual therapy, APTA 2019 guidelines recommend to do not offer manual therapy in isolation, including lumbar, knee, or patellofemoral manipulation/mobilization, in patients with PFPS.
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^224858bf]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^111spt1U]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 CONCLUSIONS
 
@@ -436,13 +436,13 @@ This guideline recommends starting with exercise therapy for PFP and PT. Additio
 
 ---
 
-### Patellofemoral pain [^d19d28e0]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^116MmCcf]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain clinical practice guidelines — flow chart of articles details the study selection. Records identified through database search, n = 20 034; duplicates removed, n = 15 343; records screened (title and abstract), n = 4691; records excluded, n = 3702; full-text articles assessed for eligibility, n = 1001; full-text articles excluded, n = 688 (Methodology, n = 650; Outside scope, n = 38); relevant articles appraised, n = 313; appraised articles excluded, n = 42; hand search, n = 12; studies included in recommendations, n = 271 with Diagnosis/Classification, n = 120, Examination, n = 56, and Interventions, n = 95.
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^f3bd15fb]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^117EMWAn]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Strengths and weaknesses of this study
 
@@ -452,37 +452,37 @@ Limitations in the conclusions drawn by the NMA are primarily caused by the orig
 
 ---
 
-### Patellofemoral pain [^2bb6f821]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^1127oveU]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to clinical assessment, APTA 2019 guidelines recommend to obtain appropriate clinical or field tests reproducing pain and assessing lower limb movement coordination, such as squatting, step-downs, and single-leg squats, in order to assess baseline status relative to pain, function, and disability, global knee function, and changes in status throughout the course of treatment.
 
 ---
 
-### Patellofemoral pain [^556508ff]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^113BbtH4]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral Pain: Clinical Practice Guidelines include a combined intervention approach, and interventions to consider combining with exercise therapy include foot orthoses, patellar taping, patellar mobilizations, and lower-limb stretching. These recommendations and clinical practice guidelines are based on the scientific literature accepted for publication prior to May 2018.
 
 ---
 
-### Patellofemoral pain [^0a4881bb]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111GFEN6]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to physical therapy, APTA 2019 guidelines recommend to combine physical therapy interventions for the treatment of patients with PFPS. Consider combining exercise therapy with foot orthoses, patellar taping, patellar mobilizations, or lower-limb stretching.
 
 ---
 
-### Clinical classification of patellofemoral pain syndrome: guidelines for non-operative treatment [^af34e074]. Knee Surgery, Sports Traumatology, Arthroscopy (2005). Low credibility.
+### Clinical classification of patellofemoral pain syndrome: guidelines for non-operative treatment [^115UkbST]. Knee Surgery, Sports Traumatology, Arthroscopy (2005). Low credibility.
 
 The patellofemoral pain syndrome (PFPS) remains a challenging musculoskeletal entity encountered by clinicians. Reviewing the literature, conflicting data seem to exist regarding the effect of non-operative treatment in PFPS patients. A possible explanation may be lack of a clear classification system of patients with PFPS. It is our opinion that the term PFPS still is a 'wastebasket', which probably comprises several different entities. Therefore, it seems important to subdivide this broad group of patients into different categories with a specific rehabilitation approach. In this study, we introduce a classification system, which reflects a consensus reached by the European Rehabilitation Panel. This classification system should help the clinicians to identify the cause(s) of patellofemoral pain, and consequently help to select the most appropriate non-operative treatment. The authors are aware that no rehabilitation protocol will work for all PFPS patients, since the underlying mosaic of pathophysiology and tissue-healing responses are unique. Therefore, the aim of this study with a classification system was to guide the clinician through clinical examination in order to develop a non-operative treatment protocol, specific for each individual with PFPS.
 
 ---
 
-### Patellofemoral pain syndrome [^97d5190d]. American Family Physician (2019). Medium credibility.
+### Patellofemoral pain syndrome [^114t6i2x]. American Family Physician (2019). Medium credibility.
 
 Patellofemoral pain syndrome (PFPS) is one of the most common causes of anterior knee pain encountered in the outpatient setting in adolescents and adults younger than 60 years. The incidence in the United States is between 3% and 6%. The cardinal feature of PFPS is pain in or around the anterior knee that intensifies when the knee is flexed during weight-bearing activities. The pain of PFPS often worsens with prolonged sitting or descending stairs. The most sensitive physical examination finding is pain with squatting. Examining a patient's gait, posture, and footwear can help identify contributing causes. Plain radiographs of the knee are not necessary for the diagnosis of PFPS but can exclude other diagnoses, such as osteoarthritis, patellar fracture, and osteochondritis. If conservative treatment measures are unsuccessful, plain radiography is recommended. Treatment of PFPS includes rest, a short course of nonsteroidal anti-inflammatory drugs, and physical therapy directed at strengthening the hip flexor, trunk, and knee muscle groups. Patellar kinesiotaping may provide additional short-term pain relief; however, evidence is insufficient to support its routine use. Surgery is considered a last resort.
 
 ---
 
-### Knee orthoses for treating patellofemoral pain syndrome [^0e42fbe6]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Knee orthoses for treating patellofemoral pain syndrome [^111N9Ku7]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -514,7 +514,7 @@ Overall, this review has found a lack of evidence to inform on the use of knee o
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^030c85c6]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^1115XAof]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Search strategy
 
@@ -528,13 +528,13 @@ We used Covidence (Melbourne, Australia) for independent study selection, data e
 
 ---
 
-### ACR appropriateness criteria® acute trauma to the knee [^ec48fd9a]. Journal of the American College of Radiology (2020). High credibility.
+### ACR appropriateness criteria® acute trauma to the knee [^1173JbUm]. Journal of the American College of Radiology (2020). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (acute knee pain), ACR 2020 guidelines recommend to obtain knee radiography for the evaluation of a fall or acute twisting trauma to the knee in patients aged ≥ 5 years patients with focal tenderness, effusion, or inability to bear weight.
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^ca85d3d8]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^116BFT6X]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Data extraction
 
@@ -550,13 +550,13 @@ Other information: Key conclusions of study authors.
 
 ---
 
-### ACR appropriateness criteria® acute trauma to the knee [^3cca7f64]. Journal of the American College of Radiology (2020). High credibility.
+### ACR appropriateness criteria® acute trauma to the knee [^112Z8Gt3]. Journal of the American College of Radiology (2020). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (acute knee pain), ACR 2020 guidelines recommend to consider obtaining knee radiography for the evaluation of a fall or acute twisting trauma to the knee in patients aged ≥ 5 years without focal tenderness, effusion, and inability to walk.
 
 ---
 
-### Are there three main subgroups within the patellofemoral pain population? A detailed characterisation study of 127 patients to help develop targeted intervention (TIPPs) [^87491d8d]. British Journal of Sports Medicine (2016). Low credibility.
+### Are there three main subgroups within the patellofemoral pain population? A detailed characterisation study of 127 patients to help develop targeted intervention (TIPPs) [^114TZtSx]. British Journal of Sports Medicine (2016). Low credibility.
 
 Background
 
@@ -566,19 +566,19 @@ PFP may be a risk factor for developing patellofemoral osteoarthritis (OA).PFP h
 
 ---
 
-### Patellofemoral pain [^18bb9d5e]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111dfiny]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to clinical assessment, APTA 2019 guidelines recommend to consider assessing body structure and function, including measures of patellar provocation, patellar mobility, foot position, hip and thigh muscle strength, and muscle length, when evaluating patients with PFPS over an episode of care.
 
 ---
 
-### Patellofemoral instability part I: evaluation and nonsurgical treatment [^2cf530f4]. The Journal of the American Academy of Orthopaedic Surgeons (2022). Medium credibility.
+### Patellofemoral instability part I: evaluation and nonsurgical treatment [^1129ep7M]. The Journal of the American Academy of Orthopaedic Surgeons (2022). Medium credibility.
 
 Patellofemoral instability (PFI) is a prevalent cause of knee pain and disability. It affects mostly young females with an incidence reported as high as 1 in 1,000. Risk factors for instability include trochlear dysplasia, patella alta, increased tibial tubercle-to-trochlear groove distance, abnormal patella lateral tilt, and coronal and torsional malalignment. Nonsurgical and surgical options for PFI can treat the underlying causes with varied success rates. The goal of this review series was to synthesize the current best practices into a concise, algorithmic approach. This article is the first in a two-part review on PFI, which focuses on the clinical and radiological evaluation, followed by nonsurgical management. The orthopaedic surgeon should be aware of the latest diagnostic protocol for PFI and its nonsurgical treatment options, their indications, and outcomes.
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^1b9b0288]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^111hvjSo]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Data synthesis and statistical methods
 
@@ -591,7 +591,7 @@ Our primary outcome measure, any improvement, was summarised using an OR for imp
 
 ---
 
-### Patellofemoral pain syndrome: a review on the associated neuromuscular deficits and current treatment options [^b330bb15]. British Journal of Sports Medicine (2008). Low credibility.
+### Patellofemoral pain syndrome: a review on the associated neuromuscular deficits and current treatment options [^115af9oA]. British Journal of Sports Medicine (2008). Low credibility.
 
 Background
 
@@ -611,7 +611,7 @@ No randomised controlled trials exist to support the use of hip joint strengthen
 
 ---
 
-### Patellofemoral pain [^130d4dc1]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111VFEXr]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding screening and diagnosis for patellofemoral pain syndrome, more specifically with respect to diagnostic criteria, APTA 2019 guidelines recommend to diagnose PFPS based on the following criteria:
 
@@ -623,13 +623,13 @@ Regarding screening and diagnosis for patellofemoral pain syndrome, more specifi
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^ed08885e]. British Journal of Sports Medicine (2016). Medium credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^1174Qw25]. British Journal of Sports Medicine (2016). Medium credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to orthoses and taping, iPFRN 2016 guidelines recommend to offer foot orthoses to reduce pain in the short term.
 
 ---
 
-### Evaluation and treatment of knee pain: a review [^6b062f25]. JAMA (2023). Excellent credibility.
+### Evaluation and treatment of knee pain: a review [^113jfkda]. JAMA (2023). Excellent credibility.
 
 Importance
 
@@ -645,19 +645,19 @@ Knee OA, patellofemoral pain, and meniscal tears are common causes of knee pain,
 
 ---
 
-### Patellofemoral pain [^aba89a69]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^115PVWqv]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) guideline — currency and review schedule indicates the guideline was issued in 2019 based on the published literature up to May 2018 and will be considered for review in 2024, or sooner if new evidence becomes available.
 
 ---
 
-### Patellofemoral pain syndrome [^c370c565]. American Family Physician (2019). High credibility.
+### Patellofemoral pain syndrome [^115zkTun]. American Family Physician (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to orthoses and taping, AAFP 2019 guidelines recommend to consider offering patellar kinesiotaping to improve patellar maltracking and reduce short-term pain as an adjunct to exercise.
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^a5e94b8d]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^115EyKTJ]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Secondary outcome measures
 
@@ -691,7 +691,7 @@ Studies assessing the treatment effect after a minimum of 6 weeks were included.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^6dd237ea]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^113opG6u]. British Journal of Sports Medicine (2016). Low credibility.
 
 Terminology
 
@@ -701,19 +701,19 @@ Statement 1. The term 'patellofemoral pain' is the preferred term, and is a syno
 
 ---
 
-### Patellofemoral pain [^bf34a70e]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^115tUKad]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — levels of evidence table defines evidence tiers across Intervention/Prevention, Pathoanatomic/Risk/Clinical Course/Prognosis/Differential Diagnosis, Diagnosis/Diagnostic Accuracy, Prevalence of Condition/Disorder, and Exam/Outcomes, with examples ranging from high-quality randomized clinical trial (RCT) evidence to expert opinion. Under Intervention/Prevention at the highest tier, entries include "Systematic review of high-quality RCTs" and "High-quality RCT†", while Diagnosis/Diagnostic Accuracy at the highest tier includes "Systematic review of high-quality diagnostic studies" and "High-quality diagnostic study§ with validation", and Prevalence includes "Systematic review, high-quality cross-sectional studies" and "High-quality cross-sectional study||". The lowest tier across columns is "Expert opinion". Footnotes define quality standards and threats to validity: "High quality includes RCTs with greater than 80% follow-up, blinding, and appropriate randomization procedures", "High-quality cohort study includes greater than 80% follow-up", "High-quality diagnostic study includes consistently applied reference standard and blinding", and "High-quality prevalence study is a cross-sectional study that uses a local and current random sample or censuses", while "less than 80% follow-up may add bias and threats to validity".
 
 ---
 
-### Patellofemoral pain [^ee33dc81]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^11769UQp]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — re-evaluation and disposition indicates that when patient goals are met, discharge to self-management follows and successful recovery includes tolerable intermittent pain, resumed primary activities, and patient goals met; if not improving/worsening occurs then refer for consultation with other providers, and otherwise adjust/modify interventions.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^5cf0dbdc]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^113NnmEb]. British Journal of Sports Medicine (2016). Low credibility.
 
 Patient-reported outcome measures
 
@@ -727,31 +727,31 @@ It should be noted that few PROMs have been developed specifically for PFP, rais
 
 ---
 
-### Patellofemoral pain [^b4062cf2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^115btr33]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to clinical assessment, APTA 2019 guidelines recommend to use the AKPS, the KOOS-PF, or the VAS for activity or EPQ to measure pain and function in patients with PFPS.
 
 ---
 
-### Patellofemoral pain [^071eea62]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111BZJFs]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to orthoses and taping, APTA 2019 guidelines recommend to do not offer patellofemoral knee orthoses, including braces, sleeves, or straps, in patients with PFPS.
 
 ---
 
-### Patellofemoral pain [^cea4bc70]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^116HMnNT]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — criteria for inclusion and exclusion of studies for review in these clinical practice guidelines specify that inclusions were articles published in peer-reviewed journals of designs such as systematic reviews, meta-analyses, experimental and quasi-experimental, cohort, case series, and cross-sectional studies, and all outcomes were included. Eligible content included articles reporting on the functional anatomy of the patellofemoral joint; tests and measures for diagnosis and/or differential diagnosis of patellofemoral pain within the scope of physical therapist practice; measurement properties of instruments/tests specific to measuring patellofemoral pain or patellofemoral pain–related outcomes; and studies primarily of adolescents (12 years of age or older) and adults with patellofemoral pain, permitting inclusion of studies that report on persons younger than 12 years of age only if the proportion in the sample is small (less than 5%) or separate data are available for adults; covered topics included risk of patellofemoral pain, diagnostic characteristics, and interventions within the scope of physical therapist practice. Exclusions encompassed meeting abstracts/conference proceedings, press releases, theses, letters to the editor, authors' responses, nonsystematic review articles, case reports, and articles that cannot be retrieved in English; studies primarily of infants and children (younger than 12 years of age); and studies where pain was related primarily to other conditions such as patellar tendinopathy/tendon pain, iliotibial band syndrome, or knee and/or patellofemoral osteoarthritis.
 
 ---
 
-### ACR appropriateness criteria® acute trauma to the knee [^19e672bd]. Journal of the American College of Radiology (2020). High credibility.
+### ACR appropriateness criteria® acute trauma to the knee [^111fQ6YC]. Journal of the American College of Radiology (2020). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (acute knee pain), ACR 2020 guidelines recommend to obtain knee MRI or CT for the evaluation of suspected additional bone or soft tissue injury after a fall or acute twisting trauma to the knee in patients aged ≥ 5 years with a radiographic diagnosis of tibial plateau fracture.
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^20949d87]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^111qJXH8]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 Abstract
 
@@ -777,13 +777,13 @@ Level V, clinical practice guideline.
 
 ---
 
-### Patellofemoral pain [^12362482]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111Tzxrd]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding nonpharmacologic interventions for patellofemoral pain syndrome, more specifically with respect to orthoses and taping, APTA 2019 guidelines recommend to offer prefabricated foot orthoses to reduce pain, but only in the short term (up to 6 weeks), in patients with greater than normal pronation. Combine foot orthoses, if used, with an exercise therapy program. Insufficient evidence to recommend custom foot orthoses over prefabricated foot orthoses.
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^5dffcfc9]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^113QMmpc]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 Purpose
 
@@ -807,19 +807,19 @@ Level V, clinical practice guideline.
 
 ---
 
-### Patellofemoral pain [^3dac00a7]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112aS254]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) medical screening and referral — Medical screening incorporates the findings of the history and physical examination to determine whether the patient's symptoms originate from a condition that requires referral to another health care provider, and prior to diagnosing a person with PFP, it is necessary to rule out all other possible medical conditions. Clinicians should recognize the key signs and symptoms associated with serious pathological knee conditions, continually screen for the presence of these conditions throughout treatment, and immediately initiate referral to the appropriate medical practitioner when a potentially serious medical condition is suspected, and medical conditions for which physical therapy is not indicated must be considered as possible etiologies of a patient's symptoms.
 
 ---
 
-### Patellofemoral pain [^847b050d]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^114PQgpL]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding screening and diagnosis for patellofemoral pain syndrome, more specifically with respect to diagnostic criteria, APTA 2019 guidelines recommend to reproduce retropatellar or peripatellar pain during squatting as a diagnostic test for PFPS. Perform other functional activities loading the patellofemoral joint in a flexed position, such as stair climbing or descent, as diagnostic tests for PFPS.
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^d2b19863]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^116PN41p]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Results
 
@@ -842,13 +842,13 @@ The certainty of evidence for all comparisons was low to very low, except for hi
 
 ---
 
-### Patellofemoral pain [^783cbfad]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^1145FvJG]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain: clinical practice guidelines — examination of physical impairments/activity limitations, level of evidence includes a table labeling studies by level and notes that levels are adapted from Phillips et al.
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^3008c709]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures [^112EDMXW]. British Journal of Sports Medicine (2016). Low credibility.
 
 Patellofemoral osteoarthritis
 
@@ -860,13 +860,13 @@ Knee OA research has mainly focused on the tibiofemoral compartment, yet recent 
 
 ---
 
-### Patellofemoral pain [^0ab24bf9]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^111GrmKW]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) — specific modes of exercise therapy: Clinicians should include exercise therapy with combined hip- and knee-targeted exercises to reduce pain and improve patient-reported outcomes and functional performance in the short, medium, and long term, with hip-targeted exercise therapy directed to the posterolateral hip musculature and knee-targeted exercise therapy including either weight-bearing (resisted squats) or non–weight-bearing (resisted knee extension); preference to hip-targeted exercise over knee-targeted exercise may be given in early stages, and overall the combination of hip- and knee-targeted exercises is preferred over solely knee-targeted exercises to optimize outcomes in patients with PFP.
 
 ---
 
-### The 'best practice guide to conservative management of patellofemoral pain': incorporating level 1 evidence with expert clinical reasoning [^17ca8730]. British Journal of Sports Medicine (2015). Low credibility.
+### The 'best practice guide to conservative management of patellofemoral pain': incorporating level 1 evidence with expert clinical reasoning [^111cGk3h]. British Journal of Sports Medicine (2015). Low credibility.
 
 Importance
 
@@ -894,25 +894,25 @@ Effective management of PFP requires consideration of a number of proven conserv
 
 ---
 
-### Patellofemoral pain [^513e19c2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^1135SreM]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain CPG — aim and objectives outline the guideline's purpose and users, noting an effort to create "evidence-based clinical practice guidelines (CPGs) for orthopaedic physical therapy management of patients with musculoskeletal impairments" within the ICF, with objectives to "Describe evidence-based physical therapy practice, including diagnosis, prognosis, intervention, and assessment of outcome", "Classify and define common musculoskeletal conditions using the World Health Organization's terminology related to impairments of body function and body structure, activity limitations, and participation restrictions", "Identify interventions supported by current best evidence", "Identify appropriate outcome measures to assess changes resulting from physical therapy interventions in body function and structure as well as in activity and participation of the individual", "Provide a description to policy makers", "Provide information for payers and claims reviewers", and "Create a reference publication for orthopaedic physical therapy clinicians" and learners.
 
 ---
 
-### ACR appropriateness criteriaChronic knee Pain [^c4dce708]. Journal of the American College of Radiology (2018). Medium credibility.
+### ACR appropriateness criteriaChronic knee Pain [^1162rmm9]. Journal of the American College of Radiology (2018). Medium credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (chronic knee pain), ACR 2018 guidelines recommend to consider obtaining knee MRI/CT or performing knee aspiration when the initial knee X-ray demonstrates degenerative changes or chondrocalcinosis.
 
 ---
 
-### ACR appropriateness criteria® acute trauma to the knee [^91552397]. Journal of the American College of Radiology (2020). High credibility.
+### ACR appropriateness criteria® acute trauma to the knee [^114iToWE]. Journal of the American College of Radiology (2020). High credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (acute knee pain), ACR 2020 guidelines recommend to obtain knee MRI for the evaluation of suspected occult knee fractures or internal derangement after a fall or acute twisting trauma to the knee in adult or pediatric (either skeletally mature or immature) patients with a negative radiograph.
 
 ---
 
-### Consensus methods in patellofemoral pain: how rigorous are they? A scoping review [^4beaeca5]. British Journal of Sports Medicine (2024). Medium credibility.
+### Consensus methods in patellofemoral pain: how rigorous are they? A scoping review [^112wYyqE]. British Journal of Sports Medicine (2024). Medium credibility.
 
 Conclusion
 
@@ -922,7 +922,7 @@ Future consensus statements that are rigorous, representative (of all interested
 
 ---
 
-### Evaluation of the scope and quality of systematic reviews on nonpharmacological conservative treatment for patellofemoral pain syndrome [^44f6b20e]. The Journal of Orthopaedic and Sports Physical Therapy (2008). Low credibility.
+### Evaluation of the scope and quality of systematic reviews on nonpharmacological conservative treatment for patellofemoral pain syndrome [^112mF2BP]. The Journal of Orthopaedic and Sports Physical Therapy (2008). Low credibility.
 
 Study Design
 
@@ -950,7 +950,7 @@ Published systematic reviews and clinical trials need to be conducted with more 
 
 ---
 
-### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^29acfdd0]. British Journal of Sports Medicine (2016). Low credibility.
+### 2016 patellofemoral pain consensus statement from the 4th international patellofemoral pain research retreat, manchester. part 2: recommended physical interventions (exercise, taping, bracing, foot orthoses and combined interventions) [^1124nbhZ]. British Journal of Sports Medicine (2016). Low credibility.
 
 Limitations
 
@@ -960,7 +960,7 @@ Our expert panel self-selected participants who attended the International Patel
 
 ---
 
-### Patellofemoral pain syndrome [^2060b5e8]. Knee Surgery, Sports Traumatology, Arthroscopy (2014). Low credibility.
+### Patellofemoral pain syndrome [^111q166K]. Knee Surgery, Sports Traumatology, Arthroscopy (2014). Low credibility.
 
 Conclusions and future strategies
 
@@ -970,13 +970,13 @@ The literature provides evidence for a multimodal non-operative therapy concept 
 
 ---
 
-### Patellofemoral pain [^5738fafe]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^113EK4ay]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding screening and diagnosis for patellofemoral pain syndrome, more specifically with respect to diagnostic criteria, APTA 2019 guidelines recommend to consider obtaining the patellar tilt test with the presence of hypomobility to support the diagnosis of PFPS.
 
 ---
 
-### Patellar taping for patellofemoral pain syndrome in adults [^028cad59]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Patellar taping for patellofemoral pain syndrome in adults [^1114nEBA]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1008,13 +1008,13 @@ The currently available evidence from trials reporting clinically relevant outco
 
 ---
 
-### Patellofemoral pain [^30c9d30b]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112FLCPC]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain: clinical practice guidelines — Appendix H Interventions: SIGN Systematic Review outlines 12 Scottish Intercollegiate Guidelines Network (SIGN) items used to appraise systematic reviews and applies Y/N/CA ratings with an overall quality category. The items include whether "At least 2 people should select studies and extract data" and cover research question clarity, literature search, limits by publication type, listing of included/excluded studies, provision of study characteristics, assessment and appropriate assessment of scientific quality, appropriate combination methods, assessment of publication bias, and declaration of conflicts of interest. The overall methodological quality thresholds are specified as "high quality, 8 or greater; acceptable, 5 or greater; low, 4 or less", and abbreviations are defined as "CA, can't answer; N, no; SIGN, Scottish Intercollegiate Guidelines Network; Y, yes".
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^a8547560]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^115JZHjD]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 Module 2: 'Additional conservative treatments for PFP'
 
@@ -1034,7 +1034,7 @@ The patient should be informed of the lack of evidence regarding these additiona
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^bfb9345f]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^115uEquG]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 Module 8: 'Open surgery for PFP and PT'
 
@@ -1054,7 +1054,7 @@ Open surgery should be considered only when, following at least 6 months of non�
 
 ---
 
-### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^699d12a9]. British Journal of Sports Medicine (2020). Medium credibility.
+### Comparative effectiveness of treatments for patellofemoral pain: a living systematic review with network meta-analysis [^113haTck]. British Journal of Sports Medicine (2020). Medium credibility.
 
 Introduction
 
@@ -1064,31 +1064,31 @@ Many different treatments are used in clinical practice to help patients with PF
 
 ---
 
-### Patellofemoral pain [^c2ef8934]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^115z14D1]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain (PFP) — exercise therapy: Clinicians should include exercise therapy with combined hip- and knee-targeted exercises in the treatment of individuals with PFP to reduce pain and improve patient-reported outcomes and functional performance in the short, medium, and long term. Hip-targeted exercise therapy should target the posterolateral hip musculature, and knee-targeted exercise therapy includes either weight-bearing (resisted squats) or non-weight-bearing (resisted knee extension) exercise, as both techniques target the knee musculature. Preference to hip-targeted exercise over knee-targeted exercise may be given in the early stages of treatment of PFP, and overall, the combination of hip- and knee-targeted exercise is preferred over solely knee-targeted exercises to optimize outcomes in patients with PFP.
 
 ---
 
-### Patellofemoral pain [^91452ef5]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^114iNSfW]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — classification considerations explain heterogeneity and limits of existing schemes. Multiple biomechanical and neuromusculoskeletal factors related to the knee, hip, ankle, and trunk/pelvis have been reported to be associated with PFP. Similar to low back pain, clinicians recognize that PFP is not a homogeneous condition, and response to intervention varies. As a result, several classification systems with subcategories of PFP have been proposed for nonsurgical management of patients. Many of these classification systems are based on proposed pathoanatomical diagnoses, which rely on diagnostic imaging or surgical findings. These classification systems are of limited utility for physical therapists because they do not include clear diagnostic criteria for each subcategory, or they rely on imaging or surgical findings that may not always be available by the physical therapist at the initial encounter.
 
 ---
 
-### Patellofemoral pain [^9b14b65b]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^114xv3Bx]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — gaps in knowledge on exercise therapy dosage: Although exercise therapy is recommended for PFP to reduce pain in the short, medium, and long term, and to improve function in the medium and long term, optimal dosage is currently unclear, in part due to inadequate exercise reporting in the literature. Further research is needed to understand which dosage parameters (eg, session duration and frequency, exercise intensity, etc) are associated with better pain, function, and quality-of-life outcomes.
 
 ---
 
-### Patellofemoral pain [^42032747]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112gsF2v]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Patellofemoral pain — component 5: intervention strategies organizes care by impairment pattern, including Overuse/Overload Without Other Impairment with Taping (B) and Activity modification/relative rest (F); PFP With Movement Coordination Deficits with Gait and movement retraining (C); PFP With Muscle Performance Deficits with Hip/gluteal muscle strengthening (A) and Quadriceps muscle strengthening (A); and PFP With Mobility Impairments with Hypermobility options Foot orthosis (A) and Taping (B) and Hypomobility options Patellar retinaculum/soft tissue mobilization (F) and Muscle stretching (F) for Hamstrings, Quadriceps, Gastrocnemius, Soleus, and Iliotibial band; letters in parentheses reflect the grade of evidence on which the recommendation for each item is based: (A) strong evidence, (B) moderate evidence, (C) weak evidence, (D) conflicting evidence, (E) theoretical/foundational evidence, and (F) expert opinion.
 
 ---
 
-### Patellofemoral pain [^4d55d18e]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Patellofemoral pain [^112yesad]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Regarding classification and risk stratification for patellofemoral pain syndrome, more specifically with respect to classification, APTA 2019 guidelines recommend to consider using the proposed impairment/function-based PFPS classification system to guide management:
 
@@ -1101,7 +1101,7 @@ Regarding classification and risk stratification for patellofemoral pain syndrom
 
 ---
 
-### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^1afe1727]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### Dutch Multidisciplinary Guideline on anterior knee pain: patellofemoral pain and patellar tendinopathy [^111h22Qe]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 The expert panel advocates for the use of paracetamol (acetaminophen) as the first choice of pain medication in select cases of patients with PFP and PT; however, no evidence exists regarding the effectiveness of this specific drug and no evidence for the use of this drug during training is available. Although the expert panel currently sees no role for injection therapy, including cell therapies, in the management of patients with PT, available evidence suggests that this perspective may change in the future with the emergence of RCTs featuring larger sample sizes and long‐term follow‐ups.
 
@@ -1109,13 +1109,13 @@ Patients with PFP or PT also reported receiving a whole range of conservative tr
 
 ---
 
-### ACR appropriateness criteriaChronic knee Pain [^0c88166a]. Journal of the American College of Radiology (2018). Medium credibility.
+### ACR appropriateness criteriaChronic knee Pain [^111KaZah]. Journal of the American College of Radiology (2018). Medium credibility.
 
 Regarding diagnostic investigations for patellofemoral pain syndrome, more specifically with respect to diagnostic imaging (chronic knee pain), ACR 2018 guidelines recommend to obtain knee MRI when the initial knee X-ray is normal or demonstrates joint effusion, osteochondritis dissecans, loose bodies, signs of prior osseous injury (Segond fracture, tibial spine avulsion), or in the presence of a history of cartilage or meniscal repair.
 
 ---
 
-### Systematic review of the quality of randomized controlled trials for patellofemoral pain syndrome [^a658e5ec]. The Journal of Orthopaedic and Sports Physical Therapy (2003). Low credibility.
+### Systematic review of the quality of randomized controlled trials for patellofemoral pain syndrome [^115Fcof1]. The Journal of Orthopaedic and Sports Physical Therapy (2003). Low credibility.
 
 Study Design
 

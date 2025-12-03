@@ -57,7 +57,7 @@ The acid dissociation constant (Ka) is given by:
 
 Ka = [CH₃COO⁻] [H⁺] / [CH₃COOH]
 
-Given Ka = 1.8 × 10⁻⁵ and initial [CH₃COOH] = 0.3 M, we assume [H⁺] = [CH₃COO⁻] = x at equilibrium and [CH₃COOH] ≈ 0.3 M because dissociation is small [^cd7c14f4].
+Given Ka = 1.8 × 10⁻⁵ and initial [CH₃COOH] = 0.3 M, we assume [H⁺] = [CH₃COO⁻] = x at equilibrium and [CH₃COOH] ≈ 0.3 M because dissociation is small [^116Fe95d].
 
 ---
 
@@ -83,7 +83,7 @@ pH = −log₁₀[H⁺] = −log₁₀(2.32 × 10⁻³) ≈ 2.63
 
 ## Verification of the approximation
 
-The weak acid approximation is valid if x is less than 5% of the initial concentration. Here, x ≈ 2.32 × 10⁻³ M, which is about 0.77% of 0.3 M, so the approximation is acceptable [^cd7c14f4].
+The weak acid approximation is valid if x is less than 5% of the initial concentration. Here, x ≈ 2.32 × 10⁻³ M, which is about 0.77% of 0.3 M, so the approximation is acceptable [^116Fe95d].
 
 ---
 
@@ -95,7 +95,7 @@ The pH of a 0.3 M acetic acid solution with Ka = 1.8 × 10⁻⁵ is **2.63**.
 
 ## References
 
-### Acetic acid [^a0384729]. FDA (2025). Medium credibility.
+### Acetic acid [^1156XvUQ]. FDA (2025). Medium credibility.
 
 HOW SUPPLIED
 
@@ -105,13 +105,13 @@ NDC 68071-2984-5 15 mL Bottle
 
 ---
 
-### Extremely stable graphene electrodes doped with macromolecular acid [^cd7c14f4]. Nature Communications (2018). Medium credibility.
+### Extremely stable graphene electrodes doped with macromolecular acid [^116Fe95d]. Nature Communications (2018). Medium credibility.
 
 We also tested the chemical stability by dipping HNO 3 -doped or PFSA-doped graphene into a solution of strong acid (hydrochloric acid, K a > 1), weak acid (acetic acid, K a: ~1.8 × 10 −5), weak base (ammonium hydroxide, K b: ~1.8 × 10 −5), or strong base (sodium hydroxide, K b > 1) for 15 s. R sh of HNO 3 -doped graphene greatly increased after acid and base treatments (Fig. 4b and Supplementary Table 3). Especially, R sh of HNO 3 -doped graphene after sodium hydroxide treatment was unmeasurable using the 4-point probe method; this result can be attributed to tearing of the surface of HNO 3 -doped graphene by treatment with strong base chemicals (Supplementary Fig. 6a). In contrast, the surface of PFSA-doped graphene remained smooth even in strong base solution, so R sh of this graphene increased much less than it did in HNO 3 -doped graphene (Supplementary Fig. 6b). These results demonstrate that p-type doping using macromolecular acid is stable against almost every chemical environment.
 
 ---
 
-### Acetic acid [^3f5c7e26]. FDA (2025). Medium credibility.
+### Acetic acid [^112cwHfB]. FDA (2025). Medium credibility.
 
 DESCRIPTION
 
@@ -121,7 +121,7 @@ Acetic acid otic solution, USP is available as a nonaqueous otic solution buffer
 
 ---
 
-### Marcus kinetics control singlet and triplet oxygen evolving from superoxide [^64c6c391]. Nature (2025). Excellent credibility.
+### Marcus kinetics control singlet and triplet oxygen evolving from superoxide [^113aQXR2]. Nature (2025). Excellent credibility.
 
 Proton-induced disproportionation
 
@@ -131,13 +131,13 @@ Figure 4c shows 1 O 2 yields still increasing when the pH is below 4.8, the p K 
 
 ---
 
-### Mapping in situ the assembly and dynamics in aqueous supramolecular polymers [^4404bc13]. Nature Communications (2025). High credibility.
+### Mapping in situ the assembly and dynamics in aqueous supramolecular polymers [^112jqkQJ]. Nature Communications (2025). High credibility.
 
 Next, we monitored in situ the pH evolution during titration. The pH titration curves of the three PA polymerization systems reveal clear differences in their respective [NaOH]/[PA] ranges where the transformation of micelles into polymers occurs (Fig. 3e and Supplementary Figs. 26 and 27). An abrupt decrease in the slope of [OH −] curves accompanies the onset of polymerization, whereas [OH -] increases with a nearly constant rate after the completion of polymerization, as exemplified in PA-3 assemblies (Fig. 3e, f). These results suggest that a substantial fraction of titrated hydroxide ions is consumed by the deprotonation of monomers in micelles in the transformation into supramolecular polymers. Interestingly, as we switched from PA-1 to PA-2 and then PA-3, the "buffering" effect in the pH titration curves and therefore the consumption of titrated hydroxide ions becomes less pronounced even with the same amount of titrated NaOH. The complexity of these pH titration curves (Fig. 3e) prevents us from directly extracting pKa values from the plateau regions, as done in previous studies on supramolecular gel systems –. Instead, we define the apparent p K a for each polymerization as the pH value measured at = 0.5, corresponding to an equal fraction of protonated micelles and polymers consisting of deprotonated monomers. The pKa values at [PA] = 40 µM increase from 7.85 to 8.76 and 9.60 for PA-1, PA-2, and PA-3, respectively. All these values are substantially lower than that corresponding to free lysine (p K a = 10.5), implying that stronger cohesive hydrogen bonding and hydrophobic collapse of aliphatic segments can lead to more effective deprotonation of monomers. To model the deprotonation process of micelles during transformation, we introduced an allosteric binding model to fit the normalized CD titration curves (Fig. 3a, Supplementary Text 2), by analogy to the cooperative ligand-receptor binding in biological signaling processes. In this model, the micelles containing j monomers are considered as multivalent receptors with 3 j binding sites and the NaOH is regarded as a monovalent ligand. The sequential deprotonation process is assumed to undergo via the ligand-receptor binding governed by the apparent binding constant (K'). Interestingly, the resulting Hill plots, representingas a function of, display similar Hill coefficients (n H) of around 10, corresponding to the slope at the origin of axes for all the three PA systems (Fig. 3g and Supplementary Figs. 28 and 29). A Hill coefficient significantly greater than 1 indicates a cooperative deprotonation process of micelles. Such cooperativity is expected to result in extensive deprotonation of a subset of micelles to form polymers with a negligible amount of intermediate charged states, while the remaining micelles stay fully charged. This mechanism is expected to facilitate a binary assembly model rather than a multistep assembly process, consistent with our experimental observations described above. Additionally, depending on the assumed extent of final deprotonation of micelles, the Hill coefficient of 10 suggests an estimated micelle size ranging from approximately 3 to 10 monomers. Based on this model, the tendency for deprotonation decreases as the apparent binding constant (K') decreases from 5.510 −3 µM −1 in PA-1 to 4.910 −3 µM −1 in PA-2 and 4.110 −3 µM −1 in PA-3 at [PA] = 40 μM (Fig. 3h). These results suggest that despite the identical peptide sequence in the terminal charged domain of all three monomers, their differences in ability to form strongly bonded β-sheets directly affects deprotonation and polymerization propensity.
 
 ---
 
-### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^0ca72573]. Nature Communications (2024). High credibility.
+### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^111Kkzev]. Nature Communications (2024). High credibility.
 
 Fig. 1
 Two titrations of Ca 2+ ions into phosphate solution at pH 9.8 with strikingly different profiles.
@@ -146,7 +146,7 @@ The black curve uses the same experimental conditions as the dark grey curve, ex
 
 ---
 
-### Hydrocortisone and acetic acid [^48270e04]. FDA (2025). Medium credibility.
+### Hydrocortisone and acetic acid [^112qyE91]. FDA (2025). Medium credibility.
 
 DESCRIPTION
 
@@ -160,13 +160,13 @@ Hydrocortisone and acetic acid is available as a non-aqueous otic solution buffe
 
 ---
 
-### Nucleosome acidic patch-targeting binuclear ruthenium compounds induce aberrant chromatin condensation [^393e7120]. Nature Communications (2017). Medium credibility.
+### Nucleosome acidic patch-targeting binuclear ruthenium compounds induce aberrant chromatin condensation [^112TsGXh]. Nature Communications (2017). Medium credibility.
 
 Cells were harvested by centrifugation at 8671×g, 20 °C, for 7 min and resuspended in 20 mL of lysis solution I (50 mM glucose, 10 mM EDTA, 25 mM Tris-HCl (pH 8.0)). Following addition of 50 mg lysozyme and incubation at room temperature for 15 min, 40 mL of lysis solution II (0.2 M NaOH, 1% w/v sodium dodecyl sulfate) was added. After a 5 min incubation on ice, 70 mL of lysis solution III (4 M K-acetate, 2 M acetic acid) was added. Precipitated cell debris was spun down at 9000× g, 4 °C, for 20 min and the supernatant was filtered through four layers of sterile gauze. Nucleic acid was precipitated by adding 0.6× volume of isopropanol, incubating on ice for 5 min, and centrifuging at 12,000× g, 4 °C, for 20 min. Pellet was dissolved in 10 mL TE(10,10) buffer (10 mM Tris-HCl [pH 8.0], 10 mM EDTA), and 10 mL of 5 M LiCl solution was added to precipitate the RNA and protein. After spinning down at 12,000× g, 20 °C, for 10 min, isopropanol precipitation was carried out as described above. Pellet was resuspended in 10 mL TE(10,1) buffer (10 mM Tris-HCl [pH 8.0], 1 mM EDTA), and 50 µl of 10 mg mL −1 RNAse A was added. Following a 15 min incubation at room temperature, 0.2× volume of 4 M NaCl and 0.4× volume of 40% PEG 6000 were added. The mixture was incubated on ice for 30 min and centrifuged at 15,000× g, 4 °C, for 30 min. The pellet was then dissolved in 5 mL of TE(10,1) buffer, and 3 mL of phenol:chloroform (1:1 volume ratio) was added to separate plasmid from the remaining protein contaminants. Sample was centrifuged at 4000× g, 20 °C, for 10 min. The aqueous layer was collected and ethanol-precipitated. The purified plasmid pellet was dissolved in TE(10,1) buffer.
 
 ---
 
-### Acetic acid [^281763d4]. FDA (2025). Medium credibility.
+### Acetic acid [^1122SMwq]. FDA (2025). Medium credibility.
 
 STORAGE
 
@@ -188,7 +188,7 @@ Rev. 03/20-R1
 
 ---
 
-### Stress-induced metabolic exchanges between complementary bacterial types underly a dynamic mechanism of inter-species stress resistance [^de141b9d]. Nature Communications (2023). High credibility.
+### Stress-induced metabolic exchanges between complementary bacterial types underly a dynamic mechanism of inter-species stress resistance [^116gF1J4]. Nature Communications (2023). High credibility.
 
 In this study, we reveal an important physiological driving force for substantial metabolic excretion by naturally-occurring, free-living bacteria. We find that stressed, growth-arrested bacteria convert externally-provided carbon substrates into valuable central carbon metabolites and subsequently excrete them almost completely, and that these excreted metabolites are required for other growth-arrested species in the community to resume growth and relieve stress, ultimately restoring the growth of the whole community. This collaborative inter-species stress relief mechanism can occur between species taken from vastly different environments, indicating that it is not a result of selection in specific environments. Instead, this interaction is attributed to a fundamental complementarity between free-living bacteria with opposing modes of metabolism, with both modes needed to overcome stress.
 
@@ -196,7 +196,7 @@ The stress under study here arises from the accumulation of weak organic acids, 
 
 ---
 
-### Renal association clinical practice guideline on haemodialysis [^bfebe132]. BMC Nephrology (2019). Medium credibility.
+### Renal association clinical practice guideline on haemodialysis [^115uXs8d]. BMC Nephrology (2019). Medium credibility.
 
 Guideline 5.2 - Selection of dialysate buffer
 
@@ -220,7 +220,7 @@ The addition of 3mmol of acetic acid to a litre solution containing 35mmol of bi
 
 ---
 
-### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^d36b55c7]. Nature Communications (2016). Medium credibility.
+### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^116QSSWz]. Nature Communications (2016). Medium credibility.
 
 General procedure to convert 1a–k to (S)- 8a–k
 
@@ -228,7 +228,7 @@ Overall, 2 mL suspension (10 g cdw l –1) of freshly prepared E. coli (A-M1_R-M
 
 ---
 
-### Transformation of dolutegravir into an ultra-long-acting parenteral prodrug formulation [^f444dec2]. Nature Communications (2022). High credibility.
+### Transformation of dolutegravir into an ultra-long-acting parenteral prodrug formulation [^117F97Tf]. Nature Communications (2022). High credibility.
 
 pH affects for prodrug cleavage
 
@@ -236,7 +236,7 @@ The contribution of pH to prodrug cleavage was studied in pH buffers including 7
 
 ---
 
-### Ciprofloxacin hydrochloride (ciprofloxacin HCl ophthalmic) [^9c5ce7c5]. FDA (2022). Medium credibility.
+### Ciprofloxacin hydrochloride (ciprofloxacin HCl ophthalmic) [^114zpGuS]. FDA (2022). Medium credibility.
 
 DESCRIPTION
 
@@ -248,7 +248,7 @@ Each mL of Ciprofloxacin Ophthalmic Solution, USP 0.3% contains: Active: ciprofl
 
 ---
 
-### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^5e06f0f0]. Nature Communications (2024). High credibility.
+### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^113QQAiT]. Nature Communications (2024). High credibility.
 
 Table 1
 Overview of the activity-based ion association constants
@@ -259,7 +259,7 @@ As seen in Supplementary Fig. 9, the binding is slightly underestimated at the h
 
 ---
 
-### Polyelectrolyte interactions enable rapid association and dissociation in high-affinity disordered protein complexes [^032b28f2]. Nature Communications (2020). High credibility.
+### Polyelectrolyte interactions enable rapid association and dissociation in high-affinity disordered protein complexes [^1115hTfo]. Nature Communications (2020). High credibility.
 
 To assess the effect of dye labeling of ProTα on the affinity, we performed a competition titration (Fig. 1c): starting from 50 pM labeled ProTα saturated with 10 nM unlabeled H1, the labeled ProTα was outcompeted by increasing amounts of unlabeled ProTα (up to 0.5 μM). If labeled and unlabeled ProTα had identical affinities to H1, the midpoint for the competition would be expected at 18.5 nM unlabeled ProTα (see "Methods" for details on the solution of the coupled binding equilibria). The observed midpoint of ~20 nM (Fig. 1d) yields a K D of 1.1 ± 0.4 nM for the complex between the unlabeled binding partners. Similarly, measurements with ProTα and H1 labeled with different fluorophores, and at different positions in the sequence show that such individual amino acid exchanges and fluorescence labeling alter the K D by not more than about a factor of three (Supplementary Table 1 and Fig. 1). The perturbation of the affinity by the fluorophores is thus small, at most on the order of thermal energy (k B T), in contrast to recent speculative concerns. For comparison, a similar effect on binding free energy results from a change in solution ionic strength by a mere 10–20 mM.
 
@@ -267,7 +267,7 @@ The titrations in Fig. 1 indicate two-state-like behavior, with slow exchange be
 
 ---
 
-### Molecular basis of cooperativity in pH-triggered supramolecular self-assembly [^dbd8e6e6]. Nature Communications (2016). Medium credibility.
+### Molecular basis of cooperativity in pH-triggered supramolecular self-assembly [^116cw9Jm]. Nature Communications (2016). Medium credibility.
 
 Based on these results, we constructed a molecular pathway of pH-triggered supramolecular self-assembly of PEO- b -PDPA copolymer (Fig. 4e). Upon addition of NaOH, the block copolymers are homogeneously deprotonated until reaching CMPD. Below CMPD, further addition of base results in formation of mature micelles where the copolymers inside micelles are neutral. Soluble unimers remain highly protonated at a charge state of CMPD in water. The unique pH-induced supramolecular self-assembly pathway appeared to pertain microscopic reversibility (Supplementary Fig. 14). It should be noted that the above molecular pathway describes the thermodynamically stable states of polymers at specific protonation degree as measured by steady-state analytical methods (for example, DLS, 1 H NMR). The kinetic process of protonated unimer conversion to neutral micelles may still involve loose aggregates as transient intermediates and needs to be further investigated.
 
@@ -277,7 +277,7 @@ The all or nothing proton distribution characteristicssuggest a cooperative depr
 
 ---
 
-### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^a98fe587]. Nature Communications (2016). Medium credibility.
+### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^115LPExW]. Nature Communications (2016). Medium credibility.
 
 General procedure to convert 1a–k to (S)- 5a–k
 
@@ -285,7 +285,7 @@ Overall, 2 mL suspension (10 g cdw l –1) of the freshly prepared E. coli (A-M1
 
 ---
 
-### Voltage-gated sodium channels assemble and gate as dimers [^98810b93]. Nature Communications (2017). Medium credibility.
+### Voltage-gated sodium channels assemble and gate as dimers [^114u6Tqc]. Nature Communications (2017). Medium credibility.
 
 Protein extraction
 
@@ -297,7 +297,7 @@ Magnetic Dynabeads (Dynal, Norway) were washed twice with 25 mM citric acid, 50 
 
 ---
 
-### Screening non-conventional yeasts for acid tolerance and engineering pichia occidentalis for production of muconic acid [^cb620f19]. Nature Communications (2023). High credibility.
+### Screening non-conventional yeasts for acid tolerance and engineering pichia occidentalis for production of muconic acid [^116CXRYt]. Nature Communications (2023). High credibility.
 
 We also screened 93 yeast strains in YPD medium and YPD containing 0.1 M citrate buffer, pH 3.0 (YPD cit). However, this condition was not sufficiently inhibitory, as most strains grew to comparable levels in YPD and YPD cit (Fig. 1a). It has been reported that citric acid is more toxic to yeast at pH 4.5 than pH 3.0 owing to the propensity of the dissociated form to bind divalent cations, providing a possible explanation for our observations.
 
@@ -305,7 +305,7 @@ In addition to dicarboxylic acids, we screened 26 Pichia strains on several mono
 
 ---
 
-### Vasopressin [^04a4154a]. FDA (2025). Medium credibility.
+### Vasopressin [^1117t4j3]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -323,7 +323,7 @@ One mg is equivalent to 530 units.
 
 ---
 
-### Stabilizing effect of amino acids on protein and colloidal dispersions [^6eec9a7d]. Nature (2025). Excellent credibility.
+### Stabilizing effect of amino acids on protein and colloidal dispersions [^113qT7QY]. Nature (2025). Excellent credibility.
 
 Theoretical framework and its validation
 
@@ -331,13 +331,13 @@ We propose a theoretical framework to explain all the experimental observations 
 
 ---
 
-### European Association of Nuclear Medicine practice guideline / Society of Nuclear Medicine and Molecular Imaging procedure standard 2019 for radionuclide imaging of phaeochromocytoma and paraganglioma [^f072a060]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
+### European Association of Nuclear Medicine practice guideline / Society of Nuclear Medicine and Molecular Imaging procedure standard 2019 for radionuclide imaging of phaeochromocytoma and paraganglioma [^1179UXjm]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
 
 Preparation and quality control — The [111In]IDTPA-pentetreotide preparation remains stable for 6 h and should not be used if the radiochemical purity is less than 90% (USA) or 99% (Europe), the pH of the solution ranges from 3.8 to 4.3, and TLC can be used to check purity using instant TLC with 0.1 N sodium citrate adjusted with HCl to a pH of 5, where Rf values are 111In-pentetreotide 0.0 and unbound 111In 1.0.
 
 ---
 
-### Risankizumab-rzaa (Skyrizi) [^66e39be5]. FDA (2025). Medium credibility.
+### Risankizumab-rzaa (Skyrizi) [^113dYBvc]. FDA (2025). Medium credibility.
 
 SKYRIZI (risankizumab-rzaa) injection 360 mg/2.4 mL (150 mg/mL) prefilled cartridge for use with the supplied o n- b ody i njector for subcutaneous use
 
@@ -351,7 +351,7 @@ Each 10 mL single-dose vial contains 600 mg of risankizumab-rzaa, and the inacti
 
 ---
 
-### Rocuronium [^0975a69c]. FDA (2025). Medium credibility.
+### Rocuronium [^111F2QZR]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -365,7 +365,7 @@ Rocuronium bromide is supplied as a sterile, nonpyrogenic, isotonic solution tha
 
 ---
 
-### Imaging of pH in vivo using hyperpolarizedC-labelled zymonic acid [^d469a671]. Nature Communications (2017). Medium credibility.
+### Imaging of pH in vivo using hyperpolarizedC-labelled zymonic acid [^116RuryW]. Nature Communications (2017). Medium credibility.
 
 Characterization of ZA
 
@@ -373,7 +373,7 @@ The mass of the synthesized substance was determined by an HR-MS-spectrum using 
 
 ---
 
-### Electrification at water-hydrophobe interfaces [^bb0e9f23]. Nature Communications (2020). High credibility.
+### Electrification at water-hydrophobe interfaces [^115nKbYv]. Nature Communications (2020). High credibility.
 
 Dependence on ionic strength and dielectric constant of aqueous solutions
 
@@ -383,7 +383,7 @@ We found that by suppressing the Debye lengths by adding ions, the charge carrie
 
 ---
 
-### Reactive capture of COvia amino acid [^86e21112]. Nature Communications (2024). High credibility.
+### Reactive capture of COvia amino acid [^114SyGty]. Nature Communications (2024). High credibility.
 
 Fig. 2
 Optimization of the capture solution and system stability.
@@ -392,7 +392,7 @@ a, b FE towards CO and full cell voltage for a 1 M K-GLY capture solution with 0
 
 ---
 
-### Electric fields control the orientation of peptides irreversibly immobilized on radical-functionalized surfaces [^c3b0bec7]. Nature Communications (2018). Medium credibility.
+### Electric fields control the orientation of peptides irreversibly immobilized on radical-functionalized surfaces [^11617xEA]. Nature Communications (2018). Medium credibility.
 
 Peptide immobilization
 
@@ -402,7 +402,7 @@ The FLAG peptide was dissolved in 10 mM buffer at either pH 5.4 or pH 9.8. The i
 
 ---
 
-### Microscale pH variations during drying of soils and desert biocrusts affect HONO and NHemissions [^d7ffc0c5]. Nature Communications (2019). High credibility.
+### Microscale pH variations during drying of soils and desert biocrusts affect HONO and NHemissions [^116XEF4Q]. Nature Communications (2019). High credibility.
 
 Acid–base model and local pH determination
 
@@ -416,13 +416,13 @@ At the interface between the air and soil water, the fast equilibration of chemi
 
 ---
 
-### Direct assessment of the acidity of individual surface hydroxyls [^ee113ef8]. Nature (2021). Excellent credibility.
+### Direct assessment of the acidity of individual surface hydroxyls [^1175wr3q]. Nature (2021). Excellent credibility.
 
 The state of deprotonation/protonation of surfaces has far-ranging implications in chemistry, from acid-base catalysis 1 and the electrocatalytic and photocatalytic splitting of water 2, to the behaviour of minerals 3 and biochemistry 4. An entity's acidity is described by its proton affinity and its acid dissociation constant pK a (the negative logarithm of the equilibrium constant of the proton transfer reaction in solution). The acidity of individual sites is difficult to assess for solids, compared with molecules. For mineral surfaces, the acidity is estimated by semi-empirical concepts, such as bond-order valence sums 5, and increasingly modelled with first-principles molecular dynamics simulations 6,7. At present, such predictions cannot be tested-experimental measures, such as the point of zero charge 8, integrate over the whole surface or, in some cases, individual crystal facets 9. Here we assess the acidity of individual hydroxyl groups on In 2 O 3 (111)-a model oxide with four different types of surface oxygen atom. We probe the strength of their hydrogen bonds with the tip of a non-contact atomic force microscope and find quantitative agreement with density functional theory calculations. By relating the results to known proton affinities of gas-phase molecules, we determine the proton affinity of the different surface sites of In 2 O 3 with atomic precision. Measurements on hydroxylated titanium dioxide and zirconium oxide extend our method to other oxides.
 
 ---
 
-### Treprostinil [^8b79ec4c]. FDA (2025). Medium credibility.
+### Treprostinil [^114ZnERZ]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -436,7 +436,7 @@ The structural formula of treprostinil is:
 
 ---
 
-### Acidification suppresses the natural capacity of soil microbiome to fight pathogenic fusarium infections [^1e61f697]. Nature Communications (2023). High credibility.
+### Acidification suppresses the natural capacity of soil microbiome to fight pathogenic fusarium infections [^111n3Xw4]. Nature Communications (2023). High credibility.
 
 Soil physicochemical characteristics
 
@@ -444,7 +444,7 @@ Soil physicochemical properties were determined according to handbook of soil an
 
 ---
 
-### Balanced salt solution (Bss) [^71e07c1d]. FDA (2024). Medium credibility.
+### Balanced salt solution (Bss) [^113uq1AL]. FDA (2024). Medium credibility.
 
 DESCRIPTION
 
@@ -452,13 +452,13 @@ BSS™ Sterile Irrigating Solution is a sterile balanced salt solution, each mL 
 
 ---
 
-### Drinking water: the saltier the better? [^40415bd2]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^112eGAKs]. Journal of the American Heart Association (2019). Medium credibility.
 
 See Article Naser et al.
 
 ---
 
-### Theranostic PSMA ligands with optimized backbones for intraoperative multimodal imaging and photodynamic therapy of prostate cancer [^73986a7b]. European Journal of Nuclear Medicine and Molecular Imaging (2022). Medium credibility.
+### Theranostic PSMA ligands with optimized backbones for intraoperative multimodal imaging and photodynamic therapy of prostate cancer [^113xNmiA]. European Journal of Nuclear Medicine and Molecular Imaging (2022). Medium credibility.
 
 Radiolabeling and RP-HPLC
 
@@ -468,7 +468,7 @@ Radiochemical yield (RCY) was determined by instant thin-layer chromatography (I
 
 ---
 
-### One-pot biocatalytic route from cycloalkanes to α, ω-dicarboxylic acids by designed Escherichia coli consortia [^5a0f3369]. Nature Communications (2020). High credibility.
+### One-pot biocatalytic route from cycloalkanes to α, ω-dicarboxylic acids by designed Escherichia coli consortia [^113JWzVv]. Nature Communications (2020). High credibility.
 
 Preparative procedure for α, ω-dicarboxylic acids 7a-d
 
@@ -476,7 +476,7 @@ The cycloalkanes 1a-d (final concentration was 100 mM; 78 µL 1a, 86.8 µL 1b, 9
 
 ---
 
-### Structure-based discovery of dual pathway inhibitors for SARS-CoV-2 entry [^378fba3e]. Nature Communications (2023). High credibility.
+### Structure-based discovery of dual pathway inhibitors for SARS-CoV-2 entry [^112RNbY9]. Nature Communications (2023). High credibility.
 
 Crystallization, data collection and structure determination
 
@@ -488,13 +488,13 @@ The purified and activated CTSB at a concentration of 5.5 mg/mL was incubated wi
 
 ---
 
-### Opposite development of short-and long-range anterior cingulate pathways in autism [^8155eb3a]. Acta Neuropathologica (2018). Low credibility.
+### Opposite development of short-and long-range anterior cingulate pathways in autism [^114JkGBs]. Acta Neuropathologica (2018). Low credibility.
 
 We stained other series of sections using the Gallyas silver technique to label intracortical and white matter myelin. Briefly, sections were rinsed in distilled water and then incubated in a solution of pyridine (2/3; P368-1 Fischer Scientific) and glacial acetic acid (1/3; ARK2183 Sigma-Aldrich) for 30 min at room temperature. We then washed sections in distilled water before incubation in the impregnation solution for a minimum of 30 min at room temperature in the dark. We used 0.1 g of ammonium nitrate (A7455 Sigma-Aldrich) and 0.1 g of silver nitrate (S181-25 Fischer Scientific) per 100 mL of distilled water to make the impregnation solution; the pH of the solution was adjusted with 0.1 M sodium hydroxide (CAS 1: 1310-73-2 Fischer Scientific) to obtain pH 7.5. Sections were then rinsed in 0.5% acetic acid (A6283 Sigma-Aldrich) and incubated in the developing solution under microscopic control until the proper level of stain was achieved. For the developing solution we first prepared three solutions, each dissolved in 500 mL of distilled water: A, 25 g sodium carbonate (S-263 Fischer Scientific); B, 1 g ammonium nitrate (A7455 Sigma-Aldrich), 1 g silver nitrate (S181-25 Fischer Scientific) and 5 g silicotungstic acid (383341 Sigma-Aldrich); C, 75 mL of solution B and 1.75 mL of 4% paraformaldehyde (O4042 Fischer Scientific). To make the incubation solution, we mixed 150 mL of solution A, 75 mL of solution B and 75 mL of solution C in that order. After developing, the sections were washed in 1% acetic acid (A6283 Sigma-Aldrich) and then in distilled water followed by incubation in 5% sodium thiosulfate (S-1648 Sigma-Aldrich) to stabilize the reaction. Sections were finally washed in distilled water and mounted on gelatin-coated glass slides from PB 0.1 M, pH 7.4.
 
 ---
 
-### In vitro thermal profile suitability assessment of acids and bases for thermochemical ablation: underlying principles [^36f838a4]. Journal of Vascular and Interventional Radiology (2010). Low credibility.
+### In vitro thermal profile suitability assessment of acids and bases for thermochemical ablation: underlying principles [^112QVhxX]. Journal of Vascular and Interventional Radiology (2010). Low credibility.
 
 Purpose
 
@@ -514,7 +514,7 @@ Higher concentrations for any reagent resulted in higher temperatures. Stronger 
 
 ---
 
-### Total enzymatic synthesis of cis-α-irone from a simple carbon source [^8b583ec3]. Nature Communications (2022). High credibility.
+### Total enzymatic synthesis of cis-α-irone from a simple carbon source [^114ZavKt]. Nature Communications (2022). High credibility.
 
 Biotransformation of glucose/glycerol into cis-α-irone
 
@@ -522,13 +522,13 @@ The four plasmids were transformed into E. coli BL21 (DE3), ∆ aroA, ∆ aroB, 
 
 ---
 
-### The potential role of systemic buffers in reducing intratumoral extracellular pH and acid-mediated invasion [^38923a64]. Cancer Research (2009). Low credibility.
+### The potential role of systemic buffers in reducing intratumoral extracellular pH and acid-mediated invasion [^112SsRXy]. Cancer Research (2009). Low credibility.
 
 A number of studies have shown that the extracellular pH (pHe) in cancers is typically lower than that in normal tissue and that an acidic pHe promotes invasive tumor growth in primary and metastatic cancers. Here, we investigate the hypothesis that increased systemic concentrations of pH buffers reduce intratumoral and peritumoral acidosis and, as a result, inhibit malignant growth. Computer simulations are used to quantify the ability of systemic pH buffers to increase the acidic pHe of tumors in vivo and investigate the chemical specifications of an optimal buffer for such purpose. We show that increased serum concentrations of the sodium bicarbonate (NaHCO(3)) can be achieved by ingesting amounts that have been used in published clinical trials. Furthermore, we find that consequent reduction of tumor acid concentrations significantly reduces tumor growth and invasion without altering the pH of blood or normal tissues. The simulations also show that the critical parameter governing buffer effectiveness is its pK(a). This indicates that NaHCO(3), with a pK(a) of 6.1, is not an ideal intratumoral buffer and that greater intratumoral pHe changes could be obtained using a buffer with a pK(a) of approximately 7. The simulations support the hypothesis that systemic pH buffers can be used to increase the tumor pHe and inhibit tumor invasion.
 
 ---
 
-### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^bd648a6b]. Nature Communications (2023). High credibility.
+### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^115qnRxE]. Nature Communications (2023). High credibility.
 
 Fig. 5
 Volcano plots showing how the activity is expected to change with respect to the Michaelis-Menten constant (K m).
@@ -546,19 +546,19 @@ a Reverse reactions, b Competitive inhibition, c Uncompetitive inhibition, and d
 
 ---
 
-### Bicarbonate-mediated proton transfer requires cations [^618fd8da]. Nature Communications (2024). High credibility.
+### Bicarbonate-mediated proton transfer requires cations [^113Ve7hj]. Nature Communications (2024). High credibility.
 
 Near-neutral HCO 3 - aqueous solution plays an essential role in respiratory, mineralization and catalysis, yet the interconversion between hydrated CO 2, HCO 3 - and CO 3 2- and the associated proton transfer under such proton-deficient conditions remain uncovered. Here we reveal that cation enables HCO 3 - to self-dissociate into OH - and CO 2 through a pH-independent process, where CO 2 hydration and subsequent proton transfer in acid-base reactions lead to the overall exchange of oxygen isotopes between HCO 3 - and H 2 O tracked by oxygen isotope-labeled Raman spectroscopy. Isolating HCO 3 - from cations with crown ether impedes HCO 3 - dissociation and the following reactions. Further molecular dynamics simulations demonstrate that the interplay between HCO 3 - and hydrated cations drives HCO 3 - dissociation. This study suggests a natural proton channel upon coupling HCO 3 - with cations.
 
 ---
 
-### The negative emission potential of alkaline materials [^f5bd5512]. Nature Communications (2019). High credibility.
+### The negative emission potential of alkaline materials [^117HKZXw]. Nature Communications (2019). High credibility.
 
 7 billion tonnes of alkaline materials are produced globally each year as a product or by-product of industrial activity. The aqueous dissolution of these materials creates high pH solutions that dissolves CO 2 to store carbon in the form of solid carbonate minerals or dissolved bicarbonate ions. Here we show that these materials have a carbon dioxide storage potential of 2.9–8.5 billion tonnes per year by 2100, and may contribute a substantial proportion of the negative emissions required to limit global temperature change to < 2°C.
 
 ---
 
-### Treprostinil (Remodulin) [^fe37ab55]. FDA (2025). Medium credibility.
+### Treprostinil (Remodulin) [^117VtZ72]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -574,7 +574,7 @@ Sterile Diluent for Remodulin is a high-pH (pH~10.4) glycine diluent supplied in
 
 ---
 
-### Single particle automated raman trapping analysis [^d50df42d]. Nature Communications (2018). Medium credibility.
+### Single particle automated raman trapping analysis [^116Ss3sJ]. Nature Communications (2018). Medium credibility.
 
 Dynamic click reactions on polystyrene particles
 
@@ -582,7 +582,7 @@ Carboxyl functionalised 0.2 µm PS particles (Polybead carboxylate 0.20 µm, Pol
 
 ---
 
-### A novel narnavirus is widespread in Saccharomyces cerevisiae and impacts multiple host phenotypes [^15d57ea0]. G3 (2023). Medium credibility.
+### A novel narnavirus is widespread in Saccharomyces cerevisiae and impacts multiple host phenotypes [^111ZNT8T]. G3 (2023). Medium credibility.
 
 Virus presence/absence determination by PCR and gel electrophoresis
 
@@ -590,7 +590,7 @@ Total nucleic acids were extracted using a slight modification of the phenol-med
 
 ---
 
-### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^6f537e9e]. Nature Communications (2016). Medium credibility.
+### Highly regio-and enantioselective multiple oxy-and amino-functionalizations of alkenes by modular cascade biocatalysis [^113r3ftR]. Nature Communications (2016). Medium credibility.
 
 Biotransformation of 1a or 1d to prepare (S)- 8a or (S)- 8d
 
@@ -598,13 +598,13 @@ Overall, 100 mL suspension of E. coli (A-M1_R-M2_C-M4) cells (20 g cdw l –1) i
 
 ---
 
-### Ligand design strategies to increase stability of gadolinium-based magnetic resonance imaging contrast agents [^428b1b68]. Nature Communications (2019). High credibility.
+### Ligand design strategies to increase stability of gadolinium-based magnetic resonance imaging contrast agents [^112heud9]. Nature Communications (2019). High credibility.
 
 The thermodynamic stability constant can be calculated by the equilibrium concentration of each component with the assumption that the ligand is fully deprotonated. There are several methods for the determination of log K. These include pH-potentiometry, spectrophotometry and proton relaxometry, which are respectively conducted by recording changes of pH value, absorbance/emission intensity or proton relaxivity of a solution containing equimolar amounts of metal ion and ligand as a function of added acid or base. Complexation of lanthanide(III) ions, including Gd 3+, especially with macrocyclic ligands, is generally slow. Thus, the "out-of-cell" method is frequently used rather than direct titrations, i.e. a series of samples to span the pH range are prepared and allowed to equilibrate before measurements are made. For complexes with a high log K value, the competition method can be used. This requires a competing reference ligand or metal ion. The hard acid Gd 3+ favours basic donor atoms such as nitrogen and charged oxygen, which can be exploited to increase the log K of Gd 3+ complexes. However, log K formally describes the reaction between a metal ion and a fully deprotonated ligand, with the latter only existing in solution at high pH values. At lower pH ranges, protons compete with Gd 3+ to bind with the ligand. This additional consideration is taken into account by the conditional thermodynamic stability constant: log K' (also called log K' GdL, log K cond and log K eff), a value measured at pH 7.4 using 1:1 ligand-to-metal ratio. Log K ' can be calculated from log K and ligand protonation constants. Less commonly, pGd (pGd = −log [Gd 3+] at pH 7.4, freqcuently at a ligand to metal concentration ratio of 10:1 although a range have been used in the literature) has been suggested as a measure of complex conditional thermodynamic stability. Log K ' is, therefore, more useful than log K with respect to thermodynamic stability under certain conditions, i.e. physiological pH 7.4. Increased ligand basicity results in stronger proton binding and can result in a larger difference between log K and log K'.
 
 ---
 
-### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^ad900b67]. Nature Communications (2024). High credibility.
+### Redefined ion association constants have consequences for calcium phosphate nucleation and biomineralization [^115SKEy4]. Nature Communications (2024). High credibility.
 
 With the renewed interest in the early stages of precipitation mechanisms, understanding the ion interactions before macroscopic solids are formed has become especially important from a non-classical point of view –. The binding between different ions in solution, however, has been studied since the early days in chemistry, since these equilibria determine solution composition and characteristics, as evident from the extensive compilations of ion association constants published in the last century. Taking a broad view, the most fundamental parameter of aqueous chemistry, pH, is also essentially a description of ion binding. For the CaPs, the different ion associates have been shown to be vital in understanding the solubility of solid phases. Current research investigates the role of these associated species in nucleation mechanisms.
 
@@ -612,13 +612,13 @@ Recent developments in potentiometric and cryo-TEM methods have enabled investig
 
 ---
 
-### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^ed712649]. CDC (2008). Medium credibility.
+### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^1175257v]. CDC (2008). Medium credibility.
 
 Hydrogen peroxide — antimicrobial efficacy and chemical sterilant formulations are detailed across concentrations and organisms: a 3% hydrogen peroxide solution inactivated rhinovirus in 6–8 minutes, with times increasing to 18–20 minutes at 1.5% and 50–60 minutes at 0.75%; concentrations from 6% to 25% show promise as chemical sterilants, and the marketed sterilant contains 7.5% hydrogen peroxide and 0.85% phosphoric acid; at 7.5% it inactivated > 10⁵ multidrug-resistant M. tuberculosis after a 10-minute exposure; thirty minutes were required for > 99.9% inactivation of poliovirus and HAV, whereas 3% and 6% hydrogen peroxide failed to inactivate HAV in 1 minute; in endoscope disinfection, 7.5% hydrogen peroxide at 10 minutes versus 2% alkaline glutaraldehyde at 20 minutes showed no significant difference in germicidal activity, though in one study 6% hydrogen peroxide (unused product was 7.5%) was more effective than 2% glutaraldehyde; a new, rapid-acting 13.4% hydrogen peroxide formulation (not yet FDA-cleared) is reported to sterilize in 30 minutes and provide high-level disinfection in 5 minutes, and synergistic sporicidal effects were observed when spores were exposed to hydrogen peroxide (5.9% — 23.6%) plus peracetic acid.
 
 ---
 
-### Pitfalls in the quantitative imaging of glutathione in living cells [^4ae30b9e]. Nature Communications (2018). Medium credibility.
+### Pitfalls in the quantitative imaging of glutathione in living cells [^112v2M49]. Nature Communications (2018). Medium credibility.
 
 HPLC determination of Cys and GSH with monobromobimane (mBr) derivatization
 
@@ -630,13 +630,13 @@ The data that support the findings of this study are available from the correspo
 
 ---
 
-### The treatment of alkaline burns of the skin by neutralization [^b416bb1c]. Plastic and Reconstructive Surgery (2003). Low credibility.
+### The treatment of alkaline burns of the skin by neutralization [^115bzQZR]. Plastic and Reconstructive Surgery (2003). Low credibility.
 
 Literature reports dating as far back as 1927 have lured clinicians into the belief that alkaline skin burns are best treated by water dilution and that neutralization attempts should be avoided. Although this belief has never been substantiated, neutralization of an alkaline burn of the skin with acid was thought to increase tissue damage secondary to the exothermic nature of acid-base reactions. The authors proposed that topical treatment of alkaline burns with a weak acid such as 5% acetic acid (i.e., household vinegar) would result in rapid tissue neutralization and reduction of injury in comparison to water irrigation alone. In a rat skin burn model, animals were exposed to an alkaline injury when filter paper (2 cm in diameter) saturated with 2N sodium hydroxide was placed over the volar aspect of the animal for a period of 1 minute. Treatment was initiated 1 minute after injury and included either neutralization with a 5% acetic acid solution (n = 8) or irrigation (n = 8) with water. Skin temperature and pH were monitored using subdermal needle probes until the pH of the skin returned to physiologic values. Punch-biopsy specimens were obtained from the wound edges 24 hours after injury to assess burn depth and leukocyte infiltration, and biopsies were repeated 10 days later to assess wound healing. The authors proposed that neutralization of an alkaline substance with household vinegar (i.e., 5% acetic acid solution) would result in rapid neutralization and thus reduce extent of tissue injury. Animals treated with acetic acid demonstrated a more rapid return to physiologic pH (14.69 ± 4.06 minutes versus 31.62 ± 2.83 minutes; p < 0.001), increased depth of dermal retention (0.412 ± 0.136 mm versus 0.214 ± 0.044 mm; p = 0.015), decreased leukocyte infiltrate (31.0 ± 5.1 cells/high-power field versus 51.8 ± 6.8 cells/high-power field; p < 0.001), and improved epithelial regeneration (4.0 ± 0.6 cell layers versus 1.7 ± 0.5 cell layers; p < 0.001) when compared with animals treated with water irrigation. No difference was detected in peak pH (10.35 ± 0.28 pH versus 10.36 ± 0.25 pH; p = 0.47) nor in rise of skin temperature (maximum temperature, 32.8 degrees C versus 32.9 degrees C; p = 0.33) between acetic acid-neutralized and water-irrigated burn wounds. The observed benefits of treating alkaline burns with 5% acetic acid in the rat model are significant and require clinical testing.
 
 ---
 
-### Electrochemical oxo-functionalization of cyclic alkanes and alkenes using nitrate and oxygen [^2822cf9a]. Nature Communications (2023). High credibility.
+### Electrochemical oxo-functionalization of cyclic alkanes and alkenes using nitrate and oxygen [^1122WCSm]. Nature Communications (2023). High credibility.
 
 Workup protocol for the co-electrolysis
 
@@ -648,7 +648,7 @@ After electrolysis, 50.5 μL propionic acid was added to the reaction solution a
 
 ---
 
-### Control of intracellular pH and bicarbonate by COdiffusion into human sperm [^0550402c]. Nature Communications (2023). High credibility.
+### Control of intracellular pH and bicarbonate by COdiffusion into human sperm [^1118stpT]. Nature Communications (2023). High credibility.
 
 Digestion of proteins from human spermatozoa cells for MS analysis
 
@@ -656,7 +656,7 @@ Proteins from 1–5 × 10 6 sperm were extracted and subjected to in-solution di
 
 ---
 
-### Vaginal acidity enhancement with a 3% acetic acid gel prior to misoprostol treatment for pregnancy termination in the midtrimester [^991cd7d0]. International Journal of Gynaecology and Obstetrics (2012). Low credibility.
+### Vaginal acidity enhancement with a 3% acetic acid gel prior to misoprostol treatment for pregnancy termination in the midtrimester [^114uzo2P]. International Journal of Gynaecology and Obstetrics (2012). Low credibility.
 
 Objective
 
@@ -676,19 +676,19 @@ A 3% acetic acid gel appears to be an effective and safe preparatory adjuvant to
 
 ---
 
-### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^85e4df89]. Nature Communications (2023). High credibility.
+### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^114RWEHn]. Nature Communications (2023). High credibility.
 
 Understanding how to tune enzymatic activity is important not only for biotechnological applications, but also to elucidate the basic principles guiding the design and optimization of biological systems in nature. So far, the Michaelis-Menten equation has provided a fundamental framework of enzymatic activity. However, there is still no concrete guideline on how the parameters should be optimized towards higher activity. Here, we demonstrate that tuning the Michaelis-Menten constant ([Formula: see text]) to the substrate concentration ([Formula: see text]) enhances enzymatic activity. This guideline ([Formula: see text]) was obtained mathematically by assuming that thermodynamically favorable reactions have higher rate constants, and that the total driving force is fixed. Due to the generality of these thermodynamic considerations, we propose [Formula: see text] as a general concept to enhance enzymatic activity. Our bioinformatic analysis reveals that the [Formula: see text] and in vivo substrate concentrations are consistent across a dataset of approximately 1000 enzymes, suggesting that even natural selection follows the principle [Formula: see text].
 
 ---
 
-### Healthy housing reference manual [^ef8347b5]. CDC (2006). Medium credibility.
+### Healthy housing reference manual [^117868tt]. CDC (2006). Medium credibility.
 
 Healthy housing — acid water corrosion (Table 8.6) uses "Colorimetric field titrametric tests for acidity, pH, and carbon dioxide (pH is determined at the titration end point)", with thresholds that "A pH below 6.5 causes corrosion" and "Carbon dioxide should be less than 10 mg/L Or less than 5 mg/L if alkalinity is less than 100 ppm"; corrective actions are that "Soda ash solution is fed into the well or suction line of a pump. May be fed along with chlorine solution. Limestone chips (calcite) neutralize the water by increasing its alkalinity and hardness".
 
 ---
 
-### Selenium-based metabolic oligosaccharide engineering strategy for quantitative glycan detection [^32ce3ef8]. Nature Communications (2023). High credibility.
+### Selenium-based metabolic oligosaccharide engineering strategy for quantitative glycan detection [^112JKf5y]. Nature Communications (2023). High credibility.
 
 DMB assay for sialic acid detection
 
@@ -696,55 +696,55 @@ HeLa cells were seeded into 6-well plates (5 × 10 5 cells/well), and incubated 
 
 ---
 
-### 8.4% sodium bicarbonate [^6af5e40a]. FDA (2021). Medium credibility.
+### 8.4% sodium bicarbonate [^113jaHDB]. FDA (2021). Medium credibility.
 
 Principle Display Panel, Vial Label - NDC 0409-6625-02
 
 ---
 
-### Changing dialysate composition to optimize acid-base therapy [^4cc28471]. Seminars in Dialysis (2019). Medium credibility.
+### Changing dialysate composition to optimize acid-base therapy [^112xoPvQ]. Seminars in Dialysis (2019). Medium credibility.
 
 In response to rapid alkali delivery during hemodialysis, hydrogen ions (H +) are mobilized from body buffers and from stimulation of organic acid production in amounts sufficient to convert most of the delivered bicarbonate to CO 2 and water. Release of H + from nonbicarbonate buffers serves to back-titrate them to a more alkaline state, readying them to buffer acids that accumulate in the interval between treatments. By contrast, stimulation of organic acid production only serves to remove added bicarbonate (HCO 3 -) from the body; the organic anions produced by this process are lost into the dialysate, irreversibly acidifying the patient as well as diverting metabolic activity from normal homeostasis. We have developed an analytic tool to quantify these acid-base events, which has shown that almost two-thirds of the H + mobilized during hemodialysis comes from organic acid production when bath bicarbonate concentration ([HCO 3 -]) is 32 mEq/L or higher. Using data from the hemodialysis patients we studied with our analytical model, we have simulated the effect of changing bath solute on estimated organic acid production. Our simulations demonstrate that reducing bath [HCO 3 -] should decrease organic acid production, a change we propose as beneficial to the patient. They also highlight the differential effects of variations in bath acetate concentration, as compared to [HCO 3 -], on the amount and rate of alkali delivery. Our results suggest that transferring HCO 3 - delivery from direct influx to acetate influx and metabolism provides a more stable and predictable rate of HCO 3 - addition to the patient receiving bicarbonate-based hemodialysis. Our simulations provide the groundwork for the clinical studies needed to verify these conclusions.
 
 ---
 
-### Clinical practice guideline: maintenance intravenous fluids in children [^bbc83f62]. Pediatrics (2018). Medium credibility.
+### Clinical practice guideline: maintenance intravenous fluids in children [^115oPwqT]. Pediatrics (2018). Medium credibility.
 
 Tonicity, osmolality, and solution composition considerations for maintenance IVFs: Tonicity is used to describe the net vector of force on cells relative to a semipermeable membrane when in solution, with infused isotonic fluids not resulting in osmotic shifts so the cells stay the same size, cellular expansion occurring during immersion in hypotonic fluids, and in hypertonic fluid immersion free water shifting out of the cells leading to cellular contraction; osmolality is measured as osmoles of solute per kilogram of solvent and serum osmolality can be estimated by the formula 2 × Na(meq/L) + BUN (mg/dL)/2.8 + glucose (mg/dL)/18; the buffer in plasma is bicarbonate but commercially available solutions may include various concentrations of lactate, acetate, and gluconate, and multiple balanced salt solutions can be compared with normal saline (0.9% saline), which has the same sodium concentration as plasma but a supraphysiologic chloride concentration; dextrose (D-glucose) can be added to IVFs and although it affects the osmolality of IVFs, it is not a significant contributor to the plasma osmotic pressure or tonicity.
 
 ---
 
-### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^78fd44ec]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^1146Nau9]. American Journal of Kidney Diseases (2020). High credibility.
 
 Guideline 6: Electrolytes — Acid load management in adults with chronic kidney disease (CKD) states that in CKD 1–4, we suggest reducing net acid production (NEAP) through increased dietary intake of fruits and vegetables (2C) in order to reduce the rate of decline of residual kidney function; in CKD 3-5D, we recommend reducing NEAP through increased bicarbonate or a citric acid/sodium citrate solution supplementation (1C) in order to reduce the rate of decline of residual kidney function; and in CKD 3-5D, it is reasonable to maintain serum bicarbonate levels at 24–26 mmol/L (OPINION).
 
 ---
 
-### Identifying eigen-like hydrated protons at negatively charged interfaces [^d6a8f05d]. Nature Communications (2020). High credibility.
+### Identifying eigen-like hydrated protons at negatively charged interfaces [^116VF6W8]. Nature Communications (2020). High credibility.
 
 Despite the importance of the hydrogen ion in a wide range of biological, chemical, and physical processes, its molecular structure in solution remains lively debated. Progress has been primarily hampered by the extreme diffuse nature of the vibrational signatures of hydrated protons in bulk solution. Using the inherently surface-specific vibrational sum frequency spectroscopy technique, we show that at selected negatively charged interfaces, a resolved spectral feature directly linked to the H 3 O + core in an Eigen-like species can be readily identified in a biologically compatible pH range. Centered at ~2540cm -1, the band is seen to shift to ~1875cm -1 when forming D 3 O + upon isotopic substitution. The results offer the possibility of tracking and understanding from a molecular perspective the behavior of hydrated protons at charged interfaces.
 
 ---
 
-### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^9a61f12a]. CDC (2008). Medium credibility.
+### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^114wszTs]. CDC (2008). Medium credibility.
 
 Detergent selection for instrument cleaning states that a neutral or near-neutral pH detergent solution commonly is used because such solutions generally provide the best material compatibility profile and good soil removal.
 
 ---
 
-### Acid-base homeostasis during hemodialysis: new insights into the mystery of bicarbonate disappearance during treatment [^10dcfc5d]. Seminars in Dialysis (2018). Low credibility.
+### Acid-base homeostasis during hemodialysis: new insights into the mystery of bicarbonate disappearance during treatment [^111S12fE]. Seminars in Dialysis (2018). Low credibility.
 
 In patients receiving hemodialysis, it has long been recognized that much more bicarbonate is delivered during treatment than ultimately appears in the blood. To gain insight into this mystery, we developed a model that allows a quantitative analysis of the patient's response to rapid alkalinization during hemodialysis. Our model is unique in that it is based on the distribution of bicarbonate in the extracellular fluid and assesses its removal from this compartment by mobilization of protons (H +) from buffers and other sources. The model was used to analyze the pattern of rise in blood bicarbonate concentration ([HCO 3 -]), calculated from measurements of pH and PCO 2, in patients receiving standard bicarbonate hemodialysis. Model analysis demonstrated two striking findings: (1) 35% of the bicarbonate added during hemodialysis was due to influx and metabolism of acetate, despite its low concentration in the bath solution, because of the rapidly collapsing gradient for bicarbonate influx. (2) Almost 90% of the bicarbonate delivered to the patients was neutralized by H + generation. Virtually all the new H + came from intracellular sources and included both buffering and organic acid production. The small amount of added bicarbonate retained in the extracellular fluid increased blood [HCO 3 -], on average, by 6 mEq/L in our patients. Almost all this rise occurred during the first 2 hours. Thereafter, blood [HCO 3 -] changed minimally and always remained less than bath [HCO 3 -]. This lack of equilibrium was due to the continued production of organic acid. Release of H + from buffers is a reversible physiological response, restoring body alkali stores. By contrast, organic acid production is an irreversible process during hemodialysis and is metabolically inefficient and potentially catabolic. Our analysis underscores the need to develop new approaches for alkali repletion during hemodialysis that minimize organic acid production.
 
 ---
 
-### Optimizing bowel preparation quality for colonoscopy: consensus recommendations by the Us Multi-society Task Force on Colorectal Cancer [^0872c64f]. Gastroenterology (2025). High credibility.
+### Optimizing bowel preparation quality for colonoscopy: consensus recommendations by the Us Multi-society Task Force on Colorectal Cancer [^111DXTFC]. Gastroenterology (2025). High credibility.
 
 Table 6. A — PEG + ascorbic or citric acid regimens — adequate bowel cleanliness overall in high-volume (4 L) vs low-volume (2 L) preparations was 86.3% (82.0–90.5) vs 84.9% (80.8–89.0); for ultra-low-volume (≤ 1 L), 1 L PEG with ascorbic acid achieved 82.9% (74.4–90.2). The magnitude of effect is reported as relative risk high vs low volume 1.00 (0.96–1.02).
 
 ---
 
-### Ganirelix acetate [^681589ea]. FDA (2025). Medium credibility.
+### Ganirelix acetate [^113fJwv9]. FDA (2025). Medium credibility.
 
 DESCRIPTION
 
@@ -756,13 +756,13 @@ Ganirelix acetate injection is supplied as a colorless, sterile, ready-to-use, a
 
 ---
 
-### Physiological effects of hyperchloraemia and acidosis [^c766b6af]. British Journal of Anaesthesia (2008). Low credibility.
+### Physiological effects of hyperchloraemia and acidosis [^1166d36v]. British Journal of Anaesthesia (2008). Low credibility.
 
 The advent of balanced solutions for i.v. fluid resuscitation and replacement is imminent and will affect any specialty involved in fluid management. Part of the background to their introduction has focused on the non-physiological nature of 'normal' saline solution and the developing science about the potential problems of hyperchloraemic acidosis. This review assesses the physiological significance of hyperchloraemic acidosis and of acidosis in general. It aims to differentiate the effects of the causes of acidosis from the physiological consequences of acidosis. It is intended to provide an assessment of the importance of hyperchloraemic acidosis and thereby the likely benefits of balanced solutions.
 
 ---
 
-### Sodium citrate and citric acid monohydrate (sodium citrate and citric acid) [^deef346f]. FDA (2025). Medium credibility.
+### Sodium citrate and citric acid monohydrate (sodium citrate and citric acid) [^116hWbeW]. FDA (2025). Medium credibility.
 
 STORAGE:
 
@@ -770,13 +770,13 @@ Keep tightly closed. Store at controlled room temperature, 20°-25°C (68°-77°
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^c59b8670]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1163xoPd]. Kidney International (2024). High credibility.
 
 Chronic kidney disease metabolic acidosis — trial evidence and certainty: The Work Group has not provided a graded recommendation for the treatment of acidosis due to a lack of large-scale RCTs supporting its use. In 2012, a 2B recommendation was justified because alkali supplementation may be a promising low-cost, high-benefit adjunct treatment for people with CKD and may be accessible to all populations. A 2021 systematic review identified 15 trials with ≥ 3 months of follow-up in people with CKD (eGFR < 60 ml/min per 1.73 m^2 and/or proteinuria) comparing the effects of oral sodium bicarbonate versus placebo or versus no study medication on kidney outcomes. Of the 15 trials (2445 participants, median follow-up 12 months), 1 new trial has been published since 2012. The totality of the evidence remains limited by a low number of outcomes, and meta-analyses restricted to the placebo-controlled trials does not confirm any important kidney effect of oral sodium bicarbonate versus placebo on risk of kidney failure (HR: 0.81; 95% CI: 0.54–1.22).
 
 ---
 
-### The balance between the therapeutic efficacy and safety of [Lu] Lu-neoB in a preclinical prostate cancer model [^c3a675f0]. Molecular Imaging and Biology (2024). Medium credibility.
+### The balance between the therapeutic efficacy and safety of [Lu] Lu-neoB in a preclinical prostate cancer model [^11614VsM]. Molecular Imaging and Biology (2024). Medium credibility.
 
 Materials and Methods
 
@@ -786,7 +786,7 @@ All chemicals were purchased from Sigma-Aldrich with the highest chemical grade 
 
 ---
 
-### Analgesic effects of a novel pH-dependent μ-opioid receptor agonist in models of neuropathic and abdominal pain [^edb016f3]. Pain (2018). Low credibility.
+### Analgesic effects of a novel pH-dependent μ-opioid receptor agonist in models of neuropathic and abdominal pain [^1175PDHt]. Pain (2018). Low credibility.
 
 2.5. Writhing model
 
@@ -798,7 +798,7 @@ For in vivo measurements, a pH-sensitive glass microelectrode (model IC-401 comb
 
 ---
 
-### Sodium fluoride (burkhart neutral pH) [^691792da]. FDA (2022). Medium credibility.
+### Sodium fluoride (burkhart neutral pH) [^113gocqo]. FDA (2022). Medium credibility.
 
 Other Information:
 
@@ -808,13 +808,13 @@ Protect from freezing.
 
 ---
 
-### Clarifications to the VSP 2011 operations manual. December 2013 revision [^95f7f6e4]. CDC (2013). Medium credibility.
+### Clarifications to the VSP 2011 operations manual. December 2013 revision [^114qLSj5]. CDC (2013). Medium credibility.
 
 Potable water — test kits specify that a test kit must be available for testing free HALOGEN levels and pH, test kits must be accurate to within 0.2 mg/L (ppm) for HALOGEN and must have a testing range of free residual HALOGEN normally maintained in the RWF, and test kits for pH must be accurate to within 0.2.
 
 ---
 
-### Rapid measurement of inhibitor binding kinetics by isothermal titration calorimetry [^3cec5bb1]. Nature Communications (2018). Medium credibility.
+### Rapid measurement of inhibitor binding kinetics by isothermal titration calorimetry [^112ZKeY8]. Nature Communications (2018). Medium credibility.
 
 Introduction
 
@@ -824,7 +824,7 @@ Enzyme kinetic studies typically employ spectroscopic, chromatographic, or elect
 
 ---
 
-### Sodium fluoride (gelato neutral pH) [^f2bbf5a2]. FDA (2024). Medium credibility.
+### Sodium fluoride (gelato neutral pH) [^117Cs8wj]. FDA (2024). Medium credibility.
 
 Other Information:
 
@@ -832,7 +832,7 @@ Other Information:
 
 ---
 
-### Effect of short-chain fatty acids and acidification on the phasic and tonic motor activity of the human colon [^4ea948d9]. Neurogastroenterology and Motility (2013). Low credibility.
+### Effect of short-chain fatty acids and acidification on the phasic and tonic motor activity of the human colon [^1131ctun]. Neurogastroenterology and Motility (2013). Low credibility.
 
 Background
 
@@ -852,7 +852,7 @@ Under our experimental conditions, these findings suggest that the stimulation o
 
 ---
 
-### A microenvironment-modulating dressing with proliferative degradants for the healing of diabetic wounds [^05da399e]. Nature Communications (2024). High credibility.
+### A microenvironment-modulating dressing with proliferative degradants for the healing of diabetic wounds [^1119gEn1]. Nature Communications (2024). High credibility.
 
 Radicals scavenging activity
 
@@ -870,19 +870,19 @@ Hypochlorous acid (HClO) was prepared immediately before each use by adjusting t
 
 ---
 
-### Interpreting enzyme and receptor kinetics: keeping it simple, but not too simple [^6094a7ce]. Nuclear Medicine and Biology (2003). Low credibility.
+### Interpreting enzyme and receptor kinetics: keeping it simple, but not too simple [^113UBk6Z]. Nuclear Medicine and Biology (2003). Low credibility.
 
 The hyperbolic parabola is commonly used to summarize kinetics for enzyme reactions and receptor binding kinetics. Depending on the experimental conditions, certain assumptions are valid but others might be violated so that the parameters used to fit this hyperbolic function, the maximum asymptote and the equilibrium constant, require different interpretations. The first topic of this review compares enzyme-induced transformations and receptor binding in terms of the appropriate assumptions. The second topic considers the complication of adding a competitive inhibitor as an enzyme substrate or a receptor ligand and the subtleties of inferring the equilibrium dissociation constant from the concentration of inhibitor (for example unlabeled drug) that leads to the midpoint, IC(50,) of an inhibition curve. Receptor binding may be measured directly by a concentration assay or as a pharmacodynamic response variable.
 
 ---
 
-### Development of a practical formate / bicarbonate energy system [^a98adbf6]. Nature Communications (2024). High credibility.
+### Development of a practical formate / bicarbonate energy system [^115LMYpd]. Nature Communications (2024). High credibility.
 
 Liquid (organic) hydrogen carriers ([18H]-dibenzyltoluene, MeOH, formic acid, etc.) form a toolbox for the storage and transport of green hydrogen, which is crucial for the implementation of renewable energy technologies. Simple organic salts have been scarcely investigated for this purpose, despite many advantages such as low cost and minor toxicity, as well as easy handling. Here, we present a potassium formate/potassium bicarbonate hydrogen storage and release energy system, that is applicable and shows high stability (6 months). Utilizing ppm amounts of the molecularly defined Ru-5 complex, hydrogen release rates of up to 9.3Lh -1 were achieved. The same catalyst system promoted the hydrogenation of KHCO 3 to HCOOK with a TON of 9650. In this way, combined hydrogen storage-release cycles can be performed for 40 times.
 
 ---
 
-### Transformation of tenofovir into stable proTide nanocrystals with long-acting pharmacokinetic profiles [^d08e39c9]. Nature Communications (2021). High credibility.
+### Transformation of tenofovir into stable proTide nanocrystals with long-acting pharmacokinetic profiles [^116LCCPz]. Nature Communications (2021). High credibility.
 
 Prodrug chemical stability
 
@@ -894,13 +894,13 @@ Human monocytes were obtained, cultured, and differentiated into MDM as previous
 
 ---
 
-### Electrochemical oxygen reduction to hydrogen peroxide at practical rates in strong acidic media [^64025a69]. Nature Communications (2022). High credibility.
+### Electrochemical oxygen reduction to hydrogen peroxide at practical rates in strong acidic media [^113ZGZ2Q]. Nature Communications (2022). High credibility.
 
 The measured trends of H 2 O 2 FE show that the promotion effect of Na + is more pronounced at high current density toward H 2 O 2 formation. We understand that Na + and protons are both positively charged ions and will be attracted towards the ORR catalyst surface to form the electrochemical double layer under negative potentials. We would assume that, Na + ions could be more competitive than protons to be aligned along the electrochemical double layer, which dramatically reduces the local proton concentration and thus protects the generated H 2 O 2 from further reductions coupling protons and electrons (discussed in the following sections in detail). To further amplify the cation effect and drive the O 2 -to-H 2 O 2 production at even higher current densities in acid (> 200 mA cm −2), we gradually increased the Na + cation concentration in the electrolyte. As shown in Fig. 3a, the overall current density, as well as the H 2 O 2 FE gradually increases with increased Na + concentrations. In general, a higher concentration of Na + can maintain larger 2e − –ORR currents without sacrificing the H 2 O 2 selectivity. With only 0.01 M Na 2 SO 4 in 0.1 M H 2 SO 4, the FE of H 2 O 2 can reach 83% at 400 mA cm −2 (Fig. 3b), representing a 25-fold improvement compared to that in pure acids without Na + (H 2 O 2 FE only 3.3%). Along with the increased H 2 O 2 FE, the improvement of the H 2 O 2 production rate was also obvious at high current densities (Fig. 3c). For example, the production rate of 6.21 mmol cm −2 h −1 H 2 O 2 (partial current of 332 mA cm −2) was achieved under the current density of 400 mA cm −2, much higher than that in pure H 2 SO 4 acid (only 0.245 mmol cm −2 h −1). The production rate can be further enhanced by providing more Na + cations (the production rate of 6.52 mmol cm −2 h −1 was achieved at 400 mA cm −2 and the maximum FE can be up to 94% at 150 mA cm −2 by using 0.05 M Na 2 SO 4 as additive). Further increasing the concentration of Na + cations could continually push up the H 2 O 2 FE to higher values at high current densities (Fig. S3). It is important to note here that the electrolyte pH did not show obvious change and stayed around pH 1 after these Na 2 SO 4 additives, ranging from 0.96 (0.1 M H 2 SO 4), 0.96 (0.1 M H 2 SO 4 + 0.005 M Na 2 SO 4), 0.98 (0.1 M H 2 SO 4 + 0.01 M Na 2 SO 4) to 1.04 (0.1 M H 2 SO 4 + 0.05 M Na 2 SO 4). To fully exclude the pH effect of the bulk solution (even though the change is quite small), the pH value of 0.1 M H 2 SO 4 + 0.1 M Na 2 SO 4 (pH = 1.13) was adjusted to be the same as that of 0.1 M H 2 SO 4 (pH = 0.96) by adding more sulfuric acid. As shown in Fig. S4 and S5, the H 2 O 2 FE in both electrolytes with Na + additives (before and after pH tuning) showed very similar trend in all current ranges, indicating the Na + cations dominate the H 2 O 2 generation process and the small pH differences of electrolytes have negligible influence on the production rate or H 2 O 2 FE. With 0.1 M Na 2 SO 4 as an additive in 0.2 M H 2 SO 4 solution (pH = 0.76), we were able to produce H 2 O 2 at the current density of 1 A cm −2 with a FE of more than 65% (Fig. S6). The H 2 O 2 partial currents of up to 650 mA cm −2 were achieved, and high FEs were maintained, better than the highest O 2 -to-H 2 O 2 conversion rates reported. At even lower pH electrolyte, i.e. 1 M H 2 SO 4 solution (PH~0), similar trends were also observed (Fig. S7), indicating the general phenomenon of cation promotion effect toward H 2 O 2 production through ORR.
 
 ---
 
-### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^aaa37ded]. Nature Communications (2023). High credibility.
+### Thermodynamic principle to enhance enzymatic activity using the substrate affinity [^115MyozC]. Nature Communications (2023). High credibility.
 
 Similar calculations for competitive and uncompetitive inhibition, where the inhibitor binds to either the free enzyme or the enzyme-substrate complex, are shown in Fig. 6b, c. The degree of inhibition, is determined by the inhibitor concentration and the equilibrium constant of inhibition. Based on the experimental data of Park et al.can range from 10–4 to 10 4. Aswas less than 10 in approximately 80% of their data, was used here for the numerical simulations. Again, the optimal(solid line) deviates only slightly from the dashed line, and both lines pass through the region of high activity (orange). Thevalues are approximately 1 order of magnitude apart between dashed and solid lines, yet there is only a 57% difference in activity at a specific. This is much smaller than the scale of the entire diagram (10 orders of magnitude), suggesting that adjustingto the substrate concentrationis a robust strategy to enhance the activity, even in the presence of inhibition. A detailed discussion on the parameter dependence, as well as for other mechanisms such as substrate inhibition or allostericity can be found in Section 5 of the supporting information. The derivations for the equations of the true optimal K m can also be found in the same section.
 
@@ -908,7 +908,7 @@ The influence of the assumptionis shown in Fig. 6d. As physical constraints requ
 
 ---
 
-### Oxygen mediated oxidative couplings of flavones in alkaline water [^eb1dbfe9]. Nature Communications (2022). High credibility.
+### Oxygen mediated oxidative couplings of flavones in alkaline water [^1171a5o6]. Nature Communications (2022). High credibility.
 
 Synthesis of luteolin-flavone biflavones
 
@@ -924,13 +924,13 @@ Dicranolomin (143 mg, 0.25 mmol) and flavones (0.375 mmol) were added to an alka
 
 ---
 
-### KDIGO clinical practice guidelines for acute kidney injury [^04714d0c]. Nephron: Clinical Practice (2012). Medium credibility.
+### KDIGO clinical practice guidelines for acute kidney injury [^1117b1Qf]. Nephron: Clinical Practice (2012). Medium credibility.
 
 KDIGO AKI — potassium and metabolic acidosis considerations explain that when therapeutic measures that promote the intracellular shift of potassium are exhausted, an excess of potassium can only be eliminated with RRT, and using intermittent dialysis after such measures reduces extracorporeal potassium removal with a more pronounced post‑treatment rebound. For acidosis, metabolic acidosis associated with AKI can usually be corrected with bicarbonate and should rarely require urgent dialysis if not accompanied by volume overload or uremia; because pH and bicarbonate values to initiate dialysis are not supported by evidence, no standard criteria for initiating dialysis for acidosis exist, while some poisonings can contribute to acid‑base problems and RRT may facilitate removal of the offending drug.
 
 ---
 
-### Molecular rheotaxis directs DNA migration and concentration against a pressure-driven flow [^818e1b87]. Nature Communications (2017). Medium credibility.
+### Molecular rheotaxis directs DNA migration and concentration against a pressure-driven flow [^114K58qC]. Nature Communications (2017). Medium credibility.
 
 Effects of buffer ions on concentration enhancement
 
@@ -940,7 +940,7 @@ To determine the relative contributions of electrophoresis and chemiphoresis, we
 
 ---
 
-### Dilutional acidosis: where do the protons come from? [^040bf532]. Intensive Care Medicine (2009). Low credibility.
+### Dilutional acidosis: where do the protons come from? [^1116zy5s]. Intensive Care Medicine (2009). Low credibility.
 
 Purpose
 
@@ -960,7 +960,7 @@ The increase in proton concentration observed after dilution of the extracellula
 
 ---
 
-### Ganirelix acetate (fyremadel) [^1031604d]. FDA (2025). Medium credibility.
+### Ganirelix acetate (fyremadel) [^111R1PSC]. FDA (2025). Medium credibility.
 
 DESCRIPTION
 
@@ -972,19 +972,19 @@ FYREMADEL (ganirelix acetate) injection is supplied as a colorless, sterile, rea
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^c3155b04]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^115zDkzX]. AND (2020). High credibility.
 
 CKD: Bicarbonate supplementation — In adults with CKD 3-5D, we recommend reducing net acid production (NEAP) through increased bicarbonate or a citric acid/sodium citrate solution supplementation (1C) in order to reduce the rate of decline of residual kidney function; rating: Fair Conditional.
 
 ---
 
-### Clinical practice guideline (update): earwax (cerumen impaction) [^8e6abf5f]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline (update): earwax (cerumen impaction) [^114e96dL]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Table 9 topical preparations for cerumen impaction — water based options list acetic acid (aqueous acetic acid), Cerumenex (triethanolamine polypeptide oleate-condensate), Colace (docusate sodium), hydrogen peroxide (hydrogen peroxide solution), sodium bicarbonate (sodium bicarbonate), and sterile saline solution (water); oil based options list almond oil (almond oil), arachis oil (arachis oil), Earex (arachis oil, almond oil, rectified camphor oil), olive oil (olive oil), and mineral oil/liquid petrolatum (liquid petrolatum); nonwater, nonoil options list Audax (choline salicylate, glycerine) and Debrox (carbamide peroxide [urea-hydrogen peroxide]).
 
 ---
 
-### A supramolecular system that strictly follows the binding mechanism of conformational selection [^24462932]. Nature Communications (2020). High credibility.
+### A supramolecular system that strictly follows the binding mechanism of conformational selection [^111vn7zR]. Nature Communications (2020). High credibility.
 
 All these results further corroborate that the binding pair between 1 and 2 strictly follows the conformational selection mechanism. Not only can the kinetic data be well fitted with Eq. (1), but the thermodynamic data can also be calculated, and these data are fully consistent with those obtained with the thermodynamic experiments. This indicates that Eq. (1) accurately describes the kinetic and thermodynamic aspects of conformational selection.
 
@@ -996,7 +996,7 @@ As shown in Fig. 5, three equilibria are involved if a guest can bind both confo
 
 ---
 
-### Complexation-induced resolution enhancement of 3D-printed hydrogel constructs [^15188dc7]. Nature Communications (2020). High credibility.
+### Complexation-induced resolution enhancement of 3D-printed hydrogel constructs [^111YGzGN]. Nature Communications (2020). High credibility.
 
 Shrinking behaviors of polyionic hydrogels
 
@@ -1009,7 +1009,7 @@ a Schematics showing the shrinking effect based on charge compensation. b Photog
 
 ---
 
-### Photoinduced monooxygenation involving NAD (P) H-FAD sequential single-electron transfer [^854f343a]. Nature Communications (2020). High credibility.
+### Photoinduced monooxygenation involving NAD (P) H-FAD sequential single-electron transfer [^114QdxVw]. Nature Communications (2020). High credibility.
 
 Photodegradation of FAD
 

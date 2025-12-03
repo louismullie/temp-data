@@ -15,63 +15,63 @@ Canagliflozon (ivokana) 100mg disp: 30 sig: take one tablet by mouth once daily 
 
 > Let's see… What do we have here? The user is asking whether a prescription for canagliflozin (Invokana) 100 mg, once daily before breakfast, with 30 tablets dispensed and 2 refills, is appropriate and correctly written. Let's break this down step-by-step. First, I need to think about the drug name and dose accuracy. Then, I should verify the indication and whether 100 mg is an appropriate starting dose. Next, I will check administration timing and whether "before breakfast" aligns with labeling. After that, I need to review quantity, refills, and whether any renal function caveats apply. Finally, I will consider safety counseling and documentation elements that should accompany the prescription to ensure it is complete and safe.
 
-> Let me first confirm the medication identity and dose. The brand name is Invokana, and the active ingredient is canagliflozin; 100 mg is an available tablet strength and is the standard starting dose for glycemic control, with a maintenance range of 100–300 mg once daily, so 100 mg is appropriate to initiate therapy [^da6980fa] [^47fbd551].
+> Let me first confirm the medication identity and dose. The brand name is Invokana, and the active ingredient is canagliflozin; 100 mg is an available tablet strength and is the standard starting dose for glycemic control, with a maintenance range of 100–300 mg once daily, so 100 mg is appropriate to initiate therapy [^116aojpD] [^112qii7i].
 
-> Wait, let me verify the indication context. For adults with type 2 diabetes, the labeled starting dose is 100 mg once daily, with potential titration to 300 mg if additional glycemic lowering is needed and tolerated; this applies whether the goal is glycemic control, cardiovascular risk reduction, or heart failure risk reduction, so 100 mg daily is a correct starting point in the absence of contraindications or interacting drugs [^47fbd551] [^28863ba7] [^6f6b8384].
+> Wait, let me verify the indication context. For adults with type 2 diabetes, the labeled starting dose is 100 mg once daily, with potential titration to 300 mg if additional glycemic lowering is needed and tolerated; this applies whether the goal is glycemic control, cardiovascular risk reduction, or heart failure risk reduction, so 100 mg daily is a correct starting point in the absence of contraindications or interacting drugs [^112qii7i] [^11235bLr] [^113rBjpP].
 
-> I should confirm administration timing. The FDA labeling recommends taking Invokana before the first meal of the day to leverage potential attenuation of postprandial glucose excursions, so "take one tablet by mouth once daily before breakfast" is consistent with labeled administration guidance [^1034a3e8].
+> I should confirm administration timing. The FDA labeling recommends taking Invokana before the first meal of the day to leverage potential attenuation of postprandial glucose excursions, so "take one tablet by mouth once daily before breakfast" is consistent with labeled administration guidance [^111R2V2P].
 
-> Hold on, I should verify renal function considerations because they can constrain dosing. In patients with eGFR 30–59 mL/min/1.73 m², the maximum recommended dose is 100 mg daily, and use is not recommended when eGFR is less than 30 mL/min/1.73 m²; therefore, 100 mg daily is appropriate if renal function is preserved or mildly impaired, but I need to ensure renal function was assessed before prescribing and that the label's cautions are observed [^afff4a7c] [^db95054a] [^eab4f5f9].
+> Hold on, I should verify renal function considerations because they can constrain dosing. In patients with eGFR 30–59 mL/min/1.73 m², the maximum recommended dose is 100 mg daily, and use is not recommended when eGFR is less than 30 mL/min/1.73 m²; therefore, 100 mg daily is appropriate if renal function is preserved or mildly impaired, but I need to ensure renal function was assessed before prescribing and that the label's cautions are observed [^115VvanX] [^116cYLsb] [^116zxtLx].
 
-> Let me consider quantity and refills. Dispensing 30 tablets with 2 refills is reasonable for a 30-day supply and aligns with common outpatient practice; however, I should confirm that the patient has been counseled on adherence, missed-dose handling, and safety monitoring, and that follow-up for renal function and volume status is planned, especially in older adults or those on diuretics [^f46276c2] [^f46276c2] [^712fd4f7].
+> Let me consider quantity and refills. Dispensing 30 tablets with 2 refills is reasonable for a 30-day supply and aligns with common outpatient practice; however, I should confirm that the patient has been counseled on adherence, missed-dose handling, and safety monitoring, and that follow-up for renal function and volume status is planned, especially in older adults or those on diuretics [^117FK3zZ] [^117FK3zZ] [^113tofgi].
 
-> Hmm, wait a minute, I initially thought "before breakfast" might be mandatory, but I should double-check. The label says Invokana may be taken with or without food, yet recommends administration before the first meal to optimize postprandial effects; thus, "before breakfast" is preferred but not strictly required, and the prescription as written is acceptable [^1034a3e8].
+> Hmm, wait a minute, I initially thought "before breakfast" might be mandatory, but I should double-check. The label says Invokana may be taken with or without food, yet recommends administration before the first meal to optimize postprandial effects; thus, "before breakfast" is preferred but not strictly required, and the prescription as written is acceptable [^111R2V2P].
 
-> Next, I should review safety counseling that should accompany the prescription. Patients should be educated about genital mycotic infections, volume depletion, rare but serious events like Fournier's gangrene and lower-extremity amputation risk, and the possibility of euglycemic ketoacidosis; they should also be told to withhold therapy around surgery or prolonged fasting and to monitor for signs of ketoacidosis, with ketone checks considered in high-risk scenarios [^5b75d0fb] [^f46276c2] [^a9466add].
+> Next, I should review safety counseling that should accompany the prescription. Patients should be educated about genital mycotic infections, volume depletion, rare but serious events like Fournier's gangrene and lower-extremity amputation risk, and the possibility of euglycemic ketoacidosis; they should also be told to withhold therapy around surgery or prolonged fasting and to monitor for signs of ketoacidosis, with ketone checks considered in high-risk scenarios [^113LbSti] [^117FK3zZ] [^115KxZU8].
 
-> I will now examine drug–drug interactions that could alter dosing. Strong UGT inducers such as rifampin, phenytoin, phenobarbital, or ritonavir can reduce canagliflozin exposure; if a patient is on these agents, the dose may need to be increased to 200 mg daily if already on 100 mg, with further titration based on response and tolerability, so I should confirm concomitant medications before finalizing the script [^f46276c2] [^afff4a7c].
+> I will now examine drug–drug interactions that could alter dosing. Strong UGT inducers such as rifampin, phenytoin, phenobarbital, or ritonavir can reduce canagliflozin exposure; if a patient is on these agents, the dose may need to be increased to 200 mg daily if already on 100 mg, with further titration based on response and tolerability, so I should confirm concomitant medications before finalizing the script [^117FK3zZ] [^115VvanX].
 
-> But wait, what if the patient is older than 65 or has fall risk factors. I should confirm that in older adults, especially those 75 and over, the incidence of volume depletion and related adverse effects is higher, so starting at 100 mg and monitoring closely is prudent; guidelines also advise limiting to 100 mg in older adults due to volume-related adverse effects, reinforcing the appropriateness of the 100 mg starting dose in this context [^712fd4f7] [^b9997b8c].
+> But wait, what if the patient is older than 65 or has fall risk factors. I should confirm that in older adults, especially those 75 and over, the incidence of volume depletion and related adverse effects is higher, so starting at 100 mg and monitoring closely is prudent; guidelines also advise limiting to 100 mg in older adults due to volume-related adverse effects, reinforcing the appropriateness of the 100 mg starting dose in this context [^113tofgi] [^115kAGDZ].
 
-> Putting this together, the prescription for canagliflozin 100 mg once daily before breakfast, with 30 tablets and 2 refills, is correct and consistent with FDA labeling, provided renal function is adequate and no interacting drugs are present; I should document baseline eGFR, counsel on safety, and arrange follow-up to reassess efficacy, renal function, and tolerability before any dose escalation [^47fbd551] [^1034a3e8] [^5b75d0fb].
+> Putting this together, the prescription for canagliflozin 100 mg once daily before breakfast, with 30 tablets and 2 refills, is correct and consistent with FDA labeling, provided renal function is adequate and no interacting drugs are present; I should document baseline eGFR, counsel on safety, and arrange follow-up to reassess efficacy, renal function, and tolerability before any dose escalation [^112qii7i] [^111R2V2P] [^113LbSti].
 
 ---
 
-The prescription is **correct** for canagliflozin 100 mg once daily before breakfast, with 30 tablets and 2 refills, provided the patient has **eGFR ≥ 30 mL/min/1.73 m²** [^afff4a7c] and no contraindications. If **eGFR is 30–59**, limit to 100 mg daily; if **eGFR < 30**, do not initiate [^db95054a]. Counsel on genital infections, volume depletion, and ketoacidosis risk [^5b75d0fb], and monitor renal function and volume status after initiation [^0fb33e67].
+The prescription is **correct** for canagliflozin 100 mg once daily before breakfast, with 30 tablets and 2 refills, provided the patient has **eGFR ≥ 30 mL/min/1.73 m²** [^115VvanX] and no contraindications. If **eGFR is 30–59**, limit to 100 mg daily; if **eGFR < 30**, do not initiate [^116cYLsb]. Counsel on genital infections, volume depletion, and ketoacidosis risk [^113LbSti], and monitor renal function and volume status after initiation [^111QH2BG].
 
 ---
 
 ## Dosage and administration
 
-- **Standard dose**: 100 mg once daily [^47fbd551].
-- **Timing**: before the first meal of the day (before breakfast) [^1034a3e8].
-- **Titration**: may increase to 300 mg daily if additional glycemic control is needed and tolerated [^28863ba7].
+- **Standard dose**: 100 mg once daily [^112qii7i].
+- **Timing**: before the first meal of the day (before breakfast) [^111R2V2P].
+- **Titration**: may increase to 300 mg daily if additional glycemic control is needed and tolerated [^11235bLr].
 
 ---
 
 ## Clinical evidence supporting the prescribed dose
 
-Clinical trials show that 100 mg daily improves **HbA1c**, fasting glucose, and body weight, with additional benefit at 300 mg in some patients [^53b0dd74] [^a5cdf32f]. The **CANVAS program** demonstrated cardiovascular and renal benefits at 100–300 mg daily [^8f41e2f2] [^55b17265].
+Clinical trials show that 100 mg daily improves **HbA1c**, fasting glucose, and body weight, with additional benefit at 300 mg in some patients [^11395Nzw] [^115Ep8j8]. The **CANVAS program** demonstrated cardiovascular and renal benefits at 100–300 mg daily [^114fPMsX] [^113C3Yu2].
 
 ---
 
 ## Renal function considerations
 
-- **eGFR ≥ 60**: no dose adjustment needed [^eab4f5f9].
-- **eGFR 30–59**: maximum 100 mg daily [^afff4a7c].
-- **eGFR < 30**: do not initiate [^db95054a].
+- **eGFR ≥ 60**: no dose adjustment needed [^116zxtLx].
+- **eGFR 30–59**: maximum 100 mg daily [^115VvanX].
+- **eGFR < 30**: do not initiate [^116cYLsb].
 
 ---
 
 ## Safety profile and patient counseling
 
-Common adverse effects include **genital mycotic infections**, urinary tract infections, and volume depletion [^ae49f922] [^f46276c2]. Rare but serious risks include **euglycemic ketoacidosis** and lower-limb amputation; counsel patients accordingly [^5b75d0fb] [^f46276c2].
+Common adverse effects include **genital mycotic infections**, urinary tract infections, and volume depletion [^115TPh9b] [^117FK3zZ]. Rare but serious risks include **euglycemic ketoacidosis** and lower-limb amputation; counsel patients accordingly [^113LbSti] [^117FK3zZ].
 
 ---
 
 ## Monitoring and follow-up
 
-Monitor **renal function and electrolytes** periodically, especially in patients with eGFR 30–59 or those on diuretics [^0fb33e67]. Assess for **volume depletion**, hypotension, and genital infections at follow-up visits [^5b75d0fb].
+Monitor **renal function and electrolytes** periodically, especially in patients with eGFR 30–59 or those on diuretics [^111QH2BG]. Assess for **volume depletion**, hypotension, and genital infections at follow-up visits [^113LbSti].
 
 ---
 
@@ -95,7 +95,7 @@ The prescription is **appropriate** if renal function is adequate and no contrai
 
 ## References
 
-### Canagliflozin (Invokana) [^45616506]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^112mrrr1]. FDA (2025). Medium credibility.
 
 Laboratory Tests
 
@@ -107,7 +107,7 @@ If a dose is missed, advise patients to take it as soon as it is remembered unle
 
 ---
 
-### Canagliflozin (Invokana) [^8f40b896]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^114fNyAd]. FDA (2025). Medium credibility.
 
 Urinary glucose excretion persists for 3 days after discontinuing INVOKANA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
@@ -119,7 +119,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ---
 
-### Canagliflozin (Invokana) [^afff4a7c]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^115VvanX]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with eGFR 30–60 mL/min/1.73 m²:
 - Use with caution.
@@ -128,7 +128,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^e5ff4bfd]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^116syv7n]. FDA (2025). Medium credibility.
 
 Administration
 
@@ -142,7 +142,7 @@ Instruct patients that INVOKAMET XR must be swallowed whole and never crushed, c
 
 ---
 
-### Canagliflozin (Invokana) [^8006b449]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^114GofgU]. FDA (2025). Medium credibility.
 
 Falls
 
@@ -150,7 +150,7 @@ In a pool of nine clinical trials in adults with mean duration of exposure to IN
 
 ---
 
-### Canagliflozin (Invokana) [^1034a3e8]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111R2V2P]. FDA (2025). Medium credibility.
 
 12.3 Pharmacokinetics
 
@@ -172,7 +172,7 @@ CYP3A4-mediated (oxidative) metabolism of canagliflozin is minimal (approximatel
 
 ---
 
-### Canagliflozin (Invokana) [^da6980fa]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^116aojpD]. FDA (2025). Medium credibility.
 
 3 DOSAGE FORMS AND STRENGTHS
 
@@ -183,7 +183,7 @@ Tablets: 100 mg, 300 mg (3)
 
 ---
 
-### Canagliflozin (Invokana) [^28863ba7]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^11235bLr]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of diabetes mellitus type 2 in adults with cardiovascular disease (reduction of major adverse cardiovascular events) is:
 
@@ -192,7 +192,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of diabetes mellitus ty
 
 ---
 
-### Canagliflozin (Invokana) [^db95054a]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^116cYLsb]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with eGFR < 30 mL/min/1.73 m²:
 - Do not use.
@@ -200,7 +200,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin (Invokana) [^8f41e2f2]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^114fPMsX]. FDA (2025). Medium credibility.
 
 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
@@ -212,7 +212,7 @@ In CANVAS, patients were randomly assigned 1:1:1 to canagliflozin 100 mg, canagl
 
 ---
 
-### Canagliflozin (Invokana) [^47fbd551]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^112qii7i]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of diabetes mellitus type 2 in adults (glycemic control) is:
 
@@ -221,7 +221,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of diabetes mellitus ty
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^eb264bfe]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^1171cxJq]. FDA (2025). Medium credibility.
 
 INVOKAMET XR
 
@@ -245,7 +245,7 @@ Following a single oral dose of 1,000 mg metformin HCl extended-release tablets 
 
 ---
 
-### Canagliflozin (Invokana) [^a9466add]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^115KxZU8]. FDA (2025). Medium credibility.
 
 2.5 Temporary Interruption for Surgery
 
@@ -253,7 +253,7 @@ Withhold INVOKANA at least 3 days, if possible, prior to surgery or procedures a
 
 ---
 
-### Canagliflozin (Invokana) [^6f6b8384]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^113rBjpP]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of heart failure in adults (reduction of cardiovascular mortality and heart failure hospitalization) is:
 
@@ -262,7 +262,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of heart failure in adu
 
 ---
 
-### Canagliflozin (Invokana) [^0cad6aa0]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111Ko6oq]. FDA (2025). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -270,7 +270,7 @@ See full prescribing information for information on drug interactions and interf
 
 ---
 
-### Canagliflozin (Invokana) [^42e0598d]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^112i9YHa]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of chronic kidney disease in adults (reduction of decline in renal function, progression to end-stage kidney disease, cardiovascular mortality, and heart failure hospitalization) is:
 
@@ -279,7 +279,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of chronic kidney disea
 
 ---
 
-### Canagliflozin (Invokana) [^f9095f8f]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^117ND4n2]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of metabolic dysfunction-associated steatotic liver disease in adults with diabetes mellitus type 2 is:
 
@@ -288,7 +288,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of metabolic dysfunctio
 
 ---
 
-### Canagliflozin (Invokana) [^eab4f5f9]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^116zxtLx]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with eGFR > 60 mL/min/1.73 m²:
 - Use acceptable.
@@ -296,7 +296,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin (Invokana) [^f8839b41]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^117MS8nk]. FDA (2025). Medium credibility.
 
 The dosage of canagliflozin hemihydrate PO for treatment of chronic kidney disease in adults with diabetes mellitus type 2 (with albuminuria > 300 mg/day, reduction of decline in renal function, progression to end-stage kidney disease, cardiovascular mortality, and heart failure hospitalization) is:
 
@@ -305,7 +305,7 @@ The dosage of canagliflozin hemihydrate PO for treatment of chronic kidney disea
 
 ---
 
-### Canagliflozin (Invokana) [^96187d6a]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^114qXNNd]. FDA (2025). Medium credibility.
 
 16 HOW SUPPLIED/STORAGE AND HANDLING
 
@@ -323,7 +323,7 @@ Store at 20 °C to 25 °C (68 °F to 77 °F); excursions permitted between 15 °
 
 ---
 
-### Canagliflozin (Invokana) [^1b37b5fe]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111hMNwo]. FDA (2025). Medium credibility.
 
 Labeled indications for Canagliflozin hemihydrate (also known as Invokana) include:
 
@@ -339,7 +339,7 @@ Off-label indications for Canagliflozin hemihydrate (also known as Invokana) inc
 
 ---
 
-### Canagliflozin (Invokana) [^11e2204b]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111TWk5p]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with any modality:
 
@@ -347,7 +347,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin (Invokana) [^bb77b7c9]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^115nvtzU]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with chronic liver disease, Child-Pugh B (moderate):
 - Use acceptable.
@@ -355,7 +355,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin (Invokana) [^5ed09241]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^113RZtnc]. FDA (2025). Medium credibility.
 
 Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in patients with chronic liver disease, Child-Pugh A (mild):
 - Use acceptable.
@@ -363,7 +363,7 @@ Regarding the use of canagliflozin hemihydrate PO (also known as Invokana) in pa
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^bb2905a3]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^115nUTsY]. FDA (2025). Medium credibility.
 
 2.1 Prior to Initiation of INVOKAMET or INVOKAMET XR
 
@@ -373,7 +373,7 @@ In patients with volume depletion, correct this condition before initiating INVO
 
 ---
 
-### Canagliflozin (Invokana) [^f46276c2]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^117FK3zZ]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of canagliflozin hemihydrate PO (also known as Invokana):
 - **Acute pyelonephritis, urosepsis**: maintain a high level of suspicion, as SGLT-2 inhibitors have been associated with an increased risk of serious UTIs, including pyelonephritis and urosepsis.
@@ -388,7 +388,7 @@ Warnings and precautions regarding the use of canagliflozin hemihydrate PO (also
 
 ---
 
-### Canagliflozin (Invokana) [^5b75d0fb]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^113LbSti]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -420,7 +420,7 @@ Inform patients of the potential for urinary tract infections, which may be seri
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^71a3556b]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^113uUTqk]. FDA (2025). Medium credibility.
 
 Canagliflozin
 
@@ -438,7 +438,7 @@ In a trial in adults with canagliflozin as initial combination therapy with metf
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^189f7d79]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^111dWGt8]. FDA (2025). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -448,7 +448,7 @@ See full prescribing information for additional drug interactions and informatio
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^1c7e88b5]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^111jF9yN]. FDA (2025). Medium credibility.
 
 Specific Populations
 
@@ -466,7 +466,7 @@ After administration of a single oral metformin 500 mg immediate-release tablet 
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^de523f0c]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^116gbsrB]. FDA (2025). Medium credibility.
 
 3 DOSAGE FORMS AND STRENGTHS
 
@@ -490,7 +490,7 @@ Canagliflozin 150 mg and metformin HCl 1,000 mg (3)
 
 ---
 
-### Canagliflozin (Invokana) [^0cd25d8b]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111L1WdY]. FDA (2025). Medium credibility.
 
 Excretion
 
@@ -502,13 +502,13 @@ Mean systemic clearance of canagliflozin was approximately 192 mL/min in healthy
 
 ---
 
-### Canagliflozin and cardiovascular and renal events in type 2 diabetes [^c5c4eacf]. The New England Journal of Medicine (2017). Excellent credibility.
+### Canagliflozin and cardiovascular and renal events in type 2 diabetes [^1164Chmp]. The New England Journal of Medicine (2017). Excellent credibility.
 
 The drug Canagliflozin hemihydrate (also known as Invokana).
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^05e77d2c]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^1119khBH]. FDA (2025). Medium credibility.
 
 12.2 Pharmacodynamics
 
@@ -526,7 +526,7 @@ Administration of INVOKAMET 150 mg/1,000 mg fixed-dose combination with food res
 
 ---
 
-### Canagliflozin (Invokana) [^a69ef8c4]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^115G2LoM]. FDA (2025). Medium credibility.
 
 Specific Populations
 
@@ -556,7 +556,7 @@ Based on the population PK analysis with data collected from 1,526 adult subject
 
 ---
 
-### Long-term efficacy and safety of canagliflozin in combination with insulin in Japanese patients with type 2 diabetes mellitus [^6d2dc194]. Diabetes, Obesity & Metabolism (2018). Low credibility.
+### Long-term efficacy and safety of canagliflozin in combination with insulin in Japanese patients with type 2 diabetes mellitus [^113ns27u]. Diabetes, Obesity & Metabolism (2018). Low credibility.
 
 2 MATERIALS AND METHODS
 
@@ -572,7 +572,7 @@ This study was conducted in the spirit of the ethical principles grounded in the
 
 ---
 
-### Efficacy and safety of canagliflozin in combination with insulin: a double-blind, randomized, placebo-controlled study in Japanese patients with type 2 diabetes mellitus [^e20b8aa8]. Cardiovascular Diabetology (2016). Low credibility.
+### Efficacy and safety of canagliflozin in combination with insulin: a double-blind, randomized, placebo-controlled study in Japanese patients with type 2 diabetes mellitus [^116n85YB]. Cardiovascular Diabetology (2016). Low credibility.
 
 Methods
 
@@ -591,7 +591,7 @@ This study was conducted in the spirit of the ethical principles grounded in the
 
 ---
 
-### Drug therapy in obesity: a review of current and emerging treatments [^245af69b]. Diabetes Therapy (2020). Medium credibility.
+### Drug therapy in obesity: a review of current and emerging treatments [^111vu7Fg]. Diabetes Therapy (2020). Medium credibility.
 
 Canagliflozin
 
@@ -618,7 +618,7 @@ Presents the observed weight loss with each of the approved SGLT-2 inhibitors in
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^d58daa45]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^116TbwtG]. FDA (2025). Medium credibility.
 
 Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath. Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL). Ketoacidosis and glucosuria may persist longer than typically expected. Urinary glucose excretion persists for 3 days after discontinuing INVOKAMET or INVOKAMET XR [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
@@ -630,7 +630,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^7195d2a7]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^113uPvdU]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -656,7 +656,7 @@ Advise patients that they may be asked to monitor ketones. If symptoms of ketoac
 
 ---
 
-### Canagliflozin (Invokana) [^0e65527d]. FDA (2025). Medium credibility.
+### Canagliflozin (Invokana) [^111NLrrx]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -670,7 +670,7 @@ Inactive ingredients of the core tablet are croscarmellose sodium (E468), hydrox
 
 ---
 
-### Rationale, design and baseline characteristics of the CANagliflozin cardioVascular assessment study-renal (CANVAS-R): a randomized, placebo-controlled trial [^6927cc44]. Diabetes, Obesity & Metabolism (2017). Low credibility.
+### Rationale, design and baseline characteristics of the CANagliflozin cardioVascular assessment study-renal (CANVAS-R): a randomized, placebo-controlled trial [^113gu4v7]. Diabetes, Obesity & Metabolism (2017). Low credibility.
 
 2.2 Screening and run‐in
 
@@ -690,7 +690,7 @@ Use of SGLT2 inhibitors is precluded, but participants are otherwise free to use
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^712fd4f7]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^113tofgi]. FDA (2025). Medium credibility.
 
 8.5 Geriatric Use
 
@@ -708,13 +708,13 @@ Controlled clinical trials of metformin HCl did not include sufficient numbers o
 
 ---
 
-### Addition of canagliflozin to insulin improves glycaemic control and reduces insulin dose in patients with type 2 diabetes mellitus: a randomized controlled trial [^f6c57a93]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
+### Addition of canagliflozin to insulin improves glycaemic control and reduces insulin dose in patients with type 2 diabetes mellitus: a randomized controlled trial [^117JrHXG]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
 
 The aim of this study was to evaluate the efficacy of canagliflozin in reducing the required insulin dose and the risk of hypoglycaemia in type 2 diabetes (T2D). This study was conducted in patients with T2D treated with insulin. They were randomly assigned to the control (n = 17) and canagliflozin (n = 17, plus 100mg/day canagliflozin) groups. In both groups, a defined insulin dose adjustment protocol was applied to achieve the same level of glycaemic control. The change from baseline in daily insulin dose was significantly smaller in the canagliflozin group (3.9 units/day) than in the control group (13.4 units/day; P = 0.040). Low blood glucose index and predicted % of blood glucose (BG) < 70mg/dL, which are hypoglycaemia-related variables, worsened significantly in the control group but both remained unchanged in the canagliflozin group. The standard deviation for night-time BG levels improved significantly only in the canagliflozin group. Supplementation of insulin therapy with 100mg canagliflozin in patients with T2D reduced the required insulin dose and hypoglycaemic risk and flattened night-time glycaemic fluctuations while maintaining the same level of glycaemic control.
 
 ---
 
-### Effects of canagliflozin on cardiovascular disease risk factors in patients with type 2 diabetes: a systematic review and meta-analysis [^273ad490]. BMC Endocrine Disorders (2025). Medium credibility.
+### Effects of canagliflozin on cardiovascular disease risk factors in patients with type 2 diabetes: a systematic review and meta-analysis [^1121AH6f]. BMC Endocrine Disorders (2025). Medium credibility.
 
 Is the trial valid?
 What are the results?
@@ -724,7 +724,7 @@ All articles were rated according to this checklist to determine those of desira
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^9f337103]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^11552Jy8]. FDA (2025). Medium credibility.
 
 Pool of Placebo- and Active-Controlled Trials for Glycemic Control and Cardiovascular Outcomes
 
@@ -742,7 +742,7 @@ Other adverse reactions occurring more frequently on canagliflozin than on compa
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^d9c2fd21]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^116Zqoqi]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -760,7 +760,7 @@ Metformin HCl is a biguanide chemically known as 1,1-Dimethylbiguanide HCl and i
 
 ---
 
-### Efficacy and safety of canagliflozin compared with placebo in older patients with type 2 diabetes mellitus: a pooled analysis of clinical studies [^c2fd4d68]. BMC Endocrine Disorders (2014). Low credibility.
+### Efficacy and safety of canagliflozin compared with placebo in older patients with type 2 diabetes mellitus: a pooled analysis of clinical studies [^115z5gQ7]. BMC Endocrine Disorders (2014). Low credibility.
 
 In each study, eligible patients who were on protocol-specified background diabetes treatment directly entered a 2-week, placebo run-in period; those not on protocol-specified background diabetes therapy entered an 8- to 12-week AHA adjustment/dose stabilisation period prior to the run-in period. Patients were to remain on their stable diabetes treatment regimen through the end of the double-blind treatment period. Randomisation to treatment group (canagliflozin 100 or 300 mg or placebo) was stratified to ensure adequate distribution of specific patient characteristics (eg, whether a patient entered the AHA adjustment/dose stabilisation period) across treatment groups. After randomisation, HbA 1c and FPG were masked to study centres unless pre-defined criteria for initiation of glycaemic rescue therapy based on HbA 1c or FPG values were met. Study databases were locked at the primary assessment time point (Week 26) and studies were unblinded by the sponsor for regulatory filing. Blinding was maintained for patients and study centre and local sponsor personnel throughout the double-blind treatment period.
 
@@ -770,7 +770,7 @@ The studies were conducted in accordance with the ethical principles that comply
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^61972eef]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^113VgadC]. FDA (2025). Medium credibility.
 
 Canagliflozin
 
@@ -806,7 +806,7 @@ Renal clearance is approximately 3.5 times greater than creatinine clearance, wh
 
 ---
 
-### Efficacy and safety of canagliflozin versus glimepiride in patients with type 2 diabetes inadequately controlled with metformin (CANTATA-SU): 52 week results from a randomised, double-blind, phase 3 non-inferiority trial [^53b0dd74]. Lancet (2013). Excellent credibility.
+### Efficacy and safety of canagliflozin versus glimepiride in patients with type 2 diabetes inadequately controlled with metformin (CANTATA-SU): 52 week results from a randomised, double-blind, phase 3 non-inferiority trial [^11395Nzw]. Lancet (2013). Excellent credibility.
 
 Background
 
@@ -830,7 +830,7 @@ Janssen Research & Development, LLC.
 
 ---
 
-### Canadian CAnagliflozin REgistry: effectiveness and safety of canagliflozin in the treatment of type 2 diabetes mellitus in Canadian clinical practice [^7e169b4f]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
+### Canadian CAnagliflozin REgistry: effectiveness and safety of canagliflozin in the treatment of type 2 diabetes mellitus in Canadian clinical practice [^114Dw2vS]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
 
 The primary data source was the patient's medical records. Patients who were willing to participate in the study signed a written informed consent form, confirming that they understood the procedures for data collection. Baseline data were collected at the study enrollment visit. As per study protocol, investigators reported diabetes‐related complications (retinopathy, neuropathy, nephropathy, CAD, stroke or PVD) but were not required to provide further description or detailed history for this observational, real‐world study.
 
@@ -844,7 +844,7 @@ The primary outcome of the study was an estimation of mean change in HbA1c from 
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^ae49f922]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^115TPh9b]. FDA (2025). Medium credibility.
 
 Falls
 
@@ -860,7 +860,7 @@ In the pooled analysis of 8 randomized trials in adults evaluating glycemic cont
 
 ---
 
-### Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial [^c9d4c385]. Diabetes Care (2013). Low credibility.
+### Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial [^116ADycg]. Diabetes Care (2013). Low credibility.
 
 At week −2, all subjects received single-blind placebo capsules matching the double-blind study drug for once-daily administration. After the placebo run-in period, subjects were randomly assigned to receive oral doses of canagliflozin 300 mg or sitagliptin 100 mg once daily (1:1) using an Interactive Voice Response System/Interactive Web Response System. The computer-generated randomization schedule was prepared by the sponsor before the study, and randomization was balanced using permuted blocks with the following two stratification criteria: whether the prerandomization A1C was ≥ 9.0% (75 mmol/mol) and whether a subject underwent the frequently sampled mixed-meal tolerance test (FS-MMTT).
 
@@ -872,7 +872,7 @@ The study was conducted in accordance with ethical principles that comply with t
 
 ---
 
-### Remission effect of canagliflozin in patients with newly diagnosed type 2 diabetes mellitus: a protocol for a multicenter, parallel-group, randomized, controlled, open-label trial [^5d22ee00]. BMC Endocrine Disorders (2023). Medium credibility.
+### Remission effect of canagliflozin in patients with newly diagnosed type 2 diabetes mellitus: a protocol for a multicenter, parallel-group, randomized, controlled, open-label trial [^113P5ahD]. BMC Endocrine Disorders (2023). Medium credibility.
 
 Exit and withdrawal criteria
 
@@ -909,13 +909,13 @@ Metformin treatment group: For oral treatment, the participants will receive met
 
 ---
 
-### Guidelines for the use of antiretroviral agents in adults and adolescents with HIV [^707846c1]. HIV.gov (2025). High credibility.
+### Guidelines for the use of antiretroviral agents in adults and adolescents with HIV [^113sk1je]. HIV.gov (2025). High credibility.
 
 Protease inhibitor (PI) interactions — canagliflozin: With ATV/c or DRV/c, no dose adjustment needed. With ATV/r or DRV/r, ↓ canagliflozin expected; if a patient is already tolerating canagliflozin 100 mg daily, increase canagliflozin dose to 200 mg daily. If a patient is already tolerating canagliflozin 200 mg daily and requires additional glycemic control, management strategy is based on renal function. In patients with eGFR ≥ 60 mL/min/1.73 m2, canagliflozin dose may be increased to 300 mg daily, whereas in patients with eGFR < 60 mL/min/1.73 m2, consider adding another antihyperglycemic agent.
 
 ---
 
-### Canagliflozin in conjunction with sulfonylurea maintains glycemic control and weight loss over 52 weeks: a randomized, controlled trial in patients with type 2 diabetes mellitus [^6208c84e]. Clinical Therapeutics (2017). Low credibility.
+### Canagliflozin in conjunction with sulfonylurea maintains glycemic control and weight loss over 52 weeks: a randomized, controlled trial in patients with type 2 diabetes mellitus [^113WLjiM]. Clinical Therapeutics (2017). Low credibility.
 
 Purpose
 
@@ -935,7 +935,7 @@ After 52 weeks, patients receiving canagliflozin added to background SU had sust
 
 ---
 
-### Efficacy and safety of canagliflozin in combination with insulin: a double-blind, randomized, placebo-controlled study in Japanese patients with type 2 diabetes mellitus [^772d7176]. Cardiovascular Diabetology (2016). Low credibility.
+### Efficacy and safety of canagliflozin in combination with insulin: a double-blind, randomized, placebo-controlled study in Japanese patients with type 2 diabetes mellitus [^1143gnqj]. Cardiovascular Diabetology (2016). Low credibility.
 
 Background
 
@@ -955,7 +955,7 @@ Canagliflozin in combination with insulin was effective in improving glycemic co
 
 ---
 
-### Remission effect of canagliflozin in patients with newly diagnosed type 2 diabetes mellitus: a protocol for a multicenter, parallel-group, randomized, controlled, open-label trial [^54723b95]. BMC Endocrine Disorders (2023). Medium credibility.
+### Remission effect of canagliflozin in patients with newly diagnosed type 2 diabetes mellitus: a protocol for a multicenter, parallel-group, randomized, controlled, open-label trial [^113ACL76]. BMC Endocrine Disorders (2023). Medium credibility.
 
 Study objectives
 
@@ -963,7 +963,7 @@ The primary objectives are to assess the effects of canagliflozin and metformin 
 
 ---
 
-### Effects of canagliflozin on cardiovascular disease risk factors in patients with type 2 diabetes: a systematic review and meta-analysis [^b1be2df2]. BMC Endocrine Disorders (2025). Medium credibility.
+### Effects of canagliflozin on cardiovascular disease risk factors in patients with type 2 diabetes: a systematic review and meta-analysis [^115YWgsj]. BMC Endocrine Disorders (2025). Medium credibility.
 
 Discussion
 
@@ -973,7 +973,7 @@ Despite the effects of canagliflozin in controlling the blood sugar, this review
 
 ---
 
-### Canagliflozin, a novel SGLT2 inhibitor for treatment of type 2 diabetes [^9a2fd046]. The Annals of Pharmacotherapy (2013). Low credibility.
+### Canagliflozin, a novel SGLT2 inhibitor for treatment of type 2 diabetes [^114wb9t9]. The Annals of Pharmacotherapy (2013). Low credibility.
 
 Objective
 
@@ -997,7 +997,7 @@ Canagliflozin is comparable to second-line oral medications in terms of effectiv
 
 ---
 
-### Efficacy and safety of titrated canagliflozin in patients with type 2 diabetes mellitus inadequately controlled on metformin and sitagliptin [^2330c437]. Diabetes, Obesity & Metabolism (2016). Low credibility.
+### Efficacy and safety of titrated canagliflozin in patients with type 2 diabetes mellitus inadequately controlled on metformin and sitagliptin [^111uAwup]. Diabetes, Obesity & Metabolism (2016). Low credibility.
 
 Endpoints and Assessments
 
@@ -1013,7 +1013,7 @@ Approximately 100 patients were planned for inclusion in each treatment group to
 
 ---
 
-### Rationale, design, and methods of the study of comparison of canagliflozin vs. teneligliptin against basic metabolic risks in patients with type 2 diabetes mellitus (CANTABILE study): protocol for a randomized, parallel-group comparison trial [^2c1260a8]. Diabetes Therapy (2020). Medium credibility.
+### Rationale, design, and methods of the study of comparison of canagliflozin vs. teneligliptin against basic metabolic risks in patients with type 2 diabetes mellitus (CANTABILE study): protocol for a randomized, parallel-group comparison trial [^1128LdRZ]. Diabetes Therapy (2020). Medium credibility.
 
 Methods
 
@@ -1028,7 +1028,7 @@ This study will be conducted at 38 institutions in Japan in compliance with both
 
 ---
 
-### Efficacy and safety of canagliflozin, an inhibitor of sodium-glucose cotransporter 2, when used in conjunction with insulin therapy in patients with type 2 diabetes [^506082ad]. Diabetes Care (2015). Low credibility.
+### Efficacy and safety of canagliflozin, an inhibitor of sodium-glucose cotransporter 2, when used in conjunction with insulin therapy in patients with type 2 diabetes [^1134ARik]. Diabetes Care (2015). Low credibility.
 
 Objective
 
@@ -1048,7 +1048,7 @@ Canagliflozin added to insulin therapy improved glycemic control and decreased b
 
 ---
 
-### Efficacy and safety of canagliflozin by baseline HbA1c and known duration of type 2 diabetes mellitus [^ce9ae69b]. Journal of Diabetes and Its Complications (2015). Low credibility.
+### Efficacy and safety of canagliflozin by baseline HbA1c and known duration of type 2 diabetes mellitus [^116HJUmG]. Journal of Diabetes and Its Complications (2015). Low credibility.
 
 Aims
 
@@ -1068,13 +1068,13 @@ Canagliflozin provided glycemic improvements in patients with T2DM across a rang
 
 ---
 
-### 2020 expert consensus decision pathway on novel therapies for cardiovascular risk reduction in patients with type 2 diabetes: a report of the American college of cardiology solution set oversight committee [^ded576d2]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 expert consensus decision pathway on novel therapies for cardiovascular risk reduction in patients with type 2 diabetes: a report of the American college of cardiology solution set oversight committee [^116hMxBK]. Journal of the American College of Cardiology (2020). High credibility.
 
 SGLT2 inhibitors with CV benefit — initiation and renal dose modifications — should be initiated at the lowest dose tested in CV and renal outcomes trials, and no further dose titration is needed for CV or renal risk reduction. For canagliflozin, dose modifications are: eGFR 30 to 59 mL/min/1.73 m2: max dose 100 mg daily; and eGFR < 30 mL/min/1.73 m2: use is not recommended for glycemic control. For dapagliflozin, eGFR < 45 mL/min/1.73 m2: use is not recommended for glycemic control; and eGFR < 30 mL/min/1.73 m2: use is contraindicated. For empagliflozin, eGFR < 45 mL/min/1.73 m2: use is not recommended.
 
 ---
 
-### Optimizing the analysis strategy for the CANVAS program: a prespecified plan for the integrated analyses of the CANVAS and CANVAS-R trials [^d2e5d8eb]. Diabetes, Obesity & Metabolism (2017). Low credibility.
+### Optimizing the analysis strategy for the CANVAS program: a prespecified plan for the integrated analyses of the CANVAS and CANVAS-R trials [^116Pfby4]. Diabetes, Obesity & Metabolism (2017). Low credibility.
 
 3.2
 
@@ -1090,7 +1090,7 @@ The characteristics of patients enrolled in the CANVAS Program are summarized in
 
 ---
 
-### Efficacy and safety of canagliflozin used in conjunction with sulfonylurea in patients with type 2 diabetes mellitus: a randomized, controlled trial [^f869ceea]. Diabetes Therapy (2015). Low credibility.
+### Efficacy and safety of canagliflozin used in conjunction with sulfonylurea in patients with type 2 diabetes mellitus: a randomized, controlled trial [^117MHUCZ]. Diabetes Therapy (2015). Low credibility.
 
 Introduction
 
@@ -1118,7 +1118,7 @@ ClinicalTrials.gov NCT01032629.
 
 ---
 
-### Canagliflozin improves glycaemic control over 28 days in subjects with type 2 diabetes not optimally controlled on insulin [^d92ad3a7]. Diabetes, Obesity & Metabolism (2012). Low credibility.
+### Canagliflozin improves glycaemic control over 28 days in subjects with type 2 diabetes not optimally controlled on insulin [^116YxhV8]. Diabetes, Obesity & Metabolism (2012). Low credibility.
 
 Aim
 
@@ -1138,13 +1138,13 @@ In subjects receiving insulin and oral antihyperglycaemic therapy, canagliflozin
 
 ---
 
-### Canagliflozin, a novel inhibitor of sodium glucose co-transporter 2, dose dependently reduces calculated renal threshold for glucose excretion and increases urinary glucose excretion in healthy subjects [^5fd11e60]. Diabetes, Obesity & Metabolism (2011). Low credibility.
+### Canagliflozin, a novel inhibitor of sodium glucose co-transporter 2, dose dependently reduces calculated renal threshold for glucose excretion and increases urinary glucose excretion in healthy subjects [^113T44jR]. Diabetes, Obesity & Metabolism (2011). Low credibility.
 
 Canagliflozin, a potent, selective sodium glucose co-transporter 2 inhibitor in development for treatment of type 2 diabetes, lowers plasma glucose (PG) by lowering the renal threshold for glucose (RT(G)) and increasing urinary glucose excretion (UGE). An ascending single oral-dose phase 1 study investigated safety, tolerability and pharmacodynamics of canagliflozin in healthy men (N = 63) randomized to receive canagliflozin (n = 48) or placebo (n = 15). Canagliflozin (10, 30, 100, 200, 400, 600 or 800 mg q.d. or 400 mg b.i.d.) was administered to eight cohorts (six subjects/cohort: canagliflozin; two subjects/cohort: placebo). Dose dependently, canagliflozin decreased calculated 24-h mean RT(G) with maximal reduction to approximately 60 mg/dl, and increased mean 24-h UGE. At doses > 200 mg administered before breakfast, canagliflozin reduced postprandial PG and serum insulin excursions at that meal. Canagliflozin was generally well tolerated; most adverse events were mild and no hypoglycaemia was reported. These results support further study of canagliflozin.
 
 ---
 
-### Dose-ranging effects of canagliflozin, a sodium-glucose cotransporter 2 inhibitor, as add-on to metformin in subjects with type 2 diabetes [^a5cdf32f]. Diabetes Care (2012). Low credibility.
+### Dose-ranging effects of canagliflozin, a sodium-glucose cotransporter 2 inhibitor, as add-on to metformin in subjects with type 2 diabetes [^115Ep8j8]. Diabetes Care (2012). Low credibility.
 
 CONCLUSIONS
 
@@ -1152,13 +1152,13 @@ This dose-ranging trial demonstrates that canagliflozin, a novel oral antihyperg
 
 ---
 
-### Patient preference for second-and third-line therapies in type 2 diabetes: a prespecified secondary endpoint of the triMaster study [^8d018687]. Nature Medicine (2023). Excellent credibility.
+### Patient preference for second-and third-line therapies in type 2 diabetes: a prespecified secondary endpoint of the triMaster study [^114c3mTL]. Nature Medicine (2023). Excellent credibility.
 
 Patient preference is key for medication selection in chronic medical conditions, like type 2 diabetes, where there are many different drugs available. Patient preference balances potential efficacy with potential side effects. As both aspects of drug response can vary markedly between individuals this decision could be informed by the patient personally experiencing the alternative medications, as occurs in a crossover trial. In the TriMaster (NCT02653209, ISRCTN12039221), randomised double-blind, three-way crossover trial patients received three different second or third line once-daily type 2 diabetes glucose-lowering drugs (pioglitazone 30mg, sitagliptin 100mg, and canagliflozin 100mg). As part of a prespecified secondary endpoint we examined patients' drug preference after they had tried all 3 drugs. 448 participants were treated with all three drugs which overall showed similar glycaemic control (HbA1c on pioglitazone 59.5 sitagliptin 59.9, canagliflozin 60.5mmol/mol, p = 0.19). 115 patients (25%) preferred pioglitazone, 158 (35%) sitagliptin, 175 (38%) canagliflozin. The drug preferred by individual patients was associated with a lower HbA1c (mean 4.6 [95%CI 3.9, 5.3]mmol/mol lower vs. non-preferred) and fewer side effects (mean 0.50[0.35, 0.64] fewer side effects vs. non-preferred). Allocating therapy based on individually preferred drugs, rather than allocating all patients the overall most preferred drug (canagliflozin), would result in more patients achieving the lowest HbA1c for them (70% v 30%) and the fewest side effects (67% v 50%). When precision approaches do not predict a clear optimal therapy for an individual, allowing patients to try potential suitable medications before they choose long term therapy could be a practical alternative to optimising treatment for type 2 diabetes.
 
 ---
 
-### Canagliflozin and heart failure in type 2 diabetes mellitus: results from the CANVAS program [^e78d127c]. Circulation (2018). Low credibility.
+### Canagliflozin and heart failure in type 2 diabetes mellitus: results from the CANVAS program [^116vHXQX]. Circulation (2018). Low credibility.
 
 Randomization, Treatment, and Follow-Up
 
@@ -1168,7 +1168,7 @@ Participants were followed after randomization in a face-to-face follow-up that 
 
 ---
 
-### Efficacy and safety of canagliflozin when used in conjunction with incretin-mimetic therapy in patients with type 2 diabetes [^5ffa875a]. Diabetes, Obesity & Metabolism (2016). Low credibility.
+### Efficacy and safety of canagliflozin when used in conjunction with incretin-mimetic therapy in patients with type 2 diabetes [^113THyTw]. Diabetes, Obesity & Metabolism (2016). Low credibility.
 
 Aims
 
@@ -1188,7 +1188,7 @@ In patients on background incretin mimetics, canagliflozin improved HbA1c, body 
 
 ---
 
-### Initial combination therapy with canagliflozin plus metformin versus each component as monotherapy for drug-Naïve type 2 diabetes [^ca2fd345]. Diabetes Care (2016). Low credibility.
+### Initial combination therapy with canagliflozin plus metformin versus each component as monotherapy for drug-Naïve type 2 diabetes [^116AkZdv]. Diabetes Care (2016). Low credibility.
 
 Objective
 
@@ -1208,7 +1208,7 @@ Initial therapy with CANA plus MET was more effective and generally well tolerat
 
 ---
 
-### Rationale, design and baseline characteristics of the effect of canagliflozin in patients with type 2 diabetes and microalbuminuria in the Japanese population: the CANPIONE study [^60161db9]. Diabetes, Obesity & Metabolism (2022). Medium credibility.
+### Rationale, design and baseline characteristics of the effect of canagliflozin in patients with type 2 diabetes and microalbuminuria in the Japanese population: the CANPIONE study [^113TTEun]. Diabetes, Obesity & Metabolism (2022). Medium credibility.
 
 Aim
 
@@ -1228,7 +1228,7 @@ The CANPIONE study will determine whether the SGLT2 inhibitor canagliflozin can 
 
 ---
 
-### Rationale and design of a randomized trial to test the safety and non-inferiority of canagliflozin in patients with diabetes with chronic heart failure: the CANDLE trial [^73f364e2]. Cardiovascular Diabetology (2016). Low credibility.
+### Rationale and design of a randomized trial to test the safety and non-inferiority of canagliflozin in patients with diabetes with chronic heart failure: the CANDLE trial [^113xuL7B]. Cardiovascular Diabetology (2016). Low credibility.
 
 Randomization and treatment
 
@@ -1238,7 +1238,7 @@ All participants receive the study drug for 24 weeks. Patients who are assigned 
 
 ---
 
-### Canadian CAnagliflozin REgistry: effectiveness and safety of canagliflozin in the treatment of type 2 diabetes mellitus in Canadian clinical practice [^47a92277]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
+### Canadian CAnagliflozin REgistry: effectiveness and safety of canagliflozin in the treatment of type 2 diabetes mellitus in Canadian clinical practice [^112qEw1x]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
 
 3.1 Demographic and baseline characteristics
 
@@ -1251,13 +1251,13 @@ Mean baseline HbA1c was 8.5%, with a mean T2DM duration of 9.8 years. Patients e
 
 ---
 
-### Patient preference for second-and third-line therapies in type 2 diabetes: a prespecified secondary endpoint of the triMaster study [^c6cbdd00]. Nature Medicine (2023). Excellent credibility.
+### Patient preference for second-and third-line therapies in type 2 diabetes: a prespecified secondary endpoint of the triMaster study [^1165j2Nj]. Nature Medicine (2023). Excellent credibility.
 
 Patient preference is very important for medication selection in chronic medical conditions, like type 2 diabetes, where there are many different drugs available. Patient preference balances potential efficacy with potential side effects. As both aspects of drug response can vary markedly between individuals, this decision could be informed by the patient personally experiencing the alternative medications, as occurs in a crossover trial. In the TriMaster (NCT02653209, ISRCTN12039221), randomized double-blind, three-way crossover trial patients received three different second- or third-line once-daily type 2 diabetes glucose-lowering drugs (pioglitazone 30mg, sitagliptin 100mg and canagliflozin 100mg). As part of a prespecified secondary endpoint, we examined patients' drug preference after they had tried all three drugs. In total, 448 participants were treated with all three drugs which overall showed similar glycemic control (HbA1c on pioglitazone 59.5 sitagliptin 59.9, canagliflozin 60.5mmolmol -1, P = 0.19). In total, 115 patients (25%) preferred pioglitazone, 158 patients (35%) sitagliptin and 175 patients (38%) canagliflozin. The drug preferred by individual patients was associated with a lower HbA1c (mean: 4.6; 95% CI: 3.9, 5.3) mmolmol -1 lower versus nonpreferred) and fewer side effects (mean: 0.50; 95% CI: 0.35, 0.64) fewer side effects versus nonpreferred). Allocating therapy based on the individually preferred drugs, rather than allocating all patients the overall most preferred drug (canagliflozin), would result in more patients achieving the lowest HbA1c for them (70% versus 30%) and the fewest side effects (67% versus 50%). When precision approaches do not predict a clear optimal therapy for an individual, allowing patients to try potential suitable medications before they choose long-term therapy could be a practical alternative to optimizing treatment for type 2 diabetes.
 
 ---
 
-### Sodium-glucose co-transporter inhibitors as adjunctive treatment to insulin in type 1 diabetes: a review of randomized controlled trials [^cf00871f]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
+### Sodium-glucose co-transporter inhibitors as adjunctive treatment to insulin in type 1 diabetes: a review of randomized controlled trials [^116Htccn]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
 
 2.3 Canagliflozin
 
@@ -1265,13 +1265,13 @@ An 18‐week phase 2 RCT evaluated the effects of canagliflozin vs placebo as an
 
 ---
 
-### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^b9997b8c]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
+### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^115kAGDZ]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
 
 Sodium-glucose cotransporter 2 (SGLT2) inhibitors in older adults — SGLT2 inhibitors reduce HbA1c by ~0.8%, can reduce weight, and do not cause hypoglycemia; empagliflozin and canagliflozin have been shown to decrease major adverse cardiovascular events, heart failure, and the progression of CKD; these compounds cause an obligate increase in urine volume and an increase in urogenital candida infections, and because adverse effects related to volume depletion were more frequent in older patients treated with canagliflozin, recommendations limit the dosage to 100 mg/d in such patients.
 
 ---
 
-### Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial [^2ab0ae38]. Diabetes Care (2013). Low credibility.
+### Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial [^1126HprK]. Diabetes Care (2013). Low credibility.
 
 Statistical analyses
 
@@ -1281,13 +1281,13 @@ Safety analyses and the primary efficacy analysis were conducted using the modif
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^0fb33e67]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^111QH2BG]. DoD/VA (2025). High credibility.
 
 Sodium-glucose cotransporter-2 inhibitors (SGLT2i) — dosing and considerations include Bexagliflozin 20mg daily (20mg daily), Canagliflozin 100mg daily (100mg-300mg daily), Dapagliflozin 5mg daily (5mg-10mg daily), Empagliflozin 10mg daily (10mg-25mg daily), and Ertugliflozin 5mg daily (5mg-15mg daily). Use may initiate if eGFR > 20 and continue until KRT is initiated; SGLT2i may cause ketoacidosis, genital mycotic infections, volume depletion, increased sCr, increased urination, and increased thirst, and monitoring is advised for fluid status, signs/symptoms of ketoacidosis, signs/symptoms of urinary tract infection, blood glucose kidney function, and blood pressure.
 
 ---
 
-### Canagliflozin and metformin hydrochloride (Invokamet) [^aa0ec948]. FDA (2025). Medium credibility.
+### Canagliflozin and metformin hydrochloride (Invokamet) [^115M7ry5]. FDA (2025). Medium credibility.
 
 INVOKAMET and INVOKAMET XR
 
@@ -1309,13 +1309,13 @@ Canagliflozin was not mutagenic with or without metabolic activation in the Ames
 
 ---
 
-### Pharmacologic approaches to glycemic treatment: standards of care in diabetes – 2025 [^152cf993]. Diabetes Care (2025). High credibility.
+### Pharmacologic approaches to glycemic treatment: standards of care in diabetes – 2025 [^111YPr6n]. Diabetes Care (2025). High credibility.
 
 Sodium–glucose cotransporter 2 (SGLT2) inhibitors — oral agents for type 2 diabetes — are characterized by "Intermediate to high" glucose-lowering efficacy, show cardiovascular and kidney "Benefit; canagliflozin, dapagliflozin, empagliflozin", and include the dosing instruction to "See labels of individual agents for dosage considerations for kidney function".
 
 ---
 
-### Canagliflozin and renal outcomes in type 2 diabetes: results from the CANVAS program randomised clinical trials [^55b17265]. The Lancet: Diabetes & Endocrinology (2018). Medium credibility.
+### Canagliflozin and renal outcomes in type 2 diabetes: results from the CANVAS program randomised clinical trials [^113C3Yu2]. The Lancet: Diabetes & Endocrinology (2018). Medium credibility.
 
 Background
 
@@ -1339,13 +1339,13 @@ Janssen Research & Development.
 
 ---
 
-### Rationale, design, and baseline characteristics of the canagliflozin cardiovascular assessment study (CANVAS) – a randomized placebo-controlled trial [^60d2d536]. American Heart Journal (2013). Low credibility.
+### Rationale, design, and baseline characteristics of the canagliflozin cardiovascular assessment study (CANVAS) – a randomized placebo-controlled trial [^113UYdQh]. American Heart Journal (2013). Low credibility.
 
 Sodium glucose co-transporter 2 inhibition is a novel mode of treatment for type 2 diabetes mellitus (T2DM). The sodium glucose co-transporter 2 inhibitor canagliflozin lowered blood glucose, blood pressure, and body weight, with increased risk of urogenital infections in Phase 2 studies. Effects on macrovascular complications of diabetes remain to be determined. CANVAS is a double-blind, placebo-controlled trial designed to evaluate the effects of canagliflozin on the risk of cardiovascular disease and to assess safety and tolerability in patients with inadequately controlled T2DM and increased cardiovascular risk. The first of 2 planned phases randomized 4,330 individuals to placebo, canagliflozin 100 or 300 mg (1:1:1) with planned follow-up of about 2 years to substantiate potential cardiovascular protection by assessing key biomarkers and to achieve initial safety objectives. By the end of mid-September 2012, a total of 7174 patient-years of follow-up were accrued. Mean baseline age was 62 years, duration of diabetes 13 years; hemoglobin A1c 8.2%, fasting plasma glucose 9.3 mmol/L, and body mass index 32 kg/m(2). Of the participants, 34% are female and 57% had a history of atherosclerotic vascular disease. Participants will be followed up to achieve primary safety and tolerability objectives and to investigate secondary outcomes. The planned second phase will not be undertaken. CANVAS will define the effects of canagliflozin on biomarkers and provide data on cardiovascular safety against established regulatory parameters.
 
 ---
 
-### Long-term efficacy and safety of canagliflozin in combination with insulin in Japanese patients with type 2 diabetes mellitus [^6d38bf2c]. Diabetes, Obesity & Metabolism (2018). Low credibility.
+### Long-term efficacy and safety of canagliflozin in combination with insulin in Japanese patients with type 2 diabetes mellitus [^113nviEX]. Diabetes, Obesity & Metabolism (2018). Low credibility.
 
 Aim
 
@@ -1365,7 +1365,7 @@ This study demonstrates the long-term efficacy and safety of canagliflozin combi
 
 ---
 
-### Canagliflozin lowers postprandial glucose and insulin by delaying intestinal glucose absorption in addition to increasing urinary glucose excretion: results of a randomized, placebo-controlled study [^e89704a1]. Diabetes Care (2013). Low credibility.
+### Canagliflozin lowers postprandial glucose and insulin by delaying intestinal glucose absorption in addition to increasing urinary glucose excretion: results of a randomized, placebo-controlled study [^116wprT2]. Diabetes Care (2013). Low credibility.
 
 Study design
 
@@ -1375,7 +1375,7 @@ On the morning of day 1 of each study period, after an overnight fast of at leas
 
 ---
 
-### Canagliflozin lowers postprandial glucose and insulin by delaying intestinal glucose absorption in addition to increasing urinary glucose excretion: results of a randomized, placebo-controlled study [^982b0a37]. Diabetes Care (2013). Low credibility.
+### Canagliflozin lowers postprandial glucose and insulin by delaying intestinal glucose absorption in addition to increasing urinary glucose excretion: results of a randomized, placebo-controlled study [^114tbaKY]. Diabetes Care (2013). Low credibility.
 
 RESULTS
 
@@ -1386,7 +1386,7 @@ Subject baseline and demographic characteristics
 
 ---
 
-### Pharmacodynamic differences between canagliflozin and dapagliflozin: results of a randomized, double-blind, crossover study [^44173661]. Diabetes, Obesity & Metabolism (2015). Low credibility.
+### Pharmacodynamic differences between canagliflozin and dapagliflozin: results of a randomized, double-blind, crossover study [^112jwxNt]. Diabetes, Obesity & Metabolism (2015). Low credibility.
 
 Study Design
 
@@ -1399,7 +1399,7 @@ Just before this baseline MMTT, participants were randomized (1:1) to one of two
 
 ---
 
-### Efficacy of additional canagliflozin administration to type 2 diabetes patients receiving insulin therapy: examination of diurnal glycemic patterns using continuous glucose monitoring (CGM) [^47913b74]. Diabetes Therapy (2017). Low credibility.
+### Efficacy of additional canagliflozin administration to type 2 diabetes patients receiving insulin therapy: examination of diurnal glycemic patterns using continuous glucose monitoring (CGM) [^112q6uMu]. Diabetes Therapy (2017). Low credibility.
 
 The appearance of non-insulin-dependent SGLT2 inhibitors with a new action mechanism may increase the number of options for drug therapy, further advancing diabetes care. SGLT2 inhibitors are available for several procedures: monotherapy to combination therapy with other oral blood-glucose-lowering agents or insulin. Therefore, they can be selected for patients with differing background factors.
 
@@ -1407,13 +1407,13 @@ The additional administration of SGLT2 inhibitors to type 2 diabetes patients re
 
 ---
 
-### Correction to: SGLT2 inhibitors: cardiovascular benefits beyond HbA1c-translating evidence into practice [^e483b703]. Diabetes Therapy (2019). Medium credibility.
+### Correction to: SGLT2 inhibitors: cardiovascular benefits beyond HbA1c-translating evidence into practice [^116qnRGN]. Diabetes Therapy (2019). Medium credibility.
 
 In the original publication, Table 2 note was incorrectly published as "SGLT2i therapies may be initiated in people with eGFR 60 mL/min/1.73 m 2. Individuals already treated with canagliflozin or empagliflozin who demonstrate renal decline may continue treatment until eGFR reaches < 45 mL/min/1.73 m 2 ".
 
 ---
 
-### Efficacy and safety of canagliflozin compared with placebo in older patients with type 2 diabetes mellitus: a pooled analysis of clinical studies [^cdaca073]. BMC Endocrine Disorders (2014). Low credibility.
+### Efficacy and safety of canagliflozin compared with placebo in older patients with type 2 diabetes mellitus: a pooled analysis of clinical studies [^116FvSp2]. BMC Endocrine Disorders (2014). Low credibility.
 
 Body weight and BP
 
@@ -1427,13 +1427,13 @@ The overall incidence of AEs was similar with canagliflozin and placebo within a
 
 ---
 
-### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^49938d56]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
+### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^112t5f7s]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
 
 Endocrine Society — sodium–glucose cotransporter 2 (SGLT2) inhibitors in CKD: SGLT2 inhibitors generally become less effective as GFR decreases, and because of a small increase in adverse events related to intravascular volume contraction, no more than 100 mg once daily of canagliflozin should be used in patients with an eGFR of 45 to < 60 mL/min/1.73 m2. Canagliflozin, empagliflozin, and ertugliflozin should be stopped if the eGFR is < 45 mL/min/1.73 m2, and dapagliflozin should be stopped at 60 mL/min/1.73 m2, primarily because of a decrease in efficacy. Interestingly, empagliflozin and canagliflozin have been shown to delay the progression of CKD.
 
 ---
 
-### Effectiveness, treatment durability, and treatment costs of canagliflozin and glucagon-like peptide-1 receptor agonists in patients with type 2 diabetes in the USA [^7bb2a6ee]. BMJ Open Diabetes Research & Care (2019). High credibility.
+### Effectiveness, treatment durability, and treatment costs of canagliflozin and glucagon-like peptide-1 receptor agonists in patients with type 2 diabetes in the USA [^114APV5w]. BMJ Open Diabetes Research & Care (2019). High credibility.
 
 Limitations
 

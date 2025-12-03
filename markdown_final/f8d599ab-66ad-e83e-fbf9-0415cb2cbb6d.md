@@ -15,33 +15,33 @@ C4 energy drink and elevated blood pressure
 
 > Let's see… What do we have here? The user is asking whether C4 energy drink raises blood pressure and by how much, with attention to dose, timing, mechanisms, and special populations. Let's break this down step-by-step. First, I need to think about the pharmacology of caffeine and other stimulants in energy drinks. Then, I should verify the magnitude and duration of blood pressure effects from randomized trials and meta-analyses. Next, I will examine dose–response and whether effects persist beyond caffeine alone. After that, I need to consider vulnerable groups and clinical significance. Finally, I will translate this into practical guidance and monitoring recommendations, while noting any uncertainties or conflicting data I should flag.
 
-> Let me first confirm the core pharmacology. Energy drinks like C4 typically contain 200–300 mg caffeine per can, plus taurine, guarana, and sometimes synephrine or other stimulants; caffeine antagonizes adenosine receptors, increases sympathetic tone, and can acutely raise blood pressure, while other ingredients may add hemodynamic effects or interact with caffeine, so I need to keep that in mind as I interpret data [^1f0bf34a] [^55879dea].
+> Let me first confirm the core pharmacology. Energy drinks like C4 typically contain 200–300 mg caffeine per can, plus taurine, guarana, and sometimes synephrine or other stimulants; caffeine antagonizes adenosine receptors, increases sympathetic tone, and can acutely raise blood pressure, while other ingredients may add hemodynamic effects or interact with caffeine, so I need to keep that in mind as I interpret data [^111o2dYm] [^113BoVz1].
 
-> Wait, let me verify the magnitude of acute blood pressure effects. A meta-analysis of 15 studies found that acute energy drink consumption increases systolic blood pressure by about 4.4 mmHg and diastolic by about 2.7 mmHg, with larger effects when caffeine content is ≥ 200 mg, which aligns with the 200–300 mg range in many energy drinks; this is a modest but statistically significant acute pressor effect [^e3e7a203].
+> Wait, let me verify the magnitude of acute blood pressure effects. A meta-analysis of 15 studies found that acute energy drink consumption increases systolic blood pressure by about 4.4 mmHg and diastolic by about 2.7 mmHg, with larger effects when caffeine content is ≥ 200 mg, which aligns with the 200–300 mg range in many energy drinks; this is a modest but statistically significant acute pressor effect [^116pszYS].
 
-> I should confirm duration and whether effects extend beyond caffeine alone. Randomized crossover trials show that energy drinks can produce a sustained systolic blood pressure elevation up to 6 hours, with one study showing a 4.7 mmHg higher systolic pressure at 6 hours versus caffeine alone, suggesting non-caffeine ingredients contribute to a prolonged hemodynamic effect; this is clinically relevant because the pressor effect can outlast the early caffeine peak [^fa81a91a] [^43f5610c].
+> I should confirm duration and whether effects extend beyond caffeine alone. Randomized crossover trials show that energy drinks can produce a sustained systolic blood pressure elevation up to 6 hours, with one study showing a 4.7 mmHg higher systolic pressure at 6 hours versus caffeine alone, suggesting non-caffeine ingredients contribute to a prolonged hemodynamic effect; this is clinically relevant because the pressor effect can outlast the early caffeine peak [^117QPTSh] [^112jkbFZ].
 
-> Hold on, let's not jump to conclusions about chronic effects. Most human data are acute, but repeated exposure could theoretically sustain elevations; in pediatrics, a single bodyweight-adjusted energy drink dose increased 24-hour systolic pressure by about 5.3 mmHg and diastolic by about 3.5 mmHg, indicating that even one dose can shift ambulatory profiles upward, which is concerning for cumulative risk in frequent consumers [^546e3bb2].
+> Hold on, let's not jump to conclusions about chronic effects. Most human data are acute, but repeated exposure could theoretically sustain elevations; in pediatrics, a single bodyweight-adjusted energy drink dose increased 24-hour systolic pressure by about 5.3 mmHg and diastolic by about 3.5 mmHg, indicating that even one dose can shift ambulatory profiles upward, which is concerning for cumulative risk in frequent consumers [^113AAzBs].
 
-> I need to check dose–response and timing. Effects appear within 30–60 minutes and can persist 4–6 hours, with larger responses at higher caffeine doses; a meta-analysis showed the largest systolic increase with ≥ 200 mg caffeine, and pediatric data show higher daytime and nighttime blood pressure after a single dose, reinforcing a dose-related and temporally persistent effect [^e3e7a203] [^893b38b8].
+> I need to check dose–response and timing. Effects appear within 30–60 minutes and can persist 4–6 hours, with larger responses at higher caffeine doses; a meta-analysis showed the largest systolic increase with ≥ 200 mg caffeine, and pediatric data show higher daytime and nighttime blood pressure after a single dose, reinforcing a dose-related and temporally persistent effect [^116pszYS] [^114WTCLX].
 
-> Let me consider vulnerable populations. Children and adolescents are at particular risk due to lower body mass, caffeine naivety, and higher susceptibility; the American Academy of Pediatrics advises against energy drinks in youth, and pediatric randomized data show measurable 24-hour blood pressure increases after a single dose, which is clinically meaningful in that context [^c120263a] [^546e3bb2]. Individuals with hypertension, cardiovascular disease, arrhythmias, or those taking stimulants or interacting medications should also avoid or limit intake because of additive sympathetic effects and potential QT effects, even though QT prolongation is not guaranteed in all users [^81838102] [^027dff99].
+> Let me consider vulnerable populations. Children and adolescents are at particular risk due to lower body mass, caffeine naivety, and higher susceptibility; the American Academy of Pediatrics advises against energy drinks in youth, and pediatric randomized data show measurable 24-hour blood pressure increases after a single dose, which is clinically meaningful in that context [^115wKQi5] [^113AAzBs]. Individuals with hypertension, cardiovascular disease, arrhythmias, or those taking stimulants or interacting medications should also avoid or limit intake because of additive sympathetic effects and potential QT effects, even though QT prolongation is not guaranteed in all users [^114K1aFs] [^1114hJDE].
 
-> I should double-check clinical significance. A sustained 2 mmHg rise in systolic pressure at the population level is associated with a 7% increase in ischemic heart disease mortality and a 10% increase in stroke mortality, so repeated energy drink–induced spikes, especially when combined with other pressors or stressors, could materially increase cardiovascular risk over time, even if individual acute changes seem small [^d99e9ebe].
+> I should double-check clinical significance. A sustained 2 mmHg rise in systolic pressure at the population level is associated with a 7% increase in ischemic heart disease mortality and a 10% increase in stroke mortality, so repeated energy drink–induced spikes, especially when combined with other pressors or stressors, could materially increase cardiovascular risk over time, even if individual acute changes seem small [^116ZdbKb].
 
-> But wait, what if caffeine tolerance mitigates effects. Habitual caffeine consumers may show attenuated acute pressor responses, yet randomized data still show a persistent 24-hour blood pressure signal with energy drinks beyond caffeine alone, implying that tolerance does not fully negate the hemodynamic impact of the multi-ingredient formulation, particularly at higher doses or when consumed rapidly [^d69d67ef] [^43f5610c].
+> But wait, what if caffeine tolerance mitigates effects. Habitual caffeine consumers may show attenuated acute pressor responses, yet randomized data still show a persistent 24-hour blood pressure signal with energy drinks beyond caffeine alone, implying that tolerance does not fully negate the hemodynamic impact of the multi-ingredient formulation, particularly at higher doses or when consumed rapidly [^116VBDpi] [^112jkbFZ].
 
-> Next, I should review practical guidance. For patients with hypertension, elevated blood pressure, or high cardiovascular risk, I recommend avoiding energy drinks; if used occasionally, limit to one standard can, avoid rapid consumption, and separate from other stimulants, exercise, or stressors. Clinicians should ask about energy drink use during blood pressure evaluation and consider ambulatory monitoring when white-coat or masked hypertension is suspected, as overstimulation can artifactually elevate office readings [^f0864be1] [^81838102].
+> Next, I should review practical guidance. For patients with hypertension, elevated blood pressure, or high cardiovascular risk, I recommend avoiding energy drinks; if used occasionally, limit to one standard can, avoid rapid consumption, and separate from other stimulants, exercise, or stressors. Clinicians should ask about energy drink use during blood pressure evaluation and consider ambulatory monitoring when white-coat or masked hypertension is suspected, as overstimulation can artifactually elevate office readings [^1179b8wS] [^114K1aFs].
 
-> I will now examine special scenarios. In pregnancy, prepregnancy energy drink use has been associated with higher risk of gestational hypertension, so counseling to avoid energy drinks is prudent in reproductive-age patients; in adolescents, given documented 24-hour blood pressure increases and sleep disruption, abstinence is the safest course and aligns with pediatric guidance [^ac7cea2f] [^c120263a].
+> I will now examine special scenarios. In pregnancy, prepregnancy energy drink use has been associated with higher risk of gestational hypertension, so counseling to avoid energy drinks is prudent in reproductive-age patients; in adolescents, given documented 24-hour blood pressure increases and sleep disruption, abstinence is the safest course and aligns with pediatric guidance [^115Qiq1Q] [^115wKQi5].
 
-> Hold on, I should verify whether any conflicting data suggest no effect. Some small studies of low-dose or single-shot products show minimal or transient effects, but the weight of evidence from larger randomized trials and meta-analyses supports a consistent, dose-related acute pressor effect of energy drinks, particularly when caffeine content is high and when consumed in larger volumes, so the balance of evidence favors a clinically meaningful blood pressure increase in typical use scenarios [^e3e7a203] [^0df96fdd].
+> Hold on, I should verify whether any conflicting data suggest no effect. Some small studies of low-dose or single-shot products show minimal or transient effects, but the weight of evidence from larger randomized trials and meta-analyses supports a consistent, dose-related acute pressor effect of energy drinks, particularly when caffeine content is high and when consumed in larger volumes, so the balance of evidence favors a clinically meaningful blood pressure increase in typical use scenarios [^116pszYS] [^111Mid64].
 
-> In summary, yes, C4 and similar energy drinks acutely raise blood pressure by roughly 4–6 mmHg systolic and 2–3 mmHg diastolic within 30–60 minutes, with effects persisting up to 4–6 hours and potentially longer in some formulations; repeated or high-dose use can sustain elevations, and vulnerable patients should avoid these products, while occasional users should limit quantity, avoid stacking with other stimulants, and monitor blood pressure if they have hypertension or cardiovascular risk factors [^e3e7a203] [^fa81a91a] [^546e3bb2] [^81838102].
+> In summary, yes, C4 and similar energy drinks acutely raise blood pressure by roughly 4–6 mmHg systolic and 2–3 mmHg diastolic within 30–60 minutes, with effects persisting up to 4–6 hours and potentially longer in some formulations; repeated or high-dose use can sustain elevations, and vulnerable patients should avoid these products, while occasional users should limit quantity, avoid stacking with other stimulants, and monitor blood pressure if they have hypertension or cardiovascular risk factors [^116pszYS] [^117QPTSh] [^113AAzBs] [^114K1aFs].
 
 ---
 
-C4 energy drink can cause a **modest, acute rise in blood pressure** [^e3e7a203] due to its caffeine and other stimulants, with typical increases of about 4–6 mmHg systolic and 2–3 mmHg diastolic within 1–2 hours [^e3e7a203]. Effects are **stronger in caffeine-naive users**, those with hypertension, and when multiple servings are consumed [^81838102]. The blood pressure rise is usually transient, but repeated use may pose risks for people with cardiovascular disease or hypertension. People with high blood pressure, heart conditions, or those on stimulant medications should limit or avoid C4.
+C4 energy drink can cause a **modest, acute rise in blood pressure** [^116pszYS] due to its caffeine and other stimulants, with typical increases of about 4–6 mmHg systolic and 2–3 mmHg diastolic within 1–2 hours [^116pszYS]. Effects are **stronger in caffeine-naive users**, those with hypertension, and when multiple servings are consumed [^114K1aFs]. The blood pressure rise is usually transient, but repeated use may pose risks for people with cardiovascular disease or hypertension. People with high blood pressure, heart conditions, or those on stimulant medications should limit or avoid C4.
 
 ---
 
@@ -49,10 +49,10 @@ C4 energy drink can cause a **modest, acute rise in blood pressure** [^e3e7a203]
 
 C4's pressor effects are driven by **caffeine and other stimulants** that increase sympathetic activity and vascular resistance:
 
-- **Caffeine**: Antagonizes adenosine, increases catecholamines, and promotes vasoconstriction, raising SBP/DBP by ~4–6/2–3 mmHg within 1–2 hours [^e3e7a203] [^25c9d294].
+- **Caffeine**: Antagonizes adenosine, increases catecholamines, and promotes vasoconstriction, raising SBP/DBP by ~4–6/2–3 mmHg within 1–2 hours [^116pszYS] [^111y2LFM].
 - **Beta-alanine**: May enhance sympathetic tone and contribute to small BP increases.
 - **Arginine**: Can cause transient vasodilation, but net effect with caffeine is often pressor.
-- **Sugar**: Added sugars can worsen endothelial function and raise BP, especially with repeated use [^3d081960] [^999dfbc1].
+- **Sugar**: Added sugars can worsen endothelial function and raise BP, especially with repeated use [^112ZUxyV] [^114vkAt8].
 
 ---
 
@@ -68,7 +68,7 @@ Clinical studies show a **modest, time-limited rise** in BP after energy drinks:
 
 ---
 
-These effects are **typically transient**, resolving within 4–6 hours, but repeated exposure can sustain elevations and increase cardiovascular risk [^e3e7a203] [^d99e9ebe].
+These effects are **typically transient**, resolving within 4–6 hours, but repeated exposure can sustain elevations and increase cardiovascular risk [^116pszYS] [^116ZdbKb].
 
 ---
 
@@ -87,9 +87,9 @@ BP responses vary with **genetics, tolerance, and health status**:
 
 Although modest, these BP changes can be **clinically meaningful** in susceptible people:
 
-- **Hypertension**: Even small BP rises increase cardiovascular event risk, especially with repeated exposure [^d99e9ebe].
-- **Arrhythmias**: Energy drinks can prolong QT and trigger arrhythmias, particularly with underlying disease or other drugs [^0df96fdd] [^027dff99].
-- **Stroke and MI**: Case reports link energy drinks to stroke and myocardial infarction, especially with high doses or co-ingestants [^4a787453].
+- **Hypertension**: Even small BP rises increase cardiovascular event risk, especially with repeated exposure [^116ZdbKb].
+- **Arrhythmias**: Energy drinks can prolong QT and trigger arrhythmias, particularly with underlying disease or other drugs [^111Mid64] [^1114hJDE].
+- **Stroke and MI**: Case reports link energy drinks to stroke and myocardial infarction, especially with high doses or co-ingestants [^112uQYVg].
 
 ---
 
@@ -98,9 +98,9 @@ Although modest, these BP changes can be **clinically meaningful** in susceptibl
 Professional societies advise caution or avoidance for **high-risk groups**:
 
 - **Hypertension**: Limit or avoid energy drinks; monitor BP if used.
-- **Cardiovascular disease**: Avoid due to arrhythmia and BP risks [^027dff99].
-- **Pregnancy**: Avoid because of gestational hypertension risk [^ac7cea2f].
-- **Children and adolescents**: Avoid; pediatric studies show sustained BP effects [^546e3bb2] [^c120263a].
+- **Cardiovascular disease**: Avoid due to arrhythmia and BP risks [^1114hJDE].
+- **Pregnancy**: Avoid because of gestational hypertension risk [^115Qiq1Q].
+- **Children and adolescents**: Avoid; pediatric studies show sustained BP effects [^113AAzBs] [^115wKQi5].
 
 ---
 
@@ -122,7 +122,7 @@ C4 energy drink causes a **modest, acute BP rise** of about 4–6/2–3 mmHg for
 
 ## References
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^b4bb5cde]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^115cwhr5]. Pediatric Research (2023). Medium credibility.
 
 Conclusion
 
@@ -130,7 +130,7 @@ The single, bodyweight-adjusted ED consumption during morning hours is linked wi
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^c6a49914]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^1165VqRd]. Journal of the American Heart Association (2019). Medium credibility.
 
 Conclusions
 
@@ -138,7 +138,7 @@ Caffeinated energy drinks significantly prolong the QTc interval and raise brach
 
 ---
 
-### Impact of acute energy drink consumption on blood pressure parameters: a meta-analysis [^e3e7a203]. The Annals of Pharmacotherapy (2016). Low credibility.
+### Impact of acute energy drink consumption on blood pressure parameters: a meta-analysis [^116pszYS]. The Annals of Pharmacotherapy (2016). Low credibility.
 
 Objective
 
@@ -162,7 +162,7 @@ Our results indicate that acute consumption of caffeinated energy drinks signifi
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^948dbf75]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^114oEnBN]. Pediatric Research (2023). Medium credibility.
 
 Background
 
@@ -186,13 +186,13 @@ Energy drinks (EDs) are consumed by many children and teenagers. While adverse c
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^0df96fdd]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^111Mid64]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background Energy drinks have been linked to an increase in emergency room visits and deaths. We aim to determine the impact of energy drinks on electrocardiographic and hemodynamic parameters in young healthy volunteers. Methods and Results A randomized, double-masked, placebo-controlled, crossover study was conducted in healthy volunteers. Participants consumed 32 oz of either energy drink A, energy drink B, or placebo within 60 minutes on 3 study days with a 6-day washout period in between. The primary end point of QT c interval and secondary end points of QT interval, PR interval, QRS duration, heart rate, and brachial and central blood pressures were measured at baseline, and every 30 minutes for 240 minutes. A repeated-measures 2-way analysis of variance was performed with the main effects of intervention, time, and an interaction of intervention and time. Thirty-four participants were included (age 22.1 ± 3.0 years). The interaction term of intervention and time was statistically significant for Bazett's corrected QT interval, Fridericia's corrected QT interval, QT, PR, QRS duration, heart rate, systolic blood pressure, diastolic blood pressure, central systolic blood pressure, and central diastolic blood pressure (all P < 0.001). The maximum change from baseline in Bazett's corrected QT interval for drinks A, B, and placebo were +17.9 ± 13.9, +19.6 ± 15.8, and +11.9 ± 11.1 ms, respectively (P = 0.005 for ANOVA) (P = 0.04 and < 0.01, respectively compared with placebo). Peripheral and central systolic and diastolic blood pressure were statistically significantly different compared with placebo (all P < 0.001). Conclusion Energy drinks significantly prolong the QT c interval and raise blood pressure. Clinical Trial Registration URL: http://www.clinicaltrials.gov. Unique identifier: NCT03196908.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^8a18f6b5]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^114XjgDr]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background
 
@@ -212,7 +212,7 @@ Unique identifier:03196908.
 
 ---
 
-### Alcohol consumption, hypertension, and cardiovascular health across the life course: there is No such thing as a one-size-fits-all approach [^1ba47530]. Journal of the American Heart Association (2018). Low credibility.
+### Alcohol consumption, hypertension, and cardiovascular health across the life course: there is No such thing as a one-size-fits-all approach [^111hyuWF]. Journal of the American Heart Association (2018). Low credibility.
 
 Introduction
 
@@ -224,7 +224,7 @@ Piano and co‐workers 5 provide complementary findings, focusing on the cross�
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^d99e9ebe]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^116ZdbKb]. Journal of the American Heart Association (2019). Medium credibility.
 
 While blood pressure changes can be attributed primarily to the caffeine, other ingredients in energy drinks may pose some hemodynamic activity. 37 Taurine has been shown to lower blood pressure in prehypertensive patients, indicating the need for investigating simultaneous caffeine and taurine intake. 39
 
@@ -234,7 +234,7 @@ Several factors may limit the generalizability of this study. We did not investi
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^546e3bb2]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^113AAzBs]. Pediatric Research (2023). Medium credibility.
 
 The results of this study reveal that the consumption of a single, bodyweight-adjusted ED dosage is linked with a significantly higher median 24-h SBP (+5.26 mmHg) and DBP (+3.45 mmHg), compared to a placebo beverage, in healthy children and adolescents. A meta-analysis by Conen et al. suggests that an increase of 10 mmHg in 24-h SBP is connected with a 27% higher risk for cardiovascular events. In addition, a population-based study by Hansen et al. indicates that an increase of 5 mmHg in 24-h DBP is associated with a 27% higher risk for cardiovascular disease. Therefore, the ED-induced alterations in the pediatric 24-h blood pressure profile displayed in this study can be considered alarming.
 
@@ -246,19 +246,19 @@ The results of the EDUCATE-Study (Energy-Drinks — Unexplored Cardiovascular Al
 
 ---
 
-### Energy drinks: a contemporary issues paper [^25c9d294]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^111y2LFM]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — acute cardiovascular effects in healthy people include marked short‑term hemodynamic and electrocardiographic changes. Increased norepinephrine levels of 74% have been noted, and 1 to 2 h after consumption healthy individuals usually have a ~ 6- to 10-mm Hg rise in systolic and 3 to 6 mm Hg rise in diastolic blood pressure with heart rate increasing approximately 3 to 7 bpm; in apparently healthy persons QTc prolongation up to 22 to 25 ms 1 to 2 h after consumption has been described.
 
 ---
 
-### Effects of single and multiple energy shots on blood pressure and electrocardiographic parameters [^ae152d8a]. The American Journal of Cardiology (2016). Low credibility.
+### Effects of single and multiple energy shots on blood pressure and electrocardiographic parameters [^115T5xcZ]. The American Journal of Cardiology (2016). Low credibility.
 
 We assessed the effects of single and multiple caffeinated energy shots on hemodynamic and electrocardiographic (ECG) parameters. This was a randomized, double-blinded, placebo-controlled, crossover study in otherwise healthy volunteers (n = 26) where a caffeinated energy shot or matching placebo was ingested. The study drink was consumed twice daily for 7 days during each phase, with a 7-day washout period in between. The primary end points of interest were systolic and diastolic blood pressure (BP), heart rate, PR interval, QRS duration, and QT and QTc intervals. All parameters were evaluated at baseline, 1, 3, and 5 hours on the first and seventh day of each phase. Systolic BP after a single energy shot consumption was significantly higher than placebo at 3 and 5 hours (p = 0.050 and p = 0.038, respectively). Similarly, diastolic BP after a single energy shot consumption was significantly higher at 1 and 5 hours (p = 0.019 and p = 0.043, respectively). The systolic and diastolic BP elevations were not significant after consistent consumption (all p values ≥ 0.079). None of the ECG parameters were significantly affected (all p values ≥ 0.108) compared with placebo. In conclusion, a single shot of a caffeinated energy drink significantly raised systolic and diastolic BPs. However, these elevations were not sustained with chronic consumption. ECG parameters were not altered.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^4a787453]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^112uQYVg]. Journal of the American Heart Association (2019). Medium credibility.
 
 Introduction
 
@@ -268,7 +268,7 @@ Energy drink consumption has been associated with cardiac arrest, myocardial inf
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^c980e64e]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^1169jop1]. Pediatric Research (2023). Medium credibility.
 
 The results presented in this study are in line with the findings by Franks et al. The authors investigated the effects of EDs versus caffeine supplementation on 24-h ABPM in nine healthy adults. Subjects received an ED (80 mg caffeine) or a placebo (80 mg caffeine) at four time points throughout the day (08, 11, 15, and 19 h). The authors revealed a 5.8 mmHg higher mean 24-h SBP (p = 0.04) and a 5.4 mmHg higher mean 24-h DBP (p = 0.02) on the day of ED consumption. It should be noted that both study designs are not fully comparable, as the current study used a non-caffeinated placebo drink, and both beverages were given only once at similar morning hours. However, the study of Franks et al. suggests that the various ingredients found in EDs may potentiate blood pressure response to caffeine due to pharmacodynamic or pharmacokinetic interactions. In the literature, caffeine plasma half-lives are described to range between 2.5 and 5 h, if administered in a single dose of 4 mg per kilogram of bodyweight. Moreover, with half-lives ranging from 2.3 to 9.9 h, caffeine clearance can exhibit considerable interindividual variability. The results of the current study could potentially imply that the pediatric cardiovascular system reacts more sensitively to ED ingredients than the adult one. Furthermore, the ED-induced effects on the pediatric cardiovascular system might last distinctly longer.
 
@@ -276,7 +276,7 @@ The duration of sleep was significantly shorter after the acute ED consumption. 
 
 ---
 
-### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^6cc64d61]. JAMA Network Open (2023). High credibility.
+### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^113nGGg8]. JAMA Network Open (2023). High credibility.
 
 Conclusions
 
@@ -284,19 +284,19 @@ Our study found that energy drink intake was associated with higher risk of gest
 
 ---
 
-### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^7a36be9f]. Journal of Hypertension (2024). Medium credibility.
+### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^1148Bsti]. Journal of Hypertension (2024). Medium credibility.
 
 Hypertension, defined as persistently elevated systolic blood pressure (SBP) > 140 mmHg and/or diastolic blood pressure (DBP) at least 90 mmHg (International Society of Hypertension guidelines), affects over 1.5 billion people worldwide. Hypertension is associated with increased risk of cardiovascular disease (CVD) events (e.g. coronary heart disease, heart failure and stroke) and death. An international panel of experts convened by the International Society of Hypertension College of Experts compiled lifestyle management recommendations as first-line strategy to prevent and control hypertension in adulthood. We also recommend that lifestyle changes be continued even when blood pressure-lowering medications are prescribed. Specific recommendations based on literature evidence are summarized with advice to start these measures early in life, including maintaining a healthy body weight, increased levels of different types of physical activity, healthy eating and drinking, avoidance and cessation of smoking and alcohol use, management of stress and sleep levels. We also discuss the relevance of specific approaches including consumption of sodium, potassium, sugar, fibre, coffee, tea, intermittent fasting as well as integrated strategies to implement these recommendations using, for example, behaviour change-related technologies and digital tools.
 
 ---
 
-### Increased fructose associates with elevated blood pressure [^4e81a936]. Journal of the American Society of Nephrology (2010). Low credibility.
+### Increased fructose associates with elevated blood pressure [^1131Pays]. Journal of the American Society of Nephrology (2010). Low credibility.
 
 The recent increase in fructose consumption in industrialized nations mirrors the rise in the prevalence of hypertension, but epidemiologic studies have inconsistently linked these observations. We investigated whether increased fructose intake from added sugars associates with an increased risk for higher BP levels in US adults without a history of hypertension. We conducted a cross-sectional analysis using the data collected from the National Health and Nutrition Examination Survey (NHANES 2003 to 2006) involving 4528 adults without a history of hypertension. Median fructose intake was 74 g/d, corresponding to 2.5 sugary soft drinks each day. After adjustment for demographics; comorbidities; physical activity; total kilocalorie intake; and dietary confounders such as total carbohydrate, alcohol, salt, and vitamin C intake, an increased fructose intake of ≥ 74 g/d independently and significantly associated with higher odds of elevated BP levels: It led to a 26, 30, and 77% higher risk for BP cutoffs of ≥ 135/85, ≥ 140/90, and ≥ 160/100 mmHg, respectively. These results suggest that high fructose intake, in the form of added sugar, independently associates with higher BP levels among US adults without a history of hypertension.
 
 ---
 
-### Towards new recommendations to reduce the burden of alcohol-induced hypertension in the European union [^b222bbb1]. BMC Medicine (2017). Low credibility.
+### Towards new recommendations to reduce the burden of alcohol-induced hypertension in the European union [^115Z6TpU]. BMC Medicine (2017). Low credibility.
 
 The evidence for alcohol interventions to reduce BP
 
@@ -310,7 +310,7 @@ The situation in the US is slightly different. Although American Society of Hype
 
 ---
 
-### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^e34aaced]. Journal of Hypertension (2024). Medium credibility.
+### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^116oyGmS]. Journal of Hypertension (2024). Medium credibility.
 
 What is known and what is new?
 
@@ -329,7 +329,7 @@ Recommendation
 
 ---
 
-### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^a9a3aa6f]. Journal of the American Heart Association (2018). Low credibility.
+### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^115LVt6J]. Journal of the American Heart Association (2018). Low credibility.
 
 Implications
 
@@ -339,7 +339,7 @@ Other implications of this research are clear: Alcohol consumption should be ass
 
 ---
 
-### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^eb34b228]. Journal of the American Heart Association (2018). Low credibility.
+### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^1171hnpo]. Journal of the American Heart Association (2018). Low credibility.
 
 Introduction
 
@@ -351,13 +351,13 @@ The relationship between alcohol consumption and hypertension was first reported
 
 ---
 
-### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^7a898793]. Journal of Hypertension (2024). Medium credibility.
+### Lifestyle management of hypertension: international society of hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension [^1148fgg2]. Journal of Hypertension (2024). Medium credibility.
 
 Hypertension, defined as persistently elevated systolic blood pressure (SBP) > 140mmHg and/or diastolic blood pressure (DBP) at least 90mmHg (International Society of Hypertension guidelines), affects over 1.5 billion people worldwide. Hypertension is associated with increased risk of cardiovascular disease (CVD) events (e.g. coronary heart disease, heart failure and stroke) and death. An international panel of experts convened by the International Society of Hypertension College of Experts compiled lifestyle management recommendations as first-line strategy to prevent and control hypertension in adulthood. We also recommend that lifestyle changes be continued even when blood pressure-lowering medications are prescribed. Specific recommendations based on literature evidence are summarized with advice to start these measures early in life, including maintaining a healthy body weight, increased levels of different types of physical activity, healthy eating and drinking, avoidance and cessation of smoking and alcohol use, management of stress and sleep levels. We also discuss the relevance of specific approaches including consumption of sodium, potassium, sugar, fibre, coffee, tea, intermittent fasting as well as integrated strategies to implement these recommendations using, for example, behaviour change-related technologies and digital tools.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^55879dea]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^113BoVz1]. Journal of the American Heart Association (2017). Low credibility.
 
 Introduction
 
@@ -369,7 +369,7 @@ Although the cardiovascular safety profile of caffeine has been relatively well 
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^801e4bb2]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^114GwbHB]. Journal of the American Heart Association (2017). Low credibility.
 
 Conclusions
 
@@ -377,7 +377,7 @@ Our study findings suggest significant prolongation of the QTc interval 2 hours 
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^701f6875]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^113sEASY]. Journal of the American Heart Association (2019). Medium credibility.
 
 The results are inconsistent in other studies where energy drink volumes under 32 oz were investigated. Brothers et al (n = 15) reported no changes in the QTc over 6.5 hours post‐consumption of a 24‐oz energy drink. 22 Tauseef et al found QTc prolongation of 13 ms after 500 mL (16.9 ounce) energy drink consumption. 20 An Australian study enrolled patients with congenital long QT‐syndrome (n = 24) and found no statistically significant changes within 90 minutes after consumption of 500 mL (16.9 ounce) of an energy drink. However, 3 patients did have a QTc increase > 50 ms when compared with baseline. 23 One parallel designed study assessed the impact of consuming 460 mL of 3 different types of caffeinated energy drinks on ECG parameters with no clinically significant changes. 32
 
@@ -387,7 +387,7 @@ There was an ≈5 and 4 mm Hg increase in SBP and DBP, respectively after energy
 
 ---
 
-### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^ac7cea2f]. JAMA Network Open (2023). High credibility.
+### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^115Qiq1Q]. JAMA Network Open (2023). High credibility.
 
 Discussion
 
@@ -397,7 +397,7 @@ The association of energy drink consumption with blood pressure has been investi
 
 ---
 
-### Drinking water: the saltier the better? [^18d34a0c]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^111dog1Z]. Journal of the American Heart Association (2019). Medium credibility.
 
 The current literature is inconclusive with respect to these findings. Numerous studies have confirmed a link between high dietary sodium intake and blood pressure. 3, 4, 5, 7 This link is traditionally explained by the Guyton Hypothesis, whereby increased sodium intake promotes increased blood pressure via extracellular fluid volume expansion. 8 More recent literature also supports a key role of the vasculature to elevate blood pressure in response to sodium intake, independent of renal sodium excretion. 9 With regard to calcium, the literature is controversial. Some research supports that high urinary calcium excretion is associated with elevated blood pressure. 10, 11 Other evidence suggests that diets supplemented with calcium mildly reduce blood pressure, with a possible dose–response effect. 12 It should also be noted that high dietary calcium consumption may increase cardiovascular risk via promotion of arterial calcification. 13 The role of magnesium in blood pressure control is less clear. However, magnesium supplementation has been used to prevent eclampsia. 14 Although not completely characterized, magnesium likely acts as a vasodilator to reduce peripheral vascular resistance or to relieve vasoconstriction. 15
 
@@ -405,7 +405,7 @@ While most published research has focused on individual mineral impact on health
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^272a4040]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^11214i79]. Journal of the American Heart Association (2017). Low credibility.
 
 The long‐term use of energy drinks also needs particular attention. In one study, consuming a single energy shot (60 mL) twice daily for 7 days conferred no significant ECG changes when compared with placebo. 29 Similarly, 500 mL of another energy drink consumed for 7 days showed no ECG‐related changes from baseline. 15 However, these results cannot be generalized across all energy drink products. While the degree of BP change seen in our study is generally not concerning in an acute setting, even mild sustained elevations in systolic BP at the population level can increase the risk of adverse cardiovascular outcomes. 30, 31
 
@@ -413,7 +413,7 @@ In this study, both the energy drink and caffeine arms exhibited a similar incre
 
 ---
 
-### The wrong white crystals: not salt but sugar as aetiological in hypertension and cardiometabolic disease [^3c79b851]. Open Heart (2014). Low credibility.
+### The wrong white crystals: not salt but sugar as aetiological in hypertension and cardiometabolic disease [^112Yf9Ct]. Open Heart (2014). Low credibility.
 
 Clinical trials: modifying sugar intake and CVD-related outcomes
 
@@ -423,7 +423,7 @@ As for different effects from different sugars (eg, sucrose (fructose+glucose) v
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^117ffd5f]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^111SwnES]. Journal of the American Heart Association (2019). Medium credibility.
 
 Since the first product appeared on US shelves in 1997, the caffeinated energy drink market has grown dramatically, with an estimated annual revenue of $10 billion in 2018. Advertising for products such as Red Bull, Monster, and Rockstar emphasizes claims of enhanced energy level, mental focus, and physical performance. This marketing strategy resonates with teenagers and young adults, the dominant consumer group for these products. As the energy drink market has grown, so too has awareness of their health risks. 1, 2 Between 2004 and 2014, 34 deaths linked to energy drinks were reported to the US Food and Drug Administration, and serious adverse events described in the literature include cardiac arrest, myocardial infarction, atrial fibrillation, and seizures. 3 Despite multiple articles in the medical literature and lay press describing the risks of energy drinks, especially when combined with alcohol, growth of this industry shows little sign of slowing.
 
@@ -431,20 +431,20 @@ Although the health risks of energy drinks have been widely recognized, the mech
 
 ---
 
-### Association of dairy consumption with metabolic syndrome, hypertension and diabetes in 147 812 individuals from 21 countries [^301edfa3]. BMJ Open Diabetes Research & Care (2020). High credibility.
+### Association of dairy consumption with metabolic syndrome, hypertension and diabetes in 147 812 individuals from 21 countries [^112ELmza]. BMJ Open Diabetes Research & Care (2020). High credibility.
 
 Figure 1
 Association of (A) total dairy, (B) whole fat dairy alone, (C) low fat dairy alone and (D) among those who consumed both whole fat and low fat dairy with prevalent metabolic syndrome and its component (OR, 95% CI). Metabolic syndrome: defined as presence of any three of the four components: elevated blood pressure (defined as those on blood pressure lowering medication, or systolic blood pressure) ≥ 130 mm Hg or diastolic blood pressure (DBP) ≥ 85 mm Hg); elevated waist circumference (defined as women with waist > 80 cm, men with waist ≥ 94 cm, except among Asians or South Americans in whom waist was ≥ 90 cm), reduced high density lipoprotein cholesterol (HDL-C) (defined as men on cholesterol lowering medications or with HDL-C < 1 mmol/dL (40 mg/dL), or women with HDL-C < 1.3 mmol/L (50 mg/dL)); elevated triglycerides (defined as triglyceride levels > 1.7 mmmol/dL (150 mg/dL)); and elevated fasting blood glucose (defined as as those on glucose lowering medications or with a fasting glucose value ≥ 5.5 mmol/L). OR models for metabolic syndrome and waist circumference are adjusted for age (continuous), sex, smoking status, education, location, physical activity, energy intake, percent energy from carbohydrate, fruit and vegetable intake, and study center as random effect. Models for whole dairy intake are adjusted for low fat dairy intake and vice versa. OR model for elevated blood pressure, low HDL-C, elevated triglycerides and elevated fasting blood glucose are adjusted for age (continuous), sex, body mass index (continuous), smoking status, location, education, physical activity, energy intake, quintiles of percent energy from carbohydrate, fruit and vegetable intake, and study center as random effect. Models for whole dairy intake are adjusted for low fat dairy intake and vice versa. Panel (A) shows a significant inverse association between total dairy intake and metabolic syndrome and each of its components, except low HDL-C (no association); (B) shows a significant inverse association between whole fat dairy (alone) intake and metabolic syndrome, elevated blood pressure, elevated waist circumference, elevated triglycerides, and elevated fasting blood glucose. No association was observed between whole fat dairy and low HDL-C; (C) shows no association between low fat dairy (alone) intake and metabolic syndrome and its components, except elevated triglycerides and elevated fasting blood glucose (a trend towards lower prevalence); and (D) shows a significant inverse association between consumption of both whole fat and low fat dairy and metabolic syndrome, elevated blood pressure and elevated triglycerides, and no association with elevated waist circumference or HDL-C or elevated fasting blood glucose.
 
 ---
 
-### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^ba9c4820]. European Heart Journal (2024). High credibility.
+### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^115mfC2j]. European Heart Journal (2024). High credibility.
 
 Regarding nonpharmacologic interventions for hypertension, more specifically with respect to dietary modifications, ESC 2024 guidelines recommend to advise restricting free sugar consumption, particularly sugar-sweetened beverages, to a maximum of 10% of energy intake. Discourage consumption of sugar-sweetened beverages, such as soft drinks and fruit juices, starting at a young age.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^fa81a91a]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^117QPTSh]. Journal of the American Heart Association (2017). Low credibility.
 
 Blood Pressure Effects
 
@@ -462,7 +462,7 @@ Adverse Events Reported
 
 ---
 
-### Patterns of energy drink use and associated symptoms among a… [^e7f00e8e]. stacks.cdc.gov (2016). Low credibility.
+### Patterns of energy drink use and associated symptoms among a… [^116vrmnM]. stacks.cdc.gov (2016). Low credibility.
 
 Patterns of Energy Drink Use and Associated Symptoms Among a Population of Connecticut Factory Workers 2016/05/01 By Galusha DH; Lefkowitz RY; Pensa MA;. File Language: Details Personal Author: Galusha DH; Lefkowitz RY; Pensa MA; Redlich CA; Stowe MH. Description: Caffeinated energy drinks are new and increasingly popular beverages with possible concerning health effects. With the rise in consumption of CEDs, there has been a concurrent rise in the number of emergency room visits related to adverse reactions and/or co-consumption with other substances. In addition to caffeine, CEDs contain vitamins, amino acids, and herbs. Consumers are often unaware of the ingredients in CEDs beyond caffeine or of their potential adverse health effects. The most commonly reported adverse effects of CEDs include sleep disturbance, racing heart, headache, stomach upset, and nervousness. There are also reports of seizures and deaths.
 
@@ -474,25 +474,25 @@ Subjects: Keywords: ISSN: 1076–2752 Document Type: Funding: Genre: Place as Su
 
 ---
 
-### How many alcoholic drinks might benefit an older person with hypertension? [^7fe6e39a]. Journal of Hypertension (2005). Low credibility.
+### How many alcoholic drinks might benefit an older person with hypertension? [^114GcysX]. Journal of Hypertension (2005). Low credibility.
 
 Lowering alcohol intake reduces blood pressure and hence cardiovascular risk. However, abstainers have an increase in cardiovascular risk and the advice to reduce intake to low levels may not be sound. This review examines the effects of lowering alcohol consumption in terms of blood pressure and coronary heart disease (CHD). The relationship between both CHD and stroke and alcohol consumption, and the benefits and disadvantages of alcohol consumption in the general population, are discussed. Where available, the results of large meta-analyses are reported. It is concluded that the hypertensive patient over the age of 60 who drinks over 16 drinks per week should be advised to reduce his or her alcohol intake but a daily drink may be advisable and the patient should not stop drinking entirely. It is not suggested that the non-drinker should start drinking, but most hypertensives are over the age of 60 when community studies suggest that drinking alcohol does more good than harm.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^81838102]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^114K1aFs]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — conclusions on risk and monitoring emphasize that energy drinks are frequently consumed and there are reports of morbidity and mortality associated with their consumption. In particular, individuals known to be more susceptible to adverse events include those of young age, small stature, caffeine-naïve or caffeine-sensitive, pregnant or breastfeeding women, those with certain medical conditions and/or taking certain medications, consuming multiple energy drinks in one session, and those with underlying cardiovascular or other diseases. Of critical importance, children and adolescents appear to be at particularly high risk of complications from energy drinks due to their small body size, being relatively caffeine naive, and potentially heavy and frequent consumption patterns, as well as the amounts of caffeine. Although most healthy adults can consume an energy drink without any significant, negative, acute health effects, the long-term effects of chronic consumption have not been well studied. Continued monitoring of adverse events related to energy drink consumption is needed to fully understand the rate, severity and nature of reactions to these products across the lifespan.
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1c1836b1]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111iencQ]. Hypertension (2025). High credibility.
 
 Lifestyle and psychosocial approaches — alcohol: "Adults with or without hypertension who currently consume alcohol should be advised to pursue a recommended goal of abstinence, or at least to reduce alcohol intake to ≤ 1 drink/d for women and ≤ 2 drinks/d for men to prevent or treat elevated BP and hypertension". One standard drink is defined as "12 to 14 g alcohol… 12 oz of beer (5% alcohol by volume), 5 oz of wine (12% alcohol by volume), or 1.5 oz of distilled spirits (40% alcohol by volume)".
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^703ecabb]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^113sQhrA]. Pediatric Research (2023). Medium credibility.
 
 Introduction
 
@@ -508,7 +508,7 @@ Therefore, this study aimed to investigate the effects of a single, bodyweight-a
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^4a81fdc0]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^112uTkHd]. Journal of the American Heart Association (2019). Medium credibility.
 
 Methods
 
@@ -522,7 +522,7 @@ Participants were randomized into 1 of 3 intervention phases using a computer‐
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^027dff99]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^1114hJDE]. Journal of the American Heart Association (2019). Medium credibility.
 
 Significant prolongation in the QT interval was also evident within the first hour after energy drink consumption but these are thought to be HR related changes. There appears to be a mild PR shortening effect and is currently thought to be clinically non‐significant. Most previous studies used the Bazett's correction formula, but it is known to under correct at low heart rates. 46 Conversely, the Fridericia formula has been shown to be an acceptable alternate correction formula when compared with the Bazett's. 47 Our results are significant regardless of the heart rate correction formula used (Bazett's or Fridericia's). However, it is important to note that QTc prolongation does not necessitate onset of torsades de pointes and is simply a risk factor. While our study incorporates many aspects of a "Thorough QT/QTc Study", assay‐sensitivity could not be assessed due to the lack of a positive‐control (eg, moxifloxacin). 27
 
@@ -530,25 +530,25 @@ Individuals with acquired or congenital long QT syndrome and those with hyperten
 
 ---
 
-### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^f7353d13]. Journal of the American Heart Association (2018). Low credibility.
+### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^117KVpn6]. Journal of the American Heart Association (2018). Low credibility.
 
 Despite these limitations, the results are consistent in showing a dose‐response relationship between level of consumption and risk of hypertension based on observational data, corroborated by randomized controlled trials. For men, there seems to be no lower threshold, whereas for women, the dose‐response seems to emerge only beyond 2 drinks a day. For both sexes, no protective effect could be found (and was not expected given the biological pathways 10). What could explain the differences between men and women? One explanation could be the difference in heavy drinking occasions within an overall average intake of alcohol of less than 2 drinks. An average of 2 drinks/day could be achieved by actually drinking 2 drinks every day, or by drinking 7 drinks each on Saturday and Sunday. The latter has different effects on blood pressure 66 and thus on risk of hypertension. Further research (both observational and experimental) is necessary, however, to ascertain the effects of pattern of drinking (including peak blood alcohol level) on hypertension and thus the repeated plea to include more measures on patterns of drinking into all epidemiological work. 67, 68
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^90aeea2a]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^114hVyCD]. Hypertension (2025). High credibility.
 
 Blood pressure (BP) management — alcohol intake advises that adults with or without hypertension who currently consume alcohol should be advised to pursue a recommended goal of abstinence, or at least to reduce alcohol intake to ≤ 1 drink/d for women and ≤ 2 drinks/d for men to prevent or treat elevated BP and hypertension; one standard drink (12 to 14 g alcohol) is equivalent to 12 oz of beer (5% alcohol by volume), 5 oz of wine (12% alcohol by volume), or 1.5 oz of distilled spirits (40% alcohol by volume).
 
 ---
 
-### Reducing population salt intake worldwide: from evidence to implementation [^eef0bc75]. Progress in Cardiovascular Diseases (2010). Low credibility.
+### Reducing population salt intake worldwide: from evidence to implementation [^1177EuzL]. Progress in Cardiovascular Diseases (2010). Low credibility.
 
 Raised blood pressure is a major cause of cardiovascular disease, responsible for 62% of stroke and 49% of coronary heart disease. There is overwhelming evidence that dietary salt is the major cause of raised blood pressure and that a reduction in salt intake lowers blood pressure, thereby, reducing blood pressure-related diseases. Several lines of evidence including ecological, population, and prospective cohort studies, as well as outcome trials, demonstrate that a reduction in salt intake is related to a lower risk of cardiovascular disease. Increasing evidence also suggests that a high salt intake may directly increase the risk of stroke, left ventricular hypertrophy, and renal disease; is associated with obesity through soft drink consumption; is related to renal stones and osteoporosis; is linked to the severity of asthma; and is probably a major cause of stomach cancer. In most developed countries, a reduction in salt intake can be achieved by a gradual and sustained reduction in the amount of salt added to foods by the food industry. In other countries where most of the salt consumed comes from salt added during cooking or from sauces, a public health campaign is needed to encourage consumers to use less salt. Several countries have already reduced salt intake. The challenge now is to spread this out to all other countries. A modest reduction in population salt intake worldwide will result in a major improvement in public health.
 
 ---
 
-### Reducing consumption of sugar-sweetened beverages is associated with reduced blood pressure: a prospective study among United States adults [^c5528b20]. Circulation (2010). Low credibility.
+### Reducing consumption of sugar-sweetened beverages is associated with reduced blood pressure: a prospective study among United States adults [^1163YHbM]. Circulation (2010). Low credibility.
 
 Background
 
@@ -568,19 +568,19 @@ URL: http://clinicaltrials.gov. Unique identifier: NCT00000616.
 
 ---
 
-### Alcohol consumption and the risk of stroke among hypertensive and overweight men [^29b2e689]. Journal of Neurology (2013). Low credibility.
+### Alcohol consumption and the risk of stroke among hypertensive and overweight men [^1124papQ]. Journal of Neurology (2013). Low credibility.
 
 High blood pressure and overweight are risk factors for stroke. The aim of the present study was to examine the association between alcohol consumption and the risk of stroke according to the level of blood pressure and body weight. This study is a population-based sample of men with an average follow-up of 14.9 years from eastern Finland. A total of 2,599 men with no history of stroke at baseline participated. During the follow-up period, 224 strokes occurred, of which 181 were ischemic strokes. After adjustment for age, year of examination, socioeconomic status, serum LDL cholesterol, body mass index, smoking and energy expenditure of physical activity (kcal/day), there was a significant trend of an increased risk for any and ischemic stroke among hypertensive men. Hypertensive (blood pressure of over 140/90 mm Hg) men, who did not consume alcohol had a 1.72-fold (95% CI 1.12–2.66; p = 0.014) relative risk (RR) for any stroke and a 1.90-fold (95% CI 1.15–3.13; p = 0.012) RR for ischemic stroke. Among hypertensive men who consumed alcohol RR was 1.86-fold (95% CI 1.20–2.89; p = 0.005) for any stroke and 2.02-fold (95% CI 1.21–3.35; p = 0.007) for ischemic stroke. Men who did not consume alcohol with elevated BMI (≥ 26.4 kg/m²) had a 1.63-fold RR (95% CI 1.11–2.40; p = 0.013) for any stroke and a 1.33-fold RR (95% CI 0.87–2.04; p = 0.199) for ischemic stroke after adjusting for risk factors. Overweight men (≥ 26.4 kg/m²) who consumed alcohol had a 1.73-fold RR (95% CI 1.18–2.54; p = 0.005) for any stroke and a 1.71-fold RR (95% CI 1.14–2.57; p = 0.010) for ischemic stroke after being adjusted for risk factors. In conclusion, this population-based prospective study shows that hypertensive and overweight men who consumed alcohol had an increased risk for stroke.
 
 ---
 
-### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^c2fafe03]. Journal of the American Heart Association (2019). Medium credibility.
+### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^115z4uPp]. Journal of the American Heart Association (2019). Medium credibility.
 
 We also identified a U‐shaped dose‐dependent relationship between incident hypertension and 100% fruit juice intake, where intake below 200 mL showed protective associations with hypertension. The maximum protective association appeared to be between doses of 50 and 150 mL (≈0.5–1.0 servings), after which the dose‐response curve suggested increasing RR with increasing dose, and even suggested harmful associations over intakes of 200 mL. This is in line with some national health guidelines, in which a 150‐mL glass of fruit juice contributes toward daily fruit consumption. 73 Other cohort studies have shown that 100% fruit juice, compared with fruit drinks, has neutral 74 or even protective 75 associations with incident cardiometabolic disease. The protective association of 100% fruit juice noted at moderate doses may be the result of the range of nutrients and bioactive compounds within the juice. 76 However, the potential for harmful associations at higher doses may be attributable to the consumption of excess calories outweighing any potentially protective nutrients contained within 100% fruit juice. 77
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^893b38b8]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^114WTCLX]. Pediatric Research (2023). Medium credibility.
 
 Effects of energy drinks on 24-h ambulatory blood pressure measurement
 
@@ -601,19 +601,19 @@ ABPM ambulatory blood pressure measurement, SBP systolic blood pressure, DBP dia
 
 ---
 
-### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^341c5192]. Journal of the American Heart Association (2020). Medium credibility.
+### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^112LFsM3]. Journal of the American Heart Association (2020). Medium credibility.
 
 Background Heavy alcohol consumption has a well-established association with hypertension. However, doubt persists whether moderate alcohol consumption has a similar link. This relationship is not well-studied in patients with diabetes mellitus. We aimed to describe the association of alcohol consumption with prevalent hypertension in participants in the ACCORD (Action to Control Cardiovascular Risk in Diabetes) trial. Methods and Results Alcohol consumption was categorized as none, light (1–7 drinks/week), moderate (8–14 drinks/week), and heavy (≥ 15 drinks/week). Blood pressure was categorized using American College of Cardiology/American Heart Association guidelines as normal, elevated blood pressure, stage 1 hypertension, and stage 2 hypertension. Multivariable logistic regression was used to explore the association between alcohol consumption and prevalent hypertension. A total of 10 200 eligible participants were analyzed. Light alcohol consumption was not associated with elevated blood pressure or any stage hypertension. Moderate alcohol consumption was associated with elevated blood pressure, stage 1, and stage 2 hypertension (odds ratio [OR], 1.79; 95% CI, 1.04–3.11, P = 0.03; OR, 1.66; 95% CI, 1.05–2.60, P = 0.03; and OR, 1.62; 95% CI, 1.03–2.54, P = 0.03, respectively). Heavy alcohol consumption was associated with elevated blood pressure, stage 1, and stage 2 hypertension (OR, 1.91; 95% CI, 1.17–3.12, P = 0.01; OR, 2.49; 95% CI, 1.03–6.17, P = 0.03; and OR, 3.04; 95% CI, 1.28–7.22, P = 0.01, respectively). Conclusions Despite prior research, our findings show moderate alcohol consumption is associated with hypertension in patients with type 2 diabetes mellitus and elevated cardiovascular risk. We also note a dose-risk relationship with the amount of alcohol consumed and the degree of hypertension.
 
 ---
 
-### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^532e0e3a]. Journal of Hypertension (2023). High credibility.
+### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^1138KSdF]. Journal of Hypertension (2023). High credibility.
 
 Regarding nonpharmacologic interventions for hypertension, more specifically with respect to alcohol restriction, ESH 2023 guidelines recommend to counsel adult patients with elevated BP or HTN currently consuming alcohol (≥ 3 drinks/day) that reducing alcohol intake close to abstinence will lower their BP.
 
 ---
 
-### Comparison of the effects of energy drink versus caffeine supplementation on indices of 24-hour ambulatory blood pressure [^d69d67ef]. The Annals of Pharmacotherapy (2012). Low credibility.
+### Comparison of the effects of energy drink versus caffeine supplementation on indices of 24-hour ambulatory blood pressure [^116VBDpi]. The Annals of Pharmacotherapy (2012). Low credibility.
 
 Background
 
@@ -637,13 +637,13 @@ Single-day energy drink supplementation increased mean 24-hour and daytime BP co
 
 ---
 
-### Obesity and hypertension: Obesity Medicine Association (OMA) clinical practice statement (CPS) 2023 [^f0864be1]. Obesity Pillars (2023). High credibility.
+### Obesity and hypertension: Obesity Medicine Association (OMA) clinical practice statement (CPS) 2023 [^1179b8wS]. Obesity Pillars (2023). High credibility.
 
 Blood pressure measurement considerations in obesity and hypertension include recognition and management of white-coat and masked hypertension and overstimulation. White-coat hypertension may increase readings and such patients may benefit from home blood pressure (BP) monitoring and/or ambulatory BP monitoring (ABPM), whereas masked hypertension shows normal office measurements but elevated ambulatory or home readings and patients with masked hypertension are at risk for cardiovascular disease. Overstimulation guidance states patients should avoid caffeine, energy drinks, decongestants, physical exercise, stressful situations, full bladder, and/or smoking for at least 30 minutes prior to BP measurement; if anxiety-producing circumstances precede the visit, the patient should be given the opportunity to calm down in a quiet room for 30 minutes or longer, and patients with full bladder, and/or who feel the need to urinate, may have increased blood pressure and should void prior to having blood pressure taken.
 
 ---
 
-### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^284b7fe2]. Journal of the American Heart Association (2020). Medium credibility.
+### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^1122js85]. Journal of the American Heart Association (2020). Medium credibility.
 
 Background
 
@@ -659,7 +659,7 @@ Despite prior research, our findings show moderate alcohol consumption is associ
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^43f5610c]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^112jkbFZ]. Journal of the American Heart Association (2017). Low credibility.
 
 Background
 
@@ -679,13 +679,13 @@ URL: http://www.clinicaltrials.gov. Unique identifier: NCT02023723.
 
 ---
 
-### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^5f996457]. Journal of Hypertension (2023). High credibility.
+### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^113SjM66]. Journal of Hypertension (2023). High credibility.
 
 Regarding nonpharmacologic interventions for hypertension, more specifically with respect to alcohol restriction, ESH 2023 guidelines recommend to do not offer alcohol for CVD prevention, as previous studies linking moderate consumption to lower cardiovascular risk are likely confounded.
 
 ---
 
-### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^fd5cf211]. Journal of the American Heart Association (2019). Medium credibility.
+### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^117Ud62L]. Journal of the American Heart Association (2019). Medium credibility.
 
 Discussion
 
@@ -697,13 +697,13 @@ Our results are consistent with established research on the harmful association 
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^e57b8e50]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116sDfbd]. Hypertension (2025). High credibility.
 
 High blood pressure in adults — alcohol intake and BP: Compared with average alcohol intake of 12 g per day (1 standard drink), relative risks for incident hypertension were 0.89 (95% CI: 0.84–0.94) at 0 g/day, 1.11 (95% CI: 1.07–1.15) at 24 g/day, 1.22 (95% CI: 1.14–1.30) at 36 g/day, and 1.33 (95% CI: 1.18–1.49) at 48 g/day, indicating the lowest risk with abstinence. In controlled trials among normotensive drinkers, reducing alcohol intake by at least 50% or to abstinence is associated with BP reduction, especially when baseline intake is ≥ 4 drinks per day. Among those consuming ≥ 6 drinks per day who reduced intake by 50% on average, mean BP decreased by 5.5/4.0 mm Hg; reductions were significant but lower with baseline intake of 3 to 5 drinks per day, and at ≤ 2 drinks per day no significant BP reduction was observed. The text concludes that aiming for abstinence appears to be optimal.
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^37e6d803]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^112RsrhY]. Pediatric Research (2023). Medium credibility.
 
 ✱ p value < 0.05; p value < 0.01.
 
@@ -730,7 +730,7 @@ Five out of 17 study participants gave incomplete information on sleep quality a
 
 ---
 
-### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^dba7f166]. Journal of the American Heart Association (2020). Medium credibility.
+### Association of alcohol intake with hypertension in type 2 diabetes mellitus: the ACCORD trial [^116cehWV]. Journal of the American Heart Association (2020). Medium credibility.
 
 Table 2
 Association of Alcohol Intake With Elevated Blood Pressure
@@ -743,7 +743,7 @@ Association of Alcohol Intake With Stage 2 Hypertension
 
 ---
 
-### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^8c0a7517]. Journal of the American Heart Association (2019). Medium credibility.
+### Important food sources of fructose-containing sugars and incident hypertension: a systematic review and dose-response meta-analysis of prospective cohort studies [^114acnBQ]. Journal of the American Heart Association (2019). Medium credibility.
 
 Grading of the Evidence
 
@@ -751,7 +751,7 @@ Overall quality and strength of the evidence at was assessed using the GRADE (Gr
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^23623849]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^111uTZLk]. Journal of the American Heart Association (2019). Medium credibility.
 
 Statistical Analysis
 
@@ -761,7 +761,7 @@ A repeated‐measures analysis of variance, which assumes a compound symmetry co
 
 ---
 
-### Acute effects of whey protein, alone and mixed with other macronutrients, on blood pressure and heart rate in older men [^cfb07366]. BMC Geriatrics (2022). Medium credibility.
+### Acute effects of whey protein, alone and mixed with other macronutrients, on blood pressure and heart rate in older men [^116Juhsb]. BMC Geriatrics (2022). Medium credibility.
 
 Conclusions
 
@@ -769,7 +769,7 @@ The hypotensive effect of mixed macronutrient drinks is dependent on overall ene
 
 ---
 
-### The potential adverse health effects of energy drinks… [^1f0bf34a]. AAFP (2013). Low credibility.
+### The potential adverse health effects of energy drinks… [^111o2dYm]. AAFP (2013). Low credibility.
 
 Because energy drinks are becoming more popular in the United States, family physicians should be familiar with them and their potentially harmful effects. Energy drinks are distinctly different from soft drinks or sports drinks. Soft drinks contain flavorings, sugars or artificial sweeteners, and often caffeine; sports drinks contain sugars and electrolytes. In contrast, energy drinks typically contain more caffeine than soft drinks, as well as sugars and dietary supplements. Energy drinks are marketed aggressively with claims that they will boost performance, attention, and mood, or decrease weight and reaction time. 1 The full list of supplements used in energy drinks is lengthy. Many energy drinks contain herbal products, such as guarana, ginseng, and yohimbine. They may also contain the amino acids taurine and 5-hydroxytryptophan, or large doses of B vitamins.
 
@@ -780,7 +780,7 @@ Bitter orange can cause cardiovascular adverse effects, ginseng can exacerbate b
 
 ---
 
-### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^9bc7ceb3]. JAMA Network Open (2023). High credibility.
+### Intake of energy drinks before and during pregnancy and adverse pregnancy outcomes [^114yxCF4]. JAMA Network Open (2023). High credibility.
 
 Introduction
 
@@ -790,7 +790,7 @@ Marketing campaigns of energy drinks have often targeted young people. However, 
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^51acb7a6]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^113661df]. Journal of the American Heart Association (2017). Low credibility.
 
 Background
 
@@ -810,7 +810,7 @@ Unique identifier:02023723.
 
 ---
 
-### Protein supplementation lowers blood pressure in overweight adults: effect of dietary proteins on blood pressure (PROPRES), a randomized trial [^4299c9fb]. The American Journal of Clinical Nutrition (2012). Low credibility.
+### Protein supplementation lowers blood pressure in overweight adults: effect of dietary proteins on blood pressure (PROPRES), a randomized trial [^112hjqei]. The American Journal of Clinical Nutrition (2012). Low credibility.
 
 Background
 
@@ -834,7 +834,7 @@ Increased protein intake, at the expense of maltodextrin, lowers BP in overweigh
 
 ---
 
-### Detrimental effects of energy drink consumption on platelet and endothelial function [^3d081960]. The American Journal of Medicine (2010). Low credibility.
+### Detrimental effects of energy drink consumption on platelet and endothelial function [^112ZUxyV]. The American Journal of Medicine (2010). Low credibility.
 
 Background
 
@@ -854,13 +854,13 @@ Energy drink consumption acutely increases platelet aggregation and decreases en
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^b7604981]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^115gs5Pv]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in chronic kidney disease — other lifestyle interventions and research needs — The Work Group notes that lifestyle measures such as weight loss among those who are overweight or obese, reducing alcohol consumption among those who drink heavily, and adopting a heart-healthy diet 'have been demonstrated in RCTs to lower BP in the general population', and 'may also have BP-lowering benefits in patients with CKD', where 'it may be reasonable to consider them when they can be applied safely and without side effects', but 'insufficient data on the risks or benefits of these interventions on BP in CKD populations per se preclude specific recommendations in this guideline'. Research recommendations include: 'Conduct clinical trials evaluating different dietary sodium reduction strategies for prevention of clinical endpoints of critical importance for CKD populations, including kidney failure, CV disease, and mortality', that 'There are inconsistencies among the studies examining the relationship of dietary sodium intake with health outcomes in persons with and without CKD. Additional research is required to investigate the consistency of effects of dietary sodium changes on health benefits and harms across different causes and severities of CKD', and that 'It is unknown if there is a minimum dietary sodium level in CKD below which health risks are increased'.
 
 ---
 
-### Effects of repeated binge drinking on blood pressure levels and other cardiovascular health metrics in young adults: national health and nutrition examination survey, 2011–2014 [^44b61fa8]. Journal of the American Heart Association (2018). Low credibility.
+### Effects of repeated binge drinking on blood pressure levels and other cardiovascular health metrics in young adults: national health and nutrition examination survey, 2011–2014 [^112ksLDd]. Journal of the American Heart Association (2018). Low credibility.
 
 Introduction
 
@@ -872,7 +872,7 @@ The aim of this study was to investigate the association between repeated binge 
 
 ---
 
-### The buzz on energy drinks | School nutrition… [^c120263a]. CDC (2025). Medium credibility.
+### The buzz on energy drinks | School nutrition… [^115wKQi5]. CDC (2025). Medium credibility.
 
 At a glance
 - An energy drink contains large amounts of caffeine.
@@ -898,7 +898,7 @@ Some of the dangers of energy drinks include:
 
 ---
 
-### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^919086fa]. Pediatric Research (2023). Medium credibility.
+### Energy drinks: effects on pediatric 24-h ambulatory blood pressure monitoring. A randomized trial [^114iokUq]. Pediatric Research (2023). Medium credibility.
 
 Methods
 
@@ -908,7 +908,7 @@ Detailed information on the study population and design was given in recent publ
 
 ---
 
-### Soft drink consumption and risk of developing cardiometabolic risk factors and the metabolic syndrome in middle-aged adults in the community [^fffda10b]. Circulation (2007). Low credibility.
+### Soft drink consumption and risk of developing cardiometabolic risk factors and the metabolic syndrome in middle-aged adults in the community [^117YX2xJ]. Circulation (2007). Low credibility.
 
 Background
 
@@ -924,7 +924,7 @@ In middle-aged adults, soft drink consumption is associated with a higher preval
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^b89a56fa]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^115igZdj]. Journal of the American Heart Association (2017). Low credibility.
 
 Methods
 
@@ -936,7 +936,7 @@ Participants were recruited via email and flyers between 2013 and 2014 on a US A
 
 ---
 
-### The wrong white crystals: not salt but sugar as aetiological in hypertension and cardiometabolic disease [^df49381a]. Open Heart (2014). Low credibility.
+### The wrong white crystals: not salt but sugar as aetiological in hypertension and cardiometabolic disease [^116i2qGV]. Open Heart (2014). Low credibility.
 
 Current levels of sugar consumption and dietary guidelines
 
@@ -949,19 +949,19 @@ The American Heart Association (AHA) makes no specific recommendations about fru
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^cb96ca47]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^116Cq8qU]. Kidney International (2021). High credibility.
 
 KDIGO 2021 — other lifestyle interventions for blood pressure (BP) management in chronic kidney disease (CKD) note that weight loss among those who are overweight or obese, reducing alcohol consumption among those who drink heavily, and adopting a heart-healthy diet pattern have been demonstrated in RCTs to lower BP in the general population; these interventions may also have BP-lowering benefits in CKD and it may be reasonable to consider them when they can be applied safely and without side effects, but insufficient data in CKD precluded specific recommendations. Research recommendations include: Conduct clinical trials evaluating different dietary sodium reduction strategies for prevention of clinical endpoints of critical importance for CKD populations, including kidney failure, CV disease, and mortality; There are inconsistencies among the studies examining the relationship of dietary sodium intake with health outcomes in persons with diabetes; Additional research is required to investigate the consistency of effects of dietary sodium changes on health benefits and harms across different causes and severities of CKD; and It is unknown if there is a minimum dietary sodium level in CKD below which health risks are increased.
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^53a890be]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^11392bJu]. Hypertension (2025). High credibility.
 
 Regarding nonpharmacologic interventions for hypertension, more specifically with respect to alcohol restriction, AANP/AAPA/ABC/ACC/ACCP/ACPM/AGS/AHA/AMA/ASPC/NMA/PCNA/SGIM 2025 guidelines recommend to advise adults with or without HTN to pursue abstinence from alcohol or reduce alcohol intake to ≤ 1 drink per day for women and ≤ 2 drinks per day for men to prevent or treat elevated BP and HTN.
 
 ---
 
-### Coffee consumption and risk of hypertension in the Polish arm of the HAPIEE cohort study [^5b596a2a]. European Journal of Clinical Nutrition (2016). Low credibility.
+### Coffee consumption and risk of hypertension in the Polish arm of the HAPIEE cohort study [^113LRuaq]. European Journal of Clinical Nutrition (2016). Low credibility.
 
 Background/Objectives
 
@@ -981,13 +981,13 @@ Relation between coffee consumption and incidence of hypertension was related to
 
 ---
 
-### Hypertension in adults: initial evaluation and management [^a3a85a66]. American Family Physician (2023). High credibility.
+### Hypertension in adults: initial evaluation and management [^115BdXid]. American Family Physician (2023). High credibility.
 
 Regarding nonpharmacologic interventions for hypertension, more specifically with respect to alcohol restriction, AAFP 2023 guidelines recommend to advise moderating alcohol intake in all patients with HTN or elevated BP.
 
 ---
 
-### Alcohol intake reduction for controlling hypertension [^5f8801cf]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Alcohol intake reduction for controlling hypertension [^113SdWQN]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -1019,7 +1019,7 @@ An intervention for decreasing alcohol intake consumption did not result in diff
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^42a0720c]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^112hn5L7]. Journal of the American Heart Association (2019). Medium credibility.
 
 End Point Measurement
 
@@ -1031,7 +1031,7 @@ Blood pressure measurements were obtained in the seated position after an initia
 
 ---
 
-### Alcohol and binge drinking frequency and hypertension: a national cross-sectional study in the U.S [^d9bfe464]. American Journal of Preventive Medicine (2024). Medium credibility.
+### Alcohol and binge drinking frequency and hypertension: a national cross-sectional study in the U.S [^116ZpmWj]. American Journal of Preventive Medicine (2024). Medium credibility.
 
 Introduction
 
@@ -1051,13 +1051,13 @@ Contrary to some studies suggesting moderate alcohol intake has protective cardi
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^61dff5d1]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113W72S4]. Hypertension (2025). High credibility.
 
 Table 12 — Lifestyle and stress-reduction interventions to lower blood pressure — weight loss, heart-healthy diet (Dietary Approaches to Stop Hypertension [DASH]), sodium reduction/salt substitute, potassium intake, and alcohol reduction list evidence-based goals and the Approximate Mean Change in systolic blood pressure (SBP) in mm Hg with and without hypertension. For weight loss (body weight or body mass index [BMI]), goals are "Aim for sustained ≥ 5% reduction in body weight or ≥ 3 kg/m² reduction in BMI; expect about 1 mm Hg reduction for every 1-kg reduction in body weight", with hypertension −6 to −8 and without hypertension −3 to −5. For a heart-healthy diet (DASH), the goal is to "Consume a diet rich in fruits, vegetables, whole grains, and low-fat dairy products, with reduced content of saturated and total fat", with hypertension −5 to −8 and without hypertension −3 to −7. For reduced sodium intake, the target is "Optimal goal is < 2300 mg/d, but aim for an ideal limit of < 1500 mg/d", with hypertension −6 to −8 and without hypertension −1 to −4; using a salt substitute to "Replace cooking/table salt (100% sodium chloride) with salt substitute (25%–30% potassium chloride, 65%–75% sodium chloride, and 0%–10% flavoring agents)" to "Reduce dietary sodium intake as above" yields with hypertension −5 to −7 and without hypertension −5. For enhanced potassium intake, the goal is "Aim for 3500–5000 mg/d, ideally by consumption of a diet rich in potassium; or alternative use of moderate-dose pharmacological potassium supplementation (< 80 mmol)", with hypertension −6 and without hypertension −3 to −6. For reduced alcohol intake, the goal is "Optimal goal is abstinence for all adults for best health outcomes; in patients who consume alcohol, aim for > 50% reduction in daily intake to no more than 2 drinks/d in men or 1 drink/d in women", with hypertension −4 to −6 and without hypertension −3. The table cautions that "these values should not be compared directly to indicate comparative effectiveness".
 
 ---
 
-### Acute effects of red wine on cytochrome P450 eicosanoids and blood pressure in men [^079bfa39]. Journal of Hypertension (2013). Low credibility.
+### Acute effects of red wine on cytochrome P450 eicosanoids and blood pressure in men [^111CHJfA]. Journal of Hypertension (2013). Low credibility.
 
 Objective
 
@@ -1077,7 +1077,7 @@ Acute consumption of alcohol as red wine results in a relative increase in plasm
 
 ---
 
-### Effects of energy drinks on cardiovascular endpoints… [^0cff0583]. ClinicalTrials (2025). Medium credibility.
+### Effects of energy drinks on cardiovascular endpoints… [^111LGWbt]. ClinicalTrials (2025). Medium credibility.
 
 Effects of Energy Drinks on Cardiovascular EndpointsClinicalTrials. gov ID Study Overview This study is a randomized, double-blind, controlled, crossover, proof-of-concept trial designed to examine how energy drinks affect heart rhythm and other health measures in healthy adults aged 18 to 40. This study investigates the cardiovascular safety of energy drinks by examining their effects on electrocardiographic parameters, with a specific focus on the QTc interval. The protocol consists of two phases conducted with 3 healthy volunteers. Phase A evaluates four interventions: 1) energy drink A 2) moxifloxacin 3) caffeine 4) placebo. Phase B evaluates four interventions: 1) energy drink B 2) taurine 3) caffeine + taurine 4) lower dose energy drink A. After an overnight fast participants will consume the study intervention within a 30 minute period.
 
@@ -1091,7 +1091,7 @@ Examples of these include but not limited to: Dyslipidemia, Thyroid disease, Dia
 
 ---
 
-### The effect of a reduction in alcohol consumption on blood pressure: a systematic review and meta-analysis [^97c4bfc3]. The Lancet: Public Health (2017). Medium credibility.
+### The effect of a reduction in alcohol consumption on blood pressure: a systematic review and meta-analysis [^114t1DXx]. The Lancet: Public Health (2017). Medium credibility.
 
 Background
 
@@ -1115,31 +1115,31 @@ National Institute on Alcohol Abuse and Alcoholism of the National Institutes of
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^d0624d15]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116KwSgC]. Journal of the American College of Cardiology (2025). High credibility.
 
 Blood pressure (BP) management — potassium, alcohol, physical activity, and stress reduction. In adults with or without hypertension, potassium-based salt substitutes can be useful to prevent or treat elevated BP and hypertension, particularly for patients in whom salt intake is related mostly to food preparation or flavoring at home, except in the presence of CKD or use of drugs that reduce potassium excretion where monitoring of serum potassium levels is indicated (2a A); these substitutes typically contain 25% to 30% potassium chloride, 65% to 75% sodium chloride, and 0% to 10% flavoring agents. In adults with elevated BP or hypertension, moderate potassium supplementation, ideally from dietary sources, is recommended, with the same exception and monitoring language (1 A); moderate potassium supplementation is ≤ 60 mmol/d (≈60 mEq/d). For alcohol, adults with or without hypertension who currently consume alcohol should be advised to pursue a recommended goal of abstinence, or at least to reduce alcohol intake to ≤ 1 drink/d for women and ≤ 2 drinks/d for men; one standard drink (12 to 14 g alcohol) is equivalent to 12 oz of beer (5% alcohol by volume), 5 oz of wine (12% alcohol by volume), or 1.5 oz of distilled spirits (40% alcohol by volume) (1 A). In adults with or without hypertension, increasing physical activity, through a structured exercise program that includes aerobic exercise and/or resistance training, is recommended (1 A). For stress reduction, transcendental meditation may be reasonable and other forms such as breathing control techniques or yoga may be reasonable, as adjuncts to lifestyle or medication interventions (both 2b B-R).
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^bb906a9e]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115o5CA9]. Journal of the American College of Cardiology (2025). High credibility.
 
 Alcohol intake and blood pressure — Systolic (SBP) and diastolic blood pressure (DBP) increase over time with any amount of baseline alcohol intake; relative to 12 g per day (1 standard drink), the risk of incident hypertension was 0.89 (95% CI: 0.84–0.94) at 0 g/day, 1.11 (95% CI: 1.07–1.15) at 24 g/day, 1.22 (95% CI: 1.14–1.30) at 36 g/day, and 1.33 (95% CI: 1.18–1.49) at 48 g/day; in controlled trials among normotensive drinkers, reducing alcohol by at least 50% or to abstinence is associated with BP reduction, especially for those drinking ≥ 4 drinks per day, with mean BP lowered by 5.5/4.0 mm Hg when individuals consuming ≥ 6 drinks per day reduced intake by 50% on average, no significant BP reduction at ≤ 2 drinks per day, and given other cardiovascular harm with continued alcohol use, aiming for abstinence appears to be optimal.
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^cb10708f]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116C41Ui]. Journal of the American College of Cardiology (2025). High credibility.
 
 2025 High Blood Pressure Guideline — Table 12 dietary and weight-related interventions to lower systolic blood pressure (SBP): Weight loss targeting body weight or body mass index (BMI) with the goal to aim for sustained ≥ 5% reduction in body weight or ≥ 3 kg/m² reduction in BMI, expecting about 1 mm Hg reduction for every 1‑kg reduction in body weight, shows approximate mean SBP change with hypertension −6 to −8 and without hypertension −3 to −5; a heart-healthy diet using the Dietary Approaches to Stop Hypertension (DASH) eating pattern, with a goal to consume a diet rich in fruits, vegetables, whole grains, and low‑fat dairy products with reduced saturated and total fat, shows −5 to −8 with hypertension and −3 to −7 without; reduced intake of sodium with an optimal goal < 2300 mg/d and an ideal limit < 1500 mg/d shows −6 to −8 with hypertension and −1 to −4 without; use of a salt substitute that replaces cooking/table salt (100% sodium chloride) with 25%-30% potassium chloride, 65%-75% sodium chloride, and 0%-10% flavoring agents, with the goal to reduce dietary sodium intake as above, shows −5 to −7 with hypertension and −5 without; enhanced intake of potassium with the goal to aim for 3500–5000 mg/d or use moderate‑dose pharmacological potassium supplementation (< 80 mmol) shows −6 with hypertension and −3 to −6 without; reduced alcohol intake with the goal that the optimal goal is abstinence for all adults and, for those who drink, > 50% reduction to no more than 2 drinks/d in men or 1 drink/d in women shows −4 to −6 with hypertension and −3 without; note the table cautions that, because inclusion/exclusion criteria and comparator groups vary across interventions, these values should not be compared directly to indicate comparative effectiveness.
 
 ---
 
-### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^9a61295a]. Journal of the American College of Cardiology (2019). High credibility.
+### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^114wsjFw]. Journal of the American College of Cardiology (2019). High credibility.
 
 Table 7 — nonpharmacological interventions for prevention and treatment of hypertension in adults with a normal blood pressure (BP) and with hypertension reports goals and approximate impact on systolic blood pressure (SBP) as follows: Weight loss — aim for at least a 1‑kg reduction; expect about 1 mm Hg for every 1‑kg reduction; Hypertension: −5 mm Hg; Normotension: −2/3 mm Hg. Healthy diet (DASH dietary pattern) — consume a diet rich in fruits, vegetables, whole grains, and low‑fat dairy; Hypertension: −11 mm Hg; Normotension: −3 mm Hg. Reduced intake of dietary sodium — optimal goal is < 1500 mg/d, but aim for at least a 1000‑mg/d reduction; Hypertension: −5/6 mm Hg; Normotension: −2/3 mm Hg. Enhanced intake of dietary potassium — aim for 3500–5000 mg/d; Hypertension: −4/5 mm Hg; Normotension: −2 mm Hg. Physical activity (aerobic) — 90–150 min/wk, 65%–75% heart rate reserve; Hypertension: −5/8 mm Hg; Normotension: −2/4 mm Hg. Dynamic resistance — 90–150 min/wk, 50%–80% 1 rep maximum, 6 exercises, 3 sets/exercise, 10 repetitions/set; Hypertension: −4 mm Hg; Normotension: −2 mm Hg. Isometric resistance — 4 × 2 min (hand grip), 1 min rest, 30%–40% maximum voluntary contraction, 3 sessions/wk for 8–10 wk; Hypertension: −5 mm Hg; Normotension: −4 mm Hg. Moderation in alcohol intake — in individuals who drink alcohol, reduce to Men: ≤ 2 drinks daily and Women: ≤ 1 drink daily; Hypertension: −4 mm Hg; Normotension: −3 mm Hg.
 
 ---
 
-### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^f6d4ded3]. Journal of the American Heart Association (2018). Low credibility.
+### Sex-specific associations between alcohol consumption and incidence of hypertension: a systematic review and meta-analysis of cohort studies [^117JwTNi]. Journal of the American Heart Association (2018). Low credibility.
 
 Background
 
@@ -1155,7 +1155,7 @@ Any alcohol consumption was associated with an increase in the risk for hyperten
 
 ---
 
-### Caffeine consumption and cardiovascular risks: little cause for concern [^cd31bbb3]. Journal of the American Heart Association (2016). Low credibility.
+### Caffeine consumption and cardiovascular risks: little cause for concern [^116FDAen]. Journal of the American Heart Association (2016). Low credibility.
 
 Cardiovascular Risk Factors: Blood Pressure and Lipids
 
@@ -1167,19 +1167,19 @@ Research has suggested that both plasma total cholesterol and low‐density lipo
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^cd91c99e]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116FmRwb]. Hypertension (2025). High credibility.
 
 Alcohol intake and blood pressure — risk gradients, thresholds, and effects of reduction: SBP and DBP increase over time with any amount of baseline alcohol intake, and compared with average alcohol intake of 12 g per day (1 standard drink), relative risks for hypertension incidence among individuals drinking 0, 24, 36, and 48 g per day were 0.89 (95% CI: 0.84–0.94), 1.11 (95% CI: 1.07–1.15), 1.22 (95% CI: 1.14–1.30), and 1.33 (95% CI: 1.18–1.49), respectively, indicating lowest risk with abstinence. Among normotensive individuals, reduction of alcohol intake by at least 50% or to abstinence is associated with BP reduction, especially for those drinking ≥ 4 drinks per day; in those with alcohol intake ≥ 6 drinks per day who reduced intake by 50% on average, mean BP was lowered by 5.5/4.0 mm Hg, whereas at ≤ 2 drinks per day no significant BP reduction was observed with intake reduction.
 
 ---
 
-### Sugar-sweetened beverage, sugar intake of individuals, and their blood pressure: international study of macro / micronutrients and blood pressure [^999dfbc1]. Hypertension (2011). Low credibility.
+### Sugar-sweetened beverage, sugar intake of individuals, and their blood pressure: international study of macro / micronutrients and blood pressure [^114vkAt8]. Hypertension (2011). Low credibility.
 
 The obesity epidemic has focused attention on relationships of sugars and sugar-sweetened beverages (SSBs) to cardiovascular risk factors. Here we report cross-sectional associations of SSBs, diet beverages, and sugars with blood pressure (BP) for United Kingdom and US participants of the International Study of Macro/Micronutrients and Blood Pressure. Data collected include four 24-hour dietary recalls, two 24-hour urine collections, 8 BP readings, and questionnaire data for 2696 people ages 40 to 59 years of age from 10 US/United Kingdom population samples. Associations of SSBs, diet beverages, and sugars (fructose, glucose, and sucrose) with BP were assessed by multiple linear regression. SSB intake related directly to BP, with P values of 0.005 to < 0.001 (systolic BP) and 0.14 to < 0.001 (diastolic BP). SSB intake higher by 1 serving per day (355 mL/24 hours) was associated with systolic/diastolic BP differences of +1.6/+0.8 mm Hg (both P < 0.001) and +1.1/+0.4 mm Hg (P < 0.001/ < 0.05) with adjustment for weight and height. Diet beverage intake was inversely associated with BP (P 0.41 to 0.003). Fructose- and glucose-BP associations were direct, with significant sugar-sodium interactions: for individuals with above-median 24-hour urinary sodium excretion, fructose intake higher by 2 SD (5.6% kcal) was associated with systolic/diastolic BP differences of +3.4/+2.2 mm Hg (both P < 0.001) and +2.5/+1.7 mm Hg (both P = 0.002) with adjustment for weight and height. Observed independent, direct associations of SSB intake and BP are consistent with recent trial data. These findings, plus adverse nutrient intakes among SSB consumers, and greater sugar-BP differences for persons with higher sodium excretion lend support to recommendations that intake of SSBs, sugars, and salt be substantially reduced.
 
 ---
 
-### Alcohol intake and risk of hypertension: a systematic review and dose-response meta-analysis of nonexperimental cohort studies [^28da4f32]. Hypertension (2024). Medium credibility.
+### Alcohol intake and risk of hypertension: a systematic review and dose-response meta-analysis of nonexperimental cohort studies [^1123ZqHK]. Hypertension (2024). Medium credibility.
 
 The association between alcohol consumption and hypertension is especially important because of the high prevalence of alcohol consumption above a light intake in many countries and the well-demonstrated association between hypertension and adverse effects, including risk of cardiovascular disease, cognitive decline, and kidney damage. – Our findings have implications for public health and recommendations related to the safety of alcohol consumption, both for men (in whom, any consumption may be detrimental, but particularly a high consumption) and women (in whom 1–1.5 drinks a day may not to be related to an excess risk of hypertension). In a previous meta-analysis, a similar alcohol intake threshold for risk of hypertension was identified in women while no inflection point and therefore no safe range of intake was identified in men.
 
@@ -1187,13 +1187,13 @@ Our findings are in contrast with previous reports suggesting that light to mode
 
 ---
 
-### Alcohol consumption and the risk of hypertension in women and men [^3c71e812]. Hypertension (2008). Low credibility.
+### Alcohol consumption and the risk of hypertension in women and men [^112YcWzD]. Hypertension (2008). Low credibility.
 
 Heavy alcohol intake increases the risk of hypertension, but the relationship between light-to-moderate alcohol consumption and incident hypertension remains controversial. We prospectively followed 28 848 women from the Women's Health Study and 13 455 men from the Physicians' Health Study free of baseline hypertension, cardiovascular disease, and cancer. Self-reported lifestyle and clinical risk factors were collected. In women, total alcohol intake was summed from liquor, red wine, white wine, and beer; men reported total alcohol intake from a single combined question. During 10.9 and 21.8 years of follow-up, 8680 women and 6012 men developed hypertension (defined as new physician diagnosis, antihypertensive treatment, reported systolic blood pressure ≥ 140 mm Hg, or diastolic blood pressure ≥ 90 mm Hg). In women, we found a J-shaped association between alcohol intake and hypertension in age- and lifestyle-adjusted models. Adding potential intermediates (body mass index, diabetes, and high cholesterol) attenuated the benefits of alcohol in the light-to-moderate range and strengthened the adverse effects of heavy alcohol intake. Beverage-specific relative risks paralleled those for total alcohol intake. In men, alcohol intake was positively and significantly associated with the risk of hypertension and persisted after multivariate adjustment. Models stratified by baseline systolic blood pressure (< 120 versus ≥ 120 mm Hg) or diastolic blood pressure (< 75 versus ≥ 75 mm Hg) did not alter the relative risks in women and men. In conclusion, light-to-moderate alcohol consumption decreased hypertension risk in women and increased risk in men. The threshold above which alcohol became deleterious for hypertension risk emerged at ≥ 4 drinks per day in women versus a moderate level of ≥ 1 drink per day in men.
 
 ---
 
-### Cardiovascular effects of energy drinks in the pediatric population [^ffcce21a]. Pediatric Emergency Care (2021). Medium credibility.
+### Cardiovascular effects of energy drinks in the pediatric population [^117YEfJq]. Pediatric Emergency Care (2021). Medium credibility.
 
 Abstract
 
@@ -1201,19 +1201,19 @@ Consumption of energy drinks in the pediatric population is correlated with more
 
 ---
 
-### Alcohol consumption and the incidence of hypertension: the atherosclerosis risk in communities study [^2ae27141]. Hypertension (2001). Low credibility.
+### Alcohol consumption and the incidence of hypertension: the atherosclerosis risk in communities study [^1126aYHn]. Hypertension (2001). Low credibility.
 
 A close relationship between alcohol consumption and hypertension has been established, but it is unclear whether there is a threshold level for this association. In addition, it has infrequently been studied in longitudinal studies and in black people. In a cohort study, 8334 of the Atherosclerosis Risk in Communities (ARIC) Study participants, aged 45 to 64 years at baseline, who were free of hypertension and coronary heart disease had their blood pressures ascertained after 6 years of follow-up. Alcohol consumption was assessed by dietary interview. The type of alcoholic beverage predominantly consumed was defined by the source of the largest amount of ethanol consumed. Incident hypertension was defined as a systolic blood pressure ≥ 140 mm Hg or diastolic blood pressure ≥ 90 mm Hg or use of antihypertensive medication. There was an increased risk of hypertension in those who consumed large amounts of ethanol (≥ 210 g per week) compared with those who did not consume alcohol over the 6 years of follow-up. The adjusted odds ratios (95% confidence interval) were 1.2 (0.85 to 1.67) for white men, 2.02 (1.08 to 3.79) for white women, and 2.31 (1.11 to 4.86) for black men. Only 4 black women reported drinking > 210 g ethanol per week. At low to moderate levels of alcohol consumption (1 to 209 g per week), the adjusted odds ratios (95% confidence interval) were 0.88 (0.71 to 1.08) in white men, 0.89 (0.73 to 1.09) in white women, 1.71 (1.11 to 2.64) in black men, and 0.88 (0.59 to 1.33) in black women. Systolic and diastolic blood pressures were higher in black men who consumed low to moderate amounts of alcohol compared with the nonconsumers but not in the 3 other race-gender strata. Models with polynomial terms of alcohol exposure suggested a nonlinear association in white and black men. Higher levels of consumption of all types of alcoholic beverages were associated with a higher risk of hypertension for all race-gender strata. The consumption of alcohol in amounts ≥ 210 g per week is an independent risk factor for hypertension in free-living North American populations. The consumption of low to moderate amounts of alcohol also appears to be associated with a higher risk of hypertension in black men.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^27fe4d87]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^1122HwD8]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — regulatory classification, composition, and risk populations include the following points: the amount of caffeine in over-the-counter products is limited to a maximum of 200 mg per dose, whereas there is no limit for energy drinks; within the FDA, energy drinks are classified as either dietary supplements (require adverse events reporting, but contents not as strictly controlled) or foods/beverages (do not require adverse events reporting, contents strictly controlled); energy drinks usually have herbal blends, taurine, glucuronolactone, and vitamins in high concentrations, whereas traditional beverages do not; reported adverse events include trouble sleeping, anxiety, cardiovascular events, seizures, and even death, with safety concerns especially important in vulnerable populations including those younger than 18 yr, pregnant or breastfeeding women, caffeine naive or sensitive individuals, individuals taking stimulant or other caffeine-based medications, those with certain cardiovascular or medical conditions, and/or heavy consumption patterns — defined as two or more energy drinks in one session; the majority of energy drink-related health concerns appear to be linked to caffeine, caffeine-like additives, and/or other energy drink substances such as taurine that may interact with caffeine, and multiple ingredients with heavy consumption appear to be more problematic than coffee or caffeine alone, particularly in individuals with long QT syndrome.
 
 ---
 
-### Effect of alcohol on blood pressure [^e5d1649a]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Effect of alcohol on blood pressure [^116siVqb]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 

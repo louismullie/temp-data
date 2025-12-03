@@ -15,31 +15,31 @@ Are there any specific cardiac arrhythmias associated with energy drink consumpt
 
 > Let's see… What do we have here? The user is asking whether specific cardiac arrhythmias are associated with energy drink consumption. Let's break this down step-by-step. First, I need to think about the scope and whether we are talking about acute versus chronic effects. Then, I should verify the mechanistic plausibility, especially around repolarization and QT effects. Next, I will examine randomized and controlled human data for QTc changes and hemodynamics. After that, I should review case series and reports for concrete arrhythmia phenotypes. Then, I will consider vulnerable populations and co-ingestants. Finally, I will synthesize the strength of evidence and outline practical clinical implications and uncertainties that remain.
 
-> Let me first confirm the scope so I don't overgeneralize. The question is about identifying specific arrhythmias temporally linked to energy drink exposure, distinguishing acute effects from chronic patterns, and separating the effects of caffeine alone from multi-ingredient energy drinks that also contain taurine, guarana, B-vitamins, and sugars, which may have distinct electrophysiologic interactions [^27fe4d87] [^f18ee068].
+> Let me first confirm the scope so I don't overgeneralize. The question is about identifying specific arrhythmias temporally linked to energy drink exposure, distinguishing acute effects from chronic patterns, and separating the effects of caffeine alone from multi-ingredient energy drinks that also contain taurine, guarana, B-vitamins, and sugars, which may have distinct electrophysiologic interactions [^1122HwD8] [^117B81No].
 
-> I need to check mechanistic plausibility before attributing causality. Energy drinks acutely increase sympathetic tone and catecholamines, raise blood pressure, and can prolong ventricular repolarization, which together lower arrhythmic thresholds; importantly, several randomized studies show reproducible QTc prolongation on the order of roughly 10–20 ms within 1–2 hours of high-volume intake, a magnitude that, while modest on average, crosses thresholds used in drug safety evaluation and can exceed 50 ms in susceptible individuals, which is clinically meaningful for torsades risk [^0df96fdd] [^117ffd5f] [^25c9d294].
+> I need to check mechanistic plausibility before attributing causality. Energy drinks acutely increase sympathetic tone and catecholamines, raise blood pressure, and can prolong ventricular repolarization, which together lower arrhythmic thresholds; importantly, several randomized studies show reproducible QTc prolongation on the order of roughly 10–20 ms within 1–2 hours of high-volume intake, a magnitude that, while modest on average, crosses thresholds used in drug safety evaluation and can exceed 50 ms in susceptible individuals, which is clinically meaningful for torsades risk [^111Mid64] [^111SwnES] [^111y2LFM].
 
-> Hold on, let's not jump to conclusions about caffeine alone. I should double-check whether the QT effects are attributable to caffeine or to other ingredients. Controlled trials comparing energy drinks to matched-dose caffeine show greater QTc effects with energy drinks than with caffeine alone, supporting a class effect beyond caffeine; mechanistic work in whole-heart models also shows that taurine and caffeine can abbreviate action potential duration and effective refractory periods in ways that facilitate reentry, which is a plausible proarrhythmic mechanism in the right substrate [^51acb7a6] [^0df96fdd] [^0df96fdd].
+> Hold on, let's not jump to conclusions about caffeine alone. I should double-check whether the QT effects are attributable to caffeine or to other ingredients. Controlled trials comparing energy drinks to matched-dose caffeine show greater QTc effects with energy drinks than with caffeine alone, supporting a class effect beyond caffeine; mechanistic work in whole-heart models also shows that taurine and caffeine can abbreviate action potential duration and effective refractory periods in ways that facilitate reentry, which is a plausible proarrhythmic mechanism in the right substrate [^113661df] [^111Mid64] [^111Mid64].
 
-> Next, I should review the randomized and controlled human data to quantify effect sizes. In a crossover RCT of 34 healthy adults, 32 oz of energy drink increased Bazett-corrected QT by about 18–20 ms versus placebo over 4 hours, with sustained effects and concurrent rises in peripheral and central blood pressure; smaller studies using the same high-volume paradigm have shown similar directions of effect, and some noncontrolled cohorts even reported a high proportion with QTc > 500 ms, though those designs are more vulnerable to bias and should be interpreted cautiously [^0df96fdd] [^f0b5cc04] [^5901a2d3].
+> Next, I should review the randomized and controlled human data to quantify effect sizes. In a crossover RCT of 34 healthy adults, 32 oz of energy drink increased Bazett-corrected QT by about 18–20 ms versus placebo over 4 hours, with sustained effects and concurrent rises in peripheral and central blood pressure; smaller studies using the same high-volume paradigm have shown similar directions of effect, and some noncontrolled cohorts even reported a high proportion with QTc > 500 ms, though those designs are more vulnerable to bias and should be interpreted cautiously [^111Mid64] [^1179s6Km] [^113GxSxJ].
 
-> I will now examine case-based evidence to identify specific arrhythmia phenotypes. Case series and reports repeatedly document atrial fibrillation, ventricular tachycardia/fibrillation, and torsades de pointes in temporal proximity to energy drink consumption, often in adolescents and young adults without overt structural heart disease; some cases reveal previously unrecognized long QT syndrome or catecholaminergic polymorphic VT, suggesting energy drinks can unmask latent channelopathies or adrenergically mediated arrhythmias [^cfc0fb0c] [^5d643410] [^38084dad] [^268bbacf].
+> I will now examine case-based evidence to identify specific arrhythmia phenotypes. Case series and reports repeatedly document atrial fibrillation, ventricular tachycardia/fibrillation, and torsades de pointes in temporal proximity to energy drink consumption, often in adolescents and young adults without overt structural heart disease; some cases reveal previously unrecognized long QT syndrome or catecholaminergic polymorphic VT, suggesting energy drinks can unmask latent channelopathies or adrenergically mediated arrhythmias [^116K1FuD] [^113PTWKy] [^112S56Yc] [^111z9Ts4].
 
-> Let me consider vulnerable populations and modifiers of risk. Individuals with congenital or acquired long QT syndrome, those on QT-prolonging drugs, patients with electrolyte disturbances, and people with structural heart disease appear at heightened risk; youth and caffeine-naïve individuals may also be more susceptible due to limited tolerance and higher exposure per kilogram, and co-ingestion with alcohol or other stimulants compounds risk through autonomic effects and pharmacokinetic interactions [^38084dad] [^27fe4d87] [^ffcce21a].
+> Let me consider vulnerable populations and modifiers of risk. Individuals with congenital or acquired long QT syndrome, those on QT-prolonging drugs, patients with electrolyte disturbances, and people with structural heart disease appear at heightened risk; youth and caffeine-naïve individuals may also be more susceptible due to limited tolerance and higher exposure per kilogram, and co-ingestion with alcohol or other stimulants compounds risk through autonomic effects and pharmacokinetic interactions [^112S56Yc] [^1122HwD8] [^117YEfJq].
 
-> But wait, what if the arrhythmias are just caffeine effects and not specific to energy drinks? I should confirm the distinction. Large observational cohorts generally do not show increased atrial or ventricular ectopy with habitual caffeinated coffee, and a recent randomized trial in patients with AF found fewer recurrences with caffeinated coffee versus abstinence, reinforcing that caffeine alone is not inherently proarrhythmic in most people; in contrast, the controlled energy-drink studies show effects beyond matched-dose caffeine, supporting a formulation-specific risk signal rather than a generic caffeine effect [^4998dd64] [^4e8408eb] [^51acb7a6].
+> But wait, what if the arrhythmias are just caffeine effects and not specific to energy drinks? I should confirm the distinction. Large observational cohorts generally do not show increased atrial or ventricular ectopy with habitual caffeinated coffee, and a recent randomized trial in patients with AF found fewer recurrences with caffeinated coffee versus abstinence, reinforcing that caffeine alone is not inherently proarrhythmic in most people; in contrast, the controlled energy-drink studies show effects beyond matched-dose caffeine, supporting a formulation-specific risk signal rather than a generic caffeine effect [^112t7Scs] [^1131QPEA] [^113661df].
 
-> I should double-check the strength and consistency of evidence before concluding. Multiple randomized, placebo-controlled studies converge on acute QTc prolongation and blood pressure increases with energy drinks, case series consistently catalog serious arrhythmias including AF and VT/VF, and mechanistic data provide biologic plausibility; while causality cannot be proven definitively given ethical constraints, the triangulation of controlled physiologic changes, temporal clinical events, and mechanistic coherence supports a causal contribution in susceptible contexts [^0df96fdd] [^f0b5cc04] [^cfc0fb0c] [^4e56d87c].
+> I should double-check the strength and consistency of evidence before concluding. Multiple randomized, placebo-controlled studies converge on acute QTc prolongation and blood pressure increases with energy drinks, case series consistently catalog serious arrhythmias including AF and VT/VF, and mechanistic data provide biologic plausibility; while causality cannot be proven definitively given ethical constraints, the triangulation of controlled physiologic changes, temporal clinical events, and mechanistic coherence supports a causal contribution in susceptible contexts [^111Mid64] [^1179s6Km] [^116K1FuD] [^11319CsV].
 
-> Let me synthesize the specific arrhythmias most convincingly associated with energy drink consumption. The clearest signals are for atrial fibrillation, ventricular tachycardia/fibrillation including torsades de pointes, and frequent premature ventricular contractions, with the unifying mechanism being repolarization instability from QTc prolongation and adrenergic surges, particularly when combined with substrate such as long QT syndrome, electrolyte derangements, or structural heart disease [^cfc0fb0c] [^38084dad] [^0df96fdd].
+> Let me synthesize the specific arrhythmias most convincingly associated with energy drink consumption. The clearest signals are for atrial fibrillation, ventricular tachycardia/fibrillation including torsades de pointes, and frequent premature ventricular contractions, with the unifying mechanism being repolarization instability from QTc prolongation and adrenergic surges, particularly when combined with substrate such as long QT syndrome, electrolyte derangements, or structural heart disease [^116K1FuD] [^112S56Yc] [^111Mid64].
 
-> I need to ensure the clinical implications are practical. For patients with palpitations, syncope, or documented arrhythmias, I should ask explicitly about energy drink use and counsel avoidance, especially in those with long QT risk, on QT-prolonging drugs, or with structural heart disease; for the general population, moderation is prudent, and high-volume, rapid ingestion should be discouraged pending better safety data, while clinicians should maintain vigilance for channelopathies in unexplained events after energy drink exposure [^f3032e75] [^38084dad] [^27fe4d87].
+> I need to ensure the clinical implications are practical. For patients with palpitations, syncope, or documented arrhythmias, I should ask explicitly about energy drink use and counsel avoidance, especially in those with long QT risk, on QT-prolonging drugs, or with structural heart disease; for the general population, moderation is prudent, and high-volume, rapid ingestion should be discouraged pending better safety data, while clinicians should maintain vigilance for channelopathies in unexplained events after energy drink exposure [^117DH4Te] [^112S56Yc] [^1122HwD8].
 
-> Hold on, I should verify uncertainties and future directions so we don't overstate certainty. Dose-response thresholds, individual ingredient contributions, and long-term chronic effects remain incompletely defined; ongoing and proposed studies using rigorous ECG phenotyping, positive controls, and stratification by genetic risk may clarify who is most vulnerable and whether regulatory thresholds for QT effects should be applied to these beverages, mirroring drug-safety standards [^0df96fdd] [^0cff0583] [^684a528f].
+> Hold on, I should verify uncertainties and future directions so we don't overstate certainty. Dose-response thresholds, individual ingredient contributions, and long-term chronic effects remain incompletely defined; ongoing and proposed studies using rigorous ECG phenotyping, positive controls, and stratification by genetic risk may clarify who is most vulnerable and whether regulatory thresholds for QT effects should be applied to these beverages, mirroring drug-safety standards [^111Mid64] [^111LGWbt] [^113fcgEA].
 
 ---
 
-Energy drinks are associated with **QT prolongation** [^0df96fdd] and **torsades de pointes** [^38084dad], especially in patients with congenital long QT syndrome or on QT-prolonging drugs [^d90ce95f]. They also increase risk of **atrial fibrillation** [^cfc0fb0c] and **ventricular arrhythmias**, including ventricular tachycardia/fibrillation and sudden cardiac arrest, particularly with high intake or co-ingestion with alcohol or other stimulants [^cfc0fb0c] [^268bbacf]. Mechanisms include caffeine, taurine, and other stimulants that prolong repolarization, increase sympathetic tone, and destabilize cardiac electrophysiology [^4e56d87c] [^25c9d294]. Patients with underlying heart disease, channelopathies, or on QT-prolonging medications should avoid energy drinks [^d90ce95f].
+Energy drinks are associated with **QT prolongation** [^111Mid64] and **torsades de pointes** [^112S56Yc], especially in patients with congenital long QT syndrome or on QT-prolonging drugs [^116Yneh4]. They also increase risk of **atrial fibrillation** [^116K1FuD] and **ventricular arrhythmias**, including ventricular tachycardia/fibrillation and sudden cardiac arrest, particularly with high intake or co-ingestion with alcohol or other stimulants [^116K1FuD] [^111z9Ts4]. Mechanisms include caffeine, taurine, and other stimulants that prolong repolarization, increase sympathetic tone, and destabilize cardiac electrophysiology [^11319CsV] [^111y2LFM]. Patients with underlying heart disease, channelopathies, or on QT-prolonging medications should avoid energy drinks [^116Yneh4].
 
 ---
 
@@ -47,27 +47,27 @@ Energy drinks are associated with **QT prolongation** [^0df96fdd] and **torsades
 
 ### QT prolongation and torsades de pointes
 
-- **QT prolongation**: Energy drinks consistently prolong QTc by ~10–20 ms in healthy volunteers [^0df96fdd] [^f0b5cc04], with some reaching > 500 ms, a threshold linked to torsades risk [^5901a2d3].
+- **QT prolongation**: Energy drinks consistently prolong QTc by ~10–20 ms in healthy volunteers [^111Mid64] [^1179s6Km], with some reaching > 500 ms, a threshold linked to torsades risk [^113GxSxJ].
 
-- **Torsades de pointes**: Case reports and a small RCT show torsades in patients with congenital long QT syndrome exposed to energy drinks [^38084dad] [^d90ce95f].
+- **Torsades de pointes**: Case reports and a small RCT show torsades in patients with congenital long QT syndrome exposed to energy drinks [^112S56Yc] [^116Yneh4].
 
-- **Mechanism**: Caffeine, taurine, and other stimulants prolong repolarization and increase sympathetic tone, destabilizing ventricular electrophysiology [^4e56d87c] [^25c9d294].
+- **Mechanism**: Caffeine, taurine, and other stimulants prolong repolarization and increase sympathetic tone, destabilizing ventricular electrophysiology [^11319CsV] [^111y2LFM].
 
 ---
 
 ### Atrial fibrillation
 
-- **Atrial fibrillation**: Energy drinks are linked to new-onset AF, particularly in young adults without prior heart disease [^797bdb80] [^830f48a5].
+- **Atrial fibrillation**: Energy drinks are linked to new-onset AF, particularly in young adults without prior heart disease [^11477735] [^114MJWfn].
 
-- **Mechanism**: Acute effects include increased atrial ectopy, shortened atrial refractory periods, and autonomic imbalance favoring AF triggers [^797bdb80].
+- **Mechanism**: Acute effects include increased atrial ectopy, shortened atrial refractory periods, and autonomic imbalance favoring AF triggers [^11477735].
 
 ---
 
 ### Ventricular arrhythmias and sudden cardiac arrest
 
-- **Ventricular tachycardia/fibrillation**: Multiple case reports and series document VT/VF and sudden cardiac arrest temporally linked to energy drinks, often with high intake or co-ingestants [^cfc0fb0c] [^268bbacf].
+- **Ventricular tachycardia/fibrillation**: Multiple case reports and series document VT/VF and sudden cardiac arrest temporally linked to energy drinks, often with high intake or co-ingestants [^116K1FuD] [^111z9Ts4].
 
-- **Mechanism**: Sympathetic surge, QT prolongation, and ischemia from coronary spasm or demand ischemia contribute to malignant ventricular arrhythmias [^4e56d87c] [^7d72658f].
+- **Mechanism**: Sympathetic surge, QT prolongation, and ischemia from coronary spasm or demand ischemia contribute to malignant ventricular arrhythmias [^11319CsV] [^114CysrW].
 
 ---
 
@@ -75,10 +75,10 @@ Energy drinks are associated with **QT prolongation** [^0df96fdd] and **torsades
 
 | **Arrhythmia type** | **Evidence level** | **Key findings** |
 |-|-|-|
-| QT prolongation | High | - RCTs show consistent QTc prolongation (~10–20 ms) [^0df96fdd] [^f0b5cc04] <br/> - Some subjects exceed 500 ms [^5901a2d3] |
-| Torsades de pointes | Moderate | - Case reports and RCT in LQTS patients [^38084dad] [^d90ce95f] |
-| Atrial fibrillation | Moderate | - Case reports and echocardiographic studies [^797bdb80] [^830f48a5] |
-| Ventricular arrhythmias | Moderate | - Case reports and series [^cfc0fb0c] [^268bbacf] |
+| QT prolongation | High | - RCTs show consistent QTc prolongation (~10–20 ms) [^111Mid64] [^1179s6Km] <br/> - Some subjects exceed 500 ms [^113GxSxJ] |
+| Torsades de pointes | Moderate | - Case reports and RCT in LQTS patients [^112S56Yc] [^116Yneh4] |
+| Atrial fibrillation | Moderate | - Case reports and echocardiographic studies [^11477735] [^114MJWfn] |
+| Ventricular arrhythmias | Moderate | - Case reports and series [^116K1FuD] [^111z9Ts4] |
 
 ---
 
@@ -86,13 +86,13 @@ Energy drinks are associated with **QT prolongation** [^0df96fdd] and **torsades
 
 Certain groups are at **higher risk** of energy drink–related arrhythmias:
 
-- **Congenital long QT syndrome**: Energy drinks can unmask or exacerbate LQTS and provoke torsades [^38084dad] [^d90ce95f].
+- **Congenital long QT syndrome**: Energy drinks can unmask or exacerbate LQTS and provoke torsades [^112S56Yc] [^116Yneh4].
 
-- **Patients on QT-prolonging drugs**: Additive QT effects increase torsades risk [^d90ce95f].
+- **Patients on QT-prolonging drugs**: Additive QT effects increase torsades risk [^116Yneh4].
 
-- **Structural heart disease**: Energy drinks can trigger arrhythmias in patients with cardiomyopathy or congenital heart disease [^a3689097].
+- **Structural heart disease**: Energy drinks can trigger arrhythmias in patients with cardiomyopathy or congenital heart disease [^115BG72E].
 
-- **Adolescents and young adults**: High consumption and caffeine naivety increase susceptibility [^81838102] [^ffcce21a].
+- **Adolescents and young adults**: High consumption and caffeine naivety increase susceptibility [^114K1aFs] [^117YEfJq].
 
 ---
 
@@ -100,13 +100,13 @@ Certain groups are at **higher risk** of energy drink–related arrhythmias:
 
 Several **mechanisms** are implicated:
 
-- **QT prolongation**: Direct effects of caffeine, taurine, and other stimulants on repolarization [^4e56d87c] [^0df96fdd].
+- **QT prolongation**: Direct effects of caffeine, taurine, and other stimulants on repolarization [^11319CsV] [^111Mid64].
 
-- **Increased sympathetic tone**: Catecholamine surge from caffeine and stimulants lowers arrhythmic thresholds [^25c9d294].
+- **Increased sympathetic tone**: Catecholamine surge from caffeine and stimulants lowers arrhythmic thresholds [^111y2LFM].
 
-- **Electrolyte disturbances**: Caffeine-induced diuresis and metabolic effects can precipitate arrhythmias [^f99df4a7].
+- **Electrolyte disturbances**: Caffeine-induced diuresis and metabolic effects can precipitate arrhythmias [^117P4yPt].
 
-- **Coronary vasospasm**: Energy drinks can cause ischemia-related arrhythmias in susceptible patients [^7d72658f].
+- **Coronary vasospasm**: Energy drinks can cause ischemia-related arrhythmias in susceptible patients [^114CysrW].
 
 ---
 
@@ -114,11 +114,11 @@ Several **mechanisms** are implicated:
 
 Current guidance emphasizes **caution** and selective avoidance:
 
-- **Avoid in high-risk patients**: Those with LQTS, on QT-prolonging drugs, or with structural heart disease should avoid energy drinks [^d90ce95f].
+- **Avoid in high-risk patients**: Those with LQTS, on QT-prolonging drugs, or with structural heart disease should avoid energy drinks [^116Yneh4].
 
-- **Limit intake**: General advice is to limit consumption, especially in adolescents and young adults [^81838102] [^82efb3b0].
+- **Limit intake**: General advice is to limit consumption, especially in adolescents and young adults [^114K1aFs] [^114M7uQT].
 
-- **Monitor symptoms**: Patients with palpitations or syncope should be screened for energy drink use and underlying arrhythmias [^cfc0fb0c].
+- **Monitor symptoms**: Patients with palpitations or syncope should be screened for energy drink use and underlying arrhythmias [^116K1FuD].
 
 ---
 
@@ -128,25 +128,25 @@ Energy drinks are associated with **QT prolongation**, **torsades de pointes**, 
 
 ## References
 
-### Arrhythmogenic effects of energy drinks [^5d643410]. Journal of Cardiovascular Electrophysiology (2017). Low credibility.
+### Arrhythmogenic effects of energy drinks [^113PTWKy]. Journal of Cardiovascular Electrophysiology (2017). Low credibility.
 
 Energy drinks (ED) are increasingly popular, especially among adolescents and young adults. They are marketed as enhancers of energy, alertness, and physical performance. ED contain high doses of caffeine and other active ingredients. Their safety has come under question due to reports temporally linking ED consumption with serious cardiovascular events, including arrhythmias and sudden cardiac death. In this article, we report 2 cases of life-threatening ventricular arrhythmias in young patients after consuming ED. We also review the ingredients of ED, the physiologic effects on the cardiovascular system, and the available evidence suggesting arrhythmogenecity.
 
 ---
 
-### Commonly consumed beverages in daily life: do they cause atrial fibrillation? [^802b6f4c]. Clinical Cardiology (2015). Low credibility.
+### Commonly consumed beverages in daily life: do they cause atrial fibrillation? [^114H21FR]. Clinical Cardiology (2015). Low credibility.
 
 Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia in the United States and worldwide. Caffeine, alcohol, and, more recently, energy drinks are the most commonly consumed beverages in daily living, especially by young individuals. Several questions have been raised about the implications of caffeine, alcohol, and energy drinks in cardiovascular health, especially in triggering AF. This review focuses on the role of these commonly consumed beverages as a cause of AF, with special emphasis of potential mechanisms and studies addressing this issue.
 
 ---
 
-### Review of published cases of adverse cardiovascular events after ingestion of energy drinks [^cfc0fb0c]. The American Journal of Cardiology (2014). Low credibility.
+### Review of published cases of adverse cardiovascular events after ingestion of energy drinks [^116K1FuD]. The American Journal of Cardiology (2014). Low credibility.
 
 Energy drink (ED) consumption has been linked to several adverse event reports, but there is limited data on related cardiovascular (CV) complications. We describe clinical characteristics, ED consumption profile, co-ingestions, and results of cardiovascular testing in a series of cardiovascular event reports temporally related to ED consumption from the literature. We searched PubMed and Embase for case reports in peer-reviewed journals from January 1, 1980, to February 1, 2013, in which an acute CV event was associated temporally with ED consumption. We identified 14 eligible articles involving 15 cases (5 atrial arrhythmias, 5 ventricular arrhythmias, 1 QT prolongation, 4 ST-segment elevations). Two additional cases of cardiac arrest from our institution are included. Of these 17 cases of ED-related acute CV events (13 male cases; 15 cases aged < 30 years, age range 13 to 58 years), only 1 had minor previous cardiac disease. Cardiac investigations did not reveal any predisposing cardiac abnormality in the majority of cases. Of the 11 cases related to a serious event (i.e., cardiac arrest, ventricular arrhythmia, or ST-segment elevations), 5 reported acute heavy ED consumption, 4 reported co-ingestions with alcohol or other drugs, and 2 were found to have a channelopathy. Potential mechanisms of ED-related cardiac events are reviewed. In conclusion, several adverse CV events after consuming ED have been reported in the literature. Although causality cannot be inferred from our series, physicians should routinely inquire about ED consumption in relevant cases, and vulnerable consumers such as youth should be advised that caution is warranted with heavy consumption and/or with concomitant alcohol or drug ingestion.
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^d90ce95f]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^116Yneh4]. Journal of the American Heart Association (2019). Medium credibility.
 
 Of course, most energy drink consumers do not have a genetic LQTS. Is there evidence that energy drink–induced QT prolongation poses a risk to these individuals? A MEDLINE search finds only a single case of torsade de pointes, the characteristic arrhythmia caused by QT prolongation, linked to energy drink consumption (ie, the young woman with LQTS‐1 described above). 8 Torsade de pointes can rapidly progress to ventricular fibrillation, and it is impossible to know whether QT prolongation played a role in any of the unexplained deaths or cardiac arrests linked to energy drinks. But with millions of consumers and > 20 000 emergency department visits yearly involving energy drinks, the role of QT prolongation would be more compelling if there were other reports of torsade de pointes.
 
@@ -154,13 +154,13 @@ Concerns about the short‐ and long‐term health risks of energy drinks extend
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^38084dad]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^112S56Yc]. Journal of the American Heart Association (2019). Medium credibility.
 
 So, does energy drink–induced QT prolongation pose a serious health risk? The most obvious at‐risk group would be those with a genetic long‐QT syndrome (LQTS); a health risk in this group is supported by 2 case reports and a small clinical trial. A previously healthy 22‐year‐old woman experienced cardiac arrest after drinking 6 cans of energy drink over 4 hours. 8 The initial ECG showed torsade de pointes, and her QTc shortly after arrival was prolonged at 526 ms, normalizing to 419 ms over the next few days. Subsequent genetic testing confirmed LQTS‐1. In a similar case, a 13‐year‐old girl who presented with chest pain and palpitations after consuming an energy drink had a prolonged QTc interval on admission (561 ms) that fully normalized by the next day. 9 Genetic testing again confirmed LQTS‐1. Finally, in a randomized, placebo‐controlled study of subjects with familial LQTS, the QTc interval increased by > 50 ms after energy drink in 3 of 24 patients. 10 Perhaps some of the cardiac arrests linked to energy drinks were the result of unmasking a previously undiagnosed genetic ion channelopathy.
 
 ---
 
-### Sudden cardiac arrest occurring in temporal proximity to consumption of energy drinks [^268bbacf]. Heart Rhythm (2024). Medium credibility.
+### Sudden cardiac arrest occurring in temporal proximity to consumption of energy drinks [^111z9Ts4]. Heart Rhythm (2024). Medium credibility.
 
 Background
 
@@ -184,7 +184,7 @@ Overall, 5% of SCA survivors experienced SCA in proximity to consuming an energy
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^117ffd5f]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^111SwnES]. Journal of the American Heart Association (2019). Medium credibility.
 
 Since the first product appeared on US shelves in 1997, the caffeinated energy drink market has grown dramatically, with an estimated annual revenue of $10 billion in 2018. Advertising for products such as Red Bull, Monster, and Rockstar emphasizes claims of enhanced energy level, mental focus, and physical performance. This marketing strategy resonates with teenagers and young adults, the dominant consumer group for these products. As the energy drink market has grown, so too has awareness of their health risks. 1, 2 Between 2004 and 2014, 34 deaths linked to energy drinks were reported to the US Food and Drug Administration, and serious adverse events described in the literature include cardiac arrest, myocardial infarction, atrial fibrillation, and seizures. 3 Despite multiple articles in the medical literature and lay press describing the risks of energy drinks, especially when combined with alcohol, growth of this industry shows little sign of slowing.
 
@@ -192,7 +192,7 @@ Although the health risks of energy drinks have been widely recognized, the mech
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^4a787453]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^112uQYVg]. Journal of the American Heart Association (2019). Medium credibility.
 
 Introduction
 
@@ -202,7 +202,7 @@ Energy drink consumption has been associated with cardiac arrest, myocardial inf
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^55879dea]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^113BoVz1]. Journal of the American Heart Association (2017). Low credibility.
 
 Introduction
 
@@ -214,31 +214,31 @@ Although the cardiovascular safety profile of caffeine has been relatively well 
 
 ---
 
-### Energy drinks: a contemporary issues paper [^25c9d294]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^111y2LFM]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — acute cardiovascular effects in healthy people include marked short‑term hemodynamic and electrocardiographic changes. Increased norepinephrine levels of 74% have been noted, and 1 to 2 h after consumption healthy individuals usually have a ~ 6- to 10-mm Hg rise in systolic and 3 to 6 mm Hg rise in diastolic blood pressure with heart rate increasing approximately 3 to 7 bpm; in apparently healthy persons QTc prolongation up to 22 to 25 ms 1 to 2 h after consumption has been described.
 
 ---
 
-### Energy drink consumption and cardiac complications: a case for caution [^830f48a5]. Journal of Addiction Medicine (2016). Low credibility.
+### Energy drink consumption and cardiac complications: a case for caution [^114MJWfn]. Journal of Addiction Medicine (2016). Low credibility.
 
 We present a case of atrial fibrillation with rapid ventricular response in a 28-year-old previously healthy man in the context of daily consumption of 2 Monster energy drinks and 2 to 3 beers. We have obtained consent from this patient to present his case. Our observation adds to the developing literature describing an association between highly caffeinated drinks and adverse cardiovascular events. The previous cases in the literature and the proposed underlying mechanisms of this association are briefly discussed in this article. With the rising popularity of energy drinks, clinicians should be aware of their arrhythmogenic potential and consider screening for these products in patients who present with otherwise unexplained arrhythmias.
 
 ---
 
-### Alcohol and arrhythmias [^87b1aae2]. JACC: Clinical Electrophysiology (2023). Medium credibility.
+### Alcohol and arrhythmias [^114UB1Hb]. JACC: Clinical Electrophysiology (2023). Medium credibility.
 
 The association between alcohol consumption and abnormalities of heart rate and rhythm has long been recognized. Significant attention has focused on the risk of atrial fibrillation (AF) and sudden cardiac death (SCD) with excessive alcohol intake. Recent studies have advanced our understanding of these relationships and provided additional insights into potentially arrhythmogenic mechanisms. However, considerable uncertainty remains, such as the level of consumption at which harm begins and whether alcohol plays a role in other arrhythmias. This review characterizes the spectrum of conduction abnormalities and heart rhythm disorders in relation to alcohol consumption. In addition, it discusses the latest epidemiologic and experimental evidence, the potential importance of beverage type and constituent ingredients, and conflicting information on drink definitions, thresholds, and recommendations.
 
 ---
 
-### Effect of dietary factors on cardiac rhythm [^c25f0073]. The American Journal of Cardiology (2018). Low credibility.
+### Effect of dietary factors on cardiac rhythm [^115yAWTL]. The American Journal of Cardiology (2018). Low credibility.
 
 The interaction between arrhythmias and certain lifestyle factors such as obesity and alcohol consumption is well-established. There is significant public and professional interest in the role of various diets, vitamins, and minerals in cardiovascular health. However, many widely held beliefs are not supported by the literature. There is limited evidence for routine magnesium and omega-3 poly-unsaturated fatty acids supplementation, while coffee, tea, nuts, antioxidant vitamins, and even chocolate may have some antiarrhythmic properties. Saturated fat, added salt, and excessive energy drink consumption appear to be harmful for patients with rhythm disorders. However most recommendations are based on observation studies, and this remains a fertile area for further research.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^4f5a860e]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^1132eRoj]. Journal of the American Heart Association (2017). Low credibility.
 
 Discussion
 
@@ -246,7 +246,7 @@ QTc prolongation is a recognized marker of increased risk for fatal arrhythmias.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^6675ddfa]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^113cuKys]. Journal of the American Heart Association (2017). Low credibility.
 
 Study Limitations
 
@@ -254,13 +254,13 @@ Our results should be interpreted with caution due to several limitations. Impor
 
 ---
 
-### Caffeine and arrhythmias: time to grind the data [^03fe923e]. JACC: Clinical Electrophysiology (2018). Low credibility.
+### Caffeine and arrhythmias: time to grind the data [^1116vUJ1]. JACC: Clinical Electrophysiology (2018). Low credibility.
 
 The interaction between arrhythmia episodes and certain lifestyle factors such as obesity and alcohol is well established. There is significant public and professional interest in the role of caffeinated beverages such as coffee, tea, and energy drinks in cardiovascular health. However, many widely held beliefs are not supported by evidence. This study provides a comprehensive review of the impact of caffeinated beverages on cardiac rhythm.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^c6a49914]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^1165VqRd]. Journal of the American Heart Association (2019). Medium credibility.
 
 Conclusions
 
@@ -268,13 +268,13 @@ Caffeinated energy drinks significantly prolong the QTc interval and raise brach
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^0df96fdd]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^111Mid64]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background Energy drinks have been linked to an increase in emergency room visits and deaths. We aim to determine the impact of energy drinks on electrocardiographic and hemodynamic parameters in young healthy volunteers. Methods and Results A randomized, double-masked, placebo-controlled, crossover study was conducted in healthy volunteers. Participants consumed 32 oz of either energy drink A, energy drink B, or placebo within 60 minutes on 3 study days with a 6-day washout period in between. The primary end point of QT c interval and secondary end points of QT interval, PR interval, QRS duration, heart rate, and brachial and central blood pressures were measured at baseline, and every 30 minutes for 240 minutes. A repeated-measures 2-way analysis of variance was performed with the main effects of intervention, time, and an interaction of intervention and time. Thirty-four participants were included (age 22.1 ± 3.0 years). The interaction term of intervention and time was statistically significant for Bazett's corrected QT interval, Fridericia's corrected QT interval, QT, PR, QRS duration, heart rate, systolic blood pressure, diastolic blood pressure, central systolic blood pressure, and central diastolic blood pressure (all P < 0.001). The maximum change from baseline in Bazett's corrected QT interval for drinks A, B, and placebo were +17.9 ± 13.9, +19.6 ± 15.8, and +11.9 ± 11.1 ms, respectively (P = 0.005 for ANOVA) (P = 0.04 and < 0.01, respectively compared with placebo). Peripheral and central systolic and diastolic blood pressure were statistically significantly different compared with placebo (all P < 0.001). Conclusion Energy drinks significantly prolong the QT c interval and raise blood pressure. Clinical Trial Registration URL: http://www.clinicaltrials.gov. Unique identifier: NCT03196908.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^f0b5cc04]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^1179s6Km]. Journal of the American Heart Association (2019). Medium credibility.
 
 Discussion
 
@@ -284,7 +284,7 @@ Three smaller studies have evaluated the impact of consuming 32 oz of energy dri
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^51acb7a6]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^113661df]. Journal of the American Heart Association (2017). Low credibility.
 
 Background
 
@@ -304,13 +304,13 @@ Unique identifier:02023723.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^27fe4d87]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^1122HwD8]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — regulatory classification, composition, and risk populations include the following points: the amount of caffeine in over-the-counter products is limited to a maximum of 200 mg per dose, whereas there is no limit for energy drinks; within the FDA, energy drinks are classified as either dietary supplements (require adverse events reporting, but contents not as strictly controlled) or foods/beverages (do not require adverse events reporting, contents strictly controlled); energy drinks usually have herbal blends, taurine, glucuronolactone, and vitamins in high concentrations, whereas traditional beverages do not; reported adverse events include trouble sleeping, anxiety, cardiovascular events, seizures, and even death, with safety concerns especially important in vulnerable populations including those younger than 18 yr, pregnant or breastfeeding women, caffeine naive or sensitive individuals, individuals taking stimulant or other caffeine-based medications, those with certain cardiovascular or medical conditions, and/or heavy consumption patterns — defined as two or more energy drinks in one session; the majority of energy drink-related health concerns appear to be linked to caffeine, caffeine-like additives, and/or other energy drink substances such as taurine that may interact with caffeine, and multiple ingredients with heavy consumption appear to be more problematic than coffee or caffeine alone, particularly in individuals with long QT syndrome.
 
 ---
 
-### Cardiovascular responses to energy drinks in a healthy population: the C-energy study [^5901a2d3]. The American Journal of Emergency Medicine (2016). Low credibility.
+### Cardiovascular responses to energy drinks in a healthy population: the C-energy study [^113GxSxJ]. The American Journal of Emergency Medicine (2016). Low credibility.
 
 Background
 
@@ -334,7 +334,7 @@ Energy drinks increased systolic blood pressure, altered electrolytes, and resul
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^43f5610c]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^112jkbFZ]. Journal of the American Heart Association (2017). Low credibility.
 
 Background
 
@@ -354,7 +354,7 @@ URL: http://www.clinicaltrials.gov. Unique identifier: NCT02023723.
 
 ---
 
-### Caffeine and cardiac arrhythmias in patients with heart failure… [^13b893b7]. JAMA Network (2025). Excellent credibility.
+### Caffeine and cardiac arrhythmias in patients with heart failure… [^111WEmCr]. JAMA Network (2025). Excellent credibility.
 
 These results challenge the intuitive perception that caffeine intake should be limited in patients with heart disease and at risk for arrhythmia. Importance The presumed proarrhythmic action of caffeine is controversial. Few studies have assessed the effect of high doses of caffeine in patients with heart failure due to left ventricular systolic dysfunction at high risk for ventricular arrhythmias. Main Outcomes and Measures Number and percentage of ventricular and supraventricular premature beats assessed by continuous electrocardiographic monitoring. Results. Exercise test–derived variables, such as ventricular and supraventricular premature beats, duration of exercise, estimated peak oxygen consumption, and heart rate, were not influenced by caffeine ingestion. We observed no increases in ventricular premature beats in patients with higher levels of plasma caffeine concentration compared with lower plasma levels or with the placebo group. The relationship between caffeine consumption and the triggering of arrhythmias has been explored for decades but remains controversial. 1–3 Early experimental studies indicated that caffeine appeared to cause severe ventricular arrhythmias. 4 Evidence from human studies, however, suggests that caffeine might not be arrhythmogenic in most scenarios, 5–8 except. Other subgroups of interest were also analyzed. No significant differences were observed for major arrhythmic outcomes in this analysis. During the treadmill test, there were also no differences in VPBs or SVPBs between both days of the protocol. Likewise, duration of exercise and estimated peak oxygen consumption were similar between groups. The only significant differences were higher values of peak systolic and diastolic blood pressure in the caffeine group.
 
@@ -362,7 +362,7 @@ In this double-blind randomized crossover clinical trial, we evaluated the acute
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^e4a0a390]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^116qx8kX]. Journal of the American Heart Association (2017). Low credibility.
 
 Although not statistically significant, a trend in the elevation of cSBP at 6 hours post energy drink consumption was evident. Central BP indices are emerging as superior predictors of cardiovascular risk over peripheral BPs as they better reflect vascular compliance and should be further investigated in future studies. 37 The trend towards a higher HR at 2 hours and the lower AI at 6 hours in the energy drink arm are clinically not critical in this acute setting.
 
@@ -370,7 +370,7 @@ Certain populations may consider exercising caution when consuming energy drinks
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^8a18f6b5]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^114XjgDr]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background
 
@@ -390,19 +390,19 @@ Unique identifier:03196908.
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^e1fd4186]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^116n3HEM]. Journal of the American Heart Association (2019). Medium credibility.
 
 See Article Shah et al.
 
 ---
 
-### ACC / AHA / ESC 2006 guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force and the European Society of Cardiology committee for practice guidelines (writing committee to develop guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death) [^d8707124]. Journal of the American College of Cardiology (2006). Medium credibility.
+### ACC / AHA / ESC 2006 guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force and the European Society of Cardiology committee for practice guidelines (writing committee to develop guidelines for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death) [^116Xt6R9]. Journal of the American College of Cardiology (2006). Medium credibility.
 
 Alcohol intake — ventricular arrhythmias and sudden cardiac death: Class I recommendations are that complete abstinence from alcohol is recommended in cases where there is a suspected correlation between alcohol intake and ventricular arrhythmias (Level of Evidence: C), and that persistent life-threatening ventricular arrhythmias despite abstinence should be treated as for other diseases, including an ICD, in patients receiving chronic optimal medical therapy and who have reasonable expectation of survival for more than 1 y (Level of Evidence: C). Observational data describe a J-shaped relationship with risk lowest in those with low alcohol intake (i.e., 2 to 6 drinks per week) and higher with high intake (i.e., more than 3 to 5 drinks per day) and with binge drinking; in middle-aged men with established CHD, low to moderate intake (1 to 14 units per week) was not associated with any significant benefit. The guideline notes alcohol's effects on arrhythmia risk correlate directly with amount and duration of intake, even small quantities may be significant in susceptible individuals, and alcohol has a negative inotropic effect that may be masked by catecholamine release.
 
 ---
 
-### Effects of energy drinks on cardiovascular endpoints… [^0cff0583]. ClinicalTrials (2025). Medium credibility.
+### Effects of energy drinks on cardiovascular endpoints… [^111LGWbt]. ClinicalTrials (2025). Medium credibility.
 
 Effects of Energy Drinks on Cardiovascular EndpointsClinicalTrials. gov ID Study Overview This study is a randomized, double-blind, controlled, crossover, proof-of-concept trial designed to examine how energy drinks affect heart rhythm and other health measures in healthy adults aged 18 to 40. This study investigates the cardiovascular safety of energy drinks by examining their effects on electrocardiographic parameters, with a specific focus on the QTc interval. The protocol consists of two phases conducted with 3 healthy volunteers. Phase A evaluates four interventions: 1) energy drink A 2) moxifloxacin 3) caffeine 4) placebo. Phase B evaluates four interventions: 1) energy drink B 2) taurine 3) caffeine + taurine 4) lower dose energy drink A. After an overnight fast participants will consume the study intervention within a 30 minute period.
 
@@ -417,7 +417,7 @@ Over the next 4 hours, the electrocardiogram, blood pressure, hemodynamics, gluc
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^801e4bb2]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^114GwbHB]. Journal of the American Heart Association (2017). Low credibility.
 
 Conclusions
 
@@ -425,19 +425,19 @@ Our study findings suggest significant prolongation of the QTc interval 2 hours 
 
 ---
 
-### European Heart Rhythm Association (EHRA) / European association of cardiovascular prevention and rehabilitation (EACPR) position paper on how to prevent atrial fibrillation endorsed by the Heart Rhythm Society (HRS) and Asia Pacific Heart Rhythm Society (APHRS) [^e82d21d0]. Europace (2017). Medium credibility.
+### European Heart Rhythm Association (EHRA) / European association of cardiovascular prevention and rehabilitation (EACPR) position paper on how to prevent atrial fibrillation endorsed by the Heart Rhythm Society (HRS) and Asia Pacific Heart Rhythm Society (APHRS) [^116wDHd9]. Europace (2017). Medium credibility.
 
 Caffeine — atrial fibrillation (AF) risk: The acute effects of high caffeine loading or even intoxication show minor and overall inconsistent evidence for increased susceptibility to supraventricular arrhythmias. High habitual caffeine ingestion in several prospective cohort studies failed to show any significant relationship to incident AF, and heavy coffee drinking failed to demonstrate a significant relationship between caffeine and AF or flutter even in very high consumers (10 cups, 1000 mg/day). Overall, caffeine consumption on a habitual and regular basis does not seem to increase the incidence of AF; however, energy drinks containing other stimulants such as taurine in combination with alcohol may possibly contribute to an increase of risk, at least in youth groups.
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^2cc625a6]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^1129P1ch]. Journal of the American Heart Association (2016). Low credibility.
 
 In the largest cohort study to ascertain dietary data and quantify cardiac ectopy using 24‐hour Holter monitoring and the first to do so in a community‐based cohort, we found no evidence that chronic consumption of caffeinated products was associated with more PACs or PVCs. Our findings suggest that clinical recommendations advising against the regular consumption of caffeinated products to prevent cardiac ectopy and arrhythmia should be reconsidered. However, whether acute consumption of these caffeinated products affects cardiac ectopy requires further study.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^027dff99]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^1114hJDE]. Journal of the American Heart Association (2019). Medium credibility.
 
 Significant prolongation in the QT interval was also evident within the first hour after energy drink consumption but these are thought to be HR related changes. There appears to be a mild PR shortening effect and is currently thought to be clinically non‐significant. Most previous studies used the Bazett's correction formula, but it is known to under correct at low heart rates. 46 Conversely, the Fridericia formula has been shown to be an acceptable alternate correction formula when compared with the Bazett's. 47 Our results are significant regardless of the heart rate correction formula used (Bazett's or Fridericia's). However, it is important to note that QTc prolongation does not necessitate onset of torsades de pointes and is simply a risk factor. While our study incorporates many aspects of a "Thorough QT/QTc Study", assay‐sensitivity could not be assessed due to the lack of a positive‐control (eg, moxifloxacin). 27
 
@@ -445,7 +445,7 @@ Individuals with acquired or congenital long QT syndrome and those with hyperten
 
 ---
 
-### Effect of "energy drink" consumption on hemodynamic and electrocardiographic parameters in healthy young adults [^cb630518]. The Annals of Pharmacotherapy (2009). Low credibility.
+### Effect of "energy drink" consumption on hemodynamic and electrocardiographic parameters in healthy young adults [^116CXkGf]. The Annals of Pharmacotherapy (2009). Low credibility.
 
 Background
 
@@ -469,13 +469,13 @@ Although no significant ECG changes were observed, HR increased 5–7 beats/min 
 
 ---
 
-### Energy drink-induced near-fatal ventricular arrhythmia prevented by an intracardiac defibrillator decades after operative "repair" of tetralogy of Fallot [^a3689097]. The American Journal of Cardiology (2014). Low credibility.
+### Energy drink-induced near-fatal ventricular arrhythmia prevented by an intracardiac defibrillator decades after operative "repair" of tetralogy of Fallot [^115BG72E]. The American Journal of Cardiology (2014). Low credibility.
 
 We describe a 45-year old man who experienced a potentially fatal arrhythmia after consumption of multiple energy drinks. At 5 years old, he underwent "repair" of tetralogy of Fallot using a patch in the right ventricular outflow tract, and at age 40 had an automatic implantable cardiac defibrillator (AICD) placed. His first AICD shock occurred within 30 minutes after he finished the third energy drink and was preceded by feelings of lightheadedness and severe dizziness. Without the AICD, he likely would have died. The risk of consuming energy drinks in those with underlying structural heart disease and the general population should be determined. Warning labels should be required to inform consumers of the risks posed by these drinks and of appropriate limits for consumption.
 
 ---
 
-### Caffeine consumption and cardiovascular risks: little cause for concern [^a18f1e0f]. Journal of the American Heart Association (2016). Low credibility.
+### Caffeine consumption and cardiovascular risks: little cause for concern [^1158X5XL]. Journal of the American Heart Association (2016). Low credibility.
 
 Many studies examining caffeine intake have focused on the number of "cups of coffee" regularly consumed. The epidemiology of coffee consumption itself has changed significantly over the last 2 decades, with the advent of coffee shop franchise expansion over the entire United States in the 1990s and worldwide in the 2000s. In 2015, of the 100 million coffee drinkers in the United States, 30 million had a preference for "speciality beverages" — lattes, cappuccinos, and mochas. 15 In addition, energy drinks sprang into being. For example, Red Bull was first produced in 1987 and sold more than 5.6 billion cans in 2014. 16 Caffeine consumption in isolation appears to be benign, but there is a growing body of evidence that substances such as taurine and guarana in some caffeinated beverages may be unhealthy. There are multiple case reports in the literature regarding arrhythmias and/or death following excessive energy drink consumption prior to exercise. According to the Substance Abuse and Mental Health Services Administration, there were > 20 000 emergency room visits related to energy drinks in 2011. 17 Many specialized caffeinated beverages have a large number of calories and that may be a health hazard for the development of hyperglycemia and diabetes mellitus. A restaurant double espresso (2 ounces, 150 mg caffeine, 0 calories) habit may not be problematic, but how healthy is a Venti Peppermint Mocha (20 ounces, 415 mg caffeine, 440 calories) or a Monster Energy (16 ounces, 160 mg caffeine, 300 calories)? 3
 
@@ -483,7 +483,7 @@ Modern technology provides the opportunity to design studies to collect immense 
 
 ---
 
-### Genetics of atrial fibrillation [^f04332f3]. Journal of the American Heart Association (2018). Low credibility.
+### Genetics of atrial fibrillation [^1179Cbn2]. Journal of the American Heart Association (2018). Low credibility.
 
 Introduction
 
@@ -493,13 +493,13 @@ In this review, we will discuss genetic alterations implicated in AF and explore
 
 ---
 
-### Caffeine consumption and cardiovascular risks: little cause for concern [^033d94aa]. Journal of the American Heart Association (2016). Low credibility.
+### Caffeine consumption and cardiovascular risks: little cause for concern [^1115oeY1]. Journal of the American Heart Association (2016). Low credibility.
 
 In summary, recently published studies, including prospective cohorts, clinical investigations, and meta‐analyses, generally show coffee consumption is safe for the heart. Concerning CVD risk factors, there is little evidence that chronic coffee intake consumption raises blood pressure. Boiled coffee brewing may raise atherogenic lipid levels, and other brewing methods do not appear to have this effect. Finally, there is little risk for atrial or ventricular arrhythmias at most of the levels of caffeine consumption in our society. Future research in this area is especially of interest concerning newer caffeinated beverages with greater amounts of caffeine per serving and with a large number of calories. Implantable and wearable devices have become available to identify cardiac arrhythmias, and this type of technology will provide new opportunities for research, diagnosis, and cardiovascular care.
 
 ---
 
-### Cardiovascular risk of energy drinks: caffeine and taurine facilitate ventricular arrhythmias in a sensitive whole-heart model [^4e56d87c]. Journal of Cardiovascular Electrophysiology (2022). Medium credibility.
+### Cardiovascular risk of energy drinks: caffeine and taurine facilitate ventricular arrhythmias in a sensitive whole-heart model [^11319CsV]. Journal of Cardiovascular Electrophysiology (2022). Medium credibility.
 
 Background
 
@@ -515,7 +515,7 @@ In this experimental whole-heart study, treatment with caffeine and taurine prov
 
 ---
 
-### Cardiovascular effects of energy drinks in the pediatric population [^ffcce21a]. Pediatric Emergency Care (2021). Medium credibility.
+### Cardiovascular effects of energy drinks in the pediatric population [^117YEfJq]. Pediatric Emergency Care (2021). Medium credibility.
 
 Abstract
 
@@ -523,7 +523,7 @@ Consumption of energy drinks in the pediatric population is correlated with more
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^dd4e8c9e]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^116f6eYV]. Journal of the American Heart Association (2017). Low credibility.
 
 The Food and Drug Administration requires a thorough investigation of QT/QTc effects for all new drug entities, with a prolongation over 10 ms prompting regulatory concern. 23 Cisapride and other noncardiovascular drugs have been withdrawn from the market because of a 5‐ to 10‐ms QT interval prolongation. 24 Ephedra‐containing dietary supplements were also pulled from the market partly because of their association with significant QTc interval prolongation. 25 Our findings are concerning since caffeine likely does not affect the QTc interval based on previous studies. Further investigation of other energy drink constituents is necessary. 9
 
@@ -531,7 +531,7 @@ Taurine,‐carnitine, and panax ginseng are some additives found in energy drink
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^701f6875]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^113sEASY]. Journal of the American Heart Association (2019). Medium credibility.
 
 The results are inconsistent in other studies where energy drink volumes under 32 oz were investigated. Brothers et al (n = 15) reported no changes in the QTc over 6.5 hours post‐consumption of a 24‐oz energy drink. 22 Tauseef et al found QTc prolongation of 13 ms after 500 mL (16.9 ounce) energy drink consumption. 20 An Australian study enrolled patients with congenital long QT‐syndrome (n = 24) and found no statistically significant changes within 90 minutes after consumption of 500 mL (16.9 ounce) of an energy drink. However, 3 patients did have a QTc increase > 50 ms when compared with baseline. 23 One parallel designed study assessed the impact of consuming 460 mL of 3 different types of caffeinated energy drinks on ECG parameters with no clinically significant changes. 32
 
@@ -541,19 +541,19 @@ There was an ≈5 and 4 mm Hg increase in SBP and DBP, respectively after energy
 
 ---
 
-### Death of a young man after overuse of energy drink [^2650bc1e]. The American Journal of Emergency Medicine (2013). Low credibility.
+### Death of a young man after overuse of energy drink [^111yoeYu]. The American Journal of Emergency Medicine (2013). Low credibility.
 
 A 28-year-old-man admitted to emergency department with ventricular tachycardia. Patient had drunk 3 cans of 250-mL energy drink 5 hours before the basketball match; he had palpitation and nausea before the match. After 30 minutes of the match, during the break, patient lost his consciousness. On admission, normal cardiac rhythm was achieved by cardioversion, and the patient was hospitalized and died on the third day. Energy drinks generally contain caffeine, taurine, various vitamins, glucose, and herbal extracts such as guarana and ginseng. Especially in high doses, caffeine can cause palpitations and supraventricular and ventricular arrhythmia. Energy drink consumers should be informed about their severe adverse effects in case of overuse.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^0f4b9b6f]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^111PgDB4]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drink caffeine content and safety thresholds — energy drinks vary in caffeine concentration, with most containing 32 mg·100 mL−1 and others containing 30 to 134 mg of caffeine per 100 mL, a concentration that greatly exceeds the FDA-imposed limit of 20 mg of caffeine per 100 mL for traditional soda; small format energy shots (~60 mL) are approximately 6-fold to 12-fold the concentration limit. Coffee caffeine content varies between 48 mg and 317 mg per serving. Reports note that agitation and tachycardia can occur at doses as low as 50 mg, while caffeine doses of less than 200 mg in a 70-kg adult are unlikely to produce toxicity; the role of rate of consumption and preexisting conditions in serious energy drink-related adverse events has not been elucidated.
 
 ---
 
-### Hypercoagulability after energy drink consumption [^00f600bc]. The Journal of Surgical Research (2015). Low credibility.
+### Hypercoagulability after energy drink consumption [^1112RdXH]. The Journal of Surgical Research (2015). Low credibility.
 
 Background
 
@@ -573,7 +573,7 @@ Energy drinks are associated with increased platelet activity via arachidonic ac
 
 ---
 
-### Energy drinks: another cause of QT prolongation? [^1b6f8fd4]. Journal of the American Heart Association (2019). Medium credibility.
+### Energy drinks: another cause of QT prolongation? [^111hg91V]. Journal of the American Heart Association (2019). Medium credibility.
 
 In the drug development world, the US Food and Drug Administration would require extensive safety testing before approval of a drug that caused this degree of QT prolongation in a "thorough QT/QTc study". Whether classified as beverages or dietary supplements, energy drinks require no such safety evaluation. It is sufficient to declare that the individual ingredients are "generally recognized as safe". Safety testing is not required to determine whether the combination of several ingredients that are each generally recognized as safe results in a not‐so‐safe concoction.
 
@@ -581,7 +581,7 @@ The electrocardiographic effects of caffeine, the main ingredient in energy drin
 
 ---
 
-### Associations of alcohol consumption with left atrial morphology and function in a population at high cardiovascular risk [^555f48eb]. Journal of the American Heart Association (2024). Medium credibility.
+### Associations of alcohol consumption with left atrial morphology and function in a population at high cardiovascular risk [^113BZxFc]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -601,19 +601,19 @@ URL:; Unique identifier: ISRCTN89898870.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^f18ee068]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^117B81No]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Other ingredients and adverse effects — beyond caffeine, energy drinks include additives such as taurine, B vitamins and glucuronolactone; evidence to substantiate performance effects of non-caffeine ingredients is minimal, though a recent meta-analysis found a significant association between taurine dosage and physical performance. Some herbals in energy drinks have been associated with adverse effects including seizures, myocardial infarctions, ventricular tachycardia, and gastrointestinal upset, and concerns have been raised about a possible taurine and caffeine interaction producing endothelial dysfunction. Acute and chronic adverse health effects of energy drinks are still being elucidated, and it is unclear to what extent adverse events occur while individuals are engaged in sport.
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^9b26dccb]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^114y28nN]. Circulation (2024). High credibility.
 
 Primary prevention risk factors — exercise and alcohol considerations for atrial fibrillation: Most cardiovascular risk factors are associated with increased risk of new-onset AF, and observational studies have demonstrated that obesity and physical inactivity each independently increase the risk of newly diagnosed AF; caution should be considered in pursuing years of regular, high-volume (≥ 3 h/d) high-intensity endurance training given observational data linking it with increased AF risk in men and a similar "J" curve risk curve for high or vigorous activity in both men and women; alcohol consumption enhances AF risk in a fairly linear fashion, with clear evidence that binge drinking heightens risk, and uncertainty persists regarding harms or benefits of no more than 1 regular drink per day.
 
 ---
 
-### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^d99e9ebe]. Journal of the American Heart Association (2019). Medium credibility.
+### Impact of high volume energy drink consumption on electrocardiographic and blood pressure parameters: a randomized trial [^116ZdbKb]. Journal of the American Heart Association (2019). Medium credibility.
 
 While blood pressure changes can be attributed primarily to the caffeine, other ingredients in energy drinks may pose some hemodynamic activity. 37 Taurine has been shown to lower blood pressure in prehypertensive patients, indicating the need for investigating simultaneous caffeine and taurine intake. 39
 
@@ -623,13 +623,13 @@ Several factors may limit the generalizability of this study. We did not investi
 
 ---
 
-### Acute effects of red bull energy drinks on atrial electromechanical function in healthy young adults [^797bdb80]. The American Journal of Cardiology (2020). Medium credibility.
+### Acute effects of red bull energy drinks on atrial electromechanical function in healthy young adults [^11477735]. The American Journal of Cardiology (2020). Medium credibility.
 
 Energy drinks (EDs) are widely consumed by adolescents and young adults. Almost all kinds of arrhythmias have been reported following EDs consumption, most of which is atrial fibrillation (AF). Atrial conduction time prolongation and heterogeneous sinusal impulses propagation to the atriums are the key electrophysiological mechanisms leading AF. We aimed to evaluate the acute effects of Red Bull ED ingestion on atrial electromechanical conduction times in healthy young adults. After a 12-hour fasting, 54 healthy young adults consumed 330 mL of Red Bull ED. Atrial electromechanical coupling (PA), intra-atrial electromechanical delay (intra-AEMD), and interatrial electromechanical delay (inter-AEMD) were measured at baseline and 2-hour after Red Bull ED ingestion by echocardiographic tissue-Doppler imaging (TDI) method. PA-lateral (49.7 ± 11.2 vs 54.1 ± 11.0 msn, p = 0.001) and PA-septal (40.8 ± 9.1 vs 43.7 ± 10.5 msn, p = 0.032) times were statistically significantly prolonged after Red Bull ED ingestion. There was also a statistically significant increase in the duration of inter-AEMD (14.4 ± 10.6 vs 18.1 ± 8.5 msn, p = 0.010) after ED ingestion. It was showed that even a single can of ED can acutely increase atrial electromechanical conduction times in young adults. These findings may be the cause of ED-associated AF.
 
 ---
 
-### Does coffee reduce the risk of atrial fibrillation? [^e7bd4a64]. Journal of the American Heart Association (2019). Medium credibility.
+### Does coffee reduce the risk of atrial fibrillation? [^116vZimy]. Journal of the American Heart Association (2019). Medium credibility.
 
 Since atrial fibrillation is the most common cardiac arrhythmia in the United States, investigation of dietary and environmental factors contributing to risk of development of atrial fibrillation is important. Stimulants, such as caffeinated beverages, have been implicated as potential risk factors for development of arrhythmias. Coffee, perhaps the most popular caffeinated beverage worldwide, is consumed by a major fraction of Americans daily, who drink an average of 3 cups per day. 1, 2 For most, the appeal of coffee may be driven by a purported cognitive and physical benefit, thought to be attributable to caffeine, although a complex set of ingredients compose this beverage.
 
@@ -637,13 +637,13 @@ In this issue of the Journal of the American Heart Association (JAHA), Bodar et 
 
 ---
 
-### Arrhythmogenic foods – A growing medical problem [^684a528f]. Trends in Cardiovascular Medicine (2020). Medium credibility.
+### Arrhythmogenic foods – A growing medical problem [^113fcgEA]. Trends in Cardiovascular Medicine (2020). Medium credibility.
 
 Arrhythmogenic ingredients in our diet such as mushrooms, licorice, toxic honey, liquid protein drinks, etc. have long been recognized as rare but important considerations in the differential diagnosis of arrhythmias. Anecdotal reports of torsades de pointes (TdP), arrhythmias and/or sudden death and small studies in normal subjects have suggested that simple ingredients such as grapefruit juice or ingredients in energy drinks marketed as dietary supplements could have direct arrhythmogenic actions, especially in patients with congenital long QT syndrome (cLQTS). Two recent studies that employed the industry-standard "thorough QT" trial design leave no doubt that grapefruit juice and some energy drinks can prolong the QTc interval and to exceed 500 msec. in some patients with cLQTS, a threshold known to signal imminent danger. These reports raise numerous clinically important questions such as which other patients may be at risk of arrhythmias. For example, patients with multiple clinical risk factors for TdP (hypokalemia, bradycardia, female sex, etc.) may be at risk from these and possibly other dietary ingredients ingested by millions of people each day. It is essential that further research evaluate the safety of these and similar food products and that vulnerable patients, especially those with cLQTS, be warned of this serious and emerging threat.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^4aff7583]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^112vBtbc]. Journal of the American Heart Association (2017). Low credibility.
 
 Results
 
@@ -665,19 +665,19 @@ Baseline‐adjusted corrected QT interval with energy drink vs caffeine consumpt
 
 ---
 
-### Energy drinks: a contemporary issues paper [^c6eb7d6b]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^1165ueWe]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drink use in children and adolescents and adverse event reporting are highlighted. The health concerns associated with energy drink use are amplified in children and adolescents, and children and adolescents experience adverse effects from energy drinks in greater numbers than adults. Position statements recommended that energy drinks should never be consumed by children or adolescents, or used for hydration before, during, or after physical activity, and the American Beverage Association has recommended that energy drinks should 1) be marketed as separate from sports drinks, 2) not be sold or marketed in schools, and 3) not be marketed to children. In case of a severe adverse effect (e.g., palpitations, seizures), emergency care should be sought immediately; information can be obtained from regional Poison Control Centers (1-800-222-1222), and consumers and health care providers should report cases via the FDA's Safety Reporting Portal (https://www.safetyreporting.hhs.gov/SRP2).
 
 ---
 
-### The proarrhythmic conundrum of alcohol intake [^7f9932fb]. Trends in Cardiovascular Medicine (2022). Medium credibility.
+### The proarrhythmic conundrum of alcohol intake [^114GAtMG]. Trends in Cardiovascular Medicine (2022). Medium credibility.
 
 The arrhythmogenic potential of alcohol consumption that leads to cardiac arrhythmia development includes the induction of both atrial and ventricular arrhythmias, with atrial fibrillation (AF) being the commonest alcohol-related arrhythmia, even with low/moderate alcohol consumption. Arrhythmias occur both with acute and chronic alcohol use. The "Holiday Heart Syndrome" relates to the occurrence of AF, most commonly following weekend or public holiday binge drinking; however, other arrhythmias may also occur, including other supraventricular arrhythmias, and occasionally even frequent ventricular premature beats and a rare occurrence of ventricular tachycardia. Arrhythmias in individuals with alcohol use disorder, in addition to AF, may comprise ventricular arrhythmias (VAs) that may be potentially fatal leading to cardiac arrest. The effects of alcohol on triggering VAs appear to be dose-dependent, observed more commonly in heavy drinkers, both in healthy individuals and patients with underlying structural heart disease, including ischemic heart disease and alcoholic cardiomyopathy. Men appear to be affected at higher dosages of alcohol, while women can suffer from arrhythmias at lower dosages. On the other hand, low to moderate consumption of alcohol may confer some protection from serious VAs and cardiac arrest (J- or U-curve phenomenon); however, abstinence is the optimal strategy. These issues as they relate to alcohol-induced proarrhythmia are herein reviewed, with the large studies and meta-analyses tabulated and the arrhythmogenic mechanisms pictorially illustrated.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^b89a56fa]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^115igZdj]. Journal of the American Heart Association (2017). Low credibility.
 
 Methods
 
@@ -689,7 +689,7 @@ Participants were recruited via email and flyers between 2013 and 2014 on a US A
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^db4cc520]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^116c85KM]. Journal of the American Heart Association (2016). Low credibility.
 
 Although a causal relationship between PACs and AF or PVCs and heart failure cannot be determined by these large epidemiologic studies, extrapolation from data already available from the electrophysiology laboratory has raised interest in the theoretical benefit of prophylactic PAC and PVC ablation. 4, 10 However, little is known about modifiable exposures that may reduce or prevent frequent PACs or PVCs.
 
@@ -699,7 +699,7 @@ Recent and growing evidence points to the potential beneficial cardiovascular ef
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^e46d2423]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^116qeqVc]. Journal of the American Heart Association (2016). Low credibility.
 
 Despite a lack of evidence for caffeine abstention or moderation in reducing premature cardiac contractions and arrhythmias, clinicians and treatment guidelines often recommend that such patients avoid caffeine. For example, published guidelines on the management of supraventricular arrhythmias advocate reviewing and eliminating potential exacerbating factors, such as caffeine, alcohol, and nicotine. 12 Popular resources for clinicians, including UpToDate and Medscape, offer similar suggestions for the management of premature beats. 13, 14
 
@@ -707,13 +707,13 @@ Coffee is among the most commonly consumed beverages in the United States 20 and
 
 ---
 
-### Caffeine consumption and cardiovascular risks: little cause for concern [^7881e08c]. Journal of the American Heart Association (2016). Low credibility.
+### Caffeine consumption and cardiovascular risks: little cause for concern [^1145f92b]. Journal of the American Heart Association (2016). Low credibility.
 
 Caffeine consumption is virtually ubiquitous in our society. It is naturally found in coffee, tea, chocolate, and cola drinks. Furthermore, caffeine is often added to beverages, foods, pain relievers, and other products. In the United States, coffee accounts for ≈70% of the caffeine consumed. 1 A report in this issue of JAHA by Dixit and colleagues describes the relations between the reported intake of caffeinated products and the occurrence of arrhythmias assessed by 24‐hour Holter monitoring in the Cardiovascular Health Study. The investigation included > 1300 adults and all participants were > 65 years of age at baseline. 2 The authors report no association for atrial or ventricular arrhythmia prevalence and reported intake of caffeinated products. The Dixit article provides an opportunity to briefly review the pharmacology of caffeine related to the cardiovascular system and to share recent information and insights from clinical studies and population reports concerning caffeine intake and cardiovascular risk factors, cardiovascular disease (CVD) outcomes, and arrhythmias.
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^4998dd64]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^112t7Scs]. Journal of the American Heart Association (2016). Low credibility.
 
 Background
 
@@ -729,13 +729,13 @@ In the largest study to evaluate dietary patterns and quantify cardiac ectopy us
 
 ---
 
-### Energy drinks: a contemporary issues paper [^81838102]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^114K1aFs]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — conclusions on risk and monitoring emphasize that energy drinks are frequently consumed and there are reports of morbidity and mortality associated with their consumption. In particular, individuals known to be more susceptible to adverse events include those of young age, small stature, caffeine-naïve or caffeine-sensitive, pregnant or breastfeeding women, those with certain medical conditions and/or taking certain medications, consuming multiple energy drinks in one session, and those with underlying cardiovascular or other diseases. Of critical importance, children and adolescents appear to be at particularly high risk of complications from energy drinks due to their small body size, being relatively caffeine naive, and potentially heavy and frequent consumption patterns, as well as the amounts of caffeine. Although most healthy adults can consume an energy drink without any significant, negative, acute health effects, the long-term effects of chronic consumption have not been well studied. Continued monitoring of adverse events related to energy drink consumption is needed to fully understand the rate, severity and nature of reactions to these products across the lifespan.
 
 ---
 
-### Study details | Effects of energy drinks on cardiovascular endpoints… [^707be7dd]. ClinicalTrials (2025). Medium credibility.
+### Study details | Effects of energy drinks on cardiovascular endpoints… [^113smESY]. ClinicalTrials (2025). Medium credibility.
 
 Effects of Energy Drinks on Cardiovascular EndpointsClinicalTrials. gov ID Study Overview This study is a randomized, double-blind, controlled, crossover, proof-of-concept trial designed to examine how energy drinks affect heart rhythm and other health measures in healthy adults aged 18 to 40. This study investigates the cardiovascular safety of energy drinks by examining their effects on electrocardiographic parameters, with a specific focus on the QTc interval. The protocol consists of two phases conducted with 3 healthy volunteers. Phase A evaluates four interventions: 1) energy drink A 2) moxifloxacin 3) caffeine 4) placebo. Phase B evaluates four interventions: 1) energy drink B 2) taurine 3) caffeine + taurine 4) lower dose energy drink A. After an overnight fast participants will consume the study intervention within a 30 minute period.
 
@@ -750,7 +750,7 @@ Over the next 4 hours, the electrocardiogram, blood pressure, hemodynamics, gluc
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^c846fa83]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^1167vN8r]. Journal of the American Heart Association (2016). Low credibility.
 
 Background
 
@@ -766,7 +766,7 @@ In the largest study to evaluate dietary patterns and quantify cardiac ectopy us
 
 ---
 
-### Alcohol consumption and risk of ventricular arrhythmias and sudden cardiac death: an observational study of 408, 712 individuals [^80cb1e7a]. Heart Rhythm (2022). Medium credibility.
+### Alcohol consumption and risk of ventricular arrhythmias and sudden cardiac death: an observational study of 408, 712 individuals [^114Hwe9f]. Heart Rhythm (2022). Medium credibility.
 
 Background
 
@@ -790,7 +790,7 @@ In this predominantly white cohort, no association of total alcohol consumption 
 
 ---
 
-### Alcohol use disorders and the heart [^c2b74b23]. Addiction (2019). Medium credibility.
+### Alcohol use disorders and the heart [^115ygAWv]. Addiction (2019). Medium credibility.
 
 Daily alcohol intake is associated with a shorter right atrial effective refractory period (AERP) and increased atrial flutter in patients less than 60 years old 35. The shorter right AERP may allow the right atrium to sustain a rapid rate in response to an initiating rhythm or allow propagation of an appropriately timed premature atrial complex 35. Atrial fibrillation is the most common arrhythmia associated with chronic high‐volume alcohol intake. Above a safe threshold of approximately one drink/day the relative risk of AF increases 10% for each drink per day 36. However, it appears that the relationship between chronic alcohol consumption and arrhythmias may be non‐linear, involving complex interactions between dose, drinking pattern, age and sex 34. For example, Psaty found alcohol was inversely related with incidence of AF in older adults with a lower level of drinking (two to three drinks/week) and a low incidence of binge drinking 37. Acute alcohol withdrawal in chronic alcohol users can increase cardiac sympathetic activity and reduce both heart rate variability and baroreflex sensitivity, promoting cardiac arrhythmias 34.
 
@@ -798,19 +798,19 @@ Assessment and treatment of arrhythmia in patients who are heavy users of alcoho
 
 ---
 
-### Caffeine and cardiac arrhythmias: a review of the evidence [^ad22923d]. The American Journal of Medicine (2011). Low credibility.
+### Caffeine and cardiac arrhythmias: a review of the evidence [^115RgUFn]. The American Journal of Medicine (2011). Low credibility.
 
 Limited data exist on the safety and physiologic effects of caffeine in patients with known arrhythmias. The studies presented suggest that in most patients with known or suspected arrhythmia, caffeine in moderate doses is well tolerated and there is therefore no reason to restrict ingestion of caffeine. A review of the literature is presented.
 
 ---
 
-### Use of performance-enhancing substances [^22e16cda]. Pediatrics (2016). Medium credibility.
+### Use of performance-enhancing substances [^111tiJDf]. Pediatrics (2016). Medium credibility.
 
 Performance-enhancing substances (PES) in children and adolescents — caffeine and other stimulants — have high exposure with "73% of children consume caffeine on any given day" and a "Median intake of those 12–19 y who ingest caffeine: 40.6 mg". Amphetamine exposure is noted as "Nonmedical use of amphetamines in 12th grade: lifetime: 12.4%; monthly: 4.4%; overall; athletes not at greater risk for use, but boys in certain sports with higher rates: lacrosse, wrestling". Mechanistically caffeine is "Currently believed that performance benefit primarily due to central nervous system stimulation and enhanced muscle activation". Dosing and effects data indicate "Most studies with caffeine have examined ~3–6 mg/ kg, but 1–3 mg/kg has been shown to have performance-enhancing effects, particularly in endurance activity", with improvements including "4% improvements in strength of knee extensors", "14% in muscular endurance", and "10% to 20% improvements in time to exhaustion studies". Adverse effects include "Cardiac arrhythmias (premature ventricular contractions); increased blood pressure", and "Significant toxicity has been associated with ingestion of multiple energy drinks, leading to almost 1500 emergency department visits in 2011 in the 12- to 17-y age group", and powdered caffeine has been "responsible for at least 2 deaths in young people (1 teaspoon of powdered caffeine is equivalent to 28 cups of coffee; FDA warning)".
 
 ---
 
-### An analysis of energy-drink toxicity in the national poison data system [^3920a5ed]. Clinical Toxicology (2013). Low credibility.
+### An analysis of energy-drink toxicity in the national poison data system [^112ThG6p]. Clinical Toxicology (2013). Low credibility.
 
 Context
 
@@ -834,19 +834,19 @@ About half the cases of energy drink-related toxicity involved unintentional exp
 
 ---
 
-### Alcohol use and cardiovascular disease: a scientific statement from the American Heart Association [^261aefff]. Circulation (2025). Medium credibility.
+### Alcohol use and cardiovascular disease: a scientific statement from the American Heart Association [^111yVaVc]. Circulation (2025). Medium credibility.
 
 Alcohol is one of the most commonly consumed substances in the world, exhibiting complex relationships with multiple aspects of cardiovascular health and disease. The majority of the research on the topic is observational and therefore prone to bias and confounding. The available evidence suggests no risk to possible risk reduction when alcohol is consumed in low amounts (such as no more than 1 to 2 drinks a day) in regard to coronary artery disease, stroke, sudden death, and possibly heart failure. The risk associated with consuming 1 to 2 drinks a day on atrial fibrillation remains unknown. More randomized trials of low to moderate alcohol consumption are needed for more definitive conclusions. In stark contrast, heavier alcohol consumption such as binge drinking or consuming on average ≥ 3 drinks/d is consistently associated with worse outcomes in every cardiovascular disease entity studied. Considering the level of evidence, it remains unknown whether drinking is part of a healthy lifestyle and therefore clinicians should reinforce healthy lifestyle behaviors such as regularly engaging in physical activity, avoiding tobacco use, and maintaining healthy body weight.
 
 ---
 
-### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^f3032e75]. Circulation (2018). Medium credibility.
+### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^117DH4Te]. Circulation (2018). Medium credibility.
 
 Idiopathic ventricular arrhythmias — evaluation and initial management synopsis: On initial discovery, an evaluation for structural heart disease is warranted with physical examination, an ECG, and imaging, usually with echocardiography. In the absence of any abnormality or a family history of sudden cardiac death, further assessment and treatment are guided by symptoms, and if the patient is asymptomatic and does not have evidence of a cardiac channelopathy, reassurance as to the benign nature is sufficient. If the arrhythmia is suspected of being sufficiently frequent to cause ventricular dysfunction over time, periodic follow-up with reassessment of ventricular function is warranted, and for mild symptoms, avoidance of aggravating factors such as excessive consumption of caffeine or sympathomimetic agents, may be sufficient. Therapy with a beta blocker or nondihydropyridine calcium channel blocker reduces symptoms for some patients; Class I antiarrhythmic medications can be effective, but those are generally avoided due to concerns for adverse effects, and for patients who require arrhythmia suppression for whom antiarrhythmic medications are ineffective, not tolerated, or undesired, catheter ablation can be a highly effective treatment.
 
 ---
 
-### Alcohol use disorders and the heart [^b0374ee5]. Addiction (2019). Medium credibility.
+### Alcohol use disorders and the heart [^115WFQ68]. Addiction (2019). Medium credibility.
 
 Arrhythmia
 
@@ -856,7 +856,7 @@ Alcohol may act together with coexistent electrolyte disturbance and/or acute il
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^14741e94]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^111XKkps]. Journal of the American Heart Association (2016). Low credibility.
 
 Figure 1
 Estimated percent increase in cardiac ectopy for a serving per week increase in coffee, tea, or chocolate consumption. The unadjusted (white square) and adjusted (black square) estimates shown are after adjustment for clinic site, age, sex, race, income, education level, body mass index, dietary caloric intake, smoking status, number of alcoholic drinks per week, diabetes, hypertension, coronary artery disease, atrial fibrillation, congestive heart failure, and use of β‐blockers, calcium channel blockers, digoxin, class I antiarrhythmics, and classantiarrhythmics. Y error bars denote 95% CIs.indicates premature atrial contraction;, premature ventricular contraction;, number of runs of supraventricular tachycardia;, number of runs of ventricular tachycardia.
@@ -865,7 +865,7 @@ Additional analyses adjusting for factors associated with AF, such as fish consu
 
 ---
 
-### Consumption of caffeinated products and cardiac ectopy [^18ba3bc3]. Journal of the American Heart Association (2016). Low credibility.
+### Consumption of caffeinated products and cardiac ectopy [^111dfFtE]. Journal of the American Heart Association (2016). Low credibility.
 
 Assessment of Ectopy and Arrhythmia
 
@@ -877,7 +877,7 @@ Self‐identified race was categorized as white, black, and other. Self‐identi
 
 ---
 
-### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^01ce823c]. European Heart Journal (2017). Low credibility.
+### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^1113gMPy]. European Heart Journal (2017). Low credibility.
 
 Introduction
 
@@ -889,13 +889,13 @@ Many open questions remain. All reports on effects of acute alcohol intake were 
 
 ---
 
-### Effects of alcohol on skeletal and cardiac muscle [^8b1a1499]. Muscle & Nerve (2004). Low credibility.
+### Effects of alcohol on skeletal and cardiac muscle [^114ZE3G4]. Muscle & Nerve (2004). Low credibility.
 
 The acute and chronic toxic effects of alcohol on skeletal and cardiac muscle are clinically important. Muscle weakness and atrophy are the main manifestations of skeletal myopathy, and arrhythmias and progressive left-ventricular dysfunction are those of cardiomyopathy. Most patients remain asymptomatic from these effects for a long time. Myocyte atrophy and death are the main pathological findings. A clear dose-related effect has been established with ethanol consumption, with gender and some specific gene polymorphisms being factors of increased susceptibility to alcohol-induced muscle damage. Pathogenic mechanisms are pleiotropic, the most relevant being disturbances in carbohydrate, protein, and energy cell turnover, signal transduction, and induction of apoptosis and gene dysregulation. Ethanol abstinence is the only effective treatment, although controlled drinking is useful in patients who do not achieve abstinence. Persistent high-dose consumption results in deterioration of muscle and heart function, with a high mortality due to arrhythmias and progression of heart failure.
 
 ---
 
-### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^272a4040]. Journal of the American Heart Association (2017). Low credibility.
+### Randomized controlled trial of high-volume energy drink versus caffeine consumption on ECG and hemodynamic parameters [^11214i79]. Journal of the American Heart Association (2017). Low credibility.
 
 The long‐term use of energy drinks also needs particular attention. In one study, consuming a single energy shot (60 mL) twice daily for 7 days conferred no significant ECG changes when compared with placebo. 29 Similarly, 500 mL of another energy drink consumed for 7 days showed no ECG‐related changes from baseline. 15 However, these results cannot be generalized across all energy drink products. While the degree of BP change seen in our study is generally not concerning in an acute setting, even mild sustained elevations in systolic BP at the population level can increase the risk of adverse cardiovascular outcomes. 30, 31
 
@@ -903,19 +903,19 @@ In this study, both the energy drink and caffeine arms exhibited a similar incre
 
 ---
 
-### Cardiovascular complications from consumption of high energy drinks: recent evidence [^46b9a244]. Journal of Human Hypertension (2015). Low credibility.
+### Cardiovascular complications from consumption of high energy drinks: recent evidence [^112orVAb]. Journal of Human Hypertension (2015). Low credibility.
 
 The energy drinks (ED) are caffeinated beverages that are popular among teenagers and young adults. They are aggressively marketed as providing alertness, energy and sex prowess. The EDs in addition to caffeine contain several plant stimulants and simple sugars, which increase their caloric content. The caffeine concentration in these drinks is high and their overconsumption could lead to insomnia, agitation, tremors and cardiovascular complications including sudden death. Alcohol is often mixed with EDs (AMEDs) in the wrong perception that the caffeine in the EDs will prevent the drowsiness and sleepiness from alcohol and allow the person to consume more alcohol. This false perception, could lead to alcohol intoxication and the taking of risky decisions, like driving under the influence of alcohol and the risk of serious physical harm to themselves and others. To prevent the problem of consumption of EDs and AMEDs, the caring physician could help by advising the parents and his young patients about the serious health risks from the consumption of these drinks. In order to grasp the extend of the problem of ED and AMED consumption, we did a Medline search of the English language literature from January 2010 to December 2013, using the terms EDs and alcohol-mixed EDs. All the findings from the recent studies regarding the cardiovascular complications from the consumption of EDs and AMEDs together with collateral literature will be discussed in this review.
 
 ---
 
-### Supraventricular tachycardia induced by chocolate: is chocolate too sweet for the heart? [^4791aba6]. The American Journal of Emergency Medicine (2012). Low credibility.
+### Supraventricular tachycardia induced by chocolate: is chocolate too sweet for the heart? [^112q73u7]. The American Journal of Emergency Medicine (2012). Low credibility.
 
 Conflicting studies have been published concerning the association between chocolate and cardiovascular diseases. Fewer articles have described the potential arrhythmogenic risk related to chocolate intake. We present a case of paroxysmal supraventricular tachycardia in a woman after consumption of large quantity of chocolate. A 53-year-old woman with no significant medical history presented to us with complaints of palpitations and shortness of breath after consuming large amounts of chocolate. Electrocardiogram showed supraventricular tachycardia at 165 beats per minute, which was restored to sinus rhythm after adenosine bolus injection. Electrophysiology studies showed atrioventricular nodal reentry tachycardia, which was treated with radiofrequency ablation. Chocolate contains caffeine and theobromine, which are methylxanthines and are competitive antagonists of adenosine and can have arrhythmogenic potential. Our case very well describes an episode of tachycardia precipitated by large amount of chocolate consumption in a patient with underlying substrate. There are occasional case reports describing association between chocolate, caffeine, and arrhythmias. A large Danish study, however, did not find any association between amount of daily caffeine consumption and risk of arrhythmia.
 
 ---
 
-### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^9ce83ee0]. European Heart Journal (2017). Low credibility.
+### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^1151d5UK]. European Heart Journal (2017). Low credibility.
 
 In conclusion, we have conducted a large prospective analysis of acute alcohol consumption on ECG-assessed cardiac arrhythmias. We thereby report good technical feasibility of ECG screening even under lively conditions at the Munich Octoberfest. Acute and — to a lesser extent — chronic alcohol consumption were associated with sinus tachycardia. Analysis of respiratory sinus arrhythmia as a measure of autonomic tone suggested that acute alcohol intake confers autonomic imbalance. Additional research is warranted to investigate if autonomic imbalance constitutes the link between sinus tachycardia and the occurrence of arrhythmias like atrial fibrillation, as implicated by reports of the so-called 'Holiday Heart Syndrome' (Figure 3).
 
@@ -924,7 +924,7 @@ MunichBREW study conclusions. The figure summarizes the study procedures and res
 
 ---
 
-### Health effects of energy drinks on children, adolescents, and young adults [^fa5b153b]. Pediatrics (2011). Low credibility.
+### Health effects of energy drinks on children, adolescents, and young adults [^117QAVte]. Pediatrics (2011). Low credibility.
 
 Objective
 
@@ -944,7 +944,7 @@ Energy drinks have no therapeutic benefit, and many ingredients are understudied
 
 ---
 
-### Caffeinated coffee consumption or abstinence to reduce atrial fibrillation: the DECAF randomized clinical trial [^4e8408eb]. JAMA (2025). Excellent credibility.
+### Caffeinated coffee consumption or abstinence to reduce atrial fibrillation: the DECAF randomized clinical trial [^1131QPEA]. JAMA (2025). Excellent credibility.
 
 Importance
 
@@ -980,7 +980,7 @@ ClinicalTrials.gov Identifier: NCT05121519.
 
 ---
 
-### Dangerous mistake: an accidental caffeine overdose [^16b5d514]. BMJ Case Reports (2018). Medium credibility.
+### Dangerous mistake: an accidental caffeine overdose [^111afoab]. BMJ Case Reports (2018). Medium credibility.
 
 Given that cardiac arrhythmias are the most frequent cause of death by caffeine overdose, sports practitioners should be informed on the potential health hazards related to excessive caffeine intake, as well as, dietary supplements should be better regulated and reported on food labels.
 
@@ -994,7 +994,7 @@ Clinical awareness of caffeine toxicity should be increased.
 
 ---
 
-### Detrimental effects of energy drink consumption on platelet and endothelial function [^3d081960]. The American Journal of Medicine (2010). Low credibility.
+### Detrimental effects of energy drink consumption on platelet and endothelial function [^112ZUxyV]. The American Journal of Medicine (2010). Low credibility.
 
 Background
 
@@ -1014,7 +1014,7 @@ Energy drink consumption acutely increases platelet aggregation and decreases en
 
 ---
 
-### Dangerous mistake: an accidental caffeine overdose [^df239180]. BMJ Case Reports (2018). Medium credibility.
+### Dangerous mistake: an accidental caffeine overdose [^116hpBmh]. BMJ Case Reports (2018). Medium credibility.
 
 Background
 
@@ -1022,13 +1022,13 @@ This case illustrates the life-threatening consequences, such as malignant cardi
 
 ---
 
-### Energy drinks: a contemporary issues paper [^82efb3b0]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^114M7uQT]. Current Sports Medicine Reports (2018). Medium credibility.
 
 ACSM evidence statement and recommendations note that the serious and detrimental impacts of energy drink consumption are well documented in case reports (ACSM Evidence Category C), and the ACSM writing group concurs that energy drink consumption, especially in vulnerable populations can be potentially hazardous (ACSM Evidence Category D). Recommended actions include that the message that these beverages are not intended for children needs to be re-enforced and widely disseminated and that warnings should be prominently displayed on the front of products naming vulnerable populations, including those younger than 18 yr, who should avoid energy drink use. Regulatory actions are needed, with examples including Health Canada mandates to improve transparency and provide labels and proposals for labeling transparency, clearly labeled warnings, and restriction on sales to those younger than 18 yr until safety and efficacy data are provided by energy drink manufacturers.
 
 ---
 
-### Dangerous mistake: an accidental caffeine overdose [^f99df4a7]. BMJ Case Reports (2018). Medium credibility.
+### Dangerous mistake: an accidental caffeine overdose [^117P4yPt]. BMJ Case Reports (2018). Medium credibility.
 
 Discussion
 
@@ -1052,7 +1052,7 @@ Symptoms of caffeine intoxication may include headache, fever, nausea, vomiting,
 
 ---
 
-### Alcoholic cardiomyopathy: an update [^bf5928d0]. European Heart Journal (2024). Medium credibility.
+### Alcoholic cardiomyopathy: an update [^115tgans]. European Heart Journal (2024). Medium credibility.
 
 Management of arrhythmia
 
@@ -1068,7 +1068,7 @@ In cases of end-stage AC that do not improve with abstinence from alcohol or med
 
 ---
 
-### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^0942fa0f]. European Heart Journal (2017). Low credibility.
+### Alcohol consumption, sinus tachycardia, and cardiac arrhythmias at the munich octoberfest: results from the munich beer related electrocardiogram workup study (munichBREW) [^111EjPMG]. European Heart Journal (2017). Low credibility.
 
 We conservatively based sample size considerations on an estimated 1.5% prevalence of any arrhythmia under no acute influence of alcohol and at rest. Even without considering sinus tachycardia, we detected arrhythmias in 2.3% of our chronic and in 5.4% of our acute alcohol cohorts. We thus submit that we present sufficiently powered results. In our acute alcohol cohort, we found a strong and robust association of increased BAC with sinus tachycardia in particular. We were not able to associate increased BAC with other arrhythmia subtypes and specifically atrial fibrillation. This is despite prior reports that repeatedly suggested such a relation coining the term 'holiday heart syndrome'. It is notable that so far studies have considered patients presenting with atrial fibrillation and have then retrospectively identified recent acute alcohol consumption as a presumed cause. Ours is the first large and prospective investigation to systematically analyse the immediate occurrence of arrhythmias under the influence of acute alcohol intake. We thus conclude that acute alcohol consumption leads to increased arrhythmia prevalence overall, with sinus tachycardia as the immediate main effect.
 
@@ -1078,7 +1078,7 @@ A main result of our study is the profound association of acute alcohol consumpt
 
 ---
 
-### Does coffee reduce the risk of atrial fibrillation? [^c3d414a5]. Journal of the American Heart Association (2019). Medium credibility.
+### Does coffee reduce the risk of atrial fibrillation? [^1161Kpck]. Journal of the American Heart Association (2019). Medium credibility.
 
 Pharmacological Features of Coffee and Caffeine
 
@@ -1086,19 +1086,19 @@ Physiological effects of coffee have shown a protective cardiovascular effect. C
 
 ---
 
-### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^b8e73645]. Circulation (2018). Medium credibility.
+### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^115j8PE4]. Circulation (2018). Medium credibility.
 
 n-3 fatty acids and statins for prevention of sudden cardiac death — early data were promising regarding n-3 polyunsaturated fatty acids, including a 2006 meta-analysis of 19 observational and RCTs linking consumption to prevention of SCD and the randomized GISSI trial in recent MI in which fish oil 1 g/d reduced mortality due to fewer SCD; however, subsequent RCTs have not replicated these benefits and have shown n-3 polyunsaturated fatty acids to be ineffective, though studies consistently showed lack of harm and patients can be reassured of their safety. In contrast, statin medications clearly reduce mortality and appear to reduce SCD risk related to ischemic heart disease, with secondary analyses from ICD prevention trials showing less SCD risk among patients on statins, but this effect in HF was not confirmed in 2 prospective RCTs of rosuvastatin in HF (CORONA and GISSI-HF).
 
 ---
 
-### Energy drink-induced cardiomyopathy [^3dd2043a]. BMJ Case Reports (2021). High credibility.
+### Energy drink-induced cardiomyopathy [^112aeneD]. BMJ Case Reports (2021). High credibility.
 
 We report a case of severe biventricular heart failure potentially related to excessive energy drink consumption in a 21-year-old man. The patient presented with a 4-month history of shortness of breath on exertion, orthopnoea and weight loss. Transthoracic echocardiography demonstrated severely impaired biventricular systolic function and bilateral ventricular thrombi, subsequently confirmed on cardiac magnetic resonance imaging, which found in addition no oedema, inflammation or focal fibrosis. Blood tests, renal ultrasound and subsequent abdominal MRI demonstrated severe renal failure caused by a chronic obstructive uropathy, long-standing and previously undiagnosed. There was no significant past medical, family or social history other than excessive intake of an energy drink. This case report adds to the growing concern in the literature about the potential cardiotoxic effects of energy drinks, which should be considered when assessing young patients presenting with a non-ischaemic dilated cardiomyopathy.
 
 ---
 
-### Impact of alcohol consumption on the outcome of catheter ablation in patients with paroxysmal atrial fibrillation [^98c28e22]. Journal of the American Heart Association (2016). Low credibility.
+### Impact of alcohol consumption on the outcome of catheter ablation in patients with paroxysmal atrial fibrillation [^114uUU5P]. Journal of the American Heart Association (2016). Low credibility.
 
 The Impact of Alcohol Consumption on the Outcome of CA
 
@@ -1106,24 +1106,24 @@ Although alcohol consumption was strongly associated with the outcome of AF recu
 
 ---
 
-### Dying for a cup of tea [^0defccc6]. BMJ Case Reports (2012). Medium credibility.
+### Dying for a cup of tea [^111MfPLq]. BMJ Case Reports (2012). Medium credibility.
 
 We report the case of a 70-year-old woman who developed life-threatening arrhythmia as a result of acute and severe hypokalaemia, which she developed after consuming large quantities of a liquorice-rich herb tea. She had no previous heart condition. We also discuss the legislative discrepancy in both the USA and in Europe, whereby consumers are warned about the risk of chronic hypertension whenever they buy a product containing liquorice, yet the risk of hypokalaemia may not be mentioned at all.
 
 ---
 
-### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^e13e8b68]. Journal of the American College of Cardiology (2018). Medium credibility.
+### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^116kwDsd]. Journal of the American College of Cardiology (2018). Medium credibility.
 
 Brugada syndrome — potential triggers and preventive measures: Factors identified as potential triggers of ventricular fibrillation (VF) and sudden cardiac arrest (SCA) include some psychotropic medications, anesthetic agents, cocaine, excessive alcohol intake, and fever, and these agents should be avoided; fever warrants early and aggressive measures to reduce temperature.
 
 ---
 
-### Energy drinks: a contemporary issues paper [^7d72658f]. Current Sports Medicine Reports (2018). Medium credibility.
+### Energy drinks: a contemporary issues paper [^114CysrW]. Current Sports Medicine Reports (2018). Medium credibility.
 
 Energy drinks — vascular pathology associations span spasm, ischemia, and endothelial dysfunction. Coronary artery spasm may occur in apparently healthy persons after multiple (2–8 cans), and ST‑segment elevation myocardial infarction has been associated with excessive consumption (3 to 8 cans). Even a single 240- to 250-mL can has been shown to attenuate or result in endothelial dysfunction in healthy young volunteers aged 22 to 34 yr, and stress cardiomyopathy has been reported in a healthy 24-yr-old man after a single energy drink.
 
 ---
 
-### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^de453026]. Circulation (2018). Medium credibility.
+### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^116gXVTK]. Circulation (2018). Medium credibility.
 
 Brugada syndrome — triggers to avoid and fever management: Factors identified as potential triggers of VF and SCA include some psychotropic medications, anesthetic agents, cocaine, excessive alcohol intake, and fever, and these agents should be avoided while fever warrants early and aggressive measures to reduce temperature.

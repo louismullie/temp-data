@@ -75,7 +75,7 @@ Both methods yield the same result: the circulation is **(−4π)**.
 
 ## References
 
-### Electron stochastic acceleration in laboratory-produced kinetic turbulent plasmas [^9db73297]. Nature Communications (2024). High credibility.
+### Electron stochastic acceleration in laboratory-produced kinetic turbulent plasmas [^1152pbDp]. Nature Communications (2024). High credibility.
 
 Fig. 3
 Simulation revealing the Weibel instability features.
@@ -84,7 +84,7 @@ The plasma flows are injected into the simulation area from the left and right e
 
 ---
 
-### Using grid cells for navigation [^30eebe08]. Neuron (2015). Low credibility.
+### Using grid cells for navigation [^112FYbbu]. Neuron (2015). Low credibility.
 
 The Vector Navigation Problem
 
@@ -98,7 +98,7 @@ The 2D vector navigation problem is to recover the displacement vectorfromand(Fi
 
 ---
 
-### Automated mitral valve vortex ring extraction from 4D-flow MRI [^62c0c3df]. Magnetic Resonance in Medicine (2020). Medium credibility.
+### Automated mitral valve vortex ring extraction from 4D-flow MRI [^113XQXz6]. Magnetic Resonance in Medicine (2020). Medium credibility.
 
 2.4 Automated MV vortex ring extraction
 
@@ -119,7 +119,7 @@ With the boundary condition that the divergence‐free vector field must be tang
 
 ---
 
-### Transitions in dynamical regime and neural mode during perceptual decisions [^150c7a91]. Nature (2025). Excellent credibility.
+### Transitions in dynamical regime and neural mode during perceptual decisions [^111YCw2Q]. Nature (2025). Excellent credibility.
 
 FINDR
 
@@ -129,19 +129,19 @@ FINDR minimizes a linear combination of two losses: one for neural activity reco
 
 ---
 
-### Multi-scale turbulence simulation suggesting improvement of electron heated plasma confinement [^2aa26b9e]. Nature Communications (2022). High credibility.
+### Multi-scale turbulence simulation suggesting improvement of electron heated plasma confinement [^1126D33K]. Nature Communications (2022). High credibility.
 
 Time evolution of the perturbed distribution functions f s of plasma species s, the electrostatic potential ϕ, and the magnetic vector potential parallel to the equilibrium magnetic field A || is solved based on the delta- f gyrokinetic Vlasov–Poisson–Ampère equations. The configuration space is represented by field-aligned coordinates x = r − r 0, y = [q (r) θ − ζ] r 0 / q (r 0), z = θ, where r, θ, and ζ are the tokamak minor radius, and the poloidal and toroidal angles, respectively. The velocity–space coordinates are the parallel velocity v || and magnetic moment μ. The local flux-tube modelresolves perturbed quantities in a long and thin simulation box along a field line, whereas the equilibrium quantities are approximated at the flux-tube centre r = r 0, consistent with delta- f gyrokinetic ordering. Then, periodicities in perpendicular directions x and y are assumed along with homogeneous turbulence in fluids. The last boundary condition is the torus periodicity f (r, θ + 2π, ζ, v ||, μ) = f (r, θ, ζ, v ||, μ). In this study, the equilibrium magnetic field is assumed to have a concentric circular torus geometry (the so-called s-α model with geometric α = 0), which is characterised by the tokamak inverse aspect ratio ε r, safety factor q, and magnetic shear ŝ. We selected ε r = 0.18, q = 1.42 and ŝ = 0.8. The following plasma species were included in simulations: electron, deuterium, tritium, and helium (s = e, D, T, and He). The employed plasma parameters are e = e D = e T = − e e = e He /2, m i = 1837 m e = m D /2 = m T /3 = m He /4, T i = T D = T T = T He, n D = n T = 0.45 n e, n He = 0.05 n e, R 0 /L n e = R 0 /L n D = R 0 /L n T = R 0 /L n He = 3, R 0 /L T e = 9.342 and R 0 /L T D = R 0 /L T T = R 0 /L T He = 1, where L n s = − den n s / dx and L T s = − den T s / dx are the density and temperature gradient scale lengths. The elementary electric charge e, hydrogen mass m i, and tokamak major radius R 0 are used as references. The charge density satisfies the quasi-neutrality condition ∑ s e s n s = 0 and ∑ s e s n s / L n s = 0. The plasma beta value is β = μ 0 n e T D / B 0 2 = 0.05%, normalised Debye length is λ 2 = ε 0 B 0 2 /(m i n e) = 10 −3 and normalised collision frequency is ν ✱ = qR 0 τ ee −1 /(√2 ε r 3/2 v te) = 0.05 with electron–electron collision time τ ee. The above plasma parameters are chosen from a previous studybut the number of plasma species is increased. Most parameters are comparable to the existing tokamak device (e.g. a high T e discharge of DIII-D #173147), whereas the electron temperature and its gradient are slightly enhanced to mimic the electron-heated burning fusion plasma. Although electron heating by the alpha particles is the main heat source in the burning plasma, the ion–electron energy exchange process also heats ion species. When the ITG increases due to the energy exchange, the ITG modes are destabilised. For the multi-scale ITG/ETG turbulence at T e = T i and R 0 / L T e = R 0 / L T i, detailed mechanisms of cross-scale interactions between ITG and ETG modes have been reported previously. In this study, we focus on the parameter regime at T e > T i and R 0 / L T e > R 0 / L T i which has not yet been analysed in existing devices. We examined the electron temperature dependence in the range 1 ≤ T e / T i ≤ 4, and detailed analyses are presented for the case of T e / T i = 3, where ETG turbulence significantly affects near-marginal TEMs. These parameters are also related to the electron-heated plasma at the PFPO-1 phase in the ITER research plan which is an important step for early success of ITER. The prediction of the integrated modelling of PFPO-1 phase H -mode plasma reported high central temperature ratio T e / T i > 3 and R 0 / L T e > R 0 / L T i. For the multi-scale turbulence simulations, we employed simulation box sizes 0 ≤ x/ρ ti < 125, 0 ≤ y/ρ ti < 40π,–π ≤ z < π,−4.5 ≤ v || / v ts ≤ 4.5, 0 ≤ μB 0 / T s ≤ 12.5, and grid points in each dimension (N x, N y, N z, N v||, N μ) = (2048, 2048, 40, 64, 16) for the T e / T i = 1 case and (N x, N y, N z, N v||, N μ) = (1024, 1024, 40, 64, 16) for the 2 ≤ T e / T i cases. Since the GKV code treats perpendicular x and y space using the Fourier spectral method with 2/3 de-aliasing rule, f (x, y, z, v ||, μ) = ∑ kx ∑ ky f k (z, v ||, μ) exp(i k x x + i k y y), the corresponding perpendicular wavenumber resolutions are k x, min = k y, min = 0.05 ρ ti −1, k x, max = k y, max = 33.9 ρ ti −1 for the T e / T i = 1 case and k x, max = k y, max = 16.95 ρ ti −1 for the 2 ≤ T e / T i cases. For single ion-scale turbulence simulations, we employed reduced perpendicular wavenumber space k x, max = 4 ρ ti −1, k y, max = 1 ρ ti −1, which well resolves large ion-scale micro-instabilities and associated turbulence but excludes small electron-scale dynamics. Further, for single electron-scale turbulence simulations, we employed smaller perpendicular box sizes k x, min = k y, min = 0.5 ρ ti −1, which covers only electron-scale micro-instabilities but excludes ion-scale ones.
 
 ---
 
-### Reconstruction of divergence-free velocity fields from cine 3D phase-contrast flow measurements [^32b6e550]. Magnetic Resonance in Medicine (2013). Low credibility.
+### Reconstruction of divergence-free velocity fields from cine 3D phase-contrast flow measurements [^112JBpBq]. Magnetic Resonance in Medicine (2013). Low credibility.
 
 Three-dimensional phase-contrast velocity vector field mapping shows great potential for clinical applications; however measurement inaccuracies may limit the utility and robustness of the technique. While parts of the error in the measured velocity fields can be minimized by background phase estimation in static tissue and magnetic field monitoring, considerable inaccuracies remain. The present work introduces divergence-reduction processing of 3D phase-contrast flow data based on a synergistic combination of normalized convolution and divergence-free radial basis functions. It is demonstrated that this approach effectively addresses erroneous flow for image reconstructions from both fully sampled and undersampled data. Using computer simulations and in vivo data acquired in the aorta of healthy subjects and a stenotic valve patient it is shown that divergence arising from measurement imperfections can be reduced by up to 87% resulting in improved vector field representations. Based on the results obtained it is concluded that integration of the divergence-free condition into postprocessing of vector fields presents an efficient approach to addressing flow field inaccuracies.
 
 ---
 
-### Mapping the global design space of nanophotonic components using machine learning pattern recognition [^40a9b537]. Nature Communications (2019). High credibility.
+### Mapping the global design space of nanophotonic components using machine learning pattern recognition [^112esDDG]. Nature Communications (2019). High credibility.
 
 C αβ is a constant vector that defines the reference origin on the hyperplane. Two scalar coefficients α k and β k are thus sufficient to completely describe design k. Details of vector definitions are provided in the Methods section.
 
@@ -149,7 +149,7 @@ Now that the area of interest in the design space is limited to a 2D hyperplane,
 
 ---
 
-### In vitro characterization of hemodynamics in bicuspid aortic valves: the impact of valve and ascending aortic morphologies [^73f4bab9]. Magnetic Resonance in Medicine (2026). Medium credibility.
+### In vitro characterization of hemodynamics in bicuspid aortic valves: the impact of valve and ascending aortic morphologies [^113xun7z]. Magnetic Resonance in Medicine (2026). Medium credibility.
 
 3.2 Secondary helical flows at systole
 
@@ -160,7 +160,7 @@ Circulation values in Type 1 bicuspid aortic valves (BAVs). Data are from Type 1
 
 ---
 
-### RodZ modulates geometric localization of the bacterial actin mreB to regulate cell shape [^eaee1cb9]. Nature Communications (2018). Medium credibility.
+### RodZ modulates geometric localization of the bacterial actin mreB to regulate cell shape [^1171J5k4]. Nature Communications (2018). Medium credibility.
 
 Image analysis
 
@@ -172,13 +172,13 @@ All simulations were performed as in ref.using the package NAMDwith the CHARMM27
 
 ---
 
-### Dependence of the frequency distribution around a vessel on the voxel orientation [^8b3c7c9e]. Magnetic Resonance Imaging (2019). Medium credibility.
+### Dependence of the frequency distribution around a vessel on the voxel orientation [^114ZRbYq]. Magnetic Resonance Imaging (2019). Medium credibility.
 
 In this work the frequency distribution around a vessel inside a cubic voxel is investigated. Therefore, the frequency distribution is calculated in dependence on the orientation of the voxel according to the external magnetic field. The frequency distribution exhibits an interesting peak structure that cannot be explained by the established Krogh's vessel model. The results were validated with phantom measurements and in vivo measurements that agree very well with the developed theory.
 
 ---
 
-### Chiral structures of electric polarization vectors quantified by X-ray resonant scattering [^bf81013f]. Nature Communications (2022). High credibility.
+### Chiral structures of electric polarization vectors quantified by X-ray resonant scattering [^115tuy3U]. Nature Communications (2022). High credibility.
 
 Phenomenological model of polar vortex array
 
@@ -188,7 +188,7 @@ This phenomenological polar vortex array model mainly consists of a domain and a
 
 ---
 
-### Bayesian tomography of high-dimensional on-chip biphoton frequency combs with randomized measurements [^b26a4537]. Nature Communications (2022). High credibility.
+### Bayesian tomography of high-dimensional on-chip biphoton frequency combs with randomized measurements [^115ZWVUa]. Nature Communications (2022). High credibility.
 
 In addition to the parameters forming ρ, the scale factor K must also be suitably parameterized. Following ref. we find it convenient to write K = K 0 (1 + σ z), where K 0 and σ are hyperparameters defined separate of the inference process, and z is taken to follow a standard normal distribution, leading to a normal prior on K of mean K 0 and standard deviation K 0 σ. We take σ = 0.1 and K 0 equal to the sum of the counts in all d 2 bins for the first JSI measurement (r = 1), where the absence of modulation ensures that all initial photon flux remains in measured bins, i.e. This provides an effectively uniform prior, since a fractional deviation of 0.1 is much larger than the maximum amount of fractional uncertaintyexpected from statistical noise at our total count numbers; the use of a normal distribution simplifies the sampling process.
 
@@ -200,7 +200,7 @@ Following Bayes' rule, the posterior distribution becomeswhereis a constant such
 
 ---
 
-### Accelerating 4D flow MRI by exploiting vector field divergence regularization [^330d9114]. Magnetic Resonance in Medicine (2016). Low credibility.
+### Accelerating 4D flow MRI by exploiting vector field divergence regularization [^112Jgvg3]. Magnetic Resonance in Medicine (2016). Low credibility.
 
 Purpose
 
@@ -220,7 +220,7 @@ Regularization of vector field divergence in image reconstruction from undersamp
 
 ---
 
-### Transitions in dynamical regime and neural mode during perceptual decisions [^4c08167a]. Nature (2025). Excellent credibility.
+### Transitions in dynamical regime and neural mode during perceptual decisions [^112wimys]. Nature (2025). Excellent credibility.
 
 Estimating the low-dimensional vector field without specifying a dynamical model
 
@@ -230,7 +230,7 @@ We treated this low-dimensional projection of the baseline-subtracted firing rat
 
 ---
 
-### Surfing a genetic association interaction network to identify modulators of antibody response to smallpox vaccine [^3748f69f]. Genes and Immunity (2010). Low credibility.
+### Surfing a genetic association interaction network to identify modulators of antibody response to smallpox vaccine [^112QxpwY]. Genes and Immunity (2010). Low credibility.
 
 SNPrank eigenvector scores
 
@@ -248,7 +248,7 @@ Fast convergence is found for the eigenvalue when the probability elements of th
 
 ---
 
-### Optical force mapping at the single-nanometre scale [^7fffd103]. Nature Communications (2021). High credibility.
+### Optical force mapping at the single-nanometre scale [^114GmMVk]. Nature Communications (2021). High credibility.
 
 To obtain variations in the electric field intensity in all directions, we calculate the photoinduced force in the lateral directions. The lateral photoinduced force is obtained by differentiating the interaction potential in the directions parallel to the substrate (i.e. x and y). Then, the photoinduced force field vectors in the 3D map can be visualised as Fig. 4. Figure 4 a, c, e shows the lateral photoinduced force (F x, y pif) for 660 nm wavelength at Δ z = 2, 1, 0 nm, where the colours and direction of the arrows indicate the magnitude and the direction of the force in the x and y direction. Further, Fig. 4 b, d, and f visualise the vertical photoinduced force (F z pif) at Δ z = 2, 1, 0 nm. The magnitudes of the forces increase as Δ z approaches 0 nm. (Similar maps for 520 nm wavelength are indicated in Supplementary Fig. 16 in Supplementary Note 10.) At Δ z = 0 nm, in areas far from the QD, the directions of force fields are random. In contrast, photoinduced force field vectors pointing toward the QD are observed within a range of ~10 nm from the QD. The essential features of vectors near the ZAIS QD in Fig. 4 e, and f are quite consistent with the theoretically calculated force vectors in Fig. 4 g, h, which further reflect the calculated map of the field-intensity gradient in the absence of the tip (see Supplementary Fig. 20 in Supplementary Note 15 for more details). The results of the theoretical calculations corresponding to these measurements in the Supplementary Information agree well with the essential features of this 3D map. (See Supplementary Fig. 19 in the Supplementary Information.) The agreement between the observed 3D map and the theoretical calculation shows that the present result visualises the successful synthesis of individual QDs to realise the targeted electronic scheme, which demonstrates the effectiveness of our PiFM as a photovisualisation tool.
 
@@ -259,13 +259,13 @@ a, c, e Photoinduced force map directing x and y at Δ z = 2.0, 1.0, 0.0 nm. b, 
 
 ---
 
-### Single-shot polarimetry of vector beams by supervised learning [^6630cb2a]. Nature Communications (2023). High credibility.
+### Single-shot polarimetry of vector beams by supervised learning [^113cW8Kb]. Nature Communications (2023). High credibility.
 
 States of light encoding multiple polarizations - vector beams - offer unique capabilities in metrology and communication. However, their practical application is limited by the lack of methods for measuring many polarizations in a scalable and compact way. Here we demonstrate polarimetry of vector beams in a single shot without any polarization optics. We map the beam polarization content into a spatial intensity distribution through light scattering and exploit supervised learning for single-shot measurements of multiple polarizations. We characterize structured light encoding up to nine polarizations with accuracy beyond 95% on each Stokes parameter. The method also allows us to classify beams with an unknown number of polarization modes, a functionality missing in conventional techniques. Our findings enable a fast and compact polarimeter for polarization-structured light, a general tool that may radically impact optical devices for sensing, imaging, and computing.
 
 ---
 
-### High-dimensional one-shot optical field compressive sensing of structured light [^cb75b8fc]. Nature Communications (2025). High credibility.
+### High-dimensional one-shot optical field compressive sensing of structured light [^116Ce2dR]. Nature Communications (2025). High credibility.
 
 Now we can calculate the 3D spatiospectral and spatiotemporal light field profiles. Fourier transformation along the spectral domain onyields the 3D spatiotemporal profileof the-polarized light field. For the-polarized light, the 3D spatiospectral phase profile is, and the amplitude one is. The complex amplitudes of- and-polarized light components unambiguously determine the 3D spatiospectral polarization state with a method different from previous approaches using metasurfaces. The 3D spatiotemporal field profileis obtained again through Fourier transformation on, and complete light field information is obtained using Eq. (1). The data reconstruction procedure of the 3D spatiotemporal vectorial optical field is systematically illustrated in Fig. 1e, including all key calculation steps mentioned above.
 
@@ -278,7 +278,7 @@ a The 3D spatiotemporal optical field profile of a femtosecond laser pulse with 
 
 ---
 
-### Flow and pressure measurements in aneurysms and arteriovenous malformations with phase contrast MR imaging [^69e99fae]. Magnetic Resonance Imaging (2016). Low credibility.
+### Flow and pressure measurements in aneurysms and arteriovenous malformations with phase contrast MR imaging [^113i2Aww]. Magnetic Resonance Imaging (2016). Low credibility.
 
 Purpose
 
@@ -298,7 +298,7 @@ The study findings confirm the expectation of lower distal flow in aneurysm and 
 
 ---
 
-### Mechanical power is maximized during contractile ring-like formation in a biomimetic dividing cell model [^d3be629b]. Nature Communications (2024). High credibility.
+### Mechanical power is maximized during contractile ring-like formation in a biomimetic dividing cell model [^116QvLTt]. Nature Communications (2024). High credibility.
 
 Fig. 1
 Patterned light-activation induces cell division-like membrane deformation.
@@ -307,7 +307,7 @@ a Schematic of a liposome encapsulating actomyosin. His-tagged proteins were tet
 
 ---
 
-### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^dd68b8a8]. Nature Communications (2025). High credibility.
+### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^116fFSR5]. Nature Communications (2025). High credibility.
 
 Given these properties of the metamaterial, the ENZ-related extinction cannot be harnessed by plane wave illumination at normal incidence, as it does not provide a field component along the optical axis. However, linearly or circularly polarized Gaussian beams can acquire a longitudinal field upon focusing. At the same time, the longitudinal field is intrinsic for radial and other vector vortex beams even within the paraxial approximationand can be further enhanced by focusing.
 
@@ -320,7 +320,7 @@ a, b Relative energy stored in the (solid lines) transverse and (dashed lines) l
 
 ---
 
-### Multipolar lasing modes from topological corner States [^cd0e3b30]. Nature Communications (2020). High credibility.
+### Multipolar lasing modes from topological corner States [^116F1F1y]. Nature Communications (2020). High credibility.
 
 Fig. 3
 Corner-state topological lasers.
@@ -331,13 +331,13 @@ We compare the measured mode images with the calculated electric-field intensity
 
 ---
 
-### Rapid imaging of fluid flow patterns in a narrow packed bed using MRI [^82f0e8eb]. Magnetic Resonance Imaging (2005). Low credibility.
+### Rapid imaging of fluid flow patterns in a narrow packed bed using MRI [^114M8JwL]. Magnetic Resonance Imaging (2005). Low credibility.
 
 A gradient echo rapid velocity and acceleration imaging sequence (GERVAIS) has been developed and implemented to image liquid flow within a narrow packed bed. Two-dimensional velocity images have been acquired with an in-plane pixel size of 781 microm x 781 microm, with a data acquisition time of 20 ms for a single velocity component. Images of the x, y and z velocity vectors are reported. Data are reported for Reynolds numbers (based on particle diameter) of 200 and 300. In each case, GERVAIS images are compared with the results of a standard spin-echo phase-encoding velocity measurement. At Re = 200, steady-state flow is expected and the velocity images acquired using both techniques are consistent. At Re = 300, the GERVAIS sequence is able to image the unsteady-state flow field within this system. In contrast, the standard phase-encoding velocity measurement contains significant artefacts.
 
 ---
 
-### Supertoroidal light pulses as electromagnetic skyrmions propagating in free space [^386e4cea]. Nature Communications (2021). High credibility.
+### Supertoroidal light pulses as electromagnetic skyrmions propagating in free space [^112SfMcD]. Nature Communications (2021). High credibility.
 
 Energy backflow and Poynting vector singularities
 
@@ -350,7 +350,7 @@ a, b Contour and arrow plots of the Poynting vector fields in the x – z plane,
 
 ---
 
-### Theory and computation of hot carriers generated by surface plasmon polaritons in noble metals [^457343aa]. Nature Communications (2015). Medium credibility.
+### Theory and computation of hot carriers generated by surface plasmon polaritons in noble metals [^112mxryX]. Nature Communications (2015). Medium credibility.
 
 The vector potential of the SPP wave in the metal, with unit amplitude as in the photon case, can be written in second quantized form as:
 
@@ -366,13 +366,13 @@ Since the form of the SPP vector potential is completely analogous to the one fo
 
 ---
 
-### Mapping the velocity vector onto the spin vector: two-dimensional velocity-selective spin excitation for MR flow imaging [^ac4ec40a]. Magnetic Resonance in Medicine (2001). Low credibility.
+### Mapping the velocity vector onto the spin vector: two-dimensional velocity-selective spin excitation for MR flow imaging [^115QTKxD]. Magnetic Resonance in Medicine (2001). Low credibility.
 
 This article presents a two-dimensional velocity-selective spin excitation (2D-VSP) method that enables quantitative imaging of motion in two directions in a single scan, without the need for image subtraction or combination. It is based on the idea of mapping a 2D velocity vector directly onto the transverse magnetization vector, such that the signal intensity reflects the speed of motion, while the signal phase represents the direction of motion. Experimental demonstration is presented in conjunction with an analysis of the accuracy of this method. VSP methods are often limited by inconsistent static signal suppression under variable shim and RF conditions. By using adiabatic RF pulses in a 2D-VSP composite that possesses time-reversal symmetry, consistent background suppression of 30-fold or higher was demonstrated over experimental conditions of ± 200 Hz off-resonance and 30% RF field variation.
 
 ---
 
-### Injury triggers fascia fibroblast collective cell migration to drive scar formation through N-cadherin [^6712879b]. Nature Communications (2020). High credibility.
+### Injury triggers fascia fibroblast collective cell migration to drive scar formation through N-cadherin [^113dox1p]. Nature Communications (2020). High credibility.
 
 Orientation vector field analysis
 
@@ -384,7 +384,7 @@ Contour lines were derived using ImageJ plugin Interactive 3D surface plot. Maxi
 
 ---
 
-### Solving the where problem and quantifying geometric variation in neuroanatomy using generative diffeomorphic mapping [^fd44f32f]. Nature Communications (2025). High credibility.
+### Solving the where problem and quantifying geometric variation in neuroanatomy using generative diffeomorphic mapping [^117UV2Yv]. Nature Communications (2025). High credibility.
 
 The statistical interpretation allows us to accommodate images with non reference signals, such as missing tissue, tracer injection sites, or other anomalies. At each pixel, the identity of the signal type is modeled as missing data, and maximum likelihood estimators are computed using an Expectation Maximization algorithm, which alternates between the E step: compute posterior probability π i (x) that each pixel corresponds to the reference image rather than one of the non-reference types, and the M step: update parameters by solving a posterior weighted version of the above:As an EM algorithm, this approach is guaranteed to be monotonically increasing in likelihood. An example of posterior weights are shown in the right hand column of Fig. 2 b.
 
@@ -396,13 +396,13 @@ This registration problem is highly nonconvex, and allows for many local minima.
 
 ---
 
-### Vectorial Doppler metrology [^74ee8230]. Nature Communications (2021). High credibility.
+### Vectorial Doppler metrology [^113zMgDD]. Nature Communications (2021). High credibility.
 
 The Doppler effect is a universal wave phenomenon that has spurred a myriad of applications. In early manifestations, it was implemented by interference with a reference wave to infer linear velocities along the direction of motion, and more recently lateral and angular velocities using scalar phase structured light. A consequence of the scalar wave approach is that it is technically challenging to directly deduce the motion direction of moving targets. Here we overcome this challenge using vectorially structured light with spatially variant polarization, allowing the velocity and motion direction of a moving particle to be fully determined. Using what we call a vectorial Doppler effect, we conduct a proof of principle experiment and successfully measure the rotational velocity (magnitude and direction) of a moving isotropic particle. The instantaneous position of the moving particle is also tracked under the conditions of knowing its starting position and continuous tracking. Additionally, we discuss its applicability to anisotropic particle detection, and show its potential to distinguish the rotation and spin of the anisotropic particle and measure its rotational velocity and spin speed (magnitude and direction). Our demonstration opens the path to vectorial Doppler metrology for detection of universal motion vectors with vectorially structured light.
 
 ---
 
-### Single-shot polarimetry of vector beams by supervised learning [^73dce65c]. Nature Communications (2023). High credibility.
+### Single-shot polarimetry of vector beams by supervised learning [^113xmmtF]. Nature Communications (2023). High credibility.
 
 Discussion
 
@@ -414,25 +414,25 @@ These findings empower compact single-shot polarimetry based on machine learning
 
 ---
 
-### Null space imaging: nonlinear magnetic encoding fields designed complementary to receiver coil sensitivities for improved acceleration in parallel imaging [^15c5a123]. Magnetic Resonance in Medicine (2012). Low credibility.
+### Null space imaging: nonlinear magnetic encoding fields designed complementary to receiver coil sensitivities for improved acceleration in parallel imaging [^111ZH83t]. Magnetic Resonance in Medicine (2012). Low credibility.
 
 To increase image acquisition efficiency, we develop alternative gradient encoding strategies designed to provide spatial encoding complementary to the spatial encoding provided by the multiple receiver coil elements in parallel image acquisitions. Intuitively, complementary encoding is achieved when the magnetic field encoding gradients are designed to encode spatial information where receiver spatial encoding is ambiguous, for example, along sensitivity isocontours. Specifically, the method generates a basis set for the null space of the coil sensitivities with the singular value decomposition and calculates encoding fields from the null space vectors. A set of nonlinear gradients is used as projection imaging readout magnetic fields, replacing the conventional linear readout field and phase encoding. Multiple encoding fields are used as projections to capture the null space information, hence the term null space imaging. The method is compared to conventional Cartesian SENSitivity Encoding as evaluated by mean squared error and robustness to noise. Strategies for developments in the area of nonlinear encoding schemes are discussed. The null space imaging approach yields a parallel imaging method that provides high acceleration factors with a limited number of receiver coil array elements through increased time efficiency in spatial encoding.
 
 ---
 
-### Design of a logarithmic k-space spiral trajectory [^3d2eeeb3]. Magnetic Resonance in Medicine (2001). Low credibility.
+### Design of a logarithmic k-space spiral trajectory [^112Zi1WS]. Magnetic Resonance in Medicine (2001). Low credibility.
 
 Spiral acquisitions are used in fast cardiac imaging because they traverse k-space efficiently and minimize flow artifacts. A variable pitch logarithmic spiral trajectory is designed to critically sample the low-frequency region in k-space and gradually undersample the high-frequency region. An approximate analytical expression for the trajectory provides a fast means to calculate the gradient waveforms and the sampled data points. A numerical method is introduced based on the trajectory curvature and the rate of change in the gradient magnitude with time for the composite Archimedean-logarithmic trajectory. The pulse sequence is implemented and images are acquired on phantoms and human hearts. The images show improved image resolution and some improvement in image quality as a result of increased extent in k-space and reduction in aliasing artifacts, respectively.
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^59d10d7c]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^113JA7ko]. Annals of the American Thoracic Society (2023). High credibility.
 
 Ventilation–perfusion (V A /Q) distribution modeling is binned into 50 equally spaced (log scale) compartments, with V A /Q ratios < 0.005 (shunt) and > 100 (dead space) separately calculated, and relative dispersion and gravitational gradients may also be assessed.
 
 ---
 
-### Machine learning assisted vector atomic magnetometry [^38133517]. Nature Communications (2023). High credibility.
+### Machine learning assisted vector atomic magnetometry [^112S8kyL]. Nature Communications (2023). High credibility.
 
 Fig. 1
 Working principle and schematics of the single-shot all optical vector magnetometer.
@@ -443,19 +443,19 @@ To extract the vectorial information of the magnetic field from the rotation sig
 
 ---
 
-### A novel MRI framework for the quantification of any moment of arbitrary velocity distributions [^6dcae65c]. Magnetic Resonance in Medicine (2011). Low credibility.
+### A novel MRI framework for the quantification of any moment of arbitrary velocity distributions [^113omoXR]. Magnetic Resonance in Medicine (2011). Low credibility.
 
 MRI can measure several important hemodynamic parameters but might not yet have reached its full potential. The most common MRI method for the assessment of flow is phase-contrast MRI velocity mapping that estimates the mean velocity of a voxel. This estimation is precise only when the intravoxel velocity distribution is symmetric. The mean velocity corresponds to the first raw moment of the intravoxel velocity distribution. Here, a generalized MRI framework for the quantification of any moment of arbitrary velocity distributions is described. This framework is based on the fact that moments in the function domain (velocity space) correspond to differentials in the Fourier transform domain (kv-space). For proof-of-concept, moments of realistic velocity distributions were estimated using finite difference approximations of the derivatives of the MRI signal. In addition, the framework was applied to investigate the symmetry assumption underlying phase-contrast MRI velocity mapping; we found that this assumption can substantially affect phase-contrast MRI velocity estimates and that its significance can be reduced by increasing the velocity encoding range.
 
 ---
 
-### Perturbation method for magnetic field calculations of nonconductive objects [^75b53d21]. Magnetic Resonance in Medicine (2004). Low credibility.
+### Perturbation method for magnetic field calculations of nonconductive objects [^1141WRng]. Magnetic Resonance in Medicine (2004). Low credibility.
 
 Inhomogeneous magnetic fields produce artifacts in MR images including signal dropout and spatial distortion. A novel perturbative method for calculating the magnetic field to first order (error is second order) within and around nonconducting objects is presented. The perturbation parameter is the susceptibility difference between the object and its surroundings (for example, approximately 10 ppm in the case of brain tissue and air). This method is advantageous as it is sufficiently accurate for most purposes, can be implemented as a simple convolution with a voxel-based object model, and is linear. Furthermore, the method is simple to use and can quickly calculate the field for any orientation of an object using a set of precalculated basis images.
 
 ---
 
-### Unique huygens-fresnel electromagnetic transportation of chiral dirac wavelet in topological photonic crystal [^b236d2f3]. Nature Communications (2023). High credibility.
+### Unique huygens-fresnel electromagnetic transportation of chiral dirac wavelet in topological photonic crystal [^115ZDDDk]. Nature Communications (2023). High credibility.
 
 Fig. 4
 Response of the structure with M > 0 to a chiral source with counterclockwise phase winding.
@@ -464,7 +464,7 @@ a Distribution of the strength of out-of-plane electric-field E z in the central
 
 ---
 
-### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^1d78845c]. Nature Communications (2025). High credibility.
+### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^111kh82w]. Nature Communications (2025). High credibility.
 
 Overall, the rotating magnetic field can induce dynamic heading errors in total magnetic field measurements, consisting of a static heading error component and a rotating-field-phase-dependent component. The rotating-field-phase-dependent heading error, B P D, can be eliminated either by selecting appropriate starting phases for the rotating field — ensuring the field initially aligns perpendicularly or maintains a constant angle relative to the spins with alternating start directions — or by averaging the results of four shots, as shown in Table 1. Importantly, the dynamic heading error does not affect measurement of the transverse magnetic fields, regardless of the starting phases of the rotating field.
 
@@ -474,7 +474,7 @@ The alternating fast rotating magnetic field can generate an eddy current in the
 
 ---
 
-### Supertoroidal light pulses as electromagnetic skyrmions propagating in free space [^bf79b728]. Nature Communications (2021). High credibility.
+### Supertoroidal light pulses as electromagnetic skyrmions propagating in free space [^115tsX2w]. Nature Communications (2021). High credibility.
 
 Magnetic field singularities
 
@@ -482,25 +482,25 @@ The magnetic field of STLPs has both radial and longitudinal components, which l
 
 ---
 
-### Analysis and correction of gradient nonlinearity and B0 inhomogeneity related scaling errors in two-dimensional phase contrast flow measurements [^65058011]. Magnetic Resonance in Medicine (2005). Low credibility.
+### Analysis and correction of gradient nonlinearity and B0 inhomogeneity related scaling errors in two-dimensional phase contrast flow measurements [^113ambck]. Magnetic Resonance in Medicine (2005). Low credibility.
 
 Phase contrast flow measurements will be increasingly biased at eccentric positions, where nonlinearity of gradients and inhomogeneity of the main field become important. In theory, they scale the result of phase contrast flow values in two ways: incorrect velocity encoding of moving spins and geometric distortion of the vessel cross-sectional area. A flow phantom, consisting of a 3D grid of interconnected tubes, was used to determine the spatial dependence of the associated scaling factors, which demonstrate that scaling errors in flow can be as large as 20% within the examined volume of 336 x 336 x 336 mm(3). The same phantom was also used to determine and minimize concomitant gradient effects. Correction of the off-center flow values with the local scaling factors and the concomitant gradient phase improves the measurement accuracy substantially, both in the flow phantom and in a volunteer study.
 
 ---
 
-### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^b1c62a2d]. Nature Communications (2025). High credibility.
+### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^115YZNSY]. Nature Communications (2025). High credibility.
 
 We introduce a vector atomic magnetometer that employs a fast-rotating magnetic field applied to a pulsed 87 Rb scalar atomic magnetometer. This approach enables simultaneous measurements of the total magnetic field and its two polar angles relative to the rotation plane. Operating in gradiometer mode, the magnetometer achieves a total field gradient sensitivity of 35 fT/√Hz (0.7 parts per billion) and angular resolutions of 6 nrad/√Hz at a 50 μT Earth field strength. The noise spectra remain flat down to 1 Hz and 0.1 Hz, respectively. Here we show that this method overcomes several metrological challenges commonly faced by vector magnetometers and gradiometers. We propose a unique peak-altering modulation technique to mitigate systematic effects, including a newly identified dynamic heading error. Additionally, we establish the fundamental sensitivity limits of the sensor, demonstrating that its vector sensitivity approaches scalar sensitivity while preserving the inherent accuracy and calibration benefits of scalar sensors. This high-dynamic-range, ultrahigh-resolution magnetometer offers exceptional versatility for diverse applications.
 
 ---
 
-### Validation of V-SS-PARSE for single-shot flow measurement [^f1569ac0]. Magnetic Resonance Imaging (2007). Low credibility.
+### Validation of V-SS-PARSE for single-shot flow measurement [^117Ao77D]. Magnetic Resonance Imaging (2007). Low credibility.
 
 As a variant of Single-Shot Parameter Assessment by Retrieval from Signal Encoding, Velocity Single-Shot Parameter Assessment by Retrieval from Signal Encoding, a single-shot imaging method, has been developed to realize fast and straightforward flow quantification by solving inverse problems. A robust signal model, including its local magnetization and its phase evolution during signaling (resulting in a more precise representation of the sampled signal) is described here. Magnitude, velocity, relaxation rate and frequency information can be retrieved without any extra reference image acquisitions, as demonstrated by phantom studies. In the presence of stationary background, retrieved magnitude maps and velocity maps show results comparable to those obtained by phase-contrast methods (r > .99, P = 0.005), even with brief single-shot 70-ms acquisition.
 
 ---
 
-### Olivar: towards automated variant aware primer design for multiplex tiled amplicon sequencing of pathogens [^96579dc1]. Nature Communications (2024). High credibility.
+### Olivar: towards automated variant aware primer design for multiplex tiled amplicon sequencing of pathogens [^114qtaB2]. Nature Communications (2024). High credibility.
 
 Calculation of sequence complexity
 
@@ -516,7 +516,7 @@ Each PDR is randomly selected within a certain region C (Supplementary Fig. 12, 
 
 ---
 
-### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^0f1b9b12]. Nature Communications (2025). High credibility.
+### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^111PQ62m]. Nature Communications (2025). High credibility.
 
 When focused inside the metamaterial, a monochromatic radial beam at a wavelength corresponding to the ENZ condition, acquires a stronger longitudinal field exceeding the transverse field intensity at the much lower NA = 0.4 (Fig. 2 b) due to the metamaterial anisotropy, suggesting the possibility to generate a relatively stronger longitudinal component with less focused beams. Similar observations can be made for the linearly polarized beam, while for the azimuthally polarized beam, the longitudinal component keeps the zero value. This effect is strongly wavelength-dependent because of the drastically different interaction between the longitudinal field and the metamaterial in the different dispersion regimes. While the anisotropy increases in the hyperbolic regime compared to the elliptic one, only the ENZ regime produces a strong damping of the longitudinal field.
 
@@ -524,7 +524,7 @@ This behavior can be directly visualized in the extinction spectra of the radial
 
 ---
 
-### Theoretical hydraulic consequences of vein graft taper [^e3d25f07]. Journal of Vascular Surgery (2003). Low credibility.
+### Theoretical hydraulic consequences of vein graft taper [^116pkrLE]. Journal of Vascular Surgery (2003). Low credibility.
 
 Objective
 
@@ -544,7 +544,7 @@ The relationship between Z(L) and diameter in vein grafts is nonlinear; thus Z(L
 
 ---
 
-### K-mer analysis of long-read alignment pileups for structural variant genotyping [^ec73b2ac]. Nature Communications (2025). High credibility.
+### K-mer analysis of long-read alignment pileups for structural variant genotyping [^1173YwV5]. Nature Communications (2025). High credibility.
 
 Methods
 
@@ -562,7 +562,7 @@ This operation updates j by first masking (m) the two leftmost bits, left-shifti
 
 ---
 
-### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^0010e0b5]. Nature Communications (2025). High credibility.
+### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^11116foi]. Nature Communications (2025). High credibility.
 
 Typically, longitudinal components are present in guided or strongly focused electromagnetic fields and responsible for their transverse spin –. This unusual property, which may be present even in unpolarized light, is an origin of many counterintuitive effects, such as directional scattering, unidirectional coupling to waveguides, lateral optical forces, and photonic topological structures –. The longitudinal field of vector beams has a profound impact on their scattering properties when they interact with matter. In the case of individual nanoparticles, it induces dipoles in the direction of the beam propagation and, therefore, is scattered in the directions normal to the incident wave vector.
 
@@ -572,7 +572,7 @@ In this paper, we experimentally and theoretically demonstrate that strongly ani
 
 ---
 
-### Multiphase flow detection with photonic crystals and deep learning [^3c40760a]. Nature Communications (2022). High credibility.
+### Multiphase flow detection with photonic crystals and deep learning [^112YKuiH]. Nature Communications (2022). High credibility.
 
 Predictions of phase fractions with deep neural network
 
@@ -580,13 +580,13 @@ Next we assess the capability of an open-source machine learning algorithm to an
 
 ---
 
-### Time reversed optical waves by arbitrary vector spatiotemporal field generation [^e61f1ce3]. Nature Communications (2020). High credibility.
+### Time reversed optical waves by arbitrary vector spatiotemporal field generation [^116tAbwg]. Nature Communications (2020). High credibility.
 
 Lossless linear wave propagation is symmetric in time, a principle which can be used to create time reversed waves. Such waves are special "pre-scattered" spatiotemporal fields, which propagate through a complex medium as if observing a scattering process in reverse, entering the medium as a complicated spatiotemporal field and arriving after propagation as a desired target field, such as a spatiotemporal focus. Time reversed waves have previously been demonstrated for relatively low frequency phenomena such as acoustics, water waves and microwaves. Many attempts have been made to extend these techniques into optics. However, the much higher frequencies of optics make for very different requirements. A fully time reversed wave is a volumetric field with arbitrary amplitude, phase and polarisation at every point in space and time. The creation of such fields has not previously been possible in optics. We demonstrate time reversed optical waves with a device capable of independently controlling all of light's classical degrees of freedom simultaneously. Such a class of ultrafast wavefront shaper is capable of generating a sequence of arbitrary 2D spatial/polarisation wavefronts at a bandwidth limited rate of 4.4THz. This ability to manipulate the full field of an optical beam could be used to control both linear and nonlinear optical phenomena.
 
 ---
 
-### Top-down perceptual inference shaping the activity of early visual cortex [^da4bf629]. Nature Communications (2025). High credibility.
+### Top-down perceptual inference shaping the activity of early visual cortex [^116adpHW]. Nature Communications (2025). High credibility.
 
 Identifying active model units
 
@@ -598,13 +598,13 @@ Learned Z 1 receptive fields are localized, oriented and bandpass in both the hi
 
 ---
 
-### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^b1509e4f]. Nature Communications (2025). High credibility.
+### Longitudinal field controls vector vortex beams in anisotropic epsilon-near-zero metamaterials [^115XstTG]. Nature Communications (2025). High credibility.
 
 Structured light plays an important role in metrology, optical trapping and manipulation, communications, quantum technologies and nonlinear optics. Here, we demonstrate an alternative approach for the manipulation of vector beams carrying longitudinal field components using metamaterials with extreme anisotropy. Implementing vectorial spectroscopy, we show that the propagation of complex beams with inhomogeneous polarization is strongly affected by the interplay of the metamaterial anisotropy with the transverse and longitudinal field structure of the beam. This phenomenon is especially pronounced in the epsilon-near-zero regime, exclusively realised for light polarized along the metamaterial optical axis, strongly influencing the interaction of longitudinal fields with the metamaterial. The requirements on the balance between the transverse and longitudinal fields to maintain a polarization singularity at the beam axis allow control of the beam modal content, filtering diffraction effects and tailoring spatial polarization distributions. The understanding of the interaction of vector beams with metamaterials opens new opportunities for applications in microscopy, information encoding, biochemical sensing and quantum technologies.
 
 ---
 
-### Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST [^65a9b5c6]. Nature Communications (2023). High credibility.
+### Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST [^113bikgV]. Nature Communications (2023). High credibility.
 
 Following this, we generated domain-relevant latent features z r i in the model (5) from the conditional Gaussian distribution, such that z r i ∣ y r i = k ~ (μ k, Σ k), where z r i ∈ R q with q = 10. Structures for μ k and Σ k are shown in Supplementary Data 8. Next, we generatedwith each, performed QR decomposition onsuch that, and assigned, which is a column orthogonal matrix. Then, we generated a batch-loading matrix W r by generatingwith, andwith. In a similar manner to the generation of W, we performed orthogonalization ofto generate W r. Next, we generated ζ r i in the model (5) bysuchwith σ 1 = 1, σ 2 = 2 and σ 3 = 0.5, where b s c a l e controlled the scales of batch effects. Here, we considered three scales of batch effects, corresponding to low, middle and high, by taking the value of 1, 2, or 3 for b s c a l e, respectively.
 
@@ -612,7 +612,7 @@ Next, we generated a high-dimensional normalized expression matrix using x r i =
 
 ---
 
-### Using grid cells for navigation [^fac508c8]. Neuron (2015). Low credibility.
+### Using grid cells for navigation [^117Qn5zP]. Neuron (2015). Low credibility.
 
 Discussion
 
@@ -622,13 +622,13 @@ We have also described several neural network implementations of this algorithmi
 
 ---
 
-### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^cb69ea4e]. Nature Communications (2024). High credibility.
+### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^116Ca4bw]. Nature Communications (2024). High credibility.
 
 The second step of the reconstruction approach aims to fit a new accurate range for each identified cluster, shown in Fig. 2 d, by operating on greyscale mappings of the RGB observations and radiosities estimated in the first step. Assumingclustersare computed, for each cluster j we form a greyscale radiosity vectorby setting to zero entries incorresponding to surface elements not present in cluster, with j = 1, 2, …, J. (See the Supplementary Note 4 (S4.1) for more details on this step.) With their angular extents fixed, the clusters collectively produce a contribution to the measured photograph that depends non-linearly on their respective unknown rangesand constituent surface elements (i.e.). The greyscale photograph y grey computed as the sum of the three colour channels is related to the unknown cluster scalar rangesand the estimated vector of radiositiesby:with matrix-vector form, where the weighting factors w j 's allow the radiosity of each cluster to vary correspondingly when estimating their unknown continuous-valued ranges arranged into the J -dimensional vector, andis a matrix whose (m, j)-entry models the contribution of cluster j to measurement pixel m. The vectors v, n, b and matrix B are defined as before. We estimate the ranges of all J clusters by solving the optimisation problem, using an accelerated projected gradient algorithm which is detailed in Supplementary Note 4 (S4.1). As confirmed by our FI analyses detailed in Supplementary Note 2, choosing to estimate a single range for each clusterleads to a better-conditioned inverse problem because J ≪ N θ N ψ, compared to the alternative approach that attempts to recover a range for every surface element. Using the estimated ranges, visualised in Fig. 2 e with the corresponding clusters, to construct the forward model, the final 3D full-colour reconstruction (depicted in Fig. 2 f) of the hidden scene is computed by solving the total variation regularised problem:for each of the three colour channels. The total variation seminorm denoted asis used here to encourage piecewise smooth solutions, whilecontrols the trade-off between data consistency and piecewise smoothness. One may bypass the total-variation-constrained reconstruction and directly combine the recovered ranges with the initial full-colour shape reconstructions (in Fig. 2 c) to obtain the fully 3D colour reconstruction of the hidden scene. This simplified variant of TERI which achieves impressive results at comparably lower computational complexity and three alternative reconstruction approaches are investigated in Supplementary Note 6. A narrated overview of the reconstruction procedure is provided in Supplementary Movie 1.
 
 ---
 
-### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^59a5ec5d]. Nature Communications (2025). High credibility.
+### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^113HudXa]. Nature Communications (2025). High credibility.
 
 Results
 
@@ -640,25 +640,25 @@ As shown in Fig. 1, we assume the spins are fully polarized along the negative y
 
 ---
 
-### Optimal design of k-space trajectories using a multi-objective genetic algorithm [^9fca0db2]. Magnetic Resonance in Medicine (2004). Low credibility.
+### Optimal design of k-space trajectories using a multi-objective genetic algorithm [^1155tu8M]. Magnetic Resonance in Medicine (2004). Low credibility.
 
 Spiral, radial, and other nonrectilinear k-space trajectories are an area of active research in MRI due largely to their typically rapid acquisition times and benign artifact patterns. Trajectory design has commonly proceeded from a description of a simple shape to an investigation of its properties, because there is no general theory for the derivation of new trajectories with specific properties. Here such a generalized methodology is described. Specifically, a multi-objective genetic algorithm (GA) is used to design trajectories with beneficial flow and off-resonance properties. The algorithm converges to a well-defined optimal set with standard spiral trajectories on the rapid but low-quality end, and a new class of trajectories on the slower but high-quality end. The new trajectories all begin with nonzero gradient amplitude at the k-space origin, and curve gently outward relative to standard spirals. Improvements predicted in simulated imaging experiments were found to correlate well with improvements in actual experimental measures of image quality. The impact of deviations from the desired k-space trajectory is described, as is the impact of using different phantoms.
 
 ---
 
-### Spin dephasing under nonlinear gradients: implications for imaging and field mapping [^eaf2803c]. Magnetic Resonance in Medicine (2012). Low credibility.
+### Spin dephasing under nonlinear gradients: implications for imaging and field mapping [^1171KZF1]. Magnetic Resonance in Medicine (2012). Low credibility.
 
 This work examines the prototypical MR echo that would be expected for a voxel of spins evolving in a strong nonlinear field, specifically focusing on the quadratic z(2) - ½(x(2) + y(2)) field. Dephasing under nonlinear gradients is increasingly relevant given the growing interest in nonlinear imaging, and here, we report several notable differences from the linear case. Most notably, in addition to signal loss, intravoxel dephasing under gradients creating a wide and asymmetric frequency distribution across the voxel can cause skewed and nonlinear phase evolution. After presenting the qualitative and analytical origins of this difference, we experimentally demonstrate that neglecting these dynamics can lead to significant errors in sequences that assume phase evolution is proportional to voxel frequency, such as those used for field mapping. Finally, simplifying approximations to the signal equations are presented, which not only provide more intuitive forms of the exact expression but also result in simple rules to predict key features of the nonlinear evolution.
 
 ---
 
-### Tensorial neutron tomography of three-dimensional magnetic vector fields in bulk materials [^b00baccf]. Nature Communications (2018). Medium credibility.
+### Tensorial neutron tomography of three-dimensional magnetic vector fields in bulk materials [^115Vzk3g]. Nature Communications (2018). Medium credibility.
 
 Knowing the distribution of a magnetic field in bulk materials is important for understanding basic phenomena and developing functional magnetic materials. Microscopic imaging techniques employing X-rays, light, electrons, or scanning probe methods have been used to quantify magnetic fields within planar thin magnetic films in 2D or magnetic vector fields within comparable thin volumes in 3D. Some years ago, neutron imaging has been demonstrated to be a unique tool to detect magnetic fields and magnetic domain structures within bulk materials. Here, we show how arbitrary magnetic vector fields within bulk materials can be visualized and quantified in 3D using a set of nine spin-polarized neutron imaging measurements and a novel tensorial multiplicative algebraic reconstruction technique (TMART). We first verify the method by measuring the known magnetic field of an electric coil and then investigate the unknown trapped magnetic flux within the type-I superconductor lead.
 
 ---
 
-### Carrier-envelope phase on-chip scanner and control of laser beams [^1b896baf]. Nature Communications (2023). High credibility.
+### Carrier-envelope phase on-chip scanner and control of laser beams [^111hppnA]. Nature Communications (2023). High credibility.
 
 Model for calculating CEP spatial maps
 
@@ -670,7 +670,7 @@ We showed that a shaping of the phase front of the pupil function with SLM can a
 
 ---
 
-### Genomic prediction in a small barley population can benefit from training on related populations [^a045705e]. G3 (2025). Medium credibility.
+### Genomic prediction in a small barley population can benefit from training on related populations [^1156cLsP]. G3 (2025). Medium credibility.
 
 GP models
 
@@ -680,13 +680,13 @@ Here, y is a vector containing the observed phenotypes; µ is the intercept of t
 
 ---
 
-### Flow-induced disturbances in balanced steady-state free precession images: means to reduce or exploit them [^69805631]. Magnetic Resonance in Medicine (2009). Low credibility.
+### Flow-induced disturbances in balanced steady-state free precession images: means to reduce or exploit them [^113hQonp]. Magnetic Resonance in Medicine (2009). Low credibility.
 
 In this work computer simulations and phantom measurements are presented that show the effect of flow on in-plane balanced steady-state free precession images. The images were studied for various flow velocities, excitation regions, relaxation times, RF-pulse angles, and off-resonance frequencies. The work shows that flow-induced disturbances are present in the images, but can be reduced by the application of inhomogeneous excitation regions. Also, a velocity quantification method that utilizes the disturbances was developed and proved to quantify flow velocities accurately. The work concluded that the flow-induced disturbances can be reduced to improve image quality, but can also be exploited to quantify the flow velocity.
 
 ---
 
-### A single spin in hexagonal boron nitride for vectorial quantum magnetometry [^d6cc021b]. Nature Communications (2025). High credibility.
+### A single spin in hexagonal boron nitride for vectorial quantum magnetometry [^116VSsi2]. Nature Communications (2025). High credibility.
 
 Vectorial magnetic-field sensing enabled by the low-symmetry spin
 
@@ -694,13 +694,13 @@ Full vectorial sensing enables unambiguous determination of three linearly indep
 
 ---
 
-### Modified oscillating gradient pulses for direct sampling of the diffusion spectrum suitable for imaging sequences [^55670cdb]. Magnetic Resonance Imaging (2003). Low credibility.
+### Modified oscillating gradient pulses for direct sampling of the diffusion spectrum suitable for imaging sequences [^113BcZXx]. Magnetic Resonance Imaging (2003). Low credibility.
 
 A variation of the oscillating gradient spin echo method had been developed, which isolates temporal frequencies of the dephasing spectrum. This allows sampling of the diffusion spectrum, the Fourier transform of the velocity correlation function (VCF). It has been shown that restriction and flow alter this function in ways that can be mathematically characterized, yielding quantitative information on restriction geometry and flow parameters. It is demonstrated that in many systems of interest, dispersion of velocity will produce a peak in the VCF spectrum near omega = 0, while restricted diffusion will manifest itself in the spectrum at higher frequencies. The method, therefore, may be useful for decoupling their effects on the apparent diffusion coefficient (ADC), as well as in revealing the physics of both phenomena. This method has been implemented in model systems of packed beads, yielding data consistent with theoretical models of restricted diffusion spectra and data from one previous study. The method may have significant application to biology and medicine, as well as the study of transport phenomena in porous media and complex flow.
 
 ---
 
-### Accurate and robust segmentation of neuroanatomy in T1-weighted MRI by combining spatial priors with deep convolutional neural networks [^3423b6ff]. Human Brain Mapping (2020). Medium credibility.
+### Accurate and robust segmentation of neuroanatomy in T1-weighted MRI by combining spatial priors with deep convolutional neural networks [^112LJMSE]. Human Brain Mapping (2020). Medium credibility.
 
 2.3 Data augmentation with random elastic deformations
 
@@ -710,7 +710,7 @@ To generate a random elastic deformation, we first generate a 3D vector field (w
 
 ---
 
-### A euclidean transformer for fast and stable machine learned force fields [^883743f1]. Nature Communications (2024). High credibility.
+### A euclidean transformer for fast and stable machine learned force fields [^114Uwsyz]. Nature Communications (2024). High credibility.
 
 We remark that the outlined equivariant architecture does not preclude the modeling of vectorial and tensorial properties, such as atomic quadrupoles or octopoles, up to the set maximum degree. For example, molecular dipoles can be learned by combining invariant partial charge predictions with atomic dipoles extracted from the EVs of degree l = 1.
 
@@ -723,13 +723,13 @@ a Thetransformer takes atomic types Z = { z 1, …, z n } and atomic positionsan
 
 ---
 
-### Extraordinary momentum and spin in evanescent waves [^8eba57de]. Nature Communications (2014). Medium credibility.
+### Extraordinary momentum and spin in evanescent waves [^114ebqGy]. Nature Communications (2014). Medium credibility.
 
 Momentum and spin represent fundamental dynamic properties of quantum particles and fields. In particular, propagating optical waves (photons) carry momentum and longitudinal spin determined by the wave vector and circular polarization, respectively. Here we show that exactly the opposite can be the case for evanescent optical waves. A single evanescent wave possesses a spin component, which is independent of the polarization and is orthogonal to the wave vector. Furthermore, such a wave carries a momentum component, which is determined by the circular polarization and is also orthogonal to the wave vector. We show that these extraordinary properties reveal a fundamental Belinfante's spin momentum, known in field theory and unobservable in propagating fields. We demonstrate that the transverse momentum and spin push and twist a probe Mie particle in an evanescent field. This allows the observation of 'impossible' properties of light and of a fundamental field-theory quantity, which was previously considered as 'virtual'
 
 ---
 
-### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^574f6665]. Nature Communications (2025). High credibility.
+### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^113ESbMW]. Nature Communications (2025). High credibility.
 
 Fig. 1
 Experimental setup: Three coils determine the x, y, and z directions.
@@ -749,20 +749,20 @@ To achieve high accuracy, systematic errors must be carefully studied and elimin
 
 ---
 
-### Current and evolving echocardiographic techniques for the quantitative evaluation of cardiac mechanics: ASE / EAE consensus statement on methodology and indications endorsed by the Japanese society of echocardiography [^0472f168]. Journal of the American Society of Echocardiography (2011). Medium credibility.
+### Current and evolving echocardiographic techniques for the quantitative evaluation of cardiac mechanics: ASE / EAE consensus statement on methodology and indications endorsed by the Japanese society of echocardiography [^1117bZQ3]. Journal of the American Society of Echocardiography (2011). Medium credibility.
 
 3D speckle-tracking echocardiography (3D STE) performance and efficiency — vector density, frame rate, and comparative agreement: 3D STE generates > 3,000 vectors per volume and its temporal resolution is the same as the frame rate of real-time 3D data sets (typically 20–30 volumes/sec), and its use was found to reduce the examination time to one third of that for 2D STE; a significantly greater number of segments could be analyzed. The entire left ventricle can be analyzed from a single apical volume, 3D STE can measure all three spatial components of the myocardial displacement vector, and 3D STE–based LV volume measurements were in close agreement with magnetic resonance–derived reference values, with higher levels of agreement than 2D STE in the same patients (higher correlation coefficients, smaller biases, and tighter limits of agreement).
 
 ---
 
-### Accelerated 4D-flow MRI with 3-point encoding enabled by machine learning [^44e3f850]. Magnetic Resonance in Medicine (2023). Medium credibility.
+### Accelerated 4D-flow MRI with 3-point encoding enabled by machine learning [^112m8jNo]. Magnetic Resonance in Medicine (2023). Medium credibility.
 
 FIGURE 5
 RMSE, correlation analysis slope, and R 2 as a function of additional acceleration for 4‐point and 3‐point velocity encoded images (all derived from the same data). All values were computed in segmented vessels. The 3‐point encoding is effective even at high accelerations and even produces lower RMSE and higher correlations compared to 4‐point at the same acceleration. The 3‐point flow encoding does produce a lower velocity value 4‐point and the underestimation increases with additional acceleration
 
 ---
 
-### Accelerated 4D-flow MRI with 3-point encoding enabled by machine learning [^def6d70a]. Magnetic Resonance in Medicine (2023). Medium credibility.
+### Accelerated 4D-flow MRI with 3-point encoding enabled by machine learning [^116hZAPj]. Magnetic Resonance in Medicine (2023). Medium credibility.
 
 5 CONCLUSIONS
 
@@ -770,13 +770,13 @@ Current 4D‐flow MRI scans can be accelerated without further undersampling by 
 
 ---
 
-### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^1d043137]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^111k23qx]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Cardiac magnetic resonance (CMR) phase-contrast flow measurement — technical considerations include setting velocity encoding to the lowest feasible without aliasing; centering the imaging plane in the vessel of interest, aligning it orthogonally to the expected main blood flow direction in two spatial directions, and positioning it at the magnet isocenter; and considering phantom or background correction because eddy current–related phase offset errors can still occur.
 
 ---
 
-### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^f0563877]. Nature Communications (2025). High credibility.
+### Pulsed vector atomic magnetometer using an alternating fast-rotating field [^1179JzM4]. Nature Communications (2025). High credibility.
 
 Discussion
 
@@ -788,7 +788,7 @@ Furthermore, the fundamental sensitivity of the vector magnetometer in total fie
 
 ---
 
-### Phase informed model for motion and susceptibility [^b1900879]. Human Brain Mapping (2013). Low credibility.
+### Phase informed model for motion and susceptibility [^115YFBsW]. Human Brain Mapping (2013). Low credibility.
 
 Performing the Dynamic Distortion Correction
 
@@ -796,7 +796,7 @@ From Eq. (5), the resulting map of local phase changes associated with each time
 
 ---
 
-### RSalvador: an R package for the fluctuation experiment [^2553a900]. G3 (2017). Low credibility.
+### RSalvador: an R package for the fluctuation experiment [^111xLeFy]. G3 (2017). Low credibility.
 
 Figure 1
 Contours of the log-likelihood function for the data given in Table 3 of. The four colored dots represent estimates of m and w. The green dot indicates the ML estimates, the blue dot indicates the GF estimates via flan, the purple dot indicates the GF estimates via bz-rates, and the red dot indicates the GF estimates by an earlier implementation of the GF method.
@@ -819,7 +819,7 @@ The exploration of the GF method drew attention to the issue of parameter identi
 
 ---
 
-### Machine learning assisted vector atomic magnetometry [^dde76480]. Nature Communications (2023). High credibility.
+### Machine learning assisted vector atomic magnetometry [^116fyzAs]. Nature Communications (2023). High credibility.
 
 Discussion
 
@@ -829,7 +829,7 @@ Our strategy of using machine learning to simplify the structure of vector NMOR-
 
 ---
 
-### An on-chip phased array for non-classical light [^8b1ad0ca]. Nature Communications (2025). High credibility.
+### An on-chip phased array for non-classical light [^114ZEHah]. Nature Communications (2025). High credibility.
 
 Fig. 4
 Squeezed light imaging.
@@ -840,13 +840,13 @@ To image the squeezed light, the output voltages are read out to a 32-channel di
 
 ---
 
-### ACR-ASNR-SPR practice parameter for the performance of magnetic resonance imaging (MRI) of the pediatric spine [^7c92689e]. SPR/ASNR/ACR (2024). High credibility.
+### ACR-ASNR-SPR practice parameter for the performance of magnetic resonance imaging (MRI) of the pediatric spine [^114BgeDT]. SPR/ASNR/ACR (2024). High credibility.
 
 Cerebrospinal fluid (CSF) cine phase-contrast MRI — CSF flow can be imaged with phase-contrast cine MRI evaluation and is most commonly performed at the level of the foramen magnum in cases of known or suspected Chiari type I or idiopathic syringohydromyelia; in the first 6–12 months of life, there are reduced CSF pulsation velocities that are due to the compliance of unfused cranial sutures, and cardiac gating with either electrocardiogram (ECG) or peripheral leads can be used to reduce cardiac-dependent flow while permitting quantitative velocity and qualitative vector measurements of CSF flow; typical parameters are as follows: Cardiac gating; flip angle 20°; repetition time and echo time (TR/TE), 20/5 ms; slice thickness, 5 mm; field of view, 180 mm; matrix, 256 × 256; and encoding velocity (venc) of either 5 cm/s or 10 cm/s; spinal CSF flow imaging is performed in the axial and/or sagittal planes with sagittal acquisition allowing evaluation of flow ventral to the cervicomedullary junction and dorsal to the cerebellar tonsils, and axial imaging assessing circumferential flow at the cervicomedullary junction including ventrolateral hyperdynamic flow not evident on midsagittal imaging.
 
 ---
 
-### Quantitative evaluation of methods to analyze motion changes in single-particle experiments [^75a786ad]. Nature Communications (2025). High credibility.
+### Quantitative evaluation of methods to analyze motion changes in single-particle experiments [^1141RpeG]. Nature Communications (2025). High credibility.
 
 For Track 2, trajectory coordinates are corrupted with noise from a Gaussian distribution with zero mean and standard deviation σ N to take into account the finite localization precision obtained in tracking experiments. All simulated trajectories were generated without missing frames: no gaps were introduced, yielding continuous tracks to isolate segmentation performance from linking or gap-filling complexities.
 
@@ -871,13 +871,13 @@ minimum distance between changepoints, corresponding to the minimum amount of ti
 
 ---
 
-### Interpretation of peripheral arterial and venous Doppler waveforms: a consensus statement from the Society for Vascular Medicine and society for vascular ultrasound [^eda7e5e0]. Vascular Medicine (2020). High credibility.
+### Interpretation of peripheral arterial and venous Doppler waveforms: a consensus statement from the Society for Vascular Medicine and society for vascular ultrasound [^1175LThq]. Vascular Medicine (2020). High credibility.
 
 Peripheral venous circulation — overview notes that venous blood flow is influenced by intrinsic factors including the respiratory cycle, central and segmental venous pressure gradients, vessel compliance, and valve function, as well as extrinsic factors such as gravity, muscle pumps, atmospheric pressure, and external venous compression from an overlying tumor, artery, mass, or fluid collection.
 
 ---
 
-### Time reversed optical waves by arbitrary vector spatiotemporal field generation [^7934b438]. Nature Communications (2020). High credibility.
+### Time reversed optical waves by arbitrary vector spatiotemporal field generation [^1146hCrb]. Nature Communications (2020). High credibility.
 
 Experimental results
 
@@ -892,7 +892,7 @@ In Fig. 3a the device of Fig. 2 is used as a programmable dispersive element, wh
 
 ---
 
-### Real-time photonic blind interference cancellation [^e6dc6fa2]. Nature Communications (2023). High credibility.
+### Real-time photonic blind interference cancellation [^116uGCFs]. Nature Communications (2023). High credibility.
 
 Fig. 4
 A typical experimental photonic weight identification with the M 2 mixing matrix.
@@ -907,7 +907,7 @@ Under most wireless communication scenarios, M changes in response to the moveme
 
 ---
 
-### Trajectory optimization based on the signal-to-noise ratio for spatial encoding with nonlinear encoding fields [^7d68a534]. Magnetic Resonance in Medicine (2016). Low credibility.
+### Trajectory optimization based on the signal-to-noise ratio for spatial encoding with nonlinear encoding fields [^114Cvbt7]. Magnetic Resonance in Medicine (2016). Low credibility.
 
 Purpose
 
@@ -927,7 +927,7 @@ Computer-based optimization provides an efficient means to explore the large tra
 
 ---
 
-### Control of the spin geometric phase in semiconductor quantum rings [^4756247f]. Nature Communications (2013). Medium credibility.
+### Control of the spin geometric phase in semiconductor quantum rings [^112pm4Ce]. Nature Communications (2013). Medium credibility.
 
 Results
 
@@ -939,19 +939,19 @@ The Bychkov–Rashba spin-orbit (SO) couplingcan be used to create an effective 
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^8992bf26]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^114WxbTs]. Annals of the American Thoracic Society (2023). High credibility.
 
 Quantitative imaging metrics — common sources of systematic errors in imaging and analysis include six categories with representative examples: technical issues during acquisition (differences in hardware and software, acquisition protocol, signal-to-noise ratio, and resolution), biased sampling of structure for analysis (comparison of mismatched airways), failure to define an appropriate reference space, issues with segmentation or registration, inaccurate assumptions or simplifications (assuming alveolar airspaces are spheres), and failure to consider spatiotemporal and biological heterogeneity (anatomical or gravitational gradients in tissue density, ventilation, and perfusion).
 
 ---
 
-### ACCF / ACR / AHA / ASE / ASNC / HRS / NASCI / RSNA / SAIP / SCAI / SCCT / SCMR 2008 health policy statement on structured reporting in cardiovascular imaging [^7b45a485]. Journal of the American College of Cardiology (2009). Medium credibility.
+### ACCF / ACR / AHA / ASE / ASNC / HRS / NASCI / RSNA / SAIP / SCAI / SCCT / SCMR 2008 health policy statement on structured reporting in cardiovascular imaging [^1149ksQp]. Journal of the American College of Cardiology (2009). Medium credibility.
 
 Study findings — structured reporting commonly groups quantitative measures, qualitative assessments, and calculated data by evaluated structure in logical sequence, references measurements to norms for body size, gender, and age with corresponding Z-scores when relevant, includes physiological and hemodynamic changes (spontaneous or stress-related), and provides clearly identified fields for interpretation, comparison to prior studies, conclusions and impressions, and recommendations; the original clinical question should be explicitly answered, and standard features recommended by cardiovascular imaging societies should be reported using standard data elements and anatomic, morphologic, and functional descriptions, for example the Seventeen-Segment Model for assessing left ventricular function, which is a consensus standard for tomographic imaging and should be used in both stress and rest reports to document ischemia, scarring, or wall motion abnormalities.
 
 ---
 
-### VERSE-guided parallel RF excitations using dynamic field correction [^1de83ace]. NMR in Biomedicine (2017). Low credibility.
+### VERSE-guided parallel RF excitations using dynamic field correction [^111mLeNZ]. NMR in Biomedicine (2017). Low credibility.
 
 In all cases a single‐shot spiral‐in excitation k ‐space trajectory was designed using time‐optimal gradient waveforms with maximum gradient amplitude of 30 mT/m and maximum slew rate of 180 T/m/s and encoding a 128 mm FOV with 2 mm resolution and radially undersampled to accelerate (2×) the excitation. The RF and gradient waveforms were sampled with a 6.4 μs dwell time for scanner implementations. Gradient ramps were appended at the beginning of the designed gradient waveforms if they start from a non‐zero value and RF pulses were set to be zero during this time. All computations including RF pulses and gradient designs and numerical simulations were performed in MATLAB (MathWorks, Natick, MA, USA).
 
@@ -963,7 +963,7 @@ We further obtained the actual gradient waveforms at every iteration of the algo
 
 ---
 
-### Chiral structures of electric polarization vectors quantified by X-ray resonant scattering [^8c7ef30d]. Nature Communications (2022). High credibility.
+### Chiral structures of electric polarization vectors quantified by X-ray resonant scattering [^114bHudN]. Nature Communications (2022). High credibility.
 
 Fig. 2
 Hard X-ray nonresonant and soft X-ray resonant scattering from a polar vortex array.
@@ -974,19 +974,19 @@ To probe the three-dimensional chiral structure, REXS experiments at Ti L 2,3 ed
 
 ---
 
-### European position paper on the management of patients with patent foramen ovale. general approach and left circulation thromboembolism [^3893ac91]. European Heart Journal (2019). High credibility.
+### European position paper on the management of patients with patent foramen ovale. general approach and left circulation thromboembolism [^112Ssuhr]. European Heart Journal (2019). High credibility.
 
 Regarding diagnostic investigations for patent foramen ovale, more specifically with respect to evaluation of left circulation thromboembolism, ESC 2019 guidelines recommend to do not use any single variable for a quantitative prediction of recurrences.
 
 ---
 
-### Guidelines for noninvasive vascular laboratory testing: a report from the American Society of Echocardiography and the society of vascular medicine and biology [^cc53219c]. Journal of the American Society of Echocardiography (2006). Medium credibility.
+### Guidelines for noninvasive vascular laboratory testing: a report from the American Society of Echocardiography and the society of vascular medicine and biology [^116DvQ1y]. Journal of the American Society of Echocardiography (2006). Medium credibility.
 
 Peripheral artery ultrasound technique — color Doppler is used to determine laminar or nonlaminar flow states, with turbulence, persistence (continuous forward flow), and aliasing at sites of disease; pulsed (spectral) Doppler is used to characterize flow and stenosis, and PSV is the primary measure used to quantify disease. Peak velocity measurements are compared between the lesion and proximal segments. Technical parameters include a 5-MHz linear-array transducer for the average adult, higher-frequency probes (7.5–10 MHz) for small or thin patients and lower-frequency probes (3–4 MHz) for larger patients or deep vessels, and use of a small sample volume placed center stream with the Doppler angle at 60 degrees or less; color and spectral Doppler are recorded at each new site as the sample volume is marched through the arterial system.
 
 ---
 
-### Cell segmentation-free inference of cell types from in situ transcriptomics data [^83ff1f26]. Nature Communications (2021). High credibility.
+### Cell segmentation-free inference of cell types from in situ transcriptomics data [^114Nh565]. Nature Communications (2021). High credibility.
 
 Results
 
@@ -1001,13 +1001,13 @@ A In step 1, SSAM converts mRNA locations into a vector field of gene expression
 
 ---
 
-### Magnetic charge propagation upon a 3D artificial spin-ice [^322c8ae6]. Nature Communications (2021). High credibility.
+### Magnetic charge propagation upon a 3D artificial spin-ice [^112HPLrH]. Nature Communications (2021). High credibility.
 
 With this fundamental understanding we next sought to understand the magnetic configuration of vertex states observed during the switching process to determine if monopole-excitations can be identified and tracked. Figure 3a shows an MFM image following a saturating field along the unit vector (1,−1,0) and subsequent 9.5 mT field along the unit vector (−1,1,0). Optical magnetometry indicates this is within the field range that switching is expected upon L1. A vector map of the magnetic configuration (Fig. 3b) has been produced through observations of the MFM contrast associated with each L1–L2 vertex as well as the surrounding wires. Unmasked images can be found in Supplementary Fig. 5. We note that there are multiple independent means to confirm the presence of a monopole. Firstly, contrast near the L1–L2 vertex is an excellent indication. If three of the four wires have contrast of the same sign, this is a monopole state. This can be further confirmed by then checking contrast upon the opposite ends of the wires. Finally, since the magnetic charge upon the wire ends closest to L1–L2 smears over the vertex area, the absolute magnitude of the phase is increased when compared to an ice-rule state. We have used all three criteria simultaneously to identify monopoles at the L1–L2 vertex. Interestingly, so long as a well-defined field protocol is used, it is also possible to infer the presence of monopoles at the L2–L3 vertex. Here, so long as L3 has been saturated, we expect this sub-lattice to be uniformly magnetised. However, if the extremities of two adjacent L2 nanowires both have positive or negative contrast, a monopole is implied at the L2–L3 vertex.
 
 ---
 
-### Electrical control of spins and giant g-factors in ring-like coupled quantum dots [^220b6480]. Nature Communications (2019). High credibility.
+### Electrical control of spins and giant g-factors in ring-like coupled quantum dots [^111sUQXZ]. Nature Communications (2019). High credibility.
 
 Fig. 4
 Quenching the 1e quantum ring by detuning.
@@ -1016,13 +1016,13 @@ a Measurement of d I /d V ds versus V ds recorded along the red detuning vector 
 
 ---
 
-### Machine learning assisted vector atomic magnetometry [^d177da13]. Nature Communications (2023). High credibility.
+### Machine learning assisted vector atomic magnetometry [^116MYfoQ]. Nature Communications (2023). High credibility.
 
 Multiparameter sensing such as vector magnetometry often involves complex setups due to various external fields needed in explicitly connecting one measured signal to one parameter. Here, we propose a paradigm of indirect encoding for vector atomic magnetometry based on machine learning. We encode the three-dimensional magnetic-field information in the set of four simultaneously acquired signals associated with the optical rotation of a laser beam traversing the atomic sample. The map between the recorded signals and the vectorial field information is established through a pre-trained deep neural network. We demonstrate experimentally a single-shot all optical vector atomic magnetometer, with a simple scalar-magnetometer design employing only one elliptically-polarized laser beam and no additional coils. Magnetic field amplitude sensitivities of about 100 [Formula: see text] and angular sensitivities of about [Formula: see text] (for a magnetic field of around 140 nT) are derived from the neural network. Our approach can reduce the complexity of the architecture of vector magnetometers, and may shed light on the general design of multiparameter sensing.
 
 ---
 
-### Identifying domains of applicability of machine learning models for materials science [^72c4ba76]. Nature Communications (2020). High credibility.
+### Identifying domains of applicability of machine learning models for materials science [^113w9fho]. Nature Communications (2020). High credibility.
 
 An illustrative example
 
@@ -1033,6 +1033,6 @@ In contrast, when using the non-local third-degree polynomial (poly) kernel, dat
 
 ---
 
-### Variable field of view for spatial resolution improvement in continuously moving table magnetic resonance imaging [^c1d22a58]. Magnetic Resonance in Medicine (2005). Low credibility.
+### Variable field of view for spatial resolution improvement in continuously moving table magnetic resonance imaging [^115xMCjy]. Magnetic Resonance in Medicine (2005). Low credibility.
 
 An approach is described in which the field of view (FOV) along the Y (right/left) phase encoding direction can be dynamically altered during a continuously moving table (CMT) coronal acquisition for extended FOV MRI. We hypothesize that with this method, regions of the anatomy exhibiting significantly different lateral widths can be imaged with a matching local FOV(Y), thereby improving local lateral spatial resolution. k-space raw data from the variable-FOV CMT acquisition do not allow simple Fourier reconstruction due to the presence of a mixture of phase encodes sampled at different Deltak(Y) intervals. In this work, we employ spline interpolation to reregister the mixed data set onto a uniformly sampled k-space grid. Using this interpolation scheme, we present phantom and peripheral contrast-enhanced MR angiography results demonstrating an approximate 45% improvement in local lateral spatial resolution for continuously moving table acquisitions.

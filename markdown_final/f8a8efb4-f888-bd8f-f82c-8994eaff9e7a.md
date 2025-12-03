@@ -17,27 +17,27 @@ According to current guidelines, when should this patient have his first follow-
 
 > Let's see… What do we have here? The user is asking when the first follow-up clinical assessment should occur after starting long-term oxygen therapy (LTOT) in a 68-year-old man with severe COPD who was recently hospitalized for an exacerbation, and what the rationale is for that timing. Let's break this down step-by-step. First, I need to think about whether the patient meets criteria for LTOT and whether the timing of initiation is appropriate. Then, I should verify what major guidelines (GOLD, BTS, VA/DoD) say about reassessment intervals after starting LTOT, especially in the context of a recent exacerbation. Next, I will reconcile any apparent discrepancies between guidelines and align them with the clinical scenario. Finally, I will outline the key elements of that first follow-up visit and the rationale for timing, including safety checks for hypercapnia and adherence.
 
-> Let me first confirm the indication for LTOT. The patient has severe resting hypoxemia with PaO2 52 mmHg on room air, which meets GOLD and VA/DoD criteria for LTOT in stable COPD, and the elevated PaCO2 with a 10 mmHg rise from baseline raises concern for ventilatory instability and CO2 retention risk with oxygen therapy [^8bc41cc3] [^3d39b1ca] [^103dc45c].
+> Let me first confirm the indication for LTOT. The patient has severe resting hypoxemia with PaO2 52 mmHg on room air, which meets GOLD and VA/DoD criteria for LTOT in stable COPD, and the elevated PaCO2 with a 10 mmHg rise from baseline raises concern for ventilatory instability and CO2 retention risk with oxygen therapy [^114aD9kN] [^112ZmdAq] [^111R5Yq1].
 
-> Wait, let me verify the timing of initiation relative to the exacerbation. BTS advises waiting at least 8 weeks after an exacerbation before assessing for LTOT to avoid prescribing oxygen during clinical instability; however, many patients are started on oxygen at discharge and then reassessed, so I should not assume the current prescription is definitive without planned reassessment [^c4dc5bbc] [^9d61d95c].
+> Wait, let me verify the timing of initiation relative to the exacerbation. BTS advises waiting at least 8 weeks after an exacerbation before assessing for LTOT to avoid prescribing oxygen during clinical instability; however, many patients are started on oxygen at discharge and then reassessed, so I should not assume the current prescription is definitive without planned reassessment [^1162rbAK] [^1152KvVq].
 
-> Next, I should review guideline-directed reassessment intervals. GOLD 2025 recommends reassessing LTOT 60–90 days after initiation to confirm ongoing need and therapeutic effectiveness, which applies to patients started in stable state or after an exacerbation, and it aligns with VA/DoD guidance to reassess 30–90 days post-discharge when oxygen is started around a hospitalization [^cf46137b] [^f9fe7065] [^eabe928d].
+> Next, I should review guideline-directed reassessment intervals. GOLD 2025 recommends reassessing LTOT 60–90 days after initiation to confirm ongoing need and therapeutic effectiveness, which applies to patients started in stable state or after an exacerbation, and it aligns with VA/DoD guidance to reassess 30–90 days post-discharge when oxygen is started around a hospitalization [^116JHyXY] [^117PdP3S] [^117127bS].
 
-> Hold on, I should verify whether a shorter interval is warranted in this case. BTS suggests a 3-month follow-up for all new LTOT starts, but also advises earlier follow-up within 4 weeks when there is a rise in PaCO2 of more than 7.5 mmHg during assessment, which fits this patient's 10 mmHg increase from baseline and heightened risk of oxygen-induced hypercapnia; thus, a 4-week check is prudent here [^b41a3ec2] [^a3ab95fe].
+> Hold on, I should verify whether a shorter interval is warranted in this case. BTS suggests a 3-month follow-up for all new LTOT starts, but also advises earlier follow-up within 4 weeks when there is a rise in PaCO2 of more than 7.5 mmHg during assessment, which fits this patient's 10 mmHg increase from baseline and heightened risk of oxygen-induced hypercapnia; thus, a 4-week check is prudent here [^115c1b2H] [^115BechT].
 
-> I need to reconcile these positions. The most conservative, safety-focused approach is to schedule the first clinical reassessment at about 4 weeks to check for rising PaCO2 and respiratory acidosis, verify adherence and equipment issues, and titrate oxygen as needed, while recognizing that GOLD's 60–90 day reassessment window remains the standard for confirming long-term eligibility and effectiveness; practically, many programs combine an early safety check at 4 weeks with a formal reassessment at 3 months, which satisfies both safety and guideline requirements [^5a8acef0] [^cf46137b] [^b41a3ec2].
+> I need to reconcile these positions. The most conservative, safety-focused approach is to schedule the first clinical reassessment at about 4 weeks to check for rising PaCO2 and respiratory acidosis, verify adherence and equipment issues, and titrate oxygen as needed, while recognizing that GOLD's 60–90 day reassessment window remains the standard for confirming long-term eligibility and effectiveness; practically, many programs combine an early safety check at 4 weeks with a formal reassessment at 3 months, which satisfies both safety and guideline requirements [^113KEWZu] [^116JHyXY] [^115c1b2H].
 
-> Let me consider the rationale for the 4-week timing. After a recent exacerbation, gas exchange and ventilatory drive can be labile, and oxygen-induced hypercapnia may emerge or worsen; early ABG reassessment ensures the prescribed flow is therapeutic yet safe, allows correction of any harmful CO2 rise, and addresses adherence and equipment problems that commonly arise after discharge, thereby reducing readmission risk and improving outcomes [^5a8acef0] [^89e8c6da] [^a3ab95fe].
+> Let me consider the rationale for the 4-week timing. After a recent exacerbation, gas exchange and ventilatory drive can be labile, and oxygen-induced hypercapnia may emerge or worsen; early ABG reassessment ensures the prescribed flow is therapeutic yet safe, allows correction of any harmful CO2 rise, and addresses adherence and equipment problems that commonly arise after discharge, thereby reducing readmission risk and improving outcomes [^113KEWZu] [^114XTVTw] [^115BechT].
 
-> I should confirm what to include at that first follow-up. The visit should include room-air ABG to reassess PaO2, PaCO2, and pH; review of oxygen use hours and equipment functioning; smoking status; symptoms of hypercapnia or worsening dyspnea; and consideration of ambulatory oxygen needs if exertional desaturation is present, with flow titration to achieve adequate oxygenation while avoiding CO2 narcosis [^89e8c6da] [^a3ab95fe] [^6f3ab53f].
+> I should confirm what to include at that first follow-up. The visit should include room-air ABG to reassess PaO2, PaCO2, and pH; review of oxygen use hours and equipment functioning; smoking status; symptoms of hypercapnia or worsening dyspnea; and consideration of ambulatory oxygen needs if exertional desaturation is present, with flow titration to achieve adequate oxygenation while avoiding CO2 narcosis [^114XTVTw] [^115BechT] [^113quM1G].
 
-> But wait, what if the patient stabilizes and no longer meets criteria at 4 weeks? In that scenario, I should still plan a formal reassessment at 60–90 days per GOLD to confirm whether LTOT remains indicated, because early post-exacerbation hypoxemia can resolve and many patients started on oxygen around hospitalization ultimately do not qualify for continued LTOT, reinforcing the need for structured reassessment rather than indefinite continuation [^cf46137b] [^f9fe7065] [^eabe928d].
+> But wait, what if the patient stabilizes and no longer meets criteria at 4 weeks? In that scenario, I should still plan a formal reassessment at 60–90 days per GOLD to confirm whether LTOT remains indicated, because early post-exacerbation hypoxemia can resolve and many patients started on oxygen around hospitalization ultimately do not qualify for continued LTOT, reinforcing the need for structured reassessment rather than indefinite continuation [^116JHyXY] [^117PdP3S] [^117127bS].
 
-> Final recommendation: Schedule the first follow-up clinical assessment at 4 weeks to ensure safety and early optimization, with a planned reassessment at 60–90 days to confirm ongoing eligibility and effectiveness; this approach balances BTS safety guidance for rising PaCO2 with GOLD's standard reassessment window and VA/DoD post-discharge recommendations [^5a8acef0] [^cf46137b] [^f9fe7065].
+> Final recommendation: Schedule the first follow-up clinical assessment at 4 weeks to ensure safety and early optimization, with a planned reassessment at 60–90 days to confirm ongoing eligibility and effectiveness; this approach balances BTS safety guidance for rising PaCO2 with GOLD's standard reassessment window and VA/DoD post-discharge recommendations [^113KEWZu] [^116JHyXY] [^117PdP3S].
 
 ---
 
-The first follow-up assessment after starting LTOT should be scheduled within **4 weeks** [^5a8acef0] to detect early hypercapnia or acidosis and ensure the oxygen prescription is safe and effective. This timing is especially critical in patients with rising PaCO2 or unstable disease, as oxygen can worsen ventilatory control and precipitate respiratory failure [^89e8c6da]. If the patient is clinically stable and no significant PaCO2 rise is observed, routine reassessment at **3 months** [^b41a3ec2] is recommended to confirm ongoing need and adjust therapy [^cf46137b].
+The first follow-up assessment after starting LTOT should be scheduled within **4 weeks** [^113KEWZu] to detect early hypercapnia or acidosis and ensure the oxygen prescription is safe and effective. This timing is especially critical in patients with rising PaCO2 or unstable disease, as oxygen can worsen ventilatory control and precipitate respiratory failure [^114XTVTw]. If the patient is clinically stable and no significant PaCO2 rise is observed, routine reassessment at **3 months** [^115c1b2H] is recommended to confirm ongoing need and adjust therapy [^116JHyXY].
 
 ---
 
@@ -45,35 +45,35 @@ The first follow-up assessment after starting LTOT should be scheduled within **
 
 Early follow-up is essential to:
 
-- **Detect hypercapnia**: Oxygen therapy can suppress hypoxic drive, leading to CO2 retention and respiratory acidosis, especially in patients with baseline hypercapnia or unstable disease [^51aa9abf].
+- **Detect hypercapnia**: Oxygen therapy can suppress hypoxic drive, leading to CO2 retention and respiratory acidosis, especially in patients with baseline hypercapnia or unstable disease [^11365JUE].
 
-- **Adjust oxygen therapy**: Early reassessment allows titration of oxygen flow to maintain adequate oxygenation while minimizing hypercapnia risk [^89e8c6da].
+- **Adjust oxygen therapy**: Early reassessment allows titration of oxygen flow to maintain adequate oxygenation while minimizing hypercapnia risk [^114XTVTw].
 
-- **Identify clinical instability**: Patients recovering from exacerbations may have fluctuating gas exchange, necessitating close monitoring and timely intervention [^aa3fa5cc].
+- **Identify clinical instability**: Patients recovering from exacerbations may have fluctuating gas exchange, necessitating close monitoring and timely intervention [^115MQGs5].
 
 ---
 
 ## Recommended timing of first follow-up assessment
 
-According to the British Thoracic Society (BTS) guidelines, patients initiating LTOT should have their first follow-up assessment within **4 weeks** [^5a8acef0] of initiation, particularly if there is a rise in PaCO2 or clinical instability. This early assessment should include:
+According to the British Thoracic Society (BTS) guidelines, patients initiating LTOT should have their first follow-up assessment within **4 weeks** [^113KEWZu] of initiation, particularly if there is a rise in PaCO2 or clinical instability. This early assessment should include:
 
-- **Arterial blood gas (ABG) analysis**: To evaluate PaO2, PaCO2, and pH, ensuring oxygen therapy is effective and not causing hypercapnia or acidosis [^89e8c6da].
+- **Arterial blood gas (ABG) analysis**: To evaluate PaO2, PaCO2, and pH, ensuring oxygen therapy is effective and not causing hypercapnia or acidosis [^114XTVTw].
 
-- **Clinical assessment**: Review symptoms, signs of hypercapnia, and overall clinical stability [^a3ab95fe].
+- **Clinical assessment**: Review symptoms, signs of hypercapnia, and overall clinical stability [^115BechT].
 
-- **Oxygen delivery and adherence**: Check oxygen equipment, delivery method, and patient adherence to prescribed oxygen therapy [^a3ab95fe].
+- **Oxygen delivery and adherence**: Check oxygen equipment, delivery method, and patient adherence to prescribed oxygen therapy [^115BechT].
 
 ---
 
 ## Subsequent follow-up assessments
 
-After the initial 4-week assessment, if the patient is stable and no significant hypercapnia or acidosis is observed, routine follow-up should be scheduled at **3 months** [^b41a3ec2] from the initiation of LTOT. This 3-month assessment aims to:
+After the initial 4-week assessment, if the patient is stable and no significant hypercapnia or acidosis is observed, routine follow-up should be scheduled at **3 months** [^115c1b2H] from the initiation of LTOT. This 3-month assessment aims to:
 
-- **Confirm ongoing need**: Reassess oxygen requirements and confirm continued eligibility for LTOT [^cf46137b].
+- **Confirm ongoing need**: Reassess oxygen requirements and confirm continued eligibility for LTOT [^116JHyXY].
 
-- **Adjust therapy**: Titrate oxygen flow based on current clinical status and ABG results [^89e8c6da].
+- **Adjust therapy**: Titrate oxygen flow based on current clinical status and ABG results [^114XTVTw].
 
-- **Monitor for complications**: Evaluate for any adverse effects or complications related to long-term oxygen therapy [^228b737a].
+- **Monitor for complications**: Evaluate for any adverse effects or complications related to long-term oxygen therapy [^111tDRJq].
 
 ---
 
@@ -81,57 +81,57 @@ After the initial 4-week assessment, if the patient is stable and no significant
 
 | **Assessment** | **Timing** | **Purpose** |
 |-|-|-|
-| Initial follow-up | Within 4 weeks | Detect hypercapnia, adjust oxygen therapy, assess stability [^5a8acef0] |
-| Routine follow-up | 3 months | Confirm ongoing need, adjust therapy, monitor complications [^b41a3ec2] |
-| Ongoing follow-up | Every 6–12 months | Continued monitoring, therapy adjustment, adherence support [^4b31c828] |
+| Initial follow-up | Within 4 weeks | Detect hypercapnia, adjust oxygen therapy, assess stability [^113KEWZu] |
+| Routine follow-up | 3 months | Confirm ongoing need, adjust therapy, monitor complications [^115c1b2H] |
+| Ongoing follow-up | Every 6–12 months | Continued monitoring, therapy adjustment, adherence support [^112vUnxw] |
 
 ---
 
 ## Clinical implications of delayed follow-up
 
-Delayed follow-up can lead to **undetected hypercapnia**, worsening respiratory acidosis, and increased risk of respiratory failure [^51aa9abf]. It may also result in inappropriate oxygen therapy — over- or under-titration — and missed opportunities to address adherence issues or equipment problems, ultimately increasing the risk of readmission and negatively affecting outcomes [^a1d00fd7].
+Delayed follow-up can lead to **undetected hypercapnia**, worsening respiratory acidosis, and increased risk of respiratory failure [^11365JUE]. It may also result in inappropriate oxygen therapy — over- or under-titration — and missed opportunities to address adherence issues or equipment problems, ultimately increasing the risk of readmission and negatively affecting outcomes [^1158ttk6].
 
 ---
 
 ## Conclusion and recommendation
 
-Given the patient's severe COPD, recent exacerbation, and elevated PaCO2, the first follow-up assessment should be scheduled within **4 weeks** [^5a8acef0] of initiating LTOT. This early reassessment will ensure safe, effective oxygen therapy and allow timely adjustments to prevent complications. If stable, continue with routine follow-up at 3 months [^b41a3ec2] and then every 6–12 months [^4b31c828].
+Given the patient's severe COPD, recent exacerbation, and elevated PaCO2, the first follow-up assessment should be scheduled within **4 weeks** [^113KEWZu] of initiating LTOT. This early reassessment will ensure safe, effective oxygen therapy and allow timely adjustments to prevent complications. If stable, continue with routine follow-up at 3 months [^115c1b2H] and then every 6–12 months [^112vUnxw].
 
 ---
 
 ## References
 
-### British thoracic society guidelines for home oxygen use in adults [^b41a3ec2]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^115c1b2H]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to follow-up clinical assessment, BTS 2015 guidelines recommend to schedule follow-up at 3 months in all patients in whom long-term oxygen therapy has been ordered, with an assessment of blood gases and flow rates, in order to ensure that long-term oxygen therapy is still indicated and therapeutic.
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^4b31c828]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^112vUnxw]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to follow-up clinical assessment, BTS 2015 guidelines recommend to schedule further follow-up at 6–12 month intervals following the initial visit in patients continuing long-term oxygen therapy. Follow-up can be either home based or in combination with hospital visits.
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^5a8acef0]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^113KEWZu]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to follow-up clinical assessment, BTS 2015 guidelines recommend to schedule follow-up within 4 weeks in patients who develop respiratory acidosis and/or a rise in PaCO2 of > 7.5 mmHg (> 1 kPa) during assessment for long-term oxygen therapy, as they may have clinically unstable disease.
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^89e8c6da]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^114XTVTw]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to assessment of treatment response, BTS 2015 guidelines recommend to obtain an arterial blood gas after oxygen titration is complete in patients under long-term oxygen therapy, in order to determine whether adequate oxygenation has been achieved without precipitating respiratory acidosis and/or worsening hypercapnia.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^aa3fa5cc]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^115MQGs5]. GOLD (2025). High credibility.
 
 Three‑month follow-up content — "Additional follow-up at three months is recommended to ensure return to a stable clinical state and permit a review of the patient's symptoms, lung function (by spirometry), and where possible the assessment of prognosis using multiple scoring systems such as BODE". It further notes, "In addition, arterial oxygen saturation and blood gas assessment will determine the need for long-term oxygen therapy more accurately at prolonged follow-up compared to shortly after discharge".
 
 ---
 
-### Are patients on long-term oxygen therapy followed up properly? Data from the Danish oxygen register [^a1d00fd7]. Journal of Internal Medicine (2001). Low credibility.
+### Are patients on long-term oxygen therapy followed up properly? Data from the Danish oxygen register [^1158ttk6]. Journal of Internal Medicine (2001). Low credibility.
 
 Objectives
 
@@ -159,13 +159,13 @@ The extent and the quality of follow-up of patients on LTOT were poor, especiall
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^a3ab95fe]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^115BechT]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to follow-up home visits, BTS 2015 guidelines recommend to schedule a home visit within 4 weeks, conducted by a specialist nurse or healthcare professional with experience of domiciliary oxygen therapy, for all patients in whom long-term oxygen therapy is initiated. The visit provides an opportunity to highlight potential risks and should be used to reinforce education and offer support to the patient and carer. Compliance may be checked, along with smoking status, symptoms of hypercapnia and oxygen saturations on oxygen to check that oxygen is therapeutic.
 
 ---
 
-### Global Initiative for Chronic Obstructive Lung Disease 2023 report: GOLD executive summary [^7cd2a792]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
+### Global Initiative for Chronic Obstructive Lung Disease 2023 report: GOLD executive summary [^114C4Dpu]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
 
 Hospital Discharge, Early Readmissions, and Follow-Up
 
@@ -177,31 +177,31 @@ Long-term prognosis after hospitalization for COPD exacerbation is poor, with a 
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^b82d1066]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^115i3rmj]. GOLD (2025). High credibility.
 
 Discharge criteria and recommendations for follow-up — Figure 4.10 specify discharge tasks and timing, including "Full review of all clinical and laboratory data", confirmation to "Reassess inhaler technique", and oxygen assessment, with explicit scheduling: "Ensure follow-up arrangements: early follow-up < 4 weeks, and late follow-up < 12 weeks as indicated". The checklist also includes to "Provide management plan for comorbidities and follow-up" and ensure "All clinical or investigational abnormalities have been identified".
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^c4dc5bbc]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^1162rbAK]. Thorax (2015). Medium credibility.
 
 Regarding screening and diagnosis for home oxygen, more specifically with respect to indications for assessment, BTS 2015 guidelines recommend to wait at least 8 weeks following an exacerbation to assess patients for long-term oxygen therapy.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^cf46137b]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^116JHyXY]. GOLD (2025). High credibility.
 
 Long-term oxygen therapy (LTOT) — reassessment timing and method: Once placed on LTOT the patient should be re-evaluated after 60 to 90 days with repeat arterial blood gas (ABG) or oxygen saturation measures while inspiring room air and the level of oxygen flow that had been prescribed to determine if oxygen is still indicated and if so, therapeutic.
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^51aa9abf]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^11365JUE]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to assessment of treatment response, BTS 2015 guidelines recommend to monitor patients with baseline hypercapnia for the development of respiratory acidosis and worsening hypercapnia, with an arterial blood gas after each titration of flow rate, as well as an arterial blood gas after oxygen titration is complete.
 
 ---
 
-### Post-hospitalization short-term oxygen therapy: use of a clinical management pathway and long-term follow-up [^9d61d95c]. Respiratory Care (2019). Medium credibility.
+### Post-hospitalization short-term oxygen therapy: use of a clinical management pathway and long-term follow-up [^1152KvVq]. Respiratory Care (2019). Medium credibility.
 
 Background
 
@@ -221,19 +221,19 @@ A significant proportion of subjects who were prescribed post-discharge STOT did
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^0bcb16e3]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^111JV5bp]. Thorax (2015). Medium credibility.
 
 Regarding medical management for home oxygen, more specifically with respect to assessment of stability, BTS 2015 guidelines recommend to consider assessing patients for long-term oxygen therapy after < 8 weeks of stability if they exacerbate frequently and are unable to achieve a period of stability lasting 8 weeks. If long-term oxygen therapy is ordered for such patients, they should be counseled that oxygen therapy may no longer be required once they achieve a more stable state.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^8f92d675]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^114frYvp]. GOLD (2025). High credibility.
 
 Scheduled follow-up content — At "1–4 Weeks Follow-up", actions include "Evaluate ability to cope in his/her usual environment", "Review understanding of treatment regimen", "Reassessment of inhaler techniques", "Reassess need for long-term oxygen", "Document the capacity to do physical activity and consider patient eligibility to be enrolled in pulmonary rehabilitation", "Document symptoms: CAT or mMRC", and "Determine status of comorbidities". At "12–16 Weeks Follow-up", actions include "Evaluate ability to cope in his/her usual environment", "Review understanding of treatment regimen", "Reassessment of inhaler techniques", "Reassess need for long-term oxygen", "Document the capacity to do physical activity and activities of daily living", "Measure spirometry: FEV₁", "Document symptoms: CAT or mMRC", and "Determine status of comorbidities".
 
 ---
 
-### Home oxygen therapy for adults with chronic lung disease. An official American Thoracic Society clinical practice guideline [^b5a260eb]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Home oxygen therapy for adults with chronic lung disease. An official American Thoracic Society clinical practice guideline [^115eHJQ2]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Proper reassessment of home oxygen needs is so important that it has been identified as one of the top five areas for further improvement in adult respiratory medicine by the Choosing Wisely Campaign. According to the TSANZ guideline, patients who commence LTOT after a COPD exacerbation should be reassessed 4–8 weeks after hospital discharge to ensure continued eligibility. In patients prescribed home oxygen for severe chronic resting room air hypoxemia, the 2020 GOLD initiative recommends reassessing the need for oxygen after 60–90 days; when home oxygen is started to treat severe hypoxemia after a COPD exacerbation, the GOLD initiative recommends reassessing the home oxygen requirement at 1–4 weeks and again at 12–16 weeks to update the oxygen prescription as clinically indicated. At the time of reassessments, SpO₂ (or arterial blood gases) at rest and with exertion should be considered. Ideally, reevaluation should occur at home to capture context and barriers to use. Expert opinion suggests that patients should be monitored, at minimum, every 6 months to confirm continued oxygen use, a current oxygen prescription, and adequacy of the equipment used.
 
@@ -249,7 +249,7 @@ Question 2: Should long-term oxygen be prescribed for adults with COPD who have 
 
 ---
 
-### When should I be considering home oxygen for my patients? [^4905a63e]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### When should I be considering home oxygen for my patients? [^112sFzdb]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 When and how should i screen patients for LTOT?
 
@@ -259,19 +259,19 @@ The need to identify patients early must be balanced against the potential for o
 
 ---
 
-### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^b784f2c0]. Thorax (2015). Low credibility.
+### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^115h5PcT]. Thorax (2015). Low credibility.
 
 We performed a retrospective cohort study of patients with chronic obstructive lung disease (COPD) on long-term oxygen treatment (LTOT) who received invasive mechanical ventilation for COPD exacerbation. Of the 4791 patients, 23% died in the hospital, and 45% died in the subsequent 12 months. 67% of patients were readmitted at least once in the subsequent 12 months, and 26.8% were discharged to a nursing home or skilled nursing facility within 30 days. We conclude that these patients have high mortality rates, both in-hospital and in the 12 months postdischarge. If patients survive, many will be readmitted to the hospital and discharged to nursing home. These potential outcomes may support informed critical care decision making and more preference congruent care.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^eabe928d]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^117127bS]. VA/DoD (2021). High credibility.
 
 Chronic obstructive pulmonary disease — LTOT reassessment after acute illness and discontinuation considerations — If transitional home oxygen is provided after an acute respiratory illness, the need for long-term oxygen therapy should be re-evaluated in 30–90 days, and up to 50% of these patients will not qualify for continued LTOT; in contrast, patients with chronic stable hypoxemia who met LTOT criteria prior to hospitalization do not require reassessment, and discontinuing LTOT in these patients can result in subsequent worsening of hypoxemia, with the safety of discontinuation under these circumstances unknown.
 
 ---
 
-### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^91c143be]. Thorax (2015). Low credibility.
+### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^114j67xh]. Thorax (2015). Low credibility.
 
 Discussion
 
@@ -287,7 +287,7 @@ In contrast to mortality and readmission rates, few studies have described disch
 
 ---
 
-### COPD: clinical guidance and practice resources… [^c5f50b07]. AAFP (2021). Medium credibility.
+### COPD: clinical guidance and practice resources… [^1164UsLi]. AAFP (2021). Medium credibility.
 
 Clinical Guidance At this time, screening is not recommended by the USPSTF for COPD in asymptomatic adults. Read more Management of Acute Exacerbations of COPD Developed by the AAFP Management of Stable COPD: GOLD Guidelines The Global Initiative for Chronic Obstructive Lung Disease is a resource that provides a review of evidence with practice considerations and is widely used by clinicians in managing stable COPD. As this document is not a clinical practice guideline, it did not meet the criteria to be reviewed by the AAFP for endorsement. Quality Measures: Identify Opportunities to Improve Patient Care AAFP TIPS Topic on Quality Improvement Train your team on the benefits, concepts, and steps of the quality improvement process to enhance the care you provide. Includes two online learning courses, three customizable slide decks, and six downloadable tools. CME: 1 AAFP Prescribed credit; Free to members.
 
@@ -297,13 +297,13 @@ Ford ES, Murphy LB, Khavjou O, et al. Total and state-specific medical and absen
 
 ---
 
-### Resilience and health-related quality of life in patients with pulmonary diseases receiving ambulatory oxygen therapy [^6f3ab53f]. BMC Pulmonary Medicine (2021). Medium credibility.
+### Resilience and health-related quality of life in patients with pulmonary diseases receiving ambulatory oxygen therapy [^113quM1G]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 There is no consensus regarding when patients should be prescribed ambulatory oxygen therapy. The British Thoracic Society and Global Initiative for Chronic Obstructive Lung Disease (GOLD 2017) recommend that patients with COPD having a resting stable peripheral capillary oxygen saturation (SpO 2) of ≤ 88–92% should be referred for a blood gas assessment to assess eligibility for long-term oxygen therapy. Furthermore, assessment should also be made with SpO 2 of ≤ 94% if patients with COPD have peripheral edema, polycythemia (hematocrit ≥ 55%) or pulmonary hypertension. Many patients with pulmonary diseases, including COPD and interstitial fibrosis, started their long-term oxygen therapy with ambulatory oxygen. British Thoracic Society guidelines recommend that ambulatory oxygen therapy should be offered to patients already on long-term oxygen therapy who are mobile outdoors. The 6-min walking distance (6MWD) test can discern whether patients with COPD with a partial pressure of oxygen (PO 2) between 60 and 70 mmHg desaturate (SpO 2 ≤ 90%) early or late during their daily living activities. In the García-Talavera et al. study, patients who desaturated after 3.5 min of the 6MWD test did not desaturate in the 24-h pulse oximetry, but those who desaturated during the first minute had a 74% probability of desaturating in their daily activities. Even though the criteria are relatively clear for starting long-term oxygen therapy, ambulatory oxygen has been prescribed without proper patient assessment, counselling, support and follow-up. Thus, patients may use it differently than aimed therapy, resulting in disappointments about the effectiveness of ambulatory oxygen therapy.
 
 ---
 
-### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^a4c1e7cf]. Thorax (2015). Low credibility.
+### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^115DG6oQ]. Thorax (2015). Low credibility.
 
 Our study has several limitations. Most notably, we used LTOT as a marker of COPD severity. We chose this method as a surrogate marker of advanced/severe COPD because CMS data files do not contain lung function tests. We believe oxygen supplementation is a valid surrogate marker of COPD severity because patients with COPD typically require oxygen supplementation once their lung disease is very advanced. Second, there are limits on the generalisability of our outcomes because the cohort was predominantly white and did not include patients admitted to rural hospitals where practice patterns are likely different. Third, because this was a course-of-disease study, we did not compare outcomes from another group, such as an exacerbated COPD cohort who did not receive invasive mechanical ventilation. A meaningful comparison would require the groups to have similar characteristics (eg, health status and acuity of illness) at the time of ICU admission, which we could not ascertain with the available data.
 
@@ -311,7 +311,7 @@ The outcomes we report have important implications for doctor–patient discussi
 
 ---
 
-### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^3fa8f285]. BMC Pulmonary Medicine (2019). Medium credibility.
+### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^112dNy7a]. BMC Pulmonary Medicine (2019). Medium credibility.
 
 Discussion
 
@@ -319,7 +319,7 @@ This is the first study to compare effectiveness of LTOT duration of 24 and 15 h
 
 ---
 
-### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^b9eabc2a]. Thorax (2015). Low credibility.
+### What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study [^115kdZ9B]. Thorax (2015). Low credibility.
 
 Introduction
 
@@ -331,25 +331,25 @@ In this study, we describe outcomes for patients with COPD on LTOT who are admit
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^a85a2ae5]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^115JbCx4]. Thorax (2015). Medium credibility.
 
 Regarding follow-up and surveillance for home oxygen, more specifically with respect to assessment of treatment response, BTS 2015 guidelines recommend to consider using cutaneous capnography in place of arterial blood gases to measure PaCO2 alone (but not pH) at different oxygen flow rates during oxygen titration.
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^a0fd5b34]. Thorax (2015). Low credibility.
+### British thoracic society guidelines for home oxygen use in adults [^1157g7sH]. Thorax (2015). Low credibility.
 
 The British Thoracic Society (BTS) Home Oxygen Guideline provides detailed evidence-based guidance for the use of home oxygen for patients out of hospital. Although the majority of evidence comes from the use of oxygen in patients with chronic obstructive pulmonary disease, the scope of the guidance includes patients with a variety of long-term respiratory illnesses and other groups in whom oxygen is currently ordered, such as those with cardiac failure, cancer and end-stage cardiorespiratory disease, terminal illness or cluster headache. It explores the evidence base for the use of different modalities of oxygen therapy and patient-related outcomes such as mortality, symptoms and quality of life. The guideline also makes recommendations for assessment and follow-up protocols, and risk assessments, particularly in the clinically challenging area of home oxygen users who smoke. The guideline development group is aware of the potential for confusion sometimes caused by the current nomenclature for different types of home oxygen, and rather than renaming them, has adopted the approach of clarifying those definitions, and in particular emphasising what is meant by long-term oxygen therapy and palliative oxygen therapy. The home oxygen guideline provides expert consensus opinion in areas where clinical evidence is lacking, and seeks to deliver improved prescribing practice, leading to improved compliance and improved patient outcomes, with consequent increased value to the health service.
 
 ---
 
-### AARC clinical practice guideline. oxygen therapy in the home or alternate site health care facility – 2007 revision&update [^fd430967]. Respiratory Care (2007). Medium credibility.
+### AARC clinical practice guideline. oxygen therapy in the home or alternate site health care facility – 2007 revision&update [^117UUPH8]. Respiratory Care (2007). Medium credibility.
 
 Oxygen therapy in the home or alternate site health care facility — assessment of need states that initial need is determined by measurement of inadequate blood oxygen tensions and/or saturations by invasive or noninvasive methods and/or the presence of clinical indicators; ongoing evaluation indicates additional measurements may be indicated whenever there is a change in cardiopulmonary-related clinical status, and once the need for long-term oxygen therapy (LTOT) has been documented, repeat arterial blood gases or oxygen saturation measurements are unnecessary other than to follow the course of the disease, to assess changes in clinical status, or to facilitate changes in the oxygen prescription.
 
 ---
 
-### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^85020ce5]. BMC Pulmonary Medicine (2019). Medium credibility.
+### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^114QC3Re]. BMC Pulmonary Medicine (2019). Medium credibility.
 
 Design and participants
 
@@ -370,7 +370,7 @@ Abbreviations: COPD Chronic Obstructive Pulmonary Disease, FEV 1 Forced Expirato
 
 ---
 
-### Long-term continuous oxygen treatment in chronic obstructive pulmonary disease: proper use, benefits and unresolved issues [^754c4c44]. Current Opinion in Pulmonary Medicine (2007). Low credibility.
+### Long-term continuous oxygen treatment in chronic obstructive pulmonary disease: proper use, benefits and unresolved issues [^113zuBNj]. Current Opinion in Pulmonary Medicine (2007). Low credibility.
 
 Purpose Of Review
 
@@ -386,7 +386,7 @@ Future research will address the optimal timing and duration of oxygen therapy d
 
 ---
 
-### Time to desaturation less than one minute predicts the need for long-term home oxygen therapy [^349e110e]. Respiratory Care (2011). Low credibility.
+### Time to desaturation less than one minute predicts the need for long-term home oxygen therapy [^112M1T3K]. Respiratory Care (2011). Low credibility.
 
 Background
 
@@ -406,13 +406,13 @@ In patients with moderate to severe COPD, desaturation within the first minute o
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^edabf09b]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^1175MpSv]. VA/DoD (2021). High credibility.
 
 First-line therapy — long-term oxygen therapy indications in COPD: We recommend providing long-term oxygen therapy to patients with chronic stable resting severe hypoxemia (PaO2 < 55 mm Hg and/or SaO2 ≤ 88%) or chronic stable resting moderate hypoxemia (PaO2 56–59 mm Hg or SaO2 > 88% and < 90%) with signs of tissue hypoxia (hematocrit > 55%, pulmonary hypertension, or cor pulmonale). Strength: Strong for (Category: Not reviewed, Not changed).
 
 ---
 
-### Long-term oxygen therapy for 24 or 15 hours per day in severe hypoxemia [^977bea98]. The New England Journal of Medicine (2024). Excellent credibility.
+### Long-term oxygen therapy for 24 or 15 hours per day in severe hypoxemia [^114sake3]. The New England Journal of Medicine (2024). Excellent credibility.
 
 Background
 
@@ -432,7 +432,7 @@ Among patients with severe hypoxemia, long-term oxygen therapy used for 24 hours
 
 ---
 
-### Long-term outcomes following first short-term clinically important deterioration in COPD [^824881b6]. Respiratory Research (2018). Low credibility.
+### Long-term outcomes following first short-term clinically important deterioration in COPD [^114L9kBP]. Respiratory Research (2018). Low credibility.
 
 Conclusions
 
@@ -440,7 +440,7 @@ The results of this retrospective analysis of two 3-year COPD studies demonstrat
 
 ---
 
-### Predictors of first-year survival in patients with advanced COPD treated using long-term oxygen therapy [^137d4d04]. Respiratory Medicine (2008). Low credibility.
+### Predictors of first-year survival in patients with advanced COPD treated using long-term oxygen therapy [^111VtrQs]. Respiratory Medicine (2008). Low credibility.
 
 Unlabelled
 
@@ -452,7 +452,7 @@ first-year mortality. Baseline measurements: categorical variables: age (< 60 or
 
 ---
 
-### Patient-assessed quality of virtual consultations as follow-up on long-term oxygen therapy for patients with COPD [^62e53959]. Respiratory Care (2023). Medium credibility.
+### Patient-assessed quality of virtual consultations as follow-up on long-term oxygen therapy for patients with COPD [^113XcnG8]. Respiratory Care (2023). Medium credibility.
 
 Background
 
@@ -472,38 +472,38 @@ The subjects' perspective showed that follow-up on LTOT as a virtual consultatio
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^639725b6]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^113YeYVB]. GOLD (2025). High credibility.
 
 Regarding respiratory support for chronic obstructive pulmonary disease, more specifically with respect to long-term oxygen therapy, GOLD 2025 guidelines recommend to do not offer long-term oxygen therapy routinely in patients with stable COPD and moderate resting or exercise-induced arterial desaturation, as it does not lengthen the time to death or first hospitalization nor provides sustained benefit in health status, lung function, or 6-minute walk distance.
 Take individual patient factors into consideration when evaluating the patient's needs for supplemental oxygen.
 
 ---
 
-### Oxygen therapy in COPD [^5a14befc]. Respiratory Care (2023). Medium credibility.
+### Oxygen therapy in COPD [^113JYrXd]. Respiratory Care (2023). Medium credibility.
 
 Long-term oxygen therapy (LTOT) is a mainstay treatment for patients with severe resting hypoxemia secondary to chronic respiratory conditions including COPD. The evidence for LTOT is based on two trials that are now several decades old but have been insufficiently revisited. Therefore, many questions remain about precisely which patients experience the most benefit from LTOT, as well as how to define that benefit. Most studies have examined LTOT's effect on longevity rather than its impact on quality of life. In addition, many challenges exist in training both clinicians and patients on best practices for LTOT and associated equipment. Reimbursement policies have reduced the kinds of equipment available to the LTOT patient community, presenting additional challenges. This paper will review the current evidence for LTOT in COPD, the challenges involved with providing optimal therapy, and potential avenues of modernizing this essential intervention.
 
 ---
 
-### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^0b189c00]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
+### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^111HT8Xh]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
 
 Obstructive sleep apnea (OSA) adjunctive therapies — pharmacologic and oxygen guidance: Corticosteroids may improve the apnea–hypopnea index in OSA with concurrent rhinitis and "may be a useful adjunct to primary treatment for OSA (Guideline)". Oxygen supplementation "is not recommended as a primary treatment for OSA (Option)". If used with other primary therapies to treat hypoxemia, "follow-up must include documentation of resolution of the hypoxemia (Consensus)", and oxygen alone "may also prolong apneas and may potentially worsen nocturnal hypercapnia in patients with comorbid respiratory disease". For residual excessive daytime sleepiness despite effective positive airway pressure (PAP), "Modafinil is recommended" when no other cause is identifiable, and "Modafinil should be used in addition to PAP therapy" after other causes "must be ruled out including: suboptimal objective adherence with PAP; ill-fitting PAP masks; insufficient sleep; poor sleep hygiene; other sleep disorders such as narcolepsy or restless legs syndrome/ periodic limb movements of sleep; and depression".
 
 ---
 
-### British thoracic society guidelines for home oxygen use in adults [^db9efb30]. Thorax (2015). Medium credibility.
+### British thoracic society guidelines for home oxygen use in adults [^116cbgvK]. Thorax (2015). Medium credibility.
 
 Regarding screening and diagnosis for home oxygen, more specifically with respect to indications for assessment, BTS 2015 guidelines recommend to refer patients with a resting oxygen saturation of ≤ 92% for a blood gas assessment in order to assess eligibility for long-term oxygen therapy.
 
 ---
 
-### A prospective study of 12-week respiratory outcomes in COVID-19-related hospitalisations [^64d6419e]. Thorax (2021). Medium credibility.
+### A prospective study of 12-week respiratory outcomes in COVID-19-related hospitalisations [^113aVjEM]. Thorax (2021). Medium credibility.
 
 The long-term respiratory morbidity of COVID-19 remains unclear. We describe the clinical, radiological and pulmonary function abnormalities that persist in previously hospitalised patients assessed 12 weeks after COVID-19 symptom onset, and identify clinical predictors of respiratory outcomes. At least one pulmonary function variable was abnormal in 58% of patients and 88% had abnormal imaging on chest CT. There was strong association between days on oxygen supplementation during the acute phase of COVID-19 and both DLCO-% (diffusion capacity of the lung for carbon monoxide) predicted and total CT score. These findings highlight the need to develop treatment strategies and the importance of long-term respiratory follow-up after hospitalisation for COVID-19.
 
 ---
 
-### A model of quality assessment in patients on long-term oxygen therapy [^e81e8278]. Respiratory Medicine (2009). Low credibility.
+### A model of quality assessment in patients on long-term oxygen therapy [^116w8Nko]. Respiratory Medicine (2009). Low credibility.
 
 Background
 
@@ -523,13 +523,13 @@ We found improvements in eight of nine quality indicators. We suggest these indi
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^ddd5bdb4]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^116ft4Hq]. GOLD (2025). High credibility.
 
 Regarding follow-up and surveillance for chronic obstructive pulmonary disease, more specifically with respect to follow-up, GOLD 2025 guidelines recommend to monitor symptoms, exacerbations, and objective measures of airflow obstruction during routine follow-ups of patients with COPD to determine when to modify management and to identify any complications and/or comorbidities that may develop.
 
 ---
 
-### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^7a2d39c1]. BMC Pulmonary Medicine (2019). Medium credibility.
+### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^11488gSt]. BMC Pulmonary Medicine (2019). Medium credibility.
 
 Methods/design
 
@@ -544,13 +544,13 @@ Abbreviations: LTOT = Long-term oxygen therapy
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^7cbe5c94]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^114BwQVH]. GOLD (2025). High credibility.
 
 Prevention and management of COPD — long-term oxygen therapy: In patients with severe resting chronic hypoxemia (PaO2 ≤ 55 mmHg or < 60 mmHg if there is cor pulmonale or secondary polycythemia), long-term oxygen therapy improves survival. In patients with stable COPD and resting or exercise-induced moderate desaturation, long-term oxygen treatment should not be prescribed routinely, and individual patient factors must be considered when evaluating the patient's need for supplemental oxygen.
 
 ---
 
-### Global initiative for the diagnosis, management, and prevention of chronic obstructive lung disease. the 2020 GOLD science committee report on COVID-19 and chronic obstructive pulmonary disease [^85146bd6]. American Journal of Respiratory and Critical Care Medicine (2021). Medium credibility.
+### Global initiative for the diagnosis, management, and prevention of chronic obstructive lung disease. the 2020 GOLD science committee report on COVID-19 and chronic obstructive pulmonary disease [^114QJDKT]. American Journal of Respiratory and Critical Care Medicine (2021). Medium credibility.
 
 Follow-up of Patients with COPD Who Developed COVID-19
 
@@ -566,7 +566,7 @@ There are informative candidate models for the comprehensive management of compl
 
 ---
 
-### Long-term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease. An official American Thoracic Society clinical practice guideline [^98cb17c0]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Long-term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease. An official American Thoracic Society clinical practice guideline [^114uXLQF]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Unanswered questions and research priorities
 
@@ -584,13 +584,13 @@ There is little guidance about how to initiate NIV in patients with COPD. Trials
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^0ea688bd]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^111NimHv]. VA/DoD (2021). High credibility.
 
 VA/DoD COPD guideline — Long-term oxygen therapy thresholds: We recommend providing long-term oxygen therapy to patients with chronic stable resting severe resting hypoxemia (PaO2 < 55 mm Hg and/or SaO2 ≤ 88%) or chronic stable resting moderate hypoxemia (PaO2 56–59 mm Hg or SaO2 > 88% and ≤ 90%) with signs of tissue hypoxia (hematocrit > 55%, pulmonary hypertension, or cor pulmonale). 2021 Strength of Recommendation: Strong for.
 
 ---
 
-### Long-term mortality and health-related quality of life with lower versus higher oxygenation targets in intensive care unit patients with COVID-19 and severe hypoxaemia [^7918ab12]. Intensive Care Medicine (2024). Medium credibility.
+### Long-term mortality and health-related quality of life with lower versus higher oxygenation targets in intensive care unit patients with COVID-19 and severe hypoxaemia [^1146Xng9]. Intensive Care Medicine (2024). Medium credibility.
 
 Discussion
 
@@ -600,25 +600,25 @@ Albeit we did not find any statistically significant between-group difference in
 
 ---
 
-### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^bbea9033]. Circulation (2025). High credibility.
+### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^115obUMp]. Circulation (2025). High credibility.
 
 Regarding follow-up and surveillance for cardiac arrest, more specifically with respect to post-resuscitation care (oxygenation targets), AHA 2025 guidelines recommend to administer 100% inspired oxygen until SaO2 or partial pressure of arterial oxygen can be reliably measured in adult patients after ROSC.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^7e58b14a]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^114EKENu]. VA/DoD (2021). High credibility.
 
 First-line therapy — ambulatory long-term supplemental oxygen for isolated exercise hypoxemia in COPD: We suggest against routinely offering ambulatory long-term supplemental oxygen for patients with chronic stable isolated exercise hypoxemia, in the absence of another clinical indication for supplemental oxygen. Strength: Weak against (Category: Reviewed, Not changed).
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^228b737a]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^111tDRJq]. GOLD (2025). High credibility.
 
 Chronic obstructive pulmonary disease (COPD) follow-up and monitoring — Patients should be reviewed after a suitable interval (shorter in more severe patients and longer in less severe patients) with assessment of symptoms using either the CAT or mMRC scores and exacerbation frequency; the effect of treatment and possible adverse effects should be evaluated and comorbidities reassessed. Inhaler technique, adherence, smoking status and continued exposure to risk factors should be regularly checked; physical activity should be encouraged; referral for pulmonary rehabilitation considered in severe patients; and the need for oxygen therapy, non-invasive ventilatory support, lung volume reduction and palliative approaches considered individually with the action plan updated. Spirometry should be repeated at least annually, and if the patient is already receiving bronchodilator treatment, the latter should not be interrupted for performing spirometry. The report states that we no longer refer to asthma and COPD overlap (ACO) and emphasizes that asthma and COPD are different disorders; asthma and COPD may coexist, and if a concurrent diagnosis of asthma is suspected, pharmacotherapy should primarily follow asthma guidelines.
 
 ---
 
-### Evaluation of oxygen prescription in relation to hospital admission rate in patients with chronic obstructive pulmonary disease [^801c7b40]. BMC Pulmonary Medicine (2014). Low credibility.
+### Evaluation of oxygen prescription in relation to hospital admission rate in patients with chronic obstructive pulmonary disease [^114GvywD]. BMC Pulmonary Medicine (2014). Low credibility.
 
 We also chose to look at mortality in the patients given oxygen, as it was apparent from the high Charlson indices, poor lung function and ABG results that this population was very unwell, and reducing mortality is a key aim of LTOT use. We confirmed that respiratory deaths were common, highly likely to occur within a few years of starting oxygen, and more likely when oxygen is indicated. It is important to note that we found no evidence of harm resulting from oxygen prescription, particularly there were no admissions or deaths related to oxygen use in patients given it against current guidance.
 
@@ -626,7 +626,7 @@ In our study LTOT was stopped in 40.3% of patients after specialist review, a fi
 
 ---
 
-### Characteristics at the time of oxygen initiation associated with its adherence: findings from the COPD long-term oxygen treatment trial [^ed38976a]. Respiratory Medicine (2019). Medium credibility.
+### Characteristics at the time of oxygen initiation associated with its adherence: findings from the COPD long-term oxygen treatment trial [^1174h5HB]. Respiratory Medicine (2019). Medium credibility.
 
 Rationale
 
@@ -650,31 +650,31 @@ Readiness, confidence, and importance to use LTOT at initiation, and early high 
 
 ---
 
-### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^ae8f2a4b]. BMC Pulmonary Medicine (2019). Medium credibility.
+### REgistry-based randomized controlled trial of treatment and duration and mortality in long-term OXygen therapy (REDOX) study protocol [^115Tnw7p]. BMC Pulmonary Medicine (2019). Medium credibility.
 
 If LTOT 24 h/day is found to be non-superior to 15 h/day, this will confirm that patients safely can be free of supplemental oxygen for up to nine hours per day. If not, LTOT 24 h/day may be superior which implies the importance of oxygen therapy in chronic respiratory failure and the relevance of implementing services to facilitate and optimize the daily duration of LTOT. The trial design will provide robust, detailed data using validated instruments that enable correlational analyses of factors influencing the adherence to and net clinical effectiveness of LTOT in patients with respiratory failure in current clinical practice. The study also aims to take forward an infrastructure for randomized trials that can be used to facilitate research and improved evidence-based treatment in patients with chronic respiratory failure.
 
 ---
 
-### Oxygen therapy for patients with COPD: current evidence and the long-term oxygen treatment trial [^5ff5d76f]. Chest (2010). Low credibility.
+### Oxygen therapy for patients with COPD: current evidence and the long-term oxygen treatment trial [^113TGQ9k]. Chest (2010). Low credibility.
 
 Long-term use of supplemental oxygen improves survival in patients with COPD and severe resting hypoxemia. However, the role of oxygen in symptomatic patients with COPD and more moderate hypoxemia at rest and desaturation with activity is unclear. The few long-term reports of supplemental oxygen in this group have been of small size and insufficient to demonstrate a survival benefit. Short-term trials have suggested beneficial effects other than survival in patients with COPD and moderate hypoxemia at rest. In addition, supplemental oxygen appeared to improve exercise performance in small short-term investigations of patients with COPD and moderate hypoxemia at rest and desaturation with exercise, but long-term trials evaluating patient-reported outcomes are lacking. This article reviews the evidence for long-term use of supplemental oxygen therapy and provides a rationale for the National Heart, Lung, and Blood Institute Long-term Oxygen Treatment Trial. The trial plans to enroll subjects with COPD with moderate hypoxemia at rest or desaturation with exercise and compare tailored oxygen therapy to no oxygen therapy.
 
 ---
 
-### Treatment of adult obstructive sleep apnea with positive airway pressure: an American Academy of Sleep Medicine clinical practice guideline [^f51d3e81]. Journal of Clinical Sleep Medicine (2019). High credibility.
+### Treatment of adult obstructive sleep apnea with positive airway pressure: an American Academy of Sleep Medicine clinical practice guideline [^117GPnmN]. Journal of Clinical Sleep Medicine (2019). High credibility.
 
 Obstructive sleep apnea (OSA) positive airway pressure (PAP) good practice statements — Treatment of OSA with PAP therapy should be based on a diagnosis of OSA established using objective testing. Adequate follow-up, including close monitoring of objective device and usage data to ensure adequate treatment and adherence, should occur following PAP therapy initiation and during treatment of OSA. This good practice statement applies specifically to a new diagnosis of OSA, which should be established by either a home sleep apnea test or in-laboratory sleep testing prior to initiation of treatment for OSA, and patients with a previously established diagnosis of OSA who are currently on PAP therapy and have good symptom control should continue PAP therapy, even when prior testing results are not readily available. OSA is a chronic disease that rarely resolves except with substantial weight loss or successful corrective surgery, and periodic follow-up by a qualified clinician is necessary to confirm adequate treatment, assess symptom resolution, and promote continued adherence. Initial treatment of OSA requires close monitoring and early identification of difficulties with PAP use, as adherence over the first few days to weeks has been shown to predict long-term adherence, and objective monitoring of PAP therapy should be performed to complement patient reporting. The timing of follow-up varies by patient, but patients should be followed in the initial weeks to months after PAP initiation to promote adherence and assess response to treatment, with subsequently yearly evaluation reasonable, and more frequent follow-up for persistent or recurrent symptoms or difficulties with PAP use.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^5b5cec6e]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^113LT5wb]. GOLD (2025). High credibility.
 
 Prescription of supplemental oxygen to COPD patients — arterial hypoxemia criteria, action, and follow-up are specified as follows: Arterial hypoxemia is defined as PaO2 ≤ 55 mmHg (7.3 kPa) or SaO2 < 88%, or PaO2 > 55 but < 60 mmHg (> 7.3 kPa but < 8 kPa) with right heart failure or erythrocytosis; when present, prescribe supplemental oxygen and titrate to keep SaO2 ≥ 90%, and recheck in 60 to 90 days to assess if supplemental oxygen is still indicated and if prescribed supplemental oxygen is effective.
 
 ---
 
-### Effects of long-term oxygen therapy on acute exacerbation and hospital burden: the national DISCOVERY study [^7222aa8f]. Thorax (2025). Medium credibility.
+### Effects of long-term oxygen therapy on acute exacerbation and hospital burden: the national DISCOVERY study [^113vDEUn]. Thorax (2025). Medium credibility.
 
 Background
 
@@ -694,31 +694,31 @@ LTOT is associated with reduced rates of both total and hospitalised acute exace
 
 ---
 
-### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^116be05a]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
+### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^111Sq2Pj]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
 
 Oral appliance (OA) therapy monitoring and follow-up — unattended PM may be indicated to monitor the response to non-CPAP treatments for OSA, including OAs (Consensus). Once optimal fit is obtained and efficacy shown, follow-up with dental specialist is recommended every 6 months for the first year, and at least annually thereafter. The purpose of follow-up is to monitor patient adherence, evaluate device deterioration or maladjustment, evaluate the health of the oral structures and integrity of the occlusion, and assess the patient for signs and symptoms of worsening OSA. During all phases of assessment, therapy, and follow-up, patients should have access to a care team with appropriate dental personnel, educators, support groups, and sleep specialists (Consensus).
 
 ---
 
-### When should I be considering home oxygen for my patients? [^f32a495c]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### When should I be considering home oxygen for my patients? [^117DWCHh]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 The ability to provide oxygen in a patient's home can offer enormous benefits, including improvements in life expectancy when given in the appropriate setting. Confusingly, however, home oxygen is available in many forms, including long-term oxygen therapy (LTOT), ambulatory oxygen therapy (AOT), palliative oxygen therapy (POT) and short-burst oxygen therapy (SBOT) — each with varying degrees of supporting evidence. The British Thoracic Society (BTS) has recently published new guidance on home oxygen therapy, after collating the available evidence. This article aims to summarise those guidelines, focusing on who should and should not be considered for oxygen therapy. Although the BTS guidelines target a UK audience, many of the principles covered below are applicable internationally, even if the availability of certain oxygen modalities and supporting service arrangements may vary between different healthcare systems.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^f9fe7065]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^117PdP3S]. VA/DoD (2021). High credibility.
 
 VA/DoD Clinical Practice Guideline for COPD — post-discharge oxygen reassessment: We recommend that patients discharged home from hospitalization with acute exacerbation of COPD (AECOPD) requiring supplemental oxygen or LTOT inpatient oxygen therapy are evaluated for the need for LTOT within 30–90 days after discharge. LTOT should not be discontinued if patients continue to meet the above criteria.
 
 ---
 
-### When should I be considering home oxygen for my patients? [^f2a7fe33]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### When should I be considering home oxygen for my patients? [^117CkRxv]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 The ability to provide oxygen in a patient's home can offer enormous benefits, including improvements in life expectancy when given in the appropriate setting. Confusingly, however, home oxygen is available in many forms, including long-term oxygen therapy (LTOT), ambulatory oxygen therapy (AOT), palliative oxygen therapy (POT) and short-burst oxygen therapy (SBOT)-each with varying degrees of supporting evidence. The British Thoracic Society (BTS) has recently published new guidance on home oxygen therapy, after collating the available evidence. This article aims to summarise those guidelines, focusing on who should and should not be considered for oxygen therapy. Although the BTS guidelines target a UK audience, many of the principles covered below are applicable internationally, even if the availability of certain oxygen modalities and supporting service arrangements may vary between different healthcare systems.
 
 ---
 
-### A randomized trial of long-term oxygen for COPD with moderate desaturation [^3842dbe4]. The New England Journal of Medicine (2016). Excellent credibility.
+### A randomized trial of long-term oxygen for COPD with moderate desaturation [^112SQmJK]. The New England Journal of Medicine (2016). Excellent credibility.
 
 Background
 
@@ -738,25 +738,25 @@ In patients with stable COPD and resting or exercise-induced moderate desaturati
 
 ---
 
-### An official American Thoracic Society / European Respiratory Society statement: research questions in chronic obstructive pulmonary disease [^d5c2557c]. American Journal of Respiratory and Critical Care Medicine (2015). Medium credibility.
+### An official American Thoracic Society / European Respiratory Society statement: research questions in chronic obstructive pulmonary disease [^116TudxP]. American Journal of Respiratory and Critical Care Medicine (2015). Medium credibility.
 
 Long-term oxygen therapy (LTOT) in chronic obstructive pulmonary disease (COPD) is described as having cost with few adverse clinical effects, with the major hazard being fires or explosions, and prescribing LOTT for current smokers is controversial. We recommend: Studies that measure the effects of LTOT on outcomes in various COPD subtypes. Examples of subtypes that warrant evaluation include patients with mild and moderate hypoxemia, desaturation with exertion, desaturation during sleep, comorbid heart disease, frequent exacerbations, decreased exercise capacity, or pulmonary hypertension. Studies that evaluate the effect of LTOT on physical activity and the relationship of this effect on other outcomes, such as quality of life, frequency of exacerbations, and mortality. Studies that compare the effects of various modalities of LTOT (e.g., continuous, exercise, sleep, combined, with or without flow titration) on outcomes in different patient subtypes.
 
 ---
 
-### Diagnosis and management of stable chronic obstructive pulmonary disease: a clinical practice guideline update from the American College of Physicians, American College of Chest Physicians, American Thoracic Society, and European Respiratory Society [^a0010f06]. Annals of Internal Medicine (2011). Medium credibility.
+### Diagnosis and management of stable chronic obstructive pulmonary disease: a clinical practice guideline update from the American College of Physicians, American College of Chest Physicians, American Thoracic Society, and European Respiratory Society [^1156DNiR]. Annals of Internal Medicine (2011). Medium credibility.
 
 Regarding respiratory support for chronic obstructive pulmonary disease, more specifically with respect to long-term oxygen therapy, ACP 2011 guidelines recommend to initiate continuous oxygen therapy in patients with COPD with severe resting hypoxemia (PaO2 ≤ 55 mmHg or SpO2 ≤ 88%).
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^3d39b1ca]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^112ZmdAq]. VA/DoD (2021). High credibility.
 
 Chronic obstructive pulmonary disease — We recommend providing long-term oxygen therapy to patients with chronic stable resting severe hypoxemia (PaO2 < 55 mm Hg and/or SaO2 ≤ 88%) or chronic stable resting moderate hypoxemia (PaO2 56–59 mm Hg or SaO2 > 88% and ≤ 90%) with signs of tissue hypoxia (hematocrit > 55%, pulmonary hypertension, or cor pulmonale). Strength/status: Strong for | Not reviewed, Not changed.
 
 ---
 
-### Chronic obstructive pulmonary disease: getting it right. does optimal management of chronic obstructive pulmonary disease alter disease progression and improve survival? [^1ab974f7]. Current Opinion in Pulmonary Medicine (2014). Low credibility.
+### Chronic obstructive pulmonary disease: getting it right. does optimal management of chronic obstructive pulmonary disease alter disease progression and improve survival? [^111gcyKU]. Current Opinion in Pulmonary Medicine (2014). Low credibility.
 
 Purpose Of Review
 
@@ -772,25 +772,25 @@ There is much work to do, not only to improve the treatments we have for this di
 
 ---
 
-### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^b1b101cd]. Circulation (2025). High credibility.
+### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^115YSGFn]. Circulation (2025). High credibility.
 
 Regarding follow-up and surveillance for cardiac arrest, more specifically with respect to post-resuscitation care (oxygenation targets), AHA 2025 guidelines recommend to consider titrating the FiO2 to target an oxygen saturation of 90–98% (partial pressure of arterial oxygen, 60–105 mmHg) once reliable measurement of oxygen saturation is available, to avoid hyperoxemia and hypoxemia in adult patients after ROSC.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^a8a47444]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^115K2AAo]. VA/DoD (2021). High credibility.
 
 VA/DoD Clinical Practice Guideline for COPD — long-term oxygen therapy thresholds: We recommend providing long-term oxygen therapy (LTOT) to patients with chronic stable resting severe hypoxemia (partial pressure of oxygen in arterial blood [PaO2] < 55 mm Hg and/or peripheral capillary oxygen saturation [SaO2] ≤ 88%) or chronic stable resting moderate hypoxemia (PaO2 of 56–59 mm Hg or SaO2 ≥ 89% and ≤ 90%) with signs of tissue hypoxia (hematocrit > 55%, pulmonary hypertension, or cor pulmonale). 2021 status: Not reviewed, Not changed; 2021 CPG Recommendation # 15.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^a5fed00b]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^115F6Yee]. VA/DoD (2021). High credibility.
 
 Module A: Management of COPD in primary care begins by asking "Is patient having an acute exacerbation? (see Sidebar 1)" and, if yes, directs "Management of an acute exacerbation (see Module B)". Evaluate for other contributing diagnoses and co-occurring conditions and "Obtain diagnostic spirometry if available (see Recommendation 1)". Next, determine "Is there a confident clinical diagnosis of COPD?" with the no branch to "Treat or refer as clinically indicated". For confirmed COPD, "Offer prevention and risk reduction methods including smoking cessation, vaccination, and patient education" and "Suggest spirometry if not already completed", then assess "Is patient chronically symptomatic and/or has patient had a moderate to severe exacerbation in the past year? (see Sidebar 1)". If symptoms persist, "consider need to initiate/adjust medication and assess inhaler technique", "ensure patient is on a SABA (PRN)", and escalate with "First line LAMA", "Add LABA for severe symptoms (preferably combination inhaler)", "Add ICS only for continued moderate to severe exacerbations (see Sidebar 1)", and "Pulmonology referral". For hypoxemia, "Consider need for oxygen if patient has resting hypoxemia (refer to home oxygen clinic if appropriate)". Ongoing care includes "Continue follow-up and monitoring", "Reassess severity periodically", "Consider pulmonary rehabilitation", "Consider medication adjustment if patient is on an inhaled corticosteroid (see Module C)", "Consider offering referral to a pulmonologist or a palliative care specialist as appropriate for patients with persistent refractory dyspnea", and "Carefully consider alternatives to beta blockers for non-cardiac indications (e.g. HTN)".
 
 ---
 
-### British thoracic society guideline for oxygen use in adults in healthcare and emergency settings [^65ecc917]. BMJ Open Respiratory Research (2017). Medium credibility.
+### British thoracic society guideline for oxygen use in adults in healthcare and emergency settings [^113c7HR8]. BMJ Open Respiratory Research (2017). Medium credibility.
 
 U. Weaning and discontinuation of oxygen therapy
 U1. Lower the oxygen concentration if the patient is clinically stable and the oxygen saturation is above the target range or if it has been in the upper zone of the target range for some time (usually 4–8 hours) (grade D).
@@ -805,7 +805,7 @@ U9. Some patients may have episodic hypoxaemia (eg, after minor exertion or due 
 
 ---
 
-### Chronic obstructive pulmonary disease: diagnosis and management… [^992a152c]. AAFP (2023). Medium credibility.
+### Chronic obstructive pulmonary disease: diagnosis and management… [^114v5ExK]. AAFP (2023). Medium credibility.
 
 INHALED CORTICOSTEROIDS Inhaled corticosteroids are not recommended as monotherapy in COPD. They do not improve mortality or FEV. 1 and increase the risk of oropharyngeal candidiasis and pneumonia. 3, 20, 23 In conjunction with long-acting inhaled bronchodilators, ICS triple therapy decreases COPD exacerbation frequency and improves quality of life. 3, 23 A meta-analysis reviewing triple therapy with ICS/LAMA/LABA combinations showed an NNT of 16 to reduce one exacerbation in 12 months and a number needed to harm of 64 for one episode of pneumonia in 12 months compared with LAMA/LABA combinations. 24 Triple therapy reduces exacerbations and improves lung function compared with ICS/LABA or LAMA/LABA combinations in patients 40 years and older with symptomatic COPD and no more than one moderate or severe exacerbation in the past year. 24, 25 In patients with COPD who have blood eosinophil counts of 300 cells per μL or more, adding an ICS further reduces exacerbations but also increases the risk of pneumonia. Consider discontinuing the ICS if patients have been stable for 12 months.
 20. PHOSPHODIESTERASE-4 INHIBITORS Phosphodiesterase-4 inhibitors reduce pulmonary inflammation by inhibiting the breakdown of intracellular cyclic adenosine monophosphate. Roflumilast, a PDE-4 inhibitor used in the treatment of COPD, reduces moderate and severe exacerbations in patients with severe to very severe COPD who have frequent exacerbations, especially those with a history of hospitalization for acute exacerbation. 3 A 2020 Cochrane review found that PDE-4 inhibitors modestly improved lung function and reduced symptoms and the likelihood of COPD exacerbations with an NNT of 17 to prevent one exacerbation over 39 weeks compared with placebo. 26 Most studies in the review used PDE-4 inhibitors as monotherapy in patients with symptoms of bronchitis.
@@ -817,13 +817,13 @@ Although there are limited data for the use of PDE-4 inhibitors in conjunction w
 
 ---
 
-### Long-term progestin therapy for female chronic respiratory insufficiency? [^762304fc]. Respiratory Medicine (2004). Low credibility.
+### Long-term progestin therapy for female chronic respiratory insufficiency? [^11429JVH]. Respiratory Medicine (2004). Low credibility.
 
 End-stage chronic obstructive pulmonary disease often leads to hypercapnic respiratory failure. Oxygen supplementation therapy may further aggravate hypercapnia and not all patients are compliant with non-invasive ventilation. This case documents successful control of chronic respiratory failure with medroxyprogesterone in a postmenopausal woman during 1-year follow-up.
 
 ---
 
-### Association of guideline-recommended COPD inhaler regimens with mortality, respiratory exacerbations, and quality of life: a secondary analysis of the long-term oxygen treatment trial [^5e867f55]. Chest (2020). Medium credibility.
+### Association of guideline-recommended COPD inhaler regimens with mortality, respiratory exacerbations, and quality of life: a secondary analysis of the long-term oxygen treatment trial [^113R91iC]. Chest (2020). Medium credibility.
 
 Background
 
@@ -847,13 +847,13 @@ Among patients with COPD with moderate hypoxemia, we found no difference in clin
 
 ---
 
-### An official American Thoracic Society / European Respiratory Society statement: research questions in chronic obstructive pulmonary disease [^6b830da2]. American Journal of Respiratory and Critical Care Medicine (2015). Medium credibility.
+### An official American Thoracic Society / European Respiratory Society statement: research questions in chronic obstructive pulmonary disease [^113kPhH3]. American Journal of Respiratory and Critical Care Medicine (2015). Medium credibility.
 
 Long-term oxygen therapy (LTOT) in COPD — LTOT reverses hypoxemia, and in severe hypoxemia defined as PaO2 ≤ 55 mm Hg, LTOT improved survival; a separate trial showed oxygen administered 19 h/d improved survival versus 12 h/d. In moderate hypoxemia defined as PaO2 < 69 mm Hg, LTOT showed no effect on survival regardless of daily duration, and nocturnal oxygen therapy versus no nocturnal oxygen therapy also found no effect on survival. Trials were limited by small sample sizes and events with only 370 patients and 164 deaths collectively. These data suggest that LTOT has a mortality benefit that may be related to the severity of hypoxemia.
 
 ---
 
-### Randomized trial of nocturnal oxygen in chronic obstructive pulmonary disease [^58b143ad]. The New England Journal of Medicine (2020). Excellent credibility.
+### Randomized trial of nocturnal oxygen in chronic obstructive pulmonary disease [^113GVTBr]. The New England Journal of Medicine (2020). Excellent credibility.
 
 Background
 
@@ -873,7 +873,7 @@ Our underpowered trial provides no indication that nocturnal oxygen has a positi
 
 ---
 
-### Long-term quality of life in patients with acute respiratory distress syndrome requiring extracorporeal membrane oxygenation for refractory hypoxaemia [^5a40ef41]. Critical Care (2012). Low credibility.
+### Long-term quality of life in patients with acute respiratory distress syndrome requiring extracorporeal membrane oxygenation for refractory hypoxaemia [^113JohPe]. Critical Care (2012). Low credibility.
 
 Key messages
 
@@ -885,19 +885,19 @@ Key messages
 
 ---
 
-### A randomized trial of long-term oxygen for COPD with moderate desaturation [^204af746]. The New England Journal of Medicine (2016). Excellent credibility.
+### A randomized trial of long-term oxygen for COPD with moderate desaturation [^111psnUM]. The New England Journal of Medicine (2016). Excellent credibility.
 
 The study LTOT was published by Long-Term Oxygen Treatment Trial Research Group and colleagues in 2016 in the journal N Engl J Med. This study is related to the following diseases: Chronic obstructive pulmonary disease and Dyspnea in palliative care. In the LTOT study, the trial question was: what is the role of long-term supplemental oxygen in patients with stable COPD and resting or exercise-induced moderate desaturation? In the LTOT study, the study design was: multi-center, open label, RCT. In the LTOT study, the population was: 738 patients (196 female, 542 male). The inclusion criteria were patients with stable COPD who had moderate resting desaturation (SpO2 89–93%) and moderate exercise-induced desaturation (during the 6-minute walk test, SpO2 ≥ 80% for ≥ 5 minutes and < 90% for ≥ 10 seconds). The key exclusion criteria were COPD exacerbations requiring antibiotics, thoracic surgery or other procedures in the 6 months before randomization, non-COPD lung disease affecting oxygenation or survival, Epworth Sleepiness Scale score > 15, desaturation < 80% for at least 1 minute during the 6-minute walk, or disease or condition expected to cause death or inability to perform procedures within 6 months of randomization. In the LTOT study, the interventions were: n = 368 supplemental oxygen (long-term supplemental oxygen with 24-hour oxygen for patients with resting desaturation and oxygen during exercise and sleep for patients with desaturation only during exercise) n = 370 no supplemental oxygen (no long-term supplemental oxygen). In the LTOT study, the primary outcome was: no significant difference in the incidence of death or first hospitalization (36.4/100 py vs. 34.2/100 py; HR 1.06, 95% CI 0.89 to 1.26). In the LTOT study, the secondary outcomes were: no significant difference in the incidence of death (5.7/100 py vs. 5.2/100 py; HR 1.11, 95% CI 0.8 to 1.56) No significant difference in the incidence of hospitalization (34.5/100 py vs. 31.6/100 py; HR 1.09, 95% CI 0.9 to 1.29). In the LTOT study, the safety outcomes were: significant difference in adverse events (51 vs. 0). In the LTOT study, the conclusion was: in patients with stable COPD who had moderate resting desaturation (SpO2 89–93%) and moderate exercise-induced desaturation (during the 6-minute walk test, SpO2 ≥ 80% for ≥ 5 minutes and < 90% for ≥ 10 seconds), supplemental oxygen was not superior to no supplemental oxygen with respect to the incidence of death or first hospitalization.
 
 ---
 
-### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^7fde3e40]. Circulation (2005). Medium credibility.
+### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^114Ga5SF]. Circulation (2005). Medium credibility.
 
 Ongoing evaluation of patients — once the nature and cause of the structural abnormalities leading to the development of HF have been defined, healthcare providers should focus on the clinical assessment of patients, both during the initial presentation and during subsequent visits. This clinical assessment should identify symptoms and their functional consequences and should evaluate the short- and long-term risks of disease progression and death whenever appropriate. This ongoing review of the patient's clinical status is critical to the appropriate selection and monitoring of treatments.
 
 ---
 
-### Long-term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease. An official American Thoracic Society clinical practice guideline [^2e35199f]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Long-term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease. An official American Thoracic Society clinical practice guideline [^112BWGSJ]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Recommendation
 
@@ -913,43 +913,43 @@ We identified four RCTs evaluating the use of long-term NIV after an episode of 
 
 ---
 
-### The clinical management in extremely severe COPD [^9f82c733]. Respiratory Medicine (2007). Low credibility.
+### The clinical management in extremely severe COPD [^1155Uxa6]. Respiratory Medicine (2007). Low credibility.
 
 Chronic obstructive pulmonary disease (COPD) affects 6% of the general population and is the fourth-leading cause of death in the United States with severe and very severe disease accounting for 15% and 3% of physician diagnoses of COPD. Guidelines make few recommendations regarding providing the provision of care for the most severe stages of disease, namely Global Initiative for Chronic Obstructive Lung Disease (GOLD) stages III and IV with chronic respiratory failure. The effectiveness of inhaled drug therapy in very severe patients has not been assessed yet. Health care systems in many countries include public funding of long-term oxygen therapy for eligible candidates. Currently, there is little evidence for the use of mechanical ventilatory support in the routine management of hypercapnic patients. Pulmonary rehabilitation should be considered as a significant component of therapy, even in the most severe patients. Although Lung Volume Reduction Surgery has been shown to improve mortality, exercise capacity, and quality of life in selected patients, this modality is associated with significant morbidity and an early mortality rate in the most severe patients. Despite significant progress over the past 25 years, both short- and long-term outcomes remain significantly inferior for lung transplantation relative to other "solid" organ recipients. Nutritional assessment and management is an important therapeutic option in patients with chronic respiratory diseases. Morphine may significantly reduce dyspnoea and does not significantly accelerate death. No consistent improvement in dyspnoea over placebo has been shown with anxiolytics. Supplemental oxygen during exercise reduces exertional breathlessness and improves exercise tolerance of the hypoxaemic patient. Non-invasive ventilation has been used as a palliative treatment to reduce dyspnoea. Hypoxaemic COPD patients, on long-term oxygen therapy, may show reduced health-related quality of life, cognitive function, and depression. Only a small proportion of patients with severe COPD discuss end-of-life issues with their physicians.
 
 ---
 
-### The clinical impact of new long-term oxygen therapy technology [^96570868]. Respiratory Care (2009). Low credibility.
+### The clinical impact of new long-term oxygen therapy technology [^114qtNoq]. Respiratory Care (2009). Low credibility.
 
 Long-term oxygen therapy (LTOT) improves survival for patients afflicted with severe chronic obstructive pulmonary disease and may also reduce the incidence of repeat hospitalization due to exacerbations. When properly dosed and titrated, LTOT has also been shown to improve exercise tolerance, thereby enhancing the overall health-related quality of life for this growing patient population. Equipment used to provide LTOT is undergoing a radical transformation, with newer delivery devices offering a sharp contrast to older, more traditional home oxygen equipment. This newer approach to providing LTOT-commonly referred to as "non-delivery technology"-affords LTOT users unprecedented freedom, since they are no longer dependent on home-care providers for repeat deliveries to replenish or replace depleted oxygen contents. Instead, non-delivery LTOT equipment is self-sufficient and able to provide all of the oxygen needed to meet both stationary and ambulatory requirements. However, several models of the newer LTOT equipment have certain operational and performance limitations. Accordingly, in order to preclude unintended desaturation with newer LTOT devices, each patient must undergo an individualized pulse-oximetry titration study by a knowledgeable and experienced respiratory therapist to ensure optimum dosing under all conditions of use.
 
 ---
 
-### Ambulatory home oxygen: what is the evidence for benefit, and who does it help? [^0709c267]. Respiratory Care (2013). Low credibility.
+### Ambulatory home oxygen: what is the evidence for benefit, and who does it help? [^111BSC6r]. Respiratory Care (2013). Low credibility.
 
 The beneficial effects of ambulatory home oxygen have been demonstrated since the 1950s, when Cotes and Gibson gave oxygen to ambulatory COPD patients from small portable high pressures cylinders in the United Kingdom. Over the ensuing 7 decades, oxygen has been prescribed to millions of COPD patients in the home setting. Additionally, it is common clinical practice to prescribe supplemental oxygen when chronic hypoxemic respiratory failure not due to COPD (eg, interstitial lung disease, pulmonary hypertension, kyphoscoliosis, and cystic fibrosis) is present or in patients with hypoxemia at hospital discharge following flares of their underlying chronic respiratory disorder, without any substantial evidence. Despite the importance of long-term oxygen therapy in clinical home management, there are many gaps in our current knowledge regarding its mechanisms of action, indications for prescription, and its effects on important patient outcomes. Research conducted in the 1970s and 1980s still provides the basis for clinical decision making and insurance coverage policies regarding long-term oxygen administration. Remarkably, little current research is being conducted to extend our knowledge regarding the indications, mechanisms, and benefits of long-term oxygen therapy. This review will focus on our current knowledge of the end points for supplemental oxygen at home, such as mortality, effects on functional performance, sensation of dyspnea, cognitive function, and quality of life, and highlight areas where future research is needed.
 
 ---
 
-### Home oxygen therapy for patients with COPD: time for a reboot [^584a3017]. Respiratory Care (2019). Medium credibility.
+### Home oxygen therapy for patients with COPD: time for a reboot [^113Ftq6W]. Respiratory Care (2019). Medium credibility.
 
 Just over 100 years ago, John Scott Haldane published a seminal report about the therapeutic potential of supplemental oxygen to treat hypoxemia. In the 1980s, a pair of clinical trials confirmed the benefit of long-term oxygen therapy in improving survival in patients with COPD associated with severe resting hypoxemia. This review provides a summary of evidence supporting long-term and short-term oxygen therapy, as well as the various types of oxygen equipment commonly used in homes to deliver supplemental oxygen. Because the majority of orders for home oxygen occur at hospital discharge following acute illness, a typical conversation between a patient and their pulmonologist following a COPD exacerbation is presented. The SHERLOCK Consortium, a multi-stakeholder group established following the publication of the COPD National Action Plan in 2017 is also detailed. Interim results of the SHERLOCK Consortium, which suggest a chain of care involving 9 steps to ensure that patients are successfully initiated on home oxygen therapy during transitions from hospital to home, are presented. Recommendations to support evidence-based policies in this high-risk population are provided.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^103dc45c]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^111R5Yq1]. VA/DoD (2021). High credibility.
 
 Regarding respiratory support for chronic obstructive pulmonary disease, more specifically with respect to long-term oxygen therapy, DoD/VA 2021 guidelines recommend to initiate long-term oxygen therapy in patients with chronic stable resting severe hypoxemia (PaO2 < 55 mmHg and/or SaO2 ≤ 88%) or chronic stable resting moderate hypoxemia (PaO2 56–59 mmHg or SaO2 > 88% and ≤ 90%) with signs of tissue hypoxia (hematocrit > 55%, pulmonary hypertension, or cor pulmonale).
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^8bc41cc3]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^114aD9kN]. GOLD (2025). High credibility.
 
 Long-term oxygen therapy (LTOT) in stable COPD — indications: LTOT is indicated for stable patients who have PaO2 at or below 55 mmHg (7.3 kPa) or SaO2 at or below 88%, with or without hypercapnia confirmed twice over a three-week period; or PaO2 between 55 mmHg (7.3 kPa) and 60 mmHg (8.0 kPa), or SaO2 of 88%, if there is evidence of pulmonary hypertension, peripheral edema suggesting congestive cardiac failure, or polycythemia (hematocrit > 55%).
 
 ---
 
-### Idiopathic pulmonary fibrosis in the UK: findings from the British thoracic society UK idiopathic pulmonary fibrosis registry [^193b378c]. BMJ Open Respiratory Research (2025). High credibility.
+### Idiopathic pulmonary fibrosis in the UK: findings from the British thoracic society UK idiopathic pulmonary fibrosis registry [^111eQagj]. BMJ Open Respiratory Research (2025). High credibility.
 
 Figure 4
 Proportion of patients receiving antifibrotic therapies at presentation. This chart shows a direct comparison of the proportions of patients receiving nintedanib and receiving pirfenidone at presentation since 2016, when nintedanib use was approved by NICE. Some patients were receiving both nintedanib and pirfenidone in the 3 months up to the first clinic visit (including drugs newly prescribed at the first clinic visit). NICE, National Institute of Clinical Excellence.
@@ -963,13 +963,13 @@ Performance against the five statements in the NICE Quality Standard for IPF. IL
 
 ---
 
-### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^ec6f29d0]. Journal of Clinical Sleep Medicine (2025). High credibility.
+### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^1173XR9H]. Journal of Clinical Sleep Medicine (2025). High credibility.
 
 Oxygen therapy for CSA in heart failure (HF) has limited symptomatic benefit but is conditionally supported: several small RCTs and observational studies evaluated low flow oxygen, most with at least eight weeks of follow up and no reported benefits in sleepiness, insomnia, or exercise performance; individual response should be re-evaluated before prescribing oxygen over the long term; coverage may be limited; and the task force provided a low certainty recommendation in favor of using low flow oxygen for CSA in HF.
 
 ---
 
-### Similar risk of hospitalization and mortality for patients continuing and discontinuing LTOT [^34128ba7]. Respiratory Research (2025). Medium credibility.
+### Similar risk of hospitalization and mortality for patients continuing and discontinuing LTOT [^112LCax6]. Respiratory Research (2025). Medium credibility.
 
 Introduction
 
@@ -983,19 +983,19 @@ In this paper, we aimed to evaluate the clinical utility of LTOT for severe hypo
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^3656cc12]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^112PZVAR]. VA/DoD (2021). High credibility.
 
 COPD — ambulatory long-term supplemental oxygen: We suggest against routinely offering ambulatory long-term supplemental oxygen for patients with chronic stable isolated exercise hypoxemia, in the absence of another clinical indication for supplemental oxygen. (Weak against | Reviewed, Not changed).
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^98affeb6]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^114uNEVb]. GOLD (2025). High credibility.
 
 Chronic obstructive pulmonary disease (COPD) oxygen therapy — duration and outcomes are as follows: The long-term administration of oxygen (> 15 hours per day) to patients with chronic respiratory failure has been shown to increase survival in patients with severe resting hypoxemia. Among patients with severe hypoxemia agreeing to participate in a study, long-term oxygen therapy used for 24 hours per day did not result in a lower risk of hospitalization or death within one year compared to therapy for 15 hours per day, but the generalizability of this finding is unclear.
 
 ---
 
-### Long-term multidimensional patient-centred outcomes after hospitalisation for COVID-19: do not only focus on disease severity [^889487f8]. BMJ Open Respiratory Research (2025). High credibility.
+### Long-term multidimensional patient-centred outcomes after hospitalisation for COVID-19: do not only focus on disease severity [^114VVCwq]. BMJ Open Respiratory Research (2025). High credibility.
 
 Introduction
 
@@ -1007,13 +1007,13 @@ We hypothesised that long-term patient-centred outcomes are related to disease s
 
 ---
 
-### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^f4a46698]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
+### Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults [^117FhCYf]. Journal of Clinical Sleep Medicine (2009). Medium credibility.
 
 Positive airway pressure (PAP) care processes — patient education, interface selection, adherence supports, monitoring, safety, and follow-up — are specified as follows. Patients 'should be educated about the function, care, and maintenance of their equipment, the benefits of PAP therapy, and potential problems', and 'should work together to select the most appropriate PAP interface'. The document states, 'The nasal airway is the preferred delivery route, however, alternatives may be tried to accommodate for comfort or difficulties (Consensus)'. To improve adherence, 'The addition of heated humidification and a systematic educational program is indicated to improve CPAP utilization (Standard)' and 'CPAP usage should be objectively monitored with time meters to help assure utilization (Standard)'. Regarding safety, 'CPAP and BPAP therapy are safe; side effects and adverse events are mainly minor and reversible (Standard)'. For ongoing care, 'Close follow-up for PAP usage and problems by appropriately trained health care providers is indicated to establish effective utilization patterns and remediate problems, if needed', and 'This is especially important during the first few weeks of PAP use (Standard)'; moreover, 'General OSA outcomes should be assessed in all patients (Consensus) (Table 6)'. If adherence remains insufficient, 'If PAP use is considered inadequate based on objective monitoring and symptom evaluation, prompt and intensive efforts should be implemented to improve PAP use or consider alternative therapies'.
 
 ---
 
-### The prevalence of non-invasive ventilation and long-term oxygen treatment in helsinki university hospital area, Finland [^a99ea5b2]. BMC Pulmonary Medicine (2022). Medium credibility.
+### The prevalence of non-invasive ventilation and long-term oxygen treatment in helsinki university hospital area, Finland [^115LUCKj]. BMC Pulmonary Medicine (2022). Medium credibility.
 
 The second largest patient group in our study was OHS. Our patients were slightly more hypercapnic (PaCO2 8.0 vs. 5.7–7.9 kPa), but otherwise the patients' characteristics were similar compared to other studies. As expected, the mortality of our OHS patients was the lowest of the diagnostic groups (21.2%) and comparable to earlier studies, in which the five-year mortality ranged from 11% to 22.7%.
 
@@ -1023,13 +1023,13 @@ Treatment initiation and follow-up protocols varied greatly in our area's clinic
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^09bd70d0]. VA/DoD (2021). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic obstructive pulmonary disease [^111FSX91]. VA/DoD (2021). High credibility.
 
 Chronic obstructive pulmonary disease — definition and evidence limits for LTOT in milder hypoxemia — Chronic stable hypoxemia is defined as two measurements at least six weeks apart and at least six weeks from any acute illness resulting in hypoxemia, and there is insufficient evidence that long-term oxygen therapy reduces mortality in COPD with mild to moderate hypoxemia (66 mmHg < PaO2 ≤ 74 mm Hg) without signs of tissue hypoxia; there is also insufficient evidence that it improves dyspnea, QoL, hospitalization rates, or readmission rates, so the Work Group decided to not make specific recommendations for these populations.
 
 ---
 
-### The impact of the Danish oxygen register on adherence to guidelines for long-term oxygen therapy in COPD patients [^e292ef0e]. Respiratory Medicine (2006). Low credibility.
+### The impact of the Danish oxygen register on adherence to guidelines for long-term oxygen therapy in COPD patients [^116nuZC1]. Respiratory Medicine (2006). Low credibility.
 
 Objectives
 

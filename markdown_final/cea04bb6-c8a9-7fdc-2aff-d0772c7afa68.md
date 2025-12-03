@@ -95,7 +95,7 @@ The maximum area is **3/2**, which corresponds to option **D**.
 
 ## References
 
-### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^cecbb2e6]. Nature Communications (2025). High credibility.
+### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^116HasRf]. Nature Communications (2025). High credibility.
 
 Analysis of Arc-Morph origami
 
@@ -103,13 +103,13 @@ We introduce the family of Arc-Morph origami, such as the example shown in Fig. 
 
 ---
 
-### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^5b430ca6]. Nature Communications (2025). High credibility.
+### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^113LJPsb]. Nature Communications (2025). High credibility.
 
 We repeat this analysis for the nonrigid isometry which we cannot describe in terms of changes to the dihedral angles exclusively. Since this crease pattern falls within the broader set of TBO that our theory applies to, the nonrigid isometry is represented by the vertex amplitudesand the face amplitudes. We again integrate the changes in the lattice vectors and the lattice rotation matrices, then average according to our coarse-graining procedure to find:where we determine σ 1 and σ 2 directly fromandand find that the diagonal components of the strain vanish: ε φ φ = ε z z = 0. We confirm these quantities are self consistent with δ I φ z = δ I z φ = R 2 σ 1 + σ 2, δ I I φ z = δ I I z φ = R σ 1 without any adjustment to the averaging step of our coarse-graining procedure. Here, there is an apparent discrepancy regarding the units of σ 1 and σ 2: from dimensional analysis of Eqn. (7), σ 1 must have units of inverse area and σ 2 must be dimensionless. However, our calculations leading to Eqns. ((15), (16)) use a dimensionless face amplitude to simplify our calculations while the integration framework assumes the face amplitude has units of inverse length. This is in contrast to the vertex amplitudes which are always dimensionless. Introducing such a length scale, for example from the square root of the cell area, resolves the apparent discrepancy. The self consistency of our results relies on both the averaging process in our coarse-graining method and the inclusion of the Jacobian to transform from the discrete lattice coordinates to the continuous surface coordinates. While for the nonrigid isometries of parallelogram-based origami the averaging is also important, the Jacobian may be neglected because the ground states are quasi-planar.
 
 ---
 
-### Climbing favours the tripod gait over alternative faster insect gaits [^cd5d58cb]. Nature Communications (2017). Medium credibility.
+### Climbing favours the tripod gait over alternative faster insect gaits [^116FTpKC]. Nature Communications (2017). Medium credibility.
 
 We did not model air drag in our simulations. Although drag is an important factor for insect flight, we found that it is not nearly as relevant as frictional forces for walking. We computed drag forces for a single leg according to equation (3):
 
@@ -121,13 +121,13 @@ We used PSO, a stochastic optimization algorithm, to discover gaits that optimiz
 
 ---
 
-### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^a2ff9e7d]. Nature Communications (2025). High credibility.
+### Coarse-grained fundamental forms for characterizing isometries of trapezoid-based origami metamaterials [^115AerWp]. Nature Communications (2025). High credibility.
 
 Investigations of origami tessellations as effective media reveal the ability to program the components of their elasticity tensor, and thus control the mechanical behavior of thin sheets. However, existing efforts focus on crease patterns that are composed of parallelogram faces where the parallel lines constrain the quasi-static elastic response. In this work, crease patterns composed of more general trapezoid faces are considered and their low-energy linear response is explored. Deformations of such origami tessellations are modeled as linear isometries that do not stretch individual panels at the small scale yet map to non-isometric changes of coarse-grained fundamental forms that quantify how the effective medium strains and curves at the large scale. Two distinct mode shapes, a rigid breathing mode and a nonrigid shearing mode, are identified in the continuum model. A specific example, which we refer to as Arc-Morph origami, is presented with analytical expressions for its deformations in both the discrete and continuous models. A developable specimen is fabricated and tested to validate the analytical predictions. This work advances the continuum modeling of origami tessellations as effective media with the incorporation of more generic faces and ground states, thereby enabling the investigation of novel designs and applications.
 
 ---
 
-### Dynamic similarity and the peculiar allometry of maximum running speed [^db3920dd]. Nature Communications (2024). High credibility.
+### Dynamic similarity and the peculiar allometry of maximum running speed [^116c1Ufe]. Nature Communications (2024). High credibility.
 
 From these parameters, we derived first order predictions for the Hill- and Borelli-limit, and, the physiological similarity index, the reduced parasitic energy, and the work density of muscle, W ρ = σ m a x ε m a x ρ −1. Estimates for l m and m f were obtained as arithmetic averages or via log-log regression from data on 31 mammalian and reptile species that varied across four orders of magnitude in body mass; the fascicle length here is the fascicle length of a hypothetical muscle which has a volume and physiological cross-sectional area equal to the sum of all relevant limb muscles. All estimates assume that half of the total limb muscle mass contributes to the acceleration during stance.
 
@@ -135,7 +135,7 @@ First, and in general, the exact geometric similarity was assumed wherever avail
 
 ---
 
-### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^8ecc9c5a]. Nature Communications (2025). High credibility.
+### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^114ehyA1]. Nature Communications (2025). High credibility.
 
 Results
 
@@ -149,13 +149,13 @@ The maximum temperature difference of the thermoelectric cooler is expressed by 
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^dda85ed8]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^116fcpQF]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Left atrial (LA) volume — Two-dimensional LA images should be independently obtained and optimized; maximum volume at end-systole is identified, A4C and A2C endocardial borders are traced excluding atrial appendage and pulmonary veins, LA length is measured in both views from the center of the mitral annulus to the inner edge of the furthest traced superior wall, the long-axis lengths should be within 5 mm of each other (otherwise the apical images should be reevaluated), and most systems calculate biplane volume using area-length and biplane disk summation where the shorter length is used for area-length and the longer length for method of disks, which is the preferred method, with laboratories advised to consistently use the same technique.
 
 ---
 
-### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^a4c9208e]. Magnetic Resonance in Medicine (2026). Medium credibility.
+### Exact, time-dependent analytical equations for spiral trajectories and matching gradient and density-correction waveforms [^115DJXVP]. Magnetic Resonance in Medicine (2026). Medium credibility.
 
 2.7 Moment nulling trapezoids
 
@@ -176,14 +176,14 @@ Iterating these 3 steps converges on a solution quickly. One can modify this app
 
 ---
 
-### A bioinspired multilegged soft millirobot that functions in both dry and wet conditions [^4a199c93]. Nature Communications (2018). Medium credibility.
+### A bioinspired multilegged soft millirobot that functions in both dry and wet conditions [^112trgot]. Nature Communications (2018). Medium credibility.
 
 Fig. 4
 Demonstration of robot locomotion at harsh environment. a Locomotion on wet surface with liquid film. The robot can move with an average speed of 0.5 mm/s on wet surface under a drive frequency of 1 Hz owing to its small contact area to underlying substrate and hydrophobic tapered feet. b Robot locomotion with a loading 100 times of its own weight. In this condition, the robot can move 8 mm in 45 s. c Cross a steep obstacle with height ∼10 times higher of its own leg. The robot's posture can be easily adjusted to climb obstacles as a result of the discontinuous flap-wave mode and continuous inverted-pendulum motion locomotion mode. d Comparison of the normalized speed between the soft robot and other animals. A dimensionless number V l, i.e. the locomotion distance in one second relative to the lower limb (leg or foot) length, is defined to quantify the locomotion efficiency of various living organisms. The maximum velocities of human and cheetah are 10.4 m/s and 33.3 m/s, respectively, corresponding to V l 7.4 and 33.3, respectively. In contrast, the soft robot can easily reach the maximum speed of human and cheetah at a swing frequency 3 Hz and 13 Hz, respectively. e Demonstration of drug transport in a stomach model under wet environment. The complex stomach internal structure is 1.5–6.8 mm in depth and 2.4–6.2 mm in width (2–10 orders of magnitude lager than the leg length). The robot can move 32 mm in 50 s at such a harsh in vivo simulated environment, meanwhile carrying a medical tablet (~91.4 mg) that is twice heavier than itself
 
 ---
 
-### Mechanical dyssynchrony precedes QRS widening in ATP-sensitive K ⁺ channel-deficient dilated cardiomyopathy [^38c1408b]. Journal of the American Heart Association (2013). Low credibility.
+### Mechanical dyssynchrony precedes QRS widening in ATP-sensitive K ⁺ channel-deficient dilated cardiomyopathy [^112T9Ddt]. Journal of the American Heart Association (2013). Low credibility.
 
 Deconvolution of Mechanical Dyssynchrony
 
@@ -191,13 +191,13 @@ To dissect wall motion pathodynamics, high‐resolution speckle‐tracking echoc
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^6517cbfd]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^113ask4c]. Annals of the American Thoracic Society (2023). High credibility.
 
 Basic stereological measurements — first-order parameters and probes identify that "First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D])". Measurements "are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D)". These probes create countable events in the image, and "Raw counts provide ratios… that are multiplied by the reference space volume to obtain absolute measures for the lung or subcompartment".
 
 ---
 
-### A non-spatial account of place and grid cells based on clustering models of concept learning [^7c3febb5]. Nature Communications (2019). High credibility.
+### A non-spatial account of place and grid cells based on clustering models of concept learning [^114BCwDn]. Nature Communications (2019). High credibility.
 
 Due to the asymmetrical shape of the trapezoid environment, the procedure for generating a movement trajectory above leads to a slightly biased sampling of the wide part of the trapezoid, and less exploration of the middle and top parts of the shape. To deal with this, we made a slight change to the possible steps after generating a step that brings the agent out of the environment, described below. For each trial, the step was generated as before. If the generated step was out of the environment, the step was cancelled, and the next step was determined as follows. If the step generated would have brought the agent out of the bottom of the trapezoid, the next step was sampled from [0, 0, 1, 1] (stay or up). If the step brings the agent out to the top, the next step was sampled from [−1, −1, 0, 0] (down or stay). When the step takes the agent out of the left of the trapezoid, then the next step to be sampled on the horizontal axis were [0, 1, 1, 2, 4], towards the inner portion of the environment. If the step took the agent out of the right side of the trapezoid, the next step was generated as before, from [−4, −2, −1, −1, 0, 1, 1, 2, 4]. This is because when the agent is out of the trapezoid on the horizontal (left-right) axis, the agent could still be in the middle of the shape on the vertical axis, since the shape becomes more narrow as it reaches the right. Finally, when it lands exactly in the middle of the horizontal axis, but is out of the shape (on the horizontal axis), the next step to be sampled from on the vertical axis is [−1, 0, 1].
 
@@ -207,7 +207,7 @@ Further information on research design is available in the Nature Research Repor
 
 ---
 
-### High performance magnesium-based plastic semiconductors for flexible thermoelectrics [^91d5d607]. Nature Communications (2024). High credibility.
+### High performance magnesium-based plastic semiconductors for flexible thermoelectrics [^114jD2iz]. Nature Communications (2024). High credibility.
 
 Fig. 4
 The in-plane and out-of-plane TE modules of Mg 3 Sb 2- x Bi x.
@@ -218,7 +218,7 @@ The in-plane TE module consists of nine n-type Mg 3 Sb 0.5 Bi 1.498 Te 0.002 leg
 
 ---
 
-### Diagnosis and management of Barrett esophagus: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^579dc464]. Endoscopy (2023). High credibility.
+### Diagnosis and management of Barrett esophagus: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^113Etv51]. Endoscopy (2023). High credibility.
 
 Regarding follow-up and surveillance for Barrett's esophagus, more specifically with respect to surveillance endoscopy, intervals, ESGE 2023 guidelines recommend to consider using varying surveillance intervals for different BE lengths:
 
@@ -231,13 +231,13 @@ Regarding follow-up and surveillance for Barrett's esophagus, more specifically 
 
 ---
 
-### AIUM practice parameter for the performance of detailed diagnostic obstetric ultrasound examinations between 12 Weeks 0 Days and 13 Weeks 6 Days [^cd3ffc0d]. Journal of Ultrasound in Medicine (2021). High credibility.
+### AIUM practice parameter for the performance of detailed diagnostic obstetric ultrasound examinations between 12 Weeks 0 Days and 13 Weeks 6 Days [^116FHxHr]. Journal of Ultrasound in Medicine (2021). High credibility.
 
 Method of measuring CRL between 12 Weeks 0 Days and 13 Weeks 6 Days — key technique steps: "Fetus fills at least two-thirds of the image space available", and "The long axis of the fetus should be perpendicular to the ultrasound beam". The fetus "should be in the midsagittal position with the profile, spine, and rump visible. The entire CRL should be visible". It "should be in a neutral position with fluid between the chin and anterior neck. The fetus should not be hyperextended (the angle between the chin and anterior neck should not be > 90°)". Calipers: "The caliper crossbars should be placed on the outer border of the skin on the fetal head and rump. The caudal caliper should not be on the distal spine or posterior thigh or include the limbs". Measurement and reporting: "The maximum length of the fetus from the cranial to caudal calipers should be measured in a straight line, parallel to the long axis of the fetus", and "The numeric value is reported as the mean of 3 acceptable measurements".
 
 ---
 
-### A non-spatial account of place and grid cells based on clustering models of concept learning [^59af4302]. Nature Communications (2019). High credibility.
+### A non-spatial account of place and grid cells based on clustering models of concept learning [^113HxmTP]. Nature Communications (2019). High credibility.
 
 Gridness in trapezoid environments
 
@@ -247,7 +247,7 @@ In order to test whether the asymmetric boundaries of the trapezoid affected gri
 
 ---
 
-### Long-term passive leg stretch improves systemic vascular responsiveness as much as single-leg exercise training [^ce047d09]. Medicine and Science in Sports and Exercise (2022). Medium credibility.
+### Long-term passive leg stretch improves systemic vascular responsiveness as much as single-leg exercise training [^116GRxVe]. Medicine and Science in Sports and Exercise (2022). Medium credibility.
 
 Single passive limb movement
 
@@ -261,7 +261,7 @@ Before the sPLM, the systolic and diastolic arterial pressure was measured at re
 
 ---
 
-### Area available for atrial fibrillation to propagate is an important determinant of recurrence after ablation [^6a58f173]. JACC: Clinical Electrophysiology (2021). Medium credibility.
+### Area available for atrial fibrillation to propagate is an important determinant of recurrence after ablation [^113ifZdC]. JACC: Clinical Electrophysiology (2021). Medium credibility.
 
 Objectives
 
@@ -285,19 +285,19 @@ This data provides mechanistic insights into AF recurrence, suggesting that post
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^7e0b2d1d]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^114DsCEp]. Annals of the American Thoracic Society (2023). High credibility.
 
 Basic stereological measurements for lung imaging — first-order parameters, probes, and reference space are specified. First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D]). Measurements are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D), with probe–voxel interactions generating countable events; raw counts yield ratios that are multiplied by the reference space volume to obtain absolute lung or subcompartment measures. It is crucial to define and measure a biologically meaningful reference space for analysis and reporting, because measurements expressed only as ratios are subject to "the reference trap", where changes can arise from the numerator, denominator, or both; an efficient volume measurement method, point counting, is used for acinar components by micro-CT and for extrapulmonary organ volume by CT.
 
 ---
 
-### Recommendations for quantification methods during the performance of a pediatric echocardiogram: a report from the pediatric measurements writing group of the American Society of Echocardiography pediatric and congenital heart disease council [^75701799]. Journal of the American Society of Echocardiography (2010). Medium credibility.
+### Recommendations for quantification methods during the performance of a pediatric echocardiogram: a report from the pediatric measurements writing group of the American Society of Echocardiography pediatric and congenital heart disease council [^11417Chn]. Journal of the American Society of Echocardiography (2010). Medium credibility.
 
 Pediatric quantification protocols — pulmonary veins, systemic veins, and atria — advise that the pulmonary veins are usually best evaluated in a high left parasternal or suprasternal short‑axis view ("crab" view) and that the left atrial (LA) appendage should not be mistakenly identified as the left upper pulmonary vein and the right middle pulmonary vein should not be mistakenly identified as the right upper pulmonary vein; subxiphoid short‑axis or right parasternal views are usually better at displaying the right upper pulmonary vein. The superior vena cava is not routinely measured in clinical practice, and normative data have not been established, whereas inferior vena cava (IVC) size can be measured above its junction with the hepatic veins just below the diaphragm in subxiphoid short‑axis views (displaying the IVC long axis), and this may help assess hydration status. The IVC diameter varies with respiration, and the collapsibility index (the percentage decrease in IVC diameter with inspiration) appears to correlate with right atrial (RA) pressures in adults, but neither the IVC diameter nor the collapsibility index appears to correlate with age or BSA in adult patients, and the utility of the collapsibility index in children has not been evaluated. Left atrial size can be assessed by M‑mode and 2D measurements of the distance from the posterior aortic wall to the posterior LA wall, though this anteroposterior distance correlates poorly with angiographically derived LA volumes; recent recommendations involve calculation of LA volumes from apical views at end‑systole just before the MV opens using major‑axis and minor‑axis dimensions and planimetered areas in orthogonal views. Among LA volume calculations, the biplane area‑length and the biplane Simpson (summation of disks) methods using apical 4‑chamber and 2‑chamber views appear to provide the most consistent results with published reference values for normal adults; the biplane area‑length method has also been used in children, and LA volumes indexed to BSA appear to correlate with diastolic function and mitral regurgitation grade. Real‑time three‑dimensional echocardiography with a rotation/polyhedral‑based algorithm has correlated well with LA volumes measured by magnetic resonance imaging, and right atrial size is usually assessed in an apical 4‑chamber view at end‑systole just before the TV opens.
 
 ---
 
-### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^4fae72db]. Nature Communications (2024). High credibility.
+### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^11338coC]. Nature Communications (2024). High credibility.
 
 Through simple geometric calculations, the azimuth and elevation angles of a hidden scene point can be estimated from the slope and height of the illuminated right trapezoidal region of the observation. However, spatially extended hidden scenes do not create sharp shadows. They instead produce a superposition thereof, that is dependent on the geometry of the scene from the vantage of the observed ceiling portion, appearing as a region of highly informative penumbra(see Fig. 2 a for an example photograph of penumbra). The penumbra region encodes information about the geometry of the hidden scene from the perspective of the ceiling, along two dimensions (i.e. in azimuth and elevation angles). Efficiently extracting this information for reconstructing a general spatially extended scene is achievable through a computational algorithm presented later on.
 
@@ -308,7 +308,7 @@ a Measured penumbra photograph. b A linear inverse problem (LIP) is solved, per 
 
 ---
 
-### The force-velocity profile for jumping: what It is and what It is not [^4e662000]. Medicine and Science in Sports and Exercise (2023). Medium credibility.
+### The force-velocity profile for jumping: what It is and what It is not [^1131ELY7]. Medicine and Science in Sports and Exercise (2023). Medium credibility.
 
 Model C: four segments actuated by six Hill-type muscle–tendon complexes
 
@@ -321,7 +321,7 @@ RESULTS
 
 ---
 
-### Simultaneous multiple resonance frequency imaging (SMURF): fat-water imaging using multi-band principles [^15ac8589]. Magnetic Resonance in Medicine (2021). Medium credibility.
+### Simultaneous multiple resonance frequency imaging (SMURF): fat-water imaging using multi-band principles [^111Z8gun]. Magnetic Resonance in Medicine (2021). Medium credibility.
 
 2.1 SMURF excitation
 
@@ -340,13 +340,13 @@ do not impair the desired spectral excitation profile. To allow the longest T z 
 
 ---
 
-### Standards of care in diabetes – 2025 [^31be65a6]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^112GkM3T]. Diabetes Care (2025). High credibility.
 
 Regarding diagnostic investigations for hypoglycemia, more specifically with respect to screening for cognitive impairment, ADA 2025 guidelines recommend to simplify diabetes treatment plans as much as possible for patients with cognitive impairment and tailor to minimize the risk of hypoglycemia.
 
 ---
 
-### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^6dfd927e]. Nature Communications (2025). High credibility.
+### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^113p4phj]. Nature Communications (2025). High credibility.
 
 Experimentally, a Mg 2 Ni layer was fabricated on Mg 3 Bi 2- x Sb x through a sintering process, followed by the deposition of a Cu thin film onto the Mg 2 Ni layer using the sputtering technique, i.e. Mg 3.2 Bi 1.497 Sb 0.5 Te 0.003 /Mg 2 Ni/Cu film. The contact layer structure is shown in Fig. 2a. The impact of contact layer thickness on the cooling performance has been investigated through finite element simulations. The results indicate that a thinner contact layer favors the optimal leg cross-sectional ratio between the n-type and p-type thermoelectric legs (A n / A p) approaching unity (Fig. 2b). This not only benefits the processing of the thermoelectric legs but also contributes to obtaining a higher cooling power density. On the other hand, based on the optimal leg cross-sectional area ratio, the disparities in Δ T max due to different contact layer designs are compared in Fig. 2c. As the leg length decreases, a thinner contact layer can result in an improved Δ T max, and a similar trend is also reflected in maximum cooling power (Supplementary Fig. 3). Considering the significant impact of contact layer thickness on the performance of miniaturized coolers, sputtering is employed to fabricate the metallization layer.
 
@@ -357,25 +357,25 @@ a Schematic view of the leg structure, including pre-circuited AlN ceramic plate
 
 ---
 
-### Elacestrant (Orserdu) [^25e5bc7d]. FDA (2024). Medium credibility.
+### Elacestrant (Orserdu) [^111yBi3v]. FDA (2024). Medium credibility.
 
 The dosage of elacestrant PO for treatment of breast cancer in postmenopausal female adults with ESR1 mutation (advanced or metastatic, ER-positive, HER2-negative, progression after ≥ 1 line of endocrine therapy) is 345 mg PO daily until disease progression or unacceptable toxicity
 
 ---
 
-### Retrospective measurement of different size parameters of non-radiated rectal cancer on MR images and pathology slides and their comparison [^b0df7a62]. European Radiology (2003). Low credibility.
+### Retrospective measurement of different size parameters of non-radiated rectal cancer on MR images and pathology slides and their comparison [^115XDtJV]. European Radiology (2003). Low credibility.
 
 There are no non-invasive methods to assess the real tumor size in rectal cancer prior to surgery, especially following radio/chemotherapy. Magnetic resonance imaging is gaining increasing acceptance as the primary modality at many centers for evaluation of pelvic malignancies including rectal cancers. The aim of this study was to evaluate if the tumor size as assessed by stereological or metric means on MRI correlates to the corresponding pathologic findings. To our knowledge, no such previous work has been reported in the literature. From the Cancer Register Center, 18 patients in the age range of 39–90 years with rectal cancer who had complete preoperative MR with subsequent giant section pathological examinations of the resected bowel were included. The tumor size was measured on MR and histopathologic specimen using both a stereologic and a metric mode. The measured parameters included the maximum transverse area occupied by the tumor, thickness, width, and the length of tumor and the volume of the tumor measured in two different fashions by the product of area and length (al) or the product of thickness, width, and length (twl). The depth of tumor infiltration (T) and presence of local lymph node metastases (N) were also separately evaluated on the histopathologic specimen. There were 1, 4, 12, and 1 patients with tumor stages T1, T2, T3, and T4, respectively. The mean thickness, width, length, area, and volumes, al and twl, were 1.62, 2.8, and 4.78 cm, and 4.72 cm2, 26.29 cm3, and 20.07 cm3, respectively. Regression curves were drawn for above-mentioned parameters. They showed some correlation with square correlation coefficient measuring between 0.38 and 0.82. The best correlation was seen for area (0.75) and volume measured by the product of area and length of the tumor (0.82). With the formula proposed from this material, we assume that rectal tumors can be measured on MR images using a metric model, especially area and the volume (the product of area and length), and then extrapolated to what we would expect from pathology, hence providing us with a tool where we could measure tumor response after neoadjuvant therapy.
 
 ---
 
-### Halobetasol propionate [^a8fb7e2a]. FDA (2024). Medium credibility.
+### Halobetasol propionate [^115KXPpV]. FDA (2024). Medium credibility.
 
 The dosage of halobetasol propionate TOP for treatment of plaque psoriasis in adults is 1 thin layer TOP BID for up to 2 weeks (0.05% foam)
 
 ---
 
-### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^59a50398]. Nature Communications (2025). High credibility.
+### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^113HuKpB]. Nature Communications (2025). High credibility.
 
 Discussion
 
@@ -383,13 +383,13 @@ To sum up, we report the miniaturization of the Mg 3 Bi 2 -based thermoelectric 
 
 ---
 
-### 2024 American College of Rheumatology (ACR) guideline for the screening, treatment, and management of lupus nephritis [^676d755a]. Arthritis Care & Research (2025). High credibility.
+### 2024 American College of Rheumatology (ACR) guideline for the screening, treatment, and management of lupus nephritis [^113eLVSy]. Arthritis Care & Research (2025). High credibility.
 
 Regarding diagnostic investigations for lupus nephritis, more specifically with respect to initial evaluation, ACR 2025 guidelines recommend to obtain a thorough evaluation to exclude alternative etiologies of kidney dysfunction in patients with SLE, including non-inflammatory causes such as hypertensive, diabetic, and medication-induced nephropathy.
 
 ---
 
-### Clobetasol propionate (Clobex) [^896f1644]. FDA (2024). Medium credibility.
+### Clobetasol propionate (Clobex) [^114Wkcks]. FDA (2024). Medium credibility.
 
 The dosage of clobetasol propionate TOP for treatment of plaque psoriasis in adults (mild-to-moderate) is:
 
@@ -398,19 +398,19 @@ The dosage of clobetasol propionate TOP for treatment of plaque psoriasis in adu
 
 ---
 
-### 2018 ESC guidelines for the diagnosis and management of syncope [^d327125d]. European Heart Journal (2018). Medium credibility.
+### 2018 ESC guidelines for the diagnosis and management of syncope [^116Q3We8]. European Heart Journal (2018). Medium credibility.
 
 Regarding screening and diagnosis for syncope, more specifically with respect to diagnostic criteria (situational syncope), ESC 2018 guidelines recommend to suspect situational reflex syncope with high probability in patients with syncope occurring during or immediately after specific triggers.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^79b1194c]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^1147QzGB]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic assessment of right atrial (RA) size — volume by 2D describes that "2D volumetric measurements are usually based on tracings of the blood-tissue interface on the apical four-chamber view" and that "At the tricuspid valve level, the contour is closed by connecting the two opposite sections of the tricuspid ring with a straight line". It adds, "Volumes can be computed by using either the single plane area-length" or "the disks summation technique", performed in a "2D view". The listed advantage is "More representative of actual RA size than linear dimensions", while limitations include "Assumes a symmetrical shape of the cavity", "Single plane volume calculation may be inaccurate since it assumes that RA enlargement is symmetrical", and "Normal values not well established".
 
 ---
 
-### Age-and step-length-dependent alterations in muscle synergies and joint coordination during unexpected gait termination [^2e7053dc]. BMC Geriatrics (2025). Medium credibility.
+### Age-and step-length-dependent alterations in muscle synergies and joint coordination during unexpected gait termination [^112BrAHH]. BMC Geriatrics (2025). Medium credibility.
 
 CoP & com metrics
 
@@ -450,7 +450,7 @@ For each joint-pair moment (ankle–knee, knee–hip, ankle–hip), FWHM was def
 
 ---
 
-### Polyply; a python suite for facilitating simulations of macromolecules and nanomaterials [^a4f86113]. Nature Communications (2022). High credibility.
+### Polyply; a python suite for facilitating simulations of macromolecules and nanomaterials [^115DaQ2v]. Nature Communications (2022). High credibility.
 
 Step 4: Constrained random walk
 
@@ -460,13 +460,13 @@ This grid can either be user-specified or is considered to be rectangular across
 
 ---
 
-### The anatomic rationale for transforaminal endoscopic interbody fusion: a cadaveric analysis [^ee8a102f]. Neurosurgical Focus (2016). Low credibility.
+### The anatomic rationale for transforaminal endoscopic interbody fusion: a cadaveric analysis [^1176eRkz]. Neurosurgical Focus (2016). Low credibility.
 
 OBJECTIVE The authors describe a cadaveric analysis to determine the ideal dimensions and trajectory for considering endoscopic transforaminal interbody implantation. METHODS The soft tissues of 8 human cadavers were removed from L-1 to the sacrum, exposing the posterior bony elements. Facetectomies were performed bilaterally at each lumbar level with resection of the pars interarticularis, revealing the pedicles, nerve roots, and interbody disc space. Each level was digitally photographed with a marker for scale and evaluated with digital analysis software. The traversing and exiting nerve roots and pedicle margins were identified, and the distances between these structures and their relationships to the surrounding structures were documented. RESULTS The dimensions of 2 areas were measured: the working triangle and safe zone. The working triangle is the triangle between the exiting and traversing nerve roots above the superior margin of the inferior pedicle. The safe zone is the trapezoid bounded by the widths of the superior and inferior pedicles between the exiting and traversing nerve roots. The mean surface area for the working triangle was 1.83 cm(2), with L5-S1 having the largest area at 2.19 cm(2). The mean surface area of the safe zone was 1.19 cm(2), with L5-S1 having the largest area at 1.26 cm(2). At the medial border of the pedicle extending superiorly, there were no nerve structures within 1.19 cm at any level. On the lateral border of the pedicle, the exiting nerve root was closer superiorly, with the closest being 0.3 cm. CONCLUSIONS The working triangle is a relatively large area. The safe zone, just superior to the pedicle, is free of nerve structures. By utilizing the superior border of the pedicle, the disc space can be accessed within this safe zone without risk of injury to the nerves. A thorough understanding of foraminal anatomy is fundamental for considering how to safely access the disc space, thereby utilizing less invasive endoscopic techniques, and is an important first step in considering what shapes and sizes of interbody implants and retractors are feasible for use in the foramen.
 
 ---
 
-### Prostate volume contouring: a 3D analysis of segmentation using 3DTRUS, CT, and MR [^7bb80e4d]. International Journal of Radiation Oncology, Biology, Physics (2007). Low credibility.
+### Prostate volume contouring: a 3D analysis of segmentation using 3DTRUS, CT, and MR [^114ARJMr]. International Journal of Radiation Oncology, Biology, Physics (2007). Low credibility.
 
 Purpose
 
@@ -486,37 +486,37 @@ The contouring of prostates on CT, MR, and 3DTRUS results in systematic differen
 
 ---
 
-### Standards of care in diabetes – 2025 [^1f4eb314]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111oR3vj]. Diabetes Care (2025). High credibility.
 
 Regarding diagnostic investigations for diabetes mellitus type 1, more specifically with respect to assessment for hyperglycemic crises, ADA 2025 guidelines recommend to provide structured education on the recognition, prevention, and management of hyperglycemic crisis to patients with T2DM having experienced these events and patients at high risk for these events.
 
 ---
 
-### Colorectal cancer screening and prevention [^c270f773]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^115yGYSN]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, AAFP 2025 guidelines recommend to consider obtaining screening for CRC in adults aged 76–85 years at average risk based on overall health status, prior screening history, and patient preferences.
 
 ---
 
-### Half-heusler alloys as emerging high power density thermoelectric cooling materials [^a8ac7e9c]. Nature Communications (2023). High credibility.
+### Half-heusler alloys as emerging high power density thermoelectric cooling materials [^115K4rou]. Nature Communications (2023). High credibility.
 
 Benefiting from the ultra-high PF and the decent z value near room temperature, Nb 0.55 Ta 0.40 Ti 0.05 FeSb exhibits enhanced performance compared to that of Bi 2 Te 3 -based TE materials in terms of low Δ T heat pumping. The YbAl 3 alloy with an extremely high PF of ~110 µW cm −1 K − 2 at room temperature (Fig. S 9), which is compatible with p-type Nb 0.55 Ta 0.40 Ti 0.05 FeSb, was used as the n-type counterpart to construct the uni-couple cooling device (hH-YbAl 3). Figure 4b shows the simulated cooling performance of hH-YbAl 3 device. Considering the extremely high electrical and thermal conductivity of YbAl 3, the cross-section of the YbAl 3 leg should be four times smaller than that of p-type hH to optimize the performance of the device, which makes the construction and measurement of the device extremely difficult. Thus, the cross-section ratio (A p /A n) was reduced to 1.4, leading to slightly lower performance than that of the device with optimized geometry. The measuredof the hH-YbAl 3 device at Δ T of 5 K was found to be 3.6 W cm −2 (with a leg length of 7.7 mm), which is twice that of the Bi 2 Te 3 -based device, 1.7 W cm −2, with the same leg length and Δ T (Fig. 4b, c and Fig. S 10). The maximum cooling power density of the hH-YbAl 3 device remains competitive with that of Bi 2 Te 3 -based devices up to Δ T of 20 K. Improved n-type material would be able to provide even higher performance at high Δ T. For example, a hypothetical device made using both legs with similar properties to Nb 0.55 Ta 0.40 Ti 0.05 FeSb (which has a negative Seebeck coefficient for the n-type leg) would result in a higher cooling capacity across a wider Δ T range of 46 K (Fig. 4b).
 
 ---
 
-### Colorectal cancer screening and prevention [^390b568a]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^112Ta6ws]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, AAFP 2025 guidelines recommend to obtain CRC screening in patients with ≥ 1 first-degree relatives with CRC or adenomatous polyps, starting at 40 years of age or 10 years before the age of the youngest relative at the time of their diagnosis.
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^194fdbe5]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^111eXWpk]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Left atrial (LA) volume quantification by echocardiography is described using two-dimensional echocardiography (2DE) and three-dimensional (3D) approaches, with 2D volumetric measurements based on tracings from apical four- and two-chamber views; at the mitral valve level the contour is closed by a straight line, endocardial tracing excludes the atrial appendage and pulmonary veins, LA length L is the shortest long axis from apical two- and four-chamber views, and the two lengths should not differ more than 5 mm; volumes can be computed by an area-length approximation or by a disk summation technique, and 3D data sets are usually acquired from the apical approach using a multibeat full-volume acquisition. For the 2DE area-length technique, advantages include accurate assessment of asymmetric remodeling of the left atrium and being a more robust predictor of cardiovascular events than linear or area measurements, whereas limitations include geometric assumptions about LA shape, few accumulated data on normal population, and that single plane volume calculations are inaccurate because they assume A1 = A2. For 3D data sets, advantages are no geometrical assumption about LA shape and greater accuracy compared with 2D measurements, while limitations include dependence on adequate image quality, lower temporal resolution, limited data on normal values, and that patient's cooperation is required.
 
 ---
 
-### Hypromellose 2906 (4000 mpa.s) (goniotaire) [^6ffaafe0]. FDA (2022). Medium credibility.
+### Hypromellose 2906 (4000 mpa.s) (goniotaire) [^113s1q4K]. FDA (2022). Medium credibility.
 
 Active:
 
@@ -524,7 +524,7 @@ Hypromellose 25mg (2.5%):
 
 ---
 
-### Restoration of the tibial ACL footprint area and geometry using the modified insertion site table [^fb317262]. Knee Surgery, Sports Traumatology, Arthroscopy (2012). Low credibility.
+### Restoration of the tibial ACL footprint area and geometry using the modified insertion site table [^117RQW33]. Knee Surgery, Sports Traumatology, Arthroscopy (2012). Low credibility.
 
 Purpose
 
@@ -544,7 +544,7 @@ Anatomical footprint restoration requires assessment of the length, width, and t
 
 ---
 
-### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^9cd4cd29]. Nature Communications (2024). High credibility.
+### Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera [^1151WYfi]. Nature Communications (2024). High credibility.
 
 In addition, variations in the range or radiosity of the object have no impact on the obstructed non-illuminated portion of the observation; it only affects the brightness of the illuminated portion. An overall brightness change in the illuminated portion of the observation plane, with no change to the slope and height of the right trapezoidal region, is explainable by a corresponding change in the range and/or radiosity of the hidden scene point. This suggests that, although highly coupled themselves, the radiosity and range parameters have no coupling with the pair of angular parameters. Thus, errors in range or radiosity have a negligible impact on the angular estimates. No convenient (re-)parameterisations exist that make the range and radiosity parameters similarly information orthogonal. However, we alleviate the effect of their coupling through a two-step computation that first estimates the radiosities and scene shape (2D angular) components while assuming that the entire scene is confined to a fixed range, and subsequently computes ranges of the recovered hidden scene objects. Central to this approach is the assumption that neighbouring clusters of surface elements belong to the same object and thus have approximately equal ranges. This results in the significantly more feasible problem of recovering a single range for clusters of estimated surface elements, in place of the possibly intractable one that estimates a range per recovered surface element.
 
@@ -552,19 +552,19 @@ The existence of information orthogonality among the range, azimuth, and project
 
 ---
 
-### Roflumilast (Zoryve) [^e2de6cd7]. FDA (2024). Medium credibility.
+### Roflumilast (Zoryve) [^116oLut2]. FDA (2024). Medium credibility.
 
 The dosage of roflumilast TOP for treatment of plaque psoriasis in adults is 1 application(s) TOP daily (0.3% cream or foam)
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^230fe03b]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^111tyu9k]. European Heart Journal (2025). High credibility.
 
 Regarding specific circumstances for acute pericarditis, more specifically with respect to patients with post-cardiac injury syndromes, ESC 2025 guidelines recommend to initiate IL-1 antagonists in patients with refractory post-cardiotomy inflammatory syndrome to prevent recurrences and progression to constriction.
 
 ---
 
-### The effect of muscles in the treatment of lower limb lymphedema: respiratory muscles or leg muscles? [^764880aa]. Supportive Care in Cancer (2025). Medium credibility.
+### The effect of muscles in the treatment of lower limb lymphedema: respiratory muscles or leg muscles? [^1142Mtid]. Supportive Care in Cancer (2025). Medium credibility.
 
 Outcome measurements
 
@@ -572,13 +572,13 @@ Participants'demographic and disease information (age, gender, height, body weig
 
 ---
 
-### Sodium bicarbonate [^cce80997]. FDA. Low credibility.
+### Sodium bicarbonate [^116EnQwg]. FDA. Low credibility.
 
 Warning or precaution regarding the use of sodium bicarbonate PO and fluid retention: use caution in patients with hypertension or conditions that predispose them to fluid retention.
 
 ---
 
-### Prediction of spontaneous ureteral stone passage: automated 3D-measurements perform equal to radiologists, and linear measurements equal to volumetric [^58acc504]. European Radiology (2018). Low credibility.
+### Prediction of spontaneous ureteral stone passage: automated 3D-measurements perform equal to radiologists, and linear measurements equal to volumetric [^113GTwd5]. European Radiology (2018). Low credibility.
 
 (aut) = Automated 3D segmentation based measurement. (manual) = Mean of three readers manual estimations of stone size
 
@@ -601,26 +601,26 @@ Impact of inter-reader variability on the predicted outcome of ureteral stones
 
 ---
 
-### Guidelines for performing a comprehensive pediatric transthoracic echocardiogram: recommendations from the American Society of Echocardiography [^8ec10f9f]. Journal of the American Society of Echocardiography (2024). High credibility.
+### Guidelines for performing a comprehensive pediatric transthoracic echocardiogram: recommendations from the American Society of Echocardiography [^114ee69c]. Journal of the American Society of Echocardiography (2024). High credibility.
 
 Pediatric transthoracic echocardiography — area and length-based LV measurements include end-diastolic area (EDA) obtained in 2DE: parasternal short-axis or subcostal sagittal (short-axis) view at maximum area at end-diastole for LV size; EDA is used for LV volume and mass calculation and is appropriate for abnormal LV shape but depends on good blood-endocardium border. End-systolic area (ESA) uses minimum area at end-systole and is used for LV volume calculation and is appropriate for abnormal LV shape. End-diastolic length (EDL) uses 2DE: apical four-chamber or subcostal coronal (long-axis) view and is measured just after MV closure at end-diastole; it is used for LV volume and mass calculation and is appropriate for abnormal LV shape, but depends on good blood-endocardium border, especially at apex, and foreshortening can limit accuracy.
 
 ---
 
-### 2023 ESC guidelines for the management of cardiovascular disease in patients with diabetes [^24784e3d]. European Heart Journal (2023). High credibility.
+### 2023 ESC guidelines for the management of cardiovascular disease in patients with diabetes [^111w4xtU]. European Heart Journal (2023). High credibility.
 
 Regarding medical management for diabetes mellitus type 2, more specifically with respect to prevention of CVD, glucose-lowering medications, ESC 2023 guidelines recommend to consider initiating metformin to reduce cardiovascular risk in patients with T2DM without ASCVD or severe target-organ damage at low, moderate,
 high, or very high risk.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the management of LUPUS NEPHRITIS [^e4483443]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the management of LUPUS NEPHRITIS [^116qSRuL]. Kidney International (2024). High credibility.
 
 Steroid-sensitive nephrotic syndrome in children (first episode) — glucocorticoid duration comparisons include 1-month versus 2-month, 12-month versus 5-month, and 5- or 6-month (4–6 months in 1 study) versus 3-month courses; dosing strategy comparisons include weight-based prednisolone 1.5 mg/kg [maximum 40 mg] versus body surface area–based prednisolone 40 mg/m2.
 
 ---
 
-### Endoscopic management of Barrett's esophagus: European Society of Gastrointestinal Endoscopy (ESGE) position statement [^c63a7687]. Endoscopy (2017). Medium credibility.
+### Endoscopic management of Barrett's esophagus: European Society of Gastrointestinal Endoscopy (ESGE) position statement [^1164tBkS]. Endoscopy (2017). Medium credibility.
 
 Regarding screening and diagnosis for esophageal cancer, more specifically with respect to indications for screening, Barrett's esophagus, general principles, ESGE 2017 guidelines recommend to stratify surveillance intervals for nondysplastic Barrett's esophagus according to the length of the Barrett's segment:
 
@@ -632,7 +632,7 @@ Regarding screening and diagnosis for esophageal cancer, more specifically with 
 
 ---
 
-### Filgrastim-txid (Nypozi) [^3c3c8e7c]. FDA (2024). Medium credibility.
+### Filgrastim-txid (Nypozi) [^112YJbeT]. FDA (2024). Medium credibility.
 
 G Check the syringe for an air bubble. Point the needle up and gently tap the syringe with your fingers until the air bubble rises to the top of the syringe.
 
@@ -653,19 +653,19 @@ K Using slow and constant pressure, slowly press down on the plunger rod as far 
 
 ---
 
-### 2021 ESC / EACTS guidelines for the management of valvular heart disease [^95148bb1]. European Heart Journal (2022). High credibility.
+### 2021 ESC / EACTS guidelines for the management of valvular heart disease [^114p24Fa]. European Heart Journal (2022). High credibility.
 
 Regarding surgical interventions for tricuspid regurgitation, more specifically with respect to indications for surgery, symptomatic patients, EACTS/ESC 2022 guidelines recommend to consider performing surgery in patients with mild or moderate secondary TR with annular dilation (≥ 40 mm or > 21 mm/m² by 2D echocardiography) undergoing left-sided valve surgery.
 
 ---
 
-### Standards of care in diabetes – 2025 [^1e105a7e]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111ma83f]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with diabetes mellitus, pharmacotherapy, ADA 2025 guidelines recommend to include drug classes demonstrated to reduce cardiovascular events in patients with diabetes. Initiate ACEis or ARBs as first-line therapy for HTN in patients with diabetes and coronary artery disease.
 
 ---
 
-### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^11043f31]. Nature Communications (2025). High credibility.
+### Miniaturized MgBi-based thermoelectric cooler for localized electronic thermal management [^111SEDXW]. Nature Communications (2025). High credibility.
 
 The impact of substrate thermal resistance on the hot-side temperature is shown by Eq. (7), where Q h is the heat dissipation of the cooler, and T s is the heat sink temperature. The electrical contact resistance also affects the maximum cooling power, and Eq. (4) can be rewritten as,
 
@@ -673,19 +673,19 @@ Calculations on the performance of the Mg 3 Bi 2 -based cooler were conducted. B
 
 ---
 
-### Effective discipline to raise healthy children [^94ceab7c]. Pediatrics (2018). Medium credibility.
+### Effective discipline to raise healthy children [^114ocaxj]. Pediatrics (2018). Medium credibility.
 
 Cycle of corporal punishment and aggressive child behavior — Longitudinal cohort evidence linked spanking to later aggression and externalizing problems: the Fragile Families and Child Wellbeing Study was a population-based birth cohort of approximately 5000 children from 20 large US cities between 1998 and 2000 with data at birth and 1, 3, 5, and 9 years; children spanked more than twice per month at age 3 years were more aggressive at age 5, a follow-up at 9 years found correlations between spanking at age 5 and higher externalizing behavior and lower receptive vocabulary scores, and subsequent analyses concluded that increased frequency of spanking was associated with increased externalizing behaviors and more spanking in response, creating a complex negative spiral over time.
 
 ---
 
-### Evidence-based guidelines for the pharmacological treatment of schizophrenia: updated recommendations from the British Association for Psychopharmacology [^3462202c]. Journal of Psychopharmacology (2020). High credibility.
+### Evidence-based guidelines for the pharmacological treatment of schizophrenia: updated recommendations from the British Association for Psychopharmacology [^112LfKJB]. Journal of Psychopharmacology (2020). High credibility.
 
 Regarding diagnostic investigations for schizophrenia, more specifically with respect to initial assessment, BAP 2020 guidelines recommend to elicit a personal and family history of CVDs in all patients. Identify and modify risk factors for CVD/sudden death, including increased BMI, smoking, diabetes, elevated HR, BP, cholesterol, liver disease, and poor nutrition, recognizing that many of these factors may be exacerbated by antipsychotic medications.
 
 ---
 
-### Yoked surface codes [^9e0c45c6]. Nature Communications (2025). High credibility.
+### Yoked surface codes [^1153KAcd]. Nature Communications (2025). High credibility.
 
 Yoked surface code patches change the length and number of shortest error paths. In 1D yoked surface codes, shortest error paths correspond to two shortest error paths in different surface code patches. This doubles the code distance, but introduces quadratic scaling in r, the number of rounds between yoke checks. Furthermore, since a logical failure can occur over any two patches in the code, the number of shortest error paths also scales quadratically in n. Based on this, we expect the scaling of the 1D yoked logical error rate to be, where λ 1 denotes the increased error suppression factor obtained from doubling the code distance, which we would expect to be at most. Note that the quadratic scaling versus r is only for numbers of rounds up to the yoke check period. Shortest paths from patches in different check periods don't combine to form a shortest error path in the concatenated code (although they can form an effective measurement error). Consequently, we expect the scaling versus rounds to be quadratic up to the check period, and then linear afterwards.
 
@@ -695,7 +695,7 @@ We emphasize that these are simple path-counting heuristics, where we can empiri
 
 ---
 
-### Electrohydraulic musculoskeletal robotic leg for agile, adaptive, yet energy-efficient locomotion [^8f766a16]. Nature Communications (2024). High credibility.
+### Electrohydraulic musculoskeletal robotic leg for agile, adaptive, yet energy-efficient locomotion [^114fh1CR]. Nature Communications (2024). High credibility.
 
 Fig. 3
 The leg performs agile locomotion.
@@ -706,7 +706,7 @@ Given the short stance time, we were encouraged to explore the leg's capabilitie
 
 ---
 
-### Norvir [^cd1699c3]. FDA (2020). Medium credibility.
+### Norvir [^116F444r]. FDA (2020). Medium credibility.
 
 0.25 0.8 mL (62.5 mg) 0.9 mL (75 mg) 1.1 mL (87.5 mg) 1.25 mL (100 mg)
 
@@ -726,61 +726,61 @@ Body surface area (BSA) can be calculated as follows1:
 
 ---
 
-### Standards of care in diabetes – 2025 [^5c059b62]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^113MRkAD]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with diabetes mellitus, lifestyle modifications, ADA 2025 guidelines recommend to advise lifestyle interventions in patients with BP > 120/80 mmHg, consisting of weight loss when indicated, a DASH-style eating pattern (including reducing sodium and increasing potassium intake), moderation of alcohol intake, smoking cessation, and increased physical activity.
 
 ---
 
-### Identifying the barriers to quality [^b6369d1a]. The Journal of Clinical Psychiatry (2015). Low credibility.
+### Identifying the barriers to quality [^115f96FT]. The Journal of Clinical Psychiatry (2015). Low credibility.
 
 The Mental Health Quality Forum, a 2-meeting multidisciplinary panel, was held in March and June 2013 to identify problems and opportunities in the management of serious mental illness. In the first meeting, participants from a range of mental health care-related backgrounds identified components of quality care and the key issues that cause delivery of that care to be suboptimal.
 
 ---
 
-### Standards of care in diabetes – 2025 [^ed74d997]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^11753KD8]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for obesity, more specifically with respect to patients with diabetes mellitus, bariatric surgery, ADA 2025 guidelines recommend to evaluate patients being considered for metabolic surgery for comorbid psychological conditions and social and situational circumstances with the potential to interfere with surgery outcomes.
 
 ---
 
-### AGA clinical practice update on the management of ascites, volume overload, and hyponatremia in cirrhosis: expert review [^35bd9056]. Gastroenterology (2025). High credibility.
+### AGA clinical practice update on the management of ascites, volume overload, and hyponatremia in cirrhosis: expert review [^112Ng1wK]. Gastroenterology (2025). High credibility.
 
 Regarding therapeutic procedures for ascites, more specifically with respect to therapeutic paracentesis, AGA 2025 guidelines recommend to perform therapeutic paracentesis for refractory ascites, with the frequency guided by recurrence.
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^b050a21b]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^115WPuTg]. European Heart Journal (2025). High credibility.
 
 Regarding nonpharmacologic interventions for myocarditis, more specifically with respect to physical activity restrictions, ESC 2025 guidelines recommend to restrict physical exercise until remission for at least 1 month in athletes and non-athletes after inflammatory myopericardial syndrome, using an individualized approach to accelerate recovery.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^0ecc018a]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^111NwMJZ]. Hepatology (2021). High credibility.
 
 Regarding therapeutic procedures for ascites, more specifically with respect to therapeutic paracentesis, AASLD 2021 guidelines recommend to perform large-volume paracentesis as first-line therapy in patients with grade 3 ascites. Advise sodium restriction and initiate diuretics after paracentesis.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^45eede36]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^112ngNyB]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to hearing assessment, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider obtaining a hearing evaluation at diagnosis or upon reaching adulthood in female patients with X-linked alport syndrome, and then every 5 years in the absence of hearing loss symptoms.
 
 ---
 
-### Standards of care in diabetes – 2025 [^14753c0e]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111XL8Yu]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus (monitoring of renal function), ADA 2025 guidelines recommend to monitor urinary albumin (such as spot urinary albumin-to-creatinine ratio) and eGFR 1–4 times per year, depending on the stage of the disease, in patients with established diabetic kidney disease.
 
 ---
 
-### 2022 ESC guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death [^9a594a67]. European Heart Journal (2022). High credibility.
+### 2022 ESC guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death [^114wq5vN]. European Heart Journal (2022). High credibility.
 
 Regarding medical management for myocarditis, more specifically with respect to management of cardiac arrhythmias, catheter ablation, ESC 2022 guidelines recommend to consider performing catheter ablation as an alternative to ICD therapy, after discussion with the patient and provided that established endpoints have been reached, in patients with hemodynamically well-tolerated sustained monomorphic VT occurring in the chronic phase of myocarditis, preserved LV function, and a limited scar amenable to ablation.
 
 ---
 
-### Degenerate boundaries for multiple-alternative decisions [^55f4a482]. Nature Communications (2022). High credibility.
+### Degenerate boundaries for multiple-alternative decisions [^113CS7yb]. Nature Communications (2022). High credibility.
 
 Sequential Bayesian inference can be rewritten in a form that more closely resembles a sum of evidence by taking the logarithm of equation (8):For each of the n -choices, the accumulated evidence is the log posterior, with n distinct evidence incrementsand a common subtractive log-marginal term. Calculation of this log-marginal is necessary for multiple (n > 3) choice optimal decision-making, but can be avoided for n = 2 by using the SPRT as mentioned above. A similarterm in a theory of basal ganglia function has been interpreted as suppressing evidence accumulation when choices are ambiguous –.
 
@@ -790,19 +790,19 @@ Both the SPRT and two-choice sequential Bayesian inference give optimal decision
 
 ---
 
-### European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage [^a24b784e]. European Stroke Journal (2025). High credibility.
+### European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage [^1159cLvh]. European Stroke Journal (2025). High credibility.
 
 Regarding diagnostic investigations for intracerebral hemorrhage, more specifically with respect to initial evaluation, EANS/ESO 2025 guidelines recommend to consider using algorithms such as the DIAGRAM for targeted investigation of the cause of spontaneous ICH to improve the performance of prediction regarding the underlying cause, compared to standard care.
 
 ---
 
-### The natural history of the growth of the hand: I. hand area as a percentage of body surface area [^61d2446b]. Plastic and Reconstructive Surgery (2001). Low credibility.
+### The natural history of the growth of the hand: I. hand area as a percentage of body surface area [^113W2Rfx]. Plastic and Reconstructive Surgery (2001). Low credibility.
 
 The use of a patient's own hand as a tool to estimate the area of burn injury is well documented. The area of the palmar surface of one hand has been estimated to be 1 percent of the body surface area. The area of the palmar surface of the hand was measured to test the accuracy of this estimate and then compared with the body surface area as calculated by formulas in common use. This study also sought to determine the natural history of the growth of the hand to permit development of a readily available, bedside means of estimating hand area and body surface area. Bilateral hand tracings were obtained from 800 volunteers ranging in age from 2 to 89 years. The area of each tracing was determined using an integrating planimeter. The height and weight of each individual were measured, and his/her body surface area was calculated. The palmar hand's percentage of body surface area was determined by calculating the quotient for hand area divided by body surface area. Additionally, the width of the hand was measured from the ulnar aspect at the palmar digital crease of the small finger to the point where the thumb rested against the base of the index finger. The length of the hand was measured from the middle of the interstylon to the tip of the middle finger. These two figures were multiplied together to obtain a product which approximated the area of the hand. Based on the most commonly used DuBois formula for calculating body surface area, the area of palmar surface of the hand corresponds to 0.78 ± 0.08 percent of the body surface area in adults. The percentage varies somewhat with age and reaches a maximum of 0.87 ± 0.06 percent in young children. Multiplying the length of the hand by its width overestimates the area of the hand as determined by planimetry by only 2 percent. A patient's own hand may be used as a complementary, readily available template for estimation of burn area or other areas of disease or injury. In adults, the area of tracing of the outline of the hand is 0.78 percent of the body surface area, whereas in children, this number tends to be slightly higher. In the emergency room or on the wards, a simple product of length multiplied by width of the hand will closely approximate the area as determined by planimetry. This method allows a more accurate determination of the area of the palmar surface of the hand than the 1 percent estimate, which may lead to an overestimation of the size of a burn wound in adults.
 
 ---
 
-### Erythromycin (Ery-tab) [^379f7f44]. FDA (2024). Medium credibility.
+### Erythromycin (Ery-tab) [^112RTtkj]. FDA (2024). Medium credibility.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -828,7 +828,7 @@ See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION.
 
 ---
 
-### Quantifying entanglement in a 68-billion-dimensional quantum state space [^b339b52f]. Nature Communications (2019). High credibility.
+### Quantifying entanglement in a 68-billion-dimensional quantum state space [^115aiAgW]. Nature Communications (2019). High credibility.
 
 Adaptive sampling algorithm
 
@@ -842,31 +842,31 @@ The probability distributionis computed by uniformly distributing the estimated 
 
 ---
 
-### Promoting optimal development: screening for mental health, emotional, and behavioral problems: clinical report [^d13b5812]. Pediatrics (2025). High credibility.
+### Promoting optimal development: screening for mental health, emotional, and behavioral problems: clinical report [^116MCM1j]. Pediatrics (2025). High credibility.
 
 Follow-up planning — once a decision on next steps has been reached in partnership with a family, it is important to ensure an appropriate follow-up plan, which will depend on the nature and severity of the problem, management plan implemented, and patient and family response to the plan.
 
 ---
 
-### Evaluation after a first seizure in adults [^b94f7748]. American Family Physician (2022). High credibility.
+### Evaluation after a first seizure in adults [^115jjQFq]. American Family Physician (2022). High credibility.
 
 Regarding diagnostic investigations for first seizure in adults, more specifically with respect to initial assessment, AAFP 2022 guidelines recommend to evaluate for provoking factors after a first seizure, such as inflammatory, infectious, structural, toxic, or metabolic causes.
 
 ---
 
-### Clobetasol propionate (Clobex) [^231f7ff0]. FDA (2024). Medium credibility.
+### Clobetasol propionate (Clobex) [^111u59Xd]. FDA (2024). Medium credibility.
 
 The dosage of clobetasol propionate TOP for treatment of bullous pemphigoid in adults (extensive) is 1 application(s) TOP BID, 30–40 g per day, tapered after 15 days in case of response and continued for 4–12 months (0.05% cream or ointment)
 
 ---
 
-### Clobetasol propionate (Clobex) [^1104c046]. FDA (2024). Medium credibility.
+### Clobetasol propionate (Clobex) [^111SEPMF]. FDA (2024). Medium credibility.
 
 The dosage of clobetasol propionate TOP for treatment of bullous pemphigoid in adults (localized) is 1 application(s) TOP BID, 10–20 g per day, tapered after 15 days in case of response and continued for 4–12 months (0.05% cream or ointment)
 
 ---
 
-### Chemical shift encoding using asymmetric readout waveforms [^8935a941]. Magnetic Resonance in Medicine (2021). Medium credibility.
+### Chemical shift encoding using asymmetric readout waveforms [^114WRL1e]. Magnetic Resonance in Medicine (2021). Medium credibility.
 
 2.2 Matching the in‐phase echo
 
@@ -881,37 +881,37 @@ A comparison between the sampling densities for trapezoidal and quadratic in‐p
 
 ---
 
-### Digital leg volume quantification: precision assessment of a novel workflow based on single capture three-dimensional whole-body surface imaging [^5221b9a3]. Journal of Digital Imaging (2021). Medium credibility.
+### Digital leg volume quantification: precision assessment of a novel workflow based on single capture three-dimensional whole-body surface imaging [^1136mK8N]. Journal of Digital Imaging (2021). Medium credibility.
 
 A strength of this study lies in the relatively large sample size and morphologic variety of the examined subjects. While some studies assessing the precision of a workflow have examined rather small and homogenous cohorts or make use of an imaging phantom, this study included over 80 subjects in its analysis. A high number of subjects were subsequently available for each of the subgroups that were further analyzed as part of this study. Also, this study specifically examined subjects in the target population for clinical leg volume documentation. As such, it included patients with varying degrees of uni- or bilaterally high values of leg volume, and with a range of BMI values from 18.7 to 55.8 kg/m 2. While the study investigates measurement reproducibility between two separate scans in a single session, it does not provide information regarding the precision when more than two scans are conducted in one session, or when the scans are spread out over an extended period of time. Also, this study did not include multiple assessments of the same subjects by different assessors, and thus, inter-rater reliability was not examined. Future studies ought to evaluate reproducibility by repeatedly examining the same cohort without the subjects undergoing pronounced morphologic changes in the meantime. The influence of varying imaging operators should also be investigated. Finally, future efforts should be made to automate the data-processing part of the workflow.
 
 ---
 
-### 2021 guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association / American stroke association [^2bda0db7]. Stroke (2021). High credibility.
+### 2021 guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association / American stroke association [^11281i9L]. Stroke (2021). High credibility.
 
 Regarding specific circumstances for acute ischemic stroke, more specifically with respect to patients with patent foramen ovale (choice of closure method), AHA/ASA 2021 guidelines recommend to insufficient evidence regarding the benefit of closure with a transcatheter device and long-term antiplatelet therapy over antiplatelet therapy alone for the prevention of recurrent stroke in patients aged 18–60 years with a non-lacunar ischemic stroke of undetermined cause despite a thorough evaluation and a patent foramen ovale without high-risk anatomic features.
 
 ---
 
-### AIUM practice parameter for the performance of detailed diagnostic obstetric ultrasound examinations between 12 Weeks 0 Days and 13 Weeks 6 Days [^0ea34f29]. Journal of Ultrasound in Medicine (2021). High credibility.
+### AIUM practice parameter for the performance of detailed diagnostic obstetric ultrasound examinations between 12 Weeks 0 Days and 13 Weeks 6 Days [^111NhgTz]. Journal of Ultrasound in Medicine (2021). High credibility.
 
 Abdominal circumference — this measurement may be helpful in certain clinical situations such as early asymmetric growth restriction (triploidy) and skeletal dysplasia; technique specifies obtaining an axial scan optimized to fill the majority of the image space, ensuring the fetal stomach and, if possible, the intrahepatic portion of the portal vein are seen while the kidneys and umbilical cord insertion are excluded, confirming a true axial plane with one vertebral body and a single rib on each side with the spine optimally at 3 or 9 o'clock, and measuring along the outer skin edge by an ellipse or 2 perpendicular diameters.
 
 ---
 
-### Standards of care in diabetes – 2025 [^2a4976a0]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1125hA23]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, renin-angiotensin system inhibitors, ADA 2025 guidelines recommend to monitor for increased serum creatinine and for increased serum potassium levels when ACEis, ARBs, or mineralocorticoid receptor antagonists are used, or for hypokalemia when diuretics are used at routine visits and 7–14 days after initiation or after a dose change.
 
 ---
 
-### Promoting optimal development: screening for behavioral and emotional problems [^9b391825]. Pediatrics (2015). Medium credibility.
+### Promoting optimal development: screening for behavioral and emotional problems [^114y8Fy6]. Pediatrics (2015). Medium credibility.
 
 Lessons learned from implementing a screening program (Table 1) — promoters and challenges: Promoted implementation included "Creating an office-wide implementation system", "Dividing responsibility among staff", "Actively monitoring implementation and continuing to make changes", "Choosing screens perceived to least disrupt clinic flow", and "Aligning screening measures with those used in community based programs". Challenges remained including "Consistent referral of children with failed screens", "Distributing screens to children at screening ages but not to others", "Maintaining consistent screening practice during busy times", "Coping with screening gaps due to staff turnover", "Tracking referrals through a distinct implementation system from screening", and "Not screening when surveillance raised concerns".
 
 ---
 
-### Erythromycin ethylsuccinate (ery-ped) [^8b2b1835]. FDA (2024). Medium credibility.
+### Erythromycin ethylsuccinate (ery-ped) [^114ZKkip]. FDA (2024). Medium credibility.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to 500 mg/kg/day (approximately 1–2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity. Erythromycin stearate did not show genotoxic potential in the Ames, and mouse lymphoma assays or induce chromosomal aberrations in CHO cells. There was no apparent effect on male or female fertility in rats treated with erythromycin base by oral gavage at 700 mg/kg/day (approximately 3 times the maximum human dose on a body surface area basis).
 
@@ -925,13 +925,13 @@ Pediatric Use: See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
 
 ---
 
-### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^7d673313]. Annals of Internal Medicine (2024). High credibility.
+### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^114Cv7iS]. Annals of Internal Medicine (2024). High credibility.
 
 Algorithm — this clinical practice guideline (CPG) algorithm is designed to facilitate understanding of the clinical pathway and decision-making process used in managing patients with Headache, and the format represents a simplified flow that helps foster efficient decision making by providers; it includes steps of care in an ordered sequence, decisions to be considered, decision criteria recommended, and actions to be taken; the algorithm is a step-by-step decision tree, with standardized symbols to display each step and arrows connecting numbered boxes indicating the order in which the steps should be followed; shape meanings are specified: rounded rectangles represent a clinical state or condition, hexagons represent a decision point in the process of care formulated as a question that can be answered "Yes" or "No", rectangles represent an action in the process of care, and ovals represent a link to another section within the algorithm; Sidebars 1–7 provide more detailed information, and Appendix K contains alternative text descriptions of the algorithms.
 
 ---
 
-### Leg length discrepancy: the natural history (and what Do we really know) [^888d8934]. Journal of Pediatric Orthopedics (2019). Medium credibility.
+### Leg length discrepancy: the natural history (and what Do we really know) [^114VSrfm]. Journal of Pediatric Orthopedics (2019). Medium credibility.
 
 Background
 
@@ -951,7 +951,7 @@ There seems to be a consensus that limb length discrepancies > 2.0cm are frequen
 
 ---
 
-### Long-term outcomes of muscle volume and achilles tendon length after achilles tendon ruptures [^4336a574]. Knee Surgery, Sports Traumatology, Arthroscopy (2013). Low credibility.
+### Long-term outcomes of muscle volume and achilles tendon length after achilles tendon ruptures [^112ieXUf]. Knee Surgery, Sports Traumatology, Arthroscopy (2013). Low credibility.
 
 Purpose
 
@@ -971,14 +971,14 @@ No significant difference between the treatment groups was found in muscle volum
 
 ---
 
-### Standards of care in diabetes – 2025 [^fc74dd5c]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^117TH8iw]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, protein intake, ADA 2025 guidelines recommend to aim to a target level of 0.8 g/kg body weight/day of dietary protein intake in patients with nondialysis-dependent stage ≥ G3 CKD.
 Consider targeting 1.0–1.2 g/kg/day of dietary protein intake in patients on dialysis since protein energy wasting is a major problem in some patients on dialysis.
 
 ---
 
-### Rehabilitation interventions need more than methodological standardisation: an individualised approach [^b61801f8]. BMJ Open Sport & Exercise Medicine (2020). High credibility.
+### Rehabilitation interventions need more than methodological standardisation: an individualised approach [^115exozo]. BMJ Open Sport & Exercise Medicine (2020). High credibility.
 
 Statistics
 
@@ -992,12 +992,12 @@ The authors recognise that the MD will be a novel measure for many readers. The 
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^beefde85]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^115t5DaC]. HIV.gov (2025). High credibility.
 
 Isosporiasis (Cystoisosporiasis) — treatment in children with or exposed to HIV: First-choice therapy is trimethoprim-sulfamethoxazole (TMP-SMX) 5 mg/kg body weight of the TMP component (maximum 160 mg TMP) twice daily by mouth for 10 days. An alternative is pyrimethamine 1 mg/kg body weight (maximum 25 mg) plus folinic acid 5–15 mg by mouth once daily for 14 days. Second-line alternatives include ciprofloxacin 10–20 mg/kg body weight (maximum 500 mg) by mouth twice daily for 7 days or nitazoxanide for 3 consecutive days with age-based dosing: 1–3 years, 100 mg by mouth every 12 hours; 4–11 years, 200 mg by mouth every 12 hours; adolescents aged ≥ 12 years and adults, 500 mg by mouth every 12 hours. If symptoms worsen or persist, the TMP-SMX dose (5 mg/kg/dose of the TMP component) may be given more frequently (e.g., 3–4 times daily by mouth for 10 days) and/or duration may be increased to 3–4 weeks; the optimal duration of retreatment with pyrimethamine has not been established. Ciprofloxacin is not a drug of choice in children because of increased incidence of adverse events, including events related to joints and/or surrounding tissues.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^38f5fcd0]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^112TSw1H]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding therapeutic procedures for ascites, more specifically with respect to therapeutic paracentesis, EASL 2018 guidelines recommend to administer albumin (8 g/L of ascites removed) for plasma volume expansion in patients undergoing large-volume paracentesis of > 5 L of ascites.

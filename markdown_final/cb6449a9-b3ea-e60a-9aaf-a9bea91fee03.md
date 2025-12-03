@@ -15,33 +15,33 @@ How long after a laceration can you give tetanus booster?
 
 > Let's see… What do we have here? The user is asking how long after a laceration a tetanus booster can be given. Let's break this down step-by-step. First, I need to think about the clinical context and whether tetanus prophylaxis is indicated at all. Then, I should verify the wound classification and how that changes thresholds for booster timing. Next, I will review the patient's immunization history to determine if a booster is needed now. After that, I need to check whether tetanus immune globulin is indicated in addition to the vaccine. Finally, I will consider special populations, especially pregnancy, and clarify the timing of administration relative to injury and any prior recent tetanus-containing vaccine dose.
 
-> Let me first confirm the clinical frame: tetanus prophylaxis is indicated for traumatic wounds, including lacerations, based on wound characteristics and the patient's vaccination history, and the goal is to administer indicated vaccines and TIG as soon as feasible rather than waiting, because tetanus incubation can be as short as 1–3 days and averages about 7–10 days, so delays increase risk [^cfa812ba] [^4c5af173].
+> Let me first confirm the clinical frame: tetanus prophylaxis is indicated for traumatic wounds, including lacerations, based on wound characteristics and the patient's vaccination history, and the goal is to administer indicated vaccines and TIG as soon as feasible rather than waiting, because tetanus incubation can be as short as 1–3 days and averages about 7–10 days, so delays increase risk [^116JrtfT] [^112xCc8i].
 
-> I need to classify the wound next. Clean and minor wounds are low risk, whereas dirty or major wounds — contaminated with dirt, feces, saliva, puncture wounds, avulsions, crush injuries, burns, frostbite, or wounds with devitalized tissue — carry higher tetanus risk and change the booster threshold, so I should confirm which category the laceration falls into before deciding on timing [^4c5af173] [^5580f488].
+> I need to classify the wound next. Clean and minor wounds are low risk, whereas dirty or major wounds — contaminated with dirt, feces, saliva, puncture wounds, avulsions, crush injuries, burns, frostbite, or wounds with devitalized tissue — carry higher tetanus risk and change the booster threshold, so I should confirm which category the laceration falls into before deciding on timing [^112xCc8i] [^113BmGCo].
 
-> Now, I should review the patient's tetanus immunization history. If the patient has never received a tetanus-containing vaccine or has an incomplete primary series, a booster is indicated regardless of wound type, and TIG is added for dirty or major wounds. If the primary series is complete, the timing depends on wound class: for clean and minor wounds, give a booster if more than 10 years have elapsed since the last dose; for dirty or major wounds, give a booster if more than 5 years have elapsed since the last dose. Wait, let me verify the 5-year rule — yes, ACIP explicitly uses > 5 years for dirty wounds and > 10 years for clean wounds in patients with a complete primary series [^4c5af173] [^5580f488] [^90dd1b16].
+> Now, I should review the patient's tetanus immunization history. If the patient has never received a tetanus-containing vaccine or has an incomplete primary series, a booster is indicated regardless of wound type, and TIG is added for dirty or major wounds. If the primary series is complete, the timing depends on wound class: for clean and minor wounds, give a booster if more than 10 years have elapsed since the last dose; for dirty or major wounds, give a booster if more than 5 years have elapsed since the last dose. Wait, let me verify the 5-year rule — yes, ACIP explicitly uses > 5 years for dirty wounds and > 10 years for clean wounds in patients with a complete primary series [^112xCc8i] [^113BmGCo] [^114hmV4y].
 
-> Hold on, I should verify the product choice. For patients aged 11 years and older who have never received Tdap or whose Tdap status is unknown, Tdap is preferred over Td when a tetanus booster is indicated for wound management. For children under 7 years, DTaP is used. For pregnant patients, Tdap is indicated for wound management when a booster is due, irrespective of gestational age, and this does not preclude the routine pregnancy Tdap dose at 27–36 weeks if still needed [^caebc6de] [^90dd1b16] [^814975c3].
+> Hold on, I should verify the product choice. For patients aged 11 years and older who have never received Tdap or whose Tdap status is unknown, Tdap is preferred over Td when a tetanus booster is indicated for wound management. For children under 7 years, DTaP is used. For pregnant patients, Tdap is indicated for wound management when a booster is due, irrespective of gestational age, and this does not preclude the routine pregnancy Tdap dose at 27–36 weeks if still needed [^116BqhED] [^114hmV4y] [^114Jg5UE].
 
-> Next, I should review whether tetanus immune globulin is indicated. TIG is indicated for dirty or major wounds when the patient is unvaccinated, has an incomplete primary series, or is immunocompromised, and it should be given with the vaccine using separate syringes at different anatomical sites. I should double-check the dose — CDC wound prophylaxis guidance lists 250 IU IM for adults and children, whereas treatment of established tetanus typically uses 3,000–6,000 IU, so I need to ensure I'm not mixing these contexts [^4c5af173] [^5580f488] [^03cdcc70].
+> Next, I should review whether tetanus immune globulin is indicated. TIG is indicated for dirty or major wounds when the patient is unvaccinated, has an incomplete primary series, or is immunocompromised, and it should be given with the vaccine using separate syringes at different anatomical sites. I should double-check the dose — CDC wound prophylaxis guidance lists 250 IU IM for adults and children, whereas treatment of established tetanus typically uses 3,000–6,000 IU, so I need to ensure I'm not mixing these contexts [^112xCc8i] [^113BmGCo] [^1116e68F].
 
-> But wait, what if the patient just had a tetanus-containing vaccine recently? I initially thought a minimum interval of 5 years was required before any wound-related booster, but hold on, I should verify that — ACIP explicitly states that when Tdap is indicated for wound management, it should not be delayed regardless of the interval since the last tetanus or diphtheria toxoid–containing vaccine, so prior recent dosing does not contraindicate giving a booster now if otherwise indicated by wound type and history. I need to ensure I correct that misconception and document the rationale [^11425b61] [^b5ecbcfb].
+> But wait, what if the patient just had a tetanus-containing vaccine recently? I initially thought a minimum interval of 5 years was required before any wound-related booster, but hold on, I should verify that — ACIP explicitly states that when Tdap is indicated for wound management, it should not be delayed regardless of the interval since the last tetanus or diphtheria toxoid–containing vaccine, so prior recent dosing does not contraindicate giving a booster now if otherwise indicated by wound type and history. I need to ensure I correct that misconception and document the rationale [^111Sb5Xe] [^115eiH3G].
 
-> I will now examine special populations. In pregnancy, if a tetanus booster is indicated for wound management, Tdap should be administered regardless of gestational age, and this wound-related dose does not replace the routine pregnancy Tdap dose at 27–36 weeks if still indicated. For immunocompromised patients, including those with HIV or severe immunodeficiency, TIG is indicated for dirty or major wounds regardless of vaccination history, so I should not rely on vaccine alone in that scenario [^caebc6de] [^814975c3] [^6db8c540].
+> I will now examine special populations. In pregnancy, if a tetanus booster is indicated for wound management, Tdap should be administered regardless of gestational age, and this wound-related dose does not replace the routine pregnancy Tdap dose at 27–36 weeks if still indicated. For immunocompromised patients, including those with HIV or severe immunodeficiency, TIG is indicated for dirty or major wounds regardless of vaccination history, so I should not rely on vaccine alone in that scenario [^116BqhED] [^114Jg5UE] [^113ofiLX].
 
-> Let me consider the practical timing relative to injury. Even though tetanus incubation can be days to months, prophylaxis should be given as soon as possible after the wound occurs, and if the patient presents late, it is still reasonable to give indicated vaccine and TIG because disease can develop after longer incubations; I should confirm that there is no absolute upper limit for prophylaxis, and indeed guidelines emphasize administering indicated prophylaxis promptly rather than withholding due to delay, even though earlier is better [^cfa812ba] [^4c5af173] [^658426d5].
+> Let me consider the practical timing relative to injury. Even though tetanus incubation can be days to months, prophylaxis should be given as soon as possible after the wound occurs, and if the patient presents late, it is still reasonable to give indicated vaccine and TIG because disease can develop after longer incubations; I should confirm that there is no absolute upper limit for prophylaxis, and indeed guidelines emphasize administering indicated prophylaxis promptly rather than withholding due to delay, even though earlier is better [^116JrtfT] [^112xCc8i] [^113bW8z8].
 
-> Putting this together, I should confirm the wound class, verify the vaccination history, and then act: for a clean, minor laceration with a complete primary series, give a booster if more than 10 years have passed; for a dirty or major laceration with a complete primary series, give a booster if more than 5 years have passed; for unknown or incomplete histories, give a booster and add TIG if the wound is dirty or major; and if Tdap is indicated, do not delay it due to a recent tetanus-containing vaccine — administer it now and, in pregnancy, coordinate with the routine 27–36 week Tdap if still needed [^4c5af173] [^5580f488] [^90dd1b16] [^11425b61].
+> Putting this together, I should confirm the wound class, verify the vaccination history, and then act: for a clean, minor laceration with a complete primary series, give a booster if more than 10 years have passed; for a dirty or major laceration with a complete primary series, give a booster if more than 5 years have passed; for unknown or incomplete histories, give a booster and add TIG if the wound is dirty or major; and if Tdap is indicated, do not delay it due to a recent tetanus-containing vaccine — administer it now and, in pregnancy, coordinate with the routine 27–36 week Tdap if still needed [^112xCc8i] [^113BmGCo] [^114hmV4y] [^111Sb5Xe].
 
 ---
 
-Give a tetanus booster for a laceration **as soon as possible** if indicated by wound type and vaccination history [^4c5af173]. For clean, minor wounds, give a booster if the last tetanus dose was > 10 years ago; for dirty or major wounds, give a booster if the last dose was > 5 years ago [^90dd1b16]. If the patient is unvaccinated or has an incomplete series, give both a tetanus-containing vaccine and tetanus immune globulin (TIG) [^6db8c540]. Do not delay indicated prophylaxis; even if presentation is late, administer the vaccine and TIG if indicated, as tetanus can develop after prolonged incubation [^658426d5].
+Give a tetanus booster for a laceration **as soon as possible** if indicated by wound type and vaccination history [^112xCc8i]. For clean, minor wounds, give a booster if the last tetanus dose was > 10 years ago; for dirty or major wounds, give a booster if the last dose was > 5 years ago [^114hmV4y]. If the patient is unvaccinated or has an incomplete series, give both a tetanus-containing vaccine and tetanus immune globulin (TIG) [^113ofiLX]. Do not delay indicated prophylaxis; even if presentation is late, administer the vaccine and TIG if indicated, as tetanus can develop after prolonged incubation [^113bW8z8].
 
 ---
 
 ## Indications for tetanus prophylaxis
 
-Tetanus prophylaxis is determined by **wound characteristics** and the patient's **vaccination history** [^4c5af173]:
+Tetanus prophylaxis is determined by **wound characteristics** and the patient's **vaccination history** [^112xCc8i]:
 
 | **Wound type** | **Indication for tetanus booster** |
 |-|-|
@@ -53,15 +53,15 @@ Tetanus prophylaxis is determined by **wound characteristics** and the patient's
 
 ## Timing of tetanus booster administration
 
-The tetanus booster should be administered **as soon as possible** after the injury [^4c5af173]. If the patient presents late, do not withhold prophylaxis; tetanus can develop after prolonged incubation, so administer the vaccine and TIG if indicated [^658426d5].
+The tetanus booster should be administered **as soon as possible** after the injury [^112xCc8i]. If the patient presents late, do not withhold prophylaxis; tetanus can develop after prolonged incubation, so administer the vaccine and TIG if indicated [^113bW8z8].
 
 ---
 
 ## Special considerations
 
-- **Pregnancy**: Tdap is preferred for wound management in pregnant patients if indicated, regardless of gestational age [^46014204].
-- **Immunocompromised patients**: TIG is indicated for dirty or major wounds regardless of vaccination history [^6db8c540].
-- **Previous severe reaction**: If there is a history of a severe allergic reaction to a tetanus-containing vaccine, TIG may be considered as an alternative [^d13425b3].
+- **Pregnancy**: Tdap is preferred for wound management in pregnant patients if indicated, regardless of gestational age [^112nnZET].
+- **Immunocompromised patients**: TIG is indicated for dirty or major wounds regardless of vaccination history [^113ofiLX].
+- **Previous severe reaction**: If there is a history of a severe allergic reaction to a tetanus-containing vaccine, TIG may be considered as an alternative [^116M9vot].
 
 ---
 
@@ -70,47 +70,47 @@ The tetanus booster should be administered **as soon as possible** after the inj
 - **Clean, minor wounds**: Booster if > 10 years since last dose.
 - **Dirty, major, or puncture wounds**: Booster if > 5 years since last dose.
 - **Unknown or incomplete vaccination**: Tetanus-containing vaccine plus TIG if wound is dirty or major.
-- **Do not delay**: Administer prophylaxis as soon as possible, even if presentation is late [^658426d5].
+- **Do not delay**: Administer prophylaxis as soon as possible, even if presentation is late [^113bW8z8].
 
 ---
 
-Tetanus prophylaxis should be administered **promptly** based on wound type and vaccination history, with no undue delay even if the patient presents late [^4c5af173].
+Tetanus prophylaxis should be administered **promptly** based on wound type and vaccination history, with no undue delay even if the patient presents late [^112xCc8i].
 
 ---
 
 ## References
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^586e2312]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^113G6uSZ]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Tetanus prophylaxis for animal bite wounds — Recommendation 43 — states that "Tetanus toxoid should be administered to patients without toxoid vaccination within 10 years. Tetanus, diphtheria, and pertussis (TdaP) is preferred over Tetanus and diptheria (Td) if the former has not been previously given (strong, low)". The evidence summary emphasizes that "Tetanus is a severe and often fatal disease preventable through routine vaccination (ie, primary series and decennial boosters)".
 
 ---
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^d187da0b]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^116Me3WA]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Animal bite wounds — tetanus prophylaxis includes that a primary series (ie, 3 doses) of tetanus toxoid is described, and persons who have not completed the vaccine series should do so. A booster dose of tetanus toxoid should be administered for dirty wounds if > 5 years has elapsed since the last dose and for clean wounds, if > 10 years; Tdap is preferred over Td if the former has not been previously given.
 
 ---
 
-### Common questions about wound care [^42b45844]. American Family Physician (2015). Low credibility.
+### Common questions about wound care [^112htkzw]. American Family Physician (2015). Low credibility.
 
 Lacerations, abrasions, burns, and puncture wounds are common in the outpatient setting. Because wounds can quickly become infected, the most important aspect of treating a minor wound is irrigation and cleaning. There is no evidence that antiseptic irrigation is superior to sterile saline or tap water. Occlusion of the wound is key to preventing contamination. Suturing, if required, can be completed up to 24 hours after the trauma occurs, depending on the wound site. Tissue adhesives are equally effective for low-tension wounds with linear edges that can be evenly approximated. Although patients are often instructed to keep their wounds covered and dry after suturing, they can get wet within the first 24 to 48 hours without increasing the risk of infection. There is no evidence that prophylactic antibiotics improve outcomes for most simple wounds. Tetanus toxoid should be administered as soon as possible to patients who have not received a booster in the past 10 years. Superficial mild wound infections can be treated with topical agents, whereas deeper mild and moderate infections should be treated with oral antibiotics. Most severe infections, and moderate infections in high-risk patients, require initial parenteral antibiotics. Severe burns and wounds that cover large areas of the body or involve the face, joints, bone, tendons, or nerves should generally be referred to wound care specialists.
 
 ---
 
-### Best practices in the management of orthopaedic trauma [^554447ba]. ACS (2015). Medium credibility.
+### Best practices in the management of orthopaedic trauma [^113BQtAD]. ACS (2015). Medium credibility.
 
 Open fractures — tetanus prophylaxis and operative timing/soft-tissue management: Tetanus toxoid should be administered if the patient had an incomplete primary immunization, if it has been > 10 years since his or her last booster dose, or if the immunization history is unknown or unclear, and tetanus immunoglobulin should be administered if it has been > 10 years since the patient's last booster dose or if he or she has a history of incomplete primary immunization. Patients with open fractures should be taken to the operating room for irrigation and debridement within 24 hours of initial presentation whenever possible, with severe fractures associated with gross wound contamination brought to the operating room more quickly and as soon as clinically feasible based on the patient's condition and resources available. Whenever possible, skin defects overlying open fractures should be closed at the time of initial debridement. Soft tissue coverage should be completed within seven days of injury for open fractures associated with wounds requiring skin grafting or soft tissue transfers.
 
 ---
 
-### Are current UK tetanus prophylaxis procedures for wound management optimal? [^fd90b37d]. Emergency Medicine Journal (2009). Low credibility.
+### Are current UK tetanus prophylaxis procedures for wound management optimal? [^117UvUJY]. Emergency Medicine Journal (2009). Low credibility.
 
 Tetanus is a potentially fatal disease that occurs after contamination of a wound with Clostridium tetani spores. The introduction of comprehensive infant vaccination programmes in the 1960s dramatically reduced the incidence of tetanus in the UK. To achieve comprehensive protection against tetanus, the World Health Organization guidelines recommend the administration of the five-dose childhood immunisation regimen and an additional sixth dose, after approximately 10 years, to ensure long-lasting immunity. To supplement these measures, tetanus prophylaxis with human tetanus immunoglobulin is considered essential for incompletely immunised individuals presenting with dirty wounds. However, identifying those individuals who are not fully immunised has, until recently, been problematical. The use of a new rapid, point-of-care immunoassay to assess tetanus immune status may facilitate the optimal management of patients with wounds.
 
 ---
 
-### Ten-year experiences with tetanus at a tertiary hospital in northwestern tanzania: a retrospective review of 102 cases [^ff27c305]. World Journal of Emergency Surgery (2011). Low credibility.
+### Ten-year experiences with tetanus at a tertiary hospital in northwestern tanzania: a retrospective review of 102 cases [^117XHCV2]. World Journal of Emergency Surgery (2011). Low credibility.
 
 Background
 
@@ -122,7 +122,7 @@ Tetanus occurs sporadically and almost always affects non-immunized, partially i
 
 ---
 
-### Management of traumatic wounds in the emergency department: position paper from the Academy of Emergency Medicine and Care (AcEMC) and the World Society of Emergency Surgery (WSES) [^b528a3b6]. World Journal of Emergency Surgery (2016). Low credibility.
+### Management of traumatic wounds in the emergency department: position paper from the Academy of Emergency Medicine and Care (AcEMC) and the World Society of Emergency Surgery (WSES) [^115daQjF]. World Journal of Emergency Surgery (2016). Low credibility.
 
 STATEMENT 3 Antibiotic prophylaxis (i.e. a preventive administration of an antibiotic before the emergence of an infection with the aim to prevent it). It is desirable to implement prophylactic antibiotics in selected cases of wounds at high risk of infection. 3A. Avoid antibiotic prophylaxis in a not macroscopically contaminated wound, well vascularized, at low risk of infection (according to statements 2). 3B. Antibiotic prophylaxis should be considered in grossly contaminated wounds and in cases at high risk of infection (according to statement 2) depending on the epidemiological criteria of antibiotic resistance in the area. In high risk wounds (all three variables considered) the EP should explain clearly the reason for avoiding the antibiotic administration.
 
@@ -130,25 +130,25 @@ STATEMENT 4 The assessment of tetanus immunization status in every traumatic wou
 
 ---
 
-### Best practices in the management of orthopaedic trauma [^d0050c67]. ACS (2015). Medium credibility.
+### Best practices in the management of orthopaedic trauma [^116KQ7y8]. ACS (2015). Medium credibility.
 
 Open fracture tetanus prophylaxis — vaccination and immunoglobulin: In addition to intravenous antibiotics, all patients with open fractures should be evaluated for the potential need for tetanus vaccination. The immunization history of the patient should be obtained, and tetanus toxoid should be administered if the last booster dose was given more than 10 years prior to evaluation or if the vaccination history is unknown or unclear. Tetanus immunoglobulin should also be given when it has been longer than 10 years since the last booster dose or when the patient had an incomplete primary immunization.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^915cb516]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^114iWLww]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (wound management), CDC 2020 guidelines recommend to administer a tetanus toxoid-containing vaccine for wound management when > 5 years have passed since the last tetanus toxoid-containing vaccine dose.
 
 ---
 
-### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^8446e22e]. Wilderness & Environmental Medicine (2014). Medium credibility.
+### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^114P7B81]. Wilderness & Environmental Medicine (2014). Medium credibility.
 
 Immunization — tetanus in traumatic wounds — Tetanus is the only vaccine-preventable disease that is infectious but not contagious. Tetanus immunization status should be evaluated for all patients with a traumatic wound and treated appropriately based on the patient's history and risk of infection. Tetanus immunization, if indicated based on a patient's history and exposure, should be given to all patients with a traumatic wound. Recommendation grade: 1C. Development of clinical tetanus can probably be delayed with oral antibiotics (penicillin and likely others) and should be used if evacuation of an unimmunized patient with a tetanus-prone wound will be delayed or is logistically complicated; this technique is often used in patients claiming an allergy to tetanus toxoid.
 
 ---
 
-### Vaccines for women age 50 and older [^ccb6971f]. Emerging Infectious Diseases (2004). Low credibility.
+### Vaccines for women age 50 and older [^116EVodp]. Emerging Infectious Diseases (2004). Low credibility.
 
 Tetanus-Diphtheria (Td) Toxoid Boosters
 
@@ -156,13 +156,13 @@ Tetanus toxoid and diphtheria toxoid are excellent immunogens. The primary vacci
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^80c0eabf]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^114HtDQ2]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Since 2005, a single dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine has been recommended by the Advisory Committee on Immunization Practices (ACIP) for adolescents and adults (1,2). After receipt of Tdap, booster doses of tetanus and diphtheria toxoids (Td) vaccine are recommended every 10 years or when indicated for wound management. During the October 2019 meeting of ACIP, the organization updated its recommendations to allow use of either Td or Tdap where previously only Td was recommended. These situations include decennial Td booster doses, tetanus prophylaxis when indicated for wound management in persons who had previously received Tdap, and for multiple doses in the catch-up immunization schedule for persons aged ≥ 7 years with incomplete or unknown vaccination history. Allowing either Tdap or Td to be used in situations where Td only was previously recommended increases provider point-of-care flexibility. This report updates ACIP recommendations and guidance regarding the use of Tdap vaccines (3).
 
 ---
 
-### Clinical guidance for wound management to prevent tetanus… [^4c5af173]. CDC (2025). Medium credibility.
+### Clinical guidance for wound management to prevent tetanus… [^112xCc8i]. CDC (2025). Medium credibility.
 
 Key points
 - The best ways to prevent tetanus are vaccination and wound management.
@@ -200,7 +200,7 @@ TIG cannot neutralize toxin that's already bound to nerve endings. TIG prophylax
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^27a3d4a5]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^1121mYfn]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Introduction
 
@@ -208,7 +208,7 @@ Since 2005, a single dose of tetanus toxoid, reduced diphtheria toxoid, and acel
 
 ---
 
-### Accuracy of parental-reported tetanus vaccination status for children with lacerations [^a71f2917]. Pediatric Emergency Care (2021). Medium credibility.
+### Accuracy of parental-reported tetanus vaccination status for children with lacerations [^115GmQ7p]. Pediatric Emergency Care (2021). Medium credibility.
 
 Objectives
 
@@ -228,7 +228,7 @@ Emergency department providers may inaccurately assess the need for tetanus prop
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^caebc6de]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^116BqhED]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Prevention of Obstetric and Neonatal Tetanus
 
@@ -249,19 +249,19 @@ Abbreviations: DTaP = diphtheria and tetanus toxoids and acellular pertussis vac
 
 ---
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^53ce22cb]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^1139FDEz]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Animal bite wounds — Tetanus prophylaxis is advised if vaccination is outdated, with product preference specified. Tetanus toxoid should be administered to patients without toxoid vaccination within 10 years, and Tetanus, diptheria, and tetanus (Tdap) is preferred over Tetanus and diptheria (Td) if the former has not been previously given (strong, low).
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^f8914338]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^117MWiqD]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (wound management), CDC 2020 guidelines recommend to administer a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine if a tetanus toxoid-containing vaccine is indicated in pregnant individuals.
 
 ---
 
-### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^462c5072]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^112o323B]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 What is added by this report?
 
@@ -273,13 +273,13 @@ Routine vaccination of patients every 10 years is important to prevent tetanus, 
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^1a2b2972]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^111foBBw]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (wound management), CDC 2020 guidelines recommend to administer a dose of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis if a tetanus toxoid-containing vaccine is indicated in non-pregnant individuals with documentation of previous tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccination.
 
 ---
 
-### Notes from the field: tetanus in an unvaccinated child-Oregon, 2017 [^c7bee94f]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
+### Notes from the field: tetanus in an unvaccinated child-Oregon, 2017 [^11678fLJ]. MMWR: Morbidity and Mortality Weekly Report (2019). Medium credibility.
 
 The boy required 57 days of inpatient acute care, including 47 days in the intensive care unit. The inpatient charges totaled $811,929 (excluding air transportation, inpatient rehabilitation, and ambulatory follow-up costs). One month after inpatient rehabilitation, he returned to all normal activities, including running and bicycling. Despite extensive review of the risks and benefits of tetanus vaccination by physicians, the family declined the second dose of DTaP and any other recommended immunizations.
 
@@ -291,7 +291,7 @@ Routine administration of a 5-dose DTaP series is recommended for all eligible c
 
 ---
 
-### Tetanus vaccine recommendations… [^65b4dd64]. CDC (2025). Medium credibility.
+### Tetanus vaccine recommendations… [^113bnVzb]. CDC (2025). Medium credibility.
 
 Key points
 - CDC recommends tetanus vaccines for people across the lifespan, including for wound management.
@@ -313,7 +313,7 @@ Children < 7 years of age: See About young children with a contraindication to p
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^6db8c540]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^113ofiLX]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 § Persons with HIV infection or severe immunodeficiency who have contaminated wounds should also receive TIG, regardless of their history of tetanus immunization.
 
@@ -327,13 +327,13 @@ Persons with a history of an Arthus reaction following a previous dose of a teta
 
 ---
 
-### Clinical progress note: tetanus [^42767646]. Journal of Hospital Medicine (2025). Medium credibility.
+### Clinical progress note: tetanus [^112hXyRf]. Journal of Hospital Medicine (2025). Medium credibility.
 
 Tetanus is a pathogen with a significant global burden which has largely been eradicated in the developed world through safe and highly effective vaccination. In this era of increasing vaccine hesitancy, physicians should remain cognizant of this rare, preventable and high-consequence pathogen.
 
 ---
 
-### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^4498c9d9]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^112khUit]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Discussion
 
@@ -343,7 +343,7 @@ Even minor wounds or abrasions can result in tetanus, highlighting the importanc
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^90dd1b16]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^114hmV4y]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Tetanus Prophylaxis for Wound Management Recommendations
 
@@ -351,7 +351,7 @@ A tetanus toxoid–containing vaccine is indicated for wound management when > 5
 
 ---
 
-### Tetanus: recognition and management [^7b5e9815]. The Lancet: Infectious Diseases (2025). High credibility.
+### Tetanus: recognition and management [^1149uFWC]. The Lancet: Infectious Diseases (2025). High credibility.
 
 Conclusion
 
@@ -359,7 +359,7 @@ Tetanus remains a severe disease with substantial mortality and global burden. C
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^08f571e4]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^111EHLuZ]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 In 2013, ACIP reviewed the most recent safety and immunogenicity data available at that time to inform their recommendations regarding a second routine dose of Tdap. ACIP concluded that a second dose of Tdap would be safe and immunogenic at 5- or 10-year intervals. However, antipertussis antibodies decline rapidly after the first year (,–), and vaccine effectiveness studies indicated that pertussis protection begins to wane within 2–4 years after receipt of a single Tdap dose. This likely limits the impact of a second dose of Tdap on the overall burden of pertussis in the United States. In addition, Tdap vaccines have an uncertain role in prevention of transmission and in herd protection. ACIP concluded that the data did not support a general recommendation for a routine second dose of Tdap, given the likely limited public health impact.
 
@@ -367,13 +367,13 @@ In January 2019, FDA approved Adacel for a second Tdap dose if administered ≥ 
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^71ebf5a7]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^113utri2]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (wound management), CDC 2020 guidelines recommend to prefer a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine when a tetanus toxoid-containing vaccine is indicated in individuals aged ≥ 11 years who have not previously received tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis or whose tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis history is unknown.
 
 ---
 
-### Management of traumatic wounds in the emergency department: position paper from the Academy of Emergency Medicine and Care (AcEMC) and the World Society of Emergency Surgery (WSES) [^8045859e]. World Journal of Emergency Surgery (2016). Low credibility.
+### Management of traumatic wounds in the emergency department: position paper from the Academy of Emergency Medicine and Care (AcEMC) and the World Society of Emergency Surgery (WSES) [^114HAmU9]. World Journal of Emergency Surgery (2016). Low credibility.
 
 Results
 
@@ -391,13 +391,13 @@ STATEMENT 2 It is useful to provide an initial stratification of the risk of inf
 
 ---
 
-### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^03739a98]. Wilderness & Environmental Medicine (2014). Medium credibility.
+### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^11167nzT]. Wilderness & Environmental Medicine (2014). Medium credibility.
 
 Tetanus prophylaxis — clean and minor wounds vs all other wounds by immunization history is as follows: Unknown/less than a series of 3 doses — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. 3 or more — last within 5 years — clean and minor wounds: No prophylaxis; all other wounds: No prophylaxis. 3 or more — last within 10 years — clean and minor wounds: No prophylaxis; all other wounds: Toxoid. 3 or more — last > 10 years — clean and minor wounds: Toxoid; all other wounds: Toxoid and tetanus immune globulin. All immunocompromised patients should receive tetanus toxoid and immune globulin, 'All other wounds' include those contaminated with soil, feces, or saliva and include puncture wounds, avulsions, missile injuries, crush wounds, burns, and frostbite, and 'No toxoid administration should be given to an infant < 6 weeks of age'.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^a3cffa18]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^115Brqeo]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Rationale for Recommendations
 
@@ -405,13 +405,13 @@ In 2013, ACIP did not support a general recommendation for a routine second dose
 
 ---
 
-### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^02a2cb3a]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^1114uf3X]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 While the literature is inconclusive for low-energy wounds, there is support for prophylactic antibiotic usage when wounds are complex, are of higher energy, have anatomic location such as hands/feet, and/or have other high-risk features mentioned above. Higher energy GSWs are associated with increased infection rates, at least in part because the increased mass of devitalized tissue creates an excellent medium for bacterial growth without full host defenses. For high-energy wounds, 24–72 hours of systemic antibiotics have been recommended. However, previous studies have indicated that only in a fraction of cases could the type of weapon be accurately determined, so ultimately most of these judgments must rely on examination of the wound. This led to the axiom to treat 'the wound and not the weapon' from Lindsey. Even if the degree of tissue contamination and tissue destruction merit antibiotic prophylaxis, antibiotics alone, without adequate debridement, would be insufficient. When antibiotic prophylaxis is determined necessary for lower energy GSWs, a first-generation cephalosporin (or clindamycin in the setting of a penicillin allergy) generally is sufficient. Appropriate duration is unclear and likely needs to be determined based on the same considerations described above. Tetanus vaccination status should be addressed.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^e9cba9f8]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^116ycXMZ]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Methods
 
@@ -421,7 +421,7 @@ Summaries of evidence, including the evidence to recommendations framework and a
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^b5ecbcfb]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^115eiH3G]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Background
 
@@ -429,7 +429,7 @@ Two Tdap vaccines are licensed for use in the United States. Boostrix (GlaxoSmit
 
 ---
 
-### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^d13425b3]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^116M9vot]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Sixteen (76%) patients reported that an acute injury had occurred before illness onset; including punctures (seven), abrasions (four), linear lacerations (three), compound fracture (one) and animal bite (one). Of six patients with data on wound depth, two had wounds that were > 1 cm deep. Seven of 11 patients with available data had wounds that appeared infected, and two of seven patients with available data had wounds with devitalized, ischemic, or denervated tissue. Five patients reported no acute injuries before onset; of these, three were injection-drug users. The remaining two patients could not recall any acute injuries; however, one reported an insect bite, and the other reported chronic abrasions on the hands and feet and exposure to soil.
 
@@ -439,19 +439,19 @@ Following their tetanus diagnoses, all 21 patients were treated with TIG; six we
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^814975c3]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^114Jg5UE]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Tdap in pregnancy — acute wound management: The appropriate acute wound management strategy is to receive a dose of Tdap now; this vaccine replaces the solitary tetanus booster vaccine, and administering it now as part of acute wound management is the most important factor. Getting Tdap now will not preclude getting it again between 27 weeks and 36 weeks of gestation in this pregnancy, and she and her fetus will still receive pertussis prevention benefits from receipt at 13 weeks of gestation.
 
 ---
 
-### Fingertip injuries [^5d4210df]. American Family Physician (2025). High credibility.
+### Fingertip injuries [^113PG3Gz]. American Family Physician (2025). High credibility.
 
 Fingertip injuries — tetanus prophylaxis for contaminated minor wounds indicates that a tetanus toxoid–containing vaccine is indicated if more than 5 years have passed since the last dose for minor wounds that are not clean, such as nail bed lacerations.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^f9a6351c]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^117P7k9q]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Off-Label Use of Vaccine
 
@@ -474,13 +474,13 @@ Reporting of vaccine adverse reactions. Adverse events occurring after administr
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^46014204]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^112nnZET]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Wound management in pregnancy — tetanus prophylaxis with Tdap — As part of standard wound management care to prevent tetanus, a tetanus toxoid–containing vaccine is recommended in a pregnant woman if 5 years or more have elapsed since her previous tetanus and diphtheria (Td) vaccination. If a Td booster vaccination is indicated for acute wound management, the obstetrician–gynecologist or other health care provider should administer the Tdap vaccine, irrespective of gestational age, and a pregnant woman should not be revaccinated with Tdap in the same pregnancy if she received the vaccine in the first or second trimester.
 
 ---
 
-### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^bff0b2bd]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^115uZV1E]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Soft tissue injury
 
@@ -496,7 +496,7 @@ Discussion: There are no recent data to support prophylactic antibiotics for unc
 
 ---
 
-### Tetanus immunity and physician compliance with tetanus prophylaxis practices among emergency department patients presenting with wounds [^41c8ec6e]. Annals of Emergency Medicine (2004). Low credibility.
+### Tetanus immunity and physician compliance with tetanus prophylaxis practices among emergency department patients presenting with wounds [^112gXgdB]. Annals of Emergency Medicine (2004). Low credibility.
 
 Study Objective
 
@@ -516,7 +516,7 @@ Although seroprotection rates are generally high in the United States, the risk 
 
 ---
 
-### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^8b18d847]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma critical care committee clinical consensus document [^114ZDdBt]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Stab wounds
 
@@ -528,31 +528,31 @@ Discussion: Stab wounds can range from small but deep lacerations to more shallo
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^25e9102c]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^111yCps5]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (adults), CDC 2020 guidelines recommend to administer a single dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis in individuals aged ≥ 19 years who have never received a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis, regardless of the interval since the last tetanus or diphtheria toxoid-containing vaccine. Administer booster doses of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis every 10 years throughout life to ensure continued protection against tetanus and diphtheria.
 
 ---
 
-### A 4-year review of human bite injuries presenting to emergency medicine and proposed evidence-based guidelines [^c985f76f]. Injury (2009). Low credibility.
+### A 4-year review of human bite injuries presenting to emergency medicine and proposed evidence-based guidelines [^1169mWXG]. Injury (2009). Low credibility.
 
 Human bite injuries are a common injury, roughly accounting for around 0.1% of attendances to Emergency Medicine departments. Morbidities associated with such injuries are legion. Of paramount importance is the potential for infection of the wound site, both bacterial and viral. A retrospective 4-year review of 3136 case notes was conducted, identifying 421 human bites. This amounts to one every 3 days! The majority of those bitten were young males (male:female ratio = 3:1; 44% comprising the age group 16–25 years). The management of these wounds was found to be poor. 17% of patients did not receive any antibiotic cover; 21% of patients either did not have tetanus prophylaxis administered when required or had a tetanus booster when they were already covered; 34% of patients either did not receive a hepatitis B booster when one was required or received one when they were already covered. This lack of effective documentation, along with errors in addressing prophylaxis of the infective agents, may have profound medico-legal consequences. The author believes that the findings will be reproduced in other centres and in view of the inadequacies highlighted by this work, it is necessary to introduce an evidence-based protocol for the comprehensive management of the human bite. Using United Kingdom Department of Health evidence-based guidelines, the author proposes such a pathway.
 
 ---
 
-### Laceration repair: a practical approach [^533b4f9d]. American Family Physician (2017). Low credibility.
+### Laceration repair: a practical approach [^1138Ptrx]. American Family Physician (2017). Low credibility.
 
 The goals of laceration repair are to achieve hemostasis and optimal cosmetic results without increasing the risk of infection. Many aspects of laceration repair have not changed over the years, but there is evidence to support some updates to standard management. Studies have been unable to define a "golden period" for which a wound can safely be repaired without increasing risk of infection. Depending on the type of wound, it may be reasonable to close even 18 or more hours after injury. The use of nonsterile gloves during laceration repair does not increase the risk of wound infection compared with sterile gloves. Irrigation with potable tap water rather than sterile saline also does not increase the risk of wound infection. Good evidence suggests that local anesthetic with epinephrine in a concentration of up to 1:100,000 is safe for use on digits. Local anesthetic with epinephrine in a concentration of 1:200,000 is safe for use on the nose and ears. Tissue adhesives and wound adhesive strips can be used effectively in low-tension skin areas. Wounds heal faster in a moist environment and therefore occlusive and semiocclusive dressings should be considered when available. Tetanus prophylaxis should be provided if indicated. Timing of suture removal depends on location and is based on expert opinion and experience.
 
 ---
 
-### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^11593a33]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^111Sim5c]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 Tetanus is an acute and sometimes fatal disease characterized by sudden muscle contractions. The number of tetanus cases reported annually in the United States has declined significantly since the 1930s and 1940s as a result of the introduction of tetanus vaccines. However, sporadic cases continue to occur in persons who are not up-to-date with tetanus toxoid-containing vaccinations (TT) and do not receive appropriate postexposure prophylaxis (PEP). To assess the extent of these cases, the California Department of Public Health reviewed all tetanus cases reported during January 2008-March 2014. A total of 21 tetanus patients were reported; five (24%) died. An average of three cases were reported each year during 2008–2013; the average annual incidence among patients aged ≥ 65 years (0.23 cases per 1 million population) was twice that among patients aged 21–64 years (0.10 cases per 1 million population). Of 16 patients with an acute injury before illness and diagnosis, nine (56%) sought medical care, and two (22%) of the nine received appropriate PEP. Although tetanus is rare, it is a life-threatening disease that is preventable. Health care providers should ensure that their patients are up-to-date with TT vaccination and provide appropriate postexposure prophylaxis for patients with wounds.
 
 ---
 
-### Audit of tetanus prevention knowledge and practices in accident and emergency departments in england [^ff82e9a1]. Emergency Medicine Journal (2007). Low credibility.
+### Audit of tetanus prevention knowledge and practices in accident and emergency departments in england [^117XopFA]. Emergency Medicine Journal (2007). Low credibility.
 
 Objectives
 
@@ -572,7 +572,7 @@ There are clear differences between the recommended guidelines for tetanus preve
 
 ---
 
-### Recommendations for burns care in mass casualty incidents: WHO emergency medical teams technical working group on burns (WHO TWGB) 2017–2020 [^cd0b9efd]. Burns (2021). Medium credibility.
+### Recommendations for burns care in mass casualty incidents: WHO emergency medical teams technical working group on burns (WHO TWGB) 2017–2020 [^116EzNAg]. Burns (2021). Medium credibility.
 
 Recommendations 10b
 
@@ -614,7 +614,7 @@ First aid treatment should continue from scene to first receiving health facilit
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^cdd65bf3]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^116GATpn]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Introduction
 
@@ -624,7 +624,7 @@ From the late 1940s through the 1990s, vaccination against pertussis, diphtheria
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^970fcf2a]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^114rxSYR]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Special Situations
 
@@ -648,13 +648,13 @@ All health care personnel administering vaccinations should be aware of the pote
 
 ---
 
-### Tetanus in the emergency department: a current review [^2f247284]. The Journal of Emergency Medicine (2001). Low credibility.
+### Tetanus in the emergency department: a current review [^112CtfJB]. The Journal of Emergency Medicine (2001). Low credibility.
 
 Despite the availability of effective immunization to prevent tetanus, there are still up to one million cases per year worldwide. Although the majority of tetanus cases occur in third world countries, there are still significant numbers of cases occurring in countries such as the United States, where preventive immunization is easily accessible. The Emergency Physician has the opportunity to contribute to the decline of the incidence of tetanus through knowledge of those at greatest risk for inadequate immunization and through providing proper wound care and immunization prophylaxis.
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^cfa812ba]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^116JrtfT]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Background and Epidemiology of Tetanus
 
@@ -664,7 +664,7 @@ The incubation period from injury to symptom onset varies from 3 to 21 days (med
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^9ffecc3a]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^1156Ccfj]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 Prevention of Neonatal and Obstetric Tetanus
 
@@ -672,13 +672,13 @@ Pregnant women who have completed the childhood immunization schedule and were l
 
 ---
 
-### Issues related to the decennial tetanus-diphtheria toxoid booster recommendations in adults [^3c7d4b81]. Infectious Disease Clinics of North America (2001). Low credibility.
+### Issues related to the decennial tetanus-diphtheria toxoid booster recommendations in adults [^112YgLrL]. Infectious Disease Clinics of North America (2001). Low credibility.
 
 In terms of disease prevention, reduction of adverse reactions, and cost benefit studies, a strong case can be made for a policy that focuses on assuring high levels of primary immunization with tetanus and diphtheria (Td) toxoids and abandons the decennial Td booster in favor of a single midlife booster at age 50–65 years. The addition of acellular pertussis antigens to Td for routine use in adults has potential problems in terms of schedule, cost, and possible adverse reactions. Careful risk/benefit studies are necessary to evaluate its effectiveness and priority.
 
 ---
 
-### Clinical guidance for wound management to prevent… [^5580f488]. CDC (2025). Medium credibility.
+### Clinical guidance for wound management to prevent… [^113BmGCo]. CDC (2025). Medium credibility.
 
 Key points
 - The best ways to prevent tetanus are vaccination and wound management.
@@ -706,7 +706,7 @@ TIG prophylaxis indications For clean and minor wounds TIG is never indicated fo
 
 ---
 
-### Global epidemiology of diphtheria, 2000–2017 [^f5b1229b]. Emerging Infectious Diseases (2019). Medium credibility.
+### Global epidemiology of diphtheria, 2000–2017 [^117HFTv2]. Emerging Infectious Diseases (2019). Medium credibility.
 
 Given a previous lack of global guidance on diphtheria-containing booster doses after the 3-dose primary series, a wide variety of schedules had been adopted by different countries as of 2018. Twenty-four percent of countries used the 3-dose series alone, and other countries offered 1–3 booster doses on varying schedules; 24% of countries also included > 1 adult booster doses, defined as a dose recommended at or after 18 of years of age (Figure 2). Although there are no global estimates of coverage for booster doses, available data suggest coverage is lower than that for the primary series in many countries.
 
@@ -717,13 +717,13 @@ In August 2017, WHO released revised recommendations for diphtheria vaccination.
 
 ---
 
-### Frostbite: a practical approach to hospital management [^5dfe19ca]. Extreme Physiology & Medicine (2014). Medium credibility.
+### Frostbite: a practical approach to hospital management [^113QMCVP]. Extreme Physiology & Medicine (2014). Medium credibility.
 
 Regarding preventative measures for frostbite, more specifically with respect to tetanus prophylaxis, ACCP 2014 guidelines recommend to follow standard guidelines to determine the need for the tetanus toxoid administration, as frostbite injuries are not inherently tetanus-prone wounds.
 
 ---
 
-### Managing snakebite [^8b6d050c]. BMJ (2022). Excellent credibility.
+### Managing snakebite [^114Zhu3h]. BMJ (2022). Excellent credibility.
 
 Other treatments
 
@@ -733,25 +733,25 @@ Administer a tetanus toxoid booster in all patients except in those with coagulo
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^7db2a519]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^114DMTWY]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (adults), CDC 2020 guidelines recommend to administer a single dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis, preferably as the first dose in the catch-up series, in individuals aged ≥ 19 years who are not fully immunized against tetanus and diphtheria. Administer either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis if additional tetanus toxoid-containing doses are required.
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^a2213956]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^1159N9uf]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination, pregnant individuals, ACOG 2017 guidelines recommend to administer a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine outside of the 27–36 weeks of gestation window in cases of wound management, a pertussis outbreak, or other extenuating circumstances where the need for protection from infection supersedes the benefit of administering the vaccine during the 27–36 weeks of gestation window.
 
 ---
 
-### Comprehensive medical evaluation and assessment of comorbidities: standards of care in diabetes – 2025 [^8a82b4c3]. Diabetes Care (2025). High credibility.
+### Comprehensive medical evaluation and assessment of comorbidities: standards of care in diabetes – 2025 [^114YMCFU]. Diabetes Care (2025). High credibility.
 
 Tetanus, diphtheria, pertussis (Tdap) — all adults are included and pregnant individuals should have an extra dose, with a booster every 10 years and GRADE evidence type 2 for effectiveness and 3 for safety.
 
 ---
 
-### Post-traumatic endophthalmitis involving Clostridium tetani and Bacillus spp [^f8720bd5]. American Journal of Ophthalmology (2001). Low credibility.
+### Post-traumatic endophthalmitis involving Clostridium tetani and Bacillus spp [^117MLEgt]. American Journal of Ophthalmology (2001). Low credibility.
 
 Purpose
 
@@ -771,19 +771,19 @@ We are unaware of previous reports of endophthalmitis involving C tetani and cou
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^e6678f3a]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^116tawKP]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Indicated tetanus and diphtheria booster vaccination during pregnancy: If a Td booster vaccination is indicated during pregnancy (ie, more than 10 years since the previous Td vaccination) then obstetrician–gynecologists and other health care providers should administer the Tdap vaccine during pregnancy within the 27–36–weeks-of-gestation window; this recommendation is because of the nonurgent nature of this indication and the desire for maternal immunity and also will maximize antibody transfer to the newborn.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of frostbite: 2024 update [^00bc714b]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of frostbite: 2024 update [^11126JA6]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Tetanus prophylaxis — Tetanus prophylaxis should be administered according to standard guidelines. Recommendation: Strong recommendation, low-quality evidence.
 
 ---
 
-### Corneoscleral laceration and ocular burns caused by electronic cigarette explosions [^b754297f]. Cornea (2016). Low credibility.
+### Corneoscleral laceration and ocular burns caused by electronic cigarette explosions [^115go1BU]. Cornea (2016). Low credibility.
 
 An otolaryngology consult was obtained for his facial and oral injuries; no acute surgical intervention was recommended. A computed tomography (CT) scan was negative for radio-opaque intraocular or orbital foreign bodies. The patient underwent an emergent repair of his open globe with partial iridectomy and repositing of the remaining prolapsed iris. Anterior chamber washout was not performed because of intraoperative concerns regarding wound integrity. He received moxifloxacin 400 mg intravenously and a tetanus booster. His left corneal burn was treated with a combined neomycin (3500 I.U./g), polymixin B (6000 I.U./g), and dexamethasone 0.1% ointment every 2 hours.
 
@@ -797,7 +797,7 @@ Case 1, extensive epithelial defect in left eye with fluorescein stain and diffu
 
 ---
 
-### Treatment recommendations… [^088951b7]. CDC (2025). Medium credibility.
+### Treatment recommendations… [^111Df2Sz]. CDC (2025). Medium credibility.
 
 Key points
 - Tetanus is a medical emergency that requires hospitalization.
@@ -812,13 +812,13 @@ Depending on disease severity, endotracheal intubation or tracheostomy and mecha
 
 ---
 
-### Pharmacological management of tetanus: an evidence-based review [^47a34575]. Critical Care (2014). Low credibility.
+### Pharmacological management of tetanus: an evidence-based review [^112qCxnp]. Critical Care (2014). Low credibility.
 
 Tetanus is becoming rarer in both industrialized and developing nations due to an effective vaccination program. In 2010, the World Health Organization estimated there was a 93% reduction in newborns dying from tetanus worldwide, compared to the situation in the late 1980s. Due to its rarity, many diagnostic delays occur as physicians may not consider the diagnosis until the manifestations become overt. Without timely diagnosis and proper treatment, severe tetanus is fatal (mortality is also influenced by the comorbidities of the patient). The principles of treating tetanus are: reducing muscle spasms, rigidity and autonomic instability (with ventilatory support when necessary); neutralization of tetanus toxin with human antitetanus immunoglobulin or equine antitetanus sera; wound debridement; and administration of antibiotics to eradicate locally proliferating bacteria at the wound site. It is difficult to conduct trials on different treatment modalities in tetanus due to both logistical and ethical reasons. However, it is imperative that physicians are aware of the best evidence-based treatment strategies currently available to improve the outcome of patients. This review concentrates on analyzing the current evidence on the pharmacological management of tetanus.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^b450261e]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^115cKh9o]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 General Recommendations
 
@@ -830,25 +830,25 @@ Pregnant women. No change has been made to the recommendations for routine Tdap 
 
 ---
 
-### Tetanus: recognition and management [^8b2e55fc]. The Lancet: Infectious Diseases (2025). High credibility.
+### Tetanus: recognition and management [^114ZLqsH]. The Lancet: Infectious Diseases (2025). High credibility.
 
 Currently a rarity in high-income countries, tetanus is a diagnosis not to miss. Deaths from tetanus fell by almost 90% between 1990 and 2019, largely reflecting the success of WHO's Maternal and Neonatal Tetanus Elimination campaign. However, deaths among children and adults have plateaued, and tetanus remains an important vaccine-preventable cause of morbidity and mortality, notably in southern Asia, southeast Asia, and sub-Saharan Africa. Tetanus results from infections with spore-forming Clostridium tetani bacteria, usually acquired via contaminated wounds and burns. C tetani releases a potent neurotoxin, causing muscle spasms, rigidity, and dysautonomia. Important complications include laryngeal spasm and resultant airway obstruction and respiratory arrest, nosocomial infections, and sequelae of prolonged immobility. Tetanus is usually diagnosed on the basis of clinical signs and symptoms, but microbiological tests can serve as useful adjuncts. Treatment is multifaceted, requiring source control, antibiotic therapy, and antitoxin administration. With prolonged, quality intensive care, many patients survive with good functional outcome. However, due to challenges in leveraging routinely-collected health-care data and performing high-quality trials in resource-constrained settings, several key questions remain unanswered and optimal treatment strategies are contested. In this Review, we provide a state-of-the-art summary of global tetanus epidemiology, its clinical features and differential diagnosis, principles of management, and prognosis.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^815a2e79]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^114JmhEQ]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (children, up to 6 years), CDC 2020 guidelines recommend to administer a single dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis, preferably as the first dose in the catch-up series, in children aged 7–18 years who are not fully immunized against tetanus and diphtheria. Administer either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis if additional tetanus toxoid-containing doses are required. Do not restart the vaccination series in children with incomplete diphtheria toxoid, tetanus toxoid, and acellular pertussis history, regardless of the time that has elapsed between doses.
 
 ---
 
-### Human rabies prevention – United States, 2008: recommendations of the advisory committee on immunization practices [^41a3d901]. MMWR: Recommendations and Reports (2008). Medium credibility.
+### Human rabies prevention – United States, 2008: recommendations of the advisory committee on immunization practices [^112gKEKz]. MMWR: Recommendations and Reports (2008). Medium credibility.
 
 Rabies wound management — initial care of animal bite wounds emphasizes cleansing and selective closure. For many types of bite wounds, immediate gentle irrigation with water or a dilute povidone-iodine solution markedly decrease the risk for bacterial infection, and care should be taken not to damage skin or tissues. Wound cleansing is especially important in rabies prevention because thorough wound cleansing alone without other postexposure prophylaxis markedly reduced the likelihood of rabies in animal studies. Consideration should be given to the need for a booster dose of tetanus vaccine, while decisions regarding antibiotic prophylaxis and primary wound closure should be individualized based on animal species, wound characteristics, and time since the bite; suturing should be avoided, when possible.
 
 ---
 
-### Tetanus: recognition and management [^1b25b55c]. The Lancet: Infectious Diseases (2025). High credibility.
+### Tetanus: recognition and management [^111hFLEF]. The Lancet: Infectious Diseases (2025). High credibility.
 
 Localised tetanus is rare, and presents with muscle spasms and rigidity localised to the area around the site of injury, usually a single limb. It is more common in partially immune individuals, such as those who have had primary childhood immunisation but no subsequent boosters. Diagnosis is challenging, but prognosis comparatively favourable, despite the risk of secondary generalisation.
 
@@ -856,7 +856,7 @@ Cephalic tetanus, a variant of localised tetanus, is confined to the head and ne
 
 ---
 
-### Current practice in the management of tetanus [^c51d2294]. Critical Care (2014). Low credibility.
+### Current practice in the management of tetanus [^1163EM7Z]. Critical Care (2014). Low credibility.
 
 Conclusion
 
@@ -864,7 +864,7 @@ The most important factor that determines the outcome in tetanus is undoubtedly 
 
 ---
 
-### Point-of-care testing for tetanus immunity: a systematic review and meta-analysis [^4c05b6eb]. Emergency Medicine Journal (2022). Medium credibility.
+### Point-of-care testing for tetanus immunity: a systematic review and meta-analysis [^112whykE]. Emergency Medicine Journal (2022). Medium credibility.
 
 Background
 
@@ -884,13 +884,13 @@ TQS could confer the greatest cost savings if used in combination with vaccinati
 
 ---
 
-### Postexposure prophylaxis for common infectious diseases [^658426d5]. American Family Physician (2013). Low credibility.
+### Postexposure prophylaxis for common infectious diseases [^113bW8z8]. American Family Physician (2013). Low credibility.
 
 Postexposure prophylaxis (PEP) is effective in preventing illness after potential or documented exposure to a variety of microbial pathogens and in reducing the risk of secondary spread of infection. Guidelines have been published by the Centers for Disease Control and Prevention and the Advisory Committee on Immunization Practices for proper use of PEP for bloodborne pathogens, for microorganisms transmitted by either airborne or droplet spread or through direct contact, and for infections acquired after traumatic injuries. Depending on the type of exposure, different forms of PEP are available, including vaccines, immune globulins, antibiotics, and antiviral medications. Physicians should assess a patient's potential need for PEP based on several factors, including the type of exposure, the timing and severity of illness in the source patient, the exposed person's susceptibility to infectious diseases of concern, and the relative risks and benefits of the PEP regimen in an individual situation. Immunity to certain infectious diseases can be ensured with prior infection or vaccination, and by serologic testing in patients with a negative or uncertain history. PEP should be given to persons exposed to index cases of pertussis and invasive meningococcal infection regardless of immunization history, and should be given following rabies and tetanus exposure regardless of the length of delay. In general, PEP should be given as soon as possible following a high-risk exposure. Persons exposed to bloodborne pathogens should have baseline testing for human immunodeficiency virus, hepatitis B virus, and hepatitis C virus antibodies, and follow-up testing at six weeks, three months, and six months postexposure.
 
 ---
 
-### Updated recommendations for use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (tdap) in pregnant women – advisory committee on immunization practices (ACIP), 2012 [^7db5ad88]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
+### Updated recommendations for use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (tdap) in pregnant women – advisory committee on immunization practices (ACIP), 2012 [^114DNUbZ]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
 
 ACIP Recommendations for Pregnant Women
 
@@ -920,7 +920,7 @@ ACIP recommends that adolescents and adults (e.g. parents, siblings, grandparent
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^284e3bdb]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^1122knPc]. MMWR: Morbidity and Mortality Weekly Report (2020). Medium credibility.
 
 CDC Guidance
 
@@ -928,7 +928,7 @@ Catch-up immunization. For persons aged 7–9 years who receive a dose of Tdap a
 
 ---
 
-### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^03cdcc70]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
+### Missed opportunities for tetanus postexposure prophylaxis – California, January 2008-March 2014 [^1116e68F]. MMWR: Morbidity and Mortality Weekly Report (2015). Low credibility.
 
 In this analysis, only nine of 16 patients with acute injuries had sought medical care before their tetanus illness onset and diagnosis, and only two of the nine received PEP with TT or TT plus TIG as recommended. Health care providers might fail to provide TIG PEP because of a lack of knowledge about current recommendations or because the assessment of wound severity and whether a patient should be managed with TIG according to ACIP recommendations can be subjective. All tetanus patients required considerable and costly medical care, including hospitalization, and almost all (90%) were admitted to intensive care. Among patients who received TIG as treatment, there was variability in the dose administered. In the United States, 3,000–6,000 U, given in a single intramuscular dose with part of the dose infiltrated around the wound if it can be identified, is generally recommended for treatment. However, the optimal therapeutic dose has not been established, and some experts contend that a dose of 500 U, as recommended by the World Health Organization, is as effective as higher doses and causes less discomfort. It is also possible that some providers treating tetanus patients inadvertently prescribed the PEP dosage of TIG rather than the treatment dosage. Among five treated patients who received < 3,000 U of TIG as treatment, three survived and two died. Among 10 treated patients who received ≥ 3,000 U of TIG, seven survived, and three died.
 
@@ -942,25 +942,25 @@ The incidence of tetanus has declined significantly since the introduction of te
 
 ---
 
-### Adverse reactions to vaccines practice parameter 2012 update [^4eb76d04]. The Journal of Allergy and Clinical Immunology (2012). Medium credibility.
+### Adverse reactions to vaccines practice parameter 2012 update [^1131heQT]. The Journal of Allergy and Clinical Immunology (2012). Medium credibility.
 
 Tetanus toxoid — revaccination after prior neurologic events is addressed: despite potential associations with Guillain-Barré syndrome (GBS) and brachial neuritis, neither GBS nor brachial neuritis is a contraindication to additional tetanus-containing vaccine doses.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^99e19843]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV [^114w8t4J]. HIV.gov (2025). High credibility.
 
 Tetanus, diphtheria, and pertussis (Tdap/Td) — For adults and adolescents with HIV, administer one dose 0.5 mL IM Tdap (Adacel or Boostrix), followed by one dose of Td or Tdap at least 4 weeks after Tdap and another dose of Td or Tdap 6 months to 12 months later, then give Td or Tdap every 10 years (AII). For those who did not receive Tdap at age 11 years or older, give one dose 0.5 mL IM Tdap (Adacel or Boostrix), then Td or Tdap every 10 years (AII), and if indicated, give Tdap regardless of when the last dose of Td was given. In pregnancy, give Tdap preferably in early part of gestational weeks 27–36 (AIII) and one dose of Tdap is indicated for each pregnancy, with boosters to give Td or Tdap every 10 years after Tdap. Additional notes: ideally, dose should be given at least 14 days prior to delivery, and Tdap can be substituted for any Td dose and is always preferred as the first dose. ACIP alignment: no difference in recommendations.
 
 ---
 
-### A 51-year-old woman crushed by an elephant trunk [^237f30a5]. Wilderness & Environmental Medicine (2015). Low credibility.
+### A 51-year-old woman crushed by an elephant trunk [^111udHj2]. Wilderness & Environmental Medicine (2015). Low credibility.
 
 Wild and exotic animal attacks are not common in the United States. Animal-related injuries in the United States are usually caused by dog bites, followed by cattle and horse injuries. Exotic animal attacks can occur when the animals are provoked, depressed, or housed improperly by owners. We report the case of a 51-year-old woman who sustained multiple systemic traumatic injuries after she was pinned to a fence by an elephant's trunk. Upon arrival in the emergency department, she was hypothermic with a temperature of 35.1ºC (95.1ºF), hypotensive to 94/60 mm Hg after 5 L crystalloid, tachycardic at 108 beats/min, and intubated with oxygen saturation of 100%. Tranexamic acid was administered in addition to starting a massive transfusion protocol. Injuries included bilateral multiple rib fractures, left abdominal wall degloving injury, right pneumothorax, right hemothorax, left chest wall puncture wound, grade IV splenic laceration, 3 grade III liver lacerations, retroperitoneal hematoma, and degloving injuries to bilateral posterior thighs requiring more than 30 operations. Why should an emergency physician be aware of this? Several factors need to be considered when evaluating animal-related injuries, including type, age, and sex of the animal. Multisystem traumatic injuries should be assumed when a large animal is involved. Prehospital care and transport time are vital to a patient's survival in both urban and rural settings. During the initial resuscitation, administering antibiotics tailored to the specific animal can greatly decrease risk of infection and morbidity. Additionally, tetanus immunoglobulin, tetanus toxoid, and rabies immunoglobulin and vaccine may be needed, unless the victim has been previously vaccinated.
 
 ---
 
-### WSES / GAIS / WSIS / SIS-E / AAST global clinical pathways for patients with skin and soft tissue infections [^6a20f38f]. World Journal of Emergency Surgery (2022). Medium credibility.
+### WSES / GAIS / WSIS / SIS-E / AAST global clinical pathways for patients with skin and soft tissue infections [^113iLkpN]. World Journal of Emergency Surgery (2022). Medium credibility.
 
 Infections developing in damaged skin
 
@@ -992,19 +992,19 @@ Human bites that have broken the skin and drawn blood can theoretically transmit
 
 ---
 
-### Additional recommendations for use of tetanus toxoid, reduced-content diphtheria toxoid, and acellular pertussis vaccine (tdap) [^41ce684c]. Pediatrics (2011). Low credibility.
+### Additional recommendations for use of tetanus toxoid, reduced-content diphtheria toxoid, and acellular pertussis vaccine (tdap) [^112gZXTZ]. Pediatrics (2011). Low credibility.
 
 The American Academy of Pediatrics and the Centers for Disease Control and Prevention are amending previous recommendations and making additional recommendations for the use of tetanus toxoid, reduced-content diphtheria toxoid, and acellular pertussis vaccine (Tdap). Review of the results from clinical trials and other studies has revealed no excess reactogenicity when Tdap is given within a short interval after other tetanus- or diphtheria-containing toxoid products, and accrual of postmarketing adverse-events reports reveals an excellent safety record for Tdap. Thus, the recommendation for caution regarding Tdap use within any interval after a tetanus- or diphtheria-containing toxoid product is removed. Tdap should be given when it is indicated and when no contraindication exists. In further efforts to protect people who are susceptible to pertussis, the American Academy of Pediatrics and Centers for Disease Control and Prevention recommend a single dose of Tdap for children 7 through 10 years of age who were underimmunized with diphtheria-tetanus-acellular pertussis (DTaP). Also, the age for recommendation for Tdap is extended to those aged 65 years and older who have or are likely to have contact with an infant younger than 12 months (eg, health care personnel, grandparents, and other caregivers).
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^268ca51d]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^111z9mhE]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Tdap vaccination during pregnancy — ACIP published its updated recommendation that a dose of Tdap should be administered during each pregnancy, and the recommended timing for maternal Tdap vaccination is between 27 weeks and 36 weeks of gestation; to maximize the maternal antibody response and passive antibody transfer and levels in the newborn, vaccination as early as possible in the 27–36-weeks-of-gestation window is recommended. If a pregnant woman is vaccinated early in her pregnancy before 27–36 weeks of gestation, she does not need to be vaccinated again during 27–36 weeks of gestation. However, the Tdap vaccine may safely be given at any time during pregnancy if needed in the case of wound management, pertussis outbreaks, or other extenuating circumstances. Additional data demonstrate that administration during the late second or early third trimester with at least 2 weeks from vaccination to delivery is highly effective, safety data remain reassuring including with successive immunizations and short-interval pregnancies, and immunizing early within the 27–36-weeks-of-gestation window maximizes maternal antibody response and passive transfer; therefore, giving Tdap as early as possible in this window appears to be the best strategy. Receipt of Tdap between 27 weeks and 36 weeks of gestation in each pregnancy is described as critical.
 
 ---
 
-### Tetanus: recognition and management [^a06a483d]. The Lancet: Infectious Diseases (2025). High credibility.
+### Tetanus: recognition and management [^1156pidi]. The Lancet: Infectious Diseases (2025). High credibility.
 
 Over 90% of tetanus deaths occur in South/South East Asia, and sub-Saharan Africa. Nevertheless, C. tetani is distributed worldwide, with 32–92 cases diagnosed each year in the European Union/European Economic Area; 17–33 in the USA; and 4–11 in the UK. Despite being notifiable, a study of hospital records from 2001–2014 suggested that cases in England were under-reported by 88%. There appears to be seasonality in Europe, with highest incidence in July, and a second peak in October. This likely reflects increased outdoor activity, which carries risks of skin breaks and wound contamination.
 
@@ -1016,13 +1016,13 @@ Major risk factors for tetanus include advanced age, injecting drug use, and dia
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^2f7415bf]. Obstetrics and Gynecology (2017). Low credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^112DMQmC]. Obstetrics and Gynecology (2017). Low credibility.
 
 The overwhelming majority of morbidity and mortality attributable to pertussis infection occurs in infants who are 3 months and younger. Infants do not begin their own vaccine series against pertussis until approximately 2 months of age. This leaves a window of significant vulnerability for newborns, many of whom contract serious pertussis infections from family members and caregivers, especially their mothers, or older siblings, or both. In 2013, the Advisory Committee on Immunization Practices published its updated recommendation that a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) should be administered during each pregnancy, irrespective of the prior history of receiving Tdap. The recommended timing for maternal Tdap vaccination is between 27 weeks and 36 weeks of gestation. To maximize the maternal antibody response and passive antibody transfer and levels in the newborn, vaccination as early as possible in the 27-36-weeks-ofgestation window is recommended. However, the Tdap vaccine may be safely given at any time during pregnancy if needed for wound management, pertussis outbreaks, or other extenuating circumstances. There is no evidence of adverse fetal effects from vaccinating pregnant women with an inactivated virus or bacterial vaccine or toxoid, and a growing body of robust data demonstrate safety of such use. Adolescent and adult family members and caregivers who previously have not received the Tdap vaccine and who have or anticipate having close contact with an infant younger than 12 months should receive a single dose of Tdap to protect against pertussis. Given the rapid evolution of data surrounding this topic, immunization guidelines are likely to change over time, and the American College of Obstetricians and Gynecologists will continue to issue updates accordingly.
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^7a31cc2d]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^1148ADWt]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Arthus Reactions
 
@@ -1030,19 +1030,19 @@ Arthus reactions (type III hypersensitivity reactions) are rarely reported after
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^e330302e]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^116opNkd]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (adults), CDC 2020 guidelines recommend to administer a series of three tetanus and diphtheria toxoid-containing vaccines, including at least one tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis dose, in individuals aged ≥ 19 years who have never been vaccinated against pertussis, tetanus, or diphtheria. Administer vaccination series preferably according to the following schedule: one dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis, followed by one dose of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis at least 4 weeks afterward, and one dose of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis 6–12 months later.
 
 ---
 
-### ACOEM statement on adult immunization [^901931da]. ACOEM (2024). High credibility.
+### ACOEM statement on adult immunization [^114gdgQy]. ACOEM (2024). High credibility.
 
 CDC recommended adult immunization schedule by age group, United States, 2024 outlines age- and indication-based dosing for select adult vaccines. For tetanus, diphtheria, pertussis (Tdap or Td), it states "1 dose Tdap each pregnancy; 1 dose Td/Tdap for wound management (see notes) 1 dose Tdap, then Td or Tdap booster every 10 years". For measles, mumps, rubella (MMR), it lists "1 or 2 doses depending on indication (born in 1957 or later)". For Meningococcal A, C, W, Y (MenACWY), it notes "1 or 2 doses depending on indication, see notes for booster recommendations". For Haemophilus influenzae type b (Hib), it specifies "1 or 3 doses depending on indication". For respiratory syncytial virus (RSV), the schedule includes "Seasonal administration during pregnancy. See Notes".
 
 ---
 
-### Recombinant monoclonal antibody siltartoxatug versus plasma-derived human tetanus immunoglobulin for tetanus: a randomized, double-blind, active-controlled, phase 3 trial [^14959e52]. Nature Medicine (2025). Excellent credibility.
+### Recombinant monoclonal antibody siltartoxatug versus plasma-derived human tetanus immunoglobulin for tetanus: a randomized, double-blind, active-controlled, phase 3 trial [^111XX1SR]. Nature Medicine (2025). Excellent credibility.
 
 Participants
 
@@ -1075,7 +1075,7 @@ All participants provided written informed consent before enrollment, including 
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^11425b61]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^111Sb5Xe]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Persons Aged ≥ 19 Years
 
@@ -1097,19 +1097,19 @@ Vaccination of Special Populations
 
 ---
 
-### Committee opinion no. 718 summary: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^606255b1]. Obstetrics and Gynecology (2017). Low credibility.
+### Committee opinion no. 718 summary: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^113Ttqma]. Obstetrics and Gynecology (2017). Low credibility.
 
 The overwhelming majority of morbidity and mortality attributable to pertussis infection occurs in infants who are 3 months and younger. Infants do not begin their own vaccine series against pertussis until approximately 2 months of age. This leaves a window of significant vulnerability for newborns, many of whom contract serious pertussis infections from family members and caregivers, especially their mothers, or older siblings, or both. In 2013, the Advisory Committee on Immunization Practices published its updated recommendation that a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) should be administered during each pregnancy, irrespective of the prior history of receiving Tdap. The recommended timing for maternal Tdap vaccination is between 27 weeks and 36 weeks of gestation. To maximize the maternal antibody response and passive antibody transfer and levels in the newborn, vaccination as early as possible in the 27-36-weeks-of-gestation window is recommended. However, the Tdap vaccine may be safely given at any time during pregnancy if needed for wound management, pertussis outbreaks, or other extenuating circumstances. There is no evidence of adverse fetal effects from vaccinating pregnant women with an inactivated virus or bacterial vaccine or toxoid, and a growing body of robust data demonstrate safety of such use. Adolescent and adult family members and caregivers who previously have not received the Tdap vaccine and who have or anticipate having close contact with an infant younger than 12 months should receive a single dose of Tdap to protect against pertussis. Given the rapid evolution of data surrounding this topic, immunization guidelines are likely to change over time, and the American College of Obstetricians and Gynecologists will continue to issue updates accordingly.
 
 ---
 
-### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^fe28acc2]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
+### Use of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccines: updated recommendations of the advisory committee on immunization practices-United States, 2019 [^117VoWzM]. MMWR: Morbidity and Mortality Weekly Report (2020). High credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination (children, up to 6 years), CDC 2020 guidelines recommend to administer a series of three tetanus and diphtheria toxoid-containing vaccines, including at least one tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis dose in children aged 7–18 years who have never been vaccinated against pertussis, tetanus, or diphtheria. Administer vaccination series preferably according to the following schedule: one dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis, followed by one dose of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis ≥ 4 weeks afterward, and one dose of either Td or tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis 6–12 months later.
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^25751db9]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^111xXt2t]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 Summary
 
@@ -1117,24 +1117,24 @@ This report compiles and summarizes all recommendations from CDC's Advisory Comm
 
 ---
 
-### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^2b1603c2]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 718: update on immunization and pregnancy: tetanus, diphtheria, and pertussis vaccination [^1126srzu]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for diphtheria, more specifically with respect to vaccination, pregnant individuals, ACOG 2017 guidelines recommend to administer a dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine immediately postpartum if not administered during pregnancy, during a previous pregnancy, or as an adolescent or adult.
 
 ---
 
-### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^f74b8d92]. MMWR: Recommendations and Reports (2018). Low credibility.
+### Prevention of pertussis, tetanus, and diphtheria with vaccines in the United States: recommendations of the advisory committee on immunization practices (ACIP) [^117KdKVs]. MMWR: Recommendations and Reports (2018). Low credibility.
 
 This report compiles and summarizes all recommendations from CDC's Advisory Committee on Immunization Practices (ACIP) regarding prevention and control of tetanus, diphtheria, and pertussis in the United States. As a comprehensive summary of previously published recommendations, this report does not contain any new recommendations and replaces all previously published reports and policy notes; it is intended for use by clinicians and public health providers as a resource. ACIP recommends routine vaccination for tetanus, diphtheria, and pertussis. Infants and young children are recommended to receive a 5-dose series of diphtheria and tetanus toxoids and acellular pertussis (DTaP) vaccines, with one adolescent booster dose of tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine. Adults who have never received Tdap also are recommended to receive a booster dose of Tdap. Women are recommended to receive a dose of Tdap during each pregnancy, which should be administered from 27 through 36 weeks' gestation, regardless of previous receipt of Tdap. After receipt of Tdap, adolescents and adults are recommended to receive a booster tetanus and diphtheria toxoids (Td) vaccine every 10 years to assure ongoing protection against tetanus and diphtheria.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of frostbite: 2024 update [^928811b1]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of frostbite: 2024 update [^114kEtz4]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Regarding preventative measures for frostbite, more specifically with respect to tetanus prophylaxis, WMS 2024 guidelines recommend to administer tetanus prophylaxis according to standard guidelines.
 
 ---
 
-### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^d4e83e07]. Wilderness & Environmental Medicine (2014). Medium credibility.
+### Wilderness Medical Society practice guidelines for basic wound management in the austere environment: 2014 update [^116SePBt]. Wilderness & Environmental Medicine (2014). Medium credibility.
 
 Wilderness Medical Society basic wound management — evacuation recommends that patients with the following wounds require care that is not available in a wilderness setting and should be evacuated (Recommendation grade: 1C): all complex wounds not closed primarily; open fractures; wounds with underlying tendon, joint, nerve, or vessel damage; wounds secondary to mammalian bites; any wound showing early signs of infection, if appropriate early antibiotics are not available; wounds with progression of infection after administration of antibiotics; wounds associated with a large foreign body, particularly if organic in nature; wounds with symptoms of systemic toxicity (fever, alterations of consciousness, shock); wounds in the presence of hypothermia; wounds with palpable gas in the soft tissues; wounds with significant associated devitalized tissue; tetanus-prone wounds requiring immunization.

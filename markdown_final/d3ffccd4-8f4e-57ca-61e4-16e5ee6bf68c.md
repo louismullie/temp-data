@@ -117,7 +117,7 @@ The difference between the areas of any two adjacent stripes is **48 cm²**.
 
 ## References
 
-### Gustatory thalamic neurons mediate aversive behaviors [^6ba208aa]. Nature Communications (2025). High credibility.
+### Gustatory thalamic neurons mediate aversive behaviors [^113ka6py]. Nature Communications (2025). High credibility.
 
 Conditioned place preference (CPP)
 
@@ -125,7 +125,7 @@ Mice underwent a 4-day conditioned place preference paradigm protocol in a recta
 
 ---
 
-### Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions [^6b316214]. Nature Communications (2024). High credibility.
+### Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions [^113jvGDR]. Nature Communications (2024). High credibility.
 
 Loop classification
 
@@ -145,31 +145,31 @@ The compartments were identified at 100-kb resolution using cooltools package. T
 
 ---
 
-### Rapid active zone remodeling consolidates presynaptic potentiation [^13e85582]. Nature Communications (2019). High credibility.
+### Rapid active zone remodeling consolidates presynaptic potentiation [^111WWoay]. Nature Communications (2019). High credibility.
 
 To investigate the AZ structure in an approach independent of the cluster-distance minimization procedure described above, we repeated the averaging in a different way as follows. We developed a MATLAB code for AZ centering and alignment by rotation of the highest intensity pixel to identical angles and therefore similar positions, which yielded qualitatively similar results (Supplementary Fig. 3a). Again, high-intensity clusters were detected in AZ images cleaned from clusters belonging to bordering AZs, and all translations and rotations were then performed on unretouched images. The center of mass of the found cluster coordinates was calculated and the image shifted so that the center of mass of the coordinates was in the center of the 51 by 51 pixel space (x = y = 26; see Eqs. (1) to (6)). Only the position of the brightest pixel was then considered for rotation. To determine the angle by which to rotate each image to place this highest intensity pixel to the same fixed position (on the vertical midline between the two top image quadrants — the "twelve o'clock" position), the x and y distances to the center of rotation (equal to the center pixel of the image x = y = 26) were calculated to find the length (l) of the hypotenuse and the opposite side of the right triangle using pdist. The angle α in degrees was then calculated by taking the inverse sine in degrees of this value (MATLAB function asind), as shown in Eq. (9). In cases where the brightest peak was located above the horizontal midline, the adjacent side of the triangle was the vertical midline. In cases where the brightest peak was located below the horizontal midline, the angle was calculated with the horizontal midline being the adjacent side, and 90° were added to the final angle value. Additionally, in cases where the brightest peak was located to the right of the vertical midline, the angle was multiplied with −1. To generate the results shown in Supplementary Fig. 3b, which shows the averaging of AZ images within randomly assigned categories, we generated a number of random category values and then proceeded with the averaging procedure described above. For this, we reproduced the distribution of category values from the AZ dataset according to the histogram values of the category vector as follows. A histogram of the category vector was generated (MATLAB function histogram) with a bin width of 1, yielding the absolute amount of AZs per category. A cumulative sum vector was calculated from these histogram values (MATLAB function cumsum). For each position in the category vector, we then chose a random number between 0 and 1 and multiplied it by the number of images. We then found the first position in the cumulative sum vector that was larger than this random value. The position found was equal to the assigned category. This resulted in a randomly assigned category vector with a similar distribution of categories as the original vector.
 
 ---
 
-### Boundary-directed epitaxy of block copolymers [^eef4826e]. Nature Communications (2020). High credibility.
+### Boundary-directed epitaxy of block copolymers [^1177GBVw]. Nature Communications (2020). High credibility.
 
 Directed self-assembly of block copolymers (BCPs) enables nanofabrication at sub-10 nm dimensions, beyond the resolution of conventional lithography. However, directing the position, orientation, and long-range lateral order of BCP domains to produce technologically-useful patterns is a challenge. Here, we present a promising approach to direct assembly using spatial boundaries between planar, low-resolution regions on a surface with different composition. Pairs of boundaries are formed at the edges of isolated stripes on a background substrate. Vertical lamellae nucleate at and are pinned by chemical contrast at each stripe/substrate boundary, align parallel to boundaries, selectively propagate from boundaries into stripe interiors (whereas horizontal lamellae form on the background), and register to wide stripes to multiply the feature density. Ordered BCP line arrays with half-pitch of 6.4nm are demonstrated on stripes > 80nm wide. Boundary-directed epitaxy provides an attractive path towards assembling, creating, and lithographically defining materials on sub-10nm scales.
 
 ---
 
-### Trajectory discrimination and peripersonal space perception in newborns [^9e5fc277]. Infancy (2017). Low credibility.
+### Trajectory discrimination and peripersonal space perception in newborns [^1153oD5G]. Infancy (2017). Low credibility.
 
 During the experiment, the monitor (24″) showed a gray background containing two peripheral black areas, where the stimuli appeared. Both were 24.4 cm wide and 20.4 cm high; they were both 0.85 cm apart from the nearest edge of the screen and 1.6 cm apart from one another; they were both 6 cm apart from the top and the bottom of the screen. At the beginning of AC and ANC stimuli and at the end of the R one the ball subtended a visual angle of 23.54° × 23.54°; on average, the width of the stripes subtended a visual angle of 2.94°. The ball was 3.2 cm apart from the nearest edge of the frame and 14 cm apart from the farthest and was 6.6 cm apart from the top and the bottom of the frame. At the end of the AC stimulus and at the beginning of the R one, the ball subtended a visual angle of 37.70° × 37.70°; on average, the width of the stripes subtended a visual angle of 4.71°. The ball was 5.3 cm apart from both edges of the frame and was 3.3 cm apart from the top and the bottom of the frame. At the end of the ANC stimulus, the ball subtended a visual angle of 34.70° × 34.70°; on average, the width of the stripes subtended a visual angle of 4.33°. The ball was 3.2 cm apart from the nearest edge of the frame and 11.2 cm apart from the farthest and was 5.2 cm apart from the top and the bottom of the frame. The luminance of the display was 0.5 cd/m 2 for the black frames and 54 cd/m 2 for the gray background; it was instead 78 cd/m 2 for the white stripes of the moving ball and 108 cd/m 2 for the lightest part of it (highlight). We provided the infants with high contrast stimuli in order to enhance their attention toward them; in fact, Michelson contrast between the black frames and the gray background was −0.982, between the white stripes of the ball and the black frames it was 0.987, and between the highlight of the ball and the black frames it was 0.991. The black curtain surrounding the monitor had a luminance of 0.2 cd/m 2 and the room was poorly lit in order to ensure that the newborns' attention was focused toward the screen (average walls luminance was 30 cd/m 2; average ceiling luminance was 15 cd/m 2). All measures were taken from the infant's position during the experiments, and the ambient lighting while measuring was the same as the average lighting of the room while testing was conducted. The speed of our stimuli resulted from the combination of the length of the path that the recorded ball had to travel (35.51 cm for AC and R; 30 cm for ANC) and a display time long enough to ensure that the newborns' attention could be engaged. The resulting speed of the ball in the AC and R stimuli was 10.6 cm/sec, whereas in the ANC stimulus, it was 9 cm/sec. We were not concerned about the effect that the speed of the moving stimulus could have on the discrimination of the different trajectories. In fact, previous studies did not use stimuli moving with a consistent speed and their results indicated that even wide variations in the looming speed (i.e. from 6 to 48 cm/sec) did not have any impact on infants' reactions (Náñez, 1988). Each stimulus moved for 3,333 msec, preceded and followed by 10 frames (333 msec) where the ball stood still (during the last one contrast was reduced, favoring a fading effect), for an overall stimulus duration of 4,000 msec. Each stimulus was presented eight times, with a 1‐sec interval between two subsequent presentations and 4,000 msec of blank screen before the first presentation, for an overall trial duration of 44 sec.
 
 ---
 
-### Anisotropic encoding of three-dimensional space by place cells and grid cells [^a8aebe5f]. Nature Neuroscience (2011). Medium credibility.
+### Anisotropic encoding of three-dimensional space by place cells and grid cells [^115K5cdC]. Nature Neuroscience (2011). Medium credibility.
 
 The subjective sense of space may result in part from the combined activity of place cells in the hippocampus and grid cells in posterior cortical regions such as the entorhinal cortex and pre- and parasubiculum. In horizontal planar environments, place cells provide focal positional information, whereas grid cells supply odometric (distance measuring) information. How these cells operate in three dimensions is unknown, even though the real world is three-dimensional. We investigated this issue in rats exploring two different kinds of apparatus: a climbing wall (the 'pegboard') and a helix. Place and grid cell firing fields had normal horizontal characteristics but were elongated vertically, with grid fields forming stripes. It seems that grid cell odometry (and by implication path integration) is impaired or absent in the vertical domain, at least when the rat itself remains horizontal. These findings suggest that the mammalian encoding of three-dimensional space is anisotropic.
 
 ---
 
-### Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors [^f18dc9ec]. Nature Communications (2025). High credibility.
+### Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors [^117B7eBd]. Nature Communications (2025). High credibility.
 
 Fig. 2
 Cardinal anisotropies for orientation decoding are specific to central stimuli in EEG. Stimulus positions and sizes (top) are shown to scale.
@@ -178,7 +178,7 @@ Dashed lines depict the vertical and horizontal meridians. Black horizontal line
 
 ---
 
-### Boundary-directed epitaxy of block copolymers [^bee52b79]. Nature Communications (2020). High credibility.
+### Boundary-directed epitaxy of block copolymers [^115t1d8c]. Nature Communications (2020). High credibility.
 
 Fig. 5
 Monte Carlo simulations.
@@ -189,7 +189,7 @@ The slanted lamellae act as a template to convert the lamellar domains on the st
 
 ---
 
-### Prominent effects and neural correlates of visual crowding in a neurodegenerative disease population [^527ea900]. Brain (2014). Low credibility.
+### Prominent effects and neural correlates of visual crowding in a neurodegenerative disease population [^1137JXeX]. Brain (2014). Low credibility.
 
 Task 3: Shape flankers
 
@@ -213,7 +213,7 @@ Data analysis
 
 ---
 
-### Twisted moiréconductive thermal metasurface [^f8d6fd6d]. Nature Communications (2024). High credibility.
+### Twisted moiréconductive thermal metasurface [^117Mv9EL]. Nature Communications (2024). High credibility.
 
 Theoretical verification of thermal magic angle in twisted metadevices
 
@@ -228,7 +228,7 @@ a, b Results of the temperature profiles for the twisted angleswith a and b. c, 
 
 ---
 
-### Discretized representations in V1 predict suboptimal orientation discrimination [^32b9edfb]. Nature Communications (2025). High credibility.
+### Discretized representations in V1 predict suboptimal orientation discrimination [^112JCqHt]. Nature Communications (2025). High credibility.
 
 Fig. 6
 Cosine similarity between the representations of the task and tuning block stimuli.
@@ -237,7 +237,7 @@ a Trial-averaged APrE activity of 206 neurons simultaneously recorded in an exam
 
 ---
 
-### Theory of branching morphogenesis by local interactions and global guidance [^34973bae]. Nature Communications (2021). High credibility.
+### Theory of branching morphogenesis by local interactions and global guidance [^112Ly9uw]. Nature Communications (2021). High credibility.
 
 Comparison between analytical model and simulations
 
@@ -247,7 +247,7 @@ To summarize, the combination of analytical modelling and numerical simulations 
 
 ---
 
-### Is the middle between both halves? midpoint location and segment size estimation in neglect [^b7e5475a]. Neurology (2002). Low credibility.
+### Is the middle between both halves? midpoint location and segment size estimation in neglect [^115hdkHF]. Neurology (2002). Low credibility.
 
 Background
 
@@ -271,13 +271,13 @@ These results suggest that perceptual size distortion of line segments alone can
 
 ---
 
-### The 30-degree angle revisited [^eec48357]. Journal of the American Academy of Dermatology (2005). Low credibility.
+### The 30-degree angle revisited [^1176z4TG]. Journal of the American Academy of Dermatology (2005). Low credibility.
 
 The standard surgical ellipse, with 30 degrees apical angles and a length-to-width ratio of 2 or 3 to 1, works optimally on a flat surface. The same pattern, when used for excisions on strongly convex or concave surfaces, leads to distortions which may require significant revisions. The reason for these discrepancies is explainable by the mathematical differences between flat Euclidian geometry and curved non-Euclidian geometry. Understanding these basic mathematical principles as applied to cutaneous surgery should lead to better preoperative planning, fewer intraoperative surprises, and more pleasing results.
 
 ---
 
-### Homeostatic plasticity of eye movement performance in xenopus tadpoles following prolonged visual image motion stimulation [^c3ad733c]. Journal of Neurology (2023). Medium credibility.
+### Homeostatic plasticity of eye movement performance in xenopus tadpoles following prolonged visual image motion stimulation [^11616r2w]. Journal of Neurology (2023). Medium credibility.
 
 Visual motion stimuli, optokinetic training, and eye motion recording
 
@@ -288,13 +288,13 @@ Stimulation and recording of the optokinetic reflex in semi-intact preparations 
 
 ---
 
-### How to evaluate agreement between quantitative measurements [^7316afc8]. Radiotherapy and Oncology (2019). Medium credibility.
+### How to evaluate agreement between quantitative measurements [^113wdCP1]. Radiotherapy and Oncology (2019). Medium credibility.
 
 When a method comparison study is performed, the aim is to evaluate the agreement of measurements of different methods. We present the Bland-Altman plot with limits of agreement as the correct analysis methodology. We also discuss other scaled and unscaled indices of agreement and commonly used inappropriate approaches.
 
 ---
 
-### Semantic priming modulates the strength and direction of the kanizsa illusion [^abb1ff18]. Communications Psychology (2025). Medium credibility.
+### Semantic priming modulates the strength and direction of the kanizsa illusion [^115PYfqh]. Communications Psychology (2025). Medium credibility.
 
 Based on the pilot experiments, the illusory triangle's sides were set to be 3.9 × 3.4 × 3.4 cm (4.53.9visual angles). It was positioned a bit over the vertical center of the screen (8.6° from the bottom of the screen, 7.2° from the top) and in the left of the horizontal center (11.1° from the left screen border, 17.2° from the right). Other sliced circles were at least 1 cm (1.1° visual angles) distant from the three Kanizsa inducing circles. The background of the pictures and instructions was black. The instructions were written in white Hebrew letters, in David font.
 
@@ -302,13 +302,13 @@ The Pac-Man prime in Experiment 1 was a screenshot taken from the "Pac-Man" vide
 
 ---
 
-### Agreement between methods [^ce77f1f2]. Kidney International (2008). Low credibility.
+### Agreement between methods [^116H6jmj]. Kidney International (2008). Low credibility.
 
 Before new tests are implemented, it is important to compare their results with those of other measurement methods that are already in use. In the determination of this so-called agreement between methods, one may choose between several statistical approaches. The correlation coefficient is a popular approach to determine the agreement between measurement methods. It is easy to calculate, but has important limitations: it does not provide any information on the type of association and it is extremely sensitive to the range of values within the study. Finally, a correlation coefficient does not reveal whether any difference between two measurements is systematic or random. Therefore, it is highly preferable to use Bland-Altman plots instead, as these reveal both systematic and random errors. Bland-Altman plots are also preferable in case of repeated measurements and calibrations.
 
 ---
 
-### Direct nanopatterning of complex 3D surfaces and self-aligned superlattices via molecular-beam holographic lithography [^1e3caf64]. Nature Communications (2025). High credibility.
+### Direct nanopatterning of complex 3D surfaces and self-aligned superlattices via molecular-beam holographic lithography [^111mq1hM]. Nature Communications (2025). High credibility.
 
 Discussion
 
@@ -316,7 +316,7 @@ Beyond the ultra-fine resolution, the power of MBHL lies in its vast design spac
 
 ---
 
-### Sources of confidence in value-based choice [^4f84ca43]. Nature Communications (2021). High credibility.
+### Sources of confidence in value-based choice [^1132tdDt]. Nature Communications (2021). High credibility.
 
 Fig. 5
 The efficient coding model.
@@ -325,7 +325,7 @@ a The decision process with three distinct process stages, color-coded to match 
 
 ---
 
-### History… [^57e99693]. FDA (2025). Medium credibility.
+### History… [^113FLPBY]. FDA (2025). Medium credibility.
 
 2-B 57 More on Office of Generic Drugs 60 Office of New Drug Chemistry 60 Gleevec 66 Mylotarg – First Major Combination Product 68 Cypher Drug-Eluting Stent 70 Chloramphenicol 71 COX-2 Inhibitors. 72 Off-Label Drugs 72 Aspirin 72 Minoxidil 72 Viagra 3-A 73 Approval Process – Signatures 74 More on Mylotarg and Cypher Drug-Eluting Stent 74 Office of Combination Products 75 Working with Center for Devices. JES: The old Federal Building down there at 2nd and C. It's right behind where the Commissioner sits and right across the street from the Sam Rayburn Office Building and Independence Mall. As a matter of fact — this is a true story — I was walking from C Street to train. shorts and sneakers, because it was hot. At any rate, I'm walking towards the train station, and lo and behold, I see Senator Nancy Kassebaum, who is my representative from Kansas, walking across the street to the Dirksen Office Building.
 
@@ -335,7 +335,7 @@ JS: And so that movement that you just described kind of flies in the face of th
 
 ---
 
-### Diagnostic accuracy of the tsiogkaSpaeth grid test for detecting visual field defects in patients with glaucoma [^7eea2fc1]. BMJ Open Ophthalmology (2025). High credibility.
+### Diagnostic accuracy of the tsiogkaSpaeth grid test for detecting visual field defects in patients with glaucoma [^114FA6q6]. BMJ Open Ophthalmology (2025). High credibility.
 
 The TS grid
 
@@ -343,19 +343,19 @@ As it has been previously described, the TS grid is a new optotype, designed to 
 
 ---
 
-### Overestimation of numerical distances in the left side of space [^fe092e52]. Neurology (2004). Low credibility.
+### Overestimation of numerical distances in the left side of space [^117VcwSR]. Neurology (2004). Low credibility.
 
 Normal subjects presented with a middle number and two left- and right-sided outer numbers overestimate the numerical distance between the middle number and that positioned at its left side. Repetitive transcranial magnetic stimulation (rTMS) of the right posterior parietal cortex specifically counteracts this bias, suggesting that the mental representation of space defined by numbers is shifted toward the left side depending on a greater activity of the right hemisphere.
 
 ---
 
-### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^6517cbfd]. Annals of the American Thoracic Society (2023). High credibility.
+### Quantitative imaging metrics for the assessment of pulmonary pathophysiology: an official American Thoracic Society and Fleischner society joint workshop report [^113ask4c]. Annals of the American Thoracic Society (2023). High credibility.
 
 Basic stereological measurements — first-order parameters and probes identify that "First-order parameters are volume (three-dimensional [3D]), surface (two-dimensional [2D]), length (one-dimensional [1D]), and number (zero-dimensional [0D])". Measurements "are performed using geometric test probes, such as points (0D), lines (1D), planes (2D), or volumes (3D)". These probes create countable events in the image, and "Raw counts provide ratios… that are multiplied by the reference space volume to obtain absolute measures for the lung or subcompartment".
 
 ---
 
-### Invariance properties of bacterial random walks in complex structures [^031312fd]. Nature Communications (2019). High credibility.
+### Invariance properties of bacterial random walks in complex structures [^1115ZNSY]. Nature Communications (2019). High credibility.
 
 The effect of size and shape
 
@@ -365,7 +365,7 @@ We will now investigate the effects of shape and size on the path length distrib
 
 ---
 
-### Temporal dynamics of the neural representation of hue and luminance polarity [^cadce983]. Nature Communications (2022). High credibility.
+### Temporal dynamics of the neural representation of hue and luminance polarity [^116BkheA]. Nature Communications (2022). High credibility.
 
 The 95% CI around the time to peak was determined from the times to peak for each of the 1000 bootstrapped time courses. Statistical tests on the difference in time to peak between two problems were performed using the bootstrap distributions of the differences in time to peak values. If the 95% confidence interval did not include 0, we rejected the null hypothesis, and p values were calculated based on the proportion of values that did fall below 0. To determine at which time points decoding accuracy was significantly above chance, a permutation test was used to calculate p values. This was done by permuting the sign of the decoding accuracy data on a participant basis 1000 times. For each permutation sample, the mean accuracy was recomputed, resulting in an empirical distribution of 1000 mean accuracies. This distribution was used to convert the real mean accuracies across subjects over time to p -value maps over time. The significance threshold was p < 0.05, and significant regions were determined using a cluster-based approach (cluster defining threshold p < 0.01). Onset of significance was calculated as the first time point where accuracy was significant for four continuous 5 ms time bins — the requirement that the accuracy be significant for four consecutive bins was adopted to minimize false positives. Reported p values for paired comparisons of the timing and magnitude of the decoding accuracy are uncorrected.
 
@@ -373,7 +373,7 @@ For the control experiment, classifiers were trained and tested for each session
 
 ---
 
-### High-dimensional one-shot optical field compressive sensing of structured light [^818ca56a]. Nature Communications (2025). High credibility.
+### High-dimensional one-shot optical field compressive sensing of structured light [^114K4eMw]. Nature Communications (2025). High credibility.
 
 Detailed studies show that the measured polarization phase differencechanges from 190° for the 2.26 rad/fs frequency component (834 nm wavelength) to 172° for the 2.48 rad/fs one (760 nm wavelength) (Fig. 2c red), consistent with calculations based on the half-wave plate refractive index provided by the supplier (Fig. 2c blue). Thus, the chromatic dispersion of the incident half-wave plate introduces wavelength–polarization coupling of a supposed linearly polarized light, illustrating the high-dimensional resolving power of the proposed scheme. In the time domain, the polarization state at each time slice is averaged over the entire spectral bandwidth, showing little variation.
 
@@ -381,19 +381,19 @@ We then use quarter-wave plates to generate light fields with right-rotating cir
 
 ---
 
-### Quantification of network structural dissimilarities [^3cf663e0]. Nature Communications (2017). Medium credibility.
+### Quantification of network structural dissimilarities [^112ZP1yZ]. Nature Communications (2017). Medium credibility.
 
 Identifying and quantifying dissimilarities among graphs is a fundamental and challenging problem of practical importance in many fields of science. Current methods of network comparison are limited to extract only partial information or are computationally very demanding. Here we propose an efficient and precise measure for network comparison, which is based on quantifying differences among distance probability distributions extracted from the networks. Extensive experiments on synthetic and real-world networks show that this measure returns non-zero values only when the graphs are non-isomorphic. Most importantly, the measure proposed here can identify and quantify structural topological differences that have a practical impact on the information flow through the network, such as the presence or absence of critical links that connect or disconnect connected components.
 
 ---
 
-### Shape morphing of plastic films [^835f8daf]. Nature Communications (2022). High credibility.
+### Shape morphing of plastic films [^114MmUSz]. Nature Communications (2022). High credibility.
 
 Through discrete peeling of the film belt, local curvature can be programmed and thus different polygonal shapes such as triangle, quadrangle, pentagon and hexagon were also obtained by simply arranging the adhesive layers with predetermined widths and intervals according to the interior angles and side lengths of the targeted shape and peeling the film under the according parameters (Fig. 3e and Supplementary Movie 7). Taking right triangle with an interior angle of 60° and shortest side of 10 mm and the 80 μm thick PTFE film at a peeling angle of 180° as an example, the diameter of the peeled film, d is ~2 mm and thus the widths of adhesive tapes (w a = (180 - θ)π d /360, θ is the interior angle) are 2.62 mm, 1.57 mm and 2.09 mm for interior angles of 30°, 90°, and 60°, respectively and intervals are 17.3, 10 and 20 mm, respectively (Fig. 3e, left). When peeling the film at peeling angle of 180°, the default right triangle was obtained (Supplementary Movie 7). Furthermore, complex 3D structures can be designed and fabricated through a multistep peeling process. For example, a two-step peeling process with orthogonal peeling directions and opposite curling directions can form hyperboloids (Fig. 3f and Supplementary Movie 8). In step I, a PTFE film (4 cm × 2 cm) was attached on two separated adhesive tapes (1 cm × 2 cm with an interval of 2 cm) and peeled off along the red line (Fig. 3f, left); in step II, the other side of the PTFE film was adhered on the adhesive tape (2 cm × 2 cm) and peeled off along the blue line with different peeling angles for the hyperboloids and semi-hyperboloids, before which the parts adhered in the first step were cut into parallel strips along their curling direction. More complex final 3D geometries can also be programmed by designing the layout of the 2D precursors and peeling them along the default routes (adhered regions, peeling direction, and peeling angle). Using this method, we obtained seventeen highly complex 3D geometries from ten 2D precursors and remarkably good agreement between experimental results and FEA predictions further verified the versatility of this shape-morphing strategy and the accuracy of the models (Fig. 4). Apart from the polymer films, the peeling-induced shape morphing strategy is also applicable to other materials capable of plastic deformation, such as metals (copper, silver, aluminum, nickel, titanium, and iron), semiconductor polymer films (poly(3-hexylthiophene-2,5-diyl), P3HT), filter paper, and composite films ranging from centimeter to micrometer (Supplementary Fig. 18).
 
 ---
 
-### Emergence of symmetry selectivity in the visual areas of the human brain: fMRI responses to symmetry presented in both frontoparallel and slanted planes [^98d5ee23]. Human Brain Mapping (2018). Low credibility.
+### Emergence of symmetry selectivity in the visual areas of the human brain: fMRI responses to symmetry presented in both frontoparallel and slanted planes [^114uayXp]. Human Brain Mapping (2018). Low credibility.
 
 2.4.1 Stimuli to explore symmetry coherence and folds of symmetry on frontoparallel planes
 
@@ -401,7 +401,7 @@ Sparse symmetrical patterns (1.8% density as defined by the percentage of red do
 
 ---
 
-### Combined petrosal intertentorial approach: a cadaveric study of comparison with the standard combined petrosectomy [^95cede2f]. Operative Neurosurgery (2025). Medium credibility.
+### Combined petrosal intertentorial approach: a cadaveric study of comparison with the standard combined petrosectomy [^114q6e6r]. Operative Neurosurgery (2025). Medium credibility.
 
 Areas of Surgical Exposure
 
@@ -412,13 +412,13 @@ These figures demonstrate the methodology of the study. A, Schematic representat
 
 ---
 
-### Statistics review 10: further nonparametric methods [^7a912fe5]. Critical Care (2004). Low credibility.
+### Statistics review 10: further nonparametric methods [^1148iFrU]. Critical Care (2004). Low credibility.
 
 This review introduces nonparametric methods for testing differences between more than two groups or treatments. Three of the more common tests are described in detail, together with multiple comparison procedures for identifying specific differences between pairs of groups.
 
 ---
 
-### High-dimensional one-shot optical field compressive sensing of structured light [^50191428]. Nature Communications (2025). High credibility.
+### High-dimensional one-shot optical field compressive sensing of structured light [^1133kS7q]. Nature Communications (2025). High credibility.
 
 Fig. 4
 High-dimensional one-shot optical sensing of radially and azimuthally polarized beams.
@@ -433,7 +433,7 @@ Control of structured light beyond 2D involves the manipulation of optical field
 
 ---
 
-### Mavorixafor (Xolremdi) [^ab62ceb7]. FDA (2024). Medium credibility.
+### Mavorixafor (Xolremdi) [^115P657c]. FDA (2024). Medium credibility.
 
 7.2 Effect of XOLREMDI on Other Drugs
 
@@ -467,49 +467,49 @@ XOLREMDI causes QTc interval prolongation [see Clinical Pharmacology (12.2)]. Co
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^79b1194c]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^1147QzGB]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Echocardiographic assessment of right atrial (RA) size — volume by 2D describes that "2D volumetric measurements are usually based on tracings of the blood-tissue interface on the apical four-chamber view" and that "At the tricuspid valve level, the contour is closed by connecting the two opposite sections of the tricuspid ring with a straight line". It adds, "Volumes can be computed by using either the single plane area-length" or "the disks summation technique", performed in a "2D view". The listed advantage is "More representative of actual RA size than linear dimensions", while limitations include "Assumes a symmetrical shape of the cavity", "Single plane volume calculation may be inaccurate since it assumes that RA enlargement is symmetrical", and "Normal values not well established".
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^24e92f6b]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^111wisxe]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Transthoracic echocardiography sector size and depth — Depth is measured in units of length and should be set to maximize the size of the display for the structures or flow of interest, and because the heart is a moving structure, higher frame rates are desirable to increase temporal resolution; unnecessarily large sector depths can reduce image quality, and a narrower sector angle may be appropriate in some circumstances to enhance image quality.
 
 ---
 
-### Standards of care in diabetes – 2025 [^ef149bc3]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1177SxqY]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for diabetic nephropathy, more specifically with respect to pediatric patients, ADA 2025 guidelines recommend to determine the eGFR at the time of diagnosis and annually thereafter.
 
 ---
 
-### Standards of care in diabetes – 2025 [^5eb43e21]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^113RQNuE]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 1, more specifically with respect to continuous glucose monitoring, ADA 2025 guidelines recommend to implement early continuous glucose monitoring in adult patients with T1DM to improve glycemic outcomes and QoL and minimize hypoglycemia.
 
 ---
 
-### Colorectal cancer screening and prevention [^390b568a]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^112Ta6ws]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, AAFP 2025 guidelines recommend to obtain CRC screening in patients with ≥ 1 first-degree relatives with CRC or adenomatous polyps, starting at 40 years of age or 10 years before the age of the youngest relative at the time of their diagnosis.
 
 ---
 
-### Clotrimazole [^b5a7188a]. FDA. Low credibility.
+### Clotrimazole [^115eJtJD]. FDA. Low credibility.
 
 The dosage of clotrimazole OTIC for treatment of otomycosis in adults is 1 vial OTIC BID for 14 days (1%/0.17 mL)
 
 ---
 
-### Functional differentiation in the human ventromedial frontal lobe: a data-driven parcellation [^0207cfd2]. Human Brain Mapping (2020). Medium credibility.
+### Functional differentiation in the human ventromedial frontal lobe: a data-driven parcellation [^11141bkV]. Human Brain Mapping (2020). Medium credibility.
 
 We tested for differences in co‐occurrence patterns between all pairs of clusters by performing MACM separately on the experiments associated with either cluster, and then computing the voxel‐wise difference between the ensuing ALE maps. All experiments contributing to the two contrasted clusters were pooled and randomly divided into two groups of the same size as the two original sets of experiments defined by activation in the first or second cluster (Eickhoff et al. 2011). ALE‐scores for these two randomly assembled groups were calculated and the difference between these ALE‐scores was recorded for each voxel in the brain. Repeating this process 10,000 times then yielded a null distribution of differences in ALE‐scores between the MACM analyses of the two clusters. The "true" difference in ALE scores was then tested against this null distribution yielding a posterior probability that the true difference was not due to random noise in an exchangeable set of labels based on the proportion of lower differences in the random exchange. The resulting probability values were then thresholded at p > .95 (95% chance for true difference) and inclusively masked by the respective main effects, that is, the significant effects in the MACM for the particular cluster. To simplify the analysis and reduce the number of comparisons, we computed a conjunction map of the contrasts of a given subregion with all others (e.g. Clusters 1 vs. 2–6). This would identify regions which were preferentially connected to the subregion compared to all other subregions.
 
 ---
 
-### The limit of droplet rebound angle [^84959657]. Nature Communications (2025). High credibility.
+### The limit of droplet rebound angle [^114PZcPp]. Nature Communications (2025). High credibility.
 
 Fig. 2
 Mechanism of droplet horizontal rebound.
@@ -522,13 +522,13 @@ On the other hand, in the x- direction, the contact angles of the left and right
 
 ---
 
-### A problem of persistence: still more questions than answers? [^1078e4fd]. Nature Reviews: Microbiology (2013). Medium credibility.
+### A problem of persistence: still more questions than answers? [^111RRQix]. Nature Reviews: Microbiology (2013). Medium credibility.
 
 The current antibiotic resistance crisis has led to increased pressure to prioritize strategies to tackle the issue, with a strong focus being placed on the development of novel antimicrobials. However, one major obstacle that is often overlooked is persister cells, which are refractory to antibiotic treatment. Tackling persistence is a challenge because these cell types are extremely difficult to study and, consequently, little is known about their physiology and the factors that lead to their emergence. Here, four experts contemplate the main physiological features that define persistence and the implications of persistence for antibiotic treatment regimens, and consider what the study of bacterial persistence has taught us about the heterogeneity of bacterial populations.
 
 ---
 
-### The timescale and direction of influence of a third inferior alternative in human value-learning [^eb7260f5]. Communications Psychology (2025). Medium credibility.
+### The timescale and direction of influence of a third inferior alternative in human value-learning [^11724WW8]. Communications Psychology (2025). Medium credibility.
 
 Basic performance
 
@@ -536,7 +536,7 @@ During the learning phase (Fig. 2B), participants were sequentially exposed to t
 
 ---
 
-### Cladribine (Mavenclad) [^adfd0eb6]. FDA (2025). Medium credibility.
+### Cladribine (Mavenclad) [^115Swri9]. FDA (2025). Medium credibility.
 
 2.2 Recommended Dosage
 
@@ -574,13 +574,13 @@ The patient's hands must be dry when handling the tablets and washed thoroughly 
 
 ---
 
-### Technical update on HIV-1 / 2 differentiation assays [^50eb7933]. CDC (2016). Medium credibility.
+### Technical update on HIV-1 / 2 differentiation assays [^1134y6wL]. CDC (2016). Medium credibility.
 
 HIV-1/HIV-2 differentiation testing — alternatives when the FDA-approved antibody differentiation immunoassay cannot be used states that there may be circumstances under which a laboratory is unable to adopt the FDA-approved HIV-1/HIV-2 antibody differentiation immunoassay, and in this situation a laboratory has alternatives for that step in the algorithm, some of which could delay turnaround time for test results. Send specimens to another laboratory that offers the FDA-approved supplemental HIV antibody differentiation assay. Refer to CDC/APHL laboratory testing guidance section I, "Alternative Testing Sequences When Tests in the Recommended Algorithm Cannot be Used".
 
 ---
 
-### The timescale and direction of influence of a third inferior alternative in human value-learning [^a6be0a25]. Communications Psychology (2025). Medium credibility.
+### The timescale and direction of influence of a third inferior alternative in human value-learning [^115GCn3v]. Communications Psychology (2025). Medium credibility.
 
 Fig. 6
 Model comparison.
@@ -589,31 +589,31 @@ A Distractor effect comparison between the actual data and simulated data using 
 
 ---
 
-### Guidelines for the standardization of adult echocardiography reporting: recommendations from the American Society of Echocardiography [^5fd207c0]. Journal of the American Society of Echocardiography (2025). High credibility.
+### Guidelines for the standardization of adult echocardiography reporting: recommendations from the American Society of Echocardiography [^113T4NVV]. Journal of the American Society of Echocardiography (2025). High credibility.
 
 Echocardiography report comparisons to prior studies — comparative statements should address technical differences of the comparison study, include the date of the study being compared and whether findings are new, unchanged, resolved, improved, or worsened, and conclude with a summary statement on the clinical significance of the comparison.
 
 ---
 
-### Colorectal cancer screening and prevention [^c270f773]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^115yGYSN]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, AAFP 2025 guidelines recommend to consider obtaining screening for CRC in adults aged 76–85 years at average risk based on overall health status, prior screening history, and patient preferences.
 
 ---
 
-### ESICM / ESCMID task force on practical management of invasive candidiasis in critically ill patients [^551f3d5b]. Intensive Care Medicine (2019). High credibility.
+### ESICM / ESCMID task force on practical management of invasive candidiasis in critically ill patients [^113BCSYz]. Intensive Care Medicine (2019). High credibility.
 
 Regarding medical management for invasive candidiasis, more specifically with respect to step-down therapy, ESCMID/ESICM 2019 guidelines recommend to discontinue antifungal therapy in patients with suspected (but not proven) invasive candidiasis with negative blood cultures and/or other negative culture specimens taken from suspected infectious foci before starting antifungal therapy.
 
 ---
 
-### Shearing-induced asymmetry in entorhinal grid cells [^57d11eea]. Nature (2015). Excellent credibility.
+### Shearing-induced asymmetry in entorhinal grid cells [^113FCAX3]. Nature (2015). Excellent credibility.
 
 Grid cells are neurons with periodic spatial receptive fields (grids) that tile two-dimensional space in a hexagonal pattern. To provide useful information about location, grids must be stably anchored to an external reference frame. The mechanisms underlying this anchoring process have remained elusive. Here we show in differently sized familiar square enclosures that the axes of the grids are offset from the walls by an angle that minimizes symmetry with the borders of the environment. This rotational offset is invariably accompanied by an elliptic distortion of the grid pattern. Reversing the ellipticity analytically by a shearing transformation removes the angular offset. This, together with the near-absence of rotation in novel environments, suggests that the rotation emerges through non-coaxial strain as a function of experience. The systematic relationship between rotation and distortion of the grid pattern points to shear forces arising from anchoring to specific geometric reference points as key elements of the mechanism for alignment of grid patterns to the external world.
 
 ---
 
-### As-3 [^f4572ab3]. FDA (2025). Medium credibility.
+### As-3 [^117FFFuc]. FDA (2025). Medium credibility.
 
 Storage and handling
 
@@ -623,7 +623,7 @@ Protect from freezing
 
 ---
 
-### Standards of care in diabetes – 2025 [^cb4a5970]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^116CPTef]. Diabetes Care (2025). High credibility.
 
 Regarding diagnostic investigations for diabetes mellitus type 1, more specifically with respect to general principles, ADA 2025 guidelines recommend to obtain a complete medical evaluation at the initial visit and follow-up, as appropriate, to:
 
@@ -645,19 +645,19 @@ Regarding diagnostic investigations for diabetes mellitus type 1, more specifica
 
 ---
 
-### A comparison of phase II study strategies [^ebb760ae]. Clinical Cancer Research (2009). Low credibility.
+### A comparison of phase II study strategies [^1172Tgi9]. Clinical Cancer Research (2009). Low credibility.
 
 The traditional oncology drug development paradigm of single arm phase II studies followed by a randomized phase III study has limitations for modern oncology drug development. Interpretation of single arm phase II study results is difficult when a new drug is used in combination with other agents or when progression-free survival is used as the endpoint rather than tumor shrinkage. Randomized phase II studies are more informative for these objectives but increase both the number of patients and time required to determine the value of a new experimental agent. In this article, we compare different phase II study strategies to determine the most efficient drug development path in terms of number of patients and length of time to conclusion of drug efficacy on overall survival.
 
 ---
 
-### Addressing early childhood emotional and behavioral problems [^0988ef83]. Pediatrics (2016). Medium credibility.
+### Addressing early childhood emotional and behavioral problems [^111F8tFt]. Pediatrics (2016). Medium credibility.
 
 Examples of evidence-based treatments for existing diagnoses in young children — This report focuses on programs that target current diagnoses or clear clinical problems (rather than risk) in infants and toddlers.
 
 ---
 
-### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^8785ac70]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
+### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^114TvEDV]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
 
 2 MATERIALS AND METHODS
 
@@ -679,7 +679,7 @@ The endpoints assessed are detailed below, with information on how they were mea
 
 ---
 
-### Semaglutide 2.4 mg for the treatment of obesity: key elements of the STEP trials 1 to 5 [^ebad60f3]. Obesity (2020). Medium credibility.
+### Semaglutide 2.4 mg for the treatment of obesity: key elements of the STEP trials 1 to 5 [^1172QKv2]. Obesity (2020). Medium credibility.
 
 In the sustained WM trial (STEP 4, NCT03548987), 902 participants with obesity or overweight, without T2D, are being treated with semaglutide 2.4 mg once weekly. Those completing a 20‐week run‐in period are being randomly assigned in a 2:1 manner to receive continued semaglutide 2.4 mg or placebo for an additional 48 weeks to assess WL (Figure 4, Table 1). Approximately 750 eligible participants will be randomly assigned. In addition, it has a withdrawal trial design to assess the change in weight after switching from semaglutide to placebo.
 
@@ -693,62 +693,62 @@ Long‐term weight management trial design (Semaglutide Treatment Effect in Peop
 
 ---
 
-### 2023 ESC guidelines for the management of cardiovascular disease in patients with diabetes [^24784e3d]. European Heart Journal (2023). High credibility.
+### 2023 ESC guidelines for the management of cardiovascular disease in patients with diabetes [^111w4xtU]. European Heart Journal (2023). High credibility.
 
 Regarding medical management for diabetes mellitus type 2, more specifically with respect to prevention of CVD, glucose-lowering medications, ESC 2023 guidelines recommend to consider initiating metformin to reduce cardiovascular risk in patients with T2DM without ASCVD or severe target-organ damage at low, moderate,
 high, or very high risk.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^45eede36]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^112ngNyB]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to hearing assessment, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider obtaining a hearing evaluation at diagnosis or upon reaching adulthood in female patients with X-linked alport syndrome, and then every 5 years in the absence of hearing loss symptoms.
 
 ---
 
-### Guidelines for the echocardiographic assessment of the right heart in adults and special considerations in pulmonary hypertension: recommendations from the American Society of Echocardiography [^29d32346]. Journal of the American Society of Echocardiography (2025). High credibility.
+### Guidelines for the echocardiographic assessment of the right heart in adults and special considerations in pulmonary hypertension: recommendations from the American Society of Echocardiography [^11251QrH]. Journal of the American Society of Echocardiography (2025). High credibility.
 
 American Society of Echocardiography right atrial size — reference limits and abnormality grading for chamber dimension and volume are as follows: Right atrium (RA) major dimension, cm, is normal when < 5.4, mild enlargement when ≥ 5.4 to ≤ 5.8, moderate when > 5.8 to ≤ 6.3, and severe when > 6.3; RA minor dimension, cm, is normal when < 4.2, mild when ≥ 4.2 to ≤ 4.7, moderate when > 4.7 to ≤ 5.1, and severe when > 5.1; RA area, cm², is normal when < 19, mild when ≥ 19 to ≤ 22, moderate when > 22 to ≤ 24, and severe when > 24; Right atrial volume (RAV) index (method of disks), mL/m2, is normal when < 30, mild when ≥ 30 to ≤ 36, moderate when > 36 to ≤ 41, and severe when > 41; RAV index (area-length method), mL/m2, is normal when < 33, mild when ≥ 33 to ≤ 38, moderate when > 38 to ≤ 44, and severe when > 44; RA end-systolic volume index (3D method), mL/m2, is normal when < 42, mild when ≥ 42 to ≤ 49, moderate when > 49 to ≤ 57, and severe when > 57; RA end-diastolic volume index (3D method), mL/m2, is normal when < 60, mild when ≥ 60 to ≤ 73, moderate when > 73 to ≤ 87, and severe when > 87.
 
 ---
 
-### Use of endocrine therapy for breast cancer risk reduction: ASCO clinical practice guideline update [^247375b3]. Journal of Clinical Oncology (2019). High credibility.
+### Use of endocrine therapy for breast cancer risk reduction: ASCO clinical practice guideline update [^111w3LUz]. Journal of Clinical Oncology (2019). High credibility.
 
 Regarding preventative measures for breast cancer, more specifically with respect to chemoprophylaxis, ASCO 2019 guidelines recommend to offer exemestane as an alternative to tamoxifen and/or raloxifene to reduce the risk of invasive breast cancer, specifically ER+ breast cancer, in postmenopausal women ≥ 35 years of age with a 5-year projected absolute breast cancer risk ≥ 1.66% or with lobular carcinoma in situ or atypical hyperplasia.
 
 ---
 
-### Phase 0 / microdosing approaches: time for mainstream application in drug development? [^98d5620b]. Nature Reviews: Drug Discovery (2020). High credibility.
+### Phase 0 / microdosing approaches: time for mainstream application in drug development? [^114uansU]. Nature Reviews: Drug Discovery (2020). High credibility.
 
 Phase 0 approaches - which include microdosing - evaluate subtherapeutic exposures of new drugs in first-in-human studies known as exploratory clinical trials. Recent progress extends phase 0 benefits beyond assessment of pharmacokinetics to include understanding of mechanism of action and pharmacodynamics. Phase 0 approaches have the potential to improve preclinical candidate selection and enable safer, cheaper, quicker and more informed developmental decisions. Here, we discuss phase 0 methods and applications, highlight their advantages over traditional strategies and address concerns related to extrapolation and developmental timelines. Although challenges remain, we propose that phase 0 approaches be at least considered for application in most drug development scenarios.
 
 ---
 
-### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^72901fb9]. Journal of the American Society of Echocardiography (2017). Medium credibility.
+### Recommendations for noninvasive evaluation of native valvular regurgitation: a report from the American Society of Echocardiography developed in collaboration with the Society for Cardiovascular Magnetic Resonance [^113vqztQ]. Journal of the American Society of Echocardiography (2017). Medium credibility.
 
 Color Doppler determinants of regurgitant jet size and acquisition settings — jet momentum (A v²) is a major overall determinant of jet size, and eccentric wall-hugging jets lose momentum rapidly, thus appearing smaller than nonconstrained jets of the same RVol; reducing the Nyquist limit (velocity scale) makes the jet appear larger; slit-like orifices (particularly imaged along the long axis of the orifice) and multiple separate orifices lead to larger jets than single, relatively round orifices; pulse repetition frequency affects jet area inversely and jet size is quite sensitive to and proportional to gain; attenuation in the far field or from interposing highly echoreflectant structures will decrease jet size; higher transducer frequency increases Doppler shift and can make jets larger (as in transesophageal echocardiography [TEE]) but higher frequency beams may suffer excessive attenuation and jets may appear smaller in the far field during transthoracic echocardiography (TTE); angle of interrogation can make jets interrogated orthogonally appear smaller than the same jet imaged axially, and if the tissue priority is set too high, structures may encroach on the color Doppler signal; Standard technique is to use a Nyquist limit (aliasing velocity) Val of 50–70 cm/sec and a high color gain that just eliminates random color speckle from nonmoving regions, and the minimum detectable velocity typically is a fraction (around 10%) of the full Nyquist velocity; illustrating momentum dependence, a 5 m/sec mitral regurgitant jet with a flow rate of 100 mL/sec should appear the same by Color Doppler as a 2.5 m/sec tricuspid regurgitation jet with a flow rate of 200 mL/sec.
 
 ---
 
-### Moving beyond the hazard ratio in quantifying the between-group difference in survival analysis [^84aa7ba7]. Journal of Clinical Oncology (2014). Low credibility.
+### Moving beyond the hazard ratio in quantifying the between-group difference in survival analysis [^114PgdUa]. Journal of Clinical Oncology (2014). Low credibility.
 
 In a longitudinal clinical study to compare two groups, the primary end point is often the time to a specific event (eg, disease progression, death). The hazard ratio estimate is routinely used to empirically quantify the between-group difference under the assumption that the ratio of the two hazard functions is approximately constant over time. When this assumption is plausible, such a ratio estimate may capture the relative difference between two survival curves. However, the clinical meaning of such a ratio estimate is difficult, if not impossible, to interpret when the underlying proportional hazards assumption is violated (ie, the hazard ratio is not constant over time). Although this issue has been studied extensively and various alternatives to the hazard ratio estimator have been discussed in the statistical literature, such crucial information does not seem to have reached the broader community of health science researchers. In this article, we summarize several critical concerns regarding this conventional practice and discuss various well-known alternatives for quantifying the underlying differences between groups with respect to a time-to-event end point. The data from three recent cancer clinical trials, which reflect a variety of scenarios, are used throughout to illustrate our discussions. When there is not sufficient information about the profile of the between-group difference at the design stage of the study, we encourage practitioners to consider a prespecified, clinically meaningful, model-free measure for quantifying the difference and to use robust estimation procedures to draw primary inferences.
 
 ---
 
-### Pharmacological management of osteoporosis in postmenopausal women: an endocrine society guideline update [^8e1830e4]. The Journal of Clinical Endocrinology and Metabolism (2020). High credibility.
+### Pharmacological management of osteoporosis in postmenopausal women: an endocrine society guideline update [^114dfNJ7]. The Journal of Clinical Endocrinology and Metabolism (2020). High credibility.
 
 Regarding medical management for postmenopausal osteoporosis, more specifically with respect to antiresorptive and anabolic therapy, PTH analogs, ES 2020 guidelines recommend to initiate teriparatide or abaloparatide for up to 2 years to reduce the risk of vertebral and non-vertebral fractures in postmenopausal patients with osteoporosis at very high risk of fractures, such as severe or multiple vertebral fractures. (1, Moderate) Switch to an antiresorptive therapy to maintain bone density gains in postmenopausal patients with osteoporosis completing a course of teriparatide or abaloparatide.
 
 ---
 
-### Rigorous location of phase transitions in hard optimization problems [^d98ebea5]. Nature (2005). Excellent credibility.
+### Rigorous location of phase transitions in hard optimization problems [^116ZYG3W]. Nature (2005). Excellent credibility.
 
 It is widely believed that for many optimization problems, no algorithm is substantially more efficient than exhaustive search. This means that finding optimal solutions for many practical problems is completely beyond any current or projected computational capacity. To understand the origin of this extreme 'hardness', computer scientists, mathematicians and physicists have been investigating for two decades a connection between computational complexity and phase transitions in random instances of constraint satisfaction problems. Here we present a mathematically rigorous method for locating such phase transitions. Our method works by analysing the distribution of distances between pairs of solutions as constraints are added. By identifying critical behaviour in the evolution of this distribution, we can pinpoint the threshold location for a number of problems, including the two most-studied ones: random k-SAT and random graph colouring. Our results prove that the heuristic predictions of statistical physics in this context are essentially correct. Moreover, we establish that random instances of constraint satisfaction problems have solutions well beyond the reach of any analysed algorithm.
 
 ---
 
-### Validation of monte carlo estimates of three-class ideal observer operating points for normal data [^26b6e5d9]. Academic Radiology (2013). Low credibility.
+### Validation of monte carlo estimates of three-class ideal observer operating points for normal data [^111zPxr4]. Academic Radiology (2013). Low credibility.
 
 Rationale and Objectives
 
@@ -768,19 +768,19 @@ The statistical estimation method should be key in the development of a pragmati
 
 ---
 
-### Elacestrant (Orserdu) [^25e5bc7d]. FDA (2024). Medium credibility.
+### Elacestrant (Orserdu) [^111yBi3v]. FDA (2024). Medium credibility.
 
 The dosage of elacestrant PO for treatment of breast cancer in postmenopausal female adults with ESR1 mutation (advanced or metastatic, ER-positive, HER2-negative, progression after ≥ 1 line of endocrine therapy) is 345 mg PO daily until disease progression or unacceptable toxicity
 
 ---
 
-### Standards of care in diabetes – 2025 [^14753c0e]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111XL8Yu]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus (monitoring of renal function), ADA 2025 guidelines recommend to monitor urinary albumin (such as spot urinary albumin-to-creatinine ratio) and eGFR 1–4 times per year, depending on the stage of the disease, in patients with established diabetic kidney disease.
 
 ---
 
-### Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension [^cbf53ee8]. Diabetes, Obesity & Metabolism (2022). Medium credibility.
+### Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension [^116DNrym]. Diabetes, Obesity & Metabolism (2022). Medium credibility.
 
 3.2 Change in body weight and
 
@@ -788,7 +788,7 @@ During the main treatment phase (from baseline [week 0] to week 68), semaglutide
 
 ---
 
-### EASL-EASD-EASO clinical practice guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD) [^e30d71d8]. Journal of Hepatology (2024). High credibility.
+### EASL-EASD-EASO clinical practice guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD) [^116ochts]. Journal of Hepatology (2024). High credibility.
 
 Regarding classification and risk stratification for metabolic dysfunction-associated steatotic liver disease, more specifically with respect to noninvasive assessment of fibrosis, EASD/EASL/EASO 2024 guidelines recommend to use a multi-step approach in adult patients with MASLD:
 
@@ -798,55 +798,55 @@ Regarding classification and risk stratification for metabolic dysfunction-assoc
 
 ---
 
-### Evaluation of the visual system by the primary care provider following concussion [^f02d8b33]. Pediatrics (2022). High credibility.
+### Evaluation of the visual system by the primary care provider following concussion [^11795Ku4]. Pediatrics (2022). High credibility.
 
 Concussion visual evaluation — versions (horizontal and vertical movements under binocular conditions) and ductions (movements of each eye under monocular conditions) are assessed by holding the stimulus about 2 feet in front of the patient and moving it in an "H" pattern to the right, left, up-right, up-left, down-right, and down-left, first under binocular conditions then with each eye covered; the eyes should move equally symmetrically to the extreme positions of gaze.
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^81dffce8]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^114KYdzP]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 Spectral Doppler parameter — velocity scale: in a pulsed‑wave (PW) Doppler sample from the left ventricular outflow tract (LVOT), the velocity scale specifies the range of velocities that can be displayed; in the example, the velocity scale is adjusted from a maximum velocity range of −80.0 to −120 cm/sec, and the right image has no aliasing.
 
 ---
 
-### Lateral intercalation-assisted ionic transport towards high-performance organic electrochemical transistor [^4f7220e1]. Nature Communications (2024). High credibility.
+### Lateral intercalation-assisted ionic transport towards high-performance organic electrochemical transistor [^1132nMfW]. Nature Communications (2024). High credibility.
 
 Following this concept, we fabricated OECTs decorated with striped films as shown in Fig. 1a, using the P3HT polymer as channel material. While applying a gate bias (V GS), the anion in electrolyte (1-ethyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide, EMIM + TFSI −) is driven to transport vertically into the active layer and induce with hole carrier. Compared with conventional ion transport, the LI-assisted ionic transport based on lateral channels delivered by the striped films, which not only allows ions to penetrate vertically but also laterally. Figure 1b exhibits the AFM images of P3HT thin films with different stripe structures obtained after photolithography, with stripe widths precisely controlled to 2 μm. The device geometry and the stripped structure in the channel were shown in Supplementary Fig. 2. Notably, for the 100 µm-patterned film, the stripe width equals the device width, resulting in ion penetration from both edges; while other patterned are within the device channel. In this research, the stripe spacing is fixed at 2 μm and the thickness of the films is set at approximately 1 μm for P3HT. A thick OSC layer is adopted first to reveal the volume-dominated trade-off between transconductance and response time. This is achieved by modulating ionic transport directions to emphasize the effect of lateral injection.
 
 ---
 
-### The timescale and direction of influence of a third inferior alternative in human value-learning [^b06a7d7f]. Communications Psychology (2025). Medium credibility.
+### The timescale and direction of influence of a third inferior alternative in human value-learning [^115WYbCJ]. Communications Psychology (2025). Medium credibility.
 
 In the choice phase (Fig. 2D), participants made 12 ternary and 12 binary choices (four trials per each possible binary pair) by reporting their preferred alternative within a maximum of two seconds. We included all three possible binary pairs (HV vs. LV, HV vs. DV, LV vs. DV) to keep the presentation rate of all alternatives equal and to avoid introducing any implicit bias toward the two high-value alternatives. Participants completed 99.73% (95% CI = [99.62%, 99.84%]) of all choice trials with an average reaction time of 729.89 ms (95% CI = [695.14 ms, 764.65 ms]) in Experiment 1, and 99.34% (95% CI = [99.08%, 99.60%]) of choice trials with an average reaction time of 614.50 ms (95% CI = [581.55 ms, 647.45 ms]) in Experiment 2. Participants chose the best alternative significantly higher than the chance level in both ternary and binary trials (Experiment 1: accuracy in ternary = 81.63% (95% CI = [78.49%, 84.77%]), t (29) = 30.17, p < 0.001, d = 5.51, 95% CI = [5.13, 5.88]), and in binary = 90.27% (95% CI = [88.29%, 92.25%]), t (29) = 39.86, p < 0.001, d = 7.28, 95% CI = [6.90, 7.65]; Experiment 2: accuracy in ternary = 70.08% (95% CI = [66.81%, 73.35%]), t (67) = 22.03, p < 0.001, d = 2.67, 95% CI = [2.43, 2.91], and in binary = 81.23% (95% CI = [78.66%, 83.81%], t (67) = 23.80, p < 0.001, d = 2.89, 95% CI = [2.64, 3.13]; Fig. S1 in Supplemental Information). The average reaction time in binary trials was significantly higher than in ternary trials only in Experiment 1, with no statistically significant evidence for change across different contexts in both experiments (2-way ANOVA on log (RT) in Experiment 1: choice type: F (1, 116) = 11.40, p < 0.001, partial η² = 0.09, 95% CI = [0.02, 0.21], contexts: F (1, 116) = 0.20, p = 0.65, partial η² < 0.01, 95% CI = [0.00, 0.05], interaction: F (1, 116) = 0.03, p = 0.87, partial η² < 0.01, 95% CI = [0.00, 0.04]; and in Experiment 2: choice type: F (1, 268) = 2.97, p = 0.09, partial η² = 0.01, 95% CI = [0.00, 0.05], contexts: F (1, 268) = 0.93, p = 0.34, partial η² < 0.01, 95% CI = [0.00, 0.03], interaction: F (1, 268) = 0.01, p = 0.92, partial η² < 0.01, 95% CI = [0.00, 0.02]; Fig. S1 in Supplemental Information). This seemingly counterintuitive finding might be attributed to the greater uncertainty linked with the identities of the alternatives in binary trials.
 
 ---
 
-### AGA clinical practice guideline on management of gastroparesis [^9e865be1]. Gastroenterology (2025). High credibility.
+### AGA clinical practice guideline on management of gastroparesis [^11542B3n]. Gastroenterology (2025). High credibility.
 
 Regarding diagnostic investigations for gastroparesis, more specifically with respect to gastric emptying studies, methodology, AGA 2025 guidelines recommend to perform a 4-hour study in all cases, as some patients with normal emptying at 2 hours may be reclassified as delayed at 4 hours.
 
 ---
 
-### New designs for phase 2 clinical trials [^a90544dc]. Blood (2003). Low credibility.
+### New designs for phase 2 clinical trials [^115KagGs]. Blood (2003). Low credibility.
 
 Conventional phase 2 clinical trials are typically single-arm experiments, with outcome characterized by one binary "response" variable. Clinical investigators are poorly served by such conventional methodology. We contend that phase 2 trials are inherently comparative, with the results of the comparison determining whether to conduct a subsequent phase 3 trial. When different treatments are studied in separate single-arm trials, actual differences between response rates associated with the treatments, "treatment effects", are confounded with differences between the trials, "trial effects". Thus, it is impossible to estimate either effect separately. Consequently, when the results of separate single-arm trials of different treatments are compared, an apparent treatment difference may be due to a trial effect. Conversely, the apparent absence of a treatment effect may be due to an actual treatment effect being cancelled out by a trial effect. Because selection involves comparison, single-arm phase 2 trials thus fail to provide a reliable means for selecting which therapies to investigate in phase 3. Moreover, reducing complex clinical phenomena, including both adverse and desirable events, to a single outcome wastes important information. Consequently, conventional phase 2 designs are inefficient and unreliable. Given the limited number of patients available for phase 2 trials and the increasing number of new therapies that must be evaluated, it is critically important to conduct these trials efficiently. These concerns motivated the development of a general paradigm for randomized selection trials evaluating several therapies based on multiple outcomes. Three illustrative applications of trials using this approach are presented.
 
 ---
 
-### Global strategy for asthma management and prevention [^2d5a224e]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^112AEidj]. GINA (2024). High credibility.
 
 Asthma medications — controller denotes medication targeting both domains of asthma control (symptom control and future risk), and in the past 'controller' was largely used for ICS-containing medications prescribed for regular daily treatment so 'controller' and 'maintenance' became almost synonymous; to avoid confusion, 'ICS-containing treatment' and 'maintenance treatment' have been substituted as appropriate where the intended meaning was unclear.
 
 ---
 
-### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^5aa9dd7e]. Journal of the American Society of Echocardiography (2019). High credibility.
+### Guidelines for performing a comprehensive transthoracic echocardiographic examination in adults: recommendations from the American Society of Echocardiography [^113KQwc1]. Journal of the American Society of Echocardiography (2019). High credibility.
 
 M-mode parameter and function — sweep speed changes the number of cardiac cycles displayed along the horizontal axis of the M-mode display, with example images at a sweep speed of 25 mm/sec and 50 mm/sec.
 
 ---
 
-### Adaptation to feedback representation of illusory orientation produced from flash grab effect [^98b550d9]. Nature Communications (2020). High credibility.
+### Adaptation to feedback representation of illusory orientation produced from flash grab effect [^114uQ29n]. Nature Communications (2020). High credibility.
 
 The disks rotated 250° (degrees of rotation) every second and reversed direction every 240 ms (covering 60°, 1 sector, in that time). On each reversal a light–dark edge would be at the vertical orientation, and for every other rotation reversal (480 ms/cycle) two red vertical bars (0.3 dva width) were flashed on for 33 ms, aligned with the light–dark edges.
 
@@ -856,19 +856,19 @@ The adaptation trial sequence is depicted in Fig. 1a. On each trial, subjects we
 
 ---
 
-### Guidelines for the use of echocardiography as a monitor for therapeutic intervention in adults: a report from the American Society of Echocardiography [^0bd98e75]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Guidelines for the use of echocardiography as a monitor for therapeutic intervention in adults: a report from the American Society of Echocardiography [^111JZwSc]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Prosthetic valve thrombolysis monitoring — echocardiographic thresholds and response assessment: "Both TTE and TEE have been used to detect prosthetic valve thrombosis and monitor therapy effectiveness", and "Fibrinolytic therapy is recommended if left-sided prosthetic valve thrombus area (planimetered on a 2D image) is < 0.8 cm², with serial Doppler echocardiographic monitoring of mean gradients across the valve to assess effectiveness of either fibrinolytic or unfractionated heparin treatment". "A significant reduction in the transvalvular gradient at 24 hours is indicative of effective therapy", and "both are equally effective at monitoring for reductions in transvalvular gradients".
 
 ---
 
-### ESTES guidelines: acute mesenteric ischaemia [^f0f5bc7b]. European Journal of Trauma and Emergency Surgery (2016). Medium credibility.
+### ESTES guidelines: acute mesenteric ischaemia [^117AEZxn]. European Journal of Trauma and Emergency Surgery (2016). Medium credibility.
 
 Regarding follow-up and surveillance for acute mesenteric ischemia, more specifically with respect to second-look procedures, ESTES 2016 guidelines recommend to reassess ischemic bowel after adequate fluid resuscitation and revascularization. Perform a second-look procedure to assess the viability of the bowel if any doubt remains.
 
 ---
 
-### Aperiodic nanoplasmonic devices for directional colour filtering and sensing [^fc6983eb]. Nature Communications (2017). Medium credibility.
+### Aperiodic nanoplasmonic devices for directional colour filtering and sensing [^117TDKcv]. Nature Communications (2017). Medium credibility.
 
 Anti-symmetric spatial spectrum splitting
 
@@ -876,7 +876,7 @@ Spectrum splitting using diffractive optics has been utilized in recent years to
 
 ---
 
-### Digoxin [^f3d4e389]. FDA (2025). Medium credibility.
+### Digoxin [^117EVVtU]. FDA (2025). Medium credibility.
 
 3 DOSAGE FORMS AND STRENGTHS
 
@@ -886,19 +886,19 @@ Scored Tablets: 125 mcg (3)
 
 ---
 
-### Promoting optimal development: screening for mental health, emotional, and behavioral problems: clinical report [^d13b5812]. Pediatrics (2025). High credibility.
+### Promoting optimal development: screening for mental health, emotional, and behavioral problems: clinical report [^116MCM1j]. Pediatrics (2025). High credibility.
 
 Follow-up planning — once a decision on next steps has been reached in partnership with a family, it is important to ensure an appropriate follow-up plan, which will depend on the nature and severity of the problem, management plan implemented, and patient and family response to the plan.
 
 ---
 
-### Roflumilast (Zoryve) [^e2de6cd7]. FDA (2024). Medium credibility.
+### Roflumilast (Zoryve) [^116oLut2]. FDA (2024). Medium credibility.
 
 The dosage of roflumilast TOP for treatment of plaque psoriasis in adults is 1 application(s) TOP daily (0.3% cream or foam)
 
 ---
 
-### Viability and cosmesis of right angle and vertical paramedian forehead flaps are equivalent: a retrospective quantitative study [^06a4fb13]. Dermatologic Surgery (2022). Medium credibility.
+### Viability and cosmesis of right angle and vertical paramedian forehead flaps are equivalent: a retrospective quantitative study [^111ArLmx]. Dermatologic Surgery (2022). Medium credibility.
 
 Background
 
@@ -922,19 +922,19 @@ Vertical and 90-degree PMFF designs for nasal repairs after MMS are equivalent i
 
 ---
 
-### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^7f030a8b]. Journal of the American Society of Echocardiography (2015). Medium credibility.
+### Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European association of cardiovascular imaging [^114FJT38]. Journal of the American Society of Echocardiography (2015). Medium credibility.
 
 Right ventricular apical views — image acquisition guidance (Figure 7) explains that three apical images demonstrate different views of the right ventricle, with the middle image showing the right ventricular–focused view, and that minor variations in the four-chamber plane position relative to the right ventricular crescent shape may result in variability of right ventricular size when measured linearly.
 
 ---
 
-### Diagnosis and classification of diabetes: standards of care in diabetes – 2025 [^568cafd9]. Diabetes Care (2025). High credibility.
+### Diagnosis and classification of diabetes: standards of care in diabetes – 2025 [^113DKC3A]. Diabetes Care (2025). High credibility.
 
 Type 1 diabetes natural history and progression risk indicate that stage 1, defined by the presence of two or more autoantibodies and normoglycemia, carries a 5-year risk of developing symptomatic type 1 diabetes of ~44%. In stage 2, risk is ~60% by 2 years and ~75% within 5 years of developing a clinical diagnosis of type 1 diabetes. A consensus group provides expert recommendations on what should be monitored and how often these factors should be monitored in individuals with presymptomatic type 1 diabetes.
 
 ---
 
-### Shape morphing of plastic films [^a96c261a]. Nature Communications (2022). High credibility.
+### Shape morphing of plastic films [^115LBEY1]. Nature Communications (2022). High credibility.
 
 Polygons
 
@@ -942,7 +942,7 @@ The adhesive layer was parallelly aligned with certain intervals. The width of t
 
 ---
 
-### A modified reverse right-angled triangle osteotomy using the lateral approach for the treatment of posttraumatic cubitus varus deformity in children [^bbbb2306]. Journal of Pediatric Orthopedics (2023). Medium credibility.
+### A modified reverse right-angled triangle osteotomy using the lateral approach for the treatment of posttraumatic cubitus varus deformity in children [^115oKYRB]. Journal of Pediatric Orthopedics (2023). Medium credibility.
 
 METHODS
 
@@ -954,25 +954,25 @@ Design drawing of paper simulated osteotomy was performed before surgery. The in
 
 ---
 
-### American College of Gastroenterology guidelines update: diagnosis and management of celiac disease [^2f907187]. The American Journal of Gastroenterology (2023). High credibility.
+### American College of Gastroenterology guidelines update: diagnosis and management of celiac disease [^112DWwEN]. The American Journal of Gastroenterology (2023). High credibility.
 
 Celiac disease gluten challenge steps within the diagnostic algorithm include specific dosing and timing: The algorithm specifies 3 g gluten daily for 2 weeks, then 3 g gluten daily for up to 6 additional weeks, with repeat serology at end of challenge and repeat serology 2 to 6 weeks after end of challenge.
 
 ---
 
-### Standards of care in diabetes – 2025 [^d4969f8c]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^116SAy7y]. Diabetes Care (2025). High credibility.
 
 Regarding diagnostic investigations for diabetes mellitus type 1, more specifically with respect to screening for PAD, ADA 2025 guidelines recommend to assess lower extremity pulses, capillary refill time, rubor on dependency, pallor on elevation, and venous filling time for initial screening of PAD. Obtain ankle-brachial index with toe pressures and further vascular assessment as appropriate in patients with symptoms of claudication or decreased or absent pedal pulses.
 
 ---
 
-### The management of newly diagnosed large B-cell lymphoma: a British Society for Haematology guideline [^0b5325ec]. British Journal of Haematology (2024). High credibility.
+### The management of newly diagnosed large B-cell lymphoma: a British Society for Haematology guideline [^111HnnxT]. British Journal of Haematology (2024). High credibility.
 
 Regarding diagnostic investigations for diffuse large B-cell lymphoma, more specifically with respect to imaging for staging, BSH 2024 guidelines recommend to consider obtaining contrast-enhanced CT of the neck, chest, abdomen, and pelvis as an alternative if PET-CT is impractical or as an additional imaging modality in selected cases.
 
 ---
 
-### The importance of purkinje activation in long duration ventricular fibrillation [^eea7b774]. Journal of the American Heart Association (2014). Low credibility.
+### The importance of purkinje activation in long duration ventricular fibrillation [^1176pPTH]. Journal of the American Heart Association (2014). Low credibility.
 
 Animal preparation
 
@@ -980,6 +980,6 @@ Six pigs (41 ± 8 kg, mean ± SD) and 6 dogs (32 ± 5 kg) were injected intramus
 
 ---
 
-### Standards of care in diabetes – 2025 [^9fec4de9]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^11566QPS]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 1, more specifically with respect to continuous glucose monitoring, ADA 2025 guidelines recommend to assess skin reactions, either due to irritation or allergy, and address to aid in successful use of devices.

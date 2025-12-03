@@ -13,31 +13,31 @@ How would you counsel a caregiver of an ICU survivor about the expected benefits
 
 ## Answer
 
-> Let's see… What do we have here? The user is asking how to counsel a caregiver of an ICU survivor about the expected benefits of The Caregiver Pathway at 3 months. Let's break this down step-by-step. First, I need to think about the intervention components and the strength of evidence. Then, I should verify which outcomes were measured and how they were analyzed. Next, I will examine the magnitude of benefit in the subgroup of caregivers of survivors, and I should double-check whether effects persisted beyond 3 months. After that, I need to consider limitations and generalizability. Finally, I will translate this into practical, empathetic counseling points and note what to do if the patient did not survive, since the RCT found no benefit for bereaved caregivers at 3 months [^a59a3f98] [^e72f6841].
+> Let's see… What do we have here? The user is asking how to counsel a caregiver of an ICU survivor about the expected benefits of The Caregiver Pathway at 3 months. Let's break this down step-by-step. First, I need to think about the intervention components and the strength of evidence. Then, I should verify which outcomes were measured and how they were analyzed. Next, I will examine the magnitude of benefit in the subgroup of caregivers of survivors, and I should double-check whether effects persisted beyond 3 months. After that, I need to consider limitations and generalizability. Finally, I will translate this into practical, empathetic counseling points and note what to do if the patient did not survive, since the RCT found no benefit for bereaved caregivers at 3 months [^115EWmVy] [^116uk4fa].
 
-> Let me first confirm the intervention and its evidence base. The Caregiver Pathway is a four-step, nurse-led model: a structured needs assessment and conversation early in the ICU stay, a supportive card at ICU discharge, an offer of a phone call after transfer or discharge, and a structured 3-month follow-up conversation; nurses delivering the intervention were trained in communication and the model was delivered with fidelity in a single-center RCT at Oslo University Hospital, which is the highest-quality evidence we have for this specific program [^5d0193ce] [^4a702828].
+> Let me first confirm the intervention and its evidence base. The Caregiver Pathway is a four-step, nurse-led model: a structured needs assessment and conversation early in the ICU stay, a supportive card at ICU discharge, an offer of a phone call after transfer or discharge, and a structured 3-month follow-up conversation; nurses delivering the intervention were trained in communication and the model was delivered with fidelity in a single-center RCT at Oslo University Hospital, which is the highest-quality evidence we have for this specific program [^113NtNwP] [^112uMkr3].
 
-> Wait, let me verify the outcomes and analysis. The RCT measured PTSD symptoms with the IES-R, anxiety and depression with HADS, health-related quality of life with SF-12, and hope with the Herth Hope Index at baseline and 3 months; importantly, the primary analysis across all caregivers showed no significant difference, but a prespecified subgroup analysis restricted to caregivers of patients who survived the ICU stay found significant benefits, which is the key result for counseling here [^a59a3f98] [^e72f6841].
+> Wait, let me verify the outcomes and analysis. The RCT measured PTSD symptoms with the IES-R, anxiety and depression with HADS, health-related quality of life with SF-12, and hope with the Herth Hope Index at baseline and 3 months; importantly, the primary analysis across all caregivers showed no significant difference, but a prespecified subgroup analysis restricted to caregivers of patients who survived the ICU stay found significant benefits, which is the key result for counseling here [^115EWmVy] [^116uk4fa].
 
-> I will now examine the magnitude of benefit for caregivers of survivors at 3 months. PTSD symptoms were about 8 points lower on the IES-R in the intervention group versus controls, which is a clinically meaningful reduction, and the proportion scoring above 33 (a high-risk threshold) dropped from 55% in controls to 24% in the intervention group; anxiety and depression subscores on HADS were also about 2.2 and 1.5 points lower, respectively, and physical functioning on SF-12 improved by roughly 10 points, while hope increased by about 2.4 points, all favoring the intervention in survivors' caregivers [^e72f6841] [^a59a3f98].
+> I will now examine the magnitude of benefit for caregivers of survivors at 3 months. PTSD symptoms were about 8 points lower on the IES-R in the intervention group versus controls, which is a clinically meaningful reduction, and the proportion scoring above 33 (a high-risk threshold) dropped from 55% in controls to 24% in the intervention group; anxiety and depression subscores on HADS were also about 2.2 and 1.5 points lower, respectively, and physical functioning on SF-12 improved by roughly 10 points, while hope increased by about 2.4 points, all favoring the intervention in survivors' caregivers [^116uk4fa] [^115EWmVy].
 
-> Hold on, I should verify durability beyond 3 months. The long-term RCT follow-up shows that PTSD symptoms remained about 10 points lower at 6 and 12 months in caregivers of survivors who received the intervention, with sustained improvements in anxiety at 6 and 12 months and in depression at 6 months, along with gains in hope and HRQoL subdomains, which strengthens confidence that the 3-month signal reflects a durable benefit rather than a transient blip [^a87213b0] [^e9cbeb5a].
+> Hold on, I should verify durability beyond 3 months. The long-term RCT follow-up shows that PTSD symptoms remained about 10 points lower at 6 and 12 months in caregivers of survivors who received the intervention, with sustained improvements in anxiety at 6 and 12 months and in depression at 6 months, along with gains in hope and HRQoL subdomains, which strengthens confidence that the 3-month signal reflects a durable benefit rather than a transient blip [^115JjEjy] [^116yccL9].
 
-> But wait, what if the patient did not survive? I need to ensure I do not overgeneralize. The RCT found no significant benefit for bereaved caregivers at 3 months, and the authors note that bereaved caregivers may need different, more intensive supports and longer timelines to show improvement; therefore, counseling should be tailored and, when relevant, connect bereaved caregivers with palliative care and grief resources rather than promising the same 3-month outcomes seen in survivors' caregivers [^a59a3f98] [^c4285910] [^936a27d3].
+> But wait, what if the patient did not survive? I need to ensure I do not overgeneralize. The RCT found no significant benefit for bereaved caregivers at 3 months, and the authors note that bereaved caregivers may need different, more intensive supports and longer timelines to show improvement; therefore, counseling should be tailored and, when relevant, connect bereaved caregivers with palliative care and grief resources rather than promising the same 3-month outcomes seen in survivors' caregivers [^115EWmVy] [^1161p8Gw] [^114mYqWA].
 
-> Next, I should review limitations to set expectations. This is a single-center study with modest sample sizes in subgroup analyses, and although the intervention was delivered with fidelity, replication in other centers and systems is needed; moreover, the control group still received standard ICU family support, so the observed differences reflect added value of the structured pathway rather than care versus no care, which is reassuring but still warrants cautious interpretation [^e00d7d5a] [^4a702828].
+> Next, I should review limitations to set expectations. This is a single-center study with modest sample sizes in subgroup analyses, and although the intervention was delivered with fidelity, replication in other centers and systems is needed; moreover, the control group still received standard ICU family support, so the observed differences reflect added value of the structured pathway rather than care versus no care, which is reassuring but still warrants cautious interpretation [^116jAkvd] [^112uMkr3].
 
-> Let me translate this into practical counseling. I would explain that The Caregiver Pathway provides structured, individual follow-up from ICU admission through 3 months, including early needs assessment, a supportive card, an offer of a check-in call, and a 3-month conversation to process experiences and connect with resources; in caregivers of survivors, this approach has been linked to fewer PTSD, anxiety, and depression symptoms, better physical functioning, and more hope at 3 months, with benefits persisting at 6 to 12 months, which can help caregivers cope with the ongoing demands of supporting an ICU survivor [^5d0193ce] [^a87213b0] [^e9cbeb5a].
+> Let me translate this into practical counseling. I would explain that The Caregiver Pathway provides structured, individual follow-up from ICU admission through 3 months, including early needs assessment, a supportive card, an offer of a check-in call, and a 3-month conversation to process experiences and connect with resources; in caregivers of survivors, this approach has been linked to fewer PTSD, anxiety, and depression symptoms, better physical functioning, and more hope at 3 months, with benefits persisting at 6 to 12 months, which can help caregivers cope with the ongoing demands of supporting an ICU survivor [^113NtNwP] [^115JjEjy] [^116yccL9].
 
-> I should confirm the clinical significance in plain language. For PTSD, moving from an average score around 32 to 23 and cutting the proportion with high-risk scores by more than half is a meaningful change that can translate into less intrusive memories, less avoidance, and better sleep; similarly, 1–2 point reductions in anxiety and depression on HADS can shift many caregivers from probable disorder to borderline or nonclinical ranges, and a 10-point gain in physical functioning can reflect less fatigue and better ability to manage daily tasks and caregiving duties [^e72f6841] [^706b6da8].
+> I should confirm the clinical significance in plain language. For PTSD, moving from an average score around 32 to 23 and cutting the proportion with high-risk scores by more than half is a meaningful change that can translate into less intrusive memories, less avoidance, and better sleep; similarly, 1–2 point reductions in anxiety and depression on HADS can shift many caregivers from probable disorder to borderline or nonclinical ranges, and a 10-point gain in physical functioning can reflect less fatigue and better ability to manage daily tasks and caregiving duties [^116uk4fa] [^113sfhSF].
 
-> Hold on, I should verify what to say if the caregiver is already experiencing high distress. Exploratory analyses suggest caregivers with more severe baseline depressive symptoms may not show the same short-term PTSD benefit, so I would emphasize that the pathway can still help and that additional supports — such as referral to psychology, social work, or community services — can be integrated if symptoms persist or worsen, aligning with the model's flexibility and the authors' recommendations [^bbd02333] [^c4285910].
+> Hold on, I should verify what to say if the caregiver is already experiencing high distress. Exploratory analyses suggest caregivers with more severe baseline depressive symptoms may not show the same short-term PTSD benefit, so I would emphasize that the pathway can still help and that additional supports — such as referral to psychology, social work, or community services — can be integrated if symptoms persist or worsen, aligning with the model's flexibility and the authors' recommendations [^115oSbYW] [^1161p8Gw].
 
-> Finally, I need to ensure the counseling is balanced and realistic. I would note that while many caregivers benefit, not everyone will experience large improvements by 3 months, and the intervention complements — but does not replace — standard ICU family support; I would also screen for anxiety, depression, and PTSD using validated tools like HADS and IES-R at follow-up and connect caregivers with local resources, peer support, and post-ICU clinics when available, reinforcing that recovery is a trajectory and that ongoing support is appropriate and expected [^706b6da8] [^73682fd6] [^bd4da707].
+> Finally, I need to ensure the counseling is balanced and realistic. I would note that while many caregivers benefit, not everyone will experience large improvements by 3 months, and the intervention complements — but does not replace — standard ICU family support; I would also screen for anxiety, depression, and PTSD using validated tools like HADS and IES-R at follow-up and connect caregivers with local resources, peer support, and post-ICU clinics when available, reinforcing that recovery is a trajectory and that ongoing support is appropriate and expected [^113sfhSF] [^113x6a8d] [^115qek46].
 
 ---
 
-The Caregiver Pathway is associated with **significant improvements at 3 months** for caregivers of ICU survivors, including **reduced PTSD, anxiety, and depression** [^a59a3f98] and improved physical functioning and hope [^e72f6841]. These benefits are most pronounced in caregivers of patients who survived the ICU stay [^cbc5f88e] and are supported by a randomized controlled trial [^a59a3f98]. Counsel caregivers that participation can **lower distress and improve well-being** [^ff5ff58d], but emphasize that effects may vary and that ongoing support remains important [^c4285910].
+The Caregiver Pathway is associated with **significant improvements at 3 months** for caregivers of ICU survivors, including **reduced PTSD, anxiety, and depression** [^115EWmVy] and improved physical functioning and hope [^116uk4fa]. These benefits are most pronounced in caregivers of patients who survived the ICU stay [^116D6yzV] and are supported by a randomized controlled trial [^115EWmVy]. Counsel caregivers that participation can **lower distress and improve well-being** [^117Xc5JC], but emphasize that effects may vary and that ongoing support remains important [^1161p8Gw].
 
 ---
 
@@ -45,30 +45,30 @@ The Caregiver Pathway is associated with **significant improvements at 3 months*
 
 ### Primary outcomes: PTSD, anxiety, and depression
 
-- **PTSD symptoms**: Significant reduction in PTSD symptoms (IES-R) in caregivers of survivors (B = -8.2; 95% CI, -14.2 to -2.2; p = 0.008) [^a59a3f98] [^e72f6841].
-- **Anxiety and depression**: Significant reductions in anxiety (B = -2.2; 95% CI, -4.0 to -0.5; p = 0.014) and depression (B = -1.5; 95% CI, -2.9 to -0.1; p = 0.035) on HADS [^a59a3f98] [^e72f6841].
-- **Clinical significance**: PTSD scores moved from a mean of 31.7 (control) to 23.0 (intervention), with the proportion scoring > 33 dropping from 55% to 24% [^e72f6841].
+- **PTSD symptoms**: Significant reduction in PTSD symptoms (IES-R) in caregivers of survivors (B = -8.2; 95% CI, -14.2 to -2.2; p = 0.008) [^115EWmVy] [^116uk4fa].
+- **Anxiety and depression**: Significant reductions in anxiety (B = -2.2; 95% CI, -4.0 to -0.5; p = 0.014) and depression (B = -1.5; 95% CI, -2.9 to -0.1; p = 0.035) on HADS [^115EWmVy] [^116uk4fa].
+- **Clinical significance**: PTSD scores moved from a mean of 31.7 (control) to 23.0 (intervention), with the proportion scoring > 33 dropping from 55% to 24% [^116uk4fa].
 
 ---
 
 ### Secondary outcomes: health-related quality of life and hope
 
-- **Physical functioning**: Improved SF-12 physical component scores (B = 9.7; 95% CI, 0.3–19.0; p = 0.043) [^a59a3f98] [^e72f6841].
-- **Hope**: Increased hope scores on the Herth Hope Index (B = 2.4; 95% CI, 0.4–4.3; p = 0.017) [^a59a3f98] [^e72f6841].
+- **Physical functioning**: Improved SF-12 physical component scores (B = 9.7; 95% CI, 0.3–19.0; p = 0.043) [^115EWmVy] [^116uk4fa].
+- **Hope**: Increased hope scores on the Herth Hope Index (B = 2.4; 95% CI, 0.4–4.3; p = 0.017) [^115EWmVy] [^116uk4fa].
 
 ---
 
 ## Clinical significance and practical implications
 
-The observed reductions in PTSD, anxiety, and depression are **clinically meaningful** and likely to improve daily functioning and quality of life [^e72f6841]. Improved physical functioning and hope further support **better adaptation to caregiving roles** and reduced burden [^4fe0b1f5].
+The observed reductions in PTSD, anxiety, and depression are **clinically meaningful** and likely to improve daily functioning and quality of life [^116uk4fa]. Improved physical functioning and hope further support **better adaptation to caregiving roles** and reduced burden [^1133RVgG].
 
 ---
 
 ## Limitations and considerations
 
-- **Generalizability**: Single-center study; results may vary in other settings [^e00d7d5a].
-- **Bereaved caregivers**: No significant benefit at 3 months; additional support may be needed [^a59a3f98] [^c4285910].
-- **Implementation**: Requires trained staff and resources; feasibility depends on local capacity [^4a702828] [^e00d7d5a].
+- **Generalizability**: Single-center study; results may vary in other settings [^116jAkvd].
+- **Bereaved caregivers**: No significant benefit at 3 months; additional support may be needed [^115EWmVy] [^1161p8Gw].
+- **Implementation**: Requires trained staff and resources; feasibility depends on local capacity [^112uMkr3] [^116jAkvd].
 
 ---
 
@@ -76,20 +76,20 @@ The observed reductions in PTSD, anxiety, and depression are **clinically meanin
 
 When counseling caregivers, **emphasize the following**:
 
-- **Expected benefits**: Reduced PTSD, anxiety, and depression; improved physical functioning and hope at 3 months [^a59a3f98] [^e72f6841].
-- **Variability**: Benefits may vary; ongoing support and follow-up are important [^c4285910].
-- **Active participation**: Engaging in the pathway's steps (early assessment, supportive card, phone call, 3-month conversation) is key to realizing benefits [^5d0193ce].
-- **Additional support**: Caregivers with high baseline distress or bereavement may need extra resources [^c4285910] [^4909bd73].
+- **Expected benefits**: Reduced PTSD, anxiety, and depression; improved physical functioning and hope at 3 months [^115EWmVy] [^116uk4fa].
+- **Variability**: Benefits may vary; ongoing support and follow-up are important [^1161p8Gw].
+- **Active participation**: Engaging in the pathway's steps (early assessment, supportive card, phone call, 3-month conversation) is key to realizing benefits [^113NtNwP].
+- **Additional support**: Caregivers with high baseline distress or bereavement may need extra resources [^1161p8Gw] [^112sHNKk].
 
 ---
 
-The Caregiver Pathway is associated with **significant improvements at 3 months** for caregivers of ICU survivors, including reduced PTSD, anxiety, and depression, and improved physical functioning and hope [^a59a3f98]. These benefits are most pronounced in caregivers of patients who survived the ICU stay [^cbc5f88e] and are supported by a randomized controlled trial [^a59a3f98]. Counsel caregivers that participation can lower distress and improve well-being, but emphasize that effects may vary and that ongoing support remains important [^c4285910].
+The Caregiver Pathway is associated with **significant improvements at 3 months** for caregivers of ICU survivors, including reduced PTSD, anxiety, and depression, and improved physical functioning and hope [^115EWmVy]. These benefits are most pronounced in caregivers of patients who survived the ICU stay [^116D6yzV] and are supported by a randomized controlled trial [^115EWmVy]. Counsel caregivers that participation can lower distress and improve well-being, but emphasize that effects may vary and that ongoing support remains important [^1161p8Gw].
 
 ---
 
 ## References
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^ff5ff58d]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^117Xc5JC]. Critical Care Medicine (2025). Medium credibility.
 
 KEY POINTS
 
@@ -105,7 +105,7 @@ The current study sought to test short-term (i.e. 3-mo) efficacy of the interven
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^a59a3f98]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^115EWmVy]. Critical Care Medicine (2025). Medium credibility.
 
 Objectives
 
@@ -137,7 +137,7 @@ Conclusions
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^cbc5f88e]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^116D6yzV]. Critical Care Medicine (2025). Medium credibility.
 
 DISCUSSION
 
@@ -145,7 +145,7 @@ At 3 months, considering the sample as a whole, no statistically significant dif
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^ecdcbb64]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^1174ADiK]. Critical Care Medicine (2025). Medium credibility.
 
 OBJECTIVES:
 
@@ -177,7 +177,7 @@ CONCLUSIONS:
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^1a785816]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^111gF6pV]. Critical Care Medicine (2025). Medium credibility.
 
 CONCLUSIONS
 
@@ -185,7 +185,7 @@ CONCLUSIONS
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^5d0193ce]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^113NtNwP]. Critical Care Medicine (2025). Medium credibility.
 
 The study was conducted in accordance with the Helsinki Declaration of 1975 and approved by the Regional Committee for Medical Research Ethics South-East Norway (Approval number: 199446; Approval date: March 15, 2021; Title: Pårørende til kritisk syke — Veien videre) and the Institutional Review Board at OUH (21/03594) and registered in(NCT04839406) prior to study enrollment.
 
@@ -197,7 +197,7 @@ The tailored approach in "The Caregiver Pathway" seeks to ensure appropriate ste
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^e72f6841]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^116uk4fa]. Critical Care Medicine (2025). Medium credibility.
 
 Psychosocial Outcomes
 
@@ -205,7 +205,7 @@ No statistically significant differences were detected between groups in primary
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^b87dcb63]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^115iWyXY]. Intensive Care Medicine (2025). Medium credibility.
 
 Intervention group
 
@@ -226,7 +226,7 @@ Study variables
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^a87213b0]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^115JjEjy]. Intensive Care Medicine (2025). Medium credibility.
 
 Purpose
 
@@ -250,7 +250,7 @@ The online version contains supplementary material available at 10.1007/s00134-0
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^706b6da8]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^113sfhSF]. Critical Care Medicine (2025). Medium credibility.
 
 Data Collection and Outcome Measurements
 
@@ -268,7 +268,7 @@ HRQoL was measured by the Short Form 12-Item Health Survey. The scale has a Ment
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^bbd02333]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^115oSbYW]. Critical Care Medicine (2025). Medium credibility.
 
 TABLE 2.
 Primary and Secondary Outcomes
@@ -283,7 +283,7 @@ Symptoms of depression at baseline appeared to have an impact, as exploratory an
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^f143f08f]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^117AgqVG]. Intensive Care Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -295,7 +295,7 @@ The current study sought to evaluate 6 and 12 months (i.e. long-term) effects of
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^c4285910]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^1161p8Gw]. Critical Care Medicine (2025). Medium credibility.
 
 "The Caregiver Pathway" aims to improve strategies for effective, structured communication between staff and the family caregivers with emphasis on empathy and acknowledging emotions as this have been suggested to reduce the risk of developing PICS-F. The ICU nurses offering "The Caregiver Pathway" in this study were trained in communication. The bedside manner: to be aware of nonverbal interaction as showing empathy, listen actively, and attentive to each individual person, has been described as important for communication with family caregivers, all values and skills well-integrated among the ICU nurses delivering the intervention in this study.
 
@@ -303,7 +303,7 @@ When a patient dies at the ICU, the family caregivers are at special risk for de
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^cccbd160]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^116EcwBV]. Critical Care Medicine (2025). Medium credibility.
 
 ACKNOWLEDGMENTS
 
@@ -311,7 +311,7 @@ We thank all the participants in this study without whom this study would not ha
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^4fe0b1f5]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^1133RVgG]. Intensive Care Medicine (2025). Medium credibility.
 
 Discussion
 
@@ -325,7 +325,7 @@ The strength of The Caregiver Pathway may be in the emphasis on individual and s
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^4a702828]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^112uMkr3]. Critical Care Medicine (2025). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -337,7 +337,7 @@ All family caregivers received standard care, including spontaneous conversation
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^4235ec0d]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^112hAJ5z]. Intensive Care Medicine (2025). Medium credibility.
 
 Conclusion
 
@@ -345,7 +345,7 @@ The Caregiver Pathway can contribute to reduced symptoms of PICS-F among family 
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^4909bd73]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^112sHNKk]. Intensive Care Medicine (2025). Medium credibility.
 
 Future directions
 
@@ -353,7 +353,7 @@ The most vulnerable family caregivers with complex issues might require even mor
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^150f9229]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^111YDyGL]. Intensive Care Medicine (2025). Medium credibility.
 
 The high symptoms of PTSD, anxiety, and depression for the bereaved family caregivers in the intervention group underline the need for palliative care and follow-up. The European Society of Intensive Care Medicine has outlined guidelines for care and future research concerning palliative care at the ICU. End-of-life care has, for example, shown to be improved by communication facilitators conversations following a template, and including a bereavement leaflet, and a three-step support strategy with special awareness of the family caregiver's needs and reactions. Further support at the ICU and a broader collaboration with external agencies and organizations, for example, through religious support, could also be beneficial.
 
@@ -361,7 +361,7 @@ The Caregiver Pathway model was led by ICU nurses during this RCT. More than 40%
 
 ---
 
-### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^e00d7d5a]. Critical Care Medicine (2025). Medium credibility.
+### The caregiver pathway intervention can contribute to reduced post-intensive care syndrome among family caregivers of ICU survivors: a randomized controlled trial [^116jAkvd]. Critical Care Medicine (2025). Medium credibility.
 
 As the ICU nurses often handle family crises combined with providing close monitoring and care to critically ill patients, identifying family caregiver in need of more support is vital for the family caregivers as well as for the ICU nurses. For models such as in this intervention to succeed; however, it is important for managers and employers to provide resources to the ICU nurses to implement and conduct the model in otherwise hectic work environments.
 
@@ -371,7 +371,7 @@ This study has some limitations. First, there is sparse information about the po
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^e9cbeb5a]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^116yccL9]. Intensive Care Medicine (2025). Medium credibility.
 
 Subgroup analyses
 
@@ -388,7 +388,7 @@ b Between-group differences estimated from generalized mixed models, controlled 
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^20414c50]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^111ppY8P]. Intensive Care Medicine (2025). Medium credibility.
 
 Limitations
 
@@ -396,7 +396,7 @@ This study has some limitations. First, ICU nurses only forwarded information ab
 
 ---
 
-### Recovery after critical illness: putting the puzzle together-a consensus of 29 [^3c9cc875]. Critical Care (2017). Low credibility.
+### Recovery after critical illness: putting the puzzle together-a consensus of 29 [^112YrvHi]. Critical Care (2017). Low credibility.
 
 Conclusions
 
@@ -404,7 +404,7 @@ Systematic post-ICU follow-up may assist patients and family caregivers with the
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^826fd9eb]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^114LNxg2]. JAMA Network Open (2025). High credibility.
 
 Discussion
 
@@ -416,7 +416,7 @@ While up to 30% of survivors experience post-ICU impairment at 6 months, caregiv
 
 ---
 
-### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^b6b3f048]. Intensive Care Medicine (2025). Medium credibility.
+### Effects of the caregiver pathway intervention on symptoms of post-intensive care syndrome among family caregivers to critically ill patients: long-term results from a randomized controlled trial [^115fsBmy]. Intensive Care Medicine (2025). Medium credibility.
 
 Statistical analysis
 
@@ -430,7 +430,7 @@ To explore how patient survival during the ICU stay impacted outcomes at 6 and 1
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^05fcdde0]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^1119ssef]. Critical Care (2022). Medium credibility.
 
 Background
 
@@ -442,7 +442,7 @@ To address this pressing issue, we designed a multi-centre health and social car
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^20876fc3]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^111qE6Y2]. Critical Care (2022). Medium credibility.
 
 Discussion
 
@@ -454,7 +454,7 @@ Carer strain also significantly reduced for those caregivers who attended the pr
 
 ---
 
-### Can a dyadic resiliency program improve quality of life in cognitively intact dyads of neuro-ICU survivors and informal caregivers? Results from a pilot RCT [^5d13e0f9]. Neurocritical Care (2021). Medium credibility.
+### Can a dyadic resiliency program improve quality of life in cognitively intact dyads of neuro-ICU survivors and informal caregivers? Results from a pilot RCT [^113NzXUk]. Neurocritical Care (2021). Medium credibility.
 
 Background
 
@@ -474,7 +474,7 @@ In this pilot study, we found improved QoL among survivors, but not in caregiver
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^9eb2ecff]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^1154H9HG]. JAMA Network Open (2025). High credibility.
 
 Introduction
 
@@ -488,19 +488,19 @@ To address this gap, we examined the associations between patient PICS and careg
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^5feab1ce]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^113TCezR]. Critical Care (2022). Medium credibility.
 
 Although there were less symptoms of depression in the InS:PIRE cohort, the intervention did not significantly improve symptoms of depression for caregivers at 12 months. Previous literature has demonstrated that symptoms such as depression improve over the first year of recovery for most critical care survivors. We hypothesise that caregivers have a different recovery trajectory to patients and thus may require targeted interventions at different time periods. There is limited evidence describing the trajectories of symptoms beyond 2 months for caregivers following exposure to critical care illness. Given the large volume of informal, unfunded care provided by this caregiver group in the months following hospital discharge, it is crucial that health services offer adequate support to this cohort. More research is urgently required in this area, in order to fully understand how best to support this vulnerable group, in relation to symptoms of depression.
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^23ff5ded]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^111vNLp4]. JAMA Network Open (2025). High credibility.
 
 While early postdischarge caregiver burden was not associated with long-term PICS in our study, broader caregiving literature suggests that other caregiver factors may influence patient health and rehabilitation outcomes. For example, positive caregiver involvement in poststroke care enhances patient participation in rehabilitation and improves physical function, while caregiver preparedness and confidence in heart failure improves patient self-care. However, little is known about caregiver factors influencing recovery trajectories of ICU survivors. Prospective evaluation of caregiver health and its impact on patient outcomes, including care quality, patient recovery, and readmission rates will advance our understanding of the reciprocal effects between patient and caregiver outcomes and support policy changes and interventions to better support caregivers throughout the patient's recovery.
 
 ---
 
-### Patient and caregiver-derived health service improvements for better critical care recovery [^a9e58785]. Critical Care Medicine (2022). Medium credibility.
+### Patient and caregiver-derived health service improvements for better critical care recovery [^115Lt1De]. Critical Care Medicine (2022). Medium credibility.
 
 Objectives
 
@@ -532,7 +532,7 @@ Patients and caregivers reported a range of emotions and experiences across the 
 
 ---
 
-### Beyond survival: identifying what matters to survivors of critical illness [^67d7dca6]. Critical Care (2021). Medium credibility.
+### Beyond survival: identifying what matters to survivors of critical illness [^113exEMb]. Critical Care (2021). Medium credibility.
 
 We propose a framework to identify a hierarchical ranking of domains of recovery in the order of perceived importance by survivors (and caregivers) and following them over 3 and 6 months to assess their stability or shift following discharge (Fig. 1). For example, allowing survivors and caregivers of acute respiratory failure to assess trade-offs and rank recovery domains identified in prior Delphi work would help establish their perception of optimal recovery and ascertain relative importance of the components. The potential benefits of this approach include:
 Direct identification of patients' and caregivers' priorities which could be used to shape future research agendas.
@@ -543,7 +543,7 @@ Eliciting a hierarchy of priorities relies on patients considering trade-offs be
 
 ---
 
-### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^96c41836]. JAMA Network Open (2020). High credibility.
+### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^114rX1W5]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -553,7 +553,7 @@ The critical care community has responded to this need, but to our knowledge, no
 
 ---
 
-### Beyond survival: identifying what matters to survivors of critical illness [^27322434]. Critical Care (2021). Medium credibility.
+### Beyond survival: identifying what matters to survivors of critical illness [^11217Mpo]. Critical Care (2021). Medium credibility.
 
 Non-mortality endpoints in clinical trials
 
@@ -569,7 +569,7 @@ Recovery is multidimensional with its extent varying across multiple domains, su
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^0ca927ec]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^111Kmfoh]. Critical Care (2022). Medium credibility.
 
 Limitations
 
@@ -581,7 +581,7 @@ The method of data collection varied across the two cohorts (in person or teleph
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^96a8aecb]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^114rMoUe]. Critical Care (2022). Medium credibility.
 
 Methods
 
@@ -599,7 +599,7 @@ Ethical approval was granted by the Northwest (Liverpool Central) Research Ethic
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^5b4e505c]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^113LNBKh]. Critical Care (2016). Low credibility.
 
 Possible benefits of post-ICU clinics for ICU survivors are mentioned before. However, we did not find any recommendations on screening informal caregivers in post-ICU care, though there are recommendations on inviting the informal caregiver to the patient's post-ICU care. Considering the high prevalence of a wide range of burdens in informal caregivers, we highly recommend assessing the informal caregiver as part of the post-ICU care so they can be referred to the appropriate healthcare provider(s) if necessary.
 
@@ -611,7 +611,7 @@ Our study also has some limitations. Two pairs of articles describe the same dat
 
 ---
 
-### ICU recovery interventions: is It time for a personalized medicine approach? [^9f30b189]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### ICU recovery interventions: is It time for a personalized medicine approach? [^11551PS8]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Additionally, the optimal "dose" and timing of interventions remain an area of uncertainty. In the study by Bakhru and colleagues, the brief intervention, consisting of two telephone calls, both approximately 30 minutes each, delivered early after hospital discharge, seems unlikely to have added value to the patients. Future interventions should align the intensity and timing of the interventions with individual patient characteristics. For instance, patients with complex chronic conditions or limited social resources may well require intensive multidisciplinary support, whereas those with high health literacy and strong support networks may benefit from lighter-touch strategies and anticipatory guidance. To better determine who benefits from what, the ICU recovery field needs to consider robust codesign with patients and family members as well as high-quality prospective data capable of defining precise recovery subphenotypes. Just as the RECOVER (Researching COVID to Enhance Recovery) initiative in Long COVID has used platform trial designs to evaluate tailored interventions across diverse populations, the ICU recovery field would benefit from a similar infrastructure to test multiple strategies in parallel and adapt to emerging evidence (Figure 1).
 
@@ -624,7 +624,7 @@ Bakhru and colleagues have taken a meaningful step in testing a real-world solut
 
 ---
 
-### Can in-hospital or post discharge caregiver involvement increase functional performance of older patients? A systematic review [^f3f1c50e]. BMC Geriatrics (2020). Medium credibility.
+### Can in-hospital or post discharge caregiver involvement increase functional performance of older patients? A systematic review [^117EfCXw]. BMC Geriatrics (2020). Medium credibility.
 
 Interventions
 
@@ -650,7 +650,7 @@ Everink et al. reported significant improvements for basic functional performanc
 
 ---
 
-### Effect of a standardized family participation program in the ICU: a multicenter stepped-wedge cluster randomized controlled trial [^65c0fe94]. Critical Care Medicine (2024). Medium credibility.
+### Effect of a standardized family participation program in the ICU: a multicenter stepped-wedge cluster randomized controlled trial [^113braJF]. Critical Care Medicine (2024). Medium credibility.
 
 KEY POINTS
 
@@ -670,7 +670,7 @@ Therefore, the aim of this study was to determine the effect of a standardized f
 
 ---
 
-### Beyond survival: identifying what matters to survivors of critical illness [^ff81dc24]. Critical Care (2021). Medium credibility.
+### Beyond survival: identifying what matters to survivors of critical illness [^117XoTjh]. Critical Care (2021). Medium credibility.
 
 In conclusion, critical care research should emulate the paradigm of patient and family-centered care. Elucidation of priorities from survivors and caregivers represents a pragmatic approach towards designing more patient-centered trials. Understanding priorities should be a crucial factor in prioritizing future research agendas. Once identified, these constructs could be added to trial endpoints to ascertain how they interface with proposed interventions. Further, new support interventions could be developed drawing from the perspective of survivors and their caregivers. Broader impact of our interventions should be eventually measured vis-à-vis patient and caregivers' preferences.
 
@@ -679,7 +679,7 @@ Identifying what matters to survivors of critical illness and their caregivers
 
 ---
 
-### One-year outcomes in caregivers of critically ill patients [^f1b6dfc4]. The New England Journal of Medicine (2016). Excellent credibility.
+### One-year outcomes in caregivers of critically ill patients [^117BMSbD]. The New England Journal of Medicine (2016). Excellent credibility.
 
 Background
 
@@ -699,7 +699,7 @@ In this study, most caregivers of critically ill patients reported high levels o
 
 ---
 
-### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^9fb8a0f6]. JAMA Network Open (2020). High credibility.
+### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^1155o3fb]. JAMA Network Open (2020). High credibility.
 
 Conclusions
 
@@ -707,13 +707,13 @@ Findings from this pilot study support a fully powered RCT of RT vs control. Giv
 
 ---
 
-### The challenge of designing a post-critical illness rehabilitation intervention [^1c3fc849]. Critical Care (2011). Low credibility.
+### The challenge of designing a post-critical illness rehabilitation intervention [^111it5UL]. Critical Care (2011). Low credibility.
 
 Post-ICU morbidity is an important issue for patients, families, and the health-care system. Elliott and colleagues outlined the results from their novel report of the very first home-based physiotherapy program to be tested in survivors of critical illness. The authors described an explicit intervention, which included a self-instruction exercise manual, trainer visits, and telephone follow-up, with excellent internal validity and yet no difference in outcome measures at 26-week follow-up. These results are discussed in the context of risk stratification/individual tailoring of post-ICU programs to patient and family needs and suggest that the collection of multiple simultaneous outcome measures across functional, neuropsychological, caregiver, and health-care utilization domains may offer additional insight into the benefits of post-rehabilitation programs.
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^f62cd6cd]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^117Hy1rt]. JAMA Network Open (2025). High credibility.
 
 Importance
 
@@ -745,7 +745,7 @@ ClinicalTrials.gov Identifier: NCT01211522.
 
 ---
 
-### Recovery after critical illness: putting the puzzle together-a consensus of 29 [^74881030]. Critical Care (2017). Low credibility.
+### Recovery after critical illness: putting the puzzle together-a consensus of 29 [^113ymGR5]. Critical Care (2017). Low credibility.
 
 Family-centered care
 
@@ -757,7 +757,7 @@ In a multicenter randomized clinical trial among patients receiving 7 days of me
 
 ---
 
-### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^7a644fae]. Critical Care Medicine (2021). Medium credibility.
+### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^1148TBbs]. Critical Care Medicine (2021). Medium credibility.
 
 Mental health interventions (n = 32 total; n = 15 [47%] in adult ICUs) significantly decreased depression within 3 months of ICU discharge (RoM, 0.83; 95% CI, 0.69–0.99; I² = 97.09%; n = 3,650 caregivers). No effect on depression after 3 months was observed (RoM, 0.99; 95% CI, 0.83–1.20; I² = 98.44%; n = 2,870 caregivers) (Fig. 3 B). Six RCTs observed significant improvement, four evaluation trials within 3 months discharge and two single-site studies targeting caregiver experience and caregiver support at 4 and 6 months postdischarge, respectively. All six RCTs but the piloting and feasibility trial by Samuel et al, a Pediatric Intensive Care Follow-Up Clinic, reported significant improvements in anxiety. Conversely, increased depression after 3 months postdischarge was reported by four trials. Kentish-Barnes et al found in relatives of patients who died in ICU, condolence letters failed to alleviate psychologic distress and worsened depression and symptoms of PTSD. In addition to increased depression, the multisite evaluation RCT by Bohart et al reported increased anxiety and decreased courage at 12 months postdischarge for their 3-month Recovery Programme.
 
@@ -765,7 +765,7 @@ Outcomes for informal caregiver PTSD were inconsistent and meta-analysis of 21 R
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^9fc4f715]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^1155sBzt]. JAMA Network Open (2025). High credibility.
 
 Strengths and Limitations
 
@@ -775,7 +775,7 @@ Our study has limitations inherent to post hoc analysis of an RCT. First, our an
 
 ---
 
-### Communicating to patients and families about post-intensive care syndrome [^b8224fef]. Chest (2025). Medium credibility.
+### Communicating to patients and families about post-intensive care syndrome [^115hzFJv]. Chest (2025). Medium credibility.
 
 Introduction
 
@@ -787,13 +787,13 @@ Although the incidence of PICS varies based on patient population, data from coh
 
 ---
 
-### Critical care education and the ICU care continuum [^d04b7bdc]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
+### Critical care education and the ICU care continuum [^116KonAF]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
 
 The persistence of functional impairment after critical illness has been described in patients and their caregivers for years after hospital discharge. The consequences of critical illness extend across multiple domains, including cognitive dysfunction, psychiatric and mood disorders, neuromuscular weakness, frailty, caregiver burnout, and return to work. Post-ICU clinics were established to simultaneously evaluate outcomes after critical illness and to provide clinical intervention, advocacy, and supportive care to patients and families. Although research may have been the initial goal of these clinics, we believe they now allow a more fulsome clinical view of critically ill patients. The characteristics of these clinics are varied, ranging from ICU nurse–led models to comprehensive multidisciplinary clinics. The inclusion of trainees within these clinics is uncommon in North America, potentially depriving trainees of important learning opportunities and exposure to long-term complications of critical illness. By comparison, a survey of ICU residents in Spain demonstrated that 40% of residents had participated in a post-ICU follow-up program, with 96% favoring ongoing involvement within their training with post-ICU patient and family assessments. The benefits of attending these clinics include developing an understanding of chronic critical illness, the complexities of care transitions, and varied recovery trajectories and applying this knowledge to facilitate patient- and family-centered approaches to care during and after episodes of critical illness. Several clinic networks have been established worldwide, including the RECOVER (Rehabilitation and Recovery in Survivors of Critical Illness) program in Canada, the THRIVE network in the United States, and the InS:PIRE (Intensive Care Syndrome: Promoting Independence and Return to Employment) program in Scotland. Although generally not a primary outcome of studies, patient and family satisfaction has been shown to be high among those who attend clinics.
 
 ---
 
-### Evaluating physical functioning in critical care: considerations for clinical practice and research [^1badce36]. Critical Care (2017). Low credibility.
+### Evaluating physical functioning in critical care: considerations for clinical practice and research [^111i33cZ]. Critical Care (2017). Low credibility.
 
 Conclusions
 
@@ -801,7 +801,7 @@ Impairment in physical functioning among ICU survivors results in significant mo
 
 ---
 
-### Clinician-and patient-identified solutions to reduce the fragmentation of post-ICU care in Australia [^3c7cd335]. Chest (2024). Medium credibility.
+### Clinician-and patient-identified solutions to reduce the fragmentation of post-ICU care in Australia [^112YgBhN]. Chest (2024). Medium credibility.
 
 Background
 
@@ -825,7 +825,7 @@ Practical solutions to enhance the quality of survivorship for critical care sur
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^7e48c5f9]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^114EDtFJ]. Critical Care (2022). Medium credibility.
 
 Participants
 
@@ -841,7 +841,7 @@ We recruited a contemporary usual care cohort from sites who had no active follo
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^73682fd6]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^113x6a8d]. Critical Care (2016). Low credibility.
 
 Conclusions
 
@@ -851,7 +851,7 @@ We recommend screening for these burdens and recommend a follow-up period of at 
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^6eb52fe3]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^113q8Vop]. Critical Care (2022). Medium credibility.
 
 Background
 
@@ -875,13 +875,13 @@ The online version contains supplementary material available at 10.1186/s13054-0
 
 ---
 
-### Greater recovery after critical illness (GRACE): a call to action to create a new roadmap for critical illness research [^e0e094e1]. Thorax (2025). Medium credibility.
+### Greater recovery after critical illness (GRACE): a call to action to create a new roadmap for critical illness research [^116kPfKv]. Thorax (2025). Medium credibility.
 
 For decades, most critical care patients have survived hospitalisation, supporting increased attention on the long-term critical illness recovery. The term 'Post-Intensive Care Syndrome' was coined in 2012 to raise awareness of long-term impairment in physical, cognitive and/or mental health after critical illness. However, the incidence of these impairments has persisted over the past decade, reaching as high as 60% and remains a major public health problem. Aiming to set a research agenda to address evidence gaps in critical illness recovery over the next 10 years, we invited key international opinion leaders from diverse clinical and methodological backgrounds to a roundtable meeting in June 2024 to assess the progress of post-critical illness recovery research and outline a future research agenda to address the unmet needs of critical illness survivors over the next decade. An early outcome from the meeting was to conduct a thematic analysis of critical care recovery literature, which highlighted the need for effective expectation management, ongoing patient support and education throughout recovery, integration between inpatient and community care, caregiver support and opportunities to reconnect with the intensive care unit. Participants identified conceptual challenges concerning current terminology and scope, population heterogeneity and phenotyping, and outcome definitions. Methodological challenges were identified around study design, with a call to shift to contemporary trial designs, incorporating qualitative methods. Translation into clinical practice will require interdisciplinary engagement. The roundtable concluded that a roadmap should be developed to guide clinical and research efforts over the coming decade, with the aim of developing a precision recovery approach.
 
 ---
 
-### Informal caregivers in cancer (PDQ ®)-NCI… [^ec88e27d]. NCI (2010). Low credibility.
+### Informal caregivers in cancer (PDQ ®)-NCI… [^1173g4Eg]. NCI (2010). Low credibility.
 
 - 73% were involved in discussions about care during hospitalization; however, only about half of them were asked what help was needed after discharge.
 - 72% assisted with medical tasks.
@@ -909,7 +909,7 @@ A demand that is judged to be relevant receives a secondary appraisal to evaluat
 
 ---
 
-### Effects on health-related quality of life of interventions affecting survival in critically ill patients: a systematic review [^f2f62a58]. Critical Care (2022). Medium credibility.
+### Effects on health-related quality of life of interventions affecting survival in critically ill patients: a systematic review [^117DCgtP]. Critical Care (2022). Medium credibility.
 
 Discussion
 
@@ -921,7 +921,7 @@ ICU survivors suffer from medium- and long-term impairments in mental health, co
 
 ---
 
-### Availability of family caregiver programs in US cancer centers… [^702e4f59]. JAMA Network (2023). Excellent credibility.
+### Availability of family caregiver programs in US cancer centers… [^113sKAkg]. JAMA Network (2023). Excellent credibility.
 
 Main Outcomes and Measures Survey questions about the availability of 11 types of family caregiver programs were developed after literature review, assessment of similar program evaluation surveys, and discussions among a 13-member national expert advisory committee. Family caregiver programs were defined as structured, planned, and coordinated groups of activities and procedures aimed at specifically supporting family caregivers as part of usual care. Survey responses were tabulated using standard descriptive statistics, including means, proportions, and frequencies. Yet despite providing complex medical and nursing care, a large proportion of caregivers receive little to no formal support or training. 1, 2 Cancer caregivers can provide up to an average of 8 hours of daily assistance to care recipients, 3 including managing and monitoring symptoms, coordinating care, communicating with the health care team, partnering in.
 
@@ -931,7 +931,7 @@ A medical oncologist, a palliative care physician, and a clinical psychologist a
 
 ---
 
-### Communicating to patients and families about post-intensive care syndrome [^92e241ff]. Chest (2025). Medium credibility.
+### Communicating to patients and families about post-intensive care syndrome [^114kmC14]. Chest (2025). Medium credibility.
 
 Figure 4
 A2F bundle framework. A2F bundle = ABCDEF bundle; SAT = spontaneous awakening trial; SBT = spontaneous breathing trial.
@@ -944,13 +944,13 @@ We include similar language in any major update to the family. As ICU discharge 
 
 ---
 
-### Geriatric trauma management [^f421966f]. ACS (2023). High credibility.
+### Geriatric trauma management [^117EwG6r]. ACS (2023). High credibility.
 
 Caregiver support interventions and ICU preparation — Burden on family caregivers can be immense, and interventions that improve preparedness and comfort include nurses engaging in "transition coaching" to teach patient and caregiver skills for postoperative care, promoting continuity of care, and patient care teams offering options for postoperative support after discharge; caregivers report that the worst part is seeing their loved one in the ICU for the first time just after surgery, and nurses can guide patients and caregivers through the ICU or geriatric surgical ward before surgery, explaining what to expect, since familiarity with the environment can help buffer the caregiver's shock of seeing their loved one postoperatively.
 
 ---
 
-### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^4e8560a7]. Critical Care Medicine (2021). Medium credibility.
+### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^1131QqPL]. Critical Care Medicine (2021). Medium credibility.
 
 Meta-analysis of 22 trials (n = 7 [32%] in adult ICUs) identified no significant effect of on psychologic distress at any time (Supplemental Fig. 3 b). Two studies reported significantly improved caregiver distress within 3 months discharge while two reported increased distress; all studies conducted in NICUs. No study reported significant improvement after 3 months discharge.
 
@@ -961,7 +961,7 @@ Ratio of means in psychological outcomes in the randomized trials amenable to me
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^7b35056f]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^1149fHbk]. Critical Care (2022). Medium credibility.
 
 Intervention
 
@@ -977,7 +977,7 @@ InS:PIRE was co-designed with local patients and caregivers. During this process
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^9f11fcb0]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^1154q5Dy]. Critical Care (2016). Low credibility.
 
 Background
 
@@ -1001,7 +1001,7 @@ The online version of this article (doi:10.1186/s13054-016-1185-9) contains supp
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^e4144e7d]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^116q8zrg]. JAMA Network Open (2025). High credibility.
 
 Conclusions
 
@@ -1009,13 +1009,13 @@ In our secondary analysis of a clinical trial, patient PICS and caregiver burden
 
 ---
 
-### Hierarchy of preferred patient outcomes among survivors of acute respiratory failure [^cafba4d5]. Respiratory Care (2025). Medium credibility.
+### Hierarchy of preferred patient outcomes among survivors of acute respiratory failure [^116Bw2Lt]. Respiratory Care (2025). Medium credibility.
 
 Background: Surviving acute respiratory failure (ARF) in the ICU is often a life-changing event. Most survivors face endure impairments across several domains, termed as post-intensive care syndrome (PICS). There is limited investigation on how survivors and their caregivers perceive recovery from their own lived experiences. The objective of this study was to characterize which domains of recovery matter most to ARF survivors and their caregivers. Methods: A single-center, prospective observational study nested within 2 contiguous cohort studies: Addressing Post-Intensive Care Syndrome (APICS)-01 and APICS-COVID that enrolled ARF survivors who were admitted to ICU and discharged home. Survivors and caregivers were asked to prioritize following 9 domains of recovery using a custom-made survey: cognition, pain, physical function, pulmonary function, muscle/nerve function, mental health, fatigue, return to work or prior activities, and survival. These domains were chosen based on prior literature and modified based on input from a patient and family advisory council at the study site. The order of prioritization of domains of recovery was assessed at hospital discharge and at 3- and 6-month follow-up. Results: Forty eligible study subjects and 10 caregivers were recruited between 2019 and 2022. Mean age was 51.0 (SD 13.8) years, more than two thirds were male, and approximately one-third were non-white. Of the 9 domains surveyed, survival was consistently ranked the highest at each of the 3 time points. Cognitive recovery and physical function were ranked as the next 2 most important domains of recovery. Conclusions: ARF survivors who were discharged to home prioritized survival and then physical and cognitive recovery over 6 other domains. Understanding what matters most to survivors is a key step toward identifying priority areas for care in ICUs and rehabilitation after critical illness. Future studies should include survivors and caregivers from diverse backgrounds to obtain a comprehensive assessment of their perspective of recovery.
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^423aab61]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^112hBtaC]. Critical Care (2016). Low credibility.
 
 Results
 
@@ -1035,7 +1035,7 @@ Quality of included studies
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^c64d4158]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^1164zVrP]. Critical Care (2016). Low credibility.
 
 Discussion
 
@@ -1049,7 +1049,7 @@ Correct use of the questionnaires is crucial, but not always found. For example 
 
 ---
 
-### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^7ec8cc0c]. JAMA Network Open (2020). High credibility.
+### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^114ExtMH]. JAMA Network Open (2020). High credibility.
 
 Discussion
 
@@ -1061,7 +1061,7 @@ Significant strengths of the study include strong measures of feasibility, inclu
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^1a4553d0]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^111fwxw9]. Critical Care (2016). Low credibility.
 
 Background
 
@@ -1081,7 +1081,7 @@ Informal caregivers of ICU survivors suffer a substantial variety of burdens. Al
 
 ---
 
-### Transitions of care after critical illness-challenges to recovery and adaptive problem solving [^8828ed91]. Critical Care Medicine (2021). Medium credibility.
+### Transitions of care after critical illness-challenges to recovery and adaptive problem solving [^114Us4fi]. Critical Care Medicine (2021). Medium credibility.
 
 Objectives
 
@@ -1113,13 +1113,13 @@ Survivors and caregivers experienced a range of challenges across the transition
 
 ---
 
-### Society of Critical Care Medicine guidelines on family-centered care for adult ICUs: 2024 [^442694df]. Critical Care Medicine (2025). High credibility.
+### Society of Critical Care Medicine guidelines on family-centered care for adult ICUs: 2024 [^112k37nv]. Critical Care Medicine (2025). High credibility.
 
 Bereavement support for ICU families — evidence synthesis and implementation notes indicate that different meta-analyses found no statistically significant improvements in family satisfaction outcomes with bereavement support initiatives, with a nonsignificant trend toward higher general family satisfaction in controls; meta-analyses of family anxiety ranged from no statistically significant association at first follow-up, to a trend supporting the intervention at 1 mo, to statistically significant benefit at 6 mo, and despite limited quantity and quality of evidence, bereavement support was considered worthy of recommendation and should be tailored to local resources, unit-based champions, and staff burden.
 
 ---
 
-### Piloting an ICU follow-up clinic to improve health-related quality of life in ICU survivors after a prolonged intensive care stay (PINA): feasibility of a pragmatic randomised controlled trial [^e333242e]. BMC Anesthesiology (2023). Medium credibility.
+### Piloting an ICU follow-up clinic to improve health-related quality of life in ICU survivors after a prolonged intensive care stay (PINA): feasibility of a pragmatic randomised controlled trial [^116oqNHT]. BMC Anesthesiology (2023). Medium credibility.
 
 Table 5
 Characteristics of other ICU follow-up pilot studies compared to our study
@@ -1130,7 +1130,7 @@ The feasibility study on a paediatric ICU follow-up clinic from Samuel et al. me
 
 ---
 
-### Translating evidence to patient care through caregivers: a systematic review of caregiver-mediated interventions [^d23588f9]. BMC Medicine (2018). Low credibility.
+### Translating evidence to patient care through caregivers: a systematic review of caregiver-mediated interventions [^116NeP8L]. BMC Medicine (2018). Low credibility.
 
 Methods
 
@@ -1146,25 +1146,25 @@ Based on feedback from stakeholders, the primary research question was: Are care
 
 ---
 
-### Society of Critical Care Medicine guidelines on family-centered care for adult ICUs: 2024 [^936a27d3]. Critical Care Medicine (2025). High credibility.
+### Society of Critical Care Medicine guidelines on family-centered care for adult ICUs: 2024 [^114mYqWA]. Critical Care Medicine (2025). High credibility.
 
 Bereavement support in adult intensive care — Recommendation: We suggest providing bereavement support to families of patients who have died in the ICU (conditional recommendation, low certainty evidence). There are not sufficient data to formally recommend a specific intervention; described interventions include brochures or booklets, condolence letters, and meetings with specific care teams such as palliative care, psychologists, or specially trained nurses. The recommendation is informed by eight RCTs, with low quality evidence, little evidence for potential harm, and perceived high potential for benefit, and reported outcomes varied across trials including family anxiety, depression, PTSD, grief, and comprehension.
 
 ---
 
-### Education and support needs during recovery in acute respiratory distress syndrome survivors [^be7c6f13]. Critical Care (2009). Low credibility.
+### Education and support needs during recovery in acute respiratory distress syndrome survivors [^115sQSiE]. Critical Care (2009). Low credibility.
 
 Needs that occur outside of the ICU and general ward phases have not yet been articulated in the existing research. Our research provides guidance for future interventions because we consider a broad spectrum of needs as they occur across the recovery trajectory. Through our interviews we found a persistent need for information regarding the diagnosis and prognosis of ARDS throughout all the phases of recovery. This finding suggests that critical information needs that are not met early on in the recovery period persist throughout the care continuum until they are appropriately met. In the later phases of recovery, disease-specific information lessens and is replaced by needs surrounding resources on access to community care. Inconsistencies in the delivery of information were common suggesting that the delivery or transfer of knowledge from the health care team to the patients is variable. Emotional needs during the later phases were mixed. The anticipation of returning home brought with it challenges including difficulty coping with independent living, having unrealistic expectations for recovery, and coping with change in the relationships with their family caregivers. Re-integration back into the community ultimately determined the success of this phase. Instrumental needs during the later recovery phases focused on rehabilitation, vocational training, and access to care. Many survivors required ongoing reassurance about their health status and believed that in the future, there would be a need for more rehabilitation, psychological counseling, and medical follow-up. These qualitative findings are consistent with quantitative data of lower functional status and quality of life in ARDS survivors.
 
 ---
 
-### Guidelines for family-centered care in the neonatal, pediatric, and adult ICU [^9d07a3f2]. Critical Care Medicine (2017). Medium credibility.
+### Guidelines for family-centered care in the neonatal, pediatric, and adult ICU [^1151od6H]. Critical Care Medicine (2017). Medium credibility.
 
 Intensive care unit (ICU) diary programs for relatives — evidence, safety, and feasibility: Two randomized trials show that, in family members, receiving an ICU diary can reduce the risk of post-traumatic stress 3 months and 12 months after the patient's discharge or death, with the quality of evidence low and sample sizes of 36 and 143, respectively, from single-center or two-site studies. No harm has been described and relatives mostly describe improved communicative, emotional, and humanizing experiences. The overall quality of evidence for ICU diaries is low, and there is a potential time investment to hospitals and ICUs for development of diary programs.
 
 ---
 
-### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^bed4b841]. Critical Care (2022). Medium credibility.
+### A multicentre evaluation exploring the impact of an integrated health and social care intervention for the caregivers of ICU survivors [^115sv6fA]. Critical Care (2022). Medium credibility.
 
 Results
 
@@ -1192,13 +1192,13 @@ SIMD Scottish Index of Multiple Deprivation, ICU Intensive Care Unit, APACHE Acu
 
 ---
 
-### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^b961ac64]. JAMA Network Open (2025). High credibility.
+### Post-intensive care syndrome and caregiver burden: a post hoc analysis of a randomized clinical trial [^115jqWy1]. JAMA Network Open (2025). High credibility.
 
 This secondary analysis of a randomized clinical trial evaluates the associations between patient post–intensive care impairments and caregiver burden.
 
 ---
 
-### Psychosocial outcomes in informal caregivers of the critically ill: a systematic review [^1b01d31b]. Critical Care Medicine (2015). Low credibility.
+### Psychosocial outcomes in informal caregivers of the critically ill: a systematic review [^111h3HA2]. Critical Care Medicine (2015). Low credibility.
 
 Objective
 
@@ -1226,7 +1226,7 @@ Depressive symptoms were the most prevalent in informal caregivers of survivors 
 
 ---
 
-### A novel approach to ICU survivor care: a population health quality improvement project [^5ae0fc62]. Critical Care Medicine (2020). Medium credibility.
+### A novel approach to ICU survivor care: a population health quality improvement project [^113KjTSZ]. Critical Care Medicine (2020). Medium credibility.
 
 Objectives
 
@@ -1258,7 +1258,7 @@ Our ICU survivor care process results in decreased mortality and a net annual co
 
 ---
 
-### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^ee1dc97f]. JAMA Network Open (2020). High credibility.
+### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^117624NS]. JAMA Network Open (2020). High credibility.
 
 Feasibility Markers
 
@@ -1271,7 +1271,7 @@ Abbreviations: HADS, Hospital Depression and Anxiety Scale; PCL, PTSD Checklist;
 
 ---
 
-### Trajectories of burden or benefits of caregiving among informal caregivers of older adults: a systematic review [^7444e3a8]. Innovation in Aging (2025). Medium credibility.
+### Trajectories of burden or benefits of caregiving among informal caregivers of older adults: a systematic review [^113yNhm9]. Innovation in Aging (2025). Medium credibility.
 
 Background and Objectives
 
@@ -1291,7 +1291,7 @@ Future studies should focus on the trajectories of benefits of caregiving, untan
 
 ---
 
-### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^3f55d3fa]. JAMA Network Open (2020). High credibility.
+### Feasibility and efficacy of a resiliency intervention for the prevention of chronic emotional distress among survivor-caregiver dyads admitted to the neuroscience intensive care unit: a randomized clinical trial [^112cu3pV]. JAMA Network Open (2020). High credibility.
 
 Key Points
 
@@ -1309,7 +1309,7 @@ In this pilot randomized clinical trial, the dyadic resiliency intervention was 
 
 ---
 
-### Education and support needs during recovery in acute respiratory distress syndrome survivors [^60935296]. Critical Care (2009). Low credibility.
+### Education and support needs during recovery in acute respiratory distress syndrome survivors [^113UBJ8V]. Critical Care (2009). Low credibility.
 
 Key messages
 
@@ -1323,19 +1323,19 @@ Key messages
 
 ---
 
-### Guidelines for family-centered care in the neonatal, pediatric, and adult ICU [^383a431a]. Critical Care Medicine (2017). Medium credibility.
+### Guidelines for family-centered care in the neonatal, pediatric, and adult ICU [^112SMspV]. Critical Care Medicine (2017). Medium credibility.
 
 Impact of critical illness on families — decision-making and psychosocial burden highlights that stressful decision making often falls to family members because most patients in the ICU are too ill to participate, that family members bear a significant caregiving burden to the more than 50% of critical illness survivors who have postdischarge disability, and that approximately one quarter to one half of family members of critically ill children or adults experience psychological symptoms including acute stress, post-traumatic stress, generalized anxiety, and depression; this has been termed "Post-Intensive Care Syndrome-Family", and support for family caregivers can also improve patient outcomes.
 
 ---
 
-### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^16acd153]. Circulation (2025). High credibility.
+### Part 11: post-cardiac arrest care: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^111acmxe]. Circulation (2025). High credibility.
 
 Post–cardiac arrest survivorship — emotional distress and psychosocial/rehabilitative interventions — notes that approximately one fourth of survivors and caregivers experience emotional distress, symptoms can begin during hospitalization and can linger from months to years, and psychosocial interventions show benefit. A randomized controlled trial (RCT) compared a psychosocial intervention between 2 groups of survivor–caregiver pairs and reported improvements in survivors' emotional distress in both groups, with the survivor–caregiver intervention group having the greatest benefit and greater improvements in caregiver burden; Two other RCTs in survivors also showed improvements in emotional distress compared with control. One RCT found improved quality of life with an early, cognitive-focused screening, self-management, and referral program versus treatment as usual, and Three other preliminary trials demonstrated feasibility of residential physical rehabilitation, cardiac rehabilitation, and telephone-based occupational therapy with preliminary benefits; The evaluation prior to discharge is important to facilitate care coordination and referral.
 
 ---
 
-### Fatigue in family caregivers of adult intensive care unit survivors [^e31039b4]. Journal of Pain and Symptom Management (2014). Low credibility.
+### Fatigue in family caregivers of adult intensive care unit survivors [^116ode4s]. Journal of Pain and Symptom Management (2014). Low credibility.
 
 Context
 
@@ -1359,7 +1359,7 @@ In caregivers of ICU survivors, fatigue is common and potentially linked with po
 
 ---
 
-### Evaluation of a health and social care programme to improve outcomes following critical illness: a multicentre study [^ad4bd905]. Thorax (2023). Medium credibility.
+### Evaluation of a health and social care programme to improve outcomes following critical illness: a multicentre study [^115RvLPN]. Thorax (2023). Medium credibility.
 
 Intervention
 
@@ -1377,7 +1377,7 @@ Five sites implemented the InS:PIRE programme as part of a quality improvement c
 
 ---
 
-### Reported burden on informal caregivers of ICU survivors: a literature review [^ab688320]. Critical Care (2016). Low credibility.
+### Reported burden on informal caregivers of ICU survivors: a literature review [^115P7zFZ]. Critical Care (2016). Low credibility.
 
 Materials and methods
 
@@ -1392,7 +1392,7 @@ One author (IvB) evaluated the titles and abstracts of all articles. The abstrac
 
 ---
 
-### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^f68216f7]. Critical Care Medicine (2021). Medium credibility.
+### Mental health interventions to improve psychological outcomes in informal caregivers of critically ill patients: a systematic review and meta-analysis [^117JTegE]. Critical Care Medicine (2021). Medium credibility.
 
 Objectives
 
@@ -1420,7 +1420,7 @@ Mental health interventions for caregivers of critically ill patients improved s
 
 ---
 
-### Determinants of depressive symptoms at 1 Year following ICU discharge in survivors of ≥ 7 days of mechanical ventilation: results from the RECOVER program, a secondary analysis of a prospective multicenter cohort study [^ea73d59c]. Chest (2019). Medium credibility.
+### Determinants of depressive symptoms at 1 Year following ICU discharge in survivors of ≥ 7 days of mechanical ventilation: results from the RECOVER program, a secondary analysis of a prospective multicenter cohort study [^116zb1ab]. Chest (2019). Medium credibility.
 
 Background
 
@@ -1440,7 +1440,7 @@ Increased functional dependence, lower income, and lower education are associate
 
 ---
 
-### Post-intensive care unit clinics: models and implementation-a systematic review [^bd4da707]. Critical Care (2025). Medium credibility.
+### Post-intensive care unit clinics: models and implementation-a systematic review [^115qek46]. Critical Care (2025). Medium credibility.
 
 Introduction
 
@@ -1450,7 +1450,7 @@ Post-ICU clinics are crucial in assessing PICS symptoms, providing consultations
 
 ---
 
-### The sepsis chain of survival: a comprehensive framework for improving sepsis outcomes [^6381d657]. Critical Care Medicine (2025). Medium credibility.
+### The sepsis chain of survival: a comprehensive framework for improving sepsis outcomes [^113YXPLJ]. Critical Care Medicine (2025). Medium credibility.
 
 Post-Sepsis Care and Return to Community
 

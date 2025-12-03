@@ -15,41 +15,41 @@ Would you omit completion ALND for a woman with invasive breast cancer and a pos
 
 > Let's see… What do we have here? The user is asking whether completion axillary lymph node dissection (ALND) can be omitted for a woman with invasive breast cancer and a positive sentinel lymph node who otherwise matches the ACOSOG Z0011 cohort, and how the 10-year results justify that decision. Let's break this down step-by-step. First, I need to think about the exact Z0011 eligibility criteria and whether the patient fits them. Then, I should verify the 10-year outcomes and whether they meet noninferiority. Next, I will review regional recurrence and disease-free survival to ensure oncologic safety. After that, I need to check guideline positions and corroborating trials. Finally, I will consider exceptions and edge cases before synthesizing a recommendation with shared decision-making in mind.
 
-> Let me first confirm the Z0011 inclusion criteria so I don't jump to conclusions: clinical T1 or T2 invasive breast cancer, no palpable axillary nodes, 1 or 2 positive sentinel nodes, planned breast-conserving surgery with whole-breast irradiation, and adjuvant systemic therapy as indicated. Patients with more than 2 positive nodes, matted nodes, gross extranodal extension, or prior neoadjuvant therapy were excluded, so I need to ensure none of those apply here [^6040f2d1] [^30ba8d94].
+> Let me first confirm the Z0011 inclusion criteria so I don't jump to conclusions: clinical T1 or T2 invasive breast cancer, no palpable axillary nodes, 1 or 2 positive sentinel nodes, planned breast-conserving surgery with whole-breast irradiation, and adjuvant systemic therapy as indicated. Patients with more than 2 positive nodes, matted nodes, gross extranodal extension, or prior neoadjuvant therapy were excluded, so I need to ensure none of those apply here [^113ThdMS] [^112FF4sd].
 
-> Now, I should verify the 10-year outcomes. The 2017 JAMA publication reports a median follow-up of 9.3 years and shows 10-year overall survival of 86.3% with sentinel lymph node dissection (SLND) alone versus 83.6% with ALND, with a hazard ratio of 0.85 and a one-sided 95% CI that meets the prespecified noninferiority margin, indicating SLND alone is noninferior to ALND for overall survival in this population [^6040f2d1] [^a2b17e87].
+> Now, I should verify the 10-year outcomes. The 2017 JAMA publication reports a median follow-up of 9.3 years and shows 10-year overall survival of 86.3% with sentinel lymph node dissection (SLND) alone versus 83.6% with ALND, with a hazard ratio of 0.85 and a one-sided 95% CI that meets the prespecified noninferiority margin, indicating SLND alone is noninferior to ALND for overall survival in this population [^113ThdMS] [^115ACcX8].
 
-> Wait, let me verify regional control because survival might mask locoregional differences. The 10-year cumulative ipsilateral axillary recurrence was 0.5% with ALND and 1.5% with SLND alone, and the 10-year locoregional recurrence was 6.2% with ALND versus 5.3% with SLND alone, with no statistically significant differences, which reassures me that regional control is excellent even without completion ALND in this setting [^97e1fa58] [^90a08420].
+> Wait, let me verify regional control because survival might mask locoregional differences. The 10-year cumulative ipsilateral axillary recurrence was 0.5% with ALND and 1.5% with SLND alone, and the 10-year locoregional recurrence was 6.2% with ALND versus 5.3% with SLND alone, with no statistically significant differences, which reassures me that regional control is excellent even without completion ALND in this setting [^114tB2xX] [^114hR8go].
 
-> I should confirm disease-free survival as well. The 10-year disease-free survival was 80.2% with SLND alone versus 78.2% with ALND, again with no significant difference, supporting the conclusion that omitting ALND does not compromise disease control in appropriately selected patients [^6040f2d1] [^a2b17e87].
+> I should confirm disease-free survival as well. The 10-year disease-free survival was 80.2% with SLND alone versus 78.2% with ALND, again with no significant difference, supporting the conclusion that omitting ALND does not compromise disease control in appropriately selected patients [^113ThdMS] [^115ACcX8].
 
-> Next, I should review guideline alignment so I'm not over-extrapolating. ASCO's 2025 update explicitly recommends not recommending ALND for patients with early-stage, clinically node-negative disease who have 1–2 positive sentinel nodes and will receive breast-conserving surgery with whole-breast radiotherapy, citing high-quality evidence and a strong recommendation, which aligns with the Z0011 data and its long-term follow-up [^27d1e926] [^ccd121e2]. NCCN similarly supports omission of ALND in this exact scenario, reinforcing the practice standard [^f3797865] [^38573406].
+> Next, I should review guideline alignment so I'm not over-extrapolating. ASCO's 2025 update explicitly recommends not recommending ALND for patients with early-stage, clinically node-negative disease who have 1–2 positive sentinel nodes and will receive breast-conserving surgery with whole-breast radiotherapy, citing high-quality evidence and a strong recommendation, which aligns with the Z0011 data and its long-term follow-up [^112232P7] [^116EeiiV]. NCCN similarly supports omission of ALND in this exact scenario, reinforcing the practice standard [^117Dxnur] [^112SXbdw].
 
-> Hold on, I should verify corroborating evidence beyond Z0011. The SENOMAC randomized trial, published in 2024, demonstrated that omitting completion ALND was noninferior to ALND for recurrence-free survival in patients with 1–2 sentinel-node macrometastases, most of whom received nodal radiation, which strengthens the external validity of the de-escalation approach in this risk stratum [^c1176ffa]. The AMAROS trial also showed equivalent regional control with axillary radiotherapy compared with ALND, with less lymphedema, supporting radiation-based strategies when ALND is omitted [^5840d6a0].
+> Hold on, I should verify corroborating evidence beyond Z0011. The SENOMAC randomized trial, published in 2024, demonstrated that omitting completion ALND was noninferior to ALND for recurrence-free survival in patients with 1–2 sentinel-node macrometastases, most of whom received nodal radiation, which strengthens the external validity of the de-escalation approach in this risk stratum [^115wGUzD]. The AMAROS trial also showed equivalent regional control with axillary radiotherapy compared with ALND, with less lymphedema, supporting radiation-based strategies when ALND is omitted [^113FqgxF].
 
-> But wait, what if the patient has features that fall outside Z0011? I need to ensure we don't overgeneralize. Exclusions include more than 2 positive nodes, matted nodes, gross extranodal extension, T3/T4 tumors, inflammatory breast cancer, prior neoadjuvant therapy, or mastectomy without planned regional nodal irradiation; in those settings, ALND may still be indicated or regional nodal irradiation considered, so I should double-check that none of these apply before recommending omission of ALND [^f3797865] [^38573406] [^dfea370c].
+> But wait, what if the patient has features that fall outside Z0011? I need to ensure we don't overgeneralize. Exclusions include more than 2 positive nodes, matted nodes, gross extranodal extension, T3/T4 tumors, inflammatory breast cancer, prior neoadjuvant therapy, or mastectomy without planned regional nodal irradiation; in those settings, ALND may still be indicated or regional nodal irradiation considered, so I should double-check that none of these apply before recommending omission of ALND [^117Dxnur] [^112SXbdw] [^116ixuij].
 
-> I should also consider patient-specific modifiers. Younger age, ER-negative status, and lack of systemic therapy were associated with worse overall survival in subgroup analyses, so even though Z0011 supports omission of ALND in eligible patients, I need to discuss these risk factors and consider multidisciplinary input and shared decision-making, especially if the patient prefers a more aggressive regional approach or if adjuvant therapy plans would change with more complete nodal information [^90a08420] [^27d1e926].
+> I should also consider patient-specific modifiers. Younger age, ER-negative status, and lack of systemic therapy were associated with worse overall survival in subgroup analyses, so even though Z0011 supports omission of ALND in eligible patients, I need to discuss these risk factors and consider multidisciplinary input and shared decision-making, especially if the patient prefers a more aggressive regional approach or if adjuvant therapy plans would change with more complete nodal information [^114hR8go] [^112232P7].
 
-> Let me think about morbidity trade-offs because that matters clinically. ALND carries a substantially higher risk of lymphedema and other arm morbidities compared with SLNB alone, and avoiding ALND reduces these risks without compromising oncologic outcomes in Z0011-eligible patients, which strengthens the case for omission when criteria are met [^a5449d10] [^0631312e].
+> Let me think about morbidity trade-offs because that matters clinically. ALND carries a substantially higher risk of lymphedema and other arm morbidities compared with SLNB alone, and avoiding ALND reduces these risks without compromising oncologic outcomes in Z0011-eligible patients, which strengthens the case for omission when criteria are met [^115E21CT] [^111ABT2m].
 
-> Putting this together, I should confirm the bottom line. If the patient truly meets all Z0011 criteria — T1–T2 tumor, clinically node-negative, 1–2 positive sentinel nodes, planned breast-conserving surgery with whole-breast irradiation, and adjuvant systemic therapy as indicated — then yes, completion ALND should be omitted because the 10-year data demonstrate noninferior overall survival, excellent regional control, and no detriment in disease-free survival, and this is supported by contemporary guidelines and corroborating randomized trials [^6040f2d1] [^27d1e926] [^c1176ffa].
+> Putting this together, I should confirm the bottom line. If the patient truly meets all Z0011 criteria — T1–T2 tumor, clinically node-negative, 1–2 positive sentinel nodes, planned breast-conserving surgery with whole-breast irradiation, and adjuvant systemic therapy as indicated — then yes, completion ALND should be omitted because the 10-year data demonstrate noninferior overall survival, excellent regional control, and no detriment in disease-free survival, and this is supported by contemporary guidelines and corroborating randomized trials [^113ThdMS] [^112232P7] [^115wGUzD].
 
 ---
 
-Based on the 10-year ACOSOG Z0011 results, **completion ALND can be safely omitted** for women with invasive breast cancer and 1–2 positive sentinel nodes who meet Z0011 criteria (cT1–2, cN0, BCS with whole-breast RT, no neoadjuvant therapy) because 10-year overall survival (86.3% vs 83.6%) and locoregional recurrence (5.3% vs 6.2%) are noninferior with SLND alone compared with ALND [^6040f2d1] [^97e1fa58]. ALND should still be considered for patients with **≥ 3 positive nodes**, **extranodal extension**, or those undergoing mastectomy without planned regional nodal irradiation, as these were not included in Z0011 [^f3797865] [^38573406].
+Based on the 10-year ACOSOG Z0011 results, **completion ALND can be safely omitted** for women with invasive breast cancer and 1–2 positive sentinel nodes who meet Z0011 criteria (cT1–2, cN0, BCS with whole-breast RT, no neoadjuvant therapy) because 10-year overall survival (86.3% vs 83.6%) and locoregional recurrence (5.3% vs 6.2%) are noninferior with SLND alone compared with ALND [^113ThdMS] [^114tB2xX]. ALND should still be considered for patients with **≥ 3 positive nodes**, **extranodal extension**, or those undergoing mastectomy without planned regional nodal irradiation, as these were not included in Z0011 [^117Dxnur] [^112SXbdw].
 
 ---
 
 ## Key findings from the 10-year ACOSOG Z0011 trial
 
-- **Overall survival**: 10-year OS was 86.3% with SLND alone vs 83.6% with ALND (HR 0.85; 95% CI, 0–1.16; noninferiority P = 0.02) [^6040f2d1] [^a2b17e87].
+- **Overall survival**: 10-year OS was 86.3% with SLND alone vs 83.6% with ALND (HR 0.85; 95% CI, 0–1.16; noninferiority P = 0.02) [^113ThdMS] [^115ACcX8].
 
-- **Disease-free survival**: 10-year DFS was 80.2% with SLND alone vs 78.2% with ALND (HR 0.85; 95% CI, 0.62–1.17; P = 0.32) [^6040f2d1] [^a2b17e87].
+- **Disease-free survival**: 10-year DFS was 80.2% with SLND alone vs 78.2% with ALND (HR 0.85; 95% CI, 0.62–1.17; P = 0.32) [^113ThdMS] [^115ACcX8].
 
-- **Locoregional recurrence**: 10-year cumulative LRR was 5.3% with SLND alone vs 6.2% with ALND (P = 0.36) [^97e1fa58] [^90a08420].
+- **Locoregional recurrence**: 10-year cumulative LRR was 5.3% with SLND alone vs 6.2% with ALND (P = 0.36) [^114tB2xX] [^114hR8go].
 
-- **Axillary recurrence**: 10-year isolated axillary recurrence was 1.5% with SLND alone vs 0.5% with ALND (P = 0.28) [^97e1fa58] [^90a08420].
+- **Axillary recurrence**: 10-year isolated axillary recurrence was 1.5% with SLND alone vs 0.5% with ALND (P = 0.28) [^114tB2xX] [^114hR8go].
 
 ---
 
@@ -73,7 +73,7 @@ Current guidelines from ASCO, NCCN, and ASTRO align with Z0011 and recommend **o
 
 While the 10-year Z0011 results are robust, certain scenarios require **individualized decision-making**:
 
-- **Mastectomy patients**: Z0011 excluded mastectomy; evidence supports omitting ALND when postmastectomy regional nodal irradiation is planned, but this extrapolates from AMAROS and SENOMAC rather than Z0011 [^dfea370c] [^c1176ffa].
+- **Mastectomy patients**: Z0011 excluded mastectomy; evidence supports omitting ALND when postmastectomy regional nodal irradiation is planned, but this extrapolates from AMAROS and SENOMAC rather than Z0011 [^116ixuij] [^115wGUzD].
 
 - **Extranodal extension**: Associated with higher residual nodal burden; ALND may be considered despite Z0011 criteria.
 
@@ -91,7 +91,7 @@ For a woman with invasive breast cancer and 1–2 positive sentinel nodes who ot
 
 ## References
 
-### Effect of axillary dissection vs No axillary dissection on 10-year overall survival among women with invasive breast cancer and sentinel node metastasis: the ACOSOG Z0011 (alliance) randomized clinical trial [^6040f2d1]. JAMA (2017). Excellent credibility.
+### Effect of axillary dissection vs No axillary dissection on 10-year overall survival among women with invasive breast cancer and sentinel node metastasis: the ACOSOG Z0011 (alliance) randomized clinical trial [^113ThdMS]. JAMA (2017). Excellent credibility.
 
 Importance
 
@@ -127,13 +127,13 @@ clinicaltrials.gov Identifier: NCT00003855.
 
 ---
 
-### To do or not to do: axillary nodal evaluation after ACOSOG Z0011 trial [^552f3800]. Radiographics (2014). Low credibility.
+### To do or not to do: axillary nodal evaluation after ACOSOG Z0011 trial [^113BHorF]. Radiographics (2014). Low credibility.
 
 Methods of axillary evaluation in invasive breast cancer continue to evolve. The recent American College of Surgeons Oncology Group Z0011 Trial is a prospective, randomized, multicenter trial that compared the survival and locoregional recurrence rates after complete axillary lymph node dissection (ALND) versus sentinel node biopsy (SNB) alone in women with a positive sentinel node in an effort to avoid the complications associated with ALND. As the results of this trial are implemented clinically, affecting surgical management of axillary metastatic disease, radiologists may need to redefine their role in the preoperative assessment of the axilla. Before the Z0011 trial, breast imagers worked to identify axillary metastases preoperatively, allowing appropriate patients to proceed directly to ALND and avoiding the need for SNB. However, the Z0011 trial concluded that ALND may not be necessary in women with metastatic axillary disease who meet the trial criteria. In the Z0011 trial, after 6 years of median follow-up there was no difference in either locoregional recurrence or survival among the women who underwent SNB alone compared with those who underwent ALND, suggesting that ALND is unnecessary in a subset of women with a positive node at SNB. These results raise questions about how aggressively radiologists should pursue percutaneous sampling of axillary nodes, as some practitioners conclude that, in an otherwise eligible woman, positive results from imaging-guided percutaneous biopsy preclude a Z0011 trial-directed pathway. Debate about the best way to implement the results of the Z0011 trial into daily clinical practice exists. It is important for breast imagers to work closely with breast surgeons to provide the most appropriate treatment course for each patient.
 
 ---
 
-### Research gaps in sentinel lymph node biopsy in breast cancer [^19cfe5bc]. The Oncologist (2024). Medium credibility.
+### Research gaps in sentinel lymph node biopsy in breast cancer [^111fGXDM]. The Oncologist (2024). Medium credibility.
 
 What should the breast surgeon do if he has positive one out of one or 2 out of 2 sentinel nodes?
 
@@ -145,7 +145,7 @@ Further research should be conducted to include this category of patients and co
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^937a6c1e]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^114meJQV]. Advances in Radiation Oncology (2018). Low credibility.
 
 Purpose
 
@@ -165,13 +165,13 @@ This retrospective analysis of women who were underrepresented or excluded from 
 
 ---
 
-### Axillary dissection vs no axillary dissection in women with invasive breast cancer and sentinel node metastasis: a randomized clinical trial [^30ba8d94]. JAMA (2011). Excellent credibility.
+### Axillary dissection vs no axillary dissection in women with invasive breast cancer and sentinel node metastasis: a randomized clinical trial [^112FF4sd]. JAMA (2011). Excellent credibility.
 
 The study ACOSOG Z0011 (5-year survival) was published by Giuliano AE and colleagues in 2011 in the journal JAMA. This study is related to the following diseases: Breast cancer. In the ACOSOG Z0011 (5-year survival) study, the trial question was: is sentinel lymph node dissection noninferior to axillary lymph node dissection in female patients with clinical T1-T2 invasive breast cancer? In the ACOSOG Z0011 (5-year survival) study, the study design was: multi-center, open label, RCT. In the ACOSOG Z0011 (5-year survival) study, the population was: 891 female patients. The inclusion criteria were female patients with clinical T1-T2 invasive breast cancer, no palpable adenopathy, and 1 to 2 sentinel lymph nodes containing metastases. The key exclusion criteria were metastases identified initially or solely with immunohistochemical staining, ≥ 3 positive SLNs, matted nodes, gross extranodal disease, or receipt of neoadjuvant hormonal or chemotherapy. In the ACOSOG Z0011 (5-year survival) study, the interventions were: n = 446 sentinel lymph node dissection (no further axillary-specific intervention) n = 445 complete axillary lymph node dissection (dissection of ≥ 10 nodes). In the ACOSOG Z0011 (5-year survival) study, the primary outcome was: difference not exceeding non-inferiority margin in overall survival at 5 years (92.5% vs. 91.8%; HR 0.79, 90% CI 0.56 to 1.1). In the ACOSOG Z0011 (5-year survival) study, the secondary outcomes were: no significant difference in disease-free survival at 5 years (83.9% vs. 82.2%; HR 0.82, 95% CI 0.58 to 1.17) No significant difference in local recurrence at 5 years (1.6% vs. 3.1%; RR 0.51, 95% CI -0.12 to 1.14) No significant difference in locoregional recurrence-free survival at 5 years (96.7% vs. 95.7%; RR 1.01, 95% CI -0.81 to 2.83). In the ACOSOG Z0011 (5-year survival) study, the conclusion was: in female patients with clinical T1-T2 invasive breast cancer, no palpable adenopathy, and 1 to 2 sentinel lymph nodes containing metastases, sentinel lymph node dissection was noninferior to complete axillary lymph node dissection with respect to overall survival at 5 years.
 
 ---
 
-### Oncological safety of skipping axillary lymph node dissection in patients with clinical N0, sentinel node-positive breast cancer undergoing total mastectomy [^5840d6a0]. Annals of Surgical Oncology (2024). Medium credibility.
+### Oncological safety of skipping axillary lymph node dissection in patients with clinical N0, sentinel node-positive breast cancer undergoing total mastectomy [^113FqgxF]. Annals of Surgical Oncology (2024). Medium credibility.
 
 The presence of metastatic sentinel lymph nodes (SLNs) is one of the most important factors governing treatment decisions in patients with breast cancer. Following the American College of Surgeons Oncology Group (ACOSOG) Z0011 trial, surgery for breast cancer has trended toward less invasive axillary surgery for patients presenting limited metastatic SLN involvement. – According to the Z0011 trial, survival results of patients without axillary lymph node dissection (ALND) were non-inferior to those of patients who underwent ALND. Notably, the Z0011 trial included patients with one to two SLNs who received breast-conserving surgery, whole-breast irradiation, and adjuvant systemic treatment. The National Comprehensive Cancer Network guidelines have adapted these results to omit ALND for patients with SLN metastases meeting the same criteria.
 
@@ -181,7 +181,7 @@ Axillary radiation therapy (RT) has been evaluated in several studies to determi
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^82ebb436]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^114M6ZX3]. Advances in Radiation Oncology (2018). Low credibility.
 
 Introduction
 
@@ -191,13 +191,13 @@ However, translating these results into clinical practice is complicated by the 
 
 ---
 
-### Effect of axillary dissection vs No axillary dissection on 10-year overall survival among women with invasive breast cancer and sentinel node metastasis: the ACOSOG Z0011 (alliance) randomized clinical trial [^a2b17e87]. JAMA (2017). Excellent credibility.
+### Effect of axillary dissection vs No axillary dissection on 10-year overall survival among women with invasive breast cancer and sentinel node metastasis: the ACOSOG Z0011 (alliance) randomized clinical trial [^115ACcX8]. JAMA (2017). Excellent credibility.
 
 The study ACOSOG Z0011 (10-year survival) was published by Armando E Giuliano and colleagues in 2017 in the journal JAMA. This study is related to the following diseases: Breast cancer. In the ACOSOG Z0011 (10-year survival) study, the trial question was: is sentinel lymph node dissection noninferior to axillary lymph node dissection in patients with invasive breast cancer and sentinel lymph node metastasis? In the ACOSOG Z0011 (10-year survival) study, the study design was: multi-center, open label, RCT. In the ACOSOG Z0011 (10-year survival) study, the population was: 891 female patients. The inclusion criteria were women with clinical T1 or T2 invasive breast cancer, no palpable axillary adenopathy, and 1 or 2 sentinel lymph nodes containing metastases. The key exclusion criteria were lactation; previous treatment with chemotherapy; estrogen receptor antagonists or selective estrogen receptor modulators; concurrent invasive bilateral breast malignancies; previous ipsilateral axillary surgery. In the ACOSOG Z0011 (10-year survival) study, the interventions were: n = 446 sentinel lymph node dissection (sentinel lymph node dissection alone without axillary lymph node dissection) n = 445 axillary lymph node dissection (axillary lymph node dissection followed by whole breast irradiation). In the ACOSOG Z0011 (10-year survival) study, the primary outcome was: difference not exceeding non-inferiority margin in overall survival at 10 year follow-up (86.3% vs. 83.6%; HR 0.85, 95% CI 0 to 1.16). In the ACOSOG Z0011 (10-year survival) study, the secondary outcomes were: no significant difference in disease-free survival at 10 years (80.2% vs. 78.2%; HR 1.17, 95% CI 0.85 to 1.61) No significant difference in locoregional relapse-free survival at 10 years (83% vs. 81.2%; HR 1.14, 95% CI 0.82 to 1.61). In the ACOSOG Z0011 (10-year survival) study, the conclusion was: in women with clinical T1 or T2 invasive breast cancer, no palpable axillary adenopathy, and 1 or 2 sentinel lymph nodes containing metastases, sentinel lymph node dissection was noninferior to axillary lymph node dissection with respect to overall survival at 10 year follow-up.
 
 ---
 
-### Axillary dissection vs no axillary dissection in women with invasive breast cancer and sentinel node metastasis: a randomized clinical trial [^b4a82310]. JAMA (2011). Excellent credibility.
+### Axillary dissection vs no axillary dissection in women with invasive breast cancer and sentinel node metastasis: a randomized clinical trial [^115cqFJF]. JAMA (2011). Excellent credibility.
 
 Context
 
@@ -233,7 +233,7 @@ clinicaltrials.gov Identifier: NCT00003855.
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^5bc22656]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^113M35zD]. Advances in Radiation Oncology (2018). Low credibility.
 
 Summary
 
@@ -241,7 +241,7 @@ The American College of Surgeons Oncology Group trial Z0011 demonstrated that ax
 
 ---
 
-### Impact of the American college of surgeons oncology group (ACOSOG) Z0011 trial on clinical management of the axilla in older breast cancer patients: a SEER-Medicare analysis [^044bbbe4]. Annals of Surgical Oncology (2013). Low credibility.
+### Impact of the American college of surgeons oncology group (ACOSOG) Z0011 trial on clinical management of the axilla in older breast cancer patients: a SEER-Medicare analysis [^1117NPYX]. Annals of Surgical Oncology (2013). Low credibility.
 
 Background
 
@@ -261,7 +261,7 @@ Widespread implementation of ACOSOG Z0011 trial results could potentially spare 
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^7ac3b61b]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^11491E9Q]. Advances in Radiation Oncology (2018). Low credibility.
 
 Collectively, these studies suggest that adjuvant RT with fields that are guided by pathologic characteristics after SLNB without completion ALND can offer improvements in morbidity and mortality in select patients with breast cancer. However, the heterogeneity of RT fields among these trials limits the translation into clinical practice. Moreover, the results may not be generalizable to all patients because the majority of subjects in the Z11 trial were negative for extranodal extension (ENE) and presented with hormone receptor positive cancer and 1 to 2 axillary metastases. Furthermore, many patients had a low burden of axillary disease with micrometastases only.
 
@@ -269,7 +269,7 @@ Herein, we report on the RT treatment patterns and clinical outcomes of patients
 
 ---
 
-### Targeting and limiting surgery for patients with node-positive breast cancer [^ffad42d3]. BMC Medicine (2015). Low credibility.
+### Targeting and limiting surgery for patients with node-positive breast cancer [^117Y43Fx]. BMC Medicine (2015). Low credibility.
 
 Clinically node-negative patients with limited pathologic node-positive disease
 
@@ -277,7 +277,7 @@ Several phase III, multicenter trials showing that ALND can be omitted in select
 
 ---
 
-### ASCO guidelines… [^2e58caa5]. ASCO (2025). Medium credibility.
+### ASCO guidelines… [^112BiFmE]. ASCO (2025). Medium credibility.
 
 The patients who are eligible for omission of sentinel lymph node biopsy according to the SOUND and INSEMA trial are patients with invasive ductal carcinoma that is size smaller than 2 cm, Nottingham grades 1 and 2, hormone receptor-positive, HER2-negative in patients intending to receive adjuvant endocrine therapy, and no suspicious lymph nodes on axillary ultrasound or if they have only one suspicious lymph node, then the biopsy of that lymph node is benign and concordant according to the axillary ultrasound findings. The patients who are eligible for sentinel lymph node biopsy omission according to the SOUND and INSEMA trials were patients who are undergoing lumpectomy followed by whole breast radiation, especially in patients who are younger than 65 years of age. For patients who are 65 years or older, they also qualify for omission of sentinel lymph node biopsy in addition to consideration for radiation therapy omission according to the PRIME II and CALGB 9343 clinical trials.
 
@@ -287,13 +287,13 @@ Brittany Harvey: Thank you. And then Dr. Park, for patients with early-stage bre
 
 ---
 
-### The need for axillary lymph node dissection in T1 / T2 breast cancer surgery – counterpoint [^7828833c]. Cancer Research (2013). Low credibility.
+### The need for axillary lymph node dissection in T1 / T2 breast cancer surgery – counterpoint [^1145984s]. Cancer Research (2013). Low credibility.
 
 For breast cancer patients, the role of the axillary lymph node dissection (ALND) in the management of clinically node negative breast cancer patient has shifted from routine, to selective, to increasingly rare. With the publication of the American College of Surgeons Oncology Group (ACOSOG) Z0011 trial results, some are ready to announce the time of death of this procedure. However, many questions remain regarding the design and statistical interpretation of the study, the treatments the patients actually received, and its applicability in clinical practice in light of other studies concerning regional management. Thus, the reports of the ALND's death may be greatly exaggerated. Careful acknowledgement of the study's strengths and shortcomings, and more recent trial data, suggest that although ALND may be safely avoided in a subset of sentinel lymph node positive, Z0011-eligible patients, others may require multidisciplinary review and consensus, and a careful conversation with the patient, before deciding it is not necessary.
 
 ---
 
-### The importance of applying ACOSOG Z0011 criteria in the axillary management of invasive lobular carcinoma: a multi-institutional cohort study [^e62c00cc]. Annals of Surgical Oncology (2015). Low credibility.
+### The importance of applying ACOSOG Z0011 criteria in the axillary management of invasive lobular carcinoma: a multi-institutional cohort study [^116tEw4o]. Annals of Surgical Oncology (2015). Low credibility.
 
 Background
 
@@ -313,7 +313,7 @@ Overall, the clinical practice changes that have occurred after publication of t
 
 ---
 
-### Targeting and limiting surgery for patients with node-positive breast cancer [^0631312e]. BMC Medicine (2015). Low credibility.
+### Targeting and limiting surgery for patients with node-positive breast cancer [^111ABT2m]. BMC Medicine (2015). Low credibility.
 
 Table 1
 Clinical trials evaluating axillary lymph node dissection in clinically node-negative patients. Summary of trials evaluating the role of axillary lymph node dissection in patients presenting with no clinical evidence of axillary lymphadenopathy
@@ -329,7 +329,7 @@ A similar European trial, the EORTC 10981–22023 AMAROS (After Mapping of the A
 
 ---
 
-### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^e087e741]. JAMA Oncology (2023). High credibility.
+### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^116jssje]. JAMA Oncology (2023). High credibility.
 
 Introduction
 
@@ -337,7 +337,7 @@ Sentinel lymph node biopsy (SLNB) is the standard of care for axillary node stag
 
 ---
 
-### Patient-reported outcomes for the intergroup sentinel mamma study (INSEMA): a randomised trial with persistent impact of axillary surgery on arm and breast symptoms in patients with early breast cancer [^5d555c49]. EClinicalMedicine (2023). Medium credibility.
+### Patient-reported outcomes for the intergroup sentinel mamma study (INSEMA): a randomised trial with persistent impact of axillary surgery on arm and breast symptoms in patients with early breast cancer [^113PNXAY]. EClinicalMedicine (2023). Medium credibility.
 
 Introduction
 
@@ -351,7 +351,7 @@ However, these trials do not provide evidence concerning QoL outcomes for patien
 
 ---
 
-### The exportability of the ACOSOG Z0011 criteria for omitting axillary lymph node dissection after positive sentinel lymph node biopsy findings: a multicenter study [^ac62bd02]. Annals of Surgical Oncology (2013). Low credibility.
+### The exportability of the ACOSOG Z0011 criteria for omitting axillary lymph node dissection after positive sentinel lymph node biopsy findings: a multicenter study [^115Qa33o]. Annals of Surgical Oncology (2013). Low credibility.
 
 Purpose
 
@@ -371,7 +371,7 @@ The similarity of clinical characteristics between the Z0011 trial cohort and ou
 
 ---
 
-### Trends in axillary lymph node dissection after mastectomy among patients with limited nodal burden [^2b18cf9a]. JAMA Network Open (2025). High credibility.
+### Trends in axillary lymph node dissection after mastectomy among patients with limited nodal burden [^1126toUV]. JAMA Network Open (2025). High credibility.
 
 Introduction
 
@@ -381,13 +381,13 @@ The ACOSOG Z0011 (American College of Surgeons Oncology Group Z0011) trial demon
 
 ---
 
-### NCCN guidelines® insights: breast cancer, version 5.2025 [^90a08420]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: breast cancer, version 5.2025 [^114hR8go]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 ACOSOG Z0011 — eligibility, treatment arms, and outcomes for patients with SLNB-positive early breast cancer show no advantage to completion ALND under specified conditions. Patients ≥ 18 years with clinical T1/T2 tumors and fewer than 3 positive SLNs undergoing breast-conserving surgery with whole-breast radiotherapy were randomized to SLNB alone (n = 436) or completion ALND (n = 420). In this study, there was no difference in local recurrence, DFS, or OS; at a median follow-up of 6.3 years, locoregional recurrences were 4.1% with ALND versus 2.8% with SLNB (P = 0.11) and median OS was approximately 92% in each group. Long-term follow-up (median 9.25 years) showed no statistically significant difference in local recurrence-free survival (P = 0.13); ipsilateral axillary recurrences at 10 years were 0.5% with ALND versus 1.5% with SLNB alone (P = 0.28), and 10-year cumulative locoregional recurrences were 6.2% versus 5.3% (P = 0.36). The trial demonstrated that there is no benefit to ALND in patients who have only one or two SN metastases after WBRT as part of breast-conserving therapy, and mastectomy patients were not enrolled; only ER-negative status, age < 50 years, and lack of adjuvant systemic therapy were associated with decreased OS.
 
 ---
 
-### Patient age and tumor subtype predict the extent of axillary surgery among breast cancer patients eligible for the American college of surgeons oncology group trial Z0011 [^e9ad6693]. Annals of Surgical Oncology (2017). Low credibility.
+### Patient age and tumor subtype predict the extent of axillary surgery among breast cancer patients eligible for the American college of surgeons oncology group trial Z0011 [^116ySMnA]. Annals of Surgical Oncology (2017). Low credibility.
 
 Background
 
@@ -407,7 +407,7 @@ Among women potentially eligible for ACOSOG Z0011, the use of SLNB alone increas
 
 ---
 
-### A 10-year trend analysis of sentinel lymph node frozen section and completion axillary dissection for breast cancer: are these procedures becoming obsolete? [^9de93c29]. Annals of Surgical Oncology (2012). Low credibility.
+### A 10-year trend analysis of sentinel lymph node frozen section and completion axillary dissection for breast cancer: are these procedures becoming obsolete? [^11537Q2c]. Annals of Surgical Oncology (2012). Low credibility.
 
 Background
 
@@ -427,13 +427,13 @@ Over 10 years, we have observed a diminishing rate of SLN-FS and, for patients w
 
 ---
 
-### Sentinel lymph node biopsy in primary breast cancer: window to management of the axilla [^d5554f0d]. World Journal of Surgery (2012). Low credibility.
+### Sentinel lymph node biopsy in primary breast cancer: window to management of the axilla [^116TH1yW]. World Journal of Surgery (2012). Low credibility.
 
 In patients with primary breast cancer, several large, randomized prospective trials have shown that sentinel node biopsy (SNB) substantially reduces the morbidity associated with axillary surgery compared with formal axillary lymph node dissection (ALND). Moreover, the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-32 trial has demonstrated that when the sentinel node reveals no evidence of metastatic disease, then no further ALND is required. Recently, the results of the American College of Surgeons Oncology Group (ACOSOG) Z0011 trial have challenged the notion that all patients with metastases to the sentinel node require ALND. The results of this trial suggest that in selected sentinel node-positive patients, ALND can be potentially avoided. Yet, some concerns about the ACOSOG Z0011 trial have been raised, and these concerns may have implications in the widespread implementation of the results of this trial. Since the advent of the SNB technology, occult metastases within the sentinel node are frequently observed, and the significance of these findings remains controversial. Finally, this review considers special situations, such as pregnancy and the neoadjuvant setting, where the use of SNB should be applied judiciously. The SNB technology has dramatically improved the quality of life for women with breast cancer, and further modifications of its role in breast cancer treatment should be based on evidence obtained from randomized, controlled trials.
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^619a9a3f]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^113VhjEe]. Advances in Radiation Oncology (2018). Low credibility.
 
 Elective IMN coverage remains controversial due to a lack of benefit shown in prior trials and the potential risk of increasing late cardiac toxicity. However, more recent evidence has demonstrated a benefit to IMN radiation; thus, at our institution the threshold for electively covering IMN in high-risk patients has decreased and particularly in those with right-sided tumors. Notably, 1 patient with > 2 mm ENE developed an ipsilateral IMN recurrence and subsequent distant metastasis. This patient was treated with RNI that did not include elective coverage of the IMN chain.
 
@@ -445,7 +445,7 @@ A significant limitation of this study is its retrospective nature, which preclu
 
 ---
 
-### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^bb084e6f]. Advances in Radiation Oncology (2018). Low credibility.
+### Is completion axillary lymph node dissection necessary in patients who are underrepresented in the ACOSOG Z0011 trial? [^115nHUX8]. Advances in Radiation Oncology (2018). Low credibility.
 
 Methods and materials
 
@@ -457,13 +457,13 @@ All data analysis was performed with SPSS Statistics 24 (IBM Corp. Armonk, NY). 
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^ccd121e2]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^116EeiiV]. Journal of Clinical Oncology (2025). High credibility.
 
 ACOSOG Z0011 — sentinel lymph node biopsy (SLNB) versus axillary lymph node dissection (ALND) in early-stage breast cancer shows no long-term oncologic detriment with SLNB alone while whole-breast irradiation (WBI) was planned for all patients; among intention-to-treat patients, 10-year locoregional recurrence was 6.2% with ALND and 5.3% with SLNB-only (P = 0.36), and overall survival at 10 years was 86.3% with SLNB alone versus 83.6% with ALND (HR, 0.85 [one-sided 95% CI, 0 to 1.16]; noninferiority P = 0.02), with disease-free survival 78.2% versus 80.2% (HR, 0.85 [95% CI, 0.62 to 1.17]; P = 0.32) after median follow-up near 9–9.3 years; randomization was ALND (n = 446) versus no further surgery after SLNB (n = 445).
 
 ---
 
-### Axillary dissection can be avoided in the majority of clinically node-negative patients undergoing breast-conserving therapy [^9e426e7c]. Annals of Surgical Oncology (2014). Low credibility.
+### Axillary dissection can be avoided in the majority of clinically node-negative patients undergoing breast-conserving therapy [^1153dMib]. Annals of Surgical Oncology (2014). Low credibility.
 
 Background
 
@@ -483,13 +483,13 @@ ALND was avoided in 84% of a consecutive series of patients having BCT, suggesti
 
 ---
 
-### Sentinel lymph nodes for breast carcinoma: an update on current practice [^ede1f83e]. Histopathology (2016). Low credibility.
+### Sentinel lymph nodes for breast carcinoma: an update on current practice [^1175fy2u]. Histopathology (2016). Low credibility.
 
 Sentinel lymph node (SLN) biopsy has been established as the standard of care for axillary staging in patients with invasive breast carcinoma and clinically negative lymph nodes (cN0). Historically, all patients with a positive SLN underwent axillary lymph node dissection (ALND). The ACOSOG Z0011 trial showed that women with T1-T2 disease and cN0 who undergo breast-conserving surgery and whole-breast radiotherapy can safely avoid ALND. The main goal of SLN examination should be to detect all macrometastases (> 2 mm). Gross sectioning of SLNs at 2-mm intervals and microscopic examination of one haematoxylin and eosin-stained section from each SLN block is the preferred method for pathological evaluation of SLNs. The role and timing of SLN biopsy for patients who have received neoadjuvant chemotherapy is controversial, and continues to be explored in clinical trials. SLN biopsies from patients with invasive breast carcinoma who have received neoadjuvant chemotherapy pose particular challenges for pathologists.
 
 ---
 
-### De-implementation of low-value care for women 70 years of age or older with low-risk breast cancer during the COVID-19 pandemic [^278951c9]. Annals of Surgical Oncology (2023). Medium credibility.
+### De-implementation of low-value care for women 70 years of age or older with low-risk breast cancer during the COVID-19 pandemic [^1121ceBz]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Finally, the rates of nodal positivity are low among patients meeting the criteria for omission of axillary staging. In the low-risk cohort, 11% of the patients had sentinel lymph node involvement compared with 35% of the patients in the cohort that was not eligible for omission of axillary staging. This is supported by other studies that have found the rate of nodal involvement among women 70 years of age or older with cN0, T1, ER+/HER2– IBC to be lower than 10%.
 
@@ -501,7 +501,7 @@ Second, both patients and providers refer to the importance of considering physi
 
 ---
 
-### Axillary dissection and nodal irradiation can Be avoided for most node-positive Z0011-eligible breast cancers: a prospective validation study of 793 patients [^cff82d07]. Annals of Surgery (2017). Low credibility.
+### Axillary dissection and nodal irradiation can Be avoided for most node-positive Z0011-eligible breast cancers: a prospective validation study of 793 patients [^116KKoC2]. Annals of Surgery (2017). Low credibility.
 
 Objective
 
@@ -525,7 +525,7 @@ We confirm that even without preoperative axillary imaging or routine use of nod
 
 ---
 
-### ASO author reflections: an alternative to sentinel-node biopsy? Preoperative sonographic prediction of limited axillary disease in breast cancer patients meeting the Z0011 criteria [^97cee414]. Annals of Surgical Oncology (2022). Medium credibility.
+### ASO author reflections: an alternative to sentinel-node biopsy? Preoperative sonographic prediction of limited axillary disease in breast cancer patients meeting the Z0011 criteria [^114t4d7Z]. Annals of Surgical Oncology (2022). Medium credibility.
 
 Past
 
@@ -533,19 +533,19 @@ The approach to axillary surgery for patients with breast cancer has evolved tre
 
 ---
 
-### NCCN guidelines® insights: breast cancer, version 5.2025 [^38573406]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: breast cancer, version 5.2025 [^112SXbdw]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Breast-conserving therapy patients meeting ACOSOG Z0011 criteria — clinically node-negative with pathologically positive SLN — had no benefit from completion ALND and low long-term recurrence rates. Patients ≥ 18 years with clinical T1/T2 tumors and fewer than 3 positive SLNs undergoing BCS and WBRT were randomized to SLNB alone (n = 436) or completion ALND (n = 420), with no difference in local recurrence, DFS, or OS. At a median follow-up of 6.3 years, locoregional recurrences were 4.1% with ALND versus 2.8% with SLNB (P = 0.11) and median OS was approximately 92% in each group. Long-term follow-up (median 9.25 years) showed no statistically significant difference in local recurrence-free survival (P = 0.13), 10-year ipsilateral axillary recurrences were 0.5% (2 patients) after ALND versus 1.5% (5 patients) after SLNB alone (P = 0.28), and 10-year locoregional recurrences were 6.2% with ALND versus 5.3% with SLNB alone (P = 0.36). Only ER-negative status, age < 50 years, and lack of adjuvant systemic therapy were associated with decreased OS, and the trial demonstrates no benefit to ALND in early-stage patients with only one or two SLN metastases after WBRT as part of BCT; mastectomy patients were not enrolled.
 
 ---
 
-### The need for axillary dissection in patients with positive axillary sentinel lymph nodes [^dd8374ff]. Current Oncology Reports (2011). Low credibility.
+### The need for axillary dissection in patients with positive axillary sentinel lymph nodes [^116fQRGa]. Current Oncology Reports (2011). Low credibility.
 
 The need for completion axillary dissection after a positive sentinel node biopsy continues to be challenged. In the 2 years since we last reviewed this subject, a number of authors have shared their experiences about micrometastatic disease and isolated tumor cells, opining both for and against axillary treatment. Data from the ACOSOG Z0011 trial and other small studies do not appear to support the use of completion axillary dissection even for macro-metastatic disease in patients with clinically node-negative (N0) disease. While existing guidelines still recommend axillary dissection for patients with clinically positive nodes, even when conversion to clinically negative disease following neoadjuvant chemotherapy has occurred, this concept is being questioned in ACOSOG Z1071 and in several other recent small trials. The surgical approach to the treatment of breast cancer continues to move away from the traditional Halstedian concept.
 
 ---
 
-### National trend of axillary management in clinical T3 / T4 N0 patients having breast conserving therapy [^67607b78]. The Journal of Surgical Research (2020). Medium credibility.
+### National trend of axillary management in clinical T3 / T4 N0 patients having breast conserving therapy [^113eG8es]. The Journal of Surgical Research (2020). Medium credibility.
 
 Background
 
@@ -565,7 +565,7 @@ There is a national trend to forgo ALND in women who have tumors larger than tho
 
 ---
 
-### Locoregional recurrence after sentinel lymph node dissection with or without axillary dissection in patients with sentinel lymph node metastases: long-term follow-up from the American college of surgeons oncology group (alliance) ACOSOG Z0011 randomized trial [^97e1fa58]. Annals of Surgery (2016). Low credibility.
+### Locoregional recurrence after sentinel lymph node dissection with or without axillary dissection in patients with sentinel lymph node metastases: long-term follow-up from the American college of surgeons oncology group (alliance) ACOSOG Z0011 randomized trial [^114tB2xX]. Annals of Surgery (2016). Low credibility.
 
 Background and Objective
 
@@ -585,13 +585,13 @@ Despite the potential for residual axillary disease after SLND, SLND without ALN
 
 ---
 
-### Intraoperative nomograms, based on one-step nucleic acid amplification, for prediction of non-sentinel node metastasis and four or more axillary node metastases in breast cancer patients with sentinel node metastasis [^14b28366]. Annals of Surgical Oncology (2018). Low credibility.
+### Intraoperative nomograms, based on one-step nucleic acid amplification, for prediction of non-sentinel node metastasis and four or more axillary node metastases in breast cancer patients with sentinel node metastasis [^111XgiMb]. Annals of Surgical Oncology (2018). Low credibility.
 
 Axillary lymph node (ALN) status is still the most important prognostic factor for patients with breast cancer, and sentinel lymph node biopsy (SLNB) is currently widely accepted as a standard surgical procedure for the determination of ALN status of clinically node-negative breast cancer patients.–In case of negative sentinel lymph node (SLN), completion ALN dissection (cALND) can be avoided; however, in case of positive SLN, cALND is performed because of a high probability of non-SLN (NSLN) metastasis, whereas a certain proportion of patients with positive SLN are forgoing cALND if they meet the inclusion criteria for the American College of Surgeons Oncology Group (ACOSOG) Z0011 study. It has been reported that 40–70% of SLN-positive patients actually have NSLN metastasis, indicating that approximately half of SLN-positive patients undergo unnecessary cALND. In the current era of precision medicine, the risk of NSLN metastasis should be estimated accurately, and the indication for cALND should be personalized according to the risk of NSLN metastasis. For these reasons, various prediction models for NSLN metastasis and four or more ALN metastases have been developed for SLN-positive breast cancer patients.–
 
 ---
 
-### Axillary lymph node dissection is associated with improved survival among men with invasive breast cancer and sentinel node metastasis [^eba48507]. Annals of Surgical Oncology (2023). Medium credibility.
+### Axillary lymph node dissection is associated with improved survival among men with invasive breast cancer and sentinel node metastasis [^1172MMKt]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Background
 
@@ -611,7 +611,7 @@ The results of this study suggest that among patients with early-stage MBC with 
 
 ---
 
-### Impact of the American college of surgeons oncology group Z0011 criteria applied to a contemporary patient population [^8c223af4]. Journal of the American College of Surgeons (2013). Low credibility.
+### Impact of the American college of surgeons oncology group Z0011 criteria applied to a contemporary patient population [^114akmK9]. Journal of the American College of Surgeons (2013). Low credibility.
 
 Background
 
@@ -631,13 +631,13 @@ Examination of our breast cancer patients with Z0011 trial criteria suggests tha
 
 ---
 
-### Axillary lymph node dissection in breast cancer patients [^79eb6e77]. ASBrS (2018). Medium credibility.
+### Axillary lymph node dissection in breast cancer patients [^1147kag6]. ASBrS (2018). Medium credibility.
 
 American Society of Breast Surgeons resource guide — Axillary lymph node dissection (ALND) indications in breast cancer: ALND has largely been replaced by sentinel lymph node (SLN) biopsy for patients with cN0 breast cancer but is still required for a significant proportion of all breast cancer patients. Current indications for ALND are as follows: the clinically node-positive axilla confirmed by fine needle aspiration or core biopsy in a patient for whom neoadjuvant chemotherapy is not planned; occult breast cancer presenting as axillary node metastasis; SLN positive patients who fall outside the Z0011 selection criteria (i.e. > 2 SLN positive, matted nodes, mastectomy, or breast conservation without whole-breast RT); inflammatory, clinical stage T4, or high-risk T3 breast cancer; failed SLN mapping; inadequate prior ALND with residual clinically suspicious nodes; sentinel or axillary nodes which remain positive after neoadjuvant chemotherapy; and axillary recurrence following previous breast cancer treatment.
 
 ---
 
-### Axillary recurrence after a tumor-positive sentinel lymph node biopsy without axillary treatment: a review of the literature [^d9900deb]. Annals of Surgical Oncology (2012). Low credibility.
+### Axillary recurrence after a tumor-positive sentinel lymph node biopsy without axillary treatment: a review of the literature [^116ZYhZL]. Annals of Surgical Oncology (2012). Low credibility.
 
 Since the 1990s, the sentinel lymph node biopsy (SLNB) has become the standard staging procedure for patients with invasive breast cancer. According to the current treatment guidelines, treatment of the axilla in case of a negative SLNB can be safely omitted. A positive SLNB indicates that completion axillary lymph node dissection (cALND) has to be performed. In case of four or more positive lymph nodes in the dissection specimen, adjuvant radiotherapy of the supra- and infraclavicular lymph nodes is indicated. Axillary radiotherapy is possibly an appropriate alternative for cALND. In the AMAROS trial cALND and axillary radiotherapy were compared; the main objective was to show equivalent locoregional control and reduced morbidity after radiotherapy. The final results of this trial have not yet been established. Although a cALND not only provides additional prognostic information, it could also optimize regional control and potentially improve overall survival. However, in 15–20% of the cases, a cALND leads to long-term complications such as pain, paresthesia due to intercostobrachial nerve injury, impairment of the shoulder function, or lymphedema.
 
@@ -647,13 +647,13 @@ Recently, several studies in patients with a positive SLNB who predominantly und
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^dfea370c]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^116ixuij]. Journal of Clinical Oncology (2025). High credibility.
 
 ASCO guideline — ALND in mastectomy candidates: ALND is not necessary and can be omitted in patients with clinically node-negative invasive breast cancer ≤ 5 cm who receive mastectomy and have one to two positive sentinel nodes, and postmastectomy RT (PMRT) with regional nodal irradiation (RNI) can be offered (Evidence quality: High; Strength of recommendation: Strong). In patients with T1-T2, pN1 disease undergoing mastectomy but not receiving PMRT or RNI, completion ALND is recommended (Evidence quality: High; Strength of recommendation: Strong). ALND should be performed and followed by PMRT for patients who receive mastectomy and have ≥ 3 positive nodes (Evidence quality: High; Strength of recommendation: Strong).
 
 ---
 
-### Application of ACOSOG Z0011 criteria reduces perioperative costs [^fabd42aa]. Annals of Surgical Oncology (2013). Low credibility.
+### Application of ACOSOG Z0011 criteria reduces perioperative costs [^117QjUYR]. Annals of Surgical Oncology (2013). Low credibility.
 
 Background
 
@@ -673,7 +673,7 @@ Application of Z0011 guidelines resulted in cost savings, with a 64% reduction i
 
 ---
 
-### Omitting axillary dissection in breast cancer with sentinel-node metastases [^c1176ffa]. The New England Journal of Medicine (2024). Excellent credibility.
+### Omitting axillary dissection in breast cancer with sentinel-node metastases [^115wGUzD]. The New England Journal of Medicine (2024). Excellent credibility.
 
 Background
 
@@ -693,7 +693,7 @@ The omission of completion axillary-lymph-node dissection was noninferior to the
 
 ---
 
-### Sentinel lymph node biopsy versus axillary lymph node dissection in breast cancer patients undergoing mastectomy with one to two metastatic sentinel lymph nodes: sub-analysis of the SINODAR-ONE multicentre randomized clinical trial and reopening of enrolment [^7102ffa8]. The British Journal of Surgery (2023). Medium credibility.
+### Sentinel lymph node biopsy versus axillary lymph node dissection in breast cancer patients undergoing mastectomy with one to two metastatic sentinel lymph nodes: sub-analysis of the SINODAR-ONE multicentre randomized clinical trial and reopening of enrolment [^113tYcGF]. The British Journal of Surgery (2023). Medium credibility.
 
 Discussion
 
@@ -703,7 +703,7 @@ Retrospective analyses have, however, evaluated the outcomes of BC patients sele
 
 ---
 
-### Age and receptor status Do not indicate the need for axillary dissection in patients with sentinel lymph node metastases [^e65501a0]. Annals of Surgical Oncology (2016). Low credibility.
+### Age and receptor status Do not indicate the need for axillary dissection in patients with sentinel lymph node metastases [^116tUhsd]. Annals of Surgical Oncology (2016). Low credibility.
 
 Background
 
@@ -723,7 +723,7 @@ Axillary lymph node dissection was no more likely to be indicated for high-risk 
 
 ---
 
-### Impact of axillary dissection among patients with sentinel node-positive breast cancer undergoing mastectomy [^142ebbba]. Journal of the National Comprehensive Cancer Network (2021). Medium credibility.
+### Impact of axillary dissection among patients with sentinel node-positive breast cancer undergoing mastectomy [^111WvT5K]. Journal of the National Comprehensive Cancer Network (2021). Medium credibility.
 
 Background
 
@@ -743,7 +743,7 @@ CLND is not significantly correlated with reduced recurrence or improved OS amon
 
 ---
 
-### Adherence rate to alliance for clinical trials in oncology Z0011 trial based on breast cancer subtype [^c8fdc307]. Journal of the American College of Surgeons (2024). Medium credibility.
+### Adherence rate to alliance for clinical trials in oncology Z0011 trial based on breast cancer subtype [^1168ym3L]. Journal of the American College of Surgeons (2024). Medium credibility.
 
 Background
 
@@ -763,13 +763,13 @@ Z11 is applicable for women with early N1 disease, regardless of subtypes. ALND 
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^f0ba62dc]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^1179tdjH]. Journal of Clinical Oncology (2025). High credibility.
 
 Completion axillary lymph node dissection (ALND) — Clinical Question 3 asks whether ALND is necessary for patients with clinically node-negative early-stage breast cancer who have one or two SLN metastases and will receive BCS with whole-breast RT.
 
 ---
 
-### Is preoperative axillary imaging beneficial in identifying clinically node-negative patients requiring axillary lymph node dissection? [^314d4d52]. Journal of the American College of Surgeons (2016). Low credibility.
+### Is preoperative axillary imaging beneficial in identifying clinically node-negative patients requiring axillary lymph node dissection? [^112G6Mms]. Journal of the American College of Surgeons (2016). Low credibility.
 
 Background
 
@@ -789,19 +789,19 @@ Among clinically node-negative patients with abnormal axillary imaging, 71% did 
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^1f05e06c]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^111nzbDu]. Journal of Clinical Oncology (2025). High credibility.
 
 Asco sentinel lymph node biopsy (SLNB) update — overarching clinical questions — This clinical practice guideline update addresses six overarching clinical questions covering whether SLNB can be omitted in select patients, how radiation (RT) and systemic treatment decisions are impacted by omission of a SLNB, whether axillary lymph node dissection (ALND) is necessary for patients with clinically node-negative early-stage breast cancer who have one or two sentinel lymph node (SLN) metastases and will receive breast-conserving surgery with whole-breast RT, whether ALND is necessary for patients with nodal metastases who are planning to undergo mastectomy, whether completion ALND can be omitted in patients with early-stage breast cancer who do not have nodal metastases, and the role of SLNB in special circumstances in clinical practice including large or locally advanced invasive tumors, multicentric tumors, inflammatory breast cancer, ductal carcinoma in situ (DCIS), obesity, male breast cancer, pregnancy, patients who are breastfeeding or lactating, evaluation of the internal mammary (IM) nodes, presence of suspicious palpable axillary nodes, multiple suspicious axillary nodes on imaging with biopsy confirmation, and prior breast or axillary surgery.
 
 ---
 
-### Sentinel node dissection in early-stage breast cancer: ongoing prospective randomized trials in the USA [^618b0351]. Annals of Surgical Oncology (2001). Low credibility.
+### Sentinel node dissection in early-stage breast cancer: ongoing prospective randomized trials in the USA [^113VcVXW]. Annals of Surgical Oncology (2001). Low credibility.
 
 One of the most important advances in the surgical treatment of early-stage breast cancer has been the introduction of sentinel lymph node dissection as an alternative to routine axillary node dissection. This minimally invasive procedure may reduce the morbidity of surgical treatment and improve staging of the axillary lymph node basin. Over the last 5 to 7 years, numerous institutions have published their sentinel node identification rates, false-negative events, optimal techniques, and learning curves. Many of these issues need confirmation in a prospective multicentered fashion and other issues such as survival and comparative toxicities require prospective randomized trials. Two prospective randomized trials using sentinel node biopsy have been implemented in the United States: the NSABP B-32 trial and the ACOSOG Z0010/Z0011 trials. Design, hypotheses, and rationale for these trials are discussed.
 
 ---
 
-### Sentinel node involvement with or without completion axillary lymph node dissection: treatment and pathologic results of randomized SERC trial [^19bdd30a]. NPJ Breast Cancer (2021). Medium credibility.
+### Sentinel node involvement with or without completion axillary lymph node dissection: treatment and pathologic results of randomized SERC trial [^111fAT85]. NPJ Breast Cancer (2021). Medium credibility.
 
 Introduction
 
@@ -815,7 +815,7 @@ Before results with 10-years follow-up of these two randomized trial, we started
 
 ---
 
-### ASO author reflections: trends of axillary treatment in sentinel node-positive breast cancer patients undergoing mastectomy [^7b63733e]. Annals of Surgical Oncology (2023). Medium credibility.
+### ASO author reflections: trends of axillary treatment in sentinel node-positive breast cancer patients undergoing mastectomy [^1149vt7F]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Past
 
@@ -823,7 +823,7 @@ During the last decade, the necessity to perform axillary lymph node dissection 
 
 ---
 
-### What to Do with non-visualized sentinel nodes? A Dutch nationwide survey study [^39f18392]. Annals of Surgical Oncology (2017). Low credibility.
+### What to Do with non-visualized sentinel nodes? A Dutch nationwide survey study [^112UuR8m]. Annals of Surgical Oncology (2017). Low credibility.
 
 Discussion
 
@@ -833,7 +833,7 @@ The Z0011 trial caused a paradigm shift in the axillary treatment of clinically 
 
 ---
 
-### Sentinel lymph node biopsy versus axillary lymph node dissection in breast cancer patients undergoing mastectomy with one to two metastatic sentinel lymph nodes: sub-analysis of the SINODAR-ONE multicentre randomized clinical trial and reopening of enrolment [^b485755d]. The British Journal of Surgery (2023). Medium credibility.
+### Sentinel lymph node biopsy versus axillary lymph node dissection in breast cancer patients undergoing mastectomy with one to two metastatic sentinel lymph nodes: sub-analysis of the SINODAR-ONE multicentre randomized clinical trial and reopening of enrolment [^115cdbhv]. The British Journal of Surgery (2023). Medium credibility.
 
 Introduction
 
@@ -843,7 +843,7 @@ Efforts to limit redundant axillary surgical management have been ongoing over t
 
 ---
 
-### Regional recurrence rates with or without complete axillary dissection for breast cancer patients with node-positive disease on sentinel lymph node biopsy after neoadjuvant chemotherapy [^7866df83]. Advances in Radiation Oncology (2019). Medium credibility.
+### Regional recurrence rates with or without complete axillary dissection for breast cancer patients with node-positive disease on sentinel lymph node biopsy after neoadjuvant chemotherapy [^1145W4wt]. Advances in Radiation Oncology (2019). Medium credibility.
 
 Discussion
 
@@ -855,7 +855,7 @@ However, these studies supporting omission of ALND are based on patients treated
 
 ---
 
-### American college of surgeons oncology group (ACOSOG) Z0011: impact on surgeon practice patterns [^1851db33]. Annals of Surgical Oncology (2012). Low credibility.
+### American college of surgeons oncology group (ACOSOG) Z0011: impact on surgeon practice patterns [^111d4CTC]. Annals of Surgical Oncology (2012). Low credibility.
 
 Introduction
 
@@ -875,7 +875,7 @@ Surgeons at our institution have implemented Z0011 results for the majority of p
 
 ---
 
-### Applicability of the ACOSOG Z0011 criteria in women with high-risk node-positive breast cancer undergoing breast conserving surgery [^fe72e93b]. Annals of Surgical Oncology (2015). Low credibility.
+### Applicability of the ACOSOG Z0011 criteria in women with high-risk node-positive breast cancer undergoing breast conserving surgery [^117WETEA]. Annals of Surgical Oncology (2015). Low credibility.
 
 Background
 
@@ -895,7 +895,7 @@ The Z0011 trial eligibility requirements apply to a significant proportion of pa
 
 ---
 
-### The feasibility of the ACOSOG Z0011 criteria for omitting axillary lymph node dissection after positive sentinel lymph node biopsy in Chinese breast cancer patients: a multicenter study… [^d8ae79f5]. ASCO (2015). Low credibility.
+### The feasibility of the ACOSOG Z0011 criteria for omitting axillary lymph node dissection after positive sentinel lymph node biopsy in Chinese breast cancer patients: a multicenter study… [^116YEvwn]. ASCO (2015). Low credibility.
 
 Abstract e12058 Background: The ACOSOG Z0011 trial has been described as practice-changing of sentinel lymph nodes positive breast cancers. This study was undertaken to examine current practice pattern in China, evaluate the impact of Z0011 on practice, and determine the exportability of the Z0011criteria for selecting Chinese patients who are eligible for omitting axillary lymph node dissection with positive SLNs. Methods: A electronic survey about Z0011 trial was distributed to members of Surgical Group of Breast Cancer attached to Chinese Preventive Medicine Association. Surgeons were questioned about the impact of the trial results on their practice. At the mean time, we collected 658 consecutive patients with ALND after positive SLN biopsy from five centers' database and grouped them as eligible or ineligible for omitting ALND according to Z0011 criteria.
 
@@ -905,7 +905,7 @@ Conclusions: Applying Z0011 criteria to Chinese patients could select the ones w
 
 ---
 
-### Axillary lymph node coverage with 3-dimensional tangential field irradiation and correlation with heart and lung dose [^4e6bdc13]. Advances in Radiation Oncology (2017). Low credibility.
+### Axillary lymph node coverage with 3-dimensional tangential field irradiation and correlation with heart and lung dose [^1131GGFt]. Advances in Radiation Oncology (2017). Low credibility.
 
 Introduction
 
@@ -915,7 +915,7 @@ A postprotocol analysis of radiation field design of enrolled patients showed th
 
 ---
 
-### Do the ACOSOG Z0011 criteria affect the number of sentinel lymph nodes removed? [^21106c47]. Annals of Surgical Oncology (2015). Low credibility.
+### Do the ACOSOG Z0011 criteria affect the number of sentinel lymph nodes removed? [^111r27FC]. Annals of Surgical Oncology (2015). Low credibility.
 
 Introduction
 
@@ -935,7 +935,7 @@ Since the adoption of Z0011 criteria, we found significantly fewer patients unde
 
 ---
 
-### Nomograms for preoperative prediction of axillary nodal status in breast cancer [^7f578904]. The British Journal of Surgery (2017). Low credibility.
+### Nomograms for preoperative prediction of axillary nodal status in breast cancer [^114Fnq7Z]. The British Journal of Surgery (2017). Low credibility.
 
 Introduction
 
@@ -943,7 +943,7 @@ In patients with a clinically negative axilla, axillary lymph node dissection (A
 
 ---
 
-### Multicenter prospective evaluation of the reliability of the combined use of two models to predict non-sentinel lymph node status in breast cancer patients with metastatic sentinel lymph nodes: the MSKCC nomogram and the tenon score. results of the NOTEGS study [^1307a94d]. British Journal of Cancer (2017). Low credibility.
+### Multicenter prospective evaluation of the reliability of the combined use of two models to predict non-sentinel lymph node status in breast cancer patients with metastatic sentinel lymph nodes: the MSKCC nomogram and the tenon score. results of the NOTEGS study [^111VDLcL]. British Journal of Cancer (2017). Low credibility.
 
 The other finding is the low proportion of patients selected by the MSKCC nomogram and the Tenon score for omission of ALND (26.9% and 46.7%, respectively). The American College of Surgeons Oncology Group led the multicenter Z0011 trial to determine the effects of ALND on overall survival in patients with one or two positive SLN. The use of SLND alone compared with ALND did not result in inferior survival and locoregional control. For micrometastasis only, IBCSG 23–01 provided similar results Using the Z0011 eligibility criteria, ∼70% of patients are eligible for omitting completion ALND. The rate was 13.5% in our study using the combined approach, far beyond a selection based on Z011 criteria that has been endorsed by most guidelines. This over selection is clearly a limitation of the use of models in clinical practice. The absence of benefit in terms of survival between SLNB alone and complete ALND in Z011, IBCSG 23–01 and in all non-randomised studies limits the additional information gained from ALND to the number of nodes containing metastases. However, this prognostic information, obtained at the cost of an increase in morbidity, is unlikely to change systemic therapy decisions. Moreover, there is no improvement in axillary recurrence and DFS by ALND when the nodal invasion is micrometastatic or limited to a few lymph nodes. This suggests that this limited burden of disease is likely to be controlled with systemic therapy and RT. Other authors have suggested that it is more important to identify patients at risk of pN2 disease (⩾4 metastatic nodes). Other models, and particularly those that integrate extracapsular extension of the tumour in the SN, or those designed to predict the risk of ⩾4 metastatic nodes, have to be tested in this series.
 
@@ -951,7 +951,7 @@ In conclusion, we demonstrated in this controlled prospective trial that in meta
 
 ---
 
-### Accurate staging of axillary lymph nodes from breast cancer patients using a novel molecular method [^8c98f7d7]. British Journal of Cancer (2011). Low credibility.
+### Accurate staging of axillary lymph nodes from breast cancer patients using a novel molecular method [^114bSeWi]. British Journal of Cancer (2011). Low credibility.
 
 In breast cancer, the number of axillary lymph-node metastases is the most powerful prognostic factor and nodal tumour burden is a continuous variable of prognosis. Sentinel lymph-node (SN) biopsy is the standard axillary staging procedure for patients with clinically node-negative early-stage breast cancer. Current guidelines recommend completion axillary lymph-node dissection (CALND) for patients with SN metastases. This procedure is considered valuable in achieving regional control and obtaining accurate nodal staging for the selection of adjuvant chemotherapy and radiation therapy, which leads to improved survival of node-positive patients. In addition, identifying tumour spread to non-SNs beyond the SNs seems to be an independent determinant of patient outcome.
 
@@ -959,19 +959,19 @@ Recently, however, the American College of Surgeons Oncology Group Z-0011 random
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^6f5114f3]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^113r2rtA]. Journal of Clinical Oncology (2025). High credibility.
 
 Regarding medical management for breast cancer, more specifically with respect to management of early breast cancer, axillary lymph node dissection, ASCO 2025 guidelines recommend to omit axillary lymph node dissection in patients with clinically node-negative invasive breast cancer ≤ 5 cm who receive mastectomy and have 1–2 positive sentinel nodes, and offer postmastectomy radiptherapy with regional nodal irradiation.
 
 ---
 
-### Nomograms for preoperative prediction of axillary nodal status in breast cancer [^1bfd07ef]. The British Journal of Surgery (2017). Low credibility.
+### Nomograms for preoperative prediction of axillary nodal status in breast cancer [^111iVf3t]. The British Journal of Surgery (2017). Low credibility.
 
 In this study, the endpoints of the analyses were chosen after applying criteria from the ACOSOG Z0011 trial, which showed no benefit of completion axillary dissection for patients with one or two involved lymph nodes. The present cohort was thus divided into patients with no axillary disease, patients with one or two positive nodes and those with at least three metastatic nodes, and the predictors for these categories were developed and displayed graphically in three different nomograms. The proposed predictive models had AUCs of 0.70–0.81 in ROC curve analysis; internal validation demonstrated good discrimination in predicting the three categories of axillary nodal status. These nomograms could be used to provide clinical guidance regarding appropriate axillary treatment as no further staging (N0), sentinel node staging (1–2 positive nodes) and completion axillary dissection or neoadjuvant therapy (at least 3 positive nodes). By categorizing the endpoints into low‐ and high‐risk groups based on the extent of nodal metastatic involvement and not solely counting on sentinel node status as a benchmark, the present nomograms were able to identify patients at risk of metastatic disease who may benefit from neoadjuvant therapy and/or direct ALND, thus bypassing SNLB.
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^a43ad798]. Journal of Clinical Oncology (2025). Medium credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^115CUjZ9]. Journal of Clinical Oncology (2025). Medium credibility.
 
 Purpose
 
@@ -991,7 +991,7 @@ Clinicians should not recommend routine SLNB in select patients who are postmeno
 
 ---
 
-### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^f391e14c]. JAMA Oncology (2023). High credibility.
+### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^117E6zTD]. JAMA Oncology (2023). High credibility.
 
 Study Population
 
@@ -1006,25 +1006,25 @@ BC indicates breast cancer; DIN, ductal intraepithelial neoplasia; ITT, intentio
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^1c09a580]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^111iZtpX]. Journal of Clinical Oncology (2025). High credibility.
 
 ASCO guideline — management of the axilla in patients with "clinical T1-2 cm breast cancer" — emphasizes that "Multidisciplinary discussion of adjuvant therapy options should occur prior to surgery when omitting sentinel lymph node biopsy (SLNB)". Decision making "should be made on a case-by-case basis, and include a patient-centered approach", and "Full lymph node dissection may mitigate the need for RNI in select patients". The caption highlights that "Patients with three positive nodes were underrepresented in trials evaluating the omission of completion ALND", and that "There are no clinical trial data comparing SLNB/targeted axillary dissection (localized removal of clipped biopsy-proven positive node) to complete axillary lymph node dissection at this time, and either may be options for patients", with abbreviations defined as "ALND, axillary lymph node dissection", "RNI, regional nodal irradiation", and "SLNB, sentinel lymph node biopsy".
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^bb8c9e45]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^115o3vAQ]. Journal of Clinical Oncology (2025). High credibility.
 
 Breast cancer axillary management after mastectomy with positive sentinel nodes — regional nodal irradiation guidance states that RT with regional nodal irradiation (RNI) is recommended in place of completion axillary lymph node dissection (ALND) for patients with clinically node-negative invasive breast cancer that is ≤ 5 cm who receive mastectomy and have one to two positive sentinel nodes. Decisions regarding the addition of RNI may be based on the increasing number of involved sentinel nodes and metastasis size with RNI reserved for macrometastasis versus micrometastasis, and in patients who receive mastectomy and have ≥ 3 positive nodes, ALND followed by RNI RT should be recommended.
 
 ---
 
-### Completion of axillary dissection for a positive sentinel node: necessary or not? [^6852c316]. Current Oncology Reports (2009). Low credibility.
+### Completion of axillary dissection for a positive sentinel node: necessary or not? [^113ffWeH]. Current Oncology Reports (2009). Low credibility.
 
 Sentinel node excision has been widely accepted as the initial surgical step for evaluating the axilla for metastatic breast cancer. When the nodes are positive, the standard of care is to complete the axillary node dissection, a more extended procedure that carries an increased risk for morbidity. This article reviews data from sentinel lymph node trials, case series reports of outcomes when axillary node dissection was not performed in the setting of positive sentinel nodes, models for predicting the status of nonsentinel nodes, and the morbidity associated with axillary operations. Despite an approximate 10% false-negative rate, early results indicate that there is a much lower local recurrence rate after sentinel node excision alone and that systemic therapy may sterilize the axilla. In selected patients, it may be appropriate to forgo an axillary node dissection, although there are no randomized clinical trial data to support or refute this suggestion.
 
 ---
 
-### Axillary management: how much is too much? [^9e4b59df]. Current Oncology Reports (2024). Medium credibility.
+### Axillary management: how much is too much? [^1153gMUz]. Current Oncology Reports (2024). Medium credibility.
 
 Purpose of Review
 
@@ -1040,13 +1040,13 @@ Breast cancer has evolved away from routine axillary clearance to the less invas
 
 ---
 
-### BJS commission on the surgical management of the axilla in breast cancer [^bf8bc811]. The British Journal of Surgery (2025). Medium credibility.
+### BJS commission on the surgical management of the axilla in breast cancer [^115tyazL]. The British Journal of Surgery (2025). Medium credibility.
 
 Several prospective randomized trials have shown the non-inferiority of the omission of completion ALND in patients with clinically node-negative breast cancer and one to two SLN(s) with metastases who undergo primary surgery. Radiotherapy schedules, however, varied (Table 1). Hence, international guidelines do not recommend completion ALND in patients with limited axillary involvement, while disparity remains on recommendations for adjuvant radiotherapy. An interesting difference between these trials is the use of preoperative axillary ultrasound (AUS): in the ACOSOG Z0011 and AMAROS trials, AUS was optional, while the SINODAR-ONE and OTOASOR trials required a negative AUS for eligibility. SENOMAC mandated AUS but allowed enrolment of patients with suspicious, non-palpable lymph nodes in whom fine-needle aspiration cytology or core biopsy confirmed axillary metastases. AUS assessment of the axilla has limitations due to its user dependency and dynamic nature, which impact reproducibility. The Breast Imaging Reporting and Data System (BI-RADS) lacks strict criteria for the ultrasound assessment of the axilla. Features such as cortical or eccentric cortical hypertrophy ≥ 3 mm, a round shape, or the loss of central hilum typically indicate suspicious nodes. Moreover, AUS sensitivity and specificity vary significantly (26.4% to 75.9% and 88.4% to 98.1% respectively). Integrating deep-learning radiomics with combined imaging and clinical criteria may improve AUS performance and enhance its role in clinical decision-making in the future.
 
 ---
 
-### ST gallen 2019 guidelines understage the axilla in lobular breast cancer: a population-based study [^310be934]. The British Journal of Surgery (2021). Medium credibility.
+### ST gallen 2019 guidelines understage the axilla in lobular breast cancer: a population-based study [^112FiPrT]. The British Journal of Surgery (2021). Medium credibility.
 
 Introduction
 
@@ -1058,7 +1058,7 @@ Nodal staging is one of the cornerstones in the diagnostic work-up of breast can
 
 ---
 
-### Trends on axillary surgery in nondistant metastatic breast cancer patients treated between 2011 and 2015: a Dutch population-based study in the ACOSOG-Z0011 and AMAROS era [^eccf0b59]. Annals of Surgery (2018). Low credibility.
+### Trends on axillary surgery in nondistant metastatic breast cancer patients treated between 2011 and 2015: a Dutch population-based study in the ACOSOG-Z0011 and AMAROS era [^11745d4C]. Annals of Surgery (2018). Low credibility.
 
 Objectives
 
@@ -1082,7 +1082,7 @@ This study shows a trend towards less extensive axillary surgery in Dutch cT1-T4
 
 ---
 
-### ST gallen 2019 guidelines understage the axilla in lobular breast cancer: a population-based study [^3a59795f]. The British Journal of Surgery (2021). Medium credibility.
+### ST gallen 2019 guidelines understage the axilla in lobular breast cancer: a population-based study [^112VWLSa]. The British Journal of Surgery (2021). Medium credibility.
 
 In the St Gallen 2019 guidelines for primary therapy of early breast cancer, all histological subtypes were included in the extended indication for cALND omission. Completion ALND can thus be omitted in clinically T3, N0 breast cancer with one or two SLN metastases, provided that the patient receives adjuvant systemic treatment and regional nodal irradiation. In addition, the St Gallen 2019 guidelines recommend adjuvant chemotherapy for patients with luminal A-like tumours and four or more ALN metastases. The number patients with ILC was small in the above-mentioned RCTs (8.0 per cent, 334 of 4192), and so the applicability these data as criteria for omitting cALND in patients with ILC is unclear.
 
@@ -1090,7 +1090,7 @@ The aim of the present study was to compare the prevalence of at least four ALN 
 
 ---
 
-### Is a completion axillary dissection in patients with early breast cancer with a positive sentinel node necessary? An NCDB-based trial emulation of ACOSOG Z0011… [^c3874da2]. ASCO (2024). Medium credibility.
+### Is a completion axillary dissection in patients with early breast cancer with a positive sentinel node necessary? An NCDB-based trial emulation of ACOSOG Z0011… [^115zt2sb]. ASCO (2024). Medium credibility.
 
 Abstract e12592 Background: The ACOSOG Z0011 Study is a practice-changing phase III clinical trial that promotes the de-escalation of axillary surgery in early breast cancer patients, which supports no completion axillary lymph node dissection in clinically node negative patients with 1 or 2 positive sentinel lymph nodes. Methods: NCDB PUF 2020 was queried for clinical T1-2 N0 M0 breast cancer patients diagnosed 2010–2017. The inclusion and exclusion criteria were the same as in the Z0011 trial except for the inclusion of 3 positive sentinel lymph nodes. Sentinel lymph node biopsy alone and ALND were defined using Site-Specific Factor 19. Results: 25, 774 patients were included in the analysis. 20311 patients were in the SLNB alone group, and 5463 patients were in the ALND group respectively. The utility rate of SLNB increased steadily over the years from 53. 7% in 2010 to
 91. 0% in 2017.
@@ -1099,25 +1099,25 @@ The median age was 60, which was older than that in the Z0011 trial. The median 
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^27d1e926]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^112232P7]. Journal of Clinical Oncology (2025). High credibility.
 
 ASCO guideline — axillary lymph node dissection (ALND) with one or two positive sentinel nodes after breast-conserving surgery and whole-breast RT: Clinicians should not recommend ALND for patients with early-stage, clinically node-negative breast cancer who have one or two positive sentinel lymph node metastases and will receive breast-conserving surgery with whole-breast RT (Evidence quality: High; Strength of recommendation: Strong). Completion ALND after demonstration of node positivity with SLNB is not necessary if the patient already meets candidacy for CDK4/6 inhibitor or olaparib; if a patient with 1–2 positive nodes on SLNB is not otherwise eligible, completion ALND can be considered, but the rate of four or more nodal metastases with completion ALND is low (13%), and physician-patient shared decision making is warranted.
 
 ---
 
-### Preoperative sonographic prediction of limited axillary disease in patients with primary breast cancer meeting the Z0011 criteria: an alternative to sentinel node biopsy? [^5ff5c371]. Annals of Surgical Oncology (2022). Medium credibility.
+### Preoperative sonographic prediction of limited axillary disease in patients with primary breast cancer meeting the Z0011 criteria: an alternative to sentinel node biopsy? [^113TGNdW]. Annals of Surgical Oncology (2022). Medium credibility.
 
 The approach to axillary surgery for patients with breast cancer has evolved tremendously over recent decades, leading to significant changes in the role of preoperative axillary imaging. Sentinel node biopsy (SNB) has replaced axillary lymph node dissection (ALND) for primary surgical staging of clinical node-negative breast cancer patients, a paradigm shift that made the identification of axillary involvement the main goal of preoperative axillary staging as these patients could bypass SNB and proceed directly to ALND. In addition, large prospective trials, such as the American College of Surgeons Oncology Group Z0011 trial, have shown that ALND can be safely omitted in patients with early-stage (T1–2) breast cancer who undergo breast-conserving therapy and in whom SNB reveals two or fewer metastatic lymph nodes. – With the implementation of these findings into clinical practice, the use of axillary imaging became controversial from a surgical standpoint, as preoperative detection of metastatic axillary disease would process patients directly to ALND, although these patients might not have been candidates for ALND following SNB according to the Z0011 protocol. As the mere preoperative identification of axillary disease was no longer sufficient to triage patients with early-stage breast cancer to appropriate axillary surgical treatment, a clinical need for preoperative quantification of the extent of axillary disease arose. Consecutively, preoperative breast imaging studies focused on the distinction of patients with limited axillary disease (LAD, one or two metastatic nodes) who would not undergo ALND after a positive sentinel due to the lack of therapeutic implication from patients with extensive axillary disease (EAD, three or more metastatic lymph nodes) who would benefit from ALND. These studies revealed a correlation between the number of abnormal lymph nodes identified by preoperative axillary ultrasound and the number of metastatic nodes on final pathology. – Given these findings, the recent NCCN Clinical Practice Guidelines in Oncology (NCCN guidelines) advise consideration of SNB for patients meeting the Z0011 criteria in whom two or fewer suspicious lymph nodes are found on preoperative imaging, even when one node shows biopsy-proven positivity. If limited histopathological axillary disease could be identified safely by preoperative ultrasound and core needle biopsy, SNB may constitute overtreatment and omission of SNB in this setting due to a lack of consequence in selected patient populations might be an approach for further scientific evaluation. The purposes of this study were to assess the accuracy of preoperative sonographic axillary staging for prediction of LAD (one or two metastatic nodes on final pathology) in patients with early-stage breast cancer meeting the Z0011 criteria, who underwent ALND, and to identify factors associated with high concordance between sonographic prediction and histopathology.
 
 ---
 
-### NCCN guidelines® insights: breast cancer, version 5.2025 [^f3797865]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: breast cancer, version 5.2025 [^117Dxnur]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Breast Cancer — surgical axillary staging criteria specify that if axillary lymph nodes (ALNs) are clinically negative, ≤ 2 suspicious lymph nodes on imaging, or ≤ 2 positive lymph nodes by needle biopsy, the Panel recommends sentinel lymph node (SLN) mapping. If SLN is negative, no further surgery is needed. If SLN is positive, based on ACOSOG Z 0011, no further surgery is recommended only when the following are met: cT1–2, N0 tumors, no preoperative systemic therapy, only 1 or 2 positive SLNs, and planned BCT (BCS + WBRT); otherwise, the Panel recommends level I and II axillary dissection. Based on AMAROS and OTASAR, no further surgery is recommended only when cT1–2, N0 tumors without preoperative systemic therapy have 1 to 2 positive SLNs and will undergo lumpectomy or mastectomy with adjuvant RT with intentional inclusion of undissected axilla at risk; otherwise, the Panel recommends level I and II axillary dissection. In select mastectomy patients with clinically negative axillae but 1 to 2 positive SLNs, the Panel notes that axillary radiation may replace ALND. The NCCN Panel recommends no ALND for positive SLNs when disease is limited to only micrometastatic, and AJCC defines micrometastatic nodal involvement as a metastatic deposit or > 0.2 mm but ≤ 2.0 mm.
 
 ---
 
-### Management of the axilla in T1-2N1 breast cancer [^564b78bd]. NPJ Breast Cancer (2022). Medium credibility.
+### Management of the axilla in T1-2N1 breast cancer [^113CwHYQ]. NPJ Breast Cancer (2022). Medium credibility.
 
 Management of the axilla in T1-2N1, hormone receptor-positive/HER2 negative breast cancers
 
@@ -1135,7 +1135,7 @@ For hormone receptor-positive/HER2 negative T1-2 tumors, the decision on chemoth
 
 ---
 
-### Trends of axillary treatment in sentinel node-positive breast cancer patients undergoing mastectomy [^cc10a77d]. Annals of Surgical Oncology (2023). Medium credibility.
+### Trends of axillary treatment in sentinel node-positive breast cancer patients undergoing mastectomy [^116DY4wW]. Annals of Surgical Oncology (2023). Medium credibility.
 
 During the past decade, several randomized trials have cast doubt on the need to perform axillary lymph node dissection (ALND) in patients with sentinel lymph node metastases (SLN+). The Z0011 trial of The American College of Surgeons Oncology Group (ACOSOG), published in 2011, demonstrated that ALND in cT1-2 patients undergoing breast-conserving surgery (BCS) who were found to have one or two positive SLN (SLN+) showed no lower regional recurrence risk or better survival compared with those undergoing sentinel lymph node biopsy (SLNB) only. The International Breast Cancer Study Group trial (IBCSG 23–01) showed similar results for patients with micrometastases in the SLN. The results of the "After Mapping of the Axilla: Radiotherapy or Surgery?" (AMAROS) trial, published in 2014, demonstrated that axillary radiotherapy (RT) could serve as a safe alternative to ALND resulting in equivalent regional control.
 
@@ -1145,7 +1145,7 @@ Some years ago, a substantial decrease was reported in ALND frequency among SLN+
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^9aa448ba]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^114xGGuo]. Journal of Clinical Oncology (2025). High credibility.
 
 Regarding medical management for breast cancer, more specifically with respect to management of early breast cancer, sentinel lymph node biopsy, ASCO 2025 guidelines recommend to consider omitting sentinel lymph node biopsy in selected patients with small (≤ 2 cm) breast cancer and negative findings on preoperative axillary lymph node ultrasound, provided they meet all of the following criteria and detection of metastatic sentinel lymph nodes would not alter treatment recommendations:
 
@@ -1163,7 +1163,7 @@ Regarding medical management for breast cancer, more specifically with respect t
 
 ---
 
-### Axillary treatment for operable primary breast cancer [^a5449d10]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Axillary treatment for operable primary breast cancer [^115E21CT]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -1195,7 +1195,7 @@ This review confirms the benefit of SLNB and axillary sampling as alternatives t
 
 ---
 
-### Preoperative sonographic prediction of limited axillary disease in patients with primary breast cancer meeting the Z0011 criteria: an alternative to sentinel node biopsy? [^6d8eab6b]. Annals of Surgical Oncology (2022). Medium credibility.
+### Preoperative sonographic prediction of limited axillary disease in patients with primary breast cancer meeting the Z0011 criteria: an alternative to sentinel node biopsy? [^113oRa9Q]. Annals of Surgical Oncology (2022). Medium credibility.
 
 The generalizability of our findings is limited, given the variability in ultrasound image acquisition and interpretation, although the inclusion of data from two centers increases their reliability. The transfer of the findings to other populations has to be done cautiously as the collective assessed mostly comprised screening patients, with low rates of axillary nodal burden and moderate numbers of involved lymph nodes. However, the therapeutic consequences identified in the Z0011 trial are transferable to our sample, which was similar to the Z0011 population (medians of two and one metastatic lymph nodes).
 
@@ -1203,13 +1203,13 @@ In patients with early-stage breast cancer fulfilling the Z0011 criteria with on
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^9dfd3bc2]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^1153E7dT]. Journal of Clinical Oncology (2025). High credibility.
 
 ASCO guideline update — axillary management for clinical T > 2 cm breast cancer presents an algorithm emphasizing staging and timing around sentinel lymph node biopsy (SLNB). For clinically node-negative patients, the figure states "No axillary ultrasound for staging", and low-risk patients proceed to surgery with "Single tracer (radiocolloid) if primary surgery; if non identification or low volume center, use dual dye", while high-risk patients undergo neoadjuvant chemotherapy (NAC) with "Axillary ultrasound pre-NAC for staging". The caption specifies, "Do not recommend SLNB before chemotherapy except in special circumstances after multidisciplinary discussion". For clinically node-positive disease "with lymph node biopsy to confirm diagnosis", options include NAC or a surgery pathway that features axillary lymph node dissection (ALND). Postoperative radiation guidance shown includes "Standard RT (consider regional RT in select patients‡)" and, across node-positive scenarios (e.g., "If BCT, 1–2 nodes positive, and planning RT"; "If mastectomy, 1–2 nodes positive"; "If mastectomy or BCT, ≥ 3 nodes positive¶"), "Standard whole-breast or chest wall RT + RNI§". Notes in the figure add that "Full lymph node dissection may mitigate the need for RT in select patients" and that "Patients with three positive nodes were underrepresented in trials evaluating the omission of completion ALND".
 
 ---
 
-### Applicability of the American college of surgeons oncology group (ACOSOG) Z0011 trial results in invasive lobular carcinoma… [^7b96e89b]. ASCO (2013). Low credibility.
+### Applicability of the American college of surgeons oncology group (ACOSOG) Z0011 trial results in invasive lobular carcinoma… [^114AEAbk]. ASCO (2013). Low credibility.
 
 Abstract 1103 Background: The American College of Surgeons Oncology Group Z0011 trial demonstrated that, for patients with clinical T1-T2, N0 breast cancer and one or two positive sentinel lymph nodes undergoing breast conserving therapy, there was no difference in local-regional recurrence, disease-free survival or overall survival between patients who underwent sentinel lymph node dissection alone or completion axillary lymph node dissection. However, there were a limited number of invasive lobular carcinoma participants in the study. In addition, it is known that ILC has a different pattern of metastases, frequently presenting as small foci requiring immunohistochemistry for detection. Together, these considerations raise concern regarding the applicability of the ACOSOG Z0011 data to patients with ILC.
 
@@ -1219,13 +1219,13 @@ Applicability of the American College of Surgeons Oncology Group Z0011 trial res
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^1cdf0c62]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^111joaDw]. Journal of Clinical Oncology (2025). High credibility.
 
 IBCSG 23–01 — micrometastatic sentinel node disease with or without axillary dissection demonstrates noninferior disease-free survival (DFS) without completion dissection; patients with tumors up to 5 cm and sentinel node micrometastases were randomized to no axillary dissection (n = 469) or axillary dissection (n = 465), with median follow-up of 9.7 years showing DFS 76.8% versus 74.9% (HR, 0.85 [95% CI, 0.65 to 1.11]; log-rank P = 0.24; P = 0.0024 for noninferiority) and no difference in overall survival.
 
 ---
 
-### Impact of immediate versus delayed axillary node dissection on surgical outcomes in breast cancer patients with positive sentinel nodes: results from American college of surgeons oncology group trials Z0010 and Z0011 [^cf9f903e]. Journal of Clinical Oncology (2008). Low credibility.
+### Impact of immediate versus delayed axillary node dissection on surgical outcomes in breast cancer patients with positive sentinel nodes: results from American college of surgeons oncology group trials Z0010 and Z0011 [^116Jp2t5]. Journal of Clinical Oncology (2008). Low credibility.
 
 Purpose
 
@@ -1245,7 +1245,7 @@ In ACOSOG trials Z0010 and Z0011, LN recovery and long-term complications were s
 
 ---
 
-### Effect of sentinel lymph node vs full axillary dissection on overall breast cancer survival… [^62674ceb]. JAMA Network (2017). Excellent credibility.
+### Effect of sentinel lymph node vs full axillary dissection on overall breast cancer survival… [^113WtV5C]. JAMA Network (2017). Excellent credibility.
 
 The ACOSOG Z0011 phase 3 randomized clinical trial enrolled patients from May 1999 to December 2004 at 115 sites. The last date of follow-up was September 29, 2015, in the ACOSOG Z0011 trial. Eligible patients were women with clinical T1 or T2 invasive breast cancer, no palpable axillary adenopathy, and 1 or 2 sentinel lymph nodes containing metastases. Even with follow-up extended to a median of 9. 3 years, the ACOSOG Z0011 randomized clinical trial demonstrated that SLND alone did not result in inferior overall survival outcomes compared with ALND for patients with clinical T1 or T2 node-negative breast cancer and 1 or 2 positive sentinel nodes treated with breast-conserving therapy and adjuvant systemic therapy.
 
@@ -1258,7 +1258,7 @@ However, these conclusions apply only to patients meeting ACOSOG Z0011 eligibili
 
 ---
 
-### Axillary management: how much is too much? [^bb009e42]. Current Oncology Reports (2024). Medium credibility.
+### Axillary management: how much is too much? [^115nEtk1]. Current Oncology Reports (2024). Medium credibility.
 
 Purpose Of Review
 
@@ -1270,13 +1270,13 @@ Axillary dissection is no longer indicated in patients with clinically node-nega
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^4e3f19f3]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^11311EJ6]. Journal of Clinical Oncology (2025). High credibility.
 
 Sentinel lymph node–positive early breast cancer — regional nodal irradiation (RNI) versus completion axillary lymph node dissection (ALND) in mastectomy candidates: In the OTOASOR phase III noninferiority trial, patients were randomly assigned to completion ALND (n = 244) or RNI without completion ALND (n = 230), and "Results showed that RNI was noninferior to completion ALND: The axillary recurrence in the completion ALND arm was 2.0% compared to 1.7% in the RNI arm (P = 1.00)". Mastectomy occurred in "30 patients (16%)" in the RNI arm and "44 patients (18%)" in the ALND arm, and "The results of this study support the use of RNI in place of completion ALND in these patients". In IBCSG 23–01, mastectomy represented "86 of 931 total patients (9%)", and post hoc analyses "suggest that omitting completion ALND could be an acceptable option for patients scheduled to receive mastectomy".
 
 ---
 
-### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^fa757111]. JAMA Oncology (2023). High credibility.
+### Sentinel lymph node biopsy vs No axillary surgery in patients with small breast cancer and negative results on ultrasonography of axillary lymph nodes: the SOUND randomized clinical trial [^117QKMQC]. JAMA Oncology (2023). High credibility.
 
 Key Points
 
@@ -1294,7 +1294,7 @@ These findings suggest that patients with BC of a diameter equal to or smaller t
 
 ---
 
-### Management of the axilla in T1-2N1 breast cancer [^aa53fec6]. NPJ Breast Cancer (2022). Medium credibility.
+### Management of the axilla in T1-2N1 breast cancer [^115MX7GR]. NPJ Breast Cancer (2022). Medium credibility.
 
 In clinically node-negative premenopausal patients, the surgical procedure (mastectomy or lumpectomy) determines the management pathway. When a lumpectomy is planned, patients with positive sentinel nodes may be managed based on the ACOSOG Z0011 or AMAROS trials. The patients who are undergoing a mastectomy have not been included in the ACOSOG Z0011 trial, and the benefit of chest wall radiation may not be justified in all patients. We recommend a sonographic evaluation of the axilla with fine-needle aspiration (FNA) of suspicious nodes. Patients with proven nodal metastasis are started on neoadjuvant chemotherapy, while those with negative FNA are candidates for upfront surgical intervention. Fig. 2b summarizes the suggested outline of treatment.
 
@@ -1302,13 +1302,13 @@ In postmenopausal patients with clinically palpable lymph nodes, the result of a
 
 ---
 
-### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^0b0af6a0]. Journal of Clinical Oncology (2025). High credibility.
+### Sentinel lymph node biopsy in early-stage breast cancer: ASCO guideline update [^111HNYgf]. Journal of Clinical Oncology (2025). High credibility.
 
 ASCO guideline — omitting sentinel lymph node biopsy (SLNB) in select early-stage breast cancer: SLNB can be omitted for select patients with a negative finding on preoperative axillary ultrasound (US) who fulfill all of the following and for whom detection of metastatic sentinel lymph node(s) would not change treatment recommendations (Evidence quality: Moderate; Strength of recommendation: Strong): postmenopausal and ≥ 50 years, unifocal invasive ductal carcinoma smaller than or equal to 2 cm, Nottingham grades 1–2, hormone receptor–positive, HER2-negative in patients intending to receive adjuvant endocrine therapy, no suspicious lymph nodes on axillary US or only one suspicious node and biopsy is benign and concordant with axillary US findings, and undergoing upfront breast-conserving surgery followed by whole-breast RT in patients < 65 years of age; for patients ≥ 65 years of age who qualify, RT post breast-conserving surgery is not mandatory.
 
 ---
 
-### Axillary recurrence after a tumor-positive sentinel lymph node biopsy without axillary treatment: a review of the literature [^1a4997bf]. Annals of Surgical Oncology (2012). Low credibility.
+### Axillary recurrence after a tumor-positive sentinel lymph node biopsy without axillary treatment: a review of the literature [^111fyQ2i]. Annals of Surgical Oncology (2012). Low credibility.
 
 Lastly, the definition and surgical technique of the SLNB itself is a limitation. In daily routine most patients have one or two SLNs, but in the six studies with 100 or more patients in this review mean number of biopsied nodes is 2–11 nodes. In the two large American databases, before analysis with lymph node count threshold (five or fewer nodes examined) 4–16 nodes and 1–44 nodes were included as SLNB patients, which should probably be considered as complete axillary lymph node dissections.
 
@@ -1316,6 +1316,6 @@ Overall survival was not subject of this review, although it is clinically relev
 
 ---
 
-### Sentinel node involvement with or without completion axillary lymph node dissection: treatment and pathologic results of randomized SERC trial [^3b8fed32]. NPJ Breast Cancer (2021). Medium credibility.
+### Sentinel node involvement with or without completion axillary lymph node dissection: treatment and pathologic results of randomized SERC trial [^112XJcYR]. NPJ Breast Cancer (2021). Medium credibility.
 
 Some minor differences of patient's characteristics between center 1 and others centers is report in Supplemental Data File 5. A very few number of events (n = 102) were reported. Consequently higher follow-up is necessary to analyze the non-inferiority of cALND omission.

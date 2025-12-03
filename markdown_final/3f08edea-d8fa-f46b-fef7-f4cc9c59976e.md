@@ -16,37 +16,37 @@ in varus
 
 > Let's see… What do we have here? The user is asking whether external rotation of the foot can correct forefoot adduction while the calcaneus remains in varus, and what the biomechanical and clinical implications of that maneuver are. Let's break this down step-by-step. First, I need to think about the anatomy and mechanics of clubfoot deformity and how the hindfoot and forefoot interact. Then, I should verify what the Ponseti method actually does and whether it isolates or couples hindfoot and forefoot correction. Next, I will examine whether external rotation alone can meaningfully correct adduction without addressing varus, and what the limits are. After that, I should review evidence on residual deformity patterns and the role of bracing and osteotomies. Finally, I will synthesize a practical, clinically grounded conclusion and outline safer alternatives if the calcaneus is fixed in varus.
 
-> Let me first confirm the deformity components and their coupling. Clubfoot is a three-dimensional deformity with hindfoot equinus and varus, midfoot cavus, and forefoot adduction. These elements are mechanically linked through the subtalar and midtarsal joints, so isolated correction of one plane often fails without addressing the others, especially in rigid or recurrent cases [^adb38b77].
+> Let me first confirm the deformity components and their coupling. Clubfoot is a three-dimensional deformity with hindfoot equinus and varus, midfoot cavus, and forefoot adduction. These elements are mechanically linked through the subtalar and midtarsal joints, so isolated correction of one plane often fails without addressing the others, especially in rigid or recurrent cases [^115SXAZt].
 
-> Wait, let me verify what the Ponseti method actually achieves. The Ponseti technique corrects the foot in a specific sequence: first supinate to align the forefoot with the hindfoot to reduce cavus, then abduct the foot while counter-pressuring the talus to derotate the subtalar complex, and finally dorsiflex to correct equinus. Importantly, abduction is coupled with eversion of the calcaneus, so the calcaneus is not left in varus during correction, and the foot is maintained in external rotation with a foot abduction brace to prevent relapse [^b6fdeaf3].
+> Wait, let me verify what the Ponseti method actually achieves. The Ponseti technique corrects the foot in a specific sequence: first supinate to align the forefoot with the hindfoot to reduce cavus, then abduct the foot while counter-pressuring the talus to derotate the subtalar complex, and finally dorsiflex to correct equinus. Importantly, abduction is coupled with eversion of the calcaneus, so the calcaneus is not left in varus during correction, and the foot is maintained in external rotation with a foot abduction brace to prevent relapse [^115gJ31L].
 
-> Hold on, let's not jump to conclusions about external rotation alone. I initially thought external rotation might directly correct adduction, but wait, I should double-check the mechanics. External rotation of the foot primarily changes the foot progression angle and does not, by itself, unlock a fixed subtalar varus or correct midfoot adduction; in fact, forcing external rotation while the calcaneus remains in varus can create shear and stress at the subtalar and midtarsal joints without correcting the underlying deformity, and may even worsen symptoms or precipitate relapse if the hindfoot is not concurrently abducted and everted [^dcc157a4] [^c7c03e41].
+> Hold on, let's not jump to conclusions about external rotation alone. I initially thought external rotation might directly correct adduction, but wait, I should double-check the mechanics. External rotation of the foot primarily changes the foot progression angle and does not, by itself, unlock a fixed subtalar varus or correct midfoot adduction; in fact, forcing external rotation while the calcaneus remains in varus can create shear and stress at the subtalar and midtarsal joints without correcting the underlying deformity, and may even worsen symptoms or precipitate relapse if the hindfoot is not concurrently abducted and everted [^116eHDcP] [^116797HA].
 
-> I need to check the evidence on residual deformity patterns and what happens when varus persists. In adolescents and young adults with prior clubfoot surgery, undercorrection with persistent heel varus and forefoot adduction is common, and correction typically requires osteotomies and soft-tissue balancing rather than isolated external rotation; this reinforces that varus and adduction are coupled and that persistent varus perpetuates adduction and cavus, limiting the effectiveness of external rotation alone [^c7c03e41] [^beea220f].
+> I need to check the evidence on residual deformity patterns and what happens when varus persists. In adolescents and young adults with prior clubfoot surgery, undercorrection with persistent heel varus and forefoot adduction is common, and correction typically requires osteotomies and soft-tissue balancing rather than isolated external rotation; this reinforces that varus and adduction are coupled and that persistent varus perpetuates adduction and cavus, limiting the effectiveness of external rotation alone [^116797HA] [^115t3Hpi].
 
-> Let me consider the role of bracing and whether it supports isolated external rotation. The foot abduction brace maintains both external rotation and dorsiflexion to oppose the deforming forces; it does not isolate external rotation, and its efficacy depends on the hindfoot having been corrected out of varus during casting, again arguing against external rotation alone as a corrective strategy for adduction when varus remains [^b6fdeaf3] [^dcc157a4].
+> Let me consider the role of bracing and whether it supports isolated external rotation. The foot abduction brace maintains both external rotation and dorsiflexion to oppose the deforming forces; it does not isolate external rotation, and its efficacy depends on the hindfoot having been corrected out of varus during casting, again arguing against external rotation alone as a corrective strategy for adduction when varus remains [^115gJ31L] [^116eHDcP].
 
-> Next, I should review what to do when the calcaneus is fixed in varus. If the hindfoot varus is rigid or recurrent, selective osteotomies such as a Dwyer calcaneal osteotomy, lateral column lengthening, or midfoot procedures are used to correct the multiplanar deformity; external fixation can be employed for complex, stiff deformities when gradual correction is safer or more precise, underscoring that the solution is structural realignment rather than passive external rotation [^c7c03e41] [^566b0777] [^b9828fff].
+> Next, I should review what to do when the calcaneus is fixed in varus. If the hindfoot varus is rigid or recurrent, selective osteotomies such as a Dwyer calcaneal osteotomy, lateral column lengthening, or midfoot procedures are used to correct the multiplanar deformity; external fixation can be employed for complex, stiff deformities when gradual correction is safer or more precise, underscoring that the solution is structural realignment rather than passive external rotation [^116797HA] [^113D7tLE] [^115k2ZhQ].
 
-> But wait, what if the deformity is flexible and the child is young? Even in flexible cases, the Ponseti method's abduction maneuver couples external rotation with calcaneal eversion and midfoot correction; external rotation without abduction/eversion would not reliably correct adduction and risks incomplete correction or early relapse, so the clinical principle remains that hindfoot varus must be addressed concurrently with forefoot adduction [^dcc157a4].
+> But wait, what if the deformity is flexible and the child is young? Even in flexible cases, the Ponseti method's abduction maneuver couples external rotation with calcaneal eversion and midfoot correction; external rotation without abduction/eversion would not reliably correct adduction and risks incomplete correction or early relapse, so the clinical principle remains that hindfoot varus must be addressed concurrently with forefoot adduction [^116eHDcP].
 
-> I should confirm the bottom line. External rotation of the foot cannot meaningfully correct forefoot adduction if the calcaneus remains in varus because the deformity is multiplanar and mechanically coupled; effective correction requires abduction with eversion of the calcaneus to derotate the subtalar complex, often supplemented by Achilles tenotomy for equinus, and maintenance in a foot abduction brace. In rigid or recurrent cases, osteotomies or external fixation are indicated to achieve a plantigrade, functional foot [^dcc157a4] [^b6fdeaf3] [^c7c03e41].
+> I should confirm the bottom line. External rotation of the foot cannot meaningfully correct forefoot adduction if the calcaneus remains in varus because the deformity is multiplanar and mechanically coupled; effective correction requires abduction with eversion of the calcaneus to derotate the subtalar complex, often supplemented by Achilles tenotomy for equinus, and maintenance in a foot abduction brace. In rigid or recurrent cases, osteotomies or external fixation are indicated to achieve a plantigrade, functional foot [^116eHDcP] [^115gJ31L] [^116797HA].
 
 ---
 
-External rotation of the foot **does not correct adduction** when the calcaneus remains in varus because the hindfoot varus locks the subtalar joint, preventing the midfoot and forefoot from abducting. Effective correction requires **simultaneous correction of hindfoot varus** (via Ponseti casting or calcaneal osteotomy) to unlock the subtalar joint, allowing the forefoot to abduct and the adduction to resolve [^dcc157a4] [^c7c03e41]. Persistent varus blocks abduction and leads to incomplete correction or relapse, so addressing the hindfoot is essential for durable results [^c7c03e41].
+External rotation of the foot **does not correct adduction** when the calcaneus remains in varus because the hindfoot varus locks the subtalar joint, preventing the midfoot and forefoot from abducting. Effective correction requires **simultaneous correction of hindfoot varus** (via Ponseti casting or calcaneal osteotomy) to unlock the subtalar joint, allowing the forefoot to abduct and the adduction to resolve [^116eHDcP] [^116797HA]. Persistent varus blocks abduction and leads to incomplete correction or relapse, so addressing the hindfoot is essential for durable results [^116797HA].
 
 ---
 
 ## Biomechanical rationale
 
-The subtalar joint couples hindfoot varus/valgus with forefoot adduction/abduction; **varus locks the joint**, restricting abduction. External rotation alone cannot overcome this mechanical block, so adduction persists unless varus is corrected [^dcc157a4].
+The subtalar joint couples hindfoot varus/valgus with forefoot adduction/abduction; **varus locks the joint**, restricting abduction. External rotation alone cannot overcome this mechanical block, so adduction persists unless varus is corrected [^116eHDcP].
 
 ---
 
 ## Clinical evidence
 
-Ponseti casting corrects clubfoot by **abducting the foot while dorsiflexing and externally rotating**, which corrects hindfoot varus and unlocks the subtalar joint, enabling forefoot abduction and correction of adduction [^dcc157a4]. When varus is not corrected, adduction persists or recurs despite external rotation, underscoring the need to address the hindfoot [^c7c03e41].
+Ponseti casting corrects clubfoot by **abducting the foot while dorsiflexing and externally rotating**, which corrects hindfoot varus and unlocks the subtalar joint, enabling forefoot abduction and correction of adduction [^116eHDcP]. When varus is not corrected, adduction persists or recurs despite external rotation, underscoring the need to address the hindfoot [^116797HA].
 
 ---
 
@@ -54,9 +54,9 @@ Ponseti casting corrects clubfoot by **abducting the foot while dorsiflexing and
 
 Persistent varus causes:
 
-- **Persistent adduction**: Uncorrected varus maintains midfoot/forefoot adduction and cavus, causing incomplete correction or relapse [^c7c03e41].
-- **Gait abnormalities**: Varus with adduction produces in-toeing, instability, and abnormal loading, risking pain and arthritis [^a620d3d4].
-- **Treatment failure**: External rotation without varus correction leads to recurrence and may require additional surgery [^c7c03e41].
+- **Persistent adduction**: Uncorrected varus maintains midfoot/forefoot adduction and cavus, causing incomplete correction or relapse [^116797HA].
+- **Gait abnormalities**: Varus with adduction produces in-toeing, instability, and abnormal loading, risking pain and arthritis [^115FHyK1].
+- **Treatment failure**: External rotation without varus correction leads to recurrence and may require additional surgery [^116797HA].
 
 ---
 
@@ -64,9 +64,9 @@ Persistent varus causes:
 
 Effective correction requires **addressing both deformities**:
 
-- **Ponseti method**: Serial casting with abduction, dorsiflexion, and external rotation corrects varus and unlocks the subtalar joint, allowing abduction and durable correction [^dcc157a4].
-- **Surgical options**: For rigid varus, calcaneal osteotomy (e.g. Dwyer) or lateral column lengthening corrects hindfoot alignment and enables forefoot abduction [^c7c03e41].
-- **Combined approaches**: Osteotomies with soft-tissue balancing achieve multiplanar correction when casting is insufficient [^c7c03e41].
+- **Ponseti method**: Serial casting with abduction, dorsiflexion, and external rotation corrects varus and unlocks the subtalar joint, allowing abduction and durable correction [^116eHDcP].
+- **Surgical options**: For rigid varus, calcaneal osteotomy (e.g. Dwyer) or lateral column lengthening corrects hindfoot alignment and enables forefoot abduction [^116797HA].
+- **Combined approaches**: Osteotomies with soft-tissue balancing achieve multiplanar correction when casting is insufficient [^116797HA].
 
 ---
 
@@ -80,13 +80,13 @@ Effective correction requires **addressing both deformities**:
 
 ---
 
-External rotation of the foot **does not correct adduction** when the calcaneus remains in varus because hindfoot varus mechanically blocks subtalar motion and forefoot abduction. Correcting varus is necessary to unlock the joint and achieve lasting adduction correction [^dcc157a4].
+External rotation of the foot **does not correct adduction** when the calcaneus remains in varus because hindfoot varus mechanically blocks subtalar motion and forefoot abduction. Correcting varus is necessary to unlock the joint and achieve lasting adduction correction [^116eHDcP].
 
 ---
 
 ## References
 
-### Review for the generalist: evaluation of pediatric foot and ankle pain [^f64984e3]. Pediatric Rheumatology Online Journal (2008). Low credibility.
+### Review for the generalist: evaluation of pediatric foot and ankle pain [^117J8ebL]. Pediatric Rheumatology Online Journal (2008). Low credibility.
 
 4. Special tests
 
@@ -106,7 +106,7 @@ The ankle, subtalar, forefoot and MTP joints should be moved thru active range a
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^566b0777]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^113D7tLE]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Radler and Mindlerprovided a comprehensive review of different treatment strategies for severe recurrent clubfoot deformity in patients who underwent Ponseti casting and/or previous surgery. Treatment options were discussed according to different components of the residual deformity, including subtalar rotation, ankle equinus, cavus foot, heel varus, and forefoot adduction. For each component, the authors reviewed various bony and soft-tissue procedures but noted a current trend toward external fixation for the stiff clubfoot with severe deformity owing to the potential for gradual correction with minimal bony procedures. Although the authors included clinical photographss and radiographs, no results were reported.
 
@@ -114,7 +114,7 @@ In a recent review on the management of relapsed, residual, and neglected clubfe
 
 ---
 
-### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^dcc157a4]. Journal of Pediatric Orthopedics (2024). Medium credibility.
+### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^116eHDcP]. Journal of Pediatric Orthopedics (2024). Medium credibility.
 
 Intervention
 
@@ -126,7 +126,7 @@ The Ponseti method's casting phase consists of several manipulations and long le
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^c7c03e41]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^116797HA]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Our Clinical Series Review
 
@@ -142,13 +142,13 @@ When the residual cavovarus deformity was primarily localized in the midfoot, a 
 
 ---
 
-### Relationships between first metatarsal and sesamoid positions and other clinically relevant parameters for hallux valgus surgery [^155f5082]. The Journal of Foot and Ankle Surgery (2019). Medium credibility.
+### Relationships between first metatarsal and sesamoid positions and other clinically relevant parameters for hallux valgus surgery [^111Ygko3]. The Journal of Foot and Ankle Surgery (2019). Medium credibility.
 
 Relationships between hallux valgus (HV) and other measurements within the first ray have been extensively studied. It is becoming more popular to correct HV deformity with tarsometatarsal joint arthrodesis while internally (varus) rotating the first metatarsal. This, in turn, reduces the sesamoid position when viewed in the dorsoplantar projection on radiographs. However, it has been shown that not all HV deformities have pathological external (valgus) rotation of the first metatarsal. In this study, we explored the relationships between frontal-plane rotations of the first metatarsal as well as the sesamoids, and other factors not limited to the first ray, to better understand the pathological process of HV deformity and to assist in surgical planning. We found that when adjusting for these covariates, the only factor associated with first metatarsal external rotation was having less metatarsus adductus. Sesamoid rotation, on the other hand, was independently associated with the HV angle, tibial sesamoid position, and medial column collapse. When surgically treating HV, correction of sesamoid rotation may need to be prioritized.
 
 ---
 
-### Combined lateral and transcuneiform without medial osteotomy for residual clubfoot for children [^c484f449]. Clinical Orthopaedics and Related Research (2009). Low credibility.
+### Combined lateral and transcuneiform without medial osteotomy for residual clubfoot for children [^1162MEPi]. Clinical Orthopaedics and Related Research (2009). Low credibility.
 
 Unlabelled
 
@@ -160,37 +160,37 @@ Level IV, therapeutic study (case series). See Guidelines for Authors for a comp
 
 ---
 
-### Correction power of percutaneous adductor tendon release (PATR) for the treatment of hallux valgus: a cadaveric study [^1b041068]. The Journal of Foot and Ankle Surgery (2021). Medium credibility.
+### Correction power of percutaneous adductor tendon release (PATR) for the treatment of hallux valgus: a cadaveric study [^111h42nT]. The Journal of Foot and Ankle Surgery (2021). Medium credibility.
 
 Osteotomies are commonly used in order to correct hallux valgus deformity. However, soft tissue structures also play an essential role in the etiology, progression, and treatment of hallux valgus (HV). The purpose of the present study was to analyze the correcting power (varus), reduction strength (sesamoid) and rotation of metatarsal and proximal phalanx after percutaneous adductor tendon release (PATR). To date, no study addresses this issue. Eleven cadaveric fresh-frozen below-the-knee cadaveric lower limbs with associated hallux valgus deformity were used. These specimens were subjected to a constant abduction force after PATR. HV and intermetatarsal angles showed statistically significant differences when comparing the preoperative and postoperative periods. PATR showed to be a reliable technique as the adductor tendon was completely released in 9 cases, and 75% released in the remaining 2 feet. The study supports that PATR provides powerful and quantifiable correction of HV deformity and can be accurately performed percutaneously.
 
 ---
 
-### Strength evaluation of lateral calcaneal wall with circular external fixation application in cadaveric specimens [^a84c9428]. The Journal of Foot and Ankle Surgery (2012). Low credibility.
+### Strength evaluation of lateral calcaneal wall with circular external fixation application in cadaveric specimens [^115JWeDd]. The Journal of Foot and Ankle Surgery (2012). Low credibility.
 
 Circular external fixation is a useful treatment option for the correction of complex trauma, extremity deformity, osteomyelitis, and reconstruction of the foot and ankle. The goal of the present study was to determine the degrees of bolt rotation required to create enough wire tension to cause structural failure of the lateral calcaneal wall when stressed with both olive and smooth wires in a cadaveric model. Ten fresh, thawed, below-the-knee specimens were tested at the San Diego Cadaveric Academic Research Symposium. The mean bolt rotation required to pull an olive wire through the lateral wall of the calcaneus was 79.8° ± 32.81°, and the mean bolt rotation required to "walk" a skinny wire (narrow diameter) and create 1 mm of cortical bone failure was 50.5° ± 30.91°. The results of the present investigation further define and elucidate the appropriate "Russian tensioning" technique applicable for external fixation of the calcaneus using olive or skinny wires in the case of fracture repair or compression arthrodesis.
 
 ---
 
-### Safe placement of intramedullary nail and inter-physician variability in guidewire placement in retrograde tibiotalocalcaneal fusions [^3e786880]. The Journal of Foot and Ankle Surgery (2019). Medium credibility.
+### Safe placement of intramedullary nail and inter-physician variability in guidewire placement in retrograde tibiotalocalcaneal fusions [^112bcgDM]. The Journal of Foot and Ankle Surgery (2019). Medium credibility.
 
 Retrograde tibiotalocalcaneal arthrodesis is a salvage procedure for severe arthrosis and deformity of both the tibiotalar and subtalar joints and requires image-confirmed placement of a retrograde guidewire. The anatomical shape of the calcaneus creates a situation in which guidewire placement can be skewed on imaging based on the angle of either internal or external rotation. As a result, the aims of our study were to (1) determine the optimal angle(s) of rotation required to accurately depict guidewire placement on imaging and (2) evaluate and describe the effects angle of rotation has on physician assessment of guidewire placement. Using a C-arm x-ray, images of cadavers with both correctly and incorrectly placed guidewires were taken at 5° increments of internal and external rotation of the cadaveric lower extremity and assessed for accuracy of guidewire depiction. The images revealed that the correctly placed guidewire appeared displaced medially at angles of 35° and 40° of external rotation. Conversely, the incorrectly placed guidewire appeared to be correctly placed at between 10° and 40° of external rotation. These images were then disseminated to various physicians including orthopedic surgeons and podiatrists to determine the ability of physicians to correctly appreciate guidewire placement. Using the responses from 35 physicians, it was found that certain angles of internal and external rotation preclude physicians from correctly determining guidewire placement. We found, based on chi-square analysis, that we were able to reject our null hypothesis with a p value of < .001 leading to the conclusion that indeed angle of rotation and guidewire placement can lead to false depictions of guidewire placement. In conclusion, our study gave objective measurements to guide foot placement during tibiotalocalcaneal fusion to decrease the risk incorrectly depicted medial guidewire placement and subsequent incorrect intramedullary nail placement.
 
 ---
 
-### Cavovarus foot deformity with multiple tarsal coalitions: functional and three-dimensional preoperative assessment [^a9b091d4]. The Journal of Foot and Ankle Surgery (2006). Low credibility.
+### Cavovarus foot deformity with multiple tarsal coalitions: functional and three-dimensional preoperative assessment [^115LaDUo]. The Journal of Foot and Ankle Surgery (2006). Low credibility.
 
 In rare instances, tarsal coalition leads to cavovarus foot deformity, although the pathologic mechanism leading to this deformity is not clear. This article reports a case of a 14-year-old boy presenting a severe cavovarus deformity of the right foot with talocalcaneal and calcaneonavicular coalitions, and a mild cavus deformity of the left foot with a single talocalcaneal coalition. Computed tomography and postoperative histologic analysis demonstrated a synostosis between talus and calcaneus and a fibrous calcaneonavicular coalition with partial ossification. Instrumented gait analysis revealed a limited range of ankle plantar flexion and increased external rotation of the ankle. Associated skeletal malformations including incomplete hemimelia of the forearm and scoliosis raised the possibility of a teratologic condition, but neurologic examination, spinal magnetic resonance imaging, and nerve conduction velocities were normal. The progressive ossification of combined coalitions during growth of the foot may have been one factor leading to this complex foot deformity. The fine-wire electromyogram showed normal tibialis anterior and posterior muscle activity. Small soft tissue tears in the sinus tarsi may have led to a mild reflexive increase of the muscle tone and tendon shortening, which pulled the forefoot into adduction and the heel into varus, and raised the medial arch. Mechanical alterations of the ankle appear secondary to the heel varus and to the progressive deformity of the talus. Three-dimensional computed tomography reconstruction and gait analysis appeared to be helpful additional parameters to understanding the pathomechanics of this complex foot deformity and for preoperative planning of triple arthrodesis.
 
 ---
 
-### ACFAS scoring scale user guide [^1bf381f5]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
+### ACFAS scoring scale user guide [^111iSTXA]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
 
 XR: Foot – standing axial calcaneal view — calcaneal tibial angle assessment is described: the frontal plane angular deformity between the lower leg and foot may be assessed on the long leg calcaneal view with measurement of the angular deviation of the bisection of the tibia and the bisection of the calcaneus.
 
 ---
 
-### Cost-effectiveness of club-foot treatment in low-income and middle-income countries by the ponseti method [^cba2df4f]. BMJ Global Health (2016). Medium credibility.
+### Cost-effectiveness of club-foot treatment in low-income and middle-income countries by the ponseti method [^116CuCDU]. BMJ Global Health (2016). Medium credibility.
 
 Introduction
 
@@ -204,13 +204,13 @@ Widely implemented in high-income countries, the Ponseti method has been describ
 
 ---
 
-### Foot deformity correction with hexapod external fixator, the ortho-SUV frame ™ [^b9828fff]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
+### Foot deformity correction with hexapod external fixator, the ortho-SUV frame ™ [^115k2ZhQ]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
 
 External fixators enable distraction osteogenesis and gradual foot deformity corrections. Hexapod fixators have become more popular than the Ilizarov apparatus. The Ortho-SUV Frame™ (OSF; Ortho-SUV Ltd, St. Petersburg, Russia), a hexapod that was developed in 2006, allows flexible joint attachment such that multiple assemblies are available. We assessed the reduction capability of several assemblies. An artificial bone model with a 270-mm-long longitudinal foot was used. A 130-mm tibial full ring was attached 60 mm proximal to the ankle joint. A 140-mm, two-third ring forefoot was attached perpendicular to the metatarsal bone axis. A 130-mm, two-third ring hindfoot was attached parallel to the tibial ring. A V-osteotomy, which was combined with 2 oblique osteotomies at the navicular-cuboid bone and the calcaneus, was performed. The middle part of the foot, including the talus, was connected to the tibial ring. We assessed 5 types of forefoot applications and 4 types of hindfoot applications. The range of correction included flexion/extension in the sagittal plane, adduction/abduction in the horizontal plane, and pronation/supination in the coronal plane. Additionally, we reported the short-term results in 9 clinical cases. The forefoot applications in which the axis of the hexapod was parallel to the axis of the metatarsal bones had good results, with 52°/76° for flexion/extension, 48°/53° for adduction/abduction, and 43°/51° for pronation/supination. The hindfoot applications in which the hexapod encircled the ankle joint also had good results, with corresponding values of 47°/58°, 20°/35°, and 28°/31°. Clinically, all deformities were corrected as planned. Thus, multiple assemblies and a wide range of corrections are available with the OSF.
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^beea220f]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^115t3Hpi]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Surgical Approaches to the Adolescent Clubfoot Deformity
 
@@ -220,7 +220,7 @@ It is important to determine the range of motion of the critical joints of the h
 
 ---
 
-### Temporal variation of scores along the course of the ponseti treatment in older children: a ready guide to progress of treatment [^518967ba]. Journal of Pediatric Orthopedics (2019). Medium credibility.
+### Temporal variation of scores along the course of the ponseti treatment in older children: a ready guide to progress of treatment [^1135t9hK]. Journal of Pediatric Orthopedics (2019). Medium credibility.
 
 Purpose
 
@@ -240,19 +240,19 @@ The treatment graphs for older clubfoot children adequately illustrated the init
 
 ---
 
-### Calcaneal Z osteotomy for extra-articular correction of hindfoot valgus [^e5655178]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
+### Calcaneal Z osteotomy for extra-articular correction of hindfoot valgus [^116s6CNb]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
 
 The lateral column lengthening procedure has been used in the surgical management of congenital and adult-acquired pes planus. Lateral column lengthening allows correction of the abducted forefoot and subsequent improvement in the medial longitudinal arch. However, owing to the inconsistent healing times and complications, we opted to pursue a novel approach to the lateral column lengthening procedure, the calcaneal Z osteotomy.
 
 ---
 
-### ACFAS scoring scale user guide [^41129815]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
+### ACFAS scoring scale user guide [^112fUSZS]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
 
 XR: Foot — standing axial calcaneal view — calcaneal translational displacement is described as a radiographic assessment in which the calcaneus lies lateral to the weightbearing axis of the lower leg and the displacement is defined as the distance between the longitudinal axis of the lower leg (bisection of the tibia) and the bisection of the calcaneus drawn on the long leg calcaneal axial view; the longitudinal axis of the tibia falls within the midpoint of the talar body but medial to the bisection of the calcaneus by 5 to 10 mm.
 
 ---
 
-### Functional adaptation of the calcaneus in historical foot binding [^c9eae907]. Journal of Bone and Mineral Research (2017). Low credibility.
+### Functional adaptation of the calcaneus in historical foot binding [^116AMR4i]. Journal of Bone and Mineral Research (2017). Low credibility.
 
 Biomechanics of the bound foot
 
@@ -260,13 +260,13 @@ The range of motion in the ankle of a bound‐foot female is reduced by at least
 
 ---
 
-### American family physician videos | AAFP… [^cb3d7e0a]. AAFP (2020). Medium credibility.
+### American family physician videos | AAFP… [^116CK9B7]. AAFP (2020). Medium credibility.
 
 Scheduled maintenance is planned for September 26–29. You may experience brief interruptions during this time. Assessment of the heel-bisector line Assessment of leg length discrepancies Assessment of range of motion and joint laxity Galeazzi test Measurement of the foot-progression angle Measurement of internal and external hip rotation. Measurement of the thigh-foot angle Measurement of the intercondylar and intermalleolar distances Trendelenburg maneuver IPASS foot and ankle examination #1: inspection and palpation IPASS foot and ankle examination #2: active and passive ROM and strength IPASS foot and ankle examination #3: ankle special tests. IPASS foot and ankle examination #4: foot special tests IPASS foot and ankle examination #5: landmark-guided injection
 
 ---
 
-### Splint: the efficacy of orthotic management in rest to prevent equinus in children with cerebral palsy, a randomised controlled trial [^3dd4eaa4]. BMC Pediatrics (2012). Low credibility.
+### Splint: the efficacy of orthotic management in rest to prevent equinus in children with cerebral palsy, a randomised controlled trial [^112afm95]. BMC Pediatrics (2012). Low credibility.
 
 Figure 4
 Photographic illustration of the hand held dynamometer. The hand held dynamometer consists of an adjustable foot fixation, a torque wrench and a goniometer. The foot fixation has parts supporting the forefoot and calcaneus. These parts are connected by a rod, allowing independent adjustments in rotation and abduction/adduction. The forefoot part is equipped with a fixation point to the table when needed (*).
@@ -275,7 +275,7 @@ The children will be asked to lie prone on a bench, with both feet overhanging t
 
 ---
 
-### Splint: the efficacy of orthotic management in rest to prevent equinus in children with cerebral palsy, a randomised controlled trial [^e99d9a0d]. BMC Pediatrics (2012). Low credibility.
+### Splint: the efficacy of orthotic management in rest to prevent equinus in children with cerebral palsy, a randomised controlled trial [^116yM3zU]. BMC Pediatrics (2012). Low credibility.
 
 Manufacturing the KAFO
 
@@ -290,7 +290,7 @@ The static KAFO will provide a fixed knee extension of 0° and a fixed ankle dor
 
 ---
 
-### Correcting residual deformity following clubfoot releases [^75d14924]. Clinical Orthopaedics and Related Research (2009). Low credibility.
+### Correcting residual deformity following clubfoot releases [^1141frBm]. Clinical Orthopaedics and Related Research (2009). Low credibility.
 
 Unlabelled
 
@@ -302,37 +302,37 @@ Level IV, therapeutic study. See the Guidelines for Authors for a complete descr
 
 ---
 
-### ACFAS scoring scale user guide [^1feff484]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
+### ACFAS scoring scale user guide [^111pMDST]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
 
 Module 3: Rearfoot (including Flatfoot) overview — Module 3 is designed to allow assessment of rearfoot pathologies including pes cavus and flatfoot, and this module assumes there are no significant ankle or leg deformities that affect the rearfoot, stating that such deformities should be either excluded or appropriately addressed in the investigational design; the radiographic section identifies evaluation of the angular relationship of the heel with the lower leg using the calcaneal-tibial angle and describes calcaneal translational displacement, noting the calcaneus generally lies medial to the tibial longitudinal axis.
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^51769cf2]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^1135mqbX]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Congenital hallux varus is an uncommon condition that is defined as medial angulation of the great toe at the metatarsophalangeal joint. The toe deformity can range from only a few degrees to as severe as 90°. Various surgical techniques (that includes soft-tissue and/or bony procedure) have been described. A thickened medial capsule, medial inclination of the first metatarsocuneiform joint line, the first metatarsal longitudinal epiphyseal bracket, short first metatarsals, and an imbalance between the adductor hallucis and abductor hallucis muscles are all risk factors of recurrence. Recurrent cases are hard to treat given the three-dimensional nature of the deformity, namely supination, medial deviation, and clawing of the great toe, as well as scars or secondary bony deformation from a previous surgery. This case report describes how a hexapod circular external fixator was used to successfully treat a recurrent congenital hallux varus with a hypertrophic medial scar as a salvage procedure.
 
 ---
 
-### Prevalence of specific gait abnormalities in children with cerebral palsy: influence of cerebral palsy subtype, age, and previous surgery [^12d70285]. Journal of Pediatric Orthopedics (2004). Low credibility.
+### Prevalence of specific gait abnormalities in children with cerebral palsy: influence of cerebral palsy subtype, age, and previous surgery [^111UvzoW]. Journal of Pediatric Orthopedics (2004). Low credibility.
 
 The authors retrospectively reviewed a series of 492 consecutive cerebral palsy patients undergoing computerized motion analysis. The prevalence of 14 specific gait abnormalities was evaluated and compared based on involvement (hemiplegia, diplegia, or quadriplegia), age, and history of previous surgery (lower extremity orthopaedic surgery or rhizotomy). Stiff knee in swing, equinus, and intoeing were all seen in more than 50% of the subjects in each of the hemiplegic, diplegic, and quadriplegic groups. Increased hip flexion and crouch were also present in more than 50% of the subjects in the diplegic and quadriplegic groups, and hip adduction occurred in more than 50% of the quadriplegic subjects. The likelihood of having stiff knee in swing, out-toeing, calcaneus deformity, and crouch increased with prior surgery. The likelihood of having rotational malalignment of the leg (internal hip rotation with out-toeing), calcaneus, out-toeing, varus and valgus foot deformities, and hip internal rotation increased with age. These findings provide important information for counseling ambulatory children with cerebral palsy and their families.
 
 ---
 
-### Modified dwyer osteotomy with rotation and reinsertion of autograft bone wedge for residual heel deformity despite previous delayed subtalar joint arthrodesis after calcaneal fracture [^70b1d69b]. The Journal of Foot and Ankle Surgery (2014). Low credibility.
+### Modified dwyer osteotomy with rotation and reinsertion of autograft bone wedge for residual heel deformity despite previous delayed subtalar joint arthrodesis after calcaneal fracture [^113t5M8e]. The Journal of Foot and Ankle Surgery (2014). Low credibility.
 
 Calcaneal fracture patterns vary widely, and many factors determine the type and timing of the treatment rendered. Severe calcaneus fractures involving joint damage, loss of heel height, and varus deformity of the tuberosity are ideally treated with open reduction and internal fixation to repair the joint surface and re-establish anatomic structure. This is not always possible owing to delayed presentation, soft tissue compromise, unrelated injuries, unstable medical condition, or lack of expertise by the treating physician. We present the case of a patient who had residual forefoot and rearfoot deformity despite undergoing delayed subtalar joint arthrodesis at an outside hospital 10 years before for a calcaneal fracture that was initially treated nonoperatively. At 4 years of follow-up after modified Dwyer calcaneal osteotomy with rotation and reinsertion of the autograft bone wedge and Cotton midfoot osteotomy, the postoperative gait was relatively normal, other than the expected lack of hindfoot mobility. The lateral column pain was resolved. The patient remained highly satisfied with the outcome at long-term follow-up of 48 months, with improved heel alignment, lack of a wide stance gait, a functional medial column, and a relatively normal gait. This case demonstrates the value of periarticular calcaneal osteotomies without the need to revise the subtalar joint arthrodesis for this challenging clinical situation.
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^dcae7abd]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^116eAt8c]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Radiographic findings (Pathway 5, Node 3) state that standard weightbearing foot radiographs include anterior-posterior, oblique, and lateral views, and an increase in the fourth and fifth intermetatarsal angle usually is present; the angle between the fourth and fifth metatarsal has been reported to range from 14.4° to 6.0° (average and mean values: 7.1° and 7.2°, respectively) among a standardized asymptomatic patient population; bowing of the fifth metatarsal may be revealed, with the lateral deviation angle describing lateral bowing at the distal third of the shaft, and the mean normal value is 2.64° (range: 0°–7°) in patients without tailor's bunion and 8° in patients with this deformity; radiographs also may show a lateral exostosis of the fifth metatarsal head and/or significant adduction (or adductovarus) deformity of the fifth toe.
 
 ---
 
-### Practical aspects of posttrauma reconstruction with an intramedullary lengthening nail [^bbda96d4]. Journal of Orthopaedic Trauma (2017). Low credibility.
+### Practical aspects of posttrauma reconstruction with an intramedullary lengthening nail [^115oW7AB]. Journal of Orthopaedic Trauma (2017). Low credibility.
 
 Limb equalization using the Ilizarov method has traditionally been accomplished with the use of external fixators. The process, termed "distraction osteogenesis", is divided into 4 phases. Phase 1: performing a low-energy osteotomy. Phase 2: the latency phase, whereby the bones remain undistracted for a period of time before being pulled apart. The typical latency phase is 7 days. Phase 3: the distraction phase. Ilizarov determined that bone regeneration best occurs with a rate of 1 mm a day, divided into 4 segments of 0.25 mm each. Finally, phase 4: the consolidation phase. It is during this time that the immature regenerate bone forms into mature bone allowing for it to regain its structure and function to allow for full weight bearing. Complications associated with external devices – (limb lengthening rails, circular external fixators) have motivated surgeons to evolve with various internal lengthening implants. –
 
@@ -340,7 +340,7 @@ PRECICE (Nuvasive Specialized Orthopaedics, Inc, Aliso Viejo, CA) is an implanta
 
 ---
 
-### Do we really need to worry about calcaneocuboid subluxation during lateral column lengthening for planovalgus foot deformity? [^4595d732]. Journal of Pediatric Orthopedics (2021). Medium credibility.
+### Do we really need to worry about calcaneocuboid subluxation during lateral column lengthening for planovalgus foot deformity? [^112nAUaM]. Journal of Pediatric Orthopedics (2021). Medium credibility.
 
 Background
 
@@ -364,7 +364,7 @@ Level V-cadaver study.
 
 ---
 
-### Can selective soft tissue release and cuboid osteotomy correct neglected clubfoot? [^5226f674]. Clinical Orthopaedics and Related Research (2013). Low credibility.
+### Can selective soft tissue release and cuboid osteotomy correct neglected clubfoot? [^1136o5AT]. Clinical Orthopaedics and Related Research (2013). Low credibility.
 
 Background
 
@@ -388,13 +388,13 @@ Cuboid subtraction osteotomy combined with posteromedial release is an effective
 
 ---
 
-### Management of pediatric foot deformities: an imaging review [^41df72cd]. Pediatric Radiology (2019). Medium credibility.
+### Management of pediatric foot deformities: an imaging review [^112gfFSk]. Pediatric Radiology (2019). Medium credibility.
 
 Abnormalities of foot alignment can be a cause of significant morbidity in children, and some require complex surgical intervention to improve functionality and decrease pain. Imaging plays a key role in management decisions. We address some of the most common surgical strategies for selected diagnoses including pes planus, congenital vertical talus, pes cavus, and clubfoot, with a focus on imaging findings.
 
 ---
 
-### Intra-and inter-observer reliability and repeatability of the metatarsus adductus angle in childhood: a concordance study [^aad71350]. Pediatric Radiology (2025). Medium credibility.
+### Intra-and inter-observer reliability and repeatability of the metatarsus adductus angle in childhood: a concordance study [^115NH8v3]. Pediatric Radiology (2025). Medium credibility.
 
 A Discovery XR656 Plus X-ray system (General Electric Research, Milwaukee, WI) was used to take foot images at a source-to-image distance of 100 cm and was set to 60 kVp and 2.5 mAs. Using PACS (IMPAX; Agfa Healthcare, Mortsel, BE), we transferred radiographic images using professional digital image management. Radiographic measurements were performed using a digital radiographic imaging and measurement system AutoCad 2019 (Autodesk Inc. San Rafael, CA). Dorsoplantar radiographs for weight-bearing conditions were performed independently for each foot, with the patients standing with the knee extended. The foot was aligned to prevent internal or external rotation of the leg and was pointed straight forward, parallel to the sagittal plane. The X-ray beam was inclined 15° in the dorsal-plantar direction centered on the second tarsometatarsal joint.
 
@@ -412,13 +412,13 @@ Dorsoplantar weight-bearing Kilmartin's angle is the angle between the longitudi
 
 ---
 
-### Acute deformity correction of lower extremities under SSEP-monitoring control [^2e92fbe4]. Journal of Pediatric Orthopedics (2003). Low credibility.
+### Acute deformity correction of lower extremities under SSEP-monitoring control [^112C3oSb]. Journal of Pediatric Orthopedics (2003). Low credibility.
 
 Intraoperative somatosensory evoked potential (SSEP) monitoring was performed in eight children who had undergone an acute deformity correction in the lower extremities using external fixation. Five patients showed stable evoked potentials during surgery and had no neurologic complications postoperatively. Three patients experienced evoked potential abnormalities. In one patient, 60 degrees external rotation of the foot produced significant SSEP changes. The reduction of rotation to 40 degrees resulted in tibial but not peroneal SSEP recovery. Peroneal nerve deficit was noted postoperatively. The second patient showed substantial SSEP attenuation after 45 degrees correction of distal tibial valgus. However, spontaneous recovery of the response occurred, which allowed maintenance of the achieved correction. In a third patient, significant SSEP changes occurred after 90 degrees external rotation and 10 mm medial translation of the distal femur. Total release of translation allowed 75 degrees external rotation without SSEP abnormalities. Neither of the latter two patients had peripheral nerve deficits postoperatively. Intraoperative SSEP monitoring thus helps to define a neurologically safe limit of acute deformity correction.
 
 ---
 
-### Staged correction of severe recurrent clubfoot deformity with dislocation of the chopart joint using a hexapod external fixator and unconventional arthrodesis [^1bfe92f2]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2022). Medium credibility.
+### Staged correction of severe recurrent clubfoot deformity with dislocation of the chopart joint using a hexapod external fixator and unconventional arthrodesis [^111iWB7P]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2022). Medium credibility.
 
 Talipes equinovarus, also known as clubfoot, is a congenital deformity of the lower limb marked by varus and equinus in the hindfoot, cavus in the midfoot, and adduction in the forefoot. Clubfoot has a prevalence between 1 and 2 per 1,000 births, making it one of the most common musculoskeletal birth defects. The exact pathogenesis of clubfoot has yet to be discovered, although it is generally thought to have polygenic and environmental components. An untreated clubfoot causes pain and disability with a potential to reduce quality of life and increase morbidity and mortality. Thus, early diagnosis and intervention of clubfoot is imperative. Available treatments for clubfoot include the Ponseti method, French method, soft-tissue procedures, osteotomies, and use of external fixators in the most resistant cases. Although the current trend in contemporary clinical practice is to correct severe clubfoot deformity using external fixation, Radler and Mindlerdemonstrated the importance of a case-by-case analysis for unique pathoanatomy in successfully treating clubfoot deformity.
 
@@ -428,7 +428,7 @@ The patient was informed that data concerning this case would be submitted for p
 
 ---
 
-### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^b6fdeaf3]. Journal of Pediatric Orthopedics (2024). Medium credibility.
+### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^115gJ31L]. Journal of Pediatric Orthopedics (2024). Medium credibility.
 
 From 2013 onwards (period II), casting was accompanied by relaxing music to keep the infant as calm as possible during the intervention, and minimal pressure was applied to the foot so as not to disturb it.
 
@@ -438,13 +438,13 @@ During period I, our hospital used the traditional Denis Browne bar FAB (which i
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^2dd46c37]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^112Awo1Y]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Tailor's bunion — presentation and surgical outcomes are depicted: patients may present with a deformity due to a symptomatic lateral or plantar keratotic lesion, and exostectomy has been used but is associated with recurrent deformity and continued adduction of the fifth toe on presurgical and postsurgical radiographs.
 
 ---
 
-### Surgical management of Charcot neuroarthropathy of the ankle and hindfoot in patients with diabetes [^d6d182da]. Diabetes/Metabolism Research and Reviews (2016). Low credibility.
+### Surgical management of Charcot neuroarthropathy of the ankle and hindfoot in patients with diabetes [^116VUiuw]. Diabetes/Metabolism Research and Reviews (2016). Low credibility.
 
 Background
 
@@ -460,19 +460,19 @@ Surgical reconstruction of ankle and hindfoot CN is associated with a high rate 
 
 ---
 
-### The American College of Foot and Ankle Surgeons® clinical consensus statement: hallux valgus [^9bf41cba]. The Journal of Foot and Ankle Surgery (2021). High credibility.
+### The American College of Foot and Ankle Surgeons® clinical consensus statement: hallux valgus [^114zD5NR]. The Journal of Foot and Ankle Surgery (2021). High credibility.
 
 Regarding diagnostic investigations for hallux valgus, more specifically with respect to foot X-ray, ACFAS 2022 guidelines recommend to obtain radiographic evaluation for effective assessment of the hallux valgus deformity.
 
 ---
 
-### What's new in idiopathic clubfoot? [^3edde248]. Journal of Pediatric Orthopedics (2015). Low credibility.
+### What's new in idiopathic clubfoot? [^112cCm7u]. Journal of Pediatric Orthopedics (2015). Low credibility.
 
 This update summarizes selected research highlights pertaining to idiopathic clubfoot deformity that were published in peer-reviewed journals between January 2010 and December 2013.
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^49ecbca2]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^112tbcaV]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Intervention
 
@@ -486,7 +486,7 @@ Radiograph of ongoing correction.
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^f8cde72f]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^117Ms6Cn]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Conclusion
 
@@ -494,13 +494,13 @@ To the best of the authors' knowledge, this is the first report of using the hex
 
 ---
 
-### Congenital vertical talus: etiology and management [^76d21722]. The Journal of the American Academy of Orthopaedic Surgeons (2015). Low credibility.
+### Congenital vertical talus: etiology and management [^1143A79K]. The Journal of the American Academy of Orthopaedic Surgeons (2015). Low credibility.
 
 Congenital vertical talus is a rare foot deformity. If left untreated, it causes significant disability, including pain and functional limitations. Although the etiology of vertical talus is likely heterogeneous, recent evidence strongly supports a genetic cause linking it to genes expressed during early limb development. Traditional management for vertical talus involves extensive surgeries that are associated with significant short- and long-term complications. A minimally invasive approach that relies on serial manipulation and casting to achieve most of the correction has been shown to produce excellent short-term results with regard to clinical and radiographic correction in both isolated and nonisolated cases of vertical talus. Although long-term studies are needed, achieving correction without extensive surgery may lead to more flexible and functional feet, much as Ponseti method has done for clubfeet.
 
 ---
 
-### Avoiding compartment syndrome, vascular injury, and neurologic deficit in tibial osteotomy: an observational study of 108 limbs [^35b4aed2]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2023). Medium credibility.
+### Avoiding compartment syndrome, vascular injury, and neurologic deficit in tibial osteotomy: an observational study of 108 limbs [^112Nd2vV]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2023). Medium credibility.
 
 There are other arterial safety considerations. Acute shortening can kink arteries, at or before 4 cm; in such situations, frequent pulse checks are important. Acute angular or rotational correction can also constrict arteries, which can present as a secondary neurologic dysfunction. Vessel injury from sudden position change on osteotomy completioncan be prevented by supporting the extremity above and below. External fixation can achieve gradual correction, either during surgery or subsequently, preventing vessel kinking. The fixator can remain for the duration of healing or can be exchanged for a plate or a nail.
 
@@ -508,7 +508,7 @@ Nerve injuries are a third major potential complication. The bulk of nerve injur
 
 ---
 
-### Radiology… [^3c385e63]. AAFP (2000). Low credibility.
+### Radiology… [^112YHC4S]. AAFP (2000). Low credibility.
 
 Other muscles serve to perform hip adduction, abduction, and internal and external rotation. It is helpful to have a clinical anatomy reference handy when evaluating sport injuries in order to more readily identify specific muscle or tendon injuries. Pain on passive stretching or active motion in a particular direction will often help to identify an injury. Falls onto the lateral hip and overuse injuries are the most common causes of trochanteric bursitis. After passing over the greater trochanter, the iliotibial band inserts at the knee on the lateral aspect of the tibia, so patients with iliotibial band syndrome may also complain of lateral knee pain. Steroid injection into the trochanteric bursa may be helpful in addition to icing, anti-inflammatory medication and avoidance of excessive training or overuse. Observation. A limited functional evaluation includes determining whether the affected leg can bear weight.
 
@@ -518,13 +518,13 @@ Abduction and adduction are best tested with the patient supine and the examiner
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^a37f9a18]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^115BPqpb]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Tailor's bunion — radiographically, deformity may be assessed with a lateral splaying in the distal fifth metatarsal. Clinically, the patient generally presents with symptoms occurring laterally or plantarlaterally, often with an adduction of the fifth toe. The intermetatarsal angle 4–5 may be measured with bisections of the fourth and fifth metatarsal or use of a tangent to the medial shaft of the fifth metatarsal.
 
 ---
 
-### Treatment of arthrogrypotic foot deformities with the Taylor spatial frame [^fb4463c6]. Journal of Pediatric Orthopedics (2011). Low credibility.
+### Treatment of arthrogrypotic foot deformities with the Taylor spatial frame [^117RWs5F]. Journal of Pediatric Orthopedics (2011). Low credibility.
 
 Background
 
@@ -544,19 +544,19 @@ On the basis of our preliminary experience, we believe that the Taylor Spatial F
 
 ---
 
-### Staged correction of severe recurrent clubfoot deformity with dislocation of the chopart joint using a hexapod external fixator and unconventional arthrodesis [^822b13db]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2022). Medium credibility.
+### Staged correction of severe recurrent clubfoot deformity with dislocation of the chopart joint using a hexapod external fixator and unconventional arthrodesis [^114KyrrW]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2022). Medium credibility.
 
 Despite success of the Ponseti method, a subset of patients with clubfeet experience residual deformity. Surgical release after unsuccessful serial casting can lead to residual clubfoot deformities, including a flat-top talus. We present a case of a 17-year-old boy with a dysmorphic ankle and a complete dorsal dislocation of the Chopart joint. Because of pain with activities and functional limitations, the patient underwent a staged correction of the dislocation. The deformity was corrected through a staged approach using a Taylor Spatial Frame, navicular excision, talocuneiform arthrodesis, and calcaneocuboid arthrodesis. One year postoperatively, the patient is pain free with notable functional gains.
 
 ---
 
-### Midterm follow-up of talectomy for severe rigid equinovarus feet [^c00b093a]. The Journal of Foot and Ankle Surgery (2015). Low credibility.
+### Midterm follow-up of talectomy for severe rigid equinovarus feet [^115uiL7B]. The Journal of Foot and Ankle Surgery (2015). Low credibility.
 
 Rigid equinovarus foot is a challenging problem. Talectomy has been advocated as a salvage procedure to achieve a plantigrade painless foot in the treatment of rigid equinovarus deformity. The present prospective observational study evaluated the effectiveness of talectomy in the treatment of Dimeglio grade IV rigid equinovarus feet. Nineteen feet in 13 patients were treated by talectomy from September 2001 through January 2012 (10-year, 2-month period). Of the 13 patients, 9 (69.23%) had a foot deformity due to arthrogryposis multiplex congenita and 1 (7.69%) each due to sacral agenesis, spastic cerebral palsy, neglected congenital talipes equinovarus, and post-traumatic contracture. Of the 13 patients, 9 (69.23%) were male and 4 (30.77%) were female. Their mean age was 7.7 (range 3 to 26) years. The mean follow-up duration was 6.4 (range 2 to 11) years. Along with talectomy, excision of the navicular was performed in 8 feet (42.11%), calcaneal osteotomy with a laterally based wedge in 8 (42.11%), and calcaneocuboid fusion in 3 feet (15.79%). Postoperatively, all the feet improved to Dimeglio grade II and were painless, and 16 feet (84.22%) were plantigrade; 1 foot (5.26%) had residual equinus resulting from incomplete removal of the talus and 2 (10.53%) had residual varus. Also, 3 feet (15.79%) had forefoot adduction (2 residual and 1 recurrent) that required a second surgery to correct the deformity. From our experience, talectomy is an effective procedure for correction of severe rigid equinovarus feet, provided that the talus is completely removed and the calcaneus is positioned correctly in the ankle mortise.
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^300741d3]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^112ECquc]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Only through careful history and physical examination can the surgeon determine the primary reasons for pain in the adolescent clubfoot because radiographically many of the feet have significant abnormalities but often function at a high level despite their radiographic deformity.
 
@@ -564,19 +564,19 @@ The primary goal of the treatment is to obtain a plantigrade foot through osteot
 
 ---
 
-### Medium to long-term follow-up following correction of pes cavus deformity [^73a06953]. The Journal of Foot and Ankle Surgery (2009). Low credibility.
+### Medium to long-term follow-up following correction of pes cavus deformity [^113xRTUW]. The Journal of Foot and Ankle Surgery (2009). Low credibility.
 
 Pes cavus is a multiplanar deformity that involves the 3 foot-joint complexes. Description of the deformity is not well standardized and the surgical management does not have a comprehensive algorithm to follow. Treatment should be tailored to the patient's requirements, foot condition, and the potential for future progression of the deformity. This study describes a heterogeneous group of patients treated surgically and followed for 5 to 28 years. The benefits and risks are discussed, together with pitfalls encountered.
 
 ---
 
-### Ankle stability and movement coordination impairments: ankle ligament sprains [^ca6bd37f]. The Journal of Orthopaedic and Sports Physical Therapy (2013). Medium credibility.
+### Ankle stability and movement coordination impairments: ankle ligament sprains [^116B6iYn]. The Journal of Orthopaedic and Sports Physical Therapy (2013). Medium credibility.
 
 Syndesmotic sprains and cuboid syndrome — diagnostic features and risk: Syndesmotic sprains and cuboid syndrome have been described in 2 separate case series. Diagnosis and grading of a syndesmosis sprain include assessment of pain and extent of edema between the distal tibia/fibula and posteromedial ankle regions, and palpation, external rotation, squeeze, and dorsiflexion-compression tests can be used for diagnosis and prognosis. Female dancers with hyperpronated feet have been reported to be at the greatest risk for developing cuboid syndrome, which often presents with pain and localized swelling on the dorsolateral foot adjacent to the cuboid; those affected may also have limited weight-bearing ability and a positive midtarsal adduction test.
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^99eb8798]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^114wCDc3]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Discussion
 
@@ -586,25 +586,25 @@ Hexapod circular external fixator has been used to correct complex foot deformit
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^a7375ef2]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^115GuXms]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Tailor's bunion — management of asymptomatic cases: Asymptomatic patients should be provided with patient education addressing the etiology of the condition and prevention of future symptoms, and in particular should be given recommendations regarding proper footwear.
 
 ---
 
-### Obtaining correct ankle alignment using intraoperative external fixation for ankle arthrodesis [^7724b092]. The Journal of Foot and Ankle Surgery (2017). Low credibility.
+### Obtaining correct ankle alignment using intraoperative external fixation for ankle arthrodesis [^1143drJu]. The Journal of Foot and Ankle Surgery (2017). Low credibility.
 
 Ankle arthrodesis remains an important treatment option for patients with ankle arthritis. Many methods have been described; however, no consensus has been reached regarding the best technique to achieve both successful fusion and a good position for optimal foot mechanics. Furthermore, as arthroplasty has become more popular, preservation of the fibula to allow for future arthroplasty has become critical. The present report describes an innovative technique in which temporary external fixation at operative fixation is used, along with internal fixation, to achieve both an optimal foot position and high fusion rates, while maintaining the integrity of the fibula. Seventeen patients were identified who met the criteria for inclusion. Their medical records, including pre- and postoperative radiographs, were reviewed retrospectively. Preoperative and postoperative coronal and sagittal alignment was determined. All patients achieved successful fusion, although 1 (5.9%) patient experienced delayed union. The average tibial/talar ratio preoperatively was 21% (range 8% to 33%), demonstrating anterior subluxation. Postoperatively, this ratio improved to 33% (range 26% to 40%), approximating the normal anatomic ratio. Of the 17 patients, 5 (29.4%) had preoperative varus or valgus alignment of the talas > 5°. All 5 cases were successfully corrected to within 2° of normal anatomic alignment. This technique allows the surgeon to achieve good visualization of the joint for preparation and to obtain the optimal position of the foot at arthrodesis without compromising the lateral column significance of the fibula. All patients obtained fusion, and minimal complications were associated with the use of this technique.
 
 ---
 
-### The treatment of intra-articular calcaneus fractures with severe soft tissue damage with a hinged external fixator or internal stabilization: long-term results [^cfd93e1d]. The Journal of Foot and Ankle Surgery (2010). Low credibility.
+### The treatment of intra-articular calcaneus fractures with severe soft tissue damage with a hinged external fixator or internal stabilization: long-term results [^116K9QZa]. The Journal of Foot and Ankle Surgery (2010). Low credibility.
 
 We developed a hinged external fixator for the treatment of dislocated intra-articular calcaneus fractures with severe soft tissue damage. The external fixation was performed with a known external fixator system. The screw insertion points were biomechanically tested by defining a virtual rotation axis through the center of the talus to allow early active motion in the ankle joint. Long-term follow-up was performed after an average of 7.3 years. Results were graded with the American Orthopaedic Foot and Ankle Society (AOFAS) score. Radiographs were reviewed according to Sanders classification. Four open fractures and 33 cases with extremely swollen soft tissue, blisters, or compartment syndromes were treated. In 24 cases (64.9%), the hinged fixator was the final method of treatment (group I). A change to open reduction with internal fixation was performed in 13 fractures (35.1%) when soft tissue problems were minimal (group II). There were no late amputations, osteomyelitis, or malunions. According to Sanders classification, group I consisted of 14 type II, 8 type III, and 2 type IV fractures. Pin loosening or pin infection was seen in 4 cases, but there was no redislocation. The Böhler's angle improved in 43%, gaps in the posterior facet were closed in 41%, and any shortening or deviation of the axis was corrected in 82% of the cases. The AOFAS score for the group averaged 66.5. According to Sanders classification, group II consisted of 8 type II and 5 type III fractures. The Böhler's angle improved in 88%, and gaps in the posterior facet were closed in 87%. Any shortening or deviation of the axis was corrected in 95%, and the AOFAS score averaged 61.3. Significant differences in patient outcome scores between open reduction with internal fixation and hinged fixator were not found. P value was > .05. The hinged external fixator frame can be used in all calcaneus fracture types without soft tissue limitation. The hinged fixator allows early movement in the ankle joint, the risk of infection is minimized, and secondary plate fixation remains possible.
 
 ---
 
-### Clubfoot treatment: ponseti and French functional methods are equally effective [^5626f1ec]. Clinical Orthopaedics and Related Research (2009). Low credibility.
+### Clubfoot treatment: ponseti and French functional methods are equally effective [^113Cj1wq]. Clinical Orthopaedics and Related Research (2009). Low credibility.
 
 Unlabelled
 
@@ -616,13 +616,13 @@ Level V, therapeutic study. See the Guidelines for Authors for a complete descri
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^5d96e91a]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^113PkYBb]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Significant history and examination (Pathway 5, Nodes 1–2) note that patients with a tailor's bunion may or may not have pain, symptoms may be exacerbated by footwear due to pressure from shoes leading to inflammation and pain, and there may be a history of localized swelling and/or callus formation; clinical examination reveals a lateral or plantar-lateral prominence of the fifth metatarsal head, with tenderness on palpation that may be associated with an overlying adventitial bursa or hyperkeratotic lesion, and adduction and/or adductovarus deformity of the fifth toe may be present.
 
 ---
 
-### Torsional malalignment syndrome: the hidden role of medial tibial slope in knee varus and the potential of PETS treatment for correction [^cbee77cb]. Journal of Pediatric Orthopedics (2025). Medium credibility.
+### Torsional malalignment syndrome: the hidden role of medial tibial slope in knee varus and the potential of PETS treatment for correction [^116DLawL]. Journal of Pediatric Orthopedics (2025). Medium credibility.
 
 Background
 
@@ -646,7 +646,7 @@ Level III-diagnostic studies.
 
 ---
 
-### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^455b655d]. Journal of Pediatric Orthopedics (2024). Medium credibility.
+### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^112mpqyv]. Journal of Pediatric Orthopedics (2024). Medium credibility.
 
 Data Collection
 
@@ -664,13 +664,13 @@ The primary outcome was the number of treatment failures with relapsed feet (ina
 
 ---
 
-### Plantar opening-wedge osteotomy of cuneiform bones combined with selective plantar release and dwyer osteotomy for pes cavovarus in children [^40d5e768]. Journal of Pediatric Orthopedics (2006). Low credibility.
+### Plantar opening-wedge osteotomy of cuneiform bones combined with selective plantar release and dwyer osteotomy for pes cavovarus in children [^112f84Dm]. Journal of Pediatric Orthopedics (2006). Low credibility.
 
 Neurological pes cavovarus is a challenging deformity to treat during childhood. Based on physiopathology, we propose the following original surgical procedure. Plantar-opening wedge osteotomy of the three cuneiform bones, preceded by selective plantar release, corrects forefoot pronation which is the primum movens of the deformity, and corrects the cavus at its apex. A calcaneal valgisation closing wedge osteotomy, is indicated if pre-operative planning revealed subtalar joint stiffness, incompatible with secondary hind foot realignment in valgus. The follow-up had to be at least 5 years or to reach skeletal maturity. Twenty-six children (36 feet) satisfied these criteria. Mean age at surgery was 10.3 years old. All the children had a neurological disease which was progressive for 65% of them (75% of the feet). Mean follow-up was 6.9 years. This treatment was effective, with a mean percentage of cavus correction of 74%, reaching 100% for 31% of the feet. Complete or partial cavus correction was still observed at last follow-up for 75% of the feet. At last follow-up, global result was satisfactory in 63.9% and non satisfactory in 36.1% of feet. Flat-foot was observed, of minor type, in only 2 cases. Apart from triple arthrodesis, iterative surgery relative to residual deformity (foot adduction, plantar sticking of the first metatarsal head) was indicated for 4 feet (11%). A triple arthrodesis was required in 12 cases (33%). In conclusion, this treatment provides mid-term satisfactory correction of the cavus and may allow avoiding triple arthrodesis at skeletal maturity.
 
 ---
 
-### Long-term retrospective study of patients with idiopathic clubfoot treated with posterior medial-lateral release [^465b4b74]. The Journal of Bone and Joint Surgery: American Volume (2013). Low credibility.
+### Long-term retrospective study of patients with idiopathic clubfoot treated with posterior medial-lateral release [^112oJoHu]. The Journal of Bone and Joint Surgery: American Volume (2013). Low credibility.
 
 Background
 
@@ -690,13 +690,13 @@ Previous studies have demonstrated inconsistent long-term results following the 
 
 ---
 
-### An unusual aberrant muscle in congenital clubfoot: an intraoperative finding [^7bf1eed4]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
+### An unusual aberrant muscle in congenital clubfoot: an intraoperative finding [^114Akjtw]. The Journal of Foot and Ankle Surgery (2013). Low credibility.
 
 Congenital clubfoot is a common congenital deformity, characterized by equinus of the hindfoot and adduction of the midfoot and forefoot, with varus through the subtalar joint complex. A cavus deformity will also be present. The etiology of this congenital deformity remains elusive. Muscle anomalies are not commonly found in patients with idiopathic clubfoot, and, when present, their significance is not clear. The presence of a flexor digitorum accessorius longus muscle and an accessory soleus muscle found at surgical correction of clubfoot deformity has been previously reported. Our case was a female child, aged 2 years, 3 months, who developed bilateral relapsed congenital clubfoot. She was found to have an unusual aberrant muscle in both legs. This was discovered accidentally during surgical correction of her deformity through posteromedial soft tissue release. This muscle might have contributed to the hindfoot varus and equinus in the clubfoot deformity, because the latter were completely corrected after release of the muscle from its insertion. Awareness of such a new anatomic variant, with the other anatomic variants found in clubfoot deformity, will not only improve our understanding of normal lower limb development, but could also lead to improved genetic counseling and diagnostic and treatment methods of such a common congenital deformity.
 
 ---
 
-### Casting is effective for recurrence following ponseti treatment of clubfoot [^a7c7e002]. The Journal of Bone and Joint Surgery: American Volume (2018). Low credibility.
+### Casting is effective for recurrence following ponseti treatment of clubfoot [^115Hk4wb]. The Journal of Bone and Joint Surgery: American Volume (2018). Low credibility.
 
 Idiopathic clubfoot, a congenital defect with a prevalence of 0.64 to 6.8 per 1,000 births, is characterized by fixed equinus and hindfoot varus with inversion and adduction of the midfoot and forefoot. Without correction, clubfoot leads to substantial deformity and disability.
 
@@ -706,7 +706,7 @@ The purpose of this study was to evaluate the outcomes for patients with idiopat
 
 ---
 
-### The effect of tibial rotation on varus deformity measurement [^0cfde69a]. Journal of Pediatric Orthopedics (2006). Low credibility.
+### The effect of tibial rotation on varus deformity measurement [^111LG8mX]. Journal of Pediatric Orthopedics (2006). Low credibility.
 
 Purpose
 
@@ -730,19 +730,19 @@ Clinically, the results of this study support the importance of proper alignment
 
 ---
 
-### ACFAS scoring scale user guide [^2b2c2dd3]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
+### ACFAS scoring scale user guide [^11271Jo4]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
 
 ACFAS Scoring Scale — Rearfoot (including Flatfoot) radiographic evaluation defines objective parameters and point assignments. Lateral (Weight-bearing) View includes Sagittal Plane Talo-First Metatarsal Declination Angle (3 points) scored "0 ± 5° (3)" vs " > 5° (0)", and Calcaneal Inclination Angle (3 points) scored "15–25° (3)" vs " < 15° or > 25° (0)". Frontal Plane (Long leg calcaneal axial WB) View includes Calcaneal-Tibial Angle (6 points) with " ≤ 2° varus to ≤ 4° valgus (6)" vs " > 2° varus to > 4° valgus (0)" and Calcaneal Translational Displacement (6 points) with "5–10 mm lateral (6)" vs " < or > 5–10 mm lateral (0)". AP Weight-bearing View lists Talo-First Metatarsal Declination Angle (3 points) with "0 ± 5° (3)" vs " > 5° (0)" and Talo-calcaneal Angle (3 points) with "15–30° (3)" vs " < 15° or > 30° (0)". Section header notes "Radiographic Evaluation (18 points)".
 
 ---
 
-### Clinical practice guideline for the evaluation and treatment of children and adolescents with obesity [^0adb0832]. Pediatrics (2023). High credibility.
+### Clinical practice guideline for the evaluation and treatment of children and adolescents with obesity [^111H6SuX]. Pediatrics (2023). High credibility.
 
 Musculoskeletal physical examination — children and adolescents with obesity — includes gait abnormality described as collapse into hip ("waddle"), Trendelenburg or antalgic gait with external rotation or out-toeing on the affected side, with differentials including arthritis and SCFE. Lordosis is defined as trunk sway associated with postural adaptations with differentials including spondylolisthesis, achondroplasia, muscular dystrophy, and other genetic conditions. Hip pain and/or limp is characterized by knee or hip pain, subacute onset, and pain with external rotation of the hip; other causes of chronic hip, knee, or thigh pain include slipped capital femoral epiphysis (SCFE) among multiple conditions. Alignment abnormalities include genu varum (bow legs) and genu valgum (knock-kneed), with differentials such as tibia vara (Blount disease), rickets, skeletal dysplasia, celiac sprue, and collagen disorder and hypermobility syndromes (eg, Marfan syndrome). Foot posture findings can include pes planus, described as rigid versus flexible, sometimes with pain, with differentials including posterior tibial tendon insufficiency, tarsal coalition, congenital vertical talus, rheumatoid arthritides, trauma, and neuropathy.
 
 ---
 
-### Effectiveness of a digital-based gradual exercise training program for preventing relapse in congenital clubfoot: a protocol for a randomized controlled clinical trial [^51185e84]. BMC Pediatrics (2025). Medium credibility.
+### Effectiveness of a digital-based gradual exercise training program for preventing relapse in congenital clubfoot: a protocol for a randomized controlled clinical trial [^1135EBaT]. BMC Pediatrics (2025). Medium credibility.
 
 Background
 
@@ -752,7 +752,7 @@ Despite the effects of good initial treatment, there is a high probability of fu
 
 ---
 
-### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^a387409a]. Nature Reviews: Nephrology (2019). High credibility.
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^115BSQs3]. Nature Reviews: Nephrology (2019). High credibility.
 
 Lower limb deformities can be treated by performing osteotomies at the site or sites of major deformity and correcting in all three planes. The osteotomy could result in acute correction of the deformity with internal fixation or gradual correction of deformity using external fixation techniques. Such surgery is associated with notable rates of recurrence and of complications, especially in young children and in patients with poor metabolic control. In one study, 57% patients (28 of 49) experienced at least one complication of surgery, with recurrent deformity in 29% of patients. Therefore, delaying surgical treatment for residual deformity until skeletal maturity might be prudent. Rarely, major deformities can induce severe knee instability, and these patients should undergo osteotomies before they stop growing.
 
@@ -766,19 +766,19 @@ Postoperative assessment of the axis correction should be documented at 12 month
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^a95fc80d]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^115L75bi]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Tailor's bunion — surgical indications and procedures: Surgical treatment is indicated for patients who have failed nonsurgical care and patients who are not candidates for nonsurgical care, and the goal is to decrease the prominence of the fifth metatarsal laterally. Selection of procedure is based on physical evaluation and radiographic assessment, surgical correction varies from exostectomy to differing types of osteotomies, and resection of the fifth metatarsal head generally is indicated for salvage conditions or in the presence of unreconstructable deformities; Tailor's bunion deformity generally is addressed with some type of osteotomy. The deformity is described as inherited and progressive, and although nonsurgical measures may be used initially to reduce symptomatology, surgical repair is often necessary.
 
 ---
 
-### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^5c53f51b]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
+### Diagnosis and treatment of forefoot disorders. section 4. tailor's bunion [^113Mt4Yr]. The Journal of Foot and Ankle Surgery (2009). Medium credibility.
 
 Tailor's bunion — ancillary studies and diagnosis: Ancillary studies rarely are necessary to evaluate a tailor's bunion deformity, but when indicated they may include magnetic resonance imaging (MRI), computed tomography (CT), and technetium bone scan. Diagnosis is predominantly clinical, and radiographic findings may be very helpful in assessing the exact nature of the deformity and contributory structural pathology.
 
 ---
 
-### Update on clubfoot: etiology and treatment [^15a12bd9]. Clinical Orthopaedics and Related Research (2009). Low credibility.
+### Update on clubfoot: etiology and treatment [^111Z4sng]. Clinical Orthopaedics and Related Research (2009). Low credibility.
 
 Unlabelled
 
@@ -790,19 +790,19 @@ Level V, therapeutic study. See Guidelines for Authors for a complete descriptio
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^78dbcfed]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^1146BM72]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Congenital hallux varus is an unusual condition in which the big toe is medially angulated at the metatarsophalangeal joint. Different surgical methods have been described to correct it; however, there is always a risk of recurrence. The multiplanar nature of the deformity and the disrupted anatomy from a previous surgery make recurrent cases difficult to treat. A 16-year-old adolescent boy presented with a recurrent hallux varus deformity after a previous surgical correction. This case report describes its successful treatment using a hexapod circular external fixator as a salvage procedure.
 
 ---
 
-### Angle and base of gait long leg axial and intraoperative simulated weightbearing long leg axial imaging to capture true frontal plane tibia to calcaneus alignment in valgus and varus deformities of the rearfoot and ankle [^06110c36]. The Journal of Foot and Ankle Surgery (2015). Low credibility.
+### Angle and base of gait long leg axial and intraoperative simulated weightbearing long leg axial imaging to capture true frontal plane tibia to calcaneus alignment in valgus and varus deformities of the rearfoot and ankle [^1119zeoo]. The Journal of Foot and Ankle Surgery (2015). Low credibility.
 
 The long leg axial view is primarily used to evaluate the frontal plane alignment of the calcaneus in relation to the long axis of the tibia when standing. This view allows both angular measurement and assessment for the apex of varus and valgus deformity of the rearfoot and ankle with clinical utility in the preoperative, intraoperative, and postoperative settings. The frontal plane alignment of the calcaneus to the long axis of the tibia is rarely fixed in the varus or valgus position because of the inherent flexibility of the foot and ankle, which makes patient positioning critical to obtain accurate and reproducible images. Inconsistent patient positioning and imaging techniques are commonly encountered with the long leg axial view for a variety of reasons, including the lack of a standardized or validated protocol. This angle and base of gait imaging protocol involves positioning the patient to align the tibia with the long axis of the foot, which is represented by the second metatarsal. Non-weightbearing long leg axial imaging is commonly performed intraoperatively, which requires a modified patient positioning technique to capture simulated weightbearing long leg axial images. A case series is presented to demonstrate our angle and base of gait long leg axial and intraoperative simulated weightbearing long leg axial imaging protocols that can be applied throughout all phases of patient care for various foot and ankle conditions.
 
 ---
 
-### Operative versus non-operative treatment for closed, displaced, intra-articular fractures of the calcaneus: randomised controlled trial [^9a3444b3]. BMJ (2014). Excellent credibility.
+### Operative versus non-operative treatment for closed, displaced, intra-articular fractures of the calcaneus: randomised controlled trial [^114wcefk]. BMJ (2014). Excellent credibility.
 
 Methods
 
@@ -818,7 +818,7 @@ Surgeons in each centre identified potential participants, assessed eligibility,
 
 ---
 
-### Correcting severe relapsed hallux varus using hexapod circular external fixator [^edafa88a]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
+### Correcting severe relapsed hallux varus using hexapod circular external fixator [^1175P4tZ]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2024). Medium credibility.
 
 Case Report
 
@@ -845,13 +845,13 @@ A, Preoperative anteroposterior plain radiograph; (B) preoperative lateral plain
 
 ---
 
-### Ankle stability and movement coordination impairments: ankle ligament sprains [^a1b3a7c9]. The Journal of Orthopaedic and Sports Physical Therapy (2013). Medium credibility.
+### Ankle stability and movement coordination impairments: ankle ligament sprains [^1158jMLk]. The Journal of Orthopaedic and Sports Physical Therapy (2013). Medium credibility.
 
 Posterior talofibular ligament — the posterior talofibular ligament runs from the posteromedial portion of the fibula to the lateral tubercle on the posterior aspect of the talus; it is intracapsular but extrasynovial; it is the strongest of the lateral ligaments and primarily functions to provide transverse plane rotatory stability; although rarely involved in a typical lateral ankle sprain, movements that involve ankle dorsiflexion, foot external rotation and pronation, along with limb internal rotation may cause injury to the posterior talofibular ligament.
 
 ---
 
-### Review for the generalist: evaluation of pediatric hip pain [^8992be7d]. Pediatric Rheumatology Online Journal (2009). Low credibility.
+### Review for the generalist: evaluation of pediatric hip pain [^114WxbQx]. Pediatric Rheumatology Online Journal (2009). Low credibility.
 
 Range of motion
 
@@ -875,7 +875,7 @@ The hip should be moved thru active range of motion and then placed thru full pa
 
 ---
 
-### Clubfoot treatment in 2015: a global perspective [^612f07e2]. BMJ Global Health (2018). Medium credibility.
+### Clubfoot treatment in 2015: a global perspective [^113V5ba1]. BMJ Global Health (2018). Medium credibility.
 
 Background
 
@@ -891,7 +891,7 @@ Without treatment, clubfoot is a severely disabling condition leading to pain an
 
 ---
 
-### Surgical management of persistent intoeing gait due to increased internal tibial torsion in children [^3a30cf68]. Journal of Pediatric Orthopedics (2014). Low credibility.
+### Surgical management of persistent intoeing gait due to increased internal tibial torsion in children [^112VGgF9]. Journal of Pediatric Orthopedics (2014). Low credibility.
 
 Background
 
@@ -915,7 +915,7 @@ Therapeutic intervention, level III.
 
 ---
 
-### Is it possible to treat recurrent clubfoot with the ponseti technique after posteromedial release? a preliminary study [^2d275255]. Clinical Orthopaedics and Related Research (2009). Low credibility.
+### Is it possible to treat recurrent clubfoot with the ponseti technique after posteromedial release? a preliminary study [^1129wejE]. Clinical Orthopaedics and Related Research (2009). Low credibility.
 
 Unlabelled
 
@@ -927,7 +927,7 @@ Level IV, therapeutic study. See Guidelines for Authors for a complete descripti
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^9751e861]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^114sLeFA]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Conclusion
 
@@ -935,7 +935,7 @@ Identifying patterns of pathology present in adolescent and young adult patients
 
 ---
 
-### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^a07a4d8c]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Late effects of clubfoot deformity in adolescent and young adult patients whose initial treatment was an extensive soft-tissue release: topic review and clinical case series [^1156v6k3]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Literature Review
 
@@ -945,7 +945,7 @@ The late effects of clubfoot deformity in adolescents and young adulthood presen
 
 ---
 
-### Arthrogryposis in infancy, multidisciplinary approach: case report [^746e3e9c]. BMC Pediatrics (2013). Low credibility.
+### Arthrogryposis in infancy, multidisciplinary approach: case report [^113ycbRm]. BMC Pediatrics (2013). Low credibility.
 
 Orthopaedic procedures
 
@@ -969,19 +969,19 @@ Range of the joint mobility before and after rehabilitation.
 
 ---
 
-### Effectiveness of a digital-based gradual exercise training program for preventing relapse in congenital clubfoot: a protocol for a randomized controlled clinical trial [^69aabe42]. BMC Pediatrics (2025). Medium credibility.
+### Effectiveness of a digital-based gradual exercise training program for preventing relapse in congenital clubfoot: a protocol for a randomized controlled clinical trial [^113hf3wF]. BMC Pediatrics (2025). Medium credibility.
 
 The severity of the initial deformity, as assessed by Pirani scoring, along with inadequate activation of the ankle evertor muscles, restricted range of ankle motion, and non-compliance with bracing, have been identified as primary risk factors for recurrence. The Dimeglio scoring provides an objective way to assess the severity of CCF. It is correlated with the number of casts required for correction in the Ponseti method, and can predict treatment difficulty as well as relapse rate. Besides, after the initial correction, ongoing or recurring fibrotic retraction in the tarsal ligaments and surrounding tissues exerts a pulling force on the medial ankle and foot joints. Evidence suggests that a congenital neuromuscular imbalance constitutes the deforming forces present in clubfoot. Equinus deformity is reported as the most common deformity at relapse, primarily characterized by limited dorsiflexion of the foot, and over 26% of patients did not maintain this range of motion. Therefore, it is challenging to maintain long-term correction and manage the risk factors for relapse in children with CCF.
 
 ---
 
-### Tibialis spastic varus foot caused by osteoid osteoma of the calcaneus [^e48c9043]. Clinical Orthopaedics and Related Research (2003). Low credibility.
+### Tibialis spastic varus foot caused by osteoid osteoma of the calcaneus [^116qqPei]. Clinical Orthopaedics and Related Research (2003). Low credibility.
 
 Tibialis spastic varus foot is an extremely rare condition. A 30-year-old man had tibialis spastic varus foot caused by juxtaarticular osteoid osteoma of the calcaneus. The correct diagnosis was delayed because the symptoms were similar to arthritis and the nidus was difficult to detect on plain radiographs. Curettage of the tumor was done, and the osseous defect was filled with interporous hydroxyapatite. The pain was relieved immediately after surgery. The varus deformity of the foot and spasm of the tibialis anterior muscle gradually improved. Three years 10 months after surgery, the patient was pain-free and the spasm of the tibialis anterior muscle had disappeared. The varus deformity and motion of the foot improved, but a restricted range of motion remained. To the authors' knowledge, there have been no published descriptions of tibialis spastic varus foot caused by juxtaarticular osteoid osteoma of the calcaneus.
 
 ---
 
-### Correction of ankle malalignment in severe fibular hemimelia [^bafcec7a]. Journal of Pediatric Orthopedics (2025). Medium credibility.
+### Correction of ankle malalignment in severe fibular hemimelia [^115nDemX]. Journal of Pediatric Orthopedics (2025). Medium credibility.
 
 On clinical examination at the final follow-up 3 patients presented normal ankle joint and heel position however, the radiologic calcaneus valgus (CTA 20 to 25 degrees) was present. Similarly, in the sagittal plane, the calcaneus was observed to be more horizontal than in healthy patients (0 degrees inclination or lower); nevertheless, a clinically plantigrade foot was observed.
 
@@ -989,7 +989,7 @@ While the surgical procedure has been described previously, a few points of the 
 
 ---
 
-### Gait analysis of children treated for clubfoot with physical therapy or the ponseti cast technique [^75aaad9d]. The Journal of Bone and Joint Surgery: American Volume (2008). Low credibility.
+### Gait analysis of children treated for clubfoot with physical therapy or the ponseti cast technique [^1141St3v]. The Journal of Bone and Joint Surgery: American Volume (2008). Low credibility.
 
 Background
 
@@ -1009,7 +1009,7 @@ While the rate of normal kinematic ankle motion in the sagittal plane was 65% in
 
 ---
 
-### A comparison between laterally wedged insoles and ankle-foot orthoses for the treatment of medial osteoarthritis of the knee: a randomized cross-over trial [^c644cbd9]. Clinical Rehabilitation (2021). Medium credibility.
+### A comparison between laterally wedged insoles and ankle-foot orthoses for the treatment of medial osteoarthritis of the knee: a randomized cross-over trial [^1164wf4L]. Clinical Rehabilitation (2021). Medium credibility.
 
 At the biomechanical level, the external knee adduction moment, which correlates with the severity of the varus deformity, represents a dynamic parameter for the load distribution of the knee joint in the frontal plane and is used as a surrogate parameter for the disease progression. Especially in the early stance phase, there is a close correlation between external knee adduction moment and the contact forces in the medial compartment of the knee. The reduction of external moments in the frontal plane is therefore the most important target in the treatment of medial knee osteoarthritis.
 
@@ -1017,7 +1017,7 @@ Our results show a reduction of the first maximum of the external knee adduction
 
 ---
 
-### Results of gait analysis including the oxford foot model in children with clubfoot treated with the ponseti method [^58aabaa3]. The Journal of Bone and Joint Surgery: American Volume (2014). Low credibility.
+### Results of gait analysis including the oxford foot model in children with clubfoot treated with the ponseti method [^113GTFsQ]. The Journal of Bone and Joint Surgery: American Volume (2014). Low credibility.
 
 Background
 
@@ -1041,13 +1041,13 @@ Therapeutic Level II. See Instructions for Authors for a complete description of
 
 ---
 
-### ACFAS scoring scale user guide [^9a2cd0d5]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
+### ACFAS scoring scale user guide [^114wa9Up]. The Journal of Foot and Ankle Surgery (2005). Medium credibility.
 
 ACFAS Scoring Scale — Module 2: Forefoot (excluding First Ray) radiographic evaluation totals 18 points and is assessed on the AP (Weight-bearing Dorsoplantar) view; 4–5 IM Angle (4 points) scores 0–8° as 4 points and ≥ 9° as 0 points. Metatarsal Length – Metatarsal Tangent Angles award Normal Range (10 points) for M2-M1: 0–10° difference, M2-M3: 10–20° difference, M2-M4: 20–30° difference, and M2-M5: 30–40° difference, whereas Out of Normal Range (0 points) is defined as M2-M1: < 0° or > 10° difference, M2-M3: < 10° or > 20° difference, M2-M4: < 20° or > 30° difference, and M2-M5: < 30° or > 40° difference. Transverse Plane Position (4 points) assigns MPJ (2 points) and IPJ/PIPJ (2 points) each as 2 points for 0–5° ab/adduction and 0 points for > 5° ab/adduction. If studying more than one ray, evaluate each ray separately.
 
 ---
 
-### Interventions for congenital talipes equinovarus (clubfoot) [^0db6f904]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Interventions for congenital talipes equinovarus (clubfoot) [^111MLJG3]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -1079,7 +1079,7 @@ From the limited evidence available, the Ponseti technique produced significantl
 
 ---
 
-### Single-bundle ACL reconstruction with and without extra-articular reconstruction: evaluation with robotic lower leg rotation testing and patient satisfaction scores [^f6e93b80]. Knee Surgery, Sports Traumatology, Arthroscopy (2015). Low credibility.
+### Single-bundle ACL reconstruction with and without extra-articular reconstruction: evaluation with robotic lower leg rotation testing and patient satisfaction scores [^117K4J4P]. Knee Surgery, Sports Traumatology, Arthroscopy (2015). Low credibility.
 
 Robotic testing
 
@@ -1087,7 +1087,7 @@ The robotic knee testing system consisted of two servomotors designed to apply u
 
 ---
 
-### Interventions for congenital talipes equinovarus (clubfoot) [^00cb3b23]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Interventions for congenital talipes equinovarus (clubfoot) [^1112BGG2]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -1115,19 +1115,19 @@ From the evidence available, the Ponseti technique may produce significantly bet
 
 ---
 
-### American College of Foot and Ankle SurgeonsClinical consensus statement: perioperative management [^429457ae]. The Journal of Foot and Ankle Surgery (2017). Medium credibility.
+### American College of Foot and Ankle SurgeonsClinical consensus statement: perioperative management [^112hi1YZ]. The Journal of Foot and Ankle Surgery (2017). Medium credibility.
 
 American College of Foot and Ankle Surgeons — first ray arthrodesis weightbearing: The panel reached consensus that the statement "Foot and ankle surgical procedures involving arthrodesis of the first ray should use a period of non-weightbearing immobilization" was neither appropriate nor inappropriate, and further concluded that "early weightbearing was not inappropriate and could be considered appropriate in some situations".
 
 ---
 
-### The diagnosis and treatment of heel pain: a clinical practice guideline-revision 2010 [^7dc7afea]. The Journal of Foot and Ankle Surgery (2010). Medium credibility.
+### The diagnosis and treatment of heel pain: a clinical practice guideline-revision 2010 [^114DUXSq]. The Journal of Foot and Ankle Surgery (2010). Medium credibility.
 
 Posterior heel pain — Bursitis/Haglund's pathway outlines a parallel evaluation and stepwise care: Significant history includes acute or chronic posterior heel pain, pain aggravated by shoe pressure, morning pain, and symptoms relieved with barefoot or backless shoe. Significant findings include tenderness lateral to Achilles, posterior lateral subcutaneous bony prominence, and ± local inflammation/bursitis. Radiographs demonstrate posterior superior prominence to calcaneus — Haglund's deformity and soft tissue swelling — bursitis. Initial treatment options include patient-directed treatment options (open-back shoes, cryotherapy/topical analgesics) plus orthoses, accommodative padding, oral antiinflammatories, physical therapy, and weight loss. If improvement is unsatisfactory, immobilization with cast or CAM walker, continuation of initial treatment options, and consideration of injection of bursa are directed; continued lack of improvement leads to surgery with resection Haglund's/bursa or calcaneal osteotomy. Satisfactory improvement at any step directs to continue therapy until symptoms resolve, with a reminder to consider alternative etiologies (Pathway 4).
 
 ---
 
-### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^a620d3d4]. Journal of Pediatric Orthopedics (2024). Medium credibility.
+### The importance of having a single, dedicated medical team to treat congenital talipes equinovarus using the ponseti method: a retrospective analysis of treatment outcomes after 3 years of follow-up [^115FHyK1]. Journal of Pediatric Orthopedics (2024). Medium credibility.
 
 Congenital talipes equinovarus (CTEV), also known as clubfoot, is a 3-dimensional deformity of the foot characterized by equines, hindfoot varus, forefoot adductus, and forefoot cavus. It is a relatively common pediatric orthopaedic disorder affecting between 0.56 and 4 children per 1000 live births, – and, in the long term, it is a frequent cause of disability in adult populations. Clubfoot causes the patient to walk on the lateral border of the foot and, in severe cases, with the dorsum of the foot. If untreated, this deformity can result in severe disability with severe sequelae.
 
@@ -1139,6 +1139,6 @@ In contrast, strict adherence to the Ponseti method's basic principles is essent
 
 ---
 
-### Clubfoot: congenital talipes equinovarus [^adb38b77]. Radiographics (2024). Medium credibility.
+### Clubfoot: congenital talipes equinovarus [^115SXAZt]. Radiographics (2024). Medium credibility.
 
 Congenital talipes equinovarus (CTEV), also known as clubfoot, is a common musculoskeletal entity that affects one to two per 1000 live births worldwide. Imaging modalities including radiography, US, and MRI have emerged as valuable tools for the diagnosis, treatment, and monitoring of CTEV. The deformity is characterized by midfoot cavus, forefoot adductus, and hindfoot varus and equinus. The Ponseti method of manipulation and serial casting is the standard treatment of CTEV. Radiography shows the anatomy, position, and relationships of the different bones of the foot. US allows accurate assessment of cartilaginous and bony structures, in addition to its inherent advantages such as absence of ionizing radiation exposure. One of the indications for US is to monitor the response to Ponseti method treatment. MRI enables visualization of bones, cartilage, and soft tissues and allows multiplanar evaluation of deformities, providing a comprehensive imaging analysis of CTEV. An integrated approach that combines clinical examination and imaging findings is essential for effective management of CTEV. The authors provide a comprehensive overview of CTEV with a review of imaging modalities to help evaluate CTEV, focusing on radiography, US, and MRI. Using this article as a guide, radiologists involved in the assessment and treatment of CTEV can contribute to the management of the condition. © RSNA, 2024 Supplemental material is available for this article.

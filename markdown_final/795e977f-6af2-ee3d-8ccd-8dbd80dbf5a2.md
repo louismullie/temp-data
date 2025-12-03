@@ -84,7 +84,7 @@ The correct answer is **C. Not wrong, Wrong**.
 
 ## References
 
-### Interventions for reducing wrong-site surgery and invasive procedures [^ab03d0d9]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Interventions for reducing wrong-site surgery and invasive procedures [^115NYAXa]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -116,7 +116,7 @@ The findings of this review identified one ITS study for a non-medical procedure
 
 ---
 
-### Surgical checklists: a systematic review of impacts and implementation [^f941efdf]. BMJ Quality & Safety (2014). Medium credibility.
+### Surgical checklists: a systematic review of impacts and implementation [^117NY4j8]. BMJ Quality & Safety (2014). Medium credibility.
 
 Wrong-site surgery checklists
 
@@ -126,7 +126,7 @@ Wrong-site surgery is rare; estimates for various procedures range from 1 in 13 
 
 ---
 
-### Safety in hand surgery: eliminating wrong-site surgery [^70c054d1]. Plastic and Reconstructive Surgery (2018). Low credibility.
+### Safety in hand surgery: eliminating wrong-site surgery [^113tADUk]. Plastic and Reconstructive Surgery (2018). Low credibility.
 
 Learning Objectives
 
@@ -138,7 +138,7 @@ Wrong-site surgery remains a problem in our ever-evolving culture of surgical sa
 
 ---
 
-### Avoiding wrong site surgery: a systematic review [^2c60beee]. Spine (2010). Low credibility.
+### Avoiding wrong site surgery: a systematic review [^1128nxAH]. Spine (2010). Low credibility.
 
 Study Design
 
@@ -166,19 +166,19 @@ Wrong site surgery may be preventable. We suggest that the North American Spine 
 
 ---
 
-### Prevention of wrong-site Tooth extraction: clinical guidelines [^6fd725d1]. Journal of Oral and Maxillofacial Surgery (2007). Low credibility.
+### Prevention of wrong-site Tooth extraction: clinical guidelines [^113rothN]. Journal of Oral and Maxillofacial Surgery (2007). Low credibility.
 
 Wrong-site tooth extraction can be defined as the extraction of a tooth other than the one intended by the referring dentist. This adverse event continues to be one of the major reasons for filing malpractice claims against oral and maxillofacial surgeons. Most cases of wrong-site tooth extractions are preventable and can be minimized by the development of an educational program, an informative, unambiguous referral form, a pre-operative check list, and incorporation of the Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery into daily clinical practice.
 
 ---
 
-### Watching right and wrong nucleotide insertion captures hidden polymerase fidelity checkpoints [^f4e8aaa9]. Nature Communications (2022). High credibility.
+### Watching right and wrong nucleotide insertion captures hidden polymerase fidelity checkpoints [^117G68UQ]. Nature Communications (2022). High credibility.
 
 Efficient and accurate DNA synthesis is enabled by DNA polymerase fidelity checkpoints that promote insertion of the right instead of wrong nucleotide. Erroneous X-family polymerase (pol) λ nucleotide insertion leads to genomic instability in double strand break and base-excision repair. Here, time-lapse crystallography captures intermediate catalytic states of pol λ undergoing right and wrong natural nucleotide insertion. The revealed nucleotide sensing mechanism responds to base pair geometry through active site deformation to regulate global polymerase-substrate complex alignment in support of distinct optimal (right) or suboptimal (wrong) reaction pathways. An induced fit during wrong but not right insertion, and associated metal, substrate, side chain and pyrophosphate reaction dynamics modulated nucleotide insertion. A third active site metal hastened right but not wrong insertion and was not essential for DNA synthesis. The previously hidden fidelity checkpoints uncovered reveal fundamental strategies of polymerase DNA repair synthesis in genomic instability.
 
 ---
 
-### Achieving the national quality forum's "Never events": prevention of wrong site, wrong procedure, and wrong patient operations [^2df20a17]. Annals of Surgery (2007). Low credibility.
+### Achieving the national quality forum's "Never events": prevention of wrong site, wrong procedure, and wrong patient operations [^112B7jzN]. Annals of Surgery (2007). Low credibility.
 
 Objective
 
@@ -202,7 +202,7 @@ There is limited evidence of behavioral interventions to reduce wrong site, pati
 
 ---
 
-### Wrong site surgery-where are we and what is the next step? [^ccd05245]. Hand (2012). Low credibility.
+### Wrong site surgery-where are we and what is the next step? [^116EeSv8]. Hand (2012). Low credibility.
 
 Background
 
@@ -214,7 +214,7 @@ The universal protocol has three principal components: preoperative verification
 
 ---
 
-### Electronically mediated time-out initiative to reduce the incidence of wrong surgery: an interventional observational study [^ead15401]. Anesthesiology (2016). Low credibility.
+### Electronically mediated time-out initiative to reduce the incidence of wrong surgery: an interventional observational study [^11718Qz4]. Anesthesiology (2016). Low credibility.
 
 Background
 
@@ -234,7 +234,7 @@ Implementation of a forced-completion electronically mediated time-out process b
 
 ---
 
-### Markov chain monte carlo methods for hierarchical clustering of dynamic causal models [^3dad20f9]. Human Brain Mapping (2021). Medium credibility.
+### Markov chain monte carlo methods for hierarchical clustering of dynamic causal models [^112aSQ1e]. Human Brain Mapping (2021). Medium credibility.
 
 In order to gain more insight into why these subjects were assigned to the wrong cluster, we plot the posterior means of the subject‐specific DCM parameters in Figure 17. This plot shows that the DCM parameters of two of the incorrectly assigned subjects were indeed consistent with the DCM parameters of the wrong group, while the parameter estimate for the third incorrectly assigned subject lies between the two groups. This indicates that the BOLD signals of these subjects simply lead to DCM parameter estimates that are consistent with the wrong cluster.
 
@@ -243,7 +243,7 @@ FIGURE 17
 
 ---
 
-### How social relationships shape moral wrongness judgments [^2b2557ec]. Nature Communications (2021). High credibility.
+### How social relationships shape moral wrongness judgments [^1126y1dM]. Nature Communications (2021). High credibility.
 
 Fig. 5
 Moral wrongness judgments.
@@ -252,7 +252,7 @@ Sample 2 moral wrongness judgments for cooperative function violations in differ
 
 ---
 
-### How social relationships shape moral wrongness judgments [^8c774aa2]. Nature Communications (2021). High credibility.
+### How social relationships shape moral wrongness judgments [^114bFLSV]. Nature Communications (2021). High credibility.
 
 With respect to aims (i) and (ii), we predicted that relational norms would robustly predict moral judgments about the wrongness of actions in relational context. The basis for this prediction is straightforward: the more a particular set of cooperative functions matters for a given relationship, the morally worse it should be judged to be to neglect or frustrate those same functions within that relationship. Because relationships vary in terms of the set of cooperative functions they are normatively expected to serve (and to what degree), a given action may be judged to be seriously wrong in the context of one relationship but entirely acceptable in the context of another.
 
@@ -260,7 +260,7 @@ We further predicted that our relational norms model would better explain the va
 
 ---
 
-### Time-out: It's radiology's turn – incidence of wrong-patient or wrong-study errors [^78a08f99]. AJR: American Journal of Roentgenology (2015). Low credibility.
+### Time-out: It's radiology's turn – incidence of wrong-patient or wrong-study errors [^1145qSoA]. AJR: American Journal of Roentgenology (2015). Low credibility.
 
 Objective
 
@@ -280,13 +280,13 @@ Wrong-patient or wrong-study events can be significantly reduced by utilizing a 
 
 ---
 
-### The ASAM clinical practice guideline on alcohol withdrawal management [^69c62d16]. Journal of Addiction Medicine (2020). High credibility.
+### The ASAM clinical practice guideline on alcohol withdrawal management [^113hpGNZ]. Journal of Addiction Medicine (2020). High credibility.
 
 Evidence selection — reasons for exclusion included case studies when controlled studies were included, letters to the editor and editorials that were read but not included for extraction, and systematic reviews or guidelines when an updated version was available or when more recent quality or systematic reviews were available. Additional exclusions were full text not available in English; reviews excluded when all original research was included; studies with no intervention or not about management; wrong population such as intervention not available in US, healthcare service capacity, animal study, or neonatal abstinence syndrome; wrong condition/disorder such as hangover, Alcohol Use Disorder, or AUD-related disorders; and wrong setting such as home-based withdrawal.
 
 ---
 
-### Replacing salt with low-sodium salt substitutes (LSSS) for cardiovascular health in adults, children and pregnant women [^470275af]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+### Replacing salt with low-sodium salt substitutes (LSSS) for cardiovascular health in adults, children and pregnant women [^112pGwvn]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
 
 Excluded studies
 
@@ -321,13 +321,13 @@ Summary of the judgements per risk of bias domain
 
 ---
 
-### The SNMMI / ACNM practice guideline for the use of radiopharmaceuticals 5.0 [^28c006b6]. Journal of Nuclear Medicine Technology (2025). High credibility.
+### The SNMMI / ACNM practice guideline for the use of radiopharmaceuticals 5.0 [^1123R1FB]. Journal of Nuclear Medicine Technology (2025). High credibility.
 
 Medical events involving radiopharmaceuticals — definition and reporting state that medical events involving radiopharmaceuticals are defined by federal and state regulatory agencies and accreditation bodies (e.g. Joint Commission), an event is described as a radiopharmaceutical dose to the wrong patient, wrong radiopharmaceutical, wrong route of administration, or an administered dose varying from the prescribed dose, a dose that varies from a prescribed dose is defined as one that exceeds the effective dose equivalent (EDE) of 5 rem, 50 rem to the organ, tissue, or shallow dose equivalent (SDE) to the skin and the dose delivered differs from the prescribed dose by 20% or greater, and medical events must be reported in accordance with USNRC or Agreement State regulations.
 
 ---
 
-### Wrong-site nerve blocks: 10 yr experience in a large multihospital health-care system [^cd11b42f]. British Journal of Anaesthesia (2015). Low credibility.
+### Wrong-site nerve blocks: 10 yr experience in a large multihospital health-care system [^116F2Qfp]. British Journal of Anaesthesia (2015). Low credibility.
 
 Introduction
 
@@ -347,7 +347,7 @@ Our study provides the first incidence data on wrong-site block in a large patie
 
 ---
 
-### Incidence and root cause analysis of wrong-site pain management procedures: a multicenter study [^75c9a6c5]. Anesthesiology (2010). Low credibility.
+### Incidence and root cause analysis of wrong-site pain management procedures: a multicenter study [^1141dHTa]. Anesthesiology (2010). Low credibility.
 
 Background
 
@@ -367,19 +367,19 @@ Wrong-site nerve blocks occur more frequently in pain management centers than ha
 
 ---
 
-### Evidence-based guidelines for EMS administration of naloxone [^37d8d8ed]. Prehospital Emergency Care (2019). High credibility.
+### Evidence-based guidelines for EMS administration of naloxone [^112RoA2Y]. Prehospital Emergency Care (2019). High credibility.
 
 AHRQ literature flow for EMS naloxone evidence identified 1,934 abstracts of potentially relevant articles, excluded 1,732 abstracts, and reviewed 202 full-text articles; background articles numbered 120. Articles excluded totaled 69 with reasons: Wrong population 19, Wrong intervention 3, Wrong outcome 7, Wrong comparator 10, Wrong study design for key question 2, Not a study 26, and Systematic review or meta-analysis used as a source document to identify individual studies 2. Included publications totaled 13, comprising 7 for route of administration, 0 for dose titration, 0 for timing of repeat dosing, and 6 for hospital transport.
 
 ---
 
-### Wrongful birth and wrongful life lawsuits in obstetrics and gynecology [^fbe3183f]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
+### Wrongful birth and wrongful life lawsuits in obstetrics and gynecology [^117SSAtv]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
 
 Developments in preconception and prenatal technologies have led to undeniable advances in how health-care providers screen and treat patients. Despite these advances, at any point errors can occur leading to misdiagnosis or a missed diagnosis. In some instances, the missed information can lead to the birth of a child with health issues where short of the error, the decision to avoid conception or terminate the pregnancy might have been made. When these lapses unfold, there exists the potential for a wrongful birth or wrongful life lawsuit to ensue. While these 2 actions are based on the same set of events, they are distinct legal claims with varying degrees of judicial permissibility. Global legal acceptability of wrongful birth and life lawsuits tends to resemble patterns in the United States. Analyzing prior wrongful birth and wrongful life claims can reveal common trends in events leading to these types of lawsuits, as well as an understanding of their potential outcomes. A familiarity with wrongful birth and wrongful life lawsuits demonstrates how these cases are unique from other forms of prenatal or birth injury tort lawsuits and can provide insights to common shortcomings in clinical practice. Applying these lessons to clinical practice highlights key approaches towards limiting the risk of certain errors leading to wrongful birth and wrongful life lawsuits, with the goal of health-care providers offering high quality health care.
 
 ---
 
-### Reliable identification of protein-protein interactions by crosslinking mass spectrometry [^c17b532a]. Nature Communications (2021). High credibility.
+### Reliable identification of protein-protein interactions by crosslinking mass spectrometry [^115wr2x9]. Nature Communications (2021). High credibility.
 
 Entrapment database control calculation
 
@@ -399,13 +399,13 @@ Spectra passing a 1% heteromeric CSM-FDR were extracted. For these spectra, the 
 
 ---
 
-### Overconfidence as a cause of diagnostic error in medicine [^959f780f]. The American Journal of Medicine (2008). Low credibility.
+### Overconfidence as a cause of diagnostic error in medicine [^114ppihL]. The American Journal of Medicine (2008). Low credibility.
 
 The great majority of medical diagnoses are made using automatic, efficient cognitive processes, and these diagnoses are correct most of the time. This analytic review concerns the exceptions: the times when these cognitive processes fail and the final diagnosis is missed or wrong. We argue that physicians in general underappreciate the likelihood that their diagnoses are wrong and that this tendency to overconfidence is related to both intrinsic and systemically reinforced factors. We present a comprehensive review of the available literature and current thinking related to these issues. The review covers the incidence and impact of diagnostic error, data on physician overconfidence as a contributing cause of errors, strategies to improve the accuracy of diagnostic decision making, and recommendations for future research.
 
 ---
 
-### Incidence of wrong-site surgery among hand surgeons [^01e946fd]. The Journal of Bone and Joint Surgery: American Volume (2003). Low credibility.
+### Incidence of wrong-site surgery among hand surgeons [^1113qLtc]. The Journal of Bone and Joint Surgery: American Volume (2003). Low credibility.
 
 Background
 
@@ -425,25 +425,25 @@ Prior to the AAOS "Sign Your Site" campaign, the issue of wrong-site surgery by 
 
 ---
 
-### Hamstring strain injury in athletes [^b30bc677]. The Journal of Orthopaedic and Sports Physical Therapy (2022). High credibility.
+### Hamstring strain injury in athletes [^115aSjqx]. The Journal of Orthopaedic and Sports Physical Therapy (2022). High credibility.
 
 Appendix C — Injury Prevention and Intervention reports: Total search results, n = 10880; Duplicates removed, n = 1821; Title and abstract review, n = 9059; Excluded, n = 8355; Full-text review, n = 704; Full texts excluded, n = 680 (Wrong patient population, n = 198; Wrong outcome, n = 195; Methodology, n = 139; Editorial, n = 80; In systematic reviews, n = 30; Interventions outside scope of physical therapy practice, n = 21; Abstract only, n = 8; Duplicate, n = 7; Article retracted, n = 2); Included, n = 24.
 
 ---
 
-### Systematic reviews: how they work and how to use them [^349a0f06]. Anaesthesia (2007). Low credibility.
+### Systematic reviews: how they work and how to use them [^112Lz6xd]. Anaesthesia (2007). Low credibility.
 
 At their best, systematic reviews should be the least biased summaries of the effect of healthcare interventions. However, authors can introduce both intended and unintended biases into systematic reviews. Results presented as odds ratios are often misinterpreted by readers as relative risks, meaning that the effect of the intervention is overestimated. Authors may analyse trials separately having mistaken differences in baseline risk for differences in the effect of an intervention and differences in effect between trials that have been analysed together may go undetected. In this article I discuss how a systematic review should work and how it can go wrong.
 
 ---
 
-### Corticosteroids for managing acute pain subsequent to surgical extraction of mandibular third molars: a systematic review and meta-analysis [^c95a0ab3]. Journal of the American Dental Association (2023). High credibility.
+### Corticosteroids for managing acute pain subsequent to surgical extraction of mandibular third molars: a systematic review and meta-analysis [^1169WkoL]. Journal of the American Dental Association (2023). High credibility.
 
 Figure 1 — study identification and selection flowchart for corticosteroids in third‑molar extraction trials details screening counts and exclusions: n = 240 Records identified, n = 240 Records screened, n = 103 Full‑text articles assessed for eligibility (reported in 108 references), and n = 40 Included randomized controlled trial (reported in 64 references), with exclusions of n = 82 based on abstracts and n = 63 based on full‑text, including Wrong outcomes (n = 52), Wrong population (n = 3), and Wrong intervention (n = 8).
 
 ---
 
-### JOURNAL CLUB: evaluation of near-miss wrong-patient events in radiology reports [^44b2166d]. AJR: American Journal of Roentgenology (2015). Low credibility.
+### JOURNAL CLUB: evaluation of near-miss wrong-patient events in radiology reports [^112kqybA]. AJR: American Journal of Roentgenology (2015). Low credibility.
 
 Objective
 
@@ -463,7 +463,7 @@ Despite use of the dual-identifier technique mandated by The Joint Commission, t
 
 ---
 
-### Avoiding adverse events in interventional radiology-a systematic review on the instruments [^f60d7fe0]. CVIR Endovascular (2024). Medium credibility.
+### Avoiding adverse events in interventional radiology-a systematic review on the instruments [^117HnVKM]. CVIR Endovascular (2024). Medium credibility.
 
 According to The Joint Commission, team time-out is an effective tool to avoid serious reportable events, also known as never events. They are defined as serious and harmful, largely preventable clinical events. Important examples are interventions on the wrong site, wrong patient, or wrong procedure. The Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery from The Joint Commission was applied to the Quality Improvement Guidelines for Preventing Wrong Site, Wrong Procedure, and Wrong Person Errors by the SIR. For the practical implementation of team time-out, they state that it must be done immediately before the invasive procedure and in the location where the procedure takes place. Aside from that, the entire team must be involved in the process.
 
@@ -471,13 +471,13 @@ What has yet to be addressed in studies so far? Communication standards and clin
 
 ---
 
-### How social relationships shape moral wrongness judgments [^0f7cf046]. Nature Communications (2021). High credibility.
+### How social relationships shape moral wrongness judgments [^111PxnE9]. Nature Communications (2021). High credibility.
 
 Proceeding to the second main part of Stage 2, a set of naive/lay participants (Sample 2) was recruited, this time on Amazon's Mechanical Turk (MTurk). To power for the same confidence and margin of error as in Sample 1, but this time with a between-subjects design, it was determined that we would need ratings from 1,551 participants (see Supplement Section 2.2. for the full rationale). Based on the Sample 1 exclusion rate, we over-recruited by about 10% and thus aimed to recruit 1,706 participants; 1,822 ultimately filled out at least part of the survey (not all finished), each of whom was paid $1.00. Five hundred and two (502) participants were excluded based on pre-registered exclusion criteria, leaving us with a final sample of 1,320 participants. As in Stage 1, they were shown brief descriptions of their assigned relationship. They were told that they would be asked to rate the moral wrongness of various actions within the relationship. To orient them to the rating scale, we clarified that none of the actions they would see would be extreme (e.g. murder), but rather would all be actions that might plausibly occur within the course of day-to-day life.
 
 ---
 
-### Personal protective equipment for reducing the risk of COVID-19 infection among health care workers involved in emergency trauma surgery during the pandemic: an umbrella review [^e81f7bd1]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
+### Personal protective equipment for reducing the risk of COVID-19 infection among health care workers involved in emergency trauma surgery during the pandemic: an umbrella review [^116w8hjN]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
 
 RESULTS
 
@@ -497,7 +497,7 @@ Four systematic reviews, evaluate other respiratory pathogens such as seasonal i
 
 ---
 
-### Economic evaluation of enhanced cleaning of shared medical equipment… [^ca0e997f]. JAMA Network (2025). Excellent credibility.
+### Economic evaluation of enhanced cleaning of shared medical equipment… [^116AZQMC]. JAMA Network (2025). Excellent credibility.
 
 The protocol and statistical analysis plan for the stepped-wedge, cluster randomized trial that underpins this economic evaluation has been published, 8, 11 as have the clinical trial's results. 9 Ten wards from a large, public tertiary hospital in New South Wales, Australia, were recruited. To be eligible, wards within the hospital had to have more than 20 beds and care for adult patients. The included wards had a small proportion of single rooms, with most patients in 2 or 4-bed rooms. The model's time horizon reflects the length of the trial and as per guidelines for this kind of evaluation, does not include discounting of costs or health outcomes, due to the short time horizon. Costs associated with each branch of the decision-tree were derived from the trial and included staff time, trainer time, audit, and feedback costs, consumables and product required to carry out the intervention.
 
@@ -509,7 +509,7 @@ Two scenarios were examined, testing the model's robustness and providing decisi
 
 ---
 
-### Getting surgery right [^37734a34]. Annals of Surgery (2007). Low credibility.
+### Getting surgery right [^112RD3XZ]. Annals of Surgery (2007). Low credibility.
 
 Objective
 
@@ -529,7 +529,7 @@ Wrong-site surgery continues to occur regularly, especially wrong-side surgery, 
 
 ---
 
-### The incidence of diagnostic error in medicine [^902571db]. BMJ Quality & Safety (2013). Medium credibility.
+### The incidence of diagnostic error in medicine [^114gho4e]. BMJ Quality & Safety (2013). Medium credibility.
 
 In God we trust, all others bring data
 
@@ -537,13 +537,13 @@ The patient safety movement in the USA has entered its second decade. A wide ran
 
 ---
 
-### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^2b76655b]. Diseases of the Colon and Rectum (2021). High credibility.
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surgical management of ulcerative colitis [^1127SEf4]. Diseases of the Colon and Rectum (2021). High credibility.
 
 Figure 1 PRISMA literature search — Additional records identified through other sources (n = 212) were combined with total records after duplicates removed (n = 8449) for records screened (n = 8661); records excluded included (n = 7429) with Irrelevant/unrelated (n = 7202) and Wrong population/other (n = 227); articles & abstracts assessed for eligibility were (n = 1232) with further records excluded (n = 936) including Higher quality available (n = 563), Irrelevant/unrelated (n = 243), Wrong study design (n = 79), Not human/adult (n = 30), and Wrong population/other (n = 21); studies referenced in final manuscript numbered (n = 296).
 
 ---
 
-### Your evidence? Machine learning algorithms for medical diagnosis and prediction [^f5aa47e2]. Human Brain Mapping (2020). Medium credibility.
+### Your evidence? Machine learning algorithms for medical diagnosis and prediction [^117HDAP3]. Human Brain Mapping (2020). Medium credibility.
 
 5 ASSIGNING RESPONSIBILITY
 
@@ -551,7 +551,7 @@ Imagine that the medical diagnosis of a system based on machine learning turned 
 
 ---
 
-### The prevalence of wrong level surgery among spine surgeons [^e20fedf9]. Spine (2008). Low credibility.
+### The prevalence of wrong level surgery among spine surgeons [^116n9Z2G]. Spine (2008). Low credibility.
 
 Study Design
 
@@ -579,7 +579,7 @@ There is a high prevalence of wrong level surgery among spine surgeons; 1 of eve
 
 ---
 
-### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^af87aa93]. BMJ Open Quality (2023). High credibility.
+### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^115VEQJv]. BMJ Open Quality (2023). High credibility.
 
 Background
 
@@ -599,13 +599,13 @@ To improve collaboration and facilitate learning from errors, we need a single l
 
 ---
 
-### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^b7368f7f]. Nature Communications (2024). High credibility.
+### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^115gd4Vk]. Nature Communications (2024). High credibility.
 
 We agree with most of the findings Rosenbacke and colleagues developed, but not with all of their points. We investigated the concordant as well as the discordant findings based on the numbers shown in Table 1, Subtable B–D. Based on these numbers, we investigated the findings of Rosenbacke and colleagues: "The best clinicians lose accuracy" — We verify this statement with Table 1, where we show that for the best performers overall 26 diagnoses were incorrect without AI support (this can be assessed by adding up all numbers in the "physician wrong"-column in Table 1C, but the number of incorrect diagnoses increased to 38 with AI support (this can be assessed by adding up all underlined numbers within Table 1C. "The most common and discussed error occurs when physicians tend to override a correct AI diagnosis in cases of true conflict error. Previous studies found that this arises from distrust in the AI's 'black box' logic" — This statement can be verified by comparing Table 1B and Table S1. In Table 1B, we show that 160 out of 359 true conflict cases ended up in an error with XAI support. Table S1 shows that 170 out of those 359 end up in an error with only AI support. Thus, 10 true conflict errors could be prevented by adding explanations to the black box model. "… AI, for the lowest performing clinicians, helped stamp out true conflict errors" — This statement can be disproved and underlines, why the correct cases are important to take into account alongside the errors: if we investigate all 359 true conflict cases, they divide into 160 true conflict errors and 199 correct true conflict cases. Thus, we end up with an error rate of 44.6% investigating only the true conflict cases. For the worst performing clinicians, the 104 true conflict cases divide into 52 true conflict errors and 52 correct true conflict cases, which lead to an error rate of 50% for the true conflict cases.
 
 ---
 
-### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^3f0b0337]. BMJ Open Quality (2023). High credibility.
+### Identifying a list of healthcare' never events' to effect system change: a systematic review and narrative synthesis [^112cTvJA]. BMJ Open Quality (2023). High credibility.
 
 Discussion
 
@@ -615,25 +615,25 @@ The use of the term NE is mired in confusion. Organisations that use it have dif
 
 ---
 
-### Injectable and topical local anesthetics for acute dental pain: 2 systematic reviews [^5463414f]. Journal of the American Dental Association (2023). High credibility.
+### Injectable and topical local anesthetics for acute dental pain: 2 systematic reviews [^113A7JKQ]. Journal of the American Dental Association (2023). High credibility.
 
 Study identification and selection flowchart — long-acting and short-acting local anesthetics: Records identified from databases (n = 8,068): MEDLINE (n = 2,158), EMBASE (n = 3,554), and Cochrane Central Register of Controlled Trials (n = 2,356); records removed before screening included duplicates (n = 3,352), marked as ineligible by automation tools (n = 0), and removed for other reasons (n = 0). Records screened (n = 4,716) with records excluded (n = 3,858); reports sought for retrieval (n = 858) with reports not retrieved (n = 0); reports assessed for eligibility (n = 858) with reports excluded (n = 844) for wrong interventions (n = 703), abstracts (n = 41), wrong populations (n = 23), wrong outcomes (n = 35), non-English language (n = 19), wrong study design (n = 22), and duplicates (n = 1); studies included in review (n = 14) with reports of included studies (n = 14).
 
 ---
 
-### ACR practice parameter for the performance of preoperative image-guided localization in the breast [^ce6e8745]. ACR (2025). High credibility.
+### ACR practice parameter for the performance of preoperative image-guided localization in the breast [^116H3aKW]. ACR (2025). High credibility.
 
 Breast localization procedure specifications — before localization, the radiologist should review all pertinent imaging examinations, clinical notes, and pathology reports to determine the extent of the target and method of localization, including imaging modality and approach, and review should determine whether biopsy markers, if deployed at the time of prior biopsy, are located in the appropriate position. In patients who have undergone neoadjuvant therapy, the original extent of disease and the visible residual disease are both important to consider, and localization may target a biopsy marker, biopsy site, and/or the spectrum of breast imaging abnormalities including mass, calcifications, asymmetry, architectural distortion, and enhancing findings. If there is known malignancy, it is necessary to understand the extent of malignancy and its location with respect to previously placed biopsy marker(s), and more than one guidance device may be used to bracket the extent of disease; the use of multiple localizing devices can decrease the number of procedures required to obtain clear lumpectomy margins and increase the rate of breast conservation versus mastectomy. Benefits, limitations, and risks of the procedure as well as alternative procedures should be discussed with the patient, informed consent should be obtained and documented, and adherence to the Joint Commission's Universal Protocol for Preventing Wrong Site, Wrong Procedure, Wrong Person Surgery™ is required for procedures in nonoperating room settings, including bedside procedures.
 
 ---
 
-### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^f4378263]. Gastrointestinal Endoscopy (2025). High credibility.
+### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^117F4dAr]. Gastrointestinal Endoscopy (2025). High credibility.
 
 Prisma Flow Chart (PICO 2) — study selection summary: There were 62 references imported for screening as 62 studies; after 1 duplicate removed, 61 studies were screened against title and abstract and 49 studies excluded; 12 studies were assessed for full-text eligibility, with 11 studies excluded (5 Wrong comparator, 4 Abstract Only, 1 Wrong patient population, 1 Wrong study design); there were 0 studies ongoing and 0 studies awaiting classification; and 1 study included + 1 study (from cross referencing/snow balling).
 
 ---
 
-### Assigning the right credit to the wrong action: compulsivity in the general population is associated with augmented outcome-irrelevant value-based learning [^60f832e8]. Translational Psychiatry (2021). Medium credibility.
+### Assigning the right credit to the wrong action: compulsivity in the general population is associated with augmented outcome-irrelevant value-based learning [^113UmBMh]. Translational Psychiatry (2021). Medium credibility.
 
 Two-step task
 
@@ -646,7 +646,7 @@ A Participants navigated between the two stages of the task in order to reap rew
 
 ---
 
-### Iohexol (Omnipaque) [^373103e3]. FDA (2024). Medium credibility.
+### Iohexol (Omnipaque) [^112QpnPk]. FDA (2024). Medium credibility.
 
 WARNING: RISKS ASSOCIATED WITH INTRATHECAL ADMINISTRATION OF OMNIPAQUE INJECTION 140 mg IODINE/mL and 350 mg IODINE/mL
 
@@ -658,7 +658,7 @@ Use only the iodine concentrations and presentations recommended for intrathecal
 
 ---
 
-### Improving the accuracy of electronic prescribing in west bay health center in Qatar [^033cfbf0]. BMJ Quality Improvement Reports (2016). Medium credibility.
+### Improving the accuracy of electronic prescribing in west bay health center in Qatar [^1115oSuu]. BMJ Quality Improvement Reports (2016). Medium credibility.
 
 Results
 
@@ -670,7 +670,7 @@ In a landmark trial evaluating the impact on serious medication errors, the impl
 
 ---
 
-### Robots are both anthropomorphized and dehumanized when harmed intentionally [^fb4e4455]. Communications Psychology (2024). Medium credibility.
+### Robots are both anthropomorphized and dehumanized when harmed intentionally [^117RaBVn]. Communications Psychology (2024). Medium credibility.
 
 Results
 
@@ -689,7 +689,7 @@ Although we did not find statistically significant evidence for the interaction,
 
 ---
 
-### Simple lighting system to improve compliance of surgical timeout [^33dbb6d3]. Journal of Cataract and Refractive Surgery (2022). Medium credibility.
+### Simple lighting system to improve compliance of surgical timeout [^112KtAkS]. Journal of Cataract and Refractive Surgery (2022). Medium credibility.
 
 Surgical timeout is widely recognized as an important safety step but frequently overlooked. – Surgical mistakes in all specialties may include operating on the wrong patient, wrong organ, incorrect side, and wrong procedure. A high volume and high turnover increase the potential for errors.
 
@@ -701,13 +701,13 @@ A simple physical reminder for the operating room may help ensure compliance of 
 
 ---
 
-### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^619df0e5]. Gastrointestinal Endoscopy (2025). High credibility.
+### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^113VirGt]. Gastrointestinal Endoscopy (2025). High credibility.
 
 Prisma flow chart (PICO 5) indicates that 204 references were imported for screening as 204 studies, 2 duplicates were removed, 202 studies were screened against title and abstract, 192 studies were excluded, 10 studies were assessed for full-text eligibility, 7 studies were excluded with reasons (2 Abstract Only, 2 Wrong comparator, 2 Wrong study design, 1 Wrong patient population), 0 studies were ongoing, 0 studies were awaiting classification, and 3 studies were included.
 
 ---
 
-### Association of display of patient photographs in the electronic health record with wrong-patient order entry errors [^b64d484a]. JAMA Network Open (2020). High credibility.
+### Association of display of patient photographs in the electronic health record with wrong-patient order entry errors [^115fGhsX]. JAMA Network Open (2020). High credibility.
 
 Limitations
 
@@ -719,19 +719,19 @@ Finally, we did not incorporate time-dependent variables in our analyses. If pat
 
 ---
 
-### Physiology versus evidence-based guidance for critical care practice [^93545c06]. Critical Care (2015). Low credibility.
+### Physiology versus evidence-based guidance for critical care practice [^114mRWt5]. Critical Care (2015). Low credibility.
 
 Evidence based medicine is an attempt to optimize the medical decision process through methods primarily based on evidence coming from meta-analyses, systematic reviews, and randomized controlled trials ("evidence-based medicine"), rather than on "clinical judgment" alone. The randomized trials are the cornerstones of this process. However, the randomized trials are just a method to prove or disprove a given hypothesis, which, in turn, derives from a general observation of the reality (premises or theories). In this paper we will examine some of the most recent randomized trials performed in Intensive Care, analyzing their premises, hypothesis and outcome. It is quite evident that when the premises are wrong or too vague the unavoidable consequences will be a negative outcome. We should pay when designing the trial an equal attention in defining premises and hypothesis that we pay for the trial conduction.
 
 ---
 
-### Contact dermatitis: a practice parameter-update 2015 [^d013ffb8]. The Journal of Allergy and Clinical Immunology: In Practice (2015). Medium credibility.
+### Contact dermatitis: a practice parameter-update 2015 [^116KV9E7]. The Journal of Allergy and Clinical Immunology: In Practice (2015). Medium credibility.
 
 Patch test reliability and inhibitors — The strength of the reaction on the skin does not necessarily correlate with clinical relevance, and the frequency of false-negative results is not known but has been estimated to occur in up to 30% of patch-tested patients. Potential causes of false-negative reactions include too low a concentration of the allergen in the extract, wrong vehicle, or wrong salt/version; positive responses can be inhibited by UV sunlight (eg, tanning), TCS, TCl on the PT area, and systemic CS (ie, > 20 mg/day prednisone), as well as other immunosuppressives. Nonresponsiveness can also reflect prior ultraviolet light exposure, concomitant immunosuppressive therapies, or methodological testing errors such as insufficient occlusion, failure to perform delayed readings, and failure to perform a photo PT [Strength of Recommendation: Moderate; C Evidence].
 
 ---
 
-### Assessment of incorrect surgical procedures within and outside the operating room: a follow-up study from US veterans health administration medical centers [^c2819228]. JAMA Network Open (2018). Medium credibility.
+### Assessment of incorrect surgical procedures within and outside the operating room: a follow-up study from US veterans health administration medical centers [^115yN7v7]. JAMA Network Open (2018). Medium credibility.
 
 Introduction
 
@@ -743,13 +743,13 @@ The Veterans Health Administration (VHA) National Center for Patient Safety (NCP
 
 ---
 
-### Disclosure of adverse events in pediatrics: policy statement [^d48f7c3b]. Pediatrics (2025). High credibility.
+### Disclosure of adverse events in pediatrics: policy statement [^116S8a4a]. Pediatrics (2025). High credibility.
 
 Best practices for disclosure — disclosure practices may vary by setting, error type, and patient population, but important aspects include an explanation of what happened, acknowledgement that something has gone wrong and of responsibility, expression of sincere regret and apology, and commitment to preventing recurrences; these should be conducted with the involvement of appropriate parties in each practice.
 
 ---
 
-### The occurrence of wrong-site surgery self-reported by candidates for certification by the American board of orthopaedic surgery [^00ba5be0]. The Journal of Bone and Joint Surgery: American Volume (2012). Low credibility.
+### The occurrence of wrong-site surgery self-reported by candidates for certification by the American board of orthopaedic surgery [^11125bZh]. The Journal of Bone and Joint Surgery: American Volume (2012). Low credibility.
 
 Background
 
@@ -769,31 +769,31 @@ Keeping patients safe remains an essential goal worthy of enormous effort. This 
 
 ---
 
-### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^c9549944]. Journal of Thoracic Oncology (2025). High credibility.
+### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^1169Uvm1]. Journal of Thoracic Oncology (2025). High credibility.
 
 PRISMA for PICO 3 and 4 — study selection counts are reported: records screened (n = 886) after duplicate records (n = 4) were removed; reports sought for retrieval (n = 615), reports not retrieved (n = 6), and reports assessed for eligibility (n = 609); reports excluded for wrong outcome (n = 202), wrong intervention (n = 143), wrong study design (n = 119), wrong publication type (n = 77), and wrong population (n = 55); new studies included in review (n = 79). Citation searching identified records (n = 57) with reports sought (n = 57), reports not retrieved (n = 0), reports assessed for eligibility (n = 57), and reports excluded: 0 (n = 0).
 
 ---
 
-### Hepatic encephalopathy in chronic liver disease: 2014 practice guideline by the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver [^65f9dcae]. Hepatology (2014). Medium credibility.
+### Hepatic encephalopathy in chronic liver disease: 2014 practice guideline by the American Association for the Study of Liver Diseases and the European Association for the Study of the Liver [^113cBgAh]. Hepatology (2014). Medium credibility.
 
 West Haven criteria (WHC) grading — operative definitions emphasize functional orientation and responsiveness: Unimpaired is described as "No encephalopathy at all, no history of HE" with patients "Tested and proved to be normal". Minimal hepatic encephalopathy is defined by "Abnormal results of established psychometric or neuropsychological tests without clinical manifestations". Grade I is identified when "Despite oriented in time and space (see below), the patient appears to have some cognitive/behavioral decay with respect to his or her standard on clinical examination or to the caregivers". Grade II requires being "Disoriented for time (at least three of the following are wrong: day of the month, day of the week, month, season, or year) ± the other mentioned symptoms". Grade III is characterized by being "Disoriented also for space (at least three of the following wrongly reported: country, state [or region], city, or place) ± the other mentioned symptoms". Grade IV is defined as "Does not respond even to painful stimuli". All conditions "are required to be related to liver insufficiency and/or PSS".
 
 ---
 
-### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^3c3c7e1b]. Journal of Thoracic Oncology (2025). High credibility.
+### Safety and sample adequacy for comprehensive biomarker testing of bronchoscopic biopsies: an American association of bronchology and interventional pulmonology and international association for the study of lung cancer clinical practice guideline [^112YJaQA]. Journal of Thoracic Oncology (2025). High credibility.
 
 PRISMA for PICO 1 and 2 — study selection and exclusions are detailed: records screened (n = 1,332) after duplicate records (n = 22) were removed; reports sought for retrieval (n = 237), reports not retrieved (n = 3), and reports assessed for eligibility (n = 234); reports excluded for wrong outcome (n = 41), wrong population (n = 52), wrong study design (n = 24), small sample size (n = 19), wrong intervention (n = 18), complete article not available (n = 4), and missing information (n = 3); new studies included in review (n = 96). Citation searching identified records (n = 3) with reports sought (n = 3), reports not retrieved (n = 0), reports assessed for eligibility (n = 3), and reports excluded: 0 (n = 0).
 
 ---
 
-### Erratum: error in figure 1 [^dc02a98d]. JAMA Otolaryngology — Head & Neck Surgery (2025). High credibility.
+### Erratum: error in figure 1 [^116dBAs6]. JAMA Otolaryngology — Head & Neck Surgery (2025). High credibility.
 
 [This corrects the article DOI: 10.1001/jamaoto.2024.2270.].
 
 ---
 
-### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^c6c5f238]. Nature Communications (2021). High credibility.
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^1165h36o]. Nature Communications (2021). High credibility.
 
 Results from model 2 (See Table 15 for complete model estimates) indicate that, even after attempting to account for the random effects of participant (intercept SD = 3.79) and EBEP item (intercept SD = 4.04, b t h r e a t SD = 0.62), participants in the high perceived moral threat condition were substantially more likely to see EBEPs against Sandirians as more justified, compared with participants in the low perceived moral threat condition, b = 1.44, posterior SD = 0.68, 95% CI = [0.16, 2.80], OR = 4.21, 95% CI = [1.18, 16.45]. In other words, for participants in the high perceived moral threat condition, the odds of seeing EBEPs, on average, as extremely justified, vs. less than extremely morally justified, was 4.21 times higher than for participants in the low perceived moral threat condition.
 
@@ -801,25 +801,25 @@ Next, we directly investigated the role of PMW in participants' EBEP justificati
 
 ---
 
-### Clinical practice guideline: safe medication use in the ICU [^598df81b]. Critical Care Medicine (2017). Medium credibility.
+### Clinical practice guideline: safe medication use in the ICU [^113Hmas4]. Critical Care Medicine (2017). Medium credibility.
 
 Table 1 — definitions of medication-related events describe standard terminology for this guideline as follows: Medical error is "The failure of a planned action to be completed as intended or the use of a wrong plan to achieve an aim. Errors can include problems in practice, products, procedures, and systems". Medication error (ME) is "Any error in the medication process, whether or not there are adverse consequences". An adverse drug reaction is "An appreciably harmful or unpleasant reaction, resulting from an intervention related to the use of a medicinal product, which predicts hazard from future administration and warrants prevention or specific treatment, or alteration of the dosage regimen, or withdrawal of the product". An adverse drug event (ADE) is "Any injury related to use of drug. Not all ADEs are caused by medical errors. Also, not all MEs lead to ADEs". A preventable ADE is "Injury associated with a ME". A near miss (potential ADE) is "The occurrence of an error that did not result in harm. Potential ADEs can be intercepted or nonintercepted". A drug-related hazardous condition is "Physiologic response to a drug with potential to cause injury; abnormal laboratory value before it results in ADE". Abbreviations are defined as "ADE = adverse drug event, ME = medication error".
 
 ---
 
-### Erratum: error in article title [^c68a8afe]. JAMA Pediatrics (2018). Medium credibility.
+### Erratum: error in article title [^1165M5qF]. JAMA Pediatrics (2018). Medium credibility.
 
 [This corrects the article DOI: 10.1001/jamapediatrics.2017.4882.].
 
 ---
 
-### Erratum: department of error [^e61e4414]. Lancet (2018). Excellent credibility.
+### Erratum: department of error [^116tAKSj]. Lancet (2018). Excellent credibility.
 
 [This corrects the article DOI: 10.1016/S0140-6736(18)32203–7.].
 
 ---
 
-### Inconsistency between overall and subgroup analyses [^9b703599]. General Psychiatry (2022). Medium credibility.
+### Inconsistency between overall and subgroup analyses [^114ySmhJ]. General Psychiatry (2022). Medium credibility.
 
 Introduction
 
@@ -832,25 +832,25 @@ Before figuring out the reason for the inconsistency, let us take a look at scen
 
 ---
 
-### Erratum: error in the results [^3b681560]. JAMA Neurology (2025). High credibility.
+### Erratum: error in the results [^112X5ELX]. JAMA Neurology (2025). High credibility.
 
 [This corrects the article DOI: 10.1001/jamaneurol.2025.0337.].
 
 ---
 
-### Home oxygen therapy for children. An official American Thoracic Society clinical practice guideline [^f48a9bc9]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
+### Home oxygen therapy for children. An official American Thoracic Society clinical practice guideline [^117FYY5E]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
 
 Strength of recommendations — interpretation framework: A strong recommendation conveys "It is the right course of action for > 95% of patients", that "You would be willing to tell a colleague that he or she did the wrong thing if he or she did not follow the recommendation", and that "The recommended course of action may make a good performance metric"; a conditional recommendation conveys "It is the right course of action for > 50% of patients but may not be right for a sizable minority", that "You would NOT be willing to tell a colleague that he or she did the wrong thing if he or she did not follow the recommendation because there is clinical equipoise", and that "The recommended course of action would NOT make a good performance metric".
 
 ---
 
-### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^f5e9a0d3]. Nature Communications (2024). High credibility.
+### Reply to: false conflict and false confirmation errors are crucial components of AI accuracy in medical decision making [^117HaSVG]. Nature Communications (2024). High credibility.
 
 In conclusion, it is of critical importance to investigate the different errors when physicians make decisions with AI support especially with respect to the human expertise level. But besides the different error types, it is also important to take the correctly classified cases into account to get a complete picture of the situation. Further research is needed to investigate why those errors occur, whether certain subgroups of clinicians are at particular risk of committing certain error scenarios, and how this can be prevented. One potential approach is taking AI uncertainty into account by giving clinicians AI advice. Of special interest are furthermore cases, where AI and clinician are initially correct, but the clinician overwrites both, his original diagnosis and the XAI's advice (Table 1C; scenario iv), which need to be investigated carefully.
 
 ---
 
-### Lamotrigine chewable dispersible (lamotrigine) [^eb036145]. FDA (2023). Medium credibility.
+### Lamotrigine chewable dispersible (lamotrigine) [^1171RE5A]. FDA (2023). Medium credibility.
 
 Lamotrigine tablets for oral suspension USP (chewable dispersible tablets) can cause other serious side effects. For more information ask your healthcare provider or pharmacist. Tell your healthcare provider if you have any side effect that bothers you. Be sure to read the section below entitled "What are the possible side effects of lamotrigine tablets for oral suspension USP (chewable dispersible tablets)?"
 
@@ -868,13 +868,13 @@ These pictures show the distinct wording, colors, and shapes of the tablets that
 
 ---
 
-### How social relationships shape moral wrongness judgments [^294c1ee9]. Nature Communications (2021). High credibility.
+### How social relationships shape moral wrongness judgments [^1124E4WL]. Nature Communications (2021). High credibility.
 
 Next, we created an algorithm to select 12 action items that were rated among the most characteristic in weakening each of the four cooperative functions (three statements per function; 'weaken' set). First, for each function, the algorithm ranked the actions, in ascending order, by their mean weakening "characteristicness" rating and randomly selected 3 out of the seven most characteristic actions. Second, it computed the mean rating across the three selected actions, yielding one mean score per function. Third, the algorithm computed the standard deviation of the four function-specific means generated in the previous step. Finally, steps one to three were repeated 10,000 times to find the combination of three action statements that yielded the lowest standard deviation of scores across functions. The second iteration of the algorithm was subjected to two further constraints so that we could ensure consistency with potential function-strengthening items planned for testing in future studies ('strengthen' set). The first constraint was that the minimum mean score in the 'weaken' set could not be lower than the minimum mean score in the 'strengthen' set. The second constraint was that the average of the final 'weaken' scores could not be more than one point lower than the average of the final 'strengthen' scores. So that future studies can be straightforwardly compared with the present study, we selected items for the 'weaken' set so that they would weaken the cooperative functions to a similar degree as future 'strengthen' items would strengthen the functions. In other words, we wanted to make sure that we identified a set of 'weaken' items that were not more extreme (in the 'weaken' direction) than future 'strengthen' items would be (in the 'strengthen' direction). This process resulted in a final set of 12 function-weakening action statements, with three per function, as shown in Fig. 4.
 
 ---
 
-### Identification of common themes from never events data published by NHS england [^e43645dd]. World Journal of Surgery (2021). Medium credibility.
+### Identification of common themes from never events data published by NHS england [^116qLQaG]. World Journal of Surgery (2021). Medium credibility.
 
 Background
 
@@ -894,7 +894,7 @@ This paper identifies common NE categories and themes. Awareness of these might 
 
 ---
 
-### Albuterol sulfate [^fcdf3457]. FDA (2025). Medium credibility.
+### Albuterol sulfate [^117TtrPY]. FDA (2025). Medium credibility.
 
 2.1 Bronchospasm
 
@@ -918,13 +918,13 @@ As with all HFA-containing albuterol inhalers, to maintain proper use of this pr
 
 ---
 
-### Steps to misdiagnosis: dissecting an emergency visit [^464a2e17]. Otolaryngology — Head and Neck Surgery (2018). Low credibility.
+### Steps to misdiagnosis: dissecting an emergency visit [^112oD3sU]. Otolaryngology — Head and Neck Surgery (2018). Low credibility.
 
 Despite the common sense that we learn from our mistakes, an error is an unwelcome event when we deal with patients. Diagnostic error is common, costly, and the leading cause of malpractice litigation. Yet, errors occur occasionally in a lifetime of practice, and the consequences of these faults are significant for patients and physicians. If someone would have told me that I would miss a brain tumor in my first years of practice, in a patient presenting to my care with several cranial nerve signs, I would not have believed it. Here is how it happened.
 
 ---
 
-### A novel electronic assessment strategy to support applied drosophila genetics training in university courses [^faebd356]. G3 (2015). Low credibility.
+### A novel electronic assessment strategy to support applied drosophila genetics training in university courses [^117R17ho]. G3 (2015). Low credibility.
 
 Description of the hybrid e-assessment:
 
@@ -932,13 +932,13 @@ The e-assessment starts with two warm-up questions (jumbled sentence) to acquain
 
 ---
 
-### Error and discrepancy in radiology: inevitable or avoidable? [^f66d4103]. Insights Into Imaging (2017). Low credibility.
+### Error and discrepancy in radiology: inevitable or avoidable? [^117JLemG]. Insights Into Imaging (2017). Low credibility.
 
 So, in answer to the question posed in this paper's title, errors/discrepancies in radiology are both inevitable and avoidable. That is, errors will always happen, but some can be avoided, by careful attention to the reasoning processes we use, awareness of potential biases and system issues which can lead to mistakes, and use of any appropriate available strategies to minimise these negative influences. But if we imagine that any strategy can totally eliminate error in radiology, we are fooling both ourselves and the patients who take their guidance from us.
 
 ---
 
-### Justification of principles for healthcare priority setting: the relevance and roles of empirical studies exploring public values [^d8f403a8]. Journal of Medical Ethics (2025). Medium credibility.
+### Justification of principles for healthcare priority setting: the relevance and roles of empirical studies exploring public values [^116YeHeo]. Journal of Medical Ethics (2025). Medium credibility.
 
 The notion of reflective equilibrium
 
@@ -956,13 +956,13 @@ The second step is to formulate ethical principles that can account for the cons
 
 ---
 
-### Guideline for management of septic arthritis in native joints (SANJO) [^d4908e1a]. Journal of Bone and Joint Infection (2023). High credibility.
+### Guideline for management of septic arthritis in native joints (SANJO) [^116S8vuP]. Journal of Bone and Joint Infection (2023). High credibility.
 
 Regarding diagnostic procedures for septic arthritis, more specifically with respect to synovial fluid analysis, aspiration, EBJIS 2023 guidelines recommend to consider obtaining ultrasound, fluoroscopy, or CT guidance to document intra-articular needle positioning in case of a dry tap, as in that case the needle may be wrongly positioned (outside the joint capsule).
 
 ---
 
-### Somatrogon-ghla (Ngenla) [^7f37d345]. FDA (2025). Medium credibility.
+### Somatrogon-ghla (Ngenla) [^114FcBMW]. FDA (2025). Medium credibility.
 
 Instructions for Use
 
@@ -990,25 +990,25 @@ The pen is not recommended for use by the blind or visually impaired without the
 
 ---
 
-### Optimal resources for children's surgical care: from the committee on children's surgery American college of surgeons [^4900627e]. APSA (2014). Medium credibility.
+### Optimal resources for children's surgical care: from the committee on children's surgery American college of surgeons [^112sEE4u]. APSA (2014). Medium credibility.
 
 Children's surgical anesthesia-related safety — sentinel and intraoperative events are to be monitored and reported in all patients ≤ 18 years who have undergone a surgical procedure requiring anesthesia services during the 12 months of the reporting period, including Operation on incorrect site – sentinel event, Operation on incorrect patient – sentinel event, Medication error – wrong medication or wrong dosing (intraoperative), Intraoperative awareness – explicit awareness during anesthesia Yes/No, Anaphylaxis – severe intraoperative allergic response with sudden drop in blood pressure, Malignant hyperthermia – clinical or suspected and/or use of dantrolene, Transfusion reaction - intraoperative, Perioperative aspiration with consistent radiologic findings, Surgical fire and/or patient burns, and Dental trauma – unanticipated loss of permanent tooth.
 
 ---
 
-### Laboratory testing for the monkeypox virus: interim guidance [^9fcc4fc8]. Geneva: World Health Organization (2022). High credibility.
+### Laboratory testing for the monkeypox virus: interim guidance [^1155uf7u]. Geneva: World Health Organization (2022). High credibility.
 
 Regarding diagnostic investigations for mpox, more specifically with respect to laboratory testing (serology), WHO 2022 guidelines recommend to consider obtaining serological testing to further investigate prior infection for epidemiological purposes if the clinical presentation and epidemiology suggest an infection with monkeypox virus despite negative PCR results. Recognize that a number of factors could contribute to false-negative results, such as poor quality of the specimen, wrong handling or shipping, or technical reasons inherent to the test, such as DNA extraction failure.
 
 ---
 
-### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^c063d970]. Nature Reviews: Nephrology (2025). High credibility.
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^115vEAL7]. Nature Reviews: Nephrology (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to burosumab (children, monitoring), XLH-EG 2025 guidelines recommend to consider excluding calcium and vitamin D deficiency with hyperparathyroidism if patients demonstrate insufficient response to burosumab. Consider non-adherence, administration of wrong dosages, or inadequate injection modalities if patients are self-treated at home or if children are treated by family members. (grade C, weak recommendation).
 
 ---
 
-### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^2f560915]. Insights Into Imaging (2021). Medium credibility.
+### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^112DBKMN]. Insights Into Imaging (2021). Medium credibility.
 
 Key points
 
@@ -1019,19 +1019,19 @@ Being familiar with the types of errors and underlying biases is essential for r
 
 ---
 
-### Doubt [^44f9130d]. Academic Pediatrics (2009). Low credibility.
+### Doubt [^112mFpXN]. Academic Pediatrics (2009). Low credibility.
 
 A father writes about the death of his daughter, offering his perspective on the system that broke down and efforts to reduce medical errors. He has requested that his name be withheld from the published version of this narrative.
 
 ---
 
-### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^711037e5]. Insights Into Imaging (2021). Medium credibility.
+### Errors, discrepancies and underlying bias in radiology with case examples: a pictorial review [^113td3oa]. Insights Into Imaging (2021). Medium credibility.
 
 Interpretation differences between radiologists and diagnostic errors are significant issues in daily radiology practice. An awareness of errors and their underlying causes can potentially increase the diagnostic performance and reduce individual harm. The aim of this paper is to review both the classification of errors and the underlying biases. Case-based examples are presented and discussed for each type of error and bias to provide greater clarity and understanding.
 
 ---
 
-### Error and discrepancy in radiology: inevitable or avoidable? [^34b21e55]. Insights Into Imaging (2017). Low credibility.
+### Error and discrepancy in radiology: inevitable or avoidable? [^112M8BgY]. Insights Into Imaging (2017). Low credibility.
 
 Definition of error/discrepancy
 
@@ -1043,13 +1043,13 @@ In this context, defining what constitutes radiological error is not straightfor
 
 ---
 
-### Error in key points [^6ba50da4]. JAMA Network Open (2019). High credibility.
+### Error in key points [^113kb7ej]. JAMA Network Open (2019). High credibility.
 
 In the Original Investigation titled "Cascades of Care After Incidental Findings in a US National Survey of Physicians", published October 16, 2019, the Findings portion of the Key Points erroneously stated the number of study participants in the survey sample (991) rather than the number of responding participants (376). This article has been corrected.
 
 ---
 
-### On the ethics of algorithmic decision-making in healthcare [^beb3f623]. Journal of Medical Ethics (2020). Medium credibility.
+### On the ethics of algorithmic decision-making in healthcare [^115sj6Ua]. Journal of Medical Ethics (2020). Medium credibility.
 
 For one, deferring to the algorithm provides her with a normative justification for her medical decision. Then again, if she sticks to her initial proposition — and her diagnosis turns out to be wrong — she might be conceived as acting irresponsibly as she ignored the evidence provided by the algorithm. Things might aggravate once we consider that many medical decisions are being made under imperfect conditions, such as time constraints obstructing a careful re-assessment of the evidence available. A further side effect could be that the clinician might be biased towards interpreting the evidence in a way confirming the algorithm's diagnosis. Thus, the interplay of machine learning algorithms and clinicians potentially risks the fostering of epistemic vices such as dogmatism or gullibility. To sum things up, instead of enhancing their decision-making capabilities, the deployment of machine learning algorithms may impose mechanisms of 'defensive medicine' among clinicians.
 
@@ -1059,19 +1059,19 @@ This also leads us to problems of patient autonomy. In a recent article, McDouga
 
 ---
 
-### How to write a systematic review of reasons [^5210e0a0]. Journal of Medical Ethics (2012). Low credibility.
+### How to write a systematic review of reasons [^1136feud]. Journal of Medical Ethics (2012). Low credibility.
 
 As we argue elsewhere, we must reject McCullough et al 's measure of 'the adequacy of the ethical analysis and argument' (p. 67). Furthermore, while it might be possible to replace it with a suitable measure, a systematic review that answers an ethical question may mislead decision-makers when the literature reviewed is incomplete or inadequate. In these cases, the literature's answer to the review question places no burden of proof on those who disagree. Of course, when an empirical literature is inadequate, its answer will also be potentially misleading and uninteresting; the correct safeguard in both cases (inadequate empirical and reason-based literatures) is for the review to conclude only that further research is needed to answer the question. To date, however, the assessment of the quality of reasons and of argument-based literature is much less standardised than, for example, the assessment of the quality of clinical trials and the literature that reports their results. Bioethicists as well as clinical and policy decision-makers are less likely, we surmise, to understand the significance of limitations in reasoning than in study design. A McCullough model systematic review, insofar as it is a systematic review of (quality-weighted) conclusions, also has normative problems: it may mislead when there are mutually incompatible, but maximally informed and individually reasonable, answers to the ethical question, or when different weightings of the reasons (as may be appropriate in dissimilar contexts) support different answers.
 
 ---
 
-### Preventing home medication administration errors [^6c0bf3f7]. Pediatrics (2021). High credibility.
+### Preventing home medication administration errors [^113mBgJJ]. Pediatrics (2021). High credibility.
 
 Background — nature of home pediatric medication errors: Errors in pediatric medication administration in the home environment are common and can result in serious consequences, and these errors include dosing mistakes (both underdosing and overdosing), errors in frequency or duration of dosing (including missed doses), administration of incorrect medications or formulations, wrong route of administration, incorrect preparation or storage, and use of expired medications; many root causes have been identified that may contribute to errors.
 
 ---
 
-### Avoiding errors in reasoning: an introduction to logical fallacies [^6383c0d1]. AJR: American Journal of Roentgenology (2006). Low credibility.
+### Avoiding errors in reasoning: an introduction to logical fallacies [^113YY2fA]. AJR: American Journal of Roentgenology (2006). Low credibility.
 
 Objective
 
@@ -1083,7 +1083,7 @@ By familiarizing ourselves with common fallacies, we can take steps to reduce th
 
 ---
 
-### Insulin aspart injection (fiasp) [^30274c86]. FDA (2023). Medium credibility.
+### Insulin aspart injection (fiasp) [^112EPc8d]. FDA (2023). Medium credibility.
 
 INSTRUCTIONS FOR USE
 
@@ -1106,13 +1106,13 @@ Do not use FIASP PumpCart in an insulin pen.
 
 ---
 
-### Medical errors [^c01131af]. Hematology: American Society of Hematology. Education Program (2005). Low credibility.
+### Medical errors [^115ukQ5L]. Hematology: American Society of Hematology. Education Program (2005). Low credibility.
 
 Following the 2000 report of the Institute of Medicine, To Err Is Human, which documented that as many as 98,000 people in this country die of medical errors every year, medical, hospital, and governmental agencies began to consider changes in hospital systems. The report had found that errors were much more likely to result from systemic problems than from inept health care providers. Progress in reinventing hospital systems has been very slow, although some institutions have made great gains". Medical errors" may be of several types. Some lead to malpractice claims, many do not. Many people who have been severely injured by errors never file claims. Making a medical mistake is not necessarily "malpractice". There are six elements a patient must prove in order to win a malpractice case: a physician-patient relationship must exist, the care provider must owe the patient a duty of care, evidence (usually expert testimony) must be presented that there was a failure in some part of the duty of care, there must proof that the lack of care was the proximate cause of harm, and proof of evidence that harm occurred. The patient must also prove his or her assessment of damages. Solutions to the problem of patient injuries are suggested.
 
 ---
 
-### Albuterol sulfate (Proair) [^b69715da]. FDA (2021). Medium credibility.
+### Albuterol sulfate (Proair) [^115fhVfo]. FDA (2021). Medium credibility.
 
 Cleaning Your PROAIR HFA Device:
 
@@ -1132,7 +1132,7 @@ When the actuator is dry, put the canister in the actuator and make sure it fits
 
 ---
 
-### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^b06ae76f]. Nature Communications (2021). High credibility.
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^115WYjFt]. Nature Communications (2021). High credibility.
 
 Next, as in Study 2, we tested hypotheses 1 and 3 via two additional regression models, one (Model 2) in which the perceived moral wrongness of Mexican immigrants allegedly taking jobs was regressed on participants' individualizing and binding values and another (Model 3) in which the perceived justification of EBEPs against Mexicans was regressed on participants' individualizing and binding values as well as perceived moral wrongness. As expected, estimates from model 2 indicated a positive association between participants' binding values and the degree to which believed it was morally wrong for Mexican immigrants to "take jobs" in Webster Springs, b = 0.47, posterior SD = 0.05, 95% CI = [0.37, 0.56]. That is, a standard deviation increase in binding values was associated with an estimated 0.47 standard deviation increase in perceived moral wrongness. In contrast, individualizing values were estimated to be negatively associated with the perception of moral wrongdoing, b = 0.47, posterior SD = 0.05, 95% CI = [0.37, 0.56].
 
@@ -1142,13 +1142,13 @@ Finally, similar to Study 2, we relied on posterior simulation to test the hypot
 
 ---
 
-### British Association of Dermatologists guidelines for the management of people with cutaneous squamous cell carcinoma 2020 [^cbe332cf]. The British Journal of Dermatology (2021). High credibility.
+### British Association of Dermatologists guidelines for the management of people with cutaneous squamous cell carcinoma 2020 [^116DGoPc]. The British Journal of Dermatology (2021). High credibility.
 
 Regarding diagnostic procedures for cutaneous squamous cell carcinoma, more specifically with respect to skin biopsy, BAD 2021 guidelines recommend to take a good-quality clinical photograph of the CSCC lesion for the patient record to aid future management and assessment of the area after healing. Mark the lesions to be treated on the photograph to limit the risk of wrong-site procedures in multisite diseases.
 
 ---
 
-### Let us talk about mistakes [^5a579708]. Pediatric Radiology (2025). Medium credibility.
+### Let us talk about mistakes [^113JwJkf]. Pediatric Radiology (2025). Medium credibility.
 
 Classification of diagnostic errors and their frequencies
 
@@ -1166,7 +1166,7 @@ Fig. 1
 
 ---
 
-### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^2e4505d3]. Nature Communications (2021). High credibility.
+### Investigating the role of group-based morality in extreme behavioral expressions of prejudice [^112Bbcdp]. Nature Communications (2021). High credibility.
 
 Study 3
 
@@ -1184,6 +1184,6 @@ Three participants did not complete the MFQ and an additional 28 participants sp
 
 ---
 
-### The nature of surgical error: a cautionary tale and a call to reason [^aba867e2]. Surgical Endoscopy (2005). Low credibility.
+### The nature of surgical error: a cautionary tale and a call to reason [^115PVSzu]. Surgical Endoscopy (2005). Low credibility.
 
 Errors and "patient safety" have taken on monumental importance for surgery. Like all things new, there is an initial over-reaction before a return to a balanced perspective. The current response to the global interest in error has been to seize on the latest reports that are focusing on the "systemic nature" of errors, which is also being referred to as "the new look". There has been an unintentional ignoring of the actual error, referred to as the coface error, that the surgeon commits. It is time to put the approach to errors into perspective and redefine errors within the context of the surgical community, which can result in a balance of the surgeon's position in regard to systemic and personal responsibility.

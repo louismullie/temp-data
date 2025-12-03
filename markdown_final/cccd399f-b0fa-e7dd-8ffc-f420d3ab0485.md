@@ -15,33 +15,33 @@ Diltiazem iv
 
 > Let's see… What do we have here? The user is asking about intravenous diltiazem use, including indications, dosing, efficacy, safety, special populations, and practical pearls. Let's break this down step-by-step. First, I need to think about the labeled indications and core pharmacology. Then, I should verify the standard dosing protocols and onset/offset kinetics. Next, I will review comparative efficacy versus metoprolol and other agents, followed by safety, contraindications, and monitoring. After that, I need to consider special populations such as heart failure, renal/hepatic disease, pregnancy, and the elderly. Finally, I will synthesize practical pearls, including drug interactions, transition strategies, and overdose management, and close with a concise clinical takeaway anchored to guidelines and key trials.
 
-> Let me first confirm the labeled indications and mechanism so I don't miss anything foundational. Intravenous diltiazem is indicated for temporary control of rapid ventricular rate in atrial fibrillation or atrial flutter and for rapid conversion of paroxysmal supraventricular tachycardia, including AV nodal reentrant tachycardia and reciprocating tachycardias, with the explicit warning to avoid use in AF/Flutter with accessory bypass tracts such as WPW due to risk of accelerating conduction and hemodynamic collapse, which I should keep front and center [^fa225756] [^4cf23e8c]. Mechanistically, diltiazem is a nondihydropyridine calcium channel blocker that slows AV nodal conduction and increases refractoriness, thereby reducing ventricular rate without meaningful conversion of AF to sinus rhythm in most cases, which aligns with clinical experience and labeling data [^de74b184] [^54fdc089].
+> Let me first confirm the labeled indications and mechanism so I don't miss anything foundational. Intravenous diltiazem is indicated for temporary control of rapid ventricular rate in atrial fibrillation or atrial flutter and for rapid conversion of paroxysmal supraventricular tachycardia, including AV nodal reentrant tachycardia and reciprocating tachycardias, with the explicit warning to avoid use in AF/Flutter with accessory bypass tracts such as WPW due to risk of accelerating conduction and hemodynamic collapse, which I should keep front and center [^117PqSUM] [^112y5Rib]. Mechanistically, diltiazem is a nondihydropyridine calcium channel blocker that slows AV nodal conduction and increases refractoriness, thereby reducing ventricular rate without meaningful conversion of AF to sinus rhythm in most cases, which aligns with clinical experience and labeling data [^116goSw5] [^113B1CAL].
 
-> I should confirm the standard adult dosing protocol and not rely on memory. The recommended bolus is 0.25 mg/kg IV over 2 minutes, with a second 0.35 mg/kg bolus after 15 minutes if the response is inadequate, followed by a continuous infusion at 5–15 mg/h for up to 24 hours, with transition to oral extended-release diltiazem 120–360 mg daily for maintenance. In older adults, many protocols cap the initial bolus at 10–20 mg to mitigate hypotension risk, which is a practical modification I need to remember [^9770bc04] [^d88278a1] [^f8c505e5]. Wait, let me verify onset and duration: response typically occurs within 3 minutes, maximal effect by 2–7 minutes, and the heart rate reduction can persist 1–3 hours after a bolus, while continuous infusion maintains effect and can leave residual slowing for 0.5–10 hours after discontinuation, which explains why some patients remain bradycardic even after stopping the drip [^54fdc089] [^101e3781].
+> I should confirm the standard adult dosing protocol and not rely on memory. The recommended bolus is 0.25 mg/kg IV over 2 minutes, with a second 0.35 mg/kg bolus after 15 minutes if the response is inadequate, followed by a continuous infusion at 5–15 mg/h for up to 24 hours, with transition to oral extended-release diltiazem 120–360 mg daily for maintenance. In older adults, many protocols cap the initial bolus at 10–20 mg to mitigate hypotension risk, which is a practical modification I need to remember [^114sWzoD] [^116Xz9ex] [^117Mp7Cx]. Wait, let me verify onset and duration: response typically occurs within 3 minutes, maximal effect by 2–7 minutes, and the heart rate reduction can persist 1–3 hours after a bolus, while continuous infusion maintains effect and can leave residual slowing for 0.5–10 hours after discontinuation, which explains why some patients remain bradycardic even after stopping the drip [^113B1CAL] [^111QtxBS].
 
-> Next, I should review comparative efficacy versus metoprolol, since clinicians often ask which IV agent is "better". Meta-analyses and multiple studies suggest IV diltiazem achieves rate control more rapidly and with greater magnitude than IV metoprolol, with shorter time to HR < 100 bpm and larger mean HR reduction, while overall adverse event rates are similar in pooled analyses, though hypotension patterns differ by study design and definitions [^bddae922] [^ec29167e]. Hold on, let's not jump to conclusions; some retrospective ED cohorts show similar short-term rate control success between agents, so patient selection and hemodynamics matter, but the weight of evidence favors diltiazem for speed and magnitude of rate reduction in stable patients [^6fe6de7a] [^f97d3bb0].
+> Next, I should review comparative efficacy versus metoprolol, since clinicians often ask which IV agent is "better". Meta-analyses and multiple studies suggest IV diltiazem achieves rate control more rapidly and with greater magnitude than IV metoprolol, with shorter time to HR < 100 bpm and larger mean HR reduction, while overall adverse event rates are similar in pooled analyses, though hypotension patterns differ by study design and definitions [^115rUBz9] [^11737sxq]. Hold on, let's not jump to conclusions; some retrospective ED cohorts show similar short-term rate control success between agents, so patient selection and hemodynamics matter, but the weight of evidence favors diltiazem for speed and magnitude of rate reduction in stable patients [^113ruAyP] [^117Nsyuh].
 
-> I will now examine safety and contraindications, and I need to ensure I separate relative cautions from absolute contraindications. Absolute contraindications include sick sinus syndrome without a pacemaker, second- or third-degree AV block without pacing, severe hypotension or cardiogenic shock, hypersensitivity, and AF/Flutter with pre-excitation (WPW or short PR), where diltiazem can precipitate dangerous acceleration via the bypass tract; ventricular tachycardia should not be treated with diltiazem because it may worsen hemodynamics if the rhythm is misclassified [^f50d0d50] [^72b32ccc]. Relative cautions include decompensated systolic heart failure, hepatic impairment, and concomitant AV nodal blockers; hypotension is the most common adverse effect and occurred in about 3.2% of patients in trials requiring intervention, with bradycardia and injection-site reactions also reported, so continuous ECG and frequent BP monitoring are essential during IV therapy [^55f140f2] [^54fdc089] [^e701db60].
+> I will now examine safety and contraindications, and I need to ensure I separate relative cautions from absolute contraindications. Absolute contraindications include sick sinus syndrome without a pacemaker, second- or third-degree AV block without pacing, severe hypotension or cardiogenic shock, hypersensitivity, and AF/Flutter with pre-excitation (WPW or short PR), where diltiazem can precipitate dangerous acceleration via the bypass tract; ventricular tachycardia should not be treated with diltiazem because it may worsen hemodynamics if the rhythm is misclassified [^117GJMKM] [^113w3mjh]. Relative cautions include decompensated systolic heart failure, hepatic impairment, and concomitant AV nodal blockers; hypotension is the most common adverse effect and occurred in about 3.2% of patients in trials requiring intervention, with bradycardia and injection-site reactions also reported, so continuous ECG and frequent BP monitoring are essential during IV therapy [^113CQyxM] [^113B1CAL] [^116uUmGs].
 
-> Let me consider heart failure carefully, because this is where practice often diverges from tradition. Classic teaching advises avoiding nondihydropyridine calcium channel blockers in HFrEF due to negative inotropy; however, emerging ED data in HFrEF patients suggest IV diltiazem can be as safe and effective as metoprolol in the short term, with some studies showing no excess hypotension or bradycardia, while others signal more heart failure exacerbations, so I should individualize and monitor closely if I choose diltiazem in this setting [^049bcfa9] [^f64ecc55] [^c940f894]. But wait, what if the patient is decompensated or in shock? In that scenario, guidelines still recommend avoiding diltiazem and favoring amiodarone or digoxin for rate control, so I should not overgeneralize the newer observational signals to unstable patients [^789212a8] [^fae56faf].
+> Let me consider heart failure carefully, because this is where practice often diverges from tradition. Classic teaching advises avoiding nondihydropyridine calcium channel blockers in HFrEF due to negative inotropy; however, emerging ED data in HFrEF patients suggest IV diltiazem can be as safe and effective as metoprolol in the short term, with some studies showing no excess hypotension or bradycardia, while others signal more heart failure exacerbations, so I should individualize and monitor closely if I choose diltiazem in this setting [^1117qHaG] [^117JARSL] [^1169NLP5]. But wait, what if the patient is decompensated or in shock? In that scenario, guidelines still recommend avoiding diltiazem and favoring amiodarone or digoxin for rate control, so I should not overgeneralize the newer observational signals to unstable patients [^1145kaYf] [^117QxyEN].
 
-> I should double-check renal and hepatic dosing adjustments, because I initially thought dose changes might be required in renal failure. Hold on, I should verify: the FDA labeling indicates no routine dose adjustment is required for intermittent hemodialysis, peritoneal dialysis, or continuous renal replacement therapy, though caution is advised and renal function should be monitored with prolonged use; hepatic impairment warrants caution due to increased bioavailability and prolonged half-life, and dose titration should be conservative in cirrhosis [^d546e443] [^041038de] [^3b02a27b] [^fb585adb]. Pharmacokinetically, diltiazem is extensively hepatically metabolized with only 2–4% excreted unchanged, explaining why renal failure has limited impact on clearance, whereas hepatic dysfunction can meaningfully increase exposure [^14c06a5e].
+> I should double-check renal and hepatic dosing adjustments, because I initially thought dose changes might be required in renal failure. Hold on, I should verify: the FDA labeling indicates no routine dose adjustment is required for intermittent hemodialysis, peritoneal dialysis, or continuous renal replacement therapy, though caution is advised and renal function should be monitored with prolonged use; hepatic impairment warrants caution due to increased bioavailability and prolonged half-life, and dose titration should be conservative in cirrhosis [^116TCB78] [^11172QAH] [^112WV9xN] [^117Rda2W]. Pharmacokinetically, diltiazem is extensively hepatically metabolized with only 2–4% excreted unchanged, explaining why renal failure has limited impact on clearance, whereas hepatic dysfunction can meaningfully increase exposure [^111XmPC9].
 
-> Pregnancy is another special population where I need to ensure dosing precision. The HRS expert consensus supports IV diltiazem use in pregnancy with the same bolus and infusion regimen, noting maternal hypotension and bradycardia risks and the potential for uterine relaxation; given category C risk, use should be individualized with maternal–fetal monitoring and shared decision-making, and I should avoid coadministration with other negative chronotropes when possible [^46184a5b]. Let me reconsider the practical implication: in hemodynamically stable pregnant patients with AF/RVR or SVT, diltiazem remains a reasonable option when beta-blockers are unsuitable or ineffective, with close observation for hypotension and fetal heart rate effects [^46184a5b].
+> Pregnancy is another special population where I need to ensure dosing precision. The HRS expert consensus supports IV diltiazem use in pregnancy with the same bolus and infusion regimen, noting maternal hypotension and bradycardia risks and the potential for uterine relaxation; given category C risk, use should be individualized with maternal–fetal monitoring and shared decision-making, and I should avoid coadministration with other negative chronotropes when possible [^112nvHwg]. Let me reconsider the practical implication: in hemodynamically stable pregnant patients with AF/RVR or SVT, diltiazem remains a reasonable option when beta-blockers are unsuitable or ineffective, with close observation for hypotension and fetal heart rate effects [^112nvHwg].
 
-> For elderly patients, I should confirm whether dose capping is guideline-based or institutional. While not a formal FDA label change, many ED protocols and prehospital guidelines recommend a maximum initial bolus of 10–20 mg in patients over 65 years to reduce hypotension risk, which is a pragmatic approach I should adopt unless the clinical context clearly supports weight-based dosing with close monitoring [^f8c505e5]. I need to ensure I document rationale if I exceed those caps, given the higher incidence of bradycardia and hypotension in older adults exposed to AV nodal blockers.
+> For elderly patients, I should confirm whether dose capping is guideline-based or institutional. While not a formal FDA label change, many ED protocols and prehospital guidelines recommend a maximum initial bolus of 10–20 mg in patients over 65 years to reduce hypotension risk, which is a pragmatic approach I should adopt unless the clinical context clearly supports weight-based dosing with close monitoring [^117Mp7Cx]. I need to ensure I document rationale if I exceed those caps, given the higher incidence of bradycardia and hypotension in older adults exposed to AV nodal blockers.
 
-> Next, I should review drug interactions and transition planning, because these often cause real-world problems. Diltiazem is a moderate CYP3A4 inhibitor and P-gp substrate, so coadministration with direct oral anticoagulants increases bleeding risk; if a CCB is necessary, consider dose reduction of the DOAC or use of a non–CYP3A4-metabolized statin when combined, and avoid coadministration with other AV nodal blockers when possible to mitigate bradycardia and heart block risk [^526fa544] [^48223f63] [^078ef80d]. For transition, oral therapy can often be started within 3 hours of IV bolus in stable patients, and immediate-release oral diltiazem after an IV bolus performs comparably to continuous infusion for short-term rate control in some ED cohorts, which can facilitate earlier discharge when appropriate [^9abdd1de] [^1e91b23f].
+> Next, I should review drug interactions and transition planning, because these often cause real-world problems. Diltiazem is a moderate CYP3A4 inhibitor and P-gp substrate, so coadministration with direct oral anticoagulants increases bleeding risk; if a CCB is necessary, consider dose reduction of the DOAC or use of a non–CYP3A4-metabolized statin when combined, and avoid coadministration with other AV nodal blockers when possible to mitigate bradycardia and heart block risk [^1137DV95] [^112qwcVG] [^111CCwEU]. For transition, oral therapy can often be started within 3 hours of IV bolus in stable patients, and immediate-release oral diltiazem after an IV bolus performs comparably to continuous infusion for short-term rate control in some ED cohorts, which can facilitate earlier discharge when appropriate [^114xQrPP] [^111nKZr6].
 
-> I should confirm overdose management, even though it's rare. For diltiazem poisoning, supportive care is paramount: give IV calcium (1 g calcium chloride or 3 g calcium gluconate over 5 minutes, repeatable), atropine for bradycardia, and vasopressors such as norepinephrine or dopamine for refractory hypotension; hyperinsulinemic euglycemia is reasonable in severe cases with shock, and mechanical support may be needed in life-threatening toxicity, with the caveat that calcium's effect can be inconsistent and prolonged monitoring is required [^74b8608a] [^e03a2522]. Hold on, I should verify that dialysis is not effective; indeed, diltiazem is not dialyzable, so extracorporeal removal is not helpful in overdose [^74b8608a].
+> I should confirm overdose management, even though it's rare. For diltiazem poisoning, supportive care is paramount: give IV calcium (1 g calcium chloride or 3 g calcium gluconate over 5 minutes, repeatable), atropine for bradycardia, and vasopressors such as norepinephrine or dopamine for refractory hypotension; hyperinsulinemic euglycemia is reasonable in severe cases with shock, and mechanical support may be needed in life-threatening toxicity, with the caveat that calcium's effect can be inconsistent and prolonged monitoring is required [^113z3VeR] [^116jRkt9]. Hold on, I should verify that dialysis is not effective; indeed, diltiazem is not dialyzable, so extracorporeal removal is not helpful in overdose [^113z3VeR].
 
-> Let me synthesize practical pearls so nothing critical is missed. Use weight-based 0.25 mg/kg boluses with a 15-minute reassessment window, titrate infusion to effect, and transition early to oral ER when stable. Always screen for WPW, significant bradyarrhythmias, and decompensated HF before pushing diltiazem. Monitor ECG and BP continuously during IV therapy. And remember that diltiazem rarely converts AF to sinus rhythm, so persistent irregularity after rate control is expected and not a treatment failure [^9770bc04] [^54fdc089]. I should double-check that my documentation captures indication, dosing, response, and monitoring, especially when using off-label strategies or in special populations, to align with guideline-based care and safety practices [^f8c505e5].
+> Let me synthesize practical pearls so nothing critical is missed. Use weight-based 0.25 mg/kg boluses with a 15-minute reassessment window, titrate infusion to effect, and transition early to oral ER when stable. Always screen for WPW, significant bradyarrhythmias, and decompensated HF before pushing diltiazem. Monitor ECG and BP continuously during IV therapy. And remember that diltiazem rarely converts AF to sinus rhythm, so persistent irregularity after rate control is expected and not a treatment failure [^114sWzoD] [^113B1CAL]. I should double-check that my documentation captures indication, dosing, response, and monitoring, especially when using off-label strategies or in special populations, to align with guideline-based care and safety practices [^117Mp7Cx].
 
-> In summary, IV diltiazem is a first-line agent for rapid ventricular rate control in hemodynamically stable AF/Flutter and for conversion of PSVT, with faster onset and greater magnitude of rate reduction than metoprolol in most comparative studies, but with a meaningful risk of hypotension and bradycardia that mandates careful selection, dosing, and monitoring. Avoid in WPW, severe bradyarrhythmias, and decompensated HF, use cautiously in HFrEF and hepatic disease, and apply age-appropriate dose caps in the elderly to mitigate adverse events [^fa225756] [^bddae922] [^789212a8] [^463bb15b].
+> In summary, IV diltiazem is a first-line agent for rapid ventricular rate control in hemodynamically stable AF/Flutter and for conversion of PSVT, with faster onset and greater magnitude of rate reduction than metoprolol in most comparative studies, but with a meaningful risk of hypotension and bradycardia that mandates careful selection, dosing, and monitoring. Avoid in WPW, severe bradyarrhythmias, and decompensated HF, use cautiously in HFrEF and hepatic disease, and apply age-appropriate dose caps in the elderly to mitigate adverse events [^117PqSUM] [^115rUBz9] [^1145kaYf] [^112o8Bdt].
 
 ---
 
-Intravenous diltiazem is a **first-line agent** for acute rate control in atrial fibrillation/flutter and for rapid conversion of paroxysmal supraventricular tachycardia, with onset within 2–3 minutes and peak effect by 2–7 minutes [^54fdc089]. The standard bolus is **0.25 mg/kg IV over 2 minutes**, repeated once at 0.35 mg/kg if needed, followed by a 5–15 mg/h infusion for up to 24 hours [^9770bc04] [^d88278a1]. It is **contraindicated in hypotension, cardiogenic shock, second- or third-degree AV block, sick sinus syndrome without a pacemaker, and WPW with AF/Flutter** [^f50d0d50] [^72b32ccc]. Common adverse effects are hypotension and bradycardia; monitor ECG and blood pressure continuously during administration [^e701db60] [^fa225756]. Diltiazem is superior to digoxin and comparable to amiodarone for rapid rate control, but may cause more hypotension than beta-blockers in some settings [^dac125c8] [^9efcb795].
+Intravenous diltiazem is a **first-line agent** for acute rate control in atrial fibrillation/flutter and for rapid conversion of paroxysmal supraventricular tachycardia, with onset within 2–3 minutes and peak effect by 2–7 minutes [^113B1CAL]. The standard bolus is **0.25 mg/kg IV over 2 minutes**, repeated once at 0.35 mg/kg if needed, followed by a 5–15 mg/h infusion for up to 24 hours [^114sWzoD] [^116Xz9ex]. It is **contraindicated in hypotension, cardiogenic shock, second- or third-degree AV block, sick sinus syndrome without a pacemaker, and WPW with AF/Flutter** [^117GJMKM] [^113w3mjh]. Common adverse effects are hypotension and bradycardia; monitor ECG and blood pressure continuously during administration [^116uUmGs] [^117PqSUM]. Diltiazem is superior to digoxin and comparable to amiodarone for rapid rate control, but may cause more hypotension than beta-blockers in some settings [^116bKBFd] [^1154hvrQ].
 
 ---
 
@@ -49,8 +49,8 @@ Intravenous diltiazem is a **first-line agent** for acute rate control in atrial
 
 IV diltiazem is indicated for:
 
-- **Atrial fibrillation/flutter**: Temporary control of rapid ventricular rate [^fa225756] [^4cf23e8c].
-- **Paroxysmal supraventricular tachycardia (PSVT)**: Rapid conversion to sinus rhythm, including AV nodal reentrant tachycardia and reciprocating tachycardias [^fa225756] [^1023c307].
+- **Atrial fibrillation/flutter**: Temporary control of rapid ventricular rate [^117PqSUM] [^112y5Rib].
+- **Paroxysmal supraventricular tachycardia (PSVT)**: Rapid conversion to sinus rhythm, including AV nodal reentrant tachycardia and reciprocating tachycardias [^117PqSUM] [^111QvpCv].
 
 ---
 
@@ -58,30 +58,30 @@ IV diltiazem is indicated for:
 
 | **Indication** | **Initial bolus dose** | **Second bolus dose** | **Infusion** |
 |-|-|-|-|
-| Atrial fibrillation/flutter | 0.25 mg/kg IV over 2 minutes (≈20 mg in average adult) | 0.35 mg/kg IV over 2 minutes after 15 minutes if needed | 5–15 mg/h IV for up to 24 hours [^9770bc04] [^d88278a1] |
-| PSVT | 0.25 mg/kg IV over 2 minutes | 0.35 mg/kg IV over 2 minutes after 15 minutes if needed | 5–15 mg/h IV for up to 24 hours [^9770bc04] [^14f7b64c] |
+| Atrial fibrillation/flutter | 0.25 mg/kg IV over 2 minutes (≈20 mg in average adult) | 0.35 mg/kg IV over 2 minutes after 15 minutes if needed | 5–15 mg/h IV for up to 24 hours [^114sWzoD] [^116Xz9ex] |
+| PSVT | 0.25 mg/kg IV over 2 minutes | 0.35 mg/kg IV over 2 minutes after 15 minutes if needed | 5–15 mg/h IV for up to 24 hours [^114sWzoD] [^111Y5xTV] |
 
 ---
 
-Maximum recommended infusion rate is **15 mg/h**, and total duration should not exceed 24 hours [^9770bc04] [^d88278a1].
+Maximum recommended infusion rate is **15 mg/h**, and total duration should not exceed 24 hours [^114sWzoD] [^116Xz9ex].
 
 ---
 
 ## Pharmacokinetics
 
-- **Onset**: 2–3 minutes after bolus [^54fdc089].
-- **Peak effect**: 2–7 minutes [^54fdc089].
-- **Duration**: 1–3 hours after bolus; 0.5–10 hours after infusion (median 7 hours) [^54fdc089] [^101e3781].
-- **Half-life**: 3–5 hours (IV) [^e208d244].
-- **Metabolism**: Hepatic (CYP3A4); ~2–4% renal excretion [^14c06a5e].
+- **Onset**: 2–3 minutes after bolus [^113B1CAL].
+- **Peak effect**: 2–7 minutes [^113B1CAL].
+- **Duration**: 1–3 hours after bolus; 0.5–10 hours after infusion (median 7 hours) [^113B1CAL] [^111QtxBS].
+- **Half-life**: 3–5 hours (IV) [^116n7AYT].
+- **Metabolism**: Hepatic (CYP3A4); ~2–4% renal excretion [^111XmPC9].
 
 ---
 
 ## Clinical efficacy
 
-- **Atrial fibrillation/flutter**: Superior to digoxin and comparable to amiodarone for rapid rate control; achieves > 20% HR reduction in 83–95% of patients [^dac125c8] [^54fdc089].
-- **PSVT**: Converts 88% within 3 minutes in controlled trials [^54fdc089] [^b914aa28].
-- **Vs metoprolol**: Faster rate control but more hypotension; similar overall efficacy [^bddae922] [^9efcb795].
+- **Atrial fibrillation/flutter**: Superior to digoxin and comparable to amiodarone for rapid rate control; achieves > 20% HR reduction in 83–95% of patients [^116bKBFd] [^113B1CAL].
+- **PSVT**: Converts 88% within 3 minutes in controlled trials [^113B1CAL] [^115jPeiT].
+- **Vs metoprolol**: Faster rate control but more hypotension; similar overall efficacy [^115rUBz9] [^1154hvrQ].
 
 ---
 
@@ -89,10 +89,10 @@ Maximum recommended infusion rate is **15 mg/h**, and total duration should not 
 
 Common adverse effects include:
 
-- **Hypotension**: Most frequent; often transient [^e701db60] [^54fdc089].
-- **Bradycardia**: Especially with high doses or concomitant AV blockers [^e701db60] [^4559a8a2].
-- **Injection site reactions**: Burning, itching, flushing [^e701db60].
-- **Rare**: Heart block, asystole, ventricular arrhythmias, hepatic injury [^8aa9a833] [^55f140f2].
+- **Hypotension**: Most frequent; often transient [^116uUmGs] [^113B1CAL].
+- **Bradycardia**: Especially with high doses or concomitant AV blockers [^116uUmGs] [^112mpG8y].
+- **Injection site reactions**: Burning, itching, flushing [^116uUmGs].
+- **Rare**: Heart block, asystole, ventricular arrhythmias, hepatic injury [^114YaH5L] [^113CQyxM].
 
 ---
 
@@ -100,34 +100,34 @@ Common adverse effects include:
 
 Absolute contraindications include:
 
-- **Severe hypotension or cardiogenic shock** [^f50d0d50] [^5471d564].
-- **Second- or third-degree AV block without a pacemaker** [^f50d0d50] [^72b32ccc].
-- **Sick sinus syndrome without a pacemaker** [^f50d0d50] [^5471d564].
-- **WPW with AF/Flutter**: Risk of life-threatening acceleration [^f50d0d50] [^c8b8bad0].
-- **Ventricular tachycardia**: Risk of hemodynamic collapse [^f50d0d50].
+- **Severe hypotension or cardiogenic shock** [^117GJMKM] [^113ACCL3].
+- **Second- or third-degree AV block without a pacemaker** [^117GJMKM] [^113w3mjh].
+- **Sick sinus syndrome without a pacemaker** [^117GJMKM] [^113ACCL3].
+- **WPW with AF/Flutter**: Risk of life-threatening acceleration [^117GJMKM] [^1168aaBq].
+- **Ventricular tachycardia**: Risk of hemodynamic collapse [^117GJMKM].
 
 ---
 
 ## Precautions and monitoring
 
-- **Continuous ECG and frequent BP monitoring** are required during IV administration [^fa225756].
-- **Use with caution** in renal or hepatic impairment, elderly, or with other AV nodal blockers [^4559a8a2] [^9233356b].
-- **Drug interactions**: CYP3A4 inhibitors (e.g. macrolides, azoles) increase diltiazem levels; avoid with beta-blockers when possible due to bradycardia risk [^4559a8a2] [^078ef80d].
+- **Continuous ECG and frequent BP monitoring** are required during IV administration [^117PqSUM].
+- **Use with caution** in renal or hepatic impairment, elderly, or with other AV nodal blockers [^112mpG8y] [^114jkPmc].
+- **Drug interactions**: CYP3A4 inhibitors (e.g. macrolides, azoles) increase diltiazem levels; avoid with beta-blockers when possible due to bradycardia risk [^112mpG8y] [^111CCwEU].
 
 ---
 
 ## Special populations
 
-- **Elderly**: Start at lower doses; monitor closely for hypotension and bradycardia [^f8c505e5].
-- **Renal impairment**: No adjustment required, but monitor closely [^d546e443].
-- **Hepatic impairment**: Use caution; consider dose reduction [^fb585adb].
-- **Pregnancy**: Category C; use only if benefits outweigh risks [^b982ccae].
+- **Elderly**: Start at lower doses; monitor closely for hypotension and bradycardia [^117Mp7Cx].
+- **Renal impairment**: No adjustment required, but monitor closely [^116TCB78].
+- **Hepatic impairment**: Use caution; consider dose reduction [^117Rda2W].
+- **Pregnancy**: Category C; use only if benefits outweigh risks [^115k2eKF].
 
 ---
 
 ## Clinical guidelines
 
-Both the ACC/AHA/HRS and ESC recommend IV diltiazem as a **first-line agent** for acute rate control in hemodynamically stable patients with AF/Flutter or PSVT, with attention to contraindications and monitoring [^789212a8] [^4e0f58b3].
+Both the ACC/AHA/HRS and ESC recommend IV diltiazem as a **first-line agent** for acute rate control in hemodynamically stable patients with AF/Flutter or PSVT, with attention to contraindications and monitoring [^1145kaYf] [^112zjBxN].
 
 ---
 
@@ -137,7 +137,7 @@ IV diltiazem is effective and rapid for acute rate control in AF/Flutter and PSV
 
 ## References
 
-### Comparative safety and efficacy of a hybrid intravenous and oral diltiazem protocol for acute rate control in the emergency department [^3695d18c]. The American Journal of Emergency Medicine (2024). Medium credibility.
+### Comparative safety and efficacy of a hybrid intravenous and oral diltiazem protocol for acute rate control in the emergency department [^112PvevF]. The American Journal of Emergency Medicine (2024). Medium credibility.
 
 Study Objective
 
@@ -157,7 +157,7 @@ Results of this study demonstrated no difference in acute rate control when usin
 
 ---
 
-### Metoprolol vs diltiazem for atrial fibrillation with rapid ventricular rate: systematic review and meta-analysis of adverse events [^3178884d]. The American Journal of Emergency Medicine (2025). Medium credibility.
+### Metoprolol vs diltiazem for atrial fibrillation with rapid ventricular rate: systematic review and meta-analysis of adverse events [^112GLsyE]. The American Journal of Emergency Medicine (2025). Medium credibility.
 
 Background
 
@@ -177,19 +177,19 @@ Afib with RVR treated with metoprolol had lower rates of AE (bradycardia and/or 
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^a864365f]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^115Jeae2]. DoD/VA (2025). High credibility.
 
 Calcium channel blocker — diltiazem immediate-release dosing lists an initial dose of IR: 40mg four times daily with a dosing range of IR: 90mg four times daily, with considerations including Contraindications: Hypotension.
 
 ---
 
-### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^0b0a9e85]. Circulation (2016). Medium credibility.
+### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^111HNRyn]. Circulation (2016). Medium credibility.
 
 Calcium channel blocker — diltiazem: Diltiazem is listed with magnitude Major and level of evidence B, with the mechanism "Negative inotrope" and an onset described as immediate to intermediate.
 
 ---
 
-### Diltiazem hci [^47ab0dfa]. FDA (2024). Medium credibility.
+### Diltiazem hci [^112qFaRP]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in patients with eGFR 0–90 mL/min/1.73 m²:
 - Use with caution.
@@ -197,7 +197,7 @@ Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pati
 
 ---
 
-### Diltiazem hci [^55f140f2]. FDA (2024). Medium credibility.
+### Diltiazem hci [^113CQyxM]. FDA (2024). Medium credibility.
 
 Warnings and precautions regarding the use of diltiazem hydrochloride IV (also known as Cardizem):
 - **Drug-induced liver injury**: maintain a high level of suspicion, as diltiazem may cause acute liver injury with elevations in liver enzymes.
@@ -207,7 +207,7 @@ Warnings and precautions regarding the use of diltiazem hydrochloride IV (also k
 
 ---
 
-### Diltiazem hci [^041038de]. FDA (2024). Medium credibility.
+### Diltiazem hci [^11172QAH]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in patients with continuous renal replacement:
 
@@ -215,7 +215,7 @@ Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pati
 
 ---
 
-### Diltiazem hci [^d88278a1]. FDA (2024). Medium credibility.
+### Diltiazem hci [^116Xz9ex]. FDA (2024). Medium credibility.
 
 The dosage of diltiazem hydrochloride IV for treatment of atrial fibrillation in adults (rate control) is:
 
@@ -225,13 +225,13 @@ The dosage of diltiazem hydrochloride IV for treatment of atrial fibrillation in
 
 ---
 
-### Diltiazem hydrochloride injection, solution… [^48223f63]. FDA (DailyMed) (2025). Medium credibility.
+### Diltiazem hydrochloride injection, solution… [^112qwcVG]. FDA (DailyMed) (2025). Medium credibility.
 
 up to 15 mg/h as needed if further reduction in heart rate is required. The infusion may be maintained for up to 24 hours. Sick sinus syndrome or second- or third-degree AV block with no functioning ventricular pacemaker. Severe hypotension or cardiogenic shock. with statins metabolized by CYP3A4. When possible, use a non- CYP3A4-metabolized statin with diltiazem. Limit daily dose of simvastatin to 10 mg and diltiazem to 240 mg. CYP3A4 Substrates.
 
 ---
 
-### Hemodynamic comparison of intravenous push diltiazem versus metoprolol for atrial fibrillation rate control [^b8ebcbf0]. The American Journal of Emergency Medicine (2020). Medium credibility.
+### Hemodynamic comparison of intravenous push diltiazem versus metoprolol for atrial fibrillation rate control [^115j9vYP]. The American Journal of Emergency Medicine (2020). Medium credibility.
 
 Objective
 
@@ -251,13 +251,13 @@ IVP diltiazem and metoprolol caused similar SBP reduction and hypotension when u
 
 ---
 
-### Diltiazem hci [^e701db60]. FDA (2024). Medium credibility.
+### Diltiazem hci [^116uUmGs]. FDA (2024). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of diltiazem hydrochloride IV (also known as Cardizem) include: cardiac arrhythmias, hypotension, injection site burning, injection site itching and skin flushing.
 
 ---
 
-### Intravenous metoprolol versus diltiazem for rate control in atrial fibrillation [^6fe6de7a]. The Annals of Pharmacotherapy (2022). Medium credibility.
+### Intravenous metoprolol versus diltiazem for rate control in atrial fibrillation [^113ruAyP]. The Annals of Pharmacotherapy (2022). Medium credibility.
 
 Background
 
@@ -281,7 +281,7 @@ There was no difference in the achievement of rate control between IV metoprolol
 
 ---
 
-### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^64eed54d]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^113adz2Y]. FDA (2025). Medium credibility.
 
 3 DOSAGE FORMS AND STRENGTHS
 
@@ -297,7 +297,7 @@ Injection: Clear, colorless solution in single-dose bag for intravenous use.
 
 ---
 
-### Diltiazem hci [^fa225756]. FDA (2024). Medium credibility.
+### Diltiazem hci [^117PqSUM]. FDA (2024). Medium credibility.
 
 INDICATIONS & USAGE
 
@@ -319,13 +319,13 @@ For either indication and particularly when employing continuous intravenous inf
 
 ---
 
-### ACC / AHA / ESC 2006 guidelines for the management of patients with atrial fibrillation: a report of the American college of cardiology / American Heart Association task force on practice guidelines and the European Society of Cardiology committee for practice guidelines (writing committee to revise the 2001 guidelines for the management of patients with atrial fibrillation): developed in collaboration with the European Heart Rhythm Association and the Heart Rhythm Society [^d1dc4e9f]. Circulation (2006). Medium credibility.
+### ACC / AHA / ESC 2006 guidelines for the management of patients with atrial fibrillation: a report of the American college of cardiology / American Heart Association task force on practice guidelines and the European Society of Cardiology committee for practice guidelines (writing committee to revise the 2001 guidelines for the management of patients with atrial fibrillation): developed in collaboration with the European Heart Rhythm Association and the Heart Rhythm Society [^116N8Qpv]. Circulation (2006). Medium credibility.
 
 Atrial fibrillation — nondihydropyridine calcium channel antagonists (verapamil, diltiazem) are effective for rate control with specific use considerations. The nondihydropyridine calcium channel antagonists verapamil and diltiazem are commonly used for treatment of AF and are the only agents associated with improvement in quality of life and exercise tolerance; intravenous bolus is effective but usually requires continuous intravenous infusion, these agents should be used cautiously or avoided in HF due to systolic dysfunction, eight randomized studies found heart rate decreases with diltiazem, verapamil decreased heart rate both at rest by 8 to 23 beats per minute and during exercise by 20 to 34 beats per minute, and they may be preferred long term over beta blockers in patients with bronchospasm or chronic obstructive pulmonary disease.
 
 ---
 
-### Diltiazem hci [^14f7b64c]. FDA (2024). Medium credibility.
+### Diltiazem hci [^111Y5xTV]. FDA (2024). Medium credibility.
 
 The dosage of diltiazem hydrochloride IV for treatment of paroxysmal supraventricular tachycardia in adults is:
 
@@ -335,7 +335,7 @@ The dosage of diltiazem hydrochloride IV for treatment of paroxysmal supraventri
 
 ---
 
-### Intravenous diltiazem is superior to intravenous amiodarone or digoxin for achieving ventricular rate control in patients with acute uncomplicated atrial fibrillation [^dac125c8]. Critical Care Medicine (2009). Low credibility.
+### Intravenous diltiazem is superior to intravenous amiodarone or digoxin for achieving ventricular rate control in patients with acute uncomplicated atrial fibrillation [^116bKBFd]. Critical Care Medicine (2009). Low credibility.
 
 Objectives
 
@@ -367,7 +367,7 @@ As compared with digoxin and amiodarone, intravenous diltiazem was safe and effe
 
 ---
 
-### Intravenous metoprolol versus diltiazem for rate control in noncardiac, nonthoracic postoperative atrial fibrillation [^36e17644]. The Annals of Pharmacotherapy (2014). Low credibility.
+### Intravenous metoprolol versus diltiazem for rate control in noncardiac, nonthoracic postoperative atrial fibrillation [^112QN4a7]. The Annals of Pharmacotherapy (2014). Low credibility.
 
 Background
 
@@ -391,7 +391,7 @@ In NCNT surgery, patients with POAF, IV diltiazem more effectively controlled HR
 
 ---
 
-### Intravenous diltiazem versus metoprolol for atrial fibrillation with rapid ventricular rate: a meta-analysis [^bddae922]. The American Journal of Emergency Medicine (2022). Medium credibility.
+### Intravenous diltiazem versus metoprolol for atrial fibrillation with rapid ventricular rate: a meta-analysis [^115rUBz9]. The American Journal of Emergency Medicine (2022). Medium credibility.
 
 Background
 
@@ -411,7 +411,7 @@ Intravenous diltiazem has higher efficacy, shorter average onset time, lower ven
 
 ---
 
-### Intravenous diltiazem infusions for rapid atrial fibrillation or flutter in the emergency department: a retrospective, exploratory analysis [^3d3cf494]. Academic Emergency Medicine (2024). Medium credibility.
+### Intravenous diltiazem infusions for rapid atrial fibrillation or flutter in the emergency department: a retrospective, exploratory analysis [^112ZnihR]. Academic Emergency Medicine (2024). Medium credibility.
 
 Background
 
@@ -431,19 +431,19 @@ For patients with AF or AFL, the use of a diltiazem drip after an IV diltiazem b
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^6101e3af]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^113UpS9L]. Circulation (2016). Medium credibility.
 
 Junctional tachycardia — acute treatment recommendations — Intravenous beta blockers are reasonable for acute treatment in patients with symptomatic junctional tachycardia, and intravenous diltiazem, procainamide, or verapamil is reasonable for acute treatment in patients with junctional tachycardia.
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^0035d3b6]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1111K5do]. Circulation (2024). High credibility.
 
 Atrial fibrillation acute rate control — comparative trials report that "Intravenous diltiazem was more effective than intravenous digoxin in 2 small RCTs.6,7" In one emergency department trial, investigators "randomized 150 patients with AF without major comorbidities and a ventricular rate > 120 bpm in a 1:1:1 ratio to intravenous diltiazem, digoxin, and amiodarone.6" with "time to reduce the heart rate < 90 bpm" shorter with diltiazem. Another RCT of "30 patients" found diltiazem "significantly decreased heart rate within 5 minutes versus 3 hours with intravenous digoxin.7" Diltiazem also reduced rate "more rapidly than intravenous digoxin in a double-blinded RCT in 40 patients with rapid AF after CABG, with similar control at 12 to 24 hours". Additional evidence shows "In another RCT of 84 patients in rapid AF who presented to the emergency department, intravenous amiodarone resulted in faster control of the ventricular response compared with intravenous digoxin.8" and "Finally, 52 patients with rapid AF were randomized to receive either an intravenous combination of diltiazem and digoxin or intravenous diltiazem alone, with a more rapid and durable response to the combination.9"
 
 ---
 
-### Diltiazem hci [^9770bc04]. FDA (2024). Medium credibility.
+### Diltiazem hci [^114sWzoD]. FDA (2024). Medium credibility.
 
 DOSAGE & ADMINISTRATION
 
@@ -457,7 +457,7 @@ For continued reduction of the heart rate (up to 24 hours) in patients with atri
 
 ---
 
-### Diltiazem hydrochloride (Tiadylt er) [^6e564870]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (Tiadylt er) [^113pacvj]. FDA (2025). Medium credibility.
 
 Pharmacokinetics and Metabolism
 
@@ -467,7 +467,7 @@ The two primary metabolites of diltiazem are desacetyldiltiazem and desmethyldil
 
 ---
 
-### Diltiazem hci [^fd3c4108]. FDA (2024). Medium credibility.
+### Diltiazem hci [^117US799]. FDA (2024). Medium credibility.
 
 The dosage of diltiazem hydrochloride IV for treatment of atrial flutter in adults (rate control) is:
 
@@ -477,13 +477,13 @@ The dosage of diltiazem hydrochloride IV for treatment of atrial flutter in adul
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^fae56faf]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^117QxyEN]. Circulation (2024). High credibility.
 
 Atrial fibrillation with heart failure — rate control pharmacotherapy: In RATE-AF, 160 patients (≥ 60 years) with persistent AF and HF (81% with LVEF ≥ 50%) were randomized to digoxin or bisoprolol; there was no significant difference in the primary QOL endpoint at 6 months, secondary outcomes (including natriuretic peptides) were lower with digoxin, resting heart rate did not differ at 12 months, and adverse effects were less common with digoxin. Post hoc analyses in HF on chronic digoxin associated serum digoxin levels ≥ 1 ng/mL with increased mortality and hospitalization, whereas levels < 0.8 ng/mL were associated with the lowest mortality rate. In DAAF, among 239 patients (12% with HF), intravenous digoxin significantly decreased heart rate at 2 hours versus placebo. In critically ill patients, a randomized trial of 60 patients (13 with HF) showed significant rate control with both intravenous diltiazem and amiodarone, with a higher frequency of hypotension requiring discontinuation with diltiazem; a retrospective intensive care unit series of 38 patients (9 with HF) found intravenous amiodarone lowered ventricular rate without BP decrease compared with intravenous diltiazem and digoxin. The text cautions that intravenous beta blockers may cause hypotension in hemodynamic instability, that intravenous amiodarone can also be associated with hypotension (especially with bolus), and that the possibility of conversion to sinus rhythm and thromboembolism should factor into risk–benefit decisions when choosing intravenous amiodarone for rate control.
 
 ---
 
-### Acute rate control with metoprolol versus diltiazem in atrial fibrillation with heart failure with reduced ejection fraction [^049bcfa9]. The American Journal of Emergency Medicine (2023). Medium credibility.
+### Acute rate control with metoprolol versus diltiazem in atrial fibrillation with heart failure with reduced ejection fraction [^1117qHaG]. The American Journal of Emergency Medicine (2023). Medium credibility.
 
 Objective
 
@@ -503,7 +503,7 @@ Our study provides further evidence that short term use of diltiazem is likely a
 
 ---
 
-### Diltiazem hci [^d546e443]. FDA (2024). Medium credibility.
+### Diltiazem hci [^116TCB78]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in patients with intermittent hemodialysis:
 
@@ -511,7 +511,7 @@ Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pati
 
 ---
 
-### Diltiazem hci [^fb585adb]. FDA (2024). Medium credibility.
+### Diltiazem hci [^117Rda2W]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in patients with chronic liver disease, any severity:
 
@@ -519,7 +519,7 @@ Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pati
 
 ---
 
-### Comparison of sustained rate control in atrial fibrillation with rapid ventricular rate: metoprolol vs. diltiazem [^f97d3bb0]. The American Journal of Emergency Medicine (2021). Medium credibility.
+### Comparison of sustained rate control in atrial fibrillation with rapid ventricular rate: metoprolol vs. diltiazem [^117Nsyuh]. The American Journal of Emergency Medicine (2021). Medium credibility.
 
 Objective
 
@@ -539,13 +539,13 @@ Choice of rate control agent for acute management of AF with RVR did not signifi
 
 ---
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^020ca1a4]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^11143DeK]. Circulation (2025). High credibility.
 
 Adult advanced life support — diltiazem and verapamil for regular narrow-complex tachycardia: IV diltiazem and verapamil convert NCT to normal sinus rhythm in 64% to 98% of patients, the efficacy of verapamil is similar to adenosine but with significant concerns for inducing hypotension, these medications are longer acting and useful after adenosine for recurrent supraventricular tachycardia, hypotension is a common side effect and these medications must be infused slowly, and for patients with NCT and suspicion of systolic heart failure, diltiazem and verapamil are best avoided.
 
 ---
 
-### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^de74b184]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^116goSw5]. FDA (2025). Medium credibility.
 
 12.2 Pharmacodynamics
 
@@ -555,19 +555,19 @@ In patients with cardiovascular disease, diltiazem hydrochloride administered in
 
 ---
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^651f87e6]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^113avLjX]. Circulation (2025). High credibility.
 
 AHA 2025 Adult Advanced Life Support — acute rate control strategy selection in atrial fibrillation/flutter: Nondihydropyridine calcium channel antagonists and β-adrenergic blockers are reported as effective for rate control, and systematic reviews show that IV diltiazem improves heart rate control when compared to IV metoprolol. Amiodarone is effective for rate control without preexcitation when there are contraindications to these agents, whereas digoxin is less commonly used in the acute setting because of the slow onset of effect. In an observational study, optimal amiodarone dosing for heart rate control was examined in 80 critically ill patients, most with cardiogenic shock or sepsis. In atrial fibrillation or flutter with concomitant preexcitation after AV nodal blocking agents, cardioversion is recommended as the most appropriate management. Because of negative inotropic effects, nondihydropyridine calcium channel antagonists may further decompensate patients with left ventricular systolic dysfunction and symptomatic heart failure, though patients with heart failure with preserved ejection fraction may tolerate them better; β-blockers can be safe in cardiomyopathy but harmful in decompensated patients. Limited evidence suggests that intravenous diltiazem may cause increased risk of decompensation compared to intravenous β-adrenergic blockers, and multiple studies have demonstrated β-adrenergic blockers are safe for use in patients with chronic obstructive pulmonary disease.
 
 ---
 
-### Diltiazem hci [^b982ccae]. FDA (2024). Medium credibility.
+### Diltiazem hci [^115k2eKF]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pregnant patients for all trimesters: use only if benefits outweigh potential risks. Evidence of fetal harm in animals. The drug diltiazem hydrochloride IV (also known as Cardizem) is classified under category C in the Australian categorisation system for prescribing medicines in pregnancy. This drug, owing to its pharmacological effects, has caused or may be suspected of causing harmful effects on the human fetus or neonate, without causing malformations. These effects may be reversible.
 
 ---
 
-### DOsing strategy effectiveness of diltiazem in atrial fibrillation with rapid ventricular response [^ecefca4b]. Annals of Emergency Medicine (2023). Medium credibility.
+### DOsing strategy effectiveness of diltiazem in atrial fibrillation with rapid ventricular response [^1174Gczn]. Annals of Emergency Medicine (2023). Medium credibility.
 
 Study Objective
 
@@ -587,13 +587,13 @@ This study shows dose-dependent hemodynamic effects with diltiazem in patients w
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^ef0c5754]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^1177QBn3]. Circulation (2016). Medium credibility.
 
 Regarding medical management for atrial flutter, more specifically with respect to rate control, acute, ACC/AHA/HRS 2016 guidelines recommend to administer IV or oral β-blockers, diltiazem, or verapamil for acute rate control in hemodynamically stable patients with atrial flutter.
 
 ---
 
-### Diltiazem hydrochloride [^14c06a5e]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride [^111XmPC9]. FDA (2025). Medium credibility.
 
 Pharmacokinetics and Metabolism
 
@@ -605,7 +605,7 @@ In vitro binding studies show diltiazem hydrochloride is 70% to 80% bound to pla
 
 ---
 
-### Highlights of prescribing information… [^101e3781]. FDA (DailyMed) (2021). Medium credibility.
+### Highlights of prescribing information… [^111QtxBS]. FDA (DailyMed) (2021). Medium credibility.
 
 DILTIAZEM HYDROCHLORIDE- diltiazem hydrochloride injection, solution Exela Pharma Sciences, LLC ----------. These metabolites are also observed following 24-hour constant rate intravenous infusion. The systemic clearance of diltiazem has been found to be decreased in patients with atrial fibrillation or atrial flutter, compared to healthy volunteers. In patients administered continuous infusions at 10 mg/h or 15 mg/h for 24 h, diltiazem systemic clearance averaged 42 L/h and 31 L/h, respectively. The plasma elimination half-life is approximately 3. 4 h. Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 h compared to 2 to 5 h for diltiazem.
 
@@ -617,7 +617,7 @@ A 24-hour continuous infusion of diltiazem injection in the treatment of atrial 
 
 ---
 
-### Adenosine versus fixed-dose intravenous bolus diltiazem on reversing supraventricular tachycardia in the emergency department: a multi-center cohort study [^f47c4082]. The Journal of Emergency Medicine (2025). Medium credibility.
+### Adenosine versus fixed-dose intravenous bolus diltiazem on reversing supraventricular tachycardia in the emergency department: a multi-center cohort study [^117FTiPK]. The Journal of Emergency Medicine (2025). Medium credibility.
 
 Background
 
@@ -641,25 +641,25 @@ This study showed that diltiazem and adenosine had similar conversion rates. In 
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^4fe0c2d4]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1133RWxj]. Circulation (2024). High credibility.
 
 Intravenous magnesium and rate-control agents — evidence in AF with rapid ventricular response: A meta-analysis including '6 RCTs (n = 745 patients)' reported intravenous magnesium superior for rate control '(63% versus 40%; OR, 2.49 [95% CI, 1.80–3.45])' and modestly effective for rhythm conversion '(21% versus 14%; OR, 1.75 [95% CI, 1.08–2.84])' versus standard methods, with subgroup results favoring a lower dose '(≤ 5 g) (24% versus 13%; OR, 2.10 [95% CI, 1.22–3.61])' over a higher dose '(> 5 g) (16% versus 13%; OR, 1.23 [95% CI, 0.65–2.32])' for rhythm control compared with placebo. In critically ill patients, a retrospective series 'of 38 patients' found intravenous amiodarone decreased heart rate without BP decrease versus intravenous diltiazem and digoxin, and a study of '60 critically ill patients' randomized to diltiazem 'a 25-mg bolus followed by a continuous infusion of 20 mg/h for 24 hours', amiodarone 'a 300-mg bolus', or amiodarone 'a 300-mg bolus followed by 45 mg/h for 24 hours' showed a ' > 30% rate reduction within 4 hours' was not different, with diltiazem achieving better 24-hour rate control but more hypotension requiring discontinuation. In HFrEF populations, retrospective analyses associated diltiazem with increased acute kidney injury within 48 hours when 'LVEF ≤ 50%' compared with normal EF '(10% versus 3.6%; P = 0.002)' and with a higher incidence of worsening HF symptoms '(33% versus 15%; P = 0.019)', while 'Neither analysis noted an increase in the in-hospital mortality rate, need for a higher level of care, or hypotension'.
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^c8b8bad0]. Heart Rhythm (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^1168aaBq]. Heart Rhythm (2016). Medium credibility.
 
 Orthodromic atrioventricular reentrant tachycardia (AVRT) — acute pharmacologic management: In patients with orthodromic AVRT who have pre-excitation on their resting ECG and have not responded to other therapies, intravenous beta blockers, diltiazem, or verapamil "might be considered" for acute treatment; however, in patients with pre-excited atrial fibrillation (AF), intravenous digoxin, intravenous amiodarone, and intravenous or oral beta blockers, diltiazem, and verapamil "are potentially harmful" for acute treatment.
 
 ---
 
-### 2014 AHA / ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes: a report of the American college of cardiology / American Heart Association task force on practice guidelines [^0b9d0d1c]. Journal of the American College of Cardiology (2014). Low credibility.
+### 2014 AHA / ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes: a report of the American college of cardiology / American Heart Association task force on practice guidelines [^111JDchq]. Journal of the American College of Cardiology (2014). Low credibility.
 
 The drug Diltiazem hydrochloride (also known as Cardizem).
 
 ---
 
-### Diltiazem hci [^3b02a27b]. FDA (2024). Medium credibility.
+### Diltiazem hci [^112WV9xN]. FDA (2024). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in patients with peritoneal dialysis:
 
@@ -667,7 +667,7 @@ Regarding the use of diltiazem hydrochloride IV (also known as Cardizem) in pati
 
 ---
 
-### Diltiazem hydrochloride (Cardizem) [^fcef1362]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (Cardizem) [^117TzBay]. FDA (2025). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in patients with eGFR 0–90 mL/min/1.73 m²:
 - Use with caution.
@@ -675,7 +675,7 @@ Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in pati
 
 ---
 
-### Amiodarone versus diltiazem for rate control in critically ill patients with atrial tachyarrhythmias [^52d50821]. Critical Care Medicine (2001). Low credibility.
+### Amiodarone versus diltiazem for rate control in critically ill patients with atrial tachyarrhythmias [^1137oYJU]. Critical Care Medicine (2001). Low credibility.
 
 Objective
 
@@ -707,13 +707,13 @@ Sufficient rate control can be achieved in critically ill patients with atrial t
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^4559a8a2]. Heart Rhythm (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112mpG8y]. Heart Rhythm (2016). Medium credibility.
 
 Acute drug therapy for SVT, nondihydropyridine calcium channel antagonist diltiazem — IV dosing, effects, and precautions: The initial dose is "0.25–mg/kg IV bolus over 2 min", with maintenance "Infusion at 5–10 mg/h, up to 15 mg/h". Adverse effects include "Hypotension, worsening HF in patients with pre-existing ventricular dysfunction, bradycardia, abnormal liver function studies, acute hepatic injury (rare)". Use with caution/avoid in "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)… WPW with AF/atrial flutter… Hypotension… Decompensated systolic HF/LV dysfunction… Drugs with SA and/or AV nodal–blocking properties… Hepatic or renal dysfunction", and note that "Diltiazem is a substrate of CYP3A4 (major) and a moderate CYP3A4 inhibitor".
 
 ---
 
-### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^b914aa28]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^115jPeiT]. FDA (2025). Medium credibility.
 
 14 CLINICAL STUDIES
 
@@ -731,7 +731,7 @@ In controlled clinical trials, therapy with antiarrhythmic agents to maintain re
 
 ---
 
-### Impact of intravenous calcium with diltiazem for atrial fibrillation / flutter in the emergency department [^dabd5095]. The American Journal of Emergency Medicine (2023). Medium credibility.
+### Impact of intravenous calcium with diltiazem for atrial fibrillation / flutter in the emergency department [^116bHtap]. The American Journal of Emergency Medicine (2023). Medium credibility.
 
 Objective
 
@@ -751,7 +751,7 @@ In the setting of AF/AFL with RVR, administration of IV calcium with IV diltiaze
 
 ---
 
-### Highlights of prescribing information… [^40c7b64b]. FDA (DailyMed) (2025). Medium credibility.
+### Highlights of prescribing information… [^112f3Hjx]. FDA (DailyMed) (2025). Medium credibility.
 
 These metabolites are also observed following 24-hour constant rate intravenous infusion. The systemic clearance of diltiazem has been found to be decreased in patients with atrial fibrillation or atrial flutter, compared to healthy volunteers. In patients administered continuous infusions at 10 mg/h or 15 mg/h for 24 h, diltiazem systemic clearance averaged 42 L/h and 31 L/h, respectively. The plasma elimination half-life is approximately 3. 4 h. Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 h compared to 2 to 5 h for diltiazem. After constant rate intravenous infusion to healthy male volunteers, diltiazem exhibits nonlinear pharmacokinetics over an infusion range of 4. 8 to
 13. 2 mg/h for 24 h.
@@ -763,7 +763,7 @@ Upon discontinuation of infusion, heart rate reduction may last from 0. 5 hours 
 
 ---
 
-### Diltiazem hydrochloride (Cardizem) [^74b8608a]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (Cardizem) [^113z3VeR]. FDA (2025). Medium credibility.
 
 The effectiveness of intravenous calcium administration to reverse the pharmacological effects of diltiazem overdose has been inconsistent. In a few reported cases, overdose with calcium channel blockers associated with hypotension and bradycardia that was initially refractory to atropine became more responsive to atropine after the patients received intravenous calcium. In some cases intravenous calcium has been administered (1 g calcium chloride or 3 g calcium gluconate) over 5 minutes and repeated every 10 to 20 minutes as necessary. Calcium gluconate has also been administered as a continuous infusion at a rate of 2 g per hour for 10 hours. Infusions of calcium for 24 hours or more may be required. Patients should be monitored for signs of hypercalcemia.
 
@@ -781,7 +781,7 @@ Actual treatment and dosage should depend on the severity of the clinical situat
 
 ---
 
-### Diltiazem hci [^f50d0d50]. FDA (2024). Medium credibility.
+### Diltiazem hci [^117GJMKM]. FDA (2024). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -805,7 +805,7 @@ Patients with ventricular tachycardia. Administration of other calcium channel b
 
 ---
 
-### Safety of diltiazem for acute management of atrial fibrillation (AF) in patients with heart failure and reduced ejection fraction in the emergency department [^ea53974a]. The Journal of Emergency Medicine (2024). Medium credibility.
+### Safety of diltiazem for acute management of atrial fibrillation (AF) in patients with heart failure and reduced ejection fraction in the emergency department [^116zQBRj]. The Journal of Emergency Medicine (2024). Medium credibility.
 
 Background
 
@@ -829,7 +829,7 @@ The development of worsening heart failure is multifactorial and may include the
 
 ---
 
-### Evaluating the concomitant use of diltiazem or verapamil with direct oral anticoagulants: a meta-analysis [^526fa544]. The Annals of Pharmacotherapy (2025). Medium credibility.
+### Evaluating the concomitant use of diltiazem or verapamil with direct oral anticoagulants: a meta-analysis [^1137DV95]. The Annals of Pharmacotherapy (2025). Medium credibility.
 
 Background
 
@@ -853,25 +853,25 @@ This meta-analysis found that the concomitant therapy of DOACs with diltiazem/ve
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^772efc22]. Heart Rhythm (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^1143hJsj]. Heart Rhythm (2016). Medium credibility.
 
 ACC/AHA/HRS SVT guideline — Acute treatment of supraventricular tachycardia (SVT) of unknown mechanism: Synchronized cardioversion is recommended for acute treatment in patients with hemodynamically stable SVT when pharmacological therapy is ineffective or contraindicated (Class I, B-NR). Intravenous diltiazem or verapamil can be effective for acute treatment in patients with hemodynamically stable SVT and have been shown to terminate SVT in 64% to 98% of patients; a slow infusion of either drug up to 20 minutes may lessen the potential for hypotension, and these drugs should be used only in hemodynamically stable patients, not in tachycardia due to VT or pre-excited AF and not in suspected acute heart failure. Intravenous beta blockers are reasonable for acute treatment in patients with hemodynamically stable SVT (Class IIa, C-LD).
 
 ---
 
-### 2023 HRS expert consensus statement on the management of arrhythmias during pregnancy [^46184a5b]. Heart Rhythm (2023). High credibility.
+### 2023 HRS expert consensus statement on the management of arrhythmias during pregnancy [^112nvHwg]. Heart Rhythm (2023). High credibility.
 
 Calcium channel blocker in pregnancy — diltiazem (maternal IV or PO) has a loading regimen of "0.25 mg/kg IV over 2 min, repeat 0.35 mg/kg, then 5–15 mg/h IV infusion (start immediately after bolus)" and oral maintenance "XR 180–360 mg PO Q day". Reported maternal effects include "CNS + +, potent vasodilator + +, hypotension, bradycardia, uterine muscle relaxant", and fetal/neonatal information notes "Embryotoxic, fetal demise, hypocontractility, M/F serum:breast milk = 1:1".
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^75db9e83]. Heart Rhythm (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^1141jKVt]. Heart Rhythm (2016). Medium credibility.
 
 Adult congenital heart disease (ACHD) with supraventricular tachycardia (SVT) — acute treatment recommendations: I (C-LD): Acute antithrombotic therapy is recommended in ACHD patients who have AT or atrial flutter to align with recommended antithrombotic therapy for patients with AF. I (B-NR): Synchronized cardioversion is recommended for acute treatment in ACHD patients and SVT who are hemodynamically unstable. I (C-LD): Intravenous diltiazem or verapamil (with extra caution used for either agent, observing for the development of hypotension) is recommended for acute treatment in ACHD patients and SVT who are hemodynamically stable. I (B-NR): Intravenous adenosine is recommended for acute treatment in ACHD patients and SVT.
 
 ---
 
-### Diltiazem hci [^9abdd1de]. FDA (2024). Medium credibility.
+### Diltiazem hci [^114xQrPP]. FDA (2024). Medium credibility.
 
 NOTE: Diltiazem hydrochloride for injection at a concentration of 1 mg/mL diluted in normal saline was infused in the same intravenous line and was found to be compatible with the following drugs: aminophylline, ampicillin sodium, ampicillin sodium/sulbactam sodium, cefamandole, hydrocortisone sodium succinate, regular insulin (100 units/mL), methylprednisolone sodium succinate, mezlocillin sodium, nafcillin sodium and sodium bicarbonate.
 
@@ -885,13 +885,13 @@ Experience in the use of antiarrhythmic agents following maintenance infusion of
 
 ---
 
-### 2019 ESC guidelines for the management of patients with supraventricular tachycardiaThe task force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC) [^4e0f58b3]. European Heart Journal (2020). High credibility.
+### 2019 ESC guidelines for the management of patients with supraventricular tachycardiaThe task force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC) [^112zjBxN]. European Heart Journal (2020). High credibility.
 
 Regarding medical management for atrial flutter, more specifically with respect to rate control, acute, ESC 2020 guidelines recommend to consider administering IV β-blockers or nondihydropyridine CCBs (verapamil or diltiazem) for control of rapid ventricular rate in hemodynamically stable patients with macroreentrant atrial arrhythmia.
 
 ---
 
-### Evaluation of metoprolol versus diltiazem for rate control of atrial fibrillation in the emergency department [^9efcb795]. The American Journal of Emergency Medicine (2021). Medium credibility.
+### Evaluation of metoprolol versus diltiazem for rate control of atrial fibrillation in the emergency department [^1154hvrQ]. The American Journal of Emergency Medicine (2021). Medium credibility.
 
 Objective
 
@@ -911,19 +911,19 @@ There was no difference in acute rate control effectiveness two hours after the 
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^93077204]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^114kygUT]. Circulation (2016). Medium credibility.
 
 Acute treatment of suspected focal atrial tachycardia — algorithm: The flow begins with "Suspected focal atrial tachycardia" and evaluates "Hemodynamically stable"; "No" leads to "Cardioversion* (Class I)". If stable, it asks "Diagnosis of focal atrial tachycardia established"; if "Yes", treat with "IV beta blocker, IV diltiazem, or IV verapamil (Class I)" and then "IV amiodarone or IV ibutilide (Class IIb)". If the diagnosis is not established, use "IV adenosine (Class IIa)" and, if "If ineffective or not feasible", perform "Cardioversion* (Class I)". The figure cautions "For rhythms that break or recur spontaneously, synchronized cardioversion is not appropriate. IV indicates intravenous".
 
 ---
 
-### The Society of Thoracic Surgeons practice guideline on the prophylaxis and management of atrial fibrillation associated with general thoracic surgery: executive summary [^b7dce965]. The Annals of Thoracic Surgery (2011). Medium credibility.
+### The Society of Thoracic Surgeons practice guideline on the prophylaxis and management of atrial fibrillation associated with general thoracic surgery: executive summary [^115hawH6]. The Annals of Thoracic Surgery (2011). Medium credibility.
 
 General thoracic surgery (GTS) postoperative atrial fibrillation — calcium-channel blocker prophylaxis (diltiazem): Class IIa recommendation: Diltiazem prophylaxis is reasonable in most patients undergoing major pulmonary resection who are not taking a β-blocker preoperatively, though hypotension may develop and dose reduction or other pressure-elevating therapies may be required (Level of evidence B). Several randomized trials show the incidence of atrial fibrillation is reduced by approximately one half: 10.6% versus 21.5% (relative risk 0.50; 95% confidence interval: 0.34 to 0.73), and because diltiazem has a far lower rate of hypotension than verapamil, diltiazem is the recommended calcium-blocking agent. Although the only placebo-controlled diltiazem study used an IV load and 24-hour infusion followed by oral therapy, it may be reasonable to administer prophylactic diltiazem orally alone; oral diltiazem begun in the recovery room is reasonable after lung resection at 30 to 60 mg every 6 hours, and orders should include "hold parameters". These data come from a meta-analysis that included 11 studies, with trials collectively including more than 1,300 participants.
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^80b927e7]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^114HqcCW]. Circulation (2016). Medium credibility.
 
 Regarding medical management for supraventricular tachyarrhythmias, more specifically with respect to acute management, ACC/AHA/HRS 2016 guidelines recommend to consider administering IV formulations of the following medications for acute management of patients with hemodynamically stable SVT:
 
@@ -933,7 +933,7 @@ Regarding medical management for supraventricular tachyarrhythmias, more specifi
 
 ---
 
-### Evaluation of the blood pressure effects of diltiazem versus metoprolol in the acute treatment of atrial fibrillation with rapid ventricular rate [^3b43df01]. The American Journal of Emergency Medicine (2021). Medium credibility.
+### Evaluation of the blood pressure effects of diltiazem versus metoprolol in the acute treatment of atrial fibrillation with rapid ventricular rate [^112Ws4s2]. The American Journal of Emergency Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -953,7 +953,7 @@ No significant difference was observed in the blood pressure effects of diltiaze
 
 ---
 
-### Diltiazem hydrochloride (diltiazem hydrochloride extended-release) [^615df647]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (diltiazem hydrochloride extended-release) [^113VMMs4]. FDA (2025). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -961,7 +961,7 @@ Diltiazem hydrochloride is contraindicated in (1) patients with sick sinus syndr
 
 ---
 
-### Metoprolol vs. diltiazem in the acute management of atrial fibrillation in patients with heart failure with reduced ejection fraction [^f64ecc55]. The American Journal of Emergency Medicine (2019). Medium credibility.
+### Metoprolol vs. diltiazem in the acute management of atrial fibrillation in patients with heart failure with reduced ejection fraction [^117JARSL]. The American Journal of Emergency Medicine (2019). Medium credibility.
 
 Objective
 
@@ -981,7 +981,7 @@ For the acute management of AF with RVR in patients with HFrEF, IVP diltiazem ac
 
 ---
 
-### Critical care management of verapamil and diltiazem overdose with a focus on vasopressors: a 25-year experience at a single center [^e03a2522]. Annals of Emergency Medicine (2013). Low credibility.
+### Critical care management of verapamil and diltiazem overdose with a focus on vasopressors: a 25-year experience at a single center [^116jRkt9]. Annals of Emergency Medicine (2013). Low credibility.
 
 Study Objective
 
@@ -1001,7 +1001,7 @@ In our series of patients admitted with verapamil or diltiazem overdose, hypoten
 
 ---
 
-### Evaluation of diltiazem dosing strategies in the management of atrial fibrillation in the emergency department [^1e91b23f]. The American Journal of Emergency Medicine (2025). Medium credibility.
+### Evaluation of diltiazem dosing strategies in the management of atrial fibrillation in the emergency department [^111nKZr6]. The American Journal of Emergency Medicine (2025). Medium credibility.
 
 Objective
 
@@ -1021,13 +1021,13 @@ Initiating immediate-release oral diltiazem after an initial IV bolus does not r
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^f2803350]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^117CX4k7]. Circulation (2024). High credibility.
 
 Recommendation-specific supportive evidence — randomized trials of acute rate control report the following quantitative results: In a randomized, double-blind, placebo-controlled trial of continuous intravenous diltiazem infusion for 24-hour heart rate control during AF and AFL, seventeen of the 23 patients (74%) receiving diltiazem infusion and none of the 21 with placebo infusion maintained a therapeutic response for 24 hours. In another randomized clinical trial of intravenous diltiazem, digoxin, or amiodarone for ventricular rate control, at 24 hours, rate control was achieved in 119 of 150 patients (79%), and the percentage who achieved rate control was higher in the diltiazem group (90%) than the digoxin group (74%) and the amiodarone group (74%). In a randomized, parallel, open-label study of esmolol versus verapamil in acute AF or AFL, fifty percent of esmolol-treated patients with new onset of arrhythmias converted to sinus rhythm, whereas only 12% of those who received verapamil converted, with mild hypotension observed in both treatment groups.
 
 ---
 
-### Diltiazem hci [^54fdc089]. FDA (2024). Medium credibility.
+### Diltiazem hci [^113B1CAL]. FDA (2024). Medium credibility.
 
 In domestic controlled trials in patients with atrial fibrillation or atrial flutter, bolus administration of diltiazem hydrochloride injection was effective in reducing heart rate by at least 20% in 95% of patients. Diltiazem hydrochloride injection rarely converts atrial fibrillation or atrial flutter to normal sinus rhythm. Following administration of one or two intravenous bolus doses of diltiazem hydrochloride injection, response usually occurs within 3 minutes and maximal heart rate reduction generally occurs in 2 to 7 minutes. Heart rate reduction may last from 1 to 3 hours. If hypotension occurs, it is generally short-lived, but may last from 1 to 3 hours.
 
@@ -1041,7 +1041,7 @@ Symptoms associated with the arrhythmia were improved in conjunction with decrea
 
 ---
 
-### Diltiazem hci [^4cf23e8c]. FDA (2024). Medium credibility.
+### Diltiazem hci [^112y5Rib]. FDA (2024). Medium credibility.
 
 Labeled indications for Diltiazem hydrochloride (also known as Cardizem) include:
 
@@ -1051,13 +1051,13 @@ Labeled indications for Diltiazem hydrochloride (also known as Cardizem) include
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^f31c6809]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^117DRXt4]. Circulation (2016). Medium credibility.
 
 Supraventricular tachycardia (SVT) of unknown mechanism — acute treatment: I B-R vagal maneuvers are recommended for acute treatment in patients with regular SVT; I B-R adenosine is recommended for acute treatment in patients with regular SVT; I B-NR synchronized cardioversion is recommended for acute treatment in patients with hemodynamically unstable SVT when vagal maneuvers or adenosine are ineffective or not feasible and is recommended for acute treatment in patients with hemodynamically stable SVT when pharmacological therapy is ineffective or contraindicated; IIa B-R intravenous diltiazem or verapamil can be effective for acute treatment in patients with hemodynamically stable SVT; IIa C-LD intravenous beta blockers are reasonable for acute treatment in patients with hemodynamically stable SVT.
 
 ---
 
-### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^1023c307]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE) [^111QvpCv]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -1076,7 +1076,7 @@ Diltiazem Hydrochloride in Sodium Chloride Injection is indicated in adults for 
 
 ---
 
-### Diltiazem (diltiazem hydrochloride) [^5471d564]. FDA (2010). Low credibility.
+### Diltiazem (diltiazem hydrochloride) [^113ACCL3]. FDA (2010). Low credibility.
 
 CONTRAINDICATIONS
 
@@ -1090,7 +1090,7 @@ admission.
 
 ---
 
-### Diltiazem to treat sinus tachycardia in critically ill patients: a four-year experience [^1bd4e3ca]. Critical Care Medicine (2001). Low credibility.
+### Diltiazem to treat sinus tachycardia in critically ill patients: a four-year experience [^111iGB37]. Critical Care Medicine (2001). Low credibility.
 
 Objectives
 
@@ -1122,13 +1122,13 @@ Diltiazem was effective in achieving short-term control of heart rate in 56% of 
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^f8c505e5]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^117Mp7Cx]. Academic Emergency Medicine (2012). Medium credibility.
 
 Cardiovascular — Tachycardia with a pulse, irregular narrow complex tachycardia — stable (atrial fibrillation (A-FIB), atrial flutter, multifocal atrial tachycardia): Diltiazem 0.25 mg/kg slowly IV over 2 minutes; after 15 minutes, a second dose of diltiazem 0.35 mg/kg IV may be given if needed; for patients older than 65 years old, recommend maximum initial dose of diltiazem 10 mg IV and a maximum second dose of 20 mg; metoprolol 5 mg IV given over 1–2 minutes and may be repeated as needed q 5 minutes for a total of 3 doses.
 
 ---
 
-### Acute management of atrial fibrillation in congestive heart failure with reduced ejection fraction in the emergency department [^c940f894]. The American Journal of Emergency Medicine (2022). Medium credibility.
+### Acute management of atrial fibrillation in congestive heart failure with reduced ejection fraction in the emergency department [^1169NLP5]. The American Journal of Emergency Medicine (2022). Medium credibility.
 
 Introduction
 
@@ -1148,7 +1148,7 @@ In HFrEF patients with AF, there was no difference in total adverse events in pa
 
 ---
 
-### Implementation of an intravenous sotalol initiation protocol: implications for feasibility, safety, and length of stay [^9740c7f3]. Journal of Cardiovascular Electrophysiology (2023). Medium credibility.
+### Implementation of an intravenous sotalol initiation protocol: implications for feasibility, safety, and length of stay [^114sEtbC]. Journal of Cardiovascular Electrophysiology (2023). Medium credibility.
 
 3 | RESULTS
 
@@ -1160,13 +1160,13 @@ Almost all patients undergoing IV and oral sotalol initiation were on AV nodal b
 
 ---
 
-### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^789212a8]. Circulation (2025). High credibility.
+### Part 9: adult advanced life support: 2025 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care [^1145kaYf]. Circulation (2025). High credibility.
 
 AHA 2025 Adult Advanced Life Support — intravenous (IV) medications for acute rate control in atrial fibrillation/flutter: Diltiazem 0.25 mg/kg IV bolus over 2 min, then 5–10 mg/h; avoid in hypotension, heart failure, cardiomyopathy, and acute coronary syndromes. Verapamil 0.075–0.15 mg/kg IV bolus over 2 min; may give an additional dose after 30 min if no response; infusion 0.005 mg/kg per min; avoid in hypotension, heart failure, cardiomyopathy, and acute coronary syndromes. Metoprolol 2.5–5 mg IV over 2 min, up to 3 doses; avoid in decompensated heart failure. Esmolol 500 mcg/kg IV over 1 min; infusion 50–300 mcg/kg per min; short duration of action; avoid in decompensated heart failure. Propranolol 1 mg IV over 1 min, up to 3 doses; avoid in decompensated heart failure. Amiodarone 300 mg IV over 1 h; infusion 10–50 mg/h over 24 h; multiple dosing schemes exist for amiodarone. Digoxin 0.25 mg IV, repeated to maximum dose 1.5 mg over 24 h; typically used as adjunctive therapy; caution in renal impairment.
 
 ---
 
-### What is the best agent for rate control of atrial fibrillation with rapid ventricular response? [^ec29167e]. The Journal of Emergency Medicine (2022). Medium credibility.
+### What is the best agent for rate control of atrial fibrillation with rapid ventricular response? [^11737sxq]. The Journal of Emergency Medicine (2022). Medium credibility.
 
 Background
 
@@ -1186,7 +1186,7 @@ Based upon the available literature, diltiazem likely achieves rate control fast
 
 ---
 
-### Diltiazem hydrochloride (Cardizem) [^b882959e]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (Cardizem) [^115iYaqs]. FDA (2025). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in patients with intermittent hemodialysis:
 
@@ -1194,31 +1194,31 @@ Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in pati
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^078ef80d]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111CCwEU]. Journal of the American College of Cardiology (2025). High credibility.
 
 Table 13 — FDA-approved drugs for treatment of hypertension — Calcium channel blockers (CCB), non-dihydropyridines, list dosing and key cautions. Diltiazem ER 120–360 mg/d (daily frequency 1) states, Avoid routine use with beta blockers because of increased risk of bradycardia and heart block. Verapamil IR 120–360 mg/d (daily frequency 3) adds, Do not use in patients with HFrEF. Verapamil SR 120–360 mg/d (daily frequency 1 or 2) notes, There are drug interactions with diltiazem and verapamil (CYP3A4 major substrate and moderate inhibitor). Verapamil-delayed onset ER 100–300 mg/d has daily frequency 1 (in the evening).
 
 ---
 
-### 2022 ACC / AHA guideline for the diagnosis and management of aortic Disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^406fa5d7]. Journal of the American College of Cardiology (2022). High credibility.
+### 2022 ACC / AHA guideline for the diagnosis and management of aortic Disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^112eXi7Q]. Journal of the American College of Cardiology (2022). High credibility.
 
 Acute aortic syndrome (AAS) — initial medical management is achieved with anti-impulse therapy using a combination of intravenous beta blockers and vasodilators to reduce both heart rate and blood pressure (BP) to decrease aortic wall stress, with small studies emphasizing reduction of heart rate to 60 to 80 bpm and systolic BP (SBP) to < 120 mm Hg. Intravenous beta blockers have been the mainstay of acute medical treatment, with reports emphasizing the importance of continuing this therapy at the time of hospital discharge to improve clinical outcomes; caution should be used in patients with contraindications to beta blockers (eg, acute AR, heart block, or bradycardia), and for intolerance to beta blockers, intravenous non-dihydropyridine calcium channel blockers (ie, verapamil or diltiazem) are typically used for initial treatment. Intravenous vasodilators are useful adjunctive therapy for intravenous beta blockers but should be avoided as initial treatment (before starting beta blockers or calcium channel blockers), given the potential for compensatory tachycardia. Pain related to AAS can trigger a rise in heart rate and BP, so treating pain can help control the patient's BP and heart rate; intravenous opiates are particularly efficacious, whereas intravenous nonsteroidal anti-inflammatory drugs such as ketorolac may not be suitable because of the risk of inducing hypertension as well as adverse renal effects.
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^363fce62]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^112PRmGD]. Circulation (2016). Medium credibility.
 
 Acute treatment of regular supraventricular tachycardia (SVT) of unknown mechanism — algorithm: Initiate "Vagal maneuvers and/or IV adenosine (Class I)". If "ineffective or not feasible", assess if the patient is "Hemodynamically stable". If not stable, perform "Synchronized cardioversion* (Class I)". If stable, administer "IV beta blockers, IV diltiazem, or IV verapamil (Class IIa)", and if these are "ineffective or not feasible", proceed to "Synchronized cardioversion* (Class I)". The figure notes, "For rhythms that break or recur spontaneously, synchronized cardioversion is not appropriate", and clarifies that IV indicates intravenous.
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^5d267fcc]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^113P6nEX]. Circulation (2016). Medium credibility.
 
 Orthodromic atrioventricular reentrant tachycardia (AVRT) — acute treatment algorithm: Begin with vagal maneuvers and/or IV adenosine (Class I). If ineffective or not feasible, assess hemodynamic stability; if unstable, perform synchronized cardioversion (Class I). If stable, branch on pre-excitation on resting ECG: when present, use IV beta blockers, IV diltiazem, or IV verapamil (Class IIb); when absent, use IV beta blockers, IV diltiazem, or IV verapamil (Class IIa). If these measures are ineffective or not feasible, proceed to synchronized cardioversion (Class I). A footnote notes that for rhythms that break or recur spontaneously, synchronized cardioversion is not appropriate.
 
 ---
 
-### The use of diltiazem for treating rapid atrial fibrillation in the out-of-hospital setting [^1331df5e]. Annals of Emergency Medicine (2001). Low credibility.
+### The use of diltiazem for treating rapid atrial fibrillation in the out-of-hospital setting [^111VTWx5]. Annals of Emergency Medicine (2001). Low credibility.
 
 Study Objective
 
@@ -1238,13 +1238,13 @@ The effects of diltiazem on RAF can be appreciated within the constraints of the
 
 ---
 
-### Diltiazem hci [^8aa9a833]. FDA (2024). Medium credibility.
+### Diltiazem hci [^114YaH5L]. FDA (2024). Medium credibility.
 
 Uncommon adverse reactions (less than 1%) associated with the use of diltiazem hydrochloride IV (also known as Cardizem) include: amblyopia, asthenia, asystole, atrial flutter, AV block, bradycardia, chest pain, congestive heart failure, constipation, dizziness, dry mouth, dyspnea, headache, nausea, paresthesia, peripheral edema, pruritus, ↑ serum ALP, ↑ serum ALT, ↑ serum AST, ↑ serum uric acid, sweating, syncope, ventricular fibrillation, ventricular tachycardia and vomiting.
 
 ---
 
-### Diltiazem hydrochloride (Cardizem) [^0d7fc33e]. FDA (2025). Medium credibility.
+### Diltiazem hydrochloride (Cardizem) [^111M1kgV]. FDA (2025). Medium credibility.
 
 Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in patients with peritoneal dialysis:
 
@@ -1252,7 +1252,7 @@ Regarding the use of diltiazem hydrochloride PO (also known as Cardizem) in pati
 
 ---
 
-### Low-dose diltiazem in atrial fibrillation with rapid ventricular response [^05adf3f6]. The American Journal of Emergency Medicine (2011). Low credibility.
+### Low-dose diltiazem in atrial fibrillation with rapid ventricular response [^1119RNHb]. The American Journal of Emergency Medicine (2011). Low credibility.
 
 Objectives
 
@@ -1272,7 +1272,7 @@ Low-dose diltiazem might be as effective as the standard dose in controlling rap
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^1a89cc39]. Circulation (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^111gLxqv]. Circulation (2016). Medium credibility.
 
 Regarding specific circumstances for supraventricular tachyarrhythmias, more specifically with respect to patients with congenital heart disease, acute management, ACC/AHA/HRS 2016 guidelines recommend to administer IV formulations of the following medications (with extra caution used for either agent, observing for the development of hypotension) for acute management of hemodynamically stable adult patients with congenital heart disease and SVT:
 
@@ -1282,31 +1282,31 @@ Regarding specific circumstances for supraventricular tachyarrhythmias, more spe
 
 ---
 
-### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^e208d244]. Journal of the American College of Cardiology (2018). Medium credibility.
+### 2017 AHA / ACC / HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^116n7AYT]. Journal of the American College of Cardiology (2018). Medium credibility.
 
 Table 7 — antiarrhythmic medications for treating ventricular arrhythmias: Diltiazem (IV) extended-release oral dosing is PO: 120–360 mg/day. Pharmacological characteristics report t1/2: Injection 2–5 h, immediate release 4.5–12 h, extended release 12 h, and severe hepatic impairment 14–16 h, and Metab: H. Reported adverse effects include hypotension, edema, HF, AVB, bradycardia, exacerbation of HFrEF, headache, rash, and constipation.
 
 ---
 
-### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^c2681b7f]. Heart Rhythm (2016). Medium credibility.
+### 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society [^115yDZr6]. Heart Rhythm (2016). Medium credibility.
 
 Recommendations for acute treatment of suspected focal atrial tachycardia — Class I guidance specifies that intravenous beta blockers, diltiazem, or verapamil is useful for acute treatment in hemodynamically stable patients with focal atrial tachycardia (AT), and during electrophysiology study propranolol or verapamil is moderately effective in either terminating focal AT or slowing the ventricular rate in approximately 30% to 50% of patients with close monitoring for hypotension or bradycardia; synchronized cardioversion is recommended for acute treatment in patients with hemodynamically unstable focal AT.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^9233356b]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^114jkPmc]. VA/DoD (2020). High credibility.
 
 Long-acting calcium channel blockers (CCB) — dosing and cautions include: DHP CCBs usual doses are Amlodipine 2.5–10 mg daily, Felodipine 2.5–10 mg daily, and Nifedipine sustained release 30–120 mg daily; Non-DHP CCBs usual doses are Verapamil sustained release 120–480 mg divided daily-bid and Diltiazem sustained release 120–540 mg daily. Monitor AEs (DHP CCBs may cause ankle edema, dizziness, flushing, headache, constipation), and use with caution in patients with hepatic (CCBs) or kidney (non-DHP CCBs) dysfunction. Non-DHP CCBs may be considered for rate control in supraventricular tachycardia or atrial fibrillation/flutter. Verapamil may cause constipation; verapamil is contraindicated 2nd or 3rd degree AV block, severe LV dysfunction. Diltiazem may decrease sinus rate; diltiazem is contraindicated in 2nd or 3rd degree AV block; use with caution in LV dysfunction. Verapamil or diltiazem should not usually be used with a beta-blocker due to risk of severe bradycardia or heart block.
 
 ---
 
-### The Society of Thoracic Surgeons practice guideline on the prophylaxis and management of atrial fibrillation associated with general thoracic surgery: executive summary [^3ac8c015]. The Annals of Thoracic Surgery (2011). Medium credibility.
+### The Society of Thoracic Surgeons practice guideline on the prophylaxis and management of atrial fibrillation associated with general thoracic surgery: executive summary [^112W9iH2]. The Annals of Thoracic Surgery (2011). Medium credibility.
 
 Choice of agent — rate control drugs for postoperative atrial fibrillation: Class I recommendation — a selective β1-blocking agent is recommended as the initial drug for rate control in the absence of moderate-severe chronic obstructive pulmonary disease or active bronchospasm; Class I recommendation — diltiazem should be the first agent used in the presence of moderate-severe chronic obstructive pulmonary disease or active bronchospasm; Class III recommendation — digoxin as a single agent should not be used for rate control, although it may be effective in combination with a β1-blocker or diltiazem.
 
 ---
 
-### Diltiazem hci [^72b32ccc]. FDA (2024). Medium credibility.
+### Diltiazem hci [^113w3mjh]. FDA (2024). Medium credibility.
 
 Contraindications regarding the use of diltiazem hydrochloride IV (also known as Cardizem):
 - **Second- or third-degree AV block**: do not use diltiazem in patients with second- or third-degree AV block except in the presence of a functioning ventricular pacemaker.
@@ -1315,13 +1315,13 @@ Contraindications regarding the use of diltiazem hydrochloride IV (also known as
 
 ---
 
-### Diltiazem hci [^546774b1]. FDA (2024). Medium credibility.
+### Diltiazem hci [^113A8i9v]. FDA (2024). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of diltiazem hydrochloride IV (also known as Cardizem) include: acute generalized exanthematous pustulosis, angioedema, arthralgia, behavioral or personality changes, ↑bleeding time, ↑ blood glucose, depression, diarrhea, dysgeusia, dyspepsia, erectile dysfunction, erythema multiforme, exfoliative dermatitis, extrapyramidal signs, eye irritation, gait disturbance, hair loss, hallucinations, hemolytic anemia, increased thirst, insomnia, leukocytoclastic vasculitis, loss of appetite, memory impairment, muscle cramps, myocardial infarction, nasal congestion, nervousness, nightmares, nocturia, nosebleed, palpitations, petechiae, photosensitivity of skin, ↓ platelet count, polyuria, premature ventricular contractions, purpura, ↑ serum CK, ↑ serum LDH, sexual dysfunction, skin rash, somnolence, Stevens-Johnson syndrome, swollen gums, tinnitus, toxic epidermal necrolysis, tremor, urticaria, ↓ WBC count and weight gain.
 
 ---
 
-### Achieving ventricular rate control in patients taking chronic β-blocker therapy [^6f48e8d1]. The American Journal of Emergency Medicine (2018). Low credibility.
+### Achieving ventricular rate control in patients taking chronic β-blocker therapy [^113qz7fv]. The American Journal of Emergency Medicine (2018). Low credibility.
 
 Study Objective
 
@@ -1341,13 +1341,13 @@ The use of IV diltiazem was associated with a higher rate of successful response
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^463bb15b]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^112o8Bdt]. Circulation (2024). High credibility.
 
 Table 21 — non-dihydropyridine calcium channel blockers for atrial fibrillation (AF) rate control detail that diltiazem may be given as "0.25 mg/kg (actual body weight) IV over 2 min May repeat 0.35 mg/kg over 2 min; then 5–15 mg/h continuous infusion", with an oral maintenance dose of "120–360 mg daily (ER)" and elimination half-life "IV: 3–5 h Oral immediate release: 3–4.5 h ER: 4.5–9 h", and the note "Avoid in HFrEF"; verapamil has an oral maintenance dose of "180–480 mg daily (ER)" with elimination half-life "IV: 6–8 h Oral: 2–7 h ER: 12–17 h", and a note to "Avoid in HFrEF".
 
 ---
 
-### The effect of serum calcium level on the success of diltiazem treatment: a retrospective cohort study [^4218066e]. The American Journal of Emergency Medicine (2023). Medium credibility.
+### The effect of serum calcium level on the success of diltiazem treatment: a retrospective cohort study [^112gzFeV]. The American Journal of Emergency Medicine (2023). Medium credibility.
 
 Introduction
 

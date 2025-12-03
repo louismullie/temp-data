@@ -17,31 +17,31 @@ According to current BSG guidelines, what is the most appropriate next step in a
 
 > Let's see… What do we have here? The user is asking what the most appropriate next step is to assess treatment response in a 58-year-old man with alcoholic cirrhosis, confirmed SBP, and persistent fever, abdominal pain, and unchanged leukocyte count after 48 hours of IV cefotaxime. Let's break this down step-by-step. First, I need to think about the guideline-backed timing for reassessing SBP. Then, I should verify the objective criterion that defines an inadequate response. Next, I will consider what to do if the PMN count has not decreased adequately, including antibiotic modification and evaluation for secondary peritonitis. Finally, I should confirm supportive measures like albumin and whether any alternative diagnostics are indicated now or later.
 
-> Let me first confirm the timing. Multiple high-credibility guidelines converge on reassessing SBP at 48 hours from initiation of antibiotics when there is an apparent inadequate clinical response, so waiting longer without objective reassessment would be inappropriate here [^9238030b] [^b51ae477] [^fb973fd0].
+> Let me first confirm the timing. Multiple high-credibility guidelines converge on reassessing SBP at 48 hours from initiation of antibiotics when there is an apparent inadequate clinical response, so waiting longer without objective reassessment would be inappropriate here [^114jn1Lv] [^115dVnv2] [^117RzhJo].
 
-> Wait, let me verify the objective criterion for response. The key metric is the ascitic fluid PMN count; a decrease of less than 25% from baseline at 48 hours indicates treatment failure and should trigger broadening of therapy and evaluation for secondary peritonitis, whereas a decrease of 25% or more is considered an adequate biochemical response even if symptoms lag [^b51ae477] [^fb973fd0] [^4e6a1322].
+> Wait, let me verify the objective criterion for response. The key metric is the ascitic fluid PMN count; a decrease of less than 25% from baseline at 48 hours indicates treatment failure and should trigger broadening of therapy and evaluation for secondary peritonitis, whereas a decrease of 25% or more is considered an adequate biochemical response even if symptoms lag [^115dVnv2] [^117RzhJo] [^1131FfV3].
 
-> I should confirm the exact action. The most appropriate next step is a second diagnostic paracentesis at 48 hours to obtain a PMN count and, ideally, repeat culture, because this directly informs whether the current regimen is effective or whether resistance or an alternate diagnosis is present [^9238030b] [^b51ae477] [^fb973fd0].
+> I should confirm the exact action. The most appropriate next step is a second diagnostic paracentesis at 48 hours to obtain a PMN count and, ideally, repeat culture, because this directly informs whether the current regimen is effective or whether resistance or an alternate diagnosis is present [^114jn1Lv] [^115dVnv2] [^117RzhJo].
 
-> Hold on, let's not jump to conclusions about changing antibiotics yet. If the 48-hour PMN count has decreased by less than 25% from the baseline 600 cells/mm³, I need to broaden antibiotic coverage promptly and initiate evaluation for secondary bacterial peritonitis, including cross-sectional imaging and surgical consultation, because persistent infection or a surgically treatable source becomes more likely in that scenario [^b51ae477] [^fb973fd0] [^d68c9d8a].
+> Hold on, let's not jump to conclusions about changing antibiotics yet. If the 48-hour PMN count has decreased by less than 25% from the baseline 600 cells/mm³, I need to broaden antibiotic coverage promptly and initiate evaluation for secondary bacterial peritonitis, including cross-sectional imaging and surgical consultation, because persistent infection or a surgically treatable source becomes more likely in that scenario [^115dVnv2] [^117RzhJo] [^116V5aiV].
 
-> Let me consider supportive care that should not be overlooked. I should confirm that albumin was administered at diagnosis and again on day 3 if indicated, as this reduces renal failure and mortality in SBP; if not given, it should be started now in the appropriate dosing schedule, particularly when there is renal dysfunction or severe hepatic decompensation [^b51ae477] [^deec7543] [^e5d2f10a].
+> Let me consider supportive care that should not be overlooked. I should confirm that albumin was administered at diagnosis and again on day 3 if indicated, as this reduces renal failure and mortality in SBP; if not given, it should be started now in the appropriate dosing schedule, particularly when there is renal dysfunction or severe hepatic decompensation [^115dVnv2] [^116hVg8r] [^116sj21P].
 
-> Hmm, wait a minute, could molecular testing help right now? Studies of ascitic bacterial DNA are promising for prognosis but have not shown utility for early treatment optimization, so multiplex PCR is not recommended to guide immediate antibiotic changes; I should avoid ordering it for that purpose and stick to culture-directed adjustments and clinical response criteria [^44da2cb3] [^d68c9d8a].
+> Hmm, wait a minute, could molecular testing help right now? Studies of ascitic bacterial DNA are promising for prognosis but have not shown utility for early treatment optimization, so multiplex PCR is not recommended to guide immediate antibiotic changes; I should avoid ordering it for that purpose and stick to culture-directed adjustments and clinical response criteria [^112m5SYi] [^116V5aiV].
 
-> I should double-check that we are not missing a noninfectious explanation for the lack of improvement. Given cirrhosis and encephalopathy, ongoing hepatic decompensation, HRS, or other complications can confound the clinical picture, but in the absence of a new focus of infection, the 48-hour paracentesis remains the most actionable and guideline-concordant next step to distinguish treatment failure from alternative diagnoses [^b51ae477] [^fb973fd0].
+> I should double-check that we are not missing a noninfectious explanation for the lack of improvement. Given cirrhosis and encephalopathy, ongoing hepatic decompensation, HRS, or other complications can confound the clinical picture, but in the absence of a new focus of infection, the 48-hour paracentesis remains the most actionable and guideline-concordant next step to distinguish treatment failure from alternative diagnoses [^115dVnv2] [^117RzhJo].
 
-> Bottom line, after verifying the 48-hour mark and the lack of clinical improvement, I need to ensure a second diagnostic paracentesis is performed now to obtain a PMN count and repeat culture, because this is the most appropriate next step per BSG, AASLD, and EASL guidance and will directly inform whether to broaden therapy and evaluate for secondary peritonitis [^9238030b] [^b51ae477] [^fb973fd0].
+> Bottom line, after verifying the 48-hour mark and the lack of clinical improvement, I need to ensure a second diagnostic paracentesis is performed now to obtain a PMN count and repeat culture, because this is the most appropriate next step per BSG, AASLD, and EASL guidance and will directly inform whether to broaden therapy and evaluate for secondary peritonitis [^114jn1Lv] [^115dVnv2] [^117RzhJo].
 
 ---
 
-The most appropriate next step is to **repeat diagnostic paracentesis at 48 hours** [^9238030b] to assess treatment response, as recommended by BSG guidelines [^192ea05a]. This should include ascitic neutrophil count and culture to evaluate for **antibiotic failure or secondary peritonitis** [^b51ae477]. If the neutrophil count has not decreased by at least 25% from baseline, broaden antibiotic coverage and evaluate for secondary peritonitis with imaging and surgical input [^fb973fd0] [^d68c9d8a].
+The most appropriate next step is to **repeat diagnostic paracentesis at 48 hours** [^114jn1Lv] to assess treatment response, as recommended by BSG guidelines [^111eLMQD]. This should include ascitic neutrophil count and culture to evaluate for **antibiotic failure or secondary peritonitis** [^115dVnv2]. If the neutrophil count has not decreased by at least 25% from baseline, broaden antibiotic coverage and evaluate for secondary peritonitis with imaging and surgical input [^117RzhJo] [^116V5aiV].
 
 ---
 
 ## Indications for reassessment at 48 hours
 
-BSG guidelines recommend reassessment at 48 hours for patients with **inadequate clinical response** or when secondary bacterial peritonitis is suspected [^9238030b]. In this case, persistent fever, abdominal pain, and an unchanged white cell count after 48 hours of cefotaxime meet criteria for **inadequate response** and warrant repeat paracentesis [^192ea05a].
+BSG guidelines recommend reassessment at 48 hours for patients with **inadequate clinical response** or when secondary bacterial peritonitis is suspected [^114jn1Lv]. In this case, persistent fever, abdominal pain, and an unchanged white cell count after 48 hours of cefotaxime meet criteria for **inadequate response** and warrant repeat paracentesis [^111eLMQD].
 
 ---
 
@@ -49,9 +49,9 @@ BSG guidelines recommend reassessment at 48 hours for patients with **inadequate
 
 ### Repeat diagnostic paracentesis
 
-- **Timing**: Perform at 48 hours from initiation of antibiotic therapy [^9238030b].
-- **Tests**: Obtain ascitic fluid for neutrophil count and culture [^b51ae477].
-- **Interpretation**: A decrease in neutrophil count of less than 25% from baseline indicates treatment failure or secondary peritonitis [^fb973fd0].
+- **Timing**: Perform at 48 hours from initiation of antibiotic therapy [^114jn1Lv].
+- **Tests**: Obtain ascitic fluid for neutrophil count and culture [^115dVnv2].
+- **Interpretation**: A decrease in neutrophil count of less than 25% from baseline indicates treatment failure or secondary peritonitis [^117RzhJo].
 
 ---
 
@@ -62,7 +62,7 @@ Repeat paracentesis provides **objective data** to guide management:
 | **Outcome** | **Clinical implication** | **Recommended action** |
 |-|-|-|
 | Neutrophil count decreased by ≥ 25% | Treatment response is adequate | Continue current antibiotics |
-| Neutrophil count decreased by < 25% | Treatment failure or secondary peritonitis | - Broaden antibiotic coverage <br/> - Evaluate for secondary peritonitis [^b51ae477] |
+| Neutrophil count decreased by < 25% | Treatment failure or secondary peritonitis | - Broaden antibiotic coverage <br/> - Evaluate for secondary peritonitis [^115dVnv2] |
 
 ---
 
@@ -70,82 +70,82 @@ Repeat paracentesis provides **objective data** to guide management:
 
 If neutrophil count fails to decrease adequately, **evaluate for secondary peritonitis**:
 
-- **Imaging**: Obtain abdominal CT scan to identify surgically treatable causes (e.g. perforation, abscess) [^d68c9d8a].
-- **Surgical consultation**: Involve surgery early if secondary peritonitis is suspected [^c9091915].
-- **Antibiotic adjustment**: Broaden coverage based on local resistance patterns and culture results [^78764be0].
+- **Imaging**: Obtain abdominal CT scan to identify surgically treatable causes (e.g. perforation, abscess) [^116V5aiV].
+- **Surgical consultation**: Involve surgery early if secondary peritonitis is suspected [^11693ZtQ].
+- **Antibiotic adjustment**: Broaden coverage based on local resistance patterns and culture results [^1145bFR9].
 
 ---
 
 ## Summary of recommendations
 
-- **Repeat diagnostic paracentesis**: At 48 hours to assess treatment response [^9238030b].
-- **Neutrophil count**: Evaluate for ≥ 25% decrease from baseline [^fb973fd0].
-- **Broaden antibiotics**: If response is inadequate or secondary peritonitis is suspected [^b51ae477].
-- **Imaging and surgical input**: Early CT and surgical consultation if secondary peritonitis is suspected [^d68c9d8a].
+- **Repeat diagnostic paracentesis**: At 48 hours to assess treatment response [^114jn1Lv].
+- **Neutrophil count**: Evaluate for ≥ 25% decrease from baseline [^117RzhJo].
+- **Broaden antibiotics**: If response is inadequate or secondary peritonitis is suspected [^115dVnv2].
+- **Imaging and surgical input**: Early CT and surgical consultation if secondary peritonitis is suspected [^116V5aiV].
 
 ---
 
-The most appropriate next step is to **repeat diagnostic paracentesis at 48 hours** [^9238030b] to assess treatment response, with further management guided by neutrophil count and culture results [^b51ae477].
+The most appropriate next step is to **repeat diagnostic paracentesis at 48 hours** [^114jn1Lv] to assess treatment response, with further management guided by neutrophil count and culture results [^115dVnv2].
 
 ---
 
 ## References
 
-### Guidelines on the management of ascites in cirrhosis [^9238030b]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^114jn1Lv]. Gut (2021). High credibility.
 
 Regarding medical management for liver cirrhosis, more specifically with respect to management of SBP, antibiotic therapy, BASL/BSG 2021 guidelines recommend to consider performing a second diagnostic paracentesis at 48 hours from the start of treatment to check the efficacy of antibiotic therapy in patients with apparent inadequate response or if secondary bacterial peritonitis is suspected.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^192ea05a]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^111eLMQD]. Gut (2021). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of SBP, antibiotic therapy, BASL/BSG 2021 guidelines recommend to consider performing a second diagnostic paracentesis at 48 hours from the start of treatment to check the efficacy of antibiotic therapy in patients with apparent inadequate response or if secondary bacterial peritonitis is suspected.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^af0db9df]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^115UXSir]. Gut (2021). High credibility.
 
 Regarding medical management for liver cirrhosis, more specifically with respect to management of SBP, antibiotic therapy, BASL/BSG 2021 guidelines recommend to initiate immediate empirical antibiotic therapy with due consideration of the context of SBP (community-acquired or healthcare-associated), the severity of infection, and local bacterial resistance profile. Guide the choice of an antibiotic agent by local resistance patterns and protocols.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^9526aa70]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^114p89G3]. Gut (2021). High credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of SBP, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^21776266]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^111rch6V]. Gut (2021). High credibility.
 
 Regarding follow-up and surveillance for spontaneous bacterial peritonitis, more specifically with respect to assessment of treatment response, BASL/BSG 2021 guidelines recommend to consider performing a second diagnostic paracentesis at 48 hours from the start of treatment to check the efficacy of antibiotic therapy in patients with apparent inadequate response or if secondary bacterial peritonitis is suspected.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^29139444]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^1123u4zF]. Gut (2021). High credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of SBP, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^72d60e3d]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^113wFVGQ]. Gut (2021). High credibility.
 
 Regarding medical management for spontaneous bacterial peritonitis, more specifically with respect to antibiotic therapy, BASL/BSG 2021 guidelines recommend to initiate immediate empirical antibiotic therapy with due consideration of the context of SBP (community-acquired or healthcare-associated), severity of infection, and local bacterial resistance profile. Guide the choice of an antibiotic agent by local resistance patterns and protocols.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^0cdb9042]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^111L4bpm]. Gut (2021). High credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of ascites, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^97f6f7ec]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^114tJ5tP]. Gut (2021). High credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of ascites, diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### Spontaneous bacterial peritonitis | Infectious diseases… [^138c66c7]. JAMA Network (2021). Excellent credibility.
+### Spontaneous bacterial peritonitis | Infectious diseases… [^111VyvbY]. JAMA Network (2021). Excellent credibility.
 
 Zhang G, Jazwinski Faust A. Spontaneous Bacterial Peritonitis. JAMA. 2021; 325:
 
@@ -159,37 +159,37 @@ Spontaneous bacterial peritonitis https: //medlineplus. gov/ency/article/000648.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^a2eac0d5]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^115AXr1r]. Gut (2021). High credibility.
 
 Regarding diagnostic procedures for ascites, more specifically with respect to diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^b78dbee2]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^115h8Lzu]. Gut (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to obtain ascitic fluid culture with bedside inoculation of blood culture bottles to guide the choice of antibiotic treatment in patients with suspected SBP.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^fb973fd0]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^117RzhJo]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for liver cirrhosis, more specifically with respect to management of SBP, antibiotic therapy, EASL 2018 guidelines recommend to perform a second paracentesis at 48 hours from treatment initiation to check the efficacy of antibiotic therapy. Suspect failure of first-line antibiotic therapy if there is worsening of clinical signs and symptoms and/or increase or no marked reduction in leukocyte count (at least 25%) in 48 hours.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^b51ae477]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^115dVnv2]. Hepatology (2021). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of SBP, antibiotic therapy, AASLD 2021 guidelines recommend to consider assessing the response to empirical antibiotic therapy by repeating diagnostic paracentesis 2 days after treatment initiation. Broaden antibiotic coverage and obtain a further evaluation to rule out secondary bacterial peritonitis if a decrease in fluid polymorphonuclear is < 25% from baseline indicating a lack of response.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^ed100b12]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^1174TTLV]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of SBP, antibiotic therapy, EASL 2018 guidelines recommend to perform a second paracentesis at 48 hours from treatment initiation to check the efficacy of antibiotic therapy. Suspect failure of first-line antibiotic therapy if there is worsening of clinical signs and symptoms and/or increase or no marked reduction in leukocyte count (at least 25%) in 48 hours.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^2ab3ab6d]. Gut (2021). Medium credibility.
+### Guidelines on the management of ascites in cirrhosis [^1126Jq5n]. Gut (2021). Medium credibility.
 
 Antibiotic therapy
 
@@ -201,7 +201,7 @@ The evidence for the use of human albumin solution and recommendations for its u
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^e5d2f10a]. Gut (2021). Medium credibility.
+### Guidelines on the management of ascites in cirrhosis [^116sj21P]. Gut (2021). Medium credibility.
 
 Recommendations
 
@@ -217,19 +217,19 @@ Primary prophylaxis should be offered to patients considered at high risk, as de
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^f50b338f]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^117GHjGJ]. Gut (2021). High credibility.
 
 Regarding screening and diagnosis for spontaneous bacterial peritonitis, more specifically with respect to diagnostic criteria, BASL/BSG 2021 guidelines recommend to use ascitic neutrophil > 250/mm³ count as the gold standard for the diagnosis of SBP. Consider measuring ascitic neutrophil count either by manual microscopy or using flow cytometry-based automated methods for counting and differentiating cells.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^4e6a1322]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^1131FfV3]. Hepatology (2021). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) and spontaneous bacterial empyema (SBE) response assessment and duration are specified as follows: it is recommended that a diagnostic paracentesis (or thoracentesis for SBE) be performed 48 hours after initiating antibiotic therapy to assess response, and a negative response is defined by a decrease in PMN count < 25% from baseline that should prompt broadening antibiotics and evaluation for secondary peritonitis. The recommended duration of antibiotic therapy is 5–7 days, although a small study found therapy was shorter when discontinued once PMN decreased to < 250/mm³ (mean, 4.8 days) compared with empirically determined duration (mean, 9.6 days). Patients with ascites PMN < 250/mm³ and a positive bacteriological culture (bacterascites) without signs of infection should not receive antibiotics, and a repeat diagnostic paracentesis should be performed to investigate progression to SBP, while repeat paracentesis/thoracentesis may be unnecessary if an organism is isolated, is susceptible, and the patient is improving clinically.
 
 ---
 
-### Response-guided therapy with cefotaxime, ceftriaxone, or ciprofloxacin for spontaneous bacterial peritonitis: a randomized trial: a validation study of 2021 AASLD practice guidance for SBP [^ba7c169f]. The American Journal of Gastroenterology (2023). Medium credibility.
+### Response-guided therapy with cefotaxime, ceftriaxone, or ciprofloxacin for spontaneous bacterial peritonitis: a randomized trial: a validation study of 2021 AASLD practice guidance for SBP [^115mUNrS]. The American Journal of Gastroenterology (2023). Medium credibility.
 
 Introduction
 
@@ -249,7 +249,7 @@ The efficacy of empirical antibiotics, such as cefotaxime, ceftriaxone, and cipr
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^bb9dd015]. Gut (2021). Medium credibility.
+### Guidelines on the management of ascites in cirrhosis [^115o9h96]. Gut (2021). Medium credibility.
 
 Executive summary of recommendations
 
@@ -269,25 +269,25 @@ Research recommendations 13.1. Randomised controlled trials (RCT) with large sam
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^b006bdda]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^115Vy5wF]. Gut (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to use ascitic neutrophil > 250/mm³ count as the gold standard for the diagnosis of SBP. Consider measuring ascitic neutrophil count either by manual microscopy or using flow cytometry-based automated methods for counting and differentiating cells.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^e8655797]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^116wYAge]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding follow-up and surveillance for spontaneous bacterial peritonitis, more specifically with respect to assessment of treatment response, EASL 2018 guidelines recommend to perform a second paracentesis at 48 hours from treatment initiation to check the efficacy of antibiotic therapy. Suspect failure of first-line antibiotic therapy if there is worsening of clinical signs and symptoms and/or increase or no marked reduction in leukocyte count (at least 25%) in 48 hours.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^94c67e90]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^114oZqh1]. Gut (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to perform diagnostic paracentesis without a delay to rule out SBP in all patients with cirrhosis and ascites on hospital admission.
 
 ---
 
-### British society of gastroenterology best practice guidance: outpatient management of cirrhosis-part 2: decompensated cirrhosis [^1388dbcd]. Frontline Gastroenterology (2023). Medium credibility.
+### British society of gastroenterology best practice guidance: outpatient management of cirrhosis-part 2: decompensated cirrhosis [^111VxjaL]. Frontline Gastroenterology (2023). Medium credibility.
 
 The mainstay of ascites management in the outpatient setting is diuretic therapy. This involves a stepwise approach as outlined in figure 3 with the additional specific recommendations:
 
@@ -302,31 +302,31 @@ Management approach to the patient with cirrhosis and ascites. *A large volume p
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^10cc2d7a]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^111RuPDB]. Hepatology (2021). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) initial management — First-line empirical antibiotic therapy for community-acquired SBP/SBE is IV third-generation cephalosporin, whereas in patients with a health care–associated or nosocomial infection or recent exposure to broad-spectrum antibiotics or who are admitted with sepsis or septic shock, empirical therapy with broad-spectrum antibiotics should be initiated as the first line. Response to empirical antibiotic therapy may be assessed by repeating diagnostic paracentesis/thoracentesis 2 days after initiation, and a decrease in fluid PMN < 25% from baseline indicates lack of response and should lead to broadening of antibiotic coverage and further evaluation to rule out secondary bacterial peritonitis. Patients with SBP should be treated with IV albumin in addition to antibiotics (1.5 g/kg at day 1 and 1 g/kg at day 3), and patients with acute kidney injury (AKI) and/or jaundice at time of diagnosis of SBP are more likely to benefit from albumin. Nonselective beta blockers (NSBBs) should be temporarily held in patients with SBP who develop hypotension (mean arterial pressure < 65 mm Hg) or AKI.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^20e14c40]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^111qkHB5]. Hepatology (2021). High credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of SBP, AASLD 2021 guidelines recommend to obtain ascitic fluid culture at the bedside in aerobic and anaerobic blood culture bottles before initiating antibiotic therapy.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^0d821f8f]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^111M2Yfp]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of SBP, EASL 2018 guidelines recommend to obtain ascitic fluid culture to guide antibiotic therapy, recognizing that ascitic fluid culture positivity is not a prerequisite for the diagnosis of SBP.
 
 ---
 
-### Society of Critical Care Medicine and the Infectious Diseases Society of America guidelines for evaluating new fever in adult patients in the ICU [^adc41ec2]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine and the Infectious Diseases Society of America guidelines for evaluating new fever in adult patients in the ICU [^115ScjUu]. Critical Care Medicine (2023). High credibility.
 
 Guideline methodology — consensus and best-practice statements: Best-practice statements were made only when suggested GRADE criteria for best-practice statements were met. Best practice statements had to be clear, answer an important actionable question where the benefit would be unequivocally large, and evidence would be difficult to collect or summarize, and an explicit rationale for the benefit was provided. After finalizing a preliminary recommendation, members of the taskforce received electronic links to indicate their agreement or disagreement, and consensus required 80% agreement by at least 75% of the voting panel.
 
 ---
 
-### How to approach a patient hospitalized for pneumonia who is not responding to treatment? [^c87ec50a]. Intensive Care Medicine (2025). Medium credibility.
+### How to approach a patient hospitalized for pneumonia who is not responding to treatment? [^1168F72y]. Intensive Care Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -340,25 +340,25 @@ This narrative review aims to give to the clinicians a structured approach on th
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^5f742044]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113SWq6B]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of SBP, EASL 2018 guidelines recommend to obtain ascitic fluid culture to guide antibiotic therapy, recognizing that ascitic fluid culture positivity is not a prerequisite for the diagnosis of SBP.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^2271693c]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^111t4g1R]. Hepatology (2021). High credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of SBP, AASLD 2021 guidelines recommend to obtain ascitic fluid culture at the bedside in aerobic and anaerobic blood culture bottles before initiating antibiotic therapy.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^c9091915]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^11693ZtQ]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of SBP, EASL 2018 guidelines recommend to suspect secondary bacterial peritonitis in patients with multiple organisms on ascitic culture, very high ascitic neutrophil count and/or high ascitic protein concentration, or with an inadequate response to therapy.
 
 ---
 
-### Response to the NCEPOD report: development of a care bundle for patients admitted with decompensated cirrhosis-the first 24 H [^72f98190]. Frontline Gastroenterology (2016). Low credibility.
+### Response to the NCEPOD report: development of a care bundle for patients admitted with decompensated cirrhosis-the first 24 H [^113wTPu1]. Frontline Gastroenterology (2016). Low credibility.
 
 Infections
 
@@ -368,43 +368,43 @@ SBP is defined as infection of the ascitic fluid in the absence of a secondary c
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^df8ad5f0]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^116iQsaf]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, EASL 2018 guidelines recommend to obtain ascitic fluid culture to guide antibiotic therapy, recognizing that ascitic fluid culture positivity is not a prerequisite for the diagnosis of SBP.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^cb5a3ab9]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^116CUo1z]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Antimicrobial therapy — combination use, dosing, de-escalation, and duration — In children without immune compromise and without high risk for multidrug-resistant pathogens, we suggest against the routine use of empiric multiple antimicrobials directed against the same pathogen for the purpose of synergy (weak recommendation, very low quality of evidence), although in certain situations, such as confirmed or strongly suspected group B streptococcal sepsis, use of empiric multiple antimicrobials directed against the same pathogen for the purpose of synergy may be indicated. In children with immune compromise and/or at high risk for multidrug-resistant pathogens, we suggest using empiric multi-drug therapy when septic shock or other sepsis-associated organ dysfunction is present/suspected (weak recommendation, very low quality of evidence). We recommend using antimicrobial dosing strategies that have been optimized based on published pharmacokinetic/pharmacodynamic principles and with consideration of specific drug properties (BPS). In children with septic shock or sepsis-associated organ dysfunction who are receiving antimicrobials, we recommend daily assessment (e.g., clinical, laboratory assessment) for de-escalation of antimicrobial therapy (BPS), and this assessment should include a review of the ongoing indication for empiric antimicrobial therapy after the first 48 hours that it is guided by microbiologic results and in response to clinical improvement and/or evidence of infection resolution. We recommend determining the duration of antimicrobial therapy according to the site of infection, microbial etiology, response to treatment, and ability to achieve source control (BPS).
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^8ed36eb6]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^114ekG45]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of SBP, EASL 2018 guidelines recommend to suspect secondary bacterial peritonitis in patients with multiple organisms on ascitic culture, very high ascitic neutrophil count and/or high ascitic protein concentration, or with an inadequate response to therapy.
 
 ---
 
-### Clinical practice guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 guideline on diagnosis and management of acute bacterial arthritis in pediatrics [^b17b67fc]. Journal of the Pediatric Infectious Diseases Society (2024). High credibility.
+### Clinical practice guideline by the Pediatric Infectious Diseases Society (PIDS) and the Infectious Diseases Society of America (IDSA): 2023 guideline on diagnosis and management of acute bacterial arthritis in pediatrics [^115Y8G2X]. Journal of the Pediatric Infectious Diseases Society (2024). High credibility.
 
 Acute bacterial arthritis (ABA) — assessing response to therapy: In children with presumed or confirmed ABA receiving antimicrobial therapy with or without surgical intervention, "we suggest performing CRP at initial evaluation followed by sequential monitoring of CRP to assess response to therapy, rather than relying solely on clinical evaluation" (conditional recommendation, low certainty of evidence). The comment notes that "Serial clinical examinations that assess the febrile response, pain and musculoskeletal function remain the primary means of monitoring response to treatment".
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^2ffba390]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^112E8wZq]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding screening and diagnosis for spontaneous bacterial peritonitis, more specifically with respect to diagnostic criteria, EASL 2018 guidelines recommend to insufficient evidence to support the routine use of reagent strips for the diagnosis of SBP.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^04259c82]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^11179ard]. Hepatology (2021). High credibility.
 
 Regarding screening and diagnosis for spontaneous bacterial peritonitis, more specifically with respect to diagnostic criteria, AASLD 2021 guidelines recommend to establish the diagnosis of SBP with a fluid polymorphonuclear leukocyte count > 250/mm³.
 
 ---
 
-### Bacterial DNA is a prognostic factor for mortality in patients who recover from spontaneous bacterial peritonitis [^44da2cb3]. Annals of Gastroenterology (2021). Medium credibility.
+### Bacterial DNA is a prognostic factor for mortality in patients who recover from spontaneous bacterial peritonitis [^112m5SYi]. Annals of Gastroenterology (2021). Medium credibility.
 
 A limitation of the present work is the relatively small number of patients with SBP. Nonetheless, to our knowledge, it is the largest study to assess multiplex PCR in SBP patients. Moreover, it is the first to show that bactDNA detection at diagnosis of an SBP episode is associated with early mortality after resolution of the infection.
 
@@ -426,25 +426,25 @@ Presence of AF bacterial DNA and a high neutrophil-to-lymphocyte ratio at baseli
 
 ---
 
-### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^06893acc]. Critical Care Medicine (2023). High credibility.
+### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^111Ah299]. Critical Care Medicine (2023). High credibility.
 
 Initial antibiotic therapy for spontaneous bacterial peritonitis (SBP) in critically ill acute-on-chronic liver failure (ACLF) patients — We recommend using broad spectrum antibiotic agents for the initial management of SBP in critically ill ACLF patients (Strong recommendation, low quality of evidence). In SBP-associated septic shock cohorts, each hour delay to appropriate antibiotic therapy was significantly associated with mortality (OR, 1.86; 95% CI, 1.10–3.14 per hour increment), and the likelihood of death was significantly higher if initial therapy was either inappropriate (OR, 9.5; 95% CI, 4.3–20.7) or delayed (OR, 1.1; 95% CI, 1.1–1.2 for each 1 hr delay); overall hospital mortality exceeded 75%. There is strong rationale for the use of early appropriate antibiotic therapy in SBP.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^a1fe7b51]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1159AV5J]. Critical Care Medicine (2021). High credibility.
 
 Surviving Sepsis Campaign 2021 — possible sepsis without shock, rapid assessment: For adults with possible sepsis without shock, we recommend rapid assessment of the likelihood of infectious versus non-infectious causes of acute illness (Best practice statement). Remarks specify that whenever possible this should be completed within 3 hours of presentation so that a decision can be made on infectious likelihood and timely antimicrobial therapy provided if the likelihood of sepsis is thought to be high.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^5a5d94dc]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^113JyKUf]. Critical Care Medicine (2021). High credibility.
 
 Surviving Sepsis Campaign 2021 — biomarkers to discontinue antibiotics: For adults with an initial diagnosis of sepsis or septic shock and adequate source control where optimal duration of therapy is unclear, we suggest using procalcitonin AND clinical evaluation to decide when to discontinue antimicrobials over clinical evaluation alone. Weak recommendation, low quality of evidence.
 
 ---
 
-### Cefepime [^e9e901c1]. FDA (2025). Medium credibility.
+### Cefepime [^116ynP12]. FDA (2025). Medium credibility.
 
 14 CLINICAL STUDIES
 
@@ -468,13 +468,13 @@ Patients hospitalized with complicated intra-abdominal infections participated i
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^eb9d6308]. Intensive Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1172JxNK]. Intensive Care Medicine (2021). High credibility.
 
 De-escalation of antibiotics — For adults with sepsis or septic shock, we suggest daily assessment for de-escalation of antimicrobials over using fixed durations of therapy without daily re-assessment for de-escalation. Weak recommendation, very low quality of evidence. Rationale notes that antimicrobial exposure is linked to the development of antimicrobial resistance and efforts aim to reduce both the number of antibiotics administered and their spectrum.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^a7ffd9a9]. Gut (2021). High credibility.
+### Guidelines on the management of ascites in cirrhosis [^115J4sRi]. Gut (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, BASL/BSG 2021 guidelines recommend to perform diagnostic paracentesis in patients with cirrhosis and ascites in the presence of any of the following:
 
@@ -492,7 +492,7 @@ Regarding diagnostic procedures for spontaneous bacterial peritonitis, more spec
 
 ---
 
-### Duration of antibiotic therapy for bacteremia: a systematic review and meta-analysis [^c1275f1d]. Critical Care (2011). Low credibility.
+### Duration of antibiotic therapy for bacteremia: a systematic review and meta-analysis [^115wMqQg]. Critical Care (2011). Low credibility.
 
 Although bacteremia caused by intravascular catheters is often cited as the commonest cause of BSI in the critical care setting, we were unable to identify any prospective, randomized investigations examining the duration of antibiotic therapy for CRBSI. Recommendations for length of treatment from the current IDSA guidelines are based only on expert opinion and retrospective case series and call for 5 to 7 days for infections caused by coagulase-negative staphylococci, 7 to 14 days for Enterococci and Gram-negative organisms, and 2 to 6 weeks for S. aureus. Trials are urgently needed, as this may be the syndrome most appropriate for shorter-course therapy given that the focus of infection is removable and thereby leaves no persisting infectious nidus for most patients.
 
@@ -502,25 +502,25 @@ Several narrative reviews and meta-analyses of RCTs have provided evidence of th
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^00a992d2]. Intensive Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1111yxZP]. Intensive Care Medicine (2021). High credibility.
 
 Sepsis without shock — timed investigation and antibiotic initiation is suggested: For adults with possible sepsis without shock, we suggest a time-limited course of rapid investigation and, if concern for infection persists, administration of antimicrobials within 3 hours from the time when sepsis was first recognized; this is a weak recommendation, very low quality of evidence, and the guideline also states antibiotics should be initiated no later than 3 hours after sepsis was first suspected if concern persists at that time.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1c88a844]. Intensive Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^111jJZBy]. Intensive Care Medicine (2021). High credibility.
 
 Infection — adults with possible sepsis without shock: we suggest a time-limited course of rapid investigation and, if concern for infection persists, the administration of antimicrobials within 3 hr from the time when sepsis was first recognized; recommendation strength: Weak, very low quality of evidence.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^48732dac]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^112rQo9V]. Hepatology (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, AASLD 2021 guidelines recommend to establish the diagnosis of SBP with a fluid polymorphonuclear leukocyte count > 250/mm³.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^d68c9d8a]. Gut (2021). Medium credibility.
+### Guidelines on the management of ascites in cirrhosis [^116V5aiV]. Gut (2021). Medium credibility.
 
 Ascitic fluid culture
 
@@ -536,67 +536,67 @@ A small proportion of patients with cirrhosis may develop peritonitis secondary 
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^74630ac0]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^113yYqBd]. Critical Care Medicine (2021). High credibility.
 
 Infection — Recommendation 14 (adults with possible sepsis without shock) states: we suggest a time-limited course of rapid investigation and if concern for infection persists, the administration of antimicrobials within 3 hr from the time when sepsis was first recognized. Recommendation strength: Weak, very low quality of evidence.
 
 ---
 
-### Antibiotic therapy in patients with septic shock [^c8b27d0a]. European Journal of Anaesthesiology (2011). Low credibility.
+### Antibiotic therapy in patients with septic shock [^1168YUbb]. European Journal of Anaesthesiology (2011). Low credibility.
 
 The management of a patient with severe sepsis is first to diagnose the infection, to collect samples immediately after diagnosis and to initiate promptly broad-spectrum antibiotic treatment. The choice of empirical antimicrobial therapy should be based on host characteristics, site of infection, local ecology and the pharmacokinetics and pharmacodynamics of the antibiotics. In severe infection, guidelines recommend the use of a combination of antibiotics. After results of cultures are obtained, treatment should be re-evaluated to either de-escalate or escalate the antibiotics. This is associated with optimal costs, decreased incidence of superinfection and reduced development of antimicrobial resistance. All these steps should be based on written protocols, and compliance to these protocols should be monitored continuously in order to detect violations and implement corrective procedures.
 
 ---
 
-### Antibiotic prophylaxis for spontaneous bacterial peritonitis: benefit or risk? [^9a86cf44]. The American Journal of Gastroenterology (2019). Medium credibility.
+### Antibiotic prophylaxis for spontaneous bacterial peritonitis: benefit or risk? [^114x6Nhh]. The American Journal of Gastroenterology (2019). Medium credibility.
 
 Spontaneous bacterial peritonitis (SBP) is associated with risk of acute on chronic liver failure (ACLF). Current guidelines recommend primary and secondary antibiotic prophylaxis for patients with cirrhosis and ascites who are at risk of a first episode and to prevent recurrence, respectively. Factors associated with prophylaxis failure leading to SBP, ACLF, and increased mortality are not well established. Gram-positive and multidrug-resistant organisms have become more frequently associated with SBP, particularly in the setting of ACLF. Efforts to understand how long-term antibiotic therapy may affect individual risk of SBP in this population will be critical to developing optimal preventive strategies.
 
 ---
 
-### Practice guidelines for the management of bacterial meningitis [^f77b1563]. Clinical Infectious Diseases (2004). Medium credibility.
+### Practice guidelines for the management of bacterial meningitis [^117KuHU6]. Clinical Infectious Diseases (2004). Medium credibility.
 
 Regarding follow-up and surveillance for acute bacterial meningitis, more specifically with respect to repeat lumbar puncture, IDSA 2004 guidelines recommend to repeat CSF analysis in patients not responding clinically after ≥ 48 hours of appropriate antimicrobial therapy.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^bb10f793]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^115nLPF8]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding screening and diagnosis for spontaneous bacterial peritonitis, more specifically with respect to diagnostic criteria, EASL 2018 guidelines recommend to diagnose SBP in the presence of > 250/mm³ neutrophils (counted by microscopy or using a flow cytometry-based automated count) in ascitic fluid.
 
 ---
 
-### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^c1eda228]. Critical Care Medicine (2023). High credibility.
+### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^115xWRrw]. Critical Care Medicine (2023). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) care in ACLF — We recommend using albumin in critically ill ACLF patients with SBP. We recommend using broad spectrum antibiotic agents for the initial management of SBP in critically ill ACLF patients. We suggest using appropriate antibiotics as soon as possible after recognition and within 1 hr of shock onset in critically ill ACLF patients with SBP and septic shock.
 
 ---
 
-### Evaluation and management of well-appearing febrile infants 8 to 60 days old [^af2792fa]. Pediatrics (2021). High credibility.
+### Evaluation and management of well-appearing febrile infants 8 to 60 days old [^115Ug8HP]. Pediatrics (2021). High credibility.
 
 Regarding medical management for febrile infant, more specifically with respect to antibiotic therapy (general principles), AAP 2021 guidelines recommend to administer targeted antimicrobial therapy for the duration of time consistent with the nature of the disease, responsible organism, and response of the infant to treatment, in well-appearing febrile infants 8–60 days of age with positive bacterial pathogens in urine, blood, or CSF.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^63fe9e25]. Intensive Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^113ZFJFe]. Intensive Care Medicine (2021). High credibility.
 
 Possible sepsis without shock but low infection likelihood — deferring antibiotics is suggested: For adults with a low likelihood of infection and without shock, we suggest deferring antimicrobials while continuing to closely monitor the patient; this is a weak recommendation, very low quality of evidence.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^df42fed6]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^116hzk29]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic procedures for ascites, more specifically with respect to diagnostic paracentesis, EASL 2018 guidelines recommend to obtain neutrophil count and culture of ascitic fluid culture (bedside inoculation blood culture bottles with 10 mL fluid each) to exclude bacterial peritonitis. Diagnose SBP in the presence of a neutrophil count > 250 cells/L.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^b348e469]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^115aoGVv]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Pediatric sepsis empiric antimicrobial management — timing and reassessment: Most microbiological cultures show significant growth within 24 to 36 hours, so empiric treatment should be reevaluated after no more than 48 hours following initiation. If no pathogen is identified and bacterial/fungal infection is deemed unlikely, clinicians should stop empiric antimicrobial therapy to reduce unnecessary exposure. Decisions to continue, narrow, or stop therapy must often be made on the basis of clinician judgment and indirect clinical information, and complex patients should be discussed with pediatric infectious diseases and/or microbiology specialists to ensure likely pathogens are treated and that antimicrobials are stopped when no longer necessary.
 
 ---
 
-### Recommendations for antibacterial therapy in adults with COVID-19-an evidence based guideline [^a94fb455]. Clinical Microbiology and Infection (2021). Medium credibility.
+### Recommendations for antibacterial therapy in adults with COVID-19-an evidence based guideline [^115L1gPn]. Clinical Microbiology and Infection (2021). Medium credibility.
 
 Scope
 
@@ -612,7 +612,7 @@ We assessed evidence on the risk of bacterial infections in hospitalized COVID-1
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008 [^5894d787]. Critical Care Medicine (2008). Low credibility.
+### Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008 [^113GKuUS]. Critical Care Medicine (2008). Low credibility.
 
 Objective
 
@@ -636,7 +636,7 @@ There was strong agreement among a large cohort of international experts regardi
 
 ---
 
-### British society of gastroenterology best practice guidance: outpatient management of cirrhosis-part 2: decompensated cirrhosis [^d6bd684d]. Frontline Gastroenterology (2023). Medium credibility.
+### British society of gastroenterology best practice guidance: outpatient management of cirrhosis-part 2: decompensated cirrhosis [^116VMyG8]. Frontline Gastroenterology (2023). Medium credibility.
 
 Outpatient management of ascites
 
@@ -648,7 +648,7 @@ New-onset ascites should be evaluated to ensure it is related to portal hyperten
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008 [^1fedd28a]. Intensive Care Medicine (2008). Low credibility.
+### Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008 [^111pLVtd]. Intensive Care Medicine (2008). Low credibility.
 
 Objective
 
@@ -672,61 +672,61 @@ There was strong agreement among a large cohort of international experts regardi
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^5587f406]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113BocY5]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of ascites, EASL 2018 guidelines recommend to obtain neutrophil count and culture of ascitic fluid culture (bedside inoculation blood culture bottles with 10 mL fluid each) to exclude bacterial peritonitis. Diagnose SBP in the presence of a neutrophil count > 250 cells/L.
 
 ---
 
-### AASLD practice guidance on acute-on-chronic liver failure and the management of critically ill patients with cirrhosis [^ff237b32]. Hepatology (2024). High credibility.
+### AASLD practice guidance on acute-on-chronic liver failure and the management of critically ill patients with cirrhosis [^117XFm6H]. Hepatology (2024). High credibility.
 
 AASLD Practice Guidance — Management of AKI in cirrhosis: the initial management follows three broad principles — identify the phenotype of the AKI, remove or treat the precipitating factor, and perform a trial of fluid challenge; because for every hour delay in the start of antibiotics there is an increase in mortality by 1.86 times, in patients suspected of bacterial infection early administration of empiric antibiotics is recommended once cultures have been taken; in SBP, albumin in conjunction with antibiotics can prevent kidney dysfunction; in ACLF with abnormal hemodynamics, diuretics or nephrotoxic drugs should be withdrawn and fluid challenge given; the recommended fluid challenge is 25% albumin at a dose of 1 g/kg body weight to a maximum of 100 g/day for 48 h, with close monitoring for signs of volume overload/pulmonary edema; for HRS-AKI not responsive to volume challenge, the mainstay of treatment is vasoconstrictor therapy together with albumin (20–40 g/day), and in a recent terlipressin trial for HRS1 respiratory failure was observed in 8% of patients who received terlipressin, so patients should be carefully monitored for pulmonary edema and the total amount of albumin administered prior to terlipressin should be considered.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^11ab009d]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^111TCEBn]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, EASL 2018 guidelines recommend to establish the diagnosis of SBP based on neutrophil count in ascitic fluid of > 250/mm³. Determine neutrophil count by microscopy, or consider using a flow cytometry-based automated count. Insufficient evidence to support the routine use of reagent strips.
 
 ---
 
-### ACG clinical guideline: alcoholic liver disease [^8b06995c]. The American Journal of Gastroenterology (2018). Medium credibility.
+### ACG clinical guideline: alcoholic liver disease [^114Z7VjR]. The American Journal of Gastroenterology (2018). Medium credibility.
 
 Ascites and spontaneous bacterial peritonitis (SBP) in alcoholic cirrhosis — "A diagnostic paracentesis is warranted to rule out spontaneous bacterial peritonitis", "A therapeutic paracentesis is carried out as required for symptom relief of tense ascites", and "Management of ascites and hepatorenal syndrome should follow established guidelines"; in SBP, "In addition to antibiotics, albumin 1.5 g/kg is recommended on day 1 and 1 g/kg on day 3 in the presence of spontaneous bacterial peritonitis".
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^7ce46556]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^114CABTK]. Hepatology (2021). High credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, AASLD 2021 guidelines recommend to perform diagnostic abdominal paracentesis to rule out SBP in patients with ascites due to cirrhosis emergently admitted to the hospital, even in the absence of symptoms/signs of infection.
 
 ---
 
-### How long should we treat this infection for? [^3cb1f7bb]. Archives of Disease in Childhood: Education and Practice Edition (2013). Low credibility.
+### How long should we treat this infection for? [^112Yz2zv]. Archives of Disease in Childhood: Education and Practice Edition (2013). Low credibility.
 
 Infection accounts for approximately half of all paediatric admissions to hospital and an even greater proportion of primary care. Guidelines on duration of antibiotic therapy exist, but antibiotic therapy for children needs to be individualised. If a child is not improving the clinical condition and treatment should be reviewed and/or discussed with an expert. However, slavishly completing the recommended course of antibiotics in a child who is well, may not be appropriate. Recent studies on treatment duration advocate shortened courses with certain caveats, but guidelines and clinical practice do not always follow the evidence from the few randomised trials of treatment duration of infection.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^4816fb88]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^112qsq2X]. Hepatology (2021). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) prophylaxis — AASLD 2021 guidance states that evidence for primary prophylaxis with antibiotics is not strong and is restricted to patients with very advanced cirrhosis, and SBP prophylaxis should be individualized based on estimated risks and benefits. SBP should receive long-term prophylaxis with daily norfloxacin; in settings in which norfloxacin is unavailable, oral ciprofloxacin is acceptable. In patients with cirrhosis and upper gastrointestinal hemorrhage, antibiotic prophylaxis for SBP should be instituted; IV ceftriaxone 1 g/24 hours is the antibiotic of choice and should be used for a maximum of 7 days. In patients with cirrhosis and low protein (< 1.5 g/dL) ascites, primary SBP prophylaxis can be considered in selected patients with renal dysfunction (serum creatinine level > 1.2 mg/dL, blood urea nitrogen level > 25 mg/dL, or serum sodium level < 130 mEq/L) or liver failure (Child-Turcotte-Pugh score > 9 and bilirubin > 3 mg/dL).
 
 ---
 
-### Changes in ascitic fluid polymorphonuclear cell count after antibiotics are associated with mortality in spontaneous bacterial peritonitis [^fe9c482b]. Clinical Gastroenterology and Hepatology (2022). Medium credibility.
+### Changes in ascitic fluid polymorphonuclear cell count after antibiotics are associated with mortality in spontaneous bacterial peritonitis [^117WUMCN]. Clinical Gastroenterology and Hepatology (2022). Medium credibility.
 
 Spontaneous bacterial peritonitis (SBP) is a feared complication of ascites that affects 10%-30% of hospitalized patients with cirrhosis with an associated mortality rate of approximately 20%. 1–3 Although efforts have been undertaken to encourage prompt evaluation and treatment of SBP, outcomes have generally remained dismal. 3 There is significant interest in identifying factors that can reliably predict mortality among individuals with SBP.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^f0c867dd]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^1179yLrQ]. Hepatology (2021). High credibility.
 
 Spontaneous bacterial peritonitis management — IV antibiotics should be started empirically (before obtaining culture results) in all patients with an ascites PMN count > 250/mm³; patients with a focal intraabdominal inflammatory entity (e.g., diverticulitis, cholecystitis) may have an ascites PMN count > 250/mm³ and should be treated not for SBP but for the specific condition per standard of care, including a surgical consult; traditionally, third-generation cephalosporins (ceftriaxone, cefotaxime) were recommended in all patients with SBP, with resolution rates of approximately 90%, and currently they are recommended as the first-line antibiotics (e.g. IV cefotaxime 2 g every 12 hours) in settings where MDROs are not prevalent; inappropriate initial antimicrobial therapy in patients admitted with septic shock increases the risk of death by 10 times.
 
 ---
 
-### BSG 2024 IBD guidelines protocol (standard operating procedures) [^decff96d]. BMJ Open Gastroenterology (2023). High credibility.
+### BSG 2024 IBD guidelines protocol (standard operating procedures) [^116hL7EC]. BMJ Open Gastroenterology (2023). High credibility.
 
 UK regulatory approval is mandatory for any pharmacological or similar intervention to be considered. However, UK NICE approval is not considered.
 Multiple treatment arms will be considered. To allow consideration of non-placebo comparators and standard therapies, network meta-analysis will be deployed in key targeted areas, as decided by the GDG subgroups and when sufficient volume of homogeneous studies is likely to be included.
@@ -741,13 +741,13 @@ Therapy delivered in primary, secondary or tertiary care, as well as self-admini
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^2871c7e4]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1122xiuH]. Critical Care Medicine (2021). High credibility.
 
 Surviving Sepsis Campaign 2021 — duration of antibiotics: For adults with an initial diagnosis of sepsis or septic shock and adequate source control, we suggest using shorter over longer duration of antimicrobial therapy. Weak recommendation, low quality of evidence. As rationale, the guideline states that for adults with an initial diagnosis of sepsis or septic shock and adequate source control, we suggest a shorter course of antibiotics, as this is less costly, has fewer undesirable effects without impacting adversely on outcomes.
 
 ---
 
-### Bacterial DNA is a prognostic factor for mortality in patients who recover from spontaneous bacterial peritonitis [^5074b494]. Annals of Gastroenterology (2021). Medium credibility.
+### Bacterial DNA is a prognostic factor for mortality in patients who recover from spontaneous bacterial peritonitis [^1134HD9d]. Annals of Gastroenterology (2021). Medium credibility.
 
 Patients and methods
 
@@ -767,19 +767,19 @@ Clinical and laboratory data (in both blood and AF) were obtained on admission (
 
 ---
 
-### Clinical practice guidelines by the Infectious Diseases Society of America (IDSA): 2020 guideline on diagnosis and management of babesiosis [^4c77eeb8]. Clinical Infectious Diseases (2021). High credibility.
+### Clinical practice guidelines by the Infectious Diseases Society of America (IDSA): 2020 guideline on diagnosis and management of babesiosis [^112xNLtf]. Clinical Infectious Diseases (2021). High credibility.
 
 IDSA 2020 babesiosis guideline — antimicrobial course duration and step-down: For most patients admitted to the hospital with severe babesiosis, a 7–10 day antibiotic course is sufficient to achieve cure, and the duration of antibiotic therapy should be extended to at least 6 weeks for highly immunocompromised patients, especially those with impaired antibody production; step-down therapy to an all-oral antimicrobial regimen is appropriate once symptoms and parasitemia have abated, or at time of discharge.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^83e84955]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^114NZQDr]. Critical Care Medicine (2021). High credibility.
 
 Antimicrobial stewardship in adults with sepsis or septic shock — we suggest daily assessment for de-escalation of antimicrobials over using fixed durations of therapy without daily reassessment for de-escalation (Weak, very low quality of evidence). For patients with an initial diagnosis of sepsis or septic shock and adequate source control, we suggest using shorter over longer duration of antimicrobial therapy (Weak, very low quality of evidence). Where optimal duration of therapy is unclear, we suggest using procalcitonin AND clinical evaluation to decide when to discontinue antimicrobials over clinical evaluation alone (Weak, low quality of evidence).
 
 ---
 
-### Early response in cellulitis: a prospective study of dynamics and predictors [^ea9bec00]. Clinical Infectious Diseases (2016). Low credibility.
+### Early response in cellulitis: a prospective study of dynamics and predictors [^116zpUYf]. Clinical Infectious Diseases (2016). Low credibility.
 
 Skin and soft tissue infections (SSTIs) are common causes of medical care, and increasing frequency and costs are reported. The SSTI that most often requires systemic antibiotics is cellulitis, a diffuse skin infection that includes the superficial subtype known as erysipelas. Cellulitis is usually caused by β-hemolytic streptococci (BHS) that are susceptible to penicillin and other narrow-spectrum antibiotics. However, there are significant treatment challenges, including overuse of broad-spectrum and intravenous antibiotics, difficulties regarding when to initiate rescue therapy and when to stop treatment, and frequent recurrences. Toxin effects and profound local inflammation, not necessarily corresponding to bacterial burden or antibiotic needs, may contribute to these problems. Also, host factors affecting the dynamics of treatment response may adversely impact antibiotic choices and other resource use.
 
@@ -787,19 +787,19 @@ Increasing the knowledge on the clinical course, response dynamics, and associat
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^62467ff8]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113WhU4o]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic procedures for spontaneous bacterial peritonitis, more specifically with respect to diagnostic paracentesis, EASL 2018 guidelines recommend to perform diagnostic paracentesis in all patients with cirrhosis and ascites without delay at hospital admission to rule out SBP.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^e5008602]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^116rWLjT]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Best practice statements (BPSs) and "in our practice" statements — BPSs were developed as ungraded strong recommendations within strict conditions suggested by the GRADE Working Group and were issued when evidence could not be summarized or assessed using GRADE methodology but benefit or harm was deemed unequivocal. The panel also issued recommendations "against" an intervention based on low or very low quality of evidence when there was uncertain benefit but very likely or certain harm, including high costs. When evidence was insufficient to make a recommendation but guidance based on current practice patterns was appropriate, the panel issued "in our practice" statements, developed through a survey of panelists to ascertain their state of current practice; these statements are intended only to describe current variation in care and are not meant to be construed as recommendations. The SSC is committed to ensuring that guidelines are updated or affirmed every 4 years or sooner if breaking and relevant evidence becomes available.
 
 ---
 
-### Guidelines on the management of ascites in cirrhosis [^0d952e48]. Gut (2021). Medium credibility.
+### Guidelines on the management of ascites in cirrhosis [^111M8wwV]. Gut (2021). Medium credibility.
 
 Spontaneous bacterial peritonitis (SBP)
 
@@ -807,19 +807,19 @@ Spontaneous bacterial peritonitis is the development of bacterial infection of a
 
 ---
 
-### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^78764be0]. Critical Care Medicine (2023). High credibility.
+### Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations [^1145bFR9]. Critical Care Medicine (2023). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) — empiric antimicrobial therapy and resistance considerations emphasize early, targeted treatment and resistance-aware selection. Delayed administration of appropriate antimicrobial therapy is associated with increased mortality. Systematic reviews report multidrug-resistant pathogens in nosocomial SBP at 30–66% and higher third-generation cephalosporin resistance in nosocomial versus community settings, with nosocomial SBP having higher resistance risk (RR, 1.67; 95% CI, 1.14–2.44; p = 0.008). For healthcare-associated SBP, carbapenem-based empirical therapy showed lower mortality and treatment failure than third-generation cephalosporin regimens (6% vs 25%; p = 0.01, 18% vs 51%; p = 0.001) and better cost effectiveness. Accordingly, "we recommend limiting the use of third-generation cephalosporins in the initial empirical treatment to low-risk community-acquired SBP patients in the setting of low prevalence of drug resistance", and "Active agents against ESBL-producing pathogen (Carbapenems) should be considered for the empirical treatment of healthcare-associated SBP". In high-risk critically ill or nosocomial cases, a "tailored approach… covering resistant pathogens (ESBL, MRSA, ± VRE) would be best suited", with de-escalation after cultures since "antibiotic therapy should be tailored to the narrowest spectrum based on organism sensitivities".
 
 ---
 
-### Society of Critical Care Medicine and the Infectious Diseases Society of America guidelines for evaluating new fever in adult patients in the ICU [^327baa30]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine and the Infectious Diseases Society of America guidelines for evaluating new fever in adult patients in the ICU [^112HqvGw]. Critical Care Medicine (2023). High credibility.
 
 Society of Critical Care Medicine and Infectious Diseases Society of America adult ICU new fever biomarkers guidance states that in critically ill patients with a new fever and no clear focus of infection, when the probability of bacterial infection is low to intermediate, we suggest measuring procalcitonin (PCT) in addition to bedside clinical evaluation versus bedside clinical evaluation alone (weak recommendation, very low-quality evidence) and we suggest measuring C-reactive protein (CRP) in addition to bedside clinical evaluation versus bedside clinical evaluation alone (weak recommendation, very low-quality evidence). When the probability is high, we suggest not measuring PCT to rule out bacterial infection (weak recommendation, very low-quality evidence) and we suggest not measuring CRP to rule out bacterial infection (weak recommendation, very low-quality evidence). For low to intermediate probability, we suggest measuring either serum PCT or CRP to rule out bacterial infection (Weak recommendation, very low-quality evidence). Biomarkers such as PCT and CRP deployed with rapid turnaround times, have been used as adjuncts in the early diagnosis of sepsis while awaiting microbiologic culture results, major guidelines recommend against routine use of biomarkers in the setting of sepsis and septic shock, out of respect for uncertain benefit and cost and availability issues, and in the setting of fever and lower likelihood of infection, however, there may be a role in obtaining a baseline value to assist in the discontinuation of antimicrobial therapy.
 
 ---
 
-### Guideline for management of septic arthritis in native joints (SANJO) [^fee3e1ac]. Journal of Bone and Joint Infection (2023). High credibility.
+### Guideline for management of septic arthritis in native joints (SANJO) [^117WtQ51]. Journal of Bone and Joint Infection (2023). High credibility.
 
 Regarding follow-up and surveillance for septic arthritis, more specifically with respect to assessment of treatment response, EBJIS 2023 guidelines recommend to take into consideration at least the following when assessing treatment outcome:
 
@@ -831,31 +831,31 @@ Regarding follow-up and surveillance for septic arthritis, more specifically wit
 
 ---
 
-### Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America [^760f62a6]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
+### Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America [^11422hz5]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
 
 Community-acquired pneumonia (CAP) in adults — antibiotic duration and oral step-down: We recommend treating for a minimum of 5 days, with most patients achieving clinical stability within 48 to 72 hours such that a total duration of therapy of 5 days will be appropriate for most patients; when switching from parenteral to oral antibiotics, either the same agent or the same drug class should be used, and for CAP due to suspected or proven MRSA or P. aeruginosa, therapy should be 7 days.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^deec7543]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^116hVg8r]. Hepatology (2021). High credibility.
 
 Albumin in cirrhosis with infection and SBP indicates benefit and dosing: IV albumin improves survival in patients with cirrhosis and SBP, with those who most benefited having renal dysfunction (blood urea nitrogen > 30 mg/dL or creatinine > 1.0 mg/dL) or severe hepatic decompensation (bilirubin > 5 mg/dL). In an infection other than SBP, IV albumin has been used in the same doses (1.5 g/kg at day 1 and 1 g/kg at day 3); it has remained the standard recommendation. Alternatively, following the recommendations for the use of albumin in patients with acute kidney injury (AKI) would also be appropriate.
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^6f9eaefa]. Intensive Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^113rUvgh]. Intensive Care Medicine (2021). High credibility.
 
 Sepsis and septic shock — antimicrobial de-escalation and duration — For adults with sepsis or septic shock, we suggest daily assessment for de-escalation of antimicrobials over using fixed durations of therapy without daily reassessment for de-escalation (Weak, very low quality of evidence); for adults with an initial diagnosis of sepsis or septic shock and adequate source control, we suggest using shorter over longer duration of antimicrobial therapy (Weak, very low quality of evidence); and for adults with an initial diagnosis of sepsis or septic shock and adequate source control where optimal duration of therapy is unclear, we suggest using procalcitonin AND clinical evaluation to decide when to discontinue antimicrobials over clinical evaluation alone (Weak, low quality of evidence).
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^94701236]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^114o4p2h]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to evaluation of ascites, diagnostic paracentesis, EASL 2018 guidelines recommend to obtain neutrophil count and culture of ascitic fluid (bedside inoculation blood culture bottles with 10 mL fluid each) to exclude bacterial peritonitis. Diagnose SBP in the presence of a neutrophil count > 250 cells/mcl.
 
 ---
 
-### Surviving Sepsis Campaign guidelines for management of severe sepsis and septic shock [^5d87c683]. Critical Care Medicine (2004). Low credibility.
+### Surviving Sepsis Campaign guidelines for management of severe sepsis and septic shock [^113PfTKx]. Critical Care Medicine (2004). Low credibility.
 
 Objective
 
@@ -879,13 +879,13 @@ Evidence-based recommendations can be made regarding many aspects of the acute m
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^0b65ff30]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^111Hu8AB]. Clinical Infectious Diseases (2023). High credibility.
 
 Duration of therapy and oral step-down — guidance principles: Recommendations on durations of therapy are not provided, and durations may vary if initially inactive therapy was given; uncomplicated cystitis is typically mild and, if clinical improvement occurs despite empiric inactive therapy, it is generally not necessary to repeat urine culture, change the regimen, or extend the planned course, whereas for other infections if AST later indicates inactive empiric therapy, a change to an active regimen for a full treatment course (dated from the start of active therapy) is suggested; host factors and source control should inform duration decisions, and transitioning to oral therapy should be considered when susceptibility to an appropriate oral agent is demonstrated, the patient is hemodynamically stable, source control measures have occurred, and there are no concerns about insufficient intestinal absorption.
 
 ---
 
-### Early stoppage of empirical antibiotic therapy in paediatric acute leukaemia with high-risk febrile neutropenia: a randomized, open-label, phase 3, non-inferiority trial [^80eb0f51]. EClinicalMedicine (2025). Medium credibility.
+### Early stoppage of empirical antibiotic therapy in paediatric acute leukaemia with high-risk febrile neutropenia: a randomized, open-label, phase 3, non-inferiority trial [^114J8NQY]. EClinicalMedicine (2025). Medium credibility.
 
 Introduction
 
@@ -899,12 +899,12 @@ To address this important evidence gap, we conducted a randomized, open-label, n
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^e9b8e17a]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^116yWDRs]. Hepatology (2021). High credibility.
 
 Spontaneous bacterial peritonitis (SBP) and other spontaneous infections — symptoms and diagnostic criteria specify that symptoms/signs specific to SBP are abdominal pain, tenderness on palpation (with or without rebound tenderness), and ileus, yet up to one third of the patients with spontaneous infections may be entirely asymptomatic or present with only encephalopathy and/or acute kidney injury (AKI). The diagnosis of SBP or SBE is established with a fluid absolute neutrophil count greater than 250/mm³ (ascites or pleural, respectively), and spontaneous bacteremia is established with positive blood cultures.
 
 ---
 
-### 2018 Infectious Diseases Society of America clinical practice guideline for the management of outpatient parenteral antimicrobial therapy [^63101fd1]. Clinical Infectious Diseases (2019). High credibility.
+### 2018 Infectious Diseases Society of America clinical practice guideline for the management of outpatient parenteral antimicrobial therapy [^113XsC2U]. Clinical Infectious Diseases (2019). High credibility.
 
 Evidence grading — upgrading rules state that the level of evidence was upgraded for large magnitude of effect, with 1 point added if 50% or more of studies for a given outcome had an effect size ≥ 2 or ≤ 0.5, and upgraded by 2 points if 50% or more had an effect size ≥ 5 or ≤ 0.2; upgrading for a dose–response relationship was done if 50% or more of studies demonstrated a dose–response relationship; and upgrading for confounders was done if in 50% or more of studies evaluating a particular outcome, consideration of unmeasured confounders would have been expected to increase the magnitude of the effect reported.

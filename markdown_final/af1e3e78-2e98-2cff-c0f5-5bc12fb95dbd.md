@@ -74,13 +74,13 @@ A rhombus has **four sides** of equal length, with opposite sides parallel and o
 
 ## References
 
-### Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial [^a87e4834]. JAMA (2024). Excellent credibility.
+### Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial [^115JoLWw]. JAMA (2024). Excellent credibility.
 
 The study SURMOUNT-4 was published by Louis J Aronne and colleagues in 2024 in the journal JAMA. This study is related to the following diseases: Obesity. In the SURMOUNT-4 study, the trial question was: what is the effect of continued treatment with tirzepatide in adults with obesity or overweight? In the SURMOUNT-4 study, the study design was: multi-center, double blinded, RCT. In the SURMOUNT-4 study, the population was: 670 patients (473 female, 197 male). The inclusion criteria were adults with a BMI ≥ 30 kg/m² or ≥ 27 kg/m² and a weight-related complication. The key exclusion criteria were diabetes; prior or planned surgical treatment for obesity; treatment with a medication that promotes weight loss within 3 months prior to enrollment. In the SURMOUNT-4 study, the interventions were: n = 335 tirzepatide (initiated at 2.5 mg SC once weekly and increased by 2.5 mg every 4 weeks to a maintenance dose of 10–15 mg once weekly, and continued for a total of 52 weeks after a lead-in 36-week period of receiving tirzepatide) n = 335 placebo (matching placebo once weekly for 52 weeks after a lead-in 36-week period of receiving tirzepatide). In the SURMOUNT-4 study, the primary outcome was: significant increase in mean reduction in weight from week 36 to 88 (5.5% vs. -14%; ARD 19.4, 95% CI 17.7 to 21.2). In the SURMOUNT-4 study, the secondary outcomes were: significant increase in reduction in body weight from week 36 to 88 (4.7 kg vs. -11.1 kg; AD 15.8 kg, 95% CI 14.3 to 17.3) Significant increase in reduction in waist circumference from week 36 to 88 (4.3 cm vs. -7.8 cm; AD 12.1 cm, 95% CI 10.6 to 13.5) Significant increase in maintenance of ≥ 80% body weight reduction during 36-week lead-in at week 88 (89.5% vs. 16.6%; AD 44%, 95% CI 24.9 to 77.5). In the SURMOUNT-4 study, the safety outcomes were: no significant difference in adverse and serious adverse events. In the SURMOUNT-4 study, the conclusion was: in adults with a BMI ≥ 30 kg/m² or ≥ 27 kg/m² and a weight-related complication, tirzepatide was superior to placebo with respect to mean reduction in weight from week 36 to 88.
 
 ---
 
-### Controlling network ensembles [^0fba599f]. Nature Communications (2021). High credibility.
+### Controlling network ensembles [^111QKQcv]. Nature Communications (2021). High credibility.
 
 Table 1
 The distributions from which the edge weights are drawn for the graph in Fig. 4 A.
@@ -91,25 +91,25 @@ For this network, we choose nodes 1 and 2 to be driver nodes and nodes 5 and 6 t
 
 ---
 
-### AIDS-related kaposi sarcoma, version 2.2019, NCCN clinical practice guidelines in oncology [^1fdd7fba]. Journal of the National Comprehensive Cancer Network (2019). High credibility.
+### AIDS-related kaposi sarcoma, version 2.2019, NCCN clinical practice guidelines in oncology [^111pF1tD]. Journal of the National Comprehensive Cancer Network (2019). High credibility.
 
 Kaposi sarcoma — advanced disease management (NCCN v2.2026) directs that patients eligible for systemic therapy receive "Systemic therapy p or Clinical trial q and Continue or initiate ART j, k, l for PWH", with response leading to "Observe (KS-4) and Continue ART j, k for PWH"; if "Relapsed or progressive disease e", proceed to relapsed/refractory therapy: "Continue ART j, k for PWH and Clinical trial q or Relapsed/Refractory Disease Therapy s (KS-F) or RT o, u". Patients "Not immediately eligible for systemic therapy u" should undergo "Medical optimization u and Consider RT o, u and Continue or initiate ART j, k, l for PWH", then "Reassess eligibility for systemic therapy"; if "Not eligible for systemic therapy", "Consider RT or Best supportive care". Advanced disease is defined as "T1 disease, extensive T0 cutaneous disease, or nodal disease". Additional guidance states "Glucocorticoids in any formulation should be avoided due to their association with KS progression. However, in cases of life-threatening conditions, their use may be considered", that "Patients who are only on ART should be reassessed within 4 weeks", and that "Initiation of ART may result in IRIS within 3–6 months". For disseminated disease, "Systemic therapy should be considered over RT… whenever systemic therapy is feasible". Note: "All recommendations are category 2A unless otherwise indicated".
 
 ---
 
-### Direct experimental observation of the molecular J = 3 / 2 ground state in the lacunar spinel GaTaSe [^3e6a3352]. Nature Communications (2017). Medium credibility.
+### Direct experimental observation of the molecular J = 3 / 2 ground state in the lacunar spinel GaTaSe [^112bXuRb]. Nature Communications (2017). Medium credibility.
 
 Establishing the molecular J eff = 3/2 nature of GaTa 4 Se 8 does not only just provide the opportunities for investigating J eff physics but also elucidates the current important issues in GaTa 4 Se 8 and its close cousins such as GaNb 4 X 8 and GaMo 4 X 8 (X = Se, Te). In GaTa 4 Se 8, for example, the underlying mechanism is not clearly understood for the 'paramagnetic' insulator to metal transition and the superconductivity under pressure –. Furthermore, the magnetic behavior of this material at low temperatures does not seem to support a simple 'paramagnetic' Mott phase. It should be emphasized that the relativistic J eff state has not been identified in the previous studies, since it is a recent theoretical findingand is experimentally established in this study. On the basis of the current spectroscopic evidence, one can consider the ground state of GaTa 4 Se 8 as the manifestation of the frustrated magnetic phase emerging from the non-trivial interactions among the relativistic J eff = 3/2 moments. Moreover, we speculate that the superconductivity reported in this material is also related to this phase. We note that the other related lacunar spinel compound, GaNb 4 Se 8 which is also expected to have the molecular J eff = 3/2 nature, exhibits a quite similar low-temperature behavior and becomes superconducting. On the other hand, the molecular J eff = 1/2 material with basically the same structure, GaMo 4 X 8 (X = S, Se), is well understood as a ferromagnetand does not exhibit superconductivity. Our total energy calculation shows that the molecular J eff = 3/2 moments of the Ta 4 cluster are in fact antiferromagnetically coupled between neighboring clusters (E AFM-FM = −7.4 meV per cluster). Considering the fcc arrangement of this cluster unit, this strongly suggests magnetic frustration. In this regard, our current study may indicate that the molecular J eff moments are frustrated in this material. This is compatible with recent experimental observations of the specific heat and magnetic susceptibility, interpreted as a formation of dimerization and a spin singlet state.
 
 ---
 
-### Effects of tirzepatide versus insulin glargine on kidney outcomes in type 2 diabetes in the SURPASS-4 trial: post-hoc analysis of an open-label, randomised, phase 3 trial [^26198145]. The Lancet: Diabetes & Endocrinology (2022). High credibility.
+### Effects of tirzepatide versus insulin glargine on kidney outcomes in type 2 diabetes in the SURPASS-4 trial: post-hoc analysis of an open-label, randomised, phase 3 trial [^111yV6ax]. The Lancet: Diabetes & Endocrinology (2022). High credibility.
 
 The study SURPASS-4 (post-hoc analysis) was published by Hiddo J L Heerspink and colleagues in 2022 in the journal Lancet Diabetes Endocrinol. This study is related to the following diseases: Diabetes mellitus type 2. In the SURPASS-4 (post-hoc analysis) study, the trial question was: is tirzepatide superior to insulin glargine in patients with T2DM with regard to renal outcomes? In the SURPASS-4 (post-hoc analysis) study, the study design was: multi-center, open label, RCT. In the SURPASS-4 (post-hoc analysis) study, the population was: 1995 patients. The inclusion criteria were adult patients with inadequately controlled T2DM on oral diabetes medication and high cardiovascular risk. The key exclusion criteria were T1DM mellitus, chronic or acute pancreatitis, acute or chronic hepatitis, diabetic retinopathy requiring urgent treatment, heart attack or stroke in the past 2 months. In the SURPASS-4 (post-hoc analysis) study, the interventions were: n = 995 tirzepatide (initiated at 2.5 mg SC once weekly and increased by 2.5 mg every 4 weeks until the randomly assigned maintenance dose of 5 mg, 10 mg, or 15 mg once weekly was reached, and continued for a total of 104 weeks) n = 1000 insulin glargine (titrated to 100 U/mL SC once daily). In the SURPASS-4 (post-hoc analysis) study, the primary outcome was: significant decrease in estimated glomerular filtration decline (1.4 mL/min/1.73 m² vs. 3.6 mL/min/1.73 m²; AD -2.2 mL/min/1.73 m², 95% CI -1.6 to -2.8). In the SURPASS-4 (post-hoc analysis) study, the secondary outcomes were: significant increase in urine albumin-creatinine ratio reduction (6.8% vs. -36.9%; AD 31.9%, 95% CI 25.7 to 37.7). In the SURPASS-4 (post-hoc analysis) study, the conclusion was: in adult patients with inadequately controlled T2DM on oral diabetes medication and high cardiovascular risk, tirzepatide was superior to insulin glargine with respect to estimated glomerular filtration decline.
 
 ---
 
-### Bidirectional association between physical activity and sleep in healthy Japanese super-seniors: the Japan healthy aging study (J-HAS) [^8f0cbdea]. Npj Aging (2025). Medium credibility.
+### Bidirectional association between physical activity and sleep in healthy Japanese super-seniors: the Japan healthy aging study (J-HAS) [^114f5WXj]. Npj Aging (2025). Medium credibility.
 
 Association between TST and step count the following day
 
@@ -117,37 +117,37 @@ Table 4 and Fig. 2a presents a positive within-individual association between TS
 
 ---
 
-### Direct experimental observation of the molecular J = 3 / 2 ground state in the lacunar spinel GaTaSe [^c5fd8b5d]. Nature Communications (2017). Medium credibility.
+### Direct experimental observation of the molecular J = 3 / 2 ground state in the lacunar spinel GaTaSe [^1164Xixc]. Nature Communications (2017). Medium credibility.
 
 Strong spin-orbit coupling lifts the degeneracy of t 2g orbitals in 5d transition-metal systems, leaving a Kramers doublet and quartet with effective angular momentum of J eff = 1/2 and 3/2, respectively. These spin-orbit entangled states can host exotic quantum phases such as topological Mott state, unconventional superconductivity, and quantum spin liquid. The lacunar spinel GaTa 4 Se 8 was theoretically predicted to form the molecular J eff = 3/2 ground state. Experimental verification of its existence is an important first step to exploring the consequences of the J eff = 3/2 state. Here, we report direct experimental evidence of the J eff = 3/2 state in GaTa 4 Se 8 by means of excitation spectra of resonant inelastic X-ray scattering at the Ta L 3 and L 2 edges. We find that the excitations involving the J eff = 1/2 molecular orbital are absent only at the Ta L 2 edge, manifesting the realization of the molecular J eff = 3/2 ground state in GaTa 4 Se 8. The strong interaction between electron spin and orbital degrees of freedom in 5d oxides can lead to exotic electronic ground states. Here the authors use resonant inelastic X-ray scattering to demonstrate that the theoretically proposed J eff = 3/2 state is realised in GaTa 4 Se 8.
 
 ---
 
-### Early rhythm-control therapy in patients with atrial fibrillation [^7e2344c5]. The New England Journal of Medicine (2020). Excellent credibility.
+### Early rhythm-control therapy in patients with atrial fibrillation [^114E1Hba]. The New England Journal of Medicine (2020). Excellent credibility.
 
 The study EAST-AFNET 4 was published by Paulus Kirchhof and colleagues in 2020 in the journal N Engl J Med. This study is related to the following diseases: Atrial fibrillation. In the EAST-AFNET 4 study, the trial question was: what is the role of early rhythm-control therapy in patients with AF? In the EAST-AFNET 4 study, the study design was: multi-center, open label, RCT. In the EAST-AFNET 4 study, the population was: 2789 patients (1293 female, 1496 male). The inclusion criteria were patients who had early AF diagnosed ≤ 1 year before enrollment and cardiovascular conditions. The key exclusion criteria were any disease that limits life expectancy to < 1 year; pregnancy or lactation; drug abuse; prior ablation or surgical therapy of AF; previous therapy failure on amiodarone; severe mitral valve stenosis; prosthetic mitral valve. In the EAST-AFNET 4 study, the interventions were: n = 1395 early rhythm control (treatment with antiarrhythmic drugs or AF ablation at an early time point) n = 1394 usual care (following the 2010 ESC guidelines for AF treatment). In the EAST-AFNET 4 study, the primary outcome was: significant decrease in the incidence of death from cardiovascular causes, stroke, or hospitalization with worsening of HF or acute coronary syndrome (3.9/100 py vs. 5/100 py; HR 0.79, 96% CI 0.66 to 0.94). In the EAST-AFNET 4 study, the secondary outcomes were: no significant difference in the incidence of mean number of nights spent in the hospital (5.8 days / y vs. 5.1 days / y; HR 1.08, 99% CI 0.92 to 1.28) No significant difference in change in European QoL-5 Dimensions score at 2 years (-1 points vs. -2.7 points; AD 1.07 points, 95% CI -0.68 to 2.82) Significant decrease in change in 12-Item Short-Form General Health Survey Mental score at 2 years (0.7 points vs. 1.6 points; AD -1.2 points, 95% CI -2.04 to -0.37). In the EAST-AFNET 4 study, the safety outcomes were: no significant difference in symptoms of LV function at 2 years and death. significant difference in serious adverse events related to rhythm-control therapy (4.9% vs. 1.4%). In the EAST-AFNET 4 study, the conclusion was: in patients who had early AF diagnosed ≤ 1 year before enrollment and cardiovascular conditions, early rhythm control was superior to usual care with respect to the incidence of death from cardiovascular causes, stroke, or hospitalization with worsening of HF or acute coronary syndrome.
 
 ---
 
-### NCCN guidelines® insights: central nervous system cancers, version 2.2022 [^0a009a1f]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### NCCN guidelines® insights: central nervous system cancers, version 2.2022 [^111Fq5Yi]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 NCCN Guidelines — Leptomeningeal metastases treatment (CSF cytology positive, clinically stable/no radiologic progression) indicates that when the patient is clinically stable or improving and there is no evidence of radiologic progression of leptomeningeal disease, continue current therapy j (systemic or intra-CSF) for 4 weeks or consider switching therapy and treat for 4 weeks before re-evaluating CSF cytology; after re-evaluation, if negative cytology or persistent positive cytology but the patient is clinically stable, the algorithm lists maintenance therapy j and monitor CSF cytology every 4–8 weeks and Principles of Brain and Spine Imaging (BRAIN-A).
 
 ---
 
-### Long-term safety and efficacy of alogliptin, a DPP-4 inhibitor, in patients with type 2 diabetes: a 3-year prospective, controlled, observational study (J-BRAND registry) [^c6eb3005]. BMJ Open Diabetes Research & Care (2021). High credibility.
+### Long-term safety and efficacy of alogliptin, a DPP-4 inhibitor, in patients with type 2 diabetes: a 3-year prospective, controlled, observational study (J-BRAND registry) [^1165uYd2]. BMJ Open Diabetes Research & Care (2021). High credibility.
 
 Mean fasting triglycerides was comparable at baseline (table 1). Although the values did not change considerably in group A patients, a significant decrease was observed at 0.5-year, 1.5-year, and 2.0-year visits in group B patients. The difference of this parameter was with no significance between the two groups throughout the study period (see online supplemental table 4).
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^df27a2d9]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^116hqZ1z]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD — kidney biopsy to establish cause: Recommendation 1.1.4.1 states, "We suggest performing a kidney biopsy as an acceptable, safe, diagnostic test to evaluate cause and guide treatment decisions when clinically appropriate (2D)", and adds that "This recommendation places a high value on an acceptable safety profile of kidney biopsies when used to evaluate the cause of CKD and to plan appropriate treatment".
 
 ---
 
-### Icatibant [^87e58307]. FDA (2025). Medium credibility.
+### Icatibant [^114UURJ6]. FDA (2025). Medium credibility.
 
 Figure D
 
@@ -181,19 +181,19 @@ Step 10. Use your other hand to gently pinch the fold of skin you cleaned with t
 
 ---
 
-### Atorvastatin in patients with type 2 diabetes mellitus undergoing hemodialysis [^8ac7c2f2]. The New England Journal of Medicine (2005). Excellent credibility.
+### Atorvastatin in patients with type 2 diabetes mellitus undergoing hemodialysis [^114YkPZK]. The New England Journal of Medicine (2005). Excellent credibility.
 
 The study 4-D was published by Wanner C and colleagues in 2005 in the journal N Engl J Med. This study is related to the following diseases: Chronic kidney disease, Diabetes mellitus type 2, Diabetic nephropathy and Dyslipidemia. In the 4-D study, the trial question was: what is the role of atorvastatin in patients with T2DM mellitus undergoing hemodialysis? In the 4-D study, the study design was: multi-center, double blinded, RCT. In the 4-D study, the population was: 1255 patients (578 female, 677 male). The inclusion criteria were patients with T2DM mellitus undergoing hemodialysis. The key exclusion criteria were hematopoietic disease or systemic disease unrelated to ESRD; vascular intervention, congestive HF, or myocardial infarction within the three months preceding the period of enrollment; unsuccessful kidney transplantation; and hypertension resistant to therapy. In the 4-D study, the interventions were: n = 619 atorvastatin (20 mg/day) n = 636 placebo (matching placebo per day). In the 4-D study, the primary outcome was: no significant difference in death from cardiac causes, nonfatal myocardial infarction, and stroke, at 3 years (31.9% vs. 30.5%; RR 0.92, 95% CI 0.77 to 1.1). In the 4-D study, the secondary outcomes were: significant increase in fatal stroke (4% vs. 2%; RR 2.03, 95% CI 1.05 to 3.93) Significant decrease in all cardiac events combined (33% vs. 39%; RR 0.82, 95% CI 0.68 to 0.99) No significant difference in death (48% vs. 50%; RR 0.93, 95% CI 0.79 to 1.08). In the 4-D study, the conclusion was: in patients with T2DM mellitus undergoing hemodialysis, atorvastatin was not superior to placebo with respect to death from cardiac causes, nonfatal myocardial infarction, and stroke, at 3 years.
 
 ---
 
-### Development of an equine herpesvirus type 4-specific enzyme-linked immunosorbent assay using a B-cell epitope as an antigen [^07410dad]. Journal of Clinical Microbiology (2004). Low credibility.
+### Development of an equine herpesvirus type 4-specific enzyme-linked immunosorbent assay using a B-cell epitope as an antigen [^111BkmKJ]. Journal of Clinical Microbiology (2004). Low credibility.
 
 The equine herpesvirus type 4 (EHV-4)-specific region of glycoprotein G has served as an antigen for serodiagnosis and seroepizootic studies of EHV-4 infection (B. S. Crabb and M. J. Studdert, J. Virol. 67:6332–6338, 1993; S. Yasunaga, K. Maeda, T. Matsumura, K. Kai, H. Iwata, and T. Inoue, J. Vet. Med. Sci. 60:1133–137, 1998; S. Yasunaga, K. Maeda, T. Matsumura, T. Kondo, and K. Kai, J. Vet. Med. Sci. 62:687–691, 2000). Here we identified a major B-cell epitope in the type-specific region of EHV-4 and applied it as an antigen in enzyme-linked immunosorbent assays (ELISAs). A 24-amino-acid repeat sequence expressed as a glutathione S-transferase fusion protein specifically reacted as well as the type-specific region with sera from foals infected with EHV-4. Five synthetic peptides (12-mer peptides) in the repeat sequence were included as ELISA antigens. The results indicated that the 12-mer peptide MKNNPIYSEGSL contained a major B-cell epitope specific for EHV-4 infection. Inclusion of this 12-mer peptide in ELISAs for an epidemiological study specifically detected EHV-4 infection in the field. These results indicated that the 12-mer epitope was responsible for the type-specific antibody response and therefore is useful for seroepizootic studies and serodiagnosis of EHV-4 infection.
 
 ---
 
-### Long-term safety and efficacy of tofogliflozin as add-on to insulin in patients with type 2 diabetes: results from a 52-week, multicentre, randomized, double-blind, open-label extension, phase 4 study in Japan (J-STEP / INS) [^2f59edb7]. Diabetes, Obesity & Metabolism (2018). Low credibility.
+### Long-term safety and efficacy of tofogliflozin as add-on to insulin in patients with type 2 diabetes: results from a 52-week, multicentre, randomized, double-blind, open-label extension, phase 4 study in Japan (J-STEP / INS) [^112DCdCJ]. Diabetes, Obesity & Metabolism (2018). Low credibility.
 
 Mean insulin dose ± SD at baseline was 26.71 U ± 17.69 and 28.50 U ± 19.40 in the tofo‐tofo and pla‐tofo groups, respectively. Overall, the insulin dose slightly decreased from baseline to Week 52 (mean change ± SE, −1.27 U ± 0.615 and −0.58 U ± 0.915 in the tofo‐tofo and pla‐tofo groups, respectively) (Figure 2 B).
 
@@ -203,31 +203,31 @@ Mean changes in HbA1c, FPG, insulin dose and body weight from baseline to Week 5
 
 ---
 
-### FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer [^85a93953]. The New England Journal of Medicine (2011). Excellent credibility.
+### FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer [^114RACEE]. The New England Journal of Medicine (2011). Excellent credibility.
 
 The study PRODIGE 4 ACCORD 11 was published by Conroy T and colleagues in 2011 in the journal N Engl J Med. This study is related to the following diseases: Pancreatic cancer. In the PRODIGE 4 ACCORD 11 study, the trial question was: what is the effect of leucovorin, fluorouracil, irinotecan, and oxaliplatin regimen as first-line therapy in patients with metastatic pancreatic cancer? In the PRODIGE 4 ACCORD 11 study, the study design was: multi-center, open label, RCT. In the PRODIGE 4 ACCORD 11 study, the population was: 342 patients (131 female, 211 male). The inclusion criteria were patients with metastatic pancreatic cancer and an ECOG performance status score of 0 or 1. The key exclusion criteria were age ≥ 76 years; endocrine or acinar pancreatic carcinoma; previous radiotherapy for measurable lesions; cerebral metastases; history of another major cancer; active infection; chronic diarrhea; clinically significant history of cardiac disease; pregnancy or lactation. In the PRODIGE 4 ACCORD 11 study, the interventions were: n = 171 FOLFIRINOX (oxaliplatin, 85 mg per square meter of body-surface area; irinotecan, 180 mg per square meter; leucovorin, 400 mg per square meter; and fluorouracil, 400 mg per square meter given as a bolus followed by 2400 mg per square meter given as a 46-hour continuous infusion, every 2 weeks) n = 171 gemcitabine (at a dose of 1,000 mg per square meter weekly for 7 of 8 weeks and then weekly for 3 of 4 weeks). In the PRODIGE 4 ACCORD 11 study, the primary outcome was: significant increase in overall survival (11.1 months vs. 6.8 months; HR 1.75, 95% CI 1.37 to 2.22). In the PRODIGE 4 ACCORD 11 study, the secondary outcomes were: significant increase in median progression-free survival (6.4 vs. 3.3; HR 2.13, 95% CI 1.69 to 2.7) Significant increase in objective response (31.6% vs. 9.4%; RR 3.36, 95% CI 1.37 to 5.35). In the PRODIGE 4 ACCORD 11 study, the safety outcomes were: significant differences in adverse events, including febrile neutropenia (5.4% vs. 1.2%, p = 0.03) and definitive degradation of QoL (31% vs. 66%, p < 0.001; HR 0.47, 95% CI 0.30–0.70). In the PRODIGE 4 ACCORD 11 study, the conclusion was: in patients with metastatic pancreatic cancer and an ECOG performance status score of 0 or 1, FOLFIRINOX was superior to gemcitabine with respect to overall survival.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^7596719a]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1141L5rR]. Kidney International (2024). High credibility.
 
 Practice Point 2.2.4 — Note that risk prediction equations developed for use in people with CKD G3a–G5 may not be valid for use in those with CKD G1–G2. The Work Group recognizes that the progression of CKD can occur at all severities, and that in earlier stages of disease (G1–G3), large declines in eGFR can occur in 2- to 5-year time frames without reaching kidney failure, and risk prediction models developed in populations with later stages of CKD are not accurate in CKD G1–G2.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^ed3ad640]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1174hq2P]. Kidney International (2024). High credibility.
 
 Recommendation 1.1.4.1 — We suggest performing a kidney biopsy as an acceptable, safe, diagnostic test to evaluate cause and guide treatment decisions when clinically appropriate (2D).
 
 ---
 
-### An official American Thoracic Society workshop report: evaluation and management of asthma in the elderly [^c3520ad8]. Annals of the American Thoracic Society (2016). Medium credibility.
+### An official American Thoracic Society workshop report: evaluation and management of asthma in the elderly [^115za9GT]. Annals of the American Thoracic Society (2016). Medium credibility.
 
 Table 4 — asthma phenotypes outlines limitations of 'Lack of uniform definitions and incomplete characterization of longstanding versus late-onset AIE' and 'Incomplete understanding of the ACOS'; advances are summarized as 'Generally not accomplished. Staphylococcal enterotoxin has been identified as a potential risk factor for late- onset asthma' and 'Although ACOS is not completely understood, the term was first proposed after the NIA workshop', with recommendations to 'Design studies in older patients with asthma of different ages of onset, incorporating clinical/historical (e.g., tobacco use), physiology, imaging, indices of airway inflammation, molecular biomarkers, and response to treatment in order to characterize phenotypes and endotypes in this population' and 'Reach consensus definition on late- onset asthma'.
 
 ---
 
-### Neonatal imprinting of alveolar macrophages via neutrophil-derived 12-HETE [^8bcfab9f]. Nature (2023). Excellent credibility.
+### Neonatal imprinting of alveolar macrophages via neutrophil-derived 12-HETE [^114aH2vA]. Nature (2023). Excellent credibility.
 
 Fig. 4
 Alox15 −/− AMs have dysregulated responses to sterile inflammation and viral infection.
@@ -236,13 +236,13 @@ a, WT or Alox15 −/− AMs were transferred (intratracheal (i.t.)) into Csf2rb 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^84d31564]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114PvGSP]. Kidney International (2024). High credibility.
 
 KDIGO 2024 chronic kidney disease (CKD) medication stewardship — Practice Point 4.1.1 states that people with CKD may be more susceptible to the nephrotoxic effects of medications and, when prescribing such medications to people with CKD, always consider the benefits versus potential harms; between 18%–20% of people with CKD G3–G5 receive at least one potentially inappropriate nephrotoxic medication annually, primarily NSAIDs, nephrotoxic antivirals, and bisphosphonates, and nephrotoxic medications may be indicated in people with CKD if expected benefits exceed potential harms, although whenever possible, healthcare providers should strive to use non-nephrotoxic alternatives.
 
 ---
 
-### Standardized cat hair [^b2bb44b6]. FDA (2009). Low credibility.
+### Standardized cat hair [^115ZyhSm]. FDA (2009). Low credibility.
 
 REFERENCES
 
@@ -258,19 +258,19 @@ REFERENCES
 
 ---
 
-### Contribution of extra-cardiac cells in murine heart valves is age-dependent [^13dcaee4]. Journal of the American Heart Association (2017). Low credibility.
+### Contribution of extra-cardiac cells in murine heart valves is age-dependent [^111WStcK]. Journal of the American Heart Association (2017). Low credibility.
 
 To complement studies utilizing young eGFP bone marrow cell donors, experiments were repeated to determine the fate of eGFP cells from aging (> 12 months) donors in young and old recipients. Similar to young donors, aged eGFP bone marrow cells were > 98% positive for CD45 (data not shown); however, significantly fewer aging eGFP donor cells costained with CD11b (Figure 4 J) when compared with young donors (Figure 3 J). In addition, unlike findings using bone marrow cells from young donor mice, there were no significant differences in the percentage of GFP and CD11b double‐positive cells in young and aging recipients receiving bone marrow cells from aging donors (Figure 4 B, 4 F, and 4 J). This pattern of insignificant differences between young and aging recipient mice following transplantation with aging eGFP donor cells was also true for F4/80 (Figure 4 C, 4 G, and 4 J), CD31 (Figure 4 D, 4 H, and 4 J), and Vimentin (Figure 4 E, 4 I, and 4 J). Although only few eGFP donor cells from young mice coexpressed F4/80 in young and aging recipient (Figure 3 J), coexpression was not detected in donor cells from aging mice (Figure 4 J). However, aging donor cells did coexpress CD31 and Vimentin at levels similar to younger eGFP bone marrow cells when transplanted into young recipients. However, CD31/ eGFP coexpression was undetected in aging donor cells transplanted into aging recipients (Figure 4 J). These findings indicate that transplanted bone marrow cells from aging mice have lower potential toward myeloid and valve cell phenotypes and this is independent of age of the recipient.
 
 ---
 
-### Improving empiric antibiotic selection for patients hospitalized with abdominal infection: the INSPIRE 4 cluster randomized clinical trial [^12fa866e]. JAMA Surgery (2025). High credibility.
+### Improving empiric antibiotic selection for patients hospitalized with abdominal infection: the INSPIRE 4 cluster randomized clinical trial [^111V8vhK]. JAMA Surgery (2025). High credibility.
 
 The study INSPIRE 4 was published by Shruti K Gohil and colleagues in 2025 in the journal JAMA Surg. This study is related to the following diseases: Acute appendicitis, Acute cholecystitis, Acute cholangitis, Acute diverticulitis and Intra-abdominal abscess. In the INSPIRE 4 study, the trial question was: what is the role of computerized provider order entry stewardship bundle in noncritically ill patients hospitalized with abdominal infection? In the INSPIRE 4 study, the study design was: multi-center, open label, RCT. In the INSPIRE 4 study, the population was: 105004 patients (62101 female, 42903 male). The inclusion criteria were noncritically ill patients hospitalized with abdominal infection. The key exclusion criteria were age < 18 years; ordered to receive extended-spectrum antibiotics for abdominal infection. In the INSPIRE 4 study, the interventions were: n = 50620 CPOE stewardship bundle (computerized patient order entry prompts recommending standard-spectrum antibiotics coupled with clinician education and feedback) n = 54384 routine stewardship (educational materials and quarterly coaching calls to maintain stewardship activities per national guidelines). In the INSPIRE 4 study, the primary outcome was: significant increase in reduction in extended-spectrum days of therapy (169.3 days per 1,000 empiric days vs. 19.8 days per 1000 empiric days; RR 1.54, 95% CI 1.4 to 1.66). In the INSPIRE 4 study, the secondary outcomes were: significant increase in reduction in vancomycin days of therapy (29.7 days per 1,000 empiric days vs. 11.8 days per 1000 empiric days; RR 1.25, 95% CI 1.15 to 1.37) Significant increase in reduction in antipseudomonal days of therapy (131.8 days per 1,000 empiric days vs. 5.6 days per 1000 empiric days; RR 1.64, 95% CI 1.49 to 1.78). In the INSPIRE 4 study, the safety outcomes were: no significant differences in length of stay, days to ICU transfers. In the INSPIRE 4 study, the conclusion was: in noncritically ill patients hospitalized with abdominal infection, CPOE stewardship bundle was superior to routine stewardship with respect to reduction in extended-spectrum days of therapy.
 
 ---
 
-### Norethindrone and ethinyl estradiol (leena) [^1e643ad5]. FDA (2024). Medium credibility.
+### Norethindrone and ethinyl estradiol (leena) [^111n4J68]. FDA (2024). Medium credibility.
 
 REFERENCES
 
@@ -278,7 +278,7 @@ REFERENCES
 
 ---
 
-### Observing network dynamics through sentinel nodes [^535cd88c]. Nature Communications (2025). High credibility.
+### Observing network dynamics through sentinel nodes [^1138bAB5]. Nature Communications (2025). High credibility.
 
 The reason is that in order to capture the behavior of the average, we must balance nodes from different groups in the network. For example, in Fig. 1 f, the n = 4 nodes selected for S have degrees 1, 6, 7, and 8. Thevalues for these four nodes, shown by the four blue lines, illustrate precisely this balance: some appear aboveand some below, depending on whether their degrees are large or small. As a result, the average over these four selected nodes offers an accurate approximation of. Qualitatively, we observe the same effect also for n = 2 and 3, as shown in Fig. 1 d, e, respectively.
 
@@ -286,13 +286,13 @@ In Fig. 3 f–j, we repeat the same analysis for a Barabási-Albert (BA) network
 
 ---
 
-### 2013 ACC / AHA guideline on the assessment of cardiovascular risk: a report of the American college of cardiology / American Heart Association task force on practice guidelines [^d0e143d1]. Journal of the American College of Cardiology (2014). Medium credibility.
+### 2013 ACC / AHA guideline on the assessment of cardiovascular risk: a report of the American college of cardiology / American Heart Association task force on practice guidelines [^116Lg68Y]. Journal of the American College of Cardiology (2014). Medium credibility.
 
 Table 5 — Distribution of estimated 10-year risk of a first hard atherosclerotic cardiovascular disease (ASCVD) event in the CVD-free, nonpregnant US population aged 40 to 79 years is organized by predicted 10-year risk categories < 2.5%, 2.5%–4.9%, 5.0%–7.4%, 7.5%–9.9%, 10.0%–14.9%, 15.0%–19.9%, and ≥ 20.0%. In the overall population, the percentages (95% CI) are 33.4 (31.2–35.5), 21.0 (19.4–22.7), 12.7 (11.4–14.0), 7.4 (6.5–8.3), 8.9 (8.1–9.6), 6.3 (5.6–7.1), and 10.2 (9.5–11.0), with corresponding n of 33 534 000, 21 151 000, 12 766 000, 7 470 000, 8 940 000, 6 380 000, and 10 300 000. Among men, the percentages (95% CI) are 17.4 (15.2–19.7), 22.7 (20.3–25.1), 15.6 (13.8–17.4), 10.1 (8.5–11.6), 12.1 (10.7–13.5), 8.8 (7.4–10.2), and 13.3 (12.1–14.4), with n of 8 386 000, 10 950 000, 7 511 000, 4 847 000, 5 849 000, 4 248 000, and 6 388 000. Among women, the percentages (95% CI) are 48.0 (44.8–51.3), 19.5 (17.3–21.6), 10.0 (8.3–11.8), 5.0 (3.8–6.2), 5.9 (5.1–6.7), 4.1 (3.4–4.7), and 7.5 (6.5–8.4), with n of 25 148 000, 10 200 000, 5 256 000, 2 622 000, 3 091 000, 2 131 000, and 3 912 000. These estimates were derived by applying the Pooled Cohort Equations to NHANES 2007–2010 with N = 5367 and weighting to 100 542 000 US population.
 
 ---
 
-### Norethindrone and ethinyl estradiol (aranelle) [^39fcd259]. FDA (2023). Medium credibility.
+### Norethindrone and ethinyl estradiol (aranelle) [^112UyDRi]. FDA (2023). Medium credibility.
 
 REFERENCES
 
@@ -300,13 +300,13 @@ REFERENCES
 
 ---
 
-### Physical therapy management of older adults with hip fracture [^9df28b6a]. The Journal of Orthopaedic and Sports Physical Therapy (2021). High credibility.
+### Physical therapy management of older adults with hip fracture [^1153AXPo]. The Journal of Orthopaedic and Sports Physical Therapy (2021). High credibility.
 
 Hip fracture: clinical practice guidelines — Appendix J details weight-bearing exercise programs. Oldmeadow et al initiated walking within 4 d of surgery with task timing by ambulation status: early ambulators day 1 or 2 and delayed ambulators day 3 or 4. Sherrington and Lord recruited subjects an average of 7 mo after a fall-related hip fracture for 1 mo once per day; testing described a block task assessed for each leg using both a 5.5-cm and a 10.5-cm block. Sherrington et al reported participants where 82% lived in the community; programs were delivered for 4 mo once per day using sit-to-stand, step-ups, forward foot taps, and a stepping grid, progressed by increased repetitions, decreased support, increasing height of blocks, and decreasing the height of the surface patients were standing up from, with sets based on patient's ability.
 
 ---
 
-### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^8785ac70]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
+### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^114TvEDV]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
 
 2 MATERIALS AND METHODS
 
@@ -328,7 +328,7 @@ The endpoints assessed are detailed below, with information on how they were mea
 
 ---
 
-### EASL-EASD-EASO clinical practice guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD) [^e30d71d8]. Journal of Hepatology (2024). High credibility.
+### EASL-EASD-EASO clinical practice guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD) [^116ochts]. Journal of Hepatology (2024). High credibility.
 
 Regarding classification and risk stratification for metabolic dysfunction-associated steatotic liver disease, more specifically with respect to noninvasive assessment of fibrosis, EASD/EASL/EASO 2024 guidelines recommend to use a multi-step approach in adult patients with MASLD:
 
@@ -338,7 +338,7 @@ Regarding classification and risk stratification for metabolic dysfunction-assoc
 
 ---
 
-### The cortical amygdala consolidates a socially transmitted long-term memory [^6867bedb]. Nature (2024). Excellent credibility.
+### The cortical amygdala consolidates a socially transmitted long-term memory [^113fnZSA]. Nature (2024). Excellent credibility.
 
 Fig. 2
 Silencing of COApm or OFC neurons, but not of BLA, ventral hippocampus or mPFC neurons, blocks long-term STFP memory formation.
@@ -347,13 +347,13 @@ All panels analyse the effects of the indicated manipulations on STFP memory for
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^45b45a99]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^112nLj2G]. Kidney International (2022). High credibility.
 
 Practice Point 3.4.3 — peri- and post-transplant monitoring and treatment of recurrence in membranous nephropathy (MN) outlines surveillance steps and therapy triggers. Monitoring includes "Measure proteinuria every month" and, in known PLA2Rab-associated MN, "measure PLA2Rab every 1–3 months depending on pretransplant antibody status", with trend-based biopsy guidance: "PLA2Rab increasing → increased likelihood of recurrence, consider early kidney biopsy" and "PLA2Rab decreasing → lower likelihood of recurrence, perform kidney biopsy only if clinically indicated". Treatment directives list "Treat with angiotensin-converting enzyme inhibitor/angiotensin II-receptor blocker" and "Ensure adherence to the transplant immunosuppression regimen, including monitoring drug levels". Proteinuria thresholds specify "Proteinuria < 1 g/d → evaluate/monitor at 1–3 month intervals" and "Proteinuria > 1 g/d → rituximab 1 g at day 1 and day 15".
 
 ---
 
-### Engineering biosynthesis of the anticancer alkaloid noscapine in yeast [^6a267852]. Nature Communications (2016). Medium credibility.
+### Engineering biosynthesis of the anticancer alkaloid noscapine in yeast [^113iNcL1]. Nature Communications (2016). Medium credibility.
 
 NMR data of 5′ were as follows: 1 H-NMR (800 MHz, CD 3 CN): δ 10.22 (s br, 1H), 7.14 (d, J = 8.8, 1H), 6.93 (d, J = 8.8, 1H), 6.23 (s, 1H), 5.88 (dd, J = 0.8, 4, 2H), 3.90 (s, 3H), 3.87 (s, 3H), 3.83 (m, 1H), 3.22 (m, J = 2.4, 4.8, 10.4, 1H), 3.20 (dd, J = 11.2, 14.4, 1H), 2.90 (dd, J = 9.6, 13.6, 1H), 2.76 (m, J = 4, 6.4, 1H), 2.62 (d, J = 11.2, 1H), 2.34 (d, J = 16, 1H), 2.19 (s, 3H). HRMS (m / z): [M+H] + calcd. for C 21 H 24 NO 6 +, 386.1604; found, 386.1597.
 
@@ -361,7 +361,7 @@ NMR data of 5 were as follows: 1 H-NMR (600 MHz, CDCl 3): δ 7.20 (d, J = 8.4, 1
 
 ---
 
-### Bi-allelic genetic variants in the translational GTPases GTPBP1 and GTPBP2 cause a distinct identical neurodevelopmental syndrome [^d0a95d4d]. American Journal of Human Genetics (2024). Medium credibility.
+### Bi-allelic genetic variants in the translational GTPases GTPBP1 and GTPBP2 cause a distinct identical neurodevelopmental syndrome [^116LMK6t]. American Journal of Human Genetics (2024). Medium credibility.
 
 Figure 2
 Distinctive craniofacial features associated with GTPBP1/2 -related disorders
@@ -375,7 +375,7 @@ Montage of cross-sectional MR images representing the spectrum of findings on ne
 
 ---
 
-### Oxidative phosphorylation is a key feature of neonatal monocyte immunometabolism promoting myeloid differentiation after birth [^797334ab]. Nature Communications (2025). High credibility.
+### Oxidative phosphorylation is a key feature of neonatal monocyte immunometabolism promoting myeloid differentiation after birth [^11474CVG]. Nature Communications (2025). High credibility.
 
 Fig. 5
 Control of baseline myeloid differentiation depends on OXPHOS.
@@ -384,7 +384,7 @@ a Percent of surviving NEO (n = 8) and AD (n = 7) Mo at indicated time points du
 
 ---
 
-### Sulfasalazine (Azulfidine) [^5befbc2a]. FDA (2025). Medium credibility.
+### Sulfasalazine (Azulfidine) [^113MJQ4R]. FDA (2025). Medium credibility.
 
 REFERENCES
 
@@ -397,7 +397,7 @@ Taffet SL, Das KM. Desensitization of patients with inflammatory bowel disease t
 
 ---
 
-### Clinical safety and efficacy of rotational atherectomy in Japanese patients with peripheral arterial disease presenting femoropopliteal lesions: the J-SUPREME and J-SUPREME II trials [^0678e080]. Journal of Endovascular Therapy (2022). Medium credibility.
+### Clinical safety and efficacy of rotational atherectomy in Japanese patients with peripheral arterial disease presenting femoropopliteal lesions: the J-SUPREME and J-SUPREME II trials [^111AbXZh]. Journal of Endovascular Therapy (2022). Medium credibility.
 
 Purpose
 
@@ -417,7 +417,7 @@ J-SUPREME trial results demonstrate procedural safety and efficacy of the Jetstr
 
 ---
 
-### Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial [^9a062698]. Nature Medicine (2022). Excellent credibility.
+### Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial [^114wMAE3]. Nature Medicine (2022). Excellent credibility.
 
 Obesity is a chronic, relapsing disease that requires continuous effort to control. With all nonsurgical interventions and to some extent with bariatric surgery, weight regain after initial weight loss is common –. In contrast to findings with behavioral – and other pharmacological interventions, the similar mean weight loss achieved with semaglutide 2.4 mg in STEP 5 at weeks 52 and 104 (–15.6% and –15.2%, respectively) suggests that, on average, there is minimal weight regain over 104 weeks when once-weekly semaglutide therapy is continued. When interpreted together with the findings of the STEP 4 withdrawal trial and STEP 1 off-treatment extension study, which both showed weight regain after semaglutide discontinuation (after 20 weeks' treatment in STEP 4 and 68 weeks' treatment in STEP 1), these results support the benefit of continued semaglutide treatment for sustained weight loss.
 
@@ -425,13 +425,13 @@ Prior 68-week trials in adults with overweight or obesity have reported cardiome
 
 ---
 
-### Guidelines for foodborne disease outbreak response. 2nd ed [^edb40f61]. CDC (2014). Medium credibility.
+### Guidelines for foodborne disease outbreak response. 2nd ed [^1175QYeC]. CDC (2014). Medium credibility.
 
 Complaint systems (Section 4.3) — case finding via passive community reports is described and operational steps are outlined. The guideline states, "In complaint systems, public health agencies receive, triage, and respond to reports from the community about possible foodborne disease events. Reporting is passive and falls into two basic categories:" "Reports from an individual or group who observes a pattern of illness affecting a group of people, usually after a common exposure (e.g., event or venue); and" "Multiple independent reports about illness in single individuals (4.3.3)". Process steps are: "Health-care provider reports and reports from other community members of unusual disease clusters are triaged; occurrence of the same disease is confirmed; cases are interviewed; data are analyzed; and investigations are initiated". For event- or venue-associated group illness, "the investigation generally involves obtaining lists of attendees, confirming ill persons have the same disease, obtaining menus from the event (and other possible group exposures), interviewing cases, performing a cohort or case–control study, and collecting food and patient specimens". For independent complaints, "individuals are interviewed about their illness and exposures at the time of the report", exposure information "generally is limited and biased toward exposures shortly before onset of symptoms", and "Two or more persons with a common exposure identified through interview of independent complaints are used to identify clusters of illness in much the same manner as".
 
 ---
 
-### Sulfamethoxazole and trimethoprim (Bactrim DS) [^bae8d7ac]. FDA (2024). Medium credibility.
+### Sulfamethoxazole and trimethoprim (Bactrim DS) [^115n6uZ5]. FDA (2024). Medium credibility.
 
 REFERENCES
 
@@ -452,7 +452,7 @@ CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for childr
 
 ---
 
-### Between synchrony and turbulence: intricate hierarchies of coexistence patterns [^78640145]. Nature Communications (2021). High credibility.
+### Between synchrony and turbulence: intricate hierarchies of coexistence patterns [^1145V756]. Nature Communications (2021). High credibility.
 
 If we initialize the N /2 − N /2 solution at a point in the c 2 − η parameter plane were it is stable and from there on gradually change c 2 and/or η appropriately, one of the two clusters will break up into two smaller clusters. A possible outcome is shown in Fig. 1 i, j. The trajectory of the two new clusters is no longer simply periodic, but period-2, with a small and a large loop. The N /2 − N /2 solution has thus become unstable in a symmetry-breaking period-doubling bifurcation, giving rise to a stable N /2 − N /4 − N /4 three-cluster solution. This bifurcation also destabilizes less balanced two-cluster solutions, such as the 3 N /4 − N /4 solution in Fig. 1 g, h. In these cases, the smaller of the two clusters is split. The position of of the period-doubling bifurcation in parameter space depends on the relative sizes of the clusters, as shown by the blue line in Fig. 1 k, which tracks the value of c 2 at which this bifurcation occurs as a function of N 1 / N for η = 0.67.
 
@@ -460,13 +460,13 @@ For very unbalanced solutions N 1 / N > 0.8, the smallest cluster is destroyed i
 
 ---
 
-### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^7886deaf]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
+### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^1145gpJ2]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
 
 Table 4 — Available microaxial flow pump (mAFP) types and features list five configurations (partial support left-sided mAFP, full support left-sided mAFP, femorally implanted right-sided mAFP, jugularly implanted right-sided mAFP, and expandable partial support left-sided mAFP) with key specifications by column order. Catheter size values are 9 Fr, 9 Fr (70 cm length), 11 Fr, 11 Fr, and 9 Fr, and peak flow values are 4.3 L/min, 5.5 L/min, 4.0 L/min, 4 L/min, and > 3.5 L/min, respectively. Ventricle targets are LV unloading, LV unloading, RV unloading, RV unloading, and LV unloading. Approval status is CE mark FDA-approved for the first three devices, while the jugularly implanted right-sided mAFP is not yet certified for clinical use in Europe and the expandable partial support left-sided mAFP is not yet certified for clinical use; aECP (expandable cardiac pump) is noted as just in pre-clinical studies.
 
 ---
 
-### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^5b1b4bb9]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
+### Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses [^113L53Qk]. Diabetes, Obesity & Metabolism (2023). Medium credibility.
 
 Aims
 
@@ -490,7 +490,7 @@ STEP 1 NCT03548935, STEP 4 NCT03548987.
 
 ---
 
-### The 4.2 ka event is not remarkable in the context of holocene climate variability [^1b6bfcbc]. Nature Communications (2024). High credibility.
+### The 4.2 ka event is not remarkable in the context of holocene climate variability [^111hewNT]. Nature Communications (2024). High credibility.
 
 Results and Discussion
 
@@ -502,7 +502,7 @@ The search returned 88 articles (Supplemental Table S1), of which, 73% were publ
 
 ---
 
-### Precise recognition of benzonitrile derivatives with supramolecular macrocycle of phosphorylated cavitand by co-crystallization method [^490cf1c3]. Nature Communications (2024). High credibility.
+### Precise recognition of benzonitrile derivatives with supramolecular macrocycle of phosphorylated cavitand by co-crystallization method [^112sJSkS]. Nature Communications (2024). High credibility.
 
 Fig. 4
 1 H NMR spectra of the titration experiment of F[3]A1-[P(O)Ph] 3 with benzonitrile carried out in dichloromethane- d.
@@ -511,7 +511,7 @@ a 1 H NMR spectra (400 MHz, CCl 2 D 2, 298 K) of F[3]A1-[P(O)Ph] 3 at a constant
 
 ---
 
-### Tocilizumab (Avtozma) [^f99dc187]. FDA (2025). Medium credibility.
+### Tocilizumab (Avtozma) [^117P4uWE]. FDA (2025). Medium credibility.
 
 6.5	Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
@@ -529,7 +529,7 @@ No clinically significant hypersensitivity reactions associated with tocilizumab
 
 ---
 
-### Magnesium sulfate heptahydrate (magnesium sulfate in 5% dextrose) [^0c83352f]. FDA (2024). Medium credibility.
+### Magnesium sulfate heptahydrate (magnesium sulfate in 5% dextrose) [^111KYvWr]. FDA (2024). Medium credibility.
 
 REFERENCES:
 
@@ -548,13 +548,13 @@ Riaz M, Porat R, Brodsky NL, et al. The effect of maternal magnesium sulfate tre
 
 ---
 
-### Spine injury [^8eddf5ef]. ACS (2022). High credibility.
+### Spine injury [^114eooAE]. ACS (2022). High credibility.
 
 Table 4 — upper extremity key muscle groups and neurologic levels list C5 as Elbow flexors, C6 as Wrist extensors, C7 as Elbow extensors, C8 as Long finger flexors, and T1 as Small finger abductor; the table presents key muscle groups with corresponding neurologic level and muscle movement(s).
 
 ---
 
-### Cross-cultural comparison of the scoliosis research society outcomes instrument between American and Japanese idiopathic scoliosis patients: are there differences? [^e7ef4beb]. Spine (2007). Low credibility.
+### Cross-cultural comparison of the scoliosis research society outcomes instrument between American and Japanese idiopathic scoliosis patients: are there differences? [^116vrWyG]. Spine (2007). Low credibility.
 
 Study Design
 
@@ -582,7 +582,7 @@ SRS-24 scores in the Japanese idiopathic scoliosis population differed from that
 
 ---
 
-### Semaglutide 2.4 mg for the treatment of obesity: key elements of the STEP trials 1 to 5 [^ebad60f3]. Obesity (2020). Medium credibility.
+### Semaglutide 2.4 mg for the treatment of obesity: key elements of the STEP trials 1 to 5 [^1172QKv2]. Obesity (2020). Medium credibility.
 
 In the sustained WM trial (STEP 4, NCT03548987), 902 participants with obesity or overweight, without T2D, are being treated with semaglutide 2.4 mg once weekly. Those completing a 20‐week run‐in period are being randomly assigned in a 2:1 manner to receive continued semaglutide 2.4 mg or placebo for an additional 48 weeks to assess WL (Figure 4, Table 1). Approximately 750 eligible participants will be randomly assigned. In addition, it has a withdrawal trial design to assess the change in weight after switching from semaglutide to placebo.
 
@@ -596,13 +596,13 @@ Long‐term weight management trial design (Semaglutide Treatment Effect in Peop
 
 ---
 
-### KDIGO clinical practice guidelines for acute kidney injury [^8a14a86b]. Nephron: Clinical Practice (2012). Medium credibility.
+### KDIGO clinical practice guidelines for acute kidney injury [^114XiELa]. Nephron: Clinical Practice (2012). Medium credibility.
 
 Acute kidney injury staging — AKIN and RIFLE criteria specify parallel thresholds for serum creatinine (SCr), urine output, and glomerular filtration rate (GFR). Stage 1 requires an SCr change of "Increase of more than or equal to 0.3 mg/dl (≥ 26.5 μmol/l) or increase to more than or equal to 150% to 200% (1.5 to 2-fold) from baseline" with urine output "Less than 0.5 ml/kg/h for more than 6 hours", corresponding to RIFLE "Risk Increase in serum creatinine × 1.5 or GFR decrease ≥ 25%". Stage 2 is "Increased to more than 200% to 300% (> 2 to 3-fold) from baseline" with urine output "Less than 0.5 ml/kg per hour for more than 12 hours", corresponding to RIFLE "Injury Serum creatinine × 2 or GFR decrease > 50%". Stage 3 is "Increased to more than 300% (> 3-fold) from baseline, or more than or equal to 4.0 mg/dl (≥ 354 μmol/l) with an acute increase of at least 0.5 mg/dl (44 μmol/l) or on RRT" with urine output "Less than 0.3 ml/kg/h for 24 hours or anuria for 12 hours", corresponding to RIFLE "Failure Serum creatinine × 3, or serum creatinine > 4.0 mg/dl (> 354 μmol/l) with an acute rise > 0.5 mg/dl (> 44 μmol/l) or GFR decreased ≥ 75%". For application, "only one criterion (creatinine rise or urine output decline) needs to be fulfilled", and timing differs: "For AKIN, the increase in creatinine must occur in < 48 hours. For RIFLE, AKI should be both abrupt (within 1–7 days) and sustained (more than 24 hours)". A unit note states "For conversion of creatinine expressed in S. I units to mg/dl, divide by 88.4".
 
 ---
 
-### Definition and classification of dystonia [^20a4923b]. Movement Disorders (2025). Medium credibility.
+### Definition and classification of dystonia [^111qPt8A]. Movement Disorders (2025). Medium credibility.
 
 Discussion
 
@@ -619,19 +619,19 @@ This revision also more explicitly addresses the phenomenological relationship b
 
 ---
 
-### Clinical practice guideline: Bell's palsy [^47ace4c5]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
+### Clinical practice guideline: Bell's palsy [^112qGCFN]. Otolaryngology — Head and Neck Surgery (2013). Medium credibility.
 
 Bell's palsy guideline — evidence-based statement categories and clinician implications define four levels: A strong recommendation means the benefits of the recommended approach clearly exceed the harms, and clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. A recommendation means the benefits exceed the harms but the quality of evidence is not as strong; clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences. An option means that either the quality of evidence that exists is suspect or that well-done studies show little clear advantage to one approach vs another; clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives, and patient preference should have a substantial influencing role. No recommendation means there is both a lack of pertinent evidence and an unclear balance between benefits and harms; clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit vs harm, and patient preference should have a substantial influencing role.
 
 ---
 
-### Broad-spectrum activity against mosquito-borne flaviviruses achieved by a targeted protein degradation mechanism [^d53a0bf2]. Nature Communications (2024). High credibility.
+### Broad-spectrum activity against mosquito-borne flaviviruses achieved by a targeted protein degradation mechanism [^116T7rsB]. Nature Communications (2024). High credibility.
 
 1 H NMR (500 MHz, DMSO- d 6) δ 11.11 (s, 1H), 10.12 (s, 1H), 8.80 (d, J = 1.0 Hz, 1H), 8.71 (t, J = 5.6 Hz, 1H), 8.51 (t, J = 1.8 Hz, 1H), 8.16 (dt, J = 7.8, 1.4 Hz, 1H), 8.01 (dt, J = 7.8, 1.4 Hz, 1H), 7.87–7.83 (m, 2H), 7.80 (d, J = 8.3 Hz, 1H), 7.64 (t, J = 7.8 Hz, 1H), 7.41 (d, J = 2.3 Hz, 1H), 7.40–7.36 (m, 2H), 7.34–7.31 (m, 2H), 5.11 (dd, J = 12.8, 5.4 Hz, 1H), 4.29–4.25 (m, 2H), 3.82–3.76 (m, 2H), 3.66–3.56 (m, 6H), 3.47 (q, J = 5.8 Hz, 2H), 2.89 (ddd, J = 16.8, 13.7, 5.4 Hz, 1H), 2.63–2.52 (m, 2H), 2.08–2.01 (m, 1H).
 
 ---
 
-### Topics_in_Public_Health_Announcement_11-19-2021.pdf… [^9af396f1]. FDA (2025). Medium credibility.
+### Topics_in_Public_Health_Announcement_11-19-2021.pdf… [^114xiuua]. FDA (2025). Medium credibility.
 
 5 � 5: 9 + 3, � @ 7 7 8 � F 6 @ E G, � /: � 2 5 + 0 + H
 - � 6 7 8 �
@@ -652,14 +652,14 @@ Bell's palsy guideline — evidence-based statement categories and clinician imp
 
 ---
 
-### The CaMKII / NMDA receptor complex controls hippocampal synaptic transmission by kinase-dependent and independent mechanisms [^3c815960]. Nature Communications (2018). Medium credibility.
+### The CaMKII / NMDA receptor complex controls hippocampal synaptic transmission by kinase-dependent and independent mechanisms [^112YhhqH]. Nature Communications (2018). Medium credibility.
 
 Fig. 9
 Replacement of GluN2B that does not bind CaMKIIα confirms the role of this interaction in basal transmission. a. Timeline of experiment. b Scheme of GluN2B region critical for CaMKII binding (green wild type; red mutated). c – f Scatterplots showing amplitudes of AMPAR EPSCs for single pairs (open circles) of control and transfected cells of CRISPR_GluN2B (c, n = 12 pairs), CRISPR_GluN2B + GluN2B (d, n = 10), CRISPR_GluN2B + GluN2Bmut (e, n = 14 pairs), and CRISPR_GluN2B + GluN2Bmut + CaMKIIα T305A/T306A (f, n = 13 pairs). Filled circles indicate mean ± SEM (c, Control = 89.38 ± 17.50; CRISPR_GluN2B = 174 ± 27.83, p = 0.01; d, Control = 78.9 ± 10.8; CRISPR_GluN2B + GluN2B = 99.3 ± 14.8, p = 0.28; e, Control = 148.4 ± 22.7; CRISPR_GluN2B + GluN2Bmut = 75.8 ± 18.6, p = 0.01; f, Control = 139.0 ± 16.6; CRISPR_GluN2B + GluN2Bmut + CaMKIIα T305A/T306A = 92 ± 20.2, p = 0.07). g − j Scatterplots showing amplitudes of NMDAR EPSCs for single pairs (open circles) of control and transfected cells of CRISPR_GluN2B (g, n = 12 pairs), CRISPR_GluN2B + GluN2B (h, n = 10 pairs), CRISPR_GluN2B + GluN2Bmut (i, n = 14 pairs), and CRISPR_GluN2B + GluN2Bmut + CaMKIIα T305A/T306A (j, n = 13 pairs). Filled circles indicate mean ± SEM (g, Control = 54.7 ± 14.4; CRISPR_GluN2B = 15.5 ± 4, p = 0.016; h, Control = 53.2 ± 10.2; CRISPR_GluN2B + GluN2B = 61.8, p = 0.58; i, Control = 54.15 ± 10.87; CRISPR_GluN2B + GluN2Bmut = 42.5 ± 10.4, p = 0.45; j, Control = 49.5 ± 9.3; CRISPR_GluN2B + GluN2Bmut + CaMKIIα T305A/T306A = 41.4 ± 6.7, p = 0.48). k Bar graph of ratios normalized to control (%) summarizing the mean ± SEM of AMPAR EPSCs of values represented in c (180 ± 31.1, p = 0.02), d (129 ± 20.4, p = 0.22), e (48.5 ± 13.3, p = 0.005) and f (68.3 ± 14.6, p = 0.04). Values for CaMKIIα T286A (Fig. 5e) and CaMKIIα T305A/T306A (Suppl. Figure 10) replacements are included (% of control: 45.4 ± 5 and 250 ± 30). l Bar graph of ratios normalized to control (%) summarizing mean ± SEM of NMDAR EPSCs of values represented in g (28.8 ± 14.8, p = 0.0002), h (123 ± 22.6, p = 0.60), i (90.3 ± 11.1, p = 0.98) and j (89.9 ± 16, p = 0.74). Raw amplitude data from dual cell recordings were analyzed using Wilcoxon signed rank test (p values indicated above). Normalized data were analyzed using a one-way ANOVA followed by the Mann−Whitney test (✱✱ p < 0.0001; ✱✱ p < 0.001; ✱ p < 0.01). Scale bars: 50 ms, 50 pA
 
 ---
 
-### Discovery of fungal onoceroid triterpenoids through domainless enzyme-targeted global genome mining [^0f58a975]. Nature Communications (2024). High credibility.
+### Discovery of fungal onoceroid triterpenoids through domainless enzyme-targeted global genome mining [^111PkbW4]. Nature Communications (2024). High credibility.
 
 Synthesis of (S)-MTPA ester of compound 4
 
@@ -667,13 +667,13 @@ Synthesis of (S)-MTPA ester of compound 4
 
 ---
 
-### Guidelines for foodborne disease outbreak response. 2nd ed [^2a5bfc1b]. CDC (2014). Medium credibility.
+### Guidelines for foodborne disease outbreak response. 2nd ed [^1125oNqx]. CDC (2014). Medium credibility.
 
 Foodborne disease surveillance and outbreak detection — actions to strengthen reporting, laboratory practices, exposure assessment, cluster detection, and communication are specified as follows: "Increase reporting and isolate submission by clinical laboratories and health-care providers through education, modification of reporting rules, laboratory audits, and simplification of the reporting process (4.2.10.1)". Actions include "Amend reporting rules to expand the definition of required clinical materials for submission to include patient specimens (e.g., stools, urine, blood), because isolates, currently specified in most reporting rules, may not be available due to culture-independent diagnostics (4.2.10.2)", "Undertake subtyping of isolates as specimens are submitted, and post results to national databases as quickly as possible (4.2.10.2)", and "Interview cases by using a standardized questionnaire for exposure information (consistent with the incubation period of the pathogen) as soon as possible, when patient recall and motivation to cooperate is the greatest". Interview methods state to "Construct the interview to include a mix of question types (i.e., specific close-ended questions, broad open-ended questions, questions that elicit additional details) to collect the desired exposure information (4.2.10.3)" and "At a minimum, collect information about limited high-risk exposures specific to the pathogen at the time of the initial report and re-interview cases with a detailed exposure questionnaire if a cluster becomes apparent (4.2.10.3)". For cluster detection and coordination, agencies are directed to "use daily, automated reporting and analysis systems to compare disease agent frequencies at multiple levels of specificity with historical frequencies and national trends (4.2.10.4)" and "Establish and use routine procedures for communicating among epidemiology, laboratory, and environmental health branches within an agency and among local, state, and federal agencies (4.2.10.5)".
 
 ---
 
-### Levetiracetam [^8cbc6459]. FDA (2025). Medium credibility.
+### Levetiracetam [^114beYdE]. FDA (2025). Medium credibility.
 
  Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 4
 
@@ -691,19 +691,19 @@ The effectiveness of levetiracetam for the treatment of partial-onset seizures i
 
 ---
 
-### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^7f60c8bc]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^114FqwJB]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 NCCN Guidelines Version 4.2025 — Adenocarcinoma response assessment and definitive chemoradiation management updates note that a new page provides Response Assessment recommendations for patients who are medically fit and have received perioperative chemotherapy, and that for the definitive chemoradiation pathway with no evidence of disease, Additional Management was revised to Observation (preferred) or Esophagectomy; for neoadjuvant or perioperative ICI if tumor is MSI-H/dMMR with no evidence of disease, Additional Management was revised to Observation or Esophagectomy.
 
 ---
 
-### ILCOR scientific knowledge gaps and clinical research priorities for cardiopulmonary resuscitation and emergency cardiovascular care: a consensus statement [^17c51f16]. Circulation (2018). Medium credibility.
+### ILCOR scientific knowledge gaps and clinical research priorities for cardiopulmonary resuscitation and emergency cardiovascular care: a consensus statement [^111cEviZ]. Circulation (2018). Medium credibility.
 
 Pediatric defibrillation energy doses — The 2015 CoSTR recommended that the energy dose for defibrillation of pediatric ventricular fibrillation/pulseless ventricular tachycardia should range from 2 to 4 J/kg, monophasic or biphasic, and guidelines differ: the American Heart Association recommends an initial dose of 2 J/kg followed by a second shock of 4 J/kg if needed, whereas the European Resuscitation Council recommends initial and subsequent doses of 4 J/kg; knowledge gaps include the risk/benefits of specific or titrating energy doses in both primary and secondary shockable rhythms.
 
 ---
 
-### UBR4 / POE facilitates secretory trafficking to maintain circadian clock synchrony [^7bbb9065]. Nature Communications (2022). High credibility.
+### UBR4 / POE facilitates secretory trafficking to maintain circadian clock synchrony [^114ASUhr]. Nature Communications (2022). High credibility.
 
 Fig. 5
 PDF-specific poe knockdown alters PDF trafficking and damps dPER expression in fly clock neurons.
@@ -712,13 +712,13 @@ a PDF immunoreactivity (red) in the whole fly brain, optic lobe (OL), dorsal pro
 
 ---
 
-### Transcatheter aortic-valve replacement in low-risk patients at five years [^967c4dcb]. The New England Journal of Medicine (2023). Excellent credibility.
+### Transcatheter aortic-valve replacement in low-risk patients at five years [^114r6tuY]. The New England Journal of Medicine (2023). Excellent credibility.
 
 The study PARTNER 3 (5-year follow-up) was published by Michael J Mack and colleagues in 2023 in the journal N Engl J Med. This study is related to the following diseases: Aortic stenosis. In the PARTNER 3 (5-year follow-up) study, the trial question was: what is the role of TAVR in low-risk patients with severe, symptomatic aortic stenosis? In the PARTNER 3 (5-year follow-up) study, the study design was: multi-center, open label, RCT. In the PARTNER 3 (5-year follow-up) study, the population was: 950 patients (292 female, 658 male). The inclusion criteria were patients with severe, symptomatic aortic stenosis at low surgical risk. The key exclusion criteria were native aortic annulus size unsuitable for sizes 20, 23, 26, 29 mm transcatheter heart valve; evidence of acute myocardial infarction ≤ 30 days before randomization; aortic valve unicuspid, bicuspid, or noncalcified; severe aortic regurgitation; complex coronary artery disease. In the PARTNER 3 (5-year follow-up) study, the interventions were: n = 496 TAVR (TAVR with a SAPIEN 3 valve) n = 454 surgery (SAVR with a commercially available bioprosthetic valve). In the PARTNER 3 (5-year follow-up) study, the primary outcome was: no significant difference in death, stroke, or rehospitalization related to the valve, procedure, or HF at 5 years (22.8% vs. 27.2%; HR 0.79, 95% CI 0.61 to 1.02). In the PARTNER 3 (5-year follow-up) study, the secondary outcomes were: no significant difference in death, disabling stroke, nondisabling stroke, and rehospitalizations at 5 years (221% vs. 19%; WR 1.17, 95% CI 0.9 to 1.51) No significant difference in death from any cause at 5 years (10% vs. 8.2%; HR 1.23, 95% CI 0.79 to 1.9) No significant difference in stroke at 5 years (5.8% vs. 6.4%; HR 0.87, 95% CI 0.51 to 1.48). In the PARTNER 3 (5-year follow-up) study, the conclusion was: in patients with severe, symptomatic aortic stenosis at low surgical risk, TAVR was not superior to surgery with respect to death, stroke, or rehospitalization related to the valve, procedure, or HF at 5 years.
 
 ---
 
-### The 4.2 ka event is not remarkable in the context of holocene climate variability [^fd33aae3]. Nature Communications (2024). High credibility.
+### The 4.2 ka event is not remarkable in the context of holocene climate variability [^117UPDrz]. Nature Communications (2024). High credibility.
 
 Much of the variety in proposed causes of the 4.2 ka event is likely attributable to varying definitions of the phenomenon, ranging in timescales from decades to millennia, occurring in different locations, and in differing aspects of the climate systems. These studies also characterize the climate changes occurring at 4.2 ka as climatologically coherent changes occurring on spatial scales ranging from large regionsto hemispheric, which is inconsistent with our results. Our finding that climate excursions ca. 4.2 ka are comparable to those throughout the Holocene suggests that the difficulty in identifying a mechanism driving the event is likely because the changes that occurred at the interval were driven by a mix of long and short-term forcings, feedbacks and internal variability, which has been typical for the Holocene, rather than a pronounced forcing comparable to the 8.2 ka event.
 
@@ -726,7 +726,7 @@ Finally, it is important to recognize that although we find no evidence to suppo
 
 ---
 
-### Enantioselective three-component aminomethylation of α-diazo ketones with alcohols and 1, 3, 5-triazines [^44b1413c]. Nature Communications (2020). High credibility.
+### Enantioselective three-component aminomethylation of α-diazo ketones with alcohols and 1, 3, 5-triazines [^112kqhNB]. Nature Communications (2020). High credibility.
 
 Mechanistic studies
 
@@ -741,37 +741,37 @@ In previously reported O–H insertion and rearrangement transformations between
 
 ---
 
-### Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants [^ecd6a65a]. Pediatrics (2016). Medium credibility.
+### Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants [^11748BDs]. Pediatrics (2016). Medium credibility.
 
 Recommendation strength interpretation — language cues and definitions: Strong and moderate recommendations are associated with "should" and "should not" statements, whereas a weak recommendation may be recognized by "may" or "need not". A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or, for a strong negative recommendation, the harms clearly exceed the benefits) and the supporting evidence quality is excellent; clinicians are advised to follow such guidance unless a clear and compelling rationale for acting in a contrary manner is present. A moderate recommendation means the committee believes benefits exceed harms (or harms exceed benefits for a negative recommendation) but the evidence on which the recommendation is based is not as strong, and clinicians are encouraged to follow such guidance while remaining alert to new information and sensitive to patient preferences. A weak recommendation means the existing evidence quality is suspect or well-designed, well-conducted studies have shown little clear advantage to one approach versus another, offering clinicians flexibility in decision-making, although boundaries on alternatives may be set.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^87712576]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114ToLK7]. Kidney International (2024). High credibility.
 
 CKD mineral–bone parameters by albuminuria category — figure context: The y axis represents the meta-analyzed absolute difference from the mean adjusted value at an eGFR of 80 ml/ min per 1.73 m² and albumin excretion < 30 mg/g (< 3 mg/mmol), with albuminuria categories defined as A1, albuminuria < 30 mg/g (< 3 mg/mmol); A2, albuminuria 30–300 mg/g (3–30 mg/mmol); and A3, > 300 mg/g (> 30 mg/mmol).
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^7be951ff]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114Ahr7G]. Kidney International (2024). High credibility.
 
 KDIGO 2024 — GRADE system for grading the certainty of evidence (Table 46) sets starting levels by study design with "RCTs High" and "Observational studies Low", lowers certainty for "Study limitations: −1 serious −2 very serious", "Inconsistency: −1 serious −2 very serious", "Indirectness: −1 serious −2 very serious", "Imprecision: −1 serious −2 very serious", and "Publication bias: −1 serious −2 very serious", and can raise observational evidence for "Strength of association +1 large effect size (e.g., < 0.5 or > 2) +2 very large effect size (e.g., < 0.2 or > 5)", "Evidence of a dose-response gradient", or when "All plausible confounding would reduce the demonstrated effect".
 
 ---
 
-### 2020 focused updates to the asthma management guidelines: a Report from the national asthma education and prevention program coordinating committee expert panel working group [^1dbd9ed7]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
+### 2020 focused updates to the asthma management guidelines: a Report from the national asthma education and prevention program coordinating committee expert panel working group [^111m6LH4]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
 
 Ages 0–4 years: control assessment and referral guidance advise to "Step up if needed; reassess in 4–6 weeks" and to "Step down if possible (if asthma is well controlled for at least 3 consecutive months)". Referral recommendations state, "Consult with asthma specialist if Step 3 or higher is required. Consider consultation at Step 2". For transition at age four, the figure specifies, "For children age 4 years only, see Step 3 and Step 4 in Management of Persistent Asthma in Individuals Ages 5–11 Years diagram".
 
 ---
 
-### Once-weekly semaglutide in adults with overweight or obesity [^3d584436]. The New England Journal of Medicine (2021). Excellent credibility.
+### Once-weekly semaglutide in adults with overweight or obesity [^112Zwtm3]. The New England Journal of Medicine (2021). Excellent credibility.
 
 The study STEP 1 was published by John P H Wilding and colleagues in 2021 in the journal N Engl J Med. This study is related to the following diseases: Obesity. In the STEP 1 study, the trial question was: what is the role of once weekly semaglutide as an adjunct to lifestyle intervention in adults with overweight or obesity? In the STEP 1 study, the study design was: multi-center, double blinded, RCT. In the STEP 1 study, the population was: 1961 patients (1453 female, 508 male). The inclusion criteria were patients with a BMI of ≥ 30 (or ≥ 27 with ≥ 1 weight-related coexisting condition) who did not have diabetes. The key exclusion criteria were HbA1c ≥ 6.5%, self-reported change in body weight > 5 kg (11 lbs) within 90 days before screening, previous treatment with glucose-lowering agents or any antiobesity medications within the past 90 days before screening. In the STEP 1 study, the interventions were: n = 1306 semaglutide (initiated at 0.25 mg SC once weekly for the first 4 weeks and titrated every 4 weeks to the maintenance dose of 2.4 mg once weekly by week 16, plus diet and physical activity counseling) n = 655 placebo (matching placebo once weekly plus diet and physical activity counseling). In the STEP 1 study, the primary outcome was: significant increase in relative weight reduction at week 68 (14.9% vs. 2.4%; AD 12.4%, 95% CI 11.5 to 13.4). In the STEP 1 study, the secondary outcomes were: significant increase in the percentage of patients achieving a weight reduction of ≥ 10% at week 68 (69.1% vs. 12%; OR 14.7, 95% CI 11.1 to 19.4) Significant increase in the percentage of patients achieving a reduction in weight by ≥ 15% at week 68 (50.5% vs. 4.9%; OR 19.3, 95% CI 12.9 to 28.8) Significant increase in absolute weight reduction from baseline to week 68 (15.3 kg vs. 2.6 kg; AD 12.7 kg, 95% CI 11.7 to 13.7). In the STEP 1 study, the safety outcomes were: no significant difference in overall adverse events. significant differences in serious adverse events (9.8% vs. 6.4%), gastrointestinal disorders (74.2% vs. 47.9%), treatment discontinuation due to gastrointestinal events (4.5% vs. 0.8%). In the STEP 1 study, the conclusion was: in patients with a BMI of ≥ 30 (or ≥ 27 with ≥ 1 weight-related coexisting condition) who did not have diabetes, semaglutide was superior to placebo with respect to relative weight reduction at week 68.
 
 ---
 
-### Sitagliptin (Januvia) [^8198381b]. FDA (2024). Medium credibility.
+### Sitagliptin (Januvia) [^114K8Xpe]. FDA (2024). Medium credibility.
 
 5.1 Pancreatitis
 
@@ -791,7 +791,7 @@ Assessment of renal function is recommended prior to initiating JANUVIA and peri
 
 ---
 
-### The 4.2 ka event is not remarkable in the context of holocene climate variability [^908c380c]. Nature Communications (2024). High credibility.
+### The 4.2 ka event is not remarkable in the context of holocene climate variability [^114hJKGP]. Nature Communications (2024). High credibility.
 
 Fig. 1
 The timing and duration of the 4.2 ka event in our literature review.
@@ -802,13 +802,13 @@ Despite the variety of abrupt changes reported in our literature search, most of
 
 ---
 
-### Guidelines for the management of severe traumatic brain injury, fourth edition [^c8f6ee91]. Neurosurgery (2017). Medium credibility.
+### Guidelines for the management of severe traumatic brain injury, fourth edition [^1168wTyz]. Neurosurgery (2017). Medium credibility.
 
 Appendix G — Criteria for Quality Assessment of Individual Studies — lists study quality items including Adequate random assignment, Allocation concealment, Groups similar at baseline, Outcome assessors blinded, Adequate sample size, No differential loss to follow-up, and Follow-up ≥ 85%. Additional criteria are Intention to treat analysis, Baseline differences between eligible excluded and eligible included, Maintenance of comparable groups, Comparison of two or more groups must be clearly distinguished, Non-biased selection of patients, Blind or independent assessment of outcomes, Use of reliable/concrete outcomes, Accurate ascertainment of cases, and Adequate control for potential confounders.
 
 ---
 
-### Efficacy and safety of pioglitazone, empagliflozin and glimepiride as third-line agents in patients with type 2 diabetes inadequately controlled with metformin and DPP-4 inhibitors: a multicentre, phase 4 randomized controlled trial [^e43c2b1c]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
+### Efficacy and safety of pioglitazone, empagliflozin and glimepiride as third-line agents in patients with type 2 diabetes inadequately controlled with metformin and DPP-4 inhibitors: a multicentre, phase 4 randomized controlled trial [^116qNPRm]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
 
 AUTHOR CONTRIBUTIONS
 
@@ -816,19 +816,19 @@ LWJ designed the research. LWJ, CJH, HS, PJH, LB‐W, YJH, KJH, CSW, HY‐C and 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^11f79e01]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^111TdxmE]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD guideline — GRADE system for grading certainty of evidence notes that observational studies start as low certainty and can be upgraded for strong associations, dose–response, or when confounding would diminish the observed effect; large and very large effects are exemplified by thresholds " < 0.5 or > 2" and " < 0.2 or > 5", respectively.
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^ee474243]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^1176FzJe]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Ménière's disease guideline — strength of action terms and implied obligation: Strong recommendation means the benefits clearly exceed harms and the supporting evidence is high (grade A or B); clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. Recommendation means the benefits exceed the harms but the quality of evidence is not as high (grade B or C); clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences. Option means either the quality of evidence is suspect (grade D) or well-done studies (Grade A, B, or C) show little clear advantage to one approach versus another; clinicians should be flexible in their decision making, may set bounds on alternatives, and patient preference should have a substantial influencing role.
 
 ---
 
-### NAIL-MS reveals the repair of 2-methylthiocytidine by alkB in E. coli [^1e960cea]. Nature Communications (2019). High credibility.
+### NAIL-MS reveals the repair of 2-methylthiocytidine by alkB in E. coli [^111nM2g1]. Nature Communications (2019). High credibility.
 
 Synthesis of 2-methylthiocytidine
 
@@ -838,19 +838,19 @@ Twenty milligrams of s 2 C were stirred in 1 mL anhydrous ethanol under nitrogen
 
 ---
 
-### AASLD practice guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis [^c09677e8]. Hepatology (2025). High credibility.
+### AASLD practice guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis [^115vXAU7]. Hepatology (2025). High credibility.
 
 Technical remarks — combination strategies, cutoffs, and sequential approach: Very few studies are available that have solely compared the combination of serum biomarkers to a single biomarker; simple single blood-based NILDA such as APRI, FIB-4, and NFS with upper and lower cutoffs (e.g. FIB-4 1.3–2.67) are available, and 2-step cutoffs categorization can better classify patients according to fibrosis severity. Analyses supporting PICO 3 provided imprecise diagnostic estimates with quality of evidence judged to be low; for identifying patients with NAFLD advanced fibrosis, AASLD recommended a sequential approach with FIB-4 followed by imaging NILDA or ELF in FIB-4 ≥ 1.3 when available.
 
 ---
 
-### Definition of "experimental" [^a070d2ae]. Fertility and Sterility (2008). Low credibility.
+### Definition of "experimental" [^1156rv4M]. Fertility and Sterility (2008). Low credibility.
 
 This Practice Committee Opinion offers a definition of what is "experimental".
 
 ---
 
-### Knee torsion predicts the preoperative J-sign grade in patients with recurrent patellar dislocation: a prospective study [^43259fbd]. The Bone & Joint Journal (2025). Medium credibility.
+### Knee torsion predicts the preoperative J-sign grade in patients with recurrent patellar dislocation: a prospective study [^112iYorc]. The Bone & Joint Journal (2025). Medium credibility.
 
 Aims
 
@@ -870,43 +870,43 @@ A threshold of 5° to 6° of torsion in the knee is associated with patellar mal
 
 ---
 
-### Prevention or delay of diabetes and associated comorbidities: standards of care in diabetes – 2025 [^bce9e4e7]. Diabetes Care (2025). High credibility.
+### Prevention or delay of diabetes and associated comorbidities: standards of care in diabetes – 2025 [^115q5Ec6]. Diabetes Care (2025). High credibility.
 
 Prediabetes monitoring (Recommendation 3.1) — In people with prediabetes, monitor for the development of type 2 diabetes at least annually; modify frequency of testing based on individual risk assessment. E
 
 ---
 
-### Male-partner treatment to prevent recurrence of bacterial vaginosis [^fdedc044]. The New England Journal of Medicine (2025). Excellent credibility.
+### Male-partner treatment to prevent recurrence of bacterial vaginosis [^117VTj4X]. The New England Journal of Medicine (2025). Excellent credibility.
 
 The study StepUp was published by Lenka A Vodstrcil and colleagues in 2025 in the journal N Engl J Med. This study is related to the following diseases: Bacterial vaginosis. In the StepUp study, the trial question was: what is the role of addition of combined oral and topical antimicrobial therapy in male partners to prevent recurrence of bacterial vaginosis in women? In the StepUp study, the study design was: multi-center, open label, RCT. In the StepUp study, the population was: 159 patients (undefined female, 159 male). The inclusion criteria were couples in which a woman had bacterial vaginosis and was in a monogamous relationship with a male partner. The key exclusion criteria were current sex worker; concurrent sexual partners; HIV-positive. In the StepUp study, the interventions were: n = 80 male partner treatment (receipt of first-line recommended antimicrobial agents for woman and receipt of oral metronidazole 400 mg BID and 2% clindamycin cream applied to penile skin BID for 7 days for male partner) n = 79 usual care (receipt of first-line antimicrobial agents for woman and no treatment for male partner). In the StepUp study, the primary outcome was: significant decrease in the rate of recurrence of bacterial vaginosis in women within 12 weeks (35% vs. 63%; HR 0.37, 95% CI 0.22 to 0.61). In the StepUp study, the secondary outcomes were: significant decrease in the rate of bacterial vaginosis recurrence, 3–4 Amsel criteria and Nugent score 4–10 within 4 weeks (17.4% vs. 45.6%; HR 0.31, 95% CI 0.16 to 0.59) Significant decrease in the rate of bacterial vaginosis recurrence, Nugent score 7–10 within 12 weeks (37.7% vs. 57.4%; HR 0.46, 95% CI 0.28 to 0.76) Significant decrease in missing data imputed as cure (30% vs. 56%; HR 0.39, 95% CI 0.24 to 0.64). In the StepUp study, the safety outcomes were: no significant difference in adverse effects in women. In the StepUp study, the conclusion was: in couples in which a woman had bacterial vaginosis and was in a monogamous relationship with a male partner, male partner treatment was superior to usual care with respect to the rate of recurrence of bacterial vaginosis in women within 12 weeks.
 
 ---
 
-### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^136b3173]. Ophthalmology (2025). High credibility.
+### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^111VnmeS]. Ophthalmology (2025). High credibility.
 
 Methods and key to ratings — GRADE recommendation categories are defined as follows: Strong recommendation is used when the desirable effects of an intervention clearly outweigh the undesirable effects or clearly do not; Discretionary recommendation is used when the trade-offs are less certain — either because of low-quality evidence or because evidence suggests that desirable and undesirable effects are closely balanced.
 
 ---
 
-### AGA clinical practice update on endoscopic therapies for non-variceal upper gastrointestinal bleeding: expert review [^15e6dcf0]. Gastroenterology (2020). High credibility.
+### AGA clinical practice update on endoscopic therapies for non-variceal upper gastrointestinal bleeding: expert review [^111ZUHVZ]. Gastroenterology (2020). High credibility.
 
 Contact thermal therapy — application parameters for NVUGIB — specify that, when possible, a 10F probe should be used, with heater probe generator settings of 25–30 J per pulse for 4–5 pulses for a total of 100–150 J, and 15–20 W recommended for bipolar/multipolar probes. Forceful contact should be applied for an extended period of at least 8 seconds with the scope tip close to the treatment site to ensure complete obliteration of the culprit vessel, because failure to obliterate the culprit vessel may cause bleeding during treatment or increase the risk for rebleeding.
 
 ---
 
-### Global strategy for asthma management and prevention [^edebf24a]. GINA (2025). High credibility.
+### Global strategy for asthma management and prevention [^1175jKPw]. GINA (2025). High credibility.
 
 Regarding classification and risk stratification for asthma, more specifically with respect to severity definitions, GINA 2025 guidelines recommend to define moderate asthma as asthma that is well controlled with step 3 or 4 treatment (such as low- or medium-dose ICS-LABA in either treatment track).
 
 ---
 
-### Clinical practice guideline: improving nasal form and function after rhinoplasty [^a8359ce3]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: improving nasal form and function after rhinoplasty [^115JNvok]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Guideline statement categories — definitions and implications specify how to act on recommendations: A strong recommendation means that the benefits of the recommended approach clearly exceed the harms and that the quality of the supporting evidence is excellent; clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. A recommendation means that the benefits exceed the harms but that the quality of evidence is not as strong; clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences. An option means either that the quality of evidence that exists is suspect or that well-done studies show little clear advantage to one approach versus another; clinicians should be flexible in their decision making regarding appropriate practice, may set bounds on alternatives, and patient preference should have a substantial influencing role.
 
 ---
 
-### Linvoseltamab-gcpt (Lynozyfic) [^89a28fa7]. FDA (2025). Medium credibility.
+### Linvoseltamab-gcpt (Lynozyfic) [^114X3uZ8]. FDA (2025). Medium credibility.
 
 5.1	Cytokine Release Syndrome (CRS)
 
@@ -924,25 +924,25 @@ At the first sign of CRS, immediately evaluate patients for hospitalization, man
 
 ---
 
-### Immunoglobulin light chain repertoire in chronic lymphocytic leukemia [^e62ead10]. Blood (2005). Low credibility.
+### Immunoglobulin light chain repertoire in chronic lymphocytic leukemia [^116tFq91]. Blood (2005). Low credibility.
 
 Immunoglobulin kappa (IGK) and immunoglobulin lambda (IGL) light chain repertoire was analyzed in 276 chronic lymphocytic leukemia (CLL) cases and compared with the relevant repertoires from normal, autoreactive, and neoplastic cells. Twenty-one functional IGKV genes were used in IGKV-J rearrangements of 179 kappa-CLL cases; the most frequent genes were IGKV3-20(A27), IGKV1-39/1D-39(O2/O12), IGKV1-5(L12), IGKV4-1(B3), and IGKV2-30(A17); 90 (50.3%) of 179 IGK sequences were mutated (similarity < 98%). Twenty functional IGLV genes were used in IGLV-J rearrangements of 97 lambda-CLL cases; the most frequent genes were IGLV3-21(VL2-14), IGLV2-8(VL1-2), and IGLV2-14(VL1-4); 44 of 97 IGL sequences (45.4%) were mutated. Subsets with "CLL-biased" homologous complementarity-determining region 3 (CDR3) were identified: (1) IGKV2-30-IGKJ2, 7 sequences with homologous kappa CDR3 (KCDR3), 5 of 7 associated with homologous IGHV4-34 heavy chains; (2) IGKV1-39/1D-39-IGKJ1/4, 4 unmutated sequences with homologous KCDR3, 2 of 4 associated with homologous IGHV4-39 heavy chains; (3) IGKV1-5-IGKJ1/3, 4 sequences with homologous KCDR3, 2 of 4 associated with unmutated nonhomologous IGHV4-39 heavy chains; (4) IGLV1-44-IGLJ2/3, 2 sequences with homologous lambda CDR3 (LCDR3), associated with homologous IGHV4-b heavy chains; and (5) IGLV3-21-IGLJ2/3, 9 sequences with homologous LCDR3, 3 of 9 associated with homologous IGHV3-21 heavy chains. The existence of subsets that comprise given IGKV-J/IGLV-J domains associated with IGHV-D-J domains that display homologous CDR3 provides further evidence for the role of antigen in CLL pathogenesis.
 
 ---
 
-### Kibble-zurek exponent and chiral transition of the period-4 phase of rydberg chains [^4a2fb20a]. Nature Communications (2021). High credibility.
+### Kibble-zurek exponent and chiral transition of the period-4 phase of rydberg chains [^112tz737]. Nature Communications (2021). High credibility.
 
 Now let us turn to the nature of the transition, assuming that there is a portion of boundary without floating phase. The physical reason behind λ < 1 is the difference in energy cost of domains shifted by one or two sites with respect to the bulk (see Fig. 4). In the very simple classical approximation δ E B, D ≃ V 3 while δ E C ≃ Δ. At the Ashkin–Teller critical point, these expressions lead to δ E B, D ≃ 1.2839 and δ E C ≃ 1.593 for the blockade model. Taking into account longer-range interactions, the energy of domain walls for the Rydberg model can be estimated as δ E B, D ≃ V 3 − 2 V 4 + V 5 and δ E C ≃ Δ − 3 V 4 + 2 V 7. Assuming V 3 = V ≃ 1.2839 and a 1/ R 6 decay, we get δ E B, D ≃ 0.885 and δ E C ≃ 0.925. The asymmetry is still present, but it is smaller, implying that the point where the chiral perturbation vanishes gets closer to the four-state Potts point. Therefore, there are two possibilities: (i) λ is still smaller than λ c = 0.9779. Then the chiral perturbation remains relevant, and the transition immediately becomes chiral until a floating phase emerges; (ii) the long-range interactions bring the Ashkin–Teller point close enough to the four-state Potts point so that the chiral perturbation is irrelevant; then there will be an extended region of direct Ashkin–Teller transition, followed on both sides by a chiral transition, and ultimately by a floating phase. Since λ c ≃ 0.9779 is very close to 1, the first possibility (i) is more likely. More importantly, the fact that the asymmetry can be expected to be reduced by long-range interactions and not increased implies that, if anything, the Rydberg model is further away from the clock limit λ = 0 where there would be an intermediate floating phase all along the boundary. So our conclusion that there is a portion of the boundary to the period-4 phase where the transition is direct and continuous in the chiral universality class before a floating phase opens can be considered as a prediction for the Rydberg model with 1/ R 6 interactions.
 
 ---
 
-### Methodologies for the development of CHEST guidelines and expert panel reports [^380f4748]. Chest (2014). Medium credibility.
+### Methodologies for the development of CHEST guidelines and expert panel reports [^112S7SRu]. Chest (2014). Medium credibility.
 
 Finalizing recommendations — recommendations are formulated by content experts informed by the evidence; cost considerations may be included only if published formal cost-benefit analyses are available, with resource consultants or health economists conducting analyses as needed, and when cost constraints exist implementers are encouraged to use ADAPTE strategies; patient values and preferences are reflected in recommendations or remarks and are especially pertinent in weaker recommendations when wide variability in choices is anticipated; recommendations must be specific and actionable with as much detail as evidence allows, and measure developers are cautioned not to convert lower-evidence recommendations into performance measures.
 
 ---
 
-### Incobotulinumtoxina (Xeomin) [^1c01d691]. FDA (2024). Medium credibility.
+### Incobotulinumtoxina (Xeomin) [^111iXGhe]. FDA (2024). Medium credibility.
 
 2.4		Recommended Dose for Cervical Dystonia
 
@@ -968,24 +968,24 @@ Determine the frequency of XEOMIN repeat treatments by clinical response but adm
 
 ---
 
-### Global strategy for asthma management and prevention [^e928504b]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^116xff2z]. GINA (2024). High credibility.
 
 Track 2 (alternative) for adults and adolescents using SABA reliever outlines treatment Steps 1–4 with specified controller options and a referral step, with caution about adherence. Step 1 states "Take ICS whenever SABA taken", Step 2 is "Low dose maintenance ICS", Step 3 is "Low dose maintenance ICS-LABA", Step 4 is "Medium/high dose maintenance ICS-LABA", and Step 5 is "Refer for expert assessment, phenotyping, and add-on treatment for severe asthma"; the reliever is "as-needed ICS-SABA*, or as-needed SABA". It notes that "This is an alternative approach if Track 1 is not possible, or if a patient's asthma is stable with good adherence and no exacerbations on their current therapy", and advises "before prescribing a regimen with SABA reliever, consider whether the patient is likely to be adherent with their maintenance therapy; if not, they will be at higher risk of exacerbations". Abbreviations are defined on-page as "ICS: inhaled corticosteroid; LABA: long-acting beta agonist; SABA: short-acting beta2 agonist".
 
 ---
 
-### Inebilizumab for treatment of IgG4-related disease [^81e8384c]. The New England Journal of Medicine (2025). Excellent credibility.
+### Inebilizumab for treatment of IgG4-related disease [^114KbQMy]. The New England Journal of Medicine (2025). Excellent credibility.
 
 The study MITIGATE was published by John H Stone and colleagues in 2025 in the journal N Engl J Med. This study is related to the following diseases: IgG4-related diseases and IgG4-related sclerosing cholangitis. In the MITIGATE study, the trial question was: what is the role of inebilizumab, an anti-CD19 monoclonal antibody, in patients with IgG4-related disease? In the MITIGATE study, the study design was: multi-center, double blinded, RCT. In the MITIGATE study, the population was: 135 patients (47 female, 88 male). The inclusion criteria were adult patients with active IgG4-related disease. The key exclusion criteria were history of solid organ or cell-based transplantation or known immunodeficiency disorder; active malignancy; receipt of any biologic B-cell-depleting therapy or non-depleting B-cell-directed therapy in the past 6 months; eGFR < 30 mL/min/1.73 m². In the MITIGATE study, the interventions were: n = 68 inebilizumab (intravenous infusion of 300 mg on days 1 and 15 and week 26 for a 52-week treatment period) n = 67 placebo (matching placebo on days 1 and 15 and week 26 for a 52-week treatment period). In the MITIGATE study, the primary outcome was: significant decrease in disease flares (10% vs. 60%; HR 0.13, 95% CI 0.06 to 0.28). In the MITIGATE study, the secondary outcomes were: significant decrease in annualized flare rate (0.1 vs. 0.71; RR 0.14, 95% CI 0.06 to 0.31) Significant increase in flare-free, treatment-free complete remission at week 52 (57.4% vs. 22.4%; OR 4.68, 95% CI 2.21 to 9.91) Significant increase in flare-free, corticosteroid-free complete remission at week 52 (58.8% vs. 22.4%; OR 4.96, 96% CI 2.34 to 10.52). In the MITIGATE study, the safety outcomes were: no significant difference in at least one adverse event. In the MITIGATE study, the conclusion was: in adult patients with active IgG4-related disease, inebilizumab was superior to placebo with respect to disease flares.
 
 ---
 
-### Stinging insect hypersensitivity: a practice parameter update 2016 [^ae6cde0a]. Annals of Allergy, Asthma & Immunology (2017). Medium credibility.
+### Stinging insect hypersensitivity: a practice parameter update 2016 [^115TbQwb]. Annals of Allergy, Asthma & Immunology (2017). Medium credibility.
 
 Recommendation statement types and clinician implications — strong recommendation (StrRec) means the benefits of the recommended approach clearly exceed the harms and may use lesser evidence in specific circumstances; clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. Recommendation (Rec) means benefits exceed harms with not-as-strong evidence and may use lesser evidence in specific circumstances; clinicians should generally follow a recommendation but should remain alert to new information and sensitive to patient preferences. Option (Opt) means the quality of evidence is suspect or well-done studies show little clear advantage; clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives, and patient preference should have a substantial influencing role. No recommendation (NoRec) means a lack of pertinent evidence and unclear benefit–harm balance; clinicians should feel little constraint in their decision making and be alert to new published evidence, and patient preference should have a substantial influencing role.
 
 ---
 
-### Global Initiative for Asthma strategy 2021: executive summary and rationale for key changes [^4ad523f0]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Global Initiative for Asthma strategy 2021: executive summary and rationale for key changes [^112uwgAT]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 The Global Initiative for Asthma (GINA) Strategy Report provides clinicians with an annually updated evidence-based strategy for asthma management and prevention, which can be adapted for local circumstances (e.g., medication availability). This article summarizes key recommendations from GINA 2021, and the evidence underpinning recent changes. GINA recommends that asthma in adults and adolescents should not be treated solely with short-acting β₂-agonist (SABA), because of the risks of SABA-only treatment and SABA overuse, and evidence for benefit of inhaled corticosteroids (ICS). Large trials show that as-needed combination ICS-formoterol reduces severe exacerbations by ≥ 60% in mild asthma compared with SABA alone, with similar exacerbation, symptom, lung function, and inflammatory outcomes as daily ICS plus as-needed SABA. Key changes in GINA 2021 include division of the treatment figure for adults and adolescents into two tracks. Track 1 (preferred) has low-dose ICS-formoterol as the reliever at all steps: as needed only in Steps 1–2 (mild asthma), and with daily maintenance ICS-formoterol (maintenance-and-reliever therapy, "MART") in Steps 3–5. Track 2 (alternative) has as-needed SABA across all steps, plus regular ICS (Step 2) or ICS-long-acting β₂-agonist (Steps 3–5). For adults with moderate-to-severe asthma, GINA makes additional recommendations in Step 5 for add-on long-acting muscarinic antagonists and azithromycin, with add-on biologic therapies for severe asthma. For children 6–11 years, new treatment options are added at Steps 3–4. Across all age groups and levels of severity, regular personalized assessment, treatment of modifiable risk factors, self-management education, skills training, appropriate medication adjustment, and review remain essential to optimize asthma outcomes.

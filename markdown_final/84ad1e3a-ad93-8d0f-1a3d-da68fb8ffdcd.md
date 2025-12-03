@@ -15,31 +15,31 @@ Ketamine v Etomidate and adrenal suppression and sepsis
 
 > Let's see… What do we have here? The user is asking how ketamine compares to etomidate for rapid sequence intubation in sepsis, with particular attention to adrenal suppression and mortality. Let's break this down step-by-step. First, I need to think about the clinical context and why the choice matters in septic patients. Then, I should verify the pharmacologic mechanisms that drive adrenal effects. Next, I will appraise the highest-quality randomized evidence and meta-analyses. After that, I need to check guideline positions and reconcile any apparent contradictions. Finally, I will synthesize a practical, risk–benefit recommendation and outline alternatives and special scenarios, including pediatrics and trauma, before concluding with a concise bottom line.
 
-> Let me first confirm the clinical context and why this matters. In sepsis, critical illness-related corticosteroid insufficiency is common and associated with worse outcomes, so an induction agent that transiently suppresses adrenal function could theoretically worsen shock physiology and organ dysfunction; conversely, peri-intubation hypotension is frequent and dangerous, so hemodynamic stability during induction is also crucial, creating a tension between adrenal risk and hemodynamic risk that I need to balance carefully [^9fa29415] [^88af52d2].
+> Let me first confirm the clinical context and why this matters. In sepsis, critical illness-related corticosteroid insufficiency is common and associated with worse outcomes, so an induction agent that transiently suppresses adrenal function could theoretically worsen shock physiology and organ dysfunction; conversely, peri-intubation hypotension is frequent and dangerous, so hemodynamic stability during induction is also crucial, creating a tension between adrenal risk and hemodynamic risk that I need to balance carefully [^1155fe6G] [^114VeCuP].
 
-> I will now examine the mechanism of etomidate's adrenal effect to ensure I'm precise. Etomidate inhibits mitochondrial 11β-hydroxylase, the final enzymatic step in cortisol synthesis, producing measurable adrenal suppression that can persist 24–72 hours after a single dose; this has been repeatedly documented in critically ill cohorts and is mechanistically distinct from ketamine, which does not directly inhibit steroidogenesis and may even increase cortisol in some contexts, although I should be cautious not to overstate ketamine's endocrine effects in sepsis [^63189c28] [^3e9cbdb9] [^730b3348].
+> I will now examine the mechanism of etomidate's adrenal effect to ensure I'm precise. Etomidate inhibits mitochondrial 11β-hydroxylase, the final enzymatic step in cortisol synthesis, producing measurable adrenal suppression that can persist 24–72 hours after a single dose; this has been repeatedly documented in critically ill cohorts and is mechanistically distinct from ketamine, which does not directly inhibit steroidogenesis and may even increase cortisol in some contexts, although I should be cautious not to overstate ketamine's endocrine effects in sepsis [^113Xv3Lj] [^112bpt32] [^113wZLcF].
 
-> Next, I should review the highest-quality randomized evidence. The multicenter KETASED trial in critically ill adults found no significant difference in 3-day SOFA but a markedly higher incidence of adrenal insufficiency with etomidate versus ketamine (OR 6.7, 95% CI 3.5–12.7), supporting the mechanistic concern even though mortality was not significantly different in that study, which tempers definitive outcome conclusions from a single RCT [^06a2ac6d]. Wait, let me verify the mortality signal elsewhere; the EvK trial reported improved 7-day survival with ketamine versus etomidate (14.9% vs 22.7%), suggesting a potential early mortality benefit, though 28-day mortality did not differ, so I should not jump to conclusions about long-term effects from that single-center study [^fd94cf9d].
+> Next, I should review the highest-quality randomized evidence. The multicenter KETASED trial in critically ill adults found no significant difference in 3-day SOFA but a markedly higher incidence of adrenal insufficiency with etomidate versus ketamine (OR 6.7, 95% CI 3.5–12.7), supporting the mechanistic concern even though mortality was not significantly different in that study, which tempers definitive outcome conclusions from a single RCT [^111AqZpx]. Wait, let me verify the mortality signal elsewhere; the EvK trial reported improved 7-day survival with ketamine versus etomidate (14.9% vs 22.7%), suggesting a potential early mortality benefit, though 28-day mortality did not differ, so I should not jump to conclusions about long-term effects from that single-center study [^117UwrNQ].
 
-> Hold on, I should verify the pooled evidence. Contemporary meta-analyses consistently show that etomidate increases adrenal insufficiency compared with ketamine, with a pooled relative risk around 0.54 for less adrenal suppression with ketamine, and some analyses suggest a modest mortality signal favoring ketamine, though results vary by inclusion criteria and adjustment; importantly, a 2024 Bayesian meta-analysis found a moderate probability of mortality reduction with ketamine, while acknowledging persistent equipoise and the need for larger trials [^03f1a02e] [^21bd0ea7] [^03f1a02e]. I should double-check older meta-analyses; indeed, earlier pooled data in septic populations associated etomidate with higher mortality, but those analyses were dominated by observational designs and are more susceptible to confounding, which explains some of the heterogeneity and why guideline bodies have been cautious in translating this into firm recommendations [^f7c9d496] [^3e9cbdb9].
+> Hold on, I should verify the pooled evidence. Contemporary meta-analyses consistently show that etomidate increases adrenal insufficiency compared with ketamine, with a pooled relative risk around 0.54 for less adrenal suppression with ketamine, and some analyses suggest a modest mortality signal favoring ketamine, though results vary by inclusion criteria and adjustment; importantly, a 2024 Bayesian meta-analysis found a moderate probability of mortality reduction with ketamine, while acknowledging persistent equipoise and the need for larger trials [^1116r86R] [^111s26S2] [^1116r86R]. I should double-check older meta-analyses; indeed, earlier pooled data in septic populations associated etomidate with higher mortality, but those analyses were dominated by observational designs and are more susceptible to confounding, which explains some of the heterogeneity and why guideline bodies have been cautious in translating this into firm recommendations [^117LMjad] [^112bpt32].
 
-> Next, I should review guidelines to see how expert panels weigh this. The Society of Critical Care Medicine recommends against giving corticosteroids solely to counter etomidate-induced adrenal suppression, reflecting that randomized trials of hydrocortisone after etomidate have not shown improved outcomes; this indirectly underscores the concern that etomidate's adrenal effect is real but that routine steroid "reversal" is not a proven solution, so avoidance of etomidate in sepsis is a reasonable default when alternatives exist [^5018b4b6] [^7794b179]. But wait, what if the hemodynamic profile of etomidate is indispensable in profound shock? The same guideline concludes there is no clear mortality difference between etomidate and other induction agents overall, so it issues a conditional suggestion rather than a strong prohibition, which I need to integrate with patient-specific hemodynamic risk [^5ca7e994].
+> Next, I should review guidelines to see how expert panels weigh this. The Society of Critical Care Medicine recommends against giving corticosteroids solely to counter etomidate-induced adrenal suppression, reflecting that randomized trials of hydrocortisone after etomidate have not shown improved outcomes; this indirectly underscores the concern that etomidate's adrenal effect is real but that routine steroid "reversal" is not a proven solution, so avoidance of etomidate in sepsis is a reasonable default when alternatives exist [^1133kJrZ] [^1144HUKA]. But wait, what if the hemodynamic profile of etomidate is indispensable in profound shock? The same guideline concludes there is no clear mortality difference between etomidate and other induction agents overall, so it issues a conditional suggestion rather than a strong prohibition, which I need to integrate with patient-specific hemodynamic risk [^113NNG8B].
 
-> I need to ensure I weigh hemodynamic trade-offs accurately. Observational cohorts and some RCTs show ketamine is associated with more peri-intubation hypotension than etomidate, whereas etomidate's hemodynamic neutrality is its traditional selling point; however, ketamine may reduce the need for vasopressors downstream, and etomidate's adrenal suppression could theoretically worsen vasopressor-refractory shock, so the net clinical effect is not straightforward and must be individualized [^49040066] [^f3fc689b]. Hold on, I should verify whether etomidate truly reduces hypotension exposure in sepsis; some studies suggest it does, but others show no difference or even worse early hemodynamics when confounding is addressed, reinforcing that the hemodynamic advantage is inconsistent and context-dependent [^85fc29da].
+> I need to ensure I weigh hemodynamic trade-offs accurately. Observational cohorts and some RCTs show ketamine is associated with more peri-intubation hypotension than etomidate, whereas etomidate's hemodynamic neutrality is its traditional selling point; however, ketamine may reduce the need for vasopressors downstream, and etomidate's adrenal suppression could theoretically worsen vasopressor-refractory shock, so the net clinical effect is not straightforward and must be individualized [^112sFSXf] [^117Eimo8]. Hold on, I should verify whether etomidate truly reduces hypotension exposure in sepsis; some studies suggest it does, but others show no difference or even worse early hemodynamics when confounding is addressed, reinforcing that the hemodynamic advantage is inconsistent and context-dependent [^114Re42D].
 
-> Let me consider special populations, starting with pediatrics. Pediatric sepsis guidelines advise avoiding etomidate when possible due to adrenal suppression and cite observational data linking etomidate to higher mortality; in children with sepsis or recent etomidate exposure, stress-dose hydrocortisone is recommended, which is a stronger stance than in adults and reflects the vulnerability of the developing HPA axis and the lack of pediatric RCTs to refute harm [^64da5903] [^2d607316]. I should confirm that this applies even if etomidate was a single dose; yes, the guidance treats recent etomidate as an indication for stress-dose steroids pending further pediatric-specific trials [^38f70531].
+> Let me consider special populations, starting with pediatrics. Pediatric sepsis guidelines advise avoiding etomidate when possible due to adrenal suppression and cite observational data linking etomidate to higher mortality; in children with sepsis or recent etomidate exposure, stress-dose hydrocortisone is recommended, which is a stronger stance than in adults and reflects the vulnerability of the developing HPA axis and the lack of pediatric RCTs to refute harm [^113aX6wL] [^112AGqfs]. I should confirm that this applies even if etomidate was a single dose; yes, the guidance treats recent etomidate as an indication for stress-dose steroids pending further pediatric-specific trials [^112TTH8C].
 
-> Now, trauma deserves separate consideration. Trauma societies often still list etomidate as acceptable for RSI because of hemodynamic stability, but they increasingly acknowledge adrenal concerns and support ketamine as a reasonable alternative; in trauma cohorts, outcomes with ketamine appear comparable to etomidate, and some trauma ERAS guidance prefers ketamine over etomidate when sepsis is present or suspected, which aligns with a risk-stratified approach rather than a blanket prohibition [^0b61e60b] [^c5c79807]. Hmm, wait a minute, I initially thought trauma guidance uniformly favored etomidate; let me reconsider — modern trauma recommendations increasingly emphasize agent selection tailored to hemodynamic and infectious risk, so ketamine is a valid first-line choice in many trauma patients, especially if sepsis is a concern [^c5c79807].
+> Now, trauma deserves separate consideration. Trauma societies often still list etomidate as acceptable for RSI because of hemodynamic stability, but they increasingly acknowledge adrenal concerns and support ketamine as a reasonable alternative; in trauma cohorts, outcomes with ketamine appear comparable to etomidate, and some trauma ERAS guidance prefers ketamine over etomidate when sepsis is present or suspected, which aligns with a risk-stratified approach rather than a blanket prohibition [^111HskKU] [^1164DbvE]. Hmm, wait a minute, I initially thought trauma guidance uniformly favored etomidate; let me reconsider — modern trauma recommendations increasingly emphasize agent selection tailored to hemodynamic and infectious risk, so ketamine is a valid first-line choice in many trauma patients, especially if sepsis is a concern [^1164DbvE].
 
-> I should double-check the practical implications for steroid strategy. If etomidate is used in sepsis, some clinicians consider early hydrocortisone, but randomized data have not shown mortality benefit from empiric steroids solely to counter etomidate, and guidelines advise against routine steroids for this purpose; thus, steroid decisions should be driven by sepsis severity and vasopressor responsiveness rather than etomidate exposure alone, and I need to ensure I don't conflate CIRCI management with etomidate mitigation [^5018b4b6] [^7794b179]. Hold on, let's not jump to conclusions; while some observational propensity analyses suggested lower mortality with etomidate plus hydrocortisone, these are hypothesis-generating and should not override negative RCTs and guideline recommendations, so I should avoid overinterpreting them in practice [^cdde90d1].
+> I should double-check the practical implications for steroid strategy. If etomidate is used in sepsis, some clinicians consider early hydrocortisone, but randomized data have not shown mortality benefit from empiric steroids solely to counter etomidate, and guidelines advise against routine steroids for this purpose; thus, steroid decisions should be driven by sepsis severity and vasopressor responsiveness rather than etomidate exposure alone, and I need to ensure I don't conflate CIRCI management with etomidate mitigation [^1133kJrZ] [^1144HUKA]. Hold on, let's not jump to conclusions; while some observational propensity analyses suggested lower mortality with etomidate plus hydrocortisone, these are hypothesis-generating and should not override negative RCTs and guideline recommendations, so I should avoid overinterpreting them in practice [^116GDDha].
 
-> Let me synthesize a balanced, risk–benefit conclusion. Ketamine reduces the risk of etomidate-associated adrenal suppression and may modestly improve early outcomes in some studies, but it carries a higher risk of peri-intubation hypotension; etomidate offers superior hemodynamic stability at induction but imposes a persistent adrenal penalty that is not reliably reversed by routine steroids, so in patients with sepsis or septic shock, ketamine is generally preferred when hemodynamics can be mitigated with fluids and vasopressors, whereas etomidate may be reserved for extreme instability where its pharmacologic profile is indispensable and adrenal risk is accepted [^f3fc689b] [^21bd0ea7] [^5ca7e994]. I should confirm that this aligns with contemporary reviews; yes, recent expert summaries similarly conclude that ketamine's profile is safer overall in septic patients, with etomidate reserved for select scenarios and with awareness that propofol should generally be avoided in unstable patients due to cardiovascular depression [^2a2354ab] [^fd94cf9d].
+> Let me synthesize a balanced, risk–benefit conclusion. Ketamine reduces the risk of etomidate-associated adrenal suppression and may modestly improve early outcomes in some studies, but it carries a higher risk of peri-intubation hypotension; etomidate offers superior hemodynamic stability at induction but imposes a persistent adrenal penalty that is not reliably reversed by routine steroids, so in patients with sepsis or septic shock, ketamine is generally preferred when hemodynamics can be mitigated with fluids and vasopressors, whereas etomidate may be reserved for extreme instability where its pharmacologic profile is indispensable and adrenal risk is accepted [^117Eimo8] [^111s26S2] [^113NNG8B]. I should confirm that this aligns with contemporary reviews; yes, recent expert summaries similarly conclude that ketamine's profile is safer overall in septic patients, with etomidate reserved for select scenarios and with awareness that propofol should generally be avoided in unstable patients due to cardiovascular depression [^1125UM8n] [^117UwrNQ].
 
-> Finally, I need to ensure the practical steps are clear. If I choose ketamine, I should anticipate and preempt hypotension with aggressive pre-intubation fluids and have push-dose pressors ready; if I choose etomidate, I should document the adrenal risk, avoid reflexive steroid administration solely for etomidate, and manage shock per sepsis protocols while monitoring for refractory vasopressor needs that might reflect CIRCI rather than drug effect; in pediatrics, I should avoid etomidate when possible and give stress-dose hydrocortisone if it was used or if other HPA risk factors are present [^0b61e60b] [^5018b4b6] [^64da5903]. Hold on, I should verify that I'm not overstating any claims; given persistent equipoise and ongoing trials, shared decision-making and local protocol alignment are essential, and I should remain open to evolving evidence that could refine this risk–benefit balance over time [^fd94cf9d].
+> Finally, I need to ensure the practical steps are clear. If I choose ketamine, I should anticipate and preempt hypotension with aggressive pre-intubation fluids and have push-dose pressors ready; if I choose etomidate, I should document the adrenal risk, avoid reflexive steroid administration solely for etomidate, and manage shock per sepsis protocols while monitoring for refractory vasopressor needs that might reflect CIRCI rather than drug effect; in pediatrics, I should avoid etomidate when possible and give stress-dose hydrocortisone if it was used or if other HPA risk factors are present [^111HskKU] [^1133kJrZ] [^113aX6wL]. Hold on, I should verify that I'm not overstating any claims; given persistent equipoise and ongoing trials, shared decision-making and local protocol alignment are essential, and I should remain open to evolving evidence that could refine this risk–benefit balance over time [^117UwrNQ].
 
 ---
 
-Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate causes **transient adrenal suppression** [^63189c28] that can worsen shock and increase mortality [^f7c9d496] [^3e9cbdb9], whereas ketamine does not suppress the adrenal axis and offers hemodynamic stability [^f3fc689b]. Multiple RCTs and meta-analyses show etomidate increases adrenal insufficiency [^06a2ac6d] [^f3fc689b] and is associated with higher mortality in sepsis [^f7c9d496] [^3e9cbdb9], while ketamine shows no such effects [^f3fc689b]. Guidelines recommend **avoiding etomidate in sepsis** and using ketamine or other alternatives [^c5c79807]; if etomidate is used, do not routinely give steroids to counter adrenal suppression, as this does not improve outcomes [^5018b4b6] [^7794b179].
+Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate causes **transient adrenal suppression** [^113Xv3Lj] that can worsen shock and increase mortality [^117LMjad] [^112bpt32], whereas ketamine does not suppress the adrenal axis and offers hemodynamic stability [^117Eimo8]. Multiple RCTs and meta-analyses show etomidate increases adrenal insufficiency [^111AqZpx] [^117Eimo8] and is associated with higher mortality in sepsis [^117LMjad] [^112bpt32], while ketamine shows no such effects [^117Eimo8]. Guidelines recommend **avoiding etomidate in sepsis** and using ketamine or other alternatives [^1164DbvE]; if etomidate is used, do not routinely give steroids to counter adrenal suppression, as this does not improve outcomes [^1133kJrZ] [^1144HUKA].
 
 ---
 
@@ -47,17 +47,17 @@ Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate cau
 
 ### Etomidate
 
-- **Mechanism**: Inhibits 11β-hydroxylase, blocking cortisol synthesis and causing transient adrenal suppression lasting 24–72 hours [^63189c28] [^8f1f2ec5].
+- **Mechanism**: Inhibits 11β-hydroxylase, blocking cortisol synthesis and causing transient adrenal suppression lasting 24–72 hours [^113Xv3Lj] [^114fBhnc].
 
-- **Clinical relevance**: In sepsis, this can worsen shock, increase vasopressor needs, and contribute to mortality [^f7c9d496] [^32319b08].
+- **Clinical relevance**: In sepsis, this can worsen shock, increase vasopressor needs, and contribute to mortality [^117LMjad] [^112HR3V9].
 
 ---
 
 ### Ketamine
 
-- **Mechanism**: NMDA antagonist with sympathomimetic effects; does not inhibit 11β-hydroxylase or suppress adrenal function [^730b3348].
+- **Mechanism**: NMDA antagonist with sympathomimetic effects; does not inhibit 11β-hydroxylase or suppress adrenal function [^113wZLcF].
 
-- **Clinical relevance**: Maintains hemodynamics without adrenal suppression, making it attractive in sepsis [^f3fc689b].
+- **Clinical relevance**: Maintains hemodynamics without adrenal suppression, making it attractive in sepsis [^117Eimo8].
 
 ---
 
@@ -65,31 +65,31 @@ Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate cau
 
 | **Study** | **Design** | **Key findings** |
 |-|-|-|
-| KETASED trial (2009) | RCT (n = 655) | - Etomidate ↑ adrenal insufficiency (OR 6.7) [^06a2ac6d] <br/> - No mortality difference at 28 days <br/> - Trend toward lower SOFA with ketamine |
-| Meta-analysis (2012) | 5 studies (n = 865) | - Etomidate ↑ mortality (RR 1.20) [^f7c9d496] <br/> - ↑ adrenal insufficiency (RR 1.33) |
-| Meta-analysis (2015) | 18 studies (n = 5,552) | - No mortality difference in RCTs [^632697ea] <br/> - ↑ adrenal insufficiency with etomidate |
-| Bayesian meta-analysis (2024) | 7 RCTs (n = 2,384) | - Etomidate ↑ adrenal insufficiency [^f3fc689b] <br/> - No mortality difference <br/> - Ketamine ↓ vasopressor need |
-| Large observational study (2024) | Propensity-matched (n = 22,273) | - Etomidate ↑ mortality vs ketamine (21.6% vs 18.7%; aOR 1.28) [^32319b08] |
+| KETASED trial (2009) | RCT (n = 655) | - Etomidate ↑ adrenal insufficiency (OR 6.7) [^111AqZpx] <br/> - No mortality difference at 28 days <br/> - Trend toward lower SOFA with ketamine |
+| Meta-analysis (2012) | 5 studies (n = 865) | - Etomidate ↑ mortality (RR 1.20) [^117LMjad] <br/> - ↑ adrenal insufficiency (RR 1.33) |
+| Meta-analysis (2015) | 18 studies (n = 5,552) | - No mortality difference in RCTs [^113Xzjm3] <br/> - ↑ adrenal insufficiency with etomidate |
+| Bayesian meta-analysis (2024) | 7 RCTs (n = 2,384) | - Etomidate ↑ adrenal insufficiency [^117Eimo8] <br/> - No mortality difference <br/> - Ketamine ↓ vasopressor need |
+| Large observational study (2024) | Propensity-matched (n = 22,273) | - Etomidate ↑ mortality vs ketamine (21.6% vs 18.7%; aOR 1.28) [^112HR3V9] |
 
 ---
 
 ## Clinical outcomes and guidelines
 
-- **Mortality**: Etomidate is associated with higher mortality in sepsis, especially in observational data [^f7c9d496] [^32319b08]; RCTs show no clear mortality difference but consistently show more adrenal insufficiency with etomidate [^06a2ac6d] [^f3fc689b].
+- **Mortality**: Etomidate is associated with higher mortality in sepsis, especially in observational data [^117LMjad] [^112HR3V9]; RCTs show no clear mortality difference but consistently show more adrenal insufficiency with etomidate [^111AqZpx] [^117Eimo8].
 
-- **Hemodynamics**: Ketamine maintains blood pressure via sympathetic stimulation, whereas etomidate is hemodynamically neutral but can worsen shock via adrenal suppression [^f3fc689b] [^63189c28].
+- **Hemodynamics**: Ketamine maintains blood pressure via sympathetic stimulation, whereas etomidate is hemodynamically neutral but can worsen shock via adrenal suppression [^117Eimo8] [^113Xv3Lj].
 
-- **Guidelines**: SCCM advises against routine corticosteroids after etomidate to counter adrenal suppression, as this does not improve outcomes [^5018b4b6] [^7794b179]. Many trauma and critical care guidelines prefer ketamine in sepsis when available [^c5c79807].
+- **Guidelines**: SCCM advises against routine corticosteroids after etomidate to counter adrenal suppression, as this does not improve outcomes [^1133kJrZ] [^1144HUKA]. Many trauma and critical care guidelines prefer ketamine in sepsis when available [^1164DbvE].
 
 ---
 
 ## Practical implications and recommendations
 
-- **Preferred agent**: Ketamine is preferred for RSI in sepsis due to lack of adrenal suppression and favorable hemodynamics [^f3fc689b] [^2a2354ab].
+- **Preferred agent**: Ketamine is preferred for RSI in sepsis due to lack of adrenal suppression and favorable hemodynamics [^117Eimo8] [^1125UM8n].
 
-- **Etomidate use**: If etomidate is used, avoid routine steroids afterward; manage shock per sepsis protocols and monitor for refractory hypotension [^5018b4b6] [^7794b179].
+- **Etomidate use**: If etomidate is used, avoid routine steroids afterward; manage shock per sepsis protocols and monitor for refractory hypotension [^1133kJrZ] [^1144HUKA].
 
-- **Alternatives**: Consider midazolam or ketamine-propofol combinations when ketamine is contraindicated or unavailable [^f604e571] [^f1b2da30].
+- **Alternatives**: Consider midazolam or ketamine-propofol combinations when ketamine is contraindicated or unavailable [^117HjbiG] [^117BL6Es].
 
 ---
 
@@ -99,7 +99,7 @@ Ketamine is **preferred over etomidate** for RSI in sepsis because etomidate cau
 
 ## References
 
-### Ketamine versus etomidate for rapid sequence intubation: a systematic review and meta-analysis of randomized trials [^f3fc689b]. Critical Care Medicine (2025). Medium credibility.
+### Ketamine versus etomidate for rapid sequence intubation: a systematic review and meta-analysis of randomized trials [^117Eimo8]. Critical Care Medicine (2025). Medium credibility.
 
 Objectives
 
@@ -127,7 +127,7 @@ Compared with etomidate, ketamine probably results in more hemodynamic instabili
 
 ---
 
-### An expiration date for etomidate? [^195242ca]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
+### An expiration date for etomidate? [^111eYKcm]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
 
 Several important questions arise from the data in this study and the recent related literature. First, although this study has limitations, the totality of evidence points to a reasonably consistent signal of increased mortality risk with etomidate. Combined with a mechanistic basis for this concern (i.e. adrenal suppression) and evidence that etomidate might not mitigate hypotension exposure compared with other agents like ketamine, the overall balance of risk versus benefit does not favor the use of etomidate.
 
@@ -135,7 +135,7 @@ Second, safe alternatives to etomidate exist. This study and other prior researc
 
 ---
 
-### Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial [^06a2ac6d]. Lancet (2009). Excellent credibility.
+### Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial [^111AqZpx]. Lancet (2009). Excellent credibility.
 
 Background
 
@@ -159,7 +159,7 @@ French Ministry of Health.
 
 ---
 
-### An expiration date for etomidate? [^88af52d2]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
+### An expiration date for etomidate? [^114VeCuP]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
 
 Endotracheal intubation to facilitate invasive mechanical ventilation in critically ill patients is a high-risk procedure. For example, cardiovascular instability occurred in nearly 40% of intubations in critically ill patients included in the recent INTUBE study (International Observational Study to Understand the Impact and Best Practices of Airway Management in Critically Ill Patients), which in turn was associated with higher risks of mortality. Given this particularly high-risk nature of endotracheal intubation in critically ill patients, safety and risk mitigation must be prioritized. Consistent with this emphasis, the MACOCHA score (Mallampati score III/IV, Apnea syndrome [obstructive], Cervical spine limitation, Opening mouth 3 cm, Coma, Hypoxia, and Anesthesiologist nontrained) was developed to help identify patients at risk for difficult intubation, whereas several randomized controlled trials (RCTs) have assessed strategies implemented across various phases of the periintubation period to support safer airway management.
 
@@ -167,25 +167,25 @@ Critically ill patients pose physiological difficulty when undergoing endotrache
 
 ---
 
-### Etomidate for critically ill patients. con: do you really want to weaken the frail? [^f604e571]. European Journal of Anaesthesiology (2012). Low credibility.
+### Etomidate for critically ill patients. con: do you really want to weaken the frail? [^117HjbiG]. European Journal of Anaesthesiology (2012). Low credibility.
 
 Etomidate is an imidazole-derived hypnotic agent preferentially used for rapid sequence induction of anaesthesia because of its favourable haemodynamic profile. However, 11β-hydroxylase inhibition causes adrenal insufficiency with potentially fatal consequences in specific populations. We review the arguments against the liberal administration of etomidate in critically ill, and especially septic, patients. This review considered only high-quality and prospective studies with a low risk of bias. Three major effects have been observed with the clinical use of a single dose of etomidate. First, independent of the clinical setting, etomidate causes adrenal dysfunction via 11β-hydroxylase inhibition ranging from 12 to 48 h, making the drug unsuitable for use in elective interventions. Second, in a systematic review with meta-analyses, including 3715 septic patients, the relative risk of death with etomidate was 1.22 (95% confidence interval 1.11 to 1.35). Based on this statistically significant and clinically relevant increase in mortality, a single dose of etomidate has to be avoided in patients with septic shock. Third, in small randomised controlled trials, a single dose of etomidate in trauma patients was associated with an increased incidence of pneumonia (56.7 vs. 25.9% in controls), prolonged intensive care stay (6.3 vs. 1.5 days) and prolonged hospital stay (11.6 vs. 6.4 days). Based on these randomised controlled trials, the use of etomidate should be avoided in unstable trauma patients. Midazolam and ketamine are two valid alternatives with similar intubation and haemodynamic conditions as etomidate but without its adverse effects. Therefore, for safety reasons, etomidate should be avoided in the critical conditions of sepsis and trauma.
 
 ---
 
-### Etomidate for critically ill patients. pro: yes we can use it [^3eb7e5b4]. European Journal of Anaesthesiology (2012). Low credibility.
+### Etomidate for critically ill patients. pro: yes we can use it [^112bz15d]. European Journal of Anaesthesiology (2012). Low credibility.
 
 Etomidate is used to induce anaesthesia in critically ill patients in many environments, including pre-hospital care, in the emergency and critical care departments and in the operating theatre. It has a favourable cardiovascular profile, but its use has courted controversy because it suppresses adrenal function which some believe is associated with worse outcome, particularly in patients with sepsis. Because there is much evidence of harm associated with hypotension in critically ill patients, it is important to use an anaesthetic induction drug which is less likely to cause hypotension. Etomidate undoubtedly causes adrenal suppression, but the clinical consequences of this remain unclear. There is no convincing or consistent evidence that etomidate is associated with harm, particularly if adjustment is made for pre-existing severity of illness. The etomidate debate is currently in clinical equipoise in which there is genuine uncertainty within the expert medical community. We review briefly the arguments in favour of continuing to use etomidate in critically ill patients.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^2d607316]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^112AGqfs]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Etomidate for intubation in pediatric sepsis — evidence overview: No randomized controlled trials (RCTs) exist in critically ill children with or without sepsis comparing etomidate to another anesthesia/sedative regimen, and observational pediatric-inclusive studies reported higher mortality after use of etomidate (pooled OR, 4.51; 95% CI, 1.82–11.16). Adult data indicate adrenal effects, including cortisol to adrenocorticotropin hormone (ACTH) ratios decreasing by 83% after etomidate exposure, a comparison of 234 versus 235 critically ill adults with higher adrenal insufficiency in the etomidate group (OR, 1.79; 95% CI, 1.37–2.36), and pooled odds across four adult studies of 1.89 (95% CI, 1.47–2.44). The text notes there is no conclusive evidence to recommend an optimal alternative induction agent to etomidate, although ketamine and fentanyl are routinely available and can offer favorable hemodynamic profiles in the setting of shock.
 
 ---
 
-### A prospective observational study of the effect of etomidate on septic patient mortality and length of stay [^863cb2b2]. Academic Emergency Medicine (2009). Low credibility.
+### A prospective observational study of the effect of etomidate on septic patient mortality and length of stay [^114S1jFo]. Academic Emergency Medicine (2009). Low credibility.
 
 Objectives
 
@@ -205,31 +205,31 @@ No statistically significant increase in hospital LOS or mortality in patients g
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^85fc29da]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^114Re42D]. Critical Care Medicine (2023). High credibility.
 
 Rapid sequence intubation (RSI) induction agents — etomidate versus ketamine and others — are compared in critically ill adults for hypotension, vasopressor use, and mortality. A prospective randomized single-center study assessed etomidate (0.2–0.3 mg/kg) versus ketamine (1–2 mg/kg) and reported that Seven-day survival but not 28-day survival was higher with ketamine without differences in ventilation, ICU stay, vasopressor use, SOFA score, or new adrenal insufficiency. In a sepsis propensity score–matched cohort, clinical hypotension defined as MAP decrease > 40% from baseline, MAP < 60 mm Hg, initiation of a vasopressor, or an increase of > 30% of a vasopressor infusion occurred in 51% with ketamine (1.3–2.2 mg/kg) versus 73% with etomidate (0.2–0.4 mg/kg) (OR 0.39; 95% CI, 0.22–0.67), and at 6–12 hours and 12–24 hours after RSI the etomidate group had significantly lower MAPs. In sepsis intubations, ketamine (median dose: 100 mg [interquartile range {IQR} 72.2–150 mg]) versus etomidate (median dose: 20 mg [IQR 15–20 mg]) had higher post-RSI hypotension with ketamine even after propensity adjustment (OR 2.7; 95% CI, 1.1–6.7), and in ED RSI, hypotension was 18.3% with ketamine (n = 738) versus 12.4% with etomidate (n = 6,068), with a higher risk for hypotension in the ketamine group (OR 1.4; 95% CI, 1.2–1.7). Less-rigorous trials of combinations, including dose varied based on the study 0.2 mg/kg ± 0.1, mean: 21 mg ± 6, and comparators such as propofol (mean: 127 mg ± 5mg) and methohexital (mean: 1 mg/kg ± 0.2), did not show a higher rate of hypotension in critically ill or acutely injured patients. For vasopressor outcomes, across 469 patients in one study and a small RCT of 79 receiving ketamine/propofol (0.5 mg/kg of each) versus 73 receiving etomidate (0.15 mg/kg), there was no difference in duration or in immediate or delayed vasopressor use. A secondary analysis of the INTUBE trial found propofol for RSI was associated with significantly higher adjusted odds of cardiovascular collapse and increased odds of mortality. Taken together, there was no significant difference between etomidate and other induction agents in mortality, most studies demonstrated favorable peri-intubation hemodynamics with etomidate, and because it is often available, familiar, and low cost, it is a reasonable RSI induction agent for critically ill patients.
 
 ---
 
-### Etomidate for intubation of patients who have sepsis or septic shock – where do we go from here? [^1a1ecae0]. Critical Care (2012). Low credibility.
+### Etomidate for intubation of patients who have sepsis or septic shock – where do we go from here? [^111fj2DM]. Critical Care (2012). Low credibility.
 
 Etomidate is an intravenous induction agent that is associated with hemodynamic stability during intubation. The agent is therefore attractive for use in critically ill patients who have a high risk of hemodynamic instability during this procedure. However, etomidate causes adrenal suppression, which itself has been associated with increased mortality in critically ill patients. The ongoing debate surrounding use of etomidate is thus centered on the immediate favorable hemodynamic profile versus the long-term risks of adrenal insufficiency, particularly in patients who have severe sepsis or septic shock.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^64da5903]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^113aX6wL]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Pediatric sepsis airway induction — etomidate: Observational pediatric data and adult randomized controlled trials (RCTs) report higher mortality and adrenal insufficiency associated with etomidate, while no pediatric RCTs compare etomidate with alternatives; pooled pediatric mortality signal was large and adrenal suppression has been demonstrated even after a single dose. Studies cited include mixed adult–pediatric cohorts (44 vs 90), a meningococcal sepsis pediatric cohort (23 vs 37), and adult RCTs showing increased adrenal insufficiency (including OR, 1.79; 95% CI, 1.37–2.36) with pooled adult odds 1.89 (95% CI, 1.47–2.44); one pediatric analysis reported pooled OR, 4.51 (95% CI, 1.82–11.16) for mortality, and cortisol to adrenocorticotropin hormone (ACTH) ratios decreased by 83% after exposure. An optimal alternative induction agent is not established, although ketamine and fentanyl are routinely available and can offer favorable hemodynamic profiles in shock.
 
 ---
 
-### Should we use etomidate as an induction agent for endotracheal intubation in patients with septic shock? a critical appraisal [^e101b142]. Chest (2005). Low credibility.
+### Should we use etomidate as an induction agent for endotracheal intubation in patients with septic shock? a critical appraisal [^116kanNu]. Chest (2005). Low credibility.
 
 Etomidate is commonly used for the facilitation of endotracheal intubation. While etomidate possesses multiple qualities that are beneficial in hemodynamically unstable patients who require a sedative or amnestic, its potential to negatively impact corticosteroid production is well-documented. Given the frequency of relative adrenal insufficiency observed in the critically ill and the increasing use of corticosteroids in patients with septic shock, an appraisal of the status of etomidate as an induction agent in patients with evolving or established septic shock is indicated. A review of the relevant literature suggests that its use in this setting may be harmful. It is proposed that, pending the performance of a randomized, controlled clinical trial, considerable caution should accompany its administration in patients with evolving or established septic shock. The potential role for concomitant empiric steroid replacement and the comparability of alternative induction regimens are also discussed.
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^dd0157f4]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^116eeiTM]. Critical Care (2007). Low credibility.
 
 Introduction
 
@@ -239,25 +239,25 @@ Etomidate has been scrutinised with regard to its safety in critically ill patie
 
 ---
 
-### Etomidate, sepsis, and adrenal function: not as bad as we thought? [^d8147283]. Critical Care (2007). Low credibility.
+### Etomidate, sepsis, and adrenal function: not as bad as we thought? [^116XMCDY]. Critical Care (2007). Low credibility.
 
 The choice of induction agent for endotracheal intubation can have significant downstream effects, especially in critically ill patients. In a retrospective study, Ray and McKeown found that the choice of induction agent had no significant effect on use of vasoactive medications, corticosteroids, or mortality. Given the heated debate regarding corticosteroids in septic shock and the role that etomidate may play in leading to adrenal insufficiency, enthusiasm for etomidate as an induction agent should be tempered by its possible, significant side effects in these critically ill patients.
 
 ---
 
-### Etomidate, pharmacological adrenalectomy and the critically ill: a matter of vital importance [^1b3d2a2a]. Critical Care (2006). Low credibility.
+### Etomidate, pharmacological adrenalectomy and the critically ill: a matter of vital importance [^111hPDCD]. Critical Care (2006). Low credibility.
 
 Etomidate is a potent suppressant of adrenal steroidogenesis, effectively inducing reversible pharmacological adrenalectomy. Recent evidence suggests that for every five patients with septic shock given etomidate without corticosteroid supplementation, one patient will die as a consequence. Other critically ill patients are also at possible risk, and this risk requires further exploration. Etomidate will also confound investigations into the effects of disease states on adrenal function, and should therefore be avoided. A moratorium on the use of etomidate in critically ill patients outside clinical trials may be prudent until its safety is established.
 
 ---
 
-### Should etomidate be used for rapid-sequence intubation induction in critically ill septic patients? [^31a7bfe4]. The American Journal of Emergency Medicine (2008). Low credibility.
+### Should etomidate be used for rapid-sequence intubation induction in critically ill septic patients? [^112GcjqM]. The American Journal of Emergency Medicine (2008). Low credibility.
 
 Etomidate is an agent often used by emergency medicine physicians for rapid-sequence intubation induction of critically ill patients because of its reliable pharmacokinetics and cardiovascular stability. Etomidate is known to inhibit endogenous cortisol production through inhibition of 11beta-hydroxylase. Previous studies in undifferentiated emergency department patients and healthy, elective surgical patients have shown this effect to be only transient and not clinically significant. Recent retrospective studies in the pediatric and adult intensive care literature have shown an association between a single induction dose of etomidate in critically ill septic patients and sustained suppression of the adrenal axis with an increase in mortality. It is unknown at this time if any increase in mortality associated with etomidate-induced adrenal suppression would be offset by concomitant corticosteroid administration. Aggressive resuscitation of septic patients with fluids, antibiotics, and vasopressors has been shown to significantly reduce mortality and may allow for the use of alternative agents that had previously been discouraged because of concern for hemodynamic collapse during intubation. A prospective randomized trial in septic patients of etomidate induction with early corticotropin stimulation testing or corticosteroid supplementation vs the use of alternative induction agents with enough power to detect differences in mortality is needed to further address this clinical dilemma.
 
 ---
 
-### Induction agents for tracheal intubation in critically ill patients [^2a2354ab]. Critical Care Medicine (2025). Medium credibility.
+### Induction agents for tracheal intubation in critically ill patients [^1125UM8n]. Critical Care Medicine (2025). Medium credibility.
 
 Objectives
 
@@ -285,7 +285,7 @@ Although no definitive conclusions can be drawn based on the available evidence,
 
 ---
 
-### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^7b800503]. Critical Care (2014). Low credibility.
+### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^114A6Ugi]. Critical Care (2014). Low credibility.
 
 Conclusions
 
@@ -293,7 +293,7 @@ This study found no evidence for differences in key clinical outcome parameters 
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^f9583879]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^117NfYr4]. Critical Care (2007). Low credibility.
 
 Conclusion
 
@@ -301,7 +301,7 @@ We conclude that induction agent use cannot be related to patient outcome, vasoa
 
 ---
 
-### A comparison of the effects of etomidate and midazolam on hospital length of stay in patients with suspected sepsis: a prospective, randomized study [^bf7302cc]. Annals of Emergency Medicine (2010). Low credibility.
+### A comparison of the effects of etomidate and midazolam on hospital length of stay in patients with suspected sepsis: a prospective, randomized study [^115tqGRH]. Annals of Emergency Medicine (2010). Low credibility.
 
 Study Objective
 
@@ -321,7 +321,7 @@ Patients with suspected sepsis and who received a single bolus dose of etomidate
 
 ---
 
-### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^21bd0ea7]. Critical Care (2024). Medium credibility.
+### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^111s26S2]. Critical Care (2024). Medium credibility.
 
 Relationship with the previous literature
 
@@ -335,7 +335,7 @@ In addition to ketamine and etomidate, propofol is also listed among induction a
 
 ---
 
-### Etomidate is associated with mortality and adrenal insufficiency in sepsis: a meta-analysis* [^f7c9d496]. Critical Care Medicine (2012). Low credibility.
+### Etomidate is associated with mortality and adrenal insufficiency in sepsis: a meta-analysis* [^117LMjad]. Critical Care Medicine (2012). Low credibility.
 
 Objective
 
@@ -367,7 +367,7 @@ Administration of etomidate for rapid sequence intubation is associated with hig
 
 ---
 
-### Death by p-value: the overreliance on p-values in critical care research [^e236285d]. Critical Care (2025). Medium credibility.
+### Death by p-value: the overreliance on p-values in critical care research [^116nNPmN]. Critical Care (2025). Medium credibility.
 
 Bayesian approximation
 
@@ -400,7 +400,7 @@ Despite a borderline p- value (0.056), the modest improvement in organ function 
 
 ---
 
-### Etomidate for anesthesia induction: friends or foe in major cardiac surgery? [^b2576bfa]. Critical Care (2014). Low credibility.
+### Etomidate for anesthesia induction: friends or foe in major cardiac surgery? [^115ZQAGy]. Critical Care (2014). Low credibility.
 
 Adrenal suppression
 
@@ -408,7 +408,7 @@ Etomidate use for anesthesia induction has been an important subject of controve
 
 ---
 
-### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^03f1a02e]. Critical Care (2024). Medium credibility.
+### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^1116r86R]. Critical Care (2024). Medium credibility.
 
 Background
 
@@ -422,13 +422,13 @@ To further the discussion on potential benefits of ketamine, we performed an upd
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^b0203146]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^115W7dky]. Critical Care Medicine (2023). High credibility.
 
 Rapid sequence intubation (RSI) sedative-hypnotic evidence gaps — focused on etomidate — are noted for future research. Because of the lack of evidence that etomidate-induced adrenal insufficiency causes negative clinical outcomes, additional research focused on this topic may be redundant; however, patients with certain underlying diseases may be more susceptible to long-term outcomes of hypothalamus-pituitary-adrenal axis suppression, which has not been studied adequately. A correlation between mortality rates and degree of severity of illness following etomidate administration is hypothesis generating for a prospective evaluation, and although it is challenging to design a blinded trial due to the pharmacodynamic effects of some induction agents, such a trial may help adequately answer further questions related to RSI sedative-hypnotic agents.
 
 ---
 
-### Controversies surrounding the use of etomidate for rapid sequence intubation in patients with suspected sepsis [^41863653]. The Annals of Pharmacotherapy (2010). Low credibility.
+### Controversies surrounding the use of etomidate for rapid sequence intubation in patients with suspected sepsis [^112g9Gyx]. The Annals of Pharmacotherapy (2010). Low credibility.
 
 Objective
 
@@ -452,7 +452,7 @@ Until further studies are available, etomidate should be reserved for hemodynami
 
 ---
 
-### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^9c26bf0b]. Critical Care (2006). Low credibility.
+### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^114zW5oQ]. Critical Care (2006). Low credibility.
 
 Key messages
 
@@ -462,7 +462,7 @@ Key messages
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^17dad370]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^111cNDZ9]. Critical Care (2012). Low credibility.
 
 Introduction
 
@@ -472,19 +472,19 @@ To limit the potential consequences of etomidate on the adrenal axis, hydrocorti
 
 ---
 
-### In patients with severe sepsis, does a single dose of etomidate to facilitate intubation increase mortality? [^20ba9dc9]. Annals of Emergency Medicine (2013). Low credibility.
+### In patients with severe sepsis, does a single dose of etomidate to facilitate intubation increase mortality? [^111qXHbe]. Annals of Emergency Medicine (2013). Low credibility.
 
 Currently, single-dose etomidate has not been shown to cause increased mortality in septic patients requiring intubation; however, sufficiently powered randomized trials are required before definitive conclusions can be drawn.
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^d818a44d]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^116XNbw2]. Critical Care (2007). Low credibility.
 
 Hospital mortality for the 159 patients in the study was 65%, which is comparable with rates found in other studies of septic shock. Patients given etomidate were sicker than those given propofol or thiopental and were less likely to survive. When the standardised mortality ratios (SMRs) (actual hospital mortality/predicted APACHE II mortality) are calculated for each of these groups, outcome is not significantly affected by the induction agent. Thus, etomidate did not have a demonstrable adverse effect on outcome. However, the SMR was higher for etomidate (1.0) than in the other pooled groups (0.96). Although this difference is relatively small, it is possible that etomidate may be associated with a worse 'adjusted' outcome. Despite concerns about etomidate-induced adrenal suppression, etomidate was chosen more frequently for sicker patients, and this did not lead to increased use of vasopressors, inotropes, or steroids. The dose of etomidate given in the present study (approximately 0.1 to 0.3 mg/kg) is lower than that given in other studies. It is possible that the amplitude of adrenal suppression is dose-related and that we might have observed a greater difference if we had used larger doses of etomidate. However, even a sub-anaesthetic dose of 0.04 mg/kg can block 11 β-hydroxylase, and we are not aware of any evidence that the clinical consequences of adrenal suppression following a single bolus of etomidate are dose-related. Patients who received hydrocortisone to treat vasopressor-dependent hypotension appeared to be sicker than patients who received no steroid therapy. This may account for our finding that outcome was worse in these patients, but it could be argued that steroids should improve patients more substantially if the vasopressor-dependence is related mainly to adrenal suppression.
 
 ---
 
-### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^955620b8]. Critical Care (2006). Low credibility.
+### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^114pQ5ts]. Critical Care (2006). Low credibility.
 
 Conclusion
 
@@ -492,13 +492,13 @@ Relative adrenal insufficiency is present in most patients with septic shock aft
 
 ---
 
-### Anaesthesia in haemodynamically compromised emergency patients: does ketamine represent the best choice of induction agent? [^37f8f8c5]. Anaesthesia (2009). Low credibility.
+### Anaesthesia in haemodynamically compromised emergency patients: does ketamine represent the best choice of induction agent? [^112Rywrt]. Anaesthesia (2009). Low credibility.
 
 In rapid sequence induction of anaesthesia in the emergency setting in shocked or hypotensive patients (e.g. ruptured abdominal aortic aneurysm, polytrauma or septic shock), prior resuscitation is often suboptimal and comorbidities (particularly cardiovascular) may be extensive. The induction agents with the most favourable pharmacological properties conferring haemodynamic stability appear to be ketamine and etomidate. However, etomidate has been withdrawn from use in some countries and impairs steroidogenesis. Ketamine has been traditionally contra-indicated in the presence of brain injury, but we argue in this review that any adverse effects of the drug on intracranial pressure or cerebral blood flow are in fact attenuated or reversed by controlled ventilation, subsequent anaesthesia and the greater general haemodynamic stability conferred by the drug. Ketamine represents a very rational choice for rapid sequence induction in haemodynamically compromised patients.
 
 ---
 
-### Ketamine / propofol admixture vs etomidate for intubation in the critically ill: KEEP PACE randomized clinical trial [^f1b2da30]. The Journal of Trauma and Acute Care Surgery (2019). Medium credibility.
+### Ketamine / propofol admixture vs etomidate for intubation in the critically ill: KEEP PACE randomized clinical trial [^117BL6Es]. The Journal of Trauma and Acute Care Surgery (2019). Medium credibility.
 
 Background
 
@@ -526,7 +526,7 @@ ClinicalTrials.gov, NCT02105415, Ketamine/Propofol Admixture "Ketofol" at Induct
 
 ---
 
-### The effect of etomidate on adrenal function in critical illness: a systematic review [^3e9cbdb9]. Intensive Care Medicine (2011). Low credibility.
+### The effect of etomidate on adrenal function in critical illness: a systematic review [^112bpt32]. Intensive Care Medicine (2011). Low credibility.
 
 Purpose
 
@@ -546,7 +546,7 @@ There is an increased rate of AI and mortality in critically ill patients who re
 
 ---
 
-### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^9d5a27a7]. Critical Care (2014). Low credibility.
+### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^1152HLbx]. Critical Care (2014). Low credibility.
 
 Introduction
 
@@ -556,7 +556,7 @@ Etomidate is frequently used for anesthesia induction ahead of cardiac surgery. 
 
 ---
 
-### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^01ccca34]. BMC Anesthesiology (2022). Medium credibility.
+### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^1113fmum]. BMC Anesthesiology (2022). Medium credibility.
 
 Introduction
 
@@ -570,7 +570,7 @@ We hypothesized that adding low dose ketamine to etomidate could be helpful to m
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^3bc250a6]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^112XbYBw]. Critical Care (2012). Low credibility.
 
 Our study provides new data on the effect of etomidate in septic shock. In a post-hoc analysis of a multiple-center trial designed to evaluate the impact of hydrocortisone treatment in septic shock patients, the authors reported an increased death rate in patients that had been intubated with etomidate compared with other hypnotics. In contradiction, this increase was not statistically significant after adjustment in a multivariate analysis. Furthermore, Cuthbertson and colleagues showed that administration of etomidate was associated with increased mortality, but in only one of two multiple regression models. Despite higher severity of illness scores in patients intubated with etomidate compared with patients intubated with another hypnotic (Table 1), our study demonstrated a protective effect of etomidate on day-28 mortality using Cox regression. This effect was confirmed after matching (Figure 2).
 
@@ -578,7 +578,7 @@ The consequences of etomidate on long-term outcomes in the present study must be
 
 ---
 
-### Single-dose etomidate does not increase mortality in patients with sepsis: a systematic review and meta-analysis of randomized controlled trials and observational studies [^632697ea]. Chest (2015). Low credibility.
+### Single-dose etomidate does not increase mortality in patients with sepsis: a systematic review and meta-analysis of randomized controlled trials and observational studies [^113Xzjm3]. Chest (2015). Low credibility.
 
 Background
 
@@ -598,7 +598,7 @@ Current evidence indicates that single-dose etomidate does not increase mortalit
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^c240d275]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^115xzNWQ]. Critical Care (2012). Low credibility.
 
 Key messages
 
@@ -610,7 +610,7 @@ Key messages
 
 ---
 
-### Evidence-based emergency tracheal intubation [^fd94cf9d]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Evidence-based emergency tracheal intubation [^117UwrNQ]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Induction Medication
 
@@ -618,7 +618,7 @@ The administration of a sedative medication to induce anesthesia both facilitate
 
 ---
 
-### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^730b3348]. BMC Anesthesiology (2022). Medium credibility.
+### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^113wZLcF]. BMC Anesthesiology (2022). Medium credibility.
 
 Discussion
 
@@ -632,7 +632,7 @@ The mechanism of anesthetic effects on the adrenocortical function and steroidog
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^d6f8af4e]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^116Vht5T]. Critical Care (2007). Low credibility.
 
 Introduction
 
@@ -652,7 +652,7 @@ Etomidate use for critically ill patients should consider all of these issues an
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^39b440f9]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^112UYqh2]. Critical Care (2007). Low credibility.
 
 Key messages
 
@@ -670,7 +670,7 @@ In this review of septic shock patients admitted to our intensive care unit:
 
 ---
 
-### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^853ff5b8]. Critical Care (2006). Low credibility.
+### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^114QYqX5]. Critical Care (2006). Low credibility.
 
 Discussion
 
@@ -682,13 +682,13 @@ Our study has some limitations. It was performed in a single tertiary medical ce
 
 ---
 
-### Evaluation of etomidate use and association with mortality compared with ketamine among critically ill patients [^32319b08]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
+### Evaluation of etomidate use and association with mortality compared with ketamine among critically ill patients [^112HR3V9]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
 
 Rationale: Uncertainty remains regarding the risks associated with single-dose use of etomidate. Objectives: To assess the use of etomidate in critically ill patients and compare outcomes for patients who received etomidate versus ketamine. Methods: We assessed patients who received invasive mechanical ventilation (IMV) and were admitted to an ICU in the Premier Healthcare Database between 2008 and 2021. The exposure was receipt of etomidate on the day of IMV initiation, and the main outcome was hospital mortality. Using multivariable regression, we compared patients who received IMV within the first 2 days of hospitalization who received etomidate with propensity score-matched patients who received ketamine. We also assessed whether receipt of corticosteroids in the days after intubation modified the association between etomidate and mortality. Measurements and Main Results: Of 1,689,945 patients who received IMV, nearly half (738,855; 43.7%) received etomidate. Among those who received IMV in the first 2 days of hospitalization, we established 22,273 matched pairs administered either etomidate or ketamine. In the primary analysis, receipt of etomidate was associated with greater hospital mortality relative to ketamine (21.6% vs. 18.7%; absolute risk difference, 2.8%; 95% confidence interval, 2.1%, 3.6%; adjusted odds ratio, 1.28, 95% confidence interval, 1.21,1.34). This was consistent across subgroups and sensitivity analyses. We found no attenuation of the association with mortality with receipt of corticosteroids in the days after etomidate use. Conclusions: Use of etomidate on the day of IMV initiation is common and associated with a higher odds of hospital mortality than use of ketamine. This finding is independent of subsequent treatment with corticosteroids.
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^cdde90d1]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^116GDDha]. Critical Care (2012). Low credibility.
 
 Discussion
 
@@ -698,19 +698,19 @@ Potential confounding factors of the study must be addressed. First, this study 
 
 ---
 
-### Newer agents for rapid sequence intubation: etomidate and rocuronium [^2e60d958]. Pediatric Emergency Care (2009). Low credibility.
+### Newer agents for rapid sequence intubation: etomidate and rocuronium [^112BkxjZ]. Pediatric Emergency Care (2009). Low credibility.
 
 The emergency airway management of children and adolescents with critical illnesses may necessitate rapid sequence intubation with a sedating and a neuromuscular blocking agent. Etomidate and rocuronium have become increasingly popular for the sedation and paralysis, respectively, of pediatric patients in rapid sequence intubation, and there are many advantages to the use of both agents. Both etomidate and rocuronium have a rapid onset of action, and both agents are relatively free of hemodynamic adverse effects. Etomidate does, however, suppress adrenal function, and consequently, its use in patients with septic shock is controversial. Rocuronium can produce optimal intubating conditions without the serious complications that can accompany succinylcholine. The available evidence supports the safety of etomidate and rocuronium in rapid sequence intubation but also suggests that more prospective studies are needed in pediatric patients.
 
 ---
 
-### Medical suppression of hypercortisolemia in Cushing's syndrome with particular consideration of etomidate [^28655f78]. Pituitary (2012). Low credibility.
+### Medical suppression of hypercortisolemia in Cushing's syndrome with particular consideration of etomidate [^1122tZBD]. Pituitary (2012). Low credibility.
 
 Cushing's syndrome is associated with excessive cortisol secretion by the adrenal gland or ectopic tumours and may result in diabetes, hypertension, and life-threatening infections with high mortality rates especially in the case of surgical resection. Although surgical resection is the treatment of choice, patients may benefit from preceding medical therapy. This may especially be useful as an adjunctive approach in emergency settings, if patients cannot undergo surgery, if surgery or radiotherapy fails, or if the tumour recurs. Medical therapy can be categorized in three different groups-inhibition of steroidogenesis, suppression of adrenocorticotropic hormone, and antagonism of the glucocorticoid receptor. However, the majority of common drugs are not available for parenteral administration, which may evoke a management problem in emergency settings or in patients unable to tolerate oral medication. The carboxylated imidazole etomidate is a well known parenteral induction agent for general anaesthesia. Besides its hypnotic properties, etomidate also has α-adrenergic characteristics and inhibits the enzyme 11-deoxycortisol ß-hydroxylase, which catalyzes the final step of the conversion of cholesterol to cortisol. Adverse outcomes have been reported when used for sedation in septic or trauma patients probably by its interference with steroid homeostasis. However, its capability of inhibition of the 11-deoxycortisol ß-hydroxylase leads to suppression of cortisol secretion which has been demonstrated to be a useful tool in severe and complicated hypercortisolemia. Within this article, we review the data concerning different pharmacological approaches with particular consideration of etomidate in order to suppress steroidogenesis in patients with Cushing's syndrome.
 
 ---
 
-### Etomidate, adrenal function, and mortality in critically ill patients [^f3119761]. Respiratory Care (2013). Low credibility.
+### Etomidate, adrenal function, and mortality in critically ill patients [^117DMuBn]. Respiratory Care (2013). Low credibility.
 
 Background
 
@@ -730,7 +730,7 @@ In this study of critically ill patients requiring endotracheal intubation, etom
 
 ---
 
-### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^8a40ddbd]. Critical Care (2012). Low credibility.
+### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^114Xy5at]. Critical Care (2012). Low credibility.
 
 Conclusions
 
@@ -738,13 +738,13 @@ Overall, our data suggest that the contribution of a single dose of etomidate, i
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^5018b4b6]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^1133kJrZ]. Critical Care Medicine (2023). High credibility.
 
 Rapid sequence intubation (RSI) — etomidate and corticosteroids advises: We suggest against administering corticosteroids following RSI with etomidate for the purpose of counteracting etomidate-induced adrenal suppression.
 
 ---
 
-### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^3df1ed30]. BMC Anesthesiology (2022). Medium credibility.
+### Effects of adding low-dose ketamine to etomidate on serum cortisol levels in critically ill cardiac patients: a randomized clinical trial [^112aqWJK]. BMC Anesthesiology (2022). Medium credibility.
 
 Also, we found no significant difference between both groups regarding some adverse events (hypotension, bradycardia, apnea, and nausea/vomiting) or patient satisfaction, with favorable outcomes. These findings support the hypothesis elicited by the authors that low-dose ketamine pretreatment to etomidate can successfully counteract the impact of etomidate on serum cortisol without additional side effects or aggravation of stress response. This finding is met with Wu GN et al. as they found that ketamine reduced the Incidence and severity of myoclonus without any additional adverse effects.
 
@@ -760,7 +760,7 @@ First, the limit of our study was the short time follow-up (only 6 h), so we cou
 
 ---
 
-### The effect of a bolus dose of etomidate on cortisol levels, mortality, and health services utilization: a systematic review [^ee823460]. Annals of Emergency Medicine (2010). Low credibility.
+### The effect of a bolus dose of etomidate on cortisol levels, mortality, and health services utilization: a systematic review [^1176bnfH]. Annals of Emergency Medicine (2010). Low credibility.
 
 Study Objective
 
@@ -780,19 +780,19 @@ The available evidence suggests that etomidate suppresses adrenal function trans
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^447e505e]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^112kYaxV]. Critical Care (2007). Low credibility.
 
 Most comment has been on the adverse effects of etomidate. However, this agent also has potential benefits. A formal randomised study would allow full evaluation but would be difficult to perform. We have a substantial database that can provide an indication of the value of such a study. To study the association between induction agent and (a) the use of vasopressor, inotrope, and steroids and (b) outcome, we retrospectively analysed the data from septic shock patients admitted over several years to a large general intensive care unit (ICU).
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^7794b179]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^1144HUKA]. Critical Care Medicine (2023). High credibility.
 
 Etomidate and corticosteroid use — critically ill adults receiving rapid sequence intubation (RSI): We suggest against administering corticosteroids following RSI with etomidate for the purpose of counteracting etomidate-induced adrenal suppression (conditional recommendation, low quality of evidence). There were two randomized controlled trials (RCTs) giving hydrocortisone over 42 hours after etomidate — 200 mg/day (350 mg total) in one and 200 mg total in another — and mortality rates did not differ (28-d mortality: 13% [hydrocortisone] vs 12% [control]; ICU mortality 3% vs 5%). In a multicenter septic shock study, hydrocortisone 50 mg every 6 hours for 5 days tapered for 6 days showed no difference in 28-day mortality between etomidate/hydrocortisone 46% and etomidate/placebo 40%. In propensity score–matched surgical patients, 582 who received etomidate/corticosteroids versus 1,023 who received etomidate and no steroids had in-hospital mortality 4.6% in each group (OR 1.01 [97.5% CI, 0.58–1.76], p = 0.97). In a retrospective septic shock cohort, 74 patients received etomidate and 43 (58%) received hydrocortisone (100 mg every 8 hr) with hospital mortality 32/43 [74%] versus 19/31 [61%], p = 0.12. For organ dysfunction, a three-arm RCT including methylprednisolone 2 mg/kg intravenous (IV) 2–4 minutes before etomidate found within-group decreased Sequential Organ Failure Assessment (SOFA) scores at 4 hours in groups 1 and 3 but not group 2, and SOFA scores at 24 hours were significantly lower in all three groups compared with baseline; two 42-hour hydrocortisone infusion trials reported decreasing proportions with SOFA 3 or 4 over time in both hydrocortisone and placebo groups with no difference between groups in median SOFA at 48 hours.
 
 ---
 
-### Fentanyl versus placebo with ketamine and rocuronium for patients undergoing rapid sequence intubation in the emergency department: the FAKT study – A randomized clinical trial [^9804cfd6]. Academic Emergency Medicine (2022). Medium credibility.
+### Fentanyl versus placebo with ketamine and rocuronium for patients undergoing rapid sequence intubation in the emergency department: the FAKT study – A randomized clinical trial [^114tNjaV]. Academic Emergency Medicine (2022). Medium credibility.
 
 INTRODUCTION
 
@@ -806,7 +806,7 @@ Clinicians need a clear understanding of the hemodynamic effects of ketamine wit
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^2cb2f13d]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^1129GZUg]. Critical Care (2012). Low credibility.
 
 Conclusion
 
@@ -814,7 +814,7 @@ We have reported that etomidate use for intubation in septic shock patients trea
 
 ---
 
-### Etomidate injection, solution [^8f1f2ec5]. FDA (2023). Medium credibility.
+### Etomidate injection, solution [^114fBhnc]. FDA (2023). Medium credibility.
 
 Elderly patients may require lower doses of etomidate than younger patients. Age-related differences in pharmacokinetic parameters have been observed in clinical studies (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
@@ -830,13 +830,13 @@ Studies conducted in young animals and children suggest repeated or prolonged us
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^faa4e7fb]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^117QbJ5p]. Critical Care (2012). Low credibility.
 
 The present study was aimed at assessing the short-term safety and the long-term outcomes of septic patients treated with etomidate versus another induction drug for intubation. We designed the present propensity-score-driven study to evaluate, in septic shock patients, first the incidence of immediate life-threatening complications after intubation and second the long-term outcome according to the hypnotic used. The propensity score allowed us to match patients according to their probably to receive etomidate or not and to adjust for confounding factors in the present observational study.
 
 ---
 
-### The effects of etomidate on adrenal responsiveness and mortality in patients with septic shock [^2fe35039]. Intensive Care Medicine (2009). Low credibility.
+### The effects of etomidate on adrenal responsiveness and mortality in patients with septic shock [^112Dzmfe]. Intensive Care Medicine (2009). Low credibility.
 
 Rationale
 
@@ -856,13 +856,13 @@ The use of bolus dose etomidate in the 72 h before study inclusion is associated
 
 ---
 
-### Guidelines for the management of pediatric severe traumatic brain injury, third edition: update of the Brain Trauma Foundation guidelines [^3fcc2121]. Pediatric Critical Care Medicine (2019). High credibility.
+### Guidelines for the management of pediatric severe traumatic brain injury, third edition: update of the Brain Trauma Foundation guidelines [^112danWt]. Pediatric Critical Care Medicine (2019). High credibility.
 
 Analgesics and sedatives — ketamine and etomidate considerations state that traditionally ketamine has been considered contraindicated in patients with raised ICP because it increases cerebral blood flow and might increase ICP further, but a level III recommendation on ketamine was not made because the Glasgow Coma Scale (GCS) score for patients was not indicated; for etomidate, use for ICP control is described as largely of historical interest since other sedatives and analgesics that do not suppress adrenal function are available, although a single dose of etomidate is commonly used for intubation in pediatric traumatic brain injury, and the clinical investigators do not believe that recommendations from adult guidelines about analgesics, sedatives, and neuromuscular blockade can be used to guide treatment decisions in children.
 
 ---
 
-### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^fc358d3b]. Critical Care (2006). Low credibility.
+### The incidence of relative adrenal insufficiency in patients with septic shock after the administration of etomidate [^117SusHc]. Critical Care (2006). Low credibility.
 
 Introduction
 
@@ -870,7 +870,7 @@ Relative adrenal insufficiency, defined as a blunted increase in cortisol levels
 
 ---
 
-### Etomidate [^6976a7ed]. FDA (2025). Medium credibility.
+### Etomidate [^113hMZCG]. FDA (2025). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -878,13 +878,13 @@ Etomidate is contraindicated in patients who have shown hypersensitivity to it.
 
 ---
 
-### ED use of etomidate for rapid sequence induction [^4ac63e83]. The American Journal of Emergency Medicine (2008). Low credibility.
+### ED use of etomidate for rapid sequence induction [^112urfxn]. The American Journal of Emergency Medicine (2008). Low credibility.
 
 We present evidence-based clinical practice recommendations for the administration of etomidate for emergency department (ED) rapid sequence induction. We critically discuss indications and contraindications in typical ED patient subpopulations such as the traumatic, septic, neurologic, or pulmonary patient. Future research questions are considered.
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^f0f96271]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^117AFo36]. Critical Care (2012). Low credibility.
 
 Results
 
@@ -901,7 +901,7 @@ We first evaluated the association of hypnotics, intubation-related life-threate
 
 ---
 
-### Rapid sequence induction: an international survey [^306b6aec]. European Journal of Anaesthesiology (2020). Medium credibility.
+### Rapid sequence induction: an international survey [^112EnVC7]. European Journal of Anaesthesiology (2020). Medium credibility.
 
 Opioids were not considered as a part of classical RSI. However, opioids during RSI reduce the cardiovascular response to laryngoscopy and can reduce the dose of the induction agent. Currently, up to 92% of physicians use opioids during RSI. This is in concordance with the results of our survey, where opioids were administered during RSI in 66.0%/54.9% of cases and sometimes administered in 19.6%/25.7% of cases (adult/paediatric). Overall use of opioids in RSI was 85.6% in adults and 80.5% in paediatric patients.
 
@@ -911,25 +911,25 @@ Currently, there are two drugs (ketamine, etomidate) that are considered safer d
 
 ---
 
-### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^49fc7ab8]. Critical Care (2014). Low credibility.
+### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^112tguGT]. Critical Care (2014). Low credibility.
 
 In patients who already have sepsis, the discussion of whether single-dose etomidate increases mortality risk is controversial. Some retrospective analyses suggested an increased risk of mortality in septic patients who received etomidate for intubation. In contrast to these reports, other studies deny an increased risk of mortality for septic patients who received etomidate. It could be hypothesized that cardiac surgery patients with severe comorbidities and impaired ventricular function should more likely have etomidate-triggered adrenal insufficiency and consecutive poor outcome. However, in our cohort, we found no evidence that etomidate leads to increased early or late ICU mortality. Even the total in-hospital mortality showed no difference. Moreover, neither the total length of stay in the ICU nor the total hospital stay differs significantly between the etomidate and the non-etomidate group. Patients of the non-etomidate group show a significantly higher ICU discharge on the first postoperative day. However, on day 2, the discharge rate is already balanced and remains balanced until the end of observation on day 5. The higher rate of emergency interventions in the etomidate group might be causative for a lower discharge rate on postoperative day 1. This theory is supported by the significantly higher peak of CK in the etomidate group which might be higher after myocardial infarction and emergency cardiac surgery. In regard to re-admission to the ICU, our study found no evidence that etomidate given ahead of cardiac surgery leads to a higher ICU re-admission rate. Given all of the postoperative items, the etomidate group showed no statistically significant or clinically relevant poorer outcome in any of the observed variables.
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^d4539d00]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^116RnTfM]. Critical Care Medicine (2023). High credibility.
 
 Etomidate with corticosteroids after rapid sequence intubation (RSI) in critically ill adults — panelists do not recommend using corticosteroids when etomidate is used for RSI for the purpose of counteracting etomidate-induced adrenal suppression, and note "The recommendation is exclusive to patients already receiving corticosteroids or those requiring corticosteroids for other indications". In cirrhotic patients with septic shock randomized to hydrocortisone or placebo, ventilator-free days (mean: 3.6 ± 5.6 vs 0.2 ± 0.4, p = 0.04), vasopressor-free days (mean: 4.6 ± 6.9 vs 1.1 ± 3.3, p = 0.05), change in norepinephrine dose between day 1 and 3 (mean: −0.1 ± 0.26 vs 0.31 ± 0.36, p = 0.01), and ICU length of stay (mean: 12.6 ± 7.8 d vs 9.4 ± 5.8 d, p = 0.06) differed between etomidate/hydrocortisone and etomidate/placebo, but "These findings were not evident in other studies". In other studies there was "no difference in ventilator days (median: 2 d [range 1–10] vs 4 d [range 1–10])", and no difference for duration of norepinephrine administration (median: 2 d [range 1–10] vs 8 d [range 4–17]), time-to-resolution of shock (mean: 3 d [95% CI, 2.5–3.5] vs 3.8 d [95% CI, 3.1–4.4], p = 0.42), or ICU length of stay (mean: 4 d [range 1–10] vs 8 d [range 4–17]); additionally, "None of the trials documented adverse events of corticosteroids (i.e., infection)". Evidence gaps state that further research focused on corticosteroid administration with etomidate "is likely futile", though populations "including those with cirrhosis and septic shock and patients who have undergone noncardiac surgery" may merit targeted prospective study.
 
 ---
 
-### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^813e9d0a]. Circulation (2016). Medium credibility.
+### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^114JcSAM]. Circulation (2016). Medium credibility.
 
 Anesthetic agents in cardiovascular disease — etomidate and ketamine — are characterized as follows: etomidate is a short-acting hypnotic with gamma-aminobutyric acid–like effects that results in the least cardiovascular depression of all anesthetics, does not appear to elevate plasma histamine or cause histamine release when administered in recommended doses, and is commonly used to induce anesthesia (0.2–0.6 mg/kg over 30–60 seconds) in patients with cardiovascular disease but is not generally used to maintain anesthesia because it suppresses adrenal cortical function; ketamine, a dissociative anesthetic, is a noncompetitive N-methyl-D-aspartate glutamate receptor antagonist with both direct negative inotropic effects and central sympathetic stimulation and inhibition of neuronal catecholamine uptake, and while these latter effects can result in stable hemodynamics during induction, in patients with significant LV dysfunction they may be inadequate to overcome the negative inotropy, resulting in deterioration in cardiac performance and cardiovascular instability.
 
 ---
 
-### Increased risk of adrenal insufficiency following etomidate exposure in critically injured patients… [^9fa29415]. JAMA Network (2008). Excellent credibility.
+### Increased risk of adrenal insufficiency following etomidate exposure in critically injured patients… [^1155fe6G]. JAMA Network (2008). Excellent credibility.
 
 In 2002, Annane and colleagues1 published their findings on the effect of low-dose hydrocortisone and fludrocortisone acetate replacement in patients with septic shock. The authors demonstrated that the incidence of adrenal insufficiency was substantially underreported and, when left untreated in the septic shock population, was associated with significant mortality. Treatment of these critically ill patients with hydrocortisone and fludrocortisone resulted in a significant reduction in mortality. Numerous subsequent studies attempting to support or refute these findings have resulted in the inclusion of intravenous corticosteroids for patients with AI as a recommendation in the Surviving Sepsis Campaign guidelines. 2–5 The remaining debate now centers on what test is most appropriate to diagnose AI and application of these recommendations to other appropriate populations. 6–8.
 
@@ -939,7 +939,7 @@ In the trauma and critically ill patient, this drug has gained popularity for it
 
 ---
 
-### Western Trauma Association critical decisions in trauma: airway management in adult trauma patients [^0b61e60b]. Trauma Surgery & Acute Care Open (2020). Medium credibility.
+### Western Trauma Association critical decisions in trauma: airway management in adult trauma patients [^111HskKU]. Trauma Surgery & Acute Care Open (2020). Medium credibility.
 
 Medications
 
@@ -949,13 +949,13 @@ Paralytic agents include depolarizing (succinylcholine) and non-depolarizing (ro
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^a6d205a2]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^115GKVLd]. Critical Care Medicine (2023). High credibility.
 
 Regarding medical management for rapid sequence induction and intubation, more specifically with respect to postprocedural corticosteroids, SCCM 2023 guidelines recommend to avoid administering corticosteroids following rapid sequence intubation with etomidate for the purpose of counteracting etomidate-induced adrenal suppression.
 
 ---
 
-### Adrenocortical suppression and recovery after continuous hypnotic infusion: etomidate versus its soft analogue cyclopropyl-methoxycarbonyl metomidate [^6dd2c869]. Critical Care (2013). Low credibility.
+### Adrenocortical suppression and recovery after continuous hypnotic infusion: etomidate versus its soft analogue cyclopropyl-methoxycarbonyl metomidate [^113opT6g]. Critical Care (2013). Low credibility.
 
 Abbreviations
 
@@ -963,7 +963,7 @@ ACTH: adrenocorticotropic hormone; CPMM: cyclopropyl-methoxycarbonyl etomidate.
 
 ---
 
-### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^28baa672]. Critical Care (2014). Low credibility.
+### Comparison of clinical outcome variables in patients with and without etomidate-facilitated anesthesia induction ahead of major cardiac surgery: a retrospective analysis [^1123PCWd]. Critical Care (2014). Low credibility.
 
 Introduction
 
@@ -983,7 +983,7 @@ This study found no evidence for differences in key clinical outcome parameters 
 
 ---
 
-### Outcomes of etomidate in severe sepsis and septic shock [^70aaa413]. Chest (2010). Low credibility.
+### Outcomes of etomidate in severe sepsis and septic shock [^113t2vv6]. Chest (2010). Low credibility.
 
 Background
 
@@ -1003,7 +1003,7 @@ Single-dose etomidate used during RSI in critically ill patients with severe sep
 
 ---
 
-### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^ae7ac912]. Critical Care (2012). Low credibility.
+### Effects of etomidate on complications related to intubation and on mortality in septic shock patients treated with hydrocortisone: a propensity score analysis [^115Tg665]. Critical Care (2012). Low credibility.
 
 Materials and methods
 
@@ -1019,7 +1019,7 @@ Septic shock was defined by evidence of infection and a systemic response to inf
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^61bb19b5]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^113VteM2]. Critical Care (2007). Low credibility.
 
 Tracheal intubation in critically ill patients can cause immediate and severe life-threatening complications. Patients with hypotension are particularly at risk and are more likely to die after tracheal intubation than are normotensive patients. Hypotension at induction is a common feature in anaesthesia-related deaths. Etomidate may be especially useful in critically ill and hypotensive patients because it has little effect on systemic blood pressure. After etomidate, fewer patients required vasopressor agents at induction and less cardiovascular intervention was required than in patients given propofol, thiopental, or other agents. Etomidate appears to cause less cardiovascular depression than propofol or thiopental in critically ill septic patients.
 
@@ -1027,7 +1027,7 @@ We recognise the limitations of retrospective reviews. A prospective study with 
 
 ---
 
-### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^21d6e3e6]. Critical Care (2024). Medium credibility.
+### Ketamine versus etomidate as an induction agent for tracheal intubation in critically ill adults: a Bayesian meta-analysis [^111sAmhX]. Critical Care (2024). Medium credibility.
 
 Table 2
 Effects of ketamine on primary and secondary outcomes
@@ -1046,13 +1046,13 @@ The SOFA score was reported in three RCTs and one matched study, ventilator-free
 
 ---
 
-### Guidelines for enhanced recovery after trauma and intensive care (ERATIC): enhanced recovery after surgery (ERAS) and international association for trauma surgery and intensive care (IATSIC) society recommendations: paper 2: postoperative and intensive care recommendations [^c5c79807]. World Journal of Surgery (2025). Medium credibility.
+### Guidelines for enhanced recovery after trauma and intensive care (ERATIC): enhanced recovery after surgery (ERAS) and international association for trauma surgery and intensive care (IATSIC) society recommendations: paper 2: postoperative and intensive care recommendations [^1164DbvE]. World Journal of Surgery (2025). Medium credibility.
 
 Regarding intubation drugs for trauma ICU intubation, there is conflicting evidence, with some studies showing no overt outcome difference between ketamine, etomidate, or propofol, whereas other studies, more likely to include septic patients found etomidate to have higher mortality, but this was not found in purely trauma‐populations. In septic ICU populations, etomidate should be avoided, whereas ketamine is safe. Ketamine–propofol (Ketofol) combination was as safe as lower‐dose etomidate in the trauma ICU. Propofol alone was associated with more adverse events in one of the largest studies in trauma, except when dose reductions were used. German guidelines prefer ketamine over propofol or etomidate as do the recent UK guidelines, in combination with fentanyl and with rocuronium as the paralytic agent of choice.
 
 ---
 
-### Duration of adrenal inhibition following a single dose of etomidate in critically ill patients [^63189c28]. Intensive Care Medicine (2008). Low credibility.
+### Duration of adrenal inhibition following a single dose of etomidate in critically ill patients [^113Xv3Lj]. Intensive Care Medicine (2008). Low credibility.
 
 Objective
 
@@ -1080,7 +1080,7 @@ A single bolus infusion of etomidate resulted in wide adrenal inhibition in crit
 
 ---
 
-### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^130ffc92]. Critical Care (2012). Low credibility.
+### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^111VG8oK]. Critical Care (2012). Low credibility.
 
 Results
 
@@ -1104,13 +1104,13 @@ Data are expressed as median (interquartile range) or number (%), where appropri
 
 ---
 
-### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^09a67b27]. Circulation (2016). Medium credibility.
+### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^111FJorE]. Circulation (2016). Medium credibility.
 
 Prescription medications that may cause or exacerbate heart failure (HF) — intravenous anesthetics: Dexmedetomidine is marked Moderate with level B evidence with the mechanism "α2-Adrenergic agonist" and Immediate onset; Etomidate is marked Moderate with level B evidence with "Suppression of adrenal function" and carries the comment "Not generally used for maintenance of anesthesia"; Ketamine is marked Major with level B evidence with "Negative inotrope"; Propofol is marked Moderate with level B evidence with "Negative inotrope, vasodilation".
 
 ---
 
-### Effect of vitamin C on adrenal suppression following etomidate for rapid sequence induction in trauma patients: a randomized clinical trial [^108ba25d]. BMC Anesthesiology (2023). Medium credibility.
+### Effect of vitamin C on adrenal suppression following etomidate for rapid sequence induction in trauma patients: a randomized clinical trial [^111RXhoa]. BMC Anesthesiology (2023). Medium credibility.
 
 Conclusion
 
@@ -1120,7 +1120,7 @@ However, due to the numerous side effects of corticosteroids, more emphasis is p
 
 ---
 
-### Etomidate [^ae6bb67c]. FDA (2025). Medium credibility.
+### Etomidate [^115Tb2T5]. FDA (2025). Medium credibility.
 
 WARNINGS
 
@@ -1138,7 +1138,7 @@ Anesthetic and sedation drugs are a necessary part of the care of children needi
 
 ---
 
-### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^59fca9f3]. Critical Care (2007). Low credibility.
+### Effect of induction agent on vasopressor and steroid use, and outcome in patients with septic shock [^113JQmNS]. Critical Care (2007). Low credibility.
 
 Results
 
@@ -1146,7 +1146,7 @@ Complete data were available for analysis in 159 patients. The agents (number of
 
 ---
 
-### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^3fdd34f1]. Critical Care (2012). Low credibility.
+### Steroidogenesis in the adrenal dysfunction of critical illness: impact of etomidate [^112dgXDA]. Critical Care (2012). Low credibility.
 
 Materials and methods
 
@@ -1156,7 +1156,7 @@ This prospective observational study was carried out in a mixed surgical/medical
 
 ---
 
-### Risk factors for mortality in septic patients who received etomidate [^0871c808]. The American Journal of Emergency Medicine (2015). Low credibility.
+### Risk factors for mortality in septic patients who received etomidate [^111DX7ts]. The American Journal of Emergency Medicine (2015). Low credibility.
 
 Purpose
 
@@ -1176,13 +1176,13 @@ An alternative sedative induction agent may be considered for use in rapid seque
 
 ---
 
-### Treatment of Cushing's syndrome: an endocrine society clinical practice guideline [^67066161]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of Cushing's syndrome: an endocrine society clinical practice guideline [^113djsKv]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Etomidate — emergency control of severe hypercortisolism and dosing: Etomidate is the only medical treatment available for severe hypercortisolism in seriously ill patients of any age who are not immediate surgical candidates and who cannot take oral medications, and it is useful in emergencies with acute unmanageable symptoms such as respiratory failure or severe psychosis as an effective bridge to other therapies. Subhypnotic doses rapidly decrease steroidogenesis within 12–24 hours; because administration requires intravenous infusion, patients should be managed in an intensive care unit and preparations containing propylene glycol may warrant a central venous line. Measuring cortisol every 4–6 hours is required, and clinicians can titrate infusion to a stable serum cortisol between 10 and 20 μg/dL (280–560 nmol/L) or use a block-and-replace strategy. A loading dose of 3–5 mg is followed by continuous infusion of 0.03–0.10 mg/kg/h (2.5–3.0 mg/h), with sedation not reported at these doses but dose reduction potentially needed if renal failure occurs.
 
 ---
 
-### Etomidate use is associated with less hypotension than ketamine for emergency department sepsis intubations: a NEAR cohort study [^49040066]. Academic Emergency Medicine (2020). Medium credibility.
+### Etomidate use is associated with less hypotension than ketamine for emergency department sepsis intubations: a NEAR cohort study [^112sFSXf]. Academic Emergency Medicine (2020). Medium credibility.
 
 Objective
 
@@ -1202,7 +1202,7 @@ Etomidate is used less frequently in sepsis patients than nonsepsis patients, wi
 
 ---
 
-### Etomidate (Amidate) [^1dd88d8a]. FDA (2024). Medium credibility.
+### Etomidate (Amidate) [^111mFNxq]. FDA (2024). Medium credibility.
 
 Warnings and precautions regarding the use of etomidate IV (also known as Amidate):
 - **Adrenal insufficiency**: use caution in patients with pre-existing adrenal gland dysfunction.
@@ -1212,25 +1212,25 @@ Warnings and precautions regarding the use of etomidate IV (also known as Amidat
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^14b5243c]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^111XhbZM]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Corticosteroids — pediatric septic shock: No high-quality investigations currently support or refute the routine use of adjunctive corticosteroids for pediatric septic shock or other sepsis-associated organ dysfunction, but for children with acute or chronic corticosteroid exposure, hypothalamic-pituitary-adrenal axis disorders, congenital adrenal hyperplasia or other corticosteroid-related endocrinopathies, or recent ketoconazole or etomidate exposure, prescription of stress-dose hydrocortisone is indicated, with or without evaluation of the adrenal axis.
 
 ---
 
-### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^38f70531]. Pediatric Critical Care Medicine (2020). High credibility.
+### Surviving Sepsis Campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children [^112TTH8C]. Pediatric Critical Care Medicine (2020). High credibility.
 
 Adrenal and corticosteroid therapy in pediatric septic shock — evidence and special indications: In summary, no high-quality investigations currently support or refute the routine use of adjunctive corticosteroids for pediatric septic shock or other sepsis-associated organ dysfunction, and at the time of this publication, an RCT is in progress to examine adjunctive hydrocortisone; however, this uncertainty does not apply to children with acute or chronic corticosteroid exposure, hypothalamic-pituitary-adrenal axis disorders, congenital adrenal hyperplasia or other corticosteroid-related endocrinopathies, or recent ketoconazole or etomidate exposure, for whom prescription of stress-dose hydrocortisone is indicated, with or without evaluation of the adrenal axis.
 
 ---
 
-### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^5ca7e994]. Critical Care Medicine (2023). High credibility.
+### Society of Critical Care Medicine clinical practice guidelines for rapid sequence intubation in the critically ill adult patient [^113NNG8B]. Critical Care Medicine (2023). High credibility.
 
 Induction agent selection — critically ill adults undergoing rapid sequence intubation (RSI): We suggest there is no difference between etomidate and other induction agents administered for RSI with respect to mortality or the incidence of hypotension or vasopressor use in the peri-intubation period and through hospital discharge (conditional recommendation, moderate quality of evidence). Supporting evidence includes a Cochrane review that analyzed six studies (n = 772 patients) and did not show increased mortality with etomidate (0.2–0.3 mg/kg) when used as a single dose for RSI compared with other agents, OR 1.17 (95% CI, 0.86–1.60). Observational trauma data found no mortality difference between regimens, with 19% mortality in each group (OR 0.98; 95% CI, 0.51–1.87), and an institutional before-and-after change from etomidate (0.3 mg/kg) to ketamine (1–2 mg/kg) showed no difference in hospital mortality (20% vs 17%; OR 1.41; 95% CI, 0.92–2.16). A meta-analysis of 29 studies reported an increased overall mortality rate with etomidate (rr = 1.09; 95% CI, 1.04–1.29), although only 5 were RCTs, and overall, these data are limited by selection bias, which may affect both mortality and the severity of illness correlation.
 
 ---
 
-### Ketamine and etomidate down-regulate the hypothalamic-pituitary-adrenal axis in an endotoxemic mouse model [^84fa76e0]. Anesthesiology (2017). Low credibility.
+### Ketamine and etomidate down-regulate the hypothalamic-pituitary-adrenal axis in an endotoxemic mouse model [^114Q9Vdy]. Anesthesiology (2017). Low credibility.
 
 Background
 

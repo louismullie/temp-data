@@ -26,15 +26,15 @@ Give me answer and why
 
 > Let's see… What do we have here? The user is asking which anticoagulant directly inhibits thrombin among the listed options for stroke prophylaxis in atrial fibrillation. Let's break this down step-by-step. First, I need to think about the mechanism of action for each option. Then, I should verify which agents are approved for stroke prevention in nonvalvular atrial fibrillation. Next, I will distinguish direct thrombin inhibition from indirect mechanisms. Finally, I will confirm the correct choice and briefly justify why the others are incorrect.
 
-> Let me first confirm the clinical context and the key mechanism we are looking for: stroke prophylaxis in nonvalvular atrial fibrillation with an agent that directly inhibits thrombin, meaning it binds thrombin itself rather than acting via a cofactor like antithrombin III [^c8329ce9] [^d0431501].
+> Let me first confirm the clinical context and the key mechanism we are looking for: stroke prophylaxis in nonvalvular atrial fibrillation with an agent that directly inhibits thrombin, meaning it binds thrombin itself rather than acting via a cofactor like antithrombin III [^1167oXP6] [^116KkxUp].
 
-> Now, I will examine each option mechanistically. Aspirin is an antiplatelet agent that irreversibly inhibits cyclooxygenase-1 and reduces thromboxane A2–mediated platelet aggregation; it does not inhibit thrombin, so I should rule it out. Warfarin is a vitamin K antagonist that suppresses hepatic synthesis of vitamin K–dependent clotting factors II, VII, IX, and X; it acts indirectly and upstream of thrombin, so it is not a direct thrombin inhibitor, and I should exclude it as well [^903af159]. Heparin, whether unfractionated or low molecular weight, works by binding antithrombin III and accelerating inhibition of thrombin and factor Xa; this is indirect thrombin inhibition, not direct, so heparin is not the correct answer here [^b203f8ee] [^71c8ca6d]. Dabigatran, in contrast, is a direct thrombin inhibitor that binds competitively to the active site of thrombin, inhibiting both free and clot-bound thrombin without requiring a cofactor, which matches the question's criterion [^d0431501] [^c8329ce9].
+> Now, I will examine each option mechanistically. Aspirin is an antiplatelet agent that irreversibly inhibits cyclooxygenase-1 and reduces thromboxane A2–mediated platelet aggregation; it does not inhibit thrombin, so I should rule it out. Warfarin is a vitamin K antagonist that suppresses hepatic synthesis of vitamin K–dependent clotting factors II, VII, IX, and X; it acts indirectly and upstream of thrombin, so it is not a direct thrombin inhibitor, and I should exclude it as well [^114gq1sv]. Heparin, whether unfractionated or low molecular weight, works by binding antithrombin III and accelerating inhibition of thrombin and factor Xa; this is indirect thrombin inhibition, not direct, so heparin is not the correct answer here [^115Yv8Yu] [^113uh3Ze]. Dabigatran, in contrast, is a direct thrombin inhibitor that binds competitively to the active site of thrombin, inhibiting both free and clot-bound thrombin without requiring a cofactor, which matches the question's criterion [^116KkxUp] [^1167oXP6].
 
-> Wait, let me verify the clinical applicability in atrial fibrillation. Dabigatran is FDA-approved to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation, which fits this patient's indication precisely, whereas the other options either do not directly inhibit thrombin or are not the best mechanistic match for the question asked [^c8329ce9] [^cdba2f76].
+> Wait, let me verify the clinical applicability in atrial fibrillation. Dabigatran is FDA-approved to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation, which fits this patient's indication precisely, whereas the other options either do not directly inhibit thrombin or are not the best mechanistic match for the question asked [^1167oXP6] [^116FzzxM].
 
-> Hold on, I should double-check the distractors to ensure I'm not missing a nuance. While heparin can inhibit thrombin, it does so indirectly via antithrombin, so it does not meet the "directly inhibits thrombin" requirement; similarly, warfarin reduces thrombin generation indirectly by lowering factor II levels, and aspirin works on platelets rather than thrombin itself, reinforcing that dabigatran is the only correct choice among the listed options [^b203f8ee] [^903af159].
+> Hold on, I should double-check the distractors to ensure I'm not missing a nuance. While heparin can inhibit thrombin, it does so indirectly via antithrombin, so it does not meet the "directly inhibits thrombin" requirement; similarly, warfarin reduces thrombin generation indirectly by lowering factor II levels, and aspirin works on platelets rather than thrombin itself, reinforcing that dabigatran is the only correct choice among the listed options [^115Yv8Yu] [^114gq1sv].
 
-> Final answer: B. Dabigatran, because it is the only direct thrombin inhibitor among the choices and is indicated for stroke prevention in nonvalvular atrial fibrillation [^c8329ce9] [^d0431501].
+> Final answer: B. Dabigatran, because it is the only direct thrombin inhibitor among the choices and is indicated for stroke prevention in nonvalvular atrial fibrillation [^1167oXP6] [^116KkxUp].
 
 ---
 
@@ -44,7 +44,7 @@ The correct answer is **B. Dabigatran** because it is the only oral, direct thro
 
 ## Mechanism of action of dabigatran
 
-Dabigatran is a **direct thrombin inhibitor** that binds reversibly to the active site of thrombin, blocking fibrin formation and thrombin-induced platelet activation [^d0431501]. It inhibits both free and clot-bound thrombin, providing predictable anticoagulation without routine lab monitoring [^d0431501].
+Dabigatran is a **direct thrombin inhibitor** that binds reversibly to the active site of thrombin, blocking fibrin formation and thrombin-induced platelet activation [^116KkxUp]. It inhibits both free and clot-bound thrombin, providing predictable anticoagulation without routine lab monitoring [^116KkxUp].
 
 ---
 
@@ -61,7 +61,7 @@ Dabigatran is a **direct thrombin inhibitor** that binds reversibly to the activ
 
 ## Clinical guidelines and recommendations
 
-Current guidelines recommend dabigatran as a **first-line alternative to warfarin** for stroke prevention in non-valvular atrial fibrillation, with favorable efficacy and safety profiles [^cdba2f76] [^67b24ee9].
+Current guidelines recommend dabigatran as a **first-line alternative to warfarin** for stroke prevention in non-valvular atrial fibrillation, with favorable efficacy and safety profiles [^116FzzxM] [^113ejckY].
 
 ---
 
@@ -73,37 +73,37 @@ Dabigatran is the correct choice because it is the **only direct thrombin inhibi
 
 ## References
 
-### Direct thrombin inhibitors [^5f14a9a1]. Thrombosis Research (2002). Low credibility.
+### Direct thrombin inhibitors [^113RxmK6]. Thrombosis Research (2002). Low credibility.
 
 Thrombin plays a central role in thrombosis. Consequently, most current antithrombotic treatment strategies are aimed at blocking the activity of thrombin, or preventing its generation. Although heparin has been a cornerstone of treatment, it has limitations. Thus, the anticoagulant response to heparin is unpredictable, the heparin/antithrombin complex is unable to inhibit fibrin-bound thrombin, an important trigger of thrombus growth, and heparin is neutralized by platelet factor 4. Direct thrombin inhibitors were developed to overcome these limitations. Unlike heparin, direct thrombin inhibitors produce a predictable anticoagulant response that is unaffected by platelet factor 4, and they inhibit fibrin-bound thrombin. Three parenteral direct thrombin inhibitors — hirudin, bivalirudin and argatroban — are currently licensed for use in North America, and orally available direct thrombin inhibitors are under investigation. This review summarizes the clinical trial data with direct thrombin inhibitors and provides perspective on the role of direct thrombin inhibitors in the face of other new anticoagulants currently under development.
 
 ---
 
-### Direct thrombin inhibitors: pharmacology and clinical relevance [^648abe3a]. Anaesthesia (2005). Low credibility.
+### Direct thrombin inhibitors: pharmacology and clinical relevance [^113a4N7b]. Anaesthesia (2005). Low credibility.
 
 Although heparin has been a cornerstone of treatment for the prevention of thrombosis, it is limited by its adverse effects and unpredictable bioavailability. Direct thrombin inhibitors are a novel class of drugs that have been developed as an effective alternative mode of anticoagulation in patients who suffer from heparin-induced thrombocytopaenia, and for the management of thromboembolic disorders and acute coronary syndromes. The main disadvantages of the direct thrombin inhibitors are the lack of an antidote or readily available clinical monitoring. The mechanism of action, the properties of direct thrombin inhibitors and their potential to replace currently available anticoagulants are reviewed.
 
 ---
 
-### Structure and specificity in coagulation and its inhibition [^4c08fc4c]. Trends in Cardiovascular Medicine (2011). Low credibility.
+### Structure and specificity in coagulation and its inhibition [^112wj5UF]. Trends in Cardiovascular Medicine (2011). Low credibility.
 
 The coagulation cascade is a complex multiple-component system, whose highly diverse interactions provide a careful balance between procoagulatory and anticoagulatory processes. Recent structural data for thrombin, factor Xa, and antithrombin reveal how these key participants interact with each other and with other components for the maintenance of hemostasis.
 
 ---
 
-### The direct thrombin inhibitors: their role and use for rational anticoagulation [^a00918c2]. Hematology/Oncology Clinics of North America (2005). Low credibility.
+### The direct thrombin inhibitors: their role and use for rational anticoagulation [^1156G5Jq]. Hematology/Oncology Clinics of North America (2005). Low credibility.
 
 Major clinical advantages are achieved when direct thrombin inhibitors are used in venous thromboembolism. These agents provide more reliable anticoagulant response patterns because they are not significantly bound to plasma proteins and few, if any, drug-drug interactions are seen. The studies to date confirm that not all direct thrombin inhibitors are the same. The new reversible, short-acting catalytic site-specific drugs provide an excellent safety profile and high degree of efficacy for the prophylaxis and treatment of venous thromboembolism and pulmonary embolic states. The availability of the oral prodrug ximelagatran allows reproducible, effective, and safe direct thrombin inhibition without the requirement for coagulation laboratory monitoring; it appears destined to be the oral anticoagulant of the future.
 
 ---
 
-### Regulation of thrombin activity – pharmacologic and structural aspects [^00bf1add]. Hematology/Oncology Clinics of North America (2007). Low credibility.
+### Regulation of thrombin activity – pharmacologic and structural aspects [^11127C2Q]. Hematology/Oncology Clinics of North America (2007). Low credibility.
 
 Thrombin is an essential serine protease for survival. Since the discovery of heparin in the early twentieth century, significant advances have been made in the understanding of thrombin structure and function in coagulation system. Endogenous anticoagulant proteins in blood tightly regulate thrombin generation, but additional anticoagulant agents may be necessary to suppress excessive thrombin formation or defective anticoagulant proteins. Despite the availability of an array of anticoagulant agents based on chemical and biological engineering technologies, anticoagulation therapy remains a challenge for clinicians in terms of balancing bleeding and thrombosis. The aim of this article is to review endogenous serine protease inhibitors and novel antithrombotic agents in relation to pharmacologic regulation of thrombin.
 
 ---
 
-### Direct thrombin inhibitors for anticoagulation [^62d31920]. The Annals of Pharmacotherapy (2004). Low credibility.
+### Direct thrombin inhibitors for anticoagulation [^113XWh99]. The Annals of Pharmacotherapy (2004). Low credibility.
 
 Objective
 
@@ -127,19 +127,19 @@ Significant progress has been made in developing DTIs. The recent emergence of o
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^bd1e23d7]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115qNnSJ]. Chest (2012). Medium credibility.
 
 New anticoagulants — Classification describes mechanism-based groups where indirect anticoagulants act in an antithrombin-dependent fashion or via the protein C pathway, whereas direct anticoagulants do not require a plasma cofactor and directly target a specific coagulation enzyme.
 
 ---
 
-### Inhibition of coagulation by macromolecular complexes [^4c56e292]. Haematologica (2005). Low credibility.
+### Inhibition of coagulation by macromolecular complexes [^112xBF5K]. Haematologica (2005). Low credibility.
 
 The role of vertebrate blood coagulation is to rapidly prevent the loss of body fluids following vascular injury without compromising blood flow through either the uninjured or damaged vessels. To achieve this the coagulation network is initiated and regulated by a complex network of interactions that are under the control of both positive and negative feedback loops that result in controlled fibrin deposition and platelet activation only at the site of injury. Anticoagulant molecules play key roles in preventing inappropriate initiation of coagulation as well as down-regulating thrombin generation at the site of injury. Tissue factor pathway inhibitor (TFPI) inhibits the initiation complex, antithrombin (AT) inhibits the active serine proteases directly, whereas the activated protein C pathway inhibits coagulation by inactivating the cofactors V and VIII. In this review the structure and function of these anticoagulant molecules and their inhibitory complexes is discussed.
 
 ---
 
-### Argatroban [^ff4ac5c2]. FDA (2025). Medium credibility.
+### Argatroban [^117XUxYh]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -155,31 +155,31 @@ When argatroban is administered by continuous infusion, anticoagulant effects an
 
 ---
 
-### Exosite crosstalk in thrombin [^74dfe55d]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
+### Exosite crosstalk in thrombin [^113zGmXz]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
 
 Thrombin is the central mediator of hemostasis, where it converts fibrinogen to fibrin, activates upstream factors to promote coagulation, activates factor XIII and thrombin-activatable fibrinolysis inhibitor to stabilize fibrin, mediates anticoagulation, and modulates cellular activity via cell surface receptors. Thus, regulation of thrombin activity is essential to the hemostatic balance. Thrombin is regulated by positively charged surface domains that surround the active site. These exosites bind substrates, inhibitors, cofactors, and receptors, which coordinate to direct thrombin to the appropriate location and modulate catalytic activity. Thus, the exosites are essential to the activity and regulation of thrombin. In addition to acting as binding sites, the exosites modulate the active site allosterically. Furthermore, the exosites impact each other, whereby the binding of ligands to one exosite impacts the function of the opposing exosite. Given the integral role that exosites play in the regulation of thrombin, they are attractive targets for the regulation of thrombin and for the development of new anticoagulants.
 
 ---
 
-### Predicting the pharmacology of thrombin inhibitors [^e0fa3ee1]. Journal of Thrombosis and Haemostasis (2003). Low credibility.
+### Predicting the pharmacology of thrombin inhibitors [^116kYHJY]. Journal of Thrombosis and Haemostasis (2003). Low credibility.
 
 Thrombotic disorders can lead to uncontrolled thrombin generation and clot formation within the circulatory system leading to vascular thrombosis. Direct inhibitors of thrombin have been developed and tested in clinical trials for the treatment of a variety of these thrombotic disorders. The bleeding complications observed during these trials have raised questions about their clinical use. The development of a computer-based model of coagulation using the kinetic rates of individual reactions and concentrations of the constituents involved in each reaction within blood has made it possible to study coagulation pathologies in silico. We present an extension of our initial model of coagulation to include several specific thrombin inhibitors. Using this model we have studied the effect of a variety of inhibitors on thrombin generation and compared these results with the clinically observed data. The data suggest that numerical models will be useful in predicting the effectiveness of inhibitors of coagulation.
 
 ---
 
-### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^d0431501]. Chest (2012). Medium credibility.
+### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^116KkxUp]. Chest (2012). Medium credibility.
 
 Direct thrombin inhibitors — dabigatran etexilate pharmacology — do not require a cofactor and can access clot-bound thrombin, with dabigatran being a concentration dependent, competitive, highly selective and reversible direct thrombin inhibitor with a Ki of 4.5 ± 0.2 μM; on conversion from its prodrug, dabigatran prolongs thrombin clotting time (TCT), PT, aPTT, and ecarin clotting time (ECT), and ECT has been a preferred measure for direct thrombin inhibitors. Dabigatran prevents thrombin-induced platelet aggregation but not aggregation by arachidonic acid, collagen, or adenosine diphosphate; in animal models, thrombus inhibition peaks within 30 to 60 min of an oral dose, persists for 2 to 3 h in rats and about 7 h in rabbits, and in rats the intravenous dose required to prolong tail bleeding time is 5 to 10 times greater than the maximally effective antithrombotic dose of 0.1 mg/kg.
 
 ---
 
-### The mechanism of action of rivaroxaban – an oral, direct factor Xa inhibitor – compared with other anticoagulants [^45b39522]. Thrombosis Research (2011). Low credibility.
+### The mechanism of action of rivaroxaban – an oral, direct factor Xa inhibitor – compared with other anticoagulants [^112nLTzh]. Thrombosis Research (2011). Low credibility.
 
 Although results of some phase III clinical trials of new oral anticoagulants are now known, it is important to understand the mechanisms of their actions. These new agents exert their anticoagulant effect via direct inhibition of a single Factor within the coagulation cascade (such as Factor Xa or thrombin). Rivaroxaban — the first oral, direct Factor Xa inhibitor — is a small-molecule oxazolidinone derivative that binds directly and reversibly to Factor Xa via the S1 and S4 pockets. Rivaroxaban competitively inhibits Factor Xa and is more than 10,000-fold more selective for Factor Xa than other related serine proteases, and it does not require cofactors (such as antithrombin) to exert its anticoagulant effect. Unlike indirect Factor Xa inhibitors, rivaroxaban inhibits both free and clot-bound Factor Xa, as well as prothrombinase activity, thereby prolonging clotting times. Dabigatran etexilate is a direct thrombin inhibitor that inhibits both free and fibrin-bound thrombin. Although the mechanism of action differs between the direct Factor Xa and direct thrombin inhibitors, phase III studies of these new agents confirmed that both Factor Xa and thrombin are viable anticoagulation targets.
 
 ---
 
-### Bivalirudin [^0b005938]. FDA (2025). Medium credibility.
+### Bivalirudin [^111HJytb]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -195,7 +195,7 @@ In 291 patients with ≥ 70% vessel occlusion undergoing routine PTCA, a positiv
 
 ---
 
-### Factor XI inhibitors: a new class of anticoagulants [^be368aaa]. Blood Advances (2025). Medium credibility.
+### Factor XI inhibitors: a new class of anticoagulants [^115rzy6q]. Blood Advances (2025). Medium credibility.
 
 Concept
 
@@ -205,7 +205,7 @@ FXI/FXIa inhibition may allow for inhibition of contact pathway activation of th
 
 ---
 
-### Early versus delayed anticoagulation treatment for people with non-valvular atrial fibrillation-related acute ischaemic stroke [^cdc4e462]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Early versus delayed anticoagulation treatment for people with non-valvular atrial fibrillation-related acute ischaemic stroke [^116G4bYD]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 NOACs directly inhibit thrombin (dabigatran) or indirectly inhibit activated factor X (Xa) (rivaroxaban, apixaban, and edoxaban) to prevent blood clot formation. Dabigatran, the first approved NOAC, exerts its anticoagulant effect by strongly, reversibly, and selectively inhibiting thrombin activity, with the intensity of its effects dependent on drug concentration. Rivaroxaban, apixaban, and edoxaban inhibit various states of factor Xa to reduce thrombin generation without interfering with existing thrombi, while having minimal impact on normal physiological haemostasis and non‐coagulation functions. Multiple guidelines recommend the use of NOACs for secondary prevention of non‐valvular atrial fibrillation‐related stroke. The advantages of NOACs include minimal interactions with food and drugs, stable pharmacokinetics, no need for dose adjustments, no requirement for regular INR monitoring, rapid onset of action, good tolerability, and fewer side effects compared to warfarin. Compared to warfarin, NOACs have a lower incidence of major bleeding, particularly intracranial haemorrhage, making them generally safer and more convenient. Reversal agents for NOACs, such as idarucizumab and exanetalfa, have been developed for the treatment of life‐threatening bleeding or in situations requiring urgent surgery. Some disadvantages of using NOACs, as opposed to vitamin K antagonists, include higher costs and the need for dose adjustments in individuals with renal impairment or extreme body weight.
 
@@ -215,19 +215,19 @@ The optimal timing for initiating oral anticoagulant therapy in people with non�
 
 ---
 
-### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^71c8ca6d]. Chest (2012). Medium credibility.
+### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^113uh3Ze]. Chest (2012). Medium credibility.
 
 Parenteral anticoagulants — current agents, mechanisms, and administration are outlined as follows: Indirect anticoagulants in current use include unfractionated heparin (UFH), low-molecular-weight heparins (LMWHs), fondaparinux, and danaparoid, and direct agents include the thrombin inhibitors hirudin, bivalirudin, and argatroban. UFH binds to antithrombin via a unique pentasaccharide sequence and catalyzes the inactivation of thrombin, factor Xa, and other clotting enzymes, and heparin also binds to cells and plasma proteins other than antithrombin causing unpredictable pharmacokinetic and pharmacodynamic properties and triggering nonhemorrhagic side effects, such as heparin-induced thrombocytopenia (HIT) and osteoporosis. LMWHs have greater inhibitory activity against factor Xa than thrombin and exhibit less binding to cells and plasma proteins than heparin, with more predictable pharmacokinetic and pharmacodynamic properties, a longer half-life than heparin, and a lower risk of nonhemorrhagic side effects; LMWHs can be administered once daily or bid by subcutaneous injection, without coagulation monitoring, and based on their greater convenience have replaced UFH for many clinical indications. Fondaparinux, a synthetic pentasaccharide, catalyzes inhibition of factor Xa but not thrombin in an antithrombin-dependent fashion, binds only to antithrombin, and fondaparinux-associated HIT or osteoporosis is unlikely to occur; it exhibits complete bioavailability when administered subcutaneously, has a longer half-life than LMWHs, and is given once daily by subcutaneous injection in fixed doses, without coagulation monitoring. Three additional parenteral direct thrombin inhibitors and danaparoid are approved as alternatives to heparin in patients with HIT.
 
 ---
 
-### A rapid pro-hemostatic approach to overcome direct oral anticoagulants [^ecfd7c54]. Nature Medicine (2016). Excellent credibility.
+### A rapid pro-hemostatic approach to overcome direct oral anticoagulants [^1174MDoh]. Nature Medicine (2016). Excellent credibility.
 
 Direct inhibitors of coagulation factor Xa (FXa) or thrombin are promising oral anticoagulants that are becoming widely adopted. The ability to reverse their anticoagulant effects is important when serious bleeding occurs or urgent medical procedures are needed. Here, using experimental mouse models of hemostasis, we show that a variant coagulation factor, FXa(I16L), rapidly restores hemostasis in the presence of the anticoagulant effects of these inhibitors. The ability of FXa(I16L) to reverse the anticoagulant effects of FXa inhibitor depends, at least in part, on the ability of the active site inhibitor to hinder antithrombin-dependent FXa inactivation, paradoxically allowing uninhibited FXa to persist in plasma. Because of its inherent catalytic activity, FXa(I16L) is more potent (by > 50-fold) in the hemostasis models tested than a noncatalytic antidote that is currently in clinical development. FXa(I16L) also reduces the anticoagulant-associated bleeding in vivo that is induced by the thrombin inhibitor dabigatran. FXa(I16L) may be able to fill an important unmet clinical need for a rapid, pro-hemostatic agent to reverse the effects of several new anticoagulants.
 
 ---
 
-### VE-1902 – A direct thrombin inhibitor with reversible covalent mechanism of action shows efficacy with reduced bleeding in rodent models of thrombosis [^182ad815]. Thrombosis Research (2020). Medium credibility.
+### VE-1902 – A direct thrombin inhibitor with reversible covalent mechanism of action shows efficacy with reduced bleeding in rodent models of thrombosis [^111cq6S8]. Thrombosis Research (2020). Medium credibility.
 
 Introduction
 
@@ -243,19 +243,19 @@ By leaving platelet activation following vascular injury mostly unaffected, VE-1
 
 ---
 
-### Thrombin activatable fibrinolysis inhibitor and an antifibrinolytic pathway [^b2fac260]. Arteriosclerosis, Thrombosis, and Vascular Biology (2000). Low credibility.
+### Thrombin activatable fibrinolysis inhibitor and an antifibrinolytic pathway [^115aM2M5]. Arteriosclerosis, Thrombosis, and Vascular Biology (2000). Low credibility.
 
 Coagulation and fibrinolysis are processes that form and dissolve fibrin, respectively. These processes are exquisitely regulated and protect the organism from excessive blood loss or excessive fibrin deposition. Regulation of these cascades is accomplished by a variety of mechanisms involving cellular responses, flow, and protein-protein interactions. With respect to regulation mediated by protein-protein interaction, the coagulation cascade appears to be more complex than the fibrinolytic cascade because it has more components. Yet each cascade is regulated by initiators, cofactors, feedback reactions, and inhibitors. Coagulation is also controlled by an anticoagulant pathway composed of (minimally) thrombin, thrombomodulin, and protein C.(1) Protein C is converted by the thrombin/thrombomodulin complex to activated protein C (APC), which catalyzes the proteolytic inactivation of the essential cofactors required for thrombin formation, factors Va and VIIIa. An analogous antifibrinolytic pathway has been identified recently. This pathway provides an apparent symmetry between coagulation and fibrinolysis and is also composed of thrombin, thrombomodulin, and a zymogen that is activated to an enzyme. The enzyme proteolytically inactivates a cofactor to attenuate fibrinolysis. However, unlike APC, which is a serine protease, the antifibrinolytic enzyme is a metalloprotease that exhibits carboxypeptidase B-like activity. Within a few years of each other, 5 groups independently described a molecule that accounts for this antifibrinolytic activity. We refer to this molecule as thrombin activatable fibrinolysis inhibitor (TAFI), a name that is based on functional properties by which it was identified, assayed, and purified. (Because of the preferences of some journals "activatable" is occasionally referred to as "activable".) This review will encompass a historical account of efforts to isolate TAFI and characterize it with respect to its activation, activity, regulation, and potential function in vivo.
 
 ---
 
-### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^b203f8ee]. Chest (2012). Medium credibility.
+### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115Yv8Yu]. Chest (2012). Medium credibility.
 
 Heparin — structure and mechanism of action are described, noting that it is a highly sulfated mucopolysaccharide that is heterogeneous in molecular size, anticoagulant activity, and pharmacokinetics; heparin molecules range in molecular weight from 3,000 to 30,000 kDa with a mean of 15,000, corresponding to approximately 45 saccharide units. Only about one-third of molecules possess the unique pentasaccharide sequence responsible for most anticoagulant effect. Heparin chains consisting of < 18 saccharide units are too short to bridge antithrombin (AT) to thrombin; however, short chains can catalyze inhibition of factor Xa by AT. The heparin/AT complex inactivates thrombin (factor IIa) and factors Xa, IXa, XIa, and XIIa, and by inactivating thrombin or attenuating its generation heparin prevents fibrin formation and inhibits thrombin-induced activation of platelets and factors V, VIII, and XI. At even higher concentrations, low-affinity heparin impairs factor Xa generation through AT- and HCII-independent mechanisms.
 
 ---
 
-### Structure-function of anticoagulant TIX-5, the inhibitor of factor Xa-mediated FV activation [^f4547472]. Journal of Thrombosis and Haemostasis (2021). Medium credibility.
+### Structure-function of anticoagulant TIX-5, the inhibitor of factor Xa-mediated FV activation [^117FEM5K]. Journal of Thrombosis and Haemostasis (2021). Medium credibility.
 
 1 INTRODUCTION
 
@@ -263,19 +263,19 @@ The blood coagulation cascade is characterized by a series of enzymatic reaction
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^c8c54759]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^1168enfJ]. Chest (2012). Medium credibility.
 
 Factor Xa inhibitors — mechanistic classes: New factor Xa inhibitors include agents that block factor Xa indirectly or directly; indirect inhibitors are given parenterally and act by catalyzing factor Xa inhibition by antithrombin, whereas direct factor Xa inhibitors bind directly to the active site of factor Xa, thereby blocking its interaction with its substrates.
 
 ---
 
-### The 2020 Canadian Cardiovascular Society / Canadian Heart Rhythm Society comprehensive guidelines for the management of atrial fibrillation [^cf3c211a]. The Canadian Journal of Cardiology (2020). High credibility.
+### The 2020 Canadian Cardiovascular Society / Canadian Heart Rhythm Society comprehensive guidelines for the management of atrial fibrillation [^116JEdkM]. The Canadian Journal of Cardiology (2020). High credibility.
 
 Regarding medical management for atrial fibrillation, more specifically with respect to management of bleeding, direct thrombin inhibitors, CCS/CHRS 2020 guidelines recommend to administer idarucizumab for emergency reversal of the anticoagulant effect of dabigatran in patients with uncontrollable or potentially life-threatening bleeding and/or in patients requiring urgent surgery for which normal hemostasis is necessary.
 
 ---
 
-### Being precise with anticoagulation to reduce adverse drug reactions: are we there yet? [^e906a60c]. The Pharmacogenomics Journal (2024). Medium credibility.
+### Being precise with anticoagulation to reduce adverse drug reactions: are we there yet? [^116xUMBq]. The Pharmacogenomics Journal (2024). Medium credibility.
 
 Parenteral anticoagulants
 
@@ -285,44 +285,44 @@ Heparin is an endogenously produced highly sulphated linear glycosaminoglycan (m
 
 ---
 
-### Large inter-individual variation of the pharmacodynamic effect of anticoagulant drugs on thrombin generation [^282e23a3]. Haematologica (2013). Low credibility.
+### Large inter-individual variation of the pharmacodynamic effect of anticoagulant drugs on thrombin generation [^1122a18v]. Haematologica (2013). Low credibility.
 
 Anticoagulation by a standard dosage of an inhibitor of thrombin generation presupposes predictable pharmacokinetics and pharmacodynamics of the anticoagulant. We determined the inter-individual variation of the effect on thrombin generation of a fixed concentration of direct and antithrombin-mediated inhibitors of thrombin and factor Xa. Thrombin generation was determined by calibrated automated thrombinography in platelet-poor plasma from 44 apparently healthy subjects which was spiked with fixed concentrations of otamixaban, melagatran, unfractionated heparin, dermatan sulfate and pentasaccharide. The variability of the inhibitory effect of the different anticoagulants within the population was determined using the coefficient of variation, i.e. the standard deviation expressed as a percentage of the mean. The inter-individual coefficients of variation of the endogenous thrombin potential and peak height before inhibition were 18% and 16%, respectively and became 20%-24% and 24%-43% after inhibition. The average inhibition of endogenous thrombin potential and peak height (ETP, peak) brought about by the anticoagulants was respectively: otamixaban (27%, 83%), melagatran (56%, 63%), unfractionated heparin (43%, 58%), dermatan sulfate (68%, 57%) and pentasaccharide (25%, 67%). This study demonstrates that the addition of a fixed concentration of any type of anticoagulant tested causes an inhibition that is highly variable from one individual to another. In this respect there is no difference between direct inhibitors of thrombin and factor Xa and heparin(-like) inhibitors acting on the same factors.
 
 ---
 
-### New anticoagulant drugs for treatment of venous thromboembolism and stroke prevention in atrial fibrillation [^732e1688]. Journal of Internal Medicine (2012). Low credibility.
+### New anticoagulant drugs for treatment of venous thromboembolism and stroke prevention in atrial fibrillation [^113wm4Gw]. Journal of Internal Medicine (2012). Low credibility.
 
 Venous thromboembolism (including deep vein thrombosis and pulmonary embolism) and atrial fibrillation are common conditions in Western countries. The mainstay of treatment and prevention for these diseases is fast-acting anticoagulant drugs such as heparins and vitamin K antagonists. The use of these drugs is, however, complex and demanding for both patients and physicians. Recently, new antithrombotic drugs that act directly by inhibiting activated coagulation factors such as factor X or thrombin have been developed and investigated in phase III clinical trials. The aim of this article is to review: (i) the need to develop new drugs; (ii) their efficacy/safety as demonstrated in clinical trials; (iii) the need for laboratory monitoring and (iv) the direction towards the use of these new drugs in the real-life clinical situation.
 
 ---
 
-### Factor IXa inhibitors as novel anticoagulants [^a3c8c298]. Arteriosclerosis, Thrombosis, and Vascular Biology (2007). Low credibility.
+### Factor IXa inhibitors as novel anticoagulants [^115BpR4K]. Arteriosclerosis, Thrombosis, and Vascular Biology (2007). Low credibility.
 
 Currently available anticoagulants are limited by modest therapeutic benefits, narrow clinical applications, increased bleeding risk, and drug-induced thrombophilia. Because factor IX plays a pivotal role in tissue factor (TF)-mediated thrombin generation, it may represent a promising target for drug development. Several methods of attenuating factor IX activity, including monoclonal antibodies, synthetic active site-blocked competitive inhibitors, oral inhibitors, and RNA aptamers, have undergone investigation. This review summarizes present knowledge of factor IX inhibitors with emphasis on biology, pharmacology, preclinical data, and early-phase clinical experience in humans.
 
 ---
 
-### Thrombogenic potential of picomolar coagulation factor XIa is mediated by thrombin wave propagation [^cddfd968]. Blood Advances (2023). Medium credibility.
+### Thrombogenic potential of picomolar coagulation factor XIa is mediated by thrombin wave propagation [^116GDehu]. Blood Advances (2023). Medium credibility.
 
 The reasons for the strong anticoagulant effect of anti-FXIa therapies may be as complex as the potential involvement of FXI in thrombosis. FXIa inhibitors can block FXI activation mediated by thrombin, FXIIa, and FXIa itself (via autoactivation), which are thought to promote TG inside the thrombus. Another antithrombotic target of anti-FXIa therapies is circulating FXIa, which is associated with past thrombotic events. Our in vitro studies indicate that circulating FXIa is a thrombogenic risk that supersedes that of FXIa produced inside the clot. Therefore, we suggest that during the clinical development of anti-FXIa therapies, researchers should consider measuring FXIa activity levels in patients before and after therapy administration. It is plausible that a test for circulating FXIa could identify patients who are most likely to benefit from anti-FXIa therapy and determine the optimal dose for them.
 
 ---
 
-### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^b223b5a0]. Circulation (2024). High credibility.
+### 2023 ACC / AHA / ACCP / HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115Z6nqd]. Circulation (2024). High credibility.
 
 Regarding medical management for atrial fibrillation, more specifically with respect to management of bleeding, direct thrombin inhibitors, ACC/ACCP/AHA/HRS 2024 guidelines recommend to administer idarucizumab to rapidly reverse the anticoagulation effect of dabigatran in patients with AF developing life-threatening bleeding on dabigatran.
 Consider administering activated prothrombin complex concentrate to reverse the anticoagulation effect of dabigatran if idarucizumab is unavailable.
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^f8a45a91]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^117Md8kx]. Chest (2012). Medium credibility.
 
 New antithrombotic drug development — platelet and coagulation targets — includes novel inhibitors of the thromboxane A2 receptor, new P2Y12 antagonists, and inhibitors of protease activated receptor-1 (PAR-1), the major thrombin receptor on platelets. On the anticoagulant front, most recent attention has focused on developing new oral agents to replace vitamin K antagonists; rivaroxaban, a direct factor Xa inhibitor, and dabigatran etexilate, a direct thrombin inhibitor, have been licensed in many countries for short-term thromboprophylaxis.
 
 ---
 
-### Efficacy of prothrombin complex concentrates for the emergency reversal of dabigatran-induced anticoagulation [^801139da]. Critical Care (2016). Low credibility.
+### Efficacy of prothrombin complex concentrates for the emergency reversal of dabigatran-induced anticoagulation [^114GsCfK]. Critical Care (2016). Low credibility.
 
 Mechanism of action of dabigatran
 
@@ -333,25 +333,25 @@ The coagulation cascade. The common pathway shows the dependence of coagulation 
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^c54ab9dd]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^1163VfJC]. Chest (2012). Medium credibility.
 
 SR123781A anticoagulant — SR123781A is a synthetic hexadecasaccharide composed of the antithrombin-binding synthetic pentasaccharide plus a thrombin-binding sulfated tetrasaccharide joined together by a central nonsulfated heptasaccharide; it binds antithrombin with high affinity and, by bridging antithrombin to thrombin, catalyzes inhibition of both factor Xa and thrombin, does not bind platelet factor 4 (PF4) or fibrin so heparin-induced thrombocytopenia is unlikely, does not promote formation of the heparin/antithrombin/fibrin complex that protects fibrinbound thrombin from inhibition, appears capable of inhibiting fibrinbound thrombin, and is administered subcutaneously.
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^dbfce0c9]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^116d9EBJ]. Chest (2012). Medium credibility.
 
 Inhibitors of propagation of coagulation — Propagation of coagulation can be inhibited by drugs that target factors IXa or Xa or by agents that inactivate their respective cofactors, factors VIIIa and Va, respectively.
 
 ---
 
-### Heparin chain-length dependence of factor Xa inhibition by antithrombin in plasma [^e5918c50]. Thrombosis Research (2007). Low credibility.
+### Heparin chain-length dependence of factor Xa inhibition by antithrombin in plasma [^116sM43H]. Thrombosis Research (2007). Low credibility.
 
 Heparin anticoagulants function by enhancing the inhibition of coagulation proteases by the serpin antithrombin (AT). A direct evaluation of the specific anti-factor Xa (fXa) activity of therapeutic heparins in the physiologically relevant plasma-based clotting assays has not been feasible since thrombin, the final protease of the cascade, is the primary target for inhibition by AT in the presence of heparin. To circumvent this problem, we developed an assay in which the native AT in plasma was replaced with an AT mutant which exhibits identical affinity for heparin and near normal reactivity for fXa, but does not react with thrombin and other coagulation proteases in either the absence or presence of heparin. This assay was used to distinguish the anti-fXa activity of different molecular weight heparins from their anti-thrombin activity in clotting assays which were initiated by the triggers of either the extrinsic or intrinsic coagulation pathway. The results suggest that the acceleration of fXa inhibition by AT exhibits a marked heparin chain-length dependence, with fondaparinux (a pentasaccharide) having the lowest and unfractionated heparin having the highest effect. Interestingly, comparative studies revealed that the fondaparinux-catalyzed acceleration of thrombin inhibition by AT also contributes to the prolongation of the clotting time, possibly suggesting that the anticoagulant function of the therapeutic pentasaccharide is mediated though the inhibition of both fXa and thrombin.
 
 ---
 
-### Thrombin and factor Xa link the coagulation system with liver fibrosis [^99f7533a]. BMC Gastroenterology (2018). Low credibility.
+### Thrombin and factor Xa link the coagulation system with liver fibrosis [^114wGBQ5]. BMC Gastroenterology (2018). Low credibility.
 
 Conclusions
 
@@ -359,31 +359,31 @@ In summary the results generated by this study further support the role of coagu
 
 ---
 
-### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^45da7870]. Chest (2012). Medium credibility.
+### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^112nZXbM]. Chest (2012). Medium credibility.
 
 Low-molecular-weight heparin (LMWH) anti-Xa/anti-IIa activity and chain-length dependence — only pentasaccharide-containing chains composed of at least 18 saccharide units can bridge antithrombin (AT) to thrombin, leaving 50% to 75% of LMWH chains too short to catalyze thrombin inhibition, and the pentasaccharide sequence required for binding is found on fewer than one-third of LMWH molecules. Accordingly, heparin has an anti-Xa to anti-IIa ratio of 1:1, whereas commercial LMWHs have anti-Xa to anti-IIa ratios between 2:1 and 4:1; at present, there is no evidence that the differences in anti-Xa to anti-IIa ratio among the LMWHs influence clinical outcomes such as recurrent thrombosis or bleeding complications.
 
 ---
 
-### Engineered factor Xa variants retain procoagulant activity independent of direct factor Xa inhibitors [^7da4204c]. Nature Communications (2017). Medium credibility.
+### Engineered factor Xa variants retain procoagulant activity independent of direct factor Xa inhibitors [^114DGafM]. Nature Communications (2017). Medium credibility.
 
 Active site inhibition of procoagulant serine proteases including FXa has been the focus of anticoagulant drug discovery for over a decade. This has led to the clinical approval of several orally active, synthetic inhibitors of FXa for the prophylactic management of stroke in atrial fibrillation and prevention and treatment of venous thrombosis. These so-called direct oral anticoagulants (DOACs) currently include the direct FXa inhibitors rivaroxaban, apixaban, and edoxaban. By reversibly engaging the active site of FXa with high affinity, the small molecules effectively block the catalytic activity of both free and prothrombinase-assembled FXa. However, a major drawback to their use is the absence of an adequate reversal strategy to prevent and stop potential life-threatening bleeding complications associated with anticoagulant therapy. Here we present human FXa variants that display a reduced sensitivity to inhibition by the direct FXa inhibitors due to modifications in the active site region, which are based on exceptional structural adaptations found in FX variants that are expressed in the venom of specific Elapid snakes. Using a combined computational and biochemistry approach, we have uncovered the mechanistic basis of the FXa inhibitor-sensitivity of these variants and demonstrate their effectiveness as potential bypassing agents in plasma containing direct FXa inhibitors.
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^1775db58]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^111bnJX1]. Chest (2012). Medium credibility.
 
 Odiparcil — this oral β-D-xyloside primes the synthesis of circulating dermatan sulfate-like glycosaminoglycans that indirectly inhibit thrombin by catalyzing heparin cofactor II; steady-state levels are achieved after 2 to 3 days of administration, the anticoagulant activity can be partially reversed with protamine sulfate, and a phase 2 dose-finding trial comparing three different oral doses with warfarin for knee arthroplasty thromboprophylaxis showed lack of efficacy, after which development was halted.
 
 ---
 
-### Treatment and prevention of heparin-induced thrombocytopenia: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^488410c5]. Chest (2012). Medium credibility.
+### Treatment and prevention of heparin-induced thrombocytopenia: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^112rWU8k]. Chest (2012). Medium credibility.
 
 Choice of nonheparin anticoagulants in HITT — Inhibition of thrombin generated by HITT can be achieved with DTIs, such as lepirudin (recombinant hirudin), desirudin (recombinant hirudin), argatroban, or bivalirudin, or indirect factor Xa inhibitors, such as danaparoid or fondaparinux; all of these agents have been used to treat patients with HITT, but there are no high-quality prospective head-to-head trials comparing one agent with another, and Table 10 presents a comparison of the properties of these five agents.
 
 ---
 
-### Novel horizons in anticoagulation: the emerging role of factor XI inhibitors across different settings [^27969862]. Haematologica (2024). Medium credibility.
+### Novel horizons in anticoagulation: the emerging role of factor XI inhibitors across different settings [^1121h6ph]. Haematologica (2024). Medium credibility.
 
 Differentiating thrombosis from hemostasis
 
@@ -393,7 +393,7 @@ Thrombosis and hemostasis, while sharing enzymatic pathways, result in divergent
 
 ---
 
-### Apixaban [^5a463851]. FDA (2025). Medium credibility.
+### Apixaban [^113JqUMn]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -415,7 +415,7 @@ Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in hea
 
 ---
 
-### Non-vitamin-K-antagonist oral anticoagulants (NOACs) after acute myocardial infarction: a network meta-analysis [^c802a08d]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Non-vitamin-K-antagonist oral anticoagulants (NOACs) after acute myocardial infarction: a network meta-analysis [^1167XQYU]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 These safety and efficacy considerations have led to the exploration of NOACs in secondary prevention after AMI. Studies have found that VKAs alone, or in combination with aspirin, reduce rates of major adverse cardiovascular events (MACEs) but increase the rate of major bleeding, including intracranial haemorrhage (Anand 2003; Andreotti 2006; Hurlen 2002; Rothberg 2005; van Es 2002). The antithrombotic potential of NOACs after AMI in people without an indication for anticoagulation remains unclear.
 
@@ -427,7 +427,7 @@ NOACs inhibit thrombin either directly (dabigatran) or indirectly by inhibiting 
 
 ---
 
-### Thrombin and factor Xa link the coagulation system with liver fibrosis [^86fd16d3]. BMC Gastroenterology (2018). Low credibility.
+### Thrombin and factor Xa link the coagulation system with liver fibrosis [^114T8MLW]. BMC Gastroenterology (2018). Low credibility.
 
 The efficacy of FXa and thrombin inhibition as antifibrotic therapies in vivo
 
@@ -435,13 +435,13 @@ From the pathway described above, we can hypothesize that targeting coagulation 
 
 ---
 
-### Blocking direct inhibitor bleeding [^fe18d4ad]. Blood (2013). Low credibility.
+### Blocking direct inhibitor bleeding [^117ViCKe]. Blood (2013). Low credibility.
 
 In this issue of Blood, Schiele et al report the development of a monoclonal antibody that reverses the anticoagulant effect of the direct thrombin inhibitor dabigatran.
 
 ---
 
-### Rivaroxaban (Xarelto) [^f1b199dd]. FDA (2025). Medium credibility.
+### Rivaroxaban (Xarelto) [^117BKfs2]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -465,7 +465,7 @@ Anti-Factor Xa activity was similar in adult subjects with normal hepatic functi
 
 ---
 
-### Apixaban (Eliquis) [^43850fe8]. FDA (2025). Medium credibility.
+### Apixaban (Eliquis) [^112j6s99]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -487,31 +487,31 @@ Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in hea
 
 ---
 
-### Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association / American stroke association [^d53e20f0]. Stroke (2019). High credibility.
+### Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association / American stroke association [^116T9EPZ]. Stroke (2019). High credibility.
 
 Regarding medical management for acute ischemic stroke, more specifically with respect to anticoagulant therapy, AHA/ASA 2019 guidelines recommend to insufficient evidence to support the use of argatroban, dabigatran, or other thrombin inhibitors for the treatment of patients with AIS.
 
 ---
 
-### Society of Interventional Radiology consensus guidelines for the periprocedural management of thrombotic and bleeding risk in patients undergoing percutaneous image-guided interventions-part I: review of anticoagulation agents and clinical considerations: endorsed by the Canadian association for interventional radiology and the cardiovascular and interventional radiological society of Europe [^903af159]. Journal of Vascular and Interventional Radiology (2019). High credibility.
+### Society of Interventional Radiology consensus guidelines for the periprocedural management of thrombotic and bleeding risk in patients undergoing percutaneous image-guided interventions-part I: review of anticoagulation agents and clinical considerations: endorsed by the Canadian association for interventional radiology and the cardiovascular and interventional radiological society of Europe [^114gq1sv]. Journal of Vascular and Interventional Radiology (2019). High credibility.
 
 Anticoagulant mechanisms — Vitamin K antagonist (VKA) warfarin decreases the functional levels of factors II, VII, IX, and X by 15%–30% versus baseline and is administered orally. Unfractionated heparin (UFH) potentiates antithrombin to predominantly inhibit thrombin (factor IIa) and, to a lesser extent, factor Xa and is administered intravenously. Low-molecular-weight heparin (LMWH) potentiates antithrombin to predominantly inhibit factor Xa and, minimally, thrombin (factor IIa), and fondaparinux potentiates antithrombin to inhibit factor Xa only, both administered via subcutaneous injection. Oral direct factor Xa inhibitors rivaroxaban, apixaban, edoxaban, and betrixaban inhibit factor Xa without antithrombin. Direct thrombin inhibitors can be administered orally (eg, dabigatran) or intravenously (eg, argatroban and bivalirudin).
 
 ---
 
-### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^ab8a8d43]. Chest (2012). Medium credibility.
+### Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115PKRPx]. Chest (2012). Medium credibility.
 
 Fondaparinux — pharmacology, activity, kinetics, and assay considerations are characterized as follows: A synthetic analog of the AT-binding pentasaccharide found in heparin and LMWH was prepared and its structure modified so as to increase its affinity for AT, thereby increasing its specific activity and its half-life. The resulting synthetic pentasaccharide, fondaparinux, has a molecular weight of 1,728. Its specific anti-Xa activity is higher than that of LMWH (about 700 units/mg and 100 units/mg, respectively), and its half-life after subcutaneous injection is longer than that of LMWH (17 h and about 4 h, respectively). As a result, fondaparinux levels should only be determined using assays that use known fondaparinux concentrations to generate their standard curve. Mechanistically, fondaparinux binds to AT and produces a conformational change at the reactive site of AT that enhances its reactivity with factor Xa; it then forms a covalent complex with factor Xa, is released from AT, and is available to activate additional AT molecules; because it is too short to bridge AT to thrombin, fondaparinux does not increase the rate of thrombin inhibition by AT. After subcutaneous injection, fondaparinux is rapidly and completely absorbed; a steady state is reached after the third or fourth once-daily dose, and fondaparinux is excreted unchanged in the urine. The terminal half-life is 17 h in young subjects and 21 h in elderly volunteers. Fondaparinux produces a predictable anticoagulant response and exhibits linear pharmacokinetics when given in subcutaneous doses of 2 to 8 mg or in IV doses ranging from 2 to 300 mg. There is minimal nonspecific binding of fondaparinux.
 
 ---
 
-### Emerging anticoagulant drugs [^881efa1d]. Arteriosclerosis, Thrombosis, and Vascular Biology (2003). Low credibility.
+### Emerging anticoagulant drugs [^114Uoion]. Arteriosclerosis, Thrombosis, and Vascular Biology (2003). Low credibility.
 
 The limitations of traditional anticoagulants, heparin and warfarin, have prompted the development of new anticoagulant drugs for prevention and treatment of both venous and arterial thromboembolism. After a brief review of thrombogenesis and its regulation, this study focuses on new anticoagulant agents in more advanced stages of clinical testing.
 
 ---
 
-### Major bleeding during oral anticoagulant therapy associated with factor V activation by factor Xa [^48e8fd64]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
+### Major bleeding during oral anticoagulant therapy associated with factor V activation by factor Xa [^112s6NJF]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
 
 ESSENTIALS
 
@@ -522,7 +522,7 @@ A greater dependence on FXa‐mediated activation of FV of thrombin generation i
 
 ---
 
-### Factor XI inhibitors: a new class of anticoagulants [^44400435]. Blood Advances (2025). Medium credibility.
+### Factor XI inhibitors: a new class of anticoagulants [^112kBfJc]. Blood Advances (2025). Medium credibility.
 
 Future steps
 
@@ -530,19 +530,19 @@ Phase 3 randomized controlled trials of FXI/FXIa inhibitors are underway in pati
 
 ---
 
-### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^c398537f]. Chest (2012). Medium credibility.
+### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115zykWJ]. Chest (2012). Medium credibility.
 
 Rivaroxaban — antithrombotic mechanism and kinetic parameters — acts as a competitive inhibitor of factor Xa with a concentration-dependent effect and an inhibitory constant of 0.4 ± 0.02 nM, and has 10,000-fold greater selectivity for factor Xa than for other serine proteases. The onset of action is rapid and reversible, with a kinetic association rate constant of 1.7 × 10⁷ mol/L⁻¹/s⁻¹ and a kinetic dissociation rate constant of 5 × 10⁻³/s⁻¹; inhibitory activity is maintained when factor Xa is complexed with factor Va and Ca²⁺ on a phospholipid membrane (prothrombinase bound) and when factor Xa is bound to the clot. In plasma, endogenous human factor Xa is inhibited to cause dose-dependent prolongation of both the prothrombin time (PT) and the activated partial thromboplastin time (aPTT), with the PT being more sensitive than the aPTT.
 
 ---
 
-### European stroke organization guideline for the diagnosis and treatment of cerebral venous thrombosis-endorsed by the European Academy of Neurology [^b4621ab2]. European Journal of Neurology (2017). Medium credibility.
+### European stroke organization guideline for the diagnosis and treatment of cerebral venous thrombosis-endorsed by the European Academy of Neurology [^115cRix9]. European Journal of Neurology (2017). Medium credibility.
 
 Regarding medical management for cerebral venous thrombosis, more specifically with respect to anticoagulant therapy, initiation, ESO 2017 guidelines recommend to do not use direct anticoagulants (factor Xa or thrombin inhibitors) for the treatment of patients with CVT, especially during the acute phase.
 
 ---
 
-### Anticoagulants (thrombin inhibitors) and aspirin synergize with P2Y12 receptor antagonism in thrombosis [^b8af342b]. Circulation (2003). Low credibility.
+### Anticoagulants (thrombin inhibitors) and aspirin synergize with P2Y12 receptor antagonism in thrombosis [^115ioa6e]. Circulation (2003). Low credibility.
 
 Background
 
@@ -558,7 +558,7 @@ Our study indicates that (1) thrombin inhibitors and aspirin have a demonstrable
 
 ---
 
-### Andexanet alfa (Andexxa) [^e23c767e]. FDA (2025). Medium credibility.
+### Andexanet alfa (Andexxa) [^116nQWbo]. FDA (2025). Medium credibility.
 
 12.1	Mechanism of Action
 
@@ -584,31 +584,31 @@ The pharmacokinetics of ANDEXXA were not affected by apixaban (5 mg orally BID f
 
 ---
 
-### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^e30f71f2]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
+### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^116odNsB]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
 
 EACTS/STS/AATS tMCS anticoagulation alternatives note that two direct thrombin inhibitors (DTIs), bivalirudin and argatroban, have been primarily studied in tMCS, and these agents inhibit thrombin directly and independently of antithrombin, making them preferable in patients with heparin‑induced thrombocytopenia (HIT).
 
 ---
 
-### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^d742fac6]. Chest (2012). Medium credibility.
+### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^116W8qTT]. Chest (2012). Medium credibility.
 
 Rivaroxaban — pharmacodynamic effects in healthy subjects and models — In a randomized, placebo-controlled, crossover study of 12 healthy male subjects aged 27 to 37 years, the prothrombinase-induced clotting time was prolonged dose dependently with a maximum effect after 2 h, and thrombin generation in platelet-rich plasma was markedly reduced with an 80% to 90% decrease (by 5-mg and 30-mg doses, respectively) of the peak collagen-induced endogenous thrombin potential at 2 h. Rivaroxaban has no effects on platelet aggregation induced by collagen, adenosine diphosphate, or thrombin; in venous thrombosis and arteriovenous shunt models it caused dose-dependent reduction of thrombus formation, inhibition of factor Xa activity, and prolongation of the PT.
 
 ---
 
-### Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine evidence-based guidelines (fifth edition) [^66317986]. Regional Anesthesia and Pain Medicine (2025). High credibility.
+### Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine evidence-based guidelines (fifth edition) [^113cWMbB]. Regional Anesthesia and Pain Medicine (2025). High credibility.
 
 Parenteral direct thrombin inhibitors (argatroban, bivalirudin, desirudin) — mechanism, monitoring, and reversal: Recombinant hirudin derivatives, including bivalirudin (Angiomax) and desirudin (Revasc), inhibit both free and clot-bound thrombin, and argatroban (Acova), an L-arginine derivative, has a similar mechanism of action. The anticoagulant effect of thrombin inhibitors is monitored by the aPTT, and is present for 1–3 hours after intravenous administration. Hemorrhagic complications, particularly when combined with thrombolytic or antiplatelet agents, may be life threatening. There is no 'antidote'; therefore, the antithrombin effect cannot be reversed pharmacologically.
 
 ---
 
-### Antiplatelet drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^cdba2f76]. Chest (2012). Medium credibility.
+### Antiplatelet drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^116FzzxM]. Chest (2012). Medium credibility.
 
 Atrial fibrillation — stroke prevention therapy: In patients with nonvalvular atrial fibrillation, anticoagulant therapy with dose-adjusted warfarin (international normalized ratio, 2.0–3.0), the direct thrombin inhibitor dabigatran etexilate, or the direct factor Xa inhibitors rivaroxaban and apixaban is effective in reducing the risk of stroke, and the efficacy of aspirin in doses ranging from 75–1,200 mg/d has been compared with that of these agents.
 
 ---
 
-### Anticoagulant characteristics of HD1-22, a bivalent aptamer that specifically inhibits thrombin and prothrombinase [^fd62b3fd]. Journal of Thrombosis and Haemostasis (2008). Low credibility.
+### Anticoagulant characteristics of HD1-22, a bivalent aptamer that specifically inhibits thrombin and prothrombinase [^117Uf2Bv]. Journal of Thrombosis and Haemostasis (2008). Low credibility.
 
 Background
 
@@ -628,7 +628,7 @@ The strong thrombin-inhibiting activity, together with the availability of a rap
 
 ---
 
-### Thrombin in complex with dabigatran can still interact with PAR-1 via exosite-I and instigate loss of vascular integrity [^33f73643]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
+### Thrombin in complex with dabigatran can still interact with PAR-1 via exosite-I and instigate loss of vascular integrity [^112L3QT4]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
 
 Abstract
 
@@ -654,13 +654,13 @@ Proteolytically inactive thrombin in complex with dabigatran evokes loss of barr
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^7dee5f6c]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^114DhX6s]. Chest (2012). Medium credibility.
 
 Flovagatran — this synthetic active site-directed small molecule reversibly inhibits thrombin, shows predictable and dose-dependent pharmacokinetics after IV injection with a short half-life, has extrarenal clearance yielding a pharmacokinetic profile in renal failure similar to normal renal function, and in a small phase 2 study in 38 hemodialysis patients with heparin/PF4 antibodies produced a predictable anticoagulant effect permitting successful hemodialysis; plans for further development are uncertain.
 
 ---
 
-### Clinician's guide to the updated ABCs of cardiovascular disease prevention [^c228eab7]. Journal of the American Heart Association (2014). Low credibility.
+### Clinician's guide to the updated ABCs of cardiovascular disease prevention [^115xrLo8]. Journal of the American Heart Association (2014). Low credibility.
 
 Atrial Fibrillation
 
@@ -672,7 +672,7 @@ Once AF has been diagnosed, thromboembolic risk assessment should be performed t
 
 ---
 
-### Fondaparinux sodium [^ba1bd352]. FDA (2025). Medium credibility.
+### Fondaparinux sodium [^115kv3W1]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -688,13 +688,13 @@ The pharmacodynamics/pharmacokinetics of fondaparinux sodium are derived from fo
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^3b0824b8]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^112WX1Gs]. Chest (2012). Medium credibility.
 
 Thrombin-activatable fibrinolysis inhibitor (TAFIa) inhibitors — In vitro data indicate TAFIa attenuates fibrinolysis by removing carboxy-terminal lysine residues from fibrin, decreasing plasminogen or plasmin binding; inhibitors of TAFIa therefore have potential to enhance fibrinolysis, supported by animal studies with a potato-derived TAFIa inhibitor that increased plasminogen activator-induced thrombolysis; development efforts include TAFIa-directed antibodies, nanobodies, and small molecules, but a potential limitation is paradoxical enhancement of TAFIa activity at low doses, complicating optimal dosing if common across agents.
 
 ---
 
-### Edoxaban tosylate (Savaysa) [^ca6a89cd]. FDA (2025). Medium credibility.
+### Edoxaban tosylate (Savaysa) [^116B6HTa]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -730,7 +730,7 @@ Edoxaban displays approximately dose-proportional pharmacokinetics for doses of 
 
 ---
 
-### Being precise with anticoagulation to reduce adverse drug reactions: are we there yet? [^5320fa64]. The Pharmacogenomics Journal (2024). Medium credibility.
+### Being precise with anticoagulation to reduce adverse drug reactions: are we there yet? [^1138F3rb]. The Pharmacogenomics Journal (2024). Medium credibility.
 
 Introduction
 
@@ -744,7 +744,7 @@ Clinically, it is evident that patients can respond differently to the same drug
 
 ---
 
-### Direct thrombin inhibitors prevent left Atrial remodeling associated with Heart failure in rats [^21dd6d9a]. JACC: Basic to Translational Science (2016). Low credibility.
+### Direct thrombin inhibitors prevent left Atrial remodeling associated with Heart failure in rats [^111sCy4u]. JACC: Basic to Translational Science (2016). Low credibility.
 
 Dual antiremodeling and anticoagulant properties of DTIs
 
@@ -752,7 +752,7 @@ In the present study, the anticoagulant activity of DTIs was directly correlated
 
 ---
 
-### Anticoagulant medications: the pediatric extracorporeal membrane oxygenation anticoagulation collaborativE consensus conference [^96552531]. Pediatric Critical Care Medicine (2024). Medium credibility.
+### Anticoagulant medications: the pediatric extracorporeal membrane oxygenation anticoagulation collaborativE consensus conference [^114qsk32]. Pediatric Critical Care Medicine (2024). Medium credibility.
 
 Pediatric extracorporeal membrane oxygenation (ECMO) patients require anticoagulation to inhibit hemostatic activation and prevent thrombosis when circulating blood encounters the foreign surface of the ECMO circuit, but treatment may contribute to bleeding complications, which are reported in 70% of pediatric ECMO patients and associated with increased mortality. The most widely used systemic anticoagulant during ECMO is unfractionated heparin (UFH). UFH has a long history of use in the pediatric ECMO population and its advantages include low cost, short half-life, full reversibility, wide access to laboratory monitoring tests, for example, activated partial thromboplastin time, and clinician familiarity with use. Disadvantages include variation in patient response to fixed dosing, heparin resistance related to variable plasma binding, and variable sensitivity to the effect of antithrombin (AT) in younger children. UFH does not inhibit thrombus-bound or platelet-bound thrombin while direct thrombin inhibitors (DTIs; bivalirudin, argatroban, lepirudin) inhibit both free and bound thrombin, and are AT-independent providing a greater inhibition of thrombin than does UFH. Bivalirudin has been used in pediatric patients with heparin-induced thrombocytopenia (HIT), heparin resistance, and continued thrombosis despite heparin therapy during ECMO, and as a first-line agent in some centers.
 
@@ -760,25 +760,25 @@ Evidence to guide optimal choice of anticoagulant medication(s) in pediatric ECM
 
 ---
 
-### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^c2e7ecc1]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
+### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^115yxVvx]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
 
 Rivaroxaban dose-dependently inhibited the TF-induced increase in TAT levels over a broad dose range (0.001–0.3 mg kg −1); the effect was highly significant at doses ≥ 0.03 mg kg −1 (P < 0.001), with complete inhibition at 0.3 mg kg −1 rivaroxaban (Fig. 5 A). This dose range corresponded to plasma levels of rivaroxaban of 3–766 μg L⁻¹ and prolongation of PT of 1.0–1.9-fold over baseline (Table 3). Platelet count and fibrinogen concentration were not affected over the whole dose range tested (Fig. 5 C, E). Melagatran also reduced TF-induced TAT generation at the highest dose (0.3 mg kg −1; corresponding to a plasma level of 525 μg L⁻¹ and APTT prolongation of 3.1-fold) (Table 3). However, melagatran potentiated TF-induced hypercoagulability at lower doses (0.01–0.03 mg kg −1; corresponding to plasma levels of 19–46 μg L⁻¹). At a melagatran dose of 0.01 mg kg −1 (corresponding to a plasma level of 19 μg L⁻¹ and APTT prolongation of 1.7-fold), TAT increased by 1.6-fold vs. TF control (P < 0.01; Fig. 5 B). Furthermore, fibrinogen levels decreased significantly from 2.34 ± 0.08 g L⁻¹ (TF control) to 1.41 ± 0.20 g L⁻¹ at 0.03 mg kg −1 melagatran (P < 0.001) (Fig. 5 D), and platelet count decreased from 644 × 10³ μL⁻¹ (TF control) to 559 × 10³ μL⁻¹ at 0.01 mg kg −1 melagatran (Fig. 5 F).
 
 ---
 
-### Antithrombotic effects of combined PAR (protease-activated receptor)-4 antagonism and factor Xa inhibition [^c2951b40]. Arteriosclerosis, Thrombosis, and Vascular Biology (2020). Medium credibility.
+### Antithrombotic effects of combined PAR (protease-activated receptor)-4 antagonism and factor Xa inhibition [^115yUgVu]. Arteriosclerosis, Thrombosis, and Vascular Biology (2020). Medium credibility.
 
 Factor Xa inhibition reduces thrombin generation by blocking the enzymatic activity of factor Xa and the prothrombinase complex. As such, factor Xa inhibition may interfere with thrombin-mediated PAR1 and PAR4 receptor activation and thereby reduce the potential added efficacy of PAR4 antagonism. We, therefore, wanted to explore how the combination of PAR4 antagonism with factor Xa inhibition would affect thrombus formation. We here assess the efficacy of BMS-986141 — a novel PAR4 antagonist — in combination with clinically relevant concentrations of apixaban — a factor Xa inhibitor — in ex vivo model of human thrombus formation.
 
 ---
 
-### Society of Interventional Radiology consensus guidelines for the periprocedural management of thrombotic and bleeding risk in patients undergoing percutaneous image-guided interventions-part I: review of anticoagulation agents and clinical considerations: endorsed by the Canadian association for interventional radiology and the cardiovascular and interventional radiological society of Europe [^4e6342b8]. Journal of Vascular and Interventional Radiology (2019). High credibility.
+### Society of Interventional Radiology consensus guidelines for the periprocedural management of thrombotic and bleeding risk in patients undergoing percutaneous image-guided interventions-part I: review of anticoagulation agents and clinical considerations: endorsed by the Canadian association for interventional radiology and the cardiovascular and interventional radiological society of Europe [^1131DNjZ]. Journal of Vascular and Interventional Radiology (2019). High credibility.
 
 Heparins — unfractionated heparin (UFH) predominantly inhibits thrombin more than factor Xa (4:1 ratio) and, given its short half-life of 60–90 min, waiting for 4 hours after discontinuation with PTT or anti-Xa check is sufficient to normalize bleeding risk; low-molecular-weight heparin (LMWH) inhibits factor Xa more than thrombin (4:1 ratio), has a half-life of 4–6 hours, and requires waiting for at least 24 hours before a procedure; protamine is a reversal agent where 1 mg neutralizes 100 IU of UFH and the goal should be to neutralize only 80% of UFH, and for LMWH partial reversal uses 1 mg per milligram within 8 hours of last dose or 0.5 mg per milligram if beyond 8 hours; fondaparinux is often used in place of LMWH and should be treated like LMWH.
 
 ---
 
-### Thrombin in complex with dabigatran can still interact with PAR-1 via exosite-I and instigate loss of vascular integrity [^1245728f]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
+### Thrombin in complex with dabigatran can still interact with PAR-1 via exosite-I and instigate loss of vascular integrity [^111U6726]. Journal of Thrombosis and Haemostasis (2022). Medium credibility.
 
 Our results indicate that the potential enhanced expression of PAR‐1 on the endothelial surface mediated by dabigatran–thrombin complex occurred in PFP conditions with natural (anti)‐coagulation factors present and within 1 h, but without extra addition of a thrombin‐like PAR‐1 agonist.
 
@@ -790,13 +790,13 @@ Our results indicate that while thrombin is catalytically fully inhibited by dab
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^6a345ae0]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^113iTGq5]. Chest (2012). Medium credibility.
 
 Vorapaxar mechanism and pharmacology — Vorapaxar is a potent and specific competitive inhibitor of PAR-1 with excellent oral bioavailability that produces dose-dependent inhibition of thrombin- or thrombin receptor agonist peptide (TRAP)-induced platelet aggregation, does not affect platelet aggregation in response to other agonists nor thrombin-mediated conversion of fibrinogen to fibrin, has a long half-life of 126 to 269 h and inhibits TRAP-induced platelet aggregation for up to 4 weeks, is metabolized by CYP3A4, and in phase 1 studies did not appear to prolong bleeding time in healthy volunteers.
 
 ---
 
-### A DNA origami-based aptamer nanoarray for potent and reversible anticoagulation in hemodialysis [^2d5b5203]. Nature Communications (2021). High credibility.
+### A DNA origami-based aptamer nanoarray for potent and reversible anticoagulation in hemodialysis [^112AF7kE]. Nature Communications (2021). High credibility.
 
 Thrombin is a vital enzyme in the coagulation system and an attractive target for the design of anticoagulant drugs –. A series of thrombin-binding aptamers have been screened by systematic evolution of ligands by exponential enrichment (SELEX), an in vitro selection technique. These aptamers can directly recognize and inhibit thrombin, while the binding to thrombin can be ceased through the hybridization of complementary oligonucleotides (antidotes) –, making these aptamers promising anticoagulant drug candidates. However, naked or unmodified aptamers suffer from inefficient delivery, fast degradation and rapid renal clearance in vivo, severely limiting their application in anticoagulation. Although several nanoparticle (NP)-based strategies have been reported to enhance the stability and bioavailability of thrombin-binding aptamers –, those approaches do not offer precise control of the density and orientation of aptamers displayed on the surface of NPs. These characteristics of the delivery vectors are important to affect efficient thrombin inhibitory activity. In contrast to traditional nanoparticles, DNA/RNA nanotechnology offers a variety of nanostructures with rationally designed geometric features, precise spatial addressability and remarkable biocompatibility –. Several aptamer-tagged DNA/RNA nanostructures have been utilized for immobilizing proteins with defined nanometer spacing and precision –. Though the reported nanoarchitectures have achieved substantial anticoagulant effects in plasma in test tubes, in vivo study and clinically relevant validation have yet to be reported.
 
@@ -807,7 +807,7 @@ Design of an aptamer-functionalized DNA origami nanoarray for anticoagulation in
 
 ---
 
-### Rivaroxaban versus warfarin to treat patients with thrombotic antiphospholipid syndrome, with or without systemic lupus erythematosus (RAPS): a randomised, controlled, open-label, phase 2 / 3, non-inferiority trial [^fd4ae256]. The Lancet: Haematology (2016). Medium credibility.
+### Rivaroxaban versus warfarin to treat patients with thrombotic antiphospholipid syndrome, with or without systemic lupus erythematosus (RAPS): a randomised, controlled, open-label, phase 2 / 3, non-inferiority trial [^117UX2A9]. The Lancet: Haematology (2016). Medium credibility.
 
 Discussion
 
@@ -817,13 +817,13 @@ Rivaroxaban and warfarin both inhibit thrombin generation in patients with venou
 
 ---
 
-### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^1ebcc1e7]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
+### EACTS / STS / AATS guidelines on temporary mechanical circulatory support in adult cardiac surgery [^111na2kE]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
 
 EACTS/STS/AATS temporary mechanical circulatory support (tMCS) anticoagulation agents and monitoring describe that heparin binds to and increases the activity of antithrombin, which inhibits both factor Xa and thrombin; most tMCS programs use unfractionated heparin (UFH) as the first-line anticoagulant owing to availability and relatively low cost, though UFH pharmacokinetics are highly variable due to nonspecific binding and varying antithrombin levels. Common monitoring approaches include activated clotting time (ACT), activated partial thromboplastin time (aPTT), and anti‑factor Xa (anti‑Xa); ACT measures clot formation in whole blood and is influenced by haemodilution, hypothermia, platelet count, and concomitant antiplatelet therapy, while aPTT measures clot formation in platelet‑poor plasma and anti‑Xa directly quantifies heparin's inhibition of factor Xa.
 
 ---
 
-### Dabigatran etexilate mesylate (Pradaxa) [^c8329ce9]. FDA (2025). Medium credibility.
+### Dabigatran etexilate mesylate (Pradaxa) [^1167oXP6]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -862,37 +862,37 @@ PRADAXA Capsules is indicated to reduce the risk of recurrence of VTE in pediatr
 
 ---
 
-### Practice advisory update summary: patent foramen ovale and secondary stroke prevention: report of the guideline subcommittee of the American Academy of Neurology [^0bb44f32]. Neurology (2020). High credibility.
+### Practice advisory update summary: patent foramen ovale and secondary stroke prevention: report of the guideline subcommittee of the American Academy of Neurology [^111JMRow]. Neurology (2020). High credibility.
 
 Regarding medical management for patent foramen ovale, more specifically with respect to antithrombotic therapy, AAN 2020 guidelines recommend to consider initiating either antiplatelet therapy (such as aspirin) or anticoagulation (using a VKA, a direct thrombin inhibitor, or a factor Xa inhibitor) in patients with cryptogenic ischemic stroke and a PFO opting to receive medical therapy alone without PFO closure.
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^637a1ae3]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^113YUnhQ]. Chest (2012). Medium credibility.
 
 Darexaban — factor Xa inhibition and pharmacokinetics — has a Ki of 31 nM, high oral bioavailability with drug levels peaking about 2 h after oral administration, a half-life of 14 to 18 h, and a dual route of elimination in which one-half is eliminated via the kidneys and the remainder in the feces.
 
 ---
 
-### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^95a294d6]. Chest (2012). Medium credibility.
+### New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^114pqmL9]. Chest (2012). Medium credibility.
 
 Factor Va and VIIIa inhibitors — mechanistic note: Factor Va is the major target of activated protein C, which acts as an anticoagulant by proteolytically degrading and inactivating factor Va.
 
 ---
 
-### The evolving field of stroke prevention in patients with atrial fibrillation [^67b24ee9]. Stroke (2010). Low credibility.
+### The evolving field of stroke prevention in patients with atrial fibrillation [^113ejckY]. Stroke (2010). Low credibility.
 
 Vitamin K antagonists have been the standard in stroke prophylaxis in patients with atrial fibrillation for decades, but several limitations make it difficult for patients to tolerate chronic anticoagulation treatment. New drugs are under evaluation in clinical trials, including direct thrombin inhibitors and factor Xa inhibitors. Antiplatelet agents such as clopidogrel and aspirin are alternatives to warfarin for stroke prevention but have proven less efficacious in trials. The only drug to have completed a Phase III trial successfully thus far is dabigatran. The 150-mg twice-a-day dose was superior to warfarin in efficacy and similar for major bleeding, whereas the 110-mg twice-a-day dose was noninferior for efficacy and reduced major bleeding. Both doses reduced intracranial hemorrhages substantially compared with warfarin. Dabigatran-assigned patients had a higher incidence of discontinuation due to gastrointestinal symptoms. Clinically apparent myocardial infarction rates were slightly higher in the dabigatran groups than the warfarin group. Dabigatran is the first agent to show superiority over warfarin for stroke prevention in atrial fibrillation, raising the standard for newer agents.
 
 ---
 
-### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^aa425340]. Chest (2012). Medium credibility.
+### Oral anticoagulant therapy: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115MRB2X]. Chest (2012). Medium credibility.
 
 Rivaroxaban — pharmacokinetics and pharmacodynamics in healthy men: "In healthy men aged 19 to 45 years, single doses of rivaroxaban administered after a fasting period of 10 h produced a median inhibition of factor Xa activity that ranged from 20% with the 5-mg dose to 61% with the maximum dose of 80 mg". "No significant inhibition was observed with doses of < 5 mg". Peak effect timing and decay are described: "The maximum inhibition of factor Xa activity occurred between 1 and 4 h… and the half-life of the biologic effect was 6 to 7 h". Recovery is delayed at effective doses: "Factor Xa activities did not return to normal until after 24 h, when doses > 5 mg were administered".
 
 ---
 
-### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^cfbfc306]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
+### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^116JzrA1]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
 
 Discussion
 
@@ -900,13 +900,13 @@ In this study, we investigated the phenomenon of a paradoxical activation of coa
 
 ---
 
-### The management of antithrombotic agents for patients undergoing GI endoscopy [^e2b35db1]. Gastrointestinal Endoscopy (2016). Medium credibility.
+### The management of antithrombotic agents for patients undergoing GI endoscopy [^116o6T28]. Gastrointestinal Endoscopy (2016). Medium credibility.
 
 Antithrombotic therapy in GI endoscopy — drug categories and examples are described for conditions such as atrial fibrillation (AF), acute coronary syndrome (ACS), deep vein thrombosis (DVT), hypercoagulable states, and endoprostheses. Antithrombics include medications classified as anticoagulants or antiplatelet agents (APAs); anticoagulants prevent clotting and include the following 4 drug classes: vitamin K antagonists (eg, warfarin), heparin derivatives (eg, unfractionated [UFH] and low molecular weight [LMWH]), direct factor Xa inhibitors (eg, rivaroxaban, apixaban, edoxaban), and direct thrombin inhibitors (eg, dabigatran, hirudins, argatroban). APAs decrease platelet aggregation to prevent thrombus formation and include the thienopyridines (eg, clopidogrel, prasugrel, ticlopidine, and ticagrelor), the protease-activated receptor-1 (PAR-1) inhibitor vorapaxar, and glycoprotein IIb/IIIa receptor inhibitors (eg, abciximab, eptifibatide, and tirofiban).
 
 ---
 
-### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^06446fdf]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
+### Direct thrombin inhibitors, but not the direct factor Xa inhibitor rivaroxaban, increase tissue factor-induced hypercoagulability in vitro and in vivo [^111AHuxA]. Journal of Thrombosis and Haemostasis (2014). Low credibility.
 
 TF-induced hypercoagulability in vivo in rats
 
@@ -920,43 +920,43 @@ Effects of rivaroxaban and melagatran (0.001–0.3 mg kg −1 i.v.) on thrombin�
 
 ---
 
-### Antithrombotic therapy in atrial fibrillation: the seventh ACCP conference on antithrombotic and thrombolytic therapy [^7404dcae]. Chest (2004). Low credibility.
+### Antithrombotic therapy in atrial fibrillation: the seventh ACCP conference on antithrombotic and thrombolytic therapy [^113y1CQm]. Chest (2004). Low credibility.
 
 This chapter about antithrombotic therapy in atrial fibrillation (AF) is part of the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy: Evidence Based Guidelines. Grade 1 recommendations are strong and indicate that the benefits do, or do not, outweigh risks, burden, and costs. Grade 2 suggests that individual patients' values may lead to different choices (for a full understanding of the grading see Guyatt et al, CHEST 2004; 126:179S-187S). Among the key recommendations in this chapter are the following (all vitamin K antagonist [VKA] recommendations have a target international normalized ratio [INR] of 2.5; range, 2.0 to 3.0): In patients with persistent or paroxysmal AF (PAF) [intermittent AF] at high risk of stroke (ie, having any of the following features: prior ischemic stroke, transient ischemic attack, or systemic embolism, age > 75 years, moderately or severely impaired left ventricular systolic function and/or congestive heart failure, history of hypertension, or diabetes mellitus), we recommend anticoagulation with an oral VKA, such as warfarin (Grade 1A). In patients with persistent AF or PAF, age 65 to 75 years, in the absence of other risk factors, we recommend antithrombotic therapy with either an oral VKA or aspirin, 325 mg/d, in this group of patients who are at intermediate risk of stroke (Grade 1A). In patients with persistent AF or PAF < 65 years old and with no other risk factors, we recommend aspirin, 325 mg/d (Grade 1B). For patients with AF and mitral stenosis, we recommend anticoagulation with an oral VKA (Grade 1C+). For patients with AF and prosthetic heart valves, we recommend anticoagulation with an oral VKA (Grade 1C+); the target INR may be increased and aspirin added depending on valve type and position, and on patient factors. For patients with AF of ≥ 48 h or of unknown duration for whom pharmacologic or electrical cardioversion is planned, we recommend anticoagulation with an oral VKA for 3 weeks before and for at least 4 weeks after successful cardioversion (Grade 1C+). For patients with AF of ≥ 48 h or of unknown duration undergoing pharmacologic or electrical cardioversion, an alternative strategy is anticoagulation and screening multiplane transesophageal echocardiography (Grade 1B). If no thrombus is seen and cardioversion is successful, we recommend anticoagulation for at least 4 weeks (Grade 1B). For patients with AF of known duration < 48 h, we suggest cardioversion without anticoagulation (Grade 2C). However, in patients without contraindications to anticoagulation, we suggest beginning IV heparin or low molecular weight heparin at presentation (Grade 2C).
 
 ---
 
-### Engineered factor Xa variants retain procoagulant activity independent of direct factor Xa inhibitors [^7ede500b]. Nature Communications (2017). Medium credibility.
+### Engineered factor Xa variants retain procoagulant activity independent of direct factor Xa inhibitors [^114F67WS]. Nature Communications (2017). Medium credibility.
 
 The absence of an adequate reversal strategy to prevent and stop potential life-threatening bleeding complications is a major drawback to the clinical use of the direct oral inhibitors of blood coagulation factor Xa. Here we show that specific modifications of the substrate-binding aromatic S4 subpocket within the factor Xa active site disrupt high-affinity engagement of the direct factor Xa inhibitors. These modifications either entail amino-acid substitution of S4 subsite residues Tyr99 and/or Phe174 (chymotrypsinogen numbering), or extension of the 99-loop that borders the S4 subsite. The latter modifications led to the engineering of a factor Xa variant that is able to support coagulation in human plasma spiked with (supra-)physiological concentrations of direct factor Xa inhibitors. As such, this factor Xa variant has the potential to be employed to bypass the direct factor Xa inhibitor-mediated anticoagulation in patients that require restoration of blood coagulation.
 
 ---
 
-### Modulation of the coagulation cascade using aptamers [^a4c03f21]. Arteriosclerosis, Thrombosis, and Vascular Biology (2015). Low credibility.
+### Modulation of the coagulation cascade using aptamers [^115DFYUx]. Arteriosclerosis, Thrombosis, and Vascular Biology (2015). Low credibility.
 
 As a novel class of therapeutics, aptamers, or nucleic acid ligands, have garnered clinical interest because of the ease of isolating a highly specific aptamer against a wide range of targets, their chemical flexibility and synthesis, and their inherent ability to have their function reversed. The following review details the development and molecular mechanisms of aptamers targeting specific proteases in the coagulation cascade. The ability of these anticoagulant aptamers to bind to and inhibit exosite function rather than binding within the active site highlights the importance of exosites in blocking protein function. As both exosite inhibitors and reversible agents, the use of aptamers is a promising strategy for future therapeutics.
 
 ---
 
-### Successful use of bivalirudin in neonates for postoperative aortopulmonary shunt thrombosis prevention [^4aaf3da9]. JTCVS Techniques (2025). Medium credibility.
+### Successful use of bivalirudin in neonates for postoperative aortopulmonary shunt thrombosis prevention [^112uiwpc]. JTCVS Techniques (2025). Medium credibility.
 
 Bivalirudin, in particular, may be favorable in neonatal patients due to its direct inhibition of thrombin (without the need for a cofactor such as AT3). In addition, bivalirudin induces its anticoagulant effect by inhibiting platelet activation and preventing clot formation (via direct inhibition of circulating thrombin); in addition, bivalirudin can potentially induce clot lysis via its direct inhibition of clot-bound thrombin. Published literature supports the use of bivalirudin for anticoagulation therapy in cardiopulmonary bypass (CPB) and mechanical circulatory support; however, data for its use in thromboprevention are limited. We present a series of neonates undergoing AP shunt with a modified Blalock Taussig Thomas (mBTT) or central shunt who received immediate postoperative shunt thrombosis prevention with bivalirudin, followed by a combination of low-molecular-weight heparin (LMWH) and ASA.
 
 ---
 
-### 2018 joint European consensus document on the management of antithrombotic therapy in atrial fibrillation patients presenting with acute coronary syndrome and / or undergoing percutaneous cardiovascular interventions: a joint consensus document of the European Heart Rhythm Association (EHRA), European Society of Cardiology working group on thrombosis, European association of percutaneous cardiovascular interventions (EAPCI), and European association of acute cardiac care (ACCA) endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS), Latin America Heart Rhythm Society (LAHRS), and cardiac arrhythmia society of Southern Africa (CASSA) [^d6ba46e6]. Europace (2019). High credibility.
+### 2018 joint European consensus document on the management of antithrombotic therapy in atrial fibrillation patients presenting with acute coronary syndrome and / or undergoing percutaneous cardiovascular interventions: a joint consensus document of the European Heart Rhythm Association (EHRA), European Society of Cardiology working group on thrombosis, European association of percutaneous cardiovascular interventions (EAPCI), and European association of acute cardiac care (ACCA) endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS), Latin America Heart Rhythm Society (LAHRS), and cardiac arrhythmia society of Southern Africa (CASSA) [^116VLvGu]. Europace (2019). High credibility.
 
 New anticoagulants and new antiplatelet agents on the horizon — emerging targets and early data: The text anticipates novel antiplatelet drugs that selectively inhibit arterial thrombosis without disrupting normal haemostasis and lists candidate targets including the interaction of von Willebrand factor with glycoprotein Ibα, GPVI, GPIIb/IIIa (integrin αIIbβ3), the thrombin receptor PAR-1, and the ADP receptor P2Y12. It also states that anticoagulant development is focusing on other coagulation factors such as Factor XI and XII, with Factor XI highlighted as a promising target; congenital factor XI deficiency is associated with only mild bleeding and factor XI–deficient mice show reduced thrombosis. A recent Phase II trial is cited in which antisense inhibition of factor XI, compared with enoxaparin, reduced venous thromboembolism without increasing bleeding after elective knee arthroplasty, and whether such agents can be translated to thromboprophylaxis for AF patients in the ACS or PCI setting requires further study.
 
 ---
 
-### Atrial fibrillation: will new drugs and patient choice improve anticoagulation outcomes? [^a5834ce1]. Heart (2005). Low credibility.
+### Atrial fibrillation: will new drugs and patient choice improve anticoagulation outcomes? [^115EP4SC]. Heart (2005). Low credibility.
 
 The growing epidemic of atrial fibrillation presents major challenges to the healthcare community, both clinical and financial.
 
 ---
 
-### An unexpected case of recurrence of pulmonary embolism in a patient recovered from COVID19 in full regimen dose of direct oral anticoagulant drug [^01720c94]. BMC Pulmonary Medicine (2021). Medium credibility.
+### An unexpected case of recurrence of pulmonary embolism in a patient recovered from COVID19 in full regimen dose of direct oral anticoagulant drug [^11139J91]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 Background
 
@@ -964,7 +964,7 @@ Severe acute respiratory syndrome coronavirus 2 (SARS- CoV-2) caused by COVID-19
 
 ---
 
-### Appropriate aspirin or anticoagulant use-million hearts ®… [^95501b5e]. millionhearts.hhs.gov (2024). Medium credibility.
+### Appropriate aspirin or anticoagulant use-million hearts ®… [^114pN4bf]. millionhearts.hhs.gov (2024). Medium credibility.
 
 Appropriate Aspirin or Anticoagulant Use Appropriate Aspirin Use Low-dose aspirin is a proven and effective medication for secondary cardiovascular disease prevention. 1, 2, 3 This includes treatment of patients with a history of heart attack, stroke, transient ischemic attack, vascular stent, or vascular surgery.
 - Dabigatran
