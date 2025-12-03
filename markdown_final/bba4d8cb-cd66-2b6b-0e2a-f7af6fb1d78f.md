@@ -1452,12 +1452,6 @@ Recently, the U.S. Food and Drug Administration (FDA) alerted health providers a
 
 ---
 
-### Https://… [^111TRuUQ]. FDA (AccessData) (2025). Medium credibility.
-
-"Contraindications", "4. 1 PDE-5-Inhibitors and sGC-Stimulators", " _ _ Do not use NITROSTAT in patients who are taking PDE-5 Inhibitors, such as avanafil < /u >, sildenafil, tadalafil, vardenafil hydrochloride. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. < /u >. be accompanied by paradoxical bradycardia and increased angina pectoris. Symptoms of severe hypotension may occur even with therapeutic doses. ", "021134", "NDA", "NITROSTAT", "NITROGLYCERIN", "10", "SUPPL ", "http: //www. accessdata. fda. gov/drugsatfda_docs/label/2018/021134s010lbl. pdf", "ApprovedDrugLabel"AdverseReactions", ", ". _ _ NITROSTATiscontraindicatedinpatientswhoareusingaselectiveinhibitorofcyclicguanosinemonophosphate-specificphosphodiesterasetype5. PDE-5-Inhibitorssuchas avanafil, sildenafil, vardenafil, andtadalafilhavebeenshowntopotentiatethehypotensiveeffectsoforganicnitrates. NITROSTATiscontraindicatedinpatientswhoaretakingsolubleguanylatecyclasestimulators. Concomitantusecancausehypotension. < /u >. _ _ Nitroglycerinproducesdose-relatedheadaches, especiallyatthestartofnitroglycerintherapy, which maybesevereandpersist butusuallysubsidewithcontinueduse. ", "021134", "NDA", "NITROSTAT", "NITROGLYCERIN", "10", "SUPPL", "http: //www. accessdata. fda. gov/drugsatfda_docs/label/2018/021134s010lbl. pdf", "ApprovedDrugLabel"Contraindications", ", ".
-
----
-
 ### Sildenafil citrate (Viagra) [^112wvREf]. FDA (2017). Low credibility.
 
 Warnings and precautions regarding the use of sildenafil citrate PO (also known as Viagra):
